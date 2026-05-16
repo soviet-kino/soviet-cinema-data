@@ -1,0 +1,13 @@
+id: tarkovsky-andrei
+name_ru: Андрей Тарковский
+name_original: Андрей Арсеньевич Тарковский
+name_translit: Andrei Tarkovsky
+birth: 1932-04-04
+death: 1986-12-29
+nationality: [SU]
+roles: [director, screenwriter]
+external_ids:
+  wikidata: Q42735
+sources:
+  - https://www.wikidata.org/wiki/Q42735
+schema_version: 1

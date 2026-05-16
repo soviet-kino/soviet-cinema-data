@@ -1,0 +1,32 @@
+id: zerkalo-1974
+title_ru: Зеркало
+title_original: Зеркало
+title_translit: Zerkalo
+title_en: The Mirror
+year: 1974
+country: [SU]
+republic: RSFSR
+studio: [mosfilm]
+director: [tarkovsky-andrei]
+screenwriter: [tarkovsky-andrei, misharin-aleksandr]
+cinematographer: [rerberg-georgy]
+composer: [artemyev-eduard]
+cast:
+  - person: terekhova-margarita
+    role: Мать / Наталья
+  - person: yankovsky-oleg
+    role: Отец
+runtime_min: 107
+language: [ru]
+genre: [drama, autobiographical, poetic_cinema]
+color: color_and_bw
+release_date: 1975-03-07
+production_status: released
+censorship_status: limited_release
+external_ids:
+  wikidata: Q474662
+  imdb: tt0072443
+  tmdb: 8917
+sources:
+  - https://www.wikidata.org/wiki/Q474662
+schema_version: 1

@@ -1,0 +1,20 @@
+id: zerkalo-to-wild-strawberries
+source_film: zerkalo-1974
+target:
+  type: external_film
+  title_ru: Земляничная поляна
+  title_original: Smultronstället
+  year: 1957
+  country: SE
+  director: Ingmar Bergman
+  wikidata: Q193035
+kind: structural
+description_ru: >
+  Структурная организация фильма как путешествия по слоям памяти
+  и сна, монтаж между взрослым «я» и детским «я», ключевая сцена
+  у дома — всё это перекликается с фильмом Бергмана 1957 года.
+  Тарковский сам неоднократно называл Бергмана одним из важнейших
+  для себя авторов.
+confidence: high
+sources: []
+schema_version: 1

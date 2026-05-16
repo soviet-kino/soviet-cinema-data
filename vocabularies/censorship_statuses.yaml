@@ -1,0 +1,23 @@
+# Статусы цензуры/выпуска. Используются в поле `censorship_status` фильма.
+schema_version: 1
+values:
+  - code: released
+    name_ru: Выпущен в прокат
+    description_ru: Без значимых изъятий.
+  - code: limited_release
+    name_ru: Ограниченный прокат
+    description_ru: Например, малое число копий, узкие города, без рекламы.
+  - code: reedited
+    name_ru: Перемонтирован
+    description_ru: Версия в прокате существенно отличается от авторской.
+  - code: shelved
+    name_ru: На полке
+    description_ru: Снят, но не выпущен в прокат на момент производства.
+  - code: banned
+    name_ru: Запрещён
+  - code: lost
+    name_ru: Утрачен
+    description_ru: Завершён, но копии не сохранились.
+  - code: unfinished
+    name_ru: Незавершён
+    description_ru: Производство остановлено до завершения.

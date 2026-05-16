@@ -1,0 +1,28 @@
+id: ostre-sledovane-vlaky-1966
+title_ru: Поезда под пристальным наблюдением
+title_original: Ostře sledované vlaky
+title_translit: Ostre sledovane vlaky
+title_en: Closely Watched Trains
+year: 1966
+country: [CS]
+studio: [barrandov]
+director: [menzel-jiri]
+screenwriter: [hrabal-bohumil, menzel-jiri]
+# TODO: оператор Йомир Шофр (Jaromír Šofr) — добавить people/sofr-jaromir.yaml.
+cast:
+  - person: neckar-vaclav
+    role: Милош Грма
+  - person: somr-josef
+    role: Диспетчер Губичка
+runtime_min: 93
+language: [cs]
+genre: [tragicomedy, drama, war]
+color: bw
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q1006595
+  imdb: tt0060802
+sources:
+  - https://www.wikidata.org/wiki/Q1006595
+schema_version: 1

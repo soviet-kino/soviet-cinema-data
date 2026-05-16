@@ -1,0 +1,68 @@
+# Контролируемый словарь: страны-производители на момент выпуска фильма.
+# Коды выбраны так, чтобы быть короткими, узнаваемыми и не путаться
+# с современными ISO 3166-1 alpha-2 (где, например, CS зарезервирован
+# за Чехословакией исторически, а DD — за ГДР).
+#
+# При добавлении нового кода — отдельный PR с обоснованием.
+schema_version: 1
+values:
+  - code: SU
+    name_ru: СССР
+    name_original: Союз Советских Социалистических Республик
+    name_en: Soviet Union
+    period: [1922-12-30, 1991-12-26]
+    wikidata: Q15180
+  - code: PL
+    name_ru: ПНР
+    name_original: Polska Rzeczpospolita Ludowa
+    name_en: Polish People's Republic
+    period: [1947-02-19, 1989-12-29]
+    wikidata: Q210725
+  - code: CS
+    name_ru: ЧССР
+    name_original: Československá socialistická republika
+    name_en: Czechoslovak Socialist Republic
+    period: [1948-02-25, 1990-04-23]
+    wikidata: Q33946
+  - code: DD
+    name_ru: ГДР
+    name_original: Deutsche Demokratische Republik
+    name_en: German Democratic Republic
+    period: [1949-10-07, 1990-10-03]
+    wikidata: Q16957
+  - code: YU
+    name_ru: СФРЮ
+    name_original: Socijalistička Federativna Republika Jugoslavija
+    name_en: Socialist Federal Republic of Yugoslavia
+    period: [1945-11-29, 1992-04-27]
+    wikidata: Q83286
+  - code: BG
+    name_ru: НРБ
+    name_original: Народна република България
+    name_en: People's Republic of Bulgaria
+    period: [1946-09-15, 1990-11-15]
+    wikidata: Q220798
+  - code: HU
+    name_ru: ВНР
+    name_original: Magyar Népköztársaság
+    name_en: Hungarian People's Republic
+    period: [1949-08-20, 1989-10-23]
+    wikidata: Q47135
+  - code: RO
+    name_ru: СРР
+    name_original: Republica Socialistă România
+    name_en: Socialist Republic of Romania
+    period: [1947-12-30, 1989-12-22]
+    wikidata: Q170468
+  - code: AL
+    name_ru: НСРА
+    name_original: Republika Popullore Socialiste e Shqipërisë
+    name_en: People's Socialist Republic of Albania
+    period: [1946-01-11, 1992-04-29]
+    wikidata: Q204269
+  - code: MN
+    name_ru: МНР
+    name_original: Бүгд Найрамдах Монгол Ард Улс
+    name_en: Mongolian People's Republic
+    period: [1924-11-26, 1992-02-12]
+    wikidata: Q188268

@@ -1,0 +1,72 @@
+# Языки диалога. ISO 639-1 + расширения для малых языков и кодов,
+# которых нет в alpha-2 (тогда alpha-3).
+schema_version: 1
+values:
+  - code: ru
+    name_ru: Русский
+  - code: uk
+    name_ru: Украинский
+  - code: be
+    name_ru: Белорусский
+  - code: ka
+    name_ru: Грузинский
+  - code: hy
+    name_ru: Армянский
+  - code: az
+    name_ru: Азербайджанский
+  - code: uz
+    name_ru: Узбекский
+  - code: kk
+    name_ru: Казахский
+  - code: lt
+    name_ru: Литовский
+  - code: lv
+    name_ru: Латышский
+  - code: et
+    name_ru: Эстонский
+  - code: ky
+    name_ru: Киргизский
+  - code: tg
+    name_ru: Таджикский
+  - code: tk
+    name_ru: Туркменский
+  - code: mo      # молдавский (исторически)
+    name_ru: Молдавский
+  - code: pl
+    name_ru: Польский
+  - code: cs
+    name_ru: Чешский
+  - code: sk
+    name_ru: Словацкий
+  - code: de
+    name_ru: Немецкий
+  - code: hu
+    name_ru: Венгерский
+  - code: ro
+    name_ru: Румынский
+  - code: bg
+    name_ru: Болгарский
+  - code: sr
+    name_ru: Сербский
+  - code: hr
+    name_ru: Хорватский
+  - code: sl
+    name_ru: Словенский
+  - code: mk
+    name_ru: Македонский
+  - code: sq
+    name_ru: Албанский
+  - code: mn
+    name_ru: Монгольский
+  - code: en
+    name_ru: Английский
+  - code: fr
+    name_ru: Французский
+  - code: it
+    name_ru: Итальянский
+  - code: es
+    name_ru: Испанский
+  - code: yi
+    name_ru: Идиш
+  - code: silent
+    name_ru: Без речи (немое)

@@ -1,0 +1,18 @@
+id: stalker-adapts-roadside-picnic
+source_film: stalker-1979
+target:
+  type: book
+  title_ru: Пикник на обочине
+  title_original: Пикник на обочине
+  authors: [strugatsky-arkady, strugatsky-boris]
+  year: 1972
+kind: adaptation
+description_ru: >
+  Сценарий «Сталкера» написан самими Стругацкими на основе их повести
+  «Пикник на обочине» (1972). Финальная редакция сценария сильно
+  отдалилась от первоисточника: исчезает «хабар» и большая часть
+  фантастической атрибутики, а Зона смещается в сторону философской
+  параболы.
+confidence: high
+sources: []
+schema_version: 1

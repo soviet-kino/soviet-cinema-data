@@ -1,0 +1,64 @@
+# Союзные республики СССР.
+# Используется в поле `republic` для фильмов с country: [SU].
+schema_version: 1
+values:
+  - code: RSFSR
+    name_ru: РСФСР
+    name_original: Российская Советская Федеративная Социалистическая Республика
+    wikidata: Q2184
+  - code: UkrSSR
+    name_ru: УССР
+    name_original: Українська Радянська Соціалістична Республіка
+    wikidata: Q15921
+  - code: BSSR
+    name_ru: БССР
+    name_original: Беларуская Савецкая Сацыялістычная Рэспубліка
+    wikidata: Q139319
+  - code: UzSSR
+    name_ru: Узбекская ССР
+    name_original: Ўзбекистон Совет Социалистик Республикаси
+    wikidata: Q484245
+  - code: KazSSR
+    name_ru: Казахская ССР
+    name_original: Қазақ Кеңестік Социалистік Республикасы
+    wikidata: Q192156
+  - code: GeoSSR
+    name_ru: Грузинская ССР
+    name_original: საქართველოს საბჭოთა სოციალისტური რესპუბლიკა
+    wikidata: Q132856
+  - code: AzSSR
+    name_ru: Азербайджанская ССР
+    name_original: Азәрбајҹан Совет Сосиалист Республикасы
+    wikidata: Q170481
+  - code: LitSSR
+    name_ru: Литовская ССР
+    name_original: Lietuvos Tarybų Socialistinė Respublika
+    wikidata: Q192180
+  - code: MoldSSR
+    name_ru: Молдавская ССР
+    name_original: Република Советикэ Сочиалистэ Молдовеняскэ
+    wikidata: Q173074
+  - code: LatSSR
+    name_ru: Латвийская ССР
+    name_original: Latvijas Padomju Sociālistiskā Republika
+    wikidata: Q192199
+  - code: KirgSSR
+    name_ru: Киргизская ССР
+    name_original: Кыргыз Советтик Социалисттик Республикасы
+    wikidata: Q172107
+  - code: TajSSR
+    name_ru: Таджикская ССР
+    name_original: Республикаи Советии Сотсиалистии Тоҷикистон
+    wikidata: Q173392
+  - code: ArmSSR
+    name_ru: Армянская ССР
+    name_original: Հայկական Սովետական Սոցիալիստական Հանրապետություն
+    wikidata: Q132851
+  - code: TurkSSR
+    name_ru: Туркменская ССР
+    name_original: Түркменистан Совет Социалистик Республикасы
+    wikidata: Q170524
+  - code: EstSSR
+    name_ru: Эстонская ССР
+    name_original: Eesti Nõukogude Sotsialistlik Vabariik
+    wikidata: Q132882

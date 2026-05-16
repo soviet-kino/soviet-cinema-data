@@ -1,0 +1,28 @@
+# Виды связей между произведениями (фильм → фильм, фильм → книга, и т.п.).
+schema_version: 1
+values:
+  - code: thematic
+    name_ru: Тематическая отсылка
+    description_ru: Общие темы, мотивы, проблематика без прямого цитирования.
+  - code: visual_quote
+    name_ru: Визуальная цитата
+    description_ru: Прямое заимствование кадра, композиции, мизансцены.
+  - code: structural
+    name_ru: Структурная отсылка
+    description_ru: Заимствование принципов построения сюжета или монтажа.
+  - code: musical
+    name_ru: Музыкальная цитата
+  - code: dialogue
+    name_ru: Цитата в диалоге
+  - code: adaptation
+    name_ru: Экранизация
+    description_ru: Прямая экранизация литературного произведения.
+  - code: remake
+    name_ru: Ремейк
+  - code: homage
+    name_ru: Оммаж
+  - code: parody
+    name_ru: Пародия
+  - code: response
+    name_ru: Полемический ответ
+    description_ru: Фильм построен как ответ или возражение другому фильму.

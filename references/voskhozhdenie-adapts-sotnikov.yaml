@@ -1,0 +1,17 @@
+id: voskhozhdenie-adapts-sotnikov
+source_film: voskhozhdenie-1977
+target:
+  type: book
+  title_ru: Сотников
+  title_original: Сотнікаў
+  authors: [bykov-vasil]
+  year: 1970
+kind: adaptation
+description_ru: >
+  Фильм Шепитько — экранизация повести Василя Быкова «Сотников» (1970).
+  По сравнению с прозой Быкова режиссёр усиливает религиозно-евангельский
+  пласт: оппозиция «Сотников — Рыбак» приобретает черты пары
+  «мученик — Иуда», особенно в финальной сцене казни.
+confidence: high
+sources: []
+schema_version: 1

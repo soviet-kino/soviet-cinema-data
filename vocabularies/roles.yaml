@@ -1,0 +1,33 @@
+# Производственные роли. Используются в `people.roles` и в полях фильма.
+schema_version: 1
+values:
+  - code: director
+    name_ru: Режиссёр
+  - code: screenwriter
+    name_ru: Сценарист
+  - code: cinematographer
+    name_ru: Оператор
+  - code: composer
+    name_ru: Композитор
+  - code: editor
+    name_ru: Монтажёр
+  - code: production_designer
+    name_ru: Художник-постановщик
+  - code: costume_designer
+    name_ru: Художник по костюмам
+  - code: sound_designer
+    name_ru: Звукорежиссёр
+  - code: producer
+    name_ru: Продюсер
+  - code: actor
+    name_ru: Актёр
+  - code: actress
+    name_ru: Актриса
+  - code: author      # автор литературного первоисточника
+    name_ru: Автор первоисточника
+  - code: animator
+    name_ru: Аниматор
+  - code: choreographer
+    name_ru: Хореограф
+  - code: lyricist
+    name_ru: Автор текстов песен

@@ -1,0 +1,33 @@
+id: stalker-1979
+title_ru: Сталкер
+title_original: Сталкер
+title_translit: Stalker
+title_en: Stalker
+year: 1979
+country: [SU]
+republic: RSFSR
+studio: [mosfilm]
+director: [tarkovsky-andrei]
+# Сценарий — по повести «Пикник на обочине» Стругацких; сценарий писали сами братья.
+screenwriter: [strugatsky-arkady, strugatsky-boris]
+# TODO: cinematographer — атрибуция спорная (Княжинский после конфликта с Рербергом и переснятого материала). Уточнить и при необходимости отдельный комментарий в эссе.
+composer: [artemyev-eduard]
+cast:
+  - person: kaidanovsky-aleksandr
+    role: Сталкер
+  - person: solonitsyn-anatoly
+    role: Писатель
+  - person: grinko-nikolai
+    role: Профессор
+runtime_min: 161
+language: [ru]
+genre: [science_fiction, drama, parable, poetic_cinema]
+color: color_and_bw
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q186652
+  imdb: tt0079944
+sources:
+  - https://www.wikidata.org/wiki/Q186652
+schema_version: 1

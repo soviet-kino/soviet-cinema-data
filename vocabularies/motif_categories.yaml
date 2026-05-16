@@ -1,0 +1,35 @@
+# Категории мотивов. Один мотив может относиться к нескольким категориям.
+schema_version: 1
+values:
+  - code: visual
+    name_ru: Визуальный
+    description_ru: Повторяющийся визуальный образ или приём.
+  - code: aural
+    name_ru: Звуковой
+    description_ru: Музыкальный или шумовой мотив.
+  - code: temporal
+    name_ru: Временной
+    description_ru: Связан со структурой времени, памяти, повторов.
+  - code: spatial
+    name_ru: Пространственный
+    description_ru: Связан с местом действия, ландшафтом, интерьером.
+  - code: bodily
+    name_ru: Телесный
+    description_ru: Жест, поза, физическое состояние.
+  - code: ideological
+    name_ru: Идеологический
+    description_ru: Скрытое или явное идейное содержание.
+  - code: religious
+    name_ru: Религиозный
+  - code: mythological
+    name_ru: Мифологический
+  - code: folkloric
+    name_ru: Фольклорный
+  - code: literary
+    name_ru: Литературный
+    description_ru: Отсылка к литературному канону.
+  - code: political
+    name_ru: Политический
+    description_ru: Включая эзопов язык и фигуры умолчания.
+  - code: existential
+    name_ru: Экзистенциальный

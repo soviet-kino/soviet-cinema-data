@@ -1,0 +1,27 @@
+id: popiol-i-diament-1958
+title_ru: Пепел и алмаз
+title_original: Popiół i diament
+title_translit: Popiol i diament
+title_en: Ashes and Diamonds
+year: 1958
+country: [PL]
+studio: [zespol-kadr]
+director: [wajda-andrzej]
+screenwriter: [andrzejewski-jerzy, wajda-andrzej]
+# TODO: оператор — Ежи Вуйцик (Jerzy Wójcik). Создать people/wojcik-jerzy.yaml перед добавлением.
+cast:
+  - person: cybulski-zbigniew
+    role: Мацек Хелмицкий
+  - person: krzyzewska-ewa
+    role: Кристина
+runtime_min: 103
+language: [pl]
+genre: [drama, war, historical]
+color: bw
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q762281
+sources:
+  - https://www.wikidata.org/wiki/Q762281
+schema_version: 1

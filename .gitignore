@@ -1,0 +1,19 @@
+# Сгенерированные отчёты валидатора и импорта
+/reports/*.json
+/reports/*.yaml
+/reports/*.log
+!/reports/.gitkeep
+
+# Локальные настройки IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Питоновские артефакты (если кто-то запускает tools отсюда)
+__pycache__/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,31 @@
+id: voskhozhdenie-1977
+title_ru: Восхождение
+title_original: Восхождение
+title_translit: Voskhozhdenie
+title_en: The Ascent
+year: 1977
+country: [SU]
+republic: RSFSR
+studio: [mosfilm]
+director: [shepitko-larisa]
+# Сценарий по повести «Сотников» Василя Быкова. Сценаристы — Юрий Клепиков и Лариса Шепитько.
+# TODO: завести people/klepikov-yuri.yaml перед добавлением второго сценариста.
+screenwriter: [shepitko-larisa, bykov-vasil]
+composer: [schnittke-alfred]
+cast:
+  - person: plotnikov-boris
+    role: Сотников
+  - person: gostyukhin-vladimir
+    role: Рыбак
+runtime_min: 111
+language: [ru]
+genre: [drama, war, parable]
+color: bw
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q2410470
+  imdb: tt0075404
+sources:
+  - https://www.wikidata.org/wiki/Q2410470
+schema_version: 1

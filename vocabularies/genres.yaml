@@ -1,0 +1,53 @@
+# Жанры. Стартовый набор; расширяется по PR.
+schema_version: 1
+values:
+  - code: drama
+    name_ru: Драма
+  - code: comedy
+    name_ru: Комедия
+  - code: tragicomedy
+    name_ru: Трагикомедия
+  - code: melodrama
+    name_ru: Мелодрама
+  - code: war
+    name_ru: Военный
+  - code: historical
+    name_ru: Исторический
+  - code: biographical
+    name_ru: Биографический
+  - code: autobiographical
+    name_ru: Автобиографический
+  - code: documentary
+    name_ru: Документальный
+  - code: science_fiction
+    name_ru: Научная фантастика
+  - code: fantasy
+    name_ru: Фэнтези
+  - code: fairy_tale
+    name_ru: Сказка
+  - code: thriller
+    name_ru: Триллер
+  - code: detective
+    name_ru: Детектив
+  - code: noir
+    name_ru: Нуар
+  - code: musical
+    name_ru: Музыкальный
+  - code: animation
+    name_ru: Анимация
+  - code: childrens
+    name_ru: Детское кино
+  - code: adventure
+    name_ru: Приключения
+  - code: road_movie
+    name_ru: Роуд-муви
+  - code: parable
+    name_ru: Притча
+  - code: short
+    name_ru: Короткометражка
+  - code: experimental
+    name_ru: Экспериментальный
+  - code: art_house
+    name_ru: Артхаус
+  - code: poetic_cinema
+    name_ru: Поэтическое кино
