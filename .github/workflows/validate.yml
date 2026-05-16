@@ -1,0 +1,29 @@
+name: validate
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # tools живут в соседнем репо. Ставим main — это согласованный с data
+      # «релиз» валидатора. При несовместимых изменениях схемы выпускается
+      # отдельный PR в tools, и только потом разрешается мердж data.
+      - name: Install soviet-cinema-tools
+        run: |
+          python -m pip install --upgrade pip
+          pip install "git+https://github.com/soviet-kino/soviet-cinema-tools.git@main"
+
+      - name: Validate schema and references
+        run: sbc-validate .
