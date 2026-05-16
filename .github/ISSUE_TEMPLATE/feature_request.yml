@@ -1,0 +1,47 @@
+name: ✨ Фича / предложение
+description: Идея улучшения функциональности или процессов
+labels: ["enhancement", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Для **поправок в данных** есть отдельный шаблон в репозитории
+        `soviet-cinema-data`. Для **предложений разборов** —
+        в `soviet-cinema-essays`.
+
+  - type: input
+    id: repo
+    attributes:
+      label: В каком репозитории
+      placeholder: soviet-cinema-web
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Какую проблему решает
+      description: Что сейчас неудобно или невозможно.
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Предлагаемое решение
+      description: Как должно работать после изменения.
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Альтернативы
+      description: Какие подходы рассматривались и почему не подошли.
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: Готовы ли сделать сами
+      description: PR приветствуется. Если планируете — обозначьте, кто работает.
+      placeholder: Готов сделать PR / нужна помощь / только предложение

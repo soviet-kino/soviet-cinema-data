@@ -1,0 +1,16 @@
+# Дефолтный конфиг шаблонов issues для всей организации.
+# В отдельных репозиториях может быть свой config.yml, тогда он перекрывает этот.
+
+blank_issues_enabled: false
+
+contact_links:
+  - name: Вопрос или обсуждение
+    url: https://github.com/orgs/soviet-kino/discussions
+    about: >
+      Для общих вопросов, идей о развитии проекта и обсуждения подходов —
+      пожалуйста, в Discussions, а не issues.
+  - name: Уязвимость в безопасности
+    url: https://github.com/soviet-kino/.github/blob/main/SECURITY.md
+    about: >
+      Не публикуйте уязвимости в открытых issues. Воспользуйтесь private
+      security advisory или email — см. SECURITY.md.

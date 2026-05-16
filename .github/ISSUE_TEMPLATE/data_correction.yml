@@ -1,0 +1,62 @@
+name: 📝 Поправка в данных
+description: Факт в YAML неверен или устарел
+labels: ["data-correction", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Этот шаблон — для **поправок существующих фактов**: даты, имена,
+        статус, идентификатор. Для добавления **нового фильма/человека/студии**
+        откройте PR напрямую — так быстрее. Для нового значения в словарь —
+        используйте отдельный шаблон «Добавить в словарь».
+
+  - type: input
+    id: entity_path
+    attributes:
+      label: Путь к файлу
+      description: Например, `films/zerkalo-1974.yaml` или `people/tarkovsky-andrei.yaml`.
+      placeholder: films/stalker-1979.yaml
+    validations:
+      required: true
+
+  - type: input
+    id: field
+    attributes:
+      label: Какое поле
+      placeholder: cinematographer / release_date / external_ids.imdb
+    validations:
+      required: true
+
+  - type: input
+    id: current
+    attributes:
+      label: Что сейчас
+      description: Скопируйте текущее значение из YAML.
+    validations:
+      required: true
+
+  - type: input
+    id: proposed
+    attributes:
+      label: Как должно быть
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Источники
+      description: |
+        Ссылки на Wikidata, статьи, монографии, титры фильма, киноведческие
+        публикации. Без проверяемых источников поправку не принимаем.
+      placeholder: |
+        - https://www.wikidata.org/wiki/Q186652
+        - Туровская М. Семь с половиной, или Фильмы Андрея Тарковского, 1991, с. 142.
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Комментарии
+      description: Почему поправка нужна; контекст; если случай неоднозначный — варианты.

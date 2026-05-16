@@ -1,0 +1,58 @@
+name: 📚 Добавить в словарь
+description: Новое значение в один из контролируемых словарей
+labels: ["vocabulary", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Любое новое значение в контролируемые словари — через issue или PR
+        в `vocabularies/`, не на лету в файлах сущностей.
+
+  - type: dropdown
+    id: vocab
+    attributes:
+      label: Какой словарь
+      options:
+        - countries
+        - republics
+        - genres
+        - roles
+        - motif_categories
+        - reference_kinds
+        - censorship_statuses
+        - languages
+    validations:
+      required: true
+
+  - type: input
+    id: code
+    attributes:
+      label: Код значения
+      description: |
+        kebab-case или короткий код. Например, `tragicomedy`, `EstSSR`, `mn`.
+      placeholder: poetic_documentary
+    validations:
+      required: true
+
+  - type: input
+    id: name_ru
+    attributes:
+      label: Название по-русски
+    validations:
+      required: true
+
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Зачем нужно
+      description: |
+        В каком случае текущих значений недостаточно. По возможности —
+        ссылка на конкретный фильм/мотив, для которого нужно это значение.
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Источники
+      description: Откуда взято название и определение.

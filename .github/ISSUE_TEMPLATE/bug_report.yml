@@ -1,0 +1,61 @@
+name: 🐛 Баг
+description: Что-то сломано или работает не так, как описано
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что нашли время сообщить о баге. Пожалуйста, заполните как
+        можно больше полей — это сильно ускоряет диагностику.
+
+  - type: input
+    id: repo
+    attributes:
+      label: В каком репозитории
+      description: data / essays / web / tools / .github
+      placeholder: soviet-cinema-web
+    validations:
+      required: true
+
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Что вы сделали и что увидели. По возможности — точная команда, путь, ссылка.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Что ожидалось
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Шаги воспроизведения
+      description: По возможности — минимальный набор шагов от чистого состояния.
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Окружение
+      description: OS, версия Node/Python, ветка/коммит, браузер для веба.
+      placeholder: |
+        OS: Fedora 43
+        Node: 20.x
+        Python: 3.12
+        Commit: abc1234
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Логи / трассировка
+      description: Если есть.
+      render: shell
