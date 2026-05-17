@@ -1,0 +1,13 @@
+id: nachalo-1970
+title_ru: Начало
+title_original: Начало
+year: 1970
+country:
+- SU
+runtime_min: 86
+external_ids:
+  wikidata: Q3222490
+  imdb: tt0066124
+sources:
+- https://www.wikidata.org/wiki/Q3222490
+schema_version: 1

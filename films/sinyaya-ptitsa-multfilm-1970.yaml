@@ -1,0 +1,13 @@
+id: sinyaya-ptitsa-multfilm-1970
+title_ru: Синяя птица (мультфильм)
+title_original: Синяя птица (мультфильм)
+year: 1970
+country:
+- SU
+runtime_min: 50
+external_ids:
+  wikidata: Q4420648
+  imdb: tt0211627
+sources:
+- https://www.wikidata.org/wiki/Q4420648
+schema_version: 1

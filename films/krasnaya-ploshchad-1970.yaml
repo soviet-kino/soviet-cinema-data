@@ -1,0 +1,13 @@
+id: krasnaya-ploshchad-1970
+title_ru: Красная площадь
+title_original: Красная площадь
+year: 1970
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q4238145
+  imdb: tt0173968
+sources:
+- https://www.wikidata.org/wiki/Q4238145
+schema_version: 1

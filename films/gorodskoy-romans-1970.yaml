@@ -1,0 +1,13 @@
+id: gorodskoy-romans-1970
+title_ru: Городской романс
+title_original: Городской романс
+year: 1970
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q4145693
+  imdb: tt0175681
+sources:
+- https://www.wikidata.org/wiki/Q4145693
+schema_version: 1

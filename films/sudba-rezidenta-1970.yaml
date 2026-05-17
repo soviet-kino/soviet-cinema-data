@@ -1,0 +1,13 @@
+id: sudba-rezidenta-1970
+title_ru: Судьба резидента
+title_original: Судьба резидента
+year: 1970
+country:
+- SU
+runtime_min: 157
+external_ids:
+  wikidata: Q4445545
+  imdb: tt0314736
+sources:
+- https://www.wikidata.org/wiki/Q4445545
+schema_version: 1

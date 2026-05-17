@@ -1,0 +1,13 @@
+id: chaykovskiy-1970
+title_ru: Чайковский
+title_original: Чайковский
+year: 1970
+country:
+- SU
+runtime_min: 157
+external_ids:
+  wikidata: Q1634319
+  imdb: tt0065127
+sources:
+- https://www.wikidata.org/wiki/Q1634319
+schema_version: 1

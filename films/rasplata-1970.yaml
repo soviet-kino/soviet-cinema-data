@@ -1,0 +1,13 @@
+id: rasplata-1970
+title_ru: Расплата
+title_original: Расплата
+year: 1970
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q4390238
+  imdb: tt0066284
+sources:
+- https://www.wikidata.org/wiki/Q4390238
+schema_version: 1

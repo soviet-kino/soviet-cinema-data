@@ -1,0 +1,13 @@
+id: vaterloo-1970
+title_ru: Ватерлоо
+title_original: Ватерлоо
+year: 1970
+country:
+- SU
+runtime_min: 134
+external_ids:
+  wikidata: Q1604818
+  imdb: tt0066549
+sources:
+- https://www.wikidata.org/wiki/Q1604818
+schema_version: 1
