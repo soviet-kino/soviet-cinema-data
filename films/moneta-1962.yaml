@@ -1,0 +1,13 @@
+id: moneta-1962
+title_ru: Монета
+title_original: Монета
+year: 1962
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4301700
+  imdb: tt0170257
+sources:
+- https://www.wikidata.org/wiki/Q4301700
+schema_version: 1

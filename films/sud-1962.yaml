@@ -1,0 +1,13 @@
+id: sud-1962
+title_ru: Суд
+title_original: Суд
+year: 1962
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q4445296
+  imdb: tt0167420
+sources:
+- https://www.wikidata.org/wiki/Q4445296
+schema_version: 1

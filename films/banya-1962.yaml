@@ -1,0 +1,14 @@
+id: banya-1962
+title_ru: Баня
+title_original: Баня
+year: 1962
+country:
+- SU
+# TODO: runtime_min — в Wikidata указано аномальное значение 3192,
+# отброшено импортёром. Уточнить вручную из титров.
+external_ids:
+  wikidata: Q20636418
+  imdb: tt0054662
+sources:
+- https://www.wikidata.org/wiki/Q20636418
+schema_version: 1
