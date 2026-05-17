@@ -1,0 +1,16 @@
+id: svadba-1964-by-chekhov
+source_film: svadba-1964
+target:
+  type: book
+  title_ru: Свадьба
+  title_original: Свадьба
+  authors:
+  - chekhov-anton
+  year: 1889
+kind: adaptation
+description_ru: Фильм «Свадьба» (1964) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

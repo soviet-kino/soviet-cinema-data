@@ -1,0 +1,12 @@
+id: pushkin-aleksandr
+name_ru: Александр Пушкин
+name_original: Александр Сергеевич Пушкин
+birth: '1799-06-06'
+death: '1837-02-10'
+roles:
+- author
+external_ids:
+  wikidata: Q7200
+sources:
+- https://www.wikidata.org/wiki/Q7200
+schema_version: 1

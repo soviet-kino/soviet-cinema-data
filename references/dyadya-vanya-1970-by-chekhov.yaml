@@ -1,0 +1,16 @@
+id: dyadya-vanya-1970-by-chekhov
+source_film: dyadya-vanya-1970
+target:
+  type: book
+  title_ru: Дядя Ваня
+  title_original: Дядя Ваня
+  authors:
+  - chekhov-anton
+  year: 1897
+kind: adaptation
+description_ru: Фильм «Дядя Ваня» (1970) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

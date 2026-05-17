@@ -1,0 +1,16 @@
+id: skazka-o-pope-i-o-rabotnike-ego-balde-multfilm-1973-1973-by-pushkin
+source_film: skazka-o-pope-i-o-rabotnike-ego-balde-multfilm-1973-1973
+target:
+  type: book
+  title_ru: Сказка о попе и работнике
+  title_original: Сказка о попе и работнике
+  authors:
+  - pushkin-aleksandr
+  year: 1830
+kind: adaptation
+description_ru: Фильм «Сказка о попе и о работнике его Балде (мультфильм, 1973)» (1973)
+  — по одноимённому или близкому произведению автора. Привязка сделана автоматически
+  по совпадению названия — требует проверки редактором.
+confidence: medium
+sources: []
+schema_version: 1

@@ -1,0 +1,16 @@
+id: dvoryanskoe-gnezdo-1969-by-turgenev
+source_film: dvoryanskoe-gnezdo-1969
+target:
+  type: book
+  title_ru: Дворянское гнездо
+  title_original: Дворянское гнездо
+  authors:
+  - turgenev-ivan
+  year: 1859
+kind: adaptation
+description_ru: Фильм «Дворянское гнездо» (1969) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

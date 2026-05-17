@@ -1,0 +1,15 @@
+id: rudin-1977-by-turgenev
+source_film: rudin-1977
+target:
+  type: book
+  title_ru: Рудин
+  title_original: Рудин
+  authors:
+  - turgenev-ivan
+  year: 1856
+kind: adaptation
+description_ru: Фильм «Рудин» (1977) — по одноимённому или близкому произведению автора.
+  Привязка сделана автоматически по совпадению названия — требует проверки редактором.
+confidence: medium
+sources: []
+schema_version: 1

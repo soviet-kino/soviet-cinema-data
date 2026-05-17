@@ -1,0 +1,16 @@
+id: kalina-krasnaya-1974-by-shukshin
+source_film: kalina-krasnaya-1974
+target:
+  type: book
+  title_ru: Калина красная
+  title_original: Калина красная
+  authors:
+  - shukshin-vasiliy
+  year: 1973
+kind: adaptation
+description_ru: Фильм «Калина красная» (1974) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

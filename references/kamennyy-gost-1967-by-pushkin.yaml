@@ -1,0 +1,16 @@
+id: kamennyy-gost-1967-by-pushkin
+source_film: kamennyy-gost-1967
+target:
+  type: book
+  title_ru: Каменный гость
+  title_original: Каменный гость
+  authors:
+  - pushkin-aleksandr
+  year: 1830
+kind: adaptation
+description_ru: Фильм «Каменный гость» (1967) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

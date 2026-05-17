@@ -1,0 +1,12 @@
+id: tolstoy-lev
+name_ru: Лев Толстой
+name_original: Лев Николаевич Толстой
+birth: '1828-09-09'
+death: '1910-11-20'
+roles:
+- author
+external_ids:
+  wikidata: Q7243
+sources:
+- https://www.wikidata.org/wiki/Q7243
+schema_version: 1

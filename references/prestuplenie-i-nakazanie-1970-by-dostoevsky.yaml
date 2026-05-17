@@ -1,0 +1,16 @@
+id: prestuplenie-i-nakazanie-1970-by-dostoevsky
+source_film: prestuplenie-i-nakazanie-1970
+target:
+  type: book
+  title_ru: Преступление и наказание
+  title_original: Преступление и наказание
+  authors:
+  - dostoevsky-fyodor
+  year: 1866
+kind: adaptation
+description_ru: Фильм «Преступление и наказание» (1970) — по одноимённому или близкому
+  произведению автора. Привязка сделана автоматически по совпадению названия — требует
+  проверки редактором.
+confidence: medium
+sources: []
+schema_version: 1

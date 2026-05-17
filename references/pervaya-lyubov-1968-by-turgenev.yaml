@@ -1,0 +1,16 @@
+id: pervaya-lyubov-1968-by-turgenev
+source_film: pervaya-lyubov-1968
+target:
+  type: book
+  title_ru: Первая любовь
+  title_original: Первая любовь
+  authors:
+  - turgenev-ivan
+  year: 1860
+kind: adaptation
+description_ru: Фильм «Первая любовь» (1968) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

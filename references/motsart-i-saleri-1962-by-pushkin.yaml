@@ -1,0 +1,16 @@
+id: motsart-i-saleri-1962-by-pushkin
+source_film: motsart-i-saleri-1962
+target:
+  type: book
+  title_ru: Моцарт и Сальери
+  title_original: Моцарт и Сальери
+  authors:
+  - pushkin-aleksandr
+  year: 1830
+kind: adaptation
+description_ru: Фильм «Моцарт и Сальери» (1962) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

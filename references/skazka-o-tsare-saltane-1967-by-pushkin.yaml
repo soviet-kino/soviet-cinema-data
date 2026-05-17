@@ -1,0 +1,16 @@
+id: skazka-o-tsare-saltane-1967-by-pushkin
+source_film: skazka-o-tsare-saltane-1967
+target:
+  type: book
+  title_ru: Сказка о царе Салтане
+  title_original: Сказка о царе Салтане
+  authors:
+  - pushkin-aleksandr
+  year: 1832
+kind: adaptation
+description_ru: Фильм «Сказка о царе Салтане» (1967) — по одноимённому или близкому
+  произведению автора. Привязка сделана автоматически по совпадению названия — требует
+  проверки редактором.
+confidence: medium
+sources: []
+schema_version: 1

@@ -1,0 +1,12 @@
+id: chekhov-anton
+name_ru: Антон Чехов
+name_original: Антон Павлович Чехов
+birth: '1860-01-29'
+death: '1904-07-15'
+roles:
+- author
+external_ids:
+  wikidata: Q5685
+sources:
+- https://www.wikidata.org/wiki/Q5685
+schema_version: 1
