@@ -1,0 +1,9 @@
+id: pre-war-cinema
+name_ru: Довоенное кино
+description_ru: Советские фильмы 1917–1941 годов — от первой кинематографической волны
+  Революции до начала Великой Отечественной войны.
+filter:
+  year_from: 1917
+  year_to: 1941
+  country: SU
+schema_version: 1

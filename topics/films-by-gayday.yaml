@@ -1,0 +1,6 @@
+id: films-by-gayday
+name_ru: Кино Гайдая
+description_ru: Фильмы режиссёра Леонида Гайдая.
+filter:
+  director: gayday-leonid
+schema_version: 1

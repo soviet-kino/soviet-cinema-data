@@ -1,0 +1,6 @@
+id: films-by-bulychev
+name_ru: Кино Кира Булычёва
+description_ru: Фильмы по произведениям Кира Булычёва.
+filter:
+  book_author: bulychyov-kir
+schema_version: 1

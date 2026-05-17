@@ -1,0 +1,9 @@
+id: thaw-cinema
+name_ru: Оттепель
+description_ru: Кино периода хрущёвской оттепели (1953–1964). Новое поколение режиссёров,
+  поэтическое кино, военная драма, лирическая комедия.
+filter:
+  year_from: 1953
+  year_to: 1964
+  country: SU
+schema_version: 1

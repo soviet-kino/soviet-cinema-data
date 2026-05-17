@@ -1,0 +1,6 @@
+id: films-by-strugatsky
+name_ru: Кино Стругацких
+description_ru: Фильмы, в основе которых произведения Аркадия и Бориса Стругацких.
+filter:
+  book_author: strugatsky-arkady
+schema_version: 1

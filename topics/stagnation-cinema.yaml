@@ -1,0 +1,9 @@
+id: stagnation-cinema
+name_ru: Застой
+description_ru: Кино эпохи Брежнева — позднего советского периода (1964–1985). Зрелое
+  жанровое кино, авторское высказывание под прессом цензуры, эзопов язык.
+filter:
+  year_from: 1964
+  year_to: 1985
+  country: SU
+schema_version: 1

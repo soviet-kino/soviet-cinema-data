@@ -1,0 +1,6 @@
+id: films-by-tarkovsky
+name_ru: Кино Тарковского
+description_ru: Полнометражные художественные фильмы Андрея Тарковского.
+filter:
+  director: tarkovsky-andrei
+schema_version: 1
