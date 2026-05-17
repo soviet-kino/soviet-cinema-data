@@ -1,0 +1,13 @@
+id: ostrov-koldun-film-1964
+title_ru: Остров Колдун (фильм)
+title_original: Остров Колдун (фильм)
+year: 1964
+country:
+- SU
+runtime_min: 64
+external_ids:
+  wikidata: Q15270894
+  imdb: tt0499539
+sources:
+- https://www.wikidata.org/wiki/Q15270894
+schema_version: 1
