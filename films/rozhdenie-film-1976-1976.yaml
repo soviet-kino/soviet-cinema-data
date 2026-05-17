@@ -1,0 +1,13 @@
+id: rozhdenie-film-1976-1976
+title_ru: Рождение (фильм, 1976)
+title_original: Рождение (фильм, 1976)
+year: 1976
+country:
+- SU
+runtime_min: 142
+external_ids:
+  wikidata: Q20511041
+  imdb: tt0414696
+sources:
+- https://www.wikidata.org/wiki/Q20511041
+schema_version: 1

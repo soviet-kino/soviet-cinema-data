@@ -1,0 +1,13 @@
+id: po-sekretu-vsemu-svetu-film-1976
+title_ru: По секрету всему свету (фильм)
+title_original: По секрету всему свету (фильм)
+year: 1976
+country:
+- SU
+runtime_min: 121
+external_ids:
+  wikidata: Q4366104
+  imdb: tt2104965
+sources:
+- https://www.wikidata.org/wiki/Q4366104
+schema_version: 1
