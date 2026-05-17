@@ -1,0 +1,13 @@
+id: reys-pervyy-reys-posledniy-1975
+title_ru: Рейс первый, рейс последний
+title_original: Рейс первый, рейс последний
+year: 1975
+country:
+- SU
+runtime_min: 77
+external_ids:
+  wikidata: Q84994375
+  imdb: tt4837468
+sources:
+- https://www.wikidata.org/wiki/Q84994375
+schema_version: 1

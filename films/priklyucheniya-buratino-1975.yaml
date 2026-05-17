@@ -1,0 +1,13 @@
+id: priklyucheniya-buratino-1975
+title_ru: Приключения Буратино
+title_original: Приключения Буратино
+year: 1975
+country:
+- SU
+runtime_min: 132
+external_ids:
+  wikidata: Q3739484
+  imdb: tt0073570
+sources:
+- https://www.wikidata.org/wiki/Q3739484
+schema_version: 1

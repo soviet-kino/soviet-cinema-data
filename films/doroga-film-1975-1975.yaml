@@ -1,0 +1,13 @@
+id: doroga-film-1975-1975
+title_ru: Дорога (фильм, 1975)
+title_original: Дорога (фильм, 1975)
+year: 1975
+country:
+- SU
+runtime_min: 64
+external_ids:
+  wikidata: Q65200730
+  imdb: tt4842572
+sources:
+- https://www.wikidata.org/wiki/Q65200730
+schema_version: 1

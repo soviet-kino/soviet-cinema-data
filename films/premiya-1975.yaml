@@ -1,0 +1,13 @@
+id: premiya-1975
+title_ru: Премия
+title_original: Премия
+year: 1975
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q4376921
+  imdb: tt0072027
+sources:
+- https://www.wikidata.org/wiki/Q4376921
+schema_version: 1

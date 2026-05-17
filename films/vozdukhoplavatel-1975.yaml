@@ -1,0 +1,13 @@
+id: vozdukhoplavatel-1975
+title_ru: Воздухоплаватель
+title_original: Воздухоплаватель
+year: 1975
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q4114744
+  imdb: tt0073873
+sources:
+- https://www.wikidata.org/wiki/Q4114744
+schema_version: 1

@@ -1,0 +1,13 @@
+id: salyut-1975
+title_ru: Салют
+title_original: Салют
+year: 1975
+country:
+- SU
+runtime_min: 397
+external_ids:
+  wikidata: Q104896401
+  imdb: tt6839130
+sources:
+- https://www.wikidata.org/wiki/Q104896401
+schema_version: 1

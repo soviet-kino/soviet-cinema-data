@@ -1,0 +1,13 @@
+id: pobeditel-film-1975-1975
+title_ru: Победитель (фильм, 1975)
+title_original: Победитель (фильм, 1975)
+year: 1975
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q97662915
+  imdb: tt4054920
+sources:
+- https://www.wikidata.org/wiki/Q97662915
+schema_version: 1
