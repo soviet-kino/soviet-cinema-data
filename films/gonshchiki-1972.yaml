@@ -1,0 +1,13 @@
+id: gonshchiki-1972
+title_ru: Гонщики
+title_original: Гонщики
+year: 1972
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q4143312
+  imdb: tt0068647
+sources:
+- https://www.wikidata.org/wiki/Q4143312
+schema_version: 1

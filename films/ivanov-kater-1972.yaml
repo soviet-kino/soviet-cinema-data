@@ -1,0 +1,13 @@
+id: ivanov-kater-1972
+title_ru: Иванов катер
+title_original: Иванов катер
+year: 1972
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q28665850
+  imdb: tt0176861
+sources:
+- https://www.wikidata.org/wiki/Q28665850
+schema_version: 1

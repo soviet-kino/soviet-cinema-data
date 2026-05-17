@@ -1,0 +1,13 @@
+id: peters-1972
+title_ru: Петерс
+title_original: Петерс
+year: 1972
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q4360260
+  imdb: tt2395371
+sources:
+- https://www.wikidata.org/wiki/Q4360260
+schema_version: 1

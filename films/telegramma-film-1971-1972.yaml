@@ -1,0 +1,13 @@
+id: telegramma-film-1971-1972
+title_ru: Телеграмма (фильм, 1971)
+title_original: Телеграмма (фильм, 1971)
+year: 1972
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q4453991
+  imdb: tt0067838
+sources:
+- https://www.wikidata.org/wiki/Q4453991
+schema_version: 1
