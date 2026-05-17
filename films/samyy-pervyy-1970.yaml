@@ -1,0 +1,13 @@
+id: samyy-pervyy-1970
+title_ru: Самый первый
+title_original: Самый первый
+year: 1970
+country:
+- SU
+runtime_min: 222
+external_ids:
+  wikidata: Q4407202
+  imdb: tt1075395
+sources:
+- https://www.wikidata.org/wiki/Q4407202
+schema_version: 1

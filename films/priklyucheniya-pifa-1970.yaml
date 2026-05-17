@@ -1,0 +1,13 @@
+id: priklyucheniya-pifa-1970
+title_ru: Приключения Пифа
+title_original: Приключения Пифа
+year: 1970
+country:
+- SU
+runtime_min: 35
+external_ids:
+  wikidata: Q60850950
+  imdb: tt6258714
+sources:
+- https://www.wikidata.org/wiki/Q60850950
+schema_version: 1

@@ -1,0 +1,13 @@
+id: pismo-multfilm-1970
+title_ru: Письмо (мультфильм)
+title_original: Письмо (мультфильм)
+year: 1970
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4363767
+  imdb: tt0393595
+sources:
+- https://www.wikidata.org/wiki/Q4363767
+schema_version: 1

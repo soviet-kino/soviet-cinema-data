@@ -1,0 +1,12 @@
+id: moya-ulitsa-1970
+title_ru: Моя улица
+title_original: Моя улица
+year: 1970
+country:
+- SU
+external_ids:
+  wikidata: Q4305481
+  imdb: tt2626930
+sources:
+- https://www.wikidata.org/wiki/Q4305481
+schema_version: 1

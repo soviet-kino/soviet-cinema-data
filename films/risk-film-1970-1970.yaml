@@ -1,0 +1,13 @@
+id: risk-film-1970-1970
+title_ru: Риск (фильм, 1970)
+title_original: Риск (фильм, 1970)
+year: 1970
+country:
+- SU
+runtime_min: 73
+external_ids:
+  wikidata: Q65200846
+  imdb: tt0066303
+sources:
+- https://www.wikidata.org/wiki/Q65200846
+schema_version: 1
