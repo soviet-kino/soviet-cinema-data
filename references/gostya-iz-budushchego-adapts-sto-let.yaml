@@ -1,0 +1,18 @@
+id: gostya-iz-budushchego-adapts-sto-let
+source_film: gostya-iz-budushchego-1984
+target:
+  type: book
+  title_ru: Сто лет тому вперёд
+  title_original: Сто лет тому вперёд
+  authors:
+  - bulychyov-kir
+  year: 1978
+kind: adaptation
+description_ru: >
+  «Гостья из будущего» — экранизация повести Кира Булычёва
+  «Сто лет тому вперёд» (1978) из цикла приключений Алисы Селезнёвой.
+  Режиссёр Павел Арсенов адаптировал часть сюжетных линий повести,
+  сохранив центральную идею путешествия пионера Коли в XXI век.
+confidence: high
+sources: []
+schema_version: 1

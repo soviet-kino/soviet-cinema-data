@@ -1,0 +1,17 @@
+id: lilovyy-shar-adapts-bulychev
+source_film: lilovyy-shar-1987
+target:
+  type: book
+  title_ru: Лиловый шар
+  title_original: Лиловый шар
+  authors:
+  - bulychyov-kir
+kind: adaptation
+description_ru: >
+  Фильм Павла Арсенова — экранизация одноимённой повести Кира Булычёва
+  из цикла об Алисе. Сюжет про путешествие в эпоху и противостояние
+  «лиловому шару» как угрозе всему живому сохранён, но визуальный
+  ряд и финал переосмыслены кинематографически.
+confidence: high
+sources: []
+schema_version: 1
