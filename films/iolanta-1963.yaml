@@ -1,0 +1,13 @@
+id: iolanta-1963
+title_ru: Иоланта
+title_original: Иоланта
+year: 1963
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q4202698
+  imdb: tt0058762
+sources:
+- https://www.wikidata.org/wiki/Q4202698
+schema_version: 1

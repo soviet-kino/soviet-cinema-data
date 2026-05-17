@@ -1,0 +1,13 @@
+id: millioner-1963
+title_ru: Миллионер
+title_original: Миллионер
+year: 1963
+country:
+- SU
+runtime_min: 11
+external_ids:
+  wikidata: Q1935559
+  imdb: tt1240953
+sources:
+- https://www.wikidata.org/wiki/Q1935559
+schema_version: 1

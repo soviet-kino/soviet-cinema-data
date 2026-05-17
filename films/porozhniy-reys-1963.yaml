@@ -1,0 +1,13 @@
+id: porozhniy-reys-1963
+title_ru: Порожний рейс
+title_original: Порожний рейс
+year: 1963
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q251172
+  imdb: tt0056360
+sources:
+- https://www.wikidata.org/wiki/Q251172
+schema_version: 1

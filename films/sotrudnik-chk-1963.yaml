@@ -1,0 +1,13 @@
+id: sotrudnik-chk-1963
+title_ru: Сотрудник ЧК
+title_original: Сотрудник ЧК
+year: 1963
+country:
+- SU
+runtime_min: 102
+external_ids:
+  wikidata: Q1601721
+  imdb: tt0057520
+sources:
+- https://www.wikidata.org/wiki/Q1601721
+schema_version: 1

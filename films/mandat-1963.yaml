@@ -1,0 +1,13 @@
+id: mandat-1963
+title_ru: Мандат
+title_original: Мандат
+year: 1963
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q4280279
+  imdb: tt0305800
+sources:
+- https://www.wikidata.org/wiki/Q4280279
+schema_version: 1
