@@ -1,0 +1,13 @@
+id: ofitsery-film-1971
+title_ru: Офицеры (фильм)
+title_original: Офицеры (фильм)
+year: 1971
+country:
+- SU
+runtime_min: 97
+external_ids:
+  wikidata: Q4340308
+  imdb: tt0067517
+sources:
+- https://www.wikidata.org/wiki/Q4340308
+schema_version: 1

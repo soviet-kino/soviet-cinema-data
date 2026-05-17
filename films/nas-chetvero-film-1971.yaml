@@ -1,0 +1,13 @@
+id: nas-chetvero-film-1971
+title_ru: Нас четверо (фильм)
+title_original: Нас четверо (фильм)
+year: 1971
+country:
+- SU
+runtime_min: 66
+external_ids:
+  wikidata: Q65250163
+  imdb: tt3256396
+sources:
+- https://www.wikidata.org/wiki/Q65250163
+schema_version: 1
