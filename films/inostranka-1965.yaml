@@ -1,0 +1,13 @@
+id: inostranka-1965
+title_ru: Иностранка
+title_original: Иностранка
+year: 1965
+country:
+- SU
+runtime_min: 74
+external_ids:
+  wikidata: Q4201294
+  imdb: tt0059313
+sources:
+- https://www.wikidata.org/wiki/Q4201294
+schema_version: 1

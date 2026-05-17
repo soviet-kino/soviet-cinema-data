@@ -1,0 +1,13 @@
+id: palata-film-1964-1965
+title_ru: Палата (фильм, 1964)
+title_original: Палата (фильм, 1964)
+year: 1965
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q97181724
+  imdb: tt3141466
+sources:
+- https://www.wikidata.org/wiki/Q97181724
+schema_version: 1

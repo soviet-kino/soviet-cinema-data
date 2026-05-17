@@ -1,0 +1,13 @@
+id: povest-o-ptashkine-1965
+title_ru: Повесть о Пташкине
+title_original: Повесть о Пташкине
+year: 1965
+country:
+- SU
+runtime_min: 68
+external_ids:
+  wikidata: Q116811466
+  imdb: tt4859994
+sources:
+- https://www.wikidata.org/wiki/Q116811466
+schema_version: 1
