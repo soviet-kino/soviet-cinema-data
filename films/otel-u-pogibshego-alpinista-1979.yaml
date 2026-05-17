@@ -1,0 +1,13 @@
+id: otel-u-pogibshego-alpinista-1979
+title_ru: Отель «У погибшего альпиниста»
+title_original: Отель «У погибшего альпиниста»
+year: 1979
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q425937
+  imdb: tt0204526
+sources:
+- https://www.wikidata.org/wiki/Q425937
+schema_version: 1

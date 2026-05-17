@@ -1,0 +1,13 @@
+id: babek-1979
+title_ru: Бабек
+title_original: Бабек
+year: 1979
+country:
+- SU
+runtime_min: 128
+external_ids:
+  wikidata: Q4074268
+  imdb: tt0078816
+sources:
+- https://www.wikidata.org/wiki/Q4074268
+schema_version: 1

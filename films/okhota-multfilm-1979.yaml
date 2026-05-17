@@ -1,0 +1,13 @@
+id: okhota-multfilm-1979
+title_ru: Охота (мультфильм)
+title_original: Охота (мультфильм)
+year: 1979
+country:
+- SU
+runtime_min: 612
+external_ids:
+  wikidata: Q4340412
+  imdb: tt0480440
+sources:
+- https://www.wikidata.org/wiki/Q4340412
+schema_version: 1

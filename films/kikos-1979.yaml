@@ -1,0 +1,13 @@
+id: kikos-1979
+title_ru: Кикос
+title_original: Кикос
+year: 1979
+country:
+- SU
+runtime_min: 8
+external_ids:
+  wikidata: Q62340
+  imdb: tt0441644
+sources:
+- https://www.wikidata.org/wiki/Q62340
+schema_version: 1

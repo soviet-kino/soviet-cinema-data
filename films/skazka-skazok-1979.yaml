@@ -1,0 +1,13 @@
+id: skazka-skazok-1979
+title_ru: Сказка сказок
+title_original: Сказка сказок
+year: 1979
+country:
+- SU
+runtime_min: 28
+external_ids:
+  wikidata: Q259685
+  imdb: tt0079986
+sources:
+- https://www.wikidata.org/wiki/Q259685
+schema_version: 1

@@ -1,0 +1,13 @@
+id: pena-1979
+title_ru: Пена
+title_original: Пена
+year: 1979
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q4348410
+  imdb: tt0079708
+sources:
+- https://www.wikidata.org/wiki/Q4348410
+schema_version: 1

@@ -1,0 +1,13 @@
+id: otets-i-syn-film-1979-1979
+title_ru: Отец и сын (фильм, 1979)
+title_original: Отец и сын (фильм, 1979)
+year: 1979
+country:
+- SU
+runtime_min: 178
+external_ids:
+  wikidata: Q21643664
+  imdb: tt0314473
+sources:
+- https://www.wikidata.org/wiki/Q21643664
+schema_version: 1
