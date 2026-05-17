@@ -1,0 +1,13 @@
+id: supernova-1965
+title_ru: Супернова
+title_original: Супернова
+year: 1965
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q20529436
+  imdb: tt0447471
+sources:
+- https://www.wikidata.org/wiki/Q20529436
+schema_version: 1

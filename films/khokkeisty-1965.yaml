@@ -1,0 +1,13 @@
+id: khokkeisty-1965
+title_ru: Хоккеисты
+title_original: Хоккеисты
+year: 1965
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q4498944
+  imdb: tt0166648
+sources:
+- https://www.wikidata.org/wiki/Q4498944
+schema_version: 1
