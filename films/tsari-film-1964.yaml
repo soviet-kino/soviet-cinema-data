@@ -1,0 +1,13 @@
+id: tsari-film-1964
+title_ru: Цари (фильм)
+title_original: Цари (фильм)
+year: 1964
+country:
+- SU
+runtime_min: 65
+external_ids:
+  wikidata: Q116811375
+  imdb: tt4859766
+sources:
+- https://www.wikidata.org/wiki/Q116811375
+schema_version: 1

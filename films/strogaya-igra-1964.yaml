@@ -1,0 +1,13 @@
+id: strogaya-igra-1964
+title_ru: Строгая игра
+title_original: Строгая игра
+year: 1964
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q109428508
+  imdb: tt0352879
+sources:
+- https://www.wikidata.org/wiki/Q109428508
+schema_version: 1
