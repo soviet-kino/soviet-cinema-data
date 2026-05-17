@@ -1,0 +1,13 @@
+id: park-1966
+title_ru: Парк
+title_original: Парк
+year: 1966
+country:
+- SU
+runtime_min: 7
+external_ids:
+  wikidata: Q1451052
+  imdb: tt0452370
+sources:
+- https://www.wikidata.org/wiki/Q1451052
+schema_version: 1

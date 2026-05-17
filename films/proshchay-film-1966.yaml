@@ -1,0 +1,13 @@
+id: proshchay-film-1966
+title_ru: Прощай (фильм)
+title_original: Прощай (фильм)
+year: 1966
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q4382363
+  imdb: tt0352748
+sources:
+- https://www.wikidata.org/wiki/Q4382363
+schema_version: 1
