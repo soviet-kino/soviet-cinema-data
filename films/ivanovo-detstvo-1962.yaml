@@ -4,29 +4,37 @@ title_original: Иваново детство
 title_translit: Ivanovo detstvo
 title_en: Ivan's Childhood
 year: 1962
-country: [SU]
+country:
+- SU
 republic: RSFSR
-studio: [mosfilm]
-director: [tarkovsky-andrei]
-# Сценарий по повести Богомолова «Иван». Соавторы сценария требуют уточнения по титрам.
-# TODO: уточнить состав сценаристов в окончательных титрах (Папава, Кончаловский?).
-screenwriter: [bogomolov-vladimir]
-cinematographer: [yusov-vadim]
-composer: [ovchinnikov-vyacheslav]
+studio:
+- mosfilm
+director:
+- tarkovsky-andrei
+screenwriter:
+- bogomolov-vladimir
+cinematographer:
+- yusov-vadim
+composer:
+- ovchinnikov-vyacheslav
 cast:
-  - person: burlyaev-nikolai
-    role: Иван
-  - person: grinko-nikolai
-    role: Подполковник Грязнов
+- person: burlyaev-nikolai
+  role: Иван
+- person: grinko-nikolai
+  role: Подполковник Грязнов
 runtime_min: 95
-language: [ru]
-genre: [drama, war, poetic_cinema]
+language:
+- ru
+genre:
+- drama
+- war
+- poetic_cinema
 color: bw
 production_status: released
 censorship_status: released
 external_ids:
-  wikidata: Q511678
+  wikidata: Q147878
   imdb: tt0056111
 sources:
-  - https://www.wikidata.org/wiki/Q511678
+- https://www.wikidata.org/wiki/Q147878
 schema_version: 1

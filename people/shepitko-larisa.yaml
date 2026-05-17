@@ -4,7 +4,13 @@ name_original: Лариса Ефимовна Шепитько
 name_translit: Larisa Shepitko
 birth: 1938-01-06
 death: 1979-07-02
-nationality: [SU]
-roles: [director, screenwriter]
-sources: []
+nationality:
+- SU
+roles:
+- director
+- screenwriter
+sources:
+- https://www.wikidata.org/wiki/Q138477
 schema_version: 1
+external_ids:
+  wikidata: Q138477

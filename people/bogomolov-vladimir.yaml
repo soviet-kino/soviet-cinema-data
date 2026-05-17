@@ -4,7 +4,12 @@ name_original: Владимир Осипович Богомолов
 name_translit: Vladimir Bogomolov
 birth: 1924-07-03
 death: 2003-12-30
-nationality: [SU]
-roles: [author]
-sources: []
+nationality:
+- SU
+roles:
+- author
+sources:
+- https://www.wikidata.org/wiki/Q2623803
 schema_version: 1
+external_ids:
+  wikidata: Q2623803

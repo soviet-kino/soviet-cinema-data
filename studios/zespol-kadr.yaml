@@ -2,9 +2,4 @@ id: zespol-kadr
 name_ru: Студия «Кадр»
 name_original: Zespół Filmowy "Kadr"
 country: PL
-# TODO: уточнить точную дату основания и историю преобразований объединения.
-external_ids:
-  wikidata: Q9363569
-sources:
-  - https://www.wikidata.org/wiki/Q9363569
 schema_version: 1

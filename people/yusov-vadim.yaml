@@ -4,7 +4,12 @@ name_original: Вадим Иванович Юсов
 name_translit: Vadim Yusov
 birth: 1929-04-20
 death: 2013-08-23
-nationality: [SU]
-roles: [cinematographer]
-sources: []
+nationality:
+- SU
+roles:
+- cinematographer
+sources:
+- https://www.wikidata.org/wiki/Q2382967
 schema_version: 1
+external_ids:
+  wikidata: Q2382967

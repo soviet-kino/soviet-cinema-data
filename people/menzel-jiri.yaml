@@ -4,10 +4,14 @@ name_original: Jiří Menzel
 name_translit: Jiri Menzel
 birth: 1938-02-23
 death: 2020-09-05
-nationality: [CS]
-roles: [director, screenwriter, actor]
+nationality:
+- CS
+roles:
+- director
+- screenwriter
+- actor
 external_ids:
-  wikidata: Q220537
+  wikidata: Q352030
 sources:
-  - https://www.wikidata.org/wiki/Q220537
+- https://www.wikidata.org/wiki/Q352030
 schema_version: 1

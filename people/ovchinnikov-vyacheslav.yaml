@@ -4,7 +4,12 @@ name_original: Вячеслав Александрович Овчинников
 name_translit: Vyacheslav Ovchinnikov
 birth: 1936-05-29
 death: 2019-02-17
-nationality: [SU]
-roles: [composer]
-sources: []
+nationality:
+- SU
+roles:
+- composer
+sources:
+- https://www.wikidata.org/wiki/Q1357516
 schema_version: 1
+external_ids:
+  wikidata: Q1357516

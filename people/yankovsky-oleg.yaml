@@ -4,7 +4,12 @@ name_original: Олег Иванович Янковский
 name_translit: Oleg Yankovsky
 birth: 1944-02-23
 death: 2009-05-20
-nationality: [SU]
-roles: [actor]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q314067
 schema_version: 1
+external_ids:
+  wikidata: Q314067
