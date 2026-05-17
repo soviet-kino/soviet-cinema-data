@@ -1,0 +1,23 @@
+id: cherez-ternii-k-zvyozdam-1980
+title_ru: Через тернии к звёздам
+title_original: Через тернии к звёздам
+year: 1980
+country:
+- SU
+republic: RSFSR
+language:
+- ru
+color: color
+genre:
+- science_fiction
+- drama
+topics:
+- chrononautics
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q4512673
+  imdb: tt0081546
+sources:
+- https://www.wikidata.org/wiki/Q4512673
+schema_version: 1

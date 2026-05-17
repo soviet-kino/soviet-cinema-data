@@ -1,0 +1,22 @@
+id: zerkalo-dlya-geroya-1987
+title_ru: Зеркало для героя
+title_original: Зеркало для героя
+year: 1987
+country:
+- SU
+republic: RSFSR
+language:
+- ru
+color: color
+genre:
+- drama
+- science_fiction
+topics:
+- chrononautics
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q4191540
+sources:
+- https://www.wikidata.org/wiki/Q4191540
+schema_version: 1

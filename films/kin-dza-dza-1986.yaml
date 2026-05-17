@@ -1,0 +1,23 @@
+id: kin-dza-dza-1986
+title_ru: Кин-дза-дза!
+title_original: Кин-дза-дза!
+year: 1986
+country:
+- SU
+republic: RSFSR
+language:
+- ru
+color: color
+genre:
+- science_fiction
+- tragicomedy
+topics:
+- chrononautics
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q1415194
+  imdb: tt0091449
+sources:
+- https://www.wikidata.org/wiki/Q1415194
+schema_version: 1
