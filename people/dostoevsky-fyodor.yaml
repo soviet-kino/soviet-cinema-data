@@ -1,0 +1,12 @@
+id: dostoevsky-fyodor
+name_ru: Фёдор Достоевский
+name_original: Фёдор Михайлович Достоевский
+birth: '1821-11-11'
+death: '1881-02-09'
+roles:
+- author
+external_ids:
+  wikidata: Q991
+sources:
+- https://www.wikidata.org/wiki/Q991
+schema_version: 1

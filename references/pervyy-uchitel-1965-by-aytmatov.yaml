@@ -1,0 +1,16 @@
+id: pervyy-uchitel-1965-by-aytmatov
+source_film: pervyy-uchitel-1965
+target:
+  type: book
+  title_ru: Первый учитель
+  title_original: Первый учитель
+  authors:
+  - aytmatov-chingiz
+  year: 1962
+kind: adaptation
+description_ru: Фильм «Первый учитель» (1965) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

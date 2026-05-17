@@ -1,0 +1,14 @@
+id: babel-isaak
+name_ru: Исаак Бабель
+name_original: Исаак Эммануилович Бабель
+birth: '1894-07-13'
+death: '1940-01-27'
+nationality:
+- SU
+roles:
+- author
+external_ids:
+  wikidata: Q49080
+sources:
+- https://www.wikidata.org/wiki/Q49080
+schema_version: 1

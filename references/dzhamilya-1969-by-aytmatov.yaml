@@ -1,0 +1,16 @@
+id: dzhamilya-1969-by-aytmatov
+source_film: dzhamilya-1969
+target:
+  type: book
+  title_ru: Джамиля
+  title_original: Джамиля
+  authors:
+  - aytmatov-chingiz
+  year: 1958
+kind: adaptation
+description_ru: Фильм «Джамиля» (1969) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

@@ -1,0 +1,16 @@
+id: kashtanka-1975-by-chekhov
+source_film: kashtanka-1975
+target:
+  type: book
+  title_ru: Каштанка
+  title_original: Каштанка
+  authors:
+  - chekhov-anton
+  year: 1887
+kind: adaptation
+description_ru: Фильм «Каштанка» (1975) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

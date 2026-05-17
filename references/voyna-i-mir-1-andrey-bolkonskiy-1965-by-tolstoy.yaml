@@ -1,0 +1,16 @@
+id: voyna-i-mir-1-andrey-bolkonskiy-1965-by-tolstoy
+source_film: voyna-i-mir-1-andrey-bolkonskiy-1965
+target:
+  type: book
+  title_ru: Война и мир
+  title_original: Война и мир
+  authors:
+  - tolstoy-lev
+  year: 1869
+kind: adaptation
+description_ru: 'Фильм «Война и Мир 1: Андрей Болконский» (1965) — по одноимённому
+  или близкому произведению автора. Привязка сделана автоматически по совпадению названия
+  — требует проверки редактором.'
+confidence: medium
+sources: []
+schema_version: 1

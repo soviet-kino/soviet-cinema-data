@@ -1,0 +1,16 @@
+id: uroki-frantsuzskogo-1978-by-rasputin
+source_film: uroki-frantsuzskogo-1978
+target:
+  type: book
+  title_ru: Уроки французского
+  title_original: Уроки французского
+  authors:
+  - rasputin-valentin
+  year: 1973
+kind: adaptation
+description_ru: Фильм «Уроки французского» (1978) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

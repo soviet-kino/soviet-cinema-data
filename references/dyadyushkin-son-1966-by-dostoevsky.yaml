@@ -1,0 +1,16 @@
+id: dyadyushkin-son-1966-by-dostoevsky
+source_film: dyadyushkin-son-1966
+target:
+  type: book
+  title_ru: Дядюшкин сон
+  title_original: Дядюшкин сон
+  authors:
+  - dostoevsky-fyodor
+  year: 1859
+kind: adaptation
+description_ru: Фильм «Дядюшкин сон» (1966) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

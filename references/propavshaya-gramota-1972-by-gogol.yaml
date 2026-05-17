@@ -1,0 +1,16 @@
+id: propavshaya-gramota-1972-by-gogol
+source_film: propavshaya-gramota-1972
+target:
+  type: book
+  title_ru: Пропавшая грамота
+  title_original: Пропавшая грамота
+  authors:
+  - gogol-nikolay
+  year: 1831
+kind: adaptation
+description_ru: Фильм «Пропавшая грамота» (1972) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1

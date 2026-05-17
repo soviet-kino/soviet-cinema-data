@@ -1,0 +1,14 @@
+id: shukshin-vasiliy
+name_ru: Василий Шукшин
+name_original: Василий Макарович Шукшин
+birth: '1929-07-25'
+death: '1974-10-02'
+nationality:
+- SU
+roles:
+- author
+external_ids:
+  wikidata: Q316086
+sources:
+- https://www.wikidata.org/wiki/Q316086
+schema_version: 1

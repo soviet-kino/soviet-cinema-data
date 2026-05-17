@@ -1,0 +1,14 @@
+id: aytmatov-chingiz
+name_ru: Чингиз Айтматов
+name_original: Чингиз Торекулович Айтматов
+birth: '1928-12-12'
+death: '2008-06-10'
+nationality:
+- SU
+roles:
+- author
+external_ids:
+  wikidata: Q484292
+sources:
+- https://www.wikidata.org/wiki/Q484292
+schema_version: 1

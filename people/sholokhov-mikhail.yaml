@@ -1,0 +1,14 @@
+id: sholokhov-mikhail
+name_ru: Михаил Шолохов
+name_original: Михаил Александрович Шолохов
+birth: '1905-05-24'
+death: '1984-02-21'
+nationality:
+- SU
+roles:
+- author
+external_ids:
+  wikidata: Q42398
+sources:
+- https://www.wikidata.org/wiki/Q42398
+schema_version: 1

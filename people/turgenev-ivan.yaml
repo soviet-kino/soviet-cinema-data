@@ -1,0 +1,12 @@
+id: turgenev-ivan
+name_ru: Иван Тургенев
+name_original: Иван Сергеевич Тургенев
+birth: '1818-11-09'
+death: '1883-09-03'
+roles:
+- author
+external_ids:
+  wikidata: Q42831
+sources:
+- https://www.wikidata.org/wiki/Q42831
+schema_version: 1

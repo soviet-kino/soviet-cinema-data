@@ -1,0 +1,14 @@
+id: rasputin-valentin
+name_ru: Валентин Распутин
+name_original: Валентин Григорьевич Распутин
+birth: '1937-03-15'
+death: '2015-03-14'
+nationality:
+- SU
+roles:
+- author
+external_ids:
+  wikidata: Q529309
+sources:
+- https://www.wikidata.org/wiki/Q529309
+schema_version: 1

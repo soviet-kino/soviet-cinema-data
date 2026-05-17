@@ -1,0 +1,16 @@
+id: bratya-karamazovy-1969-by-dostoevsky
+source_film: bratya-karamazovy-1969
+target:
+  type: book
+  title_ru: Братья Карамазовы
+  title_original: Братья Карамазовы
+  authors:
+  - dostoevsky-fyodor
+  year: 1880
+kind: adaptation
+description_ru: Фильм «Братья Карамазовы» (1969) — по одноимённому или близкому произведению
+  автора. Привязка сделана автоматически по совпадению названия — требует проверки
+  редактором.
+confidence: medium
+sources: []
+schema_version: 1
