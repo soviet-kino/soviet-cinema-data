@@ -1,0 +1,13 @@
+id: leto-1976
+title_ru: Лето
+title_original: Лето
+year: 1976
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q4260208
+  imdb: tt0075292
+sources:
+- https://www.wikidata.org/wiki/Q4260208
+schema_version: 1

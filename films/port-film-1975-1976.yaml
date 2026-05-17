@@ -1,0 +1,12 @@
+id: port-film-1975-1976
+title_ru: Порт (фильм, 1975)
+title_original: Порт (фильм, 1975)
+year: 1976
+country:
+- SU
+external_ids:
+  wikidata: Q130603463
+  imdb: tt0302941
+sources:
+- https://www.wikidata.org/wiki/Q130603463
+schema_version: 1

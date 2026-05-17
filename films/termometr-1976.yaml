@@ -1,0 +1,13 @@
+id: termometr-1976
+title_ru: Термометр
+title_original: Термометр
+year: 1976
+country:
+- SU
+runtime_min: 19
+external_ids:
+  wikidata: Q4455922
+  imdb: tt0283045
+sources:
+- https://www.wikidata.org/wiki/Q4455922
+schema_version: 1

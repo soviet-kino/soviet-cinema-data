@@ -1,0 +1,13 @@
+id: belyy-parokhod-film-1975-1976
+title_ru: Белый пароход (фильм, 1975)
+title_original: Белый пароход (фильм, 1975)
+year: 1976
+country:
+- SU
+runtime_min: 99
+external_ids:
+  wikidata: Q3220350
+  imdb: tt0169601
+sources:
+- https://www.wikidata.org/wiki/Q3220350
+schema_version: 1

@@ -1,0 +1,12 @@
+id: ryzhiy-samolyot-1976
+title_ru: Рыжий самолёт
+title_original: Рыжий самолёт
+year: 1976
+country:
+- SU
+runtime_min: 67
+external_ids:
+  wikidata: Q4401774
+sources:
+- https://www.wikidata.org/wiki/Q4401774
+schema_version: 1

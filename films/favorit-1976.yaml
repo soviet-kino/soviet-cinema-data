@@ -1,0 +1,13 @@
+id: favorit-1976
+title_ru: Фаворит
+title_original: Фаворит
+year: 1976
+country:
+- SU
+runtime_min: 132
+external_ids:
+  wikidata: Q4480388
+  imdb: tt2064769
+sources:
+- https://www.wikidata.org/wiki/Q4480388
+schema_version: 1

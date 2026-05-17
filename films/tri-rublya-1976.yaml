@@ -1,0 +1,13 @@
+id: tri-rublya-1976
+title_ru: Три рубля
+title_original: Три рубля
+year: 1976
+country:
+- SU
+runtime_min: 21
+external_ids:
+  wikidata: Q4462885
+  imdb: tt0283075
+sources:
+- https://www.wikidata.org/wiki/Q4462885
+schema_version: 1
