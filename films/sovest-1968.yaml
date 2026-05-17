@@ -1,0 +1,13 @@
+id: sovest-1968
+title_ru: Совесть
+title_original: Совесть
+year: 1968
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q30963975
+  imdb: tt5077846
+sources:
+- https://www.wikidata.org/wiki/Q30963975
+schema_version: 1

@@ -1,0 +1,13 @@
+id: interventsiya-1968
+title_ru: Интервенция
+title_original: Интервенция
+year: 1968
+country:
+- SU
+runtime_min: 102
+external_ids:
+  wikidata: Q4202017
+  imdb: tt0142405
+sources:
+- https://www.wikidata.org/wiki/Q4202017
+schema_version: 1

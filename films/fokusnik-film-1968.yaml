@@ -1,0 +1,13 @@
+id: fokusnik-film-1968
+title_ru: Фокусник (фильм)
+title_original: Фокусник (фильм)
+year: 1968
+country:
+- SU
+runtime_min: 79
+external_ids:
+  wikidata: Q4491373
+  imdb: tt0175616
+sources:
+- https://www.wikidata.org/wiki/Q4491373
+schema_version: 1
