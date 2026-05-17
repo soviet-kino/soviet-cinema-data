@@ -1,0 +1,13 @@
+id: pari-1974
+title_ru: Пари
+title_original: Пари
+year: 1974
+country:
+- SU
+runtime_min: 26
+external_ids:
+  wikidata: Q4345106
+  imdb: tt0279314
+sources:
+- https://www.wikidata.org/wiki/Q4345106
+schema_version: 1

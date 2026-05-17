@@ -1,0 +1,13 @@
+id: ogon-film-1973-1974
+title_ru: Огонь (фильм, 1973)
+title_original: Огонь (фильм, 1973)
+year: 1974
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q109083142
+  imdb: tt4769102
+sources:
+- https://www.wikidata.org/wiki/Q109083142
+schema_version: 1

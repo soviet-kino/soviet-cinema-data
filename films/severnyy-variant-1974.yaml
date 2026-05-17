@@ -1,0 +1,13 @@
+id: severnyy-variant-1974
+title_ru: Северный вариант
+title_original: Северный вариант
+year: 1974
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q84048773
+  imdb: tt1857854
+sources:
+- https://www.wikidata.org/wiki/Q84048773
+schema_version: 1
