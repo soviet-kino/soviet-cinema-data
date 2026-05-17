@@ -1,6 +1,13 @@
 id: bulychyov-kir
 name_ru: Кир Булычёв
+name_original: Игорь Всеволодович Можейко
+name_translit: Kir Bulychev
+birth: 1934-10-18
+death: 2003-09-05
+nationality:
+- SU
 roles:
+- author
 - screenwriter
 external_ids:
   wikidata: Q360292
