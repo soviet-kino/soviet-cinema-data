@@ -1,0 +1,23 @@
+id: ivan-vasilevich-menyaet-professiyu-1973
+title_ru: Иван Васильевич меняет профессию
+title_original: Иван Васильевич меняет профессию
+year: 1973
+country:
+- SU
+republic: RSFSR
+language:
+- ru
+color: color
+genre:
+- comedy
+- science_fiction
+topics:
+- chrononautics
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q777739
+  imdb: tt0070233
+sources:
+- https://www.wikidata.org/wiki/Q777739
+schema_version: 1

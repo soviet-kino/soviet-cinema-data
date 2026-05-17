@@ -1,0 +1,23 @@
+id: charodei-1982
+title_ru: Чародеи
+title_original: Чародеи
+year: 1982
+country:
+- SU
+republic: RSFSR
+language:
+- ru
+color: color
+genre:
+- comedy
+- fantasy
+- musical
+topics:
+- chrononautics
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q4507452
+sources:
+- https://www.wikidata.org/wiki/Q4507452
+schema_version: 1
