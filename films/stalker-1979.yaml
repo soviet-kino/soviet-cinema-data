@@ -14,6 +14,7 @@ director:
 screenwriter:
 - strugatsky-arkady
 - strugatsky-boris
+- tarkovsky-andrei
 composer:
 - artemyev-eduard
 cast:
@@ -37,6 +38,11 @@ censorship_status: released
 external_ids:
   wikidata: Q200437
   imdb: tt0079944
+  youtube: Q3hBLv-HLEc
 sources:
 - https://www.wikidata.org/wiki/Q200437
 schema_version: 1
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+- kalashnikov-leonid-ivanovich
+- rerberg-georgy

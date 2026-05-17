@@ -17,6 +17,16 @@ production_status: released
 censorship_status: released
 external_ids:
   wikidata: Q4261614
+  youtube: U09BzD3hxvU
+  imdb: tt0093419
 sources:
 - https://www.wikidata.org/wiki/Q4261614
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- bulychyov-kir
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

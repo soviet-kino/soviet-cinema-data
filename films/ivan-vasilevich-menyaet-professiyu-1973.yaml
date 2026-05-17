@@ -18,6 +18,19 @@ censorship_status: released
 external_ids:
   wikidata: Q777739
   imdb: tt0070233
+  youtube: 4enQp6CDiO8
 sources:
 - https://www.wikidata.org/wiki/Q777739
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- bakhnov-vladlen-efimovich
+cinematographer:
+- poluyanov-sergey-sergeevich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm
+poster_commons: Leonid Gaidai 2023 cover of Russia.jpg

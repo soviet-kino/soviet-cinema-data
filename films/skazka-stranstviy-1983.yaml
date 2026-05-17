@@ -19,6 +19,21 @@ censorship_status: released
 external_ids:
   wikidata: Q4421399
   imdb: tt0086245
+  youtube: 7LNrQ4bt-Qc
 sources:
 - https://www.wikidata.org/wiki/Q4421399
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- mitta-aleksandr-naumovich
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- schnittke-alfred
+studio:
+- mosfilm
+- barrandov
+- radef

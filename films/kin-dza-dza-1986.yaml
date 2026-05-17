@@ -18,6 +18,19 @@ censorship_status: released
 external_ids:
   wikidata: Q1415194
   imdb: tt0091449
+  youtube: EYHv8eJrW2Y
 sources:
 - https://www.wikidata.org/wiki/Q1415194
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- daneliya-georgiy-nikolaevich
+- gabriadze-rezo
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- kancheli-giya-aleksandrovich
+studio:
+- mosfilm
+poster_commons: Pepelac2010.jpg
