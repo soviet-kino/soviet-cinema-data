@@ -1,0 +1,13 @@
+id: sentimentalnaya-novella-1966
+title_ru: Сентиментальная новелла
+title_original: Сентиментальная новелла
+year: 1966
+country:
+- SU
+runtime_min: 11
+external_ids:
+  wikidata: Q133210144
+  imdb: tt29580567
+sources:
+- https://www.wikidata.org/wiki/Q133210144
+schema_version: 1

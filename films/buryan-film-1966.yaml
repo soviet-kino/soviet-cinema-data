@@ -1,0 +1,13 @@
+id: buryan-film-1966
+title_ru: Бурьян (фильм)
+title_original: Бурьян (фильм)
+year: 1966
+country:
+- SU
+runtime_min: 94
+external_ids:
+  wikidata: Q12085674
+  imdb: tt0290492
+sources:
+- https://www.wikidata.org/wiki/Q12085674
+schema_version: 1

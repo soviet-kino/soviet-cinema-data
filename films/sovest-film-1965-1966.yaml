@@ -1,0 +1,13 @@
+id: sovest-film-1965-1966
+title_ru: Совесть (фильм, 1965)
+title_original: Совесть (фильм, 1965)
+year: 1966
+country:
+- SU
+runtime_min: 86
+external_ids:
+  wikidata: Q116864891
+  imdb: tt5224370
+sources:
+- https://www.wikidata.org/wiki/Q116864891
+schema_version: 1

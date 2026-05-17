@@ -1,0 +1,13 @@
+id: skazki-russkogo-lesa-1966
+title_ru: Сказки русского леса
+title_original: Сказки русского леса
+year: 1966
+country:
+- SU
+runtime_min: 128
+external_ids:
+  wikidata: Q109428510
+  imdb: tt2938690
+sources:
+- https://www.wikidata.org/wiki/Q109428510
+schema_version: 1
