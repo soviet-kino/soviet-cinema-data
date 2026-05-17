@@ -1,0 +1,13 @@
+id: klad-1975
+title_ru: Клад
+title_original: Клад
+year: 1975
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q65200878
+  imdb: tt4844524
+sources:
+- https://www.wikidata.org/wiki/Q65200878
+schema_version: 1

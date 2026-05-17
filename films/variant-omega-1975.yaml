@@ -1,0 +1,13 @@
+id: variant-omega-1975
+title_ru: Вариант «Омега»
+title_original: Вариант «Омега»
+year: 1975
+country:
+- SU
+runtime_min: 356
+external_ids:
+  wikidata: Q4103812
+  imdb: tt0072578
+sources:
+- https://www.wikidata.org/wiki/Q4103812
+schema_version: 1

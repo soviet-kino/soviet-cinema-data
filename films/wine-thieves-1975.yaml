@@ -1,0 +1,13 @@
+id: wine-thieves-1975
+title_ru: Wine Thieves
+title_original: Wine Thieves
+year: 1975
+country:
+- SU
+runtime_min: 30
+external_ids:
+  wikidata: Q12870434
+  imdb: tt0276175
+sources:
+- https://www.wikidata.org/wiki/Q12870434
+schema_version: 1

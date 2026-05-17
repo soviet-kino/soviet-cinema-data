@@ -1,0 +1,13 @@
+id: rodiny-soldat-1975
+title_ru: Родины солдат
+title_original: Родины солдат
+year: 1975
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q20481355
+  imdb: tt0272815
+sources:
+- https://www.wikidata.org/wiki/Q20481355
+schema_version: 1

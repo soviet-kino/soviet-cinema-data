@@ -1,0 +1,12 @@
+id: gost-1975
+title_ru: Гость
+title_original: Гость
+year: 1975
+country:
+- SU
+external_ids:
+  wikidata: Q12099247
+  imdb: tt0814617
+sources:
+- https://www.wikidata.org/wiki/Q12099247
+schema_version: 1
