@@ -1,0 +1,13 @@
+id: adres-vashego-doma-1973
+title_ru: Адрес вашего дома
+title_original: Адрес вашего дома
+year: 1973
+country:
+- SU
+runtime_min: 86
+external_ids:
+  wikidata: Q84993108
+  imdb: tt0217982
+sources:
+- https://www.wikidata.org/wiki/Q84993108
+schema_version: 1

@@ -1,0 +1,13 @@
+id: ostrov-1973
+title_ru: Остров
+title_original: Остров
+year: 1973
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q404304
+  imdb: tt0218493
+sources:
+- https://www.wikidata.org/wiki/Q404304
+schema_version: 1

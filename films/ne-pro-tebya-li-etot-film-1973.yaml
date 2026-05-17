@@ -1,0 +1,13 @@
+id: ne-pro-tebya-li-etot-film-1973
+title_ru: Не про тебя ли этот фильм?
+title_original: Не про тебя ли этот фильм?
+year: 1973
+country:
+- SU
+runtime_min: 3
+external_ids:
+  wikidata: Q15270800
+  imdb: tt1075829
+sources:
+- https://www.wikidata.org/wiki/Q15270800
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kortik-1973
+title_ru: Кортик
+title_original: Кортик
+year: 1973
+country:
+- SU
+runtime_min: 210
+external_ids:
+  wikidata: Q4234383
+  imdb: tt0069600
+sources:
+- https://www.wikidata.org/wiki/Q4234383
+schema_version: 1

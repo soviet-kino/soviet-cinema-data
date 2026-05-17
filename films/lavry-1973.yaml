@@ -1,0 +1,13 @@
+id: lavry-1973
+title_ru: Лавры
+title_original: Лавры
+year: 1973
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q130211090
+  imdb: tt5313536
+sources:
+- https://www.wikidata.org/wiki/Q130211090
+schema_version: 1
