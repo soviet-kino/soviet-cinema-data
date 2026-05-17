@@ -1,0 +1,9 @@
+id: perestroika-cinema
+name_ru: Перестройка
+description_ru: Кино перестроечного периода (1985–1991). Снятие табу, выход 'полочных'
+  фильмов, открытое обсуждение истории.
+filter:
+  year_from: 1985
+  year_to: 1991
+  country: SU
+schema_version: 1

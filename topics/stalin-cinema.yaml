@@ -1,0 +1,9 @@
+id: stalin-cinema
+name_ru: Сталинское кино
+description_ru: 'Фильмы, выпущенные при Сталине: 1924–1953. Эпоха соцреализма, культа
+  личности и поздних ''малокартиний''.'
+filter:
+  year_from: 1924
+  year_to: 1953
+  country: SU
+schema_version: 1
