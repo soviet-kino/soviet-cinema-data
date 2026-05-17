@@ -1,0 +1,13 @@
+id: balamut-1979
+title_ru: Баламут
+title_original: Баламут
+year: 1979
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q4076346
+  imdb: tt0166499
+sources:
+- https://www.wikidata.org/wiki/Q4076346
+schema_version: 1

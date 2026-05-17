@@ -1,0 +1,13 @@
+id: chudak-1979
+title_ru: Чудак
+title_original: Чудак
+year: 1979
+country:
+- SU
+runtime_min: 142
+external_ids:
+  wikidata: Q25545333
+  imdb: tt1542730
+sources:
+- https://www.wikidata.org/wiki/Q25545333
+schema_version: 1

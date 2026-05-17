@@ -1,0 +1,13 @@
+id: zov-film-1979-1979
+title_ru: Зов (фильм, 1979)
+title_original: Зов (фильм, 1979)
+year: 1979
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q12870989
+  imdb: tt0281828
+sources:
+- https://www.wikidata.org/wiki/Q12870989
+schema_version: 1

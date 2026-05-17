@@ -1,0 +1,13 @@
+id: zhnetsy-film-1979
+title_ru: Жнецы (фильм)
+title_original: Жнецы (фильм)
+year: 1979
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q12104428
+  imdb: tt5460306
+sources:
+- https://www.wikidata.org/wiki/Q12104428
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kto-poluchit-priz-1979
+title_ru: Кто получит приз
+title_original: Кто получит приз
+year: 1979
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q21640775
+  imdb: tt7522918
+sources:
+- https://www.wikidata.org/wiki/Q21640775
+schema_version: 1
