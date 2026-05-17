@@ -1,0 +1,13 @@
+id: frantsiya-pesnya-1969
+title_ru: Франция, песня
+title_original: Франция, песня
+year: 1969
+country:
+- SU
+runtime_min: 60
+external_ids:
+  wikidata: Q121757379
+  imdb: tt14471728
+sources:
+- https://www.wikidata.org/wiki/Q121757379
+schema_version: 1

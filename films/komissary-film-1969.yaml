@@ -1,0 +1,13 @@
+id: komissary-film-1969
+title_ru: Комиссары (фильм)
+title_original: Комиссары (фильм)
+year: 1969
+country:
+- SU
+runtime_min: 77
+external_ids:
+  wikidata: Q12112168
+  imdb: tt0174823
+sources:
+- https://www.wikidata.org/wiki/Q12112168
+schema_version: 1
