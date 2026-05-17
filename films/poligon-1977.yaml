@@ -1,0 +1,13 @@
+id: poligon-1977
+title_ru: Полигон
+title_original: Полигон
+year: 1977
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q1524114
+  imdb: tt0820136
+sources:
+- https://www.wikidata.org/wiki/Q1524114
+schema_version: 1

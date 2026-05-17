@@ -1,0 +1,13 @@
+id: mimino-1977
+title_ru: Мимино
+title_original: Мимино
+year: 1977
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q1519753
+  imdb: tt0076391
+sources:
+- https://www.wikidata.org/wiki/Q1519753
+schema_version: 1

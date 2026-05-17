@@ -1,0 +1,13 @@
+id: transsibirskiy-ekspress-1977
+title_ru: Транссибирский экспресс
+title_original: Транссибирский экспресс
+year: 1977
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q4462144
+  imdb: tt0076838
+sources:
+- https://www.wikidata.org/wiki/Q4462144
+schema_version: 1

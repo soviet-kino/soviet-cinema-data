@@ -1,0 +1,13 @@
+id: babochka-1977
+title_ru: Бабочка
+title_original: Бабочка
+year: 1977
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4074493
+  imdb: tt0282365
+sources:
+- https://www.wikidata.org/wiki/Q4074493
+schema_version: 1

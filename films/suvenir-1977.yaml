@@ -1,0 +1,13 @@
+id: suvenir-1977
+title_ru: Сувенир
+title_original: Сувенир
+year: 1977
+country:
+- SU
+runtime_min: 9
+external_ids:
+  wikidata: Q111463566
+  imdb: tt0452416
+sources:
+- https://www.wikidata.org/wiki/Q111463566
+schema_version: 1

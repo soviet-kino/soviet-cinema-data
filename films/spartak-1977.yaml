@@ -1,0 +1,13 @@
+id: spartak-1977
+title_ru: Спартак
+title_original: Спартак
+year: 1977
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q16389836
+  imdb: tt0177245
+sources:
+- https://www.wikidata.org/wiki/Q16389836
+schema_version: 1
