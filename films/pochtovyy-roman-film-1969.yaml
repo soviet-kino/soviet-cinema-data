@@ -1,0 +1,13 @@
+id: pochtovyy-roman-film-1969
+title_ru: Почтовый роман (фильм)
+title_original: Почтовый роман (фильм)
+year: 1969
+country:
+- SU
+runtime_min: 139
+external_ids:
+  wikidata: Q25394140
+  imdb: tt0173001
+sources:
+- https://www.wikidata.org/wiki/Q25394140
+schema_version: 1

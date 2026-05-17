@@ -1,0 +1,13 @@
+id: tsena-1969
+title_ru: Цена
+title_original: Цена
+year: 1969
+country:
+- SU
+runtime_min: 109
+external_ids:
+  wikidata: Q16715362
+  imdb: tt0197979
+sources:
+- https://www.wikidata.org/wiki/Q16715362
+schema_version: 1

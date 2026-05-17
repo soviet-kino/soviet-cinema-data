@@ -1,0 +1,13 @@
+id: vinni-pukh-1969
+title_ru: Винни-Пух
+title_original: Винни-Пух
+year: 1969
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q404535
+  imdb: tt0211729
+sources:
+- https://www.wikidata.org/wiki/Q404535
+schema_version: 1

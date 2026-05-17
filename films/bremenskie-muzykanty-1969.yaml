@@ -1,0 +1,13 @@
+id: bremenskie-muzykanty-1969
+title_ru: Бременские музыканты
+title_original: Бременские музыканты
+year: 1969
+country:
+- SU
+runtime_min: 21
+external_ids:
+  wikidata: Q4096274
+  imdb: tt0211281
+sources:
+- https://www.wikidata.org/wiki/Q4096274
+schema_version: 1

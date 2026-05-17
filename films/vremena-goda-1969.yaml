@@ -1,0 +1,13 @@
+id: vremena-goda-1969
+title_ru: Времена года
+title_original: Времена года
+year: 1969
+country:
+- SU
+runtime_min: 9
+external_ids:
+  wikidata: Q21148885
+  imdb: tt0495546
+sources:
+- https://www.wikidata.org/wiki/Q21148885
+schema_version: 1
