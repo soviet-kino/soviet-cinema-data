@@ -17,6 +17,19 @@ production_status: released
 censorship_status: released
 external_ids:
   wikidata: Q4461443
+  youtube: OWB4k-YXJUM
+  imdb: tt0080037
 sources:
 - https://www.wikidata.org/wiki/Q4461443
 schema_version: 1
+director:
+- zakharov-mark-anatolevich
+screenwriter:
+- gorin-grigoriy
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- rybnikov-aleksey
+studio:
+- mosfilm
+poster_commons: Oleg Yankovsky 1979.jpg

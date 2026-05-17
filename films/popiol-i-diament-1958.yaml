@@ -8,6 +8,7 @@ country:
 - PL
 studio:
 - zespol-kadr
+- studio-filmowe-kadr
 director:
 - wajda-andrzej
 screenwriter:
@@ -30,6 +31,9 @@ production_status: released
 censorship_status: released
 external_ids:
   wikidata: Q722281
+  imdb: tt0052080
 sources:
 - https://www.wikidata.org/wiki/Q722281
 schema_version: 1
+cinematographer:
+- vuychik-ezhi

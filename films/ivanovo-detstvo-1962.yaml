@@ -13,6 +13,9 @@ director:
 - tarkovsky-andrei
 screenwriter:
 - bogomolov-vladimir
+- tarkovsky-andrei
+- konchalovskiy-andrey
+- papava-mikhail
 cinematographer:
 - yusov-vadim
 composer:
@@ -35,6 +38,7 @@ censorship_status: released
 external_ids:
   wikidata: Q147878
   imdb: tt0056111
+  youtube: aRkPoF7iVGc
 sources:
 - https://www.wikidata.org/wiki/Q147878
 schema_version: 1
