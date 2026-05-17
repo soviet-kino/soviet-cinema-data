@@ -1,0 +1,13 @@
+id: trassa-1978
+title_ru: Трасса
+title_original: Трасса
+year: 1978
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q21148926
+  imdb: tt0183915
+sources:
+- https://www.wikidata.org/wiki/Q21148926
+schema_version: 1

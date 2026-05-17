@@ -1,0 +1,13 @@
+id: bezbiletnaya-passazhirka-1978
+title_ru: Безбилетная пассажирка
+title_original: Безбилетная пассажирка
+year: 1978
+country:
+- SU
+runtime_min: 67
+external_ids:
+  wikidata: Q4080790
+  imdb: tt0211947
+sources:
+- https://www.wikidata.org/wiki/Q4080790
+schema_version: 1

@@ -1,0 +1,13 @@
+id: teatr-1978
+title_ru: Театр
+title_original: Театр
+year: 1978
+country:
+- SU
+runtime_min: 136
+external_ids:
+  wikidata: Q4453397
+  imdb: tt0276550
+sources:
+- https://www.wikidata.org/wiki/Q4453397
+schema_version: 1

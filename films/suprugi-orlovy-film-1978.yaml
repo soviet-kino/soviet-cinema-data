@@ -1,0 +1,13 @@
+id: suprugi-orlovy-film-1978
+title_ru: Супруги Орловы (фильм)
+title_original: Супруги Орловы (фильм)
+year: 1978
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q99180774
+  imdb: tt0078347
+sources:
+- https://www.wikidata.org/wiki/Q99180774
+schema_version: 1

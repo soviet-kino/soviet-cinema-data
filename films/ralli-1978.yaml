@@ -1,0 +1,13 @@
+id: ralli-1978
+title_ru: Ралли
+title_original: Ралли
+year: 1978
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q4389579
+  imdb: tt2395387
+sources:
+- https://www.wikidata.org/wiki/Q4389579
+schema_version: 1
