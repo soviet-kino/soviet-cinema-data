@@ -1,0 +1,13 @@
+id: oshibka-rezidenta-1968
+title_ru: Ошибка резидента
+title_original: Ошибка резидента
+year: 1968
+country:
+- SU
+runtime_min: 142
+external_ids:
+  wikidata: Q4340787
+  imdb: tt0314471
+sources:
+- https://www.wikidata.org/wiki/Q4340787
+schema_version: 1

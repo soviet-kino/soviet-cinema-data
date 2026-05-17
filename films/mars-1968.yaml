@@ -1,0 +1,13 @@
+id: mars-1968
+title_ru: Марс
+title_original: Марс
+year: 1968
+country:
+- SU
+runtime_min: 50
+external_ids:
+  wikidata: Q4282423
+  imdb: tt0342739
+sources:
+- https://www.wikidata.org/wiki/Q4282423
+schema_version: 1

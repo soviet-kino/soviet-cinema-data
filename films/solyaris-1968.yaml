@@ -1,0 +1,13 @@
+id: solyaris-1968
+title_ru: Солярис
+title_original: Солярис
+year: 1968
+country:
+- SU
+runtime_min: 143
+external_ids:
+  wikidata: Q125672
+  imdb: tt1808482
+sources:
+- https://www.wikidata.org/wiki/Q125672
+schema_version: 1

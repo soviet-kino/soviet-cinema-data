@@ -1,0 +1,13 @@
+id: film-film-film-1968
+title_ru: Фильм, фильм, фильм
+title_original: Фильм, фильм, фильм
+year: 1968
+country:
+- SU
+runtime_min: 19
+external_ids:
+  wikidata: Q4484382
+  imdb: tt0212943
+sources:
+- https://www.wikidata.org/wiki/Q4484382
+schema_version: 1

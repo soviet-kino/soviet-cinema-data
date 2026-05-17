@@ -1,0 +1,13 @@
+id: trevoga-film-1968-1968
+title_ru: Тревога (фильм, 1968)
+title_original: Тревога (фильм, 1968)
+year: 1968
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q111461076
+  imdb: tt0274516
+sources:
+- https://www.wikidata.org/wiki/Q111461076
+schema_version: 1

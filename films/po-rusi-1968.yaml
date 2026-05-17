@@ -1,0 +1,13 @@
+id: po-rusi-1968
+title_ru: По Руси
+title_original: По Руси
+year: 1968
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q4366078
+  imdb: tt0347788
+sources:
+- https://www.wikidata.org/wiki/Q4366078
+schema_version: 1

@@ -1,0 +1,13 @@
+id: zhil-chelovek-1968
+title_ru: Жил человек
+title_original: Жил человек
+year: 1968
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q20513569
+  imdb: tt0413693
+sources:
+- https://www.wikidata.org/wiki/Q20513569
+schema_version: 1
