@@ -1,0 +1,13 @@
+id: voyna-i-mir-film-1967-1967
+title_ru: Война и мир (фильм, 1967)
+title_original: Война и мир (фильм, 1967)
+year: 1967
+country:
+- SU
+runtime_min: 432
+external_ids:
+  wikidata: Q845176
+  imdb: tt0063794
+sources:
+- https://www.wikidata.org/wiki/Q845176
+schema_version: 1

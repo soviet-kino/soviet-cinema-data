@@ -1,0 +1,13 @@
+id: skazka-o-zolotom-petushke-1967
+title_ru: Сказка о золотом петушке
+title_original: Сказка о золотом петушке
+year: 1967
+country:
+- SU
+runtime_min: 30
+external_ids:
+  wikidata: Q10264798
+  imdb: tt0214139
+sources:
+- https://www.wikidata.org/wiki/Q10264798
+schema_version: 1
