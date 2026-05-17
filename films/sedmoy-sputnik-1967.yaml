@@ -1,0 +1,13 @@
+id: sedmoy-sputnik-1967
+title_ru: Седьмой спутник
+title_original: Седьмой спутник
+year: 1967
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q3227104
+  imdb: tt0062245
+sources:
+- https://www.wikidata.org/wiki/Q3227104
+schema_version: 1

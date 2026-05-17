@@ -1,0 +1,13 @@
+id: zhurnalist-1967
+title_ru: Журналист
+title_original: Журналист
+year: 1967
+country:
+- SU
+runtime_min: 226
+external_ids:
+  wikidata: Q1194623
+  imdb: tt0062524
+sources:
+- https://www.wikidata.org/wiki/Q1194623
+schema_version: 1

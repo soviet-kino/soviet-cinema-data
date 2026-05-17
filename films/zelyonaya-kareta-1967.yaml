@@ -1,0 +1,13 @@
+id: zelyonaya-kareta-1967
+title_ru: Зелёная карета
+title_original: Зелёная карета
+year: 1967
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q4190645
+  imdb: tt0062520
+sources:
+- https://www.wikidata.org/wiki/Q4190645
+schema_version: 1

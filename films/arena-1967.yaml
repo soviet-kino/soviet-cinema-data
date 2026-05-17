@@ -1,0 +1,13 @@
+id: arena-1967
+title_ru: Арена
+title_original: Арена
+year: 1967
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q4069001
+  imdb: tt0174472
+sources:
+- https://www.wikidata.org/wiki/Q4069001
+schema_version: 1
