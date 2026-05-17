@@ -1,0 +1,13 @@
+id: komandirovka-1962
+title_ru: Командировка
+title_original: Командировка
+year: 1962
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q4229153
+  imdb: tt0055056
+sources:
+- https://www.wikidata.org/wiki/Q4229153
+schema_version: 1
