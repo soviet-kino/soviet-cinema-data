@@ -1,0 +1,13 @@
+id: karnaval-1972
+title_ru: Карнавал
+title_original: Карнавал
+year: 1972
+country:
+- SU
+runtime_min: 130
+external_ids:
+  wikidata: Q20646600
+  imdb: tt1485009
+sources:
+- https://www.wikidata.org/wiki/Q20646600
+schema_version: 1

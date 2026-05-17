@@ -1,0 +1,13 @@
+id: krug-1972
+title_ru: Круг
+title_original: Круг
+year: 1972
+country:
+- SU
+runtime_min: 94
+external_ids:
+  wikidata: Q4241869
+  imdb: tt0068820
+sources:
+- https://www.wikidata.org/wiki/Q4241869
+schema_version: 1

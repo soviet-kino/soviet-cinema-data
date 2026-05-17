@@ -1,0 +1,11 @@
+id: monument-1972
+title_ru: Monument
+title_original: Monument
+year: 1972
+country:
+- SU
+external_ids:
+  wikidata: Q20512027
+sources:
+- https://www.wikidata.org/wiki/Q20512027
+schema_version: 1
