@@ -4,8 +4,12 @@ name_original: Георгий Иванович Рерберг
 name_translit: Georgy Rerberg
 birth: 1937-09-28
 death: 1999-07-26
-nationality: [SU]
-roles: [cinematographer]
-# TODO: проверить wikidata Q-ID.
-sources: []
+nationality:
+- SU
+roles:
+- cinematographer
+sources:
+- https://www.wikidata.org/wiki/Q4393561
 schema_version: 1
+external_ids:
+  wikidata: Q4393561

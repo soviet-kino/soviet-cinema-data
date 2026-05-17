@@ -4,7 +4,13 @@ name_original: Борис Натанович Стругацкий
 name_translit: Boris Strugatsky
 birth: 1933-04-15
 death: 2012-11-19
-nationality: [SU]
-roles: [author, screenwriter]
-sources: []
+nationality:
+- SU
+roles:
+- author
+- screenwriter
+sources:
+- https://www.wikidata.org/wiki/Q59054
 schema_version: 1
+external_ids:
+  wikidata: Q59054

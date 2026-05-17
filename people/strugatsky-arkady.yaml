@@ -4,7 +4,13 @@ name_original: Аркадий Натанович Стругацкий
 name_translit: Arkady Strugatsky
 birth: 1925-08-28
 death: 1991-10-12
-nationality: [SU]
-roles: [author, screenwriter]
-sources: []
+nationality:
+- SU
+roles:
+- author
+- screenwriter
+sources:
+- https://www.wikidata.org/wiki/Q61699
 schema_version: 1
+external_ids:
+  wikidata: Q61699

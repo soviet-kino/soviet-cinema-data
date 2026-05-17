@@ -3,7 +3,13 @@ name_ru: Николай Бурляев
 name_original: Николай Петрович Бурляев
 name_translit: Nikolai Burlyaev
 birth: 1946-08-03
-nationality: [SU]
-roles: [actor, director]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+- director
+sources:
+- https://www.wikidata.org/wiki/Q1964825
 schema_version: 1
+external_ids:
+  wikidata: Q1964825

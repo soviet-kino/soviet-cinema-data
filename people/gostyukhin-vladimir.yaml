@@ -3,7 +3,12 @@ name_ru: Владимир Гостюхин
 name_original: Владимир Васильевич Гостюхин
 name_translit: Vladimir Gostyukhin
 birth: 1946-03-10
-nationality: [SU]
-roles: [actor]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q2387480
 schema_version: 1
+external_ids:
+  wikidata: Q2387480

@@ -4,7 +4,12 @@ name_original: Альфред Гарриевич Шнитке
 name_translit: Alfred Schnittke
 birth: 1934-11-24
 death: 1998-08-03
-nationality: [SU]
-roles: [composer]
-sources: []
+nationality:
+- SU
+roles:
+- composer
+sources:
+- https://www.wikidata.org/wiki/Q158078
 schema_version: 1
+external_ids:
+  wikidata: Q158078

@@ -1,0 +1,39 @@
+id: voskhozhdenie-1976
+title_ru: Восхождение
+title_original: Восхождение
+title_translit: Voskhozhdenie
+title_en: The Ascent
+year: 1976
+country:
+- SU
+republic: RSFSR
+studio:
+- mosfilm
+director:
+- shepitko-larisa
+screenwriter:
+- shepitko-larisa
+- bykov-vasil
+composer:
+- schnittke-alfred
+cast:
+- person: plotnikov-boris
+  role: Сотников
+- person: gostyukhin-vladimir
+  role: Рыбак
+runtime_min: 111
+language:
+- ru
+genre:
+- drama
+- war
+- parable
+color: bw
+production_status: released
+censorship_status: released
+external_ids:
+  wikidata: Q760053
+  imdb: tt0075404
+sources:
+- https://www.wikidata.org/wiki/Q760053
+schema_version: 1

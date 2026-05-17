@@ -4,8 +4,12 @@ name_original: Эдуард Николаевич Артемьев
 name_translit: Eduard Artemyev
 birth: 1937-11-30
 death: 2022-12-29
-nationality: [SU]
-roles: [composer]
-# TODO: проверить wikidata Q-ID.
-sources: []
+nationality:
+- SU
+roles:
+- composer
+sources:
+- https://www.wikidata.org/wiki/Q706995
 schema_version: 1
+external_ids:
+  wikidata: Q706995

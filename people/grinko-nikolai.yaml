@@ -4,7 +4,12 @@ name_original: Микола Григорович Гринько
 name_translit: Nikolai Grinko
 birth: 1920-05-22
 death: 1989-04-10
-nationality: [SU]
-roles: [actor]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q603381
 schema_version: 1
+external_ids:
+  wikidata: Q603381

@@ -3,8 +3,12 @@ name_ru: Маргарита Терехова
 name_original: Маргарита Борисовна Терехова
 name_translit: Margarita Terekhova
 birth: 1942-08-25
-nationality: [SU]
-roles: [actress]
-# TODO: проверить wikidata Q-ID.
-sources: []
+nationality:
+- SU
+roles:
+- actress
+sources:
+- https://www.wikidata.org/wiki/Q271485
 schema_version: 1
+external_ids:
+  wikidata: Q271485

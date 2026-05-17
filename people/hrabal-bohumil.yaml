@@ -4,7 +4,13 @@ name_original: Bohumil Hrabal
 name_translit: Bohumil Hrabal
 birth: 1914-03-28
 death: 1997-02-03
-nationality: [CS]
-roles: [author, screenwriter]
-sources: []
+nationality:
+- CS
+roles:
+- author
+- screenwriter
+sources:
+- https://www.wikidata.org/wiki/Q242130
 schema_version: 1
+external_ids:
+  wikidata: Q242130

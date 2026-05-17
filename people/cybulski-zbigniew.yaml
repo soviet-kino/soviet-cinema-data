@@ -4,7 +4,12 @@ name_original: Zbigniew Cybulski
 name_translit: Zbigniew Cybulski
 birth: 1927-11-03
 death: 1967-01-08
-nationality: [PL]
-roles: [actor]
-sources: []
+nationality:
+- PL
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q168049
 schema_version: 1
+external_ids:
+  wikidata: Q168049

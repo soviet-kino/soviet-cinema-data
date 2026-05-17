@@ -4,7 +4,13 @@ name_original: Jerzy Andrzejewski
 name_translit: Jerzy Andrzejewski
 birth: 1909-08-19
 death: 1983-04-19
-nationality: [PL]
-roles: [author, screenwriter]
-sources: []
+nationality:
+- PL
+roles:
+- author
+- screenwriter
+sources:
+- https://www.wikidata.org/wiki/Q347767
 schema_version: 1
+external_ids:
+  wikidata: Q347767

@@ -4,7 +4,12 @@ name_original: Борис Григорьевич Плотников
 name_translit: Boris Plotnikov
 birth: 1949-04-02
 death: 2020-12-02
-nationality: [SU]
-roles: [actor]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q4365356
 schema_version: 1
+external_ids:
+  wikidata: Q4365356

@@ -4,7 +4,12 @@ name_original: Анатолий Алексеевич Солоницын
 name_translit: Anatoly Solonitsyn
 birth: 1934-08-30
 death: 1982-06-11
-nationality: [SU]
-roles: [actor]
-sources: []
+nationality:
+- SU
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q787038
 schema_version: 1
+external_ids:
+  wikidata: Q787038

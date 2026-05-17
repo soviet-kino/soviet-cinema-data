@@ -4,7 +4,12 @@ name_original: Josef Somr
 name_translit: Josef Somr
 birth: 1934-04-15
 death: 2022-10-16
-nationality: [CS]
-roles: [actor]
-sources: []
+nationality:
+- CS
+roles:
+- actor
+sources:
+- https://www.wikidata.org/wiki/Q555650
 schema_version: 1
+external_ids:
+  wikidata: Q555650
