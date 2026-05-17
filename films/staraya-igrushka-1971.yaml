@@ -1,0 +1,13 @@
+id: staraya-igrushka-1971
+title_ru: Старая игрушка
+title_original: Старая игрушка
+year: 1971
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q65169032
+  imdb: tt4486584
+sources:
+- https://www.wikidata.org/wiki/Q65169032
+schema_version: 1

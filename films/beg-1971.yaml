@@ -1,0 +1,13 @@
+id: beg-1971
+title_ru: Бег
+title_original: Бег
+year: 1971
+country:
+- SU
+runtime_min: 196
+external_ids:
+  wikidata: Q4080435
+  imdb: tt0065457
+sources:
+- https://www.wikidata.org/wiki/Q4080435
+schema_version: 1

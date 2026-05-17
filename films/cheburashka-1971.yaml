@@ -1,0 +1,13 @@
+id: cheburashka-1971
+title_ru: Чебурашка
+title_original: Чебурашка
+year: 1971
+country:
+- SU
+runtime_min: 19
+external_ids:
+  wikidata: Q4508116
+  imdb: tt0201520
+sources:
+- https://www.wikidata.org/wiki/Q4508116
+schema_version: 1
