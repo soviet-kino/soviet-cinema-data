@@ -1,0 +1,9 @@
+id: kerimova-flora
+name_ru: Флора Керимова
+roles:
+- actor
+external_ids:
+  wikidata: Q434919
+sources:
+- https://www.wikidata.org/wiki/Q434919
+schema_version: 1

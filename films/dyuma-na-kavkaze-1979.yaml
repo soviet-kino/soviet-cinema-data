@@ -7,6 +7,26 @@ country:
 external_ids:
   wikidata: Q4172244
   imdb: tt0976203
+  youtube: aKoTRmB19jE
 sources:
 - https://www.wikidata.org/wiki/Q4172244
 schema_version: 1
+screenwriter:
+- gabriadze-rezo
+cinematographer:
+- klimenko-yuriy
+cast:
+- person: kikabidze-vakhtang
+- person: pavlov-viktor-pavlovich
+- person: chkhikvadze-ramaz-grigorevich
+- person: etush-vladimir-abramovich
+- person: sebris-karlis
+- person: baranov-vyacheslav-vasilevich
+- person: ilchenko-viktor-leonidovich
+- person: kavzharadze-lika-vissarionovna
+- person: kartsev-roman-andreevich
+- person: ryzhov-ivan-petrovich
+- person: chkhaidze-vasiliy-isakovich
+- person: kavsadze-kakhi-davidovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: murk-urgo
+name_ru: Ürgo Mürk
+roles:
+- actor
+external_ids:
+  wikidata: Q132350305
+sources:
+- https://www.wikidata.org/wiki/Q132350305
+schema_version: 1

@@ -12,3 +12,5 @@ sources:
 schema_version: 1
 director:
 - brovkin-vyacheslav-vladimirovich
+cast:
+- person: plyatt-rostislav-yanovich

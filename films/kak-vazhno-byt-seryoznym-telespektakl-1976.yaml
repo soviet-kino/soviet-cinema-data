@@ -14,3 +14,9 @@ sources:
 schema_version: 1
 director:
 - belinskiy-aleksandr-arkadevich
+cast:
+- person: kaidanovsky-aleksandr
+- person: starygin-igor-vladimirovich
+- person: simonova-evgeniya-pavlovna
+- person: vasileva-tatyana-grigorevna
+- person: sukharevskaya-lidiya

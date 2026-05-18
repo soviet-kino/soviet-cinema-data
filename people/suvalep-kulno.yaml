@@ -1,0 +1,9 @@
+id: suvalep-kulno
+name_ru: Kulno Süvalep
+roles:
+- actor
+external_ids:
+  wikidata: Q12367712
+sources:
+- https://www.wikidata.org/wiki/Q12367712
+schema_version: 1

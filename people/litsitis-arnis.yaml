@@ -1,0 +1,9 @@
+id: litsitis-arnis
+name_ru: Арнис Лицитис
+roles:
+- actor
+external_ids:
+  wikidata: Q4264383
+sources:
+- https://www.wikidata.org/wiki/Q4264383
+schema_version: 1

@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q50390110
 schema_version: 1
+director:
+- kozachkov-valentin-fyodorovich
+screenwriter:
+- ryadchenko-ivan-ivanovich
+composer:
+- samoylov-mark-samoylovich
+cast:
+- person: yumatov-georgiy-aleksandrovich
+- person: pugovkin-mikhail-ivanovich
+- person: brondukov-borislav-nikolaevich
+- person: gribov-aleksey-nikolaevich
+- person: zubarev-valeriy
+- person: koperzhinskaya-nonna-kronidovna
+- person: krepkogorskaya-muza-viktorovna
+- person: merezhko-viktor
+- person: sokolov-stanislav-aleksandrovich
+- person: gennadiy-yalovich
+studio:
+- odesskaya-kinostudiya

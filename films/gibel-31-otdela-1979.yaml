@@ -22,3 +22,7 @@ composer:
 - rannap-reyn
 studio:
 - tallinfilm
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: klooren-enn
+- person: volmer-omar

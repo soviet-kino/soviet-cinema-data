@@ -1,0 +1,9 @@
+id: reutu-kolya
+name_ru: Коля Рэуту
+roles:
+- actor
+external_ids:
+  wikidata: Q1108017
+sources:
+- https://www.wikidata.org/wiki/Q1108017
+schema_version: 1

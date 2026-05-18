@@ -1,0 +1,9 @@
+id: nakas-napoleonas
+name_ru: Napoleonas Nakas
+roles:
+- actor
+external_ids:
+  wikidata: Q16465296
+sources:
+- https://www.wikidata.org/wiki/Q16465296
+schema_version: 1

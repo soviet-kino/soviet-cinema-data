@@ -1,0 +1,9 @@
+id: afganly-rza
+name_ru: Рза Афганлы
+roles:
+- actor
+external_ids:
+  wikidata: Q12220217
+sources:
+- https://www.wikidata.org/wiki/Q12220217
+schema_version: 1

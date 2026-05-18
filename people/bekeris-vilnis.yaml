@@ -1,0 +1,9 @@
+id: bekeris-vilnis
+name_ru: Вилнис Бекерис
+roles:
+- actor
+external_ids:
+  wikidata: Q4081307
+sources:
+- https://www.wikidata.org/wiki/Q4081307
+schema_version: 1

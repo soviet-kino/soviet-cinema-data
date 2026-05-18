@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q128011412
 schema_version: 1
+director:
+- fialko-oleg-borisovich
+cinematographer:
+- politov-viktor-grigorevich
+composer:
+- silvestrov-valentin-vasilevich
+cast:
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: bokalov-dmitriy-ivanovich
+- person: aktyor-denisov-aleksandr-petrovich
+- person: milyutin-aleksandr-nikolaevich
+- person: pashutin-aleksandr-sergeevich
+- person: skorobogatov-nikolay-arkadevich
+- person: tomkus-vitautas-romualdas
+- person: shevchuk-irina-borisovna
+- person: oleynik-nikolay-dmitrievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

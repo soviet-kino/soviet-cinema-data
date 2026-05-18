@@ -19,3 +19,7 @@ composer:
 - tormis-velo
 studio:
 - eesti-telefilm
+cast:
+- person: yukskyula-aarne-mati
+- person: kausi-albina
+- person: ilo-khelgi

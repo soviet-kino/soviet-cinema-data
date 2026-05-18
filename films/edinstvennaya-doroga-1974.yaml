@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4173996
 schema_version: 1
+director:
+- pavlovich-vladimir
+screenwriter:
+- trunin-vadim-vasilevich
+composer:
+- khachaturyan-karen
+cast:
+- person: dushan-yanichievich
+- person: boyanich-dragomir
+- person: kuznetsov-anatoliy
+- person: vladimir-popovich
+- person: mandich-velko
+- person: sidorenko-tatyana-ivanovna
+studio:
+- mosfilm
+- zeta-film

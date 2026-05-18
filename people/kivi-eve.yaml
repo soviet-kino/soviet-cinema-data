@@ -1,0 +1,9 @@
+id: kivi-eve
+name_ru: Эве Киви
+roles:
+- actor
+external_ids:
+  wikidata: Q1624839
+sources:
+- https://www.wikidata.org/wiki/Q1624839
+schema_version: 1

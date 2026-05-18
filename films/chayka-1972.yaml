@@ -17,9 +17,19 @@ director:
 screenwriter:
 - chekhov-anton-pavlovich
 - karasik-yuliy-yurevich
+- chekhov-anton
 cinematographer:
 - suslov-mikhail-petrovich
 composer:
 - schnittke-alfred
 studio:
 - mosfilm
+cast:
+- person: kopelyan-efim-zakharovich
+- person: saveleva-lyudmila-mikhaylovna
+- person: dzhigarkhanyan-armen-borisovich
+- person: yakovlev-yuriy-vasilevich
+- person: demidova-alla-sergeevna
+- person: pavlova-sofya-afinogenovna
+- person: plotnikov-nikolay-sergeevich
+- person: chetverikov-vladimir-anatolevich

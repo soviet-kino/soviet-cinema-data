@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4177633
 schema_version: 1
+director:
+- rozantsev-nikolay-vasilevich
+screenwriter:
+- ganina-mayya-anatolevna
+cinematographer:
+- chirov-aleksandr-viktorovich
+cast:
+- person: lavrov-kirill-yurevich
+- person: makarova-inna-vladimirovna
+studio:
+- lenfilm

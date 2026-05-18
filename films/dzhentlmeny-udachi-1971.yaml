@@ -8,6 +8,29 @@ runtime_min: 86
 external_ids:
   wikidata: Q625110
   imdb: tt0068519
+  youtube: 8tJPKSz6Gaw
 sources:
 - https://www.wikidata.org/wiki/Q625110
 schema_version: 1
+director:
+- seryy-aleksandr-ivanovich
+screenwriter:
+- daneliya-georgiy-nikolaevich
+- tokareva-viktoriya-samoylovna
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+composer:
+- gladkov-gennadiy
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: vidov-oleg-borisovich
+- person: leonov-evgeniy-pavlovich
+- person: sokolova-lyubov-sergeevna
+- person: kramarov-saveliy-viktorovich
+- person: vitsin-georgiy-mikhaylovich
+- person: olyalin-nikolay-vladimirovich
+- person: garin-erast-pavlovich
+- person: mazurova-ekaterina-yakovlevna
+- person: muratov-radner-zinyatovich
+studio:
+- mosfilm

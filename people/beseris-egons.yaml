@@ -1,0 +1,9 @@
+id: beseris-egons
+name_ru: Эгонс Бесерис
+roles:
+- actor
+external_ids:
+  wikidata: Q4085597
+sources:
+- https://www.wikidata.org/wiki/Q4085597
+schema_version: 1

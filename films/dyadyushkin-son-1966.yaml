@@ -8,6 +8,17 @@ runtime_min: 86
 external_ids:
   wikidata: Q4172452
   imdb: tt0060359
+  youtube: CrPPUMoOS-Q
 sources:
 - https://www.wikidata.org/wiki/Q4172452
 schema_version: 1
+director:
+- voinov-konstantin
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- ledenyov-roman-semyonovich
+cast:
+- person: martinson-sergey-aleksandrovich
+studio:
+- mosfilm

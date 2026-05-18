@@ -8,6 +8,15 @@ runtime_min: 585
 external_ids:
   wikidata: Q16514520
   imdb: tt8185440
+  youtube: _4qba0_--nY
 sources:
 - https://www.wikidata.org/wiki/Q16514520
 schema_version: 1
+director:
+- grachyova-alla-alekseevna
+screenwriter:
+- kozlov-sergey-grigorevich
+cinematographer:
+- mukhin-aleksandr
+studio:
+- kievnauchfilm

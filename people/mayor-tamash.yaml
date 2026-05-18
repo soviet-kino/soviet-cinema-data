@@ -1,0 +1,9 @@
+id: mayor-tamash
+name_ru: Тамаш Майор
+roles:
+- actor
+external_ids:
+  wikidata: Q1163695
+sources:
+- https://www.wikidata.org/wiki/Q1163695
+schema_version: 1

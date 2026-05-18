@@ -35,3 +35,9 @@ composer:
 studio:
 - mosfilm
 poster_commons: Pepelac2010.jpg
+cast:
+- person: lyubshin-stanislav-andreevich
+- person: leonov-evgeniy-pavlovich
+- person: yakovlev-yuriy-vasilevich
+- person: gabriadze-levan
+- person: garo-nikolay-mikhaylovich
