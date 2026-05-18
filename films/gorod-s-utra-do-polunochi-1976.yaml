@@ -8,6 +8,16 @@ runtime_min: 92
 external_ids:
   wikidata: Q4144892
   imdb: tt5375522
+  youtube: ADgsgriOv28
 sources:
 - https://www.wikidata.org/wiki/Q4144892
 schema_version: 1
+director:
+- vasilev-anatoliy-isaakovich
+screenwriter:
+- arkadev-lev-arkadevich
+- mironer-feliks-efimovich
+composer:
+- gevorgyan-evgeniy
+studio:
+- odesskaya-kinostudiya

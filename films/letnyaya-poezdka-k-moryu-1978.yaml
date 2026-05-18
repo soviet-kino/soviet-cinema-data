@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q15270714
   imdb: tt1733166
+  youtube: COnptKk2uRw
 sources:
 - https://www.wikidata.org/wiki/Q15270714
 schema_version: 1
+director:
+- semyon-davidovich-aranovich
+screenwriter:
+- klepikov-yuriy-nikolaevich
+cinematographer:
+- ilin-vladimir
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

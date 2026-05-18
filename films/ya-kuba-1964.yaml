@@ -8,6 +8,18 @@ runtime_min: 143
 external_ids:
   wikidata: Q2527730
   imdb: tt0058604
+  youtube: lt-RbV8KiC0
 sources:
 - https://www.wikidata.org/wiki/Q2527730
 schema_version: 1
+director:
+- kalatozov-mikhail-konstantinovich
+screenwriter:
+- evtushenko-evgeniy-aleksandrovich
+- barnet-enrike-pineda
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- farinyas-karlos
+studio:
+- mosfilm

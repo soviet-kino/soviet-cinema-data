@@ -8,6 +8,16 @@ runtime_min: 86
 external_ids:
   wikidata: Q4226047
   imdb: tt0073251
+  youtube: aro62hcoiYE
 sources:
 - https://www.wikidata.org/wiki/Q4226047
 schema_version: 1
+director:
+- keosayan-edmond
+screenwriter:
+- keosayan-edmond
+- isaev-konstantin-fyodorovich
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

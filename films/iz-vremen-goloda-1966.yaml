@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20507725
 schema_version: 1
+cinematographer:
+- atoyants-levon
+composer:
+- akhinyan-grigor
+studio:
+- armenfilm

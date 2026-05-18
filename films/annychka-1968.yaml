@@ -8,6 +8,17 @@ runtime_min: 83
 external_ids:
   wikidata: Q4769803
   imdb: tt0312363
+  youtube: MfVxSwW9c-w
 sources:
 - https://www.wikidata.org/wiki/Q4769803
 schema_version: 1
+director:
+- ivchenko-boris-viktorovich
+screenwriter:
+- ivchenko-viktor-illarionovich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- gomolyaka-vadim-borisovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

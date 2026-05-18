@@ -8,6 +8,17 @@ runtime_min: 79
 external_ids:
   wikidata: Q111534234
   imdb: tt0070210
+  youtube: F2JSUqCGtkE
 sources:
 - https://www.wikidata.org/wiki/Q111534234
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,14 @@ runtime_min: 83
 external_ids:
   wikidata: Q4156469
   imdb: tt0275810
+  youtube: Qi_X07HSkNE
 sources:
 - https://www.wikidata.org/wiki/Q4156469
 schema_version: 1
+director:
+- rondeli-david-evgenevich
+screenwriter:
+- ebralidze-rezo-semyonovich
+- severskiy-georgiy-leonidovich
+studio:
+- gruziya-film

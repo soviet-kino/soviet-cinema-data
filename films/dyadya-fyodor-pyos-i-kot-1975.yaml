@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q16647443
   imdb: tt9090056
+  youtube: 4tOvInyWQ-g
 sources:
 - https://www.wikidata.org/wiki/Q16647443
 schema_version: 1
+director:
+- surikova-lidiya-viktorovna
+- klepatskiy-yuriy
+screenwriter:
+- uspenskiy-eduard
+composer:
+- bykanov-anatoliy-dmitrievich
+studio:
+- ekran

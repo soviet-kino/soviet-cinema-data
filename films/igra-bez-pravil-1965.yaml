@@ -8,6 +8,17 @@ runtime_min: 96
 external_ids:
   wikidata: Q106764922
   imdb: tt0314193
+  youtube: KKcvBUBl67I
 sources:
 - https://www.wikidata.org/wiki/Q106764922
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+screenwriter:
+- sheynin-lev-romanovich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+composer:
+- afanasev-leonid
+studio:
+- sverdlovskaya-kinostudiya

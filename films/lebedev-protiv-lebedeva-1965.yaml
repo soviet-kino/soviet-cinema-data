@@ -8,6 +8,15 @@ runtime_min: 88
 external_ids:
   wikidata: Q4255823
   imdb: tt0177899
+  youtube: Jx8p8RlM9V0
 sources:
 - https://www.wikidata.org/wiki/Q4255823
 schema_version: 1
+director:
+- gabay-genrikh
+screenwriter:
+- mironer-feliks-efimovich
+composer:
+- denisov-edison-vasilevich
+studio:
+- mosfilm

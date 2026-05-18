@@ -8,6 +8,17 @@ runtime_min: 71
 external_ids:
   wikidata: Q4057255
   imdb: tt0149586
+  youtube: k8yp_tIrMCo
 sources:
 - https://www.wikidata.org/wiki/Q4057255
 schema_version: 1
+director:
+- korenev-aleksey-aleksandrovich
+screenwriter:
+- abu-bakar-akhmedkhan
+cinematographer:
+- kuznetsov-anatoliy-vasilevich
+composer:
+- kazhlaev-murad-magomedovich
+studio:
+- mosfilm

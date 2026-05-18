@@ -8,6 +8,15 @@ runtime_min: 96
 external_ids:
   wikidata: Q15270640
   imdb: tt0075458
+  youtube: r_hC738NMYE
 sources:
 - https://www.wikidata.org/wiki/Q15270640
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- kuznetsov-isay
+composer:
+- tariverdiev-mikael
+studio:
+- kinostudiya-imeni-m-gorkogo

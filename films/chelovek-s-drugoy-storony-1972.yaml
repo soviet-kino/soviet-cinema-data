@@ -8,6 +8,25 @@ runtime_min: 96
 external_ids:
   wikidata: Q18292205
   imdb: tt0066909
+  youtube: lhIs3c6kY7E
 sources:
 - https://www.wikidata.org/wiki/Q18292205
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+screenwriter:
+- braginskiy-emmanuel-veniaminovich
+- egorov-yuriy-pavlovich
+- stsenarist-solovyov-vasiliy-ivanovich
+- semichyov-volodya
+cinematographer:
+- dalkvist-oke
+- yakovich-mikhail-yakovlevich
+composer:
+- shtraus-iogann
+- lundsten-ralph
+- degeyter-per
+- fradkin-mark
+- syoderman-avgust
+studio:
+- kinostudiya-imeni-m-gorkogo

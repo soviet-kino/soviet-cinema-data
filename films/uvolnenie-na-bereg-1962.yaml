@@ -8,6 +8,15 @@ runtime_min: 88
 external_ids:
   wikidata: Q4468861
   imdb: tt0314826
+  youtube: vm6tIhIat0g
 sources:
 - https://www.wikidata.org/wiki/Q4468861
 schema_version: 1
+director:
+- mironer-feliks-efimovich
+screenwriter:
+- mironer-feliks-efimovich
+composer:
+- molchanov-kirill
+studio:
+- mosfilm

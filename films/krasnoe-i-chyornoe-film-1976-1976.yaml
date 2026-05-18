@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q4238708
   imdb: tt0074762
+  youtube: g6jFuvugivg
 sources:
 - https://www.wikidata.org/wiki/Q4238708
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+- sklyanskiy-georgiy-igorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

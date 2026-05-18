@@ -6,6 +6,16 @@ country:
 - SU
 external_ids:
   wikidata: Q116811376
+  youtube: YNK_g3zuHyQ
 sources:
 - https://www.wikidata.org/wiki/Q116811376
 schema_version: 1
+director:
+- karyuk-gennadiy-vasilevich
+screenwriter:
+- borodyanskiy-aleksandr-emmanuilovich
+- usov-anatoliy-nikolaevich
+composer:
+- kompozitor-vlasov-viktor-petrovich
+studio:
+- odesskaya-kinostudiya

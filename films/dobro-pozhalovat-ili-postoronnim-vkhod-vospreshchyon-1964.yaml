@@ -8,6 +8,20 @@ runtime_min: 74
 external_ids:
   wikidata: Q4163531
   imdb: tt0058022
+  youtube: e-r9XNmqQHk
 sources:
 - https://www.wikidata.org/wiki/Q4163531
 schema_version: 1
+director:
+- klimov-elem
+screenwriter:
+- lungin-semyon
+- nusinov-ilya
+cinematographer:
+- koroptsov-mikhail-dmitrievich
+- kuznetsov-anatoliy-vasilevich
+composer:
+- tariverdiev-mikael
+- yakushenko-igor
+studio:
+- mosfilm

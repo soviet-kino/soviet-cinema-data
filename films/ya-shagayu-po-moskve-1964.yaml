@@ -8,6 +8,17 @@ runtime_min: 74
 external_ids:
   wikidata: Q244999
   imdb: tt0057694
+  youtube: vbjs5zfxDMs
 sources:
 - https://www.wikidata.org/wiki/Q244999
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- shpalikov-gennadiy-fyodorovich
+cinematographer:
+- yusov-vadim
+composer:
+- petrov-andrey-pavlovich
+studio:
+- mosfilm

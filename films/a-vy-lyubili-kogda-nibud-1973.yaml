@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4053878
   imdb: tt0147799
+  youtube: SmtFy6pYdSk
 sources:
 - https://www.wikidata.org/wiki/Q4053878
 schema_version: 1
+director:
+- usov-igor-vladimirovich
+composer:
+- tsvetkov-igor-arkadevich
+studio:
+- lenfilm

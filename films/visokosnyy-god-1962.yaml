@@ -8,6 +8,11 @@ runtime_min: 94
 external_ids:
   wikidata: Q108658448
   imdb: tt0153576
+  youtube: iPKuXusspy8
 sources:
 - https://www.wikidata.org/wiki/Q108658448
 schema_version: 1
+director:
+- efros-anatoliy-vasilevich
+screenwriter:
+- panova-vera-fyodorovna

@@ -8,6 +8,17 @@ runtime_min: 73
 external_ids:
   wikidata: Q4224477
   imdb: tt0314279
+  youtube: Y0QJ3iEPrh4
 sources:
 - https://www.wikidata.org/wiki/Q4224477
 schema_version: 1
+director:
+- ivanov-viktor-mikhaylovich
+screenwriter:
+- stadnyuk-ivan-fotievich
+cinematographer:
+- ivanov-mikhail-viktorovich
+composer:
+- gomolyaka-vadim-borisovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

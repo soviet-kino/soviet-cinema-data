@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q15270535
   imdb: tt2602136
+  youtube: eTBoRyfMzd0
 sources:
 - https://www.wikidata.org/wiki/Q15270535
 schema_version: 1
+director:
+- novogrudskaya-marianna
+screenwriter:
+- golovanov-vladimir-antonovich
+cinematographer:
+- gaman-ernst-aleksandrovich
+studio:
+- ekran

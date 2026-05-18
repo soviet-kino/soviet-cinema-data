@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q16514557
   imdb: tt6159014
+  youtube: f7-535YwUYg
 sources:
 - https://www.wikidata.org/wiki/Q16514557
 schema_version: 1
+director:
+- nosyrev-leonid-viktorovich
+screenwriter:
+- nagibin-yuriy-markovich
+cinematographer:
+- rasulov-kabul-abdurakhmanovich
+studio:
+- soyuzmultfilm

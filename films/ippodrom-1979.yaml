@@ -8,6 +8,17 @@ runtime_min: 88
 external_ids:
   wikidata: Q4203007
   imdb: tt0401523
+  youtube: yMbd1bI3Dqo
 sources:
 - https://www.wikidata.org/wiki/Q4203007
 schema_version: 1
+director:
+- vasilevskiy-radomir
+screenwriter:
+- leonov-nikolay-ivanovich
+cinematographer:
+- pankov-vladimir
+composer:
+- dunaevskiy-maksim-isaakovich
+studio:
+- odesskaya-kinostudiya

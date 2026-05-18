@@ -8,6 +8,13 @@ runtime_min: 83
 external_ids:
   wikidata: Q114671766
   imdb: tt0127982
+  youtube: f2nMIwNK2Es
 sources:
 - https://www.wikidata.org/wiki/Q114671766
 schema_version: 1
+director:
+- voznesenskiy-igor-matveevich
+cinematographer:
+- zarafyan-inna
+studio:
+- kinostudiya-imeni-m-gorkogo

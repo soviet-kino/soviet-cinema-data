@@ -8,6 +8,17 @@ runtime_min: 97
 external_ids:
   wikidata: Q4466948
   imdb: tt0067894
+  youtube: ZGoRM0xRPTQ
 sources:
 - https://www.wikidata.org/wiki/Q4466948
 schema_version: 1
+director:
+- shepitko-larisa
+screenwriter:
+- shpalikov-gennadiy-fyodorovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

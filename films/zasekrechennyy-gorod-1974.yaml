@@ -8,6 +8,16 @@ runtime_min: 71
 external_ids:
   wikidata: Q4187846
   imdb: tt1934489
+  youtube: A87o-4Wjiok
 sources:
 - https://www.wikidata.org/wiki/Q4187846
 schema_version: 1
+director:
+- yuzovskiy-mikhail-iosifovich
+screenwriter:
+- kuchaev-andrey-leonidovich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

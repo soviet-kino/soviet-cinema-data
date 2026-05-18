@@ -8,6 +8,17 @@ runtime_min: 79
 external_ids:
   wikidata: Q4491373
   imdb: tt0175616
+  youtube: 6LN5sn8ktqE
 sources:
 - https://www.wikidata.org/wiki/Q4491373
 schema_version: 1
+director:
+- todorovskiy-pyotr-efimovich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- minkovetskiy-ilya-solomonovich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- mosfilm

@@ -8,6 +8,11 @@ runtime_min: 19
 external_ids:
   wikidata: Q4208816
   imdb: tt1332536
+  youtube: Bd-lt6-AceY
 sources:
 - https://www.wikidata.org/wiki/Q4208816
 schema_version: 1
+director:
+- dakhno-vladimir-avksentevich
+studio:
+- soyuzmultfilm

@@ -8,6 +8,15 @@ runtime_min: 98
 external_ids:
   wikidata: Q3650585
   imdb: tt0175294
+  youtube: eLOYeaX2Mic
 sources:
 - https://www.wikidata.org/wiki/Q3650585
 schema_version: 1
+director:
+- shengelaya-georgiy-nikolaevich
+screenwriter:
+- shengelaya-georgiy-nikolaevich
+composer:
+- tsabadze-georgiy
+studio:
+- gruziya-film

@@ -8,6 +8,15 @@ runtime_min: 135
 external_ids:
   wikidata: Q4183320
   imdb: tt3084568
+  youtube: w8qtStv2CIw
 sources:
 - https://www.wikidata.org/wiki/Q4183320
 schema_version: 1
+director:
+- aleksandrovich-nikolay-viktorovich
+screenwriter:
+- lvovskiy-mikhail
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- ekran

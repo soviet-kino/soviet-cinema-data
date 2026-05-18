@@ -8,6 +8,18 @@ runtime_min: 85
 external_ids:
   wikidata: Q4059405
   imdb: tt0312336
+  youtube: IJ_oukS5p0M
 sources:
 - https://www.wikidata.org/wiki/Q4059405
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- sherstobitov-evgeniy-firsovich
+cinematographer:
+- zhuravlyov-nikolay-viktorovich
+- vakulyuk-dmitriy-nikiforovich
+composer:
+- fattakh-azon-nurtinovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

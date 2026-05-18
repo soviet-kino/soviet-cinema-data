@@ -8,6 +8,15 @@ runtime_min: 63
 external_ids:
   wikidata: Q65199132
   imdb: tt5237710
+  youtube: Zh4E5-OglSk
 sources:
 - https://www.wikidata.org/wiki/Q65199132
 schema_version: 1
+director:
+- zaytsev-dmitriy-evgenevich
+cinematographer:
+- zaytsev-dmitriy-evgenevich
+composer:
+- pyotr-petrovich-alkhimovich
+studio:
+- belarusfilm

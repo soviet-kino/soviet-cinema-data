@@ -8,6 +8,17 @@ runtime_min: 72
 external_ids:
   wikidata: Q4499643
   imdb: tt0170010
+  youtube: 9m_3M1tu_g8
 sources:
 - https://www.wikidata.org/wiki/Q4499643
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- atarov-nikolay
+cinematographer:
+- tutunov-gasan
+composer:
+- frenkel-yan-abramovich
+studio:
+- kinostudiya-imeni-m-gorkogo

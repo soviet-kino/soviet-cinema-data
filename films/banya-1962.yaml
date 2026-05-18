@@ -4,11 +4,22 @@ title_original: Баня
 year: 1962
 country:
 - SU
-# TODO: runtime_min — в Wikidata указано аномальное значение 3192,
-# отброшено импортёром. Уточнить вручную из титров.
 external_ids:
   wikidata: Q20636418
   imdb: tt0054662
 sources:
 - https://www.wikidata.org/wiki/Q20636418
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+- karanovich-anatoliy-georgievich
+screenwriter:
+- yutkevich-sergey-iosifovich
+- karanovich-anatoliy-georgievich
+cinematographer:
+- aretskiy-boris-solomonovich
+- kamenetskiy-mikhail-abramovich
+composer:
+- shchedrin-rodion-konstantinovich
+studio:
+- soyuzmultfilm

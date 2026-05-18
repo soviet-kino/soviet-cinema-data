@@ -8,6 +8,18 @@ runtime_min: 100
 external_ids:
   wikidata: Q4158938
   imdb: tt0313962
+  youtube: 6jkGfhQs19Q
 sources:
 - https://www.wikidata.org/wiki/Q4158938
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+screenwriter:
+- zemlyak-vasiliy-sidorovich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- kompozitor-vlasov-viktor-petrovich
+- stepanov-lev-borisovich
+studio:
+- odesskaya-kinostudiya

@@ -8,6 +8,15 @@ runtime_min: 64
 external_ids:
   wikidata: Q65200730
   imdb: tt4842572
+  youtube: hwHZnAzGfoE
 sources:
 - https://www.wikidata.org/wiki/Q65200730
 schema_version: 1
+director:
+- popov-leonid-sergeevich
+screenwriter:
+- dmitriev-yuriy-dmitrievich
+composer:
+- kataev-ilya-evgenevich
+studio:
+- sverdlovskaya-kinostudiya

@@ -1,0 +1,9 @@
+id: dmitriy-shostakovich
+name_ru: Дмитрий Шостакович
+roles:
+- composer
+external_ids:
+  wikidata: Q80135
+sources:
+- https://www.wikidata.org/wiki/Q80135
+schema_version: 1

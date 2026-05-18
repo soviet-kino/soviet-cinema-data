@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q4516126
   imdb: tt0167827
+  youtube: 9BxaJnqMmaU
 sources:
 - https://www.wikidata.org/wiki/Q4516126
 schema_version: 1
+director:
+- lisitsian-tamara-nikolaevna
+screenwriter:
+- krivin-feliks-davidovich
+- marshak-samuil-yakovlevich
+- lisitsian-tamara-nikolaevna
+composer:
+- kazenin-vladislav-igorevich
+studio:
+- mosfilm

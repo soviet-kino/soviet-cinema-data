@@ -1,0 +1,9 @@
+id: tolstoy-lev-nikolaevich
+name_ru: Лев Николаевич Толстой
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q7243
+sources:
+- https://www.wikidata.org/wiki/Q7243
+schema_version: 1

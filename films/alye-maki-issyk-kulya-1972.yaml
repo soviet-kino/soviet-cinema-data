@@ -8,6 +8,11 @@ runtime_min: 100
 external_ids:
   wikidata: Q21635459
   imdb: tt0174464
+  youtube: FZdToi1-eVY
 sources:
 - https://www.wikidata.org/wiki/Q21635459
 schema_version: 1
+director:
+- shamshiev-bolotbek
+studio:
+- kyrgyzfilm

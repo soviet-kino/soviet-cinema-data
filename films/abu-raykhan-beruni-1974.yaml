@@ -8,6 +8,17 @@ runtime_min: 150
 external_ids:
   wikidata: Q4055164
   imdb: tt0299445
+  youtube: A5Zta6wt0jM
 sources:
 - https://www.wikidata.org/wiki/Q4055164
 schema_version: 1
+director:
+- abbasov-shukhrat-salikhovich
+screenwriter:
+- abbasov-shukhrat-salikhovich
+cinematographer:
+- fayziev-khatam-khalmatovich
+composer:
+- vildanov-rumil-dzhiangirovich
+studio:
+- uzbekfilm

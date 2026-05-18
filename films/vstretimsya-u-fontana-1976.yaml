@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4127679
   imdb: tt0337440
+  youtube: 6exdFedZ4OM
 sources:
 - https://www.wikidata.org/wiki/Q4127679
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+screenwriter:
+- eyramdzhan-anatoliy
+composer:
+- stikhin-evgeniy-mikhaylovich
+studio:
+- sverdlovskaya-kinostudiya

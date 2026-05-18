@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q3472528
   imdb: tt0074081
+  youtube: ytFv-si1X68
 sources:
 - https://www.wikidata.org/wiki/Q3472528
 schema_version: 1
+director:
+- semyon-davidovich-aranovich
+screenwriter:
+- gorokhov-aleksandr-sergeevich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

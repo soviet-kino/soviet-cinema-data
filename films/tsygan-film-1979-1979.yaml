@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4506301
   imdb: tt0293668
+  youtube: fPD4gejxSmY
 sources:
 - https://www.wikidata.org/wiki/Q4506301
 schema_version: 1
+director:
+- blank-aleksandr-isaakovich
+screenwriter:
+- blank-aleksandr-isaakovich
+cinematographer:
+- vasilkov-nikolay-aleksandrovich
+composer:
+- zubkov-valeriy-aleksandrovich
+studio:
+- odesskaya-kinostudiya

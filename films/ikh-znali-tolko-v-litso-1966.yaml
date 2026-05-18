@@ -8,6 +8,17 @@ runtime_min: 92
 external_ids:
   wikidata: Q4205409
   imdb: tt0173921
+  youtube: 9GttswTHUgI
 sources:
 - https://www.wikidata.org/wiki/Q4205409
 schema_version: 1
+director:
+- timonishin-anton-grigorevich
+screenwriter:
+- lukovskiy-igor
+cinematographer:
+- vereshchak-vadim-semyonovich
+composer:
+- shamo-igor
+studio:
+- kinostudiya-imeni-a-dovzhenko

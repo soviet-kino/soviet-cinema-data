@@ -8,6 +8,15 @@ runtime_min: 76
 external_ids:
   wikidata: Q4188959
   imdb: tt5876374
+  youtube: _fFDYnANHAc
 sources:
 - https://www.wikidata.org/wiki/Q4188959
 schema_version: 1
+director:
+- selyanin-gleb-ivanovich
+screenwriter:
+- selyanin-gleb-ivanovich
+composer:
+- tsvetkov-igor-arkadevich
+studio:
+- pyatyy-kanal

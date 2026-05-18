@@ -8,6 +8,15 @@ runtime_min: 26
 external_ids:
   wikidata: Q4226037
   imdb: tt0179922
+  youtube: qdcCuS3QoQA
 sources:
 - https://www.wikidata.org/wiki/Q4226037
 schema_version: 1
+director:
+- morgunov-evgeniy-aleksandrovich
+cinematographer:
+- kosmatov-leonid
+composer:
+- dzerzhinskiy-ivan-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

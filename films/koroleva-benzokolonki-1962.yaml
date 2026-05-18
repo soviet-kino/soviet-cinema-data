@@ -8,6 +8,18 @@ runtime_min: 78
 external_ids:
   wikidata: Q1965438
   imdb: tt0057232
+  youtube: 7jA15rKF2tk
 sources:
 - https://www.wikidata.org/wiki/Q1965438
 schema_version: 1
+director:
+- mishurin-aleksey-aleksandrovich
+- litus-nikolay-ignatevich
+screenwriter:
+- lubenskiy-pyotr-aleksandrovich
+cinematographer:
+- kuzmich-pishchikov-aleksandr
+composer:
+- zubtsov-evgeniy-nikitovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -8,6 +8,13 @@ runtime_min: 92
 external_ids:
   wikidata: Q85858335
   imdb: tt0078858
+  youtube: -lkyvDXJVPs
 sources:
 - https://www.wikidata.org/wiki/Q85858335
 schema_version: 1
+director:
+- malyukov-andrey
+composer:
+- saulskiy-yuriy
+studio:
+- mosfilm

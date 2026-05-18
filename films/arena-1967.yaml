@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4069001
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+screenwriter:
+- samsonov-samson-iosifovich
+- kapitanovskiy-vladimir-evgenevich
+cinematographer:
+- suslov-mikhail-petrovich
+- bolshakov-nikolay-ivanovich
+composer:
+- artemyev-eduard
+studio:
+- mosfilm

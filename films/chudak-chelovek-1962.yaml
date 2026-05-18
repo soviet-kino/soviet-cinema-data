@@ -8,6 +8,17 @@ runtime_min: 63
 external_ids:
   wikidata: Q81972525
   imdb: tt5018756
+  youtube: ZF9DI0ZHR0c
 sources:
 - https://www.wikidata.org/wiki/Q81972525
 schema_version: 1
+director:
+- kochetov-vladimir
+screenwriter:
+- logvinenko-vitaliy-andreevich
+cinematographer:
+- lukanev-nikolay-deonisievich
+composer:
+- zubtsov-evgeniy-nikitovich
+studio:
+- odesskaya-kinostudiya

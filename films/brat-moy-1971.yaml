@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q65250168
   imdb: tt2896996
+  youtube: tyXW1thouCY
 sources:
 - https://www.wikidata.org/wiki/Q65250168
 schema_version: 1
+director:
+- karsakbaev-abdulla
+composer:
+- tlendiev-nurgisa-atabaevich
+studio:
+- kazakhfilm

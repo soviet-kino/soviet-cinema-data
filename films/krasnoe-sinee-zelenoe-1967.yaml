@@ -8,6 +8,13 @@ runtime_min: 62
 external_ids:
   wikidata: Q113126491
   imdb: tt5048540
+  youtube: y2V7dC-pz7o
 sources:
 - https://www.wikidata.org/wiki/Q113126491
 schema_version: 1
+director:
+- grigorev-mikhail-grigorevich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+studio:
+- mosfilm

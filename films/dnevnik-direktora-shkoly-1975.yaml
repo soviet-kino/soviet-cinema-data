@@ -8,6 +8,15 @@ runtime_min: 78
 external_ids:
   wikidata: Q4163082
   imdb: tt0072885
+  youtube: XrGxdENdy1c
 sources:
 - https://www.wikidata.org/wiki/Q4163082
 schema_version: 1
+director:
+- frumin-boris-moiseevich
+screenwriter:
+- grebnev-anatoliy
+composer:
+- lebedev-viktor-mikhaylovich
+studio:
+- lenfilm

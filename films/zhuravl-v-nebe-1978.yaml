@@ -8,6 +8,12 @@ runtime_min: 92
 external_ids:
   wikidata: Q65200412
   imdb: tt0076956
+  youtube: FLm2Aok4VM0
 sources:
 - https://www.wikidata.org/wiki/Q65200412
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+- sirenko-arkadiy-vasilevich
+studio:
+- mosfilm

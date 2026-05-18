@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4283253
   imdb: tt3389506
+  youtube: cEAxlmmXXTk
 sources:
 - https://www.wikidata.org/wiki/Q4283253
 schema_version: 1
+director:
+- linkov-sergey-yakovlevich
+screenwriter:
+- yurovskiy-aleksandr-yakovlevich
+composer:
+- frid-grigoriy-samuilovich
+studio:
+- odesskaya-kinostudiya
+poster_commons: На съёмочной площадке «Маршал Революции» Геннадий Егоров в роли Фрунзе,
+  Юрий Соловьев в роли Гусева.jpg

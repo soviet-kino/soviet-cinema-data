@@ -8,6 +8,13 @@ runtime_min: 70
 external_ids:
   wikidata: Q32686
   imdb: tt0171334
+  youtube: Q4vASrxgOwU
 sources:
 - https://www.wikidata.org/wiki/Q32686
 schema_version: 1
+director:
+- khamraev-ali-irgashalievich
+composer:
+- leviyev-manas
+studio:
+- uzbekfilm

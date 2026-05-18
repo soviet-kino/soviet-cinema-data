@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4155619
   imdb: tt0383329
+  youtube: A0OuU2PWoOE
 sources:
 - https://www.wikidata.org/wiki/Q4155619
 schema_version: 1
+director:
+- ogly-ibragimov-azhdar-mutallim
+screenwriter:
+- ogly-ibragimov-azhdar-mutallim
+- guseynov-isa-mustafa
+cinematographer:
+- petrichenko-konstantin
+composer:
+- melikov-arif
+studio:
+- mosfilm
+- azerbaydzhanfilm

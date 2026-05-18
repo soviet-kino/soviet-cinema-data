@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106625466
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

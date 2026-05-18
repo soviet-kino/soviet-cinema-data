@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q27231121
   imdb: tt0413958
+  youtube: nHT-kkBaV0w
 sources:
 - https://www.wikidata.org/wiki/Q27231121
 schema_version: 1
+director:
+- nitochkin-anatoliy-dmitrievich
+composer:
+- firtich-georgiy
+studio:
+- ekran

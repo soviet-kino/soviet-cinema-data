@@ -8,6 +8,20 @@ runtime_min: 87
 external_ids:
   wikidata: Q4184537
   imdb: tt0058767
+  youtube: g5W9rmrICE8
 sources:
 - https://www.wikidata.org/wiki/Q4184537
 schema_version: 1
+director:
+- bykov-leonid-fyodorovich
+screenwriter:
+- gindin-mikhail-efimovich
+- ryzhov-kim
+- ryabkin-genrikh
+cinematographer:
+- ivanov-sergey-vasilevich
+- grammatikov-vadim-aleksandrovich
+composer:
+- petrov-andrey-pavlovich
+studio:
+- lenfilm

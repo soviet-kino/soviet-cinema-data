@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q4180234
   imdb: tt0069541
+  youtube: OsRSZhQubHc
 sources:
 - https://www.wikidata.org/wiki/Q4180234
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- mironer-feliks-efimovich
+composer:
+- vivaldi-antonio
+studio:
+- odesskaya-kinostudiya

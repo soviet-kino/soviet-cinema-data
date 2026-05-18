@@ -8,6 +8,16 @@ runtime_min: 70
 external_ids:
   wikidata: Q1194343
   imdb: tt0069544
+  youtube: n7cfy-uU6LY
 sources:
 - https://www.wikidata.org/wiki/Q1194343
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- rou-aleksandr-arturovich
+- potyomkin-lev-lvovich
+composer:
+- filippenko-arkadiy-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

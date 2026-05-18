@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4197977
   imdb: tt2256578
+  youtube: UhcjXd6N9RU
 sources:
 - https://www.wikidata.org/wiki/Q4197977
 schema_version: 1
+director:
+- dobrolyubov-igor-mikhaylovich
+screenwriter:
+- ancharov-mikhail
+cinematographer:
+- tsvetkov-yuriy-nikolaevich
+composer:
+- grinblat-romuald-samuilovich
+studio:
+- belarusfilm

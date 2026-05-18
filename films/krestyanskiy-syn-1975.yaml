@@ -8,6 +8,13 @@ runtime_min: 86
 external_ids:
   wikidata: Q4240472
   imdb: tt4844700
+  youtube: MZcwzPoLkaE
 sources:
 - https://www.wikidata.org/wiki/Q4240472
 schema_version: 1
+director:
+- raush-irma-yakovlevna
+composer:
+- artemyev-eduard
+studio:
+- kinostudiya-imeni-m-gorkogo

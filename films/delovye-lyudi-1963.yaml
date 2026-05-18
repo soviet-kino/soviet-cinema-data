@@ -8,6 +8,17 @@ runtime_min: 79
 external_ids:
   wikidata: Q4157228
   imdb: tt0056982
+  youtube: Y3TMti_iK28
 sources:
 - https://www.wikidata.org/wiki/Q4157228
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+cinematographer:
+- brovin-konstantin-petrovich
+composer:
+- firtich-georgiy
+studio:
+- mosfilm

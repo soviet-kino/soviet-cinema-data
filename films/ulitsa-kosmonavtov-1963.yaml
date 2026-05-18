@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q108791433
   imdb: tt4184994
+  youtube: LcXu6BFG9Q8
 sources:
 - https://www.wikidata.org/wiki/Q108791433
 schema_version: 1
+director:
+- roshal-stroeva-marianna-grigorevna
+screenwriter:
+- listov-semyon
+cinematographer:
+- minkovetskiy-ilya-solomonovich
+composer:
+- konchakov-valentin-andreevich
+studio:
+- kyrgyzfilm

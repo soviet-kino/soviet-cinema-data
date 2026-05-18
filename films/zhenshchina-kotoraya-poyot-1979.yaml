@@ -8,6 +8,18 @@ runtime_min: 79
 external_ids:
   wikidata: Q925962
   imdb: tt0169403
+  youtube: _zxifDC92yc
 sources:
 - https://www.wikidata.org/wiki/Q925962
 schema_version: 1
+director:
+- kinematografist-orlov-aleksandr-sergeevich
+screenwriter:
+- stepanov-anatoliy-yakovlevich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- pugachyova-alla
+- zatsepin-aleksandr
+studio:
+- mosfilm

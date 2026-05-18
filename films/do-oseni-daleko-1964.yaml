@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q4163332
   imdb: tt2395309
+  youtube: aVxUnudbDNE
 sources:
 - https://www.wikidata.org/wiki/Q4163332
 schema_version: 1
+director:
+- brench-aloiz
+screenwriter:
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- briedis-yanis
+composer:
+- pauls-raymond
+studio:
+- rizhskaya-kinostudiya

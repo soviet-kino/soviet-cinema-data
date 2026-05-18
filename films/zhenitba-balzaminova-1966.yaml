@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q1963018
   imdb: tt0058770
+  youtube: PYdfEMNkVwI
 sources:
 - https://www.wikidata.org/wiki/Q1963018
 schema_version: 1
+director:
+- voinov-konstantin
+screenwriter:
+- voinov-konstantin
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+composer:
+- chaykovskiy-boris-aleksandrovich
+studio:
+- mosfilm

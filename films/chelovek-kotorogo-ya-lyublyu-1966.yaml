@@ -8,6 +8,16 @@ runtime_min: 94
 external_ids:
   wikidata: Q85868074
   imdb: tt0131337
+  youtube: esOzgD8ojsg
 sources:
 - https://www.wikidata.org/wiki/Q85868074
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- karasik-yuliy-yurevich
+- zavalnyuk-leonid-andreevich
+composer:
+- levitin-yuriy
+studio:
+- mosfilm

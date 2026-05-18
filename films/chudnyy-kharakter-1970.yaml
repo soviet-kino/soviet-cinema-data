@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q15271110
   imdb: tt0173734
+  youtube: hJAkp32sDwo
 sources:
 - https://www.wikidata.org/wiki/Q15271110
 schema_version: 1
+director:
+- voinov-konstantin
+screenwriter:
+- radzinskiy-edvard-stanislavovich
+cinematographer:
+- olonovskiy-nikolay
+composer:
+- artemyev-eduard
+studio:
+- mosfilm

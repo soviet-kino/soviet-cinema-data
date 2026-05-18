@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4113875
   imdb: tt0213309
+  youtube: owzE3voBfsw
 sources:
 - https://www.wikidata.org/wiki/Q4113875
 schema_version: 1
+director:
+- stepantsev-boris-pavlovich
+screenwriter:
+- korostylyov-vadim-nikolaevich
+cinematographer:
+- druyan-mikhail
+composer:
+- yakushenko-igor
+studio:
+- soyuzmultfilm

@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q30957352
 schema_version: 1
+director:
+- ershov-mikhail-ivanovich
+- sokolov-viktor-fyodorovich
+cinematographer:
+- timkovskiy-boris-viktorovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- lenfilm

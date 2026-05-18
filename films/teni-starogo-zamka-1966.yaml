@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4454697
   imdb: tt2272482
+  youtube: d7tGuIXgBNc
 sources:
 - https://www.wikidata.org/wiki/Q4454697
 schema_version: 1
+director:
+- muat-mariya-pavlovna
+screenwriter:
+- muat-mariya-pavlovna
+composer:
+- ziv-mikhail-pavlovich

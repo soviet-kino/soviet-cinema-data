@@ -8,6 +8,15 @@ runtime_min: 85
 external_ids:
   wikidata: Q4195617
   imdb: tt0319585
+  youtube: i5-uronjdg4
 sources:
 - https://www.wikidata.org/wiki/Q4195617
 schema_version: 1
+director:
+- dobrolyubov-igor-mikhaylovich
+screenwriter:
+- savchenko-valeriy-igorevich
+cinematographer:
+- zaytsev-dmitriy-evgenevich
+studio:
+- belarusfilm

@@ -8,6 +8,18 @@ runtime_min: 105
 external_ids:
   wikidata: Q4146327
   imdb: tt0212194
+  youtube: Ay-vJ4OUDjM
 sources:
 - https://www.wikidata.org/wiki/Q4146327
 schema_version: 1
+director:
+- egiazarov-gavriil-georgievich
+screenwriter:
+- bondarev-yuriy
+- grigorev-evgeniy-aleksandrovich
+cinematographer:
+- dobronravov-fyodor
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

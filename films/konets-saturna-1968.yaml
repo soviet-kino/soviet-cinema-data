@@ -8,6 +8,15 @@ runtime_min: 91
 external_ids:
   wikidata: Q4230741
   imdb: tt0168029
+  youtube: Q9N6YpbiIzM
 sources:
 - https://www.wikidata.org/wiki/Q4230741
 schema_version: 1
+director:
+- azarov-villen-abramovich
+screenwriter:
+- ardamatskiy-vasiliy
+composer:
+- flyarkovskiy-aleksandr-georgievich
+studio:
+- mosfilm

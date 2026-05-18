@@ -8,6 +8,19 @@ runtime_min: 93
 external_ids:
   wikidata: Q4058728
   imdb: tt0060083
+  youtube: ea1zhARC0rQ
 sources:
 - https://www.wikidata.org/wiki/Q4058728
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- bykov-rolan-antonovich
+- korostylyov-vadim-nikolaevich
+cinematographer:
+- yakushev-viktor-mikhaylovich
+- tsekavyy-gennadiy
+composer:
+- chaykovskiy-boris-aleksandrovich
+studio:
+- mosfilm

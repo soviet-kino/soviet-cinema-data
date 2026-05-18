@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4518908
   imdb: tt0313899
+  youtube: aF_JGW8moxc
 sources:
 - https://www.wikidata.org/wiki/Q4518908
 schema_version: 1
+director:
+- bobrovskiy-anatoliy-alekseevich
+screenwriter:
+- kuznetsov-vladimir-iovich
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

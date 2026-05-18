@@ -8,6 +8,15 @@ runtime_min: 84
 external_ids:
   wikidata: Q46996322
   imdb: tt0064221
+  youtube: grdTDT2JkEg
 sources:
 - https://www.wikidata.org/wiki/Q46996322
 schema_version: 1
+director:
+- grigorev-yuriy-valentinovich
+screenwriter:
+- baklanov-grigoriy-yakovlevich
+composer:
+- rybnikov-aleksey
+studio:
+- kinostudiya-imeni-m-gorkogo

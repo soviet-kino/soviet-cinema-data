@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4127684
   imdb: tt0335539
+  youtube: _I40wPQN-yQ
 sources:
 - https://www.wikidata.org/wiki/Q4127684
 schema_version: 1
+director:
+- shulman-iosif-abramovich
+screenwriter:
+- stsenarist-gusakov-vladimir-grigorevich
+cinematographer:
+- kuchar-feliks-ayzikovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- belarusfilm

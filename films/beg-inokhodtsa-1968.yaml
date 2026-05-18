@@ -8,6 +8,17 @@ runtime_min: 81
 external_ids:
   wikidata: Q43325516
   imdb: tt0228751
+  youtube: XVfArrDM6eY
 sources:
 - https://www.wikidata.org/wiki/Q43325516
 schema_version: 1
+director:
+- urusevskiy-sergey-pavlovich
+screenwriter:
+- aytmatov-chingiz-torekulovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- mosfilm

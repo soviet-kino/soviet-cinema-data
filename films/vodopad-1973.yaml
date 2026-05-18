@@ -7,6 +7,13 @@ country:
 runtime_min: 70
 external_ids:
   wikidata: Q108854335
+  youtube: Cu2AADEpLCQ
 sources:
 - https://www.wikidata.org/wiki/Q108854335
 schema_version: 1
+director:
+- boretskiy-yuriy
+screenwriter:
+- dyadyuchenko-leonid-borisovich
+studio:
+- kyrgyzfilm

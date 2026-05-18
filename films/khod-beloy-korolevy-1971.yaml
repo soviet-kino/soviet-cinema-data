@@ -8,6 +8,18 @@ runtime_min: 95
 external_ids:
   wikidata: Q15271088
   imdb: tt0067299
+  youtube: KYW0snd0r6w
 sources:
 - https://www.wikidata.org/wiki/Q15271088
 schema_version: 1
+director:
+- sadovskiy-viktor-aleksandrovich
+screenwriter:
+- kassil-lev-abramovich
+- sadovskiy-viktor-aleksandrovich
+cinematographer:
+- timkovskiy-boris-viktorovich
+composer:
+- chistyakov-vladlen
+studio:
+- lenfilm

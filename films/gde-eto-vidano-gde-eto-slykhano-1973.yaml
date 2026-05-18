@@ -8,6 +8,15 @@ runtime_min: 26
 external_ids:
   wikidata: Q4134611
   imdb: tt0338055
+  youtube: P6xmSZCIZpI
 sources:
 - https://www.wikidata.org/wiki/Q4134611
 schema_version: 1
+director:
+- gorlov-valentin-anatolevich
+screenwriter:
+- zvereva-mariya-izoldovna
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- lenfilm

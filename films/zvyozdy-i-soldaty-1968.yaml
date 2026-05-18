@@ -8,6 +8,18 @@ runtime_min: 90
 external_ids:
   wikidata: Q873313
   imdb: tt0061537
+  youtube: wAi9yOWJbcw
 sources:
 - https://www.wikidata.org/wiki/Q873313
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- yancho-miklosh
+- khernadi-gyula
+- mdivani-georgiy
+cinematographer:
+- shomlo-tamash
+studio:
+- mosfilm
+- mafilm

@@ -8,6 +8,18 @@ runtime_min: 91
 external_ids:
   wikidata: Q4229153
   imdb: tt0055056
+  youtube: hwCEetViBZE
 sources:
 - https://www.wikidata.org/wiki/Q4229153
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+screenwriter:
+- egorov-yuriy-pavlovich
+- figurovskiy-nikolay-nikolaevich
+cinematographer:
+- shatrov-igor-vladimirovich
+composer:
+- fradkin-mark
+studio:
+- kinostudiya-imeni-m-gorkogo

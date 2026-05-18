@@ -8,6 +8,17 @@ runtime_min: 78
 external_ids:
   wikidata: Q1965342
   imdb: tt0179925
+  youtube: lEuaHYrLIIo
 sources:
 - https://www.wikidata.org/wiki/Q1965342
 schema_version: 1
+director:
+- vulfovich-teodor-yurevich
+screenwriter:
+- sevela-efraim
+cinematographer:
+- rubashkin-samuil-yakovlevich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- mosfilm

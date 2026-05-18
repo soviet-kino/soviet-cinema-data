@@ -8,6 +8,18 @@ runtime_min: 102
 external_ids:
   wikidata: Q4227944
   imdb: tt0141521
+  youtube: mncZ5A4aZBk
 sources:
 - https://www.wikidata.org/wiki/Q4227944
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- aksyonov-vasiliy-pavlovich
+- sakharov-aleksey-nikolaevich
+cinematographer:
+- nikolaev-vladimir-vasilevich
+composer:
+- levitin-yuriy
+studio:
+- mosfilm

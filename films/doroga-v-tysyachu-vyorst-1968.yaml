@@ -8,6 +8,18 @@ runtime_min: 79
 external_ids:
   wikidata: Q65250421
   imdb: tt0346891
+  youtube: ijCoVN0FgIU
 sources:
 - https://www.wikidata.org/wiki/Q65250421
 schema_version: 1
+director:
+- karpov-aleksandr-yakovlevich
+screenwriter:
+- iskakov-kalikhan
+- karpov-aleksandr-yakovlevich
+cinematographer:
+- aranyshev-mikhail-fyodorovich
+composer:
+- khagagortyan-eduard
+studio:
+- kazakhfilm

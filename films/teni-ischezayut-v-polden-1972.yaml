@@ -8,6 +8,19 @@ runtime_min: 492
 external_ids:
   wikidata: Q4454696
   imdb: tt1183616
+  youtube: 03kj8o3hgb4
 sources:
 - https://www.wikidata.org/wiki/Q4454696
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+screenwriter:
+- ivanov-anatoliy-stepanovich
+- vitol-arnold-yanovich
+cinematographer:
+- emelyanov-pyotr-grigorevich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

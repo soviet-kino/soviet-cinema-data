@@ -8,6 +8,18 @@ runtime_min: 81
 external_ids:
   wikidata: Q7731993
   imdb: tt0175345
+  youtube: 2Zi71IvGuPw
 sources:
 - https://www.wikidata.org/wiki/Q7731993
 schema_version: 1
+director:
+- solntseva-yuliya-ippolitovna
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- temerin-aleksey-sergeevich
+composer:
+- popov-gavriil-nikolaevich
+studio:
+- mosfilm
+- kinostudiya-imeni-a-dovzhenko

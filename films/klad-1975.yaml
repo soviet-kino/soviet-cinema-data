@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q65200878
   imdb: tt4844524
+  youtube: aenYJI3z_4M
 sources:
 - https://www.wikidata.org/wiki/Q65200878
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+cinematographer:
+- lesnikov-anatoliy-egorovich
+composer:
+- gubaydulina-sofiya-asgatovna
+studio:
+- sverdlovskaya-kinostudiya

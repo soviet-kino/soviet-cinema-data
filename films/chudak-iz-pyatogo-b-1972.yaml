@@ -8,6 +8,18 @@ runtime_min: 86
 external_ids:
   wikidata: Q4517590
   imdb: tt0068374
+  youtube: UAYmjFAiI4s
 sources:
 - https://www.wikidata.org/wiki/Q4517590
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- zheleznikov-vladimir-karpovich
+cinematographer:
+- chardynin-aleksey-nikolaevich
+- tutunov-gasan
+composer:
+- frenkel-yan-abramovich
+studio:
+- kinostudiya-imeni-m-gorkogo

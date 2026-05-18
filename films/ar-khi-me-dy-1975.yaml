@@ -8,6 +8,15 @@ runtime_min: 83
 external_ids:
   wikidata: Q4068348
   imdb: tt0072655
+  youtube: kYpxGoWzFr8
 sources:
 - https://www.wikidata.org/wiki/Q4068348
 schema_version: 1
+director:
+- pavlovskiy-aleksandr-ilich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- minkov-mark-anatolevich
+studio:
+- odesskaya-kinostudiya

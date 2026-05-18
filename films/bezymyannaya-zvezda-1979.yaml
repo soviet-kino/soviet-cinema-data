@@ -8,6 +8,17 @@ runtime_min: 129
 external_ids:
   wikidata: Q4081124
   imdb: tt0077230
+  youtube: aCdHI4DL_Go
 sources:
 - https://www.wikidata.org/wiki/Q4081124
 schema_version: 1
+director:
+- kozakov-mikhail-mikhaylovich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+cinematographer:
+- rerberg-georgy
+composer:
+- denisov-edison-vasilevich
+studio:
+- sverdlovskaya-kinostudiya

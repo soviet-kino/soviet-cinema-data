@@ -8,6 +8,17 @@ runtime_min: 104
 external_ids:
   wikidata: Q1549483
   imdb: tt0065671
+  youtube: 0V2EZqQy99I
 sources:
 - https://www.wikidata.org/wiki/Q1549483
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- konchalovskiy-andrey
+cinematographer:
+- rerberg-georgy
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

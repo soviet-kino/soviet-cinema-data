@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q21850515
   imdb: tt4862712
+  youtube: zT5SPrX5AZQ
 sources:
 - https://www.wikidata.org/wiki/Q21850515
 schema_version: 1
+director:
+- tarasov-sergey
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+studio:
+- belarusfilm

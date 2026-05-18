@@ -8,6 +8,13 @@ runtime_min: 91
 external_ids:
   wikidata: Q4062572
   imdb: tt0312341
+  youtube: KPvS0xWnJHo
 sources:
 - https://www.wikidata.org/wiki/Q4062572
 schema_version: 1
+director:
+- strelkov-vladimir-vyacheslavovich
+screenwriter:
+- moldavskiy-aleksandr-efimovich
+studio:
+- odesskaya-kinostudiya

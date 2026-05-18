@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21638661
 schema_version: 1
+director:
+- efros-anatoliy-vasilevich
+screenwriter:
+- kazakevich-emmanuil-genrikhovich
+cinematographer:
+- emelyanov-pyotr-grigorevich
+composer:
+- ter-tatevosyan-dzhon
+studio:
+- mosfilm

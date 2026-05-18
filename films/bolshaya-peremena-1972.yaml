@@ -8,6 +8,19 @@ runtime_min: 258
 external_ids:
   wikidata: Q4091855
   imdb: tt0068304
+  youtube: beS3GuqkVbc
 sources:
 - https://www.wikidata.org/wiki/Q4091855
 schema_version: 1
+director:
+- korenev-aleksey-aleksandrovich
+screenwriter:
+- korenev-aleksey-aleksandrovich
+- sadovnikov-georgiy-mikhaylovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- kolmanovskiy-eduard-savelevich
+studio:
+- mosfilm
+- tvorcheskoe-obedinenie-televizionnykh-filmov

@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4205753
   imdb: tt0071670
+  youtube: 6PqUQvimCvs
 sources:
 - https://www.wikidata.org/wiki/Q4205753
 schema_version: 1
+director:
+- manasarova-aida-ivanovna
+screenwriter:
+- ershov-nikolay-mikhaylovich
+composer:
+- sidelnikov-nikolay-nikolaevich
+studio:
+- mosfilm

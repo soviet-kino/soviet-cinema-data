@@ -8,6 +8,19 @@ runtime_min: 107
 external_ids:
   wikidata: Q4205762
   imdb: tt0171408
+  youtube: ohakjwIYkrE
 sources:
 - https://www.wikidata.org/wiki/Q4205762
 schema_version: 1
+director:
+- khutsiev-marlen
+screenwriter:
+- khutsiev-marlen
+- grebnev-anatoliy
+cinematographer:
+- lavrov-german
+composer:
+- okudzhava-bulat
+- vizbor-yuriy-iosifovich
+studio:
+- mosfilm

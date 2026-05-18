@@ -8,6 +8,17 @@ runtime_min: 135
 external_ids:
   wikidata: Q4397389
   imdb: tt0072096
+  youtube: Mu0vgl7IXZQ
 sources:
 - https://www.wikidata.org/wiki/Q4397389
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- grigorev-evgeniy-aleksandrovich
+cinematographer:
+- paatashvili-levan-georgievich
+composer:
+- gradskiy-aleksandr
+studio:
+- mosfilm

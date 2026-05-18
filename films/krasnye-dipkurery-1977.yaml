@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4239350
   imdb: tt0076283
+  youtube: TgxT-F75XIw
 sources:
 - https://www.wikidata.org/wiki/Q4239350
 schema_version: 1
+director:
+- novak-villen-zakharovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- zatsepin-aleksandr
+studio:
+- odesskaya-kinostudiya

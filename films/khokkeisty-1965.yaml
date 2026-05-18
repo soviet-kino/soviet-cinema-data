@@ -8,6 +8,17 @@ runtime_min: 100
 external_ids:
   wikidata: Q4498944
   imdb: tt0166648
+  youtube: vanUIc0DJS0
 sources:
 - https://www.wikidata.org/wiki/Q4498944
 schema_version: 1
+director:
+- goldin-rafail-yulevich
+screenwriter:
+- trifonov-yuriy-valentinovich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

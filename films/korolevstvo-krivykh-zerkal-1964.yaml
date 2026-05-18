@@ -8,6 +8,18 @@ runtime_min: 75
 external_ids:
   wikidata: Q194941
   imdb: tt0145033
+  youtube: bWvdNYJfxHM
 sources:
 - https://www.wikidata.org/wiki/Q194941
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- arkadev-lev-arkadevich
+- gubarev-vitaliy-georgievich
+cinematographer:
+- dultsev-vasiliy-ivanovich
+composer:
+- filippenko-arkadiy-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

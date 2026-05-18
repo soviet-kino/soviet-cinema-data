@@ -8,6 +8,12 @@ runtime_min: 67
 external_ids:
   wikidata: Q4092224
   imdb: tt3211276
+  youtube: lUVVA1E0hGw
 sources:
 - https://www.wikidata.org/wiki/Q4092224
 schema_version: 1
+director:
+- dudorov-anatoliy-alekseevich
+studio:
+- belarusfilm
+- tvorcheskoe-obedinenie-televizionnykh-filmov

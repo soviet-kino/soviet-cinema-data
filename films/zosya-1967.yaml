@@ -8,6 +8,17 @@ runtime_min: 68
 external_ids:
   wikidata: Q25396953
   imdb: tt0131659
+  youtube: lIw9zETM1SQ
 sources:
 - https://www.wikidata.org/wiki/Q25396953
 schema_version: 1
+director:
+- bogin-mikhail
+screenwriter:
+- bogomolov-vladimir
+cinematographer:
+- lipman-ezhi
+composer:
+- khozak-rafail-matveevich
+studio:
+- kinostudiya-imeni-m-gorkogo

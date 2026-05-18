@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4166536
 schema_version: 1
+director:
+- ibragimbekov-rustam
+- ogly-odzhagov-rasim-mirkasum
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kambarov-rafail-alievich
+composer:
+- sabitoglu-emin
+studio:
+- azerbaydzhanfilm

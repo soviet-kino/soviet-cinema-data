@@ -8,6 +8,11 @@ runtime_min: 76
 external_ids:
   wikidata: Q65200558
   imdb: tt0076282
+  youtube: d0q2eJ69m8o
 sources:
 - https://www.wikidata.org/wiki/Q65200558
 schema_version: 1
+director:
+- mirskiy-lev-solomonovich
+studio:
+- kinostudiya-imeni-m-gorkogo

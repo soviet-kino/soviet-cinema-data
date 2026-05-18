@@ -8,6 +8,19 @@ runtime_min: 70
 external_ids:
   wikidata: Q20513569
   imdb: tt0413693
+  youtube: oLFc9UMAprA
 sources:
 - https://www.wikidata.org/wiki/Q20513569
 schema_version: 1
+director:
+- erzinkyan-yuriy
+screenwriter:
+- araksmanyan-aleksandr
+- darbni-arshavir
+cinematographer:
+- dzhalalyan-artashes-semyonovich
+- zhamgaryan-rudolf
+composer:
+- oganesyan-edgar
+studio:
+- armenfilm

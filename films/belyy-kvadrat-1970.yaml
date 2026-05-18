@@ -8,6 +8,11 @@ runtime_min: 68
 external_ids:
   wikidata: Q65211409
   imdb: tt4663310
+  youtube: hl_RV4AK52A
 sources:
 - https://www.wikidata.org/wiki/Q65211409
 schema_version: 1
+director:
+- beysembaev-sharip-isauletovich
+studio:
+- kazakhfilm

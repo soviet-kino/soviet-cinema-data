@@ -8,6 +8,15 @@ runtime_min: 191
 external_ids:
   wikidata: Q4096981
   imdb: tt0281423
+  youtube: E36xn4umhng
 sources:
 - https://www.wikidata.org/wiki/Q4096981
 schema_version: 1
+director:
+- kalinin-nikolay-artemevich
+screenwriter:
+- rybakov-anatoliy-naumovich
+composer:
+- pozhlakov-stanislav-ivanovich
+studio:
+- belarusfilm

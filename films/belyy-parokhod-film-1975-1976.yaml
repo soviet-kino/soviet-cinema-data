@@ -8,6 +8,19 @@ runtime_min: 99
 external_ids:
   wikidata: Q3220350
   imdb: tt0169601
+  youtube: IczAH7ewNX8
 sources:
 - https://www.wikidata.org/wiki/Q3220350
 schema_version: 1
+director:
+- shamshiev-bolotbek
+screenwriter:
+- aytmatov-chingiz-torekulovich
+- shamshiev-bolotbek
+cinematographer:
+- musaev-manasbek
+composer:
+- schnittke-alfred
+studio:
+- kyrgyzfilm
+poster_commons: Stamps of Kyrgyzstan, 2009-582.jpg

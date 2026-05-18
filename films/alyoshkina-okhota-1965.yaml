@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4063851
   imdb: tt0302256
+  youtube: XWXWcYvv_Ks
 sources:
 - https://www.wikidata.org/wiki/Q4063851
 schema_version: 1
+director:
+- bazelyan-yakov
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

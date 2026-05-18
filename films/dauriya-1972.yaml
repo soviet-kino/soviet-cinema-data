@@ -8,6 +8,17 @@ runtime_min: 182
 external_ids:
   wikidata: Q1173028
   imdb: tt0066969
+  youtube: D-Rw-akZKSg
 sources:
 - https://www.wikidata.org/wiki/Q1173028
 schema_version: 1
+director:
+- viktor-ivanovich-tregubovich
+screenwriter:
+- viktor-ivanovich-tregubovich
+cinematographer:
+- mezentsev-evgeniy-mikhaylovich
+composer:
+- portnov-georgiy-anatolevich
+studio:
+- lenfilm

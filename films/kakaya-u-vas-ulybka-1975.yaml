@@ -8,6 +8,13 @@ runtime_min: 89
 external_ids:
   wikidata: Q110028684
   imdb: tt0218372
+  youtube: gzl3MKSUK4k
 sources:
 - https://www.wikidata.org/wiki/Q110028684
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

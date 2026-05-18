@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4062655
   imdb: tt1407930
+  youtube: 6HUX9ljHswc
 sources:
 - https://www.wikidata.org/wiki/Q4062655
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- ziskind-yakov-markovich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+studio:
+- sverdlovskaya-kinostudiya

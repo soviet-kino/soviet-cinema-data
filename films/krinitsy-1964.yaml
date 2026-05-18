@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4241071
 schema_version: 1
+director:
+- shulman-iosif-abramovich
+cinematographer:
+- avdeev-oleg-tikhonovich
+composer:
+- eshpay-andrey
+studio:
+- belarusfilm

@@ -8,6 +8,17 @@ runtime_min: 75
 external_ids:
   wikidata: Q4468268
   imdb: tt0174300
+  youtube: 4qOu4a5ySc0
 sources:
 - https://www.wikidata.org/wiki/Q4468268
 schema_version: 1
+director:
+- ordynskiy-vasiliy-sergeevich
+screenwriter:
+- nagornyy-semyon-grigorevich
+cinematographer:
+- slabnevich-igor-mikhaylovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- mosfilm

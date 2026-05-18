@@ -8,6 +8,18 @@ runtime_min: 77
 external_ids:
   wikidata: Q16387996
   imdb: tt0312333
+  youtube: 1wyZlIvdjYY
 sources:
 - https://www.wikidata.org/wiki/Q16387996
 schema_version: 1
+director:
+- malyan-genrikh
+screenwriter:
+- ayvazyan-agasi
+cinematographer:
+- mesyan-karen
+composer:
+- amirkhanyan-robert
+- muradyan-ayrik
+studio:
+- armenfilm

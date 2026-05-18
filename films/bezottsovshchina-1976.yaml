@@ -8,6 +8,11 @@ runtime_min: 94
 external_ids:
   wikidata: Q3513775
   imdb: tt0074202
+  youtube: XNlmEz7fYzo
 sources:
 - https://www.wikidata.org/wiki/Q3513775
 schema_version: 1
+director:
+- shamshurin-vladimir-georgievich
+studio:
+- mosfilm

@@ -8,6 +8,18 @@ runtime_min: 66
 external_ids:
   wikidata: Q21777837
   imdb: tt2312500
+  youtube: GW1VNgL3l6c
 sources:
 - https://www.wikidata.org/wiki/Q21777837
 schema_version: 1
+director:
+- bykov-leonid-fyodorovich
+screenwriter:
+- gindin-mikhail-efimovich
+- ryabkin-genrikh
+cinematographer:
+- voytenko-vladimir-grigorevich
+composer:
+- poklad-igor-dmitrievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

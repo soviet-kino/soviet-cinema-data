@@ -8,6 +8,15 @@ runtime_min: 81
 external_ids:
   wikidata: Q110094515
   imdb: tt5084312
+  youtube: nVXypl_l7Js
 sources:
 - https://www.wikidata.org/wiki/Q110094515
 schema_version: 1
+director:
+- romanov-boris-ivanovich
+screenwriter:
+- gorokhov-aleksandr-sergeevich
+composer:
+- frenkel-yan-abramovich
+studio:
+- sverdlovskaya-kinostudiya

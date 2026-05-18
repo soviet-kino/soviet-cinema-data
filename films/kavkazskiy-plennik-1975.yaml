@@ -8,6 +8,11 @@ runtime_min: 72
 external_ids:
   wikidata: Q4207021
   imdb: tt0491413
+  youtube: Xtfwx7RMAv8
 sources:
 - https://www.wikidata.org/wiki/Q4207021
 schema_version: 1
+director:
+- kalatozishvili-georgiy-mikhaylovich
+studio:
+- gruziya-film

@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q113499289
   imdb: tt5396534
+  youtube: V92AZ2Ac7Mo
 sources:
 - https://www.wikidata.org/wiki/Q113499289
 schema_version: 1
+director:
+- narliev-khodzhakuli
+screenwriter:
+- narliev-khodzhakuli
+- narliev-khodzhadurdy
+studio:
+- turkmenfilm

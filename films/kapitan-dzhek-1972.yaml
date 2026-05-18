@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4212943
   imdb: tt2395275
+  youtube: OIpRbxnKoXE
 sources:
 - https://www.wikidata.org/wiki/Q4212943
 schema_version: 1
+director:
+- neretnietse-ada
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+studio:
+- rizhskaya-kinostudiya

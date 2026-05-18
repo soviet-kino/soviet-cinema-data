@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4143087
   imdb: tt0361662
+  youtube: eooExDDLNSM
 sources:
 - https://www.wikidata.org/wiki/Q4143087
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- galiev-anatoliy-sergeevich
+cinematographer:
+- shapiro-boris-anatolevich
+composer:
+- krylatov-evgeniy
+studio:
+- sverdlovskaya-kinostudiya

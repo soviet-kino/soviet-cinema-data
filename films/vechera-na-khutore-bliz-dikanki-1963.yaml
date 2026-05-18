@@ -8,6 +8,17 @@ runtime_min: 66
 external_ids:
   wikidata: Q4110177
   imdb: tt0057637
+  youtube: 3yPFlJzib3k
 sources:
 - https://www.wikidata.org/wiki/Q4110177
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- rou-aleksandr-arturovich
+cinematographer:
+- surenskiy-dmitriy-vasilevich
+composer:
+- filippenko-arkadiy-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

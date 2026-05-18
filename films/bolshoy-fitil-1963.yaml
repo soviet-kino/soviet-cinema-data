@@ -8,6 +8,30 @@ runtime_min: 68
 external_ids:
   wikidata: Q4093017
   imdb: tt0172190
+  youtube: 9v-HTWaUr1Y
 sources:
 - https://www.wikidata.org/wiki/Q4093017
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+- andzhaparidze-meri
+- bordzilovskiy-vitold
+- bocharov-eduard
+- prytkov-yuriy-aleksandrovich
+- rapoport-vladimir
+- fetin-vladimir-aleksandrovich
+- milkina-sofiya-abramovna
+screenwriter:
+- konchalovskiy-andrey
+- mikhalkov-sergey-vladimirovich
+- dragunskiy-viktor
+- bocharov-eduard
+- ryzhov-kim
+- ryabkin-genrikh
+- shemshurin-andrey
+- gindin-mikhail
+studio:
+- mosfilm
+- lenfilm
+- soyuzmultfilm
+- kinostudiya-imeni-m-gorkogo

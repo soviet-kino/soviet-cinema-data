@@ -1,0 +1,9 @@
+id: tormis-velo
+name_ru: Вельо Тормис
+roles:
+- composer
+external_ids:
+  wikidata: Q461923
+sources:
+- https://www.wikidata.org/wiki/Q461923
+schema_version: 1

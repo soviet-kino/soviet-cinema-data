@@ -8,6 +8,11 @@ runtime_min: 20
 external_ids:
   wikidata: Q86670239
   imdb: tt11884472
+  youtube: y6vL6lr8OtA
 sources:
 - https://www.wikidata.org/wiki/Q86670239
 schema_version: 1
+director:
+- soldadze-lyudmila
+studio:
+- sverdlovskaya-kinostudiya

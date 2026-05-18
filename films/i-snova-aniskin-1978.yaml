@@ -8,6 +8,16 @@ runtime_min: 196
 external_ids:
   wikidata: Q4195091
   imdb: tt0077029
+  youtube: HRvSJTIMDp8
 sources:
 - https://www.wikidata.org/wiki/Q4195091
 schema_version: 1
+director:
+- zharov-mikhail-ivanovich
+- ivanov-vitaliy-nikolaevich
+screenwriter:
+- lipatov-vil-vladimirovich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

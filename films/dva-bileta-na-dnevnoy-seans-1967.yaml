@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4155562
   imdb: tt0149558
+  youtube: tnQc1PoppGw
 sources:
 - https://www.wikidata.org/wiki/Q4155562
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- chirskov-boris
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- mnatsakanyan-aleksandr-derenikovich
+studio:
+- lenfilm

@@ -8,6 +8,18 @@ runtime_min: 81
 external_ids:
   wikidata: Q4179509
   imdb: tt0062523
+  youtube: zrAqnOkvAgk
 sources:
 - https://www.wikidata.org/wiki/Q4179509
 schema_version: 1
+director:
+- motyl-vladimir-yakovlevich
+screenwriter:
+- okudzhava-bulat
+- motyl-vladimir-yakovlevich
+cinematographer:
+- ryzhov-konstantin
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- lenfilm

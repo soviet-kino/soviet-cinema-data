@@ -8,6 +8,17 @@ runtime_min: 94
 external_ids:
   wikidata: Q4532919
   imdb: tt0070042
+  youtube: xeQYVvKr5Mo
 sources:
 - https://www.wikidata.org/wiki/Q4532919
 schema_version: 1
+director:
+- tsvetkov-yuriy-nikolaevich
+- saakov-yuriy
+cinematographer:
+- petrichenko-konstantin
+composer:
+- tukhmanov-david-fyodorovich
+studio:
+- mosfilm
+- tvorcheskoe-obedinenie-televizionnykh-filmov

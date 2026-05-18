@@ -8,6 +8,17 @@ runtime_min: 69
 external_ids:
   wikidata: Q4514925
   imdb: tt0185987
+  youtube: 0hQba14xTKs
 sources:
 - https://www.wikidata.org/wiki/Q4514925
 schema_version: 1
+director:
+- pobedonostsev-yuriy-sergeevich
+screenwriter:
+- korostylyov-vadim-nikolaevich
+cinematographer:
+- ragozin-lev
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- kinostudiya-imeni-m-gorkogo

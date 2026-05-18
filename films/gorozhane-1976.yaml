@@ -8,6 +8,15 @@ runtime_min: 86
 external_ids:
   wikidata: Q4145736
   imdb: tt0073063
+  youtube: IaeJM8Vpug4
 sources:
 - https://www.wikidata.org/wiki/Q4145736
 schema_version: 1
+director:
+- rogovoy-vladimir-abramovich
+screenwriter:
+- kunin-vladimir-vladimirovich
+composer:
+- khozak-rafail-matveevich
+studio:
+- kinostudiya-imeni-m-gorkogo

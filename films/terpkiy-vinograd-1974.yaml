@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4456135
   imdb: tt0418733
+  youtube: qPKrdIMmQ6Y
 sources:
 - https://www.wikidata.org/wiki/Q4456135
 schema_version: 1
+director:
+- oganesyan-bagrat
+screenwriter:
+- ovsepyan-ruben
+cinematographer:
+- israelyan-sergey
+composer:
+- amirkhanyan-robert
+studio:
+- armenfilm

@@ -8,6 +8,17 @@ runtime_min: 95
 external_ids:
   wikidata: Q4399397
   imdb: tt0075156
+  youtube: m51WtHXWHRA
 sources:
 - https://www.wikidata.org/wiki/Q4399397
 schema_version: 1
+director:
+- voinov-konstantin
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+cinematographer:
+- mikhail-leonidovich-agranovich
+composer:
+- eshpay-andrey
+studio:
+- mosfilm

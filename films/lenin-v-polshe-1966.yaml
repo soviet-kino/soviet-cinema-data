@@ -8,6 +8,19 @@ runtime_min: 93
 external_ids:
   wikidata: Q2117834
   imdb: tt0060625
+  youtube: 0gE_PAgyuAA
 sources:
 - https://www.wikidata.org/wiki/Q2117834
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- yutkevich-sergey-iosifovich
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- laskowski-jan
+composer:
+- valyatsinskiy-adam
+studio:
+- mosfilm
+- studio-kinostudiya

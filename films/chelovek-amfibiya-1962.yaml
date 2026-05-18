@@ -8,8 +8,22 @@ runtime_min: 100
 external_ids:
   wikidata: Q1192171
   imdb: tt0055844
+  youtube: tTGBfRCx5Ic
 sources:
 - https://www.wikidata.org/wiki/Q1192171
 schema_version: 1
 topics:
 - science-fiction
+director:
+- chebotaryov-vladimir-aleksandrovich
+- kazanskiy-gennadiy-sergeevich
+screenwriter:
+- kapler-aleksey-yakovlevich
+- golburt-akiba-abramovich
+- kinooperator-ksenofontov-aleksandr-sergeevich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- petrov-andrey-pavlovich
+studio:
+- lenfilm

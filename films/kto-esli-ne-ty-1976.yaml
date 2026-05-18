@@ -8,6 +8,13 @@ runtime_min: 76
 external_ids:
   wikidata: Q109392335
   imdb: tt4834482
+  youtube: 6Mp8dn1p5KM
 sources:
 - https://www.wikidata.org/wiki/Q109392335
 schema_version: 1
+director:
+- kuznetsov-georgiy-mikhaylovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- sverdlovskaya-kinostudiya

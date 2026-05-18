@@ -8,6 +8,14 @@ runtime_min: 73
 external_ids:
   wikidata: Q97291433
   imdb: tt5447734
+  youtube: T1FOdv-sXT0
 sources:
 - https://www.wikidata.org/wiki/Q97291433
 schema_version: 1
+director:
+- beysembaev-sharip-isauletovich
+screenwriter:
+- chernykh-valentin-konstantinovich
+- muratbekov-sain
+studio:
+- kazakhfilm

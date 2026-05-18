@@ -8,6 +8,15 @@ runtime_min: 201
 external_ids:
   wikidata: Q690072
   imdb: tt0057717
+  youtube: sE5MDJ9RCUk
 sources:
 - https://www.wikidata.org/wiki/Q690072
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- stolper-aleksandr
+cinematographer:
+- olonovskiy-nikolay
+studio:
+- mosfilm

@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q27049549
   imdb: tt0471935
+  youtube: ZZsBHN-KCsA
 sources:
 - https://www.wikidata.org/wiki/Q27049549
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+screenwriter:
+- krasnopolskiy-vladimir
+- orlov-vladimir
+- uskov-valeriy
+cinematographer:
+- emelyanov-pyotr-grigorevich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

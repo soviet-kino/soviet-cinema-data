@@ -1,0 +1,9 @@
+id: brauns-uldis
+name_ru: Улдис Браунс
+roles:
+- director
+external_ids:
+  wikidata: Q4096132
+sources:
+- https://www.wikidata.org/wiki/Q4096132
+schema_version: 1

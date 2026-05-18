@@ -8,6 +8,15 @@ runtime_min: 80
 external_ids:
   wikidata: Q4031556
   imdb: tt0166942
+  youtube: FTQvPceTO5A
 sources:
 - https://www.wikidata.org/wiki/Q4031556
 schema_version: 1
+director:
+- gabay-genrikh
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- mosfilm

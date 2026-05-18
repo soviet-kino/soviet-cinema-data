@@ -8,6 +8,15 @@ runtime_min: 139
 external_ids:
   wikidata: Q2406650
   imdb: tt0064553
+  youtube: w_t0AxzNk-0
 sources:
 - https://www.wikidata.org/wiki/Q2406650
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+composer:
+- dmitriy-shostakovich
+studio:
+- lenfilm

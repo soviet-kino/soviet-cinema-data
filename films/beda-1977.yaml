@@ -8,6 +8,15 @@ runtime_min: 90
 external_ids:
   wikidata: Q4080577
   imdb: tt0169597
+  youtube: sY1bkHv95Dc
 sources:
 - https://www.wikidata.org/wiki/Q4080577
 schema_version: 1
+director:
+- asanova-dinara-kuldashevna
+screenwriter:
+- metter-izrail-moiseevich
+composer:
+- krylatov-evgeniy
+studio:
+- lenfilm

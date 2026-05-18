@@ -8,6 +8,13 @@ runtime_min: 81
 external_ids:
   wikidata: Q16723496
   imdb: tt0321688
+  youtube: H_-6AHYlNl8
 sources:
 - https://www.wikidata.org/wiki/Q16723496
 schema_version: 1
+director:
+- zhilin-viktor-sergeevich
+composer:
+- bilash-aleksandr-ivanovich
+studio:
+- odesskaya-kinostudiya

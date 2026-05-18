@@ -8,6 +8,17 @@ runtime_min: 91
 external_ids:
   wikidata: Q4396717
   imdb: tt0075155
+  youtube: aq1HEZThTvk
 sources:
 - https://www.wikidata.org/wiki/Q4396717
 schema_version: 1
+director:
+- menshov-vladimir-valentinovich
+screenwriter:
+- lungin-semyon
+cinematographer:
+- bits-mikhail-isaakovich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+studio:
+- mosfilm

@@ -8,6 +8,12 @@ runtime_min: 89
 external_ids:
   wikidata: Q4030269
   imdb: tt0312292
+  youtube: GLUVeAtjwGk
 sources:
 - https://www.wikidata.org/wiki/Q4030269
 schema_version: 1
+director:
+- brench-aloiz
+- goryaev-rostislav-arkadevich
+studio:
+- rizhskaya-kinostudiya

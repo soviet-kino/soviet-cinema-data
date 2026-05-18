@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q106640569
   imdb: tt5292996
+  youtube: FiDqTl-KBKo
 sources:
 - https://www.wikidata.org/wiki/Q106640569
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+screenwriter:
+- kataev-valentin-petrovich
+composer:
+- raukhverger-mikhail-rafailovich
+studio:
+- kinostudiya-imeni-m-gorkogo

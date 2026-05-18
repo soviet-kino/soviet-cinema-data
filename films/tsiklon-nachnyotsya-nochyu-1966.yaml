@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q3817540
   imdb: tt2396405
+  youtube: 8xLKa-fsikM
 sources:
 - https://www.wikidata.org/wiki/Q3817540
 schema_version: 1
+director:
+- neretnietse-ada
+cinematographer:
+- mass-vadim-semyonovich
+composer:
+- grinblat-romuald-samuilovich
+studio:
+- rizhskaya-kinostudiya

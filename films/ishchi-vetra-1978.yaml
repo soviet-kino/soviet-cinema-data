@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4205745
   imdb: tt0165834
+  youtube: CcGkN3zKPjA
 sources:
 - https://www.wikidata.org/wiki/Q4205745
 schema_version: 1
+director:
+- lyubomudrov-vladimir-pavlovich
+screenwriter:
+- lyubomudrov-vladimir-pavlovich
+composer:
+- artemyev-eduard
+studio:
+- sverdlovskaya-kinostudiya

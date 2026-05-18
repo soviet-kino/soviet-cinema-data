@@ -8,6 +8,17 @@ runtime_min: 95
 external_ids:
   wikidata: Q4226034
   imdb: tt0055051
+  youtube: sGc5m5wM15Y
 sources:
 - https://www.wikidata.org/wiki/Q4226034
 schema_version: 1
+director:
+- kulidzhanov-lev-aleksandrovich
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+cinematographer:
+- ginzburg-valeriy
+composer:
+- afanasev-leonid
+studio:
+- kinostudiya-imeni-m-gorkogo

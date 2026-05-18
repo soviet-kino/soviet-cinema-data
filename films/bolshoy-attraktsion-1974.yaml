@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q18623421
   imdb: tt0241259
+  youtube: cwCflkT13IU
 sources:
 - https://www.wikidata.org/wiki/Q18623421
 schema_version: 1
+director:
+- georgiev-viktor-mikhaylovich
+screenwriter:
+- georgiev-viktor-mikhaylovich
+cinematographer:
+- saveleva-era-mikhaylovna
+composer:
+- podelskiy-gennadiy-vyacheslavovich
+studio:
+- mosfilm

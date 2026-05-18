@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4090313
   imdb: tt0068312
+  youtube: Q_xYvRxqbGs
 sources:
 - https://www.wikidata.org/wiki/Q4090313
 schema_version: 1
+director:
+- azarov-villen-abramovich
+screenwriter:
+- azarov-villen-abramovich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+studio:
+- mosfilm

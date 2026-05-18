@@ -1,0 +1,8 @@
+id: armenfilm
+name_ru: Арменфильм
+country: SU
+external_ids:
+  wikidata: Q537375
+sources:
+- https://www.wikidata.org/wiki/Q537375
+schema_version: 1

@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4126286
   imdb: tt0334655
+  youtube: YkKfYJdPRSc
 sources:
 - https://www.wikidata.org/wiki/Q4126286
 schema_version: 1
+director:
+- turov-viktor-timofeevich
+cinematographer:
+- zaytsev-dmitriy-evgenevich
+composer:
+- yanchenko-oleg-grigorevich
+studio:
+- belarusfilm

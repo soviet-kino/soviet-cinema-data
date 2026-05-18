@@ -8,6 +8,17 @@ runtime_min: 158
 external_ids:
   wikidata: Q1018998
   imdb: tt0069434
+  youtube: -Y8CkWvICQU
 sources:
 - https://www.wikidata.org/wiki/Q1018998
 schema_version: 1
+director:
+- khrabrovitskiy-daniil-yakovlevich
+screenwriter:
+- khrabrovitskiy-daniil-yakovlevich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- petrov-andrey-pavlovich
+studio:
+- mosfilm

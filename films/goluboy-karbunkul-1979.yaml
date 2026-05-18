@@ -8,6 +8,16 @@ runtime_min: 75
 external_ids:
   wikidata: Q4142557
   imdb: tt0284153
+  youtube: RysVPUn4wSc
 sources:
 - https://www.wikidata.org/wiki/Q4142557
 schema_version: 1
+director:
+- lukyanov-nikolay-valentinovich
+screenwriter:
+- delendik-anatoliy
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- belarusfilm
+- ekran

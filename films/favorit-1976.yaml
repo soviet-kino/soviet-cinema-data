@@ -8,6 +8,15 @@ runtime_min: 132
 external_ids:
   wikidata: Q4480388
   imdb: tt2064769
+  youtube: -6Lce_k5Nu4
 sources:
 - https://www.wikidata.org/wiki/Q4480388
 schema_version: 1
+director:
+- breskanu-vasile
+screenwriter:
+- ryabov-geliy
+composer:
+- vaysburd-yakov-isaevich
+studio:
+- moldova-film

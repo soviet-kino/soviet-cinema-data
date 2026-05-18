@@ -1,0 +1,9 @@
+id: berlioz-gektor
+name_ru: Гектор Берлиоз
+roles:
+- composer
+external_ids:
+  wikidata: Q1151
+sources:
+- https://www.wikidata.org/wiki/Q1151
+schema_version: 1

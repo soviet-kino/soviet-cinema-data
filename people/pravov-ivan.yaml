@@ -1,0 +1,9 @@
+id: pravov-ivan
+name_ru: Иван Правов
+roles:
+- director
+external_ids:
+  wikidata: Q3156173
+sources:
+- https://www.wikidata.org/wiki/Q3156173
+schema_version: 1

@@ -8,6 +8,18 @@ runtime_min: 111
 external_ids:
   wikidata: Q4156102
   imdb: tt0064268
+  youtube: 1bHj3i69R3s
 sources:
 - https://www.wikidata.org/wiki/Q4156102
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- konchalovskiy-andrey
+- ezhov-valentin-ivanovich
+cinematographer:
+- rerberg-georgy
+composer:
+- ovchinnikov-vyacheslav
+studio:
+- mosfilm

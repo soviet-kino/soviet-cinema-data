@@ -8,6 +8,13 @@ runtime_min: 76
 external_ids:
   wikidata: Q4179829
   imdb: tt0078524
+  youtube: hPSwuMKG2Yk
 sources:
 - https://www.wikidata.org/wiki/Q4179829
 schema_version: 1
+director:
+- millionshchikov-leonid-sergeevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- mosfilm

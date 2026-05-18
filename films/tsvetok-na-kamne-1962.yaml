@@ -8,6 +8,15 @@ runtime_min: 71
 external_ids:
   wikidata: Q1113313
   imdb: tt0056619
+  youtube: 2wJ9MVvjuA0
 sources:
 - https://www.wikidata.org/wiki/Q1113313
 schema_version: 1
+director:
+- paradzhanov-sergey
+screenwriter:
+- sobko-vadim-nikolaevich
+composer:
+- shamo-igor
+studio:
+- kinostudiya-imeni-a-dovzhenko

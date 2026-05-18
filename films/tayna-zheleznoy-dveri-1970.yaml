@@ -8,6 +8,13 @@ runtime_min: 69
 external_ids:
   wikidata: Q4449945
   imdb: tt0066442
+  youtube: WBmfO2CyLVo
 sources:
 - https://www.wikidata.org/wiki/Q4449945
 schema_version: 1
+director:
+- yuzovskiy-mikhail-iosifovich
+composer:
+- gamaliya-vadim-aleksandrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

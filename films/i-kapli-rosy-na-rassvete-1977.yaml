@@ -7,6 +7,13 @@ country:
 runtime_min: 68
 external_ids:
   wikidata: Q4195082
+  youtube: md4Hyf-TvCg
 sources:
 - https://www.wikidata.org/wiki/Q4195082
 schema_version: 1
+director:
+- krylovs-peteris
+composer:
+- plakidis-peteris
+studio:
+- rizhskaya-kinostudiya

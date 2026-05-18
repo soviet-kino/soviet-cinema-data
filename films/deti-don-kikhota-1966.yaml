@@ -8,6 +8,13 @@ runtime_min: 78
 external_ids:
   wikidata: Q4159337
   imdb: tt0129035
+  youtube: 64LWsl-HfOA
 sources:
 - https://www.wikidata.org/wiki/Q4159337
 schema_version: 1
+director:
+- karelov-evgeniy
+composer:
+- firtich-georgiy
+studio:
+- mosfilm

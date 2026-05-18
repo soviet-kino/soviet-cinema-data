@@ -1,0 +1,9 @@
+id: rota-nino
+name_ru: Нино Рота
+roles:
+- composer
+external_ids:
+  wikidata: Q214665
+sources:
+- https://www.wikidata.org/wiki/Q214665
+schema_version: 1

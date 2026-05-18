@@ -8,6 +8,15 @@ runtime_min: 74
 external_ids:
   wikidata: Q6672392
   imdb: tt0175809
+  youtube: 1Rv6m9Qakvo
 sources:
 - https://www.wikidata.org/wiki/Q6672392
 schema_version: 1
+director:
+- birman-naum-borisovich
+screenwriter:
+- kunin-vladimir-vladimirovich
+composer:
+- kolker-aleksandr
+studio:
+- lenfilm

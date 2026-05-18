@@ -1,0 +1,9 @@
+id: raamat-reyn
+name_ru: Рейн Раамат
+roles:
+- director
+external_ids:
+  wikidata: Q3742252
+sources:
+- https://www.wikidata.org/wiki/Q3742252
+schema_version: 1

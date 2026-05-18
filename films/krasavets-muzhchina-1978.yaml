@@ -8,6 +8,13 @@ runtime_min: 130
 external_ids:
   wikidata: Q4237700
   imdb: tt0077819
+  youtube: JuMa7mKJgKg
 sources:
 - https://www.wikidata.org/wiki/Q4237700
 schema_version: 1
+director:
+- mikaelyan-margarita
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- ekran

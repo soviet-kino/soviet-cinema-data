@@ -8,6 +8,18 @@ runtime_min: 134
 external_ids:
   wikidata: Q4233949
   imdb: tt0067313
+  youtube: 68TA9nv0jbY
 sources:
 - https://www.wikidata.org/wiki/Q4233949
 schema_version: 1
+director:
+- keosayan-edmond
+screenwriter:
+- keosayan-edmond
+- chervinskiy-aleksandr-mikhaylovich
+cinematographer:
+- ardabevskiy-mikhail-vladimirovich
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

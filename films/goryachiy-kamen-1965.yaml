@@ -8,6 +8,13 @@ runtime_min: 17
 external_ids:
   wikidata: Q16638908
   imdb: tt4190678
+  youtube: GQsaNMa00sc
 sources:
 - https://www.wikidata.org/wiki/Q16638908
 schema_version: 1
+director:
+- sarkisyan-perch-ashotovich
+screenwriter:
+- aleksin-anatoliy-georgievich
+studio:
+- soyuzmultfilm

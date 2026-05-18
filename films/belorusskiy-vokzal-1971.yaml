@@ -8,6 +8,17 @@ runtime_min: 101
 external_ids:
   wikidata: Q1969508
   imdb: tt0128960
+  youtube: eQQTiBtz5jU
 sources:
 - https://www.wikidata.org/wiki/Q1969508
 schema_version: 1
+director:
+- smirnov-andrey-sergeevich
+screenwriter:
+- trunin-vadim-vasilevich
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4394702
   imdb: tt2350964
+  youtube: xxMvOqdK_AM
 sources:
 - https://www.wikidata.org/wiki/Q4394702
 schema_version: 1
+director:
+- novak-villen-zakharovich
+screenwriter:
+- leonov-nikolay-ivanovich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- odesskaya-kinostudiya

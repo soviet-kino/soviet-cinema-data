@@ -1,0 +1,9 @@
+id: kruusement-arvo
+name_ru: Арво Круусемент
+roles:
+- director
+external_ids:
+  wikidata: Q4802522
+sources:
+- https://www.wikidata.org/wiki/Q4802522
+schema_version: 1

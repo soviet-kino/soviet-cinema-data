@@ -8,6 +8,18 @@ runtime_min: 96
 external_ids:
   wikidata: Q4138716
   imdb: tt0314105
+  youtube: 96_TwIa1kY8
 sources:
 - https://www.wikidata.org/wiki/Q4138716
 schema_version: 1
+director:
+- ilich-gintsburg-aleksandr
+screenwriter:
+- ilich-gintsburg-aleksandr
+- manevich-iosif-mikhaylovich
+cinematographer:
+- rybin-aleksandr
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- kinostudiya-imeni-m-gorkogo

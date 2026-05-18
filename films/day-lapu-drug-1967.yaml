@@ -8,6 +8,17 @@ runtime_min: 68
 external_ids:
   wikidata: Q4154037
   imdb: tt0383294
+  youtube: 4RKSHb5uuzg
 sources:
 - https://www.wikidata.org/wiki/Q4154037
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+screenwriter:
+- german-yuriy-pavlovich
+cinematographer:
+- monastyrskiy-boris-savelevich
+composer:
+- fradkin-mark
+studio:
+- kinostudiya-imeni-m-gorkogo

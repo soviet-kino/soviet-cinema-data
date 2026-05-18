@@ -8,6 +8,17 @@ runtime_min: 79
 external_ids:
   wikidata: Q4251014
   imdb: tt0071732
+  youtube: 7yU6u_tYdYg
 sources:
 - https://www.wikidata.org/wiki/Q4251014
 schema_version: 1
+director:
+- gavrilov-eduard-aleksandrovich
+screenwriter:
+- aleshkovskiy-yuz
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

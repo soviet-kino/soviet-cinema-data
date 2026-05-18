@@ -8,6 +8,18 @@ runtime_min: 102
 external_ids:
   wikidata: Q4096064
   imdb: tt0146505
+  youtube: XK2nrD3e-Xg
 sources:
 - https://www.wikidata.org/wiki/Q4096064
 schema_version: 1
+director:
+- abramyan-khoren
+screenwriter:
+- abramyan-khoren
+cinematographer:
+- gevorkyan-sarkis
+composer:
+- vardazaryan-martin
+studio:
+- armenfilm
+poster_commons: Saroyan Brothers 2023 stampsheet of Armenia.png

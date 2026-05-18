@@ -8,6 +8,17 @@ runtime_min: 97
 external_ids:
   wikidata: Q4161476
   imdb: tt0167896
+  youtube: J6S3kTPzDes
 sources:
 - https://www.wikidata.org/wiki/Q4161476
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- vyacheslav-ksaverevich-fastovich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- lenfilm

@@ -8,6 +8,22 @@ runtime_min: 166
 external_ids:
   wikidata: Q1540524
   imdb: tt0067155
+  youtube: hxHAhRlBPLk
 sources:
 - https://www.wikidata.org/wiki/Q1540524
 schema_version: 1
+director:
+- volf-konrad
+screenwriter:
+- volf-konrad
+- vagenshtayn-anzhel
+cinematographer:
+- bergman-verner
+- ryzhov-konstantin
+composer:
+- karaev-kara
+- karaev-faradzh
+studio:
+- lenfilm
+- defa
+- studiya-khudozhestvennykh-filmov-defa

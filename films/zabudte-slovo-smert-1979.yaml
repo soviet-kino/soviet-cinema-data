@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q4182777
   imdb: tt0314936
+  youtube: eyK2WlxRAo4
 sources:
 - https://www.wikidata.org/wiki/Q4182777
 schema_version: 1
+director:
+- gasparov-samvel
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- krutin-viktor-viktorovich
+composer:
+- zubov-aleksey-nikolaevich
+studio:
+- odesskaya-kinostudiya

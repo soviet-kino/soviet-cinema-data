@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4532926
   imdb: tt0353426
+  youtube: FNH9hCgZmwM
 sources:
 - https://www.wikidata.org/wiki/Q4532926
 schema_version: 1
+director:
+- ritenberga-dzidra
+screenwriter:
+- streych-yanis
+composer:
+- kalsons-romualds
+studio:
+- rizhskaya-kinostudiya

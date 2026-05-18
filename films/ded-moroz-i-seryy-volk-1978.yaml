@@ -8,6 +8,17 @@ runtime_min: 17
 external_ids:
   wikidata: Q4156664
   imdb: tt0188555
+  youtube: kg_-IykAjNo
 sources:
 - https://www.wikidata.org/wiki/Q4156664
 schema_version: 1
+director:
+- bordzilovskiy-vitold
+screenwriter:
+- suteev-vladimir-grigorevich
+cinematographer:
+- kotov-boris-stepanovich
+composer:
+- meerovich-mikhail-aleksandrovich
+studio:
+- soyuzmultfilm

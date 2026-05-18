@@ -8,6 +8,16 @@ runtime_min: 94
 external_ids:
   wikidata: Q4241869
   imdb: tt0068820
+  youtube: CN5SgKK2Aes
 sources:
 - https://www.wikidata.org/wiki/Q4241869
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- rappaport-gerbert-moritsevich
+- dubrovskiy-edgar-borisovich
+composer:
+- mnatsakanyan-aleksandr-derenikovich
+studio:
+- lenfilm

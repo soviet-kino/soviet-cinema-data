@@ -8,6 +8,14 @@ runtime_min: 193
 external_ids:
   wikidata: Q4533086
   imdb: tt5450320
+  youtube: JlNOkIBnrKU
 sources:
 - https://www.wikidata.org/wiki/Q4533086
 schema_version: 1
+director:
+- nazarov-uchkun
+screenwriter:
+- nazarov-uchkun
+- vasiliu-dmitriy-georgievich
+studio:
+- uzbekfilm

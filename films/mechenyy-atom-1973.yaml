@@ -8,6 +8,17 @@ runtime_min: 99
 external_ids:
   wikidata: Q4292280
   imdb: tt0314365
+  youtube: H_hrMFsc_zg
 sources:
 - https://www.wikidata.org/wiki/Q4292280
 schema_version: 1
+director:
+- gostev-igor-aronovich
+screenwriter:
+- shakhmagonov-fyodor-fyodorovich
+cinematographer:
+- kolganov-lev-nikolaevich
+composer:
+- khozak-rafail-matveevich
+studio:
+- lenfilm

@@ -1,0 +1,9 @@
+id: krievs-arvids
+name_ru: Арвидс Криевс
+roles:
+- director
+external_ids:
+  wikidata: Q4240986
+sources:
+- https://www.wikidata.org/wiki/Q4240986
+schema_version: 1

@@ -8,6 +8,17 @@ runtime_min: 125
 external_ids:
   wikidata: Q4084217
   imdb: tt0376509
+  youtube: ze5X1yfsmwk
 sources:
 - https://www.wikidata.org/wiki/Q4084217
 schema_version: 1
+director:
+- sabitov-zagid-zarifovich
+screenwriter:
+- tarkovsky-andrei
+cinematographer:
+- fayziev-khatam-khalmatovich
+composer:
+- vildanov-rumil-dzhiangirovich
+studio:
+- uzbekfilm

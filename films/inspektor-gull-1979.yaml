@@ -8,6 +8,15 @@ runtime_min: 136
 external_ids:
   wikidata: Q4201357
   imdb: tt3171718
+  youtube: 82i4oYAVJF0
 sources:
 - https://www.wikidata.org/wiki/Q4201357
 schema_version: 1
+director:
+- proshkin-aleksandr-anatolevich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- artemyev-eduard
+studio:
+- ekran

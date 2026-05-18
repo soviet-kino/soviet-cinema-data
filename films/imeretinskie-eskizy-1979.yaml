@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4200254
   imdb: tt0079331
+  youtube: 8n1-8DYLURI
 sources:
 - https://www.wikidata.org/wiki/Q4200254
 schema_version: 1
+director:
+- mchedlidze-nana-bidzinovna
+screenwriter:
+- mchedlidze-nana-bidzinovna
+cinematographer:
+- chelidze-georgiy-aleksandrovich
+composer:
+- partskhaladze-merab

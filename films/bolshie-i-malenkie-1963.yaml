@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4092215
   imdb: tt1718742
+  youtube: 5XV_b6Xv0H8
 sources:
 - https://www.wikidata.org/wiki/Q4092215
 schema_version: 1
+director:
+- fyodorova-mariya-nikolaevna
+screenwriter:
+- manevich-iosif-mikhaylovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4100066
   imdb: tt2382905
+  youtube: -PRyn3cX3BE
 sources:
 - https://www.wikidata.org/wiki/Q4100066
 schema_version: 1
+director:
+- alyashev-anatoliy-alekseevich
+screenwriter:
+- abramova-natalya
+composer:
+- dvoskin-aleksandr

@@ -8,6 +8,17 @@ runtime_min: 79
 external_ids:
   wikidata: Q4207464
   imdb: tt0174812
+  youtube: gomSzypXTFc
 sources:
 - https://www.wikidata.org/wiki/Q4207464
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+screenwriter:
+- radzinskiy-edvard-stanislavovich
+cinematographer:
+- petritskiy-anatoliy-anatolevich
+composer:
+- artemyev-eduard
+studio:
+- mosfilm

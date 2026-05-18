@@ -8,6 +8,19 @@ runtime_min: 90
 external_ids:
   wikidata: Q4478957
   imdb: tt0414640
+  youtube: xR8aCpBbAjI
 sources:
 - https://www.wikidata.org/wiki/Q4478957
 schema_version: 1
+director:
+- dovlatyan-frunze
+- mirskiy-lev-solomonovich
+screenwriter:
+- zak-avenir-grigorevich
+- kuznetsov-isay
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

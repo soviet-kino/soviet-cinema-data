@@ -8,6 +8,15 @@ runtime_min: 79
 external_ids:
   wikidata: Q4515024
   imdb: tt0799979
+  youtube: YSvEdJTGsIM
 sources:
 - https://www.wikidata.org/wiki/Q4515024
 schema_version: 1
+director:
+- voznesenskiy-igor-matveevich
+cinematographer:
+- rybin-aleksandr
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

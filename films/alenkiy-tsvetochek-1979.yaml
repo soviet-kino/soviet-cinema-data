@@ -8,6 +8,17 @@ runtime_min: 65
 external_ids:
   wikidata: Q1218234
   imdb: tt0283242
+  youtube: rpsdN8OIdcg
 sources:
 - https://www.wikidata.org/wiki/Q1218234
 schema_version: 1
+director:
+- povolotskaya-irina
+screenwriter:
+- ryazantseva-nataliya-borisovna
+cinematographer:
+- antipenko-aleksandr-ivanovich
+composer:
+- denisov-edison-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

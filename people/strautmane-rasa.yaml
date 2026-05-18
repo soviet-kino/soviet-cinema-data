@@ -1,0 +1,9 @@
+id: strautmane-rasa
+name_ru: Раса Страутмане
+roles:
+- director
+external_ids:
+  wikidata: Q4443449
+sources:
+- https://www.wikidata.org/wiki/Q4443449
+schema_version: 1

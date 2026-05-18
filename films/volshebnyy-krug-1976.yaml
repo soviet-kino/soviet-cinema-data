@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q56322505
   imdb: tt3256248
+  youtube: ebPLLAF7iGg
 sources:
 - https://www.wikidata.org/wiki/Q56322505
 schema_version: 1
+director:
+- kozachkov-valentin-fyodorovich
+studio:
+- odesskaya-kinostudiya

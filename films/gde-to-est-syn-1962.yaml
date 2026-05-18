@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4134597
   imdb: tt0352364
+  youtube: gHdp7oZmutE
 sources:
 - https://www.wikidata.org/wiki/Q4134597
 schema_version: 1
+director:
+- voytetskiy-artur-iosifovich
+screenwriter:
+- kholendro-dmitriy-mikhaylovich
+composer:
+- tabachnikov-modest-efimovich
+studio:
+- yaltinskaya-kinostudiya

@@ -8,6 +8,12 @@ runtime_min: 43
 external_ids:
   wikidata: Q4503399
   imdb: tt12044328
+  youtube: BPu3K23cJLY
 sources:
 - https://www.wikidata.org/wiki/Q4503399
 schema_version: 1
+director:
+- vasilev-anatoliy-isaakovich
+- mamilov-sulambek-akhmetovich
+studio:
+- ekran

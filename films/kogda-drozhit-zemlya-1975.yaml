@@ -8,6 +8,15 @@ runtime_min: 78
 external_ids:
   wikidata: Q18243692
   imdb: tt0385816
+  youtube: YUI_yTaPHcs
 sources:
 - https://www.wikidata.org/wiki/Q18243692
 schema_version: 1
+director:
+- kosarev-aleksandr-borisovich
+screenwriter:
+- bezuglov-anatoliy-alekseevich
+composer:
+- rybnikov-aleksey
+studio:
+- mosfilm

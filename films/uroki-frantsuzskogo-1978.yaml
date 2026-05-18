@@ -8,6 +8,14 @@ runtime_min: 85
 external_ids:
   wikidata: Q4477241
   imdb: tt0175286
+  youtube: GMlQpHDfp-Y
 sources:
 - https://www.wikidata.org/wiki/Q4477241
 schema_version: 1
+director:
+- tashkov-evgeniy
+screenwriter:
+- tashkov-evgeniy
+studio:
+- mosfilm
+- ekran

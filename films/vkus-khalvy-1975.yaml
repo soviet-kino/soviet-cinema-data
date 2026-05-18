@@ -8,6 +8,18 @@ runtime_min: 68
 external_ids:
   wikidata: Q4112927
   imdb: tt0073872
+  youtube: WhmWWWEF0ms
 sources:
 - https://www.wikidata.org/wiki/Q4112927
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- viktor-vitkovich
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

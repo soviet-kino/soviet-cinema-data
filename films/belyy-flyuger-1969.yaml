@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q4083167
   imdb: tt0312453
+  youtube: 7JCBNscWJYQ
 sources:
 - https://www.wikidata.org/wiki/Q4083167
 schema_version: 1
+director:
+- kocharyan-david-yakovlevich
+screenwriter:
+- vlasov-aleksandr-efimovich
+cinematographer:
+- kovzel-vladimir-prokhorovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- lenfilm

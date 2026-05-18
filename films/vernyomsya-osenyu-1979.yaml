@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q18634933
   imdb: tt0332482
+  youtube: 0akeGFek2vg
 sources:
 - https://www.wikidata.org/wiki/Q18634933
 schema_version: 1
+director:
+- simonov-aleksey-kirillovich
+screenwriter:
+- trunin-vadim-vasilevich
+cinematographer:
+- kolganov-lev-nikolaevich
+composer:
+- zhurbin-aleksandr-borisovich
+studio:
+- lenfilm

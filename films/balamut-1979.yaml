@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q4076346
   imdb: tt0166499
+  youtube: cksc0Zdb4WE
 sources:
 - https://www.wikidata.org/wiki/Q4076346
 schema_version: 1
+director:
+- rogovoy-vladimir-abramovich
+screenwriter:
+- bodrov-sergey-vladimirovich
+cinematographer:
+- egorov-vyacheslav-konstantinovich
+composer:
+- ashkenazi-david-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

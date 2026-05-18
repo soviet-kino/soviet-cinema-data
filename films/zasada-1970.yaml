@@ -8,6 +8,13 @@ runtime_min: 89
 external_ids:
   wikidata: Q4187811
   imdb: tt5277040
+  youtube: DOWoDU5-5aU
 sources:
 - https://www.wikidata.org/wiki/Q4187811
 schema_version: 1
+director:
+- bazarov-gennadiy-sadyrovich
+cinematographer:
+- vilenskiy-valeriy-vladimirovich
+studio:
+- kyrgyzfilm

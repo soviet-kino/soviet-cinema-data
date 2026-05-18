@@ -8,6 +8,18 @@ runtime_min: 90
 external_ids:
   wikidata: Q617191
   imdb: tt0069725
+  youtube: eoFM4Dnj_8U
 sources:
 - https://www.wikidata.org/wiki/Q617191
 schema_version: 1
+director:
+- koldits-gotfrid
+screenwriter:
+- mitich-goyko
+cinematographer:
+- bergmann-khelmut
+composer:
+- khozalla-khans-diter
+studio:
+- mosfilm
+- defa

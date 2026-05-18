@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4129655
   imdb: tt0062464
+  youtube: B17W30IR4kg
 sources:
 - https://www.wikidata.org/wiki/Q4129655
 schema_version: 1
+director:
+- trakhtenberg-naum-mikhaylovich
+screenwriter:
+- kovarskiy-nikolay-aronovich
+cinematographer:
+- sheynin-semyon-alterovich
+composer:
+- khachaturyan-karen
+studio:
+- mosfilm

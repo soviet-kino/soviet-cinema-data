@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4259774
   imdb: tt3172248
+  youtube: JsWfr9tf00U
 sources:
 - https://www.wikidata.org/wiki/Q4259774
 schema_version: 1
+director:
+- ptashuk-mikhail-nikolaevich
+composer:
+- pozhlakov-stanislav-ivanovich
+studio:
+- belarusfilm

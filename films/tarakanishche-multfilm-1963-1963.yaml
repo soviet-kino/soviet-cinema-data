@@ -8,6 +8,15 @@ runtime_min: 17
 external_ids:
   wikidata: Q4451495
   imdb: tt5497944
+  youtube: uSEaYPgbCCA
 sources:
 - https://www.wikidata.org/wiki/Q4451495
 schema_version: 1
+director:
+- polkovnikov-vladimir-ivanovich
+screenwriter:
+- suteev-vladimir-grigorevich
+composer:
+- varlamov-aleksandr-vladimirovich
+studio:
+- soyuzmultfilm

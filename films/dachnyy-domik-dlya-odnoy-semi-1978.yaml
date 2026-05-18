@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4155464
   imdb: tt0212900
+  youtube: O7YZNNvdsTE
 sources:
 - https://www.wikidata.org/wiki/Q4155464
 schema_version: 1
+director:
+- gusman-yuliy-solomonovich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kerimov-valeri
+studio:
+- azerbaydzhanfilm

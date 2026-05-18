@@ -8,6 +8,15 @@ runtime_min: 130
 external_ids:
   wikidata: Q4256979
   imdb: tt4857220
+  youtube: 5b6ziEXGvJY
 sources:
 - https://www.wikidata.org/wiki/Q4256979
 schema_version: 1
+director:
+- zhilin-viktor-sergeevich
+cinematographer:
+- avdeev-oleg-tikhonovich
+composer:
+- migulya-vladimir-georgievich
+studio:
+- belarusfilm

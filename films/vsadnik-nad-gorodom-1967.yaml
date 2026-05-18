@@ -8,6 +8,17 @@ runtime_min: 72
 external_ids:
   wikidata: Q46995729
   imdb: tt0291549
+  youtube: eaYFaT9dVGY
 sources:
 - https://www.wikidata.org/wiki/Q46995729
 schema_version: 1
+director:
+- shatrov-igor-vladimirovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- kataev-pyotr
+composer:
+- rybnikov-aleksey
+studio:
+- kinostudiya-imeni-m-gorkogo

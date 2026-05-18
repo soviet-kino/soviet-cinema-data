@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4208794
   imdb: tt1369670
+  youtube: cJElA1bB9Fo
 sources:
 - https://www.wikidata.org/wiki/Q4208794
 schema_version: 1
+director:
+- milchin-lev-isaakovich
+cinematographer:
+- druyan-mikhail
+studio:
+- soyuzmultfilm

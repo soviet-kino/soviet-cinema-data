@@ -8,6 +8,15 @@ runtime_min: 97
 external_ids:
   wikidata: Q2814738
   imdb: tt0074447
+  youtube: sLl-wzLfx-w
 sources:
 - https://www.wikidata.org/wiki/Q2814738
 schema_version: 1
+director:
+- german-aleksey-yurevich
+screenwriter:
+- simonov-konstantin-mikhaylovich
+cinematographer:
+- fedosov-valeriy-ivanovich
+studio:
+- lenfilm

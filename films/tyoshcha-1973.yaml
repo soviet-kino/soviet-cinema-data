@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4468193
   imdb: tt0314808
+  youtube: UHxd75npTow
 sources:
 - https://www.wikidata.org/wiki/Q4468193
 schema_version: 1
+director:
+- sploshnov-sergey-ivanovich
+composer:
+- krylatov-evgeniy
+studio:
+- belarusfilm

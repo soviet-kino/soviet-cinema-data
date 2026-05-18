@@ -8,6 +8,15 @@ runtime_min: 356
 external_ids:
   wikidata: Q4103812
   imdb: tt0072578
+  youtube: F14wFTeAF2E
 sources:
 - https://www.wikidata.org/wiki/Q4103812
 schema_version: 1
+director:
+- voyazos-antonis-yanis
+screenwriter:
+- leonov-nikolay-ivanovich
+composer:
+- trotsyuk-bogdan-yakovlevich
+studio:
+- ekran

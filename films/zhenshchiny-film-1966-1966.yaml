@@ -8,6 +8,19 @@ runtime_min: 106
 external_ids:
   wikidata: Q4179491
   imdb: tt0166408
+  youtube: FCRoiJNnZTQ
 sources:
 - https://www.wikidata.org/wiki/Q4179491
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+screenwriter:
+- velembovskaya-irina-aleksandrovna
+- metalnikov-budimir-alekseevich
+cinematographer:
+- osepyan-mark
+- dultsev-vasiliy-ivanovich
+composer:
+- frenkel-yan-abramovich
+studio:
+- kinostudiya-imeni-m-gorkogo

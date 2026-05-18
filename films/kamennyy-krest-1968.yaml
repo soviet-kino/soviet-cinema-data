@@ -8,6 +8,17 @@ runtime_min: 81
 external_ids:
   wikidata: Q4211280
   imdb: tt0347307
+  youtube: dF8TCnXKaaI
 sources:
 - https://www.wikidata.org/wiki/Q4211280
 schema_version: 1
+director:
+- osyka-leonid
+screenwriter:
+- drach-ivan-fyodorovich
+cinematographer:
+- kvas-valeriy
+composer:
+- guba-vladimir
+studio:
+- kinostudiya-imeni-a-dovzhenko

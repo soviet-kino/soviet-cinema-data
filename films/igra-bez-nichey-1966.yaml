@@ -8,6 +8,16 @@ runtime_min: 94
 external_ids:
   wikidata: Q4197674
   imdb: tt0275015
+  youtube: rwHxdPWza-8
 sources:
 - https://www.wikidata.org/wiki/Q4197674
 schema_version: 1
+director:
+- kavtaradze-yuriy-sergeevich
+screenwriter:
+- kavtaradze-yuriy-sergeevich
+- isaev-konstantin-fyodorovich
+composer:
+- pevzner-konstantin-grigorevich
+studio:
+- gruziya-film

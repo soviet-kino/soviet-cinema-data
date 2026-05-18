@@ -8,6 +8,17 @@ runtime_min: 159
 external_ids:
   wikidata: Q4493027
   imdb: tt0071525
+  youtube: i3iibu2c_Yg
 sources:
 - https://www.wikidata.org/wiki/Q4493027
 schema_version: 1
+director:
+- gostev-igor-aronovich
+screenwriter:
+- tsvigun-semyon-kuzmich
+cinematographer:
+- kharitonov-aleksandr-vasilevich
+composer:
+- basner-veniamin-efimovich
+studio:
+- mosfilm

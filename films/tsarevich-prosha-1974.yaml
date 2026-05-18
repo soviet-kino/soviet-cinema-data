@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q4503152
   imdb: tt0168231
+  youtube: YrrPNEjIUYc
 sources:
 - https://www.wikidata.org/wiki/Q4503152
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+screenwriter:
+- volpin-mikhail-davydovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- lenfilm

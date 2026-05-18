@@ -8,6 +8,19 @@ runtime_min: 81
 external_ids:
   wikidata: Q1449397
   imdb: tt0183367
+  youtube: HSSQwAMcm5g
 sources:
 - https://www.wikidata.org/wiki/Q1449397
 schema_version: 1
+director:
+- shmidt-yan
+screenwriter:
+- grin-aleksandr
+- shmidt-yan
+cinematographer:
+- makhane-irzhi
+composer:
+- shust-irzhi
+studio:
+- mosfilm
+- barrandov

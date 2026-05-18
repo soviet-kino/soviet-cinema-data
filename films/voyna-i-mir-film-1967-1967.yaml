@@ -8,6 +8,20 @@ runtime_min: 432
 external_ids:
   wikidata: Q845176
   imdb: tt0063794
+  youtube: 3ZvpbOSS7Xo
 sources:
 - https://www.wikidata.org/wiki/Q845176
 schema_version: 1
+director:
+- bondarchuk-sergey-fyodorovich
+screenwriter:
+- tolstoy-lev-nikolaevich
+- bondarchuk-sergey-fyodorovich
+- stsenarist-solovyov-vasiliy-ivanovich
+cinematographer:
+- chen-iolanda-evgenevna
+composer:
+- ovchinnikov-vyacheslav
+studio:
+- mosfilm
+poster_commons: War and Peace (1967, Russia) movie script.jpg

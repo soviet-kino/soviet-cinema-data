@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4399863
   imdb: tt4676226
+  youtube: UxfAEzSaYXk
 sources:
 - https://www.wikidata.org/wiki/Q4399863
 schema_version: 1
+director:
+- chetverikov-vitaliy-pavlovich
+screenwriter:
+- chigrinov-ivan
+- novikov-ivan-grigorevich
+cinematographer:
+- olifer-boris-alekseevich
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- belarusfilm

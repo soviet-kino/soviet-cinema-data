@@ -8,6 +8,17 @@ runtime_min: 104
 external_ids:
   wikidata: Q20507115
   imdb: tt0313895
+  youtube: yBKE-imTJMs
 sources:
 - https://www.wikidata.org/wiki/Q20507115
 schema_version: 1
+director:
+- kevorkov-stepan
+screenwriter:
+- isaev-konstantin-fyodorovich
+cinematographer:
+- dzhalalyan-artashes-semyonovich
+composer:
+- oganesyan-edgar
+studio:
+- armenfilm

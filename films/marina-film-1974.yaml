@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q12121345
   imdb: tt0174902
+  youtube: 2OO5St2f-Ds
 sources:
 - https://www.wikidata.org/wiki/Q12121345
 schema_version: 1
+director:
+- ivchenko-boris-viktorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

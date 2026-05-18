@@ -8,6 +8,17 @@ runtime_min: 92
 external_ids:
   wikidata: Q1245367
   imdb: tt0064385
+  youtube: Pu2O5YIwAug
 sources:
 - https://www.wikidata.org/wiki/Q1245367
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- mitta-aleksandr-naumovich
+- frid-valeriy
+- dunskiy-yuliy
+composer:
+- chaykovskiy-boris-aleksandrovich
+studio:
+- mosfilm

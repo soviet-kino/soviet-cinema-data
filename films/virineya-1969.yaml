@@ -8,6 +8,17 @@ runtime_min: 109
 external_ids:
   wikidata: Q4112034
   imdb: tt0063784
+  youtube: xvotbRblKls
 sources:
 - https://www.wikidata.org/wiki/Q4112034
 schema_version: 1
+director:
+- fetin-vladimir-aleksandrovich
+screenwriter:
+- shulgina-albina
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- solovyov-sedoy-vasiliy-pavlovich
+studio:
+- lenfilm

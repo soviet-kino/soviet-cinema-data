@@ -8,6 +8,11 @@ runtime_min: 96
 external_ids:
   wikidata: Q4226036
   imdb: tt0314281
+  youtube: gBCJNfnoehA
 sources:
 - https://www.wikidata.org/wiki/Q4226036
 schema_version: 1
+director:
+- brench-aloiz
+studio:
+- rizhskaya-kinostudiya

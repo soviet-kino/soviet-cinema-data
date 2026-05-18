@@ -8,6 +8,17 @@ runtime_min: 92
 external_ids:
   wikidata: Q1626585
   imdb: tt0070861
+  youtube: -MtSnPXeAeI
 sources:
 - https://www.wikidata.org/wiki/Q1626585
 schema_version: 1
+director:
+- bykov-leonid-fyodorovich
+screenwriter:
+- bykov-leonid-fyodorovich
+- onoprienko-evgeniy-fyodorovich
+- satskiy-aleksandr-stepanovich
+cinematographer:
+- voytenko-vladimir-grigorevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

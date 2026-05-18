@@ -1,0 +1,9 @@
+id: keleti-marton
+name_ru: Мартон Келети
+roles:
+- director
+external_ids:
+  wikidata: Q831143
+sources:
+- https://www.wikidata.org/wiki/Q831143
+schema_version: 1

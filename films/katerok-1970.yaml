@@ -8,6 +8,17 @@ runtime_min: 578
 external_ids:
   wikidata: Q4217358
   imdb: tt2213622
+  youtube: L3zpAigJMR8
 sources:
 - https://www.wikidata.org/wiki/Q4217358
 schema_version: 1
+director:
+- kovalevskaya-inessa-alekseevna
+screenwriter:
+- vitenzon-zhanna-ziskindovna
+cinematographer:
+- zhukovskiy-aleksandr-borisovich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- soyuzmultfilm

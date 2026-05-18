@@ -8,6 +8,15 @@ runtime_min: 101
 external_ids:
   wikidata: Q4056328
   imdb: tt0071179
+  youtube: _Uf0uSOyULE
 sources:
 - https://www.wikidata.org/wiki/Q4056328
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- akhundova-alla
+composer:
+- dunaevskiy-maksim-isaakovich
+studio:
+- mosfilm

@@ -8,6 +8,18 @@ runtime_min: 158
 external_ids:
   wikidata: Q4128528
   imdb: tt0072382
+  youtube: goavuJufU9Y
 sources:
 - https://www.wikidata.org/wiki/Q4128528
 schema_version: 1
+director:
+- talankin-igor-vasilevich
+screenwriter:
+- granin-daniil-aleksandrovich
+cinematographer:
+- ardashnikov-naum-mikhaylovich
+- travkin-boris-tikhonovich
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

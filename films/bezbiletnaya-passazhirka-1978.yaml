@@ -8,6 +8,11 @@ runtime_min: 67
 external_ids:
   wikidata: Q4080790
   imdb: tt0211947
+  youtube: ETJPHBUJTEg
 sources:
 - https://www.wikidata.org/wiki/Q4080790
 schema_version: 1
+director:
+- pobedonostsev-yuriy-sergeevich
+studio:
+- kinostudiya-imeni-m-gorkogo

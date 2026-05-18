@@ -8,6 +8,11 @@ runtime_min: 127
 external_ids:
   wikidata: Q4466674
   imdb: tt0387651
+  youtube: 9o2OVQnIomU
 sources:
 - https://www.wikidata.org/wiki/Q4466674
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+studio:
+- odesskaya-kinostudiya

@@ -8,6 +8,19 @@ runtime_min: 127
 external_ids:
   wikidata: Q4099137
   imdb: tt0131331
+  youtube: 23NmulenJn0
 sources:
 - https://www.wikidata.org/wiki/Q4099137
 schema_version: 1
+director:
+- naroditskiy-abram-aronovich
+- rasheev-nikolay-georgievich
+screenwriter:
+- mitko-evgeniy
+cinematographer:
+- zimovets-vitaliy-andreevich
+- myasnikov-boris-moiseevich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

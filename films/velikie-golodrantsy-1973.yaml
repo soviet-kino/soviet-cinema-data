@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4106452
   imdb: tt0332808
+  youtube: s4QeN47pysw
 sources:
 - https://www.wikidata.org/wiki/Q4106452
 schema_version: 1
+director:
+- mirskiy-lev-solomonovich
+screenwriter:
+- nasedkin-filipp-ivanovich
+composer:
+- afanasev-leonid
+studio:
+- kinostudiya-imeni-m-gorkogo

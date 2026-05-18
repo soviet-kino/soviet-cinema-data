@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4235900
 schema_version: 1
+director:
+- shchukin-georgiy-borisovich
+screenwriter:
+- borodyanskiy-aleksandr-emmanuilovich
+- shchukin-georgiy-borisovich
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+studio:
+- mosfilm

@@ -8,6 +8,18 @@ runtime_min: 93
 external_ids:
   wikidata: Q65252655
   imdb: tt0175314
+  youtube: aPuuElmP_hE
 sources:
 - https://www.wikidata.org/wiki/Q65252655
 schema_version: 1
+director:
+- shamshiev-bolotbek
+screenwriter:
+- shamshiev-bolotbek
+- ashimov-asanali-ashimovich
+- ashimov-akim-urtaevich
+composer:
+- ter-tatevosyan-dzhon
+studio:
+- kyrgyzfilm
+- kazakhfilm
