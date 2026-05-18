@@ -8,6 +8,21 @@ runtime_min: 75
 external_ids:
   wikidata: Q4169605
   imdb: tt0346910
+  youtube: U3b5z0exCiw
 sources:
 - https://www.wikidata.org/wiki/Q4169605
 schema_version: 1
+director:
+- vasilevskiy-radomir
+screenwriter:
+- pogodin-radiy-petrovich
+- chulyukin-yuriy-stepanovich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+- lukanev-nikolay-deonisievich
+- slabinyak-georgiy-aleksandrovich
+- tikhonov-sergey-mikhaylovich
+composer:
+- lazarev-eduard
+studio:
+- odesskaya-kinostudiya

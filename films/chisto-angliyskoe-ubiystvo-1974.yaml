@@ -8,6 +8,17 @@ runtime_min: 165
 external_ids:
   wikidata: Q4516425
   imdb: tt0072780
+  youtube: qHnoXKOTEh0
 sources:
 - https://www.wikidata.org/wiki/Q4516425
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+screenwriter:
+- yusov-vadim
+cinematographer:
+- guslinskiy-evgeniy
+composer:
+- artemyev-eduard
+studio:
+- mosfilm

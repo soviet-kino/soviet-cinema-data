@@ -8,6 +8,11 @@ runtime_min: 97
 external_ids:
   wikidata: Q4076709
   imdb: tt0065447
+  youtube: abg_lZ83boM
 sources:
 - https://www.wikidata.org/wiki/Q4076709
 schema_version: 1
+director:
+- shvyryov-yuriy
+studio:
+- kinostudiya-imeni-m-gorkogo

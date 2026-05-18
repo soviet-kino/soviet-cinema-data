@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q4466964
   imdb: tt0075360
+  youtube: GpRwjWEvizQ
 sources:
 - https://www.wikidata.org/wiki/Q4466964
 schema_version: 1
+director:
+- seryy-aleksandr-ivanovich
+screenwriter:
+- gorin-grigoriy
+composer:
+- gladkov-gennadiy
+studio:
+- mosfilm

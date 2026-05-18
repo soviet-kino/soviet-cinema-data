@@ -8,6 +8,18 @@ runtime_min: 71
 external_ids:
   wikidata: Q4228849
   imdb: tt0074760
+  youtube: IyzfJqRXqjk
 sources:
 - https://www.wikidata.org/wiki/Q4228849
 schema_version: 1
+director:
+- zlatoustovskiy-vladimir-borisovich
+- lukinskiy-ivan-vladimirovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- rybin-aleksandr
+composer:
+- molchanov-kirill
+studio:
+- kinostudiya-imeni-m-gorkogo

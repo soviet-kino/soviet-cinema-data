@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q20508439
   imdb: tt0173394
+  youtube: 0nj634PtRgE
 sources:
 - https://www.wikidata.org/wiki/Q20508439
 schema_version: 1
+director:
+- keosayan-edmond
+composer:
+- amirkhanyan-robert
+studio:
+- armenfilm

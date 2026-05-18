@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q169428
 schema_version: 1
+director:
+- komissarzhevskiy-viktor-grigorevich
+screenwriter:
+- kozhevnikov-vadim-mikhaylovich
+- komissarzhevskiy-viktor-grigorevich
+cinematographer:
+- levitin-veniamin-faustovich
+- meskhiev-dmitriy-davydovich
+composer:
+- chistyakov-vladlen
+studio:
+- lenfilm

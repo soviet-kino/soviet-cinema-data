@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q21639587
   imdb: tt9089842
+  youtube: UZIehuULjFM
 sources:
 - https://www.wikidata.org/wiki/Q21639587
 schema_version: 1
+director:
+- goncharov-vladimir-maksimovich
+screenwriter:
+- kapustyan-vladimir-gavrilovich
+cinematographer:
+- gavrilov-anatoliy
+studio:
+- kievnauchfilm

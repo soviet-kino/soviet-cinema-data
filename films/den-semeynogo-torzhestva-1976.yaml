@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q21638753
   imdb: tt0403970
+  youtube: Ll_ruUzQAhs
 sources:
 - https://www.wikidata.org/wiki/Q21638753
 schema_version: 1
+director:
+- khalzanov-baras-tsyretarovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+composer:
+- bibergan-vadim-davidovich
+studio:
+- sverdlovskaya-kinostudiya

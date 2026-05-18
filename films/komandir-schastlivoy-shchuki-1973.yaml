@@ -8,6 +8,17 @@ runtime_min: 101
 external_ids:
   wikidata: Q4229152
   imdb: tt0068812
+  youtube: XlX1IjPhmVU
 sources:
 - https://www.wikidata.org/wiki/Q4229152
 schema_version: 1
+director:
+- volchek-boris-izrailevich
+screenwriter:
+- moldavskiy-aleksandr-efimovich
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm

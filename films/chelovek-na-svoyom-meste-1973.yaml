@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q4508575
   imdb: tt0068365
+  youtube: _PJq8RkbZWg
 sources:
 - https://www.wikidata.org/wiki/Q4508575
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- chernykh-valentin-konstantinovich
+cinematographer:
+- suslov-mikhail-petrovich
+composer:
+- levitin-yuriy
+studio:
+- mosfilm

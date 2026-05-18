@@ -8,6 +8,16 @@ runtime_min: 85
 external_ids:
   wikidata: Q4080774
   imdb: tt0149854
+  youtube: oKxPNdrVwM8
 sources:
 - https://www.wikidata.org/wiki/Q4080774
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- lungin-semyon
+- nusinov-ilya
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- mosfilm

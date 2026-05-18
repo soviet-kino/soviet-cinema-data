@@ -8,6 +8,17 @@ runtime_min: 136
 external_ids:
   wikidata: Q4078756
   imdb: tt0077208
+  youtube: II-fjjXs1Xc
 sources:
 - https://www.wikidata.org/wiki/Q4078756
 schema_version: 1
+director:
+- pavlovich-vladimir
+screenwriter:
+- gorin-grigoriy
+cinematographer:
+- kuznetsov-anatoliy-vasilevich
+composer:
+- kazhlaev-murad-magomedovich
+studio:
+- mosfilm

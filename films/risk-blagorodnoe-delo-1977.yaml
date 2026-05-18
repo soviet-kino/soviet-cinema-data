@@ -8,6 +8,13 @@ runtime_min: 81
 external_ids:
   wikidata: Q4394796
   imdb: tt0128893
+  youtube: QHGwIPZUyeQ
 sources:
 - https://www.wikidata.org/wiki/Q4394796
 schema_version: 1
+director:
+- segel-yakov-aleksandrovich
+composer:
+- krylatov-evgeniy
+studio:
+- mosfilm

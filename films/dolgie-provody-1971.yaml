@@ -8,6 +8,17 @@ runtime_min: 95
 external_ids:
   wikidata: Q4164467
   imdb: tt0092905
+  youtube: KxNiyctaYRQ
 sources:
 - https://www.wikidata.org/wiki/Q4164467
 schema_version: 1
+director:
+- muratova-kira-georgievna
+screenwriter:
+- ryazantseva-nataliya-borisovna
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- odesskaya-kinostudiya

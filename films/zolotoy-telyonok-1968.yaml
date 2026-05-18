@@ -8,6 +8,17 @@ runtime_min: 164
 external_ids:
   wikidata: Q3547387
   imdb: tt0063845
+  youtube: jchmRazCbJM
 sources:
 - https://www.wikidata.org/wiki/Q3547387
 schema_version: 1
+director:
+- shveytser-mikhail-abramovich
+screenwriter:
+- shveytser-mikhail-abramovich
+cinematographer:
+- poluyanov-sergey-sergeevich
+composer:
+- firtich-georgiy
+studio:
+- mosfilm

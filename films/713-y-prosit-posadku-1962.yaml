@@ -13,3 +13,11 @@ sources:
 schema_version: 1
 topics:
 - science-fiction
+director:
+- nikulin-grigoriy-georgievich
+cinematographer:
+- levitin-veniamin-faustovich
+composer:
+- portnov-georgiy-anatolevich
+studio:
+- lenfilm

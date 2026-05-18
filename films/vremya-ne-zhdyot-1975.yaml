@@ -8,6 +8,17 @@ runtime_min: 153
 external_ids:
   wikidata: Q4127104
   imdb: tt4842444
+  youtube: ZEur6ZtQU2Y
 sources:
 - https://www.wikidata.org/wiki/Q4127104
 schema_version: 1
+director:
+- chetverikov-vitaliy-pavlovich
+screenwriter:
+- london-dzhek
+cinematographer:
+- zaytsev-dmitriy-evgenevich
+composer:
+- karaev-faradzh
+studio:
+- belarusfilm

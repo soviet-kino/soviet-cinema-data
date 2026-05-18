@@ -8,6 +8,18 @@ runtime_min: 99
 external_ids:
   wikidata: Q4533095
   imdb: tt0072955
+  youtube: YSiiNPyZAdw
 sources:
 - https://www.wikidata.org/wiki/Q4533095
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- lvovskiy-mikhail
+- frez-ilya-abramovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- frenkel-yan-abramovich
+studio:
+- kinostudiya-imeni-m-gorkogo

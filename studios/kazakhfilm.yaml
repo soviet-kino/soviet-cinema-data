@@ -1,0 +1,8 @@
+id: kazakhfilm
+name_ru: Казахфильм
+country: SU
+external_ids:
+  wikidata: Q2381773
+sources:
+- https://www.wikidata.org/wiki/Q2381773
+schema_version: 1

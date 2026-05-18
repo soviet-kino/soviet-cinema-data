@@ -8,6 +8,17 @@ runtime_min: 92
 external_ids:
   wikidata: Q4452688
   imdb: tt5072068
+  youtube: TsyiqeYNxvc
 sources:
 - https://www.wikidata.org/wiki/Q4452688
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- otten-nikolay-davidovich
+cinematographer:
+- rybin-aleksandr
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- kinostudiya-imeni-m-gorkogo

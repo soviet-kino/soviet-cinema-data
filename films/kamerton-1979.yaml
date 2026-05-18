@@ -8,6 +8,15 @@ runtime_min: 133
 external_ids:
   wikidata: Q4211523
   imdb: tt3337244
+  youtube: IbuRb3DvhaM
 sources:
 - https://www.wikidata.org/wiki/Q4211523
 schema_version: 1
+director:
+- novak-villen-zakharovich
+cinematographer:
+- tkachenko-vladimir-ivanovich
+composer:
+- gradskiy-aleksandr
+studio:
+- odesskaya-kinostudiya

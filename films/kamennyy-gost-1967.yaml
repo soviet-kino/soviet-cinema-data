@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q16657680
   imdb: tt0291289
+  youtube: iQ6q1gN0APo
 sources:
 - https://www.wikidata.org/wiki/Q16657680
 schema_version: 1
+director:
+- gorikker-vladimir-mikhaylovich
+cinematographer:
+- kosmatov-leonid
+composer:
+- dargomyzhskiy-aleksandr-sergeevich
+studio:
+- mosfilm

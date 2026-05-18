@@ -8,6 +8,13 @@ runtime_min: 61
 external_ids:
   wikidata: Q4281843
   imdb: tt1862478
+  youtube: E6sd5OXaGIs
 sources:
 - https://www.wikidata.org/wiki/Q4281843
 schema_version: 1
+director:
+- fayt-yuliy-andreevich
+screenwriter:
+- golovanov-vladimir-antonovich
+studio:
+- kinostudiya-imeni-m-gorkogo

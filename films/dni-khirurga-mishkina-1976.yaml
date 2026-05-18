@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4163305
   imdb: tt0073983
+  youtube: eYkZ0atVzgM
 sources:
 - https://www.wikidata.org/wiki/Q4163305
 schema_version: 1
+director:
+- zobin-vadim-nikolaevich
+screenwriter:
+- krelin-yuliy-zusmanovich
+composer:
+- ziv-mikhail-pavlovich
+studio:
+- ekran

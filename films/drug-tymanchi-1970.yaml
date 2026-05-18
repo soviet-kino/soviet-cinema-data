@@ -8,6 +8,18 @@ runtime_min: 70
 external_ids:
   wikidata: Q4168624
   imdb: tt0422141
+  youtube: CPMSvE-OSg4
 sources:
 - https://www.wikidata.org/wiki/Q4168624
 schema_version: 1
+director:
+- nitochkin-anatoliy-dmitrievich
+screenwriter:
+- nitochkin-anatoliy-dmitrievich
+- bezuglov-anatoliy-alekseevich
+cinematographer:
+- zelma-timur-georgievich
+composer:
+- firtich-georgiy
+studio:
+- ekran

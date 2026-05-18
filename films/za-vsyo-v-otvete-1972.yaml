@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q107741481
   imdb: tt0069531
+  youtube: O8DTXSdyz8k
 sources:
 - https://www.wikidata.org/wiki/Q107741481
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+screenwriter:
+- rozov-viktor-sergeevich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- mosfilm

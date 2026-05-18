@@ -8,6 +8,13 @@ runtime_min: 92
 external_ids:
   wikidata: Q4158417
   imdb: tt0403971
+  youtube: dSaEbMZXKUo
 sources:
 - https://www.wikidata.org/wiki/Q4158417
 schema_version: 1
+director:
+- puchinyan-stepan-filippovich
+cinematographer:
+- filippov-sergey-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

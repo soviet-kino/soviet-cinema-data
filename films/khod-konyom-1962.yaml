@@ -8,6 +8,13 @@ runtime_min: 77
 external_ids:
   wikidata: Q4498672
   imdb: tt0130059
+  youtube: emR30_T-TN0
 sources:
 - https://www.wikidata.org/wiki/Q4498672
 schema_version: 1
+director:
+- tatyana-nikolaevna-lukashevich
+composer:
+- ledenyov-roman-semyonovich
+studio:
+- mosfilm

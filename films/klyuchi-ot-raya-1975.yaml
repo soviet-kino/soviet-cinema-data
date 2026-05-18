@@ -8,6 +8,13 @@ runtime_min: 93
 external_ids:
   wikidata: Q4224473
   imdb: tt2395363
+  youtube: yRdWYt5Bu04
 sources:
 - https://www.wikidata.org/wiki/Q4224473
 schema_version: 1
+director:
+- brench-aloiz
+composer:
+- vigners-ivars
+studio:
+- rizhskaya-kinostudiya

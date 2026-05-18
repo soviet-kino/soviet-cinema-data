@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q110741209
   imdb: tt0169609
+  youtube: KQ9rGe4idIk
 sources:
 - https://www.wikidata.org/wiki/Q110741209
 schema_version: 1
+director:
+- aymanov-shaken-kenzhetaevich
+screenwriter:
+- aymanov-shaken-kenzhetaevich
+cinematographer:
+- berkovich-mark-isaakovich
+composer:
+- mukhamedzhanov-sydyk
+studio:
+- kazakhfilm

@@ -8,6 +8,19 @@ runtime_min: 94
 external_ids:
   wikidata: Q4198222
   imdb: tt2050549
+  youtube: PYZKTLVwJMs
 sources:
 - https://www.wikidata.org/wiki/Q4198222
 schema_version: 1
+director:
+- kazanskiy-gennadiy-sergeevich
+screenwriter:
+- davydov-sergey-davydovich
+- kazanskiy-gennadiy-sergeevich
+- shestinskiy-oleg-nikolaevich
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- simonyan-nadezhda
+studio:
+- lenfilm

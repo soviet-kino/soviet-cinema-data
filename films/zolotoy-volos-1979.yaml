@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q21639823
   imdb: tt10651086
+  youtube: 2WqffTDsRDg
 sources:
 - https://www.wikidata.org/wiki/Q21639823
 schema_version: 1
+composer:
+- kazenin-vladislav-igorevich
+studio:
+- sverdlovskaya-kinostudiya

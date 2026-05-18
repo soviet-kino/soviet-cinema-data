@@ -8,6 +8,15 @@ runtime_min: 64
 external_ids:
   wikidata: Q116865189
   imdb: tt3127052
+  youtube: qThLAVmpE-k
 sources:
 - https://www.wikidata.org/wiki/Q116865189
 schema_version: 1
+director:
+- gasanov-faik-agarzaevich
+screenwriter:
+- starkov-igor-georgievich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- odesskaya-kinostudiya

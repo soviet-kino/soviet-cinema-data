@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q16375374
   imdb: tt8228282
+  youtube: 25-9O-tMleI
 sources:
 - https://www.wikidata.org/wiki/Q16375374
 schema_version: 1
+director:
+- ogly-ibragimov-azhdar-mutallim
+composer:
+- melikov-arif
+studio:
+- mosfilm

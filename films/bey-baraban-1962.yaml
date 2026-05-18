@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q4081161
   imdb: tt0174497
+  youtube: RdlnV35LNB0
 sources:
 - https://www.wikidata.org/wiki/Q4081161
 schema_version: 1
+director:
+- saltykov-aleksey
+screenwriter:
+- ermolinskiy-sergey-aleksandrovich
+- khmelik-aleksandr-grigorevich
+cinematographer:
+- yakushev-viktor-mikhaylovich
+composer:
+- karetnikov-nikolay-nikolaevich
+studio:
+- mosfilm

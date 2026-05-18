@@ -7,6 +7,12 @@ country:
 external_ids:
   wikidata: Q4158932
   imdb: tt0066983
+  youtube: _4RXUcFLibU
 sources:
 - https://www.wikidata.org/wiki/Q4158932
 schema_version: 1
+director:
+- sas-peter
+- grigorev-boris-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,21 @@ runtime_min: 141
 external_ids:
   wikidata: Q948023
   imdb: tt0071411
+  youtube: bp2ihvch45k
 sources:
 - https://www.wikidata.org/wiki/Q948023
 schema_version: 1
+director:
+- kurosava-akira
+screenwriter:
+- kurosava-akira
+- nagibin-yuriy-markovich
+cinematographer:
+- nakai-asakadzu
+- gantman-yuriy
+- dobronravov-fyodor
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm
+poster_commons: Dersuuzala.jpg

@@ -8,6 +8,17 @@ runtime_min: 109
 external_ids:
   wikidata: Q16715362
   imdb: tt0197979
+  youtube: QW_Lobu3ZAw
 sources:
 - https://www.wikidata.org/wiki/Q16715362
 schema_version: 1
+director:
+- kalik-mikhail-naumovich
+screenwriter:
+- kalik-mikhail-naumovich
+cinematographer:
+- minkovetskiy-ilya-solomonovich
+composer:
+- tariverdiev-mikael
+studio:
+- ekran

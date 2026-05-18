@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4126774
 schema_version: 1
+director:
+- durov-boris
+screenwriter:
+- aleshkovskiy-yuz
+- durov-boris
+composer:
+- ptichkin-evgeniy
+studio:
+- ekran

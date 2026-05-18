@@ -8,6 +8,19 @@ runtime_min: 94
 external_ids:
   wikidata: Q1272202
   imdb: tt0060161
+  youtube: jZ33mMmfvaM
 sources:
 - https://www.wikidata.org/wiki/Q1272202
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+- nakhabtsev-vladimir
+composer:
+- petrov-andrey-pavlovich
+studio:
+- mosfilm

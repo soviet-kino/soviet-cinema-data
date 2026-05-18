@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q4104157
   imdb: tt0078452
+  youtube: 2OTDmrkN9uU
 sources:
 - https://www.wikidata.org/wiki/Q4104157
 schema_version: 1
+director:
+- maryagin-leonid-georgievich
+screenwriter:
+- merezhko-viktor
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

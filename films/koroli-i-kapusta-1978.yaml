@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4233784
   imdb: tt0177892
+  youtube: dBJSx2LTezI
 sources:
 - https://www.wikidata.org/wiki/Q4233784
 schema_version: 1
+director:
+- rasheev-nikolay-georgievich
+screenwriter:
+- chelidze-levan-sergeevich
+cinematographer:
+- feliks-gilevich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

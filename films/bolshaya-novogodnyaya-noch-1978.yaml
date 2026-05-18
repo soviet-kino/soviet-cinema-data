@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4091852
   imdb: tt2395311
+  youtube: AtGnSgJrMyQ
 sources:
 - https://www.wikidata.org/wiki/Q4091852
 schema_version: 1
+director:
+- neretnietse-ada
+screenwriter:
+- livs-egons
+composer:
+- kalsons-romualds
+studio:
+- rizhskaya-kinostudiya

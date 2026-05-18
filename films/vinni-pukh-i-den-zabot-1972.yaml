@@ -8,6 +8,19 @@ runtime_min: 20
 external_ids:
   wikidata: Q4111567
   imdb: tt0208558
+  youtube: EiQ1buBRYr0
 sources:
 - https://www.wikidata.org/wiki/Q4111567
 schema_version: 1
+director:
+- khitruk-fyodor-savelevich
+- sokolskiy-gennadiy-mikhaylovich
+screenwriter:
+- khitruk-fyodor-savelevich
+- zakhoder-boris-vladimirovich
+cinematographer:
+- druyan-mikhail
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- soyuzmultfilm

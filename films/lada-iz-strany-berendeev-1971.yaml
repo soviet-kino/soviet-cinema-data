@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q52563679
   imdb: tt4887608
+  youtube: hX1emuk79fw
 sources:
 - https://www.wikidata.org/wiki/Q52563679
 schema_version: 1
+director:
+- bukovskiy-anatoliy-sergeevich
+cinematographer:
+- belyakov-igor-nikolaevich
+composer:
+- bilash-aleksandr-ivanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

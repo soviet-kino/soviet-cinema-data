@@ -8,6 +8,17 @@ runtime_min: 87
 external_ids:
   wikidata: Q4129654
   imdb: tt0314861
+  youtube: Nt227ingq8g
 sources:
 - https://www.wikidata.org/wiki/Q4129654
 schema_version: 1
+director:
+- bobrovskiy-anatoliy-alekseevich
+- seryy-aleksandr-ivanovich
+screenwriter:
+- maklyarskiy-mikhail-borisovich
+- rozenshteyn-vladimir-abramovich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+studio:
+- mosfilm

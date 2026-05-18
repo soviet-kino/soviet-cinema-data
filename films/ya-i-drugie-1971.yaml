@@ -8,6 +8,18 @@ runtime_min: 49
 external_ids:
   wikidata: Q4535692
   imdb: tt4023290
+  youtube: _LYe58b-3HM
 sources:
 - https://www.wikidata.org/wiki/Q4535692
 schema_version: 1
+director:
+- sobolev-feliks-mikhaylovich
+screenwriter:
+- alikov-yuriy-ivanovich
+cinematographer:
+- pryadkin-leonid-fyodorovich
+composer:
+- tseglyar-yakov-samoylovich
+studio:
+- natsionalnaya-kinemateka-ukrainy
+- kievnauchfilm

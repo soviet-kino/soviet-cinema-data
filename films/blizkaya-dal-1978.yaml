@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4088134
   imdb: tt0315843
+  youtube: MLvB2aSseVk
 sources:
 - https://www.wikidata.org/wiki/Q4088134
 schema_version: 1
+director:
+- koltsov-vitaliy-mikhaylovich
+screenwriter:
+- makarov-artur-sergeevich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- mosfilm

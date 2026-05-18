@@ -8,6 +8,18 @@ runtime_min: 81
 external_ids:
   wikidata: Q4158753
   imdb: tt0064224
+  youtube: MVlHRgv_hK0
 sources:
 - https://www.wikidata.org/wiki/Q4158753
 schema_version: 1
+director:
+- lukinskiy-ivan-vladimirovich
+screenwriter:
+- lipatov-vil-vladimirovich
+cinematographer:
+- klebanov-igor-semyonovich
+- rapoport-vladimir
+composer:
+- lepin-anatoliy-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

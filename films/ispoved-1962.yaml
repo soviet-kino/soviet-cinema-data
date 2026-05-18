@@ -8,6 +8,16 @@ runtime_min: 91
 external_ids:
   wikidata: Q52562730
   imdb: tt0349627
+  youtube: giGX1a7bc70
 sources:
 - https://www.wikidata.org/wiki/Q52562730
 schema_version: 1
+screenwriter:
+- rozhkov-nikolay-vasilevich
+- kanyuka-mikhail-sergeevich
+cinematographer:
+- kostromenko-vadim
+composer:
+- yurovskiy-vladimir-mikhaylovich
+studio:
+- odesskaya-kinostudiya

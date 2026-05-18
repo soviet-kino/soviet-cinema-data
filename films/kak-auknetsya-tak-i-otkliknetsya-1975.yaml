@@ -7,6 +7,11 @@ country:
 runtime_min: 15
 external_ids:
   wikidata: Q112574254
+  youtube: yOa2GgBHe1I
 sources:
 - https://www.wikidata.org/wiki/Q112574254
 schema_version: 1
+director:
+- skopets-boris
+studio:
+- sverdlovskaya-kinostudiya

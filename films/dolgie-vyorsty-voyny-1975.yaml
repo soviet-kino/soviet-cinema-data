@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4164464
   imdb: tt0325272
+  youtube: Skb4zpQ6T-4
 sources:
 - https://www.wikidata.org/wiki/Q4164464
 schema_version: 1
+director:
+- karpov-aleksandr-yakovlevich
+screenwriter:
+- bykov-vasil
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- belarusfilm

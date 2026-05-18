@@ -8,6 +8,18 @@ runtime_min: 100
 external_ids:
   wikidata: Q4200087
   imdb: tt0177860
+  youtube: jjmGlJhPEEM
 sources:
 - https://www.wikidata.org/wiki/Q4200087
 schema_version: 1
+director:
+- lioznova-tatyana-mikhaylovna
+screenwriter:
+- agranovich-leonid-danilovich
+- agranovskiy-anatoliy-abramovich
+cinematographer:
+- ginzburg-valeriy
+composer:
+- eshpay-andrey
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,15 @@ runtime_min: 108
 external_ids:
   wikidata: Q4179045
   imdb: tt0207236
+  youtube: 4qr0GQCL75A
 sources:
 - https://www.wikidata.org/wiki/Q4179045
 schema_version: 1
+director:
+- dzigan-efim-lvovich
+screenwriter:
+- dzigan-efim-lvovich
+composer:
+- muradeli-vano-ilich
+studio:
+- mosfilm

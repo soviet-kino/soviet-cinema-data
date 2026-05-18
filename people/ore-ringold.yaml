@@ -1,0 +1,9 @@
+id: ore-ringold
+name_ru: Рингольд Оре
+roles:
+- composer
+external_ids:
+  wikidata: Q7166721
+sources:
+- https://www.wikidata.org/wiki/Q7166721
+schema_version: 1

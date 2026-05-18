@@ -8,6 +8,15 @@ runtime_min: 101
 external_ids:
   wikidata: Q3800802
   imdb: tt0175312
+  youtube: qkurvKhe9ec
 sources:
 - https://www.wikidata.org/wiki/Q3800802
 schema_version: 1
+director:
+- talankin-igor-vasilevich
+screenwriter:
+- panova-vera-fyodorovna
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

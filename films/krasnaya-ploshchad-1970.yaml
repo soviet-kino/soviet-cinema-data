@@ -8,6 +8,15 @@ runtime_min: 100
 external_ids:
   wikidata: Q4238145
   imdb: tt0173968
+  youtube: _m9fUjGVN2w
 sources:
 - https://www.wikidata.org/wiki/Q4238145
 schema_version: 1
+director:
+- ordynskiy-vasiliy-sergeevich
+screenwriter:
+- dunskiy-yuliy
+composer:
+- basner-veniamin-efimovich
+studio:
+- mosfilm

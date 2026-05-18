@@ -8,6 +8,15 @@ runtime_min: 126
 external_ids:
   wikidata: Q4212952
   imdb: tt0230400
+  youtube: Rd3m_mp6II8
 sources:
 - https://www.wikidata.org/wiki/Q4212952
 schema_version: 1
+director:
+- lukyanov-nikolay-valentinovich
+screenwriter:
+- lungin-pavel-semyonovich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- belarusfilm

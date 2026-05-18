@@ -8,6 +8,18 @@ runtime_min: 82
 external_ids:
   wikidata: Q1194976
   imdb: tt0074161
+  youtube: 6stQJpJzlWo
 sources:
 - https://www.wikidata.org/wiki/Q1194976
 schema_version: 1
+director:
+- bykov-leonid-fyodorovich
+screenwriter:
+- vasilev-boris-lvovich
+- rapoport-kirill-iosifovich
+cinematographer:
+- voytenko-vladimir-grigorevich
+composer:
+- dmitriev-georgiy-petrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

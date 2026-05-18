@@ -8,6 +8,13 @@ runtime_min: 142
 external_ids:
   wikidata: Q25545333
   imdb: tt1542730
+  youtube: 7LMUtLMX3l8
 sources:
 - https://www.wikidata.org/wiki/Q25545333
 schema_version: 1
+director:
+- ogly-ibragimov-azhdar-mutallim
+screenwriter:
+- khikmet-nazym
+studio:
+- azerbaydzhanfilm

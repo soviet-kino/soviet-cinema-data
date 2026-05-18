@@ -8,6 +8,15 @@ runtime_min: 97
 external_ids:
   wikidata: Q4074616
   imdb: tt0174482
+  youtube: CRza8hY7Oe8
 sources:
 - https://www.wikidata.org/wiki/Q4074616
 schema_version: 1
+director:
+- saltykov-aleksey
+screenwriter:
+- nagibin-yuriy-markovich
+composer:
+- eshpay-andrey
+studio:
+- mosfilm

@@ -8,6 +8,21 @@ runtime_min: 134
 external_ids:
   wikidata: Q1604818
   imdb: tt0066549
+  youtube: 1gqq2nvrYHM
 sources:
 - https://www.wikidata.org/wiki/Q1604818
 schema_version: 1
+director:
+- bondarchuk-sergey-fyodorovich
+screenwriter:
+- bondarchuk-sergey-fyodorovich
+- soldati-mario
+- kreyg-khel
+cinematographer:
+- nannutstsi-armando
+composer:
+- rota-nino
+studio:
+- mosfilm
+- dino-de-laurentiis-cinematografica
+poster_commons: Waterloo 1970 Poster.jpg

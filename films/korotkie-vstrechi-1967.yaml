@@ -8,6 +8,18 @@ runtime_min: 96
 external_ids:
   wikidata: Q2927272
   imdb: tt0061883
+  youtube: 28skxPwAvaM
 sources:
 - https://www.wikidata.org/wiki/Q2927272
 schema_version: 1
+director:
+- muratova-kira-georgievna
+screenwriter:
+- muratova-kira-georgievna
+- zhukhovitskiy-leonid-aronovich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- odesskaya-kinostudiya

@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4167404
   imdb: tt0313981
+  youtube: 5E7eDiu84PA
 sources:
 - https://www.wikidata.org/wiki/Q4167404
 schema_version: 1
+director:
+- levin-vasiliy-nikolaevich
+screenwriter:
+- zemlyak-vasiliy-sidorovich
+studio:
+- odesskaya-kinostudiya

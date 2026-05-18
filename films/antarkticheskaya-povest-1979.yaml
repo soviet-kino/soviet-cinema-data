@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q21555100
   imdb: tt0305231
+  youtube: V-MHId2_Nsg
 sources:
 - https://www.wikidata.org/wiki/Q21555100
 schema_version: 1
+director:
+- tarasov-sergey
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+- sanin-vladimir-markovich
+cinematographer:
+- koroptsov-mikhail-dmitrievich
+composer:
+- khrennikov-tikhon-nikolaevich
+studio:
+- mosfilm

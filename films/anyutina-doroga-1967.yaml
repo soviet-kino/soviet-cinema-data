@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4067875
 schema_version: 1
+director:
+- golub-lev-vladimirovich
+cinematographer:
+- tsvetkov-yuriy-nikolaevich
+studio:
+- belarusfilm

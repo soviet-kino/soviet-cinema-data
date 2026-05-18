@@ -8,6 +8,13 @@ runtime_min: 70
 external_ids:
   wikidata: Q21930147
   imdb: tt0239096
+  youtube: LuTuvXdqDAM
 sources:
 - https://www.wikidata.org/wiki/Q21930147
 schema_version: 1
+director:
+- ivanov-vano-ivan
+cinematographer:
+- druyan-mikhail
+studio:
+- soyuzmultfilm

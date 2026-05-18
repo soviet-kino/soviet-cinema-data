@@ -1,0 +1,9 @@
+id: soldati-mario
+name_ru: Марио Сольдати
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q59210
+sources:
+- https://www.wikidata.org/wiki/Q59210
+schema_version: 1

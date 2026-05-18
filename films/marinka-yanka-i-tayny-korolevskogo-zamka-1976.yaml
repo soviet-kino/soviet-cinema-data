@@ -8,6 +8,16 @@ runtime_min: 78
 external_ids:
   wikidata: Q4281503
   imdb: tt4857270
+  youtube: bB0I9cXY7xI
 sources:
 - https://www.wikidata.org/wiki/Q4281503
 schema_version: 1
+director:
+- tsvetkov-yuriy-nikolaevich
+cinematographer:
+- braude-mark-savelevich
+- elkhov-yuriy
+composer:
+- khanok-eduard-semyonovich
+studio:
+- belarusfilm

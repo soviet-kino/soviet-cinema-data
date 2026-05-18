@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q65209811
   imdb: tt0334668
+  youtube: HIfhB2N35gg
 sources:
 - https://www.wikidata.org/wiki/Q65209811
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

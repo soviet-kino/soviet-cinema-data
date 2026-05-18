@@ -8,6 +8,18 @@ runtime_min: 84
 external_ids:
   wikidata: Q4226056
   imdb: tt0077815
+  youtube: ulPpiARmxjs
 sources:
 - https://www.wikidata.org/wiki/Q4226056
 schema_version: 1
+director:
+- tumanyan-inessa
+screenwriter:
+- kuznetsov-aleksandr-vsevolodovich
+cinematographer:
+- ginzburg-valeriy
+composer:
+- gevorgyan-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

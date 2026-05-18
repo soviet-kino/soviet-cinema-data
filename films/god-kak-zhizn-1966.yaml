@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4141085
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+- mambetov-azerbayzhan-madievich
+cinematographer:
+- kosmatov-leonid
+composer:
+- dmitriy-shostakovich
+studio:
+- mosfilm

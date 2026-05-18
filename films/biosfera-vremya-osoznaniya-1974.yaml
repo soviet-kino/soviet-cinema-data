@@ -8,6 +8,11 @@ runtime_min: 16
 external_ids:
   wikidata: Q4086929
   imdb: tt8489078
+  youtube: o3TUaUiGQB0
 sources:
 - https://www.wikidata.org/wiki/Q4086929
 schema_version: 1
+director:
+- sobolev-feliks-mikhaylovich
+studio:
+- kievnauchfilm

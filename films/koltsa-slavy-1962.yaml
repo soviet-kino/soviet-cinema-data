@@ -8,6 +8,15 @@ runtime_min: 80
 external_ids:
   wikidata: Q20513765
   imdb: tt0419025
+  youtube: 86bSvRdhPJk
 sources:
 - https://www.wikidata.org/wiki/Q20513765
 schema_version: 1
+director:
+- erzinkyan-yuriy
+cinematographer:
+- dzhalalyan-artashes-semyonovich
+composer:
+- orbelyan-konstantin
+studio:
+- armenfilm

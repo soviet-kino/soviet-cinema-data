@@ -8,6 +8,15 @@ runtime_min: 97
 external_ids:
   wikidata: Q15985059
   imdb: tt0403977
+  youtube: 1MDt1oL2eHw
 sources:
 - https://www.wikidata.org/wiki/Q15985059
 schema_version: 1
+director:
+- ivchenko-viktor-illarionovich
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+composer:
+- buevskiy-boris-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

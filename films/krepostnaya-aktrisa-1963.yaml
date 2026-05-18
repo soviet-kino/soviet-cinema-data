@@ -8,6 +8,17 @@ runtime_min: 101
 external_ids:
   wikidata: Q4240259
   imdb: tt0168031
+  youtube: bXTrmcgqWik
 sources:
 - https://www.wikidata.org/wiki/Q4240259
 schema_version: 1
+director:
+- tikhomirov-roman-irinarkhovich
+screenwriter:
+- trauberg-leonid-zakharovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- strelnikov-nikolay-mikhaylovich
+studio:
+- lenfilm

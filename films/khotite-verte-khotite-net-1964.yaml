@@ -8,6 +8,15 @@ runtime_min: 63
 external_ids:
   wikidata: Q4500370
   imdb: tt0058261
+  youtube: 22PQmEeEiYY
 sources:
 - https://www.wikidata.org/wiki/Q4500370
 schema_version: 1
+director:
+- usov-igor-vladimirovich
+screenwriter:
+- galiev-anatoliy-sergeevich
+cinematographer:
+- ilich-sklyanskiy-yakov
+studio:
+- kinostudiya-imeni-m-gorkogo

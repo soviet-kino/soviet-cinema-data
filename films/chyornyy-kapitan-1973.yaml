@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4518881
   imdb: tt0069880
+  youtube: QD-0xThZGd8
 sources:
 - https://www.wikidata.org/wiki/Q4518881
 schema_version: 1
+director:
+- lentsius-oleg-evgenevich
+cinematographer:
+- myasnikov-boris-moiseevich
+composer:
+- shamo-igor
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q134698412
 schema_version: 1
+director:
+- samsonov-vladimir-anatolevich
+screenwriter:
+- izmaylov-lion
+- veselovskiy-viktor-vasilevich
+studio:
+- ekran

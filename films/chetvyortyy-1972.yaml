@@ -8,6 +8,17 @@ runtime_min: 71
 external_ids:
   wikidata: Q4515045
   imdb: tt0068366
+  youtube: _PxNkb5-YII
 sources:
 - https://www.wikidata.org/wiki/Q4515045
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- stolper-aleksandr
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

@@ -8,6 +8,17 @@ runtime_min: 309
 external_ids:
   wikidata: Q4128945
   imdb: tt0056793
+  youtube: CvpQbQmgIVY
 sources:
 - https://www.wikidata.org/wiki/Q4128945
 schema_version: 1
+director:
+- kolosov-sergey-nikolaevich
+screenwriter:
+- kolosov-sergey-nikolaevich
+cinematographer:
+- yakovlev-vladimir-timofeevich
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

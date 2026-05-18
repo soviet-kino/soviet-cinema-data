@@ -8,6 +8,20 @@ runtime_min: 120
 external_ids:
   wikidata: Q4195077
   imdb: tt0174769
+  youtube: dHIGtB13vYQ
 sources:
 - https://www.wikidata.org/wiki/Q4195077
 schema_version: 1
+director:
+- romm-mikhail-ilich
+- klimov-elem
+- khutsiev-marlen
+screenwriter:
+- zenin-solomon-samoylovich
+- novogrudskiy-aleksandr-evseevich
+cinematographer:
+- lavrov-german
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

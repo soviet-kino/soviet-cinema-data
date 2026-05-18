@@ -8,6 +8,18 @@ runtime_min: 86
 external_ids:
   wikidata: Q4167646
   imdb: tt0123047
+  youtube: DRcU-VrLivs
 sources:
 - https://www.wikidata.org/wiki/Q4167646
 schema_version: 1
+director:
+- averbakh-ilya-aleksandrovich
+screenwriter:
+- averbakh-ilya-aleksandrovich
+- belyaev-vladimir-sergeevich
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

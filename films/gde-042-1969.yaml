@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q97171423
   imdb: tt0314098
+  youtube: oyg-XcCKL98
 sources:
 - https://www.wikidata.org/wiki/Q97171423
 schema_version: 1
+director:
+- lentsius-oleg-evgenevich
+screenwriter:
+- maklyarskiy-mikhail-borisovich
+- galiev-anatoliy-sergeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

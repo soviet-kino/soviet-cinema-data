@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q1959191
   imdb: tt0072613
+  youtube: L9HATyYkZLs
 sources:
 - https://www.wikidata.org/wiki/Q1959191
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- borodyanskiy-aleksandr-emmanuilovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- mosfilm
+poster_commons: Yevgeny Leonov on Afonya.jpg

@@ -8,6 +8,17 @@ runtime_min: 93
 external_ids:
   wikidata: Q4517754
   imdb: tt0072784
+  youtube: rksMK481KE0
 sources:
 - https://www.wikidata.org/wiki/Q4517754
 schema_version: 1
+director:
+- averbakh-ilya-aleksandrovich
+screenwriter:
+- ryazantseva-nataliya-borisovna
+cinematographer:
+- dolinin-dmitriy
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

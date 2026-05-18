@@ -8,6 +8,17 @@ runtime_min: 100
 external_ids:
   wikidata: Q4131578
   imdb: tt0174675
+  youtube: 3PnGb4SZAIs
 sources:
 - https://www.wikidata.org/wiki/Q4131578
 schema_version: 1
+director:
+- ivchenko-viktor-illarionovich
+screenwriter:
+- koltunov-grigoriy
+cinematographer:
+- chyornyy-mikhail-kirillovich
+composer:
+- zhukovskiy-german-leontevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

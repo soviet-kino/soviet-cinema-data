@@ -8,6 +8,17 @@ runtime_min: 99
 external_ids:
   wikidata: Q4224366
   imdb: tt0170114
+  youtube: AV_gcUzk2Pc
 sources:
 - https://www.wikidata.org/wiki/Q4224366
 schema_version: 1
+director:
+- asanova-dinara-kuldashevna
+screenwriter:
+- polonskiy-georgiy-isidorovich
+cinematographer:
+- dolinin-dmitriy
+composer:
+- krylatov-evgeniy
+studio:
+- lenfilm

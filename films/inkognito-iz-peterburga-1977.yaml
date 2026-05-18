@@ -8,6 +8,18 @@ runtime_min: 91
 external_ids:
   wikidata: Q930153
   imdb: tt0076196
+  youtube: UIM9wSOzJV0
 sources:
 - https://www.wikidata.org/wiki/Q930153
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- bakhnov-vladlen-efimovich
+cinematographer:
+- poluyanov-sergey-sergeevich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm

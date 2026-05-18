@@ -8,6 +8,17 @@ runtime_min: 94
 external_ids:
   wikidata: Q4163099
   imdb: tt0060316
+  youtube: 8UBTiiSAiLE
 sources:
 - https://www.wikidata.org/wiki/Q4163099
 schema_version: 1
+director:
+- talankin-igor-vasilevich
+screenwriter:
+- berggolts-olga-fyodorovna
+cinematographer:
+- pilikhina-margarita-mikhaylovna
+composer:
+- schnittke-alfred
+studio:
+- mosfilm

@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4501695
   imdb: tt4716492
+  youtube: K9c6p_oqkk0
 sources:
 - https://www.wikidata.org/wiki/Q4501695
 schema_version: 1
+director:
+- speshnev-aleksey-vladimirovich
+cinematographer:
+- marukhin-yuriy-aleksandrovich
+studio:
+- belarusfilm

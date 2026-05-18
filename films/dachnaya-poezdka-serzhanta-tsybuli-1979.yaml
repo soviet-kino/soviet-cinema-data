@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4155423
   imdb: tt0079021
+  youtube: xEB-GcImxx0
 sources:
 - https://www.wikidata.org/wiki/Q4155423
 schema_version: 1
+director:
+- litus-nikolay-ignatevich
+screenwriter:
+- litus-nikolay-ignatevich
+cinematographer:
+- politov-viktor-grigorevich
+composer:
+- karabits-ivan-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

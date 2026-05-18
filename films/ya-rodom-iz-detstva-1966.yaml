@@ -8,6 +8,17 @@ runtime_min: 105
 external_ids:
   wikidata: Q4535733
   imdb: tt0906110
+  youtube: d-C5Mbgpxpo
 sources:
 - https://www.wikidata.org/wiki/Q4535733
 schema_version: 1
+director:
+- turov-viktor-timofeevich
+screenwriter:
+- shpalikov-gennadiy-fyodorovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- glebov-evgeniy-aleksandrovich
+studio:
+- belarusfilm

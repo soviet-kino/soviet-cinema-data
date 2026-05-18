@@ -8,6 +8,16 @@ runtime_min: 78
 external_ids:
   wikidata: Q1219608
   imdb: tt0160801
+  youtube: 66jbU-UisBo
 sources:
 - https://www.wikidata.org/wiki/Q1219608
 schema_version: 1
+director:
+- bychkov-vladimir
+screenwriter:
+- viktor-vitkovich
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo
+- nyu-boyana-film-studios

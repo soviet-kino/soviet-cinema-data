@@ -8,6 +8,17 @@ runtime_min: 76
 external_ids:
   wikidata: Q3840681
   imdb: tt0271467
+  youtube: MDlJs1Dtgys
 sources:
 - https://www.wikidata.org/wiki/Q3840681
 schema_version: 1
+director:
+- shpalikov-gennadiy-fyodorovich
+screenwriter:
+- shpalikov-gennadiy-fyodorovich
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- ovchinnikov-vyacheslav
+studio:
+- lenfilm

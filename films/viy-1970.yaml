@@ -8,6 +8,20 @@ runtime_min: 78
 external_ids:
   wikidata: Q331405
   imdb: tt0062453
+  youtube: Amh3uudVMBo
 sources:
 - https://www.wikidata.org/wiki/Q331405
 schema_version: 1
+director:
+- ershov-konstantin-vladimirovich
+- kropachyov-georgiy-borisovich
+screenwriter:
+- ptushko-aleksandr
+- ershov-konstantin-vladimirovich
+- kropachyov-georgiy-borisovich
+cinematographer:
+- provorov-fyodor
+composer:
+- khachaturyan-karen
+studio:
+- mosfilm

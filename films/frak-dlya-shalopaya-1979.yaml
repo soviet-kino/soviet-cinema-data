@@ -8,6 +8,13 @@ runtime_min: 67
 external_ids:
   wikidata: Q4492316
   imdb: tt0079172
+  youtube: nWPhGOr05Ik
 sources:
 - https://www.wikidata.org/wiki/Q4492316
 schema_version: 1
+director:
+- urazbaev-eldor-magomatovich
+screenwriter:
+- krasilshchikov-arkadiy-lvovich
+studio:
+- kinostudiya-imeni-m-gorkogo

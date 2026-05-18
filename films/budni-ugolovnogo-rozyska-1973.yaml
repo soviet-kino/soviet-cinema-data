@@ -8,6 +8,17 @@ runtime_min: 88
 external_ids:
   wikidata: Q4098143
   imdb: tt0313322
+  youtube: 3YyBI3oSpYE
 sources:
 - https://www.wikidata.org/wiki/Q4098143
 schema_version: 1
+director:
+- tsybulnik-sulamif-moiseevna
+screenwriter:
+- rapoport-kirill-iosifovich
+cinematographer:
+- slutskiy-naum-fayvelevich
+composer:
+- tabachnikov-modest-efimovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

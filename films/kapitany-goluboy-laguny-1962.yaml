@@ -7,6 +7,10 @@ country:
 external_ids:
   wikidata: Q107350855
   imdb: tt3800896
+  youtube: 0kUfaTTEW7Y
 sources:
 - https://www.wikidata.org/wiki/Q107350855
 schema_version: 1
+director:
+- tolbuzin-arkadiy-nikolaevich
+- kurochkin-aleksandr-dmitrievich

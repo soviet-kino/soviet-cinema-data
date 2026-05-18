@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4126626
   imdb: tt0348327
+  youtube: CcGAHT9NhP4
 sources:
 - https://www.wikidata.org/wiki/Q4126626
 schema_version: 1
+director:
+- vinogradov-valentin-nikolaevich
+screenwriter:
+- kuchar-ayzik-evelevich
+cinematographer:
+- marukhin-yuriy-aleksandrovich
+composer:
+- tariverdiev-mikael
+studio:
+- belarusfilm

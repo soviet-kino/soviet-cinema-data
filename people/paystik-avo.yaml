@@ -1,0 +1,9 @@
+id: paystik-avo
+name_ru: Аво Пайстик
+roles:
+- director
+external_ids:
+  wikidata: Q15280817
+sources:
+- https://www.wikidata.org/wiki/Q15280817
+schema_version: 1

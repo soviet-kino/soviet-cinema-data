@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q10857213
   imdb: tt0176337
+  youtube: BnCn_oX5_0w
 sources:
 - https://www.wikidata.org/wiki/Q10857213
 schema_version: 1
+director:
+- tyapak-martin
+- karpov-aleksandr-yakovlevich
+screenwriter:
+- krno-milosh
+cinematographer:
+- svoboda-viktor
+composer:
+- stratsina-svetozar
+studio:
+- belarusfilm

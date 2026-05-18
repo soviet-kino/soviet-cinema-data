@@ -8,6 +8,17 @@ runtime_min: 155
 external_ids:
   wikidata: Q4468259
   imdb: tt0065140
+  youtube: sNdaoJcj8nk
 sources:
 - https://www.wikidata.org/wiki/Q4468259
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cinematographer:
+- rapoport-vladimir
+composer:
+- kataev-ilya-evgenevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4532927
   imdb: tt0322195
+  youtube: iUiqGGRzauY
 sources:
 - https://www.wikidata.org/wiki/Q4532927
 schema_version: 1
+director:
+- nikolaev-igor-iosifovich
+cinematographer:
+- filippov-sergey-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

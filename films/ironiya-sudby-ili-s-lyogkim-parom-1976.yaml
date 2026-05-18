@@ -8,6 +8,21 @@ runtime_min: 184
 external_ids:
   wikidata: Q913426
   imdb: tt0073179
+  youtube: 1HYMMF-9NlI
 sources:
 - https://www.wikidata.org/wiki/Q913426
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- alisov-vadim-valentinovich
+- nakhabtsev-vladimir
+composer:
+- tariverdiev-mikael
+studio:
+- mosfilm
+- ekran
+poster_commons: File by Alexander Baranov - С Новым годом! (11677507426).jpg

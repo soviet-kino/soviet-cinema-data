@@ -8,6 +8,17 @@ runtime_min: 68
 external_ids:
   wikidata: Q4155577
   imdb: tt0383322
+  youtube: B5_z3LNN1Og
 sources:
 - https://www.wikidata.org/wiki/Q4155577
 schema_version: 1
+director:
+- mirskiy-lev-solomonovich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+cinematographer:
+- rybin-aleksandr
+composer:
+- trotsyuk-bogdan-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

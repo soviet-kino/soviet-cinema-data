@@ -7,6 +7,15 @@ country:
 runtime_min: 21
 external_ids:
   wikidata: Q4081667
+  youtube: dhZnEneLKlw
 sources:
 - https://www.wikidata.org/wiki/Q4081667
 schema_version: 1
+director:
+- khalzanov-baras-tsyretarovich
+screenwriter:
+- khalzanov-baras-tsyretarovich
+composer:
+- yampilov-baudordzhi-bazarovich
+studio:
+- sverdlovskaya-kinostudiya

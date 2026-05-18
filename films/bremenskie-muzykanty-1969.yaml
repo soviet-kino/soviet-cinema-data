@@ -8,6 +8,20 @@ runtime_min: 21
 external_ids:
   wikidata: Q4096274
   imdb: tt0211281
+  youtube: fQFZN9gp9gI
 sources:
 - https://www.wikidata.org/wiki/Q4096274
 schema_version: 1
+director:
+- kovalevskaya-inessa-alekseevna
+screenwriter:
+- livanov-vasiliy
+- entin-yuriy-sergeevich
+cinematographer:
+- petrova-elena-nikolaevna
+composer:
+- gladkov-gennadiy
+studio:
+- soyuzmultfilm
+poster_commons: RR5015-0030R 25 рублей медно-никелевый 2019 Бременские музыканты (в
+  специальном исполнении) реверс.png

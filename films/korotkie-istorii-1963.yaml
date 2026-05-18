@@ -8,6 +8,15 @@ runtime_min: 126
 external_ids:
   wikidata: Q4234087
   imdb: tt0129184
+  youtube: F5Y5_GwNsqY
 sources:
 - https://www.wikidata.org/wiki/Q4234087
 schema_version: 1
+director:
+- grigorev-mikhail-grigorevich
+cinematographer:
+- suslov-mikhail-petrovich
+composer:
+- frenkel-yan-abramovich
+- mazhukov-aleksey-sergeevich
+- ptichkin-evgeniy

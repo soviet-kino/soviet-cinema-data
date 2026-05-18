@@ -8,6 +8,19 @@ runtime_min: 316
 external_ids:
   wikidata: Q4469194
   imdb: tt0063963
+  youtube: 4Gn-Y8L09Gw
 sources:
 - https://www.wikidata.org/wiki/Q4469194
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+screenwriter:
+- lapshin-yaropolk-leonidovich
+- selivanov-valentin-ivanovich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+composer:
+- levitin-yuriy
+studio:
+- sverdlovskaya-kinostudiya
+- tsentralnoe-televidenie

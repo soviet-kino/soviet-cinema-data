@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4096524
 schema_version: 1
+director:
+- kromanov-grigoriy
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- sillart-yuriy
+composer:
+- pyart-arvo
+studio:
+- tallinfilm

@@ -8,6 +8,15 @@ runtime_min: 341
 external_ids:
   wikidata: Q4084204
   imdb: tt0182782
+  youtube: 6BtfwWwxQxk
 sources:
 - https://www.wikidata.org/wiki/Q4084204
 schema_version: 1
+director:
+- gabeskiriya-gizo-shalvovich
+- lordkipanidze-grigoriy-davidovich
+screenwriter:
+- amiredzhibi-chabua-iraklievich
+composer:
+- kvernadze-bidzina
+- kakhidze-dzhansug-ivanovich

@@ -8,6 +8,20 @@ runtime_min: 152
 external_ids:
   wikidata: Q2371262
   imdb: tt0065670
+  youtube: P8t2dbJ7YXY
 sources:
 - https://www.wikidata.org/wiki/Q2371262
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- bakhnov-vladlen-efimovich
+cinematographer:
+- shuvalov-valeriy-pavlovich
+- poluyanov-sergey-sergeevich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm
+poster_commons: Gomiashvili and Filippov 1970.jpg

@@ -8,6 +8,13 @@ runtime_min: 82
 external_ids:
   wikidata: Q4142571
   imdb: tt0314113
+  youtube: O8I4PPQJCmk
 sources:
 - https://www.wikidata.org/wiki/Q4142571
 schema_version: 1
+screenwriter:
+- aleksandrov-aleksandr-leonardovich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

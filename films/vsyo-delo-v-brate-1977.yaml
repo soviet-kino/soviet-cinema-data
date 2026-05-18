@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4127754
   imdb: tt0337441
+  youtube: gkzQyqfaQcg
 sources:
 - https://www.wikidata.org/wiki/Q4127754
 schema_version: 1
+director:
+- gorlov-valentin-anatolevich
+screenwriter:
+- lungin-pavel-semyonovich
+cinematographer:
+- tutunov-gasan
+composer:
+- chekin-svyatoslav-igorevich

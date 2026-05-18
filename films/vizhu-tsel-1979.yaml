@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4110839
   imdb: tt4897710
+  youtube: k_EtZ4Tm75A
 sources:
 - https://www.wikidata.org/wiki/Q4110839
 schema_version: 1
+director:
+- shakhbazyan-suren
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+cinematographer:
+- shakhbazyan-suren
+composer:
+- stankovich-evgeniy-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

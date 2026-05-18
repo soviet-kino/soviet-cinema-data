@@ -8,6 +8,15 @@ runtime_min: 152
 external_ids:
   wikidata: Q4481105
   imdb: tt0169892
+  youtube: rIxNB5d1PnQ
 sources:
 - https://www.wikidata.org/wiki/Q4481105
 schema_version: 1
+director:
+- averbakh-ilya-aleksandrovich
+cinematographer:
+- dolinin-dmitriy
+composer:
+- schnittke-alfred
+studio:
+- lenfilm

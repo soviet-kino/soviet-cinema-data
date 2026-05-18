@@ -8,6 +8,15 @@ runtime_min: 67
 external_ids:
   wikidata: Q4072889
   imdb: tt0078743
+  youtube: k67DxEYCQ7o
 sources:
 - https://www.wikidata.org/wiki/Q4072889
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+screenwriter:
+- georgiy-emilevich-yungvald-khilkevich
+composer:
+- dunaevskiy-maksim-isaakovich
+studio:
+- mosfilm

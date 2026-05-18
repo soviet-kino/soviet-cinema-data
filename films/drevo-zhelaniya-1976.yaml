@@ -8,6 +8,19 @@ runtime_min: 108
 external_ids:
   wikidata: Q2379008
   imdb: tt0075963
+  youtube: BQONBiHu2nM
 sources:
 - https://www.wikidata.org/wiki/Q2379008
 schema_version: 1
+director:
+- abuladze-tengiz-evgenevich
+screenwriter:
+- abuladze-tengiz-evgenevich
+- inanishvili-revaz-konstantinovich
+cinematographer:
+- akhvlediani-lomer
+composer:
+- kvernadze-bidzina
+- bobokhidze-yakov
+studio:
+- gruziya-film

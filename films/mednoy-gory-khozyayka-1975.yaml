@@ -8,6 +8,11 @@ runtime_min: 21
 external_ids:
   wikidata: Q21393910
   imdb: tt0949887
+  youtube: 10NpPooT77s
 sources:
 - https://www.wikidata.org/wiki/Q21393910
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+studio:
+- sverdlovskaya-kinostudiya

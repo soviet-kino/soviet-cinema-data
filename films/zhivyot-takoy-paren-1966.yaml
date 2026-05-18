@@ -8,6 +8,15 @@ runtime_min: 101
 external_ids:
   wikidata: Q3540877
   imdb: tt0058771
+  youtube: -YV-Q8FkFPo
 sources:
 - https://www.wikidata.org/wiki/Q3540877
 schema_version: 1
+director:
+- shukshin-vasiliy-makarovich
+screenwriter:
+- shukshin-vasiliy-makarovich
+cinematographer:
+- ginzburg-valeriy
+studio:
+- kinostudiya-imeni-m-gorkogo

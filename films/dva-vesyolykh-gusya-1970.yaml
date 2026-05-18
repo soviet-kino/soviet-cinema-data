@@ -8,6 +8,16 @@ runtime_min: 4
 external_ids:
   wikidata: Q4155568
   imdb: tt1075316
+  youtube: 7wVDvFATuyE
 sources:
 - https://www.wikidata.org/wiki/Q4155568
 schema_version: 1
+director:
+- nosyrev-leonid-viktorovich
+cinematographer:
+- druyan-mikhail
+composer:
+- krasev-mikhail-ivanovich
+- viktor-viktorovich-kuprevich
+studio:
+- soyuzmultfilm

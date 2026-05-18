@@ -1,0 +1,9 @@
+id: pyart-arvo
+name_ru: Арво Пярт
+roles:
+- composer
+external_ids:
+  wikidata: Q189534
+sources:
+- https://www.wikidata.org/wiki/Q189534
+schema_version: 1

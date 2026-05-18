@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q102291269
   imdb: tt5065344
+  youtube: BTilRdsfSLk
 sources:
 - https://www.wikidata.org/wiki/Q102291269
 schema_version: 1
+director:
+- shulman-iosif-abramovich
+screenwriter:
+- bleyman-mikhail-yurevich
+cinematographer:
+- avdeev-oleg-tikhonovich
+composer:
+- vagner-genrikh-matusovich
+studio:
+- belarusfilm

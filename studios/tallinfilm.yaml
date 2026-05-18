@@ -1,0 +1,8 @@
+id: tallinfilm
+name_ru: Таллинфильм
+country: SU
+external_ids:
+  wikidata: Q719998
+sources:
+- https://www.wikidata.org/wiki/Q719998
+schema_version: 1

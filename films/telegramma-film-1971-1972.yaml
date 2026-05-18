@@ -8,6 +8,18 @@ runtime_min: 90
 external_ids:
   wikidata: Q4453991
   imdb: tt0067838
+  youtube: aMWbDj1lNNM
 sources:
 - https://www.wikidata.org/wiki/Q4453991
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- lungin-semyon
+- nusinov-ilya
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- meerovich-mikhail-aleksandrovich
+studio:
+- mosfilm

@@ -8,6 +8,18 @@ runtime_min: 83
 external_ids:
   wikidata: Q1676019
   imdb: tt0073185
+  youtube: BgT05-TWO0U
 sources:
 - https://www.wikidata.org/wiki/Q1676019
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+cinematographer:
+- chardynin-aleksey-nikolaevich
+composer:
+- vysotskiy-vladimir
+- chaykovskiy-aleksandr-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

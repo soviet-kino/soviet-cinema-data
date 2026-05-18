@@ -8,6 +8,18 @@ runtime_min: 99
 external_ids:
   wikidata: Q734048
   imdb: tt0079999
+  youtube: 4A1TBPJnFFo
 sources:
 - https://www.wikidata.org/wiki/Q734048
 schema_version: 1
+director:
+- panfilov-gleb
+screenwriter:
+- panfilov-gleb
+- chervinskiy-aleksandr-mikhaylovich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- bibergan-vadim-davidovich
+studio:
+- mosfilm

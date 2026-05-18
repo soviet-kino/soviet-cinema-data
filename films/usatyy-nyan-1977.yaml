@@ -8,6 +8,18 @@ runtime_min: 75
 external_ids:
   wikidata: Q4477617
   imdb: tt0171869
+  youtube: NYNWqVtnZH8
 sources:
 - https://www.wikidata.org/wiki/Q4477617
 schema_version: 1
+director:
+- grammatikov-vladimir-aleksandrovich
+screenwriter:
+- misharin-aleksandr
+- veytsler-andrey-leonidovich
+cinematographer:
+- ragozin-lev
+composer:
+- rybnikov-aleksey
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,15 @@ runtime_min: 76
 external_ids:
   wikidata: Q65200738
   imdb: tt4680670
+  youtube: szAEzhSUORw
 sources:
 - https://www.wikidata.org/wiki/Q65200738
 schema_version: 1
+director:
+- kokhan-grigoriy-romanovich
+cinematographer:
+- antipenko-aleksandr-ivanovich
+composer:
+- skorik-miroslav-mikhaylovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

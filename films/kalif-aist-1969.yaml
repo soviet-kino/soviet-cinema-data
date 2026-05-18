@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4210002
 schema_version: 1
+director:
+- khramov-viktor
+composer:
+- garanyan-georgiy
+studio:
+- ekran

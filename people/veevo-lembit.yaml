@@ -1,0 +1,9 @@
+id: veevo-lembit
+name_ru: Лембит Веэво
+roles:
+- composer
+external_ids:
+  wikidata: Q12368533
+sources:
+- https://www.wikidata.org/wiki/Q12368533
+schema_version: 1

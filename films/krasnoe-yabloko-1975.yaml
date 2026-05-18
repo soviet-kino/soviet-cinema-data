@@ -8,6 +8,12 @@ runtime_min: 83
 external_ids:
   wikidata: Q7759838
   imdb: tt0173969
+  youtube: KxGgmaZ7Gr0
 sources:
 - https://www.wikidata.org/wiki/Q7759838
 schema_version: 1
+director:
+- okeev-tolomush-okeevich
+screenwriter:
+- aytmatov-chingiz-torekulovich
+- okeev-tolomush-okeevich

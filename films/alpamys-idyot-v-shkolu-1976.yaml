@@ -8,6 +8,13 @@ runtime_min: 69
 external_ids:
   wikidata: Q3513704
   imdb: tt0318976
+  youtube: TWQfr3h9cLo
 sources:
 - https://www.wikidata.org/wiki/Q3513704
 schema_version: 1
+director:
+- karsakbaev-abdulla
+composer:
+- tlendiev-nurgisa-atabaevich
+studio:
+- kazakhfilm

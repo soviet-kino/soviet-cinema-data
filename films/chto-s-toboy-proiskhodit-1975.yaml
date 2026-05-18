@@ -8,6 +8,17 @@ runtime_min: 75
 external_ids:
   wikidata: Q4517309
   imdb: tt0379596
+  youtube: Axk0XmNlPgw
 sources:
 - https://www.wikidata.org/wiki/Q4517309
 schema_version: 1
+director:
+- sarukhanov-vladimir
+screenwriter:
+- aleshkovskiy-yuz
+cinematographer:
+- kataev-pyotr
+composer:
+- khagagortyan-eduard
+studio:
+- kinostudiya-imeni-m-gorkogo

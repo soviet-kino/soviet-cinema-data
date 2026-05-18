@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q20096220
   imdb: tt2845402
+  youtube: KHQf8JBQrH8
 sources:
 - https://www.wikidata.org/wiki/Q20096220
 schema_version: 1
+director:
+- dakhno-vladimir-avksentevich
+studio:
+- kievnauchfilm

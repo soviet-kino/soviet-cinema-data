@@ -8,6 +8,17 @@ runtime_min: 457
 external_ids:
   wikidata: Q4208788
   imdb: tt5660858
+  youtube: x_AqYzseBDU
 sources:
 - https://www.wikidata.org/wiki/Q4208788
 schema_version: 1
+director:
+- grachyova-alla-alekseevna
+screenwriter:
+- kozlov-sergey-grigorevich
+cinematographer:
+- gavrilov-anatoliy
+composer:
+- dychko-lesya-vasilevna
+studio:
+- kievnauchfilm

@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q4230748
   imdb: tt0314284
+  youtube: xrR5cRFf_y8
 sources:
 - https://www.wikidata.org/wiki/Q4230748
 schema_version: 1
+director:
+- sarukhanov-vladimir
+screenwriter:
+- kamov-boris-kalmanovich
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

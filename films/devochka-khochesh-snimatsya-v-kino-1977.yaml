@@ -8,6 +8,15 @@ runtime_min: 82
 external_ids:
   wikidata: Q4156422
   imdb: tt0127513
+  youtube: 3kevz4eMC0A
 sources:
 - https://www.wikidata.org/wiki/Q4156422
 schema_version: 1
+director:
+- bergunker-adolf-solomonovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+studio:
+- lenfilm

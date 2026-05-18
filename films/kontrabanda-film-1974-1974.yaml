@@ -8,6 +8,18 @@ runtime_min: 88
 external_ids:
   wikidata: Q4231678
   imdb: tt0071724
+  youtube: iCvUOdqdoZw
 sources:
 - https://www.wikidata.org/wiki/Q4231678
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+cinematographer:
+- klimenko-yuriy
+- karyuk-gennadiy-vasilevich
+composer:
+- gevorgyan-evgeniy
+studio:
+- odesskaya-kinostudiya

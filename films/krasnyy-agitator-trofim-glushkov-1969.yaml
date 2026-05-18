@@ -8,6 +8,13 @@ runtime_min: 39
 external_ids:
   wikidata: Q86675085
   imdb: tt0174828
+  youtube: 6pkNzhILKRI
 sources:
 - https://www.wikidata.org/wiki/Q86675085
 schema_version: 1
+director:
+- rubinchik-valeriy-davidovich
+composer:
+- glebov-evgeniy-aleksandrovich
+studio:
+- belarusfilm

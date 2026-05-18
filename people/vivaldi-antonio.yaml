@@ -1,0 +1,9 @@
+id: vivaldi-antonio
+name_ru: Антонио Вивальди
+roles:
+- composer
+external_ids:
+  wikidata: Q1340
+sources:
+- https://www.wikidata.org/wiki/Q1340
+schema_version: 1

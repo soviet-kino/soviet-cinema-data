@@ -8,6 +8,18 @@ runtime_min: 450
 external_ids:
   wikidata: Q4155587
   imdb: tt0287213
+  youtube: 3Iad-2pcq9s
 sources:
 - https://www.wikidata.org/wiki/Q4155587
 schema_version: 1
+director:
+- karelov-evgeniy
+screenwriter:
+- kaverin-veniamin-aleksandrovich
+- karelov-evgeniy
+cinematographer:
+- makarov-valentin
+composer:
+- ptichkin-evgeniy
+studio:
+- mosfilm

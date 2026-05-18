@@ -8,6 +8,17 @@ runtime_min: 163
 external_ids:
   wikidata: Q1711299
   imdb: tt0199503
+  youtube: QuhJDQ6O4b8
 sources:
 - https://www.wikidata.org/wiki/Q1711299
 schema_version: 1
+director:
+- zhalakyavichyus-vitautas
+screenwriter:
+- zhalakyavichyus-vitautas
+- ezhov-valentin-ivanovich
+cinematographer:
+- nakhabtsev-vladimir
+studio:
+- mosfilm
+- litovskaya-kinostudiya

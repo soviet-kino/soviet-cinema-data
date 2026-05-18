@@ -8,6 +8,18 @@ runtime_min: 74
 external_ids:
   wikidata: Q1359471
   imdb: tt0242459
+  youtube: FcHfLQj0-n8
 sources:
 - https://www.wikidata.org/wiki/Q1359471
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+- vasilyev-gennadiy-leonidovich
+screenwriter:
+- rou-aleksandr-arturovich
+- potyomkin-lev-lvovich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

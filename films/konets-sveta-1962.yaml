@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q81603957
   imdb: tt5013852
+  youtube: xHJknRIOUgY
 sources:
 - https://www.wikidata.org/wiki/Q81603957
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+screenwriter:
+- stsenarist-solovyov-vasiliy-ivanovich
+cinematographer:
+- ragozin-lev
+composer:
+- ptichkin-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

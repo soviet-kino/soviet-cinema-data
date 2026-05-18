@@ -8,6 +8,15 @@ runtime_min: 97
 external_ids:
   wikidata: Q4144891
   imdb: tt0370609
+  youtube: ZgvJwx8c-xw
 sources:
 - https://www.wikidata.org/wiki/Q4144891
 schema_version: 1
+director:
+- maksakov-vyacheslav-zakharovich
+screenwriter:
+- vayner-georgiy-aleksandrovich
+composer:
+- komarov-vladimir-konstantinovich
+studio:
+- mosfilm

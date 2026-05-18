@@ -8,6 +8,15 @@ runtime_min: 97
 external_ids:
   wikidata: Q4205754
   imdb: tt0070227
+  youtube: 38t23FyL5sI
 sources:
 - https://www.wikidata.org/wiki/Q4205754
 schema_version: 1
+director:
+- bogin-mikhail
+screenwriter:
+- barto-agniya-lvovna
+cinematographer:
+- filippov-sergey-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

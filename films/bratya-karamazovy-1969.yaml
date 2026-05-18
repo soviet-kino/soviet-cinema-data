@@ -8,6 +8,19 @@ runtime_min: 216
 external_ids:
   wikidata: Q1211800
   imdb: tt0062757
+  youtube: I4arxS-jvJc
 sources:
 - https://www.wikidata.org/wiki/Q1211800
 schema_version: 1
+director:
+- ulyanov-mikhail-aleksandrovich
+- pyrev-ivan-aleksandrovich
+- lavrov-kirill-yurevich
+screenwriter:
+- pyrev-ivan-aleksandrovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

@@ -8,6 +8,17 @@ runtime_min: 142
 external_ids:
   wikidata: Q4030858
   imdb: tt0077114
+  youtube: am5LIBBsTVk
 sources:
 - https://www.wikidata.org/wiki/Q4030858
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+screenwriter:
+- fomina-nina
+cinematographer:
+- minkovetskiy-ilya-solomonovich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm

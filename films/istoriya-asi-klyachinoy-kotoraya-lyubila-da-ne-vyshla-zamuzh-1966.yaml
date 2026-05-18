@@ -8,6 +8,15 @@ runtime_min: 99
 external_ids:
   wikidata: Q2635696
   imdb: tt0060549
+  youtube: O6Ab-0yNmYQ
 sources:
 - https://www.wikidata.org/wiki/Q2635696
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- klepikov-yuriy-nikolaevich
+cinematographer:
+- rerberg-georgy
+studio:
+- mosfilm

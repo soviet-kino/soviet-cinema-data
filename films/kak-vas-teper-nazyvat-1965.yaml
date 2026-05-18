@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q27049554
   imdb: tt0198593
+  youtube: kGthhwfuq7U
 sources:
 - https://www.wikidata.org/wiki/Q27049554
 schema_version: 1
+director:
+- chebotaryov-vladimir-aleksandrovich
+screenwriter:
+- chebotaryov-vladimir-aleksandrovich
+cinematographer:
+- slabnevich-igor-mikhaylovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- mosfilm

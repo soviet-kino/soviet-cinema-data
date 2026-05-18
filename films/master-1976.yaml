@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4284289
   imdb: tt2395327
+  youtube: _arVZa2Xk4Q
 sources:
 - https://www.wikidata.org/wiki/Q4284289
 schema_version: 1
+director:
+- streych-yanis
+cinematographer:
+- kukels-khariy
+composer:
+- movsesyan-georgiy
+studio:
+- rizhskaya-kinostudiya

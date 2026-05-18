@@ -1,0 +1,9 @@
+id: moria-pol
+name_ru: Поль Мориа
+roles:
+- composer
+external_ids:
+  wikidata: Q50788
+sources:
+- https://www.wikidata.org/wiki/Q50788
+schema_version: 1

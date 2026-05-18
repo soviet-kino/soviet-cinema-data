@@ -7,6 +7,12 @@ country:
 external_ids:
   wikidata: Q65200665
   imdb: tt4678628
+  youtube: 3UC34oLDXD8
 sources:
 - https://www.wikidata.org/wiki/Q65200665
 schema_version: 1
+director:
+- vasilev-evgeniy-ivanovich
+- dudorov-anatoliy-alekseevich
+studio:
+- belarusfilm

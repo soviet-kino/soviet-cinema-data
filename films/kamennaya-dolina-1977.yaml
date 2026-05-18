@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20513957
 schema_version: 1
+cinematographer:
+- atoyants-levon
+studio:
+- armenfilm

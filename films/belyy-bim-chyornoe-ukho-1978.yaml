@@ -8,6 +8,18 @@ runtime_min: 172
 external_ids:
   wikidata: Q1635046
   imdb: tt0077222
+  youtube: Miu3QyB6KPg
 sources:
 - https://www.wikidata.org/wiki/Q1635046
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+screenwriter:
+- rostotskiy-stanislav-iosifovich
+- troepolskiy-gavriil-nikolaevich
+cinematographer:
+- shumskiy-vyacheslav-mikhaylovich
+composer:
+- petrov-andrey-pavlovich
+studio:
+- kinostudiya-imeni-m-gorkogo

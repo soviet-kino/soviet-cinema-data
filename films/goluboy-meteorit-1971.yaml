@@ -8,6 +8,17 @@ runtime_min: 194
 external_ids:
   wikidata: Q4142564
   imdb: tt1075320
+  youtube: m_uO2IBXE30
 sources:
 - https://www.wikidata.org/wiki/Q4142564
 schema_version: 1
+director:
+- petrov-anatoliy-alekseevich
+screenwriter:
+- sef-roman-semyonovich
+cinematographer:
+- druyan-mikhail
+composer:
+- kallosh-shandor-ernestovich
+studio:
+- soyuzmultfilm

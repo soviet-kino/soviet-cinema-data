@@ -8,6 +8,13 @@ runtime_min: 94
 external_ids:
   wikidata: Q17043446
   imdb: tt0312432
+  youtube: 2uAVproyaKc
 sources:
 - https://www.wikidata.org/wiki/Q17043446
 schema_version: 1
+director:
+- stepanov-boris-mikhaylovich
+screenwriter:
+- shmyryov-rostislav-minaevich
+studio:
+- belarusfilm

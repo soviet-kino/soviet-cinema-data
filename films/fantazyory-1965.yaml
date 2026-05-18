@@ -8,6 +8,17 @@ runtime_min: 62
 external_ids:
   wikidata: Q4481111
   imdb: tt0165282
+  youtube: kpOQuSqueZg
 sources:
 - https://www.wikidata.org/wiki/Q4481111
 schema_version: 1
+director:
+- magiton-isaak-semyonovich
+screenwriter:
+- nosov-nikolay-nikolaevich
+cinematographer:
+- monastyrskiy-boris-savelevich
+composer:
+- lepin-anatoliy-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

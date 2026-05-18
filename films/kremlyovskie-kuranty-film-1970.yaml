@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4240171
   imdb: tt0145035
+  youtube: WJc6h-sYh5c
 sources:
 - https://www.wikidata.org/wiki/Q4240171
 schema_version: 1
+director:
+- georgiev-viktor-mikhaylovich
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- eshpay-andrey
+studio:
+- mosfilm

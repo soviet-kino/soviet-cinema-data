@@ -8,6 +8,17 @@ runtime_min: 60
 external_ids:
   wikidata: Q4072854
   imdb: tt2109083
+  youtube: C0GDNmBtsM8
 sources:
 - https://www.wikidata.org/wiki/Q4072854
 schema_version: 1
+director:
+- ershov-mikhail-ivanovich
+screenwriter:
+- vitol-arnold-yanovich
+cinematographer:
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- lenfilm

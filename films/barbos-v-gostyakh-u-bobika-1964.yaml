@@ -8,6 +8,18 @@ runtime_min: 20
 external_ids:
   wikidata: Q16535543
   imdb: tt4507904
+  youtube: l5Mg7XmF70I
 sources:
 - https://www.wikidata.org/wiki/Q16535543
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+- shamkovich-mikhail-isaakovich
+screenwriter:
+- nosov-nikolay-nikolaevich
+cinematographer:
+- dibrivnyy-aleksandr-ivanovich
+composer:
+- kazhlaev-murad-magomedovich
+studio:
+- lenfilm

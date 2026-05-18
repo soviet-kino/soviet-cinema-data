@@ -8,6 +8,15 @@ runtime_min: 130
 external_ids:
   wikidata: Q10743149
   imdb: tt0166585
+  youtube: wESdcmsUdUM
 sources:
 - https://www.wikidata.org/wiki/Q10743149
 schema_version: 1
+director:
+- sokolov-viktor-fyodorovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- basner-veniamin-efimovich
+studio:
+- lenfilm

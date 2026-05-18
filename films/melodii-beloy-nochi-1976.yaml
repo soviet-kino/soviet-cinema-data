@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4289659
   imdb: tt0174913
+  youtube: 6leMPSjKY5s
 sources:
 - https://www.wikidata.org/wiki/Q4289659
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+cinematographer:
+- rerberg-georgy
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

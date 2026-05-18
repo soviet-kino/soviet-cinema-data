@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q4171457
   imdb: tt0077477
+  youtube: IYv8ycPaQf4
 sources:
 - https://www.wikidata.org/wiki/Q4171457
 schema_version: 1
+director:
+- grigorev-mikhail-grigorevich
+screenwriter:
+- grigorev-mikhail-grigorevich
+composer:
+- khrennikov-tikhon-nikolaevich
+studio:
+- ekran

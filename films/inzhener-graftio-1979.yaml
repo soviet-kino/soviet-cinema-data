@@ -8,6 +8,17 @@ runtime_min: 81
 external_ids:
   wikidata: Q4201000
   imdb: tt0129166
+  youtube: RTkICiusyRY
 sources:
 - https://www.wikidata.org/wiki/Q4201000
 schema_version: 1
+director:
+- kazanskiy-gennadiy-sergeevich
+screenwriter:
+- galin-aleksandr-mikhaylovich
+cinematographer:
+- ivanov-semyon-nikolaevich
+composer:
+- simonyan-nadezhda
+studio:
+- lenfilm

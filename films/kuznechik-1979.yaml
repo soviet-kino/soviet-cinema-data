@@ -8,6 +8,17 @@ runtime_min: 87
 external_ids:
   wikidata: Q4245194
   imdb: tt0077823
+  youtube: QIHxgzMy4sw
 sources:
 - https://www.wikidata.org/wiki/Q4245194
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- klebanov-igor-semyonovich
+composer:
+- dmitriev-georgiy-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

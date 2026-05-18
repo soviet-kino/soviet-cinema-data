@@ -8,6 +8,19 @@ runtime_min: 69
 external_ids:
   wikidata: Q247713
   imdb: tt0167482
+  youtube: y_Oy9MHrEMI
 sources:
 - https://www.wikidata.org/wiki/Q247713
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- yagdfeld-grigoriy-borisovich
+- viktor-vitkovich
+cinematographer:
+- ragozin-lev
+- dultsev-vasiliy-ivanovich
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

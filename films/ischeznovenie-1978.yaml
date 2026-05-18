@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4205181
   imdb: tt0370785
+  youtube: WhkGBwlv7as
 sources:
 - https://www.wikidata.org/wiki/Q4205181
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- kuznetsov-isay
+composer:
+- rybnikov-aleksey
+studio:
+- kinostudiya-imeni-m-gorkogo

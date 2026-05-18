@@ -8,6 +8,17 @@ runtime_min: 98
 external_ids:
   wikidata: Q4167395
   imdb: tt0071428
+  youtube: UwNNr2shSms
 sources:
 - https://www.wikidata.org/wiki/Q4167395
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- rapoport-vladimir
+composer:
+- chekin-svyatoslav-igorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q42888790
 schema_version: 1
+director:
+- meri-lennart

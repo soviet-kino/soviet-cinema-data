@@ -8,6 +8,18 @@ runtime_min: 75
 external_ids:
   wikidata: Q4083112
   imdb: tt0064079
+  youtube: KWClfeiep5k
 sources:
 - https://www.wikidata.org/wiki/Q4083112
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+composer:
+- gubaydulina-sofiya-asgatovna
+studio:
+- odesskaya-kinostudiya

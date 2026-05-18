@@ -8,6 +8,17 @@ runtime_min: 93
 external_ids:
   wikidata: Q2373306
   imdb: tt0134614
+  youtube: 8CYY8EM5xYE
 sources:
 - https://www.wikidata.org/wiki/Q2373306
 schema_version: 1
+director:
+- chulyukin-yuriy-stepanovich
+screenwriter:
+- bednyy-boris-vasilevich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- pakhmutova-aleksandra-nikolaevna
+studio:
+- mosfilm

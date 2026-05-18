@@ -8,6 +8,20 @@ runtime_min: 64
 external_ids:
   wikidata: Q4292436
   imdb: tt0057301
+  youtube: xquJ5-fZiNE
 sources:
 - https://www.wikidata.org/wiki/Q4292436
 schema_version: 1
+director:
+- koberidze-otar-leontevich
+- karyukov-mikhail-fyodorovich
+screenwriter:
+- koberidze-otar-leontevich
+- karyukov-mikhail-fyodorovich
+- berdnik-oles-pavlovich
+- bondin-ivan-andreevich
+composer:
+- artemyev-eduard
+- muradeli-vano-ilich
+studio:
+- odesskaya-kinostudiya

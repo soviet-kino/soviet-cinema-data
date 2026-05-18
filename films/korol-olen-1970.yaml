@@ -8,6 +8,17 @@ runtime_min: 72
 external_ids:
   wikidata: Q4233800
   imdb: tt0064554
+  youtube: 66nKi8IwHl0
 sources:
 - https://www.wikidata.org/wiki/Q4233800
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- korostylyov-vadim-nikolaevich
+cinematographer:
+- zarafyan-inna
+composer:
+- tariverdiev-mikael
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q108600191
   imdb: tt7473212
+  youtube: d4sieEXwdZw
 sources:
 - https://www.wikidata.org/wiki/Q108600191
 schema_version: 1
+director:
+- gres-viktor-stepanovich
+screenwriter:
+- kazakov-yuriy-pavlovich
+cinematographer:
+- zimovets-vitaliy-andreevich
+composer:
+- khagagortyan-eduard
+studio:
+- kinostudiya-imeni-a-dovzhenko

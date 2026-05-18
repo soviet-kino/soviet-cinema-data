@@ -1,0 +1,9 @@
+id: kask-tynis
+name_ru: Тынис Каск
+roles:
+- director
+external_ids:
+  wikidata: Q16406440
+sources:
+- https://www.wikidata.org/wiki/Q16406440
+schema_version: 1

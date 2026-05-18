@@ -8,6 +8,16 @@ runtime_min: 95
 external_ids:
   wikidata: Q4226052
   imdb: tt4667780
+  youtube: rbByawZF5X8
 sources:
 - https://www.wikidata.org/wiki/Q4226052
 schema_version: 1
+director:
+- vyshinskiy-yuriy-mikhaylovich
+screenwriter:
+- stolyarov-sergey-dmitrievich
+cinematographer:
+- terpsikhorov-pyotr
+- bolshakov-nikolay-ivanovich
+studio:
+- mosfilm

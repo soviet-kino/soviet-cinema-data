@@ -8,6 +8,18 @@ runtime_min: 185
 external_ids:
   wikidata: Q503046
   imdb: tt0060107
+  youtube: 4JpnrdEOAcM
 sources:
 - https://www.wikidata.org/wiki/Q503046
 schema_version: 1
+director:
+- tarkovsky-andrei
+screenwriter:
+- tarkovsky-andrei
+- konchalovskiy-andrey
+cinematographer:
+- yusov-vadim
+composer:
+- ovchinnikov-vyacheslav
+studio:
+- mosfilm

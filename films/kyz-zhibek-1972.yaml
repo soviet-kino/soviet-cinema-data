@@ -8,6 +8,18 @@ runtime_min: 145
 external_ids:
   wikidata: Q65250811
   imdb: tt2977364
+  youtube: 9VBvh_mRzRI
 sources:
 - https://www.wikidata.org/wiki/Q65250811
 schema_version: 1
+director:
+- khodzhikov-sultan-akhmet-khodzhaevich
+screenwriter:
+- musrepov-gabit-makhmutovich
+cinematographer:
+- ashrapov-askhat-tazetdinovich
+composer:
+- tlendiev-nurgisa-atabaevich
+studio:
+- kazakhfilm
+poster_commons: Kyz Zhibek 2020 stampsheet of Kazakhstan 2.jpg

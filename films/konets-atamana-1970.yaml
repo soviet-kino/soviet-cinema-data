@@ -8,6 +8,18 @@ runtime_min: 145
 external_ids:
   wikidata: Q4230746
   imdb: tt0167239
+  youtube: FGMPTXnKV_k
 sources:
 - https://www.wikidata.org/wiki/Q4230746
 schema_version: 1
+director:
+- aymanov-shaken-kenzhetaevich
+screenwriter:
+- tarkovsky-andrei
+- konchalovskiy-andrey
+cinematographer:
+- ashrapov-askhat-tazetdinovich
+composer:
+- rakhmadiev-erkegali-rakhmadievich
+studio:
+- kazakhfilm

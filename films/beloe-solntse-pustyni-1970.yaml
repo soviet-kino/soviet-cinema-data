@@ -8,6 +8,20 @@ runtime_min: 83
 external_ids:
   wikidata: Q2306068
   imdb: tt0066565
+  youtube: GqnqFhc9aho
 sources:
 - https://www.wikidata.org/wiki/Q2306068
 schema_version: 1
+director:
+- motyl-vladimir-yakovlevich
+screenwriter:
+- zakharov-mark-anatolevich
+- ibragimbekov-rustam
+- ezhov-valentin-ivanovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm
+- lenfilm

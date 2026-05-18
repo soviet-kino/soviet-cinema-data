@@ -8,6 +8,17 @@ runtime_min: 98
 external_ids:
   wikidata: Q4071867
   imdb: tt0122969
+  youtube: VC0XE42p5gU
 sources:
 - https://www.wikidata.org/wiki/Q4071867
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+screenwriter:
+- kheyfits-iosif-efimovich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

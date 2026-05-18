@@ -8,6 +8,18 @@ runtime_min: 102
 external_ids:
   wikidata: Q4202017
   imdb: tt0142405
+  youtube: -hOSFm_8nrc
 sources:
 - https://www.wikidata.org/wiki/Q4202017
 schema_version: 1
+director:
+- poloka-gennadiy-ivanovich
+screenwriter:
+- slavin-lev-isaevich
+cinematographer:
+- mezentsev-evgeniy-mikhaylovich
+- burykin-vladimir-aleksandrovich
+composer:
+- slonimskiy-sergey-mikhaylovich
+studio:
+- lenfilm

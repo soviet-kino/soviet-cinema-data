@@ -8,6 +8,14 @@ runtime_min: 46
 external_ids:
   wikidata: Q106756350
   imdb: tt0057613
+  youtube: vry-xUSz21Q
 sources:
 - https://www.wikidata.org/wiki/Q106756350
 schema_version: 1
+director:
+- muratova-kira-georgievna
+- muratov-aleksandr-igorevich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo

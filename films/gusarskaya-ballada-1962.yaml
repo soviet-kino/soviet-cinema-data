@@ -8,6 +8,16 @@ runtime_min: 96
 external_ids:
   wikidata: Q2369847
   imdb: tt0056045
+  youtube: 929O4WzLRDg
 sources:
 - https://www.wikidata.org/wiki/Q2369847
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- gladkov-aleksandr-konstantinovich
+composer:
+- khrennikov-tikhon-nikolaevich
+studio:
+- mosfilm

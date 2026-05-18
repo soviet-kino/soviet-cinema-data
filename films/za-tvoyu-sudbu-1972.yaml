@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4182280
   imdb: tt4695102
+  youtube: ETseyZ5fmJ8
 sources:
 - https://www.wikidata.org/wiki/Q4182280
 schema_version: 1
+director:
+- zoloev-taymuraz-aleksandrovich
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+composer:
+- skorik-miroslav-mikhaylovich
+studio:
+- odesskaya-kinostudiya

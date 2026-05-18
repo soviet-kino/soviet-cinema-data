@@ -8,6 +8,15 @@ runtime_min: 133
 external_ids:
   wikidata: Q4197990
   imdb: tt4621800
+  youtube: sZzkYVGBfUE
 sources:
 - https://www.wikidata.org/wiki/Q4197990
 schema_version: 1
+director:
+- kalinin-nikolay-artemevich
+screenwriter:
+- kuvaev-oleg
+composer:
+- pozhlakov-stanislav-ivanovich
+studio:
+- belarusfilm

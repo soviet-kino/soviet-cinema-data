@@ -8,6 +8,18 @@ runtime_min: 138
 external_ids:
   wikidata: Q4155678
   imdb: tt0383331
+  youtube: 1wjf-0hpJfc
 sources:
 - https://www.wikidata.org/wiki/Q4155678
 schema_version: 1
+director:
+- granik-anatoliy-mikhaylovich
+screenwriter:
+- marshak-samuil-yakovlevich
+- granik-anatoliy-mikhaylovich
+cinematographer:
+- davydov-rostislav-borisovich
+composer:
+- simonyan-nadezhda
+studio:
+- lenfilm

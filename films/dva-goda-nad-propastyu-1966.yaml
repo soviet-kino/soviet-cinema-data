@@ -8,6 +8,18 @@ runtime_min: 94
 external_ids:
   wikidata: Q4155572
   imdb: tt0172376
+  youtube: 7h550pKxdLM
 sources:
 - https://www.wikidata.org/wiki/Q4155572
 schema_version: 1
+director:
+- levchuk-timofey-vasilevich
+screenwriter:
+- trauberg-leonid-zakharovich
+- drozdov-viktor-aleksandrovich
+cinematographer:
+- voytenko-vladimir-grigorevich
+composer:
+- zhukovskiy-german-leontevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

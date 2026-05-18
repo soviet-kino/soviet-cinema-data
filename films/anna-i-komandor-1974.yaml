@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4066552
   imdb: tt0071146
+  youtube: Mwpa8lFDFZE
 sources:
 - https://www.wikidata.org/wiki/Q4066552
 schema_version: 1
+director:
+- khrinyuk-evgeniy
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+composer:
+- buevskiy-boris-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

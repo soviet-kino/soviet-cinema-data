@@ -8,6 +8,19 @@ runtime_min: 85
 external_ids:
   wikidata: Q18634981
   imdb: tt0129658
+  youtube: 3L7miNEFWpo
 sources:
 - https://www.wikidata.org/wiki/Q18634981
 schema_version: 1
+director:
+- shepitko-larisa
+screenwriter:
+- shepitko-larisa
+- lungin-semyon
+- nusinov-ilya
+- olshanskiy-iosif-grigorevich
+- povolotskaya-irina
+composer:
+- ledenyov-roman-semyonovich
+studio:
+- kyrgyzfilm

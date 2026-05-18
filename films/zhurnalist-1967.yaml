@@ -8,6 +8,14 @@ runtime_min: 226
 external_ids:
   wikidata: Q1194623
   imdb: tt0062524
+  youtube: iK-Kwtu0q3o
 sources:
 - https://www.wikidata.org/wiki/Q1194623
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+studio:
+- mosfilm
+- kinostudiya-imeni-m-gorkogo

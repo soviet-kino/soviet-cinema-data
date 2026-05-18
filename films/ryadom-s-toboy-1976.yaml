@@ -8,6 +8,10 @@ runtime_min: 71
 external_ids:
   wikidata: Q110603967
   imdb: tt1546020
+  youtube: 8N369ImbIj4
 sources:
 - https://www.wikidata.org/wiki/Q110603967
 schema_version: 1
+studio:
+- sverdlovskaya-kinostudiya
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu

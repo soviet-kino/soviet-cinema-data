@@ -8,6 +8,17 @@ runtime_min: 20
 external_ids:
   wikidata: Q4215315
   imdb: tt0209074
+  youtube: NiYj3uD8vic
 sources:
 - https://www.wikidata.org/wiki/Q4215315
 schema_version: 1
+director:
+- stepantsev-boris-pavlovich
+screenwriter:
+- larin-boris
+cinematographer:
+- druyan-mikhail
+composer:
+- gladkov-gennadiy
+studio:
+- soyuzmultfilm

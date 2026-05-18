@@ -8,6 +8,14 @@ runtime_min: 82
 external_ids:
   wikidata: Q20926663
   imdb: tt0254489
+  youtube: R8NB9dpQJD4
 sources:
 - https://www.wikidata.org/wiki/Q20926663
 schema_version: 1
+director:
+- andrikanis-evgeniy-nikolaevich
+screenwriter:
+- ryabov-geliy
+- nagornyy-aleksey-petrovich
+studio:
+- mosfilm

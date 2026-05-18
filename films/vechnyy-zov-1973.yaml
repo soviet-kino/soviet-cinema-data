@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4110245
   imdb: tt0331802
+  youtube: -R5pXL29rcs
 sources:
 - https://www.wikidata.org/wiki/Q4110245
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+screenwriter:
+- ivanov-anatoliy-stepanovich
+- isaev-konstantin-fyodorovich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

@@ -8,6 +8,19 @@ runtime_min: 16
 external_ids:
   wikidata: Q4107934
   imdb: tt5871806
+  youtube: ySQfMmFkKZk
 sources:
 - https://www.wikidata.org/wiki/Q4107934
 schema_version: 1
+director:
+- popov-vladimir-ivanovich
+- pekar-vladimir-izrailevich
+screenwriter:
+- kanevskiy-aleksandr-semyonovich
+- vikkers-robert-borisovich
+cinematographer:
+- rasulov-kabul-abdurakhmanovich
+composer:
+- krylatov-evgeniy
+studio:
+- soyuzmultfilm

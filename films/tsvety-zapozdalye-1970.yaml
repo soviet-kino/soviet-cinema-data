@@ -8,6 +8,15 @@ runtime_min: 100
 external_ids:
   wikidata: Q4503566
   imdb: tt0065128
+  youtube: Z1CFhPzO6K4
 sources:
 - https://www.wikidata.org/wiki/Q4503566
 schema_version: 1
+director:
+- room-abram-matveevich
+screenwriter:
+- room-abram-matveevich
+composer:
+- berlioz-gektor
+studio:
+- mosfilm

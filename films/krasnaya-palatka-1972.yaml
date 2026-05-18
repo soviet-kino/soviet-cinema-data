@@ -8,6 +8,23 @@ runtime_min: 158
 external_ids:
   wikidata: Q2714901
   imdb: tt0067315
+  youtube: _r5hyH2uGgo
 sources:
 - https://www.wikidata.org/wiki/Q2714901
 schema_version: 1
+director:
+- kalatozov-mikhail-konstantinovich
+screenwriter:
+- bolt-robert
+- kalatozov-mikhail-konstantinovich
+- nagibin-yuriy-markovich
+- konchini-ennio-de
+- cavallone-alberto
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- morrikone-ennio
+studio:
+- mosfilm
+- paramount-pictures
+- vides-cinematografica

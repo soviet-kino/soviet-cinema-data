@@ -8,6 +8,15 @@ runtime_min: 142
 external_ids:
   wikidata: Q4518642
   imdb: tt0078425
+  youtube: jTRgRCM-yoM
 sources:
 - https://www.wikidata.org/wiki/Q4518642
 schema_version: 1
+director:
+- chetverikov-vitaliy-pavlovich
+cinematographer:
+- zaytsev-dmitriy-evgenevich
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- belarusfilm

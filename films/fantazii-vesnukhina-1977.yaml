@@ -8,6 +8,17 @@ runtime_min: 125
 external_ids:
   wikidata: Q3066535
   imdb: tt0401005
+  youtube: ws99cVDHp1I
 sources:
 - https://www.wikidata.org/wiki/Q3066535
 schema_version: 1
+director:
+- kharchenko-valeriy-nikolaevich
+screenwriter:
+- mlodik-arkadiy-markovich
+cinematographer:
+- karavaev-elizbar
+composer:
+- zatsepin-aleksandr
+studio:
+- odesskaya-kinostudiya

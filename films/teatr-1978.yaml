@@ -8,6 +8,15 @@ runtime_min: 136
 external_ids:
   wikidata: Q4453397
   imdb: tt0276550
+  youtube: jhnQMkIsXTM
 sources:
 - https://www.wikidata.org/wiki/Q4453397
 schema_version: 1
+director:
+- streych-yanis
+cinematographer:
+- kukels-khariy
+composer:
+- pauls-raymond
+studio:
+- rizhskaya-kinostudiya

@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q20096223
   imdb: tt6493436
+  youtube: CVyac_35hFY
 sources:
 - https://www.wikidata.org/wiki/Q20096223
 schema_version: 1
+director:
+- gurvich-irina-borisovna
+cinematographer:
+- gavrilov-anatoliy
+composer:
+- buevskiy-boris-nikolaevich
+studio:
+- kievnauchfilm

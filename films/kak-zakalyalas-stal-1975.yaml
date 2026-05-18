@@ -8,6 +8,18 @@ runtime_min: 369
 external_ids:
   wikidata: Q4208814
   imdb: tt0461257
+  youtube: wNt8fxLFLds
 sources:
 - https://www.wikidata.org/wiki/Q4208814
 schema_version: 1
+director:
+- mashchenko-nikolay-pavlovich
+screenwriter:
+- alov-aleksandr-aleksandrovich
+- naumov-vladimir-naumovich
+cinematographer:
+- itygilov-aleksandr-ataevich
+composer:
+- shamo-igor
+studio:
+- kinostudiya-imeni-a-dovzhenko

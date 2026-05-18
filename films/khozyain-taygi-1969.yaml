@@ -8,6 +8,15 @@ runtime_min: 83
 external_ids:
   wikidata: Q4498878
   imdb: tt0063180
+  youtube: lQdfSGj6PQY
 sources:
 - https://www.wikidata.org/wiki/Q4498878
 schema_version: 1
+director:
+- nazarov-vladimir-aleksandrovich
+screenwriter:
+- mozhaev-boris-andreevich
+composer:
+- afanasev-leonid
+studio:
+- mosfilm

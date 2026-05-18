@@ -8,6 +8,15 @@ runtime_min: 132
 external_ids:
   wikidata: Q65199230
   imdb: tt0413972
+  youtube: crJoqzXA1nQ
 sources:
 - https://www.wikidata.org/wiki/Q65199230
 schema_version: 1
+screenwriter:
+- granin-daniil-aleksandrovich
+cinematographer:
+- slutskiy-naum-fayvelevich
+composer:
+- tariverdiev-mikael
+studio:
+- kinostudiya-imeni-a-dovzhenko

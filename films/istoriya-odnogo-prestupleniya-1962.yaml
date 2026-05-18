@@ -8,6 +8,17 @@ runtime_min: 20
 external_ids:
   wikidata: Q404298
   imdb: tt0487622
+  youtube: 1qprut1rkFY
 sources:
 - https://www.wikidata.org/wiki/Q404298
 schema_version: 1
+director:
+- khitruk-fyodor-savelevich
+screenwriter:
+- volpin-mikhail-davydovich
+cinematographer:
+- kotov-boris-stepanovich
+composer:
+- babaev-andrey
+studio:
+- soyuzmultfilm

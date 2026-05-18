@@ -8,6 +8,14 @@ runtime_min: 94
 external_ids:
   wikidata: Q4257632
   imdb: tt0077846
+  youtube: EswgsU65R3o
 sources:
 - https://www.wikidata.org/wiki/Q4257632
 schema_version: 1
+director:
+- mkrtchyan-albert
+screenwriter:
+- vayner-arkadiy-aleksandrovich
+- vayner-georgiy-aleksandrovich
+studio:
+- sverdlovskaya-kinostudiya

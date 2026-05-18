@@ -8,6 +8,19 @@ runtime_min: 149
 external_ids:
   wikidata: Q2388002
   imdb: tt0174174
+  youtube: 2UoO2t536Ko
 sources:
 - https://www.wikidata.org/wiki/Q2388002
 schema_version: 1
+director:
+- ptushko-aleksandr
+screenwriter:
+- ptushko-aleksandr
+- bolotin-samuil-borisovich
+cinematographer:
+- geleyn-igor-vladimirovich
+- felitsyn-igor-alekseevich
+composer:
+- khrennikov-tikhon-nikolaevich
+studio:
+- mosfilm

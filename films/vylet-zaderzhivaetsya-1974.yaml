@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4128992
   imdb: tt0072383
+  youtube: RqJDq6e1l8w
 sources:
 - https://www.wikidata.org/wiki/Q4128992
 schema_version: 1
+director:
+- maryagin-leonid-georgievich
+screenwriter:
+- vasiliu-dmitriy-georgievich
+cinematographer:
+- chukhnov-vladimir
+composer:
+- frenkel-yan-abramovich
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: podnieks-yuris
+name_ru: Юрис Подниекс
+roles:
+- director
+external_ids:
+  wikidata: Q337409
+sources:
+- https://www.wikidata.org/wiki/Q337409
+schema_version: 1

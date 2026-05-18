@@ -8,6 +8,19 @@ runtime_min: 86
 external_ids:
   wikidata: Q400218
   imdb: tt0057991
+  youtube: immo4JI8CP0
 sources:
 - https://www.wikidata.org/wiki/Q400218
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- galich-aleksandr-arkadevich
+- laskin-boris-savelevich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+- nakhabtsev-vladimir
+composer:
+- lepin-anatoliy-yakovlevich
+studio:
+- mosfilm

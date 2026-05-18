@@ -8,6 +8,17 @@ runtime_min: 190
 external_ids:
   wikidata: Q4239905
   imdb: tt0063200
+  youtube: eZoMr8CFYyo
 sources:
 - https://www.wikidata.org/wiki/Q4239905
 schema_version: 1
+director:
+- chebotaryov-vladimir-aleksandrovich
+screenwriter:
+- ardamatskiy-vasiliy
+cinematographer:
+- gantman-yuriy
+composer:
+- muravlyov-aleksey-alekseevich
+studio:
+- mosfilm

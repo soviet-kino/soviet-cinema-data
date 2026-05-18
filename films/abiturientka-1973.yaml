@@ -8,6 +8,18 @@ runtime_min: 78
 external_ids:
   wikidata: Q15270456
   imdb: tt0147815
+  youtube: QxCGJ-UfPJo
 sources:
 - https://www.wikidata.org/wiki/Q15270456
 schema_version: 1
+director:
+- mishurin-aleksey-aleksandrovich
+screenwriter:
+- gonchar-oles
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+- prokopenko-aleksey-efimovich
+composer:
+- mayboroda-platon-illarionovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -8,6 +8,18 @@ runtime_min: 74
 external_ids:
   wikidata: Q4201294
   imdb: tt0059313
+  youtube: FeIIaJUN-4A
 sources:
 - https://www.wikidata.org/wiki/Q4201294
 schema_version: 1
+director:
+- zhuk-konstantin-ivanovich
+- seryy-aleksandr-ivanovich
+screenwriter:
+- voinov-aleksandr-isaevich
+cinematographer:
+- lukanev-nikolay-deonisievich
+composer:
+- kazhlaev-murad-magomedovich
+studio:
+- odesskaya-kinostudiya

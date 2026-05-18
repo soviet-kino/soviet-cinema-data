@@ -8,6 +8,17 @@ runtime_min: 14
 external_ids:
   wikidata: Q4105520
   imdb: tt7211482
+  youtube: PJXi69wfuhw
 sources:
 - https://www.wikidata.org/wiki/Q4105520
 schema_version: 1
+director:
+- aksenchuk-ivan-semyonovich
+screenwriter:
+- evgeniy-danilovich-agranovich
+cinematographer:
+- kotov-boris-stepanovich
+composer:
+- lokshin-aleksandr-lazarevich
+studio:
+- soyuzmultfilm

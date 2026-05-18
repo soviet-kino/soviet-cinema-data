@@ -8,6 +8,18 @@ runtime_min: 76
 external_ids:
   wikidata: Q97187072
   imdb: tt0380321
+  youtube: eVeATgpIaxQ
 sources:
 - https://www.wikidata.org/wiki/Q97187072
 schema_version: 1
+director:
+- poplavskaya-irina-ivanovna
+screenwriter:
+- lavrov-ilya-mikhaylovich
+- olshanskiy-iosif-grigorevich
+cinematographer:
+- sheynin-viktor
+composer:
+- chaykovskiy-boris-aleksandrovich
+studio:
+- mosfilm

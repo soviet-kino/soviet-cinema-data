@@ -8,6 +8,12 @@ runtime_min: 87
 external_ids:
   wikidata: Q4192479
   imdb: tt0316624
+  youtube: 5wD5peCQvis
 sources:
 - https://www.wikidata.org/wiki/Q4192479
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Der boese Geist vom Jambuj.jpeg

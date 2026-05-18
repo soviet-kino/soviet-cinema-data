@@ -8,6 +8,19 @@ runtime_min: 126
 external_ids:
   wikidata: Q4068968
   imdb: tt0426912
+  youtube: AAIzEJNG8mE
 sources:
 - https://www.wikidata.org/wiki/Q4068968
 schema_version: 1
+director:
+- ayrapetyan-arkadiy
+- agababov-arnold
+screenwriter:
+- arakelyan-gurgen
+- agababov-arnold
+cinematographer:
+- israelyan-sergey
+composer:
+- mansuryan-tigran
+studio:
+- armenfilm

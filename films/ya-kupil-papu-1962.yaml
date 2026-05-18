@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4535696
   imdb: tt0170819
+  youtube: hIlRh5vmVio
 sources:
 - https://www.wikidata.org/wiki/Q4535696
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- dolgiy-volf-gitmanovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- chargeyshvili-nektarios
+studio:
+- kinostudiya-imeni-m-gorkogo

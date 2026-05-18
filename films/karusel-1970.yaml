@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4216305
   imdb: tt0065934
+  youtube: t_rmuj4n1Gg
 sources:
 - https://www.wikidata.org/wiki/Q4216305
 schema_version: 1
+director:
+- shveytser-mikhail-abramovich
+screenwriter:
+- shveytser-mikhail-abramovich
+cinematographer:
+- lavrov-german
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

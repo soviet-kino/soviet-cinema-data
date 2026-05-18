@@ -8,6 +8,14 @@ runtime_min: 75
 external_ids:
   wikidata: Q106755453
   imdb: tt11264450
+  youtube: 9j1-CbsgDqI
 sources:
 - https://www.wikidata.org/wiki/Q106755453
 schema_version: 1
+screenwriter:
+- frid-valeriy
+- dunskiy-yuliy
+composer:
+- melikov-arif
+studio:
+- kinostudiya-imeni-m-gorkogo

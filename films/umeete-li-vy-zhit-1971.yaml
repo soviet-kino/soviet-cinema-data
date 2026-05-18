@@ -8,6 +8,18 @@ runtime_min: 65
 external_ids:
   wikidata: Q25447784
   imdb: tt5291274
+  youtube: CDWm6s1CP80
 sources:
 - https://www.wikidata.org/wiki/Q25447784
 schema_version: 1
+director:
+- muratov-aleksandr-igorevich
+screenwriter:
+- muratov-aleksandr-igorevich
+- muratov-igor-leontevich
+cinematographer:
+- yanovskiy-solomon-leybovich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

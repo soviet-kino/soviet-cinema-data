@@ -8,6 +8,15 @@ runtime_min: 99
 external_ids:
   wikidata: Q4179351
   imdb: tt0076954
+  youtube: ZeODYCWZ03g
 sources:
 - https://www.wikidata.org/wiki/Q4179351
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+cinematographer:
+- veksler-yuriy-abramovich
+composer:
+- karavaychuk-oleg-nikolaevich
+studio:
+- lenfilm

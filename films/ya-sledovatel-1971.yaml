@@ -8,6 +8,16 @@ runtime_min: 89
 external_ids:
   wikidata: Q4535647
   imdb: tt0275509
+  youtube: Op5P87vF6s8
 sources:
 - https://www.wikidata.org/wiki/Q4535647
 schema_version: 1
+director:
+- kalatozishvili-georgiy-mikhaylovich
+screenwriter:
+- vayner-arkadiy-aleksandrovich
+- vayner-georgiy-aleksandrovich
+composer:
+- kancheli-giya-aleksandrovich
+studio:
+- gruziya-film

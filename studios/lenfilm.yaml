@@ -1,0 +1,8 @@
+id: lenfilm
+name_ru: Ленфильм
+country: SU
+external_ids:
+  wikidata: Q158478
+sources:
+- https://www.wikidata.org/wiki/Q158478
+schema_version: 1

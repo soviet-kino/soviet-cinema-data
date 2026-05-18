@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q2904496
   imdb: tt0075757
+  youtube: V4JbcV1JacE
 sources:
 - https://www.wikidata.org/wiki/Q2904496
 schema_version: 1
+director:
+- balayan-roman-gurgenovich
+screenwriter:
+- balayan-roman-gurgenovich
+cinematographer:
+- kalyuta-vilen-aleksandrovich
+composer:
+- guba-vladimir
+studio:
+- kinostudiya-imeni-a-dovzhenko

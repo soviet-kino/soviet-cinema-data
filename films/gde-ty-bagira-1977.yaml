@@ -8,6 +8,13 @@ runtime_min: 79
 external_ids:
   wikidata: Q4134603
   imdb: tt0338056
+  youtube: 6kdaWTILPow
 sources:
 - https://www.wikidata.org/wiki/Q4134603
 schema_version: 1
+director:
+- levin-vladimir-moiseevich
+composer:
+- sergey-petrovich-banevich
+studio:
+- odesskaya-kinostudiya

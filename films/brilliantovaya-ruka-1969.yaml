@@ -8,6 +8,19 @@ runtime_min: 94
 external_ids:
   wikidata: Q1999930
   imdb: tt0062759
+  youtube: 8XDaVi6NreE
 sources:
 - https://www.wikidata.org/wiki/Q1999930
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- kostyukovskiy-yakov-aronovich
+- slobodskoy-moris-romanovich
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- zatsepin-aleksandr
+studio:
+- mosfilm

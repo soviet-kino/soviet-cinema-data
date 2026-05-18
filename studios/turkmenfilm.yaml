@@ -1,0 +1,8 @@
+id: turkmenfilm
+name_ru: Туркменфильм
+country: SU
+external_ids:
+  wikidata: Q4466160
+sources:
+- https://www.wikidata.org/wiki/Q4466160
+schema_version: 1

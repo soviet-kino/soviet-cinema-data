@@ -8,6 +8,18 @@ runtime_min: 85
 external_ids:
   wikidata: Q3230416
   imdb: tt0061196
+  youtube: 4a_BHM8HmaU
 sources:
 - https://www.wikidata.org/wiki/Q3230416
 schema_version: 1
+director:
+- shepitko-larisa
+screenwriter:
+- ezhov-valentin-ivanovich
+- ryazantseva-nataliya-borisovna
+cinematographer:
+- slabnevich-igor-mikhaylovich
+composer:
+- ledenyov-roman-semyonovich
+studio:
+- mosfilm

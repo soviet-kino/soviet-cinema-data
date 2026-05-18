@@ -8,6 +8,11 @@ runtime_min: 81
 external_ids:
   wikidata: Q112663465
   imdb: tt35365095
+  youtube: rnwwKIX-OSk
 sources:
 - https://www.wikidata.org/wiki/Q112663465
 schema_version: 1
+director:
+- merkel-mayya-maksovna
+studio:
+- sverdlovskaya-kinostudiya

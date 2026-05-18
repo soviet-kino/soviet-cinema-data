@@ -1,0 +1,9 @@
+id: ivanov-vano-ivan
+name_ru: Иван Иванов-Вано
+roles:
+- director
+external_ids:
+  wikidata: Q1066055
+sources:
+- https://www.wikidata.org/wiki/Q1066055
+schema_version: 1

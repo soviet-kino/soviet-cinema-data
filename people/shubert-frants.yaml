@@ -1,0 +1,9 @@
+id: shubert-frants
+name_ru: Франц Шуберт
+roles:
+- composer
+external_ids:
+  wikidata: Q7312
+sources:
+- https://www.wikidata.org/wiki/Q7312
+schema_version: 1

@@ -8,6 +8,13 @@ runtime_min: 92
 external_ids:
   wikidata: Q4188524
   imdb: tt0175346
+  youtube: sMf-iiOAbc0
 sources:
 - https://www.wikidata.org/wiki/Q4188524
 schema_version: 1
+director:
+- osyka-leonid
+screenwriter:
+- pavlychko-dmitriy-vasilevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

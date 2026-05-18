@@ -8,6 +8,17 @@ runtime_min: 107
 external_ids:
   wikidata: Q4137470
   imdb: tt0174680
+  youtube: P6StSovHMsk
 sources:
 - https://www.wikidata.org/wiki/Q4137470
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+screenwriter:
+- rostotskiy-stanislav-iosifovich
+cinematographer:
+- shumskiy-vyacheslav-mikhaylovich
+composer:
+- molchanov-kirill
+studio:
+- kinostudiya-imeni-m-gorkogo

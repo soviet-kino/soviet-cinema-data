@@ -8,6 +8,20 @@ runtime_min: 87
 external_ids:
   wikidata: Q4107943
   imdb: tt0176285
+  youtube: PTDCmqDulfI
 sources:
 - https://www.wikidata.org/wiki/Q4107943
 schema_version: 1
+director:
+- todorovskiy-pyotr-efimovich
+screenwriter:
+- okudzhava-bulat
+- todorovskiy-pyotr-efimovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+- macheret-boris-aleksandrovich
+- kostromenko-vadim
+composer:
+- karamishev-boris-pavlovich
+studio:
+- odesskaya-kinostudiya

@@ -8,6 +8,16 @@ runtime_min: 87
 external_ids:
   wikidata: Q4201365
   imdb: tt0312814
+  youtube: 4h2NpgLLHBA
 sources:
 - https://www.wikidata.org/wiki/Q4201365
 schema_version: 1
+director:
+- tsybulnik-sulamif-moiseevna
+screenwriter:
+- maklyarskiy-mikhail-borisovich
+- rapoport-kirill-iosifovich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4127075
   imdb: tt2395333
+  youtube: Hblz5rHNcLc
 sources:
 - https://www.wikidata.org/wiki/Q4127075
 schema_version: 1
+director:
+- putse-voldemar
+composer:
+- zarinsh-margeris
+studio:
+- rizhskaya-kinostudiya

@@ -8,6 +8,15 @@ runtime_min: 78
 external_ids:
   wikidata: Q15270636
   imdb: tt0059952
+  youtube: A_qBi8GjeOY
 sources:
 - https://www.wikidata.org/wiki/Q15270636
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- volodin-aleksandr-moiseevich
+composer:
+- basner-veniamin-efimovich
+studio:
+- mosfilm

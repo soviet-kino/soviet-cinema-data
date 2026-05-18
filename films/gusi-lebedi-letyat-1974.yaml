@@ -8,6 +8,15 @@ runtime_min: 77
 external_ids:
   wikidata: Q12098569
   imdb: tt3097768
+  youtube: YIwpDE3X-yA
 sources:
 - https://www.wikidata.org/wiki/Q12098569
 schema_version: 1
+director:
+- muratov-aleksandr-igorevich
+screenwriter:
+- stelmakh-mikhail-afanasevich
+composer:
+- skorik-miroslav-mikhaylovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

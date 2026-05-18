@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4100067
   imdb: tt9257876
+  youtube: 0qOlfwqi0Rg
 sources:
 - https://www.wikidata.org/wiki/Q4100067
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+composer:
+- kazenin-vladislav-igorevich
+studio:
+- sverdlovskaya-kinostudiya
