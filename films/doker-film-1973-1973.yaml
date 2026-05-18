@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65200729
 schema_version: 1
+cast:
+- person: kopelyan-efim-zakharovich
+- person: bykov-rolan-antonovich
+- person: smirnov-aleksey-makarovich
+- person: gritsenko-nikolay-olimpievich
+- person: efimov-igor-konstantinovich
+- person: leonov-gladyshev-evgeniy-borisovich
+- person: sanaeva-elena-vsevolodovna
+- person: tokhadze-givi-maksimovich
+- person: pyshnyak-arkadiy

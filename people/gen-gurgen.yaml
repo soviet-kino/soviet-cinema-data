@@ -1,0 +1,9 @@
+id: gen-gurgen
+name_ru: Гурген Ген
+roles:
+- actor
+external_ids:
+  wikidata: Q20511263
+sources:
+- https://www.wikidata.org/wiki/Q20511263
+schema_version: 1

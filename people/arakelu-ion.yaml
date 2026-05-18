@@ -1,0 +1,9 @@
+id: arakelu-ion
+name_ru: Ион Аракелу
+roles:
+- actor
+external_ids:
+  wikidata: Q16975957
+sources:
+- https://www.wikidata.org/wiki/Q16975957
+schema_version: 1

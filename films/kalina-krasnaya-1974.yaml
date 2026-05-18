@@ -14,11 +14,23 @@ sources:
 schema_version: 1
 director:
 - shukshin-vasiliy-makarovich
+- shukshin-vasiliy
 screenwriter:
 - shukshin-vasiliy-makarovich
+- shukshin-vasiliy
 cinematographer:
 - zabolotskiy-anatoliy-dmitrievich
 composer:
 - chekalov-pavel-vladimirovich
 studio:
 - mosfilm
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: shukshin-vasiliy
+- person: burkov-georgiy-ivanovich
+- person: arepina-iya-alekseevna
+- person: durov-lev-konstantinovich
+- person: vanin-aleksey-zakharovich
+- person: gvozdikova-natalya-fyodorovna
+- person: ryzhov-ivan-petrovich
+- person: fedoseeva-shukshina-lidiya-nikolaevna

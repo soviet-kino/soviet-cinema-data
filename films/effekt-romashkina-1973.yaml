@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q25438275
   imdb: tt0170857
+  youtube: 1LzZZ0bGBAM
 sources:
 - https://www.wikidata.org/wiki/Q25438275
 schema_version: 1
+director:
+- balayan-roman-gurgenovich
+screenwriter:
+- laskin-boris-savelevich
+- likhodeev-leonid-izrailevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

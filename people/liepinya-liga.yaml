@@ -1,0 +1,9 @@
+id: liepinya-liga
+name_ru: Лига Лиепиня
+roles:
+- actor
+external_ids:
+  wikidata: Q465513
+sources:
+- https://www.wikidata.org/wiki/Q465513
+schema_version: 1

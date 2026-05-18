@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109428484
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+screenwriter:
+- gurin-ilya-yakovlevich
+- larin-boris
+cinematographer:
+- ginzburg-valeriy
+composer:
+- krylatov-evgeniy
+cast:
+- person: tolubeev-andrey-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

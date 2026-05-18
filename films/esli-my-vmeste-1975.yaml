@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4177194
 schema_version: 1
+cinematographer:
+- galakchiev-eduard
+composer:
+- vaynshteyn-leonid-moiseevich
+cast:
+- person: kyzy-amirbekova-rita-dzhamil
+- person: maniev-mukhtar
+- person: mustafaev-vagif
+- person: kaz-mov-dadas
+- person: klyucnikov-stanislav
+- person: magerramov-akif
+- person: ogly-mir-kasimov-oktay-mir-asadulla
+- person: n-c-fov-qriqori
+studio:
+- azerbaydzhanfilm

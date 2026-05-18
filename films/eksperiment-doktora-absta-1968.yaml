@@ -8,6 +8,16 @@ runtime_min: 89
 external_ids:
   wikidata: Q4530568
   imdb: tt0062928
+  youtube: X6knCrOYczA
 sources:
 - https://www.wikidata.org/wiki/Q4530568
 schema_version: 1
+director:
+- timonishin-anton-grigorevich
+cinematographer:
+- yanovskiy-solomon-leybovich
+cast:
+- person: desnitskiy-sergey-glebovich
+- person: noreyka-laymonas
+studio:
+- kinostudiya-imeni-a-dovzhenko

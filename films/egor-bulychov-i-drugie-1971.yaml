@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4173658
   imdb: tt0068001
+  youtube: ecZZ9XkyK6w
 sources:
 - https://www.wikidata.org/wiki/Q4173658
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+studio:
+- mosfilm

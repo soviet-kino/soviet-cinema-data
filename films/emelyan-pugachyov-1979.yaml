@@ -8,6 +8,35 @@ runtime_min: 147
 external_ids:
   wikidata: Q7258905
   imdb: tt0145765
+  youtube: 42gmfPY7xWE
 sources:
 - https://www.wikidata.org/wiki/Q7258905
 schema_version: 1
+director:
+- saltykov-aleksey
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- eshpay-andrey
+cast:
+- person: artmane-viya
+- person: pavlov-viktor-pavlovich
+- person: syomina-tamara-petrovna
+- person: azo-anatoliy
+- person: bekeris-vilnis
+- person: borisov-vladimir-vladimirovich
+- person: glebov-pyotr-petrovich
+- person: golovanov-sergey-petrovich
+- person: gorbachyov-igor-olegovich
+- person: dvorzhetskiy-vatslav-yanovich
+- person: zhdanov-aleksandr-mikhaylovich
+- person: zakharchenko-konstantin-lvovich
+- person: matveev-evgeniy-semyonovich
+- person: odinokov-fyodor-ivanovich
+- person: prokhorova-olga-efimovna
+- person: grigoriu-grigore-petru
+- person: kireev-salavat-gayazovich
+studio:
+- mosfilm

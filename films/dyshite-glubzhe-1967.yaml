@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4171737
 schema_version: 1
+director:
+- kalnynsh-roland
+screenwriter:
+- priede-gunars
+composer:
+- kalnynsh-imants
+cast:
+- person: putsitis-uldis
+- person: kuple-dina
+studio:
+- rizhskaya-kinostudiya

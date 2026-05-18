@@ -1,0 +1,9 @@
+id: klass-igor
+name_ru: Игорь Класс
+roles:
+- actor
+external_ids:
+  wikidata: Q4222990
+sources:
+- https://www.wikidata.org/wiki/Q4222990
+schema_version: 1

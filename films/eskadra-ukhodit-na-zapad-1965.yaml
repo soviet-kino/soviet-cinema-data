@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23900031
 schema_version: 1
+director:
+- bilinskiy-miron-lvovich
+screenwriter:
+- levada-aleksandr-stepanovich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: lezhdey-elza-ivanovna
+studio:
+- odesskaya-kinostudiya

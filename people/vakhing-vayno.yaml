@@ -1,0 +1,9 @@
+id: vakhing-vayno
+name_ru: Вайно Вахинг
+roles:
+- actor
+external_ids:
+  wikidata: Q118987
+sources:
+- https://www.wikidata.org/wiki/Q118987
+schema_version: 1

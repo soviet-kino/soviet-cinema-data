@@ -1,0 +1,9 @@
+id: karm-kaarel
+name_ru: Каарел Карм
+roles:
+- actor
+external_ids:
+  wikidata: Q12365913
+sources:
+- https://www.wikidata.org/wiki/Q12365913
+schema_version: 1

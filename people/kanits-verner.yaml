@@ -1,0 +1,9 @@
+id: kanits-verner
+name_ru: Вернер Каниц
+roles:
+- actor
+external_ids:
+  wikidata: Q1722543
+sources:
+- https://www.wikidata.org/wiki/Q1722543
+schema_version: 1

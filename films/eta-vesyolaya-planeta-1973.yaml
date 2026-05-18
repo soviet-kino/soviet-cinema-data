@@ -22,3 +22,8 @@ composer:
 studio:
 - mosfilm
 - tvorcheskoe-obedinenie-televizionnykh-filmov
+cast:
+- person: kramarov-saveliy-viktorovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: vasileva-ekaterina-sergeevna
+- person: sergachyov-viktor-nikolaevich

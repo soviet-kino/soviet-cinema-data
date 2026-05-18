@@ -13,3 +13,11 @@ sources:
 schema_version: 1
 studio:
 - tsentralnoe-televidenie
+cast:
+- person: smekhov-veniamin-borisovich
+- person: dzhigarkhanyan-armen-borisovich
+- person: zeldin-vladimir-mikhaylovich
+- person: strizhenov-oleg-aleksandrovich
+- person: starygin-igor-vladimirovich
+- person: doronina-tatyana-vasilevna
+- person: filippov-roman-sergeevich

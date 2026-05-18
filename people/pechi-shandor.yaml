@@ -1,0 +1,9 @@
+id: pechi-shandor
+name_ru: Шандор Печи
+roles:
+- actor
+external_ids:
+  wikidata: Q1242830
+sources:
+- https://www.wikidata.org/wiki/Q1242830
+schema_version: 1

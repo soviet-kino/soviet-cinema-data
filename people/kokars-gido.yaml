@@ -1,0 +1,9 @@
+id: kokars-gido
+name_ru: Гидо Кокарс
+roles:
+- actor
+external_ids:
+  wikidata: Q4227276
+sources:
+- https://www.wikidata.org/wiki/Q4227276
+schema_version: 1

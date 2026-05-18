@@ -1,0 +1,9 @@
+id: kube-khorst
+name_ru: Хорст Кубе
+roles:
+- actor
+external_ids:
+  wikidata: Q1629609
+sources:
+- https://www.wikidata.org/wiki/Q1629609
+schema_version: 1

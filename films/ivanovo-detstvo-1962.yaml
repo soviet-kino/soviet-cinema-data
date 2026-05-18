@@ -25,6 +25,12 @@ cast:
   role: Иван
 - person: grinko-nikolai
   role: Подполковник Грязнов
+- person: konchalovskiy-andrey
+- person: raush-irma-yakovlevna
+- person: zubkov-valentin-ivanovich
+- person: ilich-zharikov-evgeniy
+- person: krylov-stepan-ivanovich
+- person: malyavina-valentina-aleksandrovna
 runtime_min: 95
 language:
 - ru

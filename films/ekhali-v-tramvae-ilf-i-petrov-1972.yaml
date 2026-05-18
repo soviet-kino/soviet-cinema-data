@@ -8,6 +8,27 @@ runtime_min: 72
 external_ids:
   wikidata: Q4177576
   imdb: tt0167501
+  youtube: ZqX3XXGH0hU
 sources:
 - https://www.wikidata.org/wiki/Q4177576
 schema_version: 1
+director:
+- titov-viktor-abrosimovich
+screenwriter:
+- titov-viktor-abrosimovich
+cinematographer:
+- rerberg-georgy
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: bykov-rolan-antonovich
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: tabakov-oleg-pavlovich
+- person: leonov-evgeniy-pavlovich
+- person: gluzskiy-mikhail-andreevich
+- person: morgunov-evgeniy-aleksandrovich
+- person: basov-vladimir-pavlovich
+- person: durov-lev-konstantinovich
+- person: gerdt-zinoviy-efimovich
+studio:
+- mosfilm

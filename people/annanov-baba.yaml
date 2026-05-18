@@ -1,0 +1,9 @@
+id: annanov-baba
+name_ru: Баба Аннанов
+roles:
+- actor
+external_ids:
+  wikidata: Q4066616
+sources:
+- https://www.wikidata.org/wiki/Q4066616
+schema_version: 1

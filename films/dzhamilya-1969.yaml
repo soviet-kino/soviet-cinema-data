@@ -8,6 +8,24 @@ runtime_min: 83
 external_ids:
   wikidata: Q2266394
   imdb: tt0064269
+  youtube: uDk_TOzgAg4
 sources:
 - https://www.wikidata.org/wiki/Q2266394
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+- poplavskaya-irina-ivanovna
+screenwriter:
+- aytmatov-chingiz
+cinematographer:
+- kydyraliev-kadyrzhan-kydyralievich
+composer:
+- sidelnikov-nikolay-nikolaevich
+cast:
+- person: aytmatov-chingiz
+- person: arinbasarova-natalya-utevlevna
+- person: beyshenaliev-bolot
+- person: dzhangorozova-aliman-dzhanovna
+studio:
+- mosfilm
+- kyrgyzfilm

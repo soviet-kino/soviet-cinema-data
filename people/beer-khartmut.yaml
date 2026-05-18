@@ -1,0 +1,9 @@
+id: beer-khartmut
+name_ru: Хартмут Беер
+roles:
+- actor
+external_ids:
+  wikidata: Q1587372
+sources:
+- https://www.wikidata.org/wiki/Q1587372
+schema_version: 1

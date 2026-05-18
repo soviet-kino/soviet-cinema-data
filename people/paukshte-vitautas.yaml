@@ -1,0 +1,9 @@
+id: paukshte-vitautas
+name_ru: Витаутас Паукште
+roles:
+- actor
+external_ids:
+  wikidata: Q4347158
+sources:
+- https://www.wikidata.org/wiki/Q4347158
+schema_version: 1

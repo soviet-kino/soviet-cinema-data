@@ -8,6 +8,20 @@ runtime_min: 90
 external_ids:
   wikidata: Q4173998
   imdb: tt0171261
+  youtube: JpVsEEd-jjQ
 sources:
 - https://www.wikidata.org/wiki/Q4173998
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+screenwriter:
+- nilin-pavel-filippovich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: zolotukhin-valeriy
+- person: proklova-elena-igorevna
+studio:
+- lenfilm

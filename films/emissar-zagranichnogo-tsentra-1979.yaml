@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4531665
 schema_version: 1
+director:
+- breskanu-vasile
+cast:
+- person: breskanu-vasile
+studio:
+- moldova-film
