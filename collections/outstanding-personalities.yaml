@@ -1,0 +1,11 @@
+id: outstanding-personalities
+name_ru: Выдающиеся личности
+description_ru: >
+  Курированная подборка ключевых фигур советского кинематографа —
+  актёров, режиссёров, композиторов, сценаристов. Список расширяется
+  редакторами вручную; никаких автоматических «топов».
+people:
+  - nikulin-yuriy-vladimirovich
+  - smoktunovskiy-innokentiy-mikhaylovich
+  - leonov-evgeniy-pavlovich
+schema_version: 1
