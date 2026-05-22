@@ -8,6 +8,11 @@ runtime_min: 96
 external_ids:
   wikidata: Q65200176
   imdb: tt0185563
+  youtube: FSUrA5mUgZ0
 sources:
 - https://www.wikidata.org/wiki/Q65200176
 schema_version: 1
+director:
+- nikiforov-vyacheslav
+studio:
+- belarusfilm

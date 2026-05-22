@@ -8,6 +8,21 @@ runtime_min: 257
 external_ids:
   wikidata: Q4423270
   imdb: tt0274700
+  youtube: 5NGe3YTsxnc
 sources:
 - https://www.wikidata.org/wiki/Q4423270
 schema_version: 1
+director:
+- krotenko-yuriy-petrovich
+screenwriter:
+- lavrov-aleksandr-sergeevich
+- lavrova-olga-aleksandrovna
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: kanevskiy-leonid-semyonovich
+- person: lezhdey-elza-ivanovna
+- person: martynyuk-georgiy-yakovlevich
+- person: menglet-georgiy-pavlovich
+studio:
+- tsentralnoe-televidenie

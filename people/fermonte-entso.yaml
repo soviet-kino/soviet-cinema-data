@@ -1,0 +1,9 @@
+id: fermonte-entso
+name_ru: Энцо Фьермонте
+roles:
+- actor
+external_ids:
+  wikidata: Q524850
+sources:
+- https://www.wikidata.org/wiki/Q524850
+schema_version: 1

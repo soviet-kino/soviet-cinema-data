@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373796
 schema_version: 1
+director:
+- mass-vadim-semyonovich
+- ebner-yan-grigorevich
+cinematographer:
+- mass-vadim-semyonovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: gubenko-nikolay-nikolaevich
+- person: savyolova-svetlana-ivanovna
+studio:
+- rizhskaya-kinostudiya

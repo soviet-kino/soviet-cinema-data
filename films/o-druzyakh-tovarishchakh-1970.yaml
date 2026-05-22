@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4328834
 schema_version: 1
+director:
+- nazarov-vladimir-aleksandrovich
+screenwriter:
+- kuznetsov-vladimir-iovich
+composer:
+- khachaturyan-karen
+cast:
+- person: slavina-zinaida-anatolevna
+studio:
+- mosfilm

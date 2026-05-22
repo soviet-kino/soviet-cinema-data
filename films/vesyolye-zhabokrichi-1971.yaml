@@ -8,6 +8,23 @@ runtime_min: 69
 external_ids:
   wikidata: Q12088961
   imdb: tt5293100
+  youtube: Jh5_JaX1ZCI
 sources:
 - https://www.wikidata.org/wiki/Q12088961
 schema_version: 1
+director:
+- ivanov-viktor-mikhaylovich
+screenwriter:
+- ivanov-viktor-mikhaylovich
+cinematographer:
+- ivanov-mikhail-viktorovich
+composer:
+- buevskiy-boris-nikolaevich
+cast:
+- person: gritsenko-liliya-olimpievna
+- person: gritsenko-nikolay-olimpievich
+- person: epifantsev-georgiy-semyonovich
+- person: yakovchenko-nikolay-fyodorovich
+- person: belozyorova-lidiya-alekseevna
+studio:
+- kinostudiya-imeni-a-dovzhenko

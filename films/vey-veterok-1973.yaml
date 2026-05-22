@@ -8,6 +8,25 @@ runtime_min: 91
 external_ids:
   wikidata: Q4105943
   imdb: tt0852994
+  youtube: bUF74LlTd_k
 sources:
 - https://www.wikidata.org/wiki/Q4105943
 schema_version: 1
+director:
+- piesis-gunar
+screenwriter:
+- piesis-gunar
+cinematographer:
+- kleyns-martinsh
+composer:
+- kalnynsh-imants
+cast:
+- person: radzinya-elza-yanovna
+- person: gaudinsh-peteris
+- person: kayrisha-astrida
+- person: liedskalnynya-antra
+- person: freymane-lidiya-eduardovna
+- person: ermale-esmeralda
+- person: yakovlev-girt-aleksandrovich
+studio:
+- rizhskaya-kinostudiya

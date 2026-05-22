@@ -8,6 +8,24 @@ runtime_min: 88
 external_ids:
   wikidata: Q24957498
   imdb: tt0187433
+  youtube: 2zM6xlYnpvs
 sources:
 - https://www.wikidata.org/wiki/Q24957498
 schema_version: 1
+director:
+- malyan-genrikh
+- isaakyan-levon
+screenwriter:
+- yurovskiy-aleksandr-yakovlevich
+- galiev-anatoliy-sergeevich
+cinematographer:
+- vartanyan-zhirayr
+composer:
+- orbelyan-konstantin
+cast:
+- person: engibarov-leonid
+- person: varderesyan-vardui
+- person: isaakyan-stepan
+- person: gen-gurgen
+studio:
+- armenfilm

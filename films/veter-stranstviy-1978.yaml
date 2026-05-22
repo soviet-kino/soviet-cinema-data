@@ -8,6 +8,17 @@ runtime_min: 84
 external_ids:
   wikidata: Q4109963
   imdb: tt0170764
+  youtube: U8oda969t54
 sources:
 - https://www.wikidata.org/wiki/Q4109963
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+screenwriter:
+- printsev-yuzef-yakovlevich
+cinematographer:
+- machilskiy-aleksandr-sergeevich
+composer:
+- fradkin-mark
+studio:
+- kinostudiya-imeni-m-gorkogo

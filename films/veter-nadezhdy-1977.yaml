@@ -8,6 +8,11 @@ runtime_min: 72
 external_ids:
   wikidata: Q4109956
   imdb: tt0332813
+  youtube: _VaF56J7bHQ
 sources:
 - https://www.wikidata.org/wiki/Q4109956
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+studio:
+- kinostudiya-imeni-m-gorkogo

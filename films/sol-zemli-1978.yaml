@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4428540
 schema_version: 1
+director:
+- khamraev-iskander-abdurakhmanovich
+screenwriter:
+- markov-georgiy-mokeevich
+- shim-eduard-yurevich
+cast:
+- person: lavrov-kirill-yurevich
+- person: gluzskiy-mikhail-andreevich
+- person: fateeva-natalya-nikolaevna
+- person: egorov-gennadiy
+studio:
+- lenfilm

@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q4366987
   imdb: tt2396425
+  youtube: ZUK7Gw56vHo
 sources:
 - https://www.wikidata.org/wiki/Q4366987
 schema_version: 1
+director:
+- brench-aloiz
+composer:
+- pauls-raymond
+cast:
+- person: tsilinskiy-gunar-alfredovich
+- person: pleshkite-eugeniya
+- person: pyatronaytis-stasis
+studio:
+- rizhskaya-kinostudiya

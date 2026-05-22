@@ -8,6 +8,17 @@ runtime_min: 67
 external_ids:
   wikidata: Q117451559
   imdb: tt0072232
+  youtube: XtUC73hkC4g
 sources:
 - https://www.wikidata.org/wiki/Q117451559
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+screenwriter:
+- edlis-yuliu-filippovich
+cinematographer:
+- tutunov-gasan
+composer:
+- adler-efim-samuilovich
+studio:
+- kinostudiya-imeni-m-gorkogo

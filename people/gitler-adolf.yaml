@@ -1,0 +1,9 @@
+id: gitler-adolf
+name_ru: Адольф Гитлер
+roles:
+- actor
+external_ids:
+  wikidata: Q352
+sources:
+- https://www.wikidata.org/wiki/Q352
+schema_version: 1

@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12143253
 schema_version: 1
+director:
+- slesarenko-anatoliy-alekseevich
+cinematographer:
+- kuzmich-pishchikov-aleksandr
+composer:
+- slesarenko-anatoliy-alekseevich
+cast:
+- person: gasinov-zhorzh-inalovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

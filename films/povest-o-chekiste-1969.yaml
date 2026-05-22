@@ -8,6 +8,19 @@ runtime_min: 90
 external_ids:
   wikidata: Q4366418
   imdb: tt0314528
+  youtube: GYNYGuUZydA
 sources:
 - https://www.wikidata.org/wiki/Q4366418
 schema_version: 1
+director:
+- durov-boris
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- osipov-albert-nikanorovich
+composer:
+- marutaev-mikhail-aleksandrovich
+cast:
+- person: noreyka-laymonas
+studio:
+- odesskaya-kinostudiya

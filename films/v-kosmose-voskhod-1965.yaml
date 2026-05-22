@@ -11,3 +11,7 @@ sources:
 schema_version: 1
 topics:
 - cosmonautics
+director:
+- antonov-dmitriy-konstantinovich
+studio:
+- tsentrnauchfilm

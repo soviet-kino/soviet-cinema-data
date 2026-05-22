@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4443369
 schema_version: 1
+director:
+- shakhmalieva-ayan
+screenwriter:
+- minchkovskiy-arkadiy
+cinematographer:
+- veksler-yuriy-abramovich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: sergeecheva-margarita-vladimirovna
+studio:
+- lenfilm

@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4412804
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+screenwriter:
+- dunskiy-yuliy
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- khachaturyan-karen
+cast:
+- person: ranevskaya-faina-georgievna
+- person: koberidze-otar-leontevich
+- person: polbentseva-marina
+- person: chetverikov-vladimir-anatolevich
+studio:
+- lenfilm

@@ -8,6 +8,22 @@ runtime_min: 101
 external_ids:
   wikidata: Q4377594
   imdb: tt2678326
+  youtube: BYIBSG3SLHA
 sources:
 - https://www.wikidata.org/wiki/Q4377594
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- zarafyan-inna
+- monastyrskiy-boris-savelevich
+composer:
+- fradkin-mark
+cast:
+- person: kruglyy-lev-borisovich
+- person: plotnikov-sergey-nikolaevich
+- person: sarantsev-yuriy-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

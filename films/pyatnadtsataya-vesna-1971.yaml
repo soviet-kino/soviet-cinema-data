@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q15270988
   imdb: tt0192484
+  youtube: iU71CgsNBDk
 sources:
 - https://www.wikidata.org/wiki/Q15270988
 schema_version: 1
+director:
+- tumanyan-inessa
+screenwriter:
+- tumanyan-inessa
+- medovoy-boris-borisovich
+cinematographer:
+- ginzburg-valeriy
+composer:
+- tariverdiev-mikael
+cast:
+- person: drubich-tatyana-lyusenovna
+- person: kalyagin-aleksandr-aleksandrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

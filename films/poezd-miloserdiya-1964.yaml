@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4368560
 schema_version: 1
+director:
+- khamraev-iskander-abdurakhmanovich
+screenwriter:
+- panova-vera-fyodorovna
+cinematographer:
+- ryzhov-konstantin
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: lebedev-evgeniy-alekseevich
+- person: zubkov-valentin-ivanovich
+- person: popova-emma-anatolevna
+- person: ekaterininskiy-mikhail-klavdievich
+studio:
+- lenfilm

@@ -8,6 +8,29 @@ runtime_min: 92
 external_ids:
   wikidata: Q4315419
   imdb: tt0073442
+  youtube: DZHXRy-FTuM
 sources:
 - https://www.wikidata.org/wiki/Q4315419
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- bakhnov-vladlen-efimovich
+cinematographer:
+- poluyanov-sergey-sergeevich
+composer:
+- zatsepin-aleksandr
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: grebeshkova-nina
+- person: kramarov-saveliy-viktorovich
+- person: vitsin-georgiy-mikhaylovich
+- person: kivi-eve
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: dal-oleg-ivanovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: roninson-gotlib
+- person: svetin-mikhail-semyonovich
+- person: kryuchkova-svetlana
+studio:
+- mosfilm

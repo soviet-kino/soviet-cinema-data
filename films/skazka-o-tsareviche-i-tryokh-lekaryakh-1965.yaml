@@ -12,3 +12,11 @@ sources:
 schema_version: 1
 topics:
 - childrens-cinema
+screenwriter:
+- khitruk-fyodor-savelevich
+cinematographer:
+- gavrilov-anatoliy
+composer:
+- mukha-anton-ivanovich
+studio:
+- kievnauchfilm

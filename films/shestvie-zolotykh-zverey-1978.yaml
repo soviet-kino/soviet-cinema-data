@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994482
 schema_version: 1
+director:
+- vulfovich-teodor-yurevich
+screenwriter:
+- dombrovskiy-yuriy-osipovich
+- vulfovich-teodor-yurevich
+cinematographer:
+- epshteyn-viktor-yakovlevich
+composer:
+- vaynberg-moisey-samuilovich
+cast:
+- person: kryukov-nikolay-nikolaevich
+- person: balashov-vladimir-pavlovich
+- person: kuzmich-bubnov-stepan
+- person: volodina-margarita-vladimirovna
+- person: gladunko-lyudmila-mikhaylovna
+- person: ledogorov-igor-vadimovich
+- person: nikolay-konstantinovich-prokopovich
+- person: baykshtite-grazhina
+studio:
+- mosfilm

@@ -13,3 +13,13 @@ sources:
 schema_version: 1
 topics:
 - childrens-cinema
+director:
+- snezhko-blotskaya-aleksandra-gavrilovna
+screenwriter:
+- shklovskiy-viktor-borisovich
+cinematographer:
+- rizo-ekaterina-vasilevna
+composer:
+- geviksman-vitaliy-artemevich
+studio:
+- soyuzmultfilm

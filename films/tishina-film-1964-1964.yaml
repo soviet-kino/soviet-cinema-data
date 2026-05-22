@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4458827
 schema_version: 1
+director:
+- basov-vladimir-pavlovich
+screenwriter:
+- bondarev-yuriy
+- basov-vladimir-pavlovich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: luzhina-larisa-anatolevna
+- person: martynyuk-georgiy-yakovlevich
+- person: konyaev-vitaliy-anatolevich
+studio:
+- mosfilm

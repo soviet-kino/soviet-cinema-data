@@ -8,6 +8,19 @@ runtime_min: 95
 external_ids:
   wikidata: Q16389836
   imdb: tt0177245
+  youtube: SAKMCfUZ8Fk
 sources:
 - https://www.wikidata.org/wiki/Q16389836
 schema_version: 1
+director:
+- yuriy-nikolaevich-grigorovich
+- derbenyov-vadim-klavdievich
+composer:
+- khachaturyan-aram
+cast:
+- person: bessmertnova-nataliya
+- person: vasilev-vladimir-viktorovich
+- person: liepa-maris-rudolf-eduardovich
+- person: timofeeva-nina
+studio:
+- mosfilm

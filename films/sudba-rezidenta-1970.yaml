@@ -8,6 +8,18 @@ runtime_min: 157
 external_ids:
   wikidata: Q4445545
   imdb: tt0314736
+  youtube: 4sr3TpEyF5M
 sources:
 - https://www.wikidata.org/wiki/Q4445545
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- vostokov-vladimir-vladimirovich
+- gribanov-oleg-mikhaylovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: zhzhyonov-georgiy-stepanovich
+studio:
+- kinostudiya-imeni-m-gorkogo

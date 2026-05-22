@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48904
 schema_version: 1
+director:
+- ogly-babaev-arif-gadzhi
+screenwriter:
+- akhundova-alla
+cinematographer:
+- kerimov-valeri
+composer:
+- ogly-mirishli-ramiz-agil
+cast:
+- person: ogly-sadygov-guseynaga-alesker
+studio:
+- azerbaydzhanfilm

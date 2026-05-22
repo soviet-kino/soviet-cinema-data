@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4458735
 schema_version: 1
+director:
+- izrailev-mikhail
+screenwriter:
+- nagornyy-semyon-grigorevich
+cinematographer:
+- yakovlev-vadim
+cast:
+- person: filozov-albert-leonidovich
+- person: viklandt-olga-arturovna
+- person: milyutin-aleksandr-nikolaevich
+- person: pitsek-vladimir-kondratevich
+- person: sanko-yola-ivanovna
+- person: sarantsev-yuriy-dmitrievich
+- person: vetlova-evgeniya-aleksandrovna
+studio:
+- moldova-film

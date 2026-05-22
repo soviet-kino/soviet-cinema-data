@@ -8,6 +8,22 @@ runtime_min: 74
 external_ids:
   wikidata: Q4463771
   imdb: tt0176246
+  youtube: JlJRgk1muvc
 sources:
 - https://www.wikidata.org/wiki/Q4463771
 schema_version: 1
+director:
+- babayan-agasi-arutyunovich
+screenwriter:
+- belokurov-leonid-anatolevich
+cinematographer:
+- kaznin-anatoliy-mikhaylovich
+composer:
+- partskhaladze-merab
+cast:
+- person: sichkin-boris-mikhaylovich
+- person: tolbuzin-arkadiy-nikolaevich
+- person: orlovskiy-dmitriy-dmitrievich
+- person: sergeev-filimon-ivanovich
+studio:
+- tsentrnauchfilm

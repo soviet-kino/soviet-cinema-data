@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4462643
 schema_version: 1
+director:
+- drevil-zhan
+screenwriter:
+- galich-aleksandr-arkadevich
+cinematographer:
+- ryzhov-konstantin
+composer:
+- simonyan-nadezhda
+cast:
+- person: segal-zhil
+- person: strizhenov-oleg-aleksandrovich
+- person: cherkasov-nikolay-konstantinovich
+- person: emelyanov-vladimir-nikolaevich
+- person: gurova-liliya-ivanovna
+- person: kuzmin-nikolay-alekseevich
+- person: larionova-alla-dmitrievna
+- person: nilov-gennadiy-petrovich
+- person: piletskaya-tatyana-lvovna
+- person: polezhaev-sergey-aleksandrovich
+- person: sverdlova-roza-mironovna
+- person: strzhelchik-vladislav-ignatevich
+- person: strizhenova-marianna-aleksandrovna
+- person: trofimov-nikolay-nikolaevich
+- person: fesyunov-stanislav-ivanovich
+- person: velichko-natalya-yakovlevna
+- person: vasilev-mikhail-pavlovich
+studio:
+- lenfilm

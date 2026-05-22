@@ -8,6 +8,24 @@ runtime_min: 63
 external_ids:
   wikidata: Q122400211
   imdb: tt4971300
+  youtube: wJCvhzeg6sA
 sources:
 - https://www.wikidata.org/wiki/Q122400211
 schema_version: 1
+director:
+- ponomaryov-valeriy
+screenwriter:
+- dudarev-aleksey-anufrievich
+cinematographer:
+- sukhanova-anastasiya
+composer:
+- ivanov-valeriy-kirillovich
+cast:
+- person: burkov-georgiy-ivanovich
+- person: nikishchikhina-elizaveta-sergeevna
+- person: nosik-vladimir
+- person: rozantseva-nina-ustinovna
+- person: kuleshov-vladimir-alekseevich
+- person: matveev-ivan
+studio:
+- belarusfilm

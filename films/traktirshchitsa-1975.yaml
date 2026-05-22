@@ -8,6 +8,15 @@ runtime_min: 75
 external_ids:
   wikidata: Q4461815
   imdb: tt6170950
+  youtube: 4hFadweWOe8
 sources:
 - https://www.wikidata.org/wiki/Q4461815
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+cast:
+- person: gundareva-natalya-georgievna
+- person: vavilov-oleg-mikhaylovich
+- person: lazarev-evgeniy-nikolaevich
+studio:
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu

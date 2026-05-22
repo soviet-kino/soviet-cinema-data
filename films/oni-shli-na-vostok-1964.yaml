@@ -8,6 +8,33 @@ runtime_min: 153
 external_ids:
   wikidata: Q1640074
   imdb: tt0059323
+  youtube: ylLLA9Q5kqU
 sources:
 - https://www.wikidata.org/wiki/Q1640074
 schema_version: 1
+director:
+- dzhuzeppe-de-santis
+- vasilev-dmitriy-ivanovich
+screenwriter:
+- dzhuzeppe-de-santis
+- konchini-ennio-de
+- smirnov-sergey-sergeevich
+cinematographer:
+- sekki-antonio
+composer:
+- trovayoli-armando
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: samoylova-tatyana-evgenevna
+- person: kennedi-artur
+- person: kuchcholla-rikkardo
+- person: falk-piter
+- person: kekki-andrea
+- person: vingelli-nino
+- person: koberidze-otar-leontevich
+- person: perniche-dzhino
+- person: pizu-raffaele
+- person: lezhdey-elza-ivanovna
+- person: prygunov-lev-georgievich
+studio:
+- mosfilm

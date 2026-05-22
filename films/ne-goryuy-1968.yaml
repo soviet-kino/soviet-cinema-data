@@ -8,6 +8,30 @@ runtime_min: 94
 external_ids:
   wikidata: Q2003684
   imdb: tt0123186
+  youtube: M6KxVntypo4
 sources:
 - https://www.wikidata.org/wiki/Q2003684
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- gabriadze-rezo
+cinematographer:
+- yusov-vadim
+composer:
+- kancheli-giya-aleksandrovich
+cast:
+- person: vertinskaya-anastasiya-aleksandrovna
+- person: kikabidze-vakhtang
+- person: chiaureli-sofiko-mikhaylovna
+- person: leonov-evgeniy-pavlovich
+- person: andzhaparidze-veriko-ivlianovna
+- person: shengelaya-ariadna-vsevolodovna
+- person: kapianidze-zurab-vasilevich
+- person: abashidze-david-ivanovich
+- person: zakariadze-sergo-aleksandrovich
+- person: ilich-sakandelidze-karlo
+studio:
+- gruziya-film
+- mosfilm
+poster_commons: Stamps of Georgia, 2003-01.jpg

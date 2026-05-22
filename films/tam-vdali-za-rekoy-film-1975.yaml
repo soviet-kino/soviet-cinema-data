@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q61788266
 schema_version: 1
+director:
+- ilenko-mikhail
+screenwriter:
+- mitko-evgeniy
+cinematographer:
+- ilenko-vadim-gerasimovich
+composer:
+- ilin-vadim-grigorevich
+cast:
+- person: ivanov-vladimir-vladimirovich
+- person: mazhuga-yuriy-nikolaevich
+- person: shevchuk-irina-borisovna
+- person: shpudeyko-vladimir-vasilevich
+- person: kondratova-svetlana-vasilevna
+- person: olekseenko-vladimir-fadeevich
+- person: shakalo-vladimir-petrovich
+- person: podubinskiy-andrey-mironovich
+- person: dubrovin-yuriy-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

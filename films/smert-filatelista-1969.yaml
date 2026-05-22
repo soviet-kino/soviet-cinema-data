@@ -8,6 +8,18 @@ runtime_min: 85
 external_ids:
   wikidata: Q4424421
   imdb: tt0274720
+  youtube: UpzSXAWh0kI
 sources:
 - https://www.wikidata.org/wiki/Q4424421
 schema_version: 1
+director:
+- kalatozishvili-georgiy-mikhaylovich
+screenwriter:
+- kalatozishvili-georgiy-mikhaylovich
+composer:
+- pevzner-konstantin-grigorevich
+cast:
+- person: chkhikvadze-ramaz-grigorevich
+- person: tokhadze-givi-maksimovich
+studio:
+- gruziya-film

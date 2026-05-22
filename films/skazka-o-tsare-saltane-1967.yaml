@@ -8,8 +8,25 @@ runtime_min: 122
 external_ids:
   wikidata: Q1169922
   imdb: tt0174207
+  youtube: f0Sfwa9VqT8
 sources:
 - https://www.wikidata.org/wiki/Q1169922
 schema_version: 1
 topics:
 - childrens-cinema
+director:
+- ptushko-aleksandr
+screenwriter:
+- ptushko-aleksandr
+- geleyn-igor-vladimirovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: vidov-oleg-borisovich
+- person: andreev-vladimir-alekseevich
+- person: golubkina-larisa-ivanovna
+- person: ryabinkina-kseniya-lvovna
+studio:
+- mosfilm

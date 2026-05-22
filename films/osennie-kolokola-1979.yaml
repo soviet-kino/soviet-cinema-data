@@ -8,6 +8,16 @@ runtime_min: 74
 external_ids:
   wikidata: Q2533279
   imdb: tt0080426
+  youtube: y1u-7yy5e4A
 sources:
 - https://www.wikidata.org/wiki/Q2533279
 schema_version: 1
+director:
+- gorikker-vladimir-mikhaylovich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cast:
+- person: alfyorova-irina-ivanovna
+- person: millyar-georgiy-frantsevich
+studio:
+- kinostudiya-imeni-m-gorkogo

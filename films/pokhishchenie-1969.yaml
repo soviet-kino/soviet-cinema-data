@@ -8,6 +8,24 @@ runtime_min: 212
 external_ids:
   wikidata: Q4375060
   imdb: tt2924426
+  youtube: ga5Xj8gK-Dw
 sources:
 - https://www.wikidata.org/wiki/Q4375060
 schema_version: 1
+director:
+- saakov-yuriy
+screenwriter:
+- papernyy-zinoviy-samoylovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- gamaliya-vadim-aleksandrovich
+- sandler-oskar-aronovich
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: kramarov-saveliy-viktorovich
+- person: anofriev-oleg-andreevich
+- person: steblov-evgeniy-yurevich
+studio:
+- tsentralnoe-televidenie
+- ekran

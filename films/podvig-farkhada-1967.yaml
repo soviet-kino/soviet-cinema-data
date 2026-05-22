@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4367108
 schema_version: 1
+director:
+- khachaturov-albert-iosifovich
+screenwriter:
+- rakhimov-ibragim-abdurakhimovich
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: skulme-valentins
+- person: artmane-viya
+- person: noreyka-laymonas
+- person: khamraev-dzhavlon-razzakovich
+studio:
+- uzbekfilm

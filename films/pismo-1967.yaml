@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130292844
 schema_version: 1
+composer:
+- ptichkin-evgeniy
+cast:
+- person: vikkel-larisa-viktorovna
+- person: lebedev-aleksandr-ivanovich
+- person: konovalova-svetlana-sergeevna
+- person: komarova-galina
+studio:
+- mosfilm

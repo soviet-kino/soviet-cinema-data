@@ -1,0 +1,9 @@
+id: sklenchka-ota
+name_ru: Ота Скленчка
+roles:
+- actor
+external_ids:
+  wikidata: Q3505584
+sources:
+- https://www.wikidata.org/wiki/Q3505584
+schema_version: 1

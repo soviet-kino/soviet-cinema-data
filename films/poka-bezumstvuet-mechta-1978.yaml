@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4369002
 schema_version: 1
+director:
+- gorkovenko-yuriy
+screenwriter:
+- aksyonov-vasiliy-pavlovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: karachentsov-nikolay
+studio:
+- mosfilm

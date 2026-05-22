@@ -8,6 +8,18 @@ runtime_min: 99
 external_ids:
   wikidata: Q4379897
   imdb: tt3279918
+  youtube: al7aJfBOZsw
 sources:
 - https://www.wikidata.org/wiki/Q4379897
 schema_version: 1
+composer:
+- kompozitor-vlasov-viktor-petrovich
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: titova-valentina-antipovna
+- person: ilich-zharikov-evgeniy
+- person: karapetyan-artyom-yakovlevich
+- person: nilov-gennadiy-petrovich
+- person: strizhenov-gleb-aleksandrovich
+studio:
+- odesskaya-kinostudiya

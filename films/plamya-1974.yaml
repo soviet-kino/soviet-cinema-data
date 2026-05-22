@@ -7,6 +7,22 @@ country:
 external_ids:
   wikidata: Q4364375
   imdb: tt3517224
+  youtube: EszLWPfjHk8
 sources:
 - https://www.wikidata.org/wiki/Q4364375
 schema_version: 1
+director:
+- chetverikov-vitaliy-pavlovich
+screenwriter:
+- buravkin-gennadiy-nikolaevich
+- khalip-vladimir-trofimovich
+cinematographer:
+- olifer-boris-alekseevich
+cast:
+- person: tarasov-viktor
+- person: khasse-khanno
+- person: kayurov-yuriy-ivanovich
+- person: nevedomskiy-leonid
+- person: kobaladze-andrey-aleksandrovich
+studio:
+- belarusfilm

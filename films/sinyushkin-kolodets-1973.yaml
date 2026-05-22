@@ -8,6 +8,13 @@ runtime_min: 16
 external_ids:
   wikidata: Q21644403
   imdb: tt6044926
+  youtube: cl6O0u3gKlg
 sources:
 - https://www.wikidata.org/wiki/Q21644403
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+composer:
+- rodygin-evgeniy-pavlovich
+studio:
+- sverdlovskaya-kinostudiya

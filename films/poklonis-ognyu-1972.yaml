@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q106775385
   imdb: tt0174124
+  youtube: 6d155_A7-EU
 sources:
 - https://www.wikidata.org/wiki/Q106775385
 schema_version: 1
+director:
+- okeev-tolomush-okeevich
+screenwriter:
+- okeev-tolomush-okeevich
+cinematographer:
+- kydyraliev-kadyrzhan-kydyralievich
+studio:
+- kyrgyzfilm

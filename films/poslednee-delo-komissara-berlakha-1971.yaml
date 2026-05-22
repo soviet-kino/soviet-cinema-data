@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373724
 schema_version: 1
+director:
+- levin-vasiliy-nikolaevich
+screenwriter:
+- shemshurin-andrey
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- zatsepin-aleksandr
+- dvoskin-aleksandr
+cast:
+- person: simonov-nikolay-konstantinovich
+studio:
+- odesskaya-kinostudiya

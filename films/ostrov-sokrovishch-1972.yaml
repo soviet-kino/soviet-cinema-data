@@ -8,6 +8,26 @@ runtime_min: 82
 external_ids:
   wikidata: Q4338885
   imdb: tt0167326
+  youtube: SJFWzHcSnwQ
 sources:
 - https://www.wikidata.org/wiki/Q4338885
 schema_version: 1
+director:
+- fridman-evgeniy-vladimirovich
+screenwriter:
+- fridman-evgeniy-vladimirovich
+composer:
+- rybnikov-aleksey
+cast:
+- person: andreev-boris-fyodorovich
+- person: avens-khariy
+- person: shagalova-lyudmila-aleksandrovna
+- person: fayt-andrey-andreevich
+- person: masyulis-algimantas-ionovich
+- person: laanemets-aare
+- person: grammatikov-vladimir-aleksandrovich
+- person: klass-igor
+- person: noreyka-laymonas
+- person: tomkus-vitautas-romualdas
+studio:
+- kinostudiya-imeni-m-gorkogo

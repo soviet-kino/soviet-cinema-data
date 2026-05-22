@@ -22,3 +22,6 @@ composer:
 studio:
 - tallinfilm
 - defa
+cast:
+- person: lorents-viktor
+- person: ird-kaarel

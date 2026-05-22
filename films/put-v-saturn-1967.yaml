@@ -8,6 +8,22 @@ runtime_min: 78
 external_ids:
   wikidata: Q4384425
   imdb: tt0168139
+  youtube: r_JtfoLHkYU
 sources:
 - https://www.wikidata.org/wiki/Q4384425
 schema_version: 1
+director:
+- azarov-villen-abramovich
+screenwriter:
+- azarov-villen-abramovich
+- ardamatskiy-vasiliy
+- bleyman-mikhail-yurevich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+cast:
+- person: talyzina-valentina
+- person: zhzhyonov-georgiy-stepanovich
+- person: volkov-mikhail-davidovich
+- person: kuznetsov-evgeniy-borisovich
+studio:
+- mosfilm

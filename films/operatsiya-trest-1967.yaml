@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4335311
 schema_version: 1
+director:
+- kolosov-sergey-nikolaevich
+screenwriter:
+- yurovskiy-aleksandr-yakovlevich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- levitin-yuriy
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: kasatkina-lyudmila-ivanovna
+- person: gorbachyov-igor-olegovich
+studio:
+- mosfilm

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4329876
 schema_version: 1
+director:
+- orlov-mark-evseevich
+screenwriter:
+- popov-vladimir-fyodorovich
+- orlov-mark-evseevich
+cinematographer:
+- zelma-timur-georgievich
+composer:
+- efremov-igor-leonidovich
+cast:
+- person: shelokhonov-pyotr-illarionovich
+- person: zhzhyonov-georgiy-stepanovich
+- person: pereverzev-ivan-fyodorovich
+- person: mikhaylov-aleksandr-yakovlevich
+- person: dekhtyaryova-zinaida-nikolaevna
+- person: karnovich-valua-gennadiy-sergeevich
+- person: lebedev-nikolay-sergeevich
+- person: nevedomskiy-leonid
+- person: fateeva-natalya-nikolaevna
+studio:
+- ekran

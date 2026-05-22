@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994453
 schema_version: 1
+director:
+- granik-anatoliy-mikhaylovich
+screenwriter:
+- kuraev-mikhail-nikolaevich
+cinematographer:
+- kolganov-lev-nikolaevich
+- stroganov-nikolay-ivanovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: kayurov-yuriy-ivanovich
+- person: gromadskiy-roman
+- person: mateshko-anatoliy-nikolaevich
+- person: pustokhin-anatoliy-feofanovich
+studio:
+- lenfilm

@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12838508
 schema_version: 1
+director:
+- kb-rov-hafiz
+screenwriter:
+- rustamkhanly-sabir
+- kerimov-pasha
+cinematographer:
+- amirov-rafik
+composer:
+- ogly-mirzazade-khayyam-khady
+studio:
+- azerbaydzhanfilm

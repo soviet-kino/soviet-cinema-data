@@ -8,6 +8,34 @@ runtime_min: 82
 external_ids:
   wikidata: Q1982098
   imdb: tt0063369
+  youtube: Lm6VVVkPm2s
 sources:
 - https://www.wikidata.org/wiki/Q1982098
 schema_version: 1
+director:
+- keosayan-edmond
+screenwriter:
+- keosayan-edmond
+- makarov-artur-sergeevich
+cinematographer:
+- dobronravov-fyodor
+composer:
+- frenkel-yan-abramovich
+cast:
+- person: kopelyan-efim-zakharovich
+- person: dzhigarkhanyan-armen-borisovich
+- person: sichkin-boris-mikhaylovich
+- person: kramarov-saveliy-viktorovich
+- person: svetlichnaya-svetlana-afanasevna
+- person: pereverzev-ivan-fyodorovich
+- person: vesnik-evgeniy-yakovlevich
+- person: ivashov-vladimir-sergeevich
+- person: vasilev-vasiliy-fyodorovich
+- person: kosykh-viktor
+- person: kurdyukova-valentina-alekseevna
+- person: metyolkin-mikhail-mikhaylovich
+- person: sorokin-konstantin-nikolaevich
+- person: tolbuzin-arkadiy-nikolaevich
+- person: fedortsov-nikolay-pavlovich
+studio:
+- mosfilm

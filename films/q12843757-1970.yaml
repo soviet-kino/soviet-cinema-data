@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12843757
 schema_version: 1
+director:
+- q12843443
+screenwriter:
+- ogly-kerimzade-farman-ismail
+cinematographer:
+- q12843011
+- zeynalov-nadir

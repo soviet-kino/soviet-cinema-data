@@ -7,6 +7,12 @@ country:
 external_ids:
   wikidata: Q81694205
   imdb: tt0056519
+  youtube: B3ZJETPUqw4
 sources:
 - https://www.wikidata.org/wiki/Q81694205
 schema_version: 1
+director:
+- bukovskiy-anatoliy-sergeevich
+- bryunchugin-evgeniy-vasilevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

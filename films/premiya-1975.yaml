@@ -8,6 +8,23 @@ runtime_min: 85
 external_ids:
   wikidata: Q4376921
   imdb: tt0072027
+  youtube: MpA9qXWAIO8
 sources:
 - https://www.wikidata.org/wiki/Q4376921
 schema_version: 1
+director:
+- mikaelyan-sergey
+screenwriter:
+- gelman-aleksandr-isaakovich
+cinematographer:
+- chumak-vladimir-gavriilovich
+cast:
+- person: yankovsky-oleg
+- person: dzhigarkhanyan-armen-borisovich
+- person: leonov-evgeniy-pavlovich
+- person: brondukov-borislav-nikolaevich
+- person: gluzskiy-mikhail-andreevich
+- person: samoylov-vladimir-yakovlevich
+- person: kryuchkova-svetlana
+studio:
+- lenfilm

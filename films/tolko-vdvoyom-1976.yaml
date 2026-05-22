@@ -8,6 +8,19 @@ runtime_min: 81
 external_ids:
   wikidata: Q4460056
   imdb: tt2194701
+  youtube: Vdx_GSeW1Cw
 sources:
 - https://www.wikidata.org/wiki/Q4460056
 schema_version: 1
+director:
+- kuznetsov-georgiy-mikhaylovich
+screenwriter:
+- tobolyak-anatoliy-samuilovich
+cinematographer:
+- lesnikov-anatoliy-egorovich
+composer:
+- krylatov-evgeniy
+cast:
+- person: kolesnikov-sergey-valentinovich
+studio:
+- sverdlovskaya-kinostudiya

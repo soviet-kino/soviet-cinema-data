@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16628782
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- ivanov-semyon-nikolaevich
+composer:
+- maklakov-vladimir-alekseevich
+studio:
+- lenfilm

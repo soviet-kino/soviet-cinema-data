@@ -8,6 +8,26 @@ runtime_min: 93
 external_ids:
   wikidata: Q4424041
   imdb: tt0063615
+  youtube: e7P3QbcI91U
 sources:
 - https://www.wikidata.org/wiki/Q4424041
 schema_version: 1
+director:
+- karelov-evgeniy
+screenwriter:
+- frid-valeriy
+- dunskiy-yuliy
+composer:
+- ptichkin-evgeniy
+cast:
+- person: vysotskiy-vladimir
+- person: smekhov-veniamin-borisovich
+- person: yankovsky-oleg
+- person: bykov-rolan-antonovich
+- person: savvina-iya-sergeevna
+- person: papanov-anatoliy-dmitrievich
+- person: burlyaev-nikolai
+- person: budraytis-yuozas-stanislavas
+- person: sperantova-valentina-aleksandrovna
+studio:
+- mosfilm

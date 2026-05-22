@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4535769
 schema_version: 1
+director:
+- poplavskaya-irina-ivanovna
+screenwriter:
+- aytmatov-chingiz
+cinematographer:
+- shuvalov-valeriy-pavlovich
+- kydyraliev-kadyrzhan-kydyralievich
+composer:
+- muravlyov-aleksey-alekseevich
+cast:
+- person: chokmorov-suymenkul
+- person: baktygereev-mukhtar
+studio:
+- mosfilm

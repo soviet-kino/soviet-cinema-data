@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116811373
 schema_version: 1
+director:
+- lysenko-vadim-grigorevich
+screenwriter:
+- pozhenyan-grigoriy
+cinematographer:
+- burlaka-leonid-antonovich
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: pavlov-viktor-pavlovich
+- person: stepankov-konstantin-petrovich
+- person: burenkov-evgeniy-dmitrievich
+- person: gay-grigoriy-aronovich
+- person: dupak-nikolay-lukyanovich
+- person: kozelkova-elena-georgievna
+- person: paulus-vladlen-vladimirovich
+- person: skorobogatov-nikolay-arkadevich
+studio:
+- odesskaya-kinostudiya

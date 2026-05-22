@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3514879
 schema_version: 1
+director:
+- krenbergs-imants
+cast:
+- person: brike-indra
+studio:
+- rizhskaya-kinostudiya

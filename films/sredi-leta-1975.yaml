@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130382340
 schema_version: 1
+director:
+- ilyashenko-vasiliy-vasilevich
+cinematographer:
+- garmash-yuriy-timofeevich
+composer:
+- bilash-aleksandr-ivanovich
+cast:
+- person: stupka-bogdan-silvestrovich
+- person: stepankov-konstantin-petrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

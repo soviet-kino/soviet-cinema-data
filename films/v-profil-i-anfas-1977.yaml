@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101796
 schema_version: 1
+director:
+- lukyanov-nikolay-valentinovich
+- efremov-aleksandr-vasilevich
+screenwriter:
+- grigorev-evgeniy-aleksandrovich
+cast:
+- person: kalyagin-aleksandr-aleksandrovich
+- person: gostyukhin-vladimir
+- person: kochetkov-afanasiy-ivanovich
+studio:
+- belarusfilm

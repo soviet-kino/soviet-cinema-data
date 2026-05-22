@@ -8,6 +8,20 @@ runtime_min: 70
 external_ids:
   wikidata: Q4366084
   imdb: tt0188146
+  youtube: 3LX__tSBwhk
 sources:
 - https://www.wikidata.org/wiki/Q4366084
 schema_version: 1
+director:
+- mikhaylovskiy-valeriy-isaevich
+screenwriter:
+- khrutskiy-eduard-anatolevich
+composer:
+- movsesyan-georgiy
+cast:
+- person: krynkin-gennadiy-yakovlevich
+- person: nevedomskiy-leonid
+- person: solovyov-aleksandr-ivanovich
+- person: eybozhenko-aleksey-sergeevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,22 @@ runtime_min: 75
 external_ids:
   wikidata: Q4425356
   imdb: tt0372040
+  youtube: dqVWSgXToBk
 sources:
 - https://www.wikidata.org/wiki/Q4425356
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- krylatov-evgeniy
+cast:
+- person: savvina-iya-sergeevna
+- person: drubich-tatyana-lyusenovna
+- person: proklova-elena-igorevna
+- person: kalyagin-aleksandr-aleksandrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16369107
 schema_version: 1
+director:
+- oganesyan-bagrat
+screenwriter:
+- matevosyan-grant
+cinematographer:
+- mesyan-karen
+composer:
+- mansuryan-tigran
+cast:
+- person: karapetyan-artyom-yakovlevich
+- person: manukyan-guzh
+- person: sherents-azat-armenakovich
+- person: sarkisov-leonard-sarkisovich
+- person: dzhanibekyan-karen
+- person: petrosyan-nonna
+- person: aznavuryan-arus
+- person: tovmasyan-zhanna
+- person: gukasyan-anait
+- person: grigoryan-mayranush
+studio:
+- armenfilm

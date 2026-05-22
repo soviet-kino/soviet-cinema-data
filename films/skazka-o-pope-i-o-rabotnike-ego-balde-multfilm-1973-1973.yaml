@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4421386
   imdb: tt4265192
+  youtube: 3-mPf1Vr6gs
 sources:
 - https://www.wikidata.org/wiki/Q4421386
 schema_version: 1
+director:
+- kovalevskaya-inessa-alekseevna
+cinematographer:
+- druyan-mikhail
+composer:
+- bykanov-anatoliy-dmitrievich
+studio:
+- soyuzmultfilm

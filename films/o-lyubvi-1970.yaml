@@ -8,6 +8,23 @@ runtime_min: 73
 external_ids:
   wikidata: Q4328844
   imdb: tt0066170
+  youtube: jai2ubfGoiU
 sources:
 - https://www.wikidata.org/wiki/Q4328844
 schema_version: 1
+director:
+- bogin-mikhail
+screenwriter:
+- bogin-mikhail
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- krylatov-evgeniy
+cast:
+- person: andersson-bibi
+- person: yankovsky-oleg
+- person: gaft-valentin-iosifovich
+- person: dreyden-sergey-simonovich
+- person: fyodorova-viktoriya-yakovlevna
+studio:
+- kinostudiya-imeni-m-gorkogo

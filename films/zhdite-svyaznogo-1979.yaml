@@ -8,6 +8,20 @@ runtime_min: 78
 external_ids:
   wikidata: Q4178563
   imdb: tt0280633
+  youtube: n4PeWRL42to
 sources:
 - https://www.wikidata.org/wiki/Q4178563
 schema_version: 1
+director:
+- koberidze-otar-leontevich
+screenwriter:
+- koberidze-otar-leontevich
+- zbanatskiy-grigoriy-oliferovich
+- bryunchugin-evgeniy-vasilevich
+cinematographer:
+- kalyuta-vilen-aleksandrovich
+composer:
+- kakhidze-dzhansug-ivanovich
+studio:
+- gruziya-film
+- kinostudiya-imeni-a-dovzhenko

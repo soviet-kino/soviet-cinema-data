@@ -8,6 +8,17 @@ runtime_min: 81
 external_ids:
   wikidata: Q4333668
   imdb: tt0177065
+  youtube: ebyn3Ci51dM
 sources:
 - https://www.wikidata.org/wiki/Q4333668
 schema_version: 1
+director:
+- ivchenko-boris-viktorovich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- guba-vladimir
+cast:
+- person: chursina-lyudmila-alekseevna
+studio:
+- kinostudiya-imeni-a-dovzhenko

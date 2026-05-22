@@ -14,9 +14,25 @@ sources:
 schema_version: 1
 director:
 - shukshin-vasiliy-makarovich
+- shukshin-vasiliy
 screenwriter:
 - shukshin-vasiliy-makarovich
+- shukshin-vasiliy
 cinematographer:
 - ginzburg-valeriy
 studio:
 - kinostudiya-imeni-m-gorkogo
+cast:
+- person: akhmadulina-bella-akhatovna
+- person: zueva-anastasiya-platonovna
+- person: kuravlyov-leonid-vyacheslavovich
+- person: balakin-boris-ivanovich
+- person: ivanova-nina-georgievna
+- person: nakhapetov-rodion-rafailovich
+- person: romanov-boris-ivanovich
+- person: ryzhov-ivan-petrovich
+- person: sazonova-nina-afanasevna
+- person: smirnov-vladimir-fyodorovich
+- person: trusov-arkadiy-vasilevich
+- person: fedortsov-nikolay-pavlovich
+- person: teterin-evgeniy-efimovich

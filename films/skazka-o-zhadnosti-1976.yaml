@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q56356158
   imdb: tt9045084
+  youtube: YG92SLQF-As
 sources:
 - https://www.wikidata.org/wiki/Q56356158
 schema_version: 1
+director:
+- khranevich-boris-alekseevich
+screenwriter:
+- sapgir-genrikh
+- prokofeva-sofya-leonidovna
+studio:
+- kievnauchfilm

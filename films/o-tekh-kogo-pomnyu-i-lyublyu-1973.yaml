@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15985069
 schema_version: 1
+director:
+- troshchenko-natalya-vladimirovna
+- vekhotko-anatoliy-timofeevich
+screenwriter:
+- metalnikov-budimir-alekseevich
+cinematographer:
+- chechulin-aleksandr-mikhaylovich
+composer:
+- slonimskiy-sergey-mikhaylovich
+cast:
+- person: zolotukhin-valeriy
+- person: vasileva-ekaterina-sergeevna
+- person: sabelnikova-evgeniya-alekseevna
+- person: fyodorova-viktoriya-yakovlevna
+studio:
+- lenfilm

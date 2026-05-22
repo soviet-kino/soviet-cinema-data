@@ -8,6 +8,17 @@ runtime_min: 83
 external_ids:
   wikidata: Q25396283
   imdb: tt0314544
+  youtube: 8tHqUzPr8lU
 sources:
 - https://www.wikidata.org/wiki/Q25396283
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+cinematographer:
+- yakushev-viktor-mikhaylovich
+composer:
+- babushkin-viktor-borisovich
+cast:
+- person: spiridonov-vadim-semyonovich
+studio:
+- mosfilm

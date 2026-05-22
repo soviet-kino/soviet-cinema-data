@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16354139
 schema_version: 1
+director:
+- veldre-biruta
+screenwriter:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+- lapinsh-alvis
+- veldre-biruta
+cinematographer:
+- pilipson-genrikh
+- q131745579
+- q136659677
+composer:
+- straume-egils
+cast:
+- person: tsilinskiy-gunar-alfredovich
+- person: berzinya-lilita
+- person: sebris-karlis
+- person: baumane-lutsiya-albertovna
+- person: paul-paulovich-butkevich
+- person: livmane-akvelina
+- person: strenga-yuris
+- person: kuplays-yanis
+- person: ziemele-ausma
+- person: zusmanis-karlis
+- person: gogichayshvili-iosif
+- person: emirova-amaliya
+- person: karnitis-valdis
+- person: luse-liene
+- person: q136663281
+- person: yurisons-egil
+studio:
+- rizhskaya-kinostudiya

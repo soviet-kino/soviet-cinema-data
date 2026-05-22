@@ -1,0 +1,9 @@
+id: volshaninova-rada
+name_ru: Рада Волшанинова
+roles:
+- actor
+external_ids:
+  wikidata: Q4387090
+sources:
+- https://www.wikidata.org/wiki/Q4387090
+schema_version: 1

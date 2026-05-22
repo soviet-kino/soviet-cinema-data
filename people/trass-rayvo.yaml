@@ -1,0 +1,9 @@
+id: trass-rayvo
+name_ru: Райво Трасс
+roles:
+- actor
+external_ids:
+  wikidata: Q4462206
+sources:
+- https://www.wikidata.org/wiki/Q4462206
+schema_version: 1

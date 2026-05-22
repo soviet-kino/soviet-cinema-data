@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16086650
 schema_version: 1
+director:
+- radomir-sharanovich
+cast:
+- person: boyanich-dragomir
+- person: vladimir-popovich
+- person: yanketich-mikhaylo
+studio:
+- kinostudiya-imeni-a-dovzhenko
+- zeta-film

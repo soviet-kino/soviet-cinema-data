@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109455
 schema_version: 1
+director:
+- ruf-maksim-abramovich
+- frid-yan-borisovich
+cast:
+- person: treshchalov-vladimir-leonidovich
+studio:
+- lenfilm

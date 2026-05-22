@@ -8,6 +8,27 @@ runtime_min: 95
 external_ids:
   wikidata: Q4522740
   imdb: tt0067745
+  youtube: 1O_uyntOEFw
 sources:
 - https://www.wikidata.org/wiki/Q4522740
 schema_version: 1
+director:
+- tutyshkin-andrey-petrovich
+screenwriter:
+- tutyshkin-andrey-petrovich
+composer:
+- solovyov-sedoy-vasiliy-pavlovich
+cast:
+- person: aroseva-olga-aleksandrovna
+- person: pugovkin-mikhail-ivanovich
+- person: fyodorova-zoya-alekseevna
+- person: dalskiy-vladimir-mikhaylovich
+- person: korolkevich-anatoliy-vikentevich
+- person: medvedev-yuriy-nikolaevich
+- person: polbentseva-marina
+- person: polevoy-aleksey-leonidovich
+- person: senchina-lyudmila
+- person: ozerov-igor-vyacheslavovich
+- person: korneva-lyubov-aleksandrovna
+studio:
+- lenfilm

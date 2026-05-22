@@ -23,6 +23,16 @@ cast:
   role: Мать / Наталья
 - person: yankovsky-oleg
   role: Отец
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: grinko-nikolai
+- person: tarkovskiy-arseniy-aleksandrovich
+- person: solonitsyn-anatoly
+- person: demidova-alla-sergeevna
+- person: nazarov-yuriy-vladimirovich
+- person: yankovskiy-filipp-olegovich
+- person: misharin-aleksandr
+- person: tarkovskaya-larisa-pavlovna
+- person: kizilova-olga
 runtime_min: 107
 language:
 - ru

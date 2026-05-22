@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116193419
 schema_version: 1
+director:
+- todorovskiy-pyotr-efimovich
+cinematographer:
+- paatashvili-levan-georgievich
+composer:
+- stikhin-evgeniy-mikhaylovich
+studio:
+- ekran

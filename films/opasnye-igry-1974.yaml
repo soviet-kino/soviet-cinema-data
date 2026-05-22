@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7081163
 schema_version: 1
+director:
+- kyasper-velyo
+screenwriter:
+- kyasper-velyo
+cinematographer:
+- maak-vladimir
+composer:
+- ryaets-yaan
+cast:
+- person: yarvet-yuri-evgenevich
+- person: merzin-leonkhard-rikhardovich
+- person: eskola-ants
+- person: aren-reyno
+- person: varem-vee-khilya
+- person: toomet-tiina
+studio:
+- tallinfilm

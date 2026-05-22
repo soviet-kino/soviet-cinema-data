@@ -8,6 +8,13 @@ runtime_min: 87
 external_ids:
   wikidata: Q123857668
   imdb: tt0382917
+  youtube: MoMAwRg54Eg
 sources:
 - https://www.wikidata.org/wiki/Q123857668
 schema_version: 1
+director:
+- dobrolyubov-igor-mikhaylovich
+composer:
+- frenkel-yan-abramovich
+studio:
+- belarusfilm

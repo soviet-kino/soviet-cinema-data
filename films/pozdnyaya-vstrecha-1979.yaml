@@ -8,6 +8,19 @@ runtime_min: 78
 external_ids:
   wikidata: Q4368836
   imdb: tt1031958
+  youtube: PhPWF5cXVOk
 sources:
 - https://www.wikidata.org/wiki/Q4368836
 schema_version: 1
+director:
+- shredel-vladimir-markovich
+screenwriter:
+- nagibin-yuriy-markovich
+cast:
+- person: dogileva-tatyana-anatolevna
+- person: batalov-aleksey-vladimirovich
+- person: volodina-margarita-vladimirovna
+- person: luppian-larisa-reginaldovna
+studio:
+- sverdlovskaya-kinostudiya
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu

@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84846594
 schema_version: 1
+director:
+- saltykov-aleksey
+screenwriter:
+- nagibin-yuriy-markovich
+composer:
+- eshpay-andrey
+cast:
+- person: mordyukova-nonna-viktorovna
+- person: eryomenko-nikolay-nikolaevich
+- person: prokhorova-olga-efimovna
+- person: rybnikov-nikolay-nikolaevich
+studio:
+- mosfilm

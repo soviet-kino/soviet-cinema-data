@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q125429020
 schema_version: 1
+director:
+- abzalov-melis
+cast:
+- person: umarov-khamza
+- person: sharipov-husan
+- person: tursunov-abror

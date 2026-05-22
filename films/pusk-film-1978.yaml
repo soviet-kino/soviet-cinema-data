@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865100
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+screenwriter:
+- galiev-anatoliy-sergeevich
+- kuzmich-bokarev-gennadiy
+composer:
+- eshpay-andrey
+cast:
+- person: boyarskiy-nikolay-aleksandrovich
+- person: demich-yuriy-aleksandrovich
+- person: dmitriev-ivan-petrovich
+- person: safonov-vsevolod-dmitrievich
+- person: shuranova-antonina-nikolaevna
+studio:
+- belarusfilm

@@ -8,6 +8,20 @@ runtime_min: 84
 external_ids:
   wikidata: Q4407207
   imdb: tt0070627
+  youtube: -xqQWoOkkUA
 sources:
 - https://www.wikidata.org/wiki/Q4407207
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+cinematographer:
+- ilich-kirbizhekov-vasiliy
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: vesnik-evgeniy-yakovlevich
+- person: doveyko-vladimir-vladimirovich
+- person: klyueva-tatyana-nikolaevna
+- person: merzlikin-nikolay-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

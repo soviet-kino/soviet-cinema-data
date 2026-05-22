@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q108806638
   imdb: tt8809896
+  youtube: wmmFzJMQCHk
 sources:
 - https://www.wikidata.org/wiki/Q108806638
 schema_version: 1
+director:
+- boretskiy-yuriy
+screenwriter:
+- sultanov-omor-sultanovich
+- omurkulov-kadyrkul
+studio:
+- kyrgyzfilm

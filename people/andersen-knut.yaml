@@ -1,0 +1,9 @@
+id: andersen-knut
+name_ru: Кнут Андерсен
+roles:
+- director
+external_ids:
+  wikidata: Q1345010
+sources:
+- https://www.wikidata.org/wiki/Q1345010
+schema_version: 1

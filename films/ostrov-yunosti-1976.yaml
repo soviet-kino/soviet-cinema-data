@@ -8,6 +8,17 @@ runtime_min: 67
 external_ids:
   wikidata: Q106764389
   imdb: tt5378166
+  youtube: gG1VmwaGu7M
 sources:
 - https://www.wikidata.org/wiki/Q106764389
 schema_version: 1
+director:
+- shilenko-boris-aleksandrovich
+screenwriter:
+- vlasov-aleksandr-efimovich
+cinematographer:
+- kuzmich-pishchikov-aleksandr
+composer:
+- karabits-ivan-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

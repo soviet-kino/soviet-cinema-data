@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25394140
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- khrabrovitskiy-daniil-yakovlevich
+composer:
+- bunin-revol
+- fradkin-mark
+cast:
+- person: maksimova-antonina-mikhaylovna
+- person: kayurov-yuriy-ivanovich
+- person: grabbe-nikolay-karlovich
+- person: korkoshko-svetlana-ivanovna
+- person: parra-aleksandr-vladimirovich
+- person: tonunts-gurgen
+- person: anatoliy-falkovich
+- person: yudin-gennadiy
+- person: lavrov-yuriy-sergeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

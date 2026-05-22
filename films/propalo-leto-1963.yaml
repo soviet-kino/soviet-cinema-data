@@ -8,6 +8,21 @@ runtime_min: 75
 external_ids:
   wikidata: Q4380867
   imdb: tt0057429
+  youtube: 31Xvyc9GD_I
 sources:
 - https://www.wikidata.org/wiki/Q4380867
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- zak-avenir-grigorevich
+- kuznetsov-isay
+cinematographer:
+- yakushev-viktor-mikhaylovich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: fyodorova-zoya-alekseevna
+- person: dmitrieva-antonina-ivanovna
+studio:
+- mosfilm

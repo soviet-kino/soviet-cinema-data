@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q97291469
   imdb: tt5497584
+  youtube: sCbUTpl6BHg
 sources:
 - https://www.wikidata.org/wiki/Q97291469
 schema_version: 1
+director:
+- agranovich-leonid-danilovich
+screenwriter:
+- agranovich-leonid-danilovich
+cinematographer:
+- vovnyanko-igor-aleksandrovich

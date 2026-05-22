@@ -1,0 +1,9 @@
+id: kalman-imre
+name_ru: Имре Кальман
+roles:
+- composer
+external_ids:
+  wikidata: Q153818
+sources:
+- https://www.wikidata.org/wiki/Q153818
+schema_version: 1

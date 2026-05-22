@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20506808
 schema_version: 1
+director:
+- vagarshyan-laert
+screenwriter:
+- vagarshyan-laert
+cinematographer:
+- atoyants-levon
+composer:
+- mirzoyan-edvard
+cast:
+- person: alfyorova-irina-ivanovna
+- person: solovyov-anatoliy-vasilevich
+- person: kayurov-yuriy-ivanovich
+- person: gritsenko-nikolay-olimpievich
+- person: kozlyonkova-klavdiya-prokofevna
+- person: markov-leonid-vasilevich
+- person: arutyunyan-gegam
+- person: kocharyan-vladimir
+studio:
+- armenfilm

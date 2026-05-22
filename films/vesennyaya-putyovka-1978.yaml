@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4109481
   imdb: tt0361093
+  youtube: 1C0OdJwYLKU
 sources:
 - https://www.wikidata.org/wiki/Q4109481
 schema_version: 1
+director:
+- brasla-varis
+screenwriter:
+- knorre-fyodor-fyodorovich
+composer:
+- kalnynsh-imants
+studio:
+- rizhskaya-kinostudiya

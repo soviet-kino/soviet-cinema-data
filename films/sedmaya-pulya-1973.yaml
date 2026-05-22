@@ -8,6 +8,22 @@ runtime_min: 80
 external_ids:
   wikidata: Q4412989
   imdb: tt0171726
+  youtube: DjMCwXbfbRw
 sources:
 - https://www.wikidata.org/wiki/Q4412989
 schema_version: 1
+director:
+- khamraev-ali-irgashalievich
+screenwriter:
+- konchalovskiy-andrey
+- gorenshteyn-fridrikh-naumovich
+cinematographer:
+- pann-aleksandr
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: kambarova-dilorom-fayzullaevna
+- person: chokmorov-suymenkul
+- person: umarov-khamza
+studio:
+- uzbekfilm

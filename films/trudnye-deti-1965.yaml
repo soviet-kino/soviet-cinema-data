@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q116865182
   imdb: tt3751534
+  youtube: sZcFk9RNobg
 sources:
 - https://www.wikidata.org/wiki/Q116865182
 schema_version: 1
+director:
+- tsvetkov-vsevolod-ivanovich
+studio:
+- yaltinskaya-kinostudiya

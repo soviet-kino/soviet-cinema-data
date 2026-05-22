@@ -8,6 +8,22 @@ runtime_min: 95
 external_ids:
   wikidata: Q4310988
   imdb: tt0059493
+  youtube: uIAxvJ5QRvI
 sources:
 - https://www.wikidata.org/wiki/Q4310988
 schema_version: 1
+director:
+- olshvanger-ilya-saulovich
+screenwriter:
+- dangulov-savva-artemevich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- tishchenko-boris-ivanovich
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: popova-emma-anatolevna
+- person: kobaladze-andrey-aleksandrovich
+- person: balmusov-yulen-sergeevich
+studio:
+- lenfilm

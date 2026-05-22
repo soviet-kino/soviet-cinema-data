@@ -8,6 +8,22 @@ runtime_min: 93
 external_ids:
   wikidata: Q4109478
   imdb: tt0332812
+  youtube: bLxqQRqveKo
 sources:
 - https://www.wikidata.org/wiki/Q4109478
 schema_version: 1
+director:
+- tsvetkov-yuriy-nikolaevich
+screenwriter:
+- tsvetkov-yuriy-nikolaevich
+cinematographer:
+- braude-mark-savelevich
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: bogunova-nataliya-vasilevna
+- person: katyshev-aleksey-yurevich
+- person: kindinov-evgeniy-arsenevich
+- person: orlova-galina-petrovna
+studio:
+- belarusfilm

@@ -1,0 +1,9 @@
+id: lishka-zdenek
+name_ru: Зденек Лишка
+roles:
+- composer
+external_ids:
+  wikidata: Q423128
+sources:
+- https://www.wikidata.org/wiki/Q423128
+schema_version: 1

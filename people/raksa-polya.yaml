@@ -1,0 +1,9 @@
+id: raksa-polya
+name_ru: Поля Ракса
+roles:
+- actor
+external_ids:
+  wikidata: Q2994025
+sources:
+- https://www.wikidata.org/wiki/Q2994025
+schema_version: 1

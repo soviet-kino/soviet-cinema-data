@@ -8,6 +8,11 @@ runtime_min: 66
 external_ids:
   wikidata: Q97192925
   imdb: tt4971150
+  youtube: s8xGagfSClY
 sources:
 - https://www.wikidata.org/wiki/Q97192925
 schema_version: 1
+director:
+- krishtofovich-vyacheslav-sigizmundovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

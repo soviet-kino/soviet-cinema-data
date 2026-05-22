@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4366996
   imdb: tt1283895
+  youtube: JvidGA-Z8-o
 sources:
 - https://www.wikidata.org/wiki/Q4366996
 schema_version: 1
+director:
+- latsis-erik
+screenwriter:
+- vatszemniek-laymonis
+composer:
+- pauls-raymond
+cast:
+- person: artmane-viya
+studio:
+- rizhskaya-kinostudiya

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5395734
 schema_version: 1
+director:
+- frumin-boris-moiseevich
+screenwriter:
+- topol-eduard-vladimirovich
+- frumin-boris-moiseevich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: varley-natalya-vladimirovna
+- person: neyolova-marina-mstislavovna
+- person: karachentsov-nikolay
+- person: arkhipova-nina
+studio:
+- lenfilm

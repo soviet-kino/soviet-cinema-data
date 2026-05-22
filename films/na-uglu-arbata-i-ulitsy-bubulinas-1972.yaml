@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4311026
 schema_version: 1
+director:
+- zakharias-manos
+screenwriter:
+- shergova-galina-mikhaylovna
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- schnittke-alfred
+cast:
+- person: chursina-lyudmila-alekseevna
+studio:
+- mosfilm

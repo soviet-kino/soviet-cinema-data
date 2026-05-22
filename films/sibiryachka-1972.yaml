@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21644388
 schema_version: 1
+director:
+- saltykov-aleksey
+screenwriter:
+- salynskiy-afanasiy-dmitrievich
+composer:
+- eshpay-andrey
+cast:
+- person: zaklunnaya-valeriya-gavriilovna
+studio:
+- mosfilm

@@ -8,6 +8,24 @@ runtime_min: 63
 external_ids:
   wikidata: Q4464306
   imdb: tt2144017
+  youtube: eOwiCIe1tAI
 sources:
 - https://www.wikidata.org/wiki/Q4464306
 schema_version: 1
+director:
+- ubukeev-melis-aytkulovich
+screenwriter:
+- ubukeev-melis-aytkulovich
+- rozhkov-nikolay-vasilevich
+cinematographer:
+- kydyraliev-kadyrzhan-kydyralievich
+composer:
+- konchakov-valentin-andreevich
+cast:
+- person: beyshenaliev-bolot
+- person: kydykeeva-baken
+- person: ryskulov-muratbek-ryskulovich
+- person: kobegenov-shayirbek
+studio:
+- mosfilm
+- kyrgyzfilm

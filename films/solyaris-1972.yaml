@@ -8,8 +8,38 @@ runtime_min: 160
 external_ids:
   wikidata: Q125772
   imdb: tt0069293
+  youtube: 6-4KydP92ss
 sources:
 - https://www.wikidata.org/wiki/Q125772
 schema_version: 1
 topics:
 - cosmonautics
+director:
+- tarkovsky-andrei
+screenwriter:
+- tarkovsky-andrei
+- gorenshteyn-fridrikh-naumovich
+cinematographer:
+- yusov-vadim
+composer:
+- bakh-iogann-sebastyan
+- artemyev-eduard
+cast:
+- person: yarvet-yuri-evgenevich
+- person: grinko-nikolai
+- person: dvorzhetskiy-vladislav-vatslavovich
+- person: semyonov-yulian
+- person: bondarchuk-natalya-sergeevna
+- person: solonitsyn-anatoly
+- person: banionis-donatas-yuozovich
+- person: barnet-olga-borisovna
+- person: sarkisyan-sos
+- person: misharin-aleksandr
+- person: kizilova-olga
+- person: zamanskiy-vladimir-petrovich
+- person: karapetyan-artyom-yakovlevich
+- person: tatosov-vladimir-mikhaylovich
+- person: teykh-georgiy-nikolaevich
+- person: oganesyan-bagrat
+studio:
+- mosfilm

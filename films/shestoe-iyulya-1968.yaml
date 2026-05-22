@@ -8,6 +8,31 @@ runtime_min: 112
 external_ids:
   wikidata: Q4523411
   imdb: tt0173192
+  youtube: LgB_xnOFUNo
 sources:
 - https://www.wikidata.org/wiki/Q4523411
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- shatrov-mikhail-filippovich
+cinematographer:
+- suslov-mikhail-petrovich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: demidova-alla-sergeevna
+- person: nazarov-yuriy-vladimirovich
+- person: kayurov-yuriy-ivanovich
+- person: lanovoy-vasiliy-semyonovich
+- person: samoylov-vladimir-yakovlevich
+- person: volkov-nikolay-nikolaevich-2
+- person: kulikov-georgiy-ivanovich
+- person: ostrin-grigoriy-aleksandrovich
+- person: ryzhukhin-boris-sergeevich
+- person: solovyov-ivan-ivanovich
+- person: tatosov-vladimir-mikhaylovich
+- person: vyacheslav-anatolevich-shalevich
+- person: yanvaryov-aleksandr-ivanovich
+- person: gorelov-vladimir-konstantinovich
+studio:
+- mosfilm

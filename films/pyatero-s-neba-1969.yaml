@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4385774
 schema_version: 1
+director:
+- shredel-vladimir-markovich
+cinematographer:
+- kukhovarenko-oleg-yurevich
+composer:
+- klyuzner-boris-lazarevich
+cast:
+- person: gromadskiy-roman
+- person: yushko-german-ivanovich
+- person: selyanin-gleb-ivanovich
+studio:
+- lenfilm

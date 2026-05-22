@@ -8,6 +8,28 @@ runtime_min: 138
 external_ids:
   wikidata: Q1198723
   imdb: tt0059529
+  youtube: vIAFJ7QIU7k
 sources:
 - https://www.wikidata.org/wiki/Q1198723
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- romm-mikhail-ilich
+- turovskaya-mayya-iosifovna
+- khanyutin-yuriy-mironovich
+cinematographer:
+- lavrov-german
+composer:
+- karamanov-alemdar-sabitovich
+cast:
+- person: gitler-adolf
+- person: stalin-iosif-vissarionovich
+- person: ditrikh-marlen
+- person: khildebrand-khilda
+- person: gering-german
+- person: ryokk-marika
+- person: kellouey-keb
+- person: romm-mikhail-ilich
+studio:
+- mosfilm

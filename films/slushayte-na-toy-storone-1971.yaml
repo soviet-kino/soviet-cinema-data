@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4424114
 schema_version: 1
+director:
+- ermolaev-boris-vladimirovich
+- sumkhu-badrakhyn
+cinematographer:
+- demberel-baldan
+composer:
+- choidog-eregzengiin
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: lezhdey-elza-ivanovna
+- person: suvd-namsrayn
+studio:
+- mosfilm
+- mongolkino

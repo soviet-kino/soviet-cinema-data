@@ -8,6 +8,24 @@ runtime_min: 210
 external_ids:
   wikidata: Q4443424
   imdb: tt4966056
+  youtube: W9w9yARIKB8
 sources:
 - https://www.wikidata.org/wiki/Q4443424
 schema_version: 1
+director:
+- proshkin-aleksandr-anatolevich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- artemyev-eduard
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: durov-lev-konstantinovich
+- person: egorova-nataliya
+- person: krynkin-gennadiy-yakovlevich
+- person: parra-aleksandr-vladimirovich
+studio:
+- ekran

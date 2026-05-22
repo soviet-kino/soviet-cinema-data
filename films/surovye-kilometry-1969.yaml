@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q137652
   imdb: tt5087822
+  youtube: F4NoeSADTd0
 sources:
 - https://www.wikidata.org/wiki/Q137652
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+cast:
+- person: merzlikin-nikolay-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130603463
 schema_version: 1
+screenwriter:
+- voinov-aleksandr-isaevich
+cinematographer:
+- ilchuk-nikolay-semyonovich
+composer:
+- kompozitor-vlasov-viktor-petrovich
+cast:
+- person: dubrovin-yuriy-dmitrievich
+- person: sukhoverko-rogvold
+- person: grigoriu-grigore-petru
+- person: sukhovey-svetlana
+- person: polishchuk-viktor-petrovich
+- person: rozstalnyy-vitaliy-grigorevich
+- person: slyozka-nikolay
+- person: vilskiy-vadim-konstantinovich
+studio:
+- odesskaya-kinostudiya

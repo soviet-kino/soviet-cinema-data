@@ -8,6 +8,20 @@ runtime_min: 85
 external_ids:
   wikidata: Q4459190
   imdb: tt0320650
+  youtube: hP2HkAjfxs4
 sources:
 - https://www.wikidata.org/wiki/Q4459190
 schema_version: 1
+director:
+- lukinskiy-ivan-vladimirovich
+screenwriter:
+- vasilev-arkadiy-nikolaevich
+cinematographer:
+- rapoport-vladimir
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: khomyatov-roman-zakharevich
+- person: obukhov-anatoliy-matveevich
+studio:
+- kinostudiya-imeni-m-gorkogo

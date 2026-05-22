@@ -8,6 +8,23 @@ runtime_min: 76
 external_ids:
   wikidata: Q4415660
   imdb: tt0056466
+  youtube: Wq9q89MKheQ
 sources:
 - https://www.wikidata.org/wiki/Q4415660
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- satunovskiy-pyotr-abramovich
+composer:
+- khachaturyan-karen
+cast:
+- person: ivashov-vladimir-sergeevich
+- person: burov-valentin-evgenevich
+- person: morozov-semyon-mikhaylovich
+- person: nadezhdina-tatyana-dmitrievna
+studio:
+- mosfilm

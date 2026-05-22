@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4462655
 schema_version: 1
+director:
+- viktorov-richard-nikolaevich
+screenwriter:
+- bykov-vasil
+cinematographer:
+- kirillov-andrey-mikhaylovich
+- khubov-nikita-georgievich
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: lyubshin-stanislav-andreevich
+- person: zhzhyonov-georgiy-stepanovich
+- person: sementsova-nadezhda-mefodevna
+studio:
+- belarusfilm

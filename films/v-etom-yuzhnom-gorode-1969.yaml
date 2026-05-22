@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12837622
 schema_version: 1
+director:
+- kuliev-eldar
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- ogly-odzhagov-rasim-mirkasum
+composer:
+- karaev-faradzh
+cast:
+- person: yagizarov-gadzhi-murad
+- person: ogly-mamedov-gasan-agamamed
+- person: ogly-zeynalov-eldeniz-mamed
+studio:
+- azerbaydzhanfilm

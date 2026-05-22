@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12838453
 schema_version: 1
+director:
+- anar
+- azimzade-gyulbeniz
+screenwriter:
+- anar
+cinematographer:
+- kambarov-rafail-alievich
+composer:
+- sabitoglu-emin
+cast:
+- person: gasanov-vagif-ibragimoglu
+- person: ogly-turabov-gasan-sattar
+- person: alikhan-ogly-mubariz
+- person: dadashev-rafael
+- person: agakishieva-zarnigyar
+- person: mamedov-elchin
+- person: ogly-mir-kasimov-oktay-mir-asadulla
+studio:
+- azerbaydzhanfilm

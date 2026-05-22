@@ -1,0 +1,9 @@
+id: longo-germano
+name_ru: Германо Лонго
+roles:
+- actor
+external_ids:
+  wikidata: Q3761126
+sources:
+- https://www.wikidata.org/wiki/Q3761126
+schema_version: 1

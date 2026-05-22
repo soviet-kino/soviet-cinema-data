@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q132398766
 schema_version: 1
+director:
+- aruoya-virve
+screenwriter:
+- siimisker-leenu
+- tiisvali-helle
+cinematographer:
+- aruoja-vello
+composer:
+- tormis-velo
+cast:
+- person: aav-tynu
+- person: lauter-ants-mikhkelevich
+- person: nuude-rudolf-aleksandrovich
+- person: lepa-astrid
+- person: jogi-ants
+- person: jurgens-kalle
+studio:
+- eesti-telefilm

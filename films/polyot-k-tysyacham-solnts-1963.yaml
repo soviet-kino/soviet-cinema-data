@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4371631
 schema_version: 1
+composer:
+- prigozhin-lyutsian-abramovich
+studio:
+- lennauchfilm

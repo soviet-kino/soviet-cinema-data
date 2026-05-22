@@ -8,6 +8,34 @@ runtime_min: 86
 external_ids:
   wikidata: Q378969
   imdb: tt0067789
+  youtube: SkhN7hXWYGo
 sources:
 - https://www.wikidata.org/wiki/Q378969
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+- abramyan-genri-artashesovich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: nikulin-yuriy-vladimirovich
+- person: ryazanov-eldar-aleksandrovich
+- person: burkov-georgiy-ivanovich
+- person: aroseva-olga-aleksandrovna
+- person: mironov-andrey
+- person: talyzina-valentina
+- person: yakovlev-yuriy-vasilevich
+- person: evstigneev-evgeniy-aleksandrovich
+- person: agapova-nina-fyodorovna
+- person: durov-lev-konstantinovich
+- person: belov-yuriy-andreevich
+- person: vladimirova-valentina-kharlampievna
+- person: kulikov-georgiy-ivanovich
+- person: shirvindt-aleksandr-anatolevich
+studio:
+- mosfilm

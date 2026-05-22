@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q116864909
   imdb: tt5045602
+  youtube: aXIx5PY98J4
 sources:
 - https://www.wikidata.org/wiki/Q116864909
 schema_version: 1
+director:
+- koltsatyy-arkadiy-nikolaevich
+- rudnik-lev-sergeevich
+screenwriter:
+- vasiliu-dmitriy-georgievich
+cast:
+- person: kayurov-yuriy-ivanovich
+studio:
+- mosfilm

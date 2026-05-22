@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4410888
   imdb: tt1718910
+  youtube: mRqx9bal2eI
 sources:
 - https://www.wikidata.org/wiki/Q4410888
 schema_version: 1
+director:
+- magiton-isaak-semyonovich
+composer:
+- zatsepin-aleksandr
+studio:
+- kinostudiya-imeni-m-gorkogo

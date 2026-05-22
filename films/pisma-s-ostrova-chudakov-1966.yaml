@@ -11,3 +11,44 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19999829
 schema_version: 1
+director:
+- myuyr-yuri
+screenwriter:
+- meri-lennart
+- myuyr-yuri
+- smuul-yukhan
+cinematographer:
+- dorovatovskiy-mikhail-ivanovich
+- garshnek-yuri
+- vasemaa-oti
+- kask-mati
+composer:
+- tamberg-eyno
+cast:
+- person: myuyr-yuri
+- person: aav-tynu
+- person: eskola-olev
+- person: peep-khelend
+- person: kard-peeter
+- person: yukskyula-aarne-mati
+- person: raudsik-heino
+- person: tammur-ilmar
+- person: karm-kaarel
+- person: metsur-mare
+- person: aru-ines
+- person: seep-aino
+- person: garshnek-yuri
+- person: sild-eyli
+- person: vaharo-rein
+- person: ratassepp-valdeko
+- person: ratassepp-elza
+- person: ruubel-paul
+- person: jogi-ants
+- person: peep-hillar
+- person: felt-raymund
+- person: levoll-karl
+- person: liiva-juhan
+- person: vilms-gunnar
+- person: mihkelson-arvo
+studio:
+- tallinfilm

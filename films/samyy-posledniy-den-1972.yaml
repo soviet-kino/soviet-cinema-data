@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4407206
 schema_version: 1
+director:
+- ulyanov-mikhail-aleksandrovich
+screenwriter:
+- vasilev-boris-lvovich
+cinematographer:
+- karavaev-elizbar
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: grabbe-nikolay-karlovich
+- person: bunina-irina-alekseevna
+- person: burenkov-evgeniy-dmitrievich
+- person: kulish-tatyana-petrovna
+- person: chinkin-boris-mikhaylovich
+studio:
+- mosfilm

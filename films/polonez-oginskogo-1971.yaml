@@ -8,6 +8,23 @@ runtime_min: 89
 external_ids:
   wikidata: Q3917397
   imdb: tt0314520
+  youtube: pe6Vo6hAo6M
 sources:
 - https://www.wikidata.org/wiki/Q3917397
 schema_version: 1
+director:
+- golub-lev-vladimirovich
+screenwriter:
+- gubarevich-konstantin-leontevich
+cinematographer:
+- masalskiy-grigoriy-ignatevich
+composer:
+- vagner-genrikh-matusovich
+cast:
+- person: yukhtin-gennadiy-gavrilovich
+- person: pavlovskiy-pyotr
+- person: eskola-olev
+- person: garbuk-gennadiy-mikhaylovich
+- person: kormunin-pavel-vasilevich
+studio:
+- belarusfilm

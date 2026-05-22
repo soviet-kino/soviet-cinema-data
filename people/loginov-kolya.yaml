@@ -1,0 +1,9 @@
+id: loginov-kolya
+name_ru: Коля Логинов
+roles:
+- actor
+external_ids:
+  wikidata: Q16369332
+sources:
+- https://www.wikidata.org/wiki/Q16369332
+schema_version: 1

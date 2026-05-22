@@ -8,6 +8,13 @@ runtime_min: 90
 external_ids:
   wikidata: Q4375062
   imdb: tt0133154
+  youtube: QJlbrn-ROU4
 sources:
 - https://www.wikidata.org/wiki/Q4375062
 schema_version: 1
+director:
+- dorman-veniamin
+cast:
+- person: stoyanov-luchezar
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,21 @@ runtime_min: 84
 external_ids:
   wikidata: Q4251681
   imdb: tt0123232
+  youtube: HhIco19wK4g
 sources:
 - https://www.wikidata.org/wiki/Q4251681
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- konetskiy-viktor-viktorovich
+cinematographer:
+- nitochkin-anatoliy-dmitrievich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: andreev-boris-fyodorovich
+- person: sokolova-lyubov-sergeevna
+- person: zhakov-oleg-petrovich
+studio:
+- mosfilm

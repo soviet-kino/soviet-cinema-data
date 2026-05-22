@@ -1,0 +1,9 @@
+id: miyo-sharl
+name_ru: Шарль Мийо
+roles:
+- actor
+external_ids:
+  wikidata: Q2959823
+sources:
+- https://www.wikidata.org/wiki/Q2959823
+schema_version: 1

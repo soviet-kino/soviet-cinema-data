@@ -1,0 +1,9 @@
+id: tui-lo
+name_ru: Lo Tui
+roles:
+- actor
+external_ids:
+  wikidata: Q18752879
+sources:
+- https://www.wikidata.org/wiki/Q18752879
+schema_version: 1

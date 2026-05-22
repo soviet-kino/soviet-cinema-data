@@ -8,6 +8,15 @@ runtime_min: 89
 external_ids:
   wikidata: Q18635104
   imdb: tt4876996
+  youtube: Ijsq43tQylk
 sources:
 - https://www.wikidata.org/wiki/Q18635104
 schema_version: 1
+director:
+- lysenko-vadim-grigorevich
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: korchikov-oleg-glebovich
+studio:
+- sverdlovskaya-kinostudiya

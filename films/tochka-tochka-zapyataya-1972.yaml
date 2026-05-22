@@ -8,6 +8,19 @@ runtime_min: 84
 external_ids:
   wikidata: Q4461549
   imdb: tt0164204
+  youtube: 9or1F07gh6Q
 sources:
 - https://www.wikidata.org/wiki/Q4461549
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- lvovskiy-mikhail
+composer:
+- gladkov-gennadiy
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: nikulin-yuriy-vladimirovich
+- person: gerasimov-evgeniy-vladimirovich
+studio:
+- mosfilm

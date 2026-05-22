@@ -8,6 +8,14 @@ runtime_min: 86
 external_ids:
   wikidata: Q113499287
   imdb: tt0068009
+  youtube: _8gbSivHElo
 sources:
 - https://www.wikidata.org/wiki/Q113499287
 schema_version: 1
+director:
+- karliev-alty
+screenwriter:
+- karliev-alty
+- smirnov-oleg-pavlovich
+studio:
+- turkmenfilm

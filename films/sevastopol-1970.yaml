@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15271011
 schema_version: 1
+director:
+- isakov-valeriy-trofimovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: korolkov-gennadiy-anatolevich
+studio:
+- odesskaya-kinostudiya

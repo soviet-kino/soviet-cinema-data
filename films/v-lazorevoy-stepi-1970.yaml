@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270502
 schema_version: 1
+director:
+- shamshurin-vladimir-georgievich
+- lonskoy-valeriy-yakovlevich
+- bondaryov-oleg-aleksandrovich
+- koltsov-vitaliy-mikhaylovich
+screenwriter:
+- popov-valentin-vasilevich
+- shamshurin-vladimir-georgievich
+- lonskoy-valeriy-yakovlevich
+- bondaryov-oleg-aleksandrovich
+composer:
+- sidelnikov-nikolay-nikolaevich
+- ziv-mikhail-pavlovich
+cast:
+- person: shakurov-sergey-kayumovich
+- person: lebedev-evgeniy-alekseevich
+- person: kormunin-pavel-vasilevich
+studio:
+- mosfilm

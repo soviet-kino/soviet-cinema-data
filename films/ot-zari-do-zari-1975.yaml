@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18640001
 schema_version: 1
+director:
+- egiazarov-gavriil-georgievich
+cinematographer:
+- shuvalov-valeriy-pavlovich
+- satunovskiy-pyotr-abramovich
+composer:
+- levashov-valentin-sergeevich
+cast:
+- person: sokolova-lyubov-sergeevna
+- person: pastukhov-nikolay-isaakovich
+- person: ledogorov-igor-vadimovich
+studio:
+- mosfilm

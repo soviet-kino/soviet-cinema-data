@@ -8,6 +8,17 @@ runtime_min: 138
 external_ids:
   wikidata: Q9391637
   imdb: tt0078042
+  youtube: -tGHXkrh6hU
 sources:
 - https://www.wikidata.org/wiki/Q9391637
 schema_version: 1
+director:
+- bobrovskiy-anatoliy-alekseevich
+screenwriter:
+- semyonov-yulian
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: garlitskiy-pyotr
+studio:
+- iluzjon

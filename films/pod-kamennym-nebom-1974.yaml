@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4366950
 schema_version: 1
+director:
+- maslennikov-igor-fyodorovich
+- andersen-knut
+screenwriter:
+- nagibin-yuriy-markovich
+- kholmebakk-sigbyorn
+cinematographer:
+- vasilev-vladimir-anatolevich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: yankovsky-oleg
+- person: grinko-nikolai
+- person: leonov-evgeniy-pavlovich
+- person: solonitsyn-anatoly
+- person: yankovskiy-filipp-olegovich
+- person: burlyaev-nikolai
+- person: lie-arne
+studio:
+- lenfilm

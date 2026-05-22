@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270889
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+screenwriter:
+- ketlinskaya-vera-kazimirovna
+cinematographer:
+- kosmatov-leonid
+composer:
+- ter-tatevosyan-dzhon
+cast:
+- person: kvasha-igor-vladimirovich
+- person: syomina-tamara-petrovna
+- person: evstigneev-evgeniy-aleksandrovich
+- person: borisov-aleksandr-fyodorovich
+- person: nikitin-fyodor-mikhaylovich
+- person: nifontova-rufina-dmitrievna
+studio:
+- mosfilm

@@ -8,6 +8,15 @@ runtime_min: 77
 external_ids:
   wikidata: Q4534520
   imdb: tt2061862
+  youtube: 1vTEhHx0nm4
 sources:
 - https://www.wikidata.org/wiki/Q4534520
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- chulyukin-yuriy-stepanovich
+composer:
+- fattakh-azon-nurtinovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

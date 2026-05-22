@@ -8,6 +8,20 @@ runtime_min: 89
 external_ids:
   wikidata: Q4440493
   imdb: tt0304750
+  youtube: WgPmih-9C-Q
 sources:
 - https://www.wikidata.org/wiki/Q4440493
 schema_version: 1
+director:
+- saveleva-era-mikhaylovna
+- berezantseva-tatyana-borisovna
+screenwriter:
+- arbuzov-aleksey-nikolaevich
+- zheleznikov-vladimir-karpovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: freyndlikh-alisa
+- person: vladimirov-igor-petrovich
+studio:
+- mosfilm

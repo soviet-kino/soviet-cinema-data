@@ -8,6 +8,20 @@ runtime_min: 77
 external_ids:
   wikidata: Q21148917
   imdb: tt0194382
+  youtube: 1Nm1fawwV4s
 sources:
 - https://www.wikidata.org/wiki/Q21148917
 schema_version: 1
+director:
+- urusevskiy-sergey-pavlovich
+screenwriter:
+- urusevskiy-sergey-pavlovich
+- shpalikov-gennadiy-fyodorovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- molchanov-kirill
+cast:
+- person: nikonenko-sergey
+studio:
+- mosfilm

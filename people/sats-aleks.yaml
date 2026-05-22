@@ -1,0 +1,9 @@
+id: sats-aleks
+name_ru: Алекс Сатс
+roles:
+- actor
+external_ids:
+  wikidata: Q16404056
+sources:
+- https://www.wikidata.org/wiki/Q16404056
+schema_version: 1

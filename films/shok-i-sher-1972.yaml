@@ -8,6 +8,13 @@ runtime_min: 63
 external_ids:
   wikidata: Q65250676
   imdb: tt0830629
+  youtube: ew6CvuyI5gg
 sources:
 - https://www.wikidata.org/wiki/Q65250676
 schema_version: 1
+director:
+- kasymbekov-kanymbek-kano
+screenwriter:
+- narymbetov-satybaldy-zhalelovich
+studio:
+- kazakhfilm

@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4538776
 schema_version: 1
+director:
+- poremba-bogdan
+screenwriter:
+- nagibin-yuriy-markovich
+cinematographer:
+- chen-iolanda-evgenevna
+- shelenkov-aleksandr-vladimirovich
+composer:
+- kilyar-voytsekh
+cast:
+- person: zigmunt-malyanovich
+- person: novak-yuzef
+- person: kalyagin-aleksandr-aleksandrovich
+- person: ivashov-vladimir-sergeevich
+- person: nivinskiy-stanislav
+- person: prus-andrzej
+- person: szmidt-stefan
+- person: pototskaya-malgozhata
+studio:
+- mosfilm

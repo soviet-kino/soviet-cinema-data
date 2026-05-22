@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4381445
   imdb: tt1714888
+  youtube: lbtLgDzNCUM
 sources:
 - https://www.wikidata.org/wiki/Q4381445
 schema_version: 1
+director:
+- kuznetsov-georgiy-mikhaylovich
+cast:
+- person: kuznetsov-mikhail-artemevich
+studio:
+- sverdlovskaya-kinostudiya

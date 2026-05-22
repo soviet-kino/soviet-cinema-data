@@ -8,6 +8,20 @@ runtime_min: 95
 external_ids:
   wikidata: Q4101755
   imdb: tt0062428
+  youtube: dxs-bJQ3Oyc
 sources:
 - https://www.wikidata.org/wiki/Q4101755
 schema_version: 1
+director:
+- panfilov-gleb
+screenwriter:
+- panfilov-gleb
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- dolinin-dmitriy
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: churikova-inna
+studio:
+- lenfilm

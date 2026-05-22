@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2364032
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- malyugin-leonid-antonovich
+cinematographer:
+- ardashnikov-naum-mikhaylovich
+composer:
+- shchedrin-rodion-konstantinovich
+cast:
+- person: vladi-marina
+- person: bykov-rolan-antonovich
+- person: savvina-iya-sergeevna
+- person: kvasha-igor-vladimirovich
+- person: avdyushko-viktor-antonovich
+- person: grinko-nikolai
+- person: yakovlev-yuriy-vasilevich
+- person: svetlichnaya-svetlana-afanasevna
+- person: lebedev-evgeniy-alekseevich
+- person: vasileva-ekaterina-sergeevna
+- person: gallis-leonid-pavlovich
+- person: kulagin-sergey-sergeevich
+- person: panova-aleksandra-petrovna
+- person: tusuzov-georgiy-baronovich
+- person: shirvindt-aleksandr-anatolevich
+- person: shutov-evgeniy-efimovich
+- person: kuznetsov-aleksandr-vsevolodovich
+studio:
+- mosfilm

@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373748
 schema_version: 1
+director:
+- shapiro-iosif-solomonovich
+screenwriter:
+- laskin-boris-savelevich
+- likhodeev-leonid-izrailevich
+cinematographer:
+- grammatikov-vadim-aleksandrovich
+composer:
+- kolker-aleksandr
+cast:
+- person: dmitriev-igor-borisovich
+- person: demyanenko-aleksandr-sergeevich
+- person: lemke-lev-isaakovich
+- person: bogdanova-chesnokova-glikeriya-vasilevna
+- person: arinina-lyudmila
+- person: dmitriev-ivan-petrovich
+studio:
+- lenfilm

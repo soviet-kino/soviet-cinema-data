@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q15270616
   imdb: tt1718958
+  youtube: tgQEz6er6ng
 sources:
 - https://www.wikidata.org/wiki/Q15270616
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- popov-aleksandr-fyodorovich
+cinematographer:
+- kukhovarenko-oleg-yurevich
+composer:
+- maklakov-vladimir-alekseevich
+cast:
+- person: kochetkov-afanasiy-ivanovich
+studio:
+- lenfilm

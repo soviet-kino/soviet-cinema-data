@@ -8,6 +8,23 @@ runtime_min: 84
 external_ids:
   wikidata: Q4108100
   imdb: tt0314841
+  youtube: Suu04WUYoA8
 sources:
 - https://www.wikidata.org/wiki/Q4108100
 schema_version: 1
+director:
+- ladynin-andrey-ivanovich
+screenwriter:
+- kuznetsov-vladimir-iovich
+cinematographer:
+- sheynin-viktor
+composer:
+- firtich-georgiy
+cast:
+- person: sanaev-vsevolod-vasilevich
+- person: velyaminov-pyotr-sergeevich
+- person: voronov-ivan-dmitrievich
+- person: ivanov-boris-vladimirovich
+- person: tikhonov-vladimir-vyacheslavovich
+studio:
+- mosfilm

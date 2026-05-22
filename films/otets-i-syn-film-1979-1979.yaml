@@ -8,6 +8,22 @@ runtime_min: 178
 external_ids:
   wikidata: Q21643664
   imdb: tt0314473
+  youtube: kwpFe66Wals
 sources:
 - https://www.wikidata.org/wiki/Q21643664
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+screenwriter:
+- ivanov-anatoliy-stepanovich
+- krasnopolskiy-vladimir
+- uskov-valeriy
+composer:
+- afanasev-leonid
+cast:
+- person: serebryakov-aleksey-valerevich
+- person: smolyakov-andrey-igorevich
+- person: spiridonov-vadim-semyonovich
+studio:
+- mosfilm

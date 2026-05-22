@@ -8,6 +8,21 @@ runtime_min: 86
 external_ids:
   wikidata: Q4335161
   imdb: tt0314465
+  youtube: KxJeEctWvxc
 sources:
 - https://www.wikidata.org/wiki/Q4335161
 schema_version: 1
+director:
+- mkrtchyan-albert
+screenwriter:
+- shatrov-samuil-mikhaylovich
+cinematographer:
+- koroptsov-mikhail-dmitrievich
+composer:
+- kuzmich-aedonitskiy-pavel
+cast:
+- person: vitsin-georgiy-mikhaylovich
+- person: zbruev-aleksandr-viktorovich
+- person: luchko-klara-stepanovna
+studio:
+- mosfilm

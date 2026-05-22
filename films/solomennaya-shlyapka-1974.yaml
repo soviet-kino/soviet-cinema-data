@@ -8,6 +8,20 @@ runtime_min: 127
 external_ids:
   wikidata: Q4428242
   imdb: tt0174225
+  youtube: Pw0U7w2hrE4
 sources:
 - https://www.wikidata.org/wiki/Q4428242
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+screenwriter:
+- kvinikhidze-leonid-aleksandrovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: mironov-andrey
+- person: strzhelchik-vladislav-ignatevich
+studio:
+- lenfilm

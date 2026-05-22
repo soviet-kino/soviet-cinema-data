@@ -7,6 +7,12 @@ country:
 external_ids:
   wikidata: Q16697159
   imdb: tt5052990
+  youtube: 9-YL9Y3AEEU
 sources:
 - https://www.wikidata.org/wiki/Q16697159
 schema_version: 1
+director:
+- grigorev-yuriy-valentinovich
+- grigoreva-renita-andreevna
+studio:
+- kinostudiya-imeni-m-gorkogo

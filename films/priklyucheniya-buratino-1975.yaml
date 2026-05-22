@@ -8,6 +8,29 @@ runtime_min: 132
 external_ids:
   wikidata: Q3739484
   imdb: tt0073570
+  youtube: A7t-ngwpiHY
 sources:
 - https://www.wikidata.org/wiki/Q3739484
 schema_version: 1
+director:
+- nechaev-leonid-alekseevich
+screenwriter:
+- vetkina-inna-ivanovna
+cinematographer:
+- elkhov-yuriy
+composer:
+- rybnikov-aleksey
+cast:
+- person: bykov-rolan-antonovich
+- person: zelyonaya-rina
+- person: grinko-nikolai
+- person: etush-vladimir-abramovich
+- person: basov-vladimir-pavlovich
+- person: bukin-valentin-pavlovich
+- person: iosifov-dmitriy-vladimirovich
+- person: katin-yartsev-yuriy-vasilevich
+- person: protsenko-tatyana-anatolevna
+- person: sanaeva-elena-vsevolodovna
+- person: tsuladze-baadur-sokratovich
+studio:
+- belarusfilm

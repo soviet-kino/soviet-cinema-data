@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q60828275
   imdb: tt4709976
+  youtube: Ef1pPtKd6RE
 sources:
 - https://www.wikidata.org/wiki/Q60828275
 schema_version: 1
+director:
+- ivchenko-viktor-illarionovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

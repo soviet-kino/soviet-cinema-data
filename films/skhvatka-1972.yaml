@@ -8,6 +8,15 @@ runtime_min: 93
 external_ids:
   wikidata: Q84993105
   imdb: tt4711124
+  youtube: w0dhmw-_kRU
 sources:
 - https://www.wikidata.org/wiki/Q84993105
 schema_version: 1
+director:
+- puchinyan-stepan-filippovich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- gevorgyan-evgeniy
+studio:
+- odesskaya-kinostudiya

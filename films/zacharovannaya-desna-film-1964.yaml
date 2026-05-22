@@ -23,3 +23,8 @@ composer:
 studio:
 - mosfilm
 - kinostudiya-imeni-a-dovzhenko
+cast:
+- person: andreev-boris-fyodorovich
+- person: kirienko-zinaida-mikhaylovna
+- person: goncharov-vladimir-maksimovich
+- person: voronin-vyacheslav-anatolevich

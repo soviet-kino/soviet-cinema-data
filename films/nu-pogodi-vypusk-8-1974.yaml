@@ -8,6 +8,17 @@ runtime_min: 9
 external_ids:
   wikidata: Q4327884
   imdb: tt1323353
+  youtube: k7E_kvzibgA
 sources:
 - https://www.wikidata.org/wiki/Q4327884
 schema_version: 1
+director:
+- kotyonochkin-vyacheslav-mikhaylovich
+screenwriter:
+- kurlyandskiy-aleksandr
+- khayt-arkadiy
+composer:
+- gladkov-gennadiy
+studio:
+- soyuzmultfilm
+poster_commons: RR5015-0026R 25 рублей 2018 Ну, погоди! В специальном исполнении.png

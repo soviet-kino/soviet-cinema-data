@@ -8,6 +8,11 @@ runtime_min: 74
 external_ids:
   wikidata: Q109085742
   imdb: tt1822359
+  youtube: KpZq3z4HRQ4
 sources:
 - https://www.wikidata.org/wiki/Q109085742
 schema_version: 1
+director:
+- zhukov-nikolay-fedorovich
+studio:
+- sverdlovskaya-kinostudiya

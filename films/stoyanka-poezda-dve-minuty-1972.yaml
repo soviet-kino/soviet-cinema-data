@@ -8,6 +8,20 @@ runtime_min: 70
 external_ids:
   wikidata: Q4443231
   imdb: tt0069317
+  youtube: OVn2u1L6zkM
 sources:
 - https://www.wikidata.org/wiki/Q4443231
 schema_version: 1
+director:
+- zakharov-mark-anatolevich
+- kinematografist-orlov-aleksandr-sergeevich
+screenwriter:
+- zakharov-mark-anatolevich
+composer:
+- gladkov-gennadiy
+cast:
+- person: vidov-oleg-borisovich
+- person: belov-yuriy-andreevich
+- person: telichkina-valentina
+studio:
+- ekran

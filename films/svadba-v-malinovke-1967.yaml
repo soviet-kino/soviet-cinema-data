@@ -8,6 +8,33 @@ runtime_min: 95
 external_ids:
   wikidata: Q4409920
   imdb: tt0062323
+  youtube: I9SUZJYrLiI
 sources:
 - https://www.wikidata.org/wiki/Q4409920
 schema_version: 1
+director:
+- tutyshkin-andrey-petrovich
+screenwriter:
+- yukhvid-leonid-aronovich
+cinematographer:
+- vyacheslav-ksaverevich-fastovich
+composer:
+- aleksandrov-boris
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: abrikosov-grigoriy-andreevich
+- person: lebedev-evgeniy-alekseevich
+- person: abrikosov-andrey-lvovich
+- person: fyodorova-zoya-alekseevna
+- person: samoylov-vladimir-yakovlevich
+- person: alfimova-lyudmila-ivanovna
+- person: vasilev-vladimir-vasilevich
+- person: vodyanoy-mikhail-grigorevich
+- person: nikolaenko-valentina-petrovna
+- person: orlov-aleksandr-aleksandrovich
+- person: slichenko-nikolay-alekseevich
+- person: treyvas-emiliya-moiseevna
+- person: sysoev-geliy-borisovich
+- person: tishchenko-lyubov
+studio:
+- lenfilm

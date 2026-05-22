@@ -8,6 +8,30 @@ runtime_min: 93
 external_ids:
   wikidata: Q4462144
   imdb: tt0076838
+  youtube: LXeEK7mzqzg
 sources:
 - https://www.wikidata.org/wiki/Q4462144
 schema_version: 1
+director:
+- urazbaev-eldor-magomatovich
+screenwriter:
+- adabashyan-aleksandr
+cinematographer:
+- alisov-vadim-valentinovich
+cast:
+- person: tabakov-oleg-pavlovich
+- person: arinbasarova-natalya-utevlevna
+- person: vidov-oleg-borisovich
+- person: zakharchenko-vadim-viktorovich
+- person: alisova-nina-ulyanovna
+- person: ashimov-asanali-ashimovich
+- person: grigorev-konstantin-konstantinovich
+- person: karapetyan-artyom-yakovlevich
+- person: kachin-german-nikolaevich
+- person: son-lavrentiy-dyadyunovich
+- person: terenteva-nonna-nikolaevna
+- person: yakovlev-aleksandr-anatolevich
+- person: li-oleg-safronovich
+- person: shetenova-galina
+studio:
+- kazakhfilm

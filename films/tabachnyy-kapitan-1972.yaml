@@ -8,6 +8,19 @@ runtime_min: 80
 external_ids:
   wikidata: Q15271056
   imdb: tt0130300
+  youtube: DroRLx1f60Y
 sources:
 - https://www.wikidata.org/wiki/Q15271056
 schema_version: 1
+director:
+- usov-igor-vladimirovich
+screenwriter:
+- vorobyov-vladimir-egorovich
+cinematographer:
+- dibrivnyy-aleksandr-ivanovich
+composer:
+- tsvetkov-igor-arkadevich
+cast:
+- person: davydov-vladlen-semyonovich
+studio:
+- lenfilm

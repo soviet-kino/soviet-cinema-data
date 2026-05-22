@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4311009
 schema_version: 1
+director:
+- ershov-mikhail-ivanovich
+screenwriter:
+- vasilev-boris-lvovich
+- rapoport-kirill-iosifovich
+- chulyukin-yuriy-stepanovich
+cinematographer:
+- zhilin-nikolay-nikolaevich
+- karasyov-viktor
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: krylov-stepan-ivanovich
+- person: karnovich-valua-sergey-sergeevich
+- person: trofimov-nikolay-nikolaevich
+- person: fedortsov-nikolay-pavlovich
+- person: krasnov-vasiliy-georgievich
+studio:
+- lenfilm

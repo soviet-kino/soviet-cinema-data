@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13560069
 schema_version: 1
+director:
+- kuliev-eldar
+screenwriter:
+- seidzade-guseyn-ali-oglu
+- akhundova-alla
+cinematographer:
+- narimanbekov-arif
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: ogly-turabov-gasan-sattar
+- person: chukhray-elena-yurevna
+- person: gyun-nurangiz
+- person: dadashev-rafael
+- person: aslanova-valentina-vasilevna
+studio:
+- azerbaydzhanfilm

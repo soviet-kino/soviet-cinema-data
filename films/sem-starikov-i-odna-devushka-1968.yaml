@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4415673
 schema_version: 1
+director:
+- karelov-evgeniy
+screenwriter:
+- ivanov-albert-anatolevich
+cinematographer:
+- zaytsev-sergey-alekseevich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: nikulin-yuriy-vladimirovich
+- person: papanov-anatoliy-dmitrievich
+- person: chirkov-boris-petrovich
+- person: smirnov-aleksey-makarovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: agapova-nina-fyodorovna
+- person: smirnitskiy-valentin-georgievich
+- person: adoskin-anatoliy-mikhaylovich
+- person: beniaminov-aleksandr-davidovich
+- person: bestaeva-tatyana
+- person: novikov-boris-kuzmich
+- person: parfyonov-nikolay-ivanovich
+- person: savyolova-svetlana-ivanovna
+- person: filippov-viktor-sergeevich
+studio:
+- mosfilm

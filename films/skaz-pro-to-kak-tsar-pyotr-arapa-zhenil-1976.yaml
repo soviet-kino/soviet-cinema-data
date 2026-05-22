@@ -8,6 +8,24 @@ runtime_min: 100
 external_ids:
   wikidata: Q4421343
   imdb: tt0075225
+  youtube: aePYhB1VHfY
 sources:
 - https://www.wikidata.org/wiki/Q4421343
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- mitta-aleksandr-naumovich
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- schnittke-alfred
+cast:
+- person: vysotskiy-vladimir
+- person: petrenko-aleksey-vasilevich
+- person: irina-stepanovna-mazurkevich
+- person: obukhov-anatoliy-matveevich
+studio:
+- mosfilm

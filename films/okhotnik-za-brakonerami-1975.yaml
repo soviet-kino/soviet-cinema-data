@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4340455
   imdb: tt1714879
+  youtube: xJuK5kUdI_4
 sources:
 - https://www.wikidata.org/wiki/Q4340455
 schema_version: 1
+director:
+- muat-mariya-pavlovna
+screenwriter:
+- milova-eleonora-abramovna
+cinematographer:
+- anisimov-yevgeni
+composer:
+- shainskiy-vladimir-yakovlevich
+cast:
+- person: funtikov-vasiliy-vladimirovich
+studio:
+- ekran

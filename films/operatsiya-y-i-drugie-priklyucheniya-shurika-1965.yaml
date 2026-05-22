@@ -8,6 +8,45 @@ runtime_min: 90
 external_ids:
   wikidata: Q2513681
   imdb: tt0059550
+  youtube: xJ5iHFSdAU4
 sources:
 - https://www.wikidata.org/wiki/Q2513681
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- kostyukovskiy-yakov-aronovich
+- slobodskoy-moris-romanovich
+cinematographer:
+- brovin-konstantin-petrovich
+composer:
+- zatsepin-aleksandr
+cast:
+- person: nikulin-yuriy-vladimirovich
+- person: zelyonaya-rina
+- person: rautbart-vladimir-iosifovich
+- person: pavlov-viktor-pavlovich
+- person: pugovkin-mikhail-ivanovich
+- person: demyanenko-aleksandr-sergeevich
+- person: vitsin-georgiy-mikhaylovich
+- person: smirnov-aleksey-makarovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: seleznyova-natalya-igorevna
+- person: fyodorova-zoya-alekseevna
+- person: basov-vladimir-pavlovich
+- person: berezutskaya-valentina-fyodorovna
+- person: vladislavskiy-vladimir-aleksandrovich
+- person: georgiu-georgiy-aleksandrovich
+- person: gitserot-natalya-maksimillianovna
+- person: zozulin-viktor-viktorovich
+- person: kazakov-nikolay-alekseevich
+- person: kravchunovskaya-mariya-aleksandrovna
+- person: nosik-valeriy-benediktovich
+- person: prikhodko-vladimir-ivanovich
+- person: uralskiy-viktor-vladimirovich
+- person: geller-emmanuil-savelevich
+- person: zhirnov-sergey
+studio:
+- mosfilm
+poster_commons: Arkhangelskoye Vadim Zadorozhnys Vehicle Museum S-3A IMG 9619 2150.jpg

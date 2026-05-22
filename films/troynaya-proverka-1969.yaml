@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4463661
 schema_version: 1
+director:
+- brench-aloiz
+screenwriter:
+- kublanov-osvald-moiseevich
+cinematographer:
+- pilipson-genrikh
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: ledogorov-igor-vadimovich
+- person: chekmaryov-viktor-konstantinovich
+studio:
+- rizhskaya-kinostudiya

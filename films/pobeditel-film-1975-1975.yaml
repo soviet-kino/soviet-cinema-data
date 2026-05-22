@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97662915
 schema_version: 1
+director:
+- ladynin-andrey-ivanovich
+screenwriter:
+- stepanov-anatoliy-yakovlevich
+cinematographer:
+- chukhnov-vladimir
+composer:
+- firtich-georgiy
+cast:
+- person: zbruev-aleksandr-viktorovich
+- person: korenev-vladimir-borisovich
+- person: loktev-aleksey-vasilevich
+- person: taratorkin-georgiy-georgievich
+- person: shutov-evgeniy-efimovich
+studio:
+- mosfilm

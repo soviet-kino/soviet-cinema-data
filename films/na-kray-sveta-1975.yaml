@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17582644
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+screenwriter:
+- rozov-viktor-sergeevich
+cinematographer:
+- klimov-vladimir-mikhaylovich
+cast:
+- person: zeldin-vladimir-mikhaylovich
+- person: glagoleva-vera-vitalevna
+- person: glebov-pyotr-petrovich
+- person: lezhdey-elza-ivanovna
+studio:
+- mosfilm

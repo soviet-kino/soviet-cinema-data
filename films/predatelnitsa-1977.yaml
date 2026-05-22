@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q16687905
   imdb: tt0175063
+  youtube: n22qsu7jJ7E
 sources:
 - https://www.wikidata.org/wiki/Q16687905
 schema_version: 1
+director:
+- khubov-nikita-georgievich
+screenwriter:
+- khubov-nikita-georgievich
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

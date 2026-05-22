@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4381453
   imdb: tt1954760
+  youtube: uwQYhEVoqQQ
 sources:
 - https://www.wikidata.org/wiki/Q4381453
 schema_version: 1
+director:
+- ogly-babaev-arif-gadzhi
+cinematographer:
+- askerov-fikret
+composer:
+- sabitoglu-emin
+cast:
+- person: ogly-mamedov-gasan-agamamed
+studio:
+- azerbaydzhanfilm

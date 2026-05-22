@@ -8,6 +8,25 @@ runtime_min: 93
 external_ids:
   wikidata: Q4423109
   imdb: tt0170592
+  youtube: EaRRC-OLTUU
 sources:
 - https://www.wikidata.org/wiki/Q4423109
 schema_version: 1
+director:
+- fetin-vladimir-aleksandrovich
+screenwriter:
+- velembovskaya-irina-aleksandrovna
+cinematographer:
+- ivanov-semyon-nikolaevich
+- kovzel-vladimir-prokhorovich
+composer:
+- solovyov-sedoy-vasiliy-pavlovich
+cast:
+- person: yankovsky-oleg
+- person: gundareva-natalya-georgievna
+- person: velyaminov-pyotr-sergeevich
+- person: karpinskaya-svetlana-alekseevna
+- person: markova-rimma-vasilevna
+studio:
+- lenfilm
+poster_commons: Natalya Gundareva 1976.jpg

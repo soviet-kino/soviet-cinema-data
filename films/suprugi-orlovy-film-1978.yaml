@@ -8,6 +8,13 @@ runtime_min: 85
 external_ids:
   wikidata: Q99180774
   imdb: tt0078347
+  youtube: ADDlwoINNoM
 sources:
 - https://www.wikidata.org/wiki/Q99180774
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+composer:
+- khozak-rafail-matveevich
+studio:
+- kinostudiya-imeni-m-gorkogo

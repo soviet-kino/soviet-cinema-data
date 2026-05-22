@@ -8,6 +8,24 @@ runtime_min: 132
 external_ids:
   wikidata: Q4440870
   imdb: tt0073743
+  youtube: DWjNGhFx4Js
 sources:
 - https://www.wikidata.org/wiki/Q4440870
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+screenwriter:
+- melnikov-vitaliy-vyacheslavovich
+cinematographer:
+- veksler-yuriy-abramovich
+composer:
+- rakhmaninov-sergey-vasilevich
+cast:
+- person: boyarskiy-mikhail-sergeevich
+- person: leonov-evgeniy-pavlovich
+- person: karachentsov-nikolay
+- person: egorova-nataliya
+- person: kryuchkova-svetlana
+- person: izotov-vladimir
+studio:
+- lenfilm

@@ -8,6 +8,30 @@ runtime_min: 137
 external_ids:
   wikidata: Q4366105
   imdb: tt0076551
+  youtube: b3lQ6xZE93k
 sources:
 - https://www.wikidata.org/wiki/Q4366105
 schema_version: 1
+director:
+- korenev-aleksey-aleksandrovich
+screenwriter:
+- azernikov-valentin-zakharovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- kolmanovskiy-eduard-savelevich
+cast:
+- person: bykov-rolan-antonovich
+- person: polskikh-galina
+- person: papanov-anatoliy-dmitrievich
+- person: evstigneev-evgeniy-aleksandrovich
+- person: basov-vladimir-pavlovich
+- person: durov-lev-konstantinovich
+- person: steblov-evgeniy-yurevich
+- person: doroshina-nina-mikhaylovna
+- person: dyuzheva-marina
+- person: zakariadze-bukhuti
+- person: klimenko-yuriy
+studio:
+- mosfilm
+- tvorcheskoe-obedinenie-televizionnykh-filmov

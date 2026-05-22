@@ -8,6 +8,26 @@ runtime_min: 97
 external_ids:
   wikidata: Q4101678
   imdb: tt0061147
+  youtube: y5D-TOVSMgM
 sources:
 - https://www.wikidata.org/wiki/Q4101678
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+screenwriter:
+- kheyfits-iosif-efimovich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: batalov-aleksey-vladimirovich
+- person: savvina-iya-sergeevna
+- person: tabakov-oleg-pavlovich
+- person: papanov-anatoliy-dmitrievich
+- person: borisov-aleksandr-fyodorovich
+- person: burkova-larisa-matveevna
+- person: popov-andrey-alekseevich
+- person: terenteva-nonna-nikolaevna
+studio:
+- lenfilm

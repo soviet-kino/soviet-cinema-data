@@ -8,6 +8,24 @@ runtime_min: 92
 external_ids:
   wikidata: Q1963834
   imdb: tt0072231
+  youtube: e0ECy37ayUw
 sources:
 - https://www.wikidata.org/wiki/Q1963834
 schema_version: 1
+director:
+- mikhalkov-nikita
+screenwriter:
+- mikhalkov-nikita
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- artemyev-eduard
+cast:
+- person: mikhalkov-nikita
+- person: kaidanovsky-aleksandr
+- person: solonitsyn-anatoly
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: bogatyryov-yuriy-georgievich
+studio:
+- mosfilm

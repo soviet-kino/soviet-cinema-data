@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4107976
 schema_version: 1
+director:
+- smirnov-andrey-sergeevich
+screenwriter:
+- chervinskiy-aleksandr-mikhaylovich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: proklova-elena-igorevna
+studio:
+- mosfilm

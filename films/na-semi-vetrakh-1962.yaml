@@ -8,6 +8,21 @@ runtime_min: 106
 external_ids:
   wikidata: Q4311016
   imdb: tt0056269
+  youtube: L_gXg8rnIWw
 sources:
 - https://www.wikidata.org/wiki/Q4311016
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+screenwriter:
+- rostotskiy-stanislav-iosifovich
+- galich-aleksandr-arkadevich
+cinematographer:
+- shumskiy-vyacheslav-mikhaylovich
+composer:
+- molchanov-kirill
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: luzhina-larisa-anatolevna
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,20 @@ runtime_min: 94
 external_ids:
   wikidata: Q4370282
   imdb: tt0155030
+  youtube: 7tqUvZIcIYE
 sources:
 - https://www.wikidata.org/wiki/Q4370282
 schema_version: 1
+director:
+- sheshukov-igor-alekseevich
+cinematographer:
+- chumak-vladimir-gavriilovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: gritsenko-liliya-olimpievna
+- person: prokhorenko-zhanna-trofimovna
+- person: yankovsky-oleg
+- person: grinko-nikolai
+studio:
+- lenfilm

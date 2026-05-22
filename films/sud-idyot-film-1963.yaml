@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116476877
 schema_version: 1
+composer:
+- dergunov-evgeniy-alekseevich
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: kramarov-saveliy-viktorovich
+- person: filippov-sergey-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

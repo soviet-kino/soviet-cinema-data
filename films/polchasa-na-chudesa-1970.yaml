@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4371122
   imdb: tt2270438
+  youtube: cDpqERxCqKk
 sources:
 - https://www.wikidata.org/wiki/Q4371122
 schema_version: 1
+director:
+- yuzovskiy-mikhail-iosifovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: mikalyunas-evaldas
+studio:
+- kinostudiya-imeni-m-gorkogo

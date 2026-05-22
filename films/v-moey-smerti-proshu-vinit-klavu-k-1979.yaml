@@ -8,6 +8,22 @@ runtime_min: 76
 external_ids:
   wikidata: Q4101740
   imdb: tt0080073
+  youtube: 04mPuVbW6kQ
 sources:
 - https://www.wikidata.org/wiki/Q4101740
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- lvovskiy-mikhail
+cinematographer:
+- mironov-valeriy-andreevich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: smekhov-veniamin-borisovich
+- person: polishchuk-lyubov
+- person: shevelkov-vladimir
+- person: ozeretskovskaya-olga-lvovna
+studio:
+- lenfilm

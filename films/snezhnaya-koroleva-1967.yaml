@@ -8,6 +8,23 @@ runtime_min: 85
 external_ids:
   wikidata: Q935893
   imdb: tt0254782
+  youtube: _XiBoSZwKUw
 sources:
 - https://www.wikidata.org/wiki/Q935893
 schema_version: 1
+director:
+- kazanskiy-gennadiy-sergeevich
+screenwriter:
+- shvarts-evgeniy-lvovich
+cinematographer:
+- ivanov-sergey-vasilevich
+- grammatikov-vadim-aleksandrovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: leonov-evgeniy-pavlovich
+- person: proklova-elena-igorevna
+- person: klimova-natalya-ivanovna
+- person: tsyupa-vyacheslav-olegovich
+studio:
+- lenfilm

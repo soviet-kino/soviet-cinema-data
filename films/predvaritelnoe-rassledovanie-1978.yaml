@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270955
 schema_version: 1
+director:
+- razumovskiy-andrey-vadimovich
+screenwriter:
+- mozhaev-boris-andreevich
+composer:
+- efremov-igor-leonidovich
+cast:
+- person: zolotukhin-valeriy
+studio:
+- mosfilm

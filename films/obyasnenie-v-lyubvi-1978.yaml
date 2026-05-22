@@ -8,6 +8,18 @@ runtime_min: 135
 external_ids:
   wikidata: Q17431067
   imdb: tt0076483
+  youtube: u5LA-NlOAMw
 sources:
 - https://www.wikidata.org/wiki/Q17431067
 schema_version: 1
+director:
+- averbakh-ilya-aleksandrovich
+screenwriter:
+- finn-pavel-konstantinovich
+cinematographer:
+- dolinin-dmitriy
+cast:
+- person: bogatyryov-yuriy-georgievich
+- person: shikulskaya-eva
+studio:
+- lenfilm

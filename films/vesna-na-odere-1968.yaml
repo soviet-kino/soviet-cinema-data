@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109513
 schema_version: 1
+director:
+- saakov-leon
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+composer:
+- kolmanovskiy-eduard-savelevich
+cast:
+- person: kuznetsov-anatoliy
+studio:
+- mosfilm

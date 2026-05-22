@@ -8,6 +8,16 @@ runtime_min: 65
 external_ids:
   wikidata: Q66580418
   imdb: tt0075304
+  youtube: qMyejsN0o70
 sources:
 - https://www.wikidata.org/wiki/Q66580418
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+screenwriter:
+- nagibin-yuriy-markovich
+cast:
+- person: burkov-georgiy-ivanovich
+- person: luzhina-larisa-anatolevna
+studio:
+- kinostudiya-imeni-m-gorkogo

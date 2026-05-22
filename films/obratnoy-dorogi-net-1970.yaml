@@ -8,6 +8,20 @@ runtime_min: 198
 external_ids:
   wikidata: Q4329833
   imdb: tt4649528
+  youtube: R5Gk9W-R8Wo
 sources:
 - https://www.wikidata.org/wiki/Q4329833
 schema_version: 1
+director:
+- lipshits-grigoriy-iosifovich
+screenwriter:
+- smirnov-viktor-vasilevich
+- bolgarin-igor-yakovlevich
+cinematographer:
+- shakhbazyan-suren
+composer:
+- gladkov-gennadiy
+cast:
+- person: olyalin-nikolay-vladimirovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

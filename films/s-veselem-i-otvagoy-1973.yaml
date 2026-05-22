@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4402925
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- chernykh-valentin-konstantinovich
+composer:
+- levitin-yuriy
+cast:
+- person: ezepov-mikhail-ivanovich
+- person: merzlikin-nikolay-nikolaevich
+- person: sabelnikova-evgeniya-alekseevna
+- person: trofimov-nikolay-nikolaevich
+studio:
+- mosfilm

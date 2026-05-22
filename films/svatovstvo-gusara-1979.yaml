@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4409998
 schema_version: 1
+director:
+- druzhinina-svetlana
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: boyarskiy-mikhail-sergeevich
+- person: koreneva-elena-alekseevna
+- person: smirnitskiy-valentin-georgievich
+- person: popov-andrey-alekseevich
+- person: barinov-aleksandr-vladimirovich
+studio:
+- mosfilm

@@ -8,6 +8,30 @@ runtime_min: 92
 external_ids:
   wikidata: Q4538809
   imdb: tt0078514
+  youtube: XOKEwvdrqCQ
 sources:
 - https://www.wikidata.org/wiki/Q4538809
 schema_version: 1
+director:
+- maslennikov-igor-fyodorovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- fedosov-valeriy-ivanovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: livanov-vasiliy
+- person: dmitriev-igor-borisovich
+- person: dzhigarkhanyan-armen-borisovich
+- person: lavrov-kirill-yurevich
+- person: mikuts-khanna
+- person: martinson-sergey-aleksandrovich
+- person: koreneva-elena-alekseevna
+- person: karachentsov-nikolay
+- person: golas-veslav
+- person: evgrafov-viktor-ivanovich
+- person: izotov-vladimir
+studio:
+- lenfilm
+- studio-filmowe-kadr

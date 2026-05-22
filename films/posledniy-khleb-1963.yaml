@@ -8,6 +8,18 @@ runtime_min: 86
 external_ids:
   wikidata: Q17043440
   imdb: tt5019796
+  youtube: LGXoAS3JJOg
 sources:
 - https://www.wikidata.org/wiki/Q17043440
 schema_version: 1
+director:
+- stepanov-boris-mikhaylovich
+screenwriter:
+- trunin-vadim-vasilevich
+cinematographer:
+- zabolotskiy-anatoliy-dmitrievich
+- marukhin-yuriy-aleksandrovich
+composer:
+- fradkin-mark
+studio:
+- belarusfilm

@@ -7,6 +7,9 @@ country:
 runtime_min: 10
 external_ids:
   wikidata: Q112977221
+  youtube: n2TltOl6xTQ
 sources:
 - https://www.wikidata.org/wiki/Q112977221
 schema_version: 1
+studio:
+- armenfilm

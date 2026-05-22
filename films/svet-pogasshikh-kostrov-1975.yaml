@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12838781
 schema_version: 1
+director:
+- tagizade-tofik-mekhdikulu-ogly
+screenwriter:
+- anar
+cinematographer:
+- ismaylov-rasim-rza-ogly
+composer:
+- sabitoglu-emin
+cast:
+- person: ogly-balaev-rasim-akhmed
+- person: gadoev-khashim
+- person: ogly-gurbanov-gamlet-agadadash
+- person: ogly-mamedov-gasan-agamamed
+- person: mamedova-shafiga-gashim-kyzy
+- person: tokhadze-givi-maksimovich
+- person: yusufov-farkhad
+- person: mamedov-elchin
+- person: shikhlinskaya-leyla-farrukh-kyzy
+- person: gulieva-inara-aleksandrovna
+studio:
+- azerbaydzhanfilm

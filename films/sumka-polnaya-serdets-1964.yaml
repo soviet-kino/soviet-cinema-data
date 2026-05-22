@@ -8,6 +8,21 @@ runtime_min: 84
 external_ids:
   wikidata: Q4445997
   imdb: tt5035726
+  youtube: jChFyLHiWro
 sources:
 - https://www.wikidata.org/wiki/Q4445997
 schema_version: 1
+director:
+- bukovskiy-anatoliy-sergeevich
+screenwriter:
+- pisatel-fyodorov-vladimir-ivanovich
+cinematographer:
+- tyshkovets-valentina-alekseevna
+composer:
+- bilash-aleksandr-ivanovich
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: vladimirova-valentina-kharlampievna
+- person: giatsintova-sofya-vladimirovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

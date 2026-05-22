@@ -8,6 +8,19 @@ runtime_min: 85
 external_ids:
   wikidata: Q4450342
   imdb: tt4818658
+  youtube: cpdPIW2WvqA
 sources:
 - https://www.wikidata.org/wiki/Q4450342
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- annenskiy-isidor-markovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: pelikhovskaya-svetlana-anatolevna
+studio:
+- kinostudiya-imeni-m-gorkogo

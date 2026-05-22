@@ -8,6 +8,23 @@ runtime_min: 84
 external_ids:
   wikidata: Q4462739
   imdb: tt0062392
+  youtube: M6OdiXLk5w0
 sources:
 - https://www.wikidata.org/wiki/Q4462739
 schema_version: 1
+director:
+- malyan-genrikh
+screenwriter:
+- ayvazyan-agasi
+cinematographer:
+- israelyan-sergey
+composer:
+- bagdasaryan-eduard
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: mkrtchyan-frunzik
+- person: arsenov-pavel-oganezovich
+- person: sarkisyan-sos
+- person: ilinichna-alabina-inna
+studio:
+- armenfilm

@@ -8,6 +8,13 @@ runtime_min: 141
 external_ids:
   wikidata: Q4339912
   imdb: tt0142745
+  youtube: 9pbIJnNi6Iw
 sources:
 - https://www.wikidata.org/wiki/Q4339912
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+cast:
+- person: dal-oleg-ivanovich
+studio:
+- lenfilm

@@ -8,6 +8,34 @@ runtime_min: 77
 external_ids:
   wikidata: Q4519266
   imdb: tt0255594
+  youtube: Ig3BrWIvZp8
 sources:
 - https://www.wikidata.org/wiki/Q4519266
 schema_version: 1
+director:
+- birman-naum-borisovich
+screenwriter:
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- chirov-aleksandr-viktorovich
+composer:
+- pozhlakov-stanislav-ivanovich
+cast:
+- person: gurchenko-lyudmila
+- person: mironov-andrey
+- person: leonov-evgeniy-pavlovich
+- person: titova-valentina-antipovna
+- person: vitsin-georgiy-mikhaylovich
+- person: solovey-elena-yakovlevna
+- person: basov-vladimir-pavlovich
+- person: durov-lev-konstantinovich
+- person: vladimirova-valentina-kharlampievna
+- person: volkov-nikolay-nikolaevich
+- person: shcherbakov-boris-vasilevich
+- person: morozov-semyon-mikhaylovich
+- person: popov-andrey-alekseevich
+- person: tsyplakova-elena-oktyabrevna
+- person: rudakov-anatoliy-rodionovich
+studio:
+- lenfilm
+poster_commons: Strimaitis shag.jpg

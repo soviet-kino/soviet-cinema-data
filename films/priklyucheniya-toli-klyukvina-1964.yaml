@@ -8,6 +8,21 @@ runtime_min: 67
 external_ids:
   wikidata: Q4378438
   imdb: tt0058491
+  youtube: qnHgN6msIR8
 sources:
 - https://www.wikidata.org/wiki/Q4378438
 schema_version: 1
+director:
+- eysymont-viktor-vladislavovich
+screenwriter:
+- nosov-nikolay-nikolaevich
+cinematographer:
+- monastyrskiy-boris-savelevich
+composer:
+- lepin-anatoliy-yakovlevich
+- partskhaladze-merab
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: grebeshkova-nina
+studio:
+- kinostudiya-imeni-m-gorkogo

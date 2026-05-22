@@ -8,6 +8,23 @@ runtime_min: 38
 external_ids:
   wikidata: Q4438007
   imdb: tt0066399
+  youtube: JqrRWtVkBJc
 sources:
 - https://www.wikidata.org/wiki/Q4438007
 schema_version: 1
+director:
+- mikhalkov-nikita
+screenwriter:
+- ibragimbekov-rustam
+composer:
+- artemyev-eduard
+cast:
+- person: arinbasarova-natalya-utevlevna
+- person: kaidanovsky-aleksandr
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: nikonenko-sergey
+- person: durov-lev-konstantinovich
+- person: smirnitskiy-valentin-georgievich
+- person: bogatyryov-yuriy-georgievich
+studio:
+- mosfilm

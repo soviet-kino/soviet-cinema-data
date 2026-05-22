@@ -8,6 +8,19 @@ runtime_min: 22
 external_ids:
   wikidata: Q97187745
   imdb: tt0175160
+  youtube: R01VilweboM
 sources:
 - https://www.wikidata.org/wiki/Q97187745
 schema_version: 1
+director:
+- shakhnazarov-karen
+screenwriter:
+- shakhnazarov-karen
+- shukshin-vasiliy
+cinematographer:
+- shevtsik-vladimir-karlovich
+composer:
+- nazaruk-igor-nikolaevich
+studio:
+- mosfilm
+- vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova

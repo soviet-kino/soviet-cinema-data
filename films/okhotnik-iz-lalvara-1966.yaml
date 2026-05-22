@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20507392
 schema_version: 1
+director:
+- ay-artyan-artashes
+screenwriter:
+- ay-artyan-artashes
+cinematographer:
+- dildaryan-ivan
+- vartanyan-zhirayr
+composer:
+- aristakesyan-emin
+cast:
+- person: abramyan-khoren
+- person: malyan-david
+- person: lisitsyan-gerasim
+- person: bagratuni-vagan
+- person: manukyan-mamikon
+- person: marguni-vaginak
+- person: garagash-anna
+- person: panoyan-vruyr
+- person: egyan-anatoliya
+- person: dzhagatspanyan-avetik
+- person: demuryan-tamara
+studio:
+- armenfilm

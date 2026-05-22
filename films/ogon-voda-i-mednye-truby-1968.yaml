@@ -8,6 +8,29 @@ runtime_min: 81
 external_ids:
   wikidata: Q932464
   imdb: tt0063380
+  youtube: XJeH1wkx80o
 sources:
 - https://www.wikidata.org/wiki/Q932464
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- erdman-nikolay-robertovich
+- volpin-mikhail-davydovich
+cinematographer:
+- surenskiy-dmitriy-vasilevich
+composer:
+- budashkin-nikolay-pavlovich
+cast:
+- person: zueva-anastasiya-platonovna
+- person: sedykh-natalya-evgenevna
+- person: pugovkin-mikhail-ivanovich
+- person: altayskaya-vera-vladimirovna
+- person: smirnov-aleksey-makarovich
+- person: millyar-georgiy-frantsevich
+- person: pavlenko-pavel-pavlovich
+- person: katyshev-aleksey-yurevich
+- person: kubatskiy-anatoliy-lvovich
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- kinostudiya-imeni-m-gorkogo

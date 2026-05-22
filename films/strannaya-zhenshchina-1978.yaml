@@ -8,6 +8,24 @@ runtime_min: 147
 external_ids:
   wikidata: Q4443353
   imdb: tt0076773
+  youtube: MzIPA7gAzvM
 sources:
 - https://www.wikidata.org/wiki/Q4443353
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- ardashnikov-naum-mikhaylovich
+composer:
+- ledenyov-roman-semyonovich
+cast:
+- person: todorovskiy-valeriy-petrovich
+- person: lanovoy-vasiliy-semyonovich
+- person: kupchenko-irina-petrovna
+- person: bogdanova-antonina
+- person: vavilov-oleg-mikhaylovich
+- person: korkoshko-svetlana-ivanovna
+studio:
+- mosfilm

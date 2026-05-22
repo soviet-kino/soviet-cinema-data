@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4331563
 schema_version: 1
+director:
+- poloka-gennadiy-ivanovich
+screenwriter:
+- merezhko-viktor
+cinematographer:
+- mezentsev-evgeniy-mikhaylovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: karachentsov-nikolay
+- person: arkhipova-nina
+- person: krepkogorskaya-muza-viktorovna
+studio:
+- lenfilm
+poster_commons: Strimaitis odin.jpg

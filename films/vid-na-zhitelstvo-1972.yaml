@@ -8,6 +8,19 @@ runtime_min: 89
 external_ids:
   wikidata: Q4110562
   imdb: tt0332814
+  youtube: 5qZ_lKUeNd0
 sources:
 - https://www.wikidata.org/wiki/Q4110562
 schema_version: 1
+director:
+- aleksandr-borisovich-stefanovich
+- gvasaliya-omar-mikhaylovich
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+- ilich-shlepyanov-aleksandr
+cast:
+- person: filozov-albert-leonidovich
+- person: obolenskiy-leonid-leonidovich
+- person: fyodorova-viktoriya-yakovlevna
+studio:
+- mosfilm

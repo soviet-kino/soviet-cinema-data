@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12838528
 schema_version: 1
+director:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+screenwriter:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+cinematographer:
+- kerimov-valeri
+cast:
+- person: rasul-ogly-rasul-zade-natig
+- person: dzhabrailov-rasmi-khalidovich
+- person: tsakhilova-zemfira-avramovna
+studio:
+- azerbaydzhanfilm

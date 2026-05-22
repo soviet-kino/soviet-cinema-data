@@ -8,6 +8,20 @@ runtime_min: 82
 external_ids:
   wikidata: Q4384244
   imdb: tt0170477
+  youtube: JjM5XGRKtQo
 sources:
 - https://www.wikidata.org/wiki/Q4384244
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- zheleznikov-vladimir-karpovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- chargeyshvili-nektarios
+cast:
+- person: zemlyanikin-vladimir-mikhaylovich
+- person: khityaeva-lyudmila-ivanovna
+studio:
+- kinostudiya-imeni-m-gorkogo

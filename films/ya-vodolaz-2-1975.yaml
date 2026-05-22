@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4535764
 schema_version: 1
+director:
+- ilich-khmelnitskiy-vladimir
+screenwriter:
+- korotich-vitaliy-alekseevich
+cinematographer:
+- garmash-yuriy-timofeevich
+cast:
+- person: dyachkov-leonid
+- person: leonov-gladyshev-evgeniy-borisovich
+- person: milyutin-aleksandr-nikolaevich
+- person: serdyuk-aleksandr-aleksandrovich
+- person: viktor-malyarevich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28664531
 schema_version: 1
+director:
+- koltsov-vitaliy-mikhaylovich
+screenwriter:
+- tarasov-sergey
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- silantev-yuriy-vasilevich
+cast:
+- person: durov-lev-konstantinovich
+- person: doronina-tatyana-vasilevna
+- person: khimichev-boris-petrovich
+studio:
+- mosfilm

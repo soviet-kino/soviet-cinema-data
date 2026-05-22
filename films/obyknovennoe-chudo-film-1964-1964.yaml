@@ -8,6 +8,23 @@ runtime_min: 94
 external_ids:
   wikidata: Q4330575
   imdb: tt0058423
+  youtube: MT5JesgpJgE
 sources:
 - https://www.wikidata.org/wiki/Q4330575
 schema_version: 1
+director:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+screenwriter:
+- garin-erast-pavlovich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: vidov-oleg-borisovich
+- person: garin-erast-pavlovich
+- person: georgiu-georgiy-aleksandrovich
+- person: konsovskiy-aleksey-anatolevich
+- person: zorskaya-nina-antonovna
+- person: maksimova-nelli-vasilevna
+studio:
+- kinostudiya-imeni-m-gorkogo

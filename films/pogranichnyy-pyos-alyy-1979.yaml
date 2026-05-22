@@ -8,6 +8,22 @@ runtime_min: 71
 external_ids:
   wikidata: Q4366855
   imdb: tt0160679
+  youtube: 7ws_6zPE6S0
 sources:
 - https://www.wikidata.org/wiki/Q4366855
 schema_version: 1
+director:
+- fayt-yuliy-andreevich
+screenwriter:
+- golovanov-vladimir-antonovich
+composer:
+- kallosh-shandor-ernestovich
+cast:
+- person: begalin-nartay-mazhitovich
+- person: kosykh-viktor
+- person: silin-aleksandr-alekseevich
+- person: druz-yana-andreevna
+- person: kosukhin-igor-yakovlevich
+- person: dubrovskiy-vladimir
+studio:
+- kinostudiya-imeni-m-gorkogo

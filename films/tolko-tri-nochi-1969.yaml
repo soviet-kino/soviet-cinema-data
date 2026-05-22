@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17057247
 schema_version: 1
+director:
+- egiazarov-gavriil-georgievich
+screenwriter:
+- borshchagovskiy-aleksandr-mikhaylovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: grinko-nikolai
+- person: efremov-oleg-nikolaevich
+- person: sokolova-lyubov-sergeevna
+- person: gulyaeva-nina-ivanovna
+- person: kalinin-sergey-ivanovich
+- person: kozinets-valeriy-evseevich
+- person: nikishchikhina-elizaveta-sergeevna
+- person: korotkova-irina-yurevna
+- person: vorobey-vladimir-vatslavovich
+studio:
+- mosfilm

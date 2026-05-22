@@ -8,6 +8,25 @@ runtime_min: 90
 external_ids:
   wikidata: Q4461814
   imdb: tt0135005
+  youtube: P1XM8A-YdRU
 sources:
 - https://www.wikidata.org/wiki/Q4461814
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+screenwriter:
+- leonov-nikolay-ivanovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- eshpay-andrey
+cast:
+- person: syomina-tamara-petrovna
+- person: galibin-aleksandr-vladimirovich
+- person: eryomenko-nikolay-nikolaevich
+- person: grigorev-konstantin-konstantinovich
+- person: korolkov-gennadiy-anatolevich
+- person: perevalov-viktor-porfirovich
+- person: prygunov-lev-georgievich
+studio:
+- mosfilm

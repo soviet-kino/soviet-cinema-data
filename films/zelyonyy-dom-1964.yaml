@@ -8,6 +8,19 @@ runtime_min: 90
 external_ids:
   wikidata: Q97187150
   imdb: tt5031848
+  youtube: 5a9YyAKfw8E
 sources:
 - https://www.wikidata.org/wiki/Q97187150
 schema_version: 1
+director:
+- frolov-andrey-vladimirovich
+screenwriter:
+- mozhaev-boris-andreevich
+cinematographer:
+- lukshin-igor-vasilevich
+composer:
+- solovyov-sedoy-vasiliy-pavlovich
+cast:
+- person: seleznyov-vladimir-prokhorovich
+studio:
+- sverdlovskaya-kinostudiya

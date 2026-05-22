@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q55659540
   imdb: tt0061061
+  youtube: rNjUpB5lNjY
 sources:
 - https://www.wikidata.org/wiki/Q55659540
 schema_version: 1
+director:
+- fyodorova-mariya-nikolaevna
+composer:
+- krylatov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

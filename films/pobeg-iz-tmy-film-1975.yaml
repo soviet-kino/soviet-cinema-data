@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131005225
 schema_version: 1
+director:
+- agzamov-yuldash
+cinematographer:
+- pann-aleksandr
+cast:
+- person: akhmedov-yakub
+- person: rakhimov-nabi
+- person: khodzhaev-alim
+- person: shakirova-tamara-khalimovna
+studio:
+- uzbekfilm

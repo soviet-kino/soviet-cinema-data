@@ -6,6 +6,13 @@ country:
 - SU
 external_ids:
   wikidata: Q16368766
+  imdb: tt0270932
 sources:
 - https://www.wikidata.org/wiki/Q16368766
 schema_version: 1
+director:
+- esadze-rezo
+composer:
+- bobokhidze-yakov
+studio:
+- gruziya-film

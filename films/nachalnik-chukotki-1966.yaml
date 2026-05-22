@@ -8,6 +8,19 @@ runtime_min: 86
 external_ids:
   wikidata: Q4315165
   imdb: tt0169069
+  youtube: rqsj1T9Ethc
 sources:
 - https://www.wikidata.org/wiki/Q4315165
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: kononov-mikhail-ivanovich
+studio:
+- lenfilm

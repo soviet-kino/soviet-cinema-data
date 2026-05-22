@@ -10,3 +10,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19801188
 schema_version: 1
+director:
+- vyatich-berezhnykh-damir-alekseevich
+screenwriter:
+- vyatich-berezhnykh-damir-alekseevich
+- kozhevnikov-vadim-mikhaylovich
+cinematographer:
+- zaytsev-sergey-alekseevich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: kuravlyov-leonid-vyacheslavovich
+- person: ananina-valentina-georgievna
+- person: volskaya-elena-ivanovna
+- person: gvozdikova-natalya-fyodorovna
+- person: danilova-aleksandra-sergeevna
+- person: muratov-radner-zinyatovich
+- person: nosik-valeriy-benediktovich
+- person: nosik-vladimir
+- person: pitsek-vladimir-kondratevich
+- person: prygunov-lev-georgievich
+- person: soshnikova-olga-ilinichna
+- person: spiridonov-vadim-semyonovich
+- person: stolyarov-kirill-sergeevich
+- person: uralskiy-viktor-vladimirovich
+- person: shulgin-viktor-sergeevich
+- person: yushko-german-ivanovich
+- person: lyubeshkin-pyotr-vladimirovich
+- person: barmin-nikolay-mikhaylovich
+studio:
+- mosfilm

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4407191
   imdb: tt2932684
+  youtube: NBAGcuwZovw
 sources:
 - https://www.wikidata.org/wiki/Q4407191
 schema_version: 1
+director:
+- puchinyan-stepan-filippovich
+cinematographer:
+- filippov-sergey-petrovich
+cast:
+- person: zhakov-oleg-petrovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: ilich-zharikov-evgeniy
+studio:
+- kinostudiya-imeni-m-gorkogo

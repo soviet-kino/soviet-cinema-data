@@ -8,6 +8,31 @@ runtime_min: 80
 external_ids:
   wikidata: Q4417916
   imdb: tt0054293
+  youtube: i9SxQkt-Kyc
 sources:
 - https://www.wikidata.org/wiki/Q4417916
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+- talankin-igor-vasilevich
+screenwriter:
+- panova-vera-fyodorovna
+- daneliya-georgiy-nikolaevich
+- talankin-igor-vasilevich
+cinematographer:
+- nitochkin-anatoliy-dmitrievich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: sokolova-lyubov-sergeevna
+- person: skobtseva-irina-konstantinovna
+- person: merkurev-vasiliy-vasilevich
+- person: brovkin-vyacheslav-vladimirovich
+- person: vinnik-pavel-borisovich
+- person: zharova-margarita-vasilevna
+- person: kudryashyov-evgeniy-efimovich
+- person: panova-aleksandra-petrovna
+- person: kiryutkin-pyotr-ivanovich
+studio:
+- mosfilm

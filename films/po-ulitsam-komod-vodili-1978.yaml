@@ -8,6 +8,23 @@ runtime_min: 68
 external_ids:
   wikidata: Q4366124
   imdb: tt0078094
+  youtube: UgiqFskTrps
 sources:
 - https://www.wikidata.org/wiki/Q4366124
 schema_version: 1
+director:
+- genin-mark-samuilovich
+screenwriter:
+- genin-mark-samuilovich
+- inin-arkadiy
+cinematographer:
+- silchenko-fyodor
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: demyanenko-aleksandr-sergeevich
+- person: kramarov-saveliy-viktorovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: seleznyova-natalya-igorevna
+studio:
+- odesskaya-kinostudiya

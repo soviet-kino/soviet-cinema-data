@@ -1,0 +1,9 @@
+id: stayger-rod
+name_ru: Род Стайгер
+roles:
+- actor
+external_ids:
+  wikidata: Q273215
+sources:
+- https://www.wikidata.org/wiki/Q273215
+schema_version: 1

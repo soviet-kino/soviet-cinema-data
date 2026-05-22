@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16411530
 schema_version: 1
+director:
+- kromanov-grigoriy
+- myuyr-yuri
+screenwriter:
+- myuyr-yuri
+cinematographer:
+- garshnek-yuri
+composer:
+- tamberg-eyno
+cast:
+- person: eskola-ants
+- person: rammo-leida
+- person: lepa-astrid
+- person: salulaht-elmar
+studio:
+- tallinfilm

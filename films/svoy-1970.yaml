@@ -8,6 +8,13 @@ runtime_min: 88
 external_ids:
   wikidata: Q97171530
   imdb: tt0065053
+  youtube: 7jUMFX_hIo8
 sources:
 - https://www.wikidata.org/wiki/Q97171530
 schema_version: 1
+director:
+- agranovich-leonid-danilovich
+composer:
+- ziv-mikhail-pavlovich
+studio:
+- mosfilm

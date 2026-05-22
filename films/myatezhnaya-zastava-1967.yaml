@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15632956
 schema_version: 1
+director:
+- bergunker-adolf-solomonovich
+screenwriter:
+- vlasov-aleksandr-efimovich
+- mlodik-arkadiy-markovich
+cinematographer:
+- kukhovarenko-oleg-yurevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: chirkov-boris-petrovich
+- person: borisov-oleg-ivanovich
+- person: nevinnyy-vyacheslav-mikhaylovich
+studio:
+- lenfilm

@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q4438037
   imdb: tt0066400
+  youtube: FUTA12nJ7pY
 sources:
 - https://www.wikidata.org/wiki/Q4438037
 schema_version: 1
+director:
+- klimov-elem
+screenwriter:
+- klimov-german-germanovich
+composer:
+- schnittke-alfred
+cast:
+- person: svetlani-georgiy
+studio:
+- mosfilm

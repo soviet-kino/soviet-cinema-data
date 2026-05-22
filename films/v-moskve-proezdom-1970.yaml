@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4101657
   imdb: tt0166863
+  youtube: D3vCXYot-P4
 sources:
 - https://www.wikidata.org/wiki/Q4101657
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+screenwriter:
+- drobiz-german-fyodorovich
+composer:
+- frenkel-yan-abramovich
+cast:
+- person: karelskikh-evgeniy-konstantinovich
+studio:
+- kinostudiya-imeni-m-gorkogo

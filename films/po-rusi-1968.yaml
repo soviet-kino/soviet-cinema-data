@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4366078
 schema_version: 1
+director:
+- filippov-fedir-ivanovich
+screenwriter:
+- simukov-aleksey
+cinematographer:
+- saveleva-era-mikhaylovna
+composer:
+- pirumov-aleksandr-ivanovich
+cast:
+- person: chursina-lyudmila-alekseevna
+- person: loktev-aleksey-vasilevich
+- person: filippov-roman-sergeevich
+studio:
+- mosfilm

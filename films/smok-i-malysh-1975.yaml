@@ -8,6 +8,16 @@ runtime_min: 230
 external_ids:
   wikidata: Q4424908
   imdb: tt0195279
+  youtube: OCd9Jnuvd9I
 sources:
 - https://www.wikidata.org/wiki/Q4424908
 schema_version: 1
+director:
+- vabalas-raymondas
+composer:
+- ganelin-vyacheslav-shevelevich
+cast:
+- person: smekhov-veniamin-borisovich
+- person: girdvaynis-gediminas
+studio:
+- litovskaya-kinostudiya

@@ -8,6 +8,25 @@ runtime_min: 73
 external_ids:
   wikidata: Q4108123
   imdb: tt0182512
+  youtube: s71GnrtJwVc
 sources:
 - https://www.wikidata.org/wiki/Q4108123
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+- durov-boris
+screenwriter:
+- tarasov-sergey
+- rasheev-nikolay-georgievich
+composer:
+- vysotskiy-vladimir
+- gubaydulina-sofiya-asgatovna
+cast:
+- person: vysotskiy-vladimir
+- person: voropaev-gennadiy-ivanovich
+- person: zakariadze-bukhuti
+- person: kosheleva-margarita
+- person: luzhina-larisa-anatolevna
+- person: fadeev-aleksandr
+studio:
+- odesskaya-kinostudiya

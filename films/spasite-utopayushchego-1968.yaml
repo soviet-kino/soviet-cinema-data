@@ -8,6 +8,21 @@ runtime_min: 70
 external_ids:
   wikidata: Q16514669
   imdb: tt0062294
+  youtube: 2CFU38duF48
 sources:
 - https://www.wikidata.org/wiki/Q16514669
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- zak-avenir-grigorevich
+- kuznetsov-isay
+composer:
+- tariverdiev-mikael
+cast:
+- person: vitsin-georgiy-mikhaylovich
+- person: derzhavin-mikhail-mikhaylovich
+- person: nosik-valeriy-benediktovich
+- person: shirvindt-aleksandr-anatolevich
+studio:
+- kinostudiya-imeni-m-gorkogo

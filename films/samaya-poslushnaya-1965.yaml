@@ -6,6 +6,16 @@ country:
 - SU
 external_ids:
   wikidata: Q116772011
+  youtube: ZRnDyWbLELc
 sources:
 - https://www.wikidata.org/wiki/Q116772011
 schema_version: 1
+director:
+- gurevich-leonid-abramovich
+- abdyldaev-bekesh
+screenwriter:
+- gurevich-leonid-abramovich
+- lungin-semyon
+- nusinov-ilya
+studio:
+- kyrgyzfilm

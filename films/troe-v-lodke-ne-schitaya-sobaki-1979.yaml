@@ -8,6 +8,23 @@ runtime_min: 127
 external_ids:
   wikidata: Q4463348
   imdb: tt0230898
+  youtube: GocUKRAU-CU
 sources:
 - https://www.wikidata.org/wiki/Q4463348
 schema_version: 1
+director:
+- birman-naum-borisovich
+screenwriter:
+- lungin-semyon
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- kolker-aleksandr
+cast:
+- person: mironov-andrey
+- person: derzhavin-mikhail-mikhaylovich
+- person: shirvindt-aleksandr-anatolevich
+studio:
+- lenfilm
+- ekran
+- tvorcheskoe-obedinenie-televizionnykh-filmov

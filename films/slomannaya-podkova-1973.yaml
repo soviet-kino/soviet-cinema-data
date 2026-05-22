@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4423913
 schema_version: 1
+director:
+- semyon-davidovich-aranovich
+screenwriter:
+- vaynshtok-vladimir-petrovich
+- finn-pavel-konstantinovich
+cinematographer:
+- dolinin-dmitriy
+- shapiro-evgeniy-veniaminovich
+composer:
+- grinblat-romuald-samuilovich
+cast:
+- person: neyolova-marina-mstislavovna
+- person: eskola-ants
+- person: yurskiy-sergey-yurevich
+- person: paukshte-vitautas
+studio:
+- lenfilm

@@ -8,6 +8,21 @@ runtime_min: 84
 external_ids:
   wikidata: Q24026897
   imdb: tt4714098
+  youtube: -h8Yly26euw
 sources:
 - https://www.wikidata.org/wiki/Q24026897
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- mass-vladimir-zakharovich
+- sherstobitov-evgeniy-firsovich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: mishulin-spartak-vasilevich
+- person: solovyov-nikolay-nikolaevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

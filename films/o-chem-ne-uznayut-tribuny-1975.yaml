@@ -8,6 +8,15 @@ runtime_min: 76
 external_ids:
   wikidata: Q115047189
   imdb: tt5365188
+  youtube: gGA_5SIO1pg
 sources:
 - https://www.wikidata.org/wiki/Q115047189
 schema_version: 1
+director:
+- bazelyan-yakov
+screenwriter:
+- trifonov-yuriy-valentinovich
+composer:
+- khozak-rafail-matveevich
+studio:
+- kinostudiya-imeni-m-gorkogo

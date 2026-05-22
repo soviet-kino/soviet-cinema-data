@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1661420
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+screenwriter:
+- baklanov-grigoriy-yakovlevich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: solomin-vitaliy-mefodevich
+- person: rogovtseva-ada-nikolaevna
+- person: vladimirova-valentina-kharlampievna
+- person: tatosov-vladimir-mikhaylovich
+- person: guterres-ankhel
+studio:
+- lenfilm

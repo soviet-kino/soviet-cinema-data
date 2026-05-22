@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q28705859
   imdb: tt5084498
+  youtube: PdZW1XiNR5k
 sources:
 - https://www.wikidata.org/wiki/Q28705859
 schema_version: 1
+director:
+- ilinskiy-nikolay-serafimovich
+cinematographer:
+- pluchik-eduard
+composer:
+- grabovskiy-leonid-aleksandrovich
+cast:
+- person: brondukov-borislav-nikolaevich
+- person: lavrova-tatyana-evgenevna
+- person: zhzhyonov-georgiy-stepanovich
+- person: kolpakov-viktor-mikhaylovich
+- person: leftiy-antonina-vladimirovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q4339280
   imdb: tt1373196
+  youtube: Y0rbT1uWOr8
 sources:
 - https://www.wikidata.org/wiki/Q4339280
 schema_version: 1
+director:
+- strautmane-rasa
+screenwriter:
+- uspenskiy-eduard
+composer:
+- efremov-igor-leonidovich
+studio:
+- ekran

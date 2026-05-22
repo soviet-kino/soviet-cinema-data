@@ -1,0 +1,9 @@
+id: straume-egils
+name_ru: Эгилс Страуме
+roles:
+- composer
+external_ids:
+  wikidata: Q4443444
+sources:
+- https://www.wikidata.org/wiki/Q4443444
+schema_version: 1

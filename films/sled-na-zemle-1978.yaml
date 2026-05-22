@@ -8,6 +8,22 @@ runtime_min: 83
 external_ids:
   wikidata: Q15271019
   imdb: tt3097730
+  youtube: zLWas4DC2lU
 sources:
 - https://www.wikidata.org/wiki/Q15271019
 schema_version: 1
+director:
+- birman-naum-borisovich
+screenwriter:
+- gonik-vladimir-semyonovich
+cinematographer:
+- chirov-aleksandr-viktorovich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: pavlov-viktor-pavlovich
+- person: gundareva-natalya-georgievna
+- person: samoylov-vladimir-yakovlevich
+- person: ivanov-boris-vladimirovich
+studio:
+- lenfilm

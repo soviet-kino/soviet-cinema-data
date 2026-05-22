@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13050808
 schema_version: 1
+director:
+- erzinkyan-yuriy
+screenwriter:
+- matevosyan-grant
+cinematographer:
+- vatinyan-rudolf
+- muradyan-ruben
+composer:
+- mansuryan-tigran
+cast:
+- person: sarkisyan-sos
+- person: manukyan-guzh
+- person: novents-galya
+- person: muradyan-margarita
+- person: miridzhanyan-verdzhaluys
+- person: azizyan-yakov
+- person: sarkisyan-sofiya
+studio:
+- armenfilm

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4191130
 schema_version: 1
+director:
+- vinogradov-valentin-nikolaevich
+cast:
+- person: nikonenko-sergey
+studio:
+- mosfilm

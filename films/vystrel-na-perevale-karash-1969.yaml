@@ -23,3 +23,8 @@ composer:
 studio:
 - kyrgyzfilm
 - kazakhfilm
+cast:
+- person: uralskiy-viktor-vladimirovich
+- person: chokmorov-suymenkul
+- person: zhumadylov-sovetbek
+- person: ryskulov-muratbek-ryskulovich

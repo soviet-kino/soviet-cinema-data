@@ -8,6 +8,19 @@ runtime_min: 97
 external_ids:
   wikidata: Q4368912
   imdb: tt0174954
+  youtube: RTWMltXur3Y
 sources:
 - https://www.wikidata.org/wiki/Q4368912
 schema_version: 1
+director:
+- lavrov-german
+screenwriter:
+- shukshin-vasiliy
+cinematographer:
+- avdeyev-yuri
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: fedoseeva-shukshina-lidiya-nikolaevna
+studio:
+- mosfilm

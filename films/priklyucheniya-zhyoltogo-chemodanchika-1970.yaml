@@ -8,6 +8,24 @@ runtime_min: 76
 external_ids:
   wikidata: Q1210857
   imdb: tt0066245
+  youtube: ypcnUfqk5ns
 sources:
 - https://www.wikidata.org/wiki/Q1210857
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- prokofeva-sofya-leonidovna
+- frez-ilya-abramovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- frenkel-yan-abramovich
+cast:
+- person: popov-oleg-konstantinovich
+- person: zelyonaya-rina
+- person: pelttser-tatyana-ivanovna
+- person: lebedev-evgeniy-alekseevich
+- person: gromov-andrey-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

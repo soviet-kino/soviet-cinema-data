@@ -22,3 +22,10 @@ composer:
 studio:
 - armenfilm
 poster_commons: Հեղնար աղբյուր.jpg
+cast:
+- person: sarkisyan-sos
+- person: gasparyan-azat-nikolaevich
+- person: manukyan-guzh
+- person: novents-galya
+- person: arutyunyan-gegam
+- person: azizyan-yakov

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4331562
 schema_version: 1
+director:
+- sadovskiy-viktor-aleksandrovich
+screenwriter:
+- ezhov-valentin-ivanovich
+- sadovskiy-viktor-aleksandrovich
+composer:
+- chistyakov-vladlen
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: dzhigarkhanyan-armen-borisovich
+- person: demyanenko-aleksandr-sergeevich
+- person: virolaynen-lyubov-ivanovna
+- person: goloborodko-aleksandr-aleksandrovich
+- person: demich-yuriy-aleksandrovich
+- person: dobryakov-igor-georgievich
+studio:
+- lenfilm

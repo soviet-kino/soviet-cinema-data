@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4368716
 schema_version: 1
+cast:
+- person: zueva-anastasiya-platonovna
+- person: gribov-aleksey-nikolaevich
+studio:
+- rizhskaya-kinostudiya

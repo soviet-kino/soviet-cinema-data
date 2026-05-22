@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4375674
 schema_version: 1
+director:
+- khrabrovitskiy-daniil-yakovlevich
+screenwriter:
+- khrabrovitskiy-daniil-yakovlevich
+cinematographer:
+- ardashnikov-naum-mikhaylovich
+composer:
+- ledenyov-roman-semyonovich
+cast:
+- person: strzhelchik-vladislav-ignatevich
+studio:
+- mosfilm

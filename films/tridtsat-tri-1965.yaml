@@ -8,6 +8,34 @@ runtime_min: 72
 external_ids:
   wikidata: Q1965325
   imdb: tt0059832
+  youtube: Qzm6JXJw-sc
 sources:
 - https://www.wikidata.org/wiki/Q1965325
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- daneliya-georgiy-nikolaevich
+- ezhov-valentin-ivanovich
+- konetskiy-viktor-viktorovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: mordyukova-nonna-viktorovna
+- person: churikova-inna
+- person: avdyushko-viktor-antonovich
+- person: leonov-evgeniy-pavlovich
+- person: mkrtchyan-frunzik
+- person: sokolova-lyubov-sergeevna
+- person: skobtseva-irina-konstantinovna
+- person: kramarov-saveliy-viktorovich
+- person: svetlichnaya-svetlana-afanasevna
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: martinson-sergey-aleksandrovich
+- person: basov-vladimir-pavlovich
+- person: sarantsev-yuriy-dmitrievich
+- person: gennadiy-yalovich
+studio:
+- mosfilm

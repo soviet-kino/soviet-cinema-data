@@ -8,6 +8,22 @@ runtime_min: 133
 external_ids:
   wikidata: Q15270972
   imdb: tt0073583
+  youtube: 3hwXHPSZqbQ
 sources:
 - https://www.wikidata.org/wiki/Q15270972
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- zak-avenir-grigorevich
+- kuznetsov-isay
+composer:
+- tariverdiev-mikael
+cast:
+- person: kikabidze-vakhtang
+- person: grinko-nikolai
+- person: kaidanovsky-aleksandr
+- person: simonova-evgeniya-pavlovna
+- person: shevkunenko-sergey-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

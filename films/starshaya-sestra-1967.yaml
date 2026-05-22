@@ -8,6 +8,19 @@ runtime_min: 102
 external_ids:
   wikidata: Q4440845
   imdb: tt0061028
+  youtube: TRq3fSvQOfE
 sources:
 - https://www.wikidata.org/wiki/Q4440845
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+screenwriter:
+- volodin-aleksandr-moiseevich
+composer:
+- chistyakov-vladlen
+cast:
+- person: zharov-mikhail-ivanovich
+- person: doronina-tatyana-vasilevna
+- person: tenyakova-natalya-maksimovna
+studio:
+- mosfilm

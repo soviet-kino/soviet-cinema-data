@@ -21,3 +21,9 @@ composer:
 studio:
 - mosfilm
 - kazakhfilm
+cast:
+- person: arinbasarova-natalya-utevlevna
+- person: shakurov-sergey-kayumovich
+- person: eryomenko-nikolay-nikolaevich
+- person: dyachkov-leonid
+- person: romanov-ernst-ivanovich

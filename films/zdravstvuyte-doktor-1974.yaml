@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q66611079
   imdb: tt4825520
+  youtube: 5MTTlefLTEs
 sources:
 - https://www.wikidata.org/wiki/Q66611079
 schema_version: 1
+director:
+- levin-vasiliy-nikolaevich
+cast:
+- person: lanovoy-vasiliy-semyonovich
+- person: vedeneeva-tatyana-veniaminovna
+- person: volkov-nikolay-nikolaevich-2
+- person: vorkul-zinaida-venediktovna
+- person: krupnik-semyon-samoylovich
+- person: yatskina-galina-ivanovna
+- person: saburov-boris-aleksandrovich
+studio:
+- odesskaya-kinostudiya

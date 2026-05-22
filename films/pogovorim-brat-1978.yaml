@@ -8,6 +8,28 @@ runtime_min: 138
 external_ids:
   wikidata: Q21393961
   imdb: tt0131541
+  youtube: 3QsEw6koswk
 sources:
 - https://www.wikidata.org/wiki/Q21393961
 schema_version: 1
+director:
+- chulyukin-yuriy-stepanovich
+screenwriter:
+- kushnirenko-georgiy-anatolevich
+- ivanov-albert-anatolevich
+composer:
+- gradskiy-aleksandr
+cast:
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: vanin-aleksey-zakharovich
+- person: vladomirskiy-boris-vladimirovich
+- person: goloborodko-aleksandr-aleksandrovich
+- person: grigorev-yuriy-gerasimovich
+- person: ilichyov-viktor-grigorevich
+- person: kochetkov-afanasiy-ivanovich
+- person: malysheva-irina-valentinovna
+- person: merzlikin-nikolay-nikolaevich
+- person: uan-zo-li-vladimir-valentinovich
+studio:
+- mosfilm
+- belarusfilm

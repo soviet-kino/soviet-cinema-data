@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106765230
 schema_version: 1
+director:
+- abalyan-eduard
+cast:
+- person: kuravlyov-leonid-vyacheslavovich
+- person: gavrilova-lyudmila-ivanovna
+- person: chekan-stanislav-yulianovich
+studio:
+- mosfilm

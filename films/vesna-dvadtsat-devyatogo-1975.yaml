@@ -8,6 +8,21 @@ runtime_min: 94
 external_ids:
   wikidata: Q65200652
   imdb: tt4842178
+  youtube: wmONSpmDz4U
 sources:
 - https://www.wikidata.org/wiki/Q65200652
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+screenwriter:
+- zakharov-mark-anatolevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: varley-natalya-vladimirovna
+- person: zolotukhin-valeriy
+- person: vasileva-vera-kuzminichna
+- person: lenkov-aleksandr-sergeevich
+- person: tokhadze-givi-maksimovich
+studio:
+- odesskaya-kinostudiya

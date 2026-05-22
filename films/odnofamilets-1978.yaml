@@ -8,6 +8,23 @@ runtime_min: 124
 external_ids:
   wikidata: Q4331733
   imdb: tt0302881
+  youtube: GkTKHqwaUmM
 sources:
 - https://www.wikidata.org/wiki/Q4331733
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- granin-daniil-aleksandrovich
+- vorontsov-olgerd-riksovich
+cinematographer:
+- shapiro-boris-anatolevich
+composer:
+- krylatov-evgeniy
+cast:
+- person: zhzhyonov-georgiy-stepanovich
+- person: plyatt-rostislav-yanovich
+- person: pokrovskaya-alla-borisovna
+- person: romashin-anatoliy-vladimirovich
+studio:
+- sverdlovskaya-kinostudiya

@@ -8,6 +8,11 @@ runtime_min: 67
 external_ids:
   wikidata: Q117133455
   imdb: tt3248490
+  youtube: WKrlmcH_KaQ
 sources:
 - https://www.wikidata.org/wiki/Q117133455
 schema_version: 1
+director:
+- nikolaev-igor-iosifovich
+screenwriter:
+- borshchagovskiy-aleksandr-mikhaylovich

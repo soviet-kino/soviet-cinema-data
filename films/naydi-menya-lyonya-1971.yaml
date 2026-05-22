@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4312393
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- vakhtin-boris-borisovich
+cinematographer:
+- ivanov-semyon-nikolaevich
+composer:
+- maklakov-vladimir-alekseevich
+studio:
+- lenfilm

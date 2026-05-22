@@ -1,0 +1,9 @@
+id: tayson-siseli
+name_ru: Сисели Тайсон
+roles:
+- actor
+external_ids:
+  wikidata: Q238081
+sources:
+- https://www.wikidata.org/wiki/Q238081
+schema_version: 1

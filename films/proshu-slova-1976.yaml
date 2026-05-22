@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4382360
 schema_version: 1
+director:
+- panfilov-gleb
+screenwriter:
+- panfilov-gleb
+cinematographer:
+- antipenko-aleksandr-ivanovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: churikova-inna
+- person: bronevoy-leonid-sergeevich
+- person: gubenko-nikolay-nikolaevich
+studio:
+- lenfilm

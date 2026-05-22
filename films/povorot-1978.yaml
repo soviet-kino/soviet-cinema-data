@@ -8,6 +8,24 @@ runtime_min: 92
 external_ids:
   wikidata: Q4366473
   imdb: tt0170442
+  youtube: 8FH28tuV9x8
 sources:
 - https://www.wikidata.org/wiki/Q4366473
 schema_version: 1
+director:
+- abdrashitov-vadim-yusupovich
+screenwriter:
+- mindadze-aleksandr-anatolevich
+cinematographer:
+- karavaev-elizbar
+composer:
+- martynov-vladimir-ivanovich
+cast:
+- person: yankovsky-oleg
+- person: kaidanovsky-aleksandr
+- person: solonitsyn-anatoly
+- person: nazarov-yuriy-vladimirovich
+- person: anofriev-oleg-andreevich
+- person: kupchenko-irina-petrovna
+studio:
+- mosfilm

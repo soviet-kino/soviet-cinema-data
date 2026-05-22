@@ -8,6 +8,16 @@ runtime_min: 93
 external_ids:
   wikidata: Q4521135
   imdb: tt0314655
+  youtube: -jmCbYuQfjE
 sources:
 - https://www.wikidata.org/wiki/Q4521135
 schema_version: 1
+director:
+- brench-aloiz
+screenwriter:
+- kayyaks-vladimir
+cast:
+- person: tsilinskiy-gunar-alfredovich
+- person: ozolinya-lilita-arvidovna
+studio:
+- rizhskaya-kinostudiya

@@ -8,6 +8,22 @@ runtime_min: 70
 external_ids:
   wikidata: Q121175087
   imdb: tt4920022
+  youtube: 5wIkFg74GSY
 sources:
 - https://www.wikidata.org/wiki/Q121175087
 schema_version: 1
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: krinitsyna-margarita-vasilevna
+- person: solonitsyn-anatoly
+- person: grave-aleksandr-konstantinovich
+- person: miroshnichenko-viktor-nikolaevich
+- person: perfilov-lev-alekseevich
+- person: gavrilyuk-ivan-yaroslavovich
+- person: stepanenko-viktor-nikolaevich
+- person: aktyor-gavrilov-vsevolod-sergeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

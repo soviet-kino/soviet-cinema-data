@@ -8,6 +8,21 @@ runtime_min: 69
 external_ids:
   wikidata: Q4178558
   imdb: tt0065244
+  youtube: tee0gAL9SdI
 sources:
 - https://www.wikidata.org/wiki/Q4178558
 schema_version: 1
+director:
+- vinogradov-valentin-nikolaevich
+screenwriter:
+- nagibin-yuriy-markovich
+cinematographer:
+- marukhin-yuriy-aleksandrovich
+cast:
+- person: yankovsky-oleg
+- person: bykov-rolan-antonovich
+- person: gaft-valentin-iosifovich
+- person: zhgun-svetlana-nikolaevna
+- person: eremeev-mikhail-leonidovich
+studio:
+- belarusfilm

@@ -8,6 +8,23 @@ runtime_min: 18
 external_ids:
   wikidata: Q1963916
   imdb: tt0055400
+  youtube: hdK6cQi9YNs
 sources:
 - https://www.wikidata.org/wiki/Q1963916
 schema_version: 1
+director:
+- gayday-leonid
+screenwriter:
+- gayday-leonid
+- brovin-konstantin-petrovich
+cinematographer:
+- brovin-konstantin-petrovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: nikulin-yuriy-vladimirovich
+- person: vitsin-georgiy-mikhaylovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: pitsek-vladimir-kondratevich
+studio:
+- mosfilm

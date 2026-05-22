@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4377489
 schema_version: 1
+director:
+- tashkov-evgeniy
+screenwriter:
+- ibragimbekov-rustam
+composer:
+- eshpay-andrey
+cast:
+- person: gurchenko-lyudmila
+- person: solomin-yuriy-mefodevich
+- person: tashkov-evgeniy
+- person: ozerov-igor-vyacheslavovich
+studio:
+- mosfilm

@@ -8,6 +8,17 @@ runtime_min: 7
 external_ids:
   wikidata: Q4381481
   imdb: tt5480942
+  youtube: b9kcE99NN90
 sources:
 - https://www.wikidata.org/wiki/Q4381481
 schema_version: 1
+director:
+- aristakesova-stella-leonovna
+screenwriter:
+- vitenzon-zhanna-ziskindovna
+cinematographer:
+- rasulov-kabul-abdurakhmanovich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- soyuzmultfilm

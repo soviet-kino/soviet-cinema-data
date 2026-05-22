@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123358699
 schema_version: 1
+director:
+- batyrov-ravil-izmailovich
+screenwriter:
+- konchalovskiy-andrey
+cast:
+- person: ganiev-otabek
+studio:
+- uzbekfilm

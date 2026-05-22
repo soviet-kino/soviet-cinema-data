@@ -8,6 +8,19 @@ runtime_min: 86
 external_ids:
   wikidata: Q4379410
   imdb: tt0171661
+  youtube: 1OxY3kYVd6A
 sources:
 - https://www.wikidata.org/wiki/Q4379410
 schema_version: 1
+director:
+- gubenko-nikolay-nikolaevich
+screenwriter:
+- shukshin-vasiliy
+cinematographer:
+- karavaev-elizbar
+composer:
+- ovchinnikov-vyacheslav
+cast:
+- person: gluzskiy-mikhail-andreevich
+studio:
+- mosfilm

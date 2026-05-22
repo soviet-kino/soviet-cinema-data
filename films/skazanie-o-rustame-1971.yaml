@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4421346
 schema_version: 1
+director:
+- kimyagarov-boris-arievich
+screenwriter:
+- koltunov-grigoriy
+cinematographer:
+- khudonazarov-davlatnazar
+composer:
+- melikov-arif
+cast:
+- person: koberidze-otar-leontevich
+- person: vataev-bimbolat-zaurbekovich
+- person: norbaeva-svetlana-abdulkhakovna
+- person: tokhadze-givi-maksimovich
+- person: khamraev-razzak-khamroboevich
+- person: khodzhaev-alim
+- person: vakhidov-makhmudzhon
+studio:
+- tadzhikfilm

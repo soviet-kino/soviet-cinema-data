@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4189985
 schema_version: 1
+director:
+- sokolov-viktor-fyodorovich
+screenwriter:
+- dvoretskiy-ignatiy-moiseevich
+cinematographer:
+- chumak-vladimir-gavriilovich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: miroshnichenko-irina-petrovna
+- person: zamanskiy-vladimir-petrovich
+- person: velyaminov-pyotr-sergeevich
+studio:
+- lenfilm

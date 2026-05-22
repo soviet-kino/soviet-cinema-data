@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4377396
 schema_version: 1
+director:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+screenwriter:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+cinematographer:
+- kerimov-valeri
+composer:
+- magomaev-muslim-magometovich
+cast:
+- person: toma-svetlana
+- person: magomaev-muslim-magometovich
+- person: yusufov-farkhad
+studio:
+- azerbaydzhanfilm

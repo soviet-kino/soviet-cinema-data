@@ -8,6 +8,18 @@ runtime_min: 103
 external_ids:
   wikidata: Q4373852
   imdb: tt0073558
+  youtube: H5PdjPF4l6A
 sources:
 - https://www.wikidata.org/wiki/Q4373852
 schema_version: 1
+director:
+- todorovskiy-pyotr-efimovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: strizhenov-oleg-aleksandrovich
+- person: gluzskiy-mikhail-andreevich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: volodina-margarita-vladimirovna
+studio:
+- mosfilm

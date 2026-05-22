@@ -8,6 +8,13 @@ runtime_min: 64
 external_ids:
   wikidata: Q65200419
   imdb: tt3084562
+  youtube: zbWgAkZqVck
 sources:
 - https://www.wikidata.org/wiki/Q65200419
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+- grigorev-yuriy-valentinovich
+- igor-yasulovich
+studio:
+- kinostudiya-imeni-m-gorkogo

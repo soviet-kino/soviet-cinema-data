@@ -8,6 +8,18 @@ runtime_min: 75
 external_ids:
   wikidata: Q4182254
   imdb: tt0170826
+  youtube: Qf_zucaLZTI
 sources:
 - https://www.wikidata.org/wiki/Q4182254
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+composer:
+- fradkin-mark
+cast:
+- person: nikonenko-sergey
+- person: malevannaya-larisa-ivanovna
+- person: sayfulin-gennadiy-rashidovich
+- person: igor-yasulovich
+studio:
+- kinostudiya-imeni-m-gorkogo

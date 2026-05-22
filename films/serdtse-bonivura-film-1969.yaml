@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4417238
   imdb: tt5085470
+  youtube: D64FYM50PF0
 sources:
 - https://www.wikidata.org/wiki/Q4417238
 schema_version: 1
+director:
+- orlov-mark-evseevich
+screenwriter:
+- shemshurin-andrey
+cinematographer:
+- vereshchak-vadim-semyonovich
+cast:
+- person: chirkov-boris-petrovich
+- person: pereverzev-ivan-fyodorovich
+- person: prygunov-lev-georgievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

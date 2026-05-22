@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339602
 schema_version: 1
+director:
+- titov-viktor-abrosimovich
+screenwriter:
+- kaverin-veniamin-aleksandrovich
+composer:
+- martynov-nikolay-avksentevich
+cast:
+- person: taratorkin-georgiy-georgievich
+studio:
+- lenfilm

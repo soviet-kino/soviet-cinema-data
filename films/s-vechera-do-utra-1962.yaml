@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31272392
 schema_version: 1
+director:
+- layus-leyda
+screenwriter:
+- pant-valdo
+- orav-yye
+cinematographer:
+- dorovatovskiy-mikhail-ivanovich
+composer:
+- pyart-arvo
+cast:
+- person: lavrov-kirill-yurevich
+- person: khyarm-viyu
+- person: klooren-mati-augustovich
+- person: ulla-yulle
+- person: orav-aksel
+- person: kalmet-khanno
+studio:
+- tallinfilm

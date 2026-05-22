@@ -9,3 +9,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q135335604
 schema_version: 1
+director:
+- seidbeyli-gasan
+screenwriter:
+- guseynov-isa-mustafa
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: ogly-balaev-rasim-akhmed
+- person: maniev-mukhtar
+- person: askerova-almas
+- person: khudaverdiev-kamal
+- person: ogly-sheykhzamanov-mamedrza-isa
+- person: ogly-mirzoev-tofik-ibragim
+- person: kulieva-khalida
+- person: ogly-veliev-yusif-abdulla
+- person: osmanly-ismail-osman-ogly
+- person: ogly-rzaev-samandar-mansim
+studio:
+- azerbaydzhanfilm

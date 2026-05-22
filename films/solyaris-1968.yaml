@@ -8,8 +8,21 @@ runtime_min: 143
 external_ids:
   wikidata: Q125672
   imdb: tt1808482
+  youtube: Z9VpT8AyYmY
 sources:
 - https://www.wikidata.org/wiki/Q125672
 schema_version: 1
 topics:
 - cosmonautics
+director:
+- ishimbaeva-lidiya-sergeevna
+- nirenburg-boris-eduardovich
+screenwriter:
+- lem-stanislav
+cast:
+- person: etush-vladimir-abramovich
+- person: lanovoy-vasiliy-semyonovich
+- person: zozulin-viktor-viktorovich
+- person: pilyus-antonina-ivanovna
+studio:
+- tsentralnoe-televidenie

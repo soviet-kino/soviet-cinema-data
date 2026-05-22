@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4421733
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+cinematographer:
+- olonovskiy-nikolay
+composer:
+- feltsman-oskar-borisovich
+cast:
+- person: orlova-lyubov
+- person: polishchuk-lyubov
+- person: grinko-nikolai
+- person: agapova-nina-fyodorovna
+- person: budnitskaya-alla-zinovevna
+- person: velyaminov-pyotr-sergeevich
+- person: markova-rimma-vasilevna
+studio:
+- mosfilm

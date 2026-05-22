@@ -21,3 +21,8 @@ composer:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - nyu-boyana-film-studios
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: gaydardzhiev-ivan
+- person: iliev-stefan
+- person: peychev-stefan

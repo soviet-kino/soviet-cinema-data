@@ -8,6 +8,24 @@ runtime_min: 78
 external_ids:
   wikidata: Q4422687
   imdb: tt0348046
+  youtube: qdqYFcoXtf4
 sources:
 - https://www.wikidata.org/wiki/Q4422687
 schema_version: 1
+director:
+- voytetskiy-artur-iosifovich
+screenwriter:
+- ilenko-yuriy-gerasimovich
+- voytetskiy-artur-iosifovich
+composer:
+- klyucharyov-igor-vladimirovich
+cast:
+- person: shagalova-lyudmila-aleksandrovna
+- person: sanaev-vsevolod-vasilevich
+- person: bulgakova-mayya
+- person: dorofeev-vladimir-andreevich
+- person: mazhuga-yuriy-nikolaevich
+- person: sergachyov-viktor-nikolaevich
+- person: shutov-evgeniy-efimovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

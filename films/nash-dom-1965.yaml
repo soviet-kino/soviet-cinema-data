@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4315201
 schema_version: 1
+director:
+- pronin-vasiliy-markelovich
+screenwriter:
+- grigorev-evgeniy-aleksandrovich
+cinematographer:
+- saveleva-era-mikhaylovna
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: vysotskiy-vladimir
+- person: papanov-anatoliy-dmitrievich
+- person: lapikov-ivan-gerasimovich
+- person: beroev-vadim-borisovich
+- person: sazonova-nina-afanasevna
+- person: kornienko-nelli-ivanovna
+studio:
+- mosfilm

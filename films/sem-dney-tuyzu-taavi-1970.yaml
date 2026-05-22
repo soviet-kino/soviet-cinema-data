@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20530080
 schema_version: 1
+director:
+- kyasper-velyo
+cinematographer:
+- dorovatovskiy-mikhail-ivanovich
+composer:
+- ryaets-yaan
+cast:
+- person: yarvet-yuri-evgenevich
+- person: ulfsak-lembit-yukhanovich
+- person: mandri-kheyno
+- person: peep-khelend
+- person: trass-rayvo
+- person: khermakyula-evald
+studio:
+- tallinfilm

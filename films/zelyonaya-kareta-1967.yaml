@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4190645
 schema_version: 1
+director:
+- frid-yan-borisovich
+screenwriter:
+- gladkov-aleksandr-konstantinovich
+cinematographer:
+- sokolskiy-lev-evgenevich
+composer:
+- chistyakov-vladlen
+cast:
+- person: dmitriev-igor-borisovich
+- person: tenyakova-natalya-maksimovna
+- person: chestnokov-vladimir-ivanovich
+studio:
+- lenfilm

@@ -10,3 +10,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15271043
 schema_version: 1
+director:
+- vengerov-vladimir-yakovlevich
+screenwriter:
+- vengerov-vladimir-yakovlevich
+- markov-georgiy-mokeevich
+- shim-eduard-yurevich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+- kolganov-lev-nikolaevich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: pavlov-viktor-pavlovich
+- person: barinov-valeriy
+- person: arinina-lyudmila
+- person: borisov-boris-nikolaevich
+- person: bulgakova-mayya
+- person: zaytseva-lyudmila-vasilevna
+- person: ilin-adolf-alekseevich
+studio:
+- lenfilm

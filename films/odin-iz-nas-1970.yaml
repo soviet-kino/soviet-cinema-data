@@ -7,6 +7,22 @@ country:
 external_ids:
   wikidata: Q4331533
   imdb: tt0066175
+  youtube: tLTGO4n4kco
 sources:
 - https://www.wikidata.org/wiki/Q4331533
 schema_version: 1
+director:
+- poloka-gennadiy-ivanovich
+screenwriter:
+- ryabov-geliy
+- nagornyy-aleksey-petrovich
+cinematographer:
+- abramyan-genri-artashesovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: gurchenko-lyudmila
+- person: yumatov-georgiy-aleksandrovich
+- person: grinko-nikolai
+studio:
+- mosfilm

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4177789
 schema_version: 1
+director:
+- kurikhin-nikita-fyodorovich
+- menaker-leonid-isaakovich
+screenwriter:
+- dudin-mikhail-aleksandrovich
+- orlov-sergey-sergeevich
+- pogoreltsev-valeriy-aleksandrovich
+cinematographer:
+- zhilin-nikolay-nikolaevich
+- karasyov-viktor
+composer:
+- vaysburd-yakov-isaevich
+cast:
+- person: skulme-valentins
+- person: yukhtin-gennadiy-gavrilovich
+- person: oya-bruno-vernerovich
+- person: mandri-kheyno
+- person: pogoreltsev-valeriy-aleksandrovich
+- person: katlap-zhanis-mikelevich
+studio:
+- lenfilm

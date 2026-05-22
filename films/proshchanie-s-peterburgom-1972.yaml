@@ -8,6 +8,19 @@ runtime_min: 92
 external_ids:
   wikidata: Q4382391
   imdb: tt0145411
+  youtube: aDZx28Gy0nE
 sources:
 - https://www.wikidata.org/wiki/Q4382391
 schema_version: 1
+director:
+- frid-yan-borisovich
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- kukhovarenko-oleg-yurevich
+composer:
+- chistyakov-vladlen
+cast:
+- person: yakovlev-girt-aleksandrovich
+studio:
+- lenfilm

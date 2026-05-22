@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4369003
   imdb: tt0217727
+  youtube: vh7rYmMDR3Q
 sources:
 - https://www.wikidata.org/wiki/Q4369003
 schema_version: 1
+director:
+- vasilyev-gennadiy-leonidovich
+screenwriter:
+- vasilyev-gennadiy-leonidovich
+composer:
+- shainskiy-vladimir-yakovlevich
+cast:
+- person: sergeecheva-margarita-vladimirovna
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130416376
 schema_version: 1
+director:
+- kinematografist-orlov-aleksandr-sergeevich
+screenwriter:
+- kapralov-georgiy
+- tumanov-semyon-isaevich
+composer:
+- artemyev-eduard
+cast:
+- person: magalashvili-edisher-georgievich
+- person: sazontev-sergey-vladislavovich
+studio:
+- mosfilm

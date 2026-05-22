@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4410248
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- pyrev-ivan-aleksandrovich
+cinematographer:
+- olonovskiy-nikolay
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: pyreva-lionella-ivanovna
+- person: alekseev-nikolay
+studio:
+- mosfilm

@@ -8,6 +8,35 @@ runtime_min: 77
 external_ids:
   wikidata: Q4375638
   imdb: tt4016446
+  youtube: WM84zKYbFY4
 sources:
 - https://www.wikidata.org/wiki/Q4375638
 schema_version: 1
+director:
+- bondarchuk-natalya-sergeevna
+- burlyaev-nikolai
+- khutsiev-igor-marlenovich
+screenwriter:
+- bondarchuk-natalya-sergeevna
+- burlyaev-nikolai
+- khutsiev-igor-marlenovich
+cinematographer:
+- guslinskiy-evgeniy
+- epshteyn-viktor-yakovlevich
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: bondarchuk-natalya-sergeevna
+- person: makarova-inna-vladimirovna
+- person: akhedzhakova-liya-medzhidovna
+- person: burlyaev-nikolai
+- person: yukhtin-gennadiy-gavrilovich
+- person: durov-lev-konstantinovich
+- person: vinogradova-mariya-sergeevna
+- person: garin-erast-pavlovich
+- person: kachin-german-nikolaevich
+- person: kozinets-valeriy-evseevich
+- person: kryuchkova-svetlana
+studio:
+- mosfilm

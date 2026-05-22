@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4373833
   imdb: tt0460904
+  youtube: U7yDvs8447k
 sources:
 - https://www.wikidata.org/wiki/Q4373833
 schema_version: 1
+director:
+- khalzanov-baras-tsyretarovich
+screenwriter:
+- khalzanov-baras-tsyretarovich
+composer:
+- krylatov-evgeniy
+cast:
+- person: khalzanov-baras-tsyretarovich
+studio:
+- sverdlovskaya-kinostudiya

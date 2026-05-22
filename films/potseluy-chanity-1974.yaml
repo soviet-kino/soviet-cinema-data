@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q16687613
   imdb: tt4837382
+  youtube: zzK6Lr2KFcc
 sources:
 - https://www.wikidata.org/wiki/Q16687613
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- sherstobitov-evgeniy-firsovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

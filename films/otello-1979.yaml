@@ -10,3 +10,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16683907
 schema_version: 1
+screenwriter:
+- boyto-arrigo
+composer:
+- verdi-dzhuzeppe
+cast:
+- person: atlantov-vladimir-andreevich
+- person: voroshilo-aleksandr-stepanovich
+- person: milashkina-tamara-andreevna
+- person: milinder-lev-maksovich
+- person: romantsov-aleksandr-ivanovich
+- person: shvederskiy-anatoliy-samoylovich
+- person: shevelkov-vladimir
+- person: tontegode-milena-viktorovna
+- person: vernigora-lev-mikhaylovich
+- person: erastova-tatyana-sergeevna
+- person: kuznetsov-lev-leontevich
+- person: fesenko-vadim
+- person: popov-vladimir
+- person: cherezov-irina
+- person: suleymanov-stanislav
+studio:
+- lenfilm

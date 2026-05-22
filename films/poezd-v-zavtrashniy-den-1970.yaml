@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16514626
 schema_version: 1
+director:
+- azarov-villen-abramovich
+screenwriter:
+- borshchagovskiy-aleksandr-mikhaylovich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+cast:
+- person: zasukhin-nikolay-nikolaevich
+studio:
+- mosfilm

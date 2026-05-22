@@ -1,0 +1,9 @@
+id: mikiver-mikk
+name_ru: Микк Микивер
+roles:
+- actor
+external_ids:
+  wikidata: Q2785279
+sources:
+- https://www.wikidata.org/wiki/Q2785279
+schema_version: 1

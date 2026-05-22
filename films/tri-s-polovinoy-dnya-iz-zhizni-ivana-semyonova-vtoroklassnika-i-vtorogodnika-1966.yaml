@@ -8,6 +8,17 @@ runtime_min: 83
 external_ids:
   wikidata: Q4462886
   imdb: tt5226702
+  youtube: sdyfTef0vvM
 sources:
 - https://www.wikidata.org/wiki/Q4462886
 schema_version: 1
+director:
+- berezovskiy-konstantin-alekseevich
+screenwriter:
+- davydychev-lev-ivanovich
+cast:
+- person: ikhlov-boris-lazarevich
+- person: mosolova-lidiya-vladimirovna
+- person: vorobey-vladimir-vatslavovich
+studio:
+- permtelefilm

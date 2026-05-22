@@ -8,6 +8,32 @@ runtime_min: 75
 external_ids:
   wikidata: Q4462912
   imdb: tt0062393
+  youtube: ZgeEWhifnMc
 sources:
 - https://www.wikidata.org/wiki/Q4462912
 schema_version: 1
+director:
+- lioznova-tatyana-mikhaylovna
+screenwriter:
+- borshchagovskiy-aleksandr-mikhaylovich
+cinematographer:
+- kataev-pyotr
+composer:
+- pakhmutova-aleksandra-nikolaevna
+cast:
+- person: efremov-oleg-nikolaevich
+- person: svetlani-georgiy
+- person: doronina-tatyana-vasilevna
+- person: lents-yakov-moiseevich
+- person: mironov-aleksey-ivanovich
+- person: rumyantseva-alevtina-alekseevna
+- person: sergachyov-viktor-nikolaevich
+- person: telegina-valentina-petrovna
+- person: vyacheslav-anatolevich-shalevich
+- person: latypov-khikmat
+- person: yudin-nikolay-leonidovich
+- person: smirnov-nikolay-andreevich
+- person: gladkov-nikolay-georgievich
+studio:
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Oleg Yefremov and Tatyana Doronina.jpg

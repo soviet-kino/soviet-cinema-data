@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q16723458
   imdb: tt0184049
+  youtube: IjUGo4tUwng
 sources:
 - https://www.wikidata.org/wiki/Q16723458
 schema_version: 1
+director:
+- ilinskiy-nikolay-serafimovich
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+cinematographer:
+- voytenko-vladimir-grigorevich
+composer:
+- dominchen-klimentiy-yakovlevich
+cast:
+- person: matveev-evgeniy-semyonovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

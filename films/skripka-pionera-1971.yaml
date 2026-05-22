@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q19822521
   imdb: tt1943844
+  youtube: BUhPKaNmr7g
 sources:
 - https://www.wikidata.org/wiki/Q19822521
 schema_version: 1
+director:
+- stepantsev-boris-pavlovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- druyan-mikhail
+composer:
+- ziv-mikhail-pavlovich
+studio:
+- soyuzmultfilm

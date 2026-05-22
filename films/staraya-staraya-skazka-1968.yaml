@@ -8,6 +8,25 @@ runtime_min: 92
 external_ids:
   wikidata: Q1305759
   imdb: tt0166367
+  youtube: 5PiZpZfbvJY
 sources:
 - https://www.wikidata.org/wiki/Q1305759
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+screenwriter:
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- ryzhov-konstantin
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: dmitriev-igor-borisovich
+- person: neyolova-marina-mstislavovna
+- person: vitsin-georgiy-mikhaylovich
+- person: lemke-lev-isaakovich
+- person: dal-oleg-ivanovich
+- person: etush-vladimir-abramovich
+studio:
+- lenfilm

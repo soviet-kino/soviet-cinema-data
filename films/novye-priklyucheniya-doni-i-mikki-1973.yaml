@@ -8,6 +8,21 @@ runtime_min: 73
 external_ids:
   wikidata: Q4326512
   imdb: tt5340992
+  youtube: eWycJkUubGo
 sources:
 - https://www.wikidata.org/wiki/Q4326512
 schema_version: 1
+director:
+- isaakyan-stepan
+screenwriter:
+- kurlyandskiy-aleksandr
+- khayt-arkadiy
+composer:
+- chichkov-yuriy-mikhaylovich
+cast:
+- person: kramarov-saveliy-viktorovich
+- person: lemke-lev-isaakovich
+- person: smirnov-aleksey-makarovich
+- person: rutberg-ilya-grigorevich
+studio:
+- ekran

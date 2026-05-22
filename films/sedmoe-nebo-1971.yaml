@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q55655777
   imdb: tt0067726
+  youtube: HDwTiUluWbs
 sources:
 - https://www.wikidata.org/wiki/Q55655777
 schema_version: 1
+director:
+- bocharov-eduard
+composer:
+- eshpay-andrey
+studio:
+- mosfilm

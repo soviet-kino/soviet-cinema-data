@@ -8,6 +8,17 @@ runtime_min: 134
 external_ids:
   wikidata: Q1117019
   imdb: tt0076761
+  youtube: fI-mMVI8nbo
 sources:
 - https://www.wikidata.org/wiki/Q1117019
 schema_version: 1
+director:
+- bondarchuk-sergey-fyodorovich
+screenwriter:
+- bondarchuk-sergey-fyodorovich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- ovchinnikov-vyacheslav
+studio:
+- mosfilm

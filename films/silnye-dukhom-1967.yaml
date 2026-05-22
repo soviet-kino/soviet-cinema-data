@@ -8,6 +8,20 @@ runtime_min: 182
 external_ids:
   wikidata: Q192543
   imdb: tt0062272
+  youtube: 4B19J8z1QrA
 sources:
 - https://www.wikidata.org/wiki/Q192543
 schema_version: 1
+director:
+- georgiev-viktor-mikhaylovich
+screenwriter:
+- grebnev-anatoliy
+composer:
+- denisov-edison-vasilevich
+cast:
+- person: pereverzev-ivan-fyodorovich
+- person: tsilinskiy-gunar-alfredovich
+- person: vesnik-evgeniy-yakovlevich
+- person: ovchinnikova-lyusena-ivanovna
+studio:
+- sverdlovskaya-kinostudiya

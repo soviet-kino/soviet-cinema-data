@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16687812
 schema_version: 1
+director:
+- kremnyov-valeriy
+screenwriter:
+- brumel-valeriy-nikolaevich
+composer:
+- schnittke-alfred
+cast:
+- person: zamanskiy-vladimir-petrovich
+- person: vasileva-tatyana-grigorevna
+- person: martynov-aleksandr-sergeevich
+studio:
+- mosfilm

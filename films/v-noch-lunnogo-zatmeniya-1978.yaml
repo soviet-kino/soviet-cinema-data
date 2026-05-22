@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4101753
   imdb: tt0326341
+  youtube: t79dlvf0ZOs
 sources:
 - https://www.wikidata.org/wiki/Q4101753
 schema_version: 1
+director:
+- khalzanov-baras-tsyretarovich
+screenwriter:
+- karim-mustay
+composer:
+- kazhlaev-murad-magomedovich
+cast:
+- person: mubaryakova-gyulli-arslanovna
+studio:
+- sverdlovskaya-kinostudiya

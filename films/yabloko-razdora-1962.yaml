@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4535816
 schema_version: 1
+director:
+- pluchek-valentin-nikolaevich
+screenwriter:
+- pluchek-valentin-nikolaevich
+- biryukov-mikhail-alekseevich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- pakhmutova-aleksandra-nikolaevna
+cast:
+- person: aroseva-olga-aleksandrovna
+- person: pelttser-tatyana-ivanovna
+- person: papanov-anatoliy-dmitrievich
+- person: vesnik-evgeniy-yakovlevich
+- person: kubatskiy-anatoliy-lvovich
+- person: lepko-vladimir-alekseevich
+- person: tenin-boris-mikhaylovich
+studio:
+- mosfilm

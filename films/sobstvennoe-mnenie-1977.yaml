@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994460
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- chernykh-valentin-konstantinovich
+cinematographer:
+- kuznetsov-anatoliy-vasilevich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: menshov-vladimir-valentinovich
+- person: proklova-elena-igorevna
+- person: chursina-lyudmila-alekseevna
+studio:
+- mosfilm

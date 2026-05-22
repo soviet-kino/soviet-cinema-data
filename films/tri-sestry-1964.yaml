@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4462892
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+screenwriter:
+- samsonov-samson-iosifovich
+cinematographer:
+- dobronravov-fyodor
+composer:
+- dekhterev-vasiliy-aleksandrovich
+cast:
+- person: sokolova-lyubov-sergeevna
+studio:
+- mosfilm

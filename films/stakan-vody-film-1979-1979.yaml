@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4439180
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- karasik-yuliy-yurevich
+cinematographer:
+- chukhnov-vladimir
+composer:
+- saulskiy-yuriy
+cast:
+- person: belokhvostikova-nataliya-nikolaevna
+- person: dmitriev-igor-borisovich
+- person: lavrov-kirill-yurevich
+- person: demidova-alla-sergeevna
+- person: gaudinsh-peteris
+- person: smirnova-svetlana-stanislavovna
+studio:
+- mosfilm
+- ekran

@@ -8,6 +8,25 @@ runtime_min: 95
 external_ids:
   wikidata: Q1634934
   imdb: tt0131207
+  youtube: fH7gtgeckWk
 sources:
 - https://www.wikidata.org/wiki/Q1634934
 schema_version: 1
+director:
+- oganesyan-genrikh
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+cinematographer:
+- shumskiy-vyacheslav-mikhaylovich
+composer:
+- volkonskiy-andrey-mikhaylovich
+cast:
+- person: mironov-andrey
+- person: kustinskaya-natalya-nikolaevna
+- person: ilich-zharikov-evgeniy
+- person: nilov-gennadiy-petrovich
+- person: oganesyan-genrikh
+- person: fateeva-natalya-nikolaevna
+studio:
+- rizhskaya-kinostudiya
+- kinostudiya-imeni-m-gorkogo

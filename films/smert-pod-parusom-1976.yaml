@@ -7,6 +7,29 @@ country:
 external_ids:
   wikidata: Q4424420
   imdb: tt2396597
+  youtube: HOT5aSPbBPU
 sources:
 - https://www.wikidata.org/wiki/Q4424420
 schema_version: 1
+director:
+- neretnietse-ada
+screenwriter:
+- lorents-viktor
+cinematographer:
+- kleyns-martinsh
+composer:
+- pauls-raymond
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: kryukov-nikolay-nikolaevich
+- person: radzinya-elza-yanovna
+- person: kiysk-kalyo-karlovich
+- person: barchas-antanas
+- person: vertinskaya-marianna-aleksandrovna
+- person: dunkers-olgert
+- person: martinsone-mirdza
+- person: paukshtello-yanis
+- person: strenga-yuris
+- person: yakovlev-girt-aleksandrovich
+studio:
+- rizhskaya-kinostudiya

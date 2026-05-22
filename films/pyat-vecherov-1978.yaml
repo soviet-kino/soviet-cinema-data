@@ -8,6 +8,24 @@ runtime_min: 98
 external_ids:
   wikidata: Q2972912
   imdb: tt0079764
+  youtube: p9mC85IOkDc
 sources:
 - https://www.wikidata.org/wiki/Q2972912
 schema_version: 1
+director:
+- mikhalkov-nikita
+screenwriter:
+- mikhalkov-nikita
+- volodin-aleksandr-moiseevich
+- adabashyan-aleksandr
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- artemyev-eduard
+- kim-yuliy-chersanovich
+cast:
+- person: gurchenko-lyudmila
+- person: lyubshin-stanislav-andreevich
+- person: adabashyan-aleksandr
+studio:
+- mosfilm

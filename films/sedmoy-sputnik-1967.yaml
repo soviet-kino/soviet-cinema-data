@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3227104
 schema_version: 1
+director:
+- aronov-grigoriy-lazarevich
+screenwriter:
+- klepikov-yuriy-nikolaevich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: batalov-aleksey-vladimirovich
+- person: popov-andrey-alekseevich
+studio:
+- lenfilm

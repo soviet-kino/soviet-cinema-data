@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4519268
 schema_version: 1
+director:
+- vasilevskiy-radomir
+screenwriter:
+- pogodin-radiy-petrovich
+cinematographer:
+- silchenko-fyodor
+- shlemov-vsevolod-vladimirovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: nikolaev-dmitriy-aleksandrovich
+studio:
+- odesskaya-kinostudiya

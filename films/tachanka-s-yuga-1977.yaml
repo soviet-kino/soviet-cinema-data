@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q4452901
   imdb: tt2082442
+  youtube: Op7KK6IE2IQ
 sources:
 - https://www.wikidata.org/wiki/Q4452901
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- smirnov-viktor-vasilevich
+- bolgarin-igor-yakovlevich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+composer:
+- shamo-igor
+cast:
+- person: dvornikov-georgiy-timofeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

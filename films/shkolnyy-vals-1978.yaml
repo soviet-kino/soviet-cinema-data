@@ -8,6 +8,15 @@ runtime_min: 90
 external_ids:
   wikidata: Q4525296
   imdb: tt0165942
+  youtube: CAl_Gg4Oijg
 sources:
 - https://www.wikidata.org/wiki/Q4525296
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+composer:
+- shainskiy-vladimir-yakovlevich
+cast:
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- kinostudiya-imeni-m-gorkogo

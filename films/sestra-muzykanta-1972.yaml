@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4417950
 schema_version: 1
+director:
+- khomskiy-isidor-osipovich
+- khomskiy-pavel-osipovich
+screenwriter:
+- aleksin-anatoliy-georgievich
+cinematographer:
+- suslov-mikhail-petrovich
+composer:
+- kazhlaev-murad-magomedovich
+cast:
+- person: agapova-nina-fyodorovna
+- person: vorobyova-khrzhich-natalya
+- person: menshov-evgeniy-aleksandrovich
+- person: savina-irina-vadimovna
+- person: shevkunenko-sergey-yurevich
+- person: vdovin-aleksandr-ivanovich
+studio:
+- mosfilm

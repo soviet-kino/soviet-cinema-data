@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101820
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- gubarev-vitaliy-georgievich
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: martinson-sergey-aleksandrovich
+- person: nosova-tamara-makarovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

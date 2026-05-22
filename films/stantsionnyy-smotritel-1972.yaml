@@ -8,6 +8,22 @@ runtime_min: 64
 external_ids:
   wikidata: Q4439538
   imdb: tt0069309
+  youtube: X89ezeVDV44
 sources:
 - https://www.wikidata.org/wiki/Q4439538
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: mikhalkov-nikita
+- person: pastukhov-nikolay-isaakovich
+- person: ananina-valentina-georgievna
+- person: kushnerova-marianna-alekseevna
+studio:
+- mosfilm

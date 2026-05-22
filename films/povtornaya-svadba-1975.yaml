@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4366497
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: mironov-andrey
+- person: kostolevskiy-igor-matveevich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: dekhtyaryova-zinaida-nikolaevna
+- person: dyuzheva-marina
+- person: egorova-nataliya
+studio:
+- mosfilm

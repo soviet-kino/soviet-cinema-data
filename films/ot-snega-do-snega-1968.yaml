@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q29049426
   imdb: tt0347716
+  youtube: AX1s11-1KDA
 sources:
 - https://www.wikidata.org/wiki/Q29049426
 schema_version: 1
+director:
+- rezhissyor-petrov-yuriy-aleksandrovich
+screenwriter:
+- prelovskiy-anatoliy-vasilevich
+cinematographer:
+- osipov-albert-nikanorovich
+composer:
+- zatsepin-aleksandr
+studio:
+- odesskaya-kinostudiya

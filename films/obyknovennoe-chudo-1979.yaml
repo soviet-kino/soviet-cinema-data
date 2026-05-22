@@ -8,6 +8,29 @@ runtime_min: 138
 external_ids:
   wikidata: Q1082153
   imdb: tt0186408
+  youtube: gZiKrWSzNBo
 sources:
 - https://www.wikidata.org/wiki/Q1082153
 schema_version: 1
+director:
+- zakharov-mark-anatolevich
+screenwriter:
+- shvarts-evgeniy-lvovich
+- zakharov-mark-anatolevich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: yankovsky-oleg
+- person: abdulov-aleksandr-gavrilovich
+- person: mironov-andrey
+- person: leonov-evgeniy-pavlovich
+- person: simonova-evgeniya-pavlovna
+- person: solomin-yuriy-mefodevich
+- person: kupchenko-irina-petrovna
+- person: dolinskiy-vladimir-abramovich
+studio:
+- mosfilm
+- ekran
+poster_commons: Yankovsky, Zakharov, Larionov.jpg

@@ -8,6 +8,25 @@ runtime_min: 89
 external_ids:
   wikidata: Q4416677
   imdb: tt0175149
+  youtube: a1kD-PKld0M
 sources:
 - https://www.wikidata.org/wiki/Q4416677
 schema_version: 1
+director:
+- segel-yakov-aleksandrovich
+screenwriter:
+- segel-yakov-aleksandrovich
+- misharin-aleksandr
+- veytsler-andrey-leonidovich
+cinematographer:
+- zarafyan-inna
+composer:
+- vaynberg-moisey-samuilovich
+cast:
+- person: pereverzev-ivan-fyodorovich
+- person: menshikova-nina-evgenevna
+- person: vladimirov-igor-petrovich
+- person: sedov-vladimir-alekseevich
+- person: teterin-evgeniy-efimovich
+studio:
+- kinostudiya-imeni-m-gorkogo

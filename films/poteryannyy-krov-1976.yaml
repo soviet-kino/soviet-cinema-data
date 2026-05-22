@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16472848
 schema_version: 1
+screenwriter:
+- granauskas-romualdas
+cast:
+- person: adomaytis-regimantas
+- person: budraytis-yuozas-stanislavas
+- person: kull-elle
+- person: shurna-antanas
+studio:
+- litovskaya-kinostudiya

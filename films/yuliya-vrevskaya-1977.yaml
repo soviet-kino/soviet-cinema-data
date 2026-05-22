@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12299524
 schema_version: 1
+director:
+- korabov-nikola
+screenwriter:
+- korabov-nikola
+- lungin-semyon
+- tsanev-stefan
+cinematographer:
+- yusov-vadim
+composer:
+- vladimir-vasilev
+- dirizhyor-vasilev-vladimir-nikolaevich
+- rusev-toncho
+cast:
+- person: polishchuk-lyubov
+- person: bykov-rolan-antonovich
+- person: saveleva-lyudmila-mikhaylovna
+- person: grinko-nikolai
+- person: adomaytis-regimantas
+- person: solonitsyn-anatoly
+- person: brondukov-borislav-nikolaevich
+- person: petrenko-aleksey-vasilevich
+- person: ivashov-vladimir-sergeevich
+studio:
+- mosfilm
+- nyu-boyana-film-studios

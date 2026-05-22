@@ -1,0 +1,9 @@
+id: kandelaki-gela
+name_ru: Гела Канделаки
+roles:
+- actor
+external_ids:
+  wikidata: Q23656048
+sources:
+- https://www.wikidata.org/wiki/Q23656048
+schema_version: 1

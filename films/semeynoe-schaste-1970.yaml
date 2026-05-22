@@ -8,6 +8,23 @@ runtime_min: 84
 external_ids:
   wikidata: Q4415136
   imdb: tt0165465
+  youtube: ogBnLln9HhA
 sources:
 - https://www.wikidata.org/wiki/Q4415136
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: burkov-georgiy-ivanovich
+- person: mironov-andrey
+- person: papanov-anatoliy-dmitrievich
+- person: gaft-valentin-iosifovich
+- person: burlyaev-nikolai
+- person: vasileva-ekaterina-sergeevna
+studio:
+- mosfilm

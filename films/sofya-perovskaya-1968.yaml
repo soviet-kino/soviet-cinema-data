@@ -8,6 +8,21 @@ runtime_min: 114
 external_ids:
   wikidata: Q7553776
   imdb: tt0170606
+  youtube: bZMg64wGOkY
 sources:
 - https://www.wikidata.org/wiki/Q7553776
 schema_version: 1
+director:
+- arnshtam-leo-oskarovich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- chen-iolanda-evgenevna
+- shelenkov-aleksandr-vladimirovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: tarasov-viktor
+- person: nazarova-aleksandra-ivanovna
+studio:
+- mosfilm

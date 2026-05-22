@@ -8,6 +8,15 @@ runtime_min: 98
 external_ids:
   wikidata: Q25395158
   imdb: tt0314791
+  youtube: _ffWCpDhlKA
 sources:
 - https://www.wikidata.org/wiki/Q25395158
 schema_version: 1
+director:
+- turov-viktor-timofeevich
+cinematographer:
+- marukhin-yuriy-aleksandrovich
+composer:
+- yanchenko-oleg-grigorevich
+studio:
+- belarusfilm

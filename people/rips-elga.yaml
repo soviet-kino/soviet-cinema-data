@@ -1,0 +1,9 @@
+id: rips-elga
+name_ru: Элга Рипс
+roles:
+- actor
+external_ids:
+  wikidata: Q133273267
+sources:
+- https://www.wikidata.org/wiki/Q133273267
+schema_version: 1

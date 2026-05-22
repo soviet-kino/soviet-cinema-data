@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q16514609
   imdb: tt0060743
+  youtube: Ggkg-NXiqJg
 sources:
 - https://www.wikidata.org/wiki/Q16514609
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+screenwriter:
+- egorov-yuriy-pavlovich
+cinematographer:
+- zarafyan-inna
+composer:
+- fradkin-mark
+studio:
+- kinostudiya-imeni-m-gorkogo

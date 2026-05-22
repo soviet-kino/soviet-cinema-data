@@ -8,6 +8,22 @@ runtime_min: 94
 external_ids:
   wikidata: Q4329081
   imdb: tt0064749
+  youtube: ntpgnMmdex0
 sources:
 - https://www.wikidata.org/wiki/Q4329081
 schema_version: 1
+director:
+- volchek-boris-izrailevich
+screenwriter:
+- agranovich-leonid-danilovich
+cinematographer:
+- makarov-valentin
+composer:
+- lazarev-eduard
+cast:
+- person: starygin-igor-vladimirovich
+- person: kozelkova-elena-georgievna
+- person: morozov-semyon-mikhaylovich
+- person: nosik-vladimir
+studio:
+- moldova-film

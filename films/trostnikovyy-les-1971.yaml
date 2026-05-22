@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16363372
 schema_version: 1
+director:
+- latsis-erik
+composer:
+- skulte-adolf
+cast:
+- person: putsitis-uldis
+studio:
+- rizhskaya-kinostudiya

@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15545348
 schema_version: 1
+director:
+- sergeev-konstantin-mikhaylovich
+- dudko-apollinariy-ivanovich
+screenwriter:
+- shapiro-iosif-solomonovich
+cinematographer:
+- solovyov-konstantin-yurevich
+- chirov-aleksandr-viktorovich
+- kovzel-vladimir-prokhorovich
+- pokoptsev-nikolay-ivanovich
+composer:
+- chaykovskiy-pyotr-ilich
+cast:
+- person: makarova-nataliya
+- person: dudinskaya-nataliya-mikhaylovna
+- person: sizova-alla-ivanovna
+- person: solovyov-yuriy-vladimirovich
+studio:
+- lenfilm

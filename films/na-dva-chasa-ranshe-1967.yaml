@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55654237
 schema_version: 1
+director:
+- yuzovskiy-mikhail-iosifovich
+- koltsov-vitaliy-mikhaylovich
+screenwriter:
+- tikhvinskiy-vladimir-naumovich
+- azov-mark-yakovlevich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: marso-marsel
+- person: raykin-arkadiy-isaakovich
+- person: pevets-makarov-vladimir-pavlovich
+- person: raykina-ekaterina-arkadevna
+- person: sovchi-tamara
+- person: shavrina-ekaterina
+studio:
+- mosfilm

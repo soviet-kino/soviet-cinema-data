@@ -8,6 +8,16 @@ runtime_min: 70
 external_ids:
   wikidata: Q7211065
   imdb: tt2395235
+  youtube: k9WiKgHuuTw
 sources:
 - https://www.wikidata.org/wiki/Q7211065
 schema_version: 1
+director:
+- frumin-boris-moiseevich
+composer:
+- plakidis-peteris
+cast:
+- person: gurchenko-lyudmila
+- person: kargin-valeriy-mikhaylovich
+studio:
+- rizhskaya-kinostudiya

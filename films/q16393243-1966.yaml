@@ -9,3 +9,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16393243
 schema_version: 1
+director:
+- melik-avakyan-grigoriy
+cinematographer:
+- atoyants-levon
+composer:
+- oganesyan-edgar
+cast:
+- person: khostikyan-armen-isaakovich
+- person: karagezyan-mais
+- person: kostanyan-murad
+- person: voskanyan-gevorg

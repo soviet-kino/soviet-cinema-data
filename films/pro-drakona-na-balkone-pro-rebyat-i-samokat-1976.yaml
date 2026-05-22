@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4379480
   imdb: tt1873599
+  youtube: Fy4a8raNmWM
 sources:
 - https://www.wikidata.org/wiki/Q4379480
 schema_version: 1
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: adoskin-anatoliy-mikhaylovich
+studio:
+- belarusfilm

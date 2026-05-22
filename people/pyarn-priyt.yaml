@@ -1,0 +1,9 @@
+id: pyarn-priyt
+name_ru: Прийт Пярн
+roles:
+- actor
+external_ids:
+  wikidata: Q1735170
+sources:
+- https://www.wikidata.org/wiki/Q1735170
+schema_version: 1

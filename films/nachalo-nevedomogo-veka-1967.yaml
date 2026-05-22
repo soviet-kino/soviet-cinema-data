@@ -8,6 +8,32 @@ runtime_min: 73
 external_ids:
   wikidata: Q22328890
   imdb: tt0062026
+  youtube: 3yAWXXqWVdg
 sources:
 - https://www.wikidata.org/wiki/Q22328890
 schema_version: 1
+director:
+- shepitko-larisa
+- gabay-genrikh
+- smirnov-andrey-sergeevich
+screenwriter:
+- suslov-mikhail-petrovich
+- ermolaev-boris-vladimirovich
+cinematographer:
+- lebeshev-pavel-timofeevich
+- vasilkov-nikolay-aleksandrovich
+composer:
+- schnittke-alfred
+cast:
+- person: burkov-georgiy-ivanovich
+- person: gubenko-nikolay-nikolaevich
+- person: balon-vladimir-yakovlevich
+- person: volf-sergey-evgenevich
+- person: klass-igor
+- person: kosykh-viktor
+- person: kulagin-leonid-nikolaevich
+- person: polyakova-lyudmila
+studio:
+- mosfilm
+- lenfilm
+- kinostudiya-imeni-a-dovzhenko

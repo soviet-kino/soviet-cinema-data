@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q114876
 schema_version: 1
+director:
+- raysh-gyunter
+- ochrimenko-lucia
+screenwriter:
+- bayerl-gelmut
+cinematographer:
+- brauer-yurgen
+composer:
+- zasse-karl-ernst
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: tsshekel-gyunter
+studio:
+- mosfilm
+- studiya-khudozhestvennykh-filmov-defa

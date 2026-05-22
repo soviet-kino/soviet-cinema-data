@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 studio:
 - kinostudiya-imeni-m-gorkogo
+cast:
+- person: millyar-georgiy-frantsevich
+- person: vanin-aleksey-zakharovich
+- person: strizhenov-gleb-aleksandrovich

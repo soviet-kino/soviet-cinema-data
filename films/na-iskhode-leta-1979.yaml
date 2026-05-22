@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4310961
   imdb: tt2050573
+  youtube: k5PAxJY3KOk
 sources:
 - https://www.wikidata.org/wiki/Q4310961
 schema_version: 1
+director:
+- muradyan-ruben
+cast:
+- person: obolenskiy-leonid-leonidovich
+studio:
+- sverdlovskaya-kinostudiya

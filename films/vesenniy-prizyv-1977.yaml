@@ -8,6 +8,21 @@ runtime_min: 93
 external_ids:
   wikidata: Q4109464
   imdb: tt0075388
+  youtube: Cu-j_2UMIl8
 sources:
 - https://www.wikidata.org/wiki/Q4109464
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+screenwriter:
+- mindadze-aleksandr-anatolevich
+cinematographer:
+- kataev-pyotr
+composer:
+- shainskiy-vladimir-yakovlevich
+cast:
+- person: kostolevskiy-igor-matveevich
+- person: proskurin-viktor-alekseevich
+- person: fatyushin-aleksandr-konstantinovich
+studio:
+- kinostudiya-imeni-m-gorkogo

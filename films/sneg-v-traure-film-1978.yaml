@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20513253
 schema_version: 1
+director:
+- erzinkyan-yuriy
+screenwriter:
+- erzinkyan-yuriy
+cinematographer:
+- podpomogov-valentin-georgievich
+- yavuryan-albert
+composer:
+- mansuryan-tigran
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: asylmuratova-altynay
+- person: bulgakova-mayya
+- person: manukyan-guzh
+studio:
+- armenfilm

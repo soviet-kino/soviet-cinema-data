@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4101759
   imdb: tt0242993
+  youtube: 7PRRDhyjAaI
 sources:
 - https://www.wikidata.org/wiki/Q4101759
 schema_version: 1
+screenwriter:
+- olshanskiy-iosif-grigorevich
+composer:
+- botyarov-evgeniy-mikhaylovich
+studio:
+- kinostudiya-imeni-m-gorkogo

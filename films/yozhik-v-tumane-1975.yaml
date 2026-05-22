@@ -8,6 +8,18 @@ runtime_min: 11
 external_ids:
   wikidata: Q260138
   imdb: tt0073099
+  youtube: 6jZ2G--y1hw
 sources:
 - https://www.wikidata.org/wiki/Q260138
 schema_version: 1
+director:
+- norshteyn-yuriy-borisovich
+screenwriter:
+- kozlov-sergey-grigorevich
+cinematographer:
+- zhukovskiy-aleksandr-borisovich
+composer:
+- meerovich-mikhail-aleksandrovich
+studio:
+- soyuzmultfilm
+poster_commons: The Soviet Union 1988 CPA 5919 stamp (Hedgehog in the Fog).jpg

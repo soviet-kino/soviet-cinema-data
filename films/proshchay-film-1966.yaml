@@ -8,6 +8,19 @@ runtime_min: 83
 external_ids:
   wikidata: Q4382363
   imdb: tt0352748
+  youtube: l7k_URTc9nY
 sources:
 - https://www.wikidata.org/wiki/Q4382363
 schema_version: 1
+director:
+- pozhenyan-grigoriy
+screenwriter:
+- pozhenyan-grigoriy
+cinematographer:
+- burlaka-leonid-antonovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: avdyushko-viktor-antonovich
+studio:
+- odesskaya-kinostudiya

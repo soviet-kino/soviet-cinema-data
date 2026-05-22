@@ -7,6 +7,25 @@ country:
 external_ids:
   wikidata: Q109428492
   imdb: tt0076680
+  youtube: sr_ouEO78M4
 sources:
 - https://www.wikidata.org/wiki/Q109428492
 schema_version: 1
+director:
+- durov-boris
+screenwriter:
+- fomina-nina
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: polishchuk-lyubov
+- person: safonova-elena
+- person: arkhipova-nina
+- person: nevedomskiy-leonid
+- person: sokolov-boris
+- person: spesivtsev-vyacheslav
+- person: uralova-evgeniya
+- person: chernov-pyotr
+- person: yushkov-vitaliy-leonidovich
+studio:
+- ekran

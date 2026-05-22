@@ -8,9 +8,28 @@ runtime_min: 73
 external_ids:
   wikidata: Q1895210
   imdb: tt0056352
+  youtube: So9NcB8crtc
 sources:
 - https://www.wikidata.org/wiki/Q1895210
 schema_version: 1
 topics:
 - science-fiction
 - cosmonautics
+director:
+- klushantsev-pavel-vladimirovich
+screenwriter:
+- kazantsev-aleksandr-petrovich
+cinematographer:
+- klimov-arkadiy-aleksandrovich
+composer:
+- chernov-aleksandr-abramovich
+- admoni-iogann-grigorevich
+cast:
+- person: zhzhyonov-georgiy-stepanovich
+- person: emelyanov-vladimir-nikolaevich
+- person: ignatova-kyunna-nikolaevna
+- person: sarantsev-yuriy-dmitrievich
+- person: teykh-georgiy-nikolaevich
+- person: prutkovskiy-boris-aleksandrovich
+studio:
+- lennauchfilm

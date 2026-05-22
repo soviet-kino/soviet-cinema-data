@@ -8,6 +8,24 @@ runtime_min: 97
 external_ids:
   wikidata: Q4340308
   imdb: tt0067517
+  youtube: 98sces0TCAQ
 sources:
 - https://www.wikidata.org/wiki/Q4340308
 schema_version: 1
+director:
+- rogovoy-vladimir-abramovich
+screenwriter:
+- vasilev-boris-lvovich
+- rapoport-kirill-iosifovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- khozak-rafail-matveevich
+cast:
+- person: yumatov-georgiy-aleksandrovich
+- person: lanovoy-vasiliy-semyonovich
+- person: voevodin-aleksandr-mikhaylovich
+- person: pokrovskaya-alina-stanislavovna
+- person: rychagova-natalya-sergeevna
+studio:
+- kinostudiya-imeni-m-gorkogo

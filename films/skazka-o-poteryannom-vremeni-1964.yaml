@@ -8,9 +8,24 @@ runtime_min: 76
 external_ids:
   wikidata: Q1169933
   imdb: tt0166804
+  youtube: _Ow0CyiHqrk
 sources:
 - https://www.wikidata.org/wiki/Q1169933
 schema_version: 1
 topics:
 - childrens-cinema
 - chrononautics
+director:
+- ptushko-aleksandr
+screenwriter:
+- lifshits-vladimir-aleksandrovich
+cinematographer:
+- rubashkin-samuil-yakovlevich
+composer:
+- morozov-igor-vladimirovich
+cast:
+- person: zelyonaya-rina
+- person: vitsin-georgiy-mikhaylovich
+- person: morgunov-evgeniy-aleksandrovich
+studio:
+- mosfilm

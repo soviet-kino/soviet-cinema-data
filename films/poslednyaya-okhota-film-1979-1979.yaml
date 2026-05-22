@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q112835320
 schema_version: 1
+director:
+- sheshukov-igor-alekseevich
+screenwriter:
+- makarov-artur-sergeevich
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: grinko-nikolai
+- person: munzuk-maksim-monguzhukovich
+- person: borisov-oleg-ivanovich
+- person: masyulis-algimantas-ionovich
+- person: bogatyryov-yuriy-georgievich
+studio:
+- lenfilm

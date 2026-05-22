@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4333483
   imdb: tt2395361
+  youtube: 1KpJOJdwckY
 sources:
 - https://www.wikidata.org/wiki/Q4333483
 schema_version: 1
+director:
+- leymanis-aleksandr-ottovich
+composer:
+- vigners-ivars
+cast:
+- person: grachyov-anatoliy-dmitrievich
+studio:
+- rizhskaya-kinostudiya

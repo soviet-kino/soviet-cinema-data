@@ -8,6 +8,15 @@ runtime_min: 99
 external_ids:
   wikidata: Q85864690
   imdb: tt4876746
+  youtube: f5lyRSFVNPw
 sources:
 - https://www.wikidata.org/wiki/Q85864690
 schema_version: 1
+director:
+- vasilevskiy-radomir
+cinematographer:
+- klimenko-yuriy
+composer:
+- kataev-ilya-evgenevich
+studio:
+- odesskaya-kinostudiya

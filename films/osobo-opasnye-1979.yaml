@@ -8,6 +8,20 @@ runtime_min: 84
 external_ids:
   wikidata: Q27791990
   imdb: tt0308683
+  youtube: Bhp_m1bIuEg
 sources:
 - https://www.wikidata.org/wiki/Q27791990
 schema_version: 1
+director:
+- mamilov-sulambek-akhmetovich
+screenwriter:
+- mamilov-sulambek-akhmetovich
+- smirnov-edgar-filippovich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+cast:
+- person: vikhrov-vladimir
+- person: nevzorov-boris
+- person: skoryakin-anatoliy-evgenevich
+studio:
+- odesskaya-kinostudiya

@@ -8,6 +8,18 @@ runtime_min: 131
 external_ids:
   wikidata: Q110624390
   imdb: tt4862458
+  youtube: xmmqEQPGCKM
 sources:
 - https://www.wikidata.org/wiki/Q110624390
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- vorontsov-olgerd-riksovich
+- dubrovskiy-edgar-borisovich
+cinematographer:
+- lesnikov-anatoliy-egorovich
+composer:
+- artemyev-eduard
+studio:
+- sverdlovskaya-kinostudiya

@@ -8,6 +8,19 @@ runtime_min: 94
 external_ids:
   wikidata: Q3601599
   imdb: tt0072208
+  youtube: 0PGARFpoSuQ
 sources:
 - https://www.wikidata.org/wiki/Q3601599
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- aleksandrov-aleksandr-leonardovich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: tokarev-boris-aleksandrovich
+studio:
+- mosfilm

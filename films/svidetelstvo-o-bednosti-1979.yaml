@@ -7,6 +7,23 @@ country:
 external_ids:
   wikidata: Q84994462
   imdb: tt4879836
+  youtube: 8cVd5ntovKc
 sources:
 - https://www.wikidata.org/wiki/Q84994462
 schema_version: 1
+director:
+- gasparov-samvel
+screenwriter:
+- vayner-arkadiy-aleksandrovich
+- vayner-georgiy-aleksandrovich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: khmelnitskiy-boris
+- person: stepankov-konstantin-petrovich
+- person: ostrin-grigoriy-aleksandrovich
+- person: khochinskiy-aleksandr-yurevich
+studio:
+- odesskaya-kinostudiya

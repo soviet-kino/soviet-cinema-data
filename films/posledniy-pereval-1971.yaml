@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373816
 schema_version: 1
+director:
+- ogly-rustambekov-kyamil-aslan
+screenwriter:
+- ogly-kerimzade-farman-ismail
+cinematographer:
+- ismaylov-rasim-rza-ogly
+composer:
+- melikov-arif
+cast:
+- person: badalbeyli-shamsi
+- person: ogly-dadashev-melik-yusuf
+- person: ogly-iskenderov-adil-rza
+- person: ogly-mamedov-gasan-agamamed
+- person: ogly-turabov-gasan-sattar
+- person: ogly-khanyzade-gamlet-babir
+- person: rustamova-krastynsh-tamilla-said-kyzy
+- person: alakbarov-shakhmar
+- person: ogly-makhmudov-abdulakhad-elisa
+studio:
+- azerbaydzhanfilm

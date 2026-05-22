@@ -8,6 +8,32 @@ runtime_min: 93
 external_ids:
   wikidata: Q3234385
   imdb: tt0075079
+  youtube: PJqpJ0XA_cM
 sources:
 - https://www.wikidata.org/wiki/Q3234385
 schema_version: 1
+director:
+- gubenko-nikolay-nikolaevich
+screenwriter:
+- gubenko-nikolay-nikolaevich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+cast:
+- person: bykov-rolan-antonovich
+- person: burkov-georgiy-ivanovich
+- person: evstigneev-evgeniy-aleksandrovich
+- person: shagalova-lyudmila-aleksandrovna
+- person: gubenko-nikolay-nikolaevich
+- person: kalyagin-aleksandr-aleksandrovich
+- person: budraytis-yuozas-stanislavas
+- person: gundareva-natalya-georgievna
+- person: berezutskaya-valentina-fyodorovna
+- person: bolotova-zhanna-andreevna
+- person: zakariadze-bukhuti
+- person: kavtaradze-georgiy-georgievich
+- person: krymov-panteleymon-aleksandrovich
+- person: netrebin-daniil-matveevich
+- person: filippov-viktor-sergeevich
+- person: volkov-nikolay-fyodorovich
+studio:
+- mosfilm

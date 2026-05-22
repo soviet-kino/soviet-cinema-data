@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4417417
   imdb: tt2942750
+  youtube: lmLizi4uUGU
 sources:
 - https://www.wikidata.org/wiki/Q4417417
 schema_version: 1
+director:
+- bocharov-eduard
+screenwriter:
+- zheleznikov-vladimir-karpovich
+cast:
+- person: myagkov-andrey-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

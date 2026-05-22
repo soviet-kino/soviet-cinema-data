@@ -8,6 +8,25 @@ runtime_min: 100
 external_ids:
   wikidata: Q19019145
   imdb: tt0172929
+  youtube: FnGVDVmjtmg
 sources:
 - https://www.wikidata.org/wiki/Q19019145
 schema_version: 1
+director:
+- levchuk-timofey-vasilevich
+screenwriter:
+- bykov-leonid-fyodorovich
+- rybak-natan-samoylovich
+- satskiy-aleksandr-stepanovich
+cinematographer:
+- voytenko-vladimir-grigorevich
+composer:
+- mayboroda-georgiy-illarionovich
+cast:
+- person: belokurov-vladimir-vyacheslavovich
+- person: georgiu-georgiy-aleksandrovich
+- person: zaklunnaya-valeriya-gavriilovna
+- person: nifontova-rufina-dmitrievna
+- person: khokhryakov-viktor-ivanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

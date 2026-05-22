@@ -8,8 +8,28 @@ runtime_min: 84
 external_ids:
   wikidata: Q4340057
   imdb: tt0071957
+  youtube: gLUFvMShlK0
 sources:
 - https://www.wikidata.org/wiki/Q4340057
 schema_version: 1
 topics:
 - cosmonautics
+director:
+- viktorov-richard-nikolaevich
+screenwriter:
+- zak-avenir-grigorevich
+- kuznetsov-isay
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- chernyshyov-vladimir
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: durov-lev-konstantinovich
+- person: basov-vladimir
+- person: bityukova-olga
+- person: ledogorov-vadim-igorevich
+- person: ledogorov-igor-vadimovich
+- person: savina-irina-vadimovna
+studio:
+- kinostudiya-imeni-m-gorkogo

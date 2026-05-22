@@ -8,6 +8,20 @@ runtime_min: 63
 external_ids:
   wikidata: Q4373719
   imdb: tt2930850
+  youtube: ajVs_jQ7hDs
 sources:
 - https://www.wikidata.org/wiki/Q4373719
 schema_version: 1
+director:
+- tsvetkov-yuriy-nikolaevich
+screenwriter:
+- makayonok-andrey-egorovich
+cinematographer:
+- braude-mark-savelevich
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: senchina-lyudmila
+- person: gavrilyuk-ivan-yaroslavovich
+studio:
+- belarusfilm

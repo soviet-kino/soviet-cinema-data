@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4444992
 schema_version: 1
+director:
+- sharabidze-ramaz
+screenwriter:
+- gabriadze-rezo
+composer:
+- kakhidze-dzhansug-ivanovich
+cast:
+- person: berikashvili-givi-zakharevich
+- person: tsuladze-baadur-sokratovich
+- person: kavsadze-kakhi-davidovich
+studio:
+- gruziya-film

@@ -8,6 +8,28 @@ runtime_min: 98
 external_ids:
   wikidata: Q4190055
   imdb: tt0073927
+  youtube: Qo_sQMJW8D8
 sources:
 - https://www.wikidata.org/wiki/Q4190055
 schema_version: 1
+director:
+- titov-viktor-abrosimovich
+screenwriter:
+- titov-viktor-abrosimovich
+cinematographer:
+- rerberg-georgy
+composer:
+- kazenin-vladislav-igorevich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: gaft-valentin-iosifovich
+- person: kalyagin-aleksandr-aleksandrovich
+- person: kozakov-mikhail-mikhaylovich
+- person: vedeneeva-tatyana-veniaminovna
+- person: vasileva-tatyana-grigorevna
+- person: lyubeznov-mikhail-ivanovich
+- person: nosova-tamara-makarovna
+- person: orlova-galina-petrovna
+- person: shklovskiy-oleg-mendeleevich
+studio:
+- ekran

@@ -13,3 +13,5 @@ sources:
 schema_version: 1
 director:
 - efros-anatoliy-vasilevich
+cast:
+- person: lyubimov-yuriy-petrovich

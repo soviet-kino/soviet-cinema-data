@@ -8,6 +8,21 @@ runtime_min: 80
 external_ids:
   wikidata: Q2343053
   imdb: tt3390582
+  youtube: Z2w23ZXRx8k
 sources:
 - https://www.wikidata.org/wiki/Q2343053
 schema_version: 1
+director:
+- ershov-konstantin-vladimirovich
+screenwriter:
+- panfilov-gleb
+- ershov-konstantin-vladimirovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: andreychenko-natalya-eduardovna
+- person: kostolevskiy-igor-matveevich
+studio:
+- lenfilm

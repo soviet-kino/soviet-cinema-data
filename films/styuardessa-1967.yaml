@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4444815
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+screenwriter:
+- akhmadulina-bella-akhatovna
+cinematographer:
+- emelyanov-pyotr-grigorevich
+composer:
+- afanasev-leonid
+cast:
+- person: demidova-alla-sergeevna
+- person: zhzhyonov-georgiy-stepanovich
+studio:
+- mosfilm

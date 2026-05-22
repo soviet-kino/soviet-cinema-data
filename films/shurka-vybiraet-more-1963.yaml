@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4527964
 schema_version: 1
+screenwriter:
+- vladimirova-liya
+cinematographer:
+- silchenko-fyodor
+composer:
+- mikhaylov-dzhivani-konstantinovich
+cast:
+- person: zakharchenko-vadim-viktorovich
+- person: nikonenko-sergey
+- person: beniaminov-aleksandr-davidovich
+- person: gordeychik-larisa-aleksandrovna
+- person: gulyaev-vladimir
+- person: ivanova-nina-georgievna
+- person: uralskiy-viktor-vladimirovich
+studio:
+- odesskaya-kinostudiya

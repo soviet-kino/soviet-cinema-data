@@ -8,6 +8,19 @@ runtime_min: 68
 external_ids:
   wikidata: Q4409597
   imdb: tt5052948
+  youtube: c8S3K5Mcwo8
 sources:
 - https://www.wikidata.org/wiki/Q4409597
 schema_version: 1
+director:
+- chetverikov-vitaliy-pavlovich
+screenwriter:
+- vakulovskaya-lidiya-aleksandrovna
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: vysotskiy-vladimir
+- person: seleznyova-natalya-igorevna
+- person: prygunov-lev-georgievich
+studio:
+- belarusfilm

@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109371520
 schema_version: 1
+director:
+- viktor-ivanovich-tregubovich
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- kolker-aleksandr
+cast:
+- person: shelokhonov-pyotr-illarionovich
+- person: dmitriev-igor-borisovich
+- person: lavrov-kirill-yurevich
+- person: kupchenko-irina-petrovna
+- person: gorbachyov-igor-olegovich
+- person: ezepov-mikhail-ivanovich
+- person: kondulaynen-elena-ivanovna
+- person: piletskaya-tatyana-lvovna
+- person: pogorzhelskiy-mikhail-bonifatsievich
+- person: proskurin-viktor-alekseevich
+- person: shapiro-evgeniy-veniaminovich
+studio:
+- lenfilm

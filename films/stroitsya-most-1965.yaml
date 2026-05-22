@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4444164
 schema_version: 1
+director:
+- efremov-oleg-nikolaevich
+- egiazarov-gavriil-georgievich
+screenwriter:
+- efremov-oleg-nikolaevich
+- melnikov-naum-dmitrievich
+cinematographer:
+- egiazarov-gavriil-georgievich
+cast:
+- person: gurchenko-lyudmila
+- person: tabakov-oleg-pavlovich
+- person: kvasha-igor-vladimirovich
+- person: efremov-oleg-nikolaevich
+- person: dal-oleg-ivanovich
+- person: zamanskiy-vladimir-petrovich
+- person: tolmachyova-liliya-mikhaylovna
+studio:
+- mosfilm

@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4326518
 schema_version: 1
+director:
+- vasilyev-gennadiy-leonidovich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+cinematographer:
+- tutunov-gasan
+composer:
+- rybnikov-aleksey
+cast:
+- person: pugovkin-mikhail-ivanovich
+- person: kramarov-saveliy-viktorovich
+- person: martinson-sergey-aleksandrovich
+- person: kapianidze-zurab-vasilevich
+- person: basov-vladimir-pavlovich
+studio:
+- kinostudiya-imeni-m-gorkogo

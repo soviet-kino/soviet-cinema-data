@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q24955830
   imdb: tt4837242
+  youtube: ax-1s9xtzDU
 sources:
 - https://www.wikidata.org/wiki/Q24955830
 schema_version: 1
+director:
+- kozachkov-valentin-fyodorovich
+screenwriter:
+- gribanov-oleg-mikhaylovich
+cast:
+- person: drebnyova-lyudmila
+studio:
+- odesskaya-kinostudiya

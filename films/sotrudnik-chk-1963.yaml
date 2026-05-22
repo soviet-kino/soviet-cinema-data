@@ -8,6 +8,13 @@ runtime_min: 102
 external_ids:
   wikidata: Q1601721
   imdb: tt0057520
+  youtube: W82nI2u3bh4
 sources:
 - https://www.wikidata.org/wiki/Q1601721
 schema_version: 1
+director:
+- volchek-boris-izrailevich
+composer:
+- lazarev-eduard
+studio:
+- mosfilm

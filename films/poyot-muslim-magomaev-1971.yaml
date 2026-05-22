@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16414298
 schema_version: 1
+director:
+- ogly-ismaylov-tofik-guseyn
+screenwriter:
+- bogdanov-igor
+cinematographer:
+- bogdanov-igor-vladimirovich
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: magomaev-muslim-magometovich
+- person: rozhdestvenskiy-robert-ivanovich
+- person: shikhlinskaya-leyla-farrukh-kyzy
+studio:
+- azerbaydzhanfilm

@@ -8,6 +8,18 @@ runtime_min: 93
 external_ids:
   wikidata: Q4101708
   imdb: tt0078450
+  youtube: 0xqSmIBZHMM
 sources:
 - https://www.wikidata.org/wiki/Q4101708
 schema_version: 1
+director:
+- malyukov-andrey
+screenwriter:
+- mesyatsev-evgeniy-alekseevich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: volontir-mikhay-ermolaevich
+- person: kuznetsov-anatoliy
+studio:
+- mosfilm

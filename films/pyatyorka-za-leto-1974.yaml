@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4386120
 schema_version: 1
+director:
+- makarychev-leonid-pavlovich
+screenwriter:
+- popov-valeriy-georgievich
+cinematographer:
+- pokoptsev-nikolay-ivanovich
+composer:
+- pozhlakov-stanislav-ivanovich
+cast:
+- person: nevedomskiy-leonid
+- person: sergachyov-viktor-nikolaevich
+- person: shtil-georgiy
+studio:
+- lenfilm

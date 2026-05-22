@@ -11,7 +11,10 @@ sources:
 schema_version: 1
 director:
 - shukshin-vasiliy-makarovich
+- shukshin-vasiliy
 cinematographer:
 - zabolotskiy-anatoliy-dmitrievich
 studio:
 - kinostudiya-imeni-m-gorkogo
+cast:
+- person: shukshin-vasiliy

@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109083142
 schema_version: 1
+director:
+- lysenko-yuriy-semyonovich
+screenwriter:
+- satskiy-aleksandr-stepanovich
+- lysenko-yuriy-semyonovich
+composer:
+- buevskiy-boris-nikolaevich
+cast:
+- person: virolaynen-lyubov-ivanovna
+- person: vladimirova-valentina-kharlampievna
+- person: aktyor-denisov-aleksandr-petrovich
+- person: zaytsev-aleksey-nikiforovich
+- person: khmelyova-nadezhda-sergeevna
+- person: kozel-vladimir-georgievich
+- person: magalashvili-edisher-georgievich
+- person: ovsyannikov-gennadiy-stepanovich
+- person: serdyuk-aleksandr-aleksandrovich
+- person: soshalskiy-vladimir-borisovich
+- person: yakovlev-sergey-sergeevich
+- person: bolotov-gennadiy-georgievich
+- person: molganov-stanislav-davydovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

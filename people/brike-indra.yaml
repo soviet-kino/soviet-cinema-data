@@ -1,0 +1,9 @@
+id: brike-indra
+name_ru: Индра Брике
+roles:
+- actor
+external_ids:
+  wikidata: Q4096486
+sources:
+- https://www.wikidata.org/wiki/Q4096486
+schema_version: 1

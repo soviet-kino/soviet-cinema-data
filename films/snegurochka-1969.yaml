@@ -8,6 +8,23 @@ runtime_min: 90
 external_ids:
   wikidata: Q4425459
   imdb: tt0195281
+  youtube: Q79vkaI5SEQ
 sources:
 - https://www.wikidata.org/wiki/Q4425459
 schema_version: 1
+director:
+- kadochnikov-pavel-petrovich
+screenwriter:
+- kadochnikov-pavel-petrovich
+- lyubashevskiy-leonid-solomonovich
+cinematographer:
+- chirov-aleksandr-viktorovich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: ilich-zharikov-evgeniy
+- person: gubanova-irina-igorevna
+- person: khimichev-boris-petrovich
+studio:
+- lenfilm

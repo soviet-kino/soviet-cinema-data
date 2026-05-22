@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109935
 schema_version: 1
+director:
+- orshanskiy-tsezar-abramovich
+cinematographer:
+- gavrilov-anatoliy
+composer:
+- kolodub-lev-nikolaevich
+- kolodub-zhanna
+studio:
+- kievnauchfilm

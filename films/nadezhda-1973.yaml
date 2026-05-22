@@ -8,6 +8,19 @@ runtime_min: 97
 external_ids:
   wikidata: Q51309604
   imdb: tt0070431
+  youtube: h9gvznkykP4
 sources:
 - https://www.wikidata.org/wiki/Q51309604
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- voskresenskaya-zoya-ivanovna
+cast:
+- person: belokhvostikova-nataliya-nikolaevna
+- person: myagkov-andrey-vasilevich
+- person: nozhkin-mikhail-ivanovich
+- person: stolyarskaya-danuta-alfredovna
+- person: ozerov-igor-vyacheslavovich
+studio:
+- kinostudiya-imeni-m-gorkogo

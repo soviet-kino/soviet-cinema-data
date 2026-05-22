@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4410503
   imdb: tt6372528
+  youtube: DvVWfxu-W04
 sources:
 - https://www.wikidata.org/wiki/Q4410503
 schema_version: 1
+director:
+- butyrin-yuriy
+screenwriter:
+- butyrin-yuriy
+cinematographer:
+- miltner-yuriy-konstantinovich
+composer:
+- zakhlevnyy-leonid-konstantinovich
+studio:
+- belarusfilm

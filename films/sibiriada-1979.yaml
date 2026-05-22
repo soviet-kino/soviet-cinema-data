@@ -8,6 +8,29 @@ runtime_min: 199
 external_ids:
   wikidata: Q782262
   imdb: tt0079907
+  youtube: 6P5Nf7xzXS0
 sources:
 - https://www.wikidata.org/wiki/Q782262
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- konchalovskiy-andrey
+- ezhov-valentin-ivanovich
+cinematographer:
+- paatashvili-levan-georgievich
+- travkin-boris-tikhonovich
+composer:
+- artemyev-eduard
+cast:
+- person: mikhalkov-nikita
+- person: gurchenko-lyudmila
+- person: kadochnikov-pavel-petrovich
+- person: andreychenko-natalya-eduardovna
+- person: solomin-vitaliy-mefodevich
+- person: kononov-mikhail-ivanovich
+- person: mikhalkov-artyom-nikitich
+- person: samoylov-vladimir-yakovlevich
+- person: adabashyan-aleksandr
+studio:
+- mosfilm

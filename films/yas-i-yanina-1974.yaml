@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4539556
 schema_version: 1
+director:
+- tsvetkov-yuriy-nikolaevich
+screenwriter:
+- osipenko-aleksandr-kharitonovich
+- polyakov-samson-germanovich
+cinematographer:
+- loginova-tatyana-dmitrievna
+composer:
+- mulyavin-vladimir-georgievich
+- khanok-eduard-semyonovich
+cast:
+- person: volyntsev-yuriy-vitalevich
+- person: bortkevich-leonid-leonidovich
+- person: demeshko-aleksandr-sergeevich
+- person: tikhonov-vladimir-vyacheslavovich
+studio:
+- belarusfilm

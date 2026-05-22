@@ -1,0 +1,9 @@
+id: rango
+name_ru: Ранго
+roles:
+- actor
+external_ids:
+  wikidata: Q125876373
+sources:
+- https://www.wikidata.org/wiki/Q125876373
+schema_version: 1

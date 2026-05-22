@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270942
 schema_version: 1
+director:
+- grigorev-vladimir-nikolaevich
+cinematographer:
+- karasyov-viktor
+composer:
+- gagulashvili-arkadiy-davidovich
+cast:
+- person: durov-lev-konstantinovich
+studio:
+- lenfilm

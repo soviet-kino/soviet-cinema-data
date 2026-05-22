@@ -1,0 +1,9 @@
+id: alas-mall
+name_ru: Mall Alas
+roles:
+- actor
+external_ids:
+  wikidata: Q131910558
+sources:
+- https://www.wikidata.org/wiki/Q131910558
+schema_version: 1

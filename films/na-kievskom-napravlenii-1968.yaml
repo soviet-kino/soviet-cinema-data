@@ -8,6 +8,27 @@ runtime_min: 89
 external_ids:
   wikidata: Q12131880
   imdb: tt0347602
+  youtube: u1GCyqEnkcI
 sources:
 - https://www.wikidata.org/wiki/Q12131880
 schema_version: 1
+director:
+- denisenko-vladimir-terentevich
+screenwriter:
+- zemlyak-vasiliy-sidorovich
+- denisenko-vladimir-terentevich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- bilash-aleksandr-ivanovich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: stepankov-konstantin-petrovich
+- person: barchuk-anatoliy-trofimovich
+- person: derzhavin-mikhail-mikhaylovich
+- person: oleksenko-stepan-stepanovich
+- person: serdyuk-aleksandr-aleksandrovich
+- person: yakovchenko-nikolay-fyodorovich
+- person: rozstalnyy-vitaliy-grigorevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

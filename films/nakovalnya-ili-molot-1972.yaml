@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12287677
 schema_version: 1
+director:
+- khristov-khristo
+cinematographer:
+- tasev-atanas
+composer:
+- pironkov-simeon
+cast:
+- person: getsov-stefan
+studio:
+- mosfilm

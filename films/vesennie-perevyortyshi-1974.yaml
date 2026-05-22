@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109453
 schema_version: 1
+director:
+- aronov-grigoriy-lazarevich
+screenwriter:
+- tendryakov-vladimir-fyodorovich
+cinematographer:
+- fedosov-valeriy-ivanovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: madyanov-roman-sergeevich
+studio:
+- lenfilm

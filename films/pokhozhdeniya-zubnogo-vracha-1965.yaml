@@ -8,6 +8,19 @@ runtime_min: 82
 external_ids:
   wikidata: Q4375127
   imdb: tt0155028
+  youtube: -tjAzXgLXiw
 sources:
 - https://www.wikidata.org/wiki/Q4375127
 schema_version: 1
+director:
+- klimov-elem
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- rubashkin-samuil-yakovlevich
+composer:
+- schnittke-alfred
+cast:
+- person: myagkov-andrey-vasilevich
+studio:
+- mosfilm

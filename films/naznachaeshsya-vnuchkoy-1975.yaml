@@ -8,6 +8,18 @@ runtime_min: 144
 external_ids:
   wikidata: Q3812790
   imdb: tt2677888
+  youtube: LlhXKZgV-7Y
 sources:
 - https://www.wikidata.org/wiki/Q3812790
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+screenwriter:
+- koltunov-grigoriy
+composer:
+- levitin-yuriy
+cast:
+- person: andreev-boris-fyodorovich
+- person: grishina-irina
+studio:
+- sverdlovskaya-kinostudiya

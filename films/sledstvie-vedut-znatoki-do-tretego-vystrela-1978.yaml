@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4423263
   imdb: tt0281813
+  youtube: bu-dS53Z2V8
 sources:
 - https://www.wikidata.org/wiki/Q4423263
 schema_version: 1
+director:
+- brovkin-vyacheslav-vladimirovich
+screenwriter:
+- lavrov-aleksandr-sergeevich
+- lavrova-olga-aleksandrovna
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: kanevskiy-leonid-semyonovich
+- person: lezhdey-elza-ivanovna
+- person: martynyuk-georgiy-yakovlevich

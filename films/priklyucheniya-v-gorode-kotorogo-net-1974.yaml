@@ -8,6 +8,23 @@ runtime_min: 80
 external_ids:
   wikidata: Q4378452
   imdb: tt1673658
+  youtube: De_Qo2T6nCc
 sources:
 - https://www.wikidata.org/wiki/Q4378452
 schema_version: 1
+director:
+- nechaev-leonid-alekseevich
+screenwriter:
+- muratov-sergey-aleksandrovich
+- rozovskiy-mark-grigorevich
+composer:
+- kortes-sergey-albertovich
+cast:
+- person: skulme-valentins
+- person: pereverzev-ivan-fyodorovich
+- person: kanevskiy-leonid-semyonovich
+- person: baranov-vyacheslav-vasilevich
+- person: karka-gediminas
+- person: nosik-valeriy-benediktovich
+studio:
+- belarusfilm

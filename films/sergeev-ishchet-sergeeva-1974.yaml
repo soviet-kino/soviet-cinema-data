@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994369
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+screenwriter:
+- inin-arkadiy
+cast:
+- person: terekhova-margarita
+- person: gaft-valentin-iosifovich
+- person: dyachkov-leonid
+- person: kamornyy-yuriy-yurevich
+- person: naumkina-elena-alekseevna
+studio:
+- belarusfilm

@@ -1,0 +1,9 @@
+id: ird-kaarel
+name_ru: Каарел Ирд
+roles:
+- actor
+external_ids:
+  wikidata: Q4203123
+sources:
+- https://www.wikidata.org/wiki/Q4203123
+schema_version: 1

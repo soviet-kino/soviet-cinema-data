@@ -8,6 +8,18 @@ runtime_min: 29
 external_ids:
   wikidata: Q28704774
   imdb: tt3097770
+  youtube: 9fbD298-QjI
 sources:
 - https://www.wikidata.org/wiki/Q28704774
 schema_version: 1
+director:
+- gres-viktor-stepanovich
+screenwriter:
+- merezhko-viktor
+- gres-viktor-stepanovich
+cinematographer:
+- zimovets-vitaliy-andreevich
+composer:
+- krutikov-svyatoslav-leontevich
+studio:
+- ukrtelefilm

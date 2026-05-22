@@ -8,6 +8,14 @@ runtime_min: 74
 external_ids:
   wikidata: Q116864931
   imdb: tt8224806
+  youtube: 8KXLB6BWupA
 sources:
 - https://www.wikidata.org/wiki/Q116864931
 schema_version: 1
+director:
+- kozachkov-valentin-fyodorovich
+- levin-vasiliy-nikolaevich
+cast:
+- person: kramarov-saveliy-viktorovich
+studio:
+- odesskaya-kinostudiya

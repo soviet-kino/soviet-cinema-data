@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113005269
 schema_version: 1
+director:
+- bazarov-gennadiy-sadyrovich
+screenwriter:
+- dyadyuchenko-leonid-borisovich
+cinematographer:
+- vilenskiy-valeriy-vladimirovich
+composer:
+- moldobasanov-kalyy-moldobasanovich
+cast:
+- person: beyshenaliev-bolot
+- person: danilchenko-svetlana-fyodorovna
+- person: kydykeeva-baken
+- person: khomyatov-roman-zakharevich
+- person: chokmorov-suymenkul
+- person: zhumadylov-sovetbek
+studio:
+- kyrgyzfilm

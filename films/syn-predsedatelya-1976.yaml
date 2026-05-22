@@ -8,6 +8,18 @@ runtime_min: 86
 external_ids:
   wikidata: Q84994170
   imdb: tt0075298
+  youtube: IN6y9o_fyg8
 sources:
 - https://www.wikidata.org/wiki/Q84994170
 schema_version: 1
+director:
+- nikiforov-vyacheslav
+screenwriter:
+- matukovskiy-nikolay-egorovich
+composer:
+- kortes-sergey-albertovich
+cast:
+- person: samoylov-vladimir-yakovlevich
+- person: samoylov-aleksandr-vladimirovich
+studio:
+- belarusfilm

@@ -8,6 +8,15 @@ runtime_min: 66
 external_ids:
   wikidata: Q97913538
   imdb: tt0313421
+  youtube: rH-P38Ij1og
 sources:
 - https://www.wikidata.org/wiki/Q97913538
 schema_version: 1
+director:
+- shvyryov-yuriy
+cinematographer:
+- machilskiy-aleksandr-sergeevich
+composer:
+- trotsyuk-bogdan-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

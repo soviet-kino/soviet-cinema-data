@@ -8,6 +8,22 @@ runtime_min: 98
 external_ids:
   wikidata: Q4424096
   imdb: tt0066386
+  youtube: Ooxkt_qTgdk
 sources:
 - https://www.wikidata.org/wiki/Q4424096
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- simonov-konstantin-mikhaylovich
+- sakharov-aleksey-nikolaevich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+- abramyan-genri-artashesovich
+composer:
+- levitin-yuriy
+cast:
+- person: vertinskaya-anastasiya-aleksandrovna
+- person: efremov-oleg-nikolaevich
+studio:
+- mosfilm

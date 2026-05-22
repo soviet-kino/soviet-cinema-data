@@ -8,6 +8,27 @@ runtime_min: 97
 external_ids:
   wikidata: Q4416370
   imdb: tt0075190
+  youtube: 5z__aCQLe7Y
 sources:
 - https://www.wikidata.org/wiki/Q4416370
 schema_version: 1
+director:
+- maslennikov-igor-fyodorovich
+screenwriter:
+- maslennikov-igor-fyodorovich
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: gurchenko-lyudmila
+- person: yankovsky-oleg
+- person: lyubshin-stanislav-andreevich
+- person: koreneva-elena-alekseevna
+- person: proklova-elena-igorevna
+- person: basov-vladimir-pavlovich
+- person: bortnik-ivan-sergeevich
+- person: galkin-boris-sergeevich
+- person: denisov-nikolay-vasilevich
+studio:
+- lenfilm

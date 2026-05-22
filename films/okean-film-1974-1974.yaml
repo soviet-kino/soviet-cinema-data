@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116864885
 schema_version: 1
+director:
+- vyshinskiy-yuriy-mikhaylovich
+screenwriter:
+- shteyn-aleksandr-petrovich
+cast:
+- person: samoylova-tatyana-evgenevna
+- person: belokhvostikova-nataliya-nikolaevna
+- person: olyalin-nikolay-vladimirovich
+- person: gusakov-boris-nikolaevich
+- person: rechman-viktor-fyodorovich
+studio:
+- mosfilm

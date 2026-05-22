@@ -8,6 +8,15 @@ runtime_min: 74
 external_ids:
   wikidata: Q1532674
   imdb: tt2395129
+  youtube: bp7sTuwOlOg
 sources:
 - https://www.wikidata.org/wiki/Q1532674
 schema_version: 1
+director:
+- freymanis-ayvars
+composer:
+- plakidis-peteris
+cast:
+- person: kalnynsh-ivar
+studio:
+- rizhskaya-kinostudiya

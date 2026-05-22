@@ -8,8 +8,27 @@ runtime_min: 72
 external_ids:
   wikidata: Q4421378
   imdb: tt1869672
+  youtube: 6PR2THo59jg
 sources:
 - https://www.wikidata.org/wiki/Q4421378
 schema_version: 1
 topics:
 - childrens-cinema
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- sherstobitov-evgeniy-firsovich
+cinematographer:
+- belikov-mikhail-aleksandrovich
+composer:
+- ilich-rubin-vladimir
+- fattakh-azon-nurtinovich
+cast:
+- person: martinson-sergey-aleksandrovich
+- person: gallis-leonid-pavlovich
+- person: kapka-dmitriy-leontevich
+- person: ostapenko-sergey
+- person: tikhonov-sergey-mikhaylovich
+- person: yurchenko-anatoliy-ivanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

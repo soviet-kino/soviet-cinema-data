@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4338506
 schema_version: 1
+director:
+- abdrashitov-vadim-yusupovich
+screenwriter:
+- gorin-grigoriy
+cast:
+- person: vysotskiy-vladimir
+- person: farada-semyon-lvovich
+- person: smirnitskiy-valentin-georgievich
+- person: filippenko-aleksandr-georgievich

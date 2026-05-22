@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106758485
 schema_version: 1
+composer:
+- khachaturyan-karen
+studio:
+- mosfilm

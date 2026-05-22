@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865186
 schema_version: 1
+director:
+- figurovskiy-nikolay-nikolaevich
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- solin-lev-lvovich
+cast:
+- person: kmit-leonid-aleksandrovich
+- person: demyanenko-aleksandr-sergeevich
+- person: kutsenko-valentina-pavlovna
+- person: loginova-tamara-abramovna
+- person: zhukovskaya-ninel-alekseevna
+studio:
+- belarusfilm

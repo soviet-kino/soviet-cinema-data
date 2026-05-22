@@ -8,6 +8,15 @@ runtime_min: 70
 external_ids:
   wikidata: Q123997664
   imdb: tt5947606
+  youtube: yRg_fSFhu5g
 sources:
 - https://www.wikidata.org/wiki/Q123997664
 schema_version: 1
+director:
+- nirenburg-boris-eduardovich
+screenwriter:
+- spirina-valentina-ivanovna
+composer:
+- agafonnikov-vladislav-germanovich
+studio:
+- ekran

@@ -8,6 +8,17 @@ runtime_min: 163
 external_ids:
   wikidata: Q36169
   imdb: tt0314941
+  youtube: 5pz30s2CSIA
 sources:
 - https://www.wikidata.org/wiki/Q36169
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- vorobyov-evgeniy-zakharovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: strizhenov-oleg-aleksandrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

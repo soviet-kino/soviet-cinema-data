@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4101752
   imdb: tt0175287
+  youtube: 8nE9JPNl3Wk
 sources:
 - https://www.wikidata.org/wiki/Q4101752
 schema_version: 1
+director:
+- segel-yakov-aleksandrovich
+screenwriter:
+- segel-yakov-aleksandrovich
+cinematographer:
+- kovalchuk-aleksandr-petrovich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- kinostudiya-imeni-m-gorkogo

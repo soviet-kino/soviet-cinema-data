@@ -1,0 +1,9 @@
+id: ermale-esmeralda
+name_ru: Эсмералда Эрмале
+roles:
+- actor
+external_ids:
+  wikidata: Q4532533
+sources:
+- https://www.wikidata.org/wiki/Q4532533
+schema_version: 1

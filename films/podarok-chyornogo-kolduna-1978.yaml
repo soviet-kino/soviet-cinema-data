@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q924555
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- olshanskiy-iosif-grigorevich
+- fedoseev-vladislav-aleksandrovich
+composer:
+- volkov-kirill-evgenevich
+cast:
+- person: shcherbakov-boris-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

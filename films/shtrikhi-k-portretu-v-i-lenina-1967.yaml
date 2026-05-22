@@ -7,6 +7,35 @@ country:
 external_ids:
   wikidata: Q4526979
   imdb: tt0062264
+  youtube: 6r7cGAas-9g
 sources:
 - https://www.wikidata.org/wiki/Q4526979
 schema_version: 1
+director:
+- pchyolkin-leonid-aristarkhovich
+screenwriter:
+- shatrov-mikhail-filippovich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: tabakov-oleg-pavlovich
+- person: papanov-anatoliy-dmitrievich
+- person: dzhigarkhanyan-armen-borisovich
+- person: kvasha-igor-vladimirovich
+- person: efremov-oleg-nikolaevich
+- person: evstigneev-evgeniy-aleksandrovich
+- person: emelyanov-vladimir-nikolaevich
+- person: karachentsov-nikolay
+- person: miroshnichenko-irina-petrovna
+- person: loginova-tamara-abramovna
+- person: fominichna-pastukhova-mariya
+- person: sergachyov-viktor-nikolaevich
+- person: shcherbakov-pyotr-ivanovich
+- person: yureva-margarita-valentinovna
+- person: talvi-ayno
+- person: alekseev-nikolay
+- person: balmusov-yulen-sergeevich
+- person: kolchitskiy-galiks
+studio:
+- ekran

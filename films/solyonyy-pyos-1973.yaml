@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4428641
 schema_version: 1
+director:
+- koshelev-nikolay-nikolaevich
+screenwriter:
+- knorre-fyodor-fyodorovich
+composer:
+- uspenskiy-vladislav-aleksandrovich
+cast:
+- person: menshov-vladimir-valentinovich
+studio:
+- lenfilm

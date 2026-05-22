@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123290522
 schema_version: 1
+director:
+- khachaturov-eduard-iosifovich
+cinematographer:
+- pann-aleksandr
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: riskiev-rufat-asadovich
+- person: kydykeeva-baken
+- person: ledogorov-igor-vadimovich
+- person: pavuls-eduard-karlovich
+- person: yunusov-obidzhan
+studio:
+- uzbekfilm

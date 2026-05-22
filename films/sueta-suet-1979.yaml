@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q4445585
   imdb: tt0078348
+  youtube: 6ZFFdCxYavA
 sources:
 - https://www.wikidata.org/wiki/Q4445585
 schema_version: 1
+director:
+- surikova-alla-ilinichna
+cast:
+- person: polskikh-galina
+- person: mkrtchyan-frunzik
+- person: kuravlyov-leonid-vyacheslavovich
+studio:
+- mosfilm

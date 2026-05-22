@@ -8,6 +8,23 @@ runtime_min: 132
 external_ids:
   wikidata: Q51309577
   imdb: tt5372478
+  youtube: Tjgqn6up7Kw
 sources:
 - https://www.wikidata.org/wiki/Q51309577
 schema_version: 1
+director:
+- akhadov-valeriy-bakievich
+screenwriter:
+- strugatsky-arkady
+- niyazi-fatekh
+cinematographer:
+- khudonazarov-davlatnazar
+cast:
+- person: toma-svetlana
+- person: mukhamedzhanov-ato
+- person: efimenko-lyudmila-filippovna
+- person: kuznetsov-mikhail-artemevich
+- person: zavkibekov-gurmindzh
+- person: saodatova-asalbegim
+studio:
+- tadzhikfilm

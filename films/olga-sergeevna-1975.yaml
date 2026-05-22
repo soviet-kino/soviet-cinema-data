@@ -8,6 +8,16 @@ runtime_min: 560
 external_ids:
   wikidata: Q4334081
   imdb: tt1087897
+  youtube: TmyLYcgaYn8
 sources:
 - https://www.wikidata.org/wiki/Q4334081
 schema_version: 1
+director:
+- proshkin-aleksandr-anatolevich
+screenwriter:
+- radzinskiy-edvard-stanislavovich
+composer:
+- tariverdiev-mikael
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: doronina-tatyana-vasilevna

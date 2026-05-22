@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q29159069
 schema_version: 1
+director:
+- chebotaryov-vladimir-aleksandrovich
+screenwriter:
+- chebotaryov-vladimir-aleksandrovich
+- kochetov-vsevolod
+- smirnov-edgar-filippovich
+cinematographer:
+- slabnevich-igor-mikhaylovich
+composer:
+- muravlyov-aleksey-alekseevich
+- tolstoy-dmitriy-alekseevich
+cast:
+- person: mordyukova-nonna-viktorovna
+- person: smirnova-lidiya-nikolaevna
+- person: abrikosov-andrey-lvovich
+- person: samoylov-vladimir-yakovlevich
+- person: stolyarov-kirill-sergeevich
+- person: anatoliy-falkovich
+- person: khvylya-aleksandr-leopoldovich
+- person: khityaeva-lyudmila-ivanovna
+- person: khokhlov-aleksandr-evgenevich
+- person: abramov-valentin-alekseevich
+studio:
+- mosfilm

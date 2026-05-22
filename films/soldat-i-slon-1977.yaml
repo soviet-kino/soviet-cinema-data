@@ -8,6 +8,33 @@ runtime_min: 79
 external_ids:
   wikidata: Q4427587
   imdb: tt0410942
+  youtube: ezEwpN-KaZY
 sources:
 - https://www.wikidata.org/wiki/Q4427587
 schema_version: 1
+director:
+- kesayants-dmitriy
+screenwriter:
+- kesayants-dmitriy
+- akopov-eduard-tigranovich
+cinematographer:
+- atoyants-levon
+composer:
+- arutyunyan-yuriy
+cast:
+- person: mkrtchyan-frunzik
+- person: volskaya-elena-ivanovna
+- person: grachyov-vadim-viktorovich
+- person: krishtal-georgiy-gavrilovich
+- person: maksimova-elena
+- person: pitsek-vladimir-kondratevich
+- person: khostikyan-armen-isaakovich
+- person: birillo-stepan-stepanovich
+- person: bakhar-aleksey
+- person: shtrimaytite-laymute
+- person: kosmauskas-styaponas
+- person: gen-gurgen
+- person: vanyan-ovik
+- person: rango
+studio:
+- armenfilm

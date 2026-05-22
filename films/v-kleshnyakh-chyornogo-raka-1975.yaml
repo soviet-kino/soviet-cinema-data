@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4101712
   imdb: tt0255666
+  youtube: caiJYLkjLJs
 sources:
 - https://www.wikidata.org/wiki/Q4101712
 schema_version: 1
+director:
+- leymanis-aleksandr-ottovich
+composer:
+- pauls-raymond
+cast:
+- person: tsilinskiy-gunar-alfredovich
+- person: dumpis-uldis
+- person: vazdiks-uldis
+- person: ozolinya-lilita-arvidovna
+studio:
+- rizhskaya-kinostudiya

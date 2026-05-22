@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4410065
 schema_version: 1
+director:
+- seidzade-guseyn-ali-oglu
+screenwriter:
+- ogly-ibragimov-azhdar-mutallim
+- maleeva-margarita-zakharovna
+cinematographer:
+- askerov-fikret
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: kyzy-zeynalova-nasiba-dzhakhangir
+- person: ogly-poladov-fuad-agaragim
+- person: rakhmanov-talyat
+- person: ibragimova-safura-agababa-kyzy
+- person: akhmerova-tanilya
+- person: gulieva-inara-aleksandrovna
+- person: ogly-akhmedov-ilkham-namig-kyamal
+studio:
+- azerbaydzhanfilm

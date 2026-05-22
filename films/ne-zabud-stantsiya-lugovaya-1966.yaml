@@ -8,6 +8,24 @@ runtime_min: 84
 external_ids:
   wikidata: Q4315405
   imdb: tt0060744
+  youtube: 2-h4YZL_Co0
 sources:
 - https://www.wikidata.org/wiki/Q4315405
 schema_version: 1
+director:
+- kurikhin-nikita-fyodorovich
+- menaker-leonid-isaakovich
+screenwriter:
+- olshanskiy-iosif-grigorevich
+- rudneva-nina-isaevna
+cinematographer:
+- chirov-aleksandr-viktorovich
+composer:
+- vaysburd-yakov-isaevich
+cast:
+- person: yumatov-georgiy-aleksandrovich
+- person: vladimirova-valentina-kharlampievna
+- person: kibardina-valentina-tikhonovna
+- person: chernova-alla-iosifovna
+studio:
+- lenfilm

@@ -8,6 +8,20 @@ runtime_min: 73
 external_ids:
   wikidata: Q4315360
   imdb: tt0156836
+  youtube: eBoVqmlmABo
 sources:
 - https://www.wikidata.org/wiki/Q4315360
 schema_version: 1
+director:
+- asanova-dinara-kuldashevna
+screenwriter:
+- klepikov-yuriy-nikolaevich
+cinematographer:
+- dolinin-dmitriy
+composer:
+- krylatov-evgeniy
+cast:
+- person: vasileva-ekaterina-sergeevna
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- lenfilm

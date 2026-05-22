@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4334788
 schema_version: 1
+director:
+- sabitov-zagid-zarifovich
+screenwriter:
+- lukovskiy-igor
+- sabitov-zagid-zarifovich
+cast:
+- person: irgashev-shukhrat-ibragimovich
+studio:
+- uzbekfilm

@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q21636649
   imdb: tt6372518
+  youtube: iUKbnwbv16s
 sources:
 - https://www.wikidata.org/wiki/Q21636649
 schema_version: 1
+director:
+- kirill-malyantovich
+cinematographer:
+- golomb-iosif-emmanuilovich
+composer:
+- ziv-mikhail-pavlovich
+studio:
+- ekran

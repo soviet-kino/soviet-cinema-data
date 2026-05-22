@@ -8,6 +8,16 @@ runtime_min: 167
 external_ids:
   wikidata: Q4377786
   imdb: tt0314536
+  youtube: DsBcvpvbUEU
 sources:
 - https://www.wikidata.org/wiki/Q4377786
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+composer:
+- levitin-yuriy
+cast:
+- person: kulagin-leonid-nikolaevich
+- person: strzhelchik-vladislav-ignatevich
+studio:
+- sverdlovskaya-kinostudiya

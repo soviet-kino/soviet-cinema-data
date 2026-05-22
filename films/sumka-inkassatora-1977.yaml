@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4446001
 schema_version: 1
+director:
+- baltrushaytis-avgust-avgustovich
+cinematographer:
+- chechulin-aleksandr-mikhaylovich
+composer:
+- balsis-eduardas
+cast:
+- person: burkov-georgiy-ivanovich
+studio:
+- lenfilm

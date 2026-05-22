@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4440370
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+- bryantsev-dmitriy-aleksandrovich
+screenwriter:
+- belinskiy-aleksandr-arkadevich
+- bryantsev-dmitriy-aleksandrovich
+composer:
+- kogan-timur-iosifovich
+cast:
+- person: maksimova-ekaterina-sergeevna
+studio:
+- pyatyy-kanal

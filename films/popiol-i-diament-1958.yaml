@@ -19,6 +19,22 @@ cast:
   role: Мацек Хелмицкий
 - person: krzyzewska-ewa
   role: Кристина
+- person: barbara-krafftuvna
+- person: kobelya-bogumil
+- person: milskiy-stanislav
+- person: makhovskiy-ignatsy
+- person: petruskiy-ryshard
+- person: chervinskaya-zofya
+- person: pavlikovskiy-adam
+- person: mlodnitskiy-artur
+- person: kvyatkovska-khalina
+- person: kalinovskiy-tadeush
+- person: grotowicz-wiktor
+- person: skowronski-zbigniew
+- person: khronitskiy-adolf
+- person: tsetserskiy-yan
+- person: peratskiy-yuzef
+- person: zastshezhinskiy-vatslav
 runtime_min: 103
 language:
 - pl
@@ -39,3 +55,4 @@ cinematographer:
 - vuychik-ezhi
 topics:
 - literary-adaptations
+poster_commons: Tomasz Wójcik - Ashes and Diamonds.jpg

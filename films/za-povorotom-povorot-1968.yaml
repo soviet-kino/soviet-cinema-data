@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4182259
 schema_version: 1
+director:
+- dunkers-olgert
+composer:
+- ramans-gederts
+cast:
+- person: tsilinskiy-gunar-alfredovich
+- person: line-velta-martynovna
+- person: ozolinya-lilita-arvidovna
+studio:
+- rizhskaya-kinostudiya

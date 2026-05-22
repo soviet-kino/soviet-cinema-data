@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4371052
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- barnet-boris-vasilevich
+- pogodin-radiy-petrovich
+composer:
+- molchanov-kirill
+cast:
+- person: merkurev-vasiliy-vasilevich
+- person: rumyantseva-nadezhda-vasilevna
+- person: mazurova-ekaterina-yakovlevna
+- person: novikov-boris-kuzmich
+studio:
+- mosfilm

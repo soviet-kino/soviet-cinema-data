@@ -8,6 +8,19 @@ runtime_min: 121
 external_ids:
   wikidata: Q4366104
   imdb: tt2104965
+  youtube: OVuXz9lJkCY
 sources:
 - https://www.wikidata.org/wiki/Q4366104
 schema_version: 1
+director:
+- kanevskiy-vitaliy-evgenevich
+- dobrolyubov-igor-mikhaylovich
+- mikhleev-dmitriy-nikanorovich
+screenwriter:
+- dragunskiy-denis-viktorovich
+cinematographer:
+- betev-aleksandr
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- belarusfilm

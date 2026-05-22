@@ -8,6 +8,23 @@ runtime_min: 90
 external_ids:
   wikidata: Q4310917
   imdb: tt0063333
+  youtube: nw37cxYdrek
 sources:
 - https://www.wikidata.org/wiki/Q4310917
 schema_version: 1
+director:
+- viktor-ivanovich-tregubovich
+screenwriter:
+- kurochkin-viktor-aleksandrovich
+cinematographer:
+- mezentsev-evgeniy-mikhaylovich
+composer:
+- portnov-georgiy-anatolevich
+cast:
+- person: pavlov-viktor-pavlovich
+- person: sichkin-boris-mikhaylovich
+- person: borisov-oleg-ivanovich
+- person: zubkov-valentin-ivanovich
+- person: kononov-mikhail-ivanovich
+studio:
+- lenfilm

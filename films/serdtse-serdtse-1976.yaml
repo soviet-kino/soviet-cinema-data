@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q12848765
   imdb: tt1726102
+  youtube: D2t7h6Ndhlc
 sources:
 - https://www.wikidata.org/wiki/Q12848765
 schema_version: 1
+director:
+- kuliev-eldar
+cinematographer:
+- narimanbekov-arif
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: ogly-turabov-gasan-sattar
+studio:
+- azerbaydzhanfilm

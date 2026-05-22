@@ -7,6 +7,23 @@ country:
 external_ids:
   wikidata: Q4462824
   imdb: tt1714911
+  youtube: 4JKrTShoVbo
 sources:
 - https://www.wikidata.org/wiki/Q4462824
 schema_version: 1
+director:
+- mikhleev-dmitriy-nikanorovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- betev-aleksandr
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: belyanskaya-anzhela-mikhaylovna
+- person: ivanov-sergey-petrovich
+- person: lysenko-olga-georgievna
+- person: medvedev-yuriy-nikolaevich
+- person: papanova-elena-anatolevna
+studio:
+- belarusfilm

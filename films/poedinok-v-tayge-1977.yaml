@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q16389832
   imdb: tt0076552
+  youtube: fYM6AtHltC0
 sources:
 - https://www.wikidata.org/wiki/Q16389832
 schema_version: 1
+director:
+- zlatoustovskiy-vladimir-borisovich
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+composer:
+- molchanov-kirill
+cast:
+- person: gordeev-viktor-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,33 @@ runtime_min: 102
 external_ids:
   wikidata: Q4421721
   imdb: tt0060989
+  youtube: IH6tvRce1hI
 sources:
 - https://www.wikidata.org/wiki/Q4421721
 schema_version: 1
+director:
+- alov-aleksandr-aleksandrovich
+- naumov-vladimir-naumovich
+screenwriter:
+- alov-aleksandr-aleksandrovich
+- naumov-vladimir-naumovich
+- zorin-leonid-genrikhovich
+cinematographer:
+- koroptsov-mikhail-dmitrievich
+- kuznetsov-anatoliy-vasilevich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: evstigneev-evgeniy-aleksandrovich
+- person: pavlenko-pavel-pavlovich
+- person: fyodorova-zoya-alekseevna
+- person: georgiu-georgiy-aleksandrovich
+- person: gruzinskiy-aleksandr-pavlovich
+- person: nikishchikhina-elizaveta-sergeevna
+- person: ponsova-elena-dmitrievna
+- person: sergachyov-viktor-nikolaevich
+- person: strizhenov-gleb-aleksandrovich
+- person: yabbarov-anatoliy-akhmedovich
+- person: obukhov-anatoliy-matveevich
+studio:
+- mosfilm

@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101821
 schema_version: 1
+director:
+- piesis-gunar
+screenwriter:
+- piesis-gunar
+composer:
+- zarinsh-margeris
+cast:
+- person: pavuls-eduard-karlovich
+studio:
+- rizhskaya-kinostudiya

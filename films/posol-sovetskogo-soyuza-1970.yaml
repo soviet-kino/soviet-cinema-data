@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373949
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+screenwriter:
+- tur-pyotr-lvovich
+cinematographer:
+- nikolaev-vladimir-vasilevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: borisova-yuliya-konstantinovna
+studio:
+- mosfilm

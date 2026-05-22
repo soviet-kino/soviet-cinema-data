@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4340670
   imdb: tt1459049
+  youtube: hAxfE6b_mDk
 sources:
 - https://www.wikidata.org/wiki/Q4340670
 schema_version: 1
+director:
+- samsonov-vladimir-anatolevich
+screenwriter:
+- arkanov-arkadiy-mikhaylovich
+composer:
+- gladkov-gennadiy
+studio:
+- ekran

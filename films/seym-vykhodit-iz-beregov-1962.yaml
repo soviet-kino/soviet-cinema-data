@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56368589
 schema_version: 1
+director:
+- shmaruk-isaak-petrovich
+- dobrovolskiy-viktor-nikolaevich
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+- bolgarin-igor-yakovlevich
+- moskalets-viliy-konstantinovich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- bilash-aleksandr-ivanovich
+cast:
+- person: vingranovskiy-nikolay-stepanovich
+- person: vesklyarov-pyotr-efimovich
+- person: dobrovolskiy-viktor-nikolaevich
+- person: medvedev-vadim-aleksandrovich
+- person: sergeychikova-silviya
+- person: voronin-vyacheslav-anatolevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

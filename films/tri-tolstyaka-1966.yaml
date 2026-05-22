@@ -8,6 +8,26 @@ runtime_min: 85
 external_ids:
   wikidata: Q862112
   imdb: tt0061121
+  youtube: eOQxfYCOq84
 sources:
 - https://www.wikidata.org/wiki/Q862112
 schema_version: 1
+director:
+- batalov-aleksey-vladimirovich
+- shapiro-iosif-solomonovich
+screenwriter:
+- batalov-aleksey-vladimirovich
+- ardov-mikhail-viktorovich
+cinematographer:
+- shakhbazyan-suren
+composer:
+- sidelnikov-nikolay-nikolaevich
+cast:
+- person: batalov-aleksey-vladimirovich
+- person: zelyonaya-rina
+- person: smirnov-aleksey-makarovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: braknite-lina
+- person: nikulin-valentin-yurevich
+studio:
+- lenfilm

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123123911
 schema_version: 1
+director:
+- eliava-liana
+screenwriter:
+- chelidze-levan-sergeevich
+- eliava-liana
+composer:
+- kancheli-giya-aleksandrovich
+cast:
+- person: pirtskhalava-guram-nikolaevich
+- person: dzhinoriya-murman
+studio:
+- gruziya-film

@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60971283
 schema_version: 1
+director:
+- kremnyov-valeriy
+screenwriter:
+- gerasimov-iosif-abramovich
+cinematographer:
+- olonovskiy-nikolay
+composer:
+- eshpay-andrey
+cast:
+- person: polskikh-galina
+- person: dvorzhetskiy-vladislav-vatslavovich
+- person: durov-lev-konstantinovich
+- person: miroshnichenko-irina-petrovna
+- person: zamanskiy-vladimir-petrovich
+- person: pechernikova-irina-viktorovna
+- person: spiridonov-vadim-semyonovich
+- person: tselikovskaya-lyudmila-vasilevna
+- person: shashkova-eleonora-petrovna
+studio:
+- mosfilm

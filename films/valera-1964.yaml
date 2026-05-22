@@ -8,6 +8,17 @@ runtime_min: 67
 external_ids:
   wikidata: Q114298807
   imdb: tt0329726
+  youtube: Lw1zZgngkMw
 sources:
 - https://www.wikidata.org/wiki/Q114298807
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- faynberg-vladimir-lvovich
+cinematographer:
+- malinovskiy-yuriy-petrovich
+composer:
+- marutaev-mikhail-aleksandrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

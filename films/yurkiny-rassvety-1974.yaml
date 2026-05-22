@@ -8,6 +8,17 @@ runtime_min: 251
 external_ids:
   wikidata: Q4534972
   imdb: tt4840330
+  youtube: 10Jj6ob2zH4
 sources:
 - https://www.wikidata.org/wiki/Q4534972
 schema_version: 1
+director:
+- ilinskiy-nikolay-serafimovich
+cinematographer:
+- vereshchak-vadim-semyonovich
+cast:
+- person: ryzhakov-valeriy-nikolaevich
+- person: sazonova-nina-afanasevna
+- person: timofeev-nikolay-dmitrievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

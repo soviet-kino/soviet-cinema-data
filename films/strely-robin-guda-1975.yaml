@@ -8,6 +8,30 @@ runtime_min: 78
 external_ids:
   wikidata: Q1215401
   imdb: tt0075274
+  youtube: j7uQlwh1WKM
 sources:
 - https://www.wikidata.org/wiki/Q1215401
 schema_version: 1
+director:
+- tarasov-sergey
+screenwriter:
+- rapoport-kirill-iosifovich
+composer:
+- vysotskiy-vladimir
+- pauls-raymond
+cast:
+- person: artmane-viya
+- person: khmelnitskiy-boris
+- person: belyavskiy-aleksandr-borisovich
+- person: kalnynsh-ivar
+- person: masyulis-algimantas-ionovich
+- person: burans-ints
+- person: dupak-nikolay-lukyanovich
+- person: kamornyy-yuriy-yurevich
+- person: martinsone-mirdza
+- person: pavuls-eduard-karlovich
+- person: razuma-regina
+- person: strenga-yuris
+- person: shveyts-khariy-arvidovich
+studio:
+- rizhskaya-kinostudiya

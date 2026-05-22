@@ -8,6 +8,21 @@ runtime_min: 85
 external_ids:
   wikidata: Q116851353
   imdb: tt4877050
+  youtube: x19BB5mkB4M
 sources:
 - https://www.wikidata.org/wiki/Q116851353
 schema_version: 1
+director:
+- grigorev-vladimir-nikolaevich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- vasilev-vladimir-anatolevich
+composer:
+- gagulashvili-arkadiy-davidovich
+cast:
+- person: solomin-vitaliy-mefodevich
+- person: malevannaya-larisa-ivanovna
+- person: solomina-mariya-antoninovna
+studio:
+- lenfilm

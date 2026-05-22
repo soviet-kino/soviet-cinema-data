@@ -8,6 +8,19 @@ runtime_min: 98
 external_ids:
   wikidata: Q4190760
   imdb: tt0314940
+  youtube: r39BZIF6B_4
 sources:
 - https://www.wikidata.org/wiki/Q4190760
 schema_version: 1
+director:
+- aronov-grigoriy-lazarevich
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- zhilin-nikolay-nikolaevich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: luspekaev-pavel-borisovich
+studio:
+- lenfilm

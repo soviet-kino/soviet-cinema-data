@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q86673571
   imdb: tt5077564
+  youtube: 9wctn5SqRDI
 sources:
 - https://www.wikidata.org/wiki/Q86673571
 schema_version: 1
+director:
+- agranovich-leonid-danilovich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- ziv-mikhail-pavlovich
+cast:
+- person: strizhenova-lyubov-vasilevna
+- person: kovalyov-aleksey-leonidovich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4371732
 schema_version: 1
+director:
+- kolosov-sergey-nikolaevich
+screenwriter:
+- kolosov-sergey-nikolaevich
+- krasinskiy-yanush
+cinematographer:
+- lyambakh-boguslav
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: nemchik-leon
+- person: lyaskovskaya-irena
+- person: titova-valentina-antipovna
+- person: ivashov-vladimir-sergeevich
+- person: kasatkina-lyudmila-ivanovna
+- person: ivanova-lyudmila-ivanovna
+- person: krasitskiy-andzhey
+- person: lisyanskaya-anna-grigorevna
+- person: rakhvalskaya-barbara
+- person: moes-jerzy
+- person: hanin-ryszarda
+- person: kenia-eva
+- person: borovskiy-tadeush
+- person: nowakowska-boryta-jadwiga
+- person: goraj-maciej
+studio:
+- mosfilm
+- iluzjon

@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1579305
 schema_version: 1
+director:
+- kruusement-arvo
+screenwriter:
+- luts-oskar
+- kiysk-kalyo-karlovich
+- panso-voldemar-khansovich
+cinematographer:
+- rekhe-kharri
+composer:
+- tormis-velo
+cast:
+- person: merzin-leonkhard-rikhardovich
+- person: laanemets-aare
+- person: kiysk-kalyo-karlovich
+- person: lepa-margus
+- person: lutsepp-ayn
+- person: liyver-arno
+- person: hein-riina
+- person: aedma-reyn
+- person: ani-endel
+studio:
+- tallinfilm

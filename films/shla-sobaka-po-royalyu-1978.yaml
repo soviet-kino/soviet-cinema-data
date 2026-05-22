@@ -8,6 +8,20 @@ runtime_min: 68
 external_ids:
   wikidata: Q4525375
   imdb: tt0078257
+  youtube: dgxR5UN0YQk
 sources:
 - https://www.wikidata.org/wiki/Q4525375
 schema_version: 1
+director:
+- grammatikov-vladimir-aleksandrovich
+screenwriter:
+- tokareva-viktoriya-samoylovna
+cinematographer:
+- kataev-pyotr
+composer:
+- rybnikov-aleksey
+cast:
+- person: kislenko-valeriy-kirillovich
+- person: kishchik-elena-vyacheslavovna
+studio:
+- kinostudiya-imeni-m-gorkogo

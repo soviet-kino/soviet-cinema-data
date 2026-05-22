@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q133728986
 schema_version: 1
+director:
+- lepa-astrid
+screenwriter:
+- lepa-astrid
+- lepa-ester
+- tobro-valdeko
+cinematographer:
+- mutt-anton
+cast:
+- person: koppel-eynari
+studio:
+- eesti-telefilm

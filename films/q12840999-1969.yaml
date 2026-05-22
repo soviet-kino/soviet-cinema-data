@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12840999
 schema_version: 1
+director:
+- bag-rov-ramiz

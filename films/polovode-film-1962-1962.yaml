@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25394854
 schema_version: 1
+director:
+- babich-iskra-leonidovna
+screenwriter:
+- budantseva-roza-semyonovna
+cast:
+- person: zubkov-valentin-ivanovich
+- person: kuznetsova-vera-andreevna
+- person: yatskina-galina-ivanovna
+studio:
+- mosfilm

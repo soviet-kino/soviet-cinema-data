@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60850950
 schema_version: 1
+director:
+- babichenko-dmitriy-naumovich
+cinematographer:
+- golomb-iosif-emmanuilovich
+studio:
+- ekran

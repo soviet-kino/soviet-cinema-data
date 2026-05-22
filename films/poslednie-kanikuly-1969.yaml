@@ -8,6 +8,18 @@ runtime_min: 89
 external_ids:
   wikidata: Q4373756
   imdb: tt0064831
+  youtube: 7MmI8l4VIQQ
 sources:
 - https://www.wikidata.org/wiki/Q4373756
 schema_version: 1
+director:
+- kremnyov-valeriy
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- kuzmich-aedonitskiy-pavel
+cast:
+- person: bulgakova-mayya
+- person: vdovin-aleksandr-ivanovich
+studio:
+- mosfilm

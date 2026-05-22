@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865195
 schema_version: 1
+cast:
+- person: tumenova-elena-stepanovna
+- person: ikaev-mairbek-sidamonovich

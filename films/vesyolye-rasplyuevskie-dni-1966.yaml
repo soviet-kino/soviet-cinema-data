@@ -8,6 +8,23 @@ runtime_min: 89
 external_ids:
   wikidata: Q4109864
   imdb: tt0129527
+  youtube: PUCRoCnO3m8
 sources:
 - https://www.wikidata.org/wiki/Q4109864
 schema_version: 1
+director:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+screenwriter:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+cinematographer:
+- rybin-aleksandr
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: millyar-georgiy-frantsevich
+- person: garin-erast-pavlovich
+- person: trofimov-nikolay-nikolaevich
+- person: kharitonova-svetlana-nikolaevna
+studio:
+- kinostudiya-imeni-m-gorkogo

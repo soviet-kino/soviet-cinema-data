@@ -8,6 +8,17 @@ runtime_min: 92
 external_ids:
   wikidata: Q4462374
   imdb: tt0063717
+  youtube: Dwyh7FTUGoY
 sources:
 - https://www.wikidata.org/wiki/Q4462374
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+screenwriter:
+- nikolaevskiy-oleg-pavlovich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: vesnik-evgeniy-yakovlevich
+studio:
+- sverdlovskaya-kinostudiya

@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12843989
 schema_version: 1
+director:
+- kazimovskiy-rauf
+screenwriter:
+- kazimovskiy-rauf
+cinematographer:
+- ogly-akhundov-tayub-mirza-gasan
+cast:
+- person: ogly-geraybeyli-agasadykh-aga-ali
+- person: kolpakov-viktor-mikhaylovich
+- person: bordukov-lev-nikolaevich
+- person: osmanly-ismail-osman-ogly
+studio:
+- aztv

@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21148920
 schema_version: 1
+director:
+- derbenyov-vadim-klavdievich
+cinematographer:
+- derbenyov-vadim-klavdievich
+composer:
+- lazarev-eduard
+cast:
+- person: bykov-rolan-antonovich
+- person: zbruev-aleksandr-viktorovich
+- person: nedashkovskaya-raisa-stepanovna
+- person: vasilev-vladimir-vasilevich
+- person: gruzin-trifon-ivanovich
+- person: kapka-dmitriy-leontevich
+- person: murzaeva-irina-vsevolodovna
+- person: nazarova-aleksandra-ivanovna
+- person: fusu-dumitru
+- person: konstantinov-konstantin-timofeevich
+studio:
+- moldova-film

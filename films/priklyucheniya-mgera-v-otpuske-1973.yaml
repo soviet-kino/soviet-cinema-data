@@ -7,6 +7,21 @@ country:
 runtime_min: 90
 external_ids:
   wikidata: Q20508008
+  youtube: tVnmxNOBsHk
 sources:
 - https://www.wikidata.org/wiki/Q20508008
 schema_version: 1
+director:
+- martirosyan-ernest
+composer:
+- bagdasaryan-eduard
+cast:
+- person: mkrtchyan-frunzik
+- person: abramyan-khoren
+- person: varderesyan-vardui
+- person: khostikyan-armen-isaakovich
+- person: karagezyan-mais
+- person: galoyan-hovak
+- person: akopyan-vrezh
+studio:
+- armenfilm

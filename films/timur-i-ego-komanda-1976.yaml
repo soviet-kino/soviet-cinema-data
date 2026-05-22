@@ -8,6 +8,23 @@ runtime_min: 128
 external_ids:
   wikidata: Q4457763
   imdb: tt1721110
+  youtube: P8xiluS4uuw
 sources:
 - https://www.wikidata.org/wiki/Q4457763
 schema_version: 1
+director:
+- blank-aleksandr-isaakovich
+- linkov-sergey-yakovlevich
+screenwriter:
+- blank-aleksandr-isaakovich
+- linkov-sergey-yakovlevich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- frid-grigoriy-samuilovich
+cast:
+- person: baranov-vyacheslav-vasilevich
+- person: tabakov-anton-olegovich
+- person: tretyakova-inga-alfredovna
+studio:
+- odesskaya-kinostudiya

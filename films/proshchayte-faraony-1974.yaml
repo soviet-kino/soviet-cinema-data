@@ -8,6 +8,25 @@ runtime_min: 79
 external_ids:
   wikidata: Q15270978
   imdb: tt0396825
+  youtube: mN-JLmHzY9g
 sources:
 - https://www.wikidata.org/wiki/Q15270978
 schema_version: 1
+director:
+- cherkasskiy-david-yanovich
+screenwriter:
+- kolomiets-aleksey-fedotovich
+cinematographer:
+- silchenko-fyodor
+composer:
+- mayboroda-platon-illarionovich
+cast:
+- person: alfimova-lyudmila-ivanovna
+- person: koperzhinskaya-nonna-kronidovna
+- person: shutko-nikolay-alekseevich
+- person: prikhodko-lyudmila-ivanovna
+- person: yachminskiy-vladimir-dmitrievich
+- person: slyozka-nikolay
+- person: kramar-mikhail-polikarpovich
+studio:
+- odesskaya-kinostudiya

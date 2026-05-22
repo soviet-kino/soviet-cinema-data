@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130473581
 schema_version: 1
+director:
+- zakharias-manos
+screenwriter:
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- kende-yanosh
+cast:
+- person: kozak-andrash
+studio:
+- mosfilm

@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q65200240
   imdb: tt4914700
+  youtube: CTOQmCNPu8A
 sources:
 - https://www.wikidata.org/wiki/Q65200240
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

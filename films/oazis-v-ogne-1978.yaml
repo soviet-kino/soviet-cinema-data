@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16414163
 schema_version: 1
+director:
+- ogly-makhmudbekov-shamil-faramaz
+screenwriter:
+- muganly-akhmedaga
+cinematographer:
+- ogly-akhundov-tayub-mirza-gasan
+composer:
+- sabitoglu-emin
+cast:
+- person: nuri-yashar
+- person: kosykh-ivan-sergeevich
+- person: kosykh-viktor
+- person: panova-alla-vasilevna
+- person: ogly-khanyzade-gamlet-babir
+- person: ogly-rzaev-samandar-mansim
+studio:
+- azerbaydzhanfilm

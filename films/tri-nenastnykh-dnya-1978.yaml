@@ -8,6 +8,19 @@ runtime_min: 73
 external_ids:
   wikidata: Q116865207
   imdb: tt0466171
+  youtube: ELP8iBozM0M
 sources:
 - https://www.wikidata.org/wiki/Q116865207
 schema_version: 1
+director:
+- tsutsulkovskiy-lev-izrailevich
+screenwriter:
+- vysotskiy-sergey-aleksandrovich
+composer:
+- khochinskiy-aleksandr-yurevich
+cast:
+- person: yakovlev-yuriy-vasilevich
+- person: akulova-irina-grigorevna
+- person: bogachyov-gennadiy-petrovich
+- person: nikitenko-valeriy-efremovich
+- person: romanov-ernst-ivanovich

@@ -8,6 +8,25 @@ runtime_min: 93
 external_ids:
   wikidata: Q261240
   imdb: tt0136624
+  youtube: pYENPwgfJqE
 sources:
 - https://www.wikidata.org/wiki/Q261240
 schema_version: 1
+director:
+- mkrtchyan-albert
+screenwriter:
+- zakharov-mark-anatolevich
+- fedoseev-vladislav-aleksandrovich
+cinematographer:
+- koroptsov-mikhail-dmitrievich
+composer:
+- zatsepin-aleksandr
+cast:
+- person: dvorzhetskiy-vladislav-vatslavovich
+- person: nazarov-yuriy-vladimirovich
+- person: vitsin-georgiy-mikhaylovich
+- person: dal-oleg-ivanovich
+- person: esambaev-makhmud-alisultanovich
+- person: gritsenko-nikolay-olimpievich
+studio:
+- mosfilm

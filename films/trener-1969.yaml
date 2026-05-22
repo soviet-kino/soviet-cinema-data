@@ -8,6 +8,15 @@ runtime_min: 84
 external_ids:
   wikidata: Q4462397
   imdb: tt1512865
+  youtube: TCznWJLkX94
 sources:
 - https://www.wikidata.org/wiki/Q4462397
 schema_version: 1
+director:
+- bazelyan-yakov
+composer:
+- muravlyov-aleksey-alekseevich
+cast:
+- person: ryzhakov-valeriy-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo

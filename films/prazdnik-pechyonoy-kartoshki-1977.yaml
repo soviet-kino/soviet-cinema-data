@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18635108
 schema_version: 1
+director:
+- ilenko-yuriy-gerasimovich
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+cinematographer:
+- ilenko-vadim-gerasimovich
+composer:
+- guba-vladimir
+cast:
+- person: gromadskiy-roman
+- person: efimenko-lyudmila-filippovna
+- person: panchenko-viktor-ivanovich
+- person: yanovskiy-leonid-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

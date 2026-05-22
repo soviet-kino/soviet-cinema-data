@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25394790
 schema_version: 1
+screenwriter:
+- virta-nikolay-evgenevich
+cinematographer:
+- kostromenko-vadim
+composer:
+- levitin-yuriy
+cast:
+- person: glebov-pyotr-petrovich
+- person: druzhinina-svetlana
+- person: kochetkov-afanasiy-ivanovich
+studio:
+- odesskaya-kinostudiya

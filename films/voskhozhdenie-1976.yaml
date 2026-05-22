@@ -22,6 +22,7 @@ cast:
   role: Сотников
 - person: gostyukhin-vladimir
   role: Рыбак
+- person: solonitsyn-anatoly
 runtime_min: 111
 language:
 - ru

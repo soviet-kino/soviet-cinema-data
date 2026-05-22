@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q46996415
 schema_version: 1
+director:
+- vetrov-igor
+composer:
+- karabits-ivan-fyodorovich
+cast:
+- person: gluzskiy-mikhail-andreevich
+- person: mateshko-anatoliy-nikolaevich
+- person: noreyka-laymonas
+- person: strizhenov-gleb-aleksandrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -8,6 +8,16 @@ runtime_min: 82
 external_ids:
   wikidata: Q4378660
   imdb: tt0146055
+  youtube: HmFoJ0BHZLU
 sources:
 - https://www.wikidata.org/wiki/Q4378660
 schema_version: 1
+director:
+- nechaev-leonid-alekseevich
+composer:
+- rybnikov-aleksey
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: poplavskaya-yana-evgenevna
+studio:
+- belarusfilm

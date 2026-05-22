@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16417599
 schema_version: 1
+director:
+- ogly-rustambekov-kyamil-aslan
+cinematographer:
+- narimanbekov-arif
+studio:
+- aztv

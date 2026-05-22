@@ -8,6 +8,21 @@ runtime_min: 142
 external_ids:
   wikidata: Q4340787
   imdb: tt0314471
+  youtube: dzzjGsA3U70
 sources:
 - https://www.wikidata.org/wiki/Q4340787
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- vostokov-vladimir-vladimirovich
+- gribanov-oleg-mikhaylovich
+cast:
+- person: kopelyan-efim-zakharovich
+- person: zhakov-oleg-petrovich
+- person: zakharchenko-vadim-viktorovich
+- person: zhzhyonov-georgiy-stepanovich
+- person: miroshnichenko-irina-petrovna
+- person: nozhkin-mikhail-ivanovich
+studio:
+- kinostudiya-imeni-m-gorkogo

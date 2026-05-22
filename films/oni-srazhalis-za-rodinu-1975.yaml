@@ -8,6 +8,31 @@ runtime_min: 152
 external_ids:
   wikidata: Q2370671
   imdb: tt0073488
+  youtube: xfUlR_nuBb4
 sources:
 - https://www.wikidata.org/wiki/Q2370671
 schema_version: 1
+director:
+- bondarchuk-sergey-fyodorovich
+screenwriter:
+- sholokhov-mikhail
+- bondarchuk-sergey-fyodorovich
+cinematographer:
+- yusov-vadim
+composer:
+- ovchinnikov-vyacheslav
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: mordyukova-nonna-viktorovna
+- person: nikulin-yuriy-vladimirovich
+- person: tikhonov-vyacheslav-vasilevich
+- person: shukshin-vasiliy
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: burkov-georgiy-ivanovich
+- person: skobtseva-irina-konstantinovna
+- person: lapikov-ivan-gerasimovich
+- person: gubenko-nikolay-nikolaevich
+- person: rostotskiy-andrey-stanislavovich
+- person: gundareva-natalya-georgievna
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: starnatstsa-pippo
+name_ru: Пиппо Старнацца
+roles:
+- actor
+external_ids:
+  wikidata: Q3905544
+sources:
+- https://www.wikidata.org/wiki/Q3905544
+schema_version: 1

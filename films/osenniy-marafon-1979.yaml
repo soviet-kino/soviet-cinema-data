@@ -8,6 +8,25 @@ runtime_min: 89
 external_ids:
   wikidata: Q848825
   imdb: tt0079679
+  youtube: deEuVTAAzbg
 sources:
 - https://www.wikidata.org/wiki/Q848825
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: kukhinke-norbert
+- person: neyolova-marina-mstislavovna
+- person: leonov-evgeniy-pavlovich
+- person: kryuchkov-nikolay-afanasevich
+- person: basilashvili-oleg-valerianovich
+- person: gundareva-natalya-georgievna
+- person: volchek-galina-borisovna
+studio:
+- mosfilm

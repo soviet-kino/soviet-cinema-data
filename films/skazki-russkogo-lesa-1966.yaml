@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109428510
 schema_version: 1
+director:
+- saakov-yuriy
+screenwriter:
+- fomina-nina
+cinematographer:
+- petrichenko-konstantin
+composer:
+- chernyshyov-vladimir
+cast:
+- person: leonov-evgeniy-pavlovich
+- person: anofriev-oleg-andreevich
+- person: khokhryakov-viktor-ivanovich
+studio:
+- mosfilm

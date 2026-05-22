@@ -8,6 +8,23 @@ runtime_min: 72
 external_ids:
   wikidata: Q84994457
   imdb: tt3097766
+  youtube: z0jPIzCoESQ
 sources:
 - https://www.wikidata.org/wiki/Q84994457
 schema_version: 1
+director:
+- kozachkov-valentin-fyodorovich
+screenwriter:
+- tsyba-mikhail-evgenevich
+cinematographer:
+- burlaka-leonid-antonovich
+composer:
+- buevskiy-boris-nikolaevich
+cast:
+- person: udovichenko-larisa-ivanovna
+- person: dekhtyaryova-zinaida-nikolaevna
+- person: korchikov-oleg-glebovich
+- person: ilina-nina-aleksandrovna
+- person: prachenko-andrey-dmitrievich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4449764
 schema_version: 1
+director:
+- koltsatyy-arkadiy-nikolaevich
+screenwriter:
+- ryabov-geliy
+- nagornyy-aleksey-petrovich
+cinematographer:
+- terpsikhorov-pyotr
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: druzhnikov-vladimir-vasilevich
+- person: zubkov-valentin-ivanovich
+- person: ilich-zharikov-evgeniy
+- person: konyukhova-tatyana
+- person: chekan-stanislav-yulianovich
+studio:
+- mosfilm

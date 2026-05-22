@@ -8,6 +8,26 @@ runtime_min: 97
 external_ids:
   wikidata: Q4415658
   imdb: tt0066351
+  youtube: uMkQdHx219U
 sources:
 - https://www.wikidata.org/wiki/Q4415658
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- veksler-yuriy-abramovich
+- dolinin-dmitriy
+composer:
+- portnov-georgiy-anatolevich
+cast:
+- person: varley-natalya-vladimirovna
+- person: solovey-elena-yakovlevna
+- person: vertinskaya-marianna-aleksandrovna
+- person: kuberskaya-irina-yurevna
+- person: morozov-semyon-mikhaylovich
+- person: fyodorova-tatyana-nikolaevna
+- person: chetverikova-natalya-anatolevna
+studio:
+- lenfilm

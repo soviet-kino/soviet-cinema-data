@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4423290
   imdb: tt4839860
+  youtube: 2rFEt1Y3Tb4
 sources:
 - https://www.wikidata.org/wiki/Q4423290
 schema_version: 1
+director:
+- lysenko-vadim-grigorevich
+cinematographer:
+- burlaka-leonid-antonovich
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: yushko-german-ivanovich
+studio:
+- odesskaya-kinostudiya

@@ -8,6 +8,27 @@ runtime_min: 151
 external_ids:
   wikidata: Q2528155
   imdb: tt0076727
+  youtube: etI0ld0QHIw
 sources:
 - https://www.wikidata.org/wiki/Q2528155
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: freyndlikh-alisa
+- person: myagkov-andrey-vasilevich
+- person: nemolyaeva-svetlana
+- person: akhedzhakova-liya-medzhidovna
+- person: basilashvili-oleg-valerianovich
+- person: ivanova-lyudmila-ivanovna
+- person: shcherbakov-pyotr-ivanovich
+studio:
+- mosfilm
+poster_commons: Office Romance crew 05.jpg

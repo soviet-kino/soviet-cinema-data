@@ -8,6 +8,15 @@ runtime_min: 20
 external_ids:
   wikidata: Q4336965
   imdb: tt19064604
+  youtube: cD-7l1Yy1r4
 sources:
 - https://www.wikidata.org/wiki/Q4336965
 schema_version: 1
+director:
+- bordzilovskiy-vitold
+screenwriter:
+- vitenzon-zhanna-ziskindovna
+cinematographer:
+- petrova-elena-nikolaevna
+studio:
+- soyuzmultfilm

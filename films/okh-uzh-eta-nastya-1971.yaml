@@ -8,6 +8,17 @@ runtime_min: 73
 external_ids:
   wikidata: Q4340348
   imdb: tt0067522
+  youtube: hGeDc5KbNOI
 sources:
 - https://www.wikidata.org/wiki/Q4340348
 schema_version: 1
+director:
+- pobedonostsev-yuriy-sergeevich
+screenwriter:
+- spirina-valentina-ivanovna
+composer:
+- krylatov-evgeniy
+cast:
+- person: volkova-irina
+studio:
+- kinostudiya-imeni-m-gorkogo

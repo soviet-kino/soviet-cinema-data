@@ -8,6 +8,23 @@ runtime_min: 93
 external_ids:
   wikidata: Q4329818
   imdb: tt0175982
+  youtube: Oa9OJWXXu7o
 sources:
 - https://www.wikidata.org/wiki/Q4329818
 schema_version: 1
+director:
+- viktor-ivanovich-tregubovich
+screenwriter:
+- gelman-aleksandr-isaakovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+cast:
+- person: gurchenko-lyudmila
+- person: yankovsky-oleg
+- person: ulyanov-mikhail-aleksandrovich
+- person: dmitriev-igor-borisovich
+- person: lavrov-kirill-yurevich
+- person: etush-vladimir-abramovich
+- person: gundareva-natalya-georgievna
+studio:
+- lenfilm

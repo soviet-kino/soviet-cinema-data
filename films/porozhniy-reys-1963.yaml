@@ -8,6 +8,23 @@ runtime_min: 89
 external_ids:
   wikidata: Q251172
   imdb: tt0056360
+  youtube: 9rx1LNct6og
 sources:
 - https://www.wikidata.org/wiki/Q251172
 schema_version: 1
+director:
+- vengerov-vladimir-yakovlevich
+screenwriter:
+- antonov-sergey-petrovich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: yumatov-georgiy-aleksandrovich
+- person: papanov-anatoliy-dmitrievich
+- person: chirkov-boris-petrovich
+- person: demyanenko-aleksandr-sergeevich
+- person: gubanova-irina-igorevna
+studio:
+- lenfilm

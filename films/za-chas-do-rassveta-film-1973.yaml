@@ -8,6 +8,32 @@ runtime_min: 132
 external_ids:
   wikidata: Q20508179
   imdb: tt0421018
+  youtube: ulfX-7tvysw
 sources:
 - https://www.wikidata.org/wiki/Q20508179
 schema_version: 1
+director:
+- karamyan-erazm
+screenwriter:
+- prut-iosif-leonidovich
+cinematographer:
+- dzhalalyan-artashes-semyonovich
+composer:
+- arutyunyan-aleksandr
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: dzhigarkhanyan-armen-borisovich
+- person: nemolyaeva-svetlana
+- person: akhmetov-ruslan-yusupdzhanovich
+- person: bespalova-natalya-evgenevna
+- person: bityukov-boris-valentinovich
+- person: bryleev-valentin-andreevich
+- person: vaynshteyn-lev-yakovlevich
+- person: gulyaev-vladimir
+- person: kenigson-vladimir-vladimirovich
+- person: kolofidin-nikifor-grigorevich
+- person: tonunts-gurgen
+- person: eybozhenko-aleksey-sergeevich
+- person: kharchenko-sergey-vasilevich
+studio:
+- armenfilm

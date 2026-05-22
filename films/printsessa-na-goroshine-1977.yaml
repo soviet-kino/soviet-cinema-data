@@ -8,6 +8,22 @@ runtime_min: 89
 external_ids:
   wikidata: Q13360042
   imdb: tt0075104
+  youtube: V1yhYqlWW7o
 sources:
 - https://www.wikidata.org/wiki/Q13360042
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- egorov-vyacheslav-konstantinovich
+composer:
+- vivaldi-antonio
+cast:
+- person: freyndlikh-alisa
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: zeldin-vladimir-mikhaylovich
+- person: kvasha-igor-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

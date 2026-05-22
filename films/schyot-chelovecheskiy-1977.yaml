@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q126677339
 schema_version: 1
+director:
+- svetlov-aleksandr-mikhaylovich
+cinematographer:
+- sheynin-viktor
+composer:
+- schnittke-alfred
+cast:
+- person: kuravlyov-leonid-vyacheslavovich
+- person: ivanov-boris-vladimirovich
+- person: korolkov-gennadiy-anatolevich
+studio:
+- mosfilm

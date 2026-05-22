@@ -9,3 +9,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4443463
 schema_version: 1
+director:
+- karasik-david-isaakovich
+cast:
+- person: basilashvili-oleg-valerianovich
+- person: vitorgan-emmanuil-gedeonovich
+studio:
+- pyatyy-kanal

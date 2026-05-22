@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4415681
 schema_version: 1
+director:
+- tatarskiy-evgeniy-markovich
+screenwriter:
+- sanin-vladimir-markovich
+- yurev-zinoviy-yurevich
+cinematographer:
+- ilin-vladimir
+composer:
+- martynov-nikolay-avksentevich
+cast:
+- person: abdulov-aleksandr-gavrilovich
+- person: kryuchkov-nikolay-afanasevich
+- person: kononov-mikhail-ivanovich
+- person: demich-yuriy-aleksandrovich
+- person: korchikov-oleg-glebovich
+studio:
+- lenfilm

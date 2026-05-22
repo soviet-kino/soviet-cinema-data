@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3612314
 schema_version: 1
+director:
+- muratova-kira-georgievna
+screenwriter:
+- muratova-kira-georgievna
+- baklanov-grigoriy-yakovlevich
+composer:
+- silvestrov-valentin-vasilevich
+cast:
+- person: gurchenko-lyudmila
+- person: aristov-viktor-fyodorovich
+- person: zharkov-aleksey-dmitrievich
+- person: popov-leonid-sergeevich-2
+- person: ruslanova-nina-ivanovna
+studio:
+- lenfilm

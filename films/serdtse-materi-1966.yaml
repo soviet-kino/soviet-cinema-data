@@ -8,6 +8,26 @@ runtime_min: 100
 external_ids:
   wikidata: Q4417252
   imdb: tt0059702
+  youtube: FCoLx9kkYew
 sources:
 - https://www.wikidata.org/wiki/Q4417252
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- voskresenskaya-zoya-ivanovna
+- donskaya-irina-borisovna
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- khozak-rafail-matveevich
+cast:
+- person: menshikova-nina-evgenevna
+- person: solomin-yuriy-mefodevich
+- person: balashova-svetlana-aleksandrovna
+- person: epifantsev-georgiy-semyonovich
+- person: nakhapetov-rodion-rafailovich
+- person: sagal-daniil-lvovich
+- person: fadeeva-elena-alekseevna
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q108870927
   imdb: tt0175199
+  youtube: 4kkO80MXVx4
 sources:
 - https://www.wikidata.org/wiki/Q108870927
 schema_version: 1
+director:
+- shamshiev-bolotbek
+- suyundukov-artykpay
+screenwriter:
+- shamshiev-bolotbek
+- ibraimov-talip-ibraimovich
+studio:
+- kyrgyzfilm

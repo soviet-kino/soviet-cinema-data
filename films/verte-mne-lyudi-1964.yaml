@@ -8,6 +8,21 @@ runtime_min: 111
 external_ids:
   wikidata: Q4109288
   imdb: tt0173412
+  youtube: QTSZ42KZThI
 sources:
 - https://www.wikidata.org/wiki/Q4109288
 schema_version: 1
+director:
+- berenshteyn-vladimir-borisovich
+- gurin-ilya-yakovlevich
+- lukov-leonid
+screenwriter:
+- german-yuriy-pavlovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- fradkin-mark
+cast:
+- person: lavrov-kirill-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

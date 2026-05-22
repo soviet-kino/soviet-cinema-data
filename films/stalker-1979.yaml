@@ -24,6 +24,8 @@ cast:
   role: Писатель
 - person: grinko-nikolai
   role: Профессор
+- person: freyndlikh-alisa
+- person: zamanskiy-vladimir-petrovich
 runtime_min: 161
 language:
 - ru

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4331236
   imdb: tt0332288
+  youtube: ZXHN7ReX0ck
 sources:
 - https://www.wikidata.org/wiki/Q4331236
 schema_version: 1
+director:
+- gamburg-efim
+screenwriter:
+- lipskerov-mikhail
+cinematographer:
+- druyan-mikhail
+composer:
+- gladkov-gennadiy
+studio:
+- soyuzmultfilm

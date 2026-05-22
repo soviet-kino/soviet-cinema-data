@@ -8,6 +8,25 @@ runtime_min: 140
 external_ids:
   wikidata: Q4375374
   imdb: tt0127731
+  youtube: YxzbI82zXqg
 sources:
 - https://www.wikidata.org/wiki/Q4375374
 schema_version: 1
+director:
+- fomenko-pyotr-naumovich
+screenwriter:
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- nikitin-sergey-yakovlevich
+- berkovskiy-viktor-semyonovich
+cast:
+- person: gluzskiy-mikhail-andreevich
+- person: gaft-valentin-iosifovich
+- person: antonova-olga-sergeevna
+- person: arinina-lyudmila
+- person: aktyor-danilov-mikhail-viktorovich
+- person: mironova-mariya-vladimirovna
+studio:
+- ekran

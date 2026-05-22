@@ -8,6 +8,15 @@ runtime_min: 70
 external_ids:
   wikidata: Q50488498
   imdb: tt0174144
+  youtube: 6wBYKhvenII
 sources:
 - https://www.wikidata.org/wiki/Q50488498
 schema_version: 1
+director:
+- nikonenko-sergey
+composer:
+- artemyev-eduard
+cast:
+- person: merkulov-igor-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

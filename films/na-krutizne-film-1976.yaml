@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130614914
 schema_version: 1
+cinematographer:
+- mirzayants-viktor
+cast:
+- person: aripov-marat-sabirovich
+- person: eryomina-larisa-borisovna
+- person: khomyatov-roman-zakharevich
+- person: chigaryov-mikhail-mikhaylovich
+studio:
+- tadzhikfilm

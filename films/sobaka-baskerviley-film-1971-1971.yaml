@@ -8,6 +8,22 @@ runtime_min: 155
 external_ids:
   wikidata: Q4425718
   imdb: tt2557098
+  youtube: E9qRZuKzVis
 sources:
 - https://www.wikidata.org/wiki/Q4425718
 schema_version: 1
+director:
+- zinoveva-antonina
+cast:
+- person: kaidanovsky-aleksandr
+- person: adoskin-anatoliy-mikhaylovich
+- person: volkov-nikolay-nikolaevich
+- person: glazunov-kirill-evgenevich
+- person: gradova-ekaterina-georgievna
+- person: kruglyy-lev-borisovich
+- person: lyubetskiy-lev
+- person: lyampe-grigoriy-moiseevich
+- person: shklovskiy-oleg-mendeleevich
+- person: smelkova-valentina
+studio:
+- tsentralnoe-televidenie

@@ -1,0 +1,9 @@
+id: kensit-petsi
+name_ru: Пэтси Кенсит
+roles:
+- actor
+external_ids:
+  wikidata: Q229920
+sources:
+- https://www.wikidata.org/wiki/Q229920
+schema_version: 1

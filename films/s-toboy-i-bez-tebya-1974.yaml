@@ -8,6 +8,19 @@ runtime_min: 86
 external_ids:
   wikidata: Q19857472
   imdb: tt0144588
+  youtube: i_BfsEy-oNk
 sources:
 - https://www.wikidata.org/wiki/Q19857472
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+screenwriter:
+- zhestev-mikhail
+cinematographer:
+- zaytsev-sergey-alekseevich
+cast:
+- person: neyolova-marina-mstislavovna
+- person: budraytis-yuozas-stanislavas
+- person: borodokin-stanislav-yurevich
+studio:
+- mosfilm

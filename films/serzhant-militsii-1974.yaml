@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84320755
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- davydov-rostislav-borisovich
+composer:
+- mnatsakanyan-aleksandr-derenikovich
+cast:
+- person: yankovsky-oleg
+- person: sokolova-lyubov-sergeevna
+- person: vedeneeva-tatyana-veniaminovna
+- person: krasko-ivan-ivanovich
+- person: teterin-evgeniy-efimovich
+- person: rudakov-anatoliy-rodionovich
+studio:
+- lenfilm

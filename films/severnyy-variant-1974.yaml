@@ -8,6 +8,20 @@ runtime_min: 81
 external_ids:
   wikidata: Q84048773
   imdb: tt1857854
+  youtube: o4h2nzcbj6o
 sources:
 - https://www.wikidata.org/wiki/Q84048773
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- isaev-konstantin-fyodorovich
+cast:
+- person: kopelyan-efim-zakharovich
+- person: lebedev-evgeniy-alekseevich
+- person: anofriev-oleg-andreevich
+- person: vladimirova-valentina-kharlampievna
+- person: puzyryov-yuriy-nikolaevich
+- person: tokhadze-givi-maksimovich
+studio:
+- sverdlovskaya-kinostudiya

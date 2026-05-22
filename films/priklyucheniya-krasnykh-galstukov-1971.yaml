@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q19824132
   imdb: tt2941332
+  youtube: Kl9HlVx6Wic
 sources:
 - https://www.wikidata.org/wiki/Q19824132
 schema_version: 1
+director:
+- popov-vladimir-ivanovich
+- pekar-vladimir-izrailevich
+screenwriter:
+- runge-sakko-vasilevich
+composer:
+- varlamov-aleksandr-vladimirovich
+studio:
+- soyuzmultfilm

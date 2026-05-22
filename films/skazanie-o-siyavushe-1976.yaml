@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4421348
   imdb: tt2262103
+  youtube: _Pdj_8WEd1A
 sources:
 - https://www.wikidata.org/wiki/Q4421348
 schema_version: 1
+director:
+- kimyagarov-boris-arievich
+cinematographer:
+- khudonazarov-davlatnazar
+composer:
+- melikov-arif
+cast:
+- person: koberidze-otar-leontevich
+- person: vataev-bimbolat-zaurbekovich
+studio:
+- tadzhikfilm

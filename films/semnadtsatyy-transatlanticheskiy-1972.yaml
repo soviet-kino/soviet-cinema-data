@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994319
 schema_version: 1
+director:
+- dovgan-vladimir-zakharovich
+screenwriter:
+- kudievskiy-konstantin-ignatevich
+cinematographer:
+- vereshchak-vadim-semyonovich
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: babyatinskiy-valeriy-konstantinovich
+- person: mateshko-olga-nikolaevna
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -8,6 +8,15 @@ runtime_min: 78
 external_ids:
   wikidata: Q115621577
   imdb: tt0175009
+  youtube: Re4ovfuiQpU
 sources:
 - https://www.wikidata.org/wiki/Q115621577
 schema_version: 1
+director:
+- yashin-boris-vladimirovich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: telichkina-valentina
+studio:
+- mosfilm

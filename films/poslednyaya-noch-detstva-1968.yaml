@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q421984
 schema_version: 1
+director:
+- ogly-babaev-arif-gadzhi
+screenwriter:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+cinematographer:
+- mukerrem-zaur
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: ogly-shafiev-siyavush-mamed
+- person: ogly-mirzoev-tofik-ibragim
+- person: zeynalova-torakhanym
+- person: ogly-abdullaev-khosrov-abdulla
+- person: ogly-gasanov-enver-dzhafar
+- person: kyzy-alieva-ataya-gulam
+- person: seyfi-alekper
+studio:
+- azerbaydzhanfilm

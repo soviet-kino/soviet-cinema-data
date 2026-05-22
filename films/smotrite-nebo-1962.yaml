@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4425265
 schema_version: 1
+director:
+- klimov-elem
+cinematographer:
+- vasilkov-nikolay-aleksandrovich
+- masurenkov-dmitriy-ivanovich
+composer:
+- stikhin-evgeniy-mikhaylovich
+cast:
+- person: kruglyy-lev-borisovich
+- person: rutberg-ilya-grigorevich
+- person: popova-aleksandra-vasilevna
+studio:
+- vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova

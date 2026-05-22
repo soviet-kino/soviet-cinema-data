@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131417169
 schema_version: 1
+director:
+- khachaturov-albert-iosifovich
+screenwriter:
+- khodzhaev-fayzulla
+cinematographer:
+- ismailov-abdurakhim-israilovich
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: rakhimov-nabi
+- person: khamraev-dzhavlon-razzakovich
+studio:
+- uzbekfilm

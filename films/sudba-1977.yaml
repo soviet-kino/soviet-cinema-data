@@ -8,6 +8,23 @@ runtime_min: 170
 external_ids:
   wikidata: Q4445541
   imdb: tt0076778
+  youtube: S8WCv3qz4DM
 sources:
 - https://www.wikidata.org/wiki/Q4445541
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- matveev-evgeniy-semyonovich
+- proskurin-pyotr-lukich
+cinematographer:
+- yakushev-viktor-mikhaylovich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: yakovlev-yuriy-vasilevich
+- person: ostroumova-olga-mikhaylovna
+- person: zaklunnaya-valeriya-gavriilovna
+- person: matveev-evgeniy-semyonovich
+studio:
+- mosfilm

@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4441189
 schema_version: 1
+director:
+- ilinskiy-igor-vladimirovich
+- koltsatyy-arkadiy-nikolaevich
+screenwriter:
+- laskin-boris-savelevich
+- polyakov-vladimir-solomonovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: morgunov-evgeniy-aleksandrovich
+- person: ilinskiy-igor-vladimirovich
+- person: etush-vladimir-abramovich
+- person: nosova-tamara-makarovna
+- person: filippov-sergey-nikolaevich
+studio:
+- mosfilm

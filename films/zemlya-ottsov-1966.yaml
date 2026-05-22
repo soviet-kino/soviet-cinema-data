@@ -8,6 +8,15 @@ runtime_min: 91
 external_ids:
   wikidata: Q12530506
   imdb: tt0170835
+  youtube: pLdc3Z5Coi4
 sources:
 - https://www.wikidata.org/wiki/Q12530506
 schema_version: 1
+director:
+- aymanov-shaken-kenzhetaevich
+screenwriter:
+- suleymenov-olzhas-omarovich
+composer:
+- rakhmadiev-erkegali-rakhmadievich
+studio:
+- kazakhfilm

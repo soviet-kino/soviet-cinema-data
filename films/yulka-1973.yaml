@@ -8,6 +8,15 @@ runtime_min: 71
 external_ids:
   wikidata: Q84994128
   imdb: tt4716784
+  youtube: DDn53wG5J-0
 sources:
 - https://www.wikidata.org/wiki/Q84994128
 schema_version: 1
+director:
+- zhuk-konstantin-ivanovich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- gevorgyan-evgeniy
+studio:
+- odesskaya-kinostudiya

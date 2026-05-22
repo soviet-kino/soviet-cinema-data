@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q4373846
   imdb: tt0237590
+  youtube: A3Ji60SZCJg
 sources:
 - https://www.wikidata.org/wiki/Q4373846
 schema_version: 1
+director:
+- nashchyokin-boris-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo

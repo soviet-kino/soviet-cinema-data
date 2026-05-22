@@ -8,6 +8,23 @@ runtime_min: 82
 external_ids:
   wikidata: Q4101739
   imdb: tt0200243
+  youtube: K82ez6GCahQ
 sources:
 - https://www.wikidata.org/wiki/Q4101739
 schema_version: 1
+director:
+- nemolyaev-vladimir-viktorovich
+- tsybulnik-sulamif-moiseevna
+- ilinskiy-nikolay-serafimovich
+screenwriter:
+- trauberg-leonid-zakharovich
+- timoshenko-semyon-alekseevich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+composer:
+- gomolyaka-vadim-borisovich
+cast:
+- person: strizhenov-oleg-aleksandrovich
+- person: lezhdey-elza-ivanovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

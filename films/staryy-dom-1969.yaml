@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4441185
   imdb: tt0065034
+  youtube: R0gGwIqzX1Q
 sources:
 - https://www.wikidata.org/wiki/Q4441185
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+screenwriter:
+- olshanskiy-iosif-grigorevich
+composer:
+- raukhverger-mikhail-rafailovich
+cast:
+- person: myagkov-andrey-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -8,6 +8,22 @@ runtime_min: 88
 external_ids:
   wikidata: Q4379608
   imdb: tt0176058
+  youtube: byHtH3zoOIc
 sources:
 - https://www.wikidata.org/wiki/Q4379608
 schema_version: 1
+director:
+- lysenko-yuriy-semyonovich
+- zdravko-velimirovich
+cinematographer:
+- lisetskiy-sergey-afanasevich
+cast:
+- person: aleksich-miya
+- person: balokh-mikha
+- person: kryukov-nikolay-nikolaevich
+- person: anofriev-oleg-andreevich
+- person: plesha-branko
+- person: stepankov-konstantin-petrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko
+- lovcen-film

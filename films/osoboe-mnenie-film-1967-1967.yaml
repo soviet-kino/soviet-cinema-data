@@ -8,6 +8,26 @@ runtime_min: 73
 external_ids:
   wikidata: Q29018752
   imdb: tt0347715
+  youtube: J4jZH7GF0Jk
 sources:
 - https://www.wikidata.org/wiki/Q29018752
 schema_version: 1
+director:
+- zhilin-viktor-sergeevich
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+cinematographer:
+- burlaka-leonid-antonovich
+composer:
+- trotsyuk-bogdan-yakovlevich
+cast:
+- person: kopelyan-efim-zakharovich
+- person: dubrovin-yuriy-dmitrievich
+- person: krymov-panteleymon-aleksandrovich
+- person: krynkin-gennadiy-yakovlevich
+- person: lezhdey-elza-ivanovna
+- person: sorochinskaya-zinaida-sigizmundovna
+- person: rinne-pauli-unovich
+- person: grishmanovskiy-yuriy-sergeevich
+studio:
+- odesskaya-kinostudiya

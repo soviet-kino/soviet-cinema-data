@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865001
 schema_version: 1
+director:
+- sabirov-takhir-mukhtarovich
+screenwriter:
+- viktor-vitkovich
+- burunov-karadzha
+cinematographer:
+- baramykov-ibragim-izetullovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: annakulieva-annagul-annamuradovna
+- person: ataeva-sabira
+studio:
+- turkmenfilm

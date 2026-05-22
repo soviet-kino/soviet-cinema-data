@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q125723098
 schema_version: 1
+director:
+- vahi-tiiu
+screenwriter:
+- vahi-tiiu
+- puusepp-ulle
+cinematographer:
+- rekhe-kharri
+composer:
+- niyt-ellen
+- oyt-arne
+cast:
+- person: viisimaa-vello
+studio:
+- eesti-telefilm

@@ -8,6 +8,18 @@ runtime_min: 79
 external_ids:
   wikidata: Q4380857
   imdb: tt0175075
+  youtube: ER1PPotCscw
 sources:
 - https://www.wikidata.org/wiki/Q4380857
 schema_version: 1
+director:
+- ivchenko-boris-viktorovich
+screenwriter:
+- drach-ivan-fyodorovich
+cinematographer:
+- zimovets-vitaliy-andreevich
+cast:
+- person: mikolaychuk-ivan-vasilevich
+- person: ilich-simchich-vasiliy
+studio:
+- kinostudiya-imeni-a-dovzhenko

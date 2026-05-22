@@ -1,0 +1,9 @@
+id: kaldoya-khans
+name_ru: Ханс Калдоя
+roles:
+- actor
+external_ids:
+  wikidata: Q12363360
+sources:
+- https://www.wikidata.org/wiki/Q12363360
+schema_version: 1

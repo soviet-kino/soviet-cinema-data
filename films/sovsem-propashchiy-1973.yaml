@@ -8,6 +8,26 @@ runtime_min: 93
 external_ids:
   wikidata: Q4426635
   imdb: tt0123277
+  youtube: wlzUJVMvnuQ
 sources:
 - https://www.wikidata.org/wiki/Q4426635
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- daneliya-georgiy-nikolaevich
+- tokareva-viktoriya-samoylovna
+cinematographer:
+- yusov-vadim
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: kikabidze-vakhtang
+- person: leonov-evgeniy-pavlovich
+- person: skobtseva-irina-konstantinovna
+- person: fayt-andrey-andreevich
+- person: madyanov-roman-sergeevich
+- person: ivashov-vladimir-sergeevich
+- person: basov-vladimir-pavlovich
+studio:
+- mosfilm

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97182458
 schema_version: 1
+director:
+- orlov-mark-evseevich
+cinematographer:
+- yanovskiy-solomon-leybovich
+composer:
+- poloz-mykola-hryhoriiovych
+cast:
+- person: golovko-kira-nikolaevna
+- person: ilchenko-daniil-ivanovich
+- person: pavuls-eduard-karlovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

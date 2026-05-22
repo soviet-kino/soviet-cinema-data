@@ -8,6 +8,25 @@ runtime_min: 141
 external_ids:
   wikidata: Q28665763
   imdb: tt0484298
+  youtube: IhJZ_BcpLjc
 sources:
 - https://www.wikidata.org/wiki/Q28665763
 schema_version: 1
+director:
+- kolosov-sergey-nikolaevich
+screenwriter:
+- kolosov-sergey-nikolaevich
+- rintala-paavo
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- levitin-yuriy
+cast:
+- person: lindman-oke
+- person: dzhigarkhanyan-armen-borisovich
+- person: kasatkina-lyudmila-ivanovna
+- person: voevodin-aleksandr-mikhaylovich
+- person: galkin-boris-sergeevich
+- person: galin-yuriy
+studio:
+- mosfilm

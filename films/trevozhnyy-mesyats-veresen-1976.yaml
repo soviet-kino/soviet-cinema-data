@@ -8,6 +8,21 @@ runtime_min: 95
 external_ids:
   wikidata: Q4462295
   imdb: tt0175255
+  youtube: jSsLlZEsUo8
 sources:
 - https://www.wikidata.org/wiki/Q4462295
 schema_version: 1
+director:
+- osyka-leonid
+screenwriter:
+- osyka-leonid
+- smirnov-viktor-vasilevich
+cinematographer:
+- shakhbazyan-suren
+composer:
+- guba-vladimir
+cast:
+- person: brondukov-borislav-nikolaevich
+- person: fokin-viktor-grigorevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

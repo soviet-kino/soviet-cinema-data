@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994717
 schema_version: 1
+director:
+- ivchenko-viktor-illarionovich
+screenwriter:
+- kozhevnikov-vadim-mikhaylovich
+cinematographer:
+- prokopenko-aleksey-efimovich
+composer:
+- shamo-igor
+cast:
+- person: solovyov-anatoliy-vasilevich
+- person: myshkova-ninel-konstantinovna
+- person: musatova-anna-ivanovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

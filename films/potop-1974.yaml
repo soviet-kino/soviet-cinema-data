@@ -8,6 +8,41 @@ runtime_min: 315
 external_ids:
   wikidata: Q960920
   imdb: tt0072021
+  youtube: 42OfrVVLwMk
 sources:
 - https://www.wikidata.org/wiki/Q960920
 schema_version: 1
+director:
+- gofman-ezhi
+screenwriter:
+- gofman-ezhi
+- zhukrovskiy-voytsekh
+- kersten-adam
+cinematographer:
+- vuychik-ezhi
+composer:
+- serotskiy-kazimezh
+cast:
+- person: braunek-malgozhata
+- person: kovalevskiy-kshishtof
+- person: nemchik-leon
+- person: olbrykhskiy-daniel
+- person: lomnitskiy-tadeush
+- person: bazak-arkadiush
+- person: pechka-frantishek
+- person: oya-bruno-vernerovich
+- person: pavlovskiy-pyotr
+- person: khancha-vladislav
+- person: stanislav-yasyukevich
+- person: golas-veslav
+- person: veslava-mazurkevich
+- person: vikhnyazh-kazimezh
+- person: kozak-andzhey
+- person: bilevskiy-bogush
+- person: teleshinskiy-leshek
+- person: mikhalskiy-stanislav
+- person: filipskiy-ryshard
+studio:
+- kinostudiya-imeni-a-dovzhenko
+- belarusfilm
+- zespo-y-filmowe

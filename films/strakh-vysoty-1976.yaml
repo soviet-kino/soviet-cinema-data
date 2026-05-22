@@ -7,6 +7,23 @@ country:
 external_ids:
   wikidata: Q65144331
   imdb: tt0130288
+  youtube: Iyc3ykRRmV4
 sources:
 - https://www.wikidata.org/wiki/Q65144331
 schema_version: 1
+director:
+- surin-aleksandr-vladimirovich
+screenwriter:
+- shestakov-pavel-aleksandrovich
+composer:
+- artemyev-eduard
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: papanov-anatoliy-dmitrievich
+- person: zeldin-vladimir-mikhaylovich
+- person: myagkov-andrey-vasilevich
+- person: miroshnichenko-irina-petrovna
+- person: filozov-albert-leonidovich
+- person: reznikova-irina-vasilevna
+studio:
+- mosfilm

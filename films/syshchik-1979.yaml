@@ -8,6 +8,20 @@ runtime_min: 134
 external_ids:
   wikidata: Q4448341
   imdb: tt0166833
+  youtube: fsTNYuSnmWs
 sources:
 - https://www.wikidata.org/wiki/Q4448341
 schema_version: 1
+director:
+- fokin-vladimir
+screenwriter:
+- kuznetsov-vladimir-iovich
+composer:
+- artemyev-eduard
+cast:
+- person: kvasha-igor-vladimirovich
+- person: skorobogatov-nikolay-arkadevich
+- person: tashkov-andrey-evgenevich
+- person: khimichev-boris-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

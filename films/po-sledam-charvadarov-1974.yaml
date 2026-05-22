@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12848483
 schema_version: 1
+director:
+- ogly-ismaylov-tofik-guseyn
+screenwriter:
+- kafarov-ali
+cinematographer:
+- kerimov-valeri
+composer:
+- aliverdibekov-nazim
+cast:
+- person: kyzy-badirbeyli-leyla-agalar
+- person: mamedova-shafiga-gashim-kyzy
+- person: maniev-mukhtar
+- person: ogly-turabov-gasan-sattar
+- person: ogly-sheykhzamanov-mamedrza-isa
+- person: dadashova-sadagyat
+- person: ogly-rzaev-samandar-mansim
+- person: ogly-makhmudov-abdulakhad-elisa
+studio:
+- azerbaydzhanfilm

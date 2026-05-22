@@ -8,6 +8,27 @@ runtime_min: 90
 external_ids:
   wikidata: Q8051068
   imdb: tt2158877
+  youtube: NI9D6hvuOGE
 sources:
 - https://www.wikidata.org/wiki/Q8051068
 schema_version: 1
+director:
+- tagizade-tofik-mekhdikulu-ogly
+screenwriter:
+- samedoglu-yusif
+cinematographer:
+- ismaylov-rasim-rza-ogly
+composer:
+- ogly-mirzazade-khayyam-khady
+cast:
+- person: ogly-mamedov-gasan-agamamed
+- person: ogly-turabov-gasan-sattar
+- person: ogly-azimov-rafig-ashraf
+- person: ogly-gasanov-enver-dzhafar
+- person: osmanly-ismail-osman-ogly
+- person: mamedov-elchin
+- person: alakbarov-shakhmar
+- person: ogly-makhmudov-abdulakhad-elisa
+- person: ismailova-zemfira
+studio:
+- azerbaydzhanfilm

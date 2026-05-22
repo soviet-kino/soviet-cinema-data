@@ -8,6 +8,21 @@ runtime_min: 96
 external_ids:
   wikidata: Q4424501
   imdb: tt0076728
+  youtube: nKzTV2YPHkI
 sources:
 - https://www.wikidata.org/wiki/Q4424501
 schema_version: 1
+director:
+- shveytser-mikhail-abramovich
+screenwriter:
+- shveytser-mikhail-abramovich
+cinematographer:
+- mikhail-leonidovich-agranovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: leonov-evgeniy-pavlovich
+- person: basov-vladimir-pavlovich
+- person: basilashvili-oleg-valerianovich
+studio:
+- mosfilm

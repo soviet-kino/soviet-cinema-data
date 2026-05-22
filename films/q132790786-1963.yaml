@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q132790786
 schema_version: 1
+director:
+- magi-evald
+screenwriter:
+- heine-eerik
+cinematographer:
+- magi-evald
+cast:
+- person: vabamae-arvo
+- person: kalm-oudi

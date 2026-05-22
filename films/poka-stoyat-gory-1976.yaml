@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20354055
 schema_version: 1
+director:
+- mikhaylov-vadim
+screenwriter:
+- shulgina-albina
+- mikhaylov-vadim
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- simonyan-nadezhda
+cast:
+- person: terekhova-margarita
+- person: talyzina-valentina
+- person: avdyushko-viktor-antonovich
+- person: solonitsyn-anatoly
+- person: litvinov-vladimir-ustinovich
+- person: menshov-evgeniy-aleksandrovich
+- person: solovyov-yuriy-vasilevich
+- person: tretyakov-georgiy-mikhaylovich
+studio:
+- lenfilm

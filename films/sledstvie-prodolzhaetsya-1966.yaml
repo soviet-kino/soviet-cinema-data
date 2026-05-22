@@ -7,6 +7,26 @@ country:
 external_ids:
   wikidata: Q16389834
   imdb: tt0314679
+  youtube: sLSfXmbKQFQ
 sources:
 - https://www.wikidata.org/wiki/Q16389834
 schema_version: 1
+director:
+- atakshiev-ali-settar
+screenwriter:
+- amirov-dzhamshid
+- maklyarskiy-mikhail-borisovich
+cinematographer:
+- guseynov-aliguseyn
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: davydova-lyudmila-petrovna
+- person: ogly-mamedov-gasan-agamamed
+- person: ogly-turabov-gasan-sattar
+- person: khudaverdiev-kamal
+- person: ogly-salaev-gasanaga-darya
+- person: khalafova-larisa
+studio:
+- kinostudiya-imeni-m-gorkogo
+- azerbaydzhanfilm

@@ -8,6 +8,19 @@ runtime_min: 66
 external_ids:
   wikidata: Q4444445
   imdb: tt0059762
+  youtube: RLwSgGffn4w
 sources:
 - https://www.wikidata.org/wiki/Q4444445
 schema_version: 1
+director:
+- keosayan-edmond
+screenwriter:
+- sofronov-anatoliy-vladimirovich
+cinematographer:
+- dobronravov-fyodor
+cast:
+- person: vysotskiy-vladimir
+- person: svetlichnaya-svetlana-afanasevna
+- person: sorokin-konstantin-nikolaevich
+studio:
+- mosfilm

@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3999950
 schema_version: 1
+director:
+- khachaturov-eduard-iosifovich
+composer:
+- shiryaev-evgeniy
+cast:
+- person: kambarova-dilorom-fayzullaevna
+- person: khamraev-razzak-khamroboevich
+- person: agzamov-gani
+- person: yunusov-obidzhan
+studio:
+- uzbekfilm

@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373362
 schema_version: 1
+director:
+- egiazarov-gavriil-georgievich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- mazhukov-aleksey-sergeevich
+cast:
+- person: polskikh-galina
+- person: ledogorov-igor-vadimovich
+studio:
+- mosfilm
