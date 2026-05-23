@@ -1,0 +1,21 @@
+id: spartak-1960
+title_ru: Спартак
+title_original: Spartacus
+year: 1960
+country: [US]
+runtime_min: 197
+genre: [drama, historical]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1967
+  title_ru: Спартак
+  dubbed: true
+  notes: >
+    Прокат был приурочен к 50-летию Октябрьской революции. Тема
+    восстания рабов трактовалась идеологически удобно; цензура убрала
+    несколько фрагментов.
+external_ids:
+  wikidata: Q108297
+sources:
+  - https://www.wikidata.org/wiki/Q108297
+schema_version: 1

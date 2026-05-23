@@ -1,0 +1,21 @@
+id: fantomas-1964
+title_ru: Фантомас
+title_original: Fantômas
+year: 1964
+country: [FR, IT]
+runtime_min: 105
+genre: [comedy, adventure]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1967
+  title_ru: Фантомас
+  dubbed: true
+  notes: >
+    Дубляж киностудии им. Горького. Жан Маре говорит голосом Владимира
+    Кенигсона; Луи де Фюнес — голосом Владимира Кенигсона же (фильм
+    показывался блоком из трёх частей в течение 1967–1969 годов).
+external_ids:
+  wikidata: Q996020
+sources:
+  - https://www.wikidata.org/wiki/Q996020
+schema_version: 1
