@@ -1,0 +1,13 @@
+id: doremi-1986
+title_ru: Дореми
+title_original: Дореми
+year: 1986
+country:
+- SU
+runtime_min: 568
+external_ids:
+  wikidata: Q21148894
+  imdb: tt2193280
+sources:
+- https://www.wikidata.org/wiki/Q21148894
+schema_version: 1

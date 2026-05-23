@@ -1,0 +1,13 @@
+id: vstrecha-film-1980-1980
+title_ru: Встреча (фильм, 1980)
+title_original: Встреча (фильм, 1980)
+year: 1980
+country:
+- SU
+runtime_min: 35
+external_ids:
+  wikidata: Q25394863
+  imdb: tt0202666
+sources:
+- https://www.wikidata.org/wiki/Q25394863
+schema_version: 1

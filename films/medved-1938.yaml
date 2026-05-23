@@ -1,0 +1,13 @@
+id: medved-1938
+title_ru: Медведь
+title_original: Медведь
+year: 1938
+country:
+- SU
+runtime_min: 43
+external_ids:
+  wikidata: Q4287498
+  imdb: tt0030428
+sources:
+- https://www.wikidata.org/wiki/Q4287498
+schema_version: 1

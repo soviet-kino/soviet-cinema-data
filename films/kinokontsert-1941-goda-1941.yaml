@@ -1,0 +1,13 @@
+id: kinokontsert-1941-goda-1941
+title_ru: Киноконцерт 1941 года
+title_original: Киноконцерт 1941 года
+year: 1941
+country:
+- SU
+runtime_min: 49
+external_ids:
+  wikidata: Q15545309
+  imdb: tt0033789
+sources:
+- https://www.wikidata.org/wiki/Q15545309
+schema_version: 1

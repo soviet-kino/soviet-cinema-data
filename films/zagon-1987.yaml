@@ -1,0 +1,13 @@
+id: zagon-1987
+title_ru: Загон
+title_original: Загон
+year: 1987
+country:
+- SU
+runtime_min: 99
+external_ids:
+  wikidata: Q4183500
+  imdb: tt0094367
+sources:
+- https://www.wikidata.org/wiki/Q4183500
+schema_version: 1

@@ -1,0 +1,13 @@
+id: polyot-s-kosmonavtom-1980
+title_ru: Полёт с космонавтом
+title_original: Полёт с космонавтом
+year: 1980
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q29020766
+  imdb: tt0230643
+sources:
+- https://www.wikidata.org/wiki/Q29020766
+schema_version: 1

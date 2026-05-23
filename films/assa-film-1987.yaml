@@ -1,0 +1,13 @@
+id: assa-film-1987
+title_ru: Асса (фильм)
+title_original: Асса (фильм)
+year: 1987
+country:
+- SU
+runtime_min: 148
+external_ids:
+  wikidata: Q738399
+  imdb: tt0094683
+sources:
+- https://www.wikidata.org/wiki/Q738399
+schema_version: 1

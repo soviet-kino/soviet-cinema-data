@@ -1,0 +1,12 @@
+id: shekspiriana-1988
+title_ru: Шекспириана
+title_original: Шекспириана
+year: 1988
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q19800806
+sources:
+- https://www.wikidata.org/wiki/Q19800806
+schema_version: 1

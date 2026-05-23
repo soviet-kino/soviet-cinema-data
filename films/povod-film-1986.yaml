@@ -1,0 +1,12 @@
+id: povod-film-1986
+title_ru: Повод (фильм)
+title_original: Повод (фильм)
+year: 1986
+country:
+- SU
+external_ids:
+  wikidata: Q116811381
+  imdb: tt2708610
+sources:
+- https://www.wikidata.org/wiki/Q116811381
+schema_version: 1

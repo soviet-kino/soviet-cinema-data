@@ -1,0 +1,13 @@
+id: pryzhok-film-1985-1986
+title_ru: Прыжок (фильм, 1985)
+title_original: Прыжок (фильм, 1985)
+year: 1986
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q85999221
+  imdb: tt0265586
+sources:
+- https://www.wikidata.org/wiki/Q85999221
+schema_version: 1

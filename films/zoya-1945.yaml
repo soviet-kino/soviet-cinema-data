@@ -1,0 +1,13 @@
+id: zoya-1945
+title_ru: Зоя
+title_original: Зоя
+year: 1945
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q8074696
+  imdb: tt0037482
+sources:
+- https://www.wikidata.org/wiki/Q8074696
+schema_version: 1

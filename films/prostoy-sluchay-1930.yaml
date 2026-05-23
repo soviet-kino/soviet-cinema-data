@@ -1,0 +1,13 @@
+id: prostoy-sluchay-1930
+title_ru: Простой случай
+title_original: Простой случай
+year: 1930
+country:
+- SU
+runtime_min: 96
+external_ids:
+  wikidata: Q4381512
+  imdb: tt0023359
+sources:
+- https://www.wikidata.org/wiki/Q4381512
+schema_version: 1

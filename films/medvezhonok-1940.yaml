@@ -1,0 +1,13 @@
+id: medvezhonok-1940
+title_ru: Медвежонок
+title_original: Медвежонок
+year: 1940
+country:
+- SU
+runtime_min: 12
+external_ids:
+  wikidata: Q28465025
+  imdb: tt4857004
+sources:
+- https://www.wikidata.org/wiki/Q28465025
+schema_version: 1

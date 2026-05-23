@@ -1,0 +1,13 @@
+id: pervotsvet-film-1987
+title_ru: Первоцвет (фильм)
+title_original: Первоцвет (фильм)
+year: 1987
+country:
+- SU
+runtime_min: 84
+external_ids:
+  wikidata: Q129819510
+  imdb: tt0273954
+sources:
+- https://www.wikidata.org/wiki/Q129819510
+schema_version: 1

@@ -1,0 +1,13 @@
+id: musorgskiy-1950
+title_ru: Мусоргский
+title_original: Мусоргский
+year: 1950
+country:
+- SU
+runtime_min: 122
+external_ids:
+  wikidata: Q4308467
+  imdb: tt0042765
+sources:
+- https://www.wikidata.org/wiki/Q4308467
+schema_version: 1

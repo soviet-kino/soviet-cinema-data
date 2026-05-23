@@ -1,0 +1,13 @@
+id: armyanskiy-kinokontsert-1941
+title_ru: Армянский киноконцерт
+title_original: Армянский киноконцерт
+year: 1941
+country:
+- SU
+runtime_min: 41
+external_ids:
+  wikidata: Q20507951
+  imdb: tt0234454
+sources:
+- https://www.wikidata.org/wiki/Q20507951
+schema_version: 1

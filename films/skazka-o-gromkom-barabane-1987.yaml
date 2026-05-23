@@ -1,0 +1,13 @@
+id: skazka-o-gromkom-barabane-1987
+title_ru: Сказка о громком барабане
+title_original: Сказка о громком барабане
+year: 1987
+country:
+- SU
+runtime_min: 69
+external_ids:
+  wikidata: Q56364415
+  imdb: tt0300490
+sources:
+- https://www.wikidata.org/wiki/Q56364415
+schema_version: 1

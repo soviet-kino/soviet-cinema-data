@@ -1,0 +1,13 @@
+id: rivares-1987
+title_ru: Риварес
+title_original: Риварес
+year: 1987
+country:
+- SU
+runtime_min: 129
+external_ids:
+  wikidata: Q18635137
+  imdb: tt0826615
+sources:
+- https://www.wikidata.org/wiki/Q18635137
+schema_version: 1

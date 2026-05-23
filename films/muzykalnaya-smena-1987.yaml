@@ -1,0 +1,13 @@
+id: muzykalnaya-smena-1987
+title_ru: Музыкальная смена
+title_original: Музыкальная смена
+year: 1987
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q114710858
+  imdb: tt4202938
+sources:
+- https://www.wikidata.org/wiki/Q114710858
+schema_version: 1

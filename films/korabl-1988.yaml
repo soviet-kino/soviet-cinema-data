@@ -1,0 +1,13 @@
+id: korabl-1988
+title_ru: Корабль
+title_original: Корабль
+year: 1988
+country:
+- SU
+runtime_min: 145
+external_ids:
+  wikidata: Q116864904
+  imdb: tt0307068
+sources:
+- https://www.wikidata.org/wiki/Q116864904
+schema_version: 1

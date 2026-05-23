@@ -1,0 +1,13 @@
+id: tri-goda-film-1980
+title_ru: Три года (фильм)
+title_original: Три года (фильм)
+year: 1980
+country:
+- SU
+runtime_min: 137
+external_ids:
+  wikidata: Q97164509
+  imdb: tt2581136
+sources:
+- https://www.wikidata.org/wiki/Q97164509
+schema_version: 1

@@ -1,0 +1,13 @@
+id: bolshoy-kontsert-1951
+title_ru: Большой концерт
+title_original: Большой концерт
+year: 1951
+country:
+- SU
+runtime_min: 108
+external_ids:
+  wikidata: Q97925315
+  imdb: tt0043351
+sources:
+- https://www.wikidata.org/wiki/Q97925315
+schema_version: 1

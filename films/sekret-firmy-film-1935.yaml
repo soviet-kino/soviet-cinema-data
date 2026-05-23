@@ -1,0 +1,13 @@
+id: sekret-firmy-film-1935
+title_ru: Секрет фирмы (фильм)
+title_original: Секрет фирмы (фильм)
+year: 1935
+country:
+- SU
+runtime_min: 66
+external_ids:
+  wikidata: Q106765245
+  imdb: tt0250721
+sources:
+- https://www.wikidata.org/wiki/Q106765245
+schema_version: 1

@@ -1,0 +1,13 @@
+id: zdravstvuyte-vse-1980
+title_ru: Здравствуйте все!
+title_original: Здравствуйте все!
+year: 1980
+country:
+- SU
+runtime_min: 150
+external_ids:
+  wikidata: Q3757899
+  imdb: tt0781028
+sources:
+- https://www.wikidata.org/wiki/Q3757899
+schema_version: 1

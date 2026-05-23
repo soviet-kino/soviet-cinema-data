@@ -1,0 +1,13 @@
+id: bolshaya-malaya-voyna-1980
+title_ru: Большая-малая война
+title_original: Большая-малая война
+year: 1980
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q130219313
+  imdb: tt0080459
+sources:
+- https://www.wikidata.org/wiki/Q130219313
+schema_version: 1

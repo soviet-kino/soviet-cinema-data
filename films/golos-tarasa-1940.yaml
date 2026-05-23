@@ -1,0 +1,12 @@
+id: golos-tarasa-1940
+title_ru: Голос Тараса
+title_original: Голос Тараса
+year: 1940
+country:
+- SU
+runtime_min: 36
+external_ids:
+  wikidata: Q85859263
+sources:
+- https://www.wikidata.org/wiki/Q85859263
+schema_version: 1

@@ -1,0 +1,13 @@
+id: voznesenie-film-1989
+title_ru: Вознесение (фильм)
+title_original: Вознесение (фильм)
+year: 1989
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q117848597
+  imdb: tt0173428
+sources:
+- https://www.wikidata.org/wiki/Q117848597
+schema_version: 1

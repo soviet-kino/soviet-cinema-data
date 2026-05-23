@@ -1,0 +1,13 @@
+id: tommi-1931
+title_ru: Томми
+title_original: Томми
+year: 1931
+country:
+- SU
+runtime_min: 63
+external_ids:
+  wikidata: Q4460315
+  imdb: tt0022486
+sources:
+- https://www.wikidata.org/wiki/Q4460315
+schema_version: 1

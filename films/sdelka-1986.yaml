@@ -1,0 +1,13 @@
+id: sdelka-1986
+title_ru: Сделка
+title_original: Сделка
+year: 1986
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q116811402
+  imdb: tt0265715
+sources:
+- https://www.wikidata.org/wiki/Q116811402
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kotovskiy-film-1942-1943
+title_ru: Котовский (фильм, 1942)
+title_original: Котовский (фильм, 1942)
+year: 1943
+country:
+- SU
+runtime_min: 72
+external_ids:
+  wikidata: Q4236251
+  imdb: tt0036083
+sources:
+- https://www.wikidata.org/wiki/Q4236251
+schema_version: 1

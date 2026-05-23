@@ -1,0 +1,13 @@
+id: podozritelnyy-film-1981
+title_ru: Подозрительный (фильм)
+title_original: Подозрительный (фильм)
+year: 1981
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q84994179
+  imdb: tt0155023
+sources:
+- https://www.wikidata.org/wiki/Q84994179
+schema_version: 1

@@ -1,0 +1,13 @@
+id: staryy-dvor-film-1941
+title_ru: Старый двор (фильм)
+title_original: Старый двор (фильм)
+year: 1941
+country:
+- SU
+runtime_min: 20
+external_ids:
+  wikidata: Q116811391
+  imdb: tt14144816
+sources:
+- https://www.wikidata.org/wiki/Q116811391
+schema_version: 1

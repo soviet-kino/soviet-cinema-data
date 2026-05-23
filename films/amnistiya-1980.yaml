@@ -1,0 +1,13 @@
+id: amnistiya-1980
+title_ru: Амнистия
+title_original: Амнистия
+year: 1980
+country:
+- SU
+runtime_min: 114
+external_ids:
+  wikidata: Q65201851
+  imdb: tt0082013
+sources:
+- https://www.wikidata.org/wiki/Q65201851
+schema_version: 1

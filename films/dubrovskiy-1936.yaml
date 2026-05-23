@@ -1,0 +1,13 @@
+id: dubrovskiy-1936
+title_ru: Дубровский
+title_original: Дубровский
+year: 1936
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q4169858
+  imdb: tt0027554
+sources:
+- https://www.wikidata.org/wiki/Q4169858
+schema_version: 1

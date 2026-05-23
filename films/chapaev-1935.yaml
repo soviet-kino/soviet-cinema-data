@@ -1,0 +1,13 @@
+id: chapaev-1935
+title_ru: Чапаев
+title_original: Чапаев
+year: 1935
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q153593
+  imdb: tt0024966
+sources:
+- https://www.wikidata.org/wiki/Q153593
+schema_version: 1

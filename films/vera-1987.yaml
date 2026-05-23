@@ -1,0 +1,13 @@
+id: vera-1987
+title_ru: Вера
+title_original: Вера
+year: 1987
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q114349775
+  imdb: tt0092162
+sources:
+- https://www.wikidata.org/wiki/Q114349775
+schema_version: 1

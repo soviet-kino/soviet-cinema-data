@@ -1,0 +1,13 @@
+id: russkiy-vopros-1948
+title_ru: Русский вопрос
+title_original: Русский вопрос
+year: 1948
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q4400743
+  imdb: tt0039790
+sources:
+- https://www.wikidata.org/wiki/Q4400743
+schema_version: 1

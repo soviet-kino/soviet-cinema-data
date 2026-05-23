@@ -1,0 +1,13 @@
+id: tranzit-1981
+title_ru: Транзит
+title_original: Транзит
+year: 1981
+country:
+- SU
+runtime_min: 126
+external_ids:
+  wikidata: Q4461945
+  imdb: tt1393023
+sources:
+- https://www.wikidata.org/wiki/Q4461945
+schema_version: 1

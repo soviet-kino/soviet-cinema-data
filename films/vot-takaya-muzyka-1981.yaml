@@ -1,0 +1,13 @@
+id: vot-takaya-muzyka-1981
+title_ru: Вот такая музыка
+title_original: Вот такая музыка
+year: 1981
+country:
+- SU
+runtime_min: 88
+external_ids:
+  wikidata: Q4126779
+  imdb: tt0232910
+sources:
+- https://www.wikidata.org/wiki/Q4126779
+schema_version: 1

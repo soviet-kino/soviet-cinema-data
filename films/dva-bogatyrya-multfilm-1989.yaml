@@ -1,0 +1,13 @@
+id: dva-bogatyrya-multfilm-1989
+title_ru: Два богатыря (мультфильм)
+title_original: Два богатыря (мультфильм)
+year: 1989
+country:
+- SU
+runtime_min: 581
+external_ids:
+  wikidata: Q4155565
+  imdb: tt6630694
+sources:
+- https://www.wikidata.org/wiki/Q4155565
+schema_version: 1

@@ -1,0 +1,13 @@
+id: sova-1924
+title_ru: Сова
+title_original: Сова
+year: 1924
+country:
+- SU
+runtime_min: 64
+external_ids:
+  wikidata: Q16414245
+  imdb: tt2081180
+sources:
+- https://www.wikidata.org/wiki/Q16414245
+schema_version: 1

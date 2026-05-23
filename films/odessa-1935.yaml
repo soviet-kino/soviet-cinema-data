@@ -1,0 +1,13 @@
+id: odessa-1935
+title_ru: Одесса
+title_original: Одесса
+year: 1935
+country:
+- SU
+runtime_min: 22
+external_ids:
+  wikidata: Q106764445
+  imdb: tt3739338
+sources:
+- https://www.wikidata.org/wiki/Q106764445
+schema_version: 1

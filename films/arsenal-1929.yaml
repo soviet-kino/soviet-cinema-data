@@ -1,0 +1,13 @@
+id: arsenal-1929
+title_ru: Арсенал
+title_original: Арсенал
+year: 1929
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q704456
+  imdb: tt0019649
+sources:
+- https://www.wikidata.org/wiki/Q704456
+schema_version: 1

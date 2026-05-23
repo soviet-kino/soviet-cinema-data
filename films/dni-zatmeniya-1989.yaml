@@ -1,0 +1,13 @@
+id: dni-zatmeniya-1989
+title_ru: Дни затмения
+title_original: Дни затмения
+year: 1989
+country:
+- SU
+runtime_min: 139
+external_ids:
+  wikidata: Q4163298
+  imdb: tt0095040
+sources:
+- https://www.wikidata.org/wiki/Q4163298
+schema_version: 1

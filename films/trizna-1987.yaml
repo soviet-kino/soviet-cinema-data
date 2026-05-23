@@ -1,0 +1,13 @@
+id: trizna-1987
+title_ru: Тризна
+title_original: Тризна
+year: 1987
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q65250826
+  imdb: tt0252067
+sources:
+- https://www.wikidata.org/wiki/Q65250826
+schema_version: 1

@@ -1,0 +1,13 @@
+id: vizit-damy-1989
+title_ru: Визит дамы
+title_original: Визит дамы
+year: 1989
+country:
+- SU
+runtime_min: 144
+external_ids:
+  wikidata: Q4110879
+  imdb: tt0127966
+sources:
+- https://www.wikidata.org/wiki/Q4110879
+schema_version: 1

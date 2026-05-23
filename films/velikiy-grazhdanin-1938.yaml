@@ -1,0 +1,13 @@
+id: velikiy-grazhdanin-1938
+title_ru: Великий гражданин
+title_original: Великий гражданин
+year: 1938
+country:
+- SU
+runtime_min: 252
+external_ids:
+  wikidata: Q4106580
+  imdb: tt0029726
+sources:
+- https://www.wikidata.org/wiki/Q4106580
+schema_version: 1

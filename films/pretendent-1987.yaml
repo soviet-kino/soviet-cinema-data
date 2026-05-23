@@ -1,0 +1,13 @@
+id: pretendent-1987
+title_ru: Претендент
+title_original: Претендент
+year: 1987
+country:
+- SU
+runtime_min: 195
+external_ids:
+  wikidata: Q101683087
+  imdb: tt6235162
+sources:
+- https://www.wikidata.org/wiki/Q101683087
+schema_version: 1

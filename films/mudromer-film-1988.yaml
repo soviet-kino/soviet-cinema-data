@@ -1,0 +1,13 @@
+id: mudromer-film-1988
+title_ru: Мудромер (фильм)
+title_original: Мудромер (фильм)
+year: 1988
+country:
+- SU
+runtime_min: 129
+external_ids:
+  wikidata: Q116865098
+  imdb: tt5253276
+sources:
+- https://www.wikidata.org/wiki/Q116865098
+schema_version: 1

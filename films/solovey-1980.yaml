@@ -1,0 +1,13 @@
+id: solovey-1980
+title_ru: Соловей
+title_original: Соловей
+year: 1980
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q1215066
+  imdb: tt0079926
+sources:
+- https://www.wikidata.org/wiki/Q1215066
+schema_version: 1

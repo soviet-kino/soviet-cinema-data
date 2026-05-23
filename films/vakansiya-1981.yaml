@@ -1,0 +1,13 @@
+id: vakansiya-1981
+title_ru: Вакансия
+title_original: Вакансия
+year: 1981
+country:
+- SU
+runtime_min: 74
+external_ids:
+  wikidata: Q4102599
+  imdb: tt0083273
+sources:
+- https://www.wikidata.org/wiki/Q4102599
+schema_version: 1

@@ -1,0 +1,13 @@
+id: nikolay-podvoyskiy-film-1987
+title_ru: Николай Подвойский (фильм)
+title_original: Николай Подвойский (фильм)
+year: 1987
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q131908740
+  imdb: tt0299066
+sources:
+- https://www.wikidata.org/wiki/Q131908740
+schema_version: 1

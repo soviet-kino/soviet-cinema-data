@@ -1,0 +1,13 @@
+id: uznay-menya-film-1980
+title_ru: Узнай меня (фильм)
+title_original: Узнай меня (фильм)
+year: 1980
+country:
+- SU
+runtime_min: 79
+external_ids:
+  wikidata: Q84994498
+  imdb: tt4971550
+sources:
+- https://www.wikidata.org/wiki/Q84994498
+schema_version: 1

@@ -1,0 +1,13 @@
+id: drug-1987
+title_ru: Друг
+title_original: Друг
+year: 1987
+country:
+- SU
+runtime_min: 78
+external_ids:
+  wikidata: Q4168620
+  imdb: tt0092930
+sources:
+- https://www.wikidata.org/wiki/Q4168620
+schema_version: 1

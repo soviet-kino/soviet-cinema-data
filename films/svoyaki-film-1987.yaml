@@ -1,0 +1,12 @@
+id: svoyaki-film-1987
+title_ru: Свояки (фильм)
+title_original: Свояки (фильм)
+year: 1987
+country:
+- SU
+external_ids:
+  wikidata: Q99628012
+  imdb: tt2764802
+sources:
+- https://www.wikidata.org/wiki/Q99628012
+schema_version: 1

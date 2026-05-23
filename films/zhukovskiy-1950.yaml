@@ -1,0 +1,13 @@
+id: zhukovskiy-1950
+title_ru: Жуковский
+title_original: Жуковский
+year: 1950
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q4181546
+  imdb: tt0042959
+sources:
+- https://www.wikidata.org/wiki/Q4181546
+schema_version: 1

@@ -1,0 +1,13 @@
+id: berlin-1945
+title_ru: Берлин
+title_original: Берлин
+year: 1945
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q5432146
+  imdb: tt0037537
+sources:
+- https://www.wikidata.org/wiki/Q5432146
+schema_version: 1

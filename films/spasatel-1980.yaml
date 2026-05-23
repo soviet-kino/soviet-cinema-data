@@ -1,0 +1,13 @@
+id: spasatel-1980
+title_ru: Спасатель
+title_original: Спасатель
+year: 1980
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q25395139
+  imdb: tt0081544
+sources:
+- https://www.wikidata.org/wiki/Q25395139
+schema_version: 1

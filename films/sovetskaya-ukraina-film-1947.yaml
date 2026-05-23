@@ -1,0 +1,13 @@
+id: sovetskaya-ukraina-film-1947
+title_ru: Советская Украина (фильм)
+title_original: Советская Украина (фильм)
+year: 1947
+country:
+- SU
+runtime_min: 59
+external_ids:
+  wikidata: Q124691278
+  imdb: tt31522294
+sources:
+- https://www.wikidata.org/wiki/Q124691278
+schema_version: 1

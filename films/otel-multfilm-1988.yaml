@@ -1,0 +1,12 @@
+id: otel-multfilm-1988
+title_ru: Отель (мультфильм)
+title_original: Отель (мультфильм)
+year: 1988
+country:
+- SU
+runtime_min: 282
+external_ids:
+  wikidata: Q4339502
+sources:
+- https://www.wikidata.org/wiki/Q4339502
+schema_version: 1

@@ -1,0 +1,13 @@
+id: okhota-na-lis-1980
+title_ru: Охота на лис
+title_original: Охота на лис
+year: 1980
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4340438
+  imdb: tt0081271
+sources:
+- https://www.wikidata.org/wiki/Q4340438
+schema_version: 1

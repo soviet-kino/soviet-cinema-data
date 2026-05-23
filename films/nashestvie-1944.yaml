@@ -1,0 +1,13 @@
+id: nashestvie-1944
+title_ru: Нашествие
+title_original: Нашествие
+year: 1944
+country:
+- SU
+runtime_min: 94
+external_ids:
+  wikidata: Q92441787
+  imdb: tt0037937
+sources:
+- https://www.wikidata.org/wiki/Q92441787
+schema_version: 1

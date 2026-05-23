@@ -1,0 +1,13 @@
+id: smysl-zhizni-film-1987
+title_ru: Смысл жизни (фильм)
+title_original: Смысл жизни (фильм)
+year: 1987
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q120122918
+  imdb: tt0300497
+sources:
+- https://www.wikidata.org/wiki/Q120122918
+schema_version: 1

@@ -1,0 +1,13 @@
+id: zakon-1989
+title_ru: Закон
+title_original: Закон
+year: 1989
+country:
+- SU
+runtime_min: 138
+external_ids:
+  wikidata: Q4184761
+  imdb: tt0098704
+sources:
+- https://www.wikidata.org/wiki/Q4184761
+schema_version: 1

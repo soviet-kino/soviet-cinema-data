@@ -1,0 +1,13 @@
+id: ono-1989
+title_ru: Оно
+title_original: Оно
+year: 1989
+country:
+- SU
+runtime_min: 130
+external_ids:
+  wikidata: Q575697
+  imdb: tt0098030
+sources:
+- https://www.wikidata.org/wiki/Q575697
+schema_version: 1

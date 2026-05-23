@@ -1,0 +1,13 @@
+id: lyotchiki-1935
+title_ru: Лётчики
+title_original: Лётчики
+year: 1935
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q4273141
+  imdb: tt0026623
+sources:
+- https://www.wikidata.org/wiki/Q4273141
+schema_version: 1

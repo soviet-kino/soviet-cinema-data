@@ -1,0 +1,13 @@
+id: pervyy-avtograf-multfilm-1980
+title_ru: Первый автограф (мультфильм)
+title_original: Первый автограф (мультфильм)
+year: 1980
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4349802
+  imdb: tt6762280
+sources:
+- https://www.wikidata.org/wiki/Q4349802
+schema_version: 1

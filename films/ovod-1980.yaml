@@ -1,0 +1,13 @@
+id: ovod-1980
+title_ru: Овод
+title_original: Овод
+year: 1980
+country:
+- SU
+runtime_min: 210
+external_ids:
+  wikidata: Q4330735
+  imdb: tt0230602
+sources:
+- https://www.wikidata.org/wiki/Q4330735
+schema_version: 1

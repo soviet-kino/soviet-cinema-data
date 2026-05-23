@@ -1,0 +1,13 @@
+id: veter-s-vostoka-film-1940-1941
+title_ru: Ветер с востока (фильм, 1940)
+title_original: Ветер с востока (фильм, 1940)
+year: 1941
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q20001866
+  imdb: tt2016333
+sources:
+- https://www.wikidata.org/wiki/Q20001866
+schema_version: 1

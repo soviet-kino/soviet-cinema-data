@@ -1,0 +1,13 @@
+id: poshchyochina-1980
+title_ru: Пощёчина
+title_original: Пощёчина
+year: 1980
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4375665
+  imdb: tt0189940
+sources:
+- https://www.wikidata.org/wiki/Q4375665
+schema_version: 1

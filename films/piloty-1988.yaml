@@ -1,0 +1,13 @@
+id: piloty-1988
+title_ru: Пилоты
+title_original: Пилоты
+year: 1988
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q66371006
+  imdb: tt0186446
+sources:
+- https://www.wikidata.org/wiki/Q66371006
+schema_version: 1

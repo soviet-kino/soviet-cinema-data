@@ -1,0 +1,13 @@
+id: polikushka-1922
+title_ru: Поликушка
+title_original: Поликушка
+year: 1922
+country:
+- SU
+runtime_min: 50
+external_ids:
+  wikidata: Q4369971
+  imdb: tt0013501
+sources:
+- https://www.wikidata.org/wiki/Q4369971
+schema_version: 1

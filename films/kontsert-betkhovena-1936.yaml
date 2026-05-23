@@ -1,0 +1,13 @@
+id: kontsert-betkhovena-1936
+title_ru: Концерт Бетховена
+title_original: Концерт Бетховена
+year: 1936
+country:
+- SU
+runtime_min: 67
+external_ids:
+  wikidata: Q4231877
+  imdb: tt0128959
+sources:
+- https://www.wikidata.org/wiki/Q4231877
+schema_version: 1

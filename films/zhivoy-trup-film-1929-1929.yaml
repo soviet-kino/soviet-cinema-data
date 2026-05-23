@@ -1,0 +1,13 @@
+id: zhivoy-trup-film-1929-1929
+title_ru: Живой труп (фильм, 1929)
+title_original: Живой труп (фильм, 1929)
+year: 1929
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q3793201
+  imdb: tt0019609
+sources:
+- https://www.wikidata.org/wiki/Q3793201
+schema_version: 1

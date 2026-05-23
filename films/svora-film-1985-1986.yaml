@@ -1,0 +1,13 @@
+id: svora-film-1985-1986
+title_ru: Свора (фильм, 1985)
+title_original: Свора (фильм, 1985)
+year: 1986
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q61388780
+  imdb: tt0275714
+sources:
+- https://www.wikidata.org/wiki/Q61388780
+schema_version: 1

@@ -1,0 +1,13 @@
+id: sentimentalnyy-romans-1930
+title_ru: Сентиментальный романс
+title_original: Сентиментальный романс
+year: 1930
+country:
+- SU
+runtime_min: 20
+external_ids:
+  wikidata: Q3441004
+  imdb: tt0021312
+sources:
+- https://www.wikidata.org/wiki/Q3441004
+schema_version: 1

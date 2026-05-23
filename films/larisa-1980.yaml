@@ -1,0 +1,13 @@
+id: larisa-1980
+title_ru: Лариса
+title_original: Лариса
+year: 1980
+country:
+- SU
+runtime_min: 25
+external_ids:
+  wikidata: Q4254610
+  imdb: tt0081030
+sources:
+- https://www.wikidata.org/wiki/Q4254610
+schema_version: 1

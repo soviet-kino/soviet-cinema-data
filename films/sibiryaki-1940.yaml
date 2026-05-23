@@ -1,0 +1,13 @@
+id: sibiryaki-1940
+title_ru: Сибиряки
+title_original: Сибиряки
+year: 1940
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q4418365
+  imdb: tt0033048
+sources:
+- https://www.wikidata.org/wiki/Q4418365
+schema_version: 1

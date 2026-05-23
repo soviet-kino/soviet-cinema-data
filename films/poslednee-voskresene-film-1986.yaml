@@ -1,0 +1,13 @@
+id: poslednee-voskresene-film-1986
+title_ru: Последнее воскресенье (фильм)
+title_original: Последнее воскресенье (фильм)
+year: 1986
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q16400677
+  imdb: tt0273990
+sources:
+- https://www.wikidata.org/wiki/Q16400677
+schema_version: 1

@@ -1,0 +1,13 @@
+id: muzykalnaya-istoriya-1940
+title_ru: Музыкальная история
+title_original: Музыкальная история
+year: 1940
+country:
+- SU
+runtime_min: 84
+external_ids:
+  wikidata: Q4306612
+  imdb: tt0032825
+sources:
+- https://www.wikidata.org/wiki/Q4306612
+schema_version: 1

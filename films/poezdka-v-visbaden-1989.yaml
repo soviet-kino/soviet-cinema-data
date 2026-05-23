@@ -1,0 +1,13 @@
+id: poezdka-v-visbaden-1989
+title_ru: Поездка в Висбаден
+title_original: Поездка в Висбаден
+year: 1989
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q21844367
+  imdb: tt0136470
+sources:
+- https://www.wikidata.org/wiki/Q21844367
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kosmicheskiy-reys-1936
+title_ru: Космический рейс
+title_original: Космический рейс
+year: 1936
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q3228251
+  imdb: tt0252612
+sources:
+- https://www.wikidata.org/wiki/Q3228251
+schema_version: 1

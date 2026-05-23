@@ -1,0 +1,13 @@
+id: karo-1937
+title_ru: Каро
+title_original: Каро
+year: 1937
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q20510914
+  imdb: tt0359543
+sources:
+- https://www.wikidata.org/wiki/Q20510914
+schema_version: 1

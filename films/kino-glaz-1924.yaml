@@ -1,0 +1,13 @@
+id: kino-glaz-1924
+title_ru: Кино-глаз
+title_original: Кино-глаз
+year: 1924
+country:
+- SU
+runtime_min: 79
+external_ids:
+  wikidata: Q4220870
+  imdb: tt0015039
+sources:
+- https://www.wikidata.org/wiki/Q4220870
+schema_version: 1

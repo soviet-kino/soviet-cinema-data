@@ -1,0 +1,13 @@
+id: vzlyot-1980
+title_ru: Взлёт
+title_original: Взлёт
+year: 1980
+country:
+- SU
+runtime_min: 139
+external_ids:
+  wikidata: Q7678065
+  imdb: tt0173432
+sources:
+- https://www.wikidata.org/wiki/Q7678065
+schema_version: 1

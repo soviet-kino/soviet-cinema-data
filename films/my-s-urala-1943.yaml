@@ -1,0 +1,13 @@
+id: my-s-urala-1943
+title_ru: Мы с Урала
+title_original: Мы с Урала
+year: 1943
+country:
+- SU
+runtime_min: 76
+external_ids:
+  wikidata: Q4309266
+  imdb: tt0037112
+sources:
+- https://www.wikidata.org/wiki/Q4309266
+schema_version: 1

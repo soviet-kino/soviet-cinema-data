@@ -1,0 +1,13 @@
+id: telefon-1944
+title_ru: Телефон
+title_original: Телефон
+year: 1944
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4454135
+  imdb: tt5197834
+sources:
+- https://www.wikidata.org/wiki/Q4454135
+schema_version: 1
