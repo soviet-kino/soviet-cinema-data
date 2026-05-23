@@ -1,0 +1,11 @@
+id: my-li-eto-1987
+title_ru: Мы ли это?
+title_original: Мы ли это?
+year: 1987
+country:
+- SU
+external_ids:
+  wikidata: Q16678921
+sources:
+- https://www.wikidata.org/wiki/Q16678921
+schema_version: 1

@@ -1,0 +1,13 @@
+id: ukraziya-1925
+title_ru: Укразия
+title_original: Укразия
+year: 1925
+country:
+- SU
+runtime_min: 209
+external_ids:
+  wikidata: Q9364645
+  imdb: tt0253857
+sources:
+- https://www.wikidata.org/wiki/Q9364645
+schema_version: 1

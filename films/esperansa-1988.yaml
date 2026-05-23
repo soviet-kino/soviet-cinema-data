@@ -1,0 +1,13 @@
+id: esperansa-1988
+title_ru: Эсперанса
+title_original: Эсперанса
+year: 1988
+country:
+- SU
+runtime_min: 138
+external_ids:
+  wikidata: Q16482248
+  imdb: tt0095114
+sources:
+- https://www.wikidata.org/wiki/Q16482248
+schema_version: 1

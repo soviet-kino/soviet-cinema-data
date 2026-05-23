@@ -1,0 +1,13 @@
+id: kazaki-1928
+title_ru: Казаки
+title_original: Казаки
+year: 1928
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q106765381
+  imdb: tt0260120
+sources:
+- https://www.wikidata.org/wiki/Q106765381
+schema_version: 1

@@ -1,0 +1,13 @@
+id: dver-1986
+title_ru: Дверь
+title_original: Дверь
+year: 1986
+country:
+- SU
+runtime_min: 639
+external_ids:
+  wikidata: Q25395616
+  imdb: tt1389073
+sources:
+- https://www.wikidata.org/wiki/Q25395616
+schema_version: 1

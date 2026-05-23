@@ -1,0 +1,13 @@
+id: pirogov-1947
+title_ru: Пирогов
+title_original: Пирогов
+year: 1947
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4363366
+  imdb: tt0039710
+sources:
+- https://www.wikidata.org/wiki/Q4363366
+schema_version: 1

@@ -1,0 +1,13 @@
+id: novyy-gorizont-1940
+title_ru: Новый горизонт
+title_original: Новый горизонт
+year: 1940
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q12847990
+  imdb: tt1524586
+sources:
+- https://www.wikidata.org/wiki/Q12847990
+schema_version: 1

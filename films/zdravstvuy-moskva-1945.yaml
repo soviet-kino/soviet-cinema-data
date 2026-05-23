@@ -1,0 +1,13 @@
+id: zdravstvuy-moskva-1945
+title_ru: Здравствуй, Москва!
+title_original: Здравствуй, Москва!
+year: 1945
+country:
+- SU
+runtime_min: 98
+external_ids:
+  wikidata: Q4190044
+  imdb: tt0038594
+sources:
+- https://www.wikidata.org/wiki/Q4190044
+schema_version: 1

@@ -1,0 +1,13 @@
+id: iona-1987
+title_ru: Иона
+title_original: Иона
+year: 1987
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4202733
+  imdb: tt0298376
+sources:
+- https://www.wikidata.org/wiki/Q4202733
+schema_version: 1

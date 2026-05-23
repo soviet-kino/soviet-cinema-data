@@ -1,0 +1,13 @@
+id: kutuzov-1944
+title_ru: Кутузов
+title_original: Кутузов
+year: 1944
+country:
+- SU
+runtime_min: 113
+external_ids:
+  wikidata: Q4249628
+  imdb: tt0036572
+sources:
+- https://www.wikidata.org/wiki/Q4249628
+schema_version: 1

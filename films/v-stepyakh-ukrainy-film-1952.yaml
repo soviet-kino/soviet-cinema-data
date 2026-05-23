@@ -1,0 +1,13 @@
+id: v-stepyakh-ukrainy-film-1952
+title_ru: В степях Украины (фильм)
+title_original: В степях Украины (фильм)
+year: 1952
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q122411418
+  imdb: tt0173400
+sources:
+- https://www.wikidata.org/wiki/Q122411418
+schema_version: 1

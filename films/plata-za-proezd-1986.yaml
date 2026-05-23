@@ -1,0 +1,13 @@
+id: plata-za-proezd-1986
+title_ru: Плата за проезд
+title_original: Плата за проезд
+year: 1986
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q131908635
+  imdb: tt0273961
+sources:
+- https://www.wikidata.org/wiki/Q131908635
+schema_version: 1

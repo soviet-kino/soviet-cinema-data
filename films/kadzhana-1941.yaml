@@ -1,0 +1,13 @@
+id: kadzhana-1941
+title_ru: Каджана
+title_original: Каджана
+year: 1941
+country:
+- SU
+runtime_min: 70
+external_ids:
+  wikidata: Q4207233
+  imdb: tt0233999
+sources:
+- https://www.wikidata.org/wiki/Q4207233
+schema_version: 1

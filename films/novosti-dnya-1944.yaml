@@ -1,0 +1,13 @@
+id: novosti-dnya-1944
+title_ru: Новости дня
+title_original: Новости дня
+year: 1944
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q21643541
+  imdb: tt0047288
+sources:
+- https://www.wikidata.org/wiki/Q21643541
+schema_version: 1

@@ -1,0 +1,13 @@
+id: silva-1944
+title_ru: Сильва
+title_original: Сильва
+year: 1944
+country:
+- SU
+runtime_min: 78
+external_ids:
+  wikidata: Q4419338
+  imdb: tt0037278
+sources:
+- https://www.wikidata.org/wiki/Q4419338
+schema_version: 1

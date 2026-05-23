@@ -1,0 +1,13 @@
+id: belinskiy-1953
+title_ru: Белинский
+title_original: Белинский
+year: 1953
+country:
+- SU
+runtime_min: 102
+external_ids:
+  wikidata: Q4081961
+  imdb: tt0043329
+sources:
+- https://www.wikidata.org/wiki/Q4081961
+schema_version: 1

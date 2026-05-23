@@ -1,0 +1,13 @@
+id: kakie-nashi-gody-1980
+title_ru: Какие наши годы!
+title_original: Какие наши годы!
+year: 1980
+country:
+- SU
+runtime_min: 79
+external_ids:
+  wikidata: Q4208899
+  imdb: tt0230394
+sources:
+- https://www.wikidata.org/wiki/Q4208899
+schema_version: 1

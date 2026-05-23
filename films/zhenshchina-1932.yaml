@@ -1,0 +1,13 @@
+id: zhenshchina-1932
+title_ru: Женщина
+title_original: Женщина
+year: 1932
+country:
+- SU
+runtime_min: 64
+external_ids:
+  wikidata: Q68638820
+  imdb: tt0164973
+sources:
+- https://www.wikidata.org/wiki/Q68638820
+schema_version: 1

@@ -1,0 +1,13 @@
+id: basketbol-1980
+title_ru: Баскетбол
+title_original: Баскетбол
+year: 1980
+country:
+- SU
+runtime_min: 65
+external_ids:
+  wikidata: Q16514484
+  imdb: tt9274538
+sources:
+- https://www.wikidata.org/wiki/Q16514484
+schema_version: 1

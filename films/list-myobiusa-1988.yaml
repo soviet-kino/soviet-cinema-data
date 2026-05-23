@@ -1,0 +1,13 @@
+id: list-myobiusa-1988
+title_ru: Лист Мёбиуса
+title_original: Лист Мёбиуса
+year: 1988
+country:
+- SU
+runtime_min: 20
+external_ids:
+  wikidata: Q16671550
+  imdb: tt8807548
+sources:
+- https://www.wikidata.org/wiki/Q16671550
+schema_version: 1

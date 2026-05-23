@@ -1,0 +1,13 @@
+id: klad-1988
+title_ru: Клад
+title_original: Клад
+year: 1988
+country:
+- SU
+runtime_min: 76
+external_ids:
+  wikidata: Q116865202
+  imdb: tt0307061
+sources:
+- https://www.wikidata.org/wiki/Q116865202
+schema_version: 1

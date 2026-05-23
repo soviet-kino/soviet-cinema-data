@@ -1,0 +1,13 @@
+id: garmon-1934
+title_ru: Гармонь
+title_original: Гармонь
+year: 1934
+country:
+- SU
+runtime_min: 66
+external_ids:
+  wikidata: Q4133838
+  imdb: tt0025162
+sources:
+- https://www.wikidata.org/wiki/Q4133838
+schema_version: 1

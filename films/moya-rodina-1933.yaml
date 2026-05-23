@@ -1,0 +1,13 @@
+id: moya-rodina-1933
+title_ru: Моя Родина
+title_original: Моя Родина
+year: 1933
+country:
+- SU
+runtime_min: 82
+external_ids:
+  wikidata: Q4305419
+  imdb: tt0171545
+sources:
+- https://www.wikidata.org/wiki/Q4305419
+schema_version: 1

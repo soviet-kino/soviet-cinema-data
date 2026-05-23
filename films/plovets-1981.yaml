@@ -1,0 +1,13 @@
+id: plovets-1981
+title_ru: Пловец
+title_original: Пловец
+year: 1981
+country:
+- SU
+runtime_min: 105
+external_ids:
+  wikidata: Q4365144
+  imdb: tt0083147
+sources:
+- https://www.wikidata.org/wiki/Q4365144
+schema_version: 1

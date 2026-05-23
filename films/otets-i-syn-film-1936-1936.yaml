@@ -1,0 +1,13 @@
+id: otets-i-syn-film-1936-1936
+title_ru: Отец и сын (фильм, 1936)
+title_original: Отец и сын (фильм, 1936)
+year: 1936
+country:
+- SU
+runtime_min: 72
+external_ids:
+  wikidata: Q4339531
+  imdb: tt33377257
+sources:
+- https://www.wikidata.org/wiki/Q4339531
+schema_version: 1

@@ -1,0 +1,12 @@
+id: suvenir-1942
+title_ru: Сувенир
+title_original: Сувенир
+year: 1942
+country:
+- SU
+runtime_min: 22
+external_ids:
+  wikidata: Q20584413
+sources:
+- https://www.wikidata.org/wiki/Q20584413
+schema_version: 1

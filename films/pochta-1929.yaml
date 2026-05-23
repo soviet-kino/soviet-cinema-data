@@ -1,0 +1,13 @@
+id: pochta-1929
+title_ru: Почта
+title_original: Почта
+year: 1929
+country:
+- SU
+runtime_min: 15
+external_ids:
+  wikidata: Q4375349
+  imdb: tt0250660
+sources:
+- https://www.wikidata.org/wiki/Q4375349
+schema_version: 1

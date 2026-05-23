@@ -1,0 +1,13 @@
+id: territoriya-1980
+title_ru: Территория
+title_original: Территория
+year: 1980
+country:
+- SU
+runtime_min: 98
+external_ids:
+  wikidata: Q4456212
+  imdb: tt0407250
+sources:
+- https://www.wikidata.org/wiki/Q4456212
+schema_version: 1

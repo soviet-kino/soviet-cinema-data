@@ -1,0 +1,13 @@
+id: odna-1931
+title_ru: Одна
+title_original: Одна
+year: 1931
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q651553
+  imdb: tt0022215
+sources:
+- https://www.wikidata.org/wiki/Q651553
+schema_version: 1

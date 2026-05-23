@@ -1,0 +1,13 @@
+id: viktoriya-film-1988-1988
+title_ru: Виктория (фильм, 1988)
+title_original: Виктория (фильм, 1988)
+year: 1988
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q16355858
+  imdb: tt0096383
+sources:
+- https://www.wikidata.org/wiki/Q16355858
+schema_version: 1

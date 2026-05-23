@@ -1,0 +1,13 @@
+id: les-1980
+title_ru: Лес
+title_original: Лес
+year: 1980
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q4259314
+  imdb: tt0172718
+sources:
+- https://www.wikidata.org/wiki/Q4259314
+schema_version: 1

@@ -1,0 +1,13 @@
+id: volki-1988
+title_ru: Волки
+title_original: Волки
+year: 1988
+country:
+- SU
+runtime_min: 50
+external_ids:
+  wikidata: Q115431986
+  imdb: tt4187688
+sources:
+- https://www.wikidata.org/wiki/Q115431986
+schema_version: 1

@@ -1,0 +1,13 @@
+id: rok-1987
+title_ru: Рок
+title_original: Рок
+year: 1987
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q4396823
+  imdb: tt0316503
+sources:
+- https://www.wikidata.org/wiki/Q4396823
+schema_version: 1

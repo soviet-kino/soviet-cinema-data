@@ -1,0 +1,13 @@
+id: sasha-1930
+title_ru: Саша
+title_original: Саша
+year: 1930
+country:
+- SU
+runtime_min: 40
+external_ids:
+  wikidata: Q124760130
+  imdb: tt0021336
+sources:
+- https://www.wikidata.org/wiki/Q124760130
+schema_version: 1

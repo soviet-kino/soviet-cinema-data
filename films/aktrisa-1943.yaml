@@ -1,0 +1,13 @@
+id: aktrisa-1943
+title_ru: Актриса
+title_original: Актриса
+year: 1943
+country:
+- SU
+runtime_min: 76
+external_ids:
+  wikidata: Q4060139
+  imdb: tt0035620
+sources:
+- https://www.wikidata.org/wiki/Q4060139
+schema_version: 1

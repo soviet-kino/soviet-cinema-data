@@ -1,0 +1,13 @@
+id: gost-1987
+title_ru: Гость
+title_original: Гость
+year: 1987
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q97176681
+  imdb: tt0208186
+sources:
+- https://www.wikidata.org/wiki/Q97176681
+schema_version: 1

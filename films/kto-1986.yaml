@@ -1,0 +1,12 @@
+id: kto-1986
+title_ru: Кто?
+title_original: Кто?
+year: 1986
+country:
+- SU
+runtime_min: 480
+external_ids:
+  wikidata: Q4243376
+sources:
+- https://www.wikidata.org/wiki/Q4243376
+schema_version: 1

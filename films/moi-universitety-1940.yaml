@@ -1,0 +1,13 @@
+id: moi-universitety-1940
+title_ru: Мои университеты
+title_original: Мои университеты
+year: 1940
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q2901494
+  imdb: tt0032802
+sources:
+- https://www.wikidata.org/wiki/Q2901494
+schema_version: 1

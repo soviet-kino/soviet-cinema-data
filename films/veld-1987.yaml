@@ -1,0 +1,13 @@
+id: veld-1987
+title_ru: Вельд
+title_original: Вельд
+year: 1987
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q4106975
+  imdb: tt0201300
+sources:
+- https://www.wikidata.org/wiki/Q4106975
+schema_version: 1

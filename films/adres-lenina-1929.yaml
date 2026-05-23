@@ -1,0 +1,13 @@
+id: adres-lenina-1929
+title_ru: Адрес Ленина
+title_original: Адрес Ленина
+year: 1929
+country:
+- SU
+runtime_min: 61
+external_ids:
+  wikidata: Q91649958
+  imdb: tt0128992
+sources:
+- https://www.wikidata.org/wiki/Q91649958
+schema_version: 1

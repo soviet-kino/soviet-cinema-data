@@ -1,0 +1,13 @@
+id: ataka-1986
+title_ru: Атака
+title_original: Атака
+year: 1986
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q4071918
+  imdb: tt0265049
+sources:
+- https://www.wikidata.org/wiki/Q4071918
+schema_version: 1

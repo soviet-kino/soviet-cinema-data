@@ -1,0 +1,12 @@
+id: cat-1933
+title_ru: Cat
+title_original: Cat
+year: 1933
+country:
+- SU
+runtime_min: 32
+external_ids:
+  wikidata: Q16415028
+sources:
+- https://www.wikidata.org/wiki/Q16415028
+schema_version: 1

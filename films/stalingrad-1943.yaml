@@ -1,0 +1,13 @@
+id: stalingrad-1943
+title_ru: Сталинград
+title_original: Сталинград
+year: 1943
+country:
+- SU
+runtime_min: 75
+external_ids:
+  wikidata: Q4439202
+  imdb: tt0036385
+sources:
+- https://www.wikidata.org/wiki/Q4439202
+schema_version: 1

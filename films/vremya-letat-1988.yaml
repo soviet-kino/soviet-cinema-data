@@ -1,0 +1,13 @@
+id: vremya-letat-1988
+title_ru: Время летать
+title_original: Время летать
+year: 1988
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q4127152
+  imdb: tt0094281
+sources:
+- https://www.wikidata.org/wiki/Q4127152
+schema_version: 1

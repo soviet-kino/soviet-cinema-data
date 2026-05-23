@@ -1,0 +1,13 @@
+id: turandot-1989
+title_ru: Турандот
+title_original: Турандот
+year: 1989
+country:
+- SU
+runtime_min: 98
+external_ids:
+  wikidata: Q4465698
+  imdb: tt0287057
+sources:
+- https://www.wikidata.org/wiki/Q4465698
+schema_version: 1

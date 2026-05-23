@@ -1,0 +1,13 @@
+id: igla-1988
+title_ru: Игла
+title_original: Игла
+year: 1988
+country:
+- SU
+runtime_min: 81
+external_ids:
+  wikidata: Q1059786
+  imdb: tt0097561
+sources:
+- https://www.wikidata.org/wiki/Q1059786
+schema_version: 1

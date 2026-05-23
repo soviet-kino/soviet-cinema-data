@@ -1,0 +1,13 @@
+id: gobsek-1987
+title_ru: Гобсек
+title_original: Гобсек
+year: 1987
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q25395700
+  imdb: tt0264649
+sources:
+- https://www.wikidata.org/wiki/Q25395700
+schema_version: 1

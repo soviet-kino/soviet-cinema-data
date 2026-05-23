@@ -1,0 +1,13 @@
+id: tankisty-1939
+title_ru: Танкисты
+title_original: Танкисты
+year: 1939
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q16704558
+  imdb: tt0035245
+sources:
+- https://www.wikidata.org/wiki/Q16704558
+schema_version: 1

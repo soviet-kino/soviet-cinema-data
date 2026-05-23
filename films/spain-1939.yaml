@@ -1,0 +1,12 @@
+id: spain-1939
+title_ru: Spain
+title_original: Spain
+year: 1939
+country:
+- SU
+external_ids:
+  wikidata: Q131398488
+  imdb: tt0031959
+sources:
+- https://www.wikidata.org/wiki/Q131398488
+schema_version: 1

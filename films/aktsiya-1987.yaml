@@ -1,0 +1,13 @@
+id: aktsiya-1987
+title_ru: Акция
+title_original: Акция
+year: 1987
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q4060301
+  imdb: tt0092526
+sources:
+- https://www.wikidata.org/wiki/Q4060301
+schema_version: 1

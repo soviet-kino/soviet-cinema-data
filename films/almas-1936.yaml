@@ -1,0 +1,13 @@
+id: almas-1936
+title_ru: Алмас
+title_original: Алмас
+year: 1936
+country:
+- SU
+runtime_min: 65
+external_ids:
+  wikidata: Q12835676
+  imdb: tt0352159
+sources:
+- https://www.wikidata.org/wiki/Q12835676
+schema_version: 1

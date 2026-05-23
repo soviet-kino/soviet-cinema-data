@@ -1,0 +1,13 @@
+id: lermontov-film-1943-1943
+title_ru: Лермонтов (фильм, 1943)
+title_original: Лермонтов (фильм, 1943)
+year: 1943
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q15270708
+  imdb: tt0037015
+sources:
+- https://www.wikidata.org/wiki/Q15270708
+schema_version: 1

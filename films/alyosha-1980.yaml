@@ -1,0 +1,13 @@
+id: alyosha-1980
+title_ru: Алёша
+title_original: Алёша
+year: 1980
+country:
+- SU
+runtime_min: 72
+external_ids:
+  wikidata: Q4063801
+  imdb: tt0192967
+sources:
+- https://www.wikidata.org/wiki/Q4063801
+schema_version: 1

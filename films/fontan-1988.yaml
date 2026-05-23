@@ -1,0 +1,13 @@
+id: fontan-1988
+title_ru: Фонтан
+title_original: Фонтан
+year: 1988
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q4491749
+  imdb: tt0095167
+sources:
+- https://www.wikidata.org/wiki/Q4491749
+schema_version: 1

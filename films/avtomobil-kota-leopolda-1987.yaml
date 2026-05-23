@@ -1,0 +1,12 @@
+id: avtomobil-kota-leopolda-1987
+title_ru: Автомобиль кота Леопольда
+title_original: Автомобиль кота Леопольда
+year: 1987
+country:
+- SU
+external_ids:
+  wikidata: Q47010196
+  imdb: tt1081450
+sources:
+- https://www.wikidata.org/wiki/Q47010196
+schema_version: 1

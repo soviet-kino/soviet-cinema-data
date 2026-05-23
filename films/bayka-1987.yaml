@@ -1,0 +1,13 @@
+id: bayka-1987
+title_ru: Байка
+title_original: Байка
+year: 1987
+country:
+- SU
+runtime_min: 87
+external_ids:
+  wikidata: Q4075508
+  imdb: tt0286479
+sources:
+- https://www.wikidata.org/wiki/Q4075508
+schema_version: 1

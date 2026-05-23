@@ -1,0 +1,13 @@
+id: dnevnik-glumova-1923
+title_ru: Дневник Глумова
+title_original: Дневник Глумова
+year: 1923
+country:
+- SU
+runtime_min: 5
+external_ids:
+  wikidata: Q3223723
+  imdb: tt0013992
+sources:
+- https://www.wikidata.org/wiki/Q3223723
+schema_version: 1

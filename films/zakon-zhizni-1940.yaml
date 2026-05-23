@@ -1,0 +1,13 @@
+id: zakon-zhizni-1940
+title_ru: Закон жизни
+title_original: Закон жизни
+year: 1940
+country:
+- SU
+runtime_min: 101
+external_ids:
+  wikidata: Q23020108
+  imdb: tt0033293
+sources:
+- https://www.wikidata.org/wiki/Q23020108
+schema_version: 1

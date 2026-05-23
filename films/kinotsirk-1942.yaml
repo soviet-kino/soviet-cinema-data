@@ -1,0 +1,13 @@
+id: kinotsirk-1942
+title_ru: Киноцирк
+title_original: Киноцирк
+year: 1942
+country:
+- SU
+runtime_min: 4
+external_ids:
+  wikidata: Q4220957
+  imdb: tt1242750
+sources:
+- https://www.wikidata.org/wiki/Q4220957
+schema_version: 1

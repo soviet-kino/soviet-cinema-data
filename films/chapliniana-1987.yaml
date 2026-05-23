@@ -1,0 +1,13 @@
+id: chapliniana-1987
+title_ru: Чаплиниана
+title_original: Чаплиниана
+year: 1987
+country:
+- SU
+runtime_min: 68
+external_ids:
+  wikidata: Q15732538
+  imdb: tt0092741
+sources:
+- https://www.wikidata.org/wiki/Q15732538
+schema_version: 1

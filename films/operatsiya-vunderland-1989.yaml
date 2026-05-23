@@ -1,0 +1,13 @@
+id: operatsiya-vunderland-1989
+title_ru: Операция «Вундерланд»
+title_original: Операция «Вундерланд»
+year: 1989
+country:
+- SU
+runtime_min: 79
+external_ids:
+  wikidata: Q111462505
+  imdb: tt0286872
+sources:
+- https://www.wikidata.org/wiki/Q111462505
+schema_version: 1

@@ -1,0 +1,13 @@
+id: poedinok-1945
+title_ru: Поединок
+title_original: Поединок
+year: 1945
+country:
+- SU
+runtime_min: 76
+external_ids:
+  wikidata: Q4368544
+  imdb: tt0037914
+sources:
+- https://www.wikidata.org/wiki/Q4368544
+schema_version: 1

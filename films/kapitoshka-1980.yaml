@@ -1,0 +1,13 @@
+id: kapitoshka-1980
+title_ru: Капитошка
+title_original: Капитошка
+year: 1980
+country:
+- SU
+runtime_min: 520
+external_ids:
+  wikidata: Q4213009
+  imdb: tt5563508
+sources:
+- https://www.wikidata.org/wiki/Q4213009
+schema_version: 1

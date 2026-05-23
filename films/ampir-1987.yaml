@@ -1,0 +1,13 @@
+id: ampir-1987
+title_ru: Ампир
+title_original: Ампир
+year: 1987
+country:
+- SU
+runtime_min: 32
+external_ids:
+  wikidata: Q3796845
+  imdb: tt0092554
+sources:
+- https://www.wikidata.org/wiki/Q3796845
+schema_version: 1

@@ -1,0 +1,13 @@
+id: ispytateli-film-1987
+title_ru: Испытатели (фильм)
+title_original: Испытатели (фильм)
+year: 1987
+country:
+- SU
+runtime_min: 89
+external_ids:
+  wikidata: Q126549450
+  imdb: tt5687086
+sources:
+- https://www.wikidata.org/wiki/Q126549450
+schema_version: 1

@@ -1,0 +1,13 @@
+id: istrebiteli-1939
+title_ru: Истребители
+title_original: Истребители
+year: 1939
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q4205120
+  imdb: tt0031498
+sources:
+- https://www.wikidata.org/wiki/Q4205120
+schema_version: 1

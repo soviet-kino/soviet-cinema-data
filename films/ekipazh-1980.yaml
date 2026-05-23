@@ -1,0 +1,13 @@
+id: ekipazh-1980
+title_ru: Экипаж
+title_original: Экипаж
+year: 1980
+country:
+- SU
+runtime_min: 124
+external_ids:
+  wikidata: Q4530224
+  imdb: tt0134633
+sources:
+- https://www.wikidata.org/wiki/Q4530224
+schema_version: 1

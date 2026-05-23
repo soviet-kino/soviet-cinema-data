@@ -1,0 +1,13 @@
+id: kreyser-varyag-1946
+title_ru: Крейсер «Варяг»
+title_original: Крейсер «Варяг»
+year: 1946
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4240023
+  imdb: tt0177893
+sources:
+- https://www.wikidata.org/wiki/Q4240023
+schema_version: 1

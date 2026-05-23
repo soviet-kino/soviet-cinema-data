@@ -1,0 +1,13 @@
+id: my-vesely-schastlivy-talantlivy-1987
+title_ru: Мы веселы, счастливы, талантливы!
+title_original: Мы веселы, счастливы, талантливы!
+year: 1987
+country:
+- SU
+runtime_min: 93
+external_ids:
+  wikidata: Q108678483
+  imdb: tt0091586
+sources:
+- https://www.wikidata.org/wiki/Q108678483
+schema_version: 1

@@ -1,0 +1,13 @@
+id: aelita-1924
+title_ru: Аэлита
+title_original: Аэлита
+year: 1924
+country:
+- SU
+runtime_min: 111
+external_ids:
+  wikidata: Q380803
+  imdb: tt0014646
+sources:
+- https://www.wikidata.org/wiki/Q380803
+schema_version: 1

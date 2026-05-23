@@ -1,0 +1,13 @@
+id: naznachenie-1980
+title_ru: Назначение
+title_original: Назначение
+year: 1980
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q4312322
+  imdb: tt0141649
+sources:
+- https://www.wikidata.org/wiki/Q4312322
+schema_version: 1

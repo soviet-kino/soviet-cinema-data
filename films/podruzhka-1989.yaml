@@ -1,0 +1,13 @@
+id: podruzhka-1989
+title_ru: Подружка
+title_original: Подружка
+year: 1989
+country:
+- SU
+runtime_min: 619
+external_ids:
+  wikidata: Q4368262
+  imdb: tt1934365
+sources:
+- https://www.wikidata.org/wiki/Q4368262
+schema_version: 1

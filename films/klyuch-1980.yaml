@@ -1,0 +1,13 @@
+id: klyuch-1980
+title_ru: Ключ
+title_original: Ключ
+year: 1980
+country:
+- SU
+runtime_min: 134
+external_ids:
+  wikidata: Q4224361
+  imdb: tt0230420
+sources:
+- https://www.wikidata.org/wiki/Q4224361
+schema_version: 1

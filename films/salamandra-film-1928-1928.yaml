@@ -1,0 +1,13 @@
+id: salamandra-film-1928-1928
+title_ru: Саламандра (фильм, 1928)
+title_original: Саламандра (фильм, 1928)
+year: 1928
+country:
+- SU
+runtime_min: 90
+external_ids:
+  wikidata: Q22976725
+  imdb: tt0020357
+sources:
+- https://www.wikidata.org/wiki/Q22976725
+schema_version: 1

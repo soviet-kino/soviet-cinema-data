@@ -1,0 +1,13 @@
+id: fuete-1986
+title_ru: Фуэте
+title_original: Фуэте
+year: 1986
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q4493784
+  imdb: tt0128223
+sources:
+- https://www.wikidata.org/wiki/Q4493784
+schema_version: 1

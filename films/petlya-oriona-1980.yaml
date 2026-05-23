@@ -1,0 +1,13 @@
+id: petlya-oriona-1980
+title_ru: Петля Ориона
+title_original: Петля Ориона
+year: 1980
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q4360337
+  imdb: tt0230634
+sources:
+- https://www.wikidata.org/wiki/Q4360337
+schema_version: 1

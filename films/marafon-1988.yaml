@@ -1,0 +1,13 @@
+id: marafon-1988
+title_ru: Марафон
+title_original: Марафон
+year: 1988
+country:
+- SU
+runtime_min: 226
+external_ids:
+  wikidata: Q18401841
+  imdb: tt2963460
+sources:
+- https://www.wikidata.org/wiki/Q18401841
+schema_version: 1

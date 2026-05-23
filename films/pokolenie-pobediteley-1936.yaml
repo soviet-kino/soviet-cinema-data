@@ -1,0 +1,13 @@
+id: pokolenie-pobediteley-1936
+title_ru: Поколение победителей
+title_original: Поколение победителей
+year: 1936
+country:
+- SU
+runtime_min: 100
+external_ids:
+  wikidata: Q108759239
+  imdb: tt0028116
+sources:
+- https://www.wikidata.org/wiki/Q108759239
+schema_version: 1

@@ -1,0 +1,13 @@
+id: saba-film-1929
+title_ru: Саба (фильм)
+title_original: Саба (фильм)
+year: 1929
+country:
+- SU
+runtime_min: 72
+external_ids:
+  wikidata: Q12149913
+  imdb: tt0020354
+sources:
+- https://www.wikidata.org/wiki/Q12149913
+schema_version: 1

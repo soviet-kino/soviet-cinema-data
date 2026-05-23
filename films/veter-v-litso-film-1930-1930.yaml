@@ -1,0 +1,13 @@
+id: veter-v-litso-film-1930-1930
+title_ru: Ветер в лицо (фильм, 1930)
+title_original: Ветер в лицо (фильм, 1930)
+year: 1930
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q4109958
+  imdb: tt0171887
+sources:
+- https://www.wikidata.org/wiki/Q4109958
+schema_version: 1

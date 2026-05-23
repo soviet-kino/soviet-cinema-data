@@ -1,0 +1,13 @@
+id: eksperiment-1988
+title_ru: Эксперимент
+title_original: Эксперимент
+year: 1988
+country:
+- SU
+runtime_min: 465
+external_ids:
+  wikidata: Q4530563
+  imdb: tt8779016
+sources:
+- https://www.wikidata.org/wiki/Q4530563
+schema_version: 1

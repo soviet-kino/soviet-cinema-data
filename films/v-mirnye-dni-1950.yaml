@@ -1,0 +1,13 @@
+id: v-mirnye-dni-1950
+title_ru: В мирные дни
+title_original: В мирные дни
+year: 1950
+country:
+- SU
+runtime_min: 92
+external_ids:
+  wikidata: Q4101737
+  imdb: tt0043095
+sources:
+- https://www.wikidata.org/wiki/Q4101737
+schema_version: 1

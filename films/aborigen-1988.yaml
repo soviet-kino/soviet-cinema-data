@@ -1,0 +1,13 @@
+id: aborigen-1988
+title_ru: Абориген
+title_original: Абориген
+year: 1988
+country:
+- SU
+runtime_min: 132
+external_ids:
+  wikidata: Q4054845
+  imdb: tt0147816
+sources:
+- https://www.wikidata.org/wiki/Q4054845
+schema_version: 1

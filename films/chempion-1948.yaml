@@ -1,0 +1,13 @@
+id: chempion-1948
+title_ru: Чемпион
+title_original: Чемпион
+year: 1948
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4508862
+  imdb: tt6253352
+sources:
+- https://www.wikidata.org/wiki/Q4508862
+schema_version: 1

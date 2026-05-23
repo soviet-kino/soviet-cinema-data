@@ -1,0 +1,13 @@
+id: vremya-svidaniy-1986
+title_ru: Время свиданий
+title_original: Время свиданий
+year: 1986
+country:
+- SU
+runtime_min: 64
+external_ids:
+  wikidata: Q109196278
+  imdb: tt1742205
+sources:
+- https://www.wikidata.org/wiki/Q109196278
+schema_version: 1

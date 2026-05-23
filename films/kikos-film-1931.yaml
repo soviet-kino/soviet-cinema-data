@@ -1,0 +1,13 @@
+id: kikos-film-1931
+title_ru: Кикос (фильм)
+title_original: Кикос (фильм)
+year: 1931
+country:
+- SU
+runtime_min: 53
+external_ids:
+  wikidata: Q16385703
+  imdb: tt0359555
+sources:
+- https://www.wikidata.org/wiki/Q16385703
+schema_version: 1

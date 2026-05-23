@@ -1,0 +1,13 @@
+id: po-zakonu-1926
+title_ru: По закону
+title_original: По закону
+year: 1926
+country:
+- SU
+runtime_min: 80
+external_ids:
+  wikidata: Q477602
+  imdb: tt0017271
+sources:
+- https://www.wikidata.org/wiki/Q477602
+schema_version: 1

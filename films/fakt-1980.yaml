@@ -1,0 +1,13 @@
+id: fakt-1980
+title_ru: Факт
+title_original: Факт
+year: 1980
+country:
+- SU
+runtime_min: 91
+external_ids:
+  wikidata: Q1990335
+  imdb: tt0150497
+sources:
+- https://www.wikidata.org/wiki/Q1990335
+schema_version: 1

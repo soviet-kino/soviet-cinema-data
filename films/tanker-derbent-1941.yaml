@@ -1,0 +1,13 @@
+id: tanker-derbent-1941
+title_ru: Танкер «Дербент»
+title_original: Танкер «Дербент»
+year: 1941
+country:
+- SU
+runtime_min: 83
+external_ids:
+  wikidata: Q4451190
+  imdb: tt6680502
+sources:
+- https://www.wikidata.org/wiki/Q4451190
+schema_version: 1

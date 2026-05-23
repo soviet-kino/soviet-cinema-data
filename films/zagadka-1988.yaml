@@ -1,0 +1,13 @@
+id: zagadka-1988
+title_ru: Загадка
+title_original: Загадка
+year: 1988
+country:
+- SU
+runtime_min: 3
+external_ids:
+  wikidata: Q4183369
+  imdb: tt1377822
+sources:
+- https://www.wikidata.org/wiki/Q4183369
+schema_version: 1

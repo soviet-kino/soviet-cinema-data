@@ -1,0 +1,13 @@
+id: korova-1989
+title_ru: Корова
+title_original: Корова
+year: 1989
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q1214131
+  imdb: tt0097118
+sources:
+- https://www.wikidata.org/wiki/Q1214131
+schema_version: 1

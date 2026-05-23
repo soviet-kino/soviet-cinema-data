@@ -1,0 +1,13 @@
+id: urok-multfilm-1987
+title_ru: Урок (мультфильм)
+title_original: Урок (мультфильм)
+year: 1987
+country:
+- SU
+runtime_min: 17
+external_ids:
+  wikidata: Q16220845
+  imdb: tt0476193
+sources:
+- https://www.wikidata.org/wiki/Q16220845
+schema_version: 1

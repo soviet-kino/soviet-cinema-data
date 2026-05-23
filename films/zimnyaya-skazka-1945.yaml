@@ -1,0 +1,13 @@
+id: zimnyaya-skazka-1945
+title_ru: Зимняя сказка
+title_original: Зимняя сказка
+year: 1945
+country:
+- SU
+runtime_min: 670
+external_ids:
+  wikidata: Q335341
+  imdb: tt8822366
+sources:
+- https://www.wikidata.org/wiki/Q335341
+schema_version: 1

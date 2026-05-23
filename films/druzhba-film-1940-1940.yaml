@@ -1,0 +1,13 @@
+id: druzhba-film-1940-1940
+title_ru: Дружба (фильм, 1940)
+title_original: Дружба (фильм, 1940)
+year: 1940
+country:
+- SU
+runtime_min: 85
+external_ids:
+  wikidata: Q12102522
+  imdb: tt0262611
+sources:
+- https://www.wikidata.org/wiki/Q12102522
+schema_version: 1

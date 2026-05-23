@@ -1,0 +1,13 @@
+id: zemlya-1930
+title_ru: Земля
+title_original: Земля
+year: 1930
+country:
+- SU
+runtime_min: 78
+external_ids:
+  wikidata: Q55188
+  imdb: tt0021571
+sources:
+- https://www.wikidata.org/wiki/Q55188
+schema_version: 1

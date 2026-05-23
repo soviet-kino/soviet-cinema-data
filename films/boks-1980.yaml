@@ -1,0 +1,13 @@
+id: boks-1980
+title_ru: Бокс
+title_original: Бокс
+year: 1980
+country:
+- SU
+runtime_min: 76
+external_ids:
+  wikidata: Q16514488
+  imdb: tt9274568
+sources:
+- https://www.wikidata.org/wiki/Q16514488
+schema_version: 1

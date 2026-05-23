@@ -1,0 +1,13 @@
+id: vozvrashchenie-multfilm-1980
+title_ru: Возвращение (мультфильм)
+title_original: Возвращение (мультфильм)
+year: 1980
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4114632
+  imdb: tt5894398
+sources:
+- https://www.wikidata.org/wiki/Q4114632
+schema_version: 1

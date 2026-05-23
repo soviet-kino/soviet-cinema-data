@@ -1,0 +1,13 @@
+id: ivan-1932
+title_ru: Иван
+title_original: Иван
+year: 1932
+country:
+- SU
+runtime_min: 103
+external_ids:
+  wikidata: Q4195538
+  imdb: tt0023071
+sources:
+- https://www.wikidata.org/wiki/Q4195538
+schema_version: 1

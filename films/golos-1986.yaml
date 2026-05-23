@@ -1,0 +1,12 @@
+id: golos-1986
+title_ru: Голос
+title_original: Голос
+year: 1986
+country:
+- SU
+runtime_min: 24
+external_ids:
+  wikidata: Q4142135
+sources:
+- https://www.wikidata.org/wiki/Q4142135
+schema_version: 1

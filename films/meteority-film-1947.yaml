@@ -1,0 +1,13 @@
+id: meteority-film-1947
+title_ru: Метеориты (фильм)
+title_original: Метеориты (фильм)
+year: 1947
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q28665877
+  imdb: tt0342768
+sources:
+- https://www.wikidata.org/wiki/Q28665877
+schema_version: 1

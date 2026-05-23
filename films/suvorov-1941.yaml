@@ -1,0 +1,13 @@
+id: suvorov-1941
+title_ru: Суворов
+title_original: Суворов
+year: 1941
+country:
+- SU
+runtime_min: 108
+external_ids:
+  wikidata: Q4445162
+  imdb: tt0033118
+sources:
+- https://www.wikidata.org/wiki/Q4445162
+schema_version: 1

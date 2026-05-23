@@ -1,0 +1,13 @@
+id: zaklyuchyonnye-1937
+title_ru: Заключённые
+title_original: Заключённые
+year: 1937
+country:
+- SU
+runtime_min: 95
+external_ids:
+  wikidata: Q4184722
+  imdb: tt0028528
+sources:
+- https://www.wikidata.org/wiki/Q4184722
+schema_version: 1

@@ -1,0 +1,13 @@
+id: turksib-1929
+title_ru: Турксиб
+title_original: Турксиб
+year: 1929
+country:
+- SU
+runtime_min: 57
+external_ids:
+  wikidata: Q4466186
+  imdb: tt0020523
+sources:
+- https://www.wikidata.org/wiki/Q4466186
+schema_version: 1

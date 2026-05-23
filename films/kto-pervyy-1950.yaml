@@ -1,0 +1,13 @@
+id: kto-pervyy-1950
+title_ru: Кто первый?
+title_original: Кто первый?
+year: 1950
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q4243398
+  imdb: tt6118508
+sources:
+- https://www.wikidata.org/wiki/Q4243398
+schema_version: 1

@@ -1,0 +1,12 @@
+id: pryzhok-1980
+title_ru: Прыжок
+title_original: Прыжок
+year: 1980
+country:
+- SU
+runtime_min: 10
+external_ids:
+  wikidata: Q112080115
+sources:
+- https://www.wikidata.org/wiki/Q112080115
+schema_version: 1
