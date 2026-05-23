@@ -1,0 +1,20 @@
+id: anzhelika-1964
+title_ru: Анжелика, маркиза ангелов
+title_original: Angélique, marquise des anges
+year: 1964
+country: [FR, IT, DE]
+runtime_min: 116
+genre: [adventure, melodrama, historical]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1968
+  title_ru: Анжелика — маркиза ангелов
+  dubbed: true
+  notes: >
+    Дубляж киностудии «Мосфильм». Первый фильм цикла; в советский
+    прокат вышли с купюрами эротических сцен.
+external_ids:
+  wikidata: Q94943
+sources:
+  - https://www.wikidata.org/wiki/Q94943
+schema_version: 1

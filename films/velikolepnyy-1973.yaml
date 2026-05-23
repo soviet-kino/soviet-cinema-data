@@ -1,0 +1,17 @@
+id: velikolepnyy-1973
+title_ru: Великолепный
+title_original: Le Magnifique
+year: 1973
+country: [FR, IT]
+runtime_min: 84
+genre: [comedy, adventure]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1976
+  title_ru: Великолепный
+  dubbed: true
+external_ids:
+  wikidata: Q2401518
+sources:
+  - https://www.wikidata.org/wiki/Q2401518
+schema_version: 1

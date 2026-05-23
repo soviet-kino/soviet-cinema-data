@@ -1,0 +1,21 @@
+id: zoloto-makkenny-1969
+title_ru: Золото Маккенны
+title_original: Mackenna's Gold
+year: 1969
+country: [US]
+runtime_min: 128
+genre: [adventure]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1974
+  title_ru: Золото Маккенны
+  dubbed: true
+  notes: >
+    В советском прокате стал одним из лидеров года; песня
+    «Old Turkey Buzzard» в дубляже превратилась в знаменитую
+    «Канюк-стервятник».
+external_ids:
+  wikidata: Q909910
+sources:
+  - https://www.wikidata.org/wiki/Q909910
+schema_version: 1

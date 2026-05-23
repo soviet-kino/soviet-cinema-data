@@ -1,0 +1,17 @@
+id: tutsi-1982
+title_ru: Тутси
+title_original: Tootsie
+year: 1982
+country: [US]
+runtime_min: 116
+genre: [comedy, drama]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1985
+  title_ru: Тутси
+  dubbed: true
+external_ids:
+  wikidata: Q221249
+sources:
+  - https://www.wikidata.org/wiki/Q221249
+schema_version: 1
