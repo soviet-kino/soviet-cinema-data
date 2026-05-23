@@ -15,7 +15,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: pip
+          # cache: pip — отключён: в data-репо нет requirements.txt /
+          # pyproject.toml, они в соседнем soviet-cinema-tools.
 
       # tools живут в соседнем репо. Ставим main — это согласованный с data
       # «релиз» валидатора. При несовместимых изменениях схемы выпускается
