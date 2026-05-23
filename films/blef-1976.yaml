@@ -1,0 +1,21 @@
+id: blef-1976
+title_ru: Блеф
+title_original: Bluff — storia di truffe e di imbroglioni
+title_en: The Con Artists
+year: 1976
+country: [IT]
+runtime_min: 116
+genre: [comedy]
+topics: [foreign-in-soviet-distribution]
+soviet_release:
+  year: 1980
+  title_ru: Блеф
+  dubbed: true
+  notes: >
+    Дубляж киностудии им. Горького. В советском прокате фильм имел
+    огромный успех; голос Челентано — Николай Караченцов.
+external_ids:
+  wikidata: Q489615
+sources:
+  - https://www.wikidata.org/wiki/Q489615
+schema_version: 1

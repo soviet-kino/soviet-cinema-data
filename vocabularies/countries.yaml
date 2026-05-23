@@ -66,3 +66,46 @@ values:
     name_en: Mongolian People's Republic
     period: [1924-11-26, 1992-02-12]
     wikidata: Q188268
+  # ---- Зарубежные страны (вне соцлагеря) ----
+  # Используются ТОЛЬКО для фильмов, выходивших в советский прокат через
+  # Госкино/Совэкспортфильм. Кодировка ISO 3166-1 alpha-2. Эти страны
+  # не входят в основной скоп проекта — только в раздел «зарубежное
+  # в советском прокате».
+  - code: IT
+    name_ru: Италия
+    name_en: Italy
+    wikidata: Q38
+  - code: FR
+    name_ru: Франция
+    name_en: France
+    wikidata: Q142
+  - code: US
+    name_ru: США
+    name_en: United States
+    wikidata: Q30
+  - code: GB
+    name_ru: Великобритания
+    name_en: United Kingdom
+    wikidata: Q145
+  - code: GR
+    name_ru: Греция
+    name_en: Greece
+    wikidata: Q41
+  - code: DE
+    name_ru: ФРГ
+    name_original: Bundesrepublik Deutschland
+    name_en: West Germany
+    period: [1949-05-23, 1990-10-03]
+    wikidata: Q713750
+  - code: JP
+    name_ru: Япония
+    name_en: Japan
+    wikidata: Q17
+  - code: ES
+    name_ru: Испания
+    name_en: Spain
+    wikidata: Q29
+  - code: IN
+    name_ru: Индия
+    name_en: India
+    wikidata: Q668
