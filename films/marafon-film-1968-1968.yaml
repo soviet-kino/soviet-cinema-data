@@ -1,0 +1,13 @@
+id: marafon-film-1968-1968
+title_ru: Марафон (фильм, 1968)
+title_original: Марафон (фильм, 1968)
+year: 1968
+country:
+- CS
+runtime_min: 100
+external_ids:
+  wikidata: Q6755067
+  imdb: tt0063274
+sources:
+- https://www.wikidata.org/wiki/Q6755067
+schema_version: 1

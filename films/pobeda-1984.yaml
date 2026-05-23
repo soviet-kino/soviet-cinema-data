@@ -1,0 +1,13 @@
+id: pobeda-1984
+title_ru: Победа
+title_original: Победа
+year: 1984
+country:
+- DD
+runtime_min: 160
+external_ids:
+  wikidata: Q4366188
+  imdb: tt0173000
+sources:
+- https://www.wikidata.org/wiki/Q4366188
+schema_version: 1

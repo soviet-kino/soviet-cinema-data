@@ -1,0 +1,13 @@
+id: solo-sanni-1980
+title_ru: Соло Санни
+title_original: Соло Санни
+year: 1980
+country:
+- DD
+runtime_min: 102
+external_ids:
+  wikidata: Q2299137
+  imdb: tt0079924
+sources:
+- https://www.wikidata.org/wiki/Q2299137
+schema_version: 1

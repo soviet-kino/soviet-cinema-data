@@ -1,0 +1,13 @@
+id: babushka-1940
+title_ru: Бабушка
+title_original: Бабушка
+year: 1940
+country:
+- CS
+runtime_min: 90
+external_ids:
+  wikidata: Q10859625
+  imdb: tt0032230
+sources:
+- https://www.wikidata.org/wiki/Q10859625
+schema_version: 1

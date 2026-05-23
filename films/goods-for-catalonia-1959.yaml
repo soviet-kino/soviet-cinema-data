@@ -1,0 +1,13 @@
+id: goods-for-catalonia-1959
+title_ru: Goods for Catalonia
+title_original: Goods for Catalonia
+year: 1959
+country:
+- DD
+runtime_min: 99
+external_ids:
+  wikidata: Q2549119
+  imdb: tt0053433
+sources:
+- https://www.wikidata.org/wiki/Q2549119
+schema_version: 1

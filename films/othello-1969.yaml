@@ -1,0 +1,13 @@
+id: othello-1969
+title_ru: Othello
+title_original: Othello
+year: 1969
+country:
+- DD
+runtime_min: 120
+external_ids:
+  wikidata: Q19297737
+  imdb: tt13299132
+sources:
+- https://www.wikidata.org/wiki/Q19297737
+schema_version: 1

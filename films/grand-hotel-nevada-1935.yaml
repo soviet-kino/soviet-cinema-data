@@ -1,0 +1,13 @@
+id: grand-hotel-nevada-1935
+title_ru: Grand Hotel Nevada
+title_original: Grand Hotel Nevada
+year: 1935
+country:
+- CS
+runtime_min: 95
+external_ids:
+  wikidata: Q39048287
+  imdb: tt0205098
+sources:
+- https://www.wikidata.org/wiki/Q39048287
+schema_version: 1

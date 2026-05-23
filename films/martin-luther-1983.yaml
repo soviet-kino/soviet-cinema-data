@@ -1,0 +1,13 @@
+id: martin-luther-1983
+title_ru: Martin Luther
+title_original: Martin Luther
+year: 1983
+country:
+- DD
+runtime_min: 450
+external_ids:
+  wikidata: Q1904487
+  imdb: tt0085054
+sources:
+- https://www.wikidata.org/wiki/Q1904487
+schema_version: 1

@@ -1,0 +1,13 @@
+id: trus-film-1961-1962
+title_ru: Трус (фильм, 1961)
+title_original: Трус (фильм, 1961)
+year: 1962
+country:
+- CS
+runtime_min: 98
+external_ids:
+  wikidata: Q67586847
+  imdb: tt0176338
+sources:
+- https://www.wikidata.org/wiki/Q67586847
+schema_version: 1

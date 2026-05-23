@@ -1,0 +1,13 @@
+id: moy-nulevoy-chas-1970
+title_ru: Мой нулевой час
+title_original: Мой нулевой час
+year: 1970
+country:
+- DD
+runtime_min: 92
+external_ids:
+  wikidata: Q1918019
+  imdb: tt0066067
+sources:
+- https://www.wikidata.org/wiki/Q1918019
+schema_version: 1

@@ -1,0 +1,13 @@
+id: russkie-idut-film-1968
+title_ru: Русские идут (фильм)
+title_original: Русские идут (фильм)
+year: 1968
+country:
+- DD
+runtime_min: 96
+external_ids:
+  wikidata: Q1215838
+  imdb: tt0067694
+sources:
+- https://www.wikidata.org/wiki/Q1215838
+schema_version: 1

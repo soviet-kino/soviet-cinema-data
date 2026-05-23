@@ -1,0 +1,13 @@
+id: red-fox-1973
+title_ru: Red Fox
+title_original: Red Fox
+year: 1973
+country:
+- DD
+runtime_min: 83
+external_ids:
+  wikidata: Q23565449
+  imdb: tt0124100
+sources:
+- https://www.wikidata.org/wiki/Q23565449
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-czech-year-1947
+title_ru: The Czech Year
+title_original: The Czech Year
+year: 1947
+country:
+- CS
+runtime_min: 78
+external_ids:
+  wikidata: Q3202116
+  imdb: tt0227528
+sources:
+- https://www.wikidata.org/wiki/Q3202116
+schema_version: 1

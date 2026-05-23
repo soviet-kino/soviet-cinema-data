@@ -1,0 +1,13 @@
+id: darek-1946
+title_ru: Dárek
+title_original: Dárek
+year: 1946
+country:
+- CS
+runtime_min: 15
+external_ids:
+  wikidata: Q3220721
+  imdb: tt0239325
+sources:
+- https://www.wikidata.org/wiki/Q3220721
+schema_version: 1

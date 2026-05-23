@@ -1,0 +1,13 @@
+id: born-in-45-1966
+title_ru: Born in '45
+title_original: Born in '45
+year: 1966
+country:
+- DD
+runtime_min: 94
+external_ids:
+  wikidata: Q1540387
+  imdb: tt0059325
+sources:
+- https://www.wikidata.org/wiki/Q1540387
+schema_version: 1

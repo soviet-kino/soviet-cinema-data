@@ -1,0 +1,13 @@
+id: experiment-1943
+title_ru: Experiment
+title_original: Experiment
+year: 1943
+country:
+- CS
+runtime_min: 104
+external_ids:
+  wikidata: Q5421081
+  imdb: tt0168744
+sources:
+- https://www.wikidata.org/wiki/Q5421081
+schema_version: 1

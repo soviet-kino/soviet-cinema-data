@@ -1,0 +1,13 @@
+id: der-fall-dr-wagner-1954
+title_ru: Der Fall Dr. Wagner
+title_original: Der Fall Dr. Wagner
+year: 1954
+country:
+- DD
+runtime_min: 90
+external_ids:
+  wikidata: Q2654897
+  imdb: tt0187001
+sources:
+- https://www.wikidata.org/wiki/Q2654897
+schema_version: 1

@@ -1,0 +1,13 @@
+id: a-big-case-1946
+title_ru: A Big Case
+title_original: A Big Case
+year: 1946
+country:
+- CS
+runtime_min: 80
+external_ids:
+  wikidata: Q123907826
+  imdb: tt0257252
+sources:
+- https://www.wikidata.org/wiki/Q123907826
+schema_version: 1

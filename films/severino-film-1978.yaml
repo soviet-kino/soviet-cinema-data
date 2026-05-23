@@ -1,0 +1,13 @@
+id: severino-film-1978
+title_ru: Северино (фильм)
+title_original: Северино (фильм)
+year: 1978
+country:
+- DD
+runtime_min: 87
+external_ids:
+  wikidata: Q1314584
+  imdb: tt0078237
+sources:
+- https://www.wikidata.org/wiki/Q1314584
+schema_version: 1

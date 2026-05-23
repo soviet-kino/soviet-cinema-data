@@ -1,0 +1,13 @@
+id: pacientka-dr-hegla-1940
+title_ru: Pacientka Dr. Hegla
+title_original: Pacientka Dr. Hegla
+year: 1940
+country:
+- CS
+runtime_min: 86
+external_ids:
+  wikidata: Q18640004
+  imdb: tt0176000
+sources:
+- https://www.wikidata.org/wiki/Q18640004
+schema_version: 1

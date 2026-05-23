@@ -1,0 +1,13 @@
+id: tatort-berlin-1958
+title_ru: Tatort Berlin
+title_original: Tatort Berlin
+year: 1958
+country:
+- DD
+runtime_min: 86
+external_ids:
+  wikidata: Q2396099
+  imdb: tt0173314
+sources:
+- https://www.wikidata.org/wiki/Q2396099
+schema_version: 1

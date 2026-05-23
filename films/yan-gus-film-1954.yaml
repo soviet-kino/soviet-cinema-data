@@ -1,0 +1,13 @@
+id: yan-gus-film-1954
+title_ru: Ян Гус (фильм)
+title_original: Ян Гус (фильм)
+year: 1954
+country:
+- CS
+runtime_min: 125
+external_ids:
+  wikidata: Q3467727
+  imdb: tt0047128
+sources:
+- https://www.wikidata.org/wiki/Q3467727
+schema_version: 1

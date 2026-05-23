@@ -1,0 +1,13 @@
+id: saturday-1945
+title_ru: Saturday
+title_original: Saturday
+year: 1945
+country:
+- CS
+runtime_min: 88
+external_ids:
+  wikidata: Q27958119
+  imdb: tt0279422
+sources:
+- https://www.wikidata.org/wiki/Q27958119
+schema_version: 1

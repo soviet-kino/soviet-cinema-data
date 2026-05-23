@@ -1,0 +1,13 @@
+id: the-second-track-1962
+title_ru: The Second Track
+title_original: The Second Track
+year: 1962
+country:
+- DD
+runtime_min: 80
+external_ids:
+  wikidata: Q1171762
+  imdb: tt0056727
+sources:
+- https://www.wikidata.org/wiki/Q1171762
+schema_version: 1

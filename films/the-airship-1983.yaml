@@ -1,0 +1,13 @@
+id: the-airship-1983
+title_ru: The Airship
+title_original: The Airship
+year: 1983
+country:
+- DD
+runtime_min: 117
+external_ids:
+  wikidata: Q23564735
+  imdb: tt0085876
+sources:
+- https://www.wikidata.org/wiki/Q23564735
+schema_version: 1

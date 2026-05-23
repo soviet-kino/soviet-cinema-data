@@ -1,0 +1,13 @@
+id: otel-patsifik-1975
+title_ru: Отель «Пацифик»
+title_original: Отель «Пацифик»
+year: 1975
+country:
+- CS
+runtime_min: 95
+external_ids:
+  wikidata: Q7848460
+  imdb: tt0075454
+sources:
+- https://www.wikidata.org/wiki/Q7848460
+schema_version: 1

@@ -1,0 +1,13 @@
+id: revizor-film-1933-1933
+title_ru: Ревизор (фильм, 1933)
+title_original: Ревизор (фильм, 1933)
+year: 1933
+country:
+- CS
+runtime_min: 72
+external_ids:
+  wikidata: Q7318560
+  imdb: tt0169175
+sources:
+- https://www.wikidata.org/wiki/Q7318560
+schema_version: 1

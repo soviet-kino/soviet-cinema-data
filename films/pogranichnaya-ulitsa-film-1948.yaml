@@ -1,0 +1,13 @@
+id: pogranichnaya-ulitsa-film-1948
+title_ru: Пограничная улица (фильм)
+title_original: Пограничная улица (фильм)
+year: 1948
+country:
+- CS
+runtime_min: 115
+external_ids:
+  wikidata: Q9365197
+  imdb: tt0041999
+sources:
+- https://www.wikidata.org/wiki/Q9365197
+schema_version: 1

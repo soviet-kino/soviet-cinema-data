@@ -1,0 +1,13 @@
+id: icarus-1979
+title_ru: Icarus
+title_original: Icarus
+year: 1979
+country:
+- DD
+runtime_min: 91
+external_ids:
+  wikidata: Q15819929
+  imdb: tt0073147
+sources:
+- https://www.wikidata.org/wiki/Q15819929
+schema_version: 1

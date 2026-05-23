@@ -1,0 +1,13 @@
+id: mayskaya-skazka-1940
+title_ru: Майская сказка
+title_original: Майская сказка
+year: 1940
+country:
+- CS
+runtime_min: 88
+external_ids:
+  wikidata: Q12046083
+  imdb: tt0152013
+sources:
+- https://www.wikidata.org/wiki/Q12046083
+schema_version: 1

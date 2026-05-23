@@ -1,0 +1,13 @@
+id: krik-film-1963-1964
+title_ru: Крик (фильм, 1963)
+title_original: Крик (фильм, 1963)
+year: 1964
+country:
+- CS
+runtime_min: 85
+external_ids:
+  wikidata: Q7728299
+  imdb: tt0122574
+sources:
+- https://www.wikidata.org/wiki/Q7728299
+schema_version: 1

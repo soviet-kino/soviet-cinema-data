@@ -1,0 +1,13 @@
+id: pianke-1983
+title_ru: Pianke
+title_original: Pianke
+year: 1983
+country:
+- DD
+runtime_min: 90
+external_ids:
+  wikidata: Q25016233
+  imdb: tt0125455
+sources:
+- https://www.wikidata.org/wiki/Q25016233
+schema_version: 1

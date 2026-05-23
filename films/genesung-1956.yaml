@@ -1,0 +1,13 @@
+id: genesung-1956
+title_ru: Genesung
+title_original: Genesung
+year: 1956
+country:
+- DD
+runtime_min: 105
+external_ids:
+  wikidata: Q5532850
+  imdb: tt0049255
+sources:
+- https://www.wikidata.org/wiki/Q5532850
+schema_version: 1

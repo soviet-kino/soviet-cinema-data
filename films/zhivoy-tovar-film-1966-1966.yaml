@@ -1,0 +1,13 @@
+id: zhivoy-tovar-film-1966-1966
+title_ru: Живой товар (фильм, 1966)
+title_original: Живой товар (фильм, 1966)
+year: 1966
+country:
+- DD
+runtime_min: 97
+external_ids:
+  wikidata: Q21141536
+  imdb: tt0230451
+sources:
+- https://www.wikidata.org/wiki/Q21141536
+schema_version: 1

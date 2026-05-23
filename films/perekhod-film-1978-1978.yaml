@@ -1,0 +1,13 @@
+id: perekhod-film-1978-1978
+title_ru: Переход (фильм, 1978)
+title_original: Переход (фильм, 1978)
+year: 1978
+country:
+- DD
+runtime_min: 78
+external_ids:
+  wikidata: Q31886944
+  imdb: tt0078555
+sources:
+- https://www.wikidata.org/wiki/Q31886944
+schema_version: 1

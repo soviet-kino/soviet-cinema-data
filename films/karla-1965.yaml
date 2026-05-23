@@ -1,0 +1,13 @@
+id: karla-1965
+title_ru: Karla
+title_original: Karla
+year: 1965
+country:
+- DD
+runtime_min: 128
+external_ids:
+  wikidata: Q1733724
+  imdb: tt0059349
+sources:
+- https://www.wikidata.org/wiki/Q1733724
+schema_version: 1

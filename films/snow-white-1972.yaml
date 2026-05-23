@@ -1,0 +1,13 @@
+id: snow-white-1972
+title_ru: Snow White
+title_original: Snow White
+year: 1972
+country:
+- CS
+runtime_min: 71
+external_ids:
+  wikidata: Q123575549
+  imdb: tt0174993
+sources:
+- https://www.wikidata.org/wiki/Q123575549
+schema_version: 1

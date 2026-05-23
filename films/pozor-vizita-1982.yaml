@@ -1,0 +1,13 @@
+id: pozor-vizita-1982
+title_ru: Pozor, vizita!
+title_original: Pozor, vizita!
+year: 1982
+country:
+- CS
+runtime_min: 88
+external_ids:
+  wikidata: Q12046648
+  imdb: tt0082937
+sources:
+- https://www.wikidata.org/wiki/Q12046648
+schema_version: 1

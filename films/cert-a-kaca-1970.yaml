@@ -1,0 +1,13 @@
+id: cert-a-kaca-1970
+title_ru: Čert a Káča
+title_original: Čert a Káča
+year: 1970
+country:
+- CS
+runtime_min: 42
+external_ids:
+  wikidata: Q11174831
+  imdb: tt6517430
+sources:
+- https://www.wikidata.org/wiki/Q11174831
+schema_version: 1

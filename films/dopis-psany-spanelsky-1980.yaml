@@ -1,0 +1,13 @@
+id: dopis-psany-spanelsky-1980
+title_ru: Dopis psaný španělsky
+title_original: Dopis psaný španělsky
+year: 1980
+country:
+- CS
+runtime_min: 64
+external_ids:
+  wikidata: Q126490790
+  imdb: tt1996235
+sources:
+- https://www.wikidata.org/wiki/Q126490790
+schema_version: 1

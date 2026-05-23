@@ -1,0 +1,13 @@
+id: die-schwarze-muhle-1975
+title_ru: Die schwarze Mühle
+title_original: Die schwarze Mühle
+year: 1975
+country:
+- DD
+runtime_min: 80
+external_ids:
+  wikidata: Q1219311
+  imdb: tt0073670
+sources:
+- https://www.wikidata.org/wiki/Q1219311
+schema_version: 1

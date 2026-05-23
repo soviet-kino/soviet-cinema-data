@@ -1,0 +1,13 @@
+id: chyornaya-subbota-film-1960
+title_ru: Чёрная суббота (фильм)
+title_original: Чёрная суббота (фильм)
+year: 1960
+country:
+- CS
+runtime_min: 71
+external_ids:
+  wikidata: Q8079731
+  imdb: tt1667066
+sources:
+- https://www.wikidata.org/wiki/Q8079731
+schema_version: 1

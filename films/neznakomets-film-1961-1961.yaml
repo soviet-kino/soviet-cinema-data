@@ -1,0 +1,13 @@
+id: neznakomets-film-1961-1961
+title_ru: Незнакомец (фильм, 1961)
+title_original: Незнакомец (фильм, 1961)
+year: 1961
+country:
+- DD
+runtime_min: 80
+external_ids:
+  wikidata: Q1193551
+  imdb: tt0189532
+sources:
+- https://www.wikidata.org/wiki/Q1193551
+schema_version: 1

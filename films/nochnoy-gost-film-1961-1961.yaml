@@ -1,0 +1,13 @@
+id: nochnoy-gost-film-1961-1961
+title_ru: Ночной гость (фильм, 1961)
+title_original: Ночной гость (фильм, 1961)
+year: 1961
+country:
+- CS
+runtime_min: 105
+external_ids:
+  wikidata: Q86010198
+  imdb: tt0055238
+sources:
+- https://www.wikidata.org/wiki/Q86010198
+schema_version: 1

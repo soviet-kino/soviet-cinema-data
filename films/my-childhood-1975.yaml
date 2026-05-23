@@ -1,0 +1,12 @@
+id: my-childhood-1975
+title_ru: My Childhood
+title_original: My Childhood
+year: 1975
+country:
+- DD
+external_ids:
+  wikidata: Q39663625
+  imdb: tt0072673
+sources:
+- https://www.wikidata.org/wiki/Q39663625
+schema_version: 1

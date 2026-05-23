@@ -1,0 +1,12 @@
+id: hotel-majestic-1968
+title_ru: Hotel Majestic
+title_original: Hotel Majestic
+year: 1968
+country:
+- CS
+runtime_min: 65
+external_ids:
+  wikidata: Q119873029
+sources:
+- https://www.wikidata.org/wiki/Q119873029
+schema_version: 1

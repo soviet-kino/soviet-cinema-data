@@ -1,0 +1,13 @@
+id: bohuslav-martinu-movie-1980
+title_ru: Bohuslav Martinu (movie)
+title_original: Bohuslav Martinu (movie)
+year: 1980
+country:
+- CS
+runtime_min: 37
+external_ids:
+  wikidata: Q116687620
+  imdb: tt0171125
+sources:
+- https://www.wikidata.org/wiki/Q116687620
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-hit-1980
+title_ru: The Hit
+title_original: The Hit
+year: 1980
+country:
+- CS
+runtime_min: 94
+external_ids:
+  wikidata: Q12059641
+  imdb: tt0081655
+sources:
+- https://www.wikidata.org/wiki/Q12059641
+schema_version: 1

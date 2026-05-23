@@ -1,0 +1,12 @@
+id: martin-luther-1981
+title_ru: Martin Luther
+title_original: Martin Luther
+year: 1981
+country:
+- DD
+runtime_min: 32
+external_ids:
+  wikidata: Q29539914
+sources:
+- https://www.wikidata.org/wiki/Q29539914
+schema_version: 1

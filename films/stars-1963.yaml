@@ -1,0 +1,13 @@
+id: stars-1963
+title_ru: Stars
+title_original: Stars
+year: 1963
+country:
+- DD
+runtime_min: 18
+external_ids:
+  wikidata: Q28790920
+  imdb: tt0417163
+sources:
+- https://www.wikidata.org/wiki/Q28790920
+schema_version: 1

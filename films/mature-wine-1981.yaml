@@ -1,0 +1,13 @@
+id: mature-wine-1981
+title_ru: Mature Wine
+title_original: Mature Wine
+year: 1981
+country:
+- CS
+runtime_min: 91
+external_ids:
+  wikidata: Q28359841
+  imdb: tt0138954
+sources:
+- https://www.wikidata.org/wiki/Q28359841
+schema_version: 1

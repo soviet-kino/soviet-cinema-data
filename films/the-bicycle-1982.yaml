@@ -1,0 +1,13 @@
+id: the-bicycle-1982
+title_ru: The Bicycle
+title_original: The Bicycle
+year: 1982
+country:
+- DD
+runtime_min: 90
+external_ids:
+  wikidata: Q1167775
+  imdb: tt0765055
+sources:
+- https://www.wikidata.org/wiki/Q1167775
+schema_version: 1

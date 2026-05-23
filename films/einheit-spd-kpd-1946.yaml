@@ -1,0 +1,13 @@
+id: einheit-spd-kpd-1946
+title_ru: Einheit SPD-KPD
+title_original: Einheit SPD-KPD
+year: 1946
+country:
+- DD
+runtime_min: 20
+external_ids:
+  wikidata: Q5349752
+  imdb: tt0447012
+sources:
+- https://www.wikidata.org/wiki/Q5349752
+schema_version: 1

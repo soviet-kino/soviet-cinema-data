@@ -1,0 +1,13 @@
+id: morgiana-1972
+title_ru: Моргиана
+title_original: Моргиана
+year: 1972
+country:
+- CS
+runtime_min: 100
+external_ids:
+  wikidata: Q3324046
+  imdb: tt0124012
+sources:
+- https://www.wikidata.org/wiki/Q3324046
+schema_version: 1

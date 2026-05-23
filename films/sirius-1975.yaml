@@ -1,0 +1,13 @@
+id: sirius-1975
+title_ru: Sirius
+title_original: Sirius
+year: 1975
+country:
+- CS
+runtime_min: 50
+external_ids:
+  wikidata: Q47538149
+  imdb: tt0176146
+sources:
+- https://www.wikidata.org/wiki/Q47538149
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-virgin-1940
+title_ru: The Virgin
+title_original: The Virgin
+year: 1940
+country:
+- CS
+runtime_min: 79
+external_ids:
+  wikidata: Q12043716
+  imdb: tt0170352
+sources:
+- https://www.wikidata.org/wiki/Q12043716
+schema_version: 1

@@ -1,0 +1,13 @@
+id: burlyashchee-vino-1976
+title_ru: Бурлящее вино
+title_original: Бурлящее вино
+year: 1976
+country:
+- CS
+runtime_min: 128
+external_ids:
+  wikidata: Q11237995
+  imdb: tt0156377
+sources:
+- https://www.wikidata.org/wiki/Q11237995
+schema_version: 1

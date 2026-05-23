@@ -1,0 +1,13 @@
+id: bomba-1957
+title_ru: Бомба
+title_original: Бомба
+year: 1957
+country:
+- CS
+runtime_min: 80
+external_ids:
+  wikidata: Q112325784
+  imdb: tt0169634
+sources:
+- https://www.wikidata.org/wiki/Q112325784
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kopernik-1973
+title_ru: Коперник
+title_original: Коперник
+year: 1973
+country:
+- DD
+runtime_min: 128
+external_ids:
+  wikidata: Q4232309
+  imdb: tt0070278
+sources:
+- https://www.wikidata.org/wiki/Q4232309
+schema_version: 1

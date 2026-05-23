@@ -1,0 +1,13 @@
+id: delo-blyuma-1948
+title_ru: Дело Блюма
+title_original: Дело Блюма
+year: 1948
+country:
+- DD
+runtime_min: 106
+external_ids:
+  wikidata: Q382171
+  imdb: tt0040079
+sources:
+- https://www.wikidata.org/wiki/Q382171
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-tale-of-john-and-mary-1980
+title_ru: The Tale of John and Mary
+title_original: The Tale of John and Mary
+year: 1980
+country:
+- CS
+runtime_min: 65
+external_ids:
+  wikidata: Q18209842
+  imdb: tt0081350
+sources:
+- https://www.wikidata.org/wiki/Q18209842
+schema_version: 1

@@ -1,0 +1,12 @@
+id: musicians-song-1980
+title_ru: Musician's Song
+title_original: Musician's Song
+year: 1980
+country:
+- CS
+runtime_min: 10
+external_ids:
+  wikidata: Q56868201
+sources:
+- https://www.wikidata.org/wiki/Q56868201
+schema_version: 1

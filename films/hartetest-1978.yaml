@@ -1,0 +1,13 @@
+id: hartetest-1978
+title_ru: Härtetest
+title_original: Härtetest
+year: 1978
+country:
+- DD
+runtime_min: 72
+external_ids:
+  wikidata: Q30116309
+  imdb: tt1074539
+sources:
+- https://www.wikidata.org/wiki/Q30116309
+schema_version: 1

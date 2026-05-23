@@ -1,0 +1,13 @@
+id: gde-to-v-berline-1946
+title_ru: Где-то в Берлине
+title_original: Где-то в Берлине
+year: 1946
+country:
+- DD
+runtime_min: 85
+external_ids:
+  wikidata: Q1672620
+  imdb: tt0038646
+sources:
+- https://www.wikidata.org/wiki/Q1672620
+schema_version: 1

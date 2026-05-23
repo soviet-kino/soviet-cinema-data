@@ -1,0 +1,13 @@
+id: ursula-1978
+title_ru: Ursula
+title_original: Ursula
+year: 1978
+country:
+- DD
+runtime_min: 111
+external_ids:
+  wikidata: Q2501493
+  imdb: tt0078448
+sources:
+- https://www.wikidata.org/wiki/Q2501493
+schema_version: 1

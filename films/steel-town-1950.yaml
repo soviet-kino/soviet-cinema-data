@@ -1,0 +1,13 @@
+id: steel-town-1950
+title_ru: Steel Town
+title_original: Steel Town
+year: 1950
+country:
+- CS
+runtime_min: 85
+external_ids:
+  wikidata: Q7605728
+  imdb: tt0169408
+sources:
+- https://www.wikidata.org/wiki/Q7605728
+schema_version: 1

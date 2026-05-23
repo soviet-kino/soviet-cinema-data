@@ -1,0 +1,12 @@
+id: hallo-taxi-1974
+title_ru: Hallo Taxi
+title_original: Hallo Taxi
+year: 1974
+country:
+- DD
+external_ids:
+  wikidata: Q103866320
+  imdb: tt0380402
+sources:
+- https://www.wikidata.org/wiki/Q103866320
+schema_version: 1

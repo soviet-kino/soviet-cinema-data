@@ -1,0 +1,13 @@
+id: ognivo-film-1959-1959
+title_ru: Огниво (фильм, 1959)
+title_original: Огниво (фильм, 1959)
+year: 1959
+country:
+- DD
+runtime_min: 83
+external_ids:
+  wikidata: Q1167846
+  imdb: tt0051611
+sources:
+- https://www.wikidata.org/wiki/Q1167846
+schema_version: 1

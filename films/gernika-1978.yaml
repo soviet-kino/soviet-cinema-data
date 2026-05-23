@@ -1,0 +1,13 @@
+id: gernika-1978
+title_ru: Герника
+title_original: Герника
+year: 1978
+country:
+- CS
+runtime_min: 25
+external_ids:
+  wikidata: Q2063677
+  imdb: tt0172520
+sources:
+- https://www.wikidata.org/wiki/Q2063677
+schema_version: 1

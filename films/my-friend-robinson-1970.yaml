@@ -1,0 +1,13 @@
+id: my-friend-robinson-1970
+title_ru: My Friend Robinson
+title_original: My Friend Robinson
+year: 1970
+country:
+- DD
+runtime_min: 78
+external_ids:
+  wikidata: Q15834754
+  imdb: tt0067416
+sources:
+- https://www.wikidata.org/wiki/Q15834754
+schema_version: 1

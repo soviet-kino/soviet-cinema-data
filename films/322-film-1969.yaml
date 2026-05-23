@@ -1,0 +1,13 @@
+id: 322-film-1969
+title_ru: 322 (фильм)
+title_original: 322 (фильм)
+year: 1969
+country:
+- CS
+runtime_min: 95
+external_ids:
+  wikidata: Q10214481
+  imdb: tt0124969
+sources:
+- https://www.wikidata.org/wiki/Q10214481
+schema_version: 1

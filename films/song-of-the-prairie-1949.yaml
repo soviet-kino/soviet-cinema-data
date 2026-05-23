@@ -1,0 +1,13 @@
+id: song-of-the-prairie-1949
+title_ru: Song of the Prairie
+title_original: Song of the Prairie
+year: 1949
+country:
+- CS
+runtime_min: 23
+external_ids:
+  wikidata: Q3221002
+  imdb: tt0247179
+sources:
+- https://www.wikidata.org/wiki/Q3221002
+schema_version: 1

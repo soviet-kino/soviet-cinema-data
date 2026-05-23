@@ -1,0 +1,13 @@
+id: le-chansonnier-1932
+title_ru: Le Chansonnier
+title_original: Le Chansonnier
+year: 1932
+country:
+- CS
+runtime_min: 101
+external_ids:
+  wikidata: Q16653479
+  imdb: tt0282873
+sources:
+- https://www.wikidata.org/wiki/Q16653479
+schema_version: 1

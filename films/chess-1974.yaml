@@ -1,0 +1,12 @@
+id: chess-1974
+title_ru: Chess
+title_original: Chess
+year: 1974
+country:
+- CS
+runtime_min: 5
+external_ids:
+  wikidata: Q56878094
+sources:
+- https://www.wikidata.org/wiki/Q56878094
+schema_version: 1

@@ -1,0 +1,13 @@
+id: kocka-1982
+title_ru: Kočka
+title_original: Kočka
+year: 1982
+country:
+- CS
+runtime_min: 78
+external_ids:
+  wikidata: Q12769630
+  imdb: tt1499667
+sources:
+- https://www.wikidata.org/wiki/Q12769630
+schema_version: 1

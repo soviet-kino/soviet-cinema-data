@@ -1,0 +1,13 @@
+id: all-my-girls-1980
+title_ru: All My Girls
+title_original: All My Girls
+year: 1980
+country:
+- DD
+runtime_min: 86
+external_ids:
+  wikidata: Q2648167
+  imdb: tt0171054
+sources:
+- https://www.wikidata.org/wiki/Q2648167
+schema_version: 1

@@ -1,0 +1,13 @@
+id: dedushka-avtomobil-1957
+title_ru: Дедушка-автомобиль
+title_original: Дедушка-автомобиль
+year: 1957
+country:
+- CS
+runtime_min: 94
+external_ids:
+  wikidata: Q15916672
+  imdb: tt0050297
+sources:
+- https://www.wikidata.org/wiki/Q15916672
+schema_version: 1

@@ -1,0 +1,13 @@
+id: zoo-film-1968
+title_ru: Zoo Film
+title_original: Zoo Film
+year: 1968
+country:
+- DD
+runtime_min: 19
+external_ids:
+  wikidata: Q113335885
+  imdb: tt0417199
+sources:
+- https://www.wikidata.org/wiki/Q113335885
+schema_version: 1

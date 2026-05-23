@@ -1,0 +1,13 @@
+id: heroin-1969
+title_ru: Heroin
+title_original: Heroin
+year: 1969
+country:
+- DD
+runtime_min: 88
+external_ids:
+  wikidata: Q1613782
+  imdb: tt0230287
+sources:
+- https://www.wikidata.org/wiki/Q1613782
+schema_version: 1

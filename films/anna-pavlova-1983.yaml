@@ -1,0 +1,13 @@
+id: anna-pavlova-1983
+title_ru: Анна Павлова
+title_original: Анна Павлова
+year: 1983
+country:
+- DD
+runtime_min: 151
+external_ids:
+  wikidata: Q1964256
+  imdb: tt0086089
+sources:
+- https://www.wikidata.org/wiki/Q1964256
+schema_version: 1

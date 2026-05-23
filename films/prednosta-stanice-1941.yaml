@@ -1,0 +1,13 @@
+id: prednosta-stanice-1941
+title_ru: Přednosta stanice
+title_original: Přednosta stanice
+year: 1941
+country:
+- CS
+runtime_min: 88
+external_ids:
+  wikidata: Q7265201
+  imdb: tt0152058
+sources:
+- https://www.wikidata.org/wiki/Q7265201
+schema_version: 1

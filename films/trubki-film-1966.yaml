@@ -1,0 +1,13 @@
+id: trubki-film-1966
+title_ru: Трубки (фильм)
+title_original: Трубки (фильм)
+year: 1966
+country:
+- CS
+runtime_min: 77
+external_ids:
+  wikidata: Q7757242
+  imdb: tt0060829
+sources:
+- https://www.wikidata.org/wiki/Q7757242
+schema_version: 1

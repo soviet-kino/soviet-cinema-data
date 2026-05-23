@@ -1,0 +1,13 @@
+id: 1-3-4-1974
+title_ru: 1 + 3 = 4
+title_original: 1 + 3 = 4
+year: 1974
+country:
+- CS
+runtime_min: 89
+external_ids:
+  wikidata: Q27588607
+  imdb: tt0183921
+sources:
+- https://www.wikidata.org/wiki/Q27588607
+schema_version: 1
