@@ -1,0 +1,13 @@
+id: the-house-1975
+title_ru: The House
+title_original: The House
+year: 1975
+country:
+- YU
+runtime_min: 92
+external_ids:
+  wikidata: Q3506348
+  imdb: tt0073255
+sources:
+- https://www.wikidata.org/wiki/Q3506348
+schema_version: 1

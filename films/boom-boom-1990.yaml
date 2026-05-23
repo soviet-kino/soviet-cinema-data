@@ -1,0 +1,13 @@
+id: boom-boom-1990
+title_ru: Boom boom
+title_original: Boom boom
+year: 1990
+country:
+- BG
+runtime_min: 90
+external_ids:
+  wikidata: Q67088609
+  imdb: tt0099167
+sources:
+- https://www.wikidata.org/wiki/Q67088609
+schema_version: 1

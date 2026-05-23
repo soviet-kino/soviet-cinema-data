@@ -1,0 +1,13 @@
+id: dzien-dziecka-1982
+title_ru: Dzien dziecka
+title_original: Dzien dziecka
+year: 1982
+country:
+- PL
+runtime_min: 16
+external_ids:
+  wikidata: Q64482965
+  imdb: tt1074955
+sources:
+- https://www.wikidata.org/wiki/Q64482965
+schema_version: 1

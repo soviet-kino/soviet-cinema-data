@@ -1,0 +1,13 @@
+id: zielone-lata-1980
+title_ru: Zielone lata
+title_original: Zielone lata
+year: 1980
+country:
+- PL
+runtime_min: 102
+external_ids:
+  wikidata: Q9391003
+  imdb: tt0081805
+sources:
+- https://www.wikidata.org/wiki/Q9391003
+schema_version: 1

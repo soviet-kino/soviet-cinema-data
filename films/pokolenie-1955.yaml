@@ -1,0 +1,13 @@
+id: pokolenie-1955
+title_ru: Поколение
+title_original: Поколение
+year: 1955
+country:
+- PL
+runtime_min: 83
+external_ids:
+  wikidata: Q1306396
+  imdb: tt0048500
+sources:
+- https://www.wikidata.org/wiki/Q1306396
+schema_version: 1

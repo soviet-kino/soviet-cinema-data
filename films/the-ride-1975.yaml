@@ -1,0 +1,13 @@
+id: the-ride-1975
+title_ru: The Ride
+title_original: The Ride
+year: 1975
+country:
+- RO
+runtime_min: 95
+external_ids:
+  wikidata: Q29581183
+  imdb: tt0072838
+sources:
+- https://www.wikidata.org/wiki/Q29581183
+schema_version: 1

@@ -1,0 +1,13 @@
+id: archaeology-1967
+title_ru: Archaeology
+title_original: Archaeology
+year: 1967
+country:
+- PL
+runtime_min: 14
+external_ids:
+  wikidata: Q9158966
+  imdb: tt0826032
+sources:
+- https://www.wikidata.org/wiki/Q9158966
+schema_version: 1

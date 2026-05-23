@@ -1,0 +1,13 @@
+id: inauguration-1969
+title_ru: Inauguration
+title_original: Inauguration
+year: 1969
+country:
+- HU
+runtime_min: 5
+external_ids:
+  wikidata: Q23899726
+  imdb: tt0361727
+sources:
+- https://www.wikidata.org/wiki/Q23899726
+schema_version: 1

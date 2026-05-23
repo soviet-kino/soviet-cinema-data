@@ -1,0 +1,13 @@
+id: pepel-1965
+title_ru: Пепел
+title_original: Пепел
+year: 1965
+country:
+- PL
+runtime_min: 234
+external_ids:
+  wikidata: Q1962887
+  imdb: tt0060847
+sources:
+- https://www.wikidata.org/wiki/Q1962887
+schema_version: 1

@@ -1,0 +1,13 @@
+id: film-o-lyubvi-1970
+title_ru: Фильм о любви
+title_original: Фильм о любви
+year: 1970
+country:
+- HU
+runtime_min: 123
+external_ids:
+  wikidata: Q1297551
+  imdb: tt0066429
+sources:
+- https://www.wikidata.org/wiki/Q1297551
+schema_version: 1

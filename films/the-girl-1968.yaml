@@ -1,0 +1,13 @@
+id: the-girl-1968
+title_ru: The Girl
+title_original: The Girl
+year: 1968
+country:
+- HU
+runtime_min: 80
+external_ids:
+  wikidata: Q108085261
+  imdb: tt0062931
+sources:
+- https://www.wikidata.org/wiki/Q108085261
+schema_version: 1

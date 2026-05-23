@@ -1,0 +1,13 @@
+id: karnavalet-1980
+title_ru: Karnavalet
+title_original: Karnavalet
+year: 1980
+country:
+- AL
+runtime_min: 91
+external_ids:
+  wikidata: Q11735918
+  imdb: tt0295365
+sources:
+- https://www.wikidata.org/wiki/Q11735918
+schema_version: 1

@@ -1,0 +1,13 @@
+id: igra-1962
+title_ru: Igra
+title_original: Igra
+year: 1962
+country:
+- YU
+runtime_min: 13
+external_ids:
+  wikidata: Q1170400
+  imdb: tt0057185
+sources:
+- https://www.wikidata.org/wiki/Q1170400
+schema_version: 1

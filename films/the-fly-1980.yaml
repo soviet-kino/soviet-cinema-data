@@ -1,0 +1,13 @@
+id: the-fly-1980
+title_ru: The Fly
+title_original: The Fly
+year: 1980
+country:
+- HU
+runtime_min: 3
+external_ids:
+  wikidata: Q468678
+  imdb: tt0081040
+sources:
+- https://www.wikidata.org/wiki/Q468678
+schema_version: 1

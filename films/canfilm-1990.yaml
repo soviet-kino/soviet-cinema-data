@@ -1,0 +1,13 @@
+id: canfilm-1990
+title_ru: Canfilm
+title_original: Canfilm
+year: 1990
+country:
+- BG
+runtime_min: 18
+external_ids:
+  wikidata: Q71315883
+  imdb: tt0289263
+sources:
+- https://www.wikidata.org/wiki/Q71315883
+schema_version: 1

@@ -1,0 +1,13 @@
+id: an-event-1969
+title_ru: An Event
+title_original: An Event
+year: 1969
+country:
+- YU
+runtime_min: 93
+external_ids:
+  wikidata: Q3506213
+  imdb: tt0065650
+sources:
+- https://www.wikidata.org/wiki/Q3506213
+schema_version: 1

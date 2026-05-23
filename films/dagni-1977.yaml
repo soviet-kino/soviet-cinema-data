@@ -1,0 +1,13 @@
+id: dagni-1977
+title_ru: Дагни
+title_original: Дагни
+year: 1977
+country:
+- PL
+runtime_min: 85
+external_ids:
+  wikidata: Q1763015
+  imdb: tt0075908
+sources:
+- https://www.wikidata.org/wiki/Q1763015
+schema_version: 1

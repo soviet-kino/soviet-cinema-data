@@ -1,0 +1,13 @@
+id: lanci-1979
+title_ru: Lanci
+title_original: Lanci
+year: 1979
+country:
+- YU
+runtime_min: 68
+external_ids:
+  wikidata: Q12754456
+  imdb: tt0213048
+sources:
+- https://www.wikidata.org/wiki/Q12754456
+schema_version: 1

@@ -1,0 +1,13 @@
+id: cafe-moscow-1936
+title_ru: Cafe Moscow
+title_original: Cafe Moscow
+year: 1936
+country:
+- HU
+runtime_min: 84
+external_ids:
+  wikidata: Q17986196
+  imdb: tt0027412
+sources:
+- https://www.wikidata.org/wiki/Q17986196
+schema_version: 1

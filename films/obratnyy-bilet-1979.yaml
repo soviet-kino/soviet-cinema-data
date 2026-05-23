@@ -1,0 +1,13 @@
+id: obratnyy-bilet-1979
+title_ru: Обратный билет
+title_original: Обратный билет
+year: 1979
+country:
+- PL
+runtime_min: 105
+external_ids:
+  wikidata: Q9171671
+  imdb: tt0077237
+sources:
+- https://www.wikidata.org/wiki/Q9171671
+schema_version: 1

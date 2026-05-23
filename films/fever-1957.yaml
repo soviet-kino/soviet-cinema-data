@@ -1,0 +1,13 @@
+id: fever-1957
+title_ru: Fever
+title_original: Fever
+year: 1957
+country:
+- HU
+runtime_min: 113
+external_ids:
+  wikidata: Q123757656
+  imdb: tt0050663
+sources:
+- https://www.wikidata.org/wiki/Q123757656
+schema_version: 1

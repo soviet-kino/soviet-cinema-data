@@ -1,0 +1,13 @@
+id: ya-lyublyu-vampira-film-1985
+title_ru: Я люблю вампира (фильм)
+title_original: Я люблю вампира (фильм)
+year: 1985
+country:
+- PL
+runtime_min: 76
+external_ids:
+  wikidata: Q11763079
+  imdb: tt0091444
+sources:
+- https://www.wikidata.org/wiki/Q11763079
+schema_version: 1

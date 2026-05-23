@@ -1,0 +1,13 @@
+id: aelita-1980
+title_ru: Aelita
+title_original: Aelita
+year: 1980
+country:
+- HU
+runtime_min: 51
+external_ids:
+  wikidata: Q65216949
+  imdb: tt4963304
+sources:
+- https://www.wikidata.org/wiki/Q65216949
+schema_version: 1

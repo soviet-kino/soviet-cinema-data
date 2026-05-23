@@ -1,0 +1,11 @@
+id: airport-1981
+title_ru: Airport
+title_original: Airport
+year: 1981
+country:
+- PL
+external_ids:
+  wikidata: Q9142883
+sources:
+- https://www.wikidata.org/wiki/Q9142883
+schema_version: 1

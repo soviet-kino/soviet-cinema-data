@@ -1,0 +1,13 @@
+id: dog-1965
+title_ru: Dog
+title_original: Dog
+year: 1965
+country:
+- YU
+runtime_min: 8
+external_ids:
+  wikidata: Q64877919
+  imdb: tt37189118
+sources:
+- https://www.wikidata.org/wiki/Q64877919
+schema_version: 1

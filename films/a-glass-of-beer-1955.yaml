@@ -1,0 +1,13 @@
+id: a-glass-of-beer-1955
+title_ru: A Glass of Beer
+title_original: A Glass of Beer
+year: 1955
+country:
+- HU
+runtime_min: 87
+external_ids:
+  wikidata: Q4657052
+  imdb: tt0048029
+sources:
+- https://www.wikidata.org/wiki/Q4657052
+schema_version: 1

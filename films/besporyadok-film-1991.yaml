@@ -1,0 +1,13 @@
+id: besporyadok-film-1991
+title_ru: Беспорядок (фильм)
+title_original: Беспорядок (фильм)
+year: 1991
+country:
+- RO
+runtime_min: 102
+external_ids:
+  wikidata: Q61083572
+  imdb: tt0264671
+sources:
+- https://www.wikidata.org/wiki/Q61083572
+schema_version: 1

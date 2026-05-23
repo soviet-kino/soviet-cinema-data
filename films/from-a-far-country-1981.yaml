@@ -1,0 +1,13 @@
+id: from-a-far-country-1981
+title_ru: From a Far Country
+title_original: From a Far Country
+year: 1981
+country:
+- PL
+runtime_min: 140
+external_ids:
+  wikidata: Q9383743
+  imdb: tt0083356
+sources:
+- https://www.wikidata.org/wiki/Q9383743
+schema_version: 1

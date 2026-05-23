@@ -1,0 +1,13 @@
+id: chuzhezemka-film-1986
+title_ru: Чужеземка (фильм)
+title_original: Чужеземка (фильм)
+year: 1986
+country:
+- PL
+runtime_min: 99
+external_ids:
+  wikidata: Q11691726
+  imdb: tt0092807
+sources:
+- https://www.wikidata.org/wiki/Q11691726
+schema_version: 1

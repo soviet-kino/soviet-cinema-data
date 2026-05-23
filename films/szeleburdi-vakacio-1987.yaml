@@ -1,0 +1,13 @@
+id: szeleburdi-vakacio-1987
+title_ru: Szeleburdi vakáció
+title_original: Szeleburdi vakáció
+year: 1987
+country:
+- HU
+runtime_min: 73
+external_ids:
+  wikidata: Q12816237
+  imdb: tt0094091
+sources:
+- https://www.wikidata.org/wiki/Q12816237
+schema_version: 1

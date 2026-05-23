@@ -1,0 +1,13 @@
+id: slate-1976
+title_ru: Slate
+title_original: Slate
+year: 1976
+country:
+- PL
+runtime_min: 5
+external_ids:
+  wikidata: Q66124409
+  imdb: tt0172658
+sources:
+- https://www.wikidata.org/wiki/Q66124409
+schema_version: 1

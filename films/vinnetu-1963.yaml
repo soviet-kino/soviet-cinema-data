@@ -1,0 +1,13 @@
+id: vinnetu-1963
+title_ru: Виннету
+title_original: Виннету
+year: 1963
+country:
+- YU
+runtime_min: 101
+external_ids:
+  wikidata: Q564124
+  imdb: tt0057687
+sources:
+- https://www.wikidata.org/wiki/Q564124
+schema_version: 1

@@ -1,0 +1,13 @@
+id: v-sibir-1930
+title_ru: В Сибирь
+title_original: В Сибирь
+year: 1930
+country:
+- PL
+runtime_min: 89
+external_ids:
+  wikidata: Q4101668
+  imdb: tt0285765
+sources:
+- https://www.wikidata.org/wiki/Q4101668
+schema_version: 1

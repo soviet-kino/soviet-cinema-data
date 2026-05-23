@@ -1,0 +1,12 @@
+id: auto-1975
+title_ru: Auto
+title_original: Auto
+year: 1975
+country:
+- HU
+external_ids:
+  wikidata: Q56399482
+  imdb: tt0071178
+sources:
+- https://www.wikidata.org/wiki/Q56399482
+schema_version: 1

@@ -1,0 +1,13 @@
+id: lyotna-1959
+title_ru: Лётна
+title_original: Лётна
+year: 1959
+country:
+- PL
+runtime_min: 85
+external_ids:
+  wikidata: Q688938
+  imdb: tt0053019
+sources:
+- https://www.wikidata.org/wiki/Q688938
+schema_version: 1

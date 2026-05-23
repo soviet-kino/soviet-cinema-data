@@ -1,0 +1,13 @@
+id: penguin-1965
+title_ru: Penguin
+title_original: Penguin
+year: 1965
+country:
+- PL
+runtime_min: 93
+external_ids:
+  wikidata: Q11817130
+  imdb: tt0059595
+sources:
+- https://www.wikidata.org/wiki/Q11817130
+schema_version: 1

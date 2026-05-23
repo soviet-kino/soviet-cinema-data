@@ -1,0 +1,13 @@
+id: kto-tam-poyot-1980
+title_ru: Кто там поёт?
+title_original: Кто там поёт?
+year: 1980
+country:
+- YU
+runtime_min: 86
+external_ids:
+  wikidata: Q280962
+  imdb: tt0076276
+sources:
+- https://www.wikidata.org/wiki/Q280962
+schema_version: 1

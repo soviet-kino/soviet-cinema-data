@@ -1,0 +1,13 @@
+id: car-crazy-1965
+title_ru: Car Crazy
+title_original: Car Crazy
+year: 1965
+country:
+- HU
+runtime_min: 73
+external_ids:
+  wikidata: Q19703606
+  imdb: tt0058280
+sources:
+- https://www.wikidata.org/wiki/Q19703606
+schema_version: 1

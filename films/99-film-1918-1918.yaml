@@ -1,0 +1,13 @@
+id: 99-film-1918-1918
+title_ru: 99 (фильм, 1918)
+title_original: 99 (фильм, 1918)
+year: 1918
+country:
+- HU
+runtime_min: 72
+external_ids:
+  wikidata: Q152273
+  imdb: tt0008810
+sources:
+- https://www.wikidata.org/wiki/Q152273
+schema_version: 1

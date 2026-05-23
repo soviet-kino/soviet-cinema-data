@@ -1,0 +1,13 @@
+id: crni-film-1971
+title_ru: Crni film
+title_original: Crni film
+year: 1971
+country:
+- YU
+runtime_min: 15
+external_ids:
+  wikidata: Q16086062
+  imdb: tt0176625
+sources:
+- https://www.wikidata.org/wiki/Q16086062
+schema_version: 1

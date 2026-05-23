@@ -1,0 +1,13 @@
+id: placowka-1979
+title_ru: Placówka
+title_original: Placówka
+year: 1979
+country:
+- PL
+runtime_min: 85
+external_ids:
+  wikidata: Q7200434
+  imdb: tt0079721
+sources:
+- https://www.wikidata.org/wiki/Q7200434
+schema_version: 1

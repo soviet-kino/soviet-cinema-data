@@ -1,0 +1,13 @@
+id: deadlock-1982
+title_ru: Deadlock
+title_original: Deadlock
+year: 1982
+country:
+- HU
+runtime_min: 3
+external_ids:
+  wikidata: Q28861844
+  imdb: tt3140422
+sources:
+- https://www.wikidata.org/wiki/Q28861844
+schema_version: 1

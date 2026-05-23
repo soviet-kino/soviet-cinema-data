@@ -1,0 +1,13 @@
+id: film-novel-three-sisters-1978
+title_ru: 'Film Novel: Three Sisters'
+title_original: 'Film Novel: Three Sisters'
+year: 1978
+country:
+- HU
+runtime_min: 273
+external_ids:
+  wikidata: Q97199916
+  imdb: tt0076027
+sources:
+- https://www.wikidata.org/wiki/Q97199916
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-wall-1960
+title_ru: The Wall
+title_original: The Wall
+year: 1960
+country:
+- YU
+runtime_min: 8
+external_ids:
+  wikidata: Q64878730
+  imdb: tt0253981
+sources:
+- https://www.wikidata.org/wiki/Q64878730
+schema_version: 1

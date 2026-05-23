@@ -1,0 +1,12 @@
+id: prognoza-pogody-1983
+title_ru: Prognoza pogody
+title_original: Prognoza pogody
+year: 1983
+country:
+- PL
+external_ids:
+  wikidata: Q11827508
+  imdb: tt0082950
+sources:
+- https://www.wikidata.org/wiki/Q11827508
+schema_version: 1

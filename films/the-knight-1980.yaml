@@ -1,0 +1,13 @@
+id: the-knight-1980
+title_ru: The Knight
+title_original: The Knight
+year: 1980
+country:
+- PL
+runtime_min: 81
+external_ids:
+  wikidata: Q9324331
+  imdb: tt0081446
+sources:
+- https://www.wikidata.org/wiki/Q9324331
+schema_version: 1

@@ -1,0 +1,13 @@
+id: zastava-1949
+title_ru: Zastava
+title_original: Zastava
+year: 1949
+country:
+- YU
+runtime_min: 100
+external_ids:
+  wikidata: Q3510464
+  imdb: tt0042065
+sources:
+- https://www.wikidata.org/wiki/Q3510464
+schema_version: 1

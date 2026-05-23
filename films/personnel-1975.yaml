@@ -1,0 +1,13 @@
+id: personnel-1975
+title_ru: Personnel
+title_original: Personnel
+year: 1975
+country:
+- PL
+runtime_min: 66
+external_ids:
+  wikidata: Q7170679
+  imdb: tt0073532
+sources:
+- https://www.wikidata.org/wiki/Q7170679
+schema_version: 1

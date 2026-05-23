@@ -1,0 +1,13 @@
+id: koshki-myshki-film-1972-1972
+title_ru: Кошки-мышки (фильм, 1972)
+title_original: Кошки-мышки (фильм, 1972)
+year: 1972
+country:
+- HU
+runtime_min: 99
+external_ids:
+  wikidata: Q1475436
+  imdb: tt0068891
+sources:
+- https://www.wikidata.org/wiki/Q1475436
+schema_version: 1

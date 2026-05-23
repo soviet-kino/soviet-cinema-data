@@ -1,0 +1,13 @@
+id: pasja-1978
+title_ru: Pasja
+title_original: Pasja
+year: 1978
+country:
+- PL
+runtime_min: 110
+external_ids:
+  wikidata: Q11813262
+  imdb: tt0078065
+sources:
+- https://www.wikidata.org/wiki/Q11813262
+schema_version: 1

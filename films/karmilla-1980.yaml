@@ -1,0 +1,12 @@
+id: karmilla-1980
+title_ru: Кармилла
+title_original: Кармилла
+year: 1980
+country:
+- PL
+runtime_min: 69
+external_ids:
+  wikidata: Q4215468
+sources:
+- https://www.wikidata.org/wiki/Q4215468
+schema_version: 1

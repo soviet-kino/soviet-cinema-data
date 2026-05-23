@@ -1,0 +1,13 @@
+id: meta-1980
+title_ru: Meta
+title_original: Meta
+year: 1980
+country:
+- PL
+runtime_min: 65
+external_ids:
+  wikidata: Q11777573
+  imdb: tt0067423
+sources:
+- https://www.wikidata.org/wiki/Q11777573
+schema_version: 1

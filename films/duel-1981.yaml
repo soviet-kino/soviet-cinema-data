@@ -1,0 +1,13 @@
+id: duel-1981
+title_ru: Дуэль
+title_original: Дуэль
+year: 1981
+country:
+- RO
+runtime_min: 105
+external_ids:
+  wikidata: Q4171450
+  imdb: tt0082300
+sources:
+- https://www.wikidata.org/wiki/Q4171450
+schema_version: 1

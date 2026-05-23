@@ -1,0 +1,13 @@
+id: widziadlo-1984
+title_ru: Widziadlo
+title_original: Widziadlo
+year: 1984
+country:
+- PL
+runtime_min: 90
+external_ids:
+  wikidata: Q9372609
+  imdb: tt0088399
+sources:
+- https://www.wikidata.org/wiki/Q9372609
+schema_version: 1

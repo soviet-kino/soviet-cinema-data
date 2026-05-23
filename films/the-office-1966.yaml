@@ -1,0 +1,13 @@
+id: the-office-1966
+title_ru: The Office
+title_original: The Office
+year: 1966
+country:
+- PL
+runtime_min: 6
+external_ids:
+  wikidata: Q4006581
+  imdb: tt0167319
+sources:
+- https://www.wikidata.org/wiki/Q4006581
+schema_version: 1

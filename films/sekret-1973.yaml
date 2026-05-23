@@ -1,0 +1,13 @@
+id: sekret-1973
+title_ru: Sekret
+title_original: Sekret
+year: 1973
+country:
+- PL
+runtime_min: 80
+external_ids:
+  wikidata: Q9335042
+  imdb: tt0070661
+sources:
+- https://www.wikidata.org/wiki/Q9335042
+schema_version: 1

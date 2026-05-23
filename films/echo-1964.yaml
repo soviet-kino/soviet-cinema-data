@@ -1,0 +1,13 @@
+id: echo-1964
+title_ru: Echo
+title_original: Echo
+year: 1964
+country:
+- PL
+runtime_min: 87
+external_ids:
+  wikidata: Q20001124
+  imdb: tt0058051
+sources:
+- https://www.wikidata.org/wiki/Q20001124
+schema_version: 1

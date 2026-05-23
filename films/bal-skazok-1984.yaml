@@ -1,0 +1,13 @@
+id: bal-skazok-1984
+title_ru: Бал сказок
+title_original: Бал сказок
+year: 1984
+country:
+- HU
+runtime_min: 84
+external_ids:
+  wikidata: Q113565491
+  imdb: tt0085268
+sources:
+- https://www.wikidata.org/wiki/Q113565491
+schema_version: 1

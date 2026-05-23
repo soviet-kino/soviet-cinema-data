@@ -1,0 +1,13 @@
+id: zabastovka-film-1983-1983
+title_ru: Забастовка (фильм, 1983)
+title_original: Забастовка (фильм, 1983)
+year: 1983
+country:
+- HU
+runtime_min: 94
+external_ids:
+  wikidata: Q753367
+  imdb: tt0085767
+sources:
+- https://www.wikidata.org/wiki/Q753367
+schema_version: 1

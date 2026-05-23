@@ -1,0 +1,13 @@
+id: adoption-1975
+title_ru: Adoption
+title_original: Adoption
+year: 1975
+country:
+- HU
+runtime_min: 89
+external_ids:
+  wikidata: Q1475202
+  imdb: tt0073948
+sources:
+- https://www.wikidata.org/wiki/Q1475202
+schema_version: 1

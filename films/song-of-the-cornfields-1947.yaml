@@ -1,0 +1,13 @@
+id: song-of-the-cornfields-1947
+title_ru: Song of the Cornfields
+title_original: Song of the Cornfields
+year: 1947
+country:
+- HU
+runtime_min: 81
+external_ids:
+  wikidata: Q7561155
+  imdb: tt0040020
+sources:
+- https://www.wikidata.org/wiki/Q7561155
+schema_version: 1

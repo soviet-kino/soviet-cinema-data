@@ -1,0 +1,13 @@
+id: stars-of-variety-1939
+title_ru: Stars of Variety
+title_original: Stars of Variety
+year: 1939
+country:
+- HU
+runtime_min: 86
+external_ids:
+  wikidata: Q1920759
+  imdb: tt0030438
+sources:
+- https://www.wikidata.org/wiki/Q1920759
+schema_version: 1

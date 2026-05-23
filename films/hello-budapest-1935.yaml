@@ -1,0 +1,13 @@
+id: hello-budapest-1935
+title_ru: Hello, Budapest!
+title_original: Hello, Budapest!
+year: 1935
+country:
+- HU
+runtime_min: 70
+external_ids:
+  wikidata: Q123670578
+  imdb: tt5889938
+sources:
+- https://www.wikidata.org/wiki/Q123670578
+schema_version: 1

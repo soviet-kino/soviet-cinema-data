@@ -1,0 +1,13 @@
+id: apel-1970
+title_ru: Apel
+title_original: Apel
+year: 1970
+country:
+- PL
+runtime_min: 8
+external_ids:
+  wikidata: Q9158408
+  imdb: tt0402802
+sources:
+- https://www.wikidata.org/wiki/Q9158408
+schema_version: 1

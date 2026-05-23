@@ -1,0 +1,13 @@
+id: hey-you-1976
+title_ru: Hey, You!
+title_original: Hey, You!
+year: 1976
+country:
+- HU
+runtime_min: 7
+external_ids:
+  wikidata: Q15844717
+  imdb: tt3462180
+sources:
+- https://www.wikidata.org/wiki/Q15844717
+schema_version: 1

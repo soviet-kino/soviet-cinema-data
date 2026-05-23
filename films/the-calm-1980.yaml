@@ -1,0 +1,13 @@
+id: the-calm-1980
+title_ru: The Calm
+title_original: The Calm
+year: 1980
+country:
+- PL
+runtime_min: 81
+external_ids:
+  wikidata: Q7721042
+  imdb: tt0075256
+sources:
+- https://www.wikidata.org/wiki/Q7721042
+schema_version: 1

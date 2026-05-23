@@ -1,0 +1,13 @@
+id: kondor-1982
+title_ru: Кондор
+title_original: Кондор
+year: 1982
+country:
+- HU
+runtime_min: 115
+external_ids:
+  wikidata: Q987167
+  imdb: tt0083865
+sources:
+- https://www.wikidata.org/wiki/Q987167
+schema_version: 1

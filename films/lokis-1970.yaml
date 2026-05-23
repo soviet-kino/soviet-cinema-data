@@ -1,0 +1,13 @@
+id: lokis-1970
+title_ru: Локис
+title_original: Локис
+year: 1970
+country:
+- PL
+runtime_min: 95
+external_ids:
+  wikidata: Q6668689
+  imdb: tt0065994
+sources:
+- https://www.wikidata.org/wiki/Q6668689
+schema_version: 1

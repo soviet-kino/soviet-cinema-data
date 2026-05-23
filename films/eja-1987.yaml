@@ -1,0 +1,13 @@
+id: eja-1987
+title_ru: Eja!
+title_original: Eja!
+year: 1987
+country:
+- AL
+runtime_min: 72
+external_ids:
+  wikidata: Q9190167
+  imdb: tt0172392
+sources:
+- https://www.wikidata.org/wiki/Q9190167
+schema_version: 1

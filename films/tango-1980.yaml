@@ -1,0 +1,13 @@
+id: tango-1980
+title_ru: Tango
+title_original: Tango
+year: 1980
+country:
+- PL
+runtime_min: 8
+external_ids:
+  wikidata: Q2392522
+  imdb: tt0084764
+sources:
+- https://www.wikidata.org/wiki/Q2392522
+schema_version: 1

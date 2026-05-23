@@ -1,0 +1,12 @@
+id: meteo-1990
+title_ru: Meteo
+title_original: Meteo
+year: 1990
+country:
+- HU
+external_ids:
+  wikidata: Q23672491
+  imdb: tt0097875
+sources:
+- https://www.wikidata.org/wiki/Q23672491
+schema_version: 1

@@ -1,0 +1,13 @@
+id: alice-1982
+title_ru: Alice
+title_original: Alice
+year: 1982
+country:
+- PL
+runtime_min: 91
+external_ids:
+  wikidata: Q1767839
+  imdb: tt0083537
+sources:
+- https://www.wikidata.org/wiki/Q1767839
+schema_version: 1

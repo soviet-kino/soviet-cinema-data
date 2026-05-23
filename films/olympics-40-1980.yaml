@@ -1,0 +1,13 @@
+id: olympics-40-1980
+title_ru: Olympics 40
+title_original: Olympics 40
+year: 1980
+country:
+- PL
+runtime_min: 96
+external_ids:
+  wikidata: Q11797976
+  imdb: tt0081274
+sources:
+- https://www.wikidata.org/wiki/Q11797976
+schema_version: 1

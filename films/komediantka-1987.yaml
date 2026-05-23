@@ -1,0 +1,13 @@
+id: komediantka-1987
+title_ru: Komediantka
+title_original: Komediantka
+year: 1987
+country:
+- PL
+runtime_min: 103
+external_ids:
+  wikidata: Q11741520
+  imdb: tt0092387
+sources:
+- https://www.wikidata.org/wiki/Q11741520
+schema_version: 1

@@ -1,0 +1,13 @@
+id: karusel-film-1956-1959
+title_ru: Карусель (фильм, 1956)
+title_original: Карусель (фильм, 1956)
+year: 1959
+country:
+- HU
+runtime_min: 90
+external_ids:
+  wikidata: Q747369
+  imdb: tt0048275
+sources:
+- https://www.wikidata.org/wiki/Q747369
+schema_version: 1

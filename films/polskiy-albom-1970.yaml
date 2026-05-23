@@ -1,0 +1,13 @@
+id: polskiy-albom-1970
+title_ru: Польский альбом
+title_original: Польский альбом
+year: 1970
+country:
+- PL
+runtime_min: 136
+external_ids:
+  wikidata: Q9144561
+  imdb: tt0065379
+sources:
+- https://www.wikidata.org/wiki/Q9144561
+schema_version: 1

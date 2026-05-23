@@ -1,0 +1,13 @@
+id: the-diary-1974
+title_ru: The Diary
+title_original: The Diary
+year: 1974
+country:
+- YU
+runtime_min: 8
+external_ids:
+  wikidata: Q21869294
+  imdb: tt0475949
+sources:
+- https://www.wikidata.org/wiki/Q21869294
+schema_version: 1

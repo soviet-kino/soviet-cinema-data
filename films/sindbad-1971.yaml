@@ -1,0 +1,13 @@
+id: sindbad-1971
+title_ru: Синдбад
+title_original: Синдбад
+year: 1971
+country:
+- HU
+runtime_min: 90
+external_ids:
+  wikidata: Q1298736
+  imdb: tt0067815
+sources:
+- https://www.wikidata.org/wiki/Q1298736
+schema_version: 1

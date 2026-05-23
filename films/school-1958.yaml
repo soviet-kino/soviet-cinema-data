@@ -1,0 +1,13 @@
+id: school-1958
+title_ru: School
+title_original: School
+year: 1958
+country:
+- PL
+runtime_min: 7
+external_ids:
+  wikidata: Q29157587
+  imdb: tt0052437
+sources:
+- https://www.wikidata.org/wiki/Q29157587
+schema_version: 1

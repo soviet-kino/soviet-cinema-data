@@ -1,0 +1,13 @@
+id: the-inn-1983
+title_ru: The inn
+title_original: The inn
+year: 1983
+country:
+- PL
+runtime_min: 109
+external_ids:
+  wikidata: Q2872103
+  imdb: tt0085198
+sources:
+- https://www.wikidata.org/wiki/Q2872103
+schema_version: 1

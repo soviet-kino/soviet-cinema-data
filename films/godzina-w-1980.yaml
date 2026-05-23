@@ -1,0 +1,13 @@
+id: godzina-w-1980
+title_ru: Godzina 'W'
+title_original: Godzina 'W'
+year: 1980
+country:
+- PL
+runtime_min: 77
+external_ids:
+  wikidata: Q11701022
+  imdb: tt0079217
+sources:
+- https://www.wikidata.org/wiki/Q11701022
+schema_version: 1

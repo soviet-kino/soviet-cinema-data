@@ -1,0 +1,13 @@
+id: znakhar-film-1981-1982
+title_ru: Знахарь (фильм, 1981)
+title_original: Знахарь (фильм, 1981)
+year: 1982
+country:
+- PL
+runtime_min: 128
+external_ids:
+  wikidata: Q1967615
+  imdb: tt0084953
+sources:
+- https://www.wikidata.org/wiki/Q1967615
+schema_version: 1

@@ -1,0 +1,13 @@
+id: swiadectwo-urodzenia-1962
+title_ru: Świadectwo urodzenia
+title_original: Świadectwo urodzenia
+year: 1962
+country:
+- PL
+runtime_min: 99
+external_ids:
+  wikidata: Q11838608
+  imdb: tt0055492
+sources:
+- https://www.wikidata.org/wiki/Q11838608
+schema_version: 1

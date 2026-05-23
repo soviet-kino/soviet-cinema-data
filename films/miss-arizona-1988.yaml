@@ -1,0 +1,13 @@
+id: miss-arizona-1988
+title_ru: Miss Arizona
+title_original: Miss Arizona
+year: 1988
+country:
+- HU
+runtime_min: 95
+external_ids:
+  wikidata: Q655028
+  imdb: tt0093579
+sources:
+- https://www.wikidata.org/wiki/Q655028
+schema_version: 1

@@ -1,0 +1,13 @@
+id: agent-nr-1-1972
+title_ru: Agent nr 1
+title_original: Agent nr 1
+year: 1972
+country:
+- PL
+runtime_min: 97
+external_ids:
+  wikidata: Q9142083
+  imdb: tt0068180
+sources:
+- https://www.wikidata.org/wiki/Q9142083
+schema_version: 1

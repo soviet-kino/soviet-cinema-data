@@ -1,0 +1,13 @@
+id: gra-1969
+title_ru: Gra
+title_original: Gra
+year: 1969
+country:
+- PL
+runtime_min: 91
+external_ids:
+  wikidata: Q9275122
+  imdb: tt0063027
+sources:
+- https://www.wikidata.org/wiki/Q9275122
+schema_version: 1

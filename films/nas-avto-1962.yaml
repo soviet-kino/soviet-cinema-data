@@ -1,0 +1,12 @@
+id: nas-avto-1962
+title_ru: Naš avto
+title_original: Naš avto
+year: 1962
+country:
+- YU
+external_ids:
+  wikidata: Q26218956
+  imdb: tt0056272
+sources:
+- https://www.wikidata.org/wiki/Q26218956
+schema_version: 1

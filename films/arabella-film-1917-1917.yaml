@@ -1,0 +1,13 @@
+id: arabella-film-1917-1917
+title_ru: Арабелла (фильм, 1917)
+title_original: Арабелла (фильм, 1917)
+year: 1917
+country:
+- PL
+runtime_min: 73
+external_ids:
+  wikidata: Q9158784
+  imdb: tt0219512
+sources:
+- https://www.wikidata.org/wiki/Q9158784
+schema_version: 1

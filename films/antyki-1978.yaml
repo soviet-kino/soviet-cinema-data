@@ -1,0 +1,13 @@
+id: antyki-1978
+title_ru: Antyki
+title_original: Antyki
+year: 1978
+country:
+- PL
+runtime_min: 79
+external_ids:
+  wikidata: Q9158115
+  imdb: tt0077171
+sources:
+- https://www.wikidata.org/wiki/Q9158115
+schema_version: 1

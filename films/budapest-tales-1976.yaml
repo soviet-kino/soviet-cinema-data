@@ -1,0 +1,13 @@
+id: budapest-tales-1976
+title_ru: Budapest Tales
+title_original: Budapest Tales
+year: 1976
+country:
+- HU
+runtime_min: 90
+external_ids:
+  wikidata: Q609244
+  imdb: tt0074253
+sources:
+- https://www.wikidata.org/wiki/Q609244
+schema_version: 1

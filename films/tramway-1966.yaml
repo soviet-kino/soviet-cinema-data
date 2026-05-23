@@ -1,0 +1,13 @@
+id: tramway-1966
+title_ru: Tramway
+title_original: Tramway
+year: 1966
+country:
+- PL
+runtime_min: 5
+external_ids:
+  wikidata: Q3997406
+  imdb: tt0167464
+sources:
+- https://www.wikidata.org/wiki/Q3997406
+schema_version: 1

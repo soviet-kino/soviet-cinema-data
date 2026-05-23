@@ -1,0 +1,13 @@
+id: young-heroes-1978
+title_ru: Young Heroes
+title_original: Young Heroes
+year: 1978
+country:
+- RO
+runtime_min: 107
+external_ids:
+  wikidata: Q12727296
+  imdb: tt0129898
+sources:
+- https://www.wikidata.org/wiki/Q12727296
+schema_version: 1

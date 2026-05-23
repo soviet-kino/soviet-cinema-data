@@ -1,0 +1,13 @@
+id: tsena-riska-1984
+title_ru: Цена риска
+title_original: Цена риска
+year: 1984
+country:
+- YU
+runtime_min: 100
+external_ids:
+  wikidata: Q693088
+  imdb: tt0084540
+sources:
+- https://www.wikidata.org/wiki/Q693088
+schema_version: 1

@@ -1,0 +1,12 @@
+id: film-dwie-godziny-1957
+title_ru: Film "Dwie godziny"
+title_original: Film "Dwie godziny"
+year: 1957
+country:
+- PL
+external_ids:
+  wikidata: Q9213184
+  imdb: tt0050345
+sources:
+- https://www.wikidata.org/wiki/Q9213184
+schema_version: 1

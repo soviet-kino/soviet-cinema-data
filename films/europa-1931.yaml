@@ -1,0 +1,13 @@
+id: europa-1931
+title_ru: Europa
+title_original: Europa
+year: 1931
+country:
+- PL
+runtime_min: 12
+external_ids:
+  wikidata: Q108643579
+  imdb: tt5178274
+sources:
+- https://www.wikidata.org/wiki/Q108643579
+schema_version: 1

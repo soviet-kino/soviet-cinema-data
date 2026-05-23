@@ -1,0 +1,13 @@
+id: live-in-budapest-1987
+title_ru: Live in Budapest
+title_original: Live in Budapest
+year: 1987
+country:
+- HU
+runtime_min: 90
+external_ids:
+  wikidata: Q558808
+  imdb: tt0093427
+sources:
+- https://www.wikidata.org/wiki/Q558808
+schema_version: 1

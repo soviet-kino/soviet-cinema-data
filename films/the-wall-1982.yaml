@@ -1,0 +1,13 @@
+id: the-wall-1982
+title_ru: The Wall
+title_original: The Wall
+year: 1982
+country:
+- PL
+runtime_min: 2
+external_ids:
+  wikidata: Q123155513
+  imdb: tt0084884
+sources:
+- https://www.wikidata.org/wiki/Q123155513
+schema_version: 1

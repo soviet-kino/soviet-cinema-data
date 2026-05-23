@@ -1,0 +1,13 @@
+id: okhota-na-mukh-film-1969
+title_ru: Охота на мух (фильм)
+title_original: Охота на мух (фильм)
+year: 1969
+country:
+- PL
+runtime_min: 104
+external_ids:
+  wikidata: Q925401
+  imdb: tt0064825
+sources:
+- https://www.wikidata.org/wiki/Q925401
+schema_version: 1

@@ -1,0 +1,13 @@
+id: bariton-1985
+title_ru: Баритон
+title_original: Баритон
+year: 1985
+country:
+- PL
+runtime_min: 92
+external_ids:
+  wikidata: Q1192397
+  imdb: tt0088774
+sources:
+- https://www.wikidata.org/wiki/Q1192397
+schema_version: 1

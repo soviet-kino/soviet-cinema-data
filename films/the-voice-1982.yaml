@@ -1,0 +1,13 @@
+id: the-voice-1982
+title_ru: The Voice
+title_original: The Voice
+year: 1982
+country:
+- YU
+runtime_min: 122
+external_ids:
+  wikidata: Q3825033
+  imdb: tt0194509
+sources:
+- https://www.wikidata.org/wiki/Q3825033
+schema_version: 1

@@ -1,0 +1,13 @@
+id: sisyphus-1974
+title_ru: Sisyphus
+title_original: Sisyphus
+year: 1974
+country:
+- HU
+runtime_min: 3
+external_ids:
+  wikidata: Q1289110
+  imdb: tt0073715
+sources:
+- https://www.wikidata.org/wiki/Q1289110
+schema_version: 1

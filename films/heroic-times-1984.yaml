@@ -1,0 +1,13 @@
+id: heroic-times-1984
+title_ru: Heroic Times
+title_original: Heroic Times
+year: 1984
+country:
+- HU
+runtime_min: 79
+external_ids:
+  wikidata: Q901302
+  imdb: tt0847478
+sources:
+- https://www.wikidata.org/wiki/Q901302
+schema_version: 1

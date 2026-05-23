@@ -1,0 +1,13 @@
+id: reys-1970
+title_ru: Рейс
+title_original: Рейс
+year: 1970
+country:
+- PL
+runtime_min: 65
+external_ids:
+  wikidata: Q389313
+  imdb: tt0066289
+sources:
+- https://www.wikidata.org/wiki/Q389313
+schema_version: 1

@@ -1,0 +1,13 @@
+id: brats-1991
+title_ru: Brats
+title_original: Brats
+year: 1991
+country:
+- HU
+runtime_min: 86
+external_ids:
+  wikidata: Q21646196
+  imdb: tt0104247
+sources:
+- https://www.wikidata.org/wiki/Q21646196
+schema_version: 1

@@ -1,0 +1,13 @@
+id: factory-1970
+title_ru: Factory
+title_original: Factory
+year: 1970
+country:
+- PL
+runtime_min: 17
+external_ids:
+  wikidata: Q3738141
+  imdb: tt0067077
+sources:
+- https://www.wikidata.org/wiki/Q3738141
+schema_version: 1

@@ -1,0 +1,12 @@
+id: hello-peter-1939
+title_ru: Hello, Peter!
+title_original: Hello, Peter!
+year: 1939
+country:
+- HU
+external_ids:
+  wikidata: Q123358744
+  imdb: tt0032001
+sources:
+- https://www.wikidata.org/wiki/Q123358744
+schema_version: 1

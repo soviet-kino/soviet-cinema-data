@@ -1,0 +1,13 @@
+id: pervyy-start-1950
+title_ru: Первый старт
+title_original: Первый старт
+year: 1950
+country:
+- PL
+runtime_min: 103
+external_ids:
+  wikidata: Q11816773
+  imdb: tt0043921
+sources:
+- https://www.wikidata.org/wiki/Q11816773
+schema_version: 1

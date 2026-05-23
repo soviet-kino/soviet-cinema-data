@@ -1,0 +1,13 @@
+id: semmelweis-1952
+title_ru: Semmelweis
+title_original: Semmelweis
+year: 1952
+country:
+- HU
+runtime_min: 105
+external_ids:
+  wikidata: Q123521443
+  imdb: tt0045136
+sources:
+- https://www.wikidata.org/wiki/Q123521443
+schema_version: 1

@@ -1,0 +1,13 @@
+id: baza-myortvykh-lyudey-1959
+title_ru: База мёртвых людей
+title_original: База мёртвых людей
+year: 1959
+country:
+- PL
+runtime_min: 104
+external_ids:
+  wikidata: Q9167556
+  imdb: tt0052608
+sources:
+- https://www.wikidata.org/wiki/Q9167556
+schema_version: 1

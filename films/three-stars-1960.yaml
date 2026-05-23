@@ -1,0 +1,13 @@
+id: three-stars-1960
+title_ru: Three Stars
+title_original: Three Stars
+year: 1960
+country:
+- HU
+runtime_min: 95
+external_ids:
+  wikidata: Q22078272
+  imdb: tt0053932
+sources:
+- https://www.wikidata.org/wiki/Q22078272
+schema_version: 1

@@ -1,0 +1,13 @@
+id: encounter-1963
+title_ru: Encounter
+title_original: Encounter
+year: 1963
+country:
+- YU
+runtime_min: 5
+external_ids:
+  wikidata: Q64878693
+  imdb: tt0173308
+sources:
+- https://www.wikidata.org/wiki/Q64878693
+schema_version: 1

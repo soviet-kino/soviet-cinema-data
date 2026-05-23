@@ -1,0 +1,13 @@
+id: cyclops-1982
+title_ru: Cyclops
+title_original: Cyclops
+year: 1982
+country:
+- YU
+runtime_min: 138
+external_ids:
+  wikidata: Q1250092
+  imdb: tt0084204
+sources:
+- https://www.wikidata.org/wiki/Q1250092
+schema_version: 1

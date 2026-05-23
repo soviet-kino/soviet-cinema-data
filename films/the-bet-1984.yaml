@@ -1,0 +1,13 @@
+id: the-bet-1984
+title_ru: The Bet
+title_original: The Bet
+year: 1984
+country:
+- RO
+runtime_min: 80
+external_ids:
+  wikidata: Q18547340
+  imdb: tt0244161
+sources:
+- https://www.wikidata.org/wiki/Q18547340
+schema_version: 1

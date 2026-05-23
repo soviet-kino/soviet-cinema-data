@@ -1,0 +1,13 @@
+id: varshavskaya-sirena-film-1956
+title_ru: Варшавская сирена (фильм)
+title_original: Варшавская сирена (фильм)
+year: 1956
+country:
+- PL
+runtime_min: 98
+external_ids:
+  wikidata: Q9371184
+  imdb: tt0049937
+sources:
+- https://www.wikidata.org/wiki/Q9371184
+schema_version: 1

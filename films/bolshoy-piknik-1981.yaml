@@ -1,0 +1,13 @@
+id: bolshoy-piknik-1981
+title_ru: Большой пикник
+title_original: Большой пикник
+year: 1981
+country:
+- PL
+runtime_min: 90
+external_ids:
+  wikidata: Q4092996
+  imdb: tt0083329
+sources:
+- https://www.wikidata.org/wiki/Q4092996
+schema_version: 1

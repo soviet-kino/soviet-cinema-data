@@ -1,0 +1,13 @@
+id: x-ray-1974
+title_ru: X-Ray
+title_original: X-Ray
+year: 1974
+country:
+- PL
+runtime_min: 12
+external_ids:
+  wikidata: Q66124266
+  imdb: tt0072043
+sources:
+- https://www.wikidata.org/wiki/Q66124266
+schema_version: 1

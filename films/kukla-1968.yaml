@@ -1,0 +1,13 @@
+id: kukla-1968
+title_ru: Кукла
+title_original: Кукла
+year: 1968
+country:
+- PL
+runtime_min: 151
+external_ids:
+  wikidata: Q2069873
+  imdb: tt0064570
+sources:
+- https://www.wikidata.org/wiki/Q2069873
+schema_version: 1

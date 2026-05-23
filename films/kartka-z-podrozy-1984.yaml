@@ -1,0 +1,13 @@
+id: kartka-z-podrozy-1984
+title_ru: Kartka z podrózy
+title_original: Kartka z podrózy
+year: 1984
+country:
+- PL
+runtime_min: 78
+external_ids:
+  wikidata: Q11736599
+  imdb: tt0089407
+sources:
+- https://www.wikidata.org/wiki/Q11736599
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-chair-1964
+title_ru: The Chair
+title_original: The Chair
+year: 1964
+country:
+- PL
+runtime_min: 6
+external_ids:
+  wikidata: Q65032285
+  imdb: tt0432856
+sources:
+- https://www.wikidata.org/wiki/Q65032285
+schema_version: 1

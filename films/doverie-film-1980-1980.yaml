@@ -1,0 +1,13 @@
+id: doverie-film-1980-1980
+title_ru: Доверие (фильм, 1980)
+title_original: Доверие (фильм, 1980)
+year: 1980
+country:
+- HU
+runtime_min: 105
+external_ids:
+  wikidata: Q601511
+  imdb: tt0078868
+sources:
+- https://www.wikidata.org/wiki/Q601511
+schema_version: 1

@@ -1,0 +1,13 @@
+id: some-other-woman-1981
+title_ru: Some Other Woman
+title_original: Some Other Woman
+year: 1981
+country:
+- YU
+runtime_min: 95
+external_ids:
+  wikidata: Q16761180
+  imdb: tt0174975
+sources:
+- https://www.wikidata.org/wiki/Q16761180
+schema_version: 1

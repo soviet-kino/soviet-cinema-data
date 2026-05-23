@@ -1,0 +1,13 @@
+id: fotografiya-1973
+title_ru: Фотография
+title_original: Фотография
+year: 1973
+country:
+- HU
+runtime_min: 82
+external_ids:
+  wikidata: Q1003197
+  imdb: tt0068604
+sources:
+- https://www.wikidata.org/wiki/Q1003197
+schema_version: 1

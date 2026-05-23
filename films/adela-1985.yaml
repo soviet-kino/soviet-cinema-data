@@ -1,0 +1,13 @@
+id: adela-1985
+title_ru: Адела
+title_original: Адела
+year: 1985
+country:
+- RO
+runtime_min: 80
+external_ids:
+  wikidata: Q28726636
+  imdb: tt0088669
+sources:
+- https://www.wikidata.org/wiki/Q28726636
+schema_version: 1

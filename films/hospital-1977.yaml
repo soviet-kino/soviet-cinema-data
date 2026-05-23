@@ -1,0 +1,13 @@
+id: hospital-1977
+title_ru: Hospital
+title_original: Hospital
+year: 1977
+country:
+- PL
+runtime_min: 22
+external_ids:
+  wikidata: Q23653963
+  imdb: tt0075299
+sources:
+- https://www.wikidata.org/wiki/Q23653963
+schema_version: 1

@@ -1,0 +1,13 @@
+id: blagoveshchenie-1984
+title_ru: Благовещение
+title_original: Благовещение
+year: 1984
+country:
+- HU
+runtime_min: 100
+external_ids:
+  wikidata: Q392490
+  imdb: tt0123381
+sources:
+- https://www.wikidata.org/wiki/Q392490
+schema_version: 1

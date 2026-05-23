@@ -1,0 +1,13 @@
+id: kierunek-berlin-1969
+title_ru: Kierunek Berlin
+title_original: Kierunek Berlin
+year: 1969
+country:
+- PL
+runtime_min: 81
+external_ids:
+  wikidata: Q11739061
+  imdb: tt0064543
+sources:
+- https://www.wikidata.org/wiki/Q11739061
+schema_version: 1

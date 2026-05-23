@@ -1,0 +1,12 @@
+id: new-book-1975
+title_ru: New Book
+title_original: New Book
+year: 1975
+country:
+- PL
+external_ids:
+  wikidata: Q122871712
+  imdb: tt0368090
+sources:
+- https://www.wikidata.org/wiki/Q122871712
+schema_version: 1

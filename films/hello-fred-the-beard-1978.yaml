@@ -1,0 +1,13 @@
+id: hello-fred-the-beard-1978
+title_ru: Hello, Fred the Beard
+title_original: Hello, Fred the Beard
+year: 1978
+country:
+- PL
+runtime_min: 94
+external_ids:
+  wikidata: Q9285531
+  imdb: tt0077650
+sources:
+- https://www.wikidata.org/wiki/Q9285531
+schema_version: 1

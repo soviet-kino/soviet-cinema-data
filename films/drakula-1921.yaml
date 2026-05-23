@@ -1,0 +1,13 @@
+id: drakula-1921
+title_ru: Дракула
+title_original: Дракула
+year: 1921
+country:
+- HU
+runtime_min: 65
+external_ids:
+  wikidata: Q2561725
+  imdb: tt0240464
+sources:
+- https://www.wikidata.org/wiki/Q2561725
+schema_version: 1

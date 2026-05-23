@@ -1,0 +1,13 @@
+id: okhrana-zamka-1970
+title_ru: Охрана замка
+title_original: Охрана замка
+year: 1970
+country:
+- YU
+runtime_min: 103
+external_ids:
+  wikidata: Q258319
+  imdb: tt0064137
+sources:
+- https://www.wikidata.org/wiki/Q258319
+schema_version: 1

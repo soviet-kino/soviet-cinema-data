@@ -1,0 +1,13 @@
+id: yesterday-1985
+title_ru: Yesterday
+title_original: Yesterday
+year: 1985
+country:
+- PL
+runtime_min: 87
+external_ids:
+  wikidata: Q2159458
+  imdb: tt0090352
+sources:
+- https://www.wikidata.org/wiki/Q2159458
+schema_version: 1

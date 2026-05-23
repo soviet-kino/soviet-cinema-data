@@ -1,0 +1,13 @@
+id: the-musicians-1960
+title_ru: The Musicians
+title_original: The Musicians
+year: 1960
+country:
+- PL
+runtime_min: 10
+external_ids:
+  wikidata: Q97373412
+  imdb: tt0389182
+sources:
+- https://www.wikidata.org/wiki/Q97373412
+schema_version: 1

@@ -1,0 +1,13 @@
+id: concertissimo-1968
+title_ru: Concertissimo
+title_original: Concertissimo
+year: 1968
+country:
+- HU
+runtime_min: 3
+external_ids:
+  wikidata: Q23895054
+  imdb: tt0262344
+sources:
+- https://www.wikidata.org/wiki/Q23895054
+schema_version: 1

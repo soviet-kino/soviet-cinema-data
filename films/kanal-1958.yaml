@@ -1,0 +1,13 @@
+id: kanal-1958
+title_ru: Канал
+title_original: Канал
+year: 1958
+country:
+- PL
+runtime_min: 95
+external_ids:
+  wikidata: Q94792
+  imdb: tt0050585
+sources:
+- https://www.wikidata.org/wiki/Q94792
+schema_version: 1

@@ -1,0 +1,13 @@
+id: railway-station-1980
+title_ru: Railway Station
+title_original: Railway Station
+year: 1980
+country:
+- PL
+runtime_min: 14
+external_ids:
+  wikidata: Q9213261
+  imdb: tt0080668
+sources:
+- https://www.wikidata.org/wiki/Q9213261
+schema_version: 1

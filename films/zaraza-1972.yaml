@@ -1,0 +1,13 @@
+id: zaraza-1972
+title_ru: Zaraza
+title_original: Zaraza
+year: 1972
+country:
+- PL
+runtime_min: 95
+external_ids:
+  wikidata: Q9387057
+  imdb: tt0069537
+sources:
+- https://www.wikidata.org/wiki/Q9387057
+schema_version: 1

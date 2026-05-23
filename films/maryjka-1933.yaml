@@ -1,0 +1,13 @@
+id: maryjka-1933
+title_ru: Maryjka
+title_original: Maryjka
+year: 1933
+country:
+- PL
+runtime_min: 64
+external_ids:
+  wikidata: Q118215344
+  imdb: tt0025476
+sources:
+- https://www.wikidata.org/wiki/Q118215344
+schema_version: 1

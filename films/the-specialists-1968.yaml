@@ -1,0 +1,13 @@
+id: the-specialists-1968
+title_ru: The Specialists
+title_original: The Specialists
+year: 1968
+country:
+- YU
+runtime_min: 9
+external_ids:
+  wikidata: Q123288695
+  imdb: tt0227533
+sources:
+- https://www.wikidata.org/wiki/Q123288695
+schema_version: 1

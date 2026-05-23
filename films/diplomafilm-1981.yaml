@@ -1,0 +1,12 @@
+id: diplomafilm-1981
+title_ru: Diplomafilm
+title_original: Diplomafilm
+year: 1981
+country:
+- HU
+runtime_min: 40
+external_ids:
+  wikidata: Q133897437
+sources:
+- https://www.wikidata.org/wiki/Q133897437
+schema_version: 1

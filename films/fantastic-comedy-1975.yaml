@@ -1,0 +1,13 @@
+id: fantastic-comedy-1975
+title_ru: Fantastic Comedy
+title_original: Fantastic Comedy
+year: 1975
+country:
+- RO
+runtime_min: 84
+external_ids:
+  wikidata: Q18543862
+  imdb: tt0072970
+sources:
+- https://www.wikidata.org/wiki/Q18543862
+schema_version: 1

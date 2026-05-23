@@ -1,0 +1,13 @@
+id: red-wheat-1970
+title_ru: Red Wheat
+title_original: Red Wheat
+year: 1970
+country:
+- YU
+runtime_min: 85
+external_ids:
+  wikidata: Q7305218
+  imdb: tt0067655
+sources:
+- https://www.wikidata.org/wiki/Q7305218
+schema_version: 1

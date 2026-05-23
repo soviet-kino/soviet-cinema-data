@@ -1,0 +1,13 @@
+id: galax-1983
+title_ru: Galax
+title_original: Galax
+year: 1983
+country:
+- RO
+runtime_min: 72
+external_ids:
+  wikidata: Q98373180
+  imdb: tt0131405
+sources:
+- https://www.wikidata.org/wiki/Q98373180
+schema_version: 1

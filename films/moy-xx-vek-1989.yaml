@@ -1,0 +1,13 @@
+id: moy-xx-vek-1989
+title_ru: Мой XX век
+title_original: Мой XX век
+year: 1989
+country:
+- HU
+runtime_min: 103
+external_ids:
+  wikidata: Q746612
+  imdb: tt0096863
+sources:
+- https://www.wikidata.org/wiki/Q746612
+schema_version: 1

@@ -1,0 +1,13 @@
+id: the-sea-1933
+title_ru: The Sea
+title_original: The Sea
+year: 1933
+country:
+- PL
+runtime_min: 9
+external_ids:
+  wikidata: Q1948789
+  imdb: tt0023443
+sources:
+- https://www.wikidata.org/wiki/Q1948789
+schema_version: 1

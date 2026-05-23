@@ -1,0 +1,13 @@
+id: szansa-1980
+title_ru: Szansa
+title_original: Szansa
+year: 1980
+country:
+- PL
+runtime_min: 87
+external_ids:
+  wikidata: Q1211860
+  imdb: tt0081588
+sources:
+- https://www.wikidata.org/wiki/Q1211860
+schema_version: 1

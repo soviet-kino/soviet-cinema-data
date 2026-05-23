@@ -1,0 +1,13 @@
+id: przeznaczenie-1985
+title_ru: Przeznaczenie
+title_original: Przeznaczenie
+year: 1985
+country:
+- PL
+runtime_min: 93
+external_ids:
+  wikidata: Q11829392
+  imdb: tt0087952
+sources:
+- https://www.wikidata.org/wiki/Q11829392
+schema_version: 1

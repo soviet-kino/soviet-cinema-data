@@ -1,0 +1,13 @@
+id: amnestia-1982
+title_ru: Amnestia
+title_original: Amnestia
+year: 1982
+country:
+- PL
+runtime_min: 87
+external_ids:
+  wikidata: Q9150097
+  imdb: tt0083551
+sources:
+- https://www.wikidata.org/wiki/Q9150097
+schema_version: 1

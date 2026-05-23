@@ -1,0 +1,13 @@
+id: horoskop-1969
+title_ru: Horoskop
+title_original: Horoskop
+year: 1969
+country:
+- YU
+runtime_min: 87
+external_ids:
+  wikidata: Q12760908
+  imdb: tt0123107
+sources:
+- https://www.wikidata.org/wiki/Q12760908
+schema_version: 1

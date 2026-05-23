@@ -1,0 +1,13 @@
+id: train-for-hollywood-1987
+title_ru: Train for Hollywood
+title_original: Train for Hollywood
+year: 1987
+country:
+- PL
+runtime_min: 97
+external_ids:
+  wikidata: Q11820026
+  imdb: tt0093752
+sources:
+- https://www.wikidata.org/wiki/Q11820026
+schema_version: 1

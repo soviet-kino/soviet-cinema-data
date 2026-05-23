@@ -1,0 +1,13 @@
+id: medium-1985
+title_ru: Medium
+title_original: Medium
+year: 1985
+country:
+- PL
+runtime_min: 98
+external_ids:
+  wikidata: Q11776842
+  imdb: tt0089574
+sources:
+- https://www.wikidata.org/wiki/Q11776842
+schema_version: 1

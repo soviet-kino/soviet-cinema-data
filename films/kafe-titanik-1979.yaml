@@ -1,0 +1,13 @@
+id: kafe-titanik-1979
+title_ru: Кафе «Титаник»
+title_original: Кафе «Титаник»
+year: 1979
+country:
+- YU
+runtime_min: 61
+external_ids:
+  wikidata: Q2414765
+  imdb: tt0135804
+sources:
+- https://www.wikidata.org/wiki/Q2414765
+schema_version: 1

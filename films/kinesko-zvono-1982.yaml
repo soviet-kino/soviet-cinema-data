@@ -1,0 +1,13 @@
+id: kinesko-zvono-1982
+title_ru: Kinesko zvono
+title_original: Kinesko zvono
+year: 1982
+country:
+- YU
+runtime_min: 13
+external_ids:
+  wikidata: Q31184865
+  imdb: tt0246001
+sources:
+- https://www.wikidata.org/wiki/Q31184865
+schema_version: 1

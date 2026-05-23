@@ -1,0 +1,13 @@
+id: gde-to-v-evrope-1948
+title_ru: Где-то в Европе
+title_original: Где-то в Европе
+year: 1948
+country:
+- HU
+runtime_min: 100
+external_ids:
+  wikidata: Q655099
+  imdb: tt0039949
+sources:
+- https://www.wikidata.org/wiki/Q655099
+schema_version: 1

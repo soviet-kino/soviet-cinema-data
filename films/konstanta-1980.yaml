@@ -1,0 +1,13 @@
+id: konstanta-1980
+title_ru: Константа
+title_original: Константа
+year: 1980
+country:
+- PL
+runtime_min: 95
+external_ids:
+  wikidata: Q1405186
+  imdb: tt0080561
+sources:
+- https://www.wikidata.org/wiki/Q1405186
+schema_version: 1

@@ -1,0 +1,13 @@
+id: klucznik-1980
+title_ru: Klucznik
+title_original: Klucznik
+year: 1980
+country:
+- PL
+runtime_min: 80
+external_ids:
+  wikidata: Q11740344
+  imdb: tt0079409
+sources:
+- https://www.wikidata.org/wiki/Q11740344
+schema_version: 1

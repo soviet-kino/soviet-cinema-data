@@ -1,0 +1,13 @@
+id: eroika-1958
+title_ru: Эроика
+title_original: Эроика
+year: 1958
+country:
+- PL
+runtime_min: 78
+external_ids:
+  wikidata: Q4532597
+  imdb: tt0050359
+sources:
+- https://www.wikidata.org/wiki/Q4532597
+schema_version: 1

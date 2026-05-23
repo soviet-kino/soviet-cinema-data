@@ -1,0 +1,13 @@
+id: journalist-1979
+title_ru: Journalist
+title_original: Journalist
+year: 1979
+country:
+- YU
+runtime_min: 113
+external_ids:
+  wikidata: Q6296254
+  imdb: tt0079645
+sources:
+- https://www.wikidata.org/wiki/Q6296254
+schema_version: 1

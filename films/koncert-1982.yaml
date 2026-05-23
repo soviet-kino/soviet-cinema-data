@@ -1,0 +1,12 @@
+id: koncert-1982
+title_ru: Koncert
+title_original: Koncert
+year: 1982
+country:
+- PL
+external_ids:
+  wikidata: Q6428902
+  imdb: tt0087570
+sources:
+- https://www.wikidata.org/wiki/Q6428902
+schema_version: 1

@@ -1,0 +1,13 @@
+id: palata-6-film-1987-1987
+title_ru: Палата № 6 (фильм, 1987)
+title_original: Палата № 6 (фильм, 1987)
+year: 1987
+country:
+- PL
+runtime_min: 81
+external_ids:
+  wikidata: Q9332864
+  imdb: tt0290051
+sources:
+- https://www.wikidata.org/wiki/Q9332864
+schema_version: 1
