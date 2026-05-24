@@ -11,3 +11,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1198562
 schema_version: 1
+director:
+- ford-aleksandr
+screenwriter:
+- kruchkovskiy-leon
+- cheshko-bogdan
+composer:
+- serotskiy-kazimezh
+cast:
+- person: fridmann-stefan
+- person: karchevskiy-zdzislav
+- person: beata-tyshkevich
+- person: chizhevskaya-elzhbeta
+- person: lomnitskiy-tadeush
+- person: pugovkin-mikhail-ivanovich
+- person: klosovskiy-roman
+- person: sanaev-vsevolod-vasilevich
+- person: zagurskiy-voytsekh
+- person: zalivskiy-tomash
+- person: rudzkiy-kazimezh
+- person: fievskiy-tadeush
+- person: khamets-kshishtof
+- person: yulskiy-tsezary
+- person: gustav-lyutkevich
+- person: moes-jerzy
+- person: stoor-mechislav
+- person: kuzniar-zdzis-aw
+- person: lubelski-zdzis-aw
+- person: shimanskiy-zdzislav
+- person: shimborskiy-zdzislav

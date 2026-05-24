@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16082504
 schema_version: 1
+director:
+- kadijevic-or-e
+cast:
+- person: katarina-olivera
+- person: toma-kuruzovich
+- person: yagodich-ivan
+- person: sultanovic-goran

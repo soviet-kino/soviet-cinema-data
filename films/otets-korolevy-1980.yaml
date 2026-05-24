@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339533
 schema_version: 1
+director:
+- solarz-wojciech
+screenwriter:
+- stavinskiy-ezhi
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- maleki-matsey
+cast:
+- person: englert-yan
+- person: pomykala-dorota
+- person: senyuk-anna
+- person: dmokhovskiy-mariush
+- person: benua-lyudvik
+- person: makhovskiy-ignatsy
+studio:
+- studio-filmowe-kadr

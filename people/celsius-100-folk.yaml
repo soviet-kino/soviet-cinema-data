@@ -1,0 +1,9 @@
+id: celsius-100-folk
+name_ru: 100 Folk Celsius
+roles:
+- composer
+external_ids:
+  wikidata: Q1484253
+sources:
+- https://www.wikidata.org/wiki/Q1484253
+schema_version: 1

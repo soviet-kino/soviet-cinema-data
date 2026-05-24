@@ -1,0 +1,9 @@
+id: bar-adon-pessah
+name_ru: Pessah Bar-Adon
+roles:
+- actor
+external_ids:
+  wikidata: Q2906944
+sources:
+- https://www.wikidata.org/wiki/Q2906944
+schema_version: 1

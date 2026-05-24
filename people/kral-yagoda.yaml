@@ -1,0 +1,9 @@
+id: kral-yagoda
+name_ru: Ягода Краль
+roles:
+- actor
+external_ids:
+  wikidata: Q12633456
+sources:
+- https://www.wikidata.org/wiki/Q12633456
+schema_version: 1

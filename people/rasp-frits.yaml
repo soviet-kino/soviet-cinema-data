@@ -1,0 +1,9 @@
+id: rasp-frits
+name_ru: Фриц Расп
+roles:
+- actor
+external_ids:
+  wikidata: Q91058
+sources:
+- https://www.wikidata.org/wiki/Q91058
+schema_version: 1

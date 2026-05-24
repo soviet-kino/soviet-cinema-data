@@ -1,0 +1,9 @@
+id: teylor-rod
+name_ru: Род Тейлор
+roles:
+- actor
+external_ids:
+  wikidata: Q308459
+sources:
+- https://www.wikidata.org/wiki/Q308459
+schema_version: 1

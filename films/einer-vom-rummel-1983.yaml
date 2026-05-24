@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106717224
 schema_version: 1
+director:
+- gro-mann-lothar
+screenwriter:
+- falkenhayn-harry
+- gro-mann-lothar
+cinematographer:
+- kofer-andreas
+cast:
+- person: kryosner-renate
+- person: navroki-dirk

@@ -1,0 +1,9 @@
+id: prosi-sander
+name_ru: Сандер Проси
+roles:
+- actor
+external_ids:
+  wikidata: Q3338626
+sources:
+- https://www.wikidata.org/wiki/Q3338626
+schema_version: 1

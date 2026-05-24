@@ -1,0 +1,9 @@
+id: torka-zanie
+name_ru: Зание Торка
+roles:
+- actor
+external_ids:
+  wikidata: Q1368054
+sources:
+- https://www.wikidata.org/wiki/Q1368054
+schema_version: 1

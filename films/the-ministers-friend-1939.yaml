@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123505038
 schema_version: 1
+director:
+- banky-viktor

@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16761375
 schema_version: 1
+director:
+- shotra-zdravko
+cast:
+- person: simich-nikola
+- person: bora-todorovich
+- person: zoran-radmilovich
+- person: alesha-vuchkovich
+- person: spiridonovic-olga
+- person: zivotic-velimir
+- person: nadezhda-vukichevich

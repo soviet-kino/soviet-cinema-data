@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4350181
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- vaynshtok-vladimir-petrovich
+cinematographer:
+- magid-moisey-sholomovich
+composer:
+- slonimskiy-sergey-mikhaylovich
+cast:
+- person: shulgin-vasiliy-vitalevich
+- person: petrov-fyodor-nikolaevich
+studio:
+- lenfilm

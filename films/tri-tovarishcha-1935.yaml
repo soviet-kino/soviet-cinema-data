@@ -8,6 +8,22 @@ runtime_min: 95
 external_ids:
   wikidata: Q4462907
   imdb: tt0129455
+  youtube: FeS6yLFNw7U
 sources:
 - https://www.wikidata.org/wiki/Q4462907
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- kapler-aleksey-yakovlevich
+- zlatogorova-tatyana-semyonovna
+cinematographer:
+- danashevskiy-vladimir-anatolevich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: batalov-nikolay-petrovich
+- person: zharov-mikhail-ivanovich
+- person: goryunov-anatoliy-iosifovich
+studio:
+- lenfilm

@@ -8,6 +8,26 @@ runtime_min: 118
 external_ids:
   wikidata: Q4367930
   imdb: tt0031802
+  youtube: F0on4RhZ960
 sources:
 - https://www.wikidata.org/wiki/Q4367930
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+composer:
+- sviridov-georgiy
+cast:
+- person: belov-gavriil-nikitich
+- person: blinnikov-sergey-kapitonovich
+- person: bolduman-mikhail-panteleymonovich
+- person: volkov-leonid-andreevich
+- person: dobronravov-boris-georgievich
+- person: dorofeev-vladimir-andreevich
+- person: maksimova-elena
+- person: khovanskiy-aleksandr-pankratevich
+- person: khokhlov-aleksandr-evgenevich
+- person: khryashchikov-nikolay-prokhorovich
+- person: glazunov-osvald-fyodorovich
+studio:
+- mosfilm
+poster_commons: Podnjataja tselina-1939.jpg

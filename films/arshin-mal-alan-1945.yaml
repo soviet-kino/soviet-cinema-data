@@ -8,6 +8,29 @@ runtime_min: 96
 external_ids:
   wikidata: Q4071040
   imdb: tt0037520
+  youtube: UQbjHlLeO_k
 sources:
 - https://www.wikidata.org/wiki/Q4071040
 schema_version: 1
+director:
+- leshchenko-nikolay-mikhaylovich
+- ogly-takhmasib-rza-abbas-kuli
+screenwriter:
+- rakhman-sabit
+cinematographer:
+- atakshiev-ali-settar
+- ogly-dadashev-mukhtar-baba
+composer:
+- gadzhibekov-uzeir
+cast:
+- person: kyzy-kalantarly-minavver-samed
+- person: beybutov-rashid-madzhid-ogly
+- person: kyzy-badirbeyli-leyla-agalar
+- person: aliev-mirza-aga-ali-ogly
+- person: ogly-abdullaev-lyutfali-amir
+- person: mekhralieva-fatima
+- person: ogly-efendiev-ismail-makhmud
+- person: ogly-guseyn-zade-alekper-guseyn
+- person: melikova-rakhilya
+studio:
+- azerbaydzhanfilm

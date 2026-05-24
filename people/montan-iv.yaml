@@ -1,0 +1,9 @@
+id: montan-iv
+name_ru: Ив Монтан
+roles:
+- actor
+external_ids:
+  wikidata: Q106057
+sources:
+- https://www.wikidata.org/wiki/Q106057
+schema_version: 1

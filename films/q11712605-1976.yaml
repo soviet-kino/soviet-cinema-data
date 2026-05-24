@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11712605
 schema_version: 1
+director:
+- soko-owska-anna
+screenwriter:
+- yurgelevichova-irena
+- soko-owska-anna
+cinematographer:
+- korcelli-jacek
+composer:
+- ezhi-matushkevich
+cast:
+- person: bogatko-barbara
+studio:
+- studio-filmowe-kadr

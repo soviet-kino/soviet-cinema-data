@@ -1,0 +1,9 @@
+id: korompai-vali
+name_ru: Vali Korompai
+roles:
+- actor
+external_ids:
+  wikidata: Q25452044
+sources:
+- https://www.wikidata.org/wiki/Q25452044
+schema_version: 1

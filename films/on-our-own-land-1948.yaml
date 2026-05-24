@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31183780
 schema_version: 1
+director:
+- shtiglits-frantse
+composer:
+- kozina-maryan
+cast:
+- person: sever-stane
+- person: sesek-boris

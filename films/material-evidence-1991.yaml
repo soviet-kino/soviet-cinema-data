@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12275202
 schema_version: 1
+director:
+- punchev-borislav
+screenwriter:
+- punchev-borislav
+composer:
+- donchev-kiril
+cast:
+- person: todev-nikola
+- person: gospodinov-kiril
+- person: gudev-stoyan
+- person: doynov-alexander
+- person: puncheva-boryana
+- person: dosev-doso
+- person: khristov-ivaylo
+- person: yanchev-ivan
+- person: nikolova-pepa
+- person: kokalanov-svetozar
+- person: pishtalov-stanislav
+- person: stoev-stoyan

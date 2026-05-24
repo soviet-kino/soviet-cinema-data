@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994648
 schema_version: 1
+director:
+- osyka-leonid
+screenwriter:
+- osyka-leonid
+- tkachenko-anatoliy-sergeevich
+composer:
+- guba-vladimir
+cast:
+- person: gladiy-grigoriy-stepanovich
+- person: khmelnitskiy-boris
+- person: oding-alla-borisovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

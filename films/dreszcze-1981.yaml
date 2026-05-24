@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3553253
 schema_version: 1
+director:
+- marczewski-wojciech
+screenwriter:
+- marczewski-wojciech
+cinematographer:
+- zelinskiy-ezhi
+composer:
+- tshaskovskiy-andzhey
+cast:
+- person: linda-boguslav
+- person: pritulyak-malgozhata
+- person: kondrat-marek
+- person: opanya-marian
+- person: binchitskiy-ezhi
+- person: dobrovolska-gosya
+- person: kotys-ryshard
+- person: musyal-vlodzimezh
+- person: belyavskiy-zygmunt
+- person: marczewska-teresa
+- person: kotsa-bogdan
+- person: savitskaya-tereza
+- person: grotowicz-wiktor
+- person: kovalskiy-vladislav
+- person: vardeyn-zdzislav
+- person: janowski-mieczys-aw
+studio:
+- tor-kinostudiya

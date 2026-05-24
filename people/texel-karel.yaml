@@ -1,0 +1,9 @@
+id: texel-karel
+name_ru: Karel Texel
+roles:
+- actor
+external_ids:
+  wikidata: Q12028556
+sources:
+- https://www.wikidata.org/wiki/Q12028556
+schema_version: 1

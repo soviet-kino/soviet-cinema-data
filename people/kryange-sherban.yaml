@@ -1,0 +1,9 @@
+id: kryange-sherban
+name_ru: Шербан Крянгэ
+roles:
+- director
+external_ids:
+  wikidata: Q12744242
+sources:
+- https://www.wikidata.org/wiki/Q12744242
+schema_version: 1

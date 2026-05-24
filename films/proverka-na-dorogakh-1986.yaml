@@ -8,6 +8,22 @@ runtime_min: 96
 external_ids:
   wikidata: Q3213961
   imdb: tt0067625
+  youtube: 476-3_hAJOs
 sources:
 - https://www.wikidata.org/wiki/Q3213961
 schema_version: 1
+director:
+- german-aleksey-yurevich
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cast:
+- person: bykov-rolan-antonovich
+- person: pavlov-viktor-pavlovich
+- person: solonitsyn-anatoly
+- person: borisov-oleg-ivanovich
+- person: burlyaev-nikolai
+- person: zamanskiy-vladimir-petrovich
+- person: bulgakova-mayya
+- person: zaytse-anda
+studio:
+- lenfilm

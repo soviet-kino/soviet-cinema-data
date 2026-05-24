@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4260100
 schema_version: 1
+director:
+- markovskiy-evgeniy-nikolaevich
+screenwriter:
+- tomin-yuriy-gennadevich
+composer:
+- slonimskiy-sergey-mikhaylovich
+cast:
+- person: shakurov-sergey-kayumovich
+studio:
+- belarusfilm
+- ekran

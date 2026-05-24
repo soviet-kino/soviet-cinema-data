@@ -1,0 +1,9 @@
+id: seed-awad-el
+name_ru: Awad El Seed
+roles:
+- actor
+external_ids:
+  wikidata: Q133317892
+sources:
+- https://www.wikidata.org/wiki/Q133317892
+schema_version: 1

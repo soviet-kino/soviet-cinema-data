@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2072323
 schema_version: 1
+director:
+- antchak-ezhi
+screenwriter:
+- skovronskiy-zdzislav
+cinematographer:
+- lyambakh-boguslav
+- janczewski-jan
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: baranskaya-yadviga
+- person: nemchik-leon
+- person: olbrykhskiy-daniel
+- person: novak-yuzef
+- person: dmokhovskiy-mariush
+- person: milskiy-stanislav
+- person: khancha-vladislav
+- person: stanislav-yasyukevich
+- person: borovskiy-khenrik
+- person: krasitskiy-andzhey
+- person: pavlik-bronislav
+- person: gogolevskiy-ignatsy
+- person: khomerskaya-mariya
+- person: dewoyno-w-adys-aw
+- person: vodynskaya-danuta
+- person: peratskiy-yuzef
+- person: khmelevska-kristina
+- person: kalenik-mieczys-aw
+studio:
+- iluzjon

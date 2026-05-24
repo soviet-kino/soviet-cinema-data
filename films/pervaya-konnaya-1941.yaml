@@ -8,6 +8,18 @@ runtime_min: 97
 external_ids:
   wikidata: Q4348933
   imdb: tt1605753
+  youtube: jwaWE8NlV-I
 sources:
 - https://www.wikidata.org/wiki/Q4348933
 schema_version: 1
+director:
+- dzigan-efim-lvovich
+- beryozko-georgiy-sergeevich
+screenwriter:
+- vishnevskiy-vsevolod-vitalevich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+studio:
+- mosfilm

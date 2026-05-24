@@ -1,0 +1,9 @@
+id: sabakh
+name_ru: Сабах
+roles:
+- actor
+external_ids:
+  wikidata: Q2600118
+sources:
+- https://www.wikidata.org/wiki/Q2600118
+schema_version: 1

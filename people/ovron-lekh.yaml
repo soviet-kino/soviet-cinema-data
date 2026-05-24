@@ -1,0 +1,9 @@
+id: ovron-lekh
+name_ru: Лех Оврон
+roles:
+- actor
+external_ids:
+  wikidata: Q4330776
+sources:
+- https://www.wikidata.org/wiki/Q4330776
+schema_version: 1

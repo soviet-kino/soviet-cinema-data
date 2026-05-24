@@ -1,0 +1,9 @@
+id: sheps-siril
+name_ru: Сирил Шэпс
+roles:
+- actor
+external_ids:
+  wikidata: Q1148690
+sources:
+- https://www.wikidata.org/wiki/Q1148690
+schema_version: 1

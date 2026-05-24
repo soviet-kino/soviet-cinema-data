@@ -8,6 +8,18 @@ runtime_min: 65
 external_ids:
   wikidata: Q97191688
   imdb: tt2522468
+  youtube: _idAt-Y_C_c
 sources:
 - https://www.wikidata.org/wiki/Q97191688
 schema_version: 1
+director:
+- krishtofovich-vyacheslav-sigizmundovich
+screenwriter:
+- krishtofovich-vyacheslav-sigizmundovich
+- fataliev-ramiz-mamedali-ogly
+cinematographer:
+- kalyuta-vilen-aleksandrovich
+composer:
+- khrapachev-vadim-yurevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

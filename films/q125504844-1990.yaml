@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q125504844
 schema_version: 1
+screenwriter:
+- panchev-pancho
+composer:
+- mikhaylov-angel
+cast:
+- person: tsvetkova-vanya
+- person: angelova-iskra

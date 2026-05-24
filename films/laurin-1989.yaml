@@ -8,6 +8,15 @@ runtime_min: 84
 external_ids:
   wikidata: Q15041814
   imdb: tt0097719
+  youtube: EQfsh8ixN1M
 sources:
 - https://www.wikidata.org/wiki/Q15041814
 schema_version: 1
+director:
+- sigl-robert
+cast:
+- person: hamori-ildiko
+- person: eperjes-karoly
+- person: karner-brigitta
+- person: szinetar-dora
+- person: temessy-hedi

@@ -8,6 +8,23 @@ runtime_min: 94
 external_ids:
   wikidata: Q4055402
   imdb: tt0096858
+  youtube: M5xA3aT0Adc
 sources:
 - https://www.wikidata.org/wiki/Q4055402
 schema_version: 1
+director:
+- tumanishvili-mikhail-iosifovich
+screenwriter:
+- korotkov-yuriy-marksovich
+composer:
+- babushkin-viktor-borisovich
+cast:
+- person: sokolova-lyubov-sergeevna
+- person: pastukhov-nikolay-isaakovich
+- person: okhlobystina-oksana
+- person: voznesenskaya-anastasiya-valentinovna
+- person: ilin-vladimir-adolfovich
+- person: nefyodov-igor-vyacheslavovich
+- person: romanov-boris-leonidovich
+studio:
+- mosfilm

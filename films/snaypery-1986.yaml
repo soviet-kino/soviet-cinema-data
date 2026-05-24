@@ -8,6 +8,15 @@ runtime_min: 100
 external_ids:
   wikidata: Q100148111
   imdb: tt0175183
+  youtube: T2LG_jU4Kqc
 sources:
 - https://www.wikidata.org/wiki/Q100148111
 schema_version: 1
+director:
+- shamshiev-bolotbek
+cinematographer:
+- aliev-murat-abduvalievich
+composer:
+- lebedev-viktor-mikhaylovich
+studio:
+- kazakhfilm

@@ -1,0 +1,9 @@
+id: darably-rza
+name_ru: Рза Дараблы
+roles:
+- actor
+external_ids:
+  wikidata: Q12845144
+sources:
+- https://www.wikidata.org/wiki/Q12845144
+schema_version: 1

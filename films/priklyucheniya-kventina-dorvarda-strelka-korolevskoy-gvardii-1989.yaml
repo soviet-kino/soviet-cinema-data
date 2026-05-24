@@ -8,6 +8,27 @@ runtime_min: 92
 external_ids:
   wikidata: Q4378418
   imdb: tt0174137
+  youtube: LWtM1fqTFNA
 sources:
 - https://www.wikidata.org/wiki/Q4378418
 schema_version: 1
+director:
+- tarasov-sergey
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: khmelnitskiy-boris
+- person: kabo-olga-igorevna
+- person: inshakov-aleksandr-ivanovich
+- person: paul-paulovich-butkevich
+- person: koznov-aleksandr-vyacheslavovich
+- person: kuznetsov-yuriy-aleksandrovich
+- person: kulagin-leonid-nikolaevich
+- person: pashutin-aleksandr-sergeevich
+- person: tarasov-sergey
+- person: tomkus-vitautas-romualdas
+- person: khimichev-boris-petrovich
+- person: yakovlev-aleksandr-anatolevich
+- person: yurenev-andrey-rostislavovich
+- person: druz-yana-andreevna
+studio:
+- mosfilm

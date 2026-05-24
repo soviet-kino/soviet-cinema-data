@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4189439
   imdb: tt5668120
+  youtube: MeKISvjx-0E
 sources:
 - https://www.wikidata.org/wiki/Q4189439
 schema_version: 1
+director:
+- tyutyunnik-anatoliy
+composer:
+- eshpay-andrey
+cast:
+- person: matveeva-albina-borisovna
+studio:
+- odesskaya-kinostudiya

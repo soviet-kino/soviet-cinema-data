@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q15270906
   imdb: tt0063424
+  youtube: uV9htJOBTgM
 sources:
 - https://www.wikidata.org/wiki/Q15270906
 schema_version: 1
+director:
+- ordynskiy-vasiliy-sergeevich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+studio:
+- mosfilm

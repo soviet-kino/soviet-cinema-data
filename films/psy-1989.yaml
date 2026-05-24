@@ -8,6 +8,22 @@ runtime_min: 96
 external_ids:
   wikidata: Q1998914
   imdb: tt1316626
+  youtube: 8rF6qVNtiS8
 sources:
 - https://www.wikidata.org/wiki/Q1998914
 schema_version: 1
+director:
+- svetozarov-dmitriy-iosifovich
+screenwriter:
+- svetozarov-dmitriy-iosifovich
+- krasilshchikov-arkadiy-lvovich
+composer:
+- andrey-makarevich
+- zaytsev-aleksandr-viktorovich
+- kutikov-aleksandr-viktorovich
+cast:
+- person: krasko-andrey
+- person: zhigalov-mikhail-vasilevich
+- person: kuznetsov-yuriy-aleksandrovich
+studio:
+- studiya-panorama

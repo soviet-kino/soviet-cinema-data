@@ -8,6 +8,24 @@ runtime_min: 73
 external_ids:
   wikidata: Q3225036
   imdb: tt0026793
+  youtube: 0UuawelhwbY
 sources:
 - https://www.wikidata.org/wiki/Q3225036
 schema_version: 1
+director:
+- ptushko-aleksandr
+screenwriter:
+- ptushko-aleksandr
+- roshal-grigoriy-lvovich
+cinematographer:
+- renkov-nikolay-stepanovich
+- shkarenkov-ivan
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: bobrov-ivan-vasilevich
+- person: brest-fyodor
+- person: aktyor-konstantinov-vladimir-konstantinovich
+- person: yudin-ivan
+studio:
+- mosfilm

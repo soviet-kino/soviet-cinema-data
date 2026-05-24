@@ -1,0 +1,9 @@
+id: ritsyu-ion
+name_ru: Ион Рицю
+roles:
+- actor
+external_ids:
+  wikidata: Q12730947
+sources:
+- https://www.wikidata.org/wiki/Q12730947
+schema_version: 1

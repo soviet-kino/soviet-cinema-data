@@ -1,0 +1,9 @@
+id: somogyi-nusi
+name_ru: Nusi Somogyi
+roles:
+- actor
+external_ids:
+  wikidata: Q16003069
+sources:
+- https://www.wikidata.org/wiki/Q16003069
+schema_version: 1

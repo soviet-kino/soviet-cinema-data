@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q115806129
 schema_version: 1
+director:
+- belka-jiri
+screenwriter:
+- danek-oldrzhikh
+cinematographer:
+- opletal-vladimir
+composer:
+- fisher-lyubosh
+cast:
+- person: rehor-zdenek
+- person: zagorskiy-boguslav
+- person: balzerova-elishka
+- person: brabets-vladimir
+- person: vikusova-blanka
+- person: slovacek-bretislav
+- person: koza-josef
+- person: hradecky-otto
+- person: charvat-karel
+- person: jarolimek-zdenek
+- person: soukup-karel
+- person: jedlicka-milan

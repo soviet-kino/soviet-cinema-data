@@ -1,0 +1,9 @@
+id: kiss-ferents
+name_ru: Ференц Кисс
+roles:
+- actor
+external_ids:
+  wikidata: Q17582698
+sources:
+- https://www.wikidata.org/wiki/Q17582698
+schema_version: 1

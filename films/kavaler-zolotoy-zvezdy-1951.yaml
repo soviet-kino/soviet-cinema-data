@@ -8,6 +8,23 @@ runtime_min: 118
 external_ids:
   wikidata: Q4206790
   imdb: tt0043701
+  youtube: uPro3_GnOfM
 sources:
 - https://www.wikidata.org/wiki/Q4206790
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+screenwriter:
+- babaevskiy-semyon-petrovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: chirkov-boris-petrovich
+- person: kanaeva-kira-konstantinovna
+- person: nikitich-ratomskiy-vladimir
+- person: chemodurov-anatoliy-vladimirovich
+studio:
+- mosfilm

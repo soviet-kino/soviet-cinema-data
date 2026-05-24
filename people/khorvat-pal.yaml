@@ -1,0 +1,9 @@
+id: khorvat-pal
+name_ru: Пал Хорват
+roles:
+- actor
+external_ids:
+  wikidata: Q18977520
+sources:
+- https://www.wikidata.org/wiki/Q18977520
+schema_version: 1

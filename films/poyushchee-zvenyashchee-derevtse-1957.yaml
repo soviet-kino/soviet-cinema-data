@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q507792
 schema_version: 1
+director:
+- stefani-francesco
+screenwriter:
+- geelhaar-anne
+cinematographer:
+- plintsner-karl
+composer:
+- heddenhausen-friedel-heinz
+cast:
+- person: dyuks-ekart
+- person: vogt-charles-hans
+- person: bodenshtayn-kristel
+- person: besendahl-maria
+- person: fogel-egon
+- person: barten-fredy
+- person: kryuger-richard
+studio:
+- defa

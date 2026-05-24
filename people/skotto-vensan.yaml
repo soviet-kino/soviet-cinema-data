@@ -1,0 +1,9 @@
+id: skotto-vensan
+name_ru: Венсан Скотто
+roles:
+- composer
+external_ids:
+  wikidata: Q3083168
+sources:
+- https://www.wikidata.org/wiki/Q3083168
+schema_version: 1

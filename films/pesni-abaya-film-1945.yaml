@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q12526277
   imdb: tt0175031
+  youtube: Qz_6oMg0lOw
 sources:
 - https://www.wikidata.org/wiki/Q12526277
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+studio:
+- kazakhfilm

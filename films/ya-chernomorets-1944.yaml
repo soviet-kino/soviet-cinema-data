@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19019153
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+- macheret-aleksandr-veniaminovich
+screenwriter:
+- solovyov-leonid-vasilevich
+cast:
+- person: andreev-boris-fyodorovich
+- person: sova-andrey-korneevich
+- person: ishchenko-fyodor-vasilevich
+- person: emelyantseva-larisa-semyonovna
+studio:
+- gruziya-film
+- uzbekfilm

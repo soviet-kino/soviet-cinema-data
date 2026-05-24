@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3508978
 schema_version: 1
+director:
+- vrdolyak-antun
+- papich-krsto
+- vancha-klyakovich
+screenwriter:
+- senecic-zeljko
+cinematographer:
+- tanhofer-nikola
+- pinter-tomislav
+cast:
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: drech-vanya
+- person: kaloper-jagoda
+- person: rogoz-zvonimir
+- person: slobodan-dimitrievich
+- person: spoljar-branko
+- person: lasta-sven
+studio:
+- yadran-film

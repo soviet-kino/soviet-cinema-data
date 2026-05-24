@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9366484
 schema_version: 1
+director:
+- kidawa-janusz
+screenwriter:
+- yanitskiy-ezhi
+composer:
+- kuznyak-khenrik
+cast:
+- person: nemchik-leon
+- person: shonert-miroslav
+- person: kershnovskiy-kshishtof
+- person: gryn-virgiliush
+- person: kleydysh-mariya
+- person: mikhalskiy-stanislav
+- person: szmidt-stefan
+- person: adamski-w-odzimierz
+- person: vysotski-marek
+studio:
+- iluzjon

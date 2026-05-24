@@ -1,0 +1,9 @@
+id: uest-adam
+name_ru: Адам Уэст
+roles:
+- actor
+external_ids:
+  wikidata: Q351156
+sources:
+- https://www.wikidata.org/wiki/Q351156
+schema_version: 1

@@ -1,0 +1,9 @@
+id: stupitsa-mira
+name_ru: Мира Ступица
+roles:
+- actor
+external_ids:
+  wikidata: Q1252067
+sources:
+- https://www.wikidata.org/wiki/Q1252067
+schema_version: 1

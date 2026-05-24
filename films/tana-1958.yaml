@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3299283
 schema_version: 1
+director:
+- damo-kristach
+screenwriter:
+- damo-kristach
+- gyata-fatmir-yusuf
+- jorgaqi-nasho
+composer:
+- zadeja-cesk
+cast:
+- person: logoretsi-mariya
+- person: roshi-kadri
+- person: kurti-tinka
+- person: frasheri-naim
+- person: goka-petar
+- person: manushi-violeta
+- person: pano-andon
+- person: filipi-thimi
+- person: shyuti-ilia
+- person: filipi-lazar
+- person: stefa-mihal
+- person: raidhi-pandi
+studio:
+- albfilm

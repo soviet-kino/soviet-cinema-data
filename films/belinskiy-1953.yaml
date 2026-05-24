@@ -8,6 +8,33 @@ runtime_min: 102
 external_ids:
   wikidata: Q4081961
   imdb: tt0043329
+  youtube: wGnnqQ4mPU8
 sources:
 - https://www.wikidata.org/wiki/Q4081961
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+- german-yuriy-pavlovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- ivanov-sergey-vasilevich
+- magidson-mark-pavlovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: lyubimov-yuriy-petrovich
+- person: vitsin-georgiy-mikhaylovich
+- person: afanasev-nikolay-leonidovich
+- person: belokurov-vladimir-vyacheslavovich
+- person: borisov-aleksandr-fyodorovich
+- person: kurilov-sergey-ivanovich
+- person: mamaeva-nina-vasilevna
+- person: nazvanov-mikhail-mikhaylovich
+- person: skorobogatov-konstantin-vasilevich
+- person: tolubeev-yuriy-vladimirovich
+- person: chestnokov-vladimir-ivanovich
+- person: dmokhovskiy-boris-mikhaylovich
+studio:
+- lenfilm

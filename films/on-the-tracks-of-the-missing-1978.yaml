@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12290873
 schema_version: 1
+director:
+- nikolov-margarit

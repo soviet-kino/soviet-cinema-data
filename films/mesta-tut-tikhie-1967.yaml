@@ -8,6 +8,15 @@ runtime_min: 85
 external_ids:
   wikidata: Q86669308
   imdb: tt5067384
+  youtube: yjhbrGCexgQ
 sources:
 - https://www.wikidata.org/wiki/Q86669308
 schema_version: 1
+director:
+- shchukin-georgiy-borisovich
+screenwriter:
+- svirskiy-grigoriy-tsezarevich
+composer:
+- ilich-rubin-vladimir
+studio:
+- mosfilm

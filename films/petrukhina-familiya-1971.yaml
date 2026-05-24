@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865120
 schema_version: 1
+director:
+- nikonenko-sergey
+screenwriter:
+- nikonenko-sergey
+cinematographer:
+- rodionov-aleksey-borisovich
+cast:
+- person: bondarchuk-natalya-sergeevna
+- person: nikonenko-sergey
+- person: vasileva-ekaterina-sergeevna
+- person: burkov-georgiy-ivanovich
+studio:
+- vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova

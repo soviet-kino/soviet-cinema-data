@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4081067
 schema_version: 1
+director:
+- zelensky-drahos
+cinematographer:
+- innemann-svatopluk
+cast:
+- person: zelensky-drahos
+- person: hurt-jaroslav
+- person: zelensky-karel
+- person: tresnakova-laura
+- person: zelenka-jan
+- person: svarcova-anna
+- person: q101086426
+- person: mejkal-rudolf
+- person: spacek-frantisek
+- person: adamek-karel
+- person: skrdlik-alois
+- person: zuna-antonin

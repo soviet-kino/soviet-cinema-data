@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4375690
   imdb: tt5229498
+  youtube: ThZvammzgck
 sources:
 - https://www.wikidata.org/wiki/Q4375690
 schema_version: 1
+director:
+- korsh-sablin-vladimir-vladimirovich
+screenwriter:
+- krapiva-kondrat
+cinematographer:
+- ilich-gintsburg-aleksandr
+cast:
+- person: platonov-boris-viktorovich
+studio:
+- belarusfilm

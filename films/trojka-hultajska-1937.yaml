@@ -10,3 +10,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9362444
 schema_version: 1
+director:
+- sharo-genrik
+cinematographer:
+- lipinski-stanislav
+composer:
+- vars-khenrik
+cast:
+- person: skonechny-cheslav
+- person: selyanskiy-stanislav
+- person: kondrat-yuzef
+- person: skverchinskaya-irena
+- person: grabovskiy-vladislav
+- person: sempolinskiy-lyudvik
+- person: benita-ina
+- person: orvid-yuzef
+- person: fievskiy-tadeush
+- person: volinskiy-stanislav
+- person: vishnevskaya-tamara
+- person: miszczykowna-aniela
+- person: oskot-wincenty
+- person: uszczewski-leon
+- person: q112491304
+- person: szczerba-antoni
+- person: q132204393
+poster_commons: Trójka hultajska.jpg

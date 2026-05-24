@@ -8,6 +8,23 @@ runtime_min: 77
 external_ids:
   wikidata: Q4366190
   imdb: tt0030594
+  youtube: YT6bymus5Qg
 sources:
 - https://www.wikidata.org/wiki/Q4366190
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- doller-mikhail-ivanovich
+screenwriter:
+- vishnevskiy-vsevolod-vitalevich
+- zarkhi-natan-abramovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+composer:
+- shaporin-yuriy-aleksandrovich
+cast:
+- person: sokolov-vladimir-aleksandrovich
+- person: korchagina-aleksandrovskaya-ekaterina-pavlovna
+- person: solovyov-vladimir-romanovich
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: zagradnik-vatslav
+name_ru: Вацлав Заградник
+roles:
+- composer
+external_ids:
+  wikidata: Q2535848
+sources:
+- https://www.wikidata.org/wiki/Q2535848
+schema_version: 1

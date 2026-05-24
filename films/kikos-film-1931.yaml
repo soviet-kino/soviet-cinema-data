@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16385703
 schema_version: 1
+director:
+- barkhudaryan-patvakan
+screenwriter:
+- darbinyan-matevos
+- barkhudaryan-patvakan
+cast:
+- person: avetisyan-avet
+- person: nersesyan-rachiya
+- person: kocharyan-suren-akimovich
+- person: martirosyan-amasiy
+- person: khachanyan-amvrosiy
+- person: abramyan-khachatur
+- person: garagash-mikayel
+- person: chakhiryan-grigoriy
+studio:
+- armenfilm

@@ -1,0 +1,9 @@
+id: pflug-eva
+name_ru: Ева Пфлуг
+roles:
+- actor
+external_ids:
+  wikidata: Q97602
+sources:
+- https://www.wikidata.org/wiki/Q97602
+schema_version: 1

@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23852206
 schema_version: 1
+director:
+- loebner-vera
+cast:
+- person: frost-simone

@@ -8,6 +8,42 @@ runtime_min: 95
 external_ids:
   wikidata: Q3564069
   imdb: tt0083162
+  youtube: 8u0eIM-tz5Y
 sources:
 - https://www.wikidata.org/wiki/Q3564069
 schema_version: 1
+director:
+- lipskiy-oldrzhikh
+screenwriter:
+- lipskiy-oldrzhikh
+- brdechka-irzhi
+cinematographer:
+- ruzhichka-viktor
+composer:
+- fisher-lyubosh
+cast:
+- person: kopetskiy-milosh
+- person: benyachkova-gabriela
+- person: grushinskiy-rudolf
+- person: ruzhichkova-gelena
+- person: brodskiy-vlastimil
+- person: myslikova-mila
+- person: docholomanskiy-mikhal
+- person: stepanova-barbora
+- person: sr-otakar-brousek
+- person: krechmer-yaroslava
+- person: maresh-vatslav
+- person: kotva-vaclav
+- person: adamcik-samuel
+- person: steimarova-evelyna
+- person: kuban-ogustin
+- person: khartl-yan
+- person: skopechek-yan
+- person: lir-yirzhi
+- person: zhupanich-ladislav
+- person: musil-mirko
+- person: velen-oldrzhikh
+- person: houska-karel
+- person: lipsky-vilem
+studio:
+- barrandov

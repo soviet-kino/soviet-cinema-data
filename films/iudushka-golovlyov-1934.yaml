@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q4205371
   imdb: tt0164542
+  youtube: uTJMmj-TuTg
 sources:
 - https://www.wikidata.org/wiki/Q4205371
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- derzhavin-konstantin-nikolaevich
+composer:
+- pashchenko-andrey-filippovich
+cast:
+- person: gardin-vladimir-rostislavovich
+poster_commons: Плакат к кинофильму «Иудушка Головлёв».jpg

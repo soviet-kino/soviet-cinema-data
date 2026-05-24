@@ -1,0 +1,9 @@
+id: morgan-rid
+name_ru: Рид Морган
+roles:
+- actor
+external_ids:
+  wikidata: Q7300380
+sources:
+- https://www.wikidata.org/wiki/Q7300380
+schema_version: 1

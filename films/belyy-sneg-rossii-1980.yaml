@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4083157
 schema_version: 1
+director:
+- vyshinskiy-yuriy-mikhaylovich
+screenwriter:
+- kotov-aleksandr-aleksandrovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- flyarkovskiy-aleksandr-georgievich
+cast:
+- person: mikolaevska-kristina
+- person: mikhaylov-aleksandr-yakovlevich
+- person: gundareva-natalya-georgievna
+- person: samoylov-vladimir-yakovlevich
+- person: galkin-boris-sergeevich
+studio:
+- mosfilm

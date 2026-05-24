@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1032493
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- bek-nazarov-amo
+studio:
+- vostokkino

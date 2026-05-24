@@ -10,3 +10,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9313040
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- stanislav-ruzhevich
+cinematographer:
+- kshishtof-vinevich
+composer:
+- kilyar-voytsekh
+cast:
+- person: khmurkovskiy-feliks
+- person: senyuk-anna
+- person: olgerd-lukashevich
+- person: shmidt-tadeush
+- person: ordon-lekh
+- person: sokhnatskiy-boguslav
+- person: zbirog-jozef
+- person: khancha-vladislav
+- person: sevruk-aleksander
+- person: lipinskaya-marta
+- person: gogolevskiy-ignatsy
+- person: kleydysh-mariya
+- person: drapinskaya-barbara
+- person: hanin-ryszarda
+- person: kosudarskiy-tadeush
+- person: kovalchuk-edvard
+- person: yarema-vladislav
+- person: barbara-valkuvna
+- person: tsetserskiy-yan
+- person: lesnevskaya-malgozhata
+studio:
+- tor-kinostudiya

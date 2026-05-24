@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130759464
 schema_version: 1
+director:
+- gusner-iris
+screenwriter:
+- gusner-iris
+cinematographer:
+- yaoyte-gyunter

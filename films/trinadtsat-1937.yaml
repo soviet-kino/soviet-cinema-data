@@ -8,6 +8,25 @@ runtime_min: 90
 external_ids:
   wikidata: Q3235808
   imdb: tt0028413
+  youtube: 6Gl0aWjAJ3E
 sources:
 - https://www.wikidata.org/wiki/Q3235808
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- romm-mikhail-ilich
+- prut-iosif-leonidovich
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- aleksandrov-anatoliy-nikolaevich
+cast:
+- person: kuzmina-elena-aleksandrovna
+- person: kryuchkov-nikolay-afanasevich
+- person: fayt-andrey-andreevich
+- person: krylov-stepan-ivanovich
+- person: novoseltsev-ivan-khrisanfovich
+studio:
+- mosfilm
+poster_commons: Плакат к фильму «Тринадцать».jpg

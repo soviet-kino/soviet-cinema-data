@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7107725
 schema_version: 1
+director:
+- yovan-zivanovich
+cast:
+- person: eyk-peter-van
+- person: shultse-vestrum-edit
+- person: zommer-elke
+studio:
+- ccc-film
+- avala-film
+- alfa-film-gmbh
+- interfilm-la

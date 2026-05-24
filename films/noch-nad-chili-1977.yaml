@@ -8,6 +8,22 @@ runtime_min: 111
 external_ids:
   wikidata: Q3023178
   imdb: tt0076465
+  youtube: _CcGGBPFh1I
 sources:
 - https://www.wikidata.org/wiki/Q3023178
 schema_version: 1
+director:
+- kosarev-aleksandr-borisovich
+- alarkon-sebastyan
+screenwriter:
+- alarkon-sebastyan
+cast:
+- person: fyodorov-oleg-pavlovich
+- person: tsuladze-baadur-sokratovich
+- person: chokhonelidze-giuli-yasonovich
+- person: grigoriu-grigore-petru
+- person: aktyor-gavrilov-vsevolod-sergeevich
+- person: guseynov-sadykh
+- person: kaziev-islam-amashevich
+studio:
+- mosfilm

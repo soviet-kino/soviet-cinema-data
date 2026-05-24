@@ -8,6 +8,19 @@ runtime_min: 81
 external_ids:
   wikidata: Q4076713
   imdb: tt0266296
+  youtube: PU5a_lX03DA
 sources:
 - https://www.wikidata.org/wiki/Q4076713
 schema_version: 1
+director:
+- voronin-gennadiy-anatolevich
+screenwriter:
+- mikhalskiy-vatslav-vatslavovich
+cast:
+- person: demyanenko-aleksandr-sergeevich
+- person: belozorovich-leonid-grigorevich
+- person: bortsov-viktor
+- person: khizroeva-patimat-khizrievna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

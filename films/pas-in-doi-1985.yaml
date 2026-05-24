@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7141518
 schema_version: 1
+director:
+- pitsa-dan
+screenwriter:
+- pitsa-dan
+cast:
+- person: bleonts-klaudiu
+- person: nazare-ecaterina

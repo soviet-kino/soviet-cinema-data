@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q106774853
   imdb: tt0064803
+  youtube: mfddIDvu66o
 sources:
 - https://www.wikidata.org/wiki/Q106774853
 schema_version: 1
+director:
+- begalin-mazhit-sapargalievich
+screenwriter:
+- konchalovskiy-andrey
+composer:
+- khagagortyan-eduard
+cast:
+- person: mikhalkov-nikita
+- person: arinbasarova-natalya-utevlevna
+- person: avdyushko-viktor-antonovich
+- person: ryzhov-ivan-petrovich
+studio:
+- kazakhfilm

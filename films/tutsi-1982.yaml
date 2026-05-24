@@ -2,16 +2,61 @@ id: tutsi-1982
 title_ru: Тутси
 title_original: Tootsie
 year: 1982
-country: [US]
+country:
+- US
 runtime_min: 116
-genre: [comedy, drama]
-topics: [foreign-in-soviet-distribution]
+genre:
+- comedy
+- drama
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1985
   title_ru: Тутси
   dubbed: true
 external_ids:
   wikidata: Q221249
+  imdb: tt0084805
 sources:
-  - https://www.wikidata.org/wiki/Q221249
+- https://www.wikidata.org/wiki/Q221249
 schema_version: 1
+director:
+- pollak-sidni
+screenwriter:
+- levinson-barri
+- mey-eleyn
+- shisgal-myurrey
+- gelbart-larri
+- garlend-robert
+cinematographer:
+- royzman-ouen
+composer:
+- grucin-deyv
+cast:
+- person: uorkhol-endi
+- person: myurrey-bill
+- person: khoffman-dastin
+- person: pollak-sidni
+- person: leng-dzhessika
+- person: kapelos-dzhon
+- person: getti-estel
+- person: garr-teri
+- person: muni-debra
+- person: foli-ellen
+- person: geyns-dzhordzh
+- person: devis-dzhina
+- person: dyorning-charlz
+- person: ebersoul-kristin
+- person: koulmen-debni
+- person: tigpen-linn
+- person: borsos-fillip
+- person: belak-doris
+- person: mardirosyan-tom
+- person: linkoln-pamela
+- person: lovett-mardzhori
+- person: cline-walter
+- person: q134584671
+studio:
+- columbia-pictures
+- mirage-enterprises
+poster_commons: Tootsie - plakát Jan Sarkandr Tománek.jpg

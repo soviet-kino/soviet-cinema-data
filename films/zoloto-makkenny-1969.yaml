@@ -2,20 +2,56 @@ id: zoloto-makkenny-1969
 title_ru: Золото Маккенны
 title_original: Mackenna's Gold
 year: 1969
-country: [US]
+country:
+- US
 runtime_min: 128
-genre: [adventure]
-topics: [foreign-in-soviet-distribution]
+genre:
+- adventure
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1974
   title_ru: Золото Маккенны
   dubbed: true
-  notes: >
-    В советском прокате стал одним из лидеров года; песня
-    «Old Turkey Buzzard» в дубляже превратилась в знаменитую
-    «Канюк-стервятник».
+  notes: 'В советском прокате стал одним из лидеров года; песня «Old Turkey Buzzard»
+    в дубляже превратилась в знаменитую «Канюк-стервятник».
+
+    '
 external_ids:
   wikidata: Q909910
+  youtube: DgRBei_FoaU
+  imdb: tt0064615
 sources:
-  - https://www.wikidata.org/wiki/Q909910
+- https://www.wikidata.org/wiki/Q909910
 schema_version: 1
+director:
+- tompson-dzhey-li
+screenwriter:
+- forman-karl
+- allen-genri-uilson
+cinematographer:
+- makdonald-dzhozef
+composer:
+- dzhons-kuinsi
+cast:
+- person: robinson-edvard-g
+- person: uollak-ilay
+- person: pek-gregori
+- person: sharif-omar
+- person: savalas-telli
+- person: nyumar-dzhuli
+- person: morrison-shelli
+- person: meredit-byordzhess
+- person: kueyl-entoni
+- person: kobb-li-dzhey
+- person: sparv-kamilla
+- person: messi-reymond
+- person: kessidi-ted
+- person: chiannelli-eduardo
+- person: uinn-kinan
+- person: dzhori-viktor
+- person: bardett-trevor
+- person: ritti-robert
+- person: fillips-robert
+studio:
+- columbia-pictures

@@ -1,0 +1,9 @@
+id: tabar-per
+name_ru: Пьер Табар
+roles:
+- actor
+external_ids:
+  wikidata: Q2366168
+sources:
+- https://www.wikidata.org/wiki/Q2366168
+schema_version: 1

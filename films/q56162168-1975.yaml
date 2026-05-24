@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56162168
 schema_version: 1
+director:
+- jung-alsen-kurt
+screenwriter:
+- jung-alsen-kurt
+cinematographer:
+- bergmann-khelmut
+composer:
+- nir-gelmut
+cast:
+- person: talbakh-katarina
+- person: shvarts-dzheki
+- person: geshonnek-ervin
+- person: adolf-barbara
+- person: shnitsler-varvara
+- person: myuller-alfred
+- person: shpitser-yan
+- person: pulman-marilu
+- person: forster-lotar
+studio:
+- defa

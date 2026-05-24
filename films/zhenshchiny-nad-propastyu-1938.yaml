@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6424422
 schema_version: 1
+director:
+- vashinskiy-mikhal
+screenwriter:
+- stern-anatol
+cinematographer:
+- wywerka-albert
+composer:
+- vars-khenrik
+cast:
+- person: brodzish-adam
+- person: selyanskiy-stanislav
+- person: samborskiy-boguslav
+- person: hnydzinski-stefan
+- person: andzheevskaya-yadviga
+- person: bogda-mariya
+- person: zhabchinskiy-aleksandr-bozhidar
+- person: yunosha-stempovskiy-kazimezh
+- person: ney-nora-2
+studio:
+- q19722177

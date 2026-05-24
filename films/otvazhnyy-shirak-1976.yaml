@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q52564665
 schema_version: 1
+director:
+- makhmudov-mukadas
+screenwriter:
+- inin-arkadiy
+composer:
+- zatsepin-aleksandr
+cast:
+- person: kurbanov-saydo-boboevich
+- person: sagdiev-samariddin
+studio:
+- tadzhikfilm

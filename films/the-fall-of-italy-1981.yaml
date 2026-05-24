@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506774
 schema_version: 1
+director:
+- zafranovic-lordan
+screenwriter:
+- kovach-mirko
+- zafranovic-lordan
+cinematographer:
+- nikolic-bozidar
+composer:
+- kabilo-alfi
+cast:
+- person: miryana-karanovich
+- person: nalis-antun
+- person: olbrykhskiy-daniel
+- person: velimir-bata-zhivoinovich
+- person: lasich-frano
+- person: dushan-yanichievich
+- person: ena-begovich
+- person: goritsa-popovich
+- person: krivokapic-miodrag
+- person: dragan-maksimovich
+- person: lonza-tonko
+- person: q2444526
+- person: leso-miroljub
+- person: kriticheski-liliana
+- person: gucevac-ranko
+studio:
+- yadran-film

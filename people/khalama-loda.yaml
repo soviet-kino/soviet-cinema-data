@@ -1,0 +1,9 @@
+id: khalama-loda
+name_ru: Лода Халама
+roles:
+- actor
+external_ids:
+  wikidata: Q129416
+sources:
+- https://www.wikidata.org/wiki/Q129416
+schema_version: 1

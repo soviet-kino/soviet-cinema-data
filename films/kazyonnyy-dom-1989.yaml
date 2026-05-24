@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4208515
 schema_version: 1
+director:
+- mkrtchyan-albert
+composer:
+- ulanovskiy-vyacheslav-lvovich
+cast:
+- person: polskikh-galina
+studio:
+- tretiy-rim

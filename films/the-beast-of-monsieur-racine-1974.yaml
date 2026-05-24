@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123288590
 schema_version: 1
+director:
+- deych-dzhin
+composer:
+- belfin-frantisek

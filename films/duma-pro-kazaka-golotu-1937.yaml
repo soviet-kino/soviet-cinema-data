@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4170556
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- fogelman-yuliy-moiseevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: gorlov-nikolay
+- person: grechanyy-aleksandr-vasilevich
+- person: nassonov-konstantin
+- person: rusinova-nina-pavlovna
+- person: sokolov-nikolay-alekseevich
+studio:
+- soyuzdetfilm

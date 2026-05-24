@@ -8,6 +8,15 @@ runtime_min: 124
 external_ids:
   wikidata: Q4226200
   imdb: tt5501674
+  youtube: IGaxxX5eSrE
 sources:
 - https://www.wikidata.org/wiki/Q4226200
 schema_version: 1
+screenwriter:
+- onoprienko-evgeniy-fyodorovich
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: pokrovskaya-alla-borisovna
+studio:
+- moldova-film

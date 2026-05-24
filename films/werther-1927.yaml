@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q22001170
 schema_version: 1
+director:
+- hajsky-milos
+screenwriter:
+- fiala-yirzhi
+cinematographer:
+- kheller-otto
+cast:
+- person: fiala-yirzhi
+- person: poznerova-eliska
+- person: hajsky-milos
+- person: havel-frantisek
+- person: marek-jan
+- person: adam-frantisek
+- person: zidlicky-vladimir
+- person: mayrova-marta
+- person: hors-ola

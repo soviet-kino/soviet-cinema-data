@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184786
 schema_version: 1
+director:
+- makarovic-berislav
+cast:
+- person: sokolovich-bertok-semka
+- person: zlatko-tsrnkovich
+- person: kojadinovic-ugljesa
+- person: levaj-otokar
+- person: zoricic-zvonimir
+- person: toryanach-zvonimir

@@ -8,6 +8,22 @@ runtime_min: 65
 external_ids:
   wikidata: Q4350182
   imdb: tt4876634
+  youtube: 38HIbJFs61c
 sources:
 - https://www.wikidata.org/wiki/Q4350182
 schema_version: 1
+director:
+- krishtofovich-vyacheslav-sigizmundovich
+screenwriter:
+- tokareva-viktoriya-samoylovna
+cinematographer:
+- trushkovskiy-vasiliy-timofeevich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: kvasha-igor-vladimirovich
+- person: udovichenko-larisa-ivanovna
+- person: zhulina-olga-nikolaevna
+- person: pokrovskaya-alla-borisovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -1,0 +1,9 @@
+id: tot-amerigo
+name_ru: Америго Тот
+roles:
+- actor
+external_ids:
+  wikidata: Q216123
+sources:
+- https://www.wikidata.org/wiki/Q216123
+schema_version: 1

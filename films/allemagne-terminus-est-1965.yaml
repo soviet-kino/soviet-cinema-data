@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2837853
 schema_version: 1
+director:
+- buyens-frans
+screenwriter:
+- buyens-frans
+cinematographer:
+- leupold-hans-eberhard
+composer:
+- lesser-volfgang
+cast:
+- person: buyens-frans
+studio:
+- defa

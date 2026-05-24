@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56458572
 schema_version: 1
+director:
+- bevc-joze
+cast:
+- person: zupanchich-milena

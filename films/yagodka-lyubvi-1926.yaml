@@ -8,6 +8,15 @@ runtime_min: 25
 external_ids:
   wikidata: Q2597421
   imdb: tt0017007
+  youtube: KqTZ3xxNZhQ
 sources:
 - https://www.wikidata.org/wiki/Q2597421
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+cast:
+- person: barskaya-margarita-aleksandrovna
+- person: krushelnitskiy-maryan-mikhaylovich
+studio:
+- vseukrainskoe-fotokinoupravlenie
+poster_commons: Ягідки кохання, афіша.jpg

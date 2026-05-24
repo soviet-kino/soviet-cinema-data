@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101699
 schema_version: 1
+director:
+- streych-yanis
+composer:
+- stabulnieks-uldis
+cast:
+- person: leyaskalns-yuris
+- person: paukshtello-yanis
+studio:
+- rizhskaya-kinostudiya

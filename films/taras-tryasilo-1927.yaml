@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q9355601
   imdb: tt11885930
+  youtube: Q28zmQ9bTco
 sources:
 - https://www.wikidata.org/wiki/Q9355601
 schema_version: 1
+director:
+- chardynin-pyotr-ivanovich
+studio:
+- vseukrainskoe-fotokinoupravlenie

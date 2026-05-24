@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1138065
 schema_version: 1
+director:
+- vertov-dziga
+screenwriter:
+- vertov-dziga
+cinematographer:
+- surenskiy-dmitriy-vasilevich
+composer:
+- shaporin-yuriy-aleksandrovich
+studio:
+- mezhrabpomfilm

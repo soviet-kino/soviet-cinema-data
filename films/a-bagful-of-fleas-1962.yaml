@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q104798426
 schema_version: 1
+director:
+- khitilova-vera
+screenwriter:
+- khitilova-vera
+cinematographer:
+- shofr-yaromir
+composer:
+- klusak-yan
+cast:
+- person: cockova-helga
+studio:
+- q136035642

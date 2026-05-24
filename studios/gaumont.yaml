@@ -1,0 +1,8 @@
+id: gaumont
+name_ru: Gaumont
+country: FR
+external_ids:
+  wikidata: Q913462
+sources:
+- https://www.wikidata.org/wiki/Q913462
+schema_version: 1

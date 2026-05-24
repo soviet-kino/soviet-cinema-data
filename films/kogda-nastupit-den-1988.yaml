@@ -8,6 +8,9 @@ runtime_min: 89
 external_ids:
   wikidata: Q112180603
   imdb: tt0307066
+  youtube: c1-OWfxjaE8
 sources:
 - https://www.wikidata.org/wiki/Q112180603
 schema_version: 1
+studio:
+- sverdlovskaya-kinostudiya

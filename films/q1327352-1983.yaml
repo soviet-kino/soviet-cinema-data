@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1327352
 schema_version: 1
+director:
+- fogel-piter
+cinematographer:
+- yaoyte-gyunter
+composer:
+- anders-khermann
+studio:
+- deutscher-fernsehfunk

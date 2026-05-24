@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3240855
 schema_version: 1
+director:
+- kyortis-maykl
+screenwriter:
+- molnar-ferents
+cast:
+- person: chortos-gyula
+- person: lenkeffy-ica-von

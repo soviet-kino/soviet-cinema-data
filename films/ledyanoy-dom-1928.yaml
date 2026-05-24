@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q111461110
 schema_version: 1
+director:
+- eggert-konstantin
+screenwriter:
+- shklovskiy-viktor-borisovich
+- grebner-georgiy-eduardovich
+- leonidov-oleg-leonidovich
+cinematographer:
+- ermolov-pyotr-vasilevich
+cast:
+- person: dmokhovskaya-anna-mikhaylovna
+- person: malinovskaya-vera-stepanovna
+- person: rybnikov-nikolay-nikolaevich-2
+studio:
+- mezhrabpom-rus
+poster_commons: Ledyanoy dom (1).jpg

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16355858
 schema_version: 1
+director:
+- dunkers-olgert
+screenwriter:
+- zigmonte-dagnija
+cinematographer:
+- sr-davis-simanis
+composer:
+- kalnynsh-imants
+cast:
+- person: reynis-yanis
+- person: plepis-rudolfs
+- person: apine-mayya
+studio:
+- rizhskaya-kinostudiya

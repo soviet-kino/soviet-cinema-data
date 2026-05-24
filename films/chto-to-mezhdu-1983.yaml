@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7021695
 schema_version: 1
+director:
+- srdzhan-karanovich
+screenwriter:
+- srdzhan-karanovich
+cinematographer:
+- zalar-zhivko
+composer:
+- zoran-simyanovich
+cast:
+- person: predrag-manoylovich
+- person: cvejic-branko
+- person: sonya-savich
+- person: nikolich-dragan
+- person: goritsa-popovich
+- person: dzhelika-sretenovich
+- person: ulmanski-renata
+- person: byford-timothy-john
+- person: zorka-manoylovich
+studio:
+- centar-film

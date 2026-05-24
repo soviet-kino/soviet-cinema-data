@@ -8,6 +8,19 @@ runtime_min: 97
 external_ids:
   wikidata: Q4104462
   imdb: tt0146339
+  youtube: lKhDCvTriic
 sources:
 - https://www.wikidata.org/wiki/Q4104462
 schema_version: 1
+director:
+- poplavskaya-irina-ivanovna
+screenwriter:
+- poplavskaya-irina-ivanovna
+composer:
+- muravlyov-aleksey-alekseevich
+cast:
+- person: bondarchuk-natalya-sergeevna
+- person: ostroumova-olga-mikhaylovna
+- person: kononov-mikhail-ivanovich
+studio:
+- mosfilm

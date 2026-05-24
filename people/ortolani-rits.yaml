@@ -1,0 +1,9 @@
+id: ortolani-rits
+name_ru: Риц Ортолани
+roles:
+- composer
+external_ids:
+  wikidata: Q288217
+sources:
+- https://www.wikidata.org/wiki/Q288217
+schema_version: 1

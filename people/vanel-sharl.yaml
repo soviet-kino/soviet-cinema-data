@@ -1,0 +1,9 @@
+id: vanel-sharl
+name_ru: Шарль Ванель
+roles:
+- actor
+external_ids:
+  wikidata: Q965918
+sources:
+- https://www.wikidata.org/wiki/Q965918
+schema_version: 1

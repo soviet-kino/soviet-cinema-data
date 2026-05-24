@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19267467
 schema_version: 1
+director:
+- stanislav-lenartovich
+screenwriter:
+- szumanska-ewa
+- stanislav-lenartovich
+cinematographer:
+- stavitskiy-ezhi
+composer:
+- kilyar-voytsekh
+cast:
+- person: karchevskiy-zdzislav
+- person: cybulski-zbigniew
+- person: maklakiewicz-zdzis-aw
+- person: mikolaevska-kristina
+- person: nemchik-leon
+- person: ronchevskiy-ryshard
+- person: mrozek-andrzej
+- person: polkowski-andrzej
+- person: matysik-ferdinand
+- person: gronkovskiy-stanislav
+- person: tushinskaya-tereza
+- person: wilkosz-w-odzimierz
+- person: kuzniar-zdzis-aw
+- person: khronitskiy-adolf
+- person: kuzemskiy-eliash
+- person: pshegrodskiy-igor
+- person: uryga-jan
+- person: peratskiy-yuzef
+- person: litvin-kshishtof
+- person: fus-kshishtof
+- person: dzieszynski-adam
+- person: kossowicz-andrzej
+studio:
+- studio-filmowe-kadr

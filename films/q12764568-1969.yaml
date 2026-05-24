@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12764568
 schema_version: 1
+director:
+- q12773221
+screenwriter:
+- q12773221
+cinematographer:
+- grussmann-jozef
+cast:
+- person: rimko-andrej
+- person: slabejova-bozena
+- person: gaborova-adela
+- person: st-michal-ravinger
+- person: ml-michal-ravinger
+- person: ravingerova-gertruda
+- person: ravinger-marcel
+- person: tocik-karol
+- person: ravingerova-michaela
+- person: st-silvia-tocikova
+- person: ml-silvia-tocikova

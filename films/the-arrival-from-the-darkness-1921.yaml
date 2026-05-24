@@ -8,6 +8,25 @@ runtime_min: 60
 external_ids:
   wikidata: Q86753659
   imdb: tt0165435
+  youtube: mhiGZI7PDNM
 sources:
 - https://www.wikidata.org/wiki/Q86753659
 schema_version: 1
+director:
+- kolar-jan-stanislav
+screenwriter:
+- kolar-jan-stanislav
+- gloukh-karl
+cinematographer:
+- kheller-otto
+- hoffmann-otto
+cast:
+- person: ondra-anni
+- person: lamach-karel
+- person: svab-malostransky-josef
+- person: starshiy-pishtek-teodor
+- person: speerger-jan-w
+- person: mizet-rudolf
+- person: majer-vladimir
+- person: bastyr-alfred
+- person: hofman-luigi

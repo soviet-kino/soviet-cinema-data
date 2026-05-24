@@ -8,6 +8,25 @@ runtime_min: 71
 external_ids:
   wikidata: Q4323435
   imdb: tt0756321
+  youtube: 8r239juQwn4
 sources:
 - https://www.wikidata.org/wiki/Q4323435
 schema_version: 1
+director:
+- kazanskiy-gennadiy-sergeevich
+- usov-igor-vladimirovich
+screenwriter:
+- finn-pavel-konstantinovich
+cinematographer:
+- ivanov-semyon-nikolaevich
+composer:
+- gladkov-gennadiy
+cast:
+- person: boyarskiy-mikhail-sergeevich
+- person: boyarskiy-nikolay-aleksandrovich
+- person: efimov-igor-konstantinovich
+- person: kosobutskaya-valentina-grigorevna
+- person: shtil-georgiy
+- person: borisova-irina-anatolevna
+studio:
+- lenfilm

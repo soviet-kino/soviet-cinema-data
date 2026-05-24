@@ -1,0 +1,9 @@
+id: tereza
+name_ru: Тереза
+roles:
+- actor
+external_ids:
+  wikidata: Q133538659
+sources:
+- https://www.wikidata.org/wiki/Q133538659
+schema_version: 1

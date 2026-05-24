@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11788517
 schema_version: 1
+director:
+- dziedzina-julian
+screenwriter:
+- tverdokhlib-andzhey
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- parzynski-waldemar
+cast:
+- person: fronchevskiy-pyotr

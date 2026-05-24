@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16948347
 schema_version: 1
+director:
+- karimi-nosrat
+- karimi-nasratollah
+cinematographer:
+- szomolanyi-stanislav
+cast:
+- person: lukavskiy-radovan
+- person: kemr-yozef
+- person: lysenkova-ruzena

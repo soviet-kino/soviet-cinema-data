@@ -8,6 +8,20 @@ runtime_min: 92
 external_ids:
   wikidata: Q15270723
   imdb: tt0081048
+  youtube: aPWQ8Y-vT1E
 sources:
 - https://www.wikidata.org/wiki/Q15270723
 schema_version: 1
+director:
+- vekhotko-anatoliy-timofeevich
+cinematographer:
+- chechulin-aleksandr-mikhaylovich
+composer:
+- tsvetkov-igor-arkadevich
+cast:
+- person: merzin-leonkhard-rikhardovich
+- person: kalnynsh-ivar
+- person: kokshenov-mikhail
+- person: morozov-semyon-mikhaylovich
+studio:
+- lenfilm

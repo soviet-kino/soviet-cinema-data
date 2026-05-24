@@ -8,6 +8,24 @@ runtime_min: 88
 external_ids:
   wikidata: Q1214957
   imdb: tt0017128
+  youtube: sX1VDZNCJMI
 sources:
 - https://www.wikidata.org/wiki/Q1214957
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+screenwriter:
+- zarkhi-natan-abramovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: koval-samborskiy-ivan-ivanovich
+- person: baranovskaya-vera-vsevolodovna
+- person: batalov-nikolay-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- mezhrabpom-rus
+poster_commons: Плакат к фильму «Мать».jpg

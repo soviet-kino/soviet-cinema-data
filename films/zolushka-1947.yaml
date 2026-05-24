@@ -8,6 +8,30 @@ runtime_min: 84
 external_ids:
   wikidata: Q620231
   imdb: tt0168269
+  youtube: iZ1m1nxLGbs
 sources:
 - https://www.wikidata.org/wiki/Q620231
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+- shapiro-mikhail-grigorevich
+screenwriter:
+- shvarts-evgeniy-lvovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- spadavekkia-antonio-emmanuilovich
+cast:
+- person: myasnikova-varvara-sergeevna
+- person: ranevskaya-faina-georgievna
+- person: zheymo-yanina-boleslavovna
+- person: merkurev-vasiliy-vasilevich
+- person: garin-erast-pavlovich
+- person: konsovskiy-aleksey-anatolevich
+- person: sezenevskaya-tamara-vyacheslavovna
+- person: filippov-sergey-nikolaevich
+- person: yunger-elena-vladimirovna
+- person: rumnev-aleksandr-aleksandrovich
+studio:
+- lenfilm
+poster_commons: Yanina Zheymo Zolushka.JPG

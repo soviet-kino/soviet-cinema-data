@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5274470
 schema_version: 1
+director:
+- yanchev-vladimir
+screenwriter:
+- mormarevi-bratya
+cinematographer:
+- anders-ervin
+composer:
+- stupel-petr
+cast:
+- person: krug-manfred
+- person: shrade-villi
+- person: shvabe-villi
+- person: vachkov-grigor
+- person: popov-georgi
+- person: antonova-liana

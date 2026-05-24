@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3442312
 schema_version: 1
+director:
+- golik-kreso
+screenwriter:
+- bozic-mirko
+cinematographer:
+- vodopivec-frano
+cast:
+- person: stol-arandzhelovich
+- person: tadich-lyuba
+studio:
+- yadran-film

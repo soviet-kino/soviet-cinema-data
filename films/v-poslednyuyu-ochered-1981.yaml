@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25396616
 schema_version: 1
+director:
+- ladynin-andrey-ivanovich
+screenwriter:
+- stepanov-anatoliy-yakovlevich
+cinematographer:
+- sheynin-viktor
+composer:
+- saulskiy-yuriy
+cast:
+- person: mishchenko-vasiliy-konstantinovich
+studio:
+- mosfilm

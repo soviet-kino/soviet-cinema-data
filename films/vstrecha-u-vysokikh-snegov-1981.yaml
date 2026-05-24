@@ -8,6 +8,30 @@ runtime_min: 222
 external_ids:
   wikidata: Q124427858
   imdb: tt5539362
+  youtube: k-pkzdQjOcc
 sources:
 - https://www.wikidata.org/wiki/Q124427858
 schema_version: 1
+director:
+- royzman-zinoviy-aleksandrovich
+screenwriter:
+- makarov-artur-sergeevich
+- umarbekov-ulmas
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: mukhamedzhanov-ato
+- person: alimova-matlyuba-farkhatovna
+- person: gerdt-zinoviy-efimovich
+- person: zakharev-valeriy-aleksandrovich
+- person: irgashev-shukhrat-ibragimovich
+- person: kozinets-valeriy-evseevich
+- person: radzhabov-murad-yadgarovich
+- person: serdyuk-aleksandr-aleksandrovich
+- person: khamraev-dzhavlon-razzakovich
+- person: abzalov-melis
+- person: baltrushaytis-avgust-avgustovich
+- person: ergashev-isamat-isakovich
+- person: tulyakhodzhaev-nazim-turabovich
+studio:
+- uzbekfilm

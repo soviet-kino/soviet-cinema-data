@@ -1,0 +1,9 @@
+id: zagradnik-slavo
+name_ru: Славо Заградник
+roles:
+- actor
+external_ids:
+  wikidata: Q13539044
+sources:
+- https://www.wikidata.org/wiki/Q13539044
+schema_version: 1

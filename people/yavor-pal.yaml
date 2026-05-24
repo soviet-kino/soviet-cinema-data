@@ -1,0 +1,9 @@
+id: yavor-pal
+name_ru: Пал Йавор
+roles:
+- actor
+external_ids:
+  wikidata: Q505550
+sources:
+- https://www.wikidata.org/wiki/Q505550
+schema_version: 1

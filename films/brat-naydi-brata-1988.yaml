@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116811364
 schema_version: 1
+director:
+- sergeychikova-silviya
+screenwriter:
+- nemchenko-gariy-leontevich
+- galiev-anatoliy-sergeevich
+cinematographer:
+- filippov-evgeniy
+composer:
+- doga-evgeniy
+cast:
+- person: garbuk-gennadiy-mikhaylovich
+- person: ignatusha-aleksandr
+- person: yurchenkov-pyotr-petrovich
+- person: voloshina-ada-petrovna
+- person: timofeeva-tamara
+studio:
+- kinostudiya-imeni-a-dovzhenko

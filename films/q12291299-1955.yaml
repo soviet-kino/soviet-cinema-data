@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12291299
 schema_version: 1
+director:
+- petrov-dimitr
+cast:
+- person: konforti-leo
+- person: stancheva-ginka
+- person: kircheva-olga

@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187120
 schema_version: 1
+director:
+- fanelli-mario
+cast:
+- person: srdoch-milan
+- person: smilyanich-bozhidar
+- person: sovagovic-fabijan
+- person: drech-vanya
+- person: buzanchich-boris
+- person: mustafa-nadarevich
+- person: madunich-zlatko

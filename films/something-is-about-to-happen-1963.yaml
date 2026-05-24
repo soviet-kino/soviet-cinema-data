@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q120555771
 schema_version: 1
+director:
+- esparza-antonio-mendez
+screenwriter:
+- roket-klara
+- esparza-antonio-mendez
+cinematographer:
+- balasoiu-barbu
+composer:
+- montes-zeltiya
+cast:
+- person: alterio-malena
+- person: sanches-khikhon-aytana
+- person: blas-manuel-de
+- person: torrikho-khose-luis
+- person: ribas-mariona
+- person: puason-rodrigo
+studio:
+- institut-kinematografii-i-audiovizualnykh-iskusstv
+- wanda-vision

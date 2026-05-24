@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2513476
 schema_version: 1
+director:
+- gabor-pal
+screenwriter:
+- gabor-pal
+- veszi-endre
+cinematographer:
+- koltai-layosh
+composer:
+- selmetsi-giergi
+cast:
+- person: dunay-tamash
+- person: pazhtor-erzhi
+- person: deri-frantsiska
+- person: khalaz-laslo
+- person: konrad-antal
+- person: pap-vera
+- person: radai-imre
+- person: sabo-eva
+- person: khorvat-laslo
+- person: kadar-flora
+studio:
+- mafilm

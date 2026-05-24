@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4381973
 schema_version: 1
+director:
+- novitskiy-marek
+- stavitskiy-ezhi
+cast:
+- person: milskiy-stanislav

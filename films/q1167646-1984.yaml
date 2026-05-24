@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1167646
 schema_version: 1
+director:
+- foth-jorg
+cinematographer:
+- braumann-wolfgang
+cast:
+- person: gruber-mariya
+- person: muhlstadt-arnim
+- person: choynski-carl-heinz
+- person: shteltser-khannes
+- person: kipp-khaydi
+- person: plenert-tomas
+- person: wei-ulrich
+- person: lyubosh-ute

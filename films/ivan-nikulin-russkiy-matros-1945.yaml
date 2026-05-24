@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4195628
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- solovyov-leonid-vasilevich
+cinematographer:
+- provorov-fyodor
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: chirkov-boris-petrovich
+- person: pereverzev-ivan-fyodorovich
+- person: kayukov-stepan-yakovlevich
+- person: fyodorova-zoya-alekseevna
+- person: sanaev-vsevolod-vasilevich
+- person: garin-erast-pavlovich
+studio:
+- mosfilm

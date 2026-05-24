@@ -8,6 +8,18 @@ runtime_min: 72
 external_ids:
   wikidata: Q4380262
   imdb: tt0095913
+  youtube: 5XT7q00I0D0
 sources:
 - https://www.wikidata.org/wiki/Q4380262
 schema_version: 1
+director:
+- morozov-semyon-mikhaylovich
+screenwriter:
+- treer-leonid-yakovlevich
+cast:
+- person: belyavskiy-aleksandr-borisovich
+- person: pankratov-chyornyy-aleksandr-vasilevich
+- person: steklov-vladimir-aleksandrovich
+- person: obukhov-anatoliy-matveevich
+studio:
+- mosfilm

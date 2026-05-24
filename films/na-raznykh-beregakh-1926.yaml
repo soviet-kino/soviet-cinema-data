@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12842496
 schema_version: 1
+director:
+- litvinov-aleksandr-arkadevich
+screenwriter:
+- tartakovski-ivan
+- litvinov-aleksandr-arkadevich
+cinematographer:
+- tartakovski-ivan
+cast:
+- person: aliev-mirza-aga-ali-ogly
+- person: kirillov-pyotr-klavdievich
+- person: mikailov-mikail
+- person: ogly-mardanov-mustafa-ashum
+- person: vendelin-nadejda
+- person: troitskiy-sergey-dmitrievich
+studio:
+- azerbaydzhanfilm

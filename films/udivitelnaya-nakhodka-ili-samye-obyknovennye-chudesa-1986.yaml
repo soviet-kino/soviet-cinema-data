@@ -8,6 +8,15 @@ runtime_min: 70
 external_ids:
   wikidata: Q4469387
   imdb: tt0275754
+  youtube: vNNrWe8VJWs
 sources:
 - https://www.wikidata.org/wiki/Q4469387
 schema_version: 1
+director:
+- tolmachyov-mark-vladimirovich
+cinematographer:
+- osipov-albert-nikanorovich
+composer:
+- banshchikov-gennadiy-ivanovich
+studio:
+- odesskaya-kinostudiya

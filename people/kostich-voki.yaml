@@ -1,0 +1,9 @@
+id: kostich-voki
+name_ru: Воки Костич
+roles:
+- composer
+external_ids:
+  wikidata: Q3395807
+sources:
+- https://www.wikidata.org/wiki/Q3395807
+schema_version: 1

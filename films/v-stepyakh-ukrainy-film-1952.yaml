@@ -8,6 +8,21 @@ runtime_min: 100
 external_ids:
   wikidata: Q122411418
   imdb: tt0173400
+  youtube: OmiJrnCeTjE
 sources:
 - https://www.wikidata.org/wiki/Q122411418
 schema_version: 1
+director:
+- levchuk-timofey-vasilevich
+- yura-gnat-petrovich
+screenwriter:
+- korneychuk-aleksandr-evdokimovich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+composer:
+- meytus-yuliy-sergeevich
+cast:
+- person: milyutenko-dmitriy-emelyanovich
+- person: shumskiy-yuriy-vasilevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

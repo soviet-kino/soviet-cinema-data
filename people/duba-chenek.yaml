@@ -1,0 +1,9 @@
+id: duba-chenek
+name_ru: Ченек Дуба
+roles:
+- director
+external_ids:
+  wikidata: Q11171162
+sources:
+- https://www.wikidata.org/wiki/Q11171162
+schema_version: 1

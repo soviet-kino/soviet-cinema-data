@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48846024
 schema_version: 1
+director:
+- khyubner-zigmunt
+cast:
+- person: semion-voytsekh
+- person: kachor-kazimezh
+- person: talarchik-kazimir

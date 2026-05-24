@@ -1,0 +1,9 @@
+id: city
+name_ru: City
+roles:
+- composer
+external_ids:
+  wikidata: Q319753
+sources:
+- https://www.wikidata.org/wiki/Q319753
+schema_version: 1

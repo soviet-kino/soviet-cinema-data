@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23035842
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- evlakhov-sergey-sergeevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: abrikosov-andrey-lvovich
+studio:
+- mezhrabpomfilm

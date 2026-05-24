@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q112111027
 schema_version: 1
+director:
+- tyapak-martin
+cinematographer:
+- byat-tibor
+cast:
+- person: lukesova-jela
+- person: tapak-marek
+- person: q131850359
+studio:
+- bratislava-film-studios

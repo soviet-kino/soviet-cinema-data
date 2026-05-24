@@ -8,6 +8,20 @@ runtime_min: 93
 external_ids:
   wikidata: Q4368556
   imdb: tt0041755
+  youtube: ZwyH5pEdtH4
 sources:
 - https://www.wikidata.org/wiki/Q4368556
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+screenwriter:
+- malyugin-leonid-antonovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: gallis-leonid-pavlovich
+- person: dranovskaya-lidiya-dmitrievna
+studio:
+- mosfilm

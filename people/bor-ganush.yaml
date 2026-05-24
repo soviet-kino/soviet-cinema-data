@@ -1,0 +1,9 @@
+id: bor-ganush
+name_ru: Гануш Бор
+roles:
+- actor
+external_ids:
+  wikidata: Q95397216
+sources:
+- https://www.wikidata.org/wiki/Q95397216
+schema_version: 1

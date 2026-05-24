@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q49615014
 schema_version: 1
+director:
+- hochmuth-dietmar
+cinematographer:
+- lents-yurgen
+composer:
+- fisher-gyunter

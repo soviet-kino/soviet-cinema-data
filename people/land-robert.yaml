@@ -1,0 +1,9 @@
+id: land-robert
+name_ru: Роберт Ланд
+roles:
+- director
+external_ids:
+  wikidata: Q115023
+sources:
+- https://www.wikidata.org/wiki/Q115023
+schema_version: 1

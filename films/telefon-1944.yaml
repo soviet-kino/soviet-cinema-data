@@ -8,6 +8,17 @@ runtime_min: 10
 external_ids:
   wikidata: Q4454135
   imdb: tt5197834
+  youtube: QKBIlpcf7_0
 sources:
 - https://www.wikidata.org/wiki/Q4454135
 schema_version: 1
+director:
+- tsekhanovskiy-mikhail-mikhaylovich
+cinematographer:
+- reysgof-georgiy-aleksandrovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: chukovskiy-korney-ivanovich
+studio:
+- soyuzmultfilm

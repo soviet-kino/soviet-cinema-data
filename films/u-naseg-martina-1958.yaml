@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184023
 schema_version: 1
+director:
+- majer-branko
+cast:
+- person: vrkhovets-yanez
+- person: buzanchich-boris
+- person: cilic-august

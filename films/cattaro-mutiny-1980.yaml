@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16085841
 schema_version: 1
+director:
+- bornemann-fritz
+cast:
+- person: berchek-aleksandr
+- person: velimir-bata-zhivoinovich
+- person: petar-banichevich
+- person: predrag-milinkovich
+- person: cumic-dragomir
+- person: sultanovic-goran

@@ -1,0 +1,9 @@
+id: handel-wolfram
+name_ru: Wolfram Handel
+roles:
+- actor
+external_ids:
+  wikidata: Q21044923
+sources:
+- https://www.wikidata.org/wiki/Q21044923
+schema_version: 1

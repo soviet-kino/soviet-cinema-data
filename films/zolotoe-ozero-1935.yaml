@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q85970503
 schema_version: 1
+director:
+- shneyderov-vladimir-adolfovich
+screenwriter:
+- shneyderov-vladimir-adolfovich
+- peregudov-aleksandr-vladimirovich
+cinematographer:
+- shelenkov-aleksandr-vladimirovich
+composer:
+- vasilenko-sergey-nikiforovich
+cast:
+- person: fayt-andrey-andreevich
+- person: shneyderov-vladimir-adolfovich
+studio:
+- mezhrabpomfilm

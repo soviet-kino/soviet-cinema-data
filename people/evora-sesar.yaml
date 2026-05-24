@@ -1,0 +1,9 @@
+id: evora-sesar
+name_ru: Сесар Эвора
+roles:
+- actor
+external_ids:
+  wikidata: Q765943
+sources:
+- https://www.wikidata.org/wiki/Q765943
+schema_version: 1

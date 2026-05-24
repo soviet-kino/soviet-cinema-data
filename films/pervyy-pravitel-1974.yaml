@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5574231
 schema_version: 1
+director:
+- rybkovskiy-yan
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- novitskiy-marek
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: pshonyak-voytsekh
+- person: pechka-frantishek
+- person: volleyko-cheslav
+- person: byaloshchinskiy-tadeush
+- person: bylchinskiy-yanush
+- person: plotnitskiy-boleslav
+- person: bargelovskiy-marek
+- person: noymann-vanda
+studio:
+- studio-filmowe-kadr

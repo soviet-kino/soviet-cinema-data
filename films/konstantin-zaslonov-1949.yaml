@@ -8,6 +8,34 @@ runtime_min: 83
 external_ids:
   wikidata: Q4231308
   imdb: tt0041560
+  youtube: WaT_06DYPrk
 sources:
 - https://www.wikidata.org/wiki/Q4231308
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+- korsh-sablin-vladimir-vladimirovich
+screenwriter:
+- movzon-arkadiy-iosifovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- bogatyryov-anatoliy-vasilevich
+cast:
+- person: druzhnikov-vladimir-vasilevich
+- person: glebov-gleb-pavlovich
+- person: balashov-vladimir-pavlovich
+- person: dedyushko-vladimir-iosifovich
+- person: dorofeev-vladimir-andreevich
+- person: kondrateva-inna-mikhaylovna
+- person: michurin-gennadiy-mikhaylovich
+- person: solovyov-vladimir-romanovich
+- person: stomma-zdislav-frantsevich
+- person: tolubeev-yuriy-vladimirovich
+- person: fenin-lev-aleksandrovich
+- person: filippov-sergey-nikolaevich
+- person: khvylya-aleksandr-leopoldovich
+- person: shtykan-lidiya-petrovna
+- person: marev-vladimir-timofeevich
+studio:
+- belarusfilm

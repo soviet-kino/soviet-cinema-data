@@ -8,6 +8,31 @@ runtime_min: 111
 external_ids:
   wikidata: Q22137288
   imdb: tt0042371
+  youtube: 9RZdkDFwuGQ
 sources:
 - https://www.wikidata.org/wiki/Q22137288
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- azhaev-vasiliy-nikolaevich
+- papava-mikhail
+cinematographer:
+- chen-iolanda-evgenevna
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: kmit-leonid-aleksandrovich
+- person: kadochnikov-pavel-petrovich
+- person: bernes-mark-naumovich
+- person: sokolova-lyubov-sergeevna
+- person: okhlopkov-nikolay-pavlovich
+- person: sverdlin-lev-naumovich
+- person: pereverzev-ivan-fyodorovich
+- person: stolyarov-sergey-dmitrievich
+- person: kirillov-grigoriy-pavlovich
+- person: makagonova-roza-ivanovna
+- person: khanov-aleksandr-aleksandrovich
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- mosfilm

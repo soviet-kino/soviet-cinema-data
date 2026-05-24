@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18117354
 schema_version: 1
+director:
+- shakhmalieva-ayan
+screenwriter:
+- klykov-viktor-pavlovich
+cinematographer:
+- yurizditskiy-sergey-petrovich
+composer:
+- knayfel-aleksandr-aronovich
+cast:
+- person: turbina-nika-georgievna
+- person: ruslanova-nina-ivanovna
+- person: kryuchkova-svetlana
+studio:
+- lenfilm

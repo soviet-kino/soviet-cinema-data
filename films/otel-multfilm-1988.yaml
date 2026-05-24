@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339502
 schema_version: 1
+composer:
+- artemyev-eduard
+studio:
+- ekran

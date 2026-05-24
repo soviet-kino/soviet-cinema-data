@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q785196
 schema_version: 1
+director:
+- buytor-ishtvan
+cast:
+- person: buytor-ishtvan
+- person: kern-andrash

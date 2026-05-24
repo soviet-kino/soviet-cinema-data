@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97176463
 schema_version: 1
+director:
+- yudin-konstantin-konstantinovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- spadavekkia-antonio-emmanuilovich
+cast:
+- person: sanaev-vsevolod-vasilevich
+- person: nosova-tamara-makarovna
+- person: sukharevskaya-lidiya
+- person: yanshin-mikhail-mikhaylovich
+studio:
+- mosfilm

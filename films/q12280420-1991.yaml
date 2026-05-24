@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12280420
 schema_version: 1
+director:
+- evstatieva-biolcheva-mariana
+screenwriter:
+- moskova-rada
+composer:
+- genkov-georgiy
+cast:
+- person: milanov-asen
+- person: rainova-elena
+- person: stefanova-elena
+- person: popova-ina
+- person: iliev-stefan

@@ -8,6 +8,17 @@ runtime_min: 87
 external_ids:
   wikidata: Q4101812
   imdb: tt0267077
+  youtube: NfCCwNP3SsQ
 sources:
 - https://www.wikidata.org/wiki/Q4101812
 schema_version: 1
+director:
+- khotinenko-vladimir-ivanovich
+cast:
+- person: garmash-sergey-leonidovich
+- person: agafonov-ivan-ageevich
+- person: koltakov-sergey-mikhaylovich
+- person: parshin-sergey-ivanovich
+- person: aktyor-smirnov-viktor-fyodorovich
+studio:
+- sverdlovskaya-kinostudiya

@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1197386
 schema_version: 1
+director:
+- ballmann-herbert
+screenwriter:
+- probst-anneliese
+- bortfeldt-kurt
+composer:
+- vertslau-yoakhim
+cast:
+- person: peters-verner
+- person: klyaynau-villi-a
+- person: zemmelrogge-villi
+- person: kottkhaus-eva
+- person: grimmer-aribert
+- person: klering-khans
+- person: sperling-kurt
+- person: minetti-khans-peter
+- person: kammer-khaynts
+- person: thomas-jochen
+- person: arpe-yokhannes
+- person: maus-yokhannes
+- person: maack-alfred
+- person: lyobinger-lotta
+- person: brentina-trude
+- person: benekendorf-volf-fon
+studio:
+- defa

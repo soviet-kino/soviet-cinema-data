@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17128061
 schema_version: 1
+director:
+- gusner-iris
+composer:
+- bohme-baldur

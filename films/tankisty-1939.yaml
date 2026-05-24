@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16704558
 schema_version: 1
+director:
+- drapkin-zinoviy-matveevich
+screenwriter:
+- drapkin-zinoviy-matveevich
+cinematographer:
+- sigaev-aleksandr-ivanovich
+composer:
+- pokrass-daniil-yakovlevich
+cast:
+- person: kulakov-aleksandr-viktorovich
+studio:
+- lenfilm
+poster_commons: Tankers.png

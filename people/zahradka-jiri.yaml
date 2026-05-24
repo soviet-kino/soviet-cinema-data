@@ -1,0 +1,9 @@
+id: zahradka-jiri
+name_ru: Jiří Zahrádka
+roles:
+- actor
+external_ids:
+  wikidata: Q133415283
+sources:
+- https://www.wikidata.org/wiki/Q133415283
+schema_version: 1

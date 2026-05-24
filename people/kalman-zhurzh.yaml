@@ -1,0 +1,9 @@
+id: kalman-zhurzh
+name_ru: Журж Калман
+roles:
+- actor
+external_ids:
+  wikidata: Q1122979
+sources:
+- https://www.wikidata.org/wiki/Q1122979
+schema_version: 1

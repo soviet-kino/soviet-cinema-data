@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2581338
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+cinematographer:
+- tisse-eduard-kazimirovich
+cast:
+- person: shtraukh-maksim-maksimovich
+- person: lapkina-marfa
+studio:
+- sovkino
+poster_commons: Eisenstein general line 01.jpg

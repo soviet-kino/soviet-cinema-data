@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7580774
 schema_version: 1
+director:
+- kyortis-maykl
+cast:
+- person: paffi-charlz
+- person: lenkeffy-ica-von

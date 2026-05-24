@@ -1,0 +1,9 @@
+id: istrate-rada
+name_ru: Rada Istrate
+roles:
+- actor
+external_ids:
+  wikidata: Q16593447
+sources:
+- https://www.wikidata.org/wiki/Q16593447
+schema_version: 1

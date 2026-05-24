@@ -1,0 +1,9 @@
+id: karlsons-yuris
+name_ru: Юрис Карлсонс
+roles:
+- composer
+external_ids:
+  wikidata: Q3190199
+sources:
+- https://www.wikidata.org/wiki/Q3190199
+schema_version: 1

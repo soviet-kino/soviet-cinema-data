@@ -8,6 +8,18 @@ runtime_min: 68
 external_ids:
   wikidata: Q829250
   imdb: tt0019760
+  youtube: DdbU-4tPq5o
 sources:
 - https://www.wikidata.org/wiki/Q829250
 schema_version: 1
+director:
+- vertov-dziga
+screenwriter:
+- vertov-dziga
+cinematographer:
+- kaufman-mikhail-abramovich
+composer:
+- nayman-maykl
+studio:
+- vseukrainskoe-fotokinoupravlenie
+poster_commons: Man with a movie camera 1929 2.png

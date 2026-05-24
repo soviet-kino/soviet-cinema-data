@@ -1,0 +1,9 @@
+id: co-lieu
+name_ru: Lieu Čo
+roles:
+- actor
+external_ids:
+  wikidata: Q133279175
+sources:
+- https://www.wikidata.org/wiki/Q133279175
+schema_version: 1

@@ -1,0 +1,9 @@
+id: gref-roland
+name_ru: Роланд Грэф
+roles:
+- director
+external_ids:
+  wikidata: Q103973
+sources:
+- https://www.wikidata.org/wiki/Q103973
+schema_version: 1

@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12848786
 schema_version: 1
+director:
+- anar
+screenwriter:
+- anar
+cinematographer:
+- mukerrem-zaur
+cast:
+- person: ogly-zeynalov-ali-yusif
+- person: ogly-atakishiev-guseynaga-agaguseyn
+- person: mirzoev-mikail
+- person: nuri-yashar
+- person: kyzy-melikova-nadzhiba-gashym
+- person: omarova-gamida-mamed-kyzy
+- person: ogly-rustamov-gadir-cherkez
+- person: ogly-kuliev-ramiz-eyyub
+studio:
+- azerbaydzhanfilm

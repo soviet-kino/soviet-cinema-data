@@ -8,6 +8,21 @@ runtime_min: 85
 external_ids:
   wikidata: Q4335149
   imdb: tt0237522
+  youtube: 7tmdV27H4m4
 sources:
 - https://www.wikidata.org/wiki/Q4335149
 schema_version: 1
+director:
+- proshkin-aleksandr-anatolevich
+screenwriter:
+- furman-roman-ilich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- artemyev-eduard
+cast:
+- person: freyndlikh-alisa
+- person: budraytis-yuozas-stanislavas
+- person: tabakov-anton-olegovich
+studio:
+- ekran

@@ -11,3 +11,39 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1212145
 schema_version: 1
+director:
+- kirsten-ralf
+screenwriter:
+- doybener-gudrun
+- kirsten-ralf
+cinematographer:
+- noymann-klaus
+composer:
+- azriel-andre
+cast:
+- person: brunner-angela
+- person: binert-gerkhard
+- person: komorovskaya-mayya
+- person: dvorska-milena
+- person: benesh-svatopluk
+- person: skarke-petr
+- person: dyuren-fred
+- person: klyukert-yurgen
+- person: plesov-klaus-peter
+- person: kristian-norbert
+- person: khebenshtrayt-pedro
+- person: dommish-peter
+- person: shallerova-yaroslava
+- person: lukavskiy-radovan
+- person: khamets-kshishtof
+- person: ditetova-yana
+- person: tokosh-lubor
+- person: langmiler-yozef
+- person: bezouska-bohumil
+- person: cupak-eduard
+- person: zagayski-irzhi
+- person: sejk-sobeslav
+- person: skhanilets-yan
+studio:
+- defa
+- barrandov-film-studio

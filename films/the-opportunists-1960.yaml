@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3212122
 schema_version: 1
+director:
+- daken-lui
+cinematographer:
+- klagemann-oygen
+composer:
+- eysler-khans
+cast:
+- person: paskal-zhan-klod
+- person: robinson-madlen
+- person: gansar-klara

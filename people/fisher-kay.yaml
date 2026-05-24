@@ -1,0 +1,9 @@
+id: fisher-kay
+name_ru: Кай Фишер
+roles:
+- actor
+external_ids:
+  wikidata: Q111170
+sources:
+- https://www.wikidata.org/wiki/Q111170
+schema_version: 1

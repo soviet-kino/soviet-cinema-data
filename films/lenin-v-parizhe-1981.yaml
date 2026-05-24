@@ -8,6 +8,32 @@ runtime_min: 106
 external_ids:
   wikidata: Q1282161
   imdb: tt0081043
+  youtube: PZZd4QfE8S0
 sources:
 - https://www.wikidata.org/wiki/Q1282161
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+- eydlin-leonid-danilovich
+screenwriter:
+- yutkevich-sergey-iosifovich
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+- travkin-boris-tikhonovich
+composer:
+- frid-grigoriy-samuilovich
+cast:
+- person: zhad-klod
+- person: kadochnikov-pavel-petrovich
+- person: maksimova-antonina-mikhaylovna
+- person: kayurov-yuriy-ivanovich
+- person: antonik-vladimir-vladimirovich
+- person: koreneva-elena-alekseevna
+- person: belyaeva-galina
+- person: filozov-albert-leonidovich
+- person: ivanov-boris-vladimirovich
+- person: trutnev-leonid-anatolevich
+studio:
+- mosfilm
+poster_commons: Lenin in Paris Lenine a Paris.jpg

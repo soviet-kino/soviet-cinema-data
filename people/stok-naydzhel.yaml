@@ -1,0 +1,9 @@
+id: stok-naydzhel
+name_ru: Найджел Сток
+roles:
+- actor
+external_ids:
+  wikidata: Q517562
+sources:
+- https://www.wikidata.org/wiki/Q517562
+schema_version: 1

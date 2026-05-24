@@ -8,6 +8,13 @@ runtime_min: 11
 external_ids:
   wikidata: Q1935559
   imdb: tt1240953
+  youtube: t8LStnV1pis
 sources:
 - https://www.wikidata.org/wiki/Q1935559
 schema_version: 1
+director:
+- bordzilovskiy-vitold
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+studio:
+- soyuzmultfilm

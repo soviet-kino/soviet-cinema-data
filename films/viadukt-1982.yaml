@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16523703
 schema_version: 1
+director:
+- shimo-shandor
+cinematographer:
+- andor-tamash
+cast:
+- person: engelbrekht-konstantse
+- person: myuller-shtal-armin
+- person: tordai-teri
+- person: koltai-robert
+- person: sarazin-maykl
+- person: derzhi-yanosh
+- person: udvarosh-dorottya
+- person: gosztonyi-janos
+- person: khernadi-yudit
+- person: mezei-layosh
+- person: shutts-ila
+- person: ditl-robert

@@ -1,0 +1,9 @@
+id: veles-luis
+name_ru: Luis Veles
+roles:
+- actor
+external_ids:
+  wikidata: Q133310715
+sources:
+- https://www.wikidata.org/wiki/Q133310715
+schema_version: 1

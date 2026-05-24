@@ -1,0 +1,9 @@
+id: molnar-piroshka
+name_ru: Пирошка Мольнар
+roles:
+- actor
+external_ids:
+  wikidata: Q969122
+sources:
+- https://www.wikidata.org/wiki/Q969122
+schema_version: 1

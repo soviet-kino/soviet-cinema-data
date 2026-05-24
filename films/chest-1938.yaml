@@ -8,6 +8,22 @@ runtime_min: 74
 external_ids:
   wikidata: Q4514934
   imdb: tt0229298
+  youtube: LhfklcluLSw
 sources:
 - https://www.wikidata.org/wiki/Q4514934
 schema_version: 1
+director:
+- chervyakov-evgeniy-veniaminovich
+screenwriter:
+- nikulin-lev-veniaminovich
+- nikulin-yuriy-veniaminovich
+cinematographer:
+- gindin-mikhail-efimovich
+composer:
+- shaporin-yuriy-aleksandrovich
+cast:
+- person: vanin-vasiliy-vasilevich
+- person: volkov-leonid-andreevich
+- person: glazunov-osvald-fyodorovich
+studio:
+- mosfilm

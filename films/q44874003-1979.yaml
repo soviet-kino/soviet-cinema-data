@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q44874003
 schema_version: 1
+director:
+- kryange-sherban
+screenwriter:
+- kryange-sherban
+cast:
+- person: sechu-valeriya

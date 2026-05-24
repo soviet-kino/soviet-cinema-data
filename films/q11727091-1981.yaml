@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11727091
 schema_version: 1
+director:
+- fiwek-wojciech
+screenwriter:
+- fiwek-wojciech
+- frejdlich-konrad
+cinematographer:
+- pindelski-stefan
+composer:
+- marchevskiy-petr
+cast:
+- person: shtruve-alfred
+- person: zofiya-rysyuvna
+- person: nemchik-leon
+- person: pyrkosh-vitold
+- person: makhalitsa-khenrik
+- person: zalivskiy-tomash
+- person: markhelyuk-miroslava
+- person: nivinskiy-stanislav
+- person: probosh-adam
+- person: kovalskiy-vladislav
+- person: shimanskiy-zdzislav
+- person: wa-aszek-eugeniusz
+- person: burawska-irena
+- person: lodynskiy-yuzef
+studio:
+- q110427551

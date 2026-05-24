@@ -8,6 +8,14 @@ runtime_min: 92
 external_ids:
   wikidata: Q97007296
   imdb: tt0265678
+  youtube: TuFtRnRCz5k
 sources:
 - https://www.wikidata.org/wiki/Q97007296
 schema_version: 1
+screenwriter:
+- budinas-evgeniy-dominikovich
+- kudravets-anatoliy-pavlovich
+composer:
+- doga-evgeniy
+studio:
+- belarusfilm

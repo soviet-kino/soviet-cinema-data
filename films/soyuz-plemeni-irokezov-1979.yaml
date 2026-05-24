@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q883105
 schema_version: 1
+director:
+- wei-ulrich
+screenwriter:
+- wei-ulrich
+cinematographer:
+- khanish-otto
+composer:
+- rabenalt-peter
+cast:
+- person: khofman-yutta
+- person: byove-kurt
+- person: shpitser-yan

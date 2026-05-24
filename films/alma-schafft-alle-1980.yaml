@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2649589
 schema_version: 1
+director:
+- pettsold-konrad
+cinematographer:
+- honicke-siegfried
+composer:
+- zasse-karl-ernst
+cast:
+- person: pettsold-konrad
+- person: shubert-gyunter
+- person: lastsar-kristina
+- person: delmare-fred
+- person: kraus-agnes
+- person: wollner-anne
+- person: mitich-goyko
+- person: edenharter-birgit
+- person: braun-volfgang
+- person: mahr-fred
+- person: engelmann-harald
+- person: kostelka-lyubomir
+- person: khebenshtrayt-pedro
+- person: shrade-villi

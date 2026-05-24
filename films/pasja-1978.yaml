@@ -11,3 +11,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11813262
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- kiyovskiy-andzhey
+- zhebrovskiy-edvard
+cinematographer:
+- vuychik-ezhi
+composer:
+- moss-pyotr
+cast:
+- person: zbignev-zapasevich
+- person: bazak-arkadiush
+- person: eymont-bogdan
+- person: bista-khenrik
+- person: alyaborskiy-voytsekh
+- person: dymna-anna
+- person: makhalitsa-khenrik
+- person: fetting-edmund
+- person: tsnota-ezhi
+- person: andzheevskiy-leonard
+- person: hryniewicz-mieczys-aw
+- person: smela-boles-aw
+- person: igar-stanislav
+- person: dymny-wies-aw
+- person: shchepkovskiy-andzhey
+- person: siudim-marek
+- person: garlitskiy-pyotr
+studio:
+- tor-kinostudiya

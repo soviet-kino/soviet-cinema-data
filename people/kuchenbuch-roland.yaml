@@ -1,0 +1,9 @@
+id: kuchenbuch-roland
+name_ru: Roland Kuchenbuch
+roles:
+- actor
+external_ids:
+  wikidata: Q23563996
+sources:
+- https://www.wikidata.org/wiki/Q23563996
+schema_version: 1

@@ -11,3 +11,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23565628
 schema_version: 1
+director:
+- kurts-rudi
+screenwriter:
+- kyulb-karl-georg
+- kurts-rudi
+composer:
+- khoenzee-volfgang
+cast:
+- person: kamp-marion-van-de
+- person: volf-gerri
+- person: elshlegel-vera
+- person: vytsnevskiy-arno
+- person: bodenshtayn-kristel
+- person: raasch-manfred
+- person: pelikovski-erika
+- person: frorip-yurgen
+- person: malre-ivan
+- person: wieland-werner
+- person: parila-katya
+- person: senftleben-werner
+- person: tomashevski-yoakhim
+- person: schorn-josef
+- person: stark-otto
+- person: weisgerber-thomas
+- person: shturm-peter
+- person: wei-siegfried
+- person: morgen-gizela
+studio:
+- defa

@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q51879982
 schema_version: 1
+director:
+- langkhoff-tomas
+cinematographer:
+- heimlich-jurgen

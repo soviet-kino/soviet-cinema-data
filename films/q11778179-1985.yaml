@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11778179
 schema_version: 1
+composer:
+- konechnyy-zygmunt
+cast:
+- person: frych-yan
+- person: kozlovskiy-matsey
+- person: vishnevskaya-eva
+- person: dzendzel-marian
+- person: adamek-bozhena
+- person: novak-ezhi
+- person: g-oskowski-andrzej
+- person: jedrysek-krzysztof
+- person: breitenwald-micha
+- person: knast-alicja
+- person: wawszczyk-maria

@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761153
 schema_version: 1
+director:
+- svarc-dragoljub
+screenwriter:
+- mrozhek-slavomir
+cast:
+- person: kvrgic-pero
+- person: ivezic-ur-a
+- person: subic-ivan
+studio:
+- radio-i-televidenie-khorvatii

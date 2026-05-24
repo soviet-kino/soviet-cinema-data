@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3548777
 schema_version: 1
+director:
+- ban-fridesh
+screenwriter:
+- dallos-sandor
+- sabo-pal
+cinematographer:
+- makai-arpad
+composer:
+- veresh-shandor
+cast:
+- person: bankhidi-laslo
+- person: mesarosh-agi
+- person: molnar-tibor
+- person: szirtes-adam

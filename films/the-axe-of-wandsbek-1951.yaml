@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1167255
 schema_version: 1
+director:
+- kharnak-falk
+screenwriter:
+- bortfeldt-hans-robert
+cinematographer:
+- baberske-robert
+composer:
+- roters-ernst
+cast:
+- person: braun-kete
+- person: shryoder-artur
+- person: geshonnek-ervin
+studio:
+- defa

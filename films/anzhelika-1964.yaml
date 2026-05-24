@@ -2,19 +2,87 @@ id: anzhelika-1964
 title_ru: Анжелика, маркиза ангелов
 title_original: Angélique, marquise des anges
 year: 1964
-country: [FR, IT, DE]
+country:
+- FR
+- IT
+- DE
 runtime_min: 116
-genre: [adventure, melodrama, historical]
-topics: [foreign-in-soviet-distribution]
+genre:
+- adventure
+- melodrama
+- historical
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1968
   title_ru: Анжелика — маркиза ангелов
   dubbed: true
-  notes: >
-    Дубляж киностудии «Мосфильм». Первый фильм цикла; в советский
-    прокат вышли с купюрами эротических сцен.
+  notes: 'Дубляж киностудии «Мосфильм». Первый фильм цикла; в советский прокат вышли
+    с купюрами эротических сцен.
+
+    '
 external_ids:
   wikidata: Q94943
+  youtube: GTVTjz2ntIk
+  imdb: tt0057846
 sources:
-  - https://www.wikidata.org/wiki/Q94943
+- https://www.wikidata.org/wiki/Q94943
 schema_version: 1
+director:
+- borderi-bernar
+screenwriter:
+- golon-ann
+- bulanzhe-daniel
+- borderi-bernar
+- bryule-klod
+- kon-fransis
+cinematographer:
+- persen-anri
+composer:
+- man-mishel
+cast:
+- person: rene-sharl
+- person: shryoder-ernst
+- person: khoffmann-robert
+- person: evert-renate
+- person: roshfor-zhan
+- person: merse-mishel
+- person: metr-fransua
+- person: illing-zhak
+- person: osseyn-rober
+- person: zhiro-klod
+- person: kogan-anri
+- person: neri-rozalba
+- person: lebo-madlen
+- person: dzhemma-dzhuliano
+- person: kastelo-zhak
+- person: markan-serzh
+- person: verne-klod
+- person: alberti-guido
+- person: tozha-zhak
+- person: kastaldi-zhan-per
+- person: lemer-filipp
+- person: topar-zhan
+- person: danyan-alber
+- person: rino-aleksandr
+- person: rouyer-andre
+- person: lakharridzh-bernar
+- person: vorinzhe-bernar
+- person: provans-deniz
+- person: shuro-echika
+- person: myone-gaston
+- person: fontanel-zhenevev
+- person: gere-zhorzh
+- person: vital-geymon
+- person: ozenn-zhan
+- person: re-mishel-de
+- person: melinand-monik
+- person: noblekur-noel
+- person: lemeytr-patrik
+- person: deelli-pola
+- person: avron-philippe
+- person: ate-per
+- person: porte-rober
+- person: barsak-iv
+- person: ersi-elizabet
+- person: roberto

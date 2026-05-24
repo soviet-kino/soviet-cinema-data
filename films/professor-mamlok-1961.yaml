@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2111962
 schema_version: 1
+director:
+- volf-konrad
+screenwriter:
+- egel-karl-georg
+cinematographer:
+- bergman-verner
+composer:
+- khozalla-khans-diter
+cast:
+- person: khaynts-volfgang
+- person: tate-khilmar
+- person: krug-manfred
+- person: grabbert-gyunter
+- person: naumann-gyunter
+- person: jung-alsen-kurt
+- person: kraus-agnes
+- person: tayn-ulrikh
+- person: karstens-bruno
+- person: abesser-doris
+- person: halgardt-harald
+- person: kutschera-franz
+- person: zolter-frido
+- person: toysher-gans
+- person: grosse-khervart
+- person: lendrikh-valter
+- person: tempelkhof-lissi
+- person: byorg-ursula
+- person: shturm-peter
+- person: pape-uwe-jens
+studio:
+- defa

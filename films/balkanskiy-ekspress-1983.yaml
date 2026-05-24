@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4851078
 schema_version: 1
+director:
+- baletich-branko
+screenwriter:
+- mikhich-gordan
+cinematographer:
+- lasic-vladislav
+composer:
+- zoran-simyanovich
+cast:
+- person: cvejic-branko
+- person: diklich-bogdan
+- person: olivera-markovich
+- person: velimir-bata-zhivoinovich
+- person: bora-todorovich
+- person: nikolich-dragan
+- person: miletic-predrag
+- person: tanya-boshkovich
+- person: polich-ratko
+- person: dragomir-stanoevich
+- person: baletic-gojko
+- person: milo-miranovich
+- person: tankoshich-ratko
+- person: erak-milan
+studio:
+- art-film-80
+- ineks-film-beograd

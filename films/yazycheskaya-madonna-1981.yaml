@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q460608
 schema_version: 1
+director:
+- buytor-ishtvan
+- mesarosh-dyula
+screenwriter:
+- buytor-ishtvan
+- mesarosh-dyula
+cinematographer:
+- khildebrand-ishtvan
+cast:
+- person: bankhidi-laslo
+- person: buytor-ishtvan
+- person: zente-ferents
+- person: benko-piter
+- person: kallai-ferents
+- person: kern-andrash

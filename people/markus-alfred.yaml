@@ -1,0 +1,9 @@
+id: markus-alfred
+name_ru: Альфред Маркус
+roles:
+- composer
+external_ids:
+  wikidata: Q15311465
+sources:
+- https://www.wikidata.org/wiki/Q15311465
+schema_version: 1

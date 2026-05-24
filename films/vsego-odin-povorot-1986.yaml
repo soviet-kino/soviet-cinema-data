@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q84994628
   imdb: tt2023810
+  youtube: QXfi56xFjew
 sources:
 - https://www.wikidata.org/wiki/Q84994628
 schema_version: 1
+cinematographer:
+- kabachenko-viktor-petrovich
+composer:
+- gladkov-grigoriy-vasilevich
+cast:
+- person: ozhelite-niyole
+studio:
+- odesskaya-kinostudiya

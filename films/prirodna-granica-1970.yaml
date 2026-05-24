@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24038873
 schema_version: 1
+director:
+- ilic-mihailo
+cast:
+- person: danilo-stoykovich
+- person: vrkhovets-yanez
+- person: dushan-yanichievich
+- person: drazenovic-ljerka

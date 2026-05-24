@@ -8,6 +8,14 @@ runtime_min: 43
 external_ids:
   wikidata: Q109985069
   imdb: tt0245244
+  youtube: TMh8V0yF9AI
 sources:
 - https://www.wikidata.org/wiki/Q109985069
 schema_version: 1
+director:
+- ivanov-barkov-evgeniy-alekseevich
+cast:
+- person: bertonov-iegoshua-zeev-leybovich
+studio:
+- sovkino
+poster_commons: Protivvoliottsov 02.jpg

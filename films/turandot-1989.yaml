@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4465698
 schema_version: 1
+director:
+- shamatava-otar-petrovich
+screenwriter:
+- cheyshvili-rezo-benediktovich
+- shamatava-otar-petrovich
+cinematographer:
+- beridze-georgiy
+composer:
+- tsintsadze-georgiy
+cast:
+- person: megvinetukhutsesi-otar-vakhtangovich
+- person: botsvadze-zeynab
+studio:
+- gruziya-film

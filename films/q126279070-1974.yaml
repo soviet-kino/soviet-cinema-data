@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q126279070
 schema_version: 1
+director:
+- getov-milen
+screenwriter:
+- statkov-nikola
+cast:
+- person: popiliev-vasil
+- person: savov-veselin
+- person: karlukovskiy-petko
+- person: iliev-stefan
+studio:
+- sofia-film-studios

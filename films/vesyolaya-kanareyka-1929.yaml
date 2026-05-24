@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109733
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- mariengof-anatoliy-borisovich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: fayt-andrey-andreevich
+- person: kravchenko-galina-sergeevna
+- person: komarov-sergey-petrovich
+studio:
+- mezhrabpomfilm

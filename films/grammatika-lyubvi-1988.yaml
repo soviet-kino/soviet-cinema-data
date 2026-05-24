@@ -6,6 +6,17 @@ country:
 - SU
 external_ids:
   wikidata: Q16639286
+  youtube: C27Rc1WBZgg
 sources:
 - https://www.wikidata.org/wiki/Q16639286
 schema_version: 1
+director:
+- tsutsulkovskiy-lev-izrailevich
+composer:
+- fyodorov-vladimir-aleksandrovich
+cast:
+- person: dubrovskaya-anna-leonardovna
+- person: mishchenko-vasiliy-konstantinovich
+- person: smolyakov-andrey-igorevich
+studio:
+- pyatyy-kanal

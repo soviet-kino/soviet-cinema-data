@@ -8,6 +8,19 @@ runtime_min: 86
 external_ids:
   wikidata: Q17043461
   imdb: tt0193614
+  youtube: ShPGejrIOAE
 sources:
 - https://www.wikidata.org/wiki/Q17043461
 schema_version: 1
+director:
+- ptashuk-mikhail-nikolaevich
+screenwriter:
+- shamyakin-ivan-petrovich
+composer:
+- kortes-sergey-albertovich
+cast:
+- person: gostyukhin-vladimir
+- person: stanyuta-stefaniya-mikhaylovna
+- person: yurchenkov-pyotr-petrovich
+studio:
+- belarusfilm

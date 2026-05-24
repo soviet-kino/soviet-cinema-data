@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q20165349
   imdb: tt0307212
+  youtube: cl5HQr9Y_to
 sources:
 - https://www.wikidata.org/wiki/Q20165349
 schema_version: 1
+director:
+- vasilev-ivan
+screenwriter:
+- bodrov-sergey-vladimirovich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: millyar-georgiy-frantsevich
+- person: zhulina-olga-nikolaevna
+- person: mashnaya-olga
+studio:
+- kinostudiya-imeni-m-gorkogo

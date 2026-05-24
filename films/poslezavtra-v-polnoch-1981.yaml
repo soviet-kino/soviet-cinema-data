@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373898
 schema_version: 1
+director:
+- ogly-babaev-arif-gadzhi
+screenwriter:
+- fataliev-ramiz-mamedali-ogly
+cinematographer:
+- mamedov-kenan
+- ogly-akhundov-tayub-mirza-gasan
+composer:
+- ogly-mirzazade-khayyam-khady
+cast:
+- person: yagizarov-gadzhi-murad
+- person: masyulis-algimantas-ionovich
+- person: budraytis-yuozas-stanislavas
+- person: ogly-balaev-rasim-akhmed
+- person: ogly-dadashev-melik-yusuf
+- person: korolkov-gennadiy-anatolevich
+- person: ogly-mamedov-gasan-agamamed
+- person: romanov-ernst-ivanovich
+- person: ogly-khanyzade-gamlet-babir
+- person: ogly-zeynalov-ali-yusif
+- person: tsakhilova-zemfira-avramovna
+studio:
+- azerbaydzhanfilm

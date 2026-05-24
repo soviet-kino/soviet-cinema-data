@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12754239
 schema_version: 1
+director:
+- marusic-joakim
+cast:
+- person: bashich-relya
+- person: kojadinovic-ugljesa

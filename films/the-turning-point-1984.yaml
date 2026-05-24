@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q916456
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- kolkhaaze-volfgang
+cinematographer:
+- geick-eberhard
+composer:
+- fisher-gyunter
+cast:
+- person: grot-silvestr
+- person: gize-khorst
+- person: matseevskiy-zygmunt
+- person: vilgelmi-roman
+- person: hiemer-horst
+- person: dyuren-fred
+- person: lyudvig-fred
+- person: bauer-gans-uve
+- person: yungkhans-gyunter
+- person: shteltser-khannes
+- person: distelmann-yokhen
+- person: piontek-klaus
+- person: gyunter-mattias
+- person: kheyz-reyner
+- person: kukhne-volfgang-2
+studio:
+- defa

@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7483918
 schema_version: 1
+director:
+- nasfeter-yanush
+screenwriter:
+- nasfeter-yanush
+cinematographer:
+- lyot-stanislav
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: yatsek-fedorovich
+- person: feldman-kristina
+- person: golembyovskiy-khenrik
+- person: bonk-khenrik
+- person: kanevska-mariya
+- person: lesnyak-zdzislav
+- person: izdebskiy-bogdan
+- person: dymek-edward
+- person: lobodzinskiy-filip
+- person: mosyor-roman
+- person: dederko-vitold
+- person: rajewski-wojciech
+- person: lanevskaya-katarzhina
+- person: q112828068
+studio:
+- iluzjon

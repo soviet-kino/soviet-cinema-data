@@ -8,6 +8,11 @@ runtime_min: 64
 external_ids:
   wikidata: Q109196278
   imdb: tt1742205
+  youtube: p5v_Bq-HRSo
 sources:
 - https://www.wikidata.org/wiki/Q109196278
 schema_version: 1
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+studio:
+- sverdlovskaya-kinostudiya

@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4296473
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+composer:
+- uspenskiy-vladislav-aleksandrovich
+cast:
+- person: strizhenov-oleg-aleksandrovich
+- person: zhakov-oleg-petrovich
+- person: masyulis-algimantas-ionovich
+- person: miroshnichenko-irina-petrovna
+- person: vitorgan-emmanuil-gedeonovich
+- person: strizhenov-gleb-aleksandrovich
+studio:
+- lenfilm

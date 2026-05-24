@@ -1,0 +1,9 @@
+id: ris-milan
+name_ru: Милан Рис
+roles:
+- actor
+external_ids:
+  wikidata: Q1934299
+sources:
+- https://www.wikidata.org/wiki/Q1934299
+schema_version: 1

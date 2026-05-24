@@ -8,6 +8,16 @@ runtime_min: 84
 external_ids:
   wikidata: Q4229123
   imdb: tt0093361
+  youtube: 5ujAtm5WiSg
 sources:
 - https://www.wikidata.org/wiki/Q4229123
 schema_version: 1
+director:
+- gusarov-nikolay-nikolaevich
+screenwriter:
+- chernykh-valentin-konstantinovich
+cast:
+- person: nazarov-yuriy-vladimirovich
+- person: rakhlenko-aleksandr-yurevich
+studio:
+- sverdlovskaya-kinostudiya

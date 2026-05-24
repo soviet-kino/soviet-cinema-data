@@ -1,0 +1,9 @@
+id: sym-igo
+name_ru: Иго Сым
+roles:
+- actor
+external_ids:
+  wikidata: Q84946
+sources:
+- https://www.wikidata.org/wiki/Q84946
+schema_version: 1

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12291863
 schema_version: 1
+director:
+- yanchev-vladimir
+screenwriter:
+- isaev-konstantin-fyodorovich
+cinematographer:
+- kuznetsov-anatoliy-vasilevich
+composer:
+- stupel-petr
+cast:
+- person: danailov-stefan
+studio:
+- mosfilm

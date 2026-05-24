@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q110961651
 schema_version: 1
+director:
+- mustafa-khussam-el-din
+cast:
+- person: abaza-roshdi
+- person: mazhar-akhmed
+- person: eman
+- person: karima

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3963932
 schema_version: 1
+director:
+- sirenko-arkadiy-vasilevich
+screenwriter:
+- sirenko-arkadiy-vasilevich
+cinematographer:
+- karavaev-elizbar
+cast:
+- person: akhedzhakova-liya-medzhidovna
+- person: glagoleva-vera-vitalevna
+- person: kamenkova-pavlova-anna-semyonovna
+- person: rozanova-irina
+- person: usatova-nina-nikolaevna
+- person: zemskiy-aleksey-vladimirovich
+studio:
+- mosfilm

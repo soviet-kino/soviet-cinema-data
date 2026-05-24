@@ -8,6 +8,20 @@ runtime_min: 164
 external_ids:
   wikidata: Q4345765
   imdb: tt0062097
+  youtube: 0rk-W_Sigdo
 sources:
 - https://www.wikidata.org/wiki/Q4345765
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+screenwriter:
+- semyonov-yulian
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: gubenko-nikolay-nikolaevich
+- person: voznesenskaya-anastasiya-valentinovna
+- person: zimin-mikhail-nikolaevich
+- person: nakhapetov-rodion-rafailovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -11,3 +11,40 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1146063
 schema_version: 1
+director:
+- frich-martin
+screenwriter:
+- frich-martin
+- vallo-k-m
+cinematographer:
+- rot-yan
+composer:
+- sedlacek-bohuslav
+cast:
+- person: vinklarzh-yozef
+- person: kyselkova-marie
+- person: fialova-kveta
+- person: eduard-kogout
+- person: smolik-frantishek
+- person: effa-karel
+- person: brzkova-terezie
+- person: starshiy-pishtek-teodor
+- person: dvorski-alois
+- person: neyman-stanislav
+- person: skopechek-yan
+- person: kurandova-jarmila
+- person: zima-josef
+- person: ruzek-martin
+- person: mayova-stella
+- person: bensova-matyasova-vera
+- person: svoboda-miroslav
+- person: erbanova-doskocilova-zora
+- person: bronislawska-deylova-zdena
+- person: rubanovicova-luka
+- person: skrceny-josef
+- person: svec-vaclav
+- person: ouhleda-jiri
+- person: jungova-olga
+- person: ouhela-jiri
+studio:
+- barrandov-film-studio

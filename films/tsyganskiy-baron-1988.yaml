@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4506354
 schema_version: 1
+cast:
+- person: dmitriev-igor-borisovich
+- person: volkova-olga-vladimirovna
+- person: trofimov-nikolay-nikolaevich
+studio:
+- pyatyy-kanal

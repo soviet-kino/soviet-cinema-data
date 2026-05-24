@@ -8,6 +8,11 @@ runtime_min: 84
 external_ids:
   wikidata: Q25830863
   imdb: tt0313885
+  youtube: eiOftwW83pg
 sources:
 - https://www.wikidata.org/wiki/Q25830863
 schema_version: 1
+director:
+- lebedev-nikolay
+studio:
+- lenfilm

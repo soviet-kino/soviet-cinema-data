@@ -1,0 +1,9 @@
+id: trelya-grazhina
+name_ru: Гражина Треля
+roles:
+- actor
+external_ids:
+  wikidata: Q4462363
+sources:
+- https://www.wikidata.org/wiki/Q4462363
+schema_version: 1

@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2633827
 schema_version: 1
+director:
+- raysh-gyunter
+screenwriter:
+- kant-german
+cinematographer:
+- brandt-khorst-e
+composer:
+- nir-gelmut
+cast:
+- person: kant-german
+- person: gize-khorst
+- person: vakhovyak-yutta
+- person: noybert-artur-u
+- person: geshonnek-ervin
+- person: delmare-fred
+- person: vytsnevskiy-arno
+- person: runkehl-karla
+- person: khardt-khardtloff-khans
+- person: jupe-walter
+- person: elers-gerd
+- person: fu-walter-e
+- person: yungkhans-gyunter
+- person: grosse-khervart
+- person: yonishkan-khorst
+- person: krabbe-ingeborg
+- person: schroeder-karin
+- person: gerke-klaus
+- person: merin-yvonne
+- person: vyunsher-marianna
+- person: danegger-matilda
+- person: kilian-zigfrid
+- person: veldre-erik
+studio:
+- defa

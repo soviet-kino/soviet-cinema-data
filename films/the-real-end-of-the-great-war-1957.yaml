@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7759571
 schema_version: 1
+director:
+- ezhi-kavalerovich
+screenwriter:
+- ezhi-kavalerovich
+- zaveyskiy-ezhi
+cinematographer:
+- lipman-ezhi
+composer:
+- valyatsinskiy-adam
+cast:
+- person: vinnitskaya-lyutsina
+- person: vakhovyak-marya
+- person: ronchevskiy-ryshard
+- person: belskaya-olga
+- person: dombrovskaya-khelena
+- person: petrashak-leonard
+- person: khanna-stankuvna
+- person: shalyavskiy-andzhey
+- person: gustav-lyutkevich
+- person: kaminskiy-eugenyush
+- person: pyaskovskiy-cheslav
+- person: macheevskiy-machey
+- person: g-owacki-roland
+studio:
+- studio-filmowe-kadr

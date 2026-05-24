@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187247
 schema_version: 1
+screenwriter:
+- ibrisimovic-nedzad
+cast:
+- person: alva-rudi
+- person: hajdarhodzic-izet

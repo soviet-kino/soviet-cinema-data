@@ -1,0 +1,9 @@
+id: put-karl
+name_ru: Карл Пут
+roles:
+- cinematographer
+external_ids:
+  wikidata: Q99516
+sources:
+- https://www.wikidata.org/wiki/Q99516
+schema_version: 1

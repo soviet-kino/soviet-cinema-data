@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4053871
 schema_version: 1
+director:
+- poloka-gennadiy-ivanovich
+cast:
+- person: gurchenko-lyudmila
+- person: kvasha-igor-vladimirovich
+- person: garmash-sergey-leonidovich
+- person: bortnik-ivan-sergeevich
+- person: sokolov-boris
+studio:
+- mosfilm

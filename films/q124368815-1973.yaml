@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124368815
 schema_version: 1
+director:
+- naumov-kosta
+screenwriter:
+- tsonev-vasil
+cast:
+- person: kolev-todor
+- person: kotsev-konstantin
+- person: karageorgiev-kosta
+studio:
+- bolgarskoe-natsionalnoe-televidenie

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5463433
 schema_version: 1
+director:
+- sekeli-stiv
+cinematographer:
+- eiben-istvan
+- marli-dzhon-peverell
+cast:
+- person: kabosh-gyula
+- person: maklari-zoltan
+- person: gerey-stiven

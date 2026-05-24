@@ -1,0 +1,9 @@
+id: lotto-clare
+name_ru: Cläre Lotto
+roles:
+- actor
+external_ids:
+  wikidata: Q97393
+sources:
+- https://www.wikidata.org/wiki/Q97393
+schema_version: 1

@@ -8,6 +8,30 @@ runtime_min: 82
 external_ids:
   wikidata: Q4410314
   imdb: tt0096198
+  youtube: pp_nswKaNiI
 sources:
 - https://www.wikidata.org/wiki/Q4410314
 schema_version: 1
+director:
+- pavlovskiy-aleksandr-ilich
+screenwriter:
+- pavlovskiy-aleksandr-ilich
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: dmitriev-igor-borisovich
+- person: polskikh-galina
+- person: dzhigarkhanyan-armen-borisovich
+- person: pavlov-viktor-pavlovich
+- person: brondukov-borislav-nikolaevich
+- person: demyanenko-aleksandr-sergeevich
+- person: yakovleva-aleksandra-evgenevna
+- person: karachentsov-nikolay
+- person: budnitskaya-alla-zinovevna
+- person: shilovskiy-vsevolod-nikolaevich
+- person: loriya-abessalom
+- person: migitsko-sergey
+- person: svetin-mikhail-semyonovich
+- person: kryuchkova-svetlana
+studio:
+- odesskaya-kinostudiya

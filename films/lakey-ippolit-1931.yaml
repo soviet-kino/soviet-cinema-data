@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1056849
 schema_version: 1
+director:
+- sekeli-stiv
+screenwriter:
+- noti-karoli
+- sekeli-stiv
+cinematographer:
+- khesh-eduard
+- eiben-istvan
+composer:
+- eisemann-mihaly
+cast:
+- person: kabosh-gyula
+- person: yavor-pal
+- person: chortos-gyula
+- person: maklari-zoltan
+- person: erdelyi-mici
+- person: fenyvessy-eva
+- person: gozon-gyula
+- person: kharasti-mitsi
+- person: pazman-ferenc
+- person: simon-marcsa
+- person: szenes-erno
+- person: vandory-gusztav
+- person: goth-sandor
+poster_commons: Hyppolit, a lakáj.jpg

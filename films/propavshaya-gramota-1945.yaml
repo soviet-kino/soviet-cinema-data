@@ -8,6 +8,23 @@ runtime_min: 43
 external_ids:
   wikidata: Q3407516
   imdb: tt0239843
+  youtube: Xy6CGcqp9E8
 sources:
 - https://www.wikidata.org/wiki/Q3407516
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+- bredis-lamis
+screenwriter:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+- kalik-zinoviy-markovich
+cinematographer:
+- voinov-nikolay-vasilevich
+- petrova-elena-nikolaevna
+composer:
+- vasilenko-sergey-nikiforovich
+studio:
+- soyuzmultfilm
+poster_commons: The Lost Letter (1945).jpg

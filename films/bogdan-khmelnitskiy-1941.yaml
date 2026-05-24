@@ -8,6 +8,21 @@ runtime_min: 114
 external_ids:
   wikidata: Q2367838
   imdb: tt0033422
+  youtube: YanYhtJMdk0
 sources:
 - https://www.wikidata.org/wiki/Q2367838
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- korneychuk-aleksandr-evdokimovich
+cinematographer:
+- ekelchik-yuriy-izrailevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: mordvinov-nikolay-dmitrievich
+- person: politseymako-vitaliy-pavlovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

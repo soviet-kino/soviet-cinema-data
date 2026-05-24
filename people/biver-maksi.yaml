@@ -1,0 +1,9 @@
+id: biver-maksi
+name_ru: Макси Бивер
+roles:
+- actor
+external_ids:
+  wikidata: Q96627
+sources:
+- https://www.wikidata.org/wiki/Q96627
+schema_version: 1

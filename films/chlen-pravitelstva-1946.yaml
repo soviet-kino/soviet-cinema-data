@@ -8,6 +8,22 @@ runtime_min: 107
 external_ids:
   wikidata: Q4516921
   imdb: tt0032337
+  youtube: KtF8qBL3-5M
 sources:
 - https://www.wikidata.org/wiki/Q4516921
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+- kheyfits-iosif-efimovich
+screenwriter:
+- zarkhi-aleksandr-grigorevich
+- kheyfits-iosif-efimovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+cast:
+- person: maretskaya-vera-petrovna
+- person: kryuchkov-nikolay-afanasevich
+- person: blinov-boris-vladimirovich
+- person: vanin-vasiliy-vasilevich
+studio:
+- lenfilm

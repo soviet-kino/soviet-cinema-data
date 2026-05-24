@@ -10,3 +10,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11741519
 schema_version: 1
+director:
+- kidawa-janusz
+screenwriter:
+- andreev-petr
+composer:
+- kukulski-jaros-aw
+cast:
+- person: klosinskiy-yanush
+- person: tsnota-ezhi
+- person: gogolevskiy-ignatsy
+- person: bartel-dzhoenna
+- person: skupinski-andrzej
+- person: kravchik-bernard
+- person: drozda-tadeusz
+- person: voytsik-vislav
+- person: rychter-zdzis-aw
+- person: skrzek-jan
+- person: bochenek-krzysztof
+- person: straszna-marta
+studio:
+- iluzjon

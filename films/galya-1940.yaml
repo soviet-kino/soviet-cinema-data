@@ -8,6 +8,20 @@ runtime_min: 37
 external_ids:
   wikidata: Q4132931
   imdb: tt0336486
+  youtube: o6bJWklTbok
 sources:
 - https://www.wikidata.org/wiki/Q4132931
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+cinematographer:
+- dudko-apollinariy-ivanovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: barabanova-mariya-pavlovna
+- person: bondi-aleksey-mikhaylovich
+- person: kirillov-pyotr-klavdievich
+- person: kuznetsov-anatoliy-ivanovich
+studio:
+- lenfilm

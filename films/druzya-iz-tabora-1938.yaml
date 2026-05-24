@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q109428663
   imdb: tt0424056
+  youtube: MudpDHW5IVA
 sources:
 - https://www.wikidata.org/wiki/Q109428663
 schema_version: 1
+studio:
+- soyuzdetfilm

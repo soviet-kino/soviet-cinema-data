@@ -8,6 +8,20 @@ runtime_min: 72
 external_ids:
   wikidata: Q4449759
   imdb: tt0212545
+  youtube: m1fmFnrIAUQ
 sources:
 - https://www.wikidata.org/wiki/Q4449759
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+screenwriter:
+- spirina-valentina-ivanovna
+cinematographer:
+- egiazarov-gavriil-georgievich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+cast:
+- person: grachyov-valentin-grigorevich
+- person: petrov-andrey-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

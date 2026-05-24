@@ -8,6 +8,25 @@ runtime_min: 99
 external_ids:
   wikidata: Q1542476
   imdb: tt0037824
+  youtube: jJmsV10MTJE
 sources:
 - https://www.wikidata.org/wiki/Q1542476
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- tisse-eduard-kazimirovich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: kadochnikov-pavel-petrovich
+- person: cherkasov-nikolay-konstantinovich
+- person: zharov-mikhail-ivanovich
+- person: abrikosov-andrey-lvovich
+- person: birman-serafima-germanovna
+- person: stolyarov-sergey-dmitrievich
+- person: timoshenko-semyon-alekseevich

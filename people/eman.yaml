@@ -1,0 +1,9 @@
+id: eman
+name_ru: Eman
+roles:
+- actor
+external_ids:
+  wikidata: Q12182698
+sources:
+- https://www.wikidata.org/wiki/Q12182698
+schema_version: 1

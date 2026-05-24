@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373817
 schema_version: 1
+director:
+- menaker-leonid-isaakovich
+screenwriter:
+- galin-aleksandr-mikhaylovich
+cinematographer:
+- kovzel-vladimir-prokhorovich
+composer:
+- vaysburd-yakov-isaevich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: pavlov-viktor-pavlovich
+- person: serebryakov-aleksey-valerevich
+- person: kupchenko-irina-petrovna
+- person: gataev-valeriy-zakirovich
+- person: dyachkov-leonid
+- person: khanaeva-evgeniya
+studio:
+- lenfilm

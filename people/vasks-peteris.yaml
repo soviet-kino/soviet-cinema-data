@@ -1,0 +1,9 @@
+id: vasks-peteris
+name_ru: Петерис Васкс
+roles:
+- composer
+external_ids:
+  wikidata: Q368449
+sources:
+- https://www.wikidata.org/wiki/Q368449
+schema_version: 1

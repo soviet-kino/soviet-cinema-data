@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4232309
 schema_version: 1
+director:
+- petelskiy-cheslav
+- petelskaya-eva
+screenwriter:
+- ezhi-broshkevich
+- skovronskiy-zdzislav
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: krakovska-emiliya
+- person: khasse-khanno
+- person: khoynatskaya-yadviga
+- person: pyrkosh-vitold
+- person: fogel-aleksander
+- person: volleyko-cheslav
+- person: borovskiy-khenrik
+- person: vzhesinska-barbara
+- person: kopichinskiy-andzhey
+- person: gustav-lyutkevich
+studio:
+- defa
+- iluzjon

@@ -1,0 +1,9 @@
+id: glinka-marian
+name_ru: Мариан Глинка
+roles:
+- actor
+external_ids:
+  wikidata: Q6509064
+sources:
+- https://www.wikidata.org/wiki/Q6509064
+schema_version: 1

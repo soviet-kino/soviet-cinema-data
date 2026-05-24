@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7102290
 schema_version: 1
+director:
+- cserepy-laszlo
+cinematographer:
+- fekete-ferents
+cast:
+- person: aytai-andor
+- person: chortos-gyula
+- person: pekhes-sandor
+- person: vasari-piroshka
+- person: somogyi-nusi

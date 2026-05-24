@@ -1,0 +1,9 @@
+id: barboni-entso
+name_ru: Энцо Барбони
+roles:
+- director
+external_ids:
+  wikidata: Q938708
+sources:
+- https://www.wikidata.org/wiki/Q938708
+schema_version: 1

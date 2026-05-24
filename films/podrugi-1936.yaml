@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q949217
 schema_version: 1
+director:
+- arnshtam-leo-oskarovich
+screenwriter:
+- arnshtam-leo-oskarovich
+- vasileva-raisa-rodionovna
+cinematographer:
+- rapoport-vladimir
+- shafran-arkadiy-mendelevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: chirkov-boris-petrovich
+- person: babochkin-boris-andreevich
+- person: zheymo-yanina-boleslavovna
+- person: kayukov-stepan-yakovlevich
+- person: fyodorova-zoya-alekseevna
+- person: krylov-stepan-ivanovich
+- person: zarubina-irina-petrovna
+studio:
+- lenfilm
+poster_commons: Кадр из фильма «Подруги» (СССР, 1935).jpg

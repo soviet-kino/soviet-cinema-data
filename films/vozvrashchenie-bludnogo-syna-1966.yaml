@@ -8,6 +8,44 @@ runtime_min: 100
 external_ids:
   wikidata: Q89185877
   imdb: tt0060770
+  youtube: IeRUdzXFrR8
 sources:
 - https://www.wikidata.org/wiki/Q89185877
 schema_version: 1
+director:
+- shorm-evald
+screenwriter:
+- shorm-evald
+cinematographer:
+- uldrikh-frantishek
+composer:
+- klusak-yan
+cast:
+- person: menzel-jiri
+- person: breykhova-yana
+- person: brodskiy-vlastimil
+- person: kilian-irzhi
+- person: abrgam-yozef
+- person: sukharzhipa-leosh
+- person: diviskova-nina
+- person: medrzhitskaya-dana
+- person: trebicka-jirina
+- person: kacher-yan
+- person: sulc-josef
+- person: maryshka-milan
+- person: moravek-milan
+- person: lebeda-antonin
+- person: kreihanslova-hana
+- person: stehlik-josef-a
+- person: koska-bohumil
+- person: st-karel-hovorka
+- person: vondracek-josef
+- person: krames-josef
+- person: hartman-jiri
+- person: kacerova-klara
+- person: janeckova-olympie
+- person: belohlavek-arnost
+- person: cekal-vaclav
+- person: lebedova-anna
+- person: janecek-josef
+- person: tichy-rudolf

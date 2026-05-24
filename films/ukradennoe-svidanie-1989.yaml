@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20001423
 schema_version: 1
+director:
+- layus-leyda
+screenwriter:
+- zvereva-mariya-izoldovna
+cinematographer:
+- sillart-yuriy
+composer:
+- sumera-lepo
+cast:
+- person: ever-ita-alfredovna
+- person: varem-vee-khilya
+- person: mikhelson-kaye
+- person: peterson-lembit
+- person: klyonskaya-mariya
+- person: pennie-terje
+- person: luyk-sulev
+- person: kangur-andreas
+studio:
+- tallinfilm

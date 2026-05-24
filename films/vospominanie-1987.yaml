@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130292804
 schema_version: 1
+director:
+- savelev-vladimir-alekseevich
+screenwriter:
+- savelev-vladimir-alekseevich
+composer:
+- vigners-ivars

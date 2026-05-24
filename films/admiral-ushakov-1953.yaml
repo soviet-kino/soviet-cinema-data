@@ -8,6 +8,54 @@ runtime_min: 108
 external_ids:
   wikidata: Q4057877
   imdb: tt0045473
+  youtube: DOIDQBSuCXA
 sources:
 - https://www.wikidata.org/wiki/Q4057877
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- shteyn-aleksandr-petrovich
+cinematographer:
+- chen-iolanda-evgenevna
+composer:
+- khachaturyan-aram
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: yumatov-georgiy-aleksandrovich
+- person: avdyushko-viktor-antonovich
+- person: pugovkin-mikhail-ivanovich
+- person: livanov-boris-nikolaevich
+- person: druzhnikov-vladimir-vasilevich
+- person: pereverzev-ivan-fyodorovich
+- person: sobolevskiy-pyotr-stanislavovich
+- person: zhizneva-olga-andreevna
+- person: fayt-andrey-andreevich
+- person: etush-vladimir-abramovich
+- person: alekseev-aleksey-petrovich
+- person: balashov-viktor-ivanovich
+- person: vasilev-vladimir-vasilevich
+- person: volkov-nikolay-nikolaevich-2
+- person: volkov-pavel-mikhaylovich
+- person: georgiu-georgiy-aleksandrovich
+- person: gostinskiy-vyacheslav-vyacheslavovich
+- person: kulakov-viktor-ivanovich
+- person: kutuzov-nikolay-nikolaevich
+- person: maksimova-elena
+- person: romanov-gleb-vasilevich
+- person: roninson-gotlib
+- person: svobodin-nikolay-kapitonovich
+- person: solovyov-ivan-ivanovich
+- person: fenin-lev-aleksandrovich
+- person: khryashchikov-nikolay-prokhorovich
+- person: chistyakov-nikolay-vasilevich
+- person: shpigel-grigoriy-oyzerovich
+- person: shpringfeld-pavel-aleksandrovich
+- person: yudin-gennadiy
+- person: yanakiev-yan
+- person: lyubeshkin-pyotr-vladimirovich
+- person: geller-emmanuil-savelevich
+- person: osenev-vladimir-ivanovich
+- person: frolova-galina-ivanovna
+studio:
+- mosfilm

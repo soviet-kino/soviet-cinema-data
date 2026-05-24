@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748663
 schema_version: 1
+director:
+- ukic-radivoje-lola
+cast:
+- person: rade-markovich
+- person: tadich-lyuba
+- person: boyanich-dragomir

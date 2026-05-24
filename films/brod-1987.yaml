@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4096716
 schema_version: 1
+director:
+- dobrovolskiy-andrey-mikhaylovich
+cinematographer:
+- rayskiy-yuriy-vladimirovich
+composer:
+- karetnikov-nikolay-nikolaevich
+studio:
+- mosfilm

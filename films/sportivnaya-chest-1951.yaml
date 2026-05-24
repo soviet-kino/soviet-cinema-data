@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4438133
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- erdman-nikolay-robertovich
+- volpin-mikhail-davydovich
+cinematographer:
+- kun-yuliy-mikhaylovich
+- magidson-mark-pavlovich
+- yakovlev-vladimir-timofeevich
+composer:
+- blanter-matvey-isaakovich
+cast:
+- person: gribov-aleksey-nikolaevich
+- person: frichinskiy-lev-mikhaylovich
+studio:
+- mosfilm

@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7768139
 schema_version: 1
+director:
+- torp-richard
+- baldi-ferdinando
+screenwriter:
+- molteni-ambrodzho
+- palella-oreste
+cinematographer:
+- dzhengarelli-amerigo
+composer:
+- rossellini-rentso
+cast:
+- person: uells-orson
+- person: matyur-viktor
+- person: foa-arnoldo
+- person: orfey-liana
+- person: lyulli-folko
+- person: terra-renato
+- person: kortez-bella
+- person: menikoni-furio
+- person: chekkarelli-petro
+- person: marin-luchano
+studio:
+- metro-goldwyn-mayer
+- lux-film

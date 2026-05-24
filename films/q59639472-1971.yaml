@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q59639472
 schema_version: 1
+director:
+- dyulgerov-georgi
+- nikolov-milen
+screenwriter:
+- haytov-nikolay
+composer:
+- karadimchev-boris
+- pironkov-simeon
+cast:
+- person: slabakov-pyotr
+- person: todev-nikola
+- person: kamarashev-vylcho
+- person: panchev-pancho
+- person: mavrodiev-stefan
+- person: trifonov-filip

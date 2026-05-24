@@ -8,6 +8,32 @@ runtime_min: 77
 external_ids:
   wikidata: Q111747692
   imdb: tt0066537
+  youtube: pqrX9s0zVyA
 sources:
 - https://www.wikidata.org/wiki/Q111747692
 schema_version: 1
+director:
+- krumbakhova-ester
+screenwriter:
+- nemets-yan
+- krumbakhova-ester
+cinematographer:
+- matsak-irzhi
+composer:
+- mikhaylov-angel
+cast:
+- person: nemets-yan
+- person: ruzhichkova-gelena
+- person: bogdalova-irzhina
+- person: menshik-vladimir
+- person: smocek-ladislav
+- person: hermanova-ljuba
+- person: mikhaylov-angel
+- person: maly-lubomir
+- person: preyssova-yindrzhishka-gabriela
+- person: mikota-jan
+- person: jungova-olga
+- person: duffkova-jana-hana
+- person: novotny-bretislav
+- person: pribyl-karel
+- person: sirc-jan

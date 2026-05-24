@@ -1,0 +1,9 @@
+id: togai-kan
+name_ru: Кан Тогаи
+roles:
+- actor
+external_ids:
+  wikidata: Q326612
+sources:
+- https://www.wikidata.org/wiki/Q326612
+schema_version: 1

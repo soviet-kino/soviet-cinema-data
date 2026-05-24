@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56166713
 schema_version: 1
+director:
+- bright-sarah
+- nosek-alexej
+screenwriter:
+- melisek-jiri
+cinematographer:
+- lebeda-jiri
+cast:
+- person: gavlova-dagmar
+- person: dolinova-michaela
+- person: cockova-helga
+- person: frej-ladislav
+- person: stashova-simona

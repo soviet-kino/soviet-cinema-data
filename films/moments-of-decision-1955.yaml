@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12960299
 schema_version: 1
+director:
+- chap-frantishek
+screenwriter:
+- chap-frantishek
+cast:
+- person: sever-stane
+- person: sotlar-bert

@@ -8,6 +8,23 @@ runtime_min: 77
 external_ids:
   wikidata: Q4286107
   imdb: tt0035044
+  youtube: qOQOvUzUhnw
 sources:
 - https://www.wikidata.org/wiki/Q4286107
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+- ermolinskiy-sergey-aleksandrovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- volskiy-boris-alekseevich
+cast:
+- person: altayskaya-vera-vladimirovna
+- person: svetlani-georgiy
+- person: karavaeva-valentina-ivanovna
+- person: kuznetsov-mikhail-artemevich
+studio:
+- mosfilm

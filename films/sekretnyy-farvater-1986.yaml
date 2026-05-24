@@ -8,6 +8,23 @@ runtime_min: 272
 external_ids:
   wikidata: Q4413316
   imdb: tt2317100
+  youtube: UOL842Notfg
 sources:
 - https://www.wikidata.org/wiki/Q4413316
 schema_version: 1
+director:
+- kostromenko-vadim
+screenwriter:
+- smirnov-viktor-vasilevich
+- bolgarin-igor-yakovlevich
+cinematographer:
+- ilchuk-nikolay-semyonovich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: bystritskiy-sergey-veniaminovich
+- person: guzeeva-larisa-andreevna
+- person: kotenyov-anatoliy-vladimirovich
+- person: yurchenko-valeriy-ivanovich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11829966
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- starskiy-lyudvik
+cinematographer:
+- krushinskiy-severin
+composer:
+- anio-kiewicz-czes-aw
+cast:
+- person: shmidt-tadeush
+- person: kondrat-tadeush
+- person: lidiya-korsakuvna
+- person: mikolaevskiy-adam
+- person: bojarska-wanda
+studio:
+- q9380470

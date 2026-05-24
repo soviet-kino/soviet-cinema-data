@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12906584
 schema_version: 1
+cast:
+- person: prlichko-petr
+- person: chevrevski-yordanko
+- person: angelovski-kole
+- person: kyortoshev-kiril

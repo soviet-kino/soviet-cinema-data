@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1196378
 schema_version: 1
+director:
+- mettsig-kurt
+screenwriter:
+- volf-fridrikh
+cinematographer:
+- ben-grund-fridl
+composer:
+- eysler-khans
+cast:
+- person: raki-layya
+- person: bildt-paul
+- person: vindek-agnes
+- person: pflug-eva
+- person: tilman-frits
+- person: krauze-brigitta
+- person: keller-inge
+studio:
+- defa

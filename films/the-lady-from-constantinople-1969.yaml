@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55237869
 schema_version: 1
+director:
+- elek-judit
+screenwriter:
+- mandi-ivan
+- elek-judit
+cinematographer:
+- ragay-elemer
+composer:
+- kormendi-vilmos
+cast:
+- person: almashi-eva
+- person: kishsh-mani
+- person: bekesh-itala
+- person: bekes-rita
+- person: chapo-yanosh
+studio:
+- mafilm

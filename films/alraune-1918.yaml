@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4735692
 schema_version: 1
+director:
+- kyortis-maykl
+screenwriter:
+- evers-gans-geynts
+cast:
+- person: torzs-jeno
+- person: lux-margit

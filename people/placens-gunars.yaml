@@ -1,0 +1,9 @@
+id: placens-gunars
+name_ru: Gunārs Placēns
+roles:
+- actor
+external_ids:
+  wikidata: Q16357340
+sources:
+- https://www.wikidata.org/wiki/Q16357340
+schema_version: 1

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124409540
 schema_version: 1
+screenwriter:
+- antonov-tonich-anton
+cast:
+- person: gorchev-anton
+- person: mutafova-stoyanka
+- person: sotirova-aneta
+- person: kuzmanova-yordanka
+studio:
+- bolgarskoe-natsionalnoe-televidenie

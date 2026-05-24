@@ -1,0 +1,9 @@
+id: argo
+name_ru: Арго
+roles:
+- actor
+external_ids:
+  wikidata: Q21635604
+sources:
+- https://www.wikidata.org/wiki/Q21635604
+schema_version: 1

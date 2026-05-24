@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1673923
 schema_version: 1
+director:
+- polanski-roman
+screenwriter:
+- polanski-roman
+- brash-zherar
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- sard-filipp
+cast:
+- person: meyn-ferdi
+- person: mattau-uolter
+- person: lyuis-sharlotta
+- person: elfik-maykl
+- person: fernandes-emilio
+- person: kelli-devid
+- person: bromli-sidni
+- person: douson-entoni
+- person: kinnir-roy
+- person: kampon-kris
+- person: eshton-griffits-rodzher
+- person: emilfork-daniel
+- person: tomas-demien
+- person: mori-zhak
+studio:
+- the-cannon-group
+poster_commons: Pirates, Roman Polanski, boat Genova.jpg

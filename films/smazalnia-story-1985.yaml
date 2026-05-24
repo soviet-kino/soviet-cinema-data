@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9338638
 schema_version: 1
+director:
+- gebski-jozef
+screenwriter:
+- bartosz-andrzej
+cinematographer:
+- kiyovskiy-matsey
+cast:
+- person: buchkovskiy-zbignev
+studio:
+- iluzjon

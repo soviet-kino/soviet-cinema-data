@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60852035
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- bleyman-mikhail-yurevich
+- timoshenko-semyon-alekseevich
+cast:
+- person: guretskaya-tatyana-ivanovna
+- person: alekseev-aleksey-alekseevich
+poster_commons: Мятеж.jpg

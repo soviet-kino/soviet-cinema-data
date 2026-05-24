@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31098608
 schema_version: 1
+director:
+- ban-robert
+screenwriter:
+- kertesz-akos
+- zimre-peter
+cast:
+- person: bodrogi-gyula
+- person: banfalvi-agnes
+- person: ronyecz-maria
+- person: varadi-hedi

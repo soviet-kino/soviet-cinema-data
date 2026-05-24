@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3793201
 schema_version: 1
+director:
+- otsep-fyodor-aleksandrovich
+screenwriter:
+- otsep-fyodor-aleksandrovich
+cinematographer:
+- yuttsi-fil
+- golovnya-anatoliy-dmitrievich
+composer:
+- shmidt-byolke-verner
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: khyon-karola
+- person: dissl-gustav
+- person: barnet-boris-vasilevich
+- person: zerda-yuliya
+- person: yakobini-mariya
+studio:
+- prometheus-film
+poster_commons: Scheurich, Der lebende Leichnam (Das Ehegesetz), 1929.jpg

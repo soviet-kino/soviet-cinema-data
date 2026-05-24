@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1481691
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- gorrish-walter
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- vertslau-yoakhim
+cast:
+- person: dits-frits
+- person: hau-mann-ezard
+- person: krug-manfred
+- person: naumann-gyunter
+- person: finohr-hans
+- person: myuller-shtal-armin
+- person: geshonnek-ervin
+- person: khoffman-adolf-peter
+- person: vytsnevskiy-arno
+- person: tayn-ulrikh
+- person: beern-dom
+- person: marian-edvin
+- person: shvil-ernst-georg
+- person: dyuren-fred
+- person: lyudvig-fred
+- person: distelmann-yokhen
+- person: maus-yokhannes
+- person: schramm-walter
+- person: bregazzi-ralf
+- person: papendiek-alexander
+studio:
+- defa

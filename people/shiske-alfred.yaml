@@ -1,0 +1,9 @@
+id: shiske-alfred
+name_ru: Альфред Шиске
+roles:
+- actor
+external_ids:
+  wikidata: Q121214
+sources:
+- https://www.wikidata.org/wiki/Q121214
+schema_version: 1

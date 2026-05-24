@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2648167
 schema_version: 1
+director:
+- gusner-iris
+cinematographer:
+- khaubold-gyunter
+composer:
+- bohme-baldur
+cast:
+- person: shvarts-dzheki
+- person: khyubkhen-khenri
+- person: shnitsler-varvara
+- person: entoni-karmen-mayya
+- person: dehler-wolfgang
+- person: markvardt-frits
+- person: kipp-khaydi
+- person: piontek-klaus
+- person: lirk-madlen
+- person: tempelkhof-lissi
+- person: bilenshtayn-monika

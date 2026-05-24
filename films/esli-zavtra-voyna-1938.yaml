@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4177187
 schema_version: 1
+director:
+- dzigan-efim-lvovich
+- antsi-polovskiy-lazar-yakovlevich
+- beryozko-georgiy-sergeevich
+- karmazinskiy-nikolay-nikolaevich
+screenwriter:
+- dzigan-efim-lvovich
+- svetlov-mikhail-arkadevich
+- beryozko-georgiy-sergeevich
+cinematographer:
+- efimov-evgeniy-ivanovich
+composer:
+- pokrass-dmitriy-yakovlevich
+- pokrass-daniil-yakovlevich
+cast:
+- person: sanaev-vsevolod-vasilevich
+- person: fyodorova-inna-ivanovna
+studio:
+- mosfilm

@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q988391
 schema_version: 1
+director:
+- timar-peter
+screenwriter:
+- timar-peter
+cinematographer:
+- kardos-shandor
+composer:
+- timar-peter
+cast:
+- person: rajhona-adam

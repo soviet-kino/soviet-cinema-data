@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270503
 schema_version: 1
+screenwriter:
+- bulychyov-kir
+composer:
+- lazarev-sergey
+cast:
+- person: barinov-valeriy
+- person: basov-vladimir
+- person: kochegarov-nikolay-borisovich
+- person: trutnev-leonid-anatolevich
+studio:
+- mosfilm

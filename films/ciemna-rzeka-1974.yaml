@@ -10,3 +10,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9192436
 schema_version: 1
+director:
+- shishko-silvestr
+screenwriter:
+- shishko-silvestr
+cinematographer:
+- kiyovskiy-matsey
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: zigmunt-malyanovich
+- person: pechka-frantishek
+- person: petruskiy-ryshard
+- person: plotnitskiy-boleslav
+- person: hanin-ryszarda
+- person: wiaderny-zygmunt
+- person: alitsiya-yakhevich
+- person: jurczak-andrzej
+- person: tshetsyak-frantsishek
+- person: goraj-maciej
+- person: wojtczak-marian
+- person: noymann-vanda
+- person: braszka-jerzy-aleksander
+studio:
+- iluzjon

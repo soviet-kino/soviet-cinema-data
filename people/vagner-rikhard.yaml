@@ -1,0 +1,9 @@
+id: vagner-rikhard
+name_ru: Рихард Вагнер
+roles:
+- composer
+external_ids:
+  wikidata: Q1511
+sources:
+- https://www.wikidata.org/wiki/Q1511
+schema_version: 1

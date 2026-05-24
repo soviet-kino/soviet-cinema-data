@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12182262
 schema_version: 1
+director:
+- al-sayfi-khasan
+cast:
+- person: rosti-stefan
+- person: yasin-esmaeil
+- person: sabry-maha
+- person: deken-taufik-el
+- person: q12249863

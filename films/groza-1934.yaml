@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4150059
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- petrov-vladimir-mikhaylovich
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich
+composer:
+- shcherbachyov-vladimir-vladimirovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: tsaryov-mikhail-ivanovich
+- person: krylov-stepan-ivanovich
+- person: korchagina-aleksandrovskaya-ekaterina-pavlovna
+- person: zarubina-irina-petrovna
+- person: massalitinova-varvara-osipovna
+- person: tarasova-alla-konstantinovna
+- person: tarkhanov-mikhail-mikhaylovich
+- person: chuvelyov-ivan-pavlovich
+studio:
+- mosfilm
+- lenfilm

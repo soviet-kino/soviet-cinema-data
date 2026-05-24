@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56827258
 schema_version: 1
+director:
+- ivanda-branko

@@ -11,3 +11,38 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12030193
 schema_version: 1
+director:
+- pinkava-yozef
+screenwriter:
+- petrzhik-yaroslav
+- pinkava-yozef
+cinematographer:
+- kolin-irzhi
+composer:
+- svoboda-karel
+cast:
+- person: gadrboltsova-zdena
+- person: ruzicka-jiri
+- person: kholubova-eva
+- person: kriz-pavel
+- person: tokosh-lubor
+- person: navratil-antonin
+- person: tikhankova-vera
+- person: husak-frantisek
+- person: khartl-yan
+- person: tomek-irzhi
+- person: chvalina-josef
+- person: jelenska-jirina
+- person: triska-stanislav
+- person: julinova-sylva
+- person: halama-eduard
+- person: vacek-tomas
+- person: hrabal-vladimir
+- person: tomsu-jana
+- person: klus-pavel
+- person: sokolova-eva
+- person: katerinjuk-michal
+- person: martinovska-helena
+- person: willertova-ilona
+studio:
+- kinostudiya-gotvaldova

@@ -8,6 +8,21 @@ runtime_min: 109
 external_ids:
   wikidata: Q4299844
   imdb: tt0172812
+  youtube: IQhBo9Pz0rw
 sources:
 - https://www.wikidata.org/wiki/Q4299844
 schema_version: 1
+director:
+- lotyanu-emil
+screenwriter:
+- lotyanu-emil
+composer:
+- doga-evgeniy
+cast:
+- person: yankovsky-oleg
+- person: toma-svetlana
+- person: lavrov-kirill-yurevich
+- person: belyaeva-galina
+- person: grigoriu-grigore-petru
+studio:
+- mosfilm

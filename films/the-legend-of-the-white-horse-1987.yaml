@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4732713
 schema_version: 1
+director:
+- morgenshtern-yanush
+- domaradskiy-ezhi
+cinematographer:
+- lenchevskiy-ryshard
+composer:
+- stoklosa-yanush
+cast:
+- person: lloyd-kristofer
+- person: uolles-di
+- person: belson-ellison
+- person: tek-o-sun
+- person: askyu-lyuk
+- person: stoun-kristofer
+- person: kachor-kazimezh
+- person: shpak-flit-stefan
+- person: shopa-andzhey
+- person: radwanski-ryszard
+- person: blyumenfeld-andzhey
+- person: krakovski-andzhey
+- person: wolski-stanislaw
+studio:
+- perspektywa-film-studio

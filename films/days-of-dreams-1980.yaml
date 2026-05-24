@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5243369
 schema_version: 1
+director:
+- gilic-vlatko
+composer:
+- kseniya-zetsevich
+cast:
+- person: komnenic-boris
+- person: kriticheski-liliana
+- person: vladitsa-miloslavovich

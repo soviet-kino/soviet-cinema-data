@@ -8,6 +8,19 @@ runtime_min: 90
 external_ids:
   wikidata: Q15271005
   imdb: tt0237700
+  youtube: W1k4Rm90p5o
 sources:
 - https://www.wikidata.org/wiki/Q15271005
 schema_version: 1
+director:
+- surin-aleksandr-vladimirovich
+screenwriter:
+- kondratev-vyacheslav-leonidovich
+cinematographer:
+- nevskiy-yuriy-anatolevich
+composer:
+- geviksman-vitaliy-artemevich
+cast:
+- person: tashkov-andrey-evgenevich
+studio:
+- mosfilm

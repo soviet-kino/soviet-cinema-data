@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184559
 schema_version: 1
+director:
+- konjovic-jovan
+cast:
+- person: simich-nikola
+- person: dobrichanin-dragutin

@@ -11,3 +11,43 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7200434
 schema_version: 1
+director:
+- skonieczny-zygmunt
+screenwriter:
+- frejdlich-konrad
+- skonieczny-zygmunt
+composer:
+- valyatsinskiy-adam
+cast:
+- person: zbignev-zapasevich
+- person: nemchik-leon
+- person: pechka-frantishek
+- person: fogel-aleksander
+- person: bista-khenrik
+- person: sokhnatskiy-boguslav
+- person: lipovskaya-teresa
+- person: zbirog-jozef
+- person: benua-lyudvik
+- person: musyal-vlodzimezh
+- person: kozak-andzhey
+- person: lysakovskiy-bogdan
+- person: novak-ezhi
+- person: g-oskowski-andrzej
+- person: antczak-bogumi
+- person: marinovskiy-boris
+- person: zukowska-ewa
+- person: dembinski-ryszard
+- person: paska-stefan
+- person: teodorchik-tadeush
+- person: ostrowska-wanda
+- person: kwaskowski-w-odzimierz
+- person: belskiy-zbignev
+- person: malawski-zygmunt
+- person: barbara-valkuvna
+- person: kruk-jan-pawe
+- person: brashka-ezhi
+- person: peratskiy-yuzef
+- person: kalczynski-krzysztof
+- person: grochoczynski-tomasz
+studio:
+- q110427551

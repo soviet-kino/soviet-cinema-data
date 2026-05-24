@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106937865
 schema_version: 1
+director:
+- al-sayfi-khasan
+cast:
+- person: el-shennavi-kamal
+- person: ibrakhim-abdel-moneym
+- person: sabry-maha
+- person: fayek-hassan

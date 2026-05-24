@@ -1,0 +1,9 @@
+id: veber-gans
+name_ru: Ганс Вебер
+roles:
+- actor
+external_ids:
+  wikidata: Q1576360
+sources:
+- https://www.wikidata.org/wiki/Q1576360
+schema_version: 1

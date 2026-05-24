@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q21844367
   imdb: tt0136470
+  youtube: EBNuelRVvRE
 sources:
 - https://www.wikidata.org/wiki/Q21844367
 schema_version: 1
+director:
+- gerasimov-evgeniy-vladimirovich
+screenwriter:
+- batalov-aleksey-vladimirovich
+composer:
+- sidelnikov-nikolay-nikolaevich
+cast:
+- person: zhigunov-sergey
+studio:
+- kinostudiya-imeni-m-gorkogo

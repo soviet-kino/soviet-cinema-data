@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16514492
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+- lopatinskiy-faust
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- demutskiy-daniil-porfirevich
+cast:
+- person: kapka-dmitriy-leontevich
+- person: shagayda-stepan-vasilevich
+- person: shumskiy-yuriy-vasilevich
+studio:
+- odesskaya-kinostudiya

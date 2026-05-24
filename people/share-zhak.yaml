@@ -1,0 +1,9 @@
+id: share-zhak
+name_ru: Жак Шарье
+roles:
+- actor
+external_ids:
+  wikidata: Q1677936
+sources:
+- https://www.wikidata.org/wiki/Q1677936
+schema_version: 1

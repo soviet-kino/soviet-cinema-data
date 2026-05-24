@@ -1,0 +1,9 @@
+id: sarge-carmen
+name_ru: Carmen Sarge
+roles:
+- actor
+external_ids:
+  wikidata: Q1043709
+sources:
+- https://www.wikidata.org/wiki/Q1043709
+schema_version: 1

@@ -1,0 +1,9 @@
+id: dennis-nik
+name_ru: Ник Дэннис
+roles:
+- actor
+external_ids:
+  wikidata: Q389728
+sources:
+- https://www.wikidata.org/wiki/Q389728
+schema_version: 1

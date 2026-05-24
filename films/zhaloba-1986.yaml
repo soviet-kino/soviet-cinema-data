@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q84994634
   imdb: tt0267143
+  youtube: bG9Wi9KigBs
 sources:
 - https://www.wikidata.org/wiki/Q84994634
 schema_version: 1
+director:
+- zoloev-taymuraz-aleksandrovich
+cinematographer:
+- krutin-viktor-viktorovich
+composer:
+- artemyev-eduard
+cast:
+- person: grinko-nikolai
+- person: miroshnichenko-irina-petrovna
+- person: kiselyus-yuozas
+- person: kuznetsova-olga-olegovna
+studio:
+- odesskaya-kinostudiya

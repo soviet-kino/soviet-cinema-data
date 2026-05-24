@@ -1,0 +1,9 @@
+id: zadeja-cesk
+name_ru: Çesk Zadeja
+roles:
+- composer
+external_ids:
+  wikidata: Q743511
+sources:
+- https://www.wikidata.org/wiki/Q743511
+schema_version: 1

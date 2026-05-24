@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9210110
 schema_version: 1
+director:
+- qirjaqi-agim
+composer:
+- zaharian-hajg

@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q43093328
 schema_version: 1
+cast:
+- person: chevrevski-yordanko
+- person: kyortoshev-kiril
+- person: svetolik-nikachevich
+- person: disljenkovic-predrag

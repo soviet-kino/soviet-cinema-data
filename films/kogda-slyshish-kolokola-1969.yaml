@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506207
 schema_version: 1
+director:
+- vrdolyak-antun
+screenwriter:
+- vrdolyak-antun
+cinematographer:
+- vodopivec-frano
+composer:
+- klobuchar-andzhelko
+cast:
+- person: nalis-antun
+- person: sovagovic-fabijan
+- person: drech-vanya
+- person: ivitsa-vidovich
+- person: dvornik-boris
+- person: vuisich-pavle
+- person: buzanchich-boris
+- person: boman-mirko
+- person: spoljar-branko
+- person: hajdarhodzic-izet

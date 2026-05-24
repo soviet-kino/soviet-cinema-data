@@ -1,0 +1,9 @@
+id: forest-karl
+name_ru: Karl Forest
+roles:
+- actor
+external_ids:
+  wikidata: Q1730997
+sources:
+- https://www.wikidata.org/wiki/Q1730997
+schema_version: 1

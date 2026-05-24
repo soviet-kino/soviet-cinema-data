@@ -1,0 +1,9 @@
+id: las-mikulas
+name_ru: Mikulás Las
+roles:
+- actor
+external_ids:
+  wikidata: Q111411456
+sources:
+- https://www.wikidata.org/wiki/Q111411456
+schema_version: 1

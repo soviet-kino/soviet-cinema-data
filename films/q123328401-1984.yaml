@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123328401
 schema_version: 1
+director:
+- varkonyi-gabor
+screenwriter:
+- kapas-dezso
+cast:
+- person: chomosh-mari
+- person: kallai-ferents
+- person: margitay-agi

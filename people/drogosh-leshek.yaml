@@ -1,0 +1,9 @@
+id: drogosh-leshek
+name_ru: Лешек Дрогош
+roles:
+- actor
+external_ids:
+  wikidata: Q937210
+sources:
+- https://www.wikidata.org/wiki/Q937210
+schema_version: 1

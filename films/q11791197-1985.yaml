@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11791197
 schema_version: 1
+director:
+- pecani-spartak
+cinematographer:
+- kokona-saim
+composer:
+- zaharian-hajg
+cast:
+- person: ksepa-ndrikim
+- person: rudi-gezim
+- person: makochi-matilda

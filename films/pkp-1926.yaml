@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q16684152
   imdb: tt7410882
+  youtube: nfCz8woy1iI
 sources:
 - https://www.wikidata.org/wiki/Q16684152
 schema_version: 1
+director:
+- stabovoy-georgiy-mikhaylovich
+screenwriter:
+- stabovoy-georgiy-mikhaylovich
+cinematographer:
+- goldt-marius
+cast:
+- person: tyutyunnik-yuriy-osipovich
+- person: kalinin-sergey-ivanovich
+- person: lyarov-matvey-lvovich
+- person: uzhviy-nataliya-mikhaylovna
+studio:
+- vseukrainskoe-fotokinoupravlenie

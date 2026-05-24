@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13054338
 schema_version: 1
+director:
+- mkrtchyan-albert-mushegovich
+screenwriter:
+- mkrtchyan-albert-mushegovich
+cinematographer:
+- vatinyan-rudolf
+cast:
+- person: mkrtchyan-frunzik
+- person: abramyan-khoren
+- person: gasparyan-azat-nikolaevich
+- person: novents-galya
+- person: sharafyan-levon
+- person: chaldranyan-vigen
+- person: tumanyan-alla
+- person: blbulyan-zhanna
+- person: stepanyan-vigen
+- person: alaverdyan-genrikh
+- person: amiryan-yuriy
+- person: nazaretyan-khachik
+- person: santrosyan-armen
+studio:
+- armenfilm

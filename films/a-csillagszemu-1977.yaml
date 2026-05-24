@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q54927752
 schema_version: 1
+director:
+- markos-miklos
+screenwriter:
+- markos-miklos
+cinematographer:
+- bornyi-gyula
+composer:
+- sokolai-shandor
+cast:
+- person: durdiak-juraj
+- person: szirtes-agi
+- person: madarash-yozhef
+- person: bordan-iren
+- person: degi-ishtvan
+- person: oszter-sandor
+- person: molnar-tibor
+- person: telessy-gyorgyi

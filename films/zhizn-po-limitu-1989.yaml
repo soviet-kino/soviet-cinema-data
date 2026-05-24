@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q63203762
 schema_version: 1
+cast:
+- person: menshikov-oleg-evgenevich
+- person: nikonenko-sergey
+- person: zudina-marina-vyacheslavovna
+- person: gazarov-sergey-ishkhanovich
+- person: germanova-evdokiya-alekseevna
+- person: steklov-vladimir-aleksandrovich
+studio:
+- mosfilm

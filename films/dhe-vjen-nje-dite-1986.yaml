@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q10994604
 schema_version: 1
+director:
+- prifti-vladimir
+screenwriter:
+- lako-teodor
+- prifti-vladimir
+cinematographer:
+- martiniani-bardhyl
+composer:
+- simaku-thomas
+cast:
+- person: bulku-rajmonda
+- person: hyskja-demir
+- person: zhusti-viktor
+- person: ferri-xhevdet
+studio:
+- kinostudio-shqiperia-e-re

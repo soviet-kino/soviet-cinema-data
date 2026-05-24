@@ -9,3 +9,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47462224
 schema_version: 1
+cast:
+- person: petrov-valeri
+- person: kisyov-ventsislav
+- person: dobrev-dobri
+- person: yordanov-ivan
+- person: raev-iliya
+- person: kavardjikova-maria
+- person: pishtalov-stanislav
+- person: stoychev-stoyan
+- person: georgieva-ana
+- person: gaytanekov-georgi

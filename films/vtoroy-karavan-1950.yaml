@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21408181
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- simonov-konstantin-mikhaylovich
+cinematographer:
+- feldman-dmitriy-moiseevich
+cast:
+- person: maksimova-antonina-mikhaylovna
+- person: simonov-ruben-nikolaevich
+- person: martinson-sergey-aleksandrovich
+- person: vagarshyan-vagarsh-bogdanovich
+- person: andzhaparidze-veriko-ivlianovna
+- person: aksyonov-vsevolod-nikolaevich
+- person: dranovskaya-lidiya-dmitrievna
+- person: karapetyan-artyom-yakovlevich
+- person: malyan-david
+- person: saryan-faddey
+studio:
+- armenfilm

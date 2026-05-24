@@ -1,0 +1,9 @@
+id: gaal-bela
+name_ru: Бела Гаал
+roles:
+- director
+external_ids:
+  wikidata: Q2929782
+sources:
+- https://www.wikidata.org/wiki/Q2929782
+schema_version: 1

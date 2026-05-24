@@ -1,0 +1,9 @@
+id: fortune-kim
+name_ru: Kim Fortune
+roles:
+- actor
+external_ids:
+  wikidata: Q133575933
+sources:
+- https://www.wikidata.org/wiki/Q133575933
+schema_version: 1

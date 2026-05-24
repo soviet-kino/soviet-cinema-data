@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q117848574
 schema_version: 1
+composer:
+- petrov-andrey-pavlovich
+studio:
+- lenfilm

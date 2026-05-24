@@ -1,0 +1,9 @@
+id: hohmann-lew
+name_ru: Lew Hohmann
+roles:
+- director
+external_ids:
+  wikidata: Q1120131
+sources:
+- https://www.wikidata.org/wiki/Q1120131
+schema_version: 1

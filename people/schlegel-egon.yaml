@@ -1,0 +1,9 @@
+id: schlegel-egon
+name_ru: Egon Schlegel
+roles:
+- director
+external_ids:
+  wikidata: Q1298888
+sources:
+- https://www.wikidata.org/wiki/Q1298888
+schema_version: 1

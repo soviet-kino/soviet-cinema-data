@@ -1,0 +1,9 @@
+id: karme-zhan
+name_ru: Жан Карме
+roles:
+- actor
+external_ids:
+  wikidata: Q639888
+sources:
+- https://www.wikidata.org/wiki/Q639888
+schema_version: 1

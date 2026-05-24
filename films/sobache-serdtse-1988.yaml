@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q307620
 schema_version: 1
+director:
+- bortko-vladimir
+cinematographer:
+- shaygardanov-yuriy-akhtyamovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: evstigneev-evgeniy-aleksandrovich
+- person: plotnikov-boris
+- person: tolokonnikov-vladimir-alekseevich
+studio:
+- lenfilm

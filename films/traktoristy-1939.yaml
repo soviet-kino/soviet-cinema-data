@@ -8,6 +8,29 @@ runtime_min: 88
 external_ids:
   wikidata: Q4189193
   imdb: tt0032050
+  youtube: z7LglSy4B3w
 sources:
 - https://www.wikidata.org/wiki/Q4189193
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- pomeshchikov-evgeniy-mikhaylovich
+cinematographer:
+- aretskiy-boris-solomonovich
+- galperin-aleksandr-vladimirovich
+composer:
+- pokrass-dmitriy-yakovlevich
+- pokrass-daniil-yakovlevich
+cast:
+- person: ladynina-marina-alekseevna
+- person: andreev-boris-fyodorovich
+- person: raykin-arkadiy-isaakovich
+- person: kryuchkov-nikolay-afanasevich
+- person: kayukov-stepan-yakovlevich
+- person: aleynikov-pyotr-martynovich
+- person: dolinin-aleksey-georgievich
+- person: savin-pyotr-nikolaevich
+studio:
+- mosfilm
+poster_commons: Traktoristy Kult 23 05.jpg

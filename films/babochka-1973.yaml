@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11786172
 schema_version: 1
+director:
+- nasfeter-yanush
+screenwriter:
+- nasfeter-yanush
+cinematographer:
+- kshishtof-vinevich
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: mechislav-chekhovich
+- person: mikhalska-grazhina
+- person: mosyor-roman
+- person: fedorchik-bozhena
+studio:
+- iluzjon

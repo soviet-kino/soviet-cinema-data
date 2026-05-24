@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1499219
 schema_version: 1
+director:
+- bar-rainer
+screenwriter:
+- bar-rainer
+composer:
+- motsart-volfgang-amadey
+cast:
+- person: marian-michele
+- person: tietze-werner
+- person: drinda-khorst
+- person: spira-steffie

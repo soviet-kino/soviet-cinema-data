@@ -8,6 +8,21 @@ runtime_min: 78
 external_ids:
   wikidata: Q4168620
   imdb: tt0092930
+  youtube: Na8wwzRGjww
 sources:
 - https://www.wikidata.org/wiki/Q4168620
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+screenwriter:
+- akopov-eduard-tigranovich
+cinematographer:
+- guslinskiy-evgeniy
+composer:
+- rozenbaum-aleksandr-yakovlevich
+cast:
+- person: polskikh-galina
+- person: solovey-elena-yakovlevna
+- person: shakurov-sergey-kayumovich
+studio:
+- mosfilm

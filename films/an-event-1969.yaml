@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506213
 schema_version: 1
+director:
+- mimitsa-vatroslav
+screenwriter:
+- senecic-zeljko
+cinematographer:
+- vodopivec-frano
+cast:
+- person: sovagovic-fabijan
+- person: dvornik-boris
+- person: vuisich-pavle
+- person: neda-spasoevich
+studio:
+- yadran-film

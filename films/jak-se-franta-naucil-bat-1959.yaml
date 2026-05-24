@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6124417
 schema_version: 1
+director:
+- mach-jaroslav
+screenwriter:
+- novak-jiri-zdenek
+cinematographer:
+- gunka-vatslav
+composer:
+- belfin-frantisek
+cast:
+- person: filipovskiy-frantishek
+- person: kemr-yozef
+- person: voyta-yaroslav
+- person: beyvl-yozef
+- person: kreuzmannova-alena
+- person: troyan-ladislav
+- person: velen-oldrzhikh
+- person: andrsova-jana
+- person: zoubkova-miluse
+studio:
+- barrandov

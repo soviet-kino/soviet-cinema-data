@@ -1,0 +1,9 @@
+id: vagner-pol
+name_ru: Пол Вагнер
+roles:
+- actor
+external_ids:
+  wikidata: Q113716
+sources:
+- https://www.wikidata.org/wiki/Q113716
+schema_version: 1

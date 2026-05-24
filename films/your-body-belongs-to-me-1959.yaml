@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17479235
 schema_version: 1
+director:
+- haaf-wilm-ten
+cinematographer:
+- khasse-kurt
+composer:
+- ogerman-klaus

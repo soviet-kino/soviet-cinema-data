@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q16673929
   imdb: tt1718829
+  youtube: wOFzMaHu5nA
 sources:
 - https://www.wikidata.org/wiki/Q16673929
 schema_version: 1
+director:
+- mikaelyan-margarita
+composer:
+- eshpay-andrey
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: mishulin-spartak-vasilevich
+- person: radchenko-vladimir-vladimirovich
+studio:
+- teatr-satiry-moskva

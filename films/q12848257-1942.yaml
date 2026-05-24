@@ -9,3 +9,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12848257
 schema_version: 1
+cinematographer:
+- koretski-leonid
+- yeremeyev-vladimir
+studio:
+- azerbaydzhanfilm

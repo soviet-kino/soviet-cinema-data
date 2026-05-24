@@ -1,0 +1,9 @@
+id: payl-denver
+name_ru: Денвер Пайл
+roles:
+- actor
+external_ids:
+  wikidata: Q1189988
+sources:
+- https://www.wikidata.org/wiki/Q1189988
+schema_version: 1

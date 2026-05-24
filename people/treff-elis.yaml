@@ -1,0 +1,9 @@
+id: treff-elis
+name_ru: Элис Трефф
+roles:
+- actor
+external_ids:
+  wikidata: Q107599
+sources:
+- https://www.wikidata.org/wiki/Q107599
+schema_version: 1

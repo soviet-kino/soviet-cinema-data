@@ -1,0 +1,9 @@
+id: vuds-obri
+name_ru: Обри Вудс
+roles:
+- actor
+external_ids:
+  wikidata: Q4819203
+sources:
+- https://www.wikidata.org/wiki/Q4819203
+schema_version: 1

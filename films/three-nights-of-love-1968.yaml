@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23783416
 schema_version: 1
+director:
+- reves-dyord
+screenwriter:
+- khubai-miklosh
+- vas-istvan
+cinematographer:
+- shomlo-tamash
+composer:
+- ranki-dyord
+cast:
+- person: zoltan-latinovich
+- person: darvash-ivan
+- person: ventsel-vera
+- person: imre-shinkovich
+studio:
+- mafilm

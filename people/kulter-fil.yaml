@@ -1,0 +1,9 @@
+id: kulter-fil
+name_ru: Фил Култер
+roles:
+- composer
+external_ids:
+  wikidata: Q715859
+sources:
+- https://www.wikidata.org/wiki/Q715859
+schema_version: 1

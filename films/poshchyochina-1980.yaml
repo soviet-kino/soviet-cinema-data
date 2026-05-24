@@ -8,6 +8,36 @@ runtime_min: 92
 external_ids:
   wikidata: Q4375665
   imdb: tt0189940
+  youtube: kViCr1b7XFg
 sources:
 - https://www.wikidata.org/wiki/Q4375665
 schema_version: 1
+director:
+- malyan-genrikh
+screenwriter:
+- malyan-genrikh
+cinematographer:
+- israelyan-sergey
+composer:
+- mansuryan-tigran
+cast:
+- person: chiaureli-sofiko-mikhaylovna
+- person: krachkovskaya-natalya-leonidovna
+- person: mkrtchyan-frunzik
+- person: belyaeva-galina
+- person: kotandzhyan-rafael-artyomovich
+- person: novents-galya
+- person: khostikyan-armen-isaakovich
+- person: sherents-azat-armenakovich
+- person: sarkisov-leonard-sarkisovich
+- person: movsisyan-arutyun
+- person: karagezyan-mais
+- person: amamdzhyan-meline
+- person: hovhannisyan-alexandr
+- person: adamyan-ashot
+- person: azizyan-yakov
+- person: shairyan-evelina
+- person: oganesyan-ovanes-grishaevich
+- person: dzhagatspanyan-avetik
+studio:
+- armenfilm

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16082539
 schema_version: 1
+director:
+- ivanda-branko
+screenwriter:
+- kish-danilo
+cast:
+- person: zoran-radmilovich
+- person: slobodan-perovich

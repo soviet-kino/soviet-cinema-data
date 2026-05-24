@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4177766
 schema_version: 1
+director:
+- dunkers-olgert
+screenwriter:
+- dunkers-olgert
+cinematographer:
+- skulte-gvido
+composer:
+- pauls-raymond
+cast:
+- person: line-velta-martynovna
+studio:
+- rizhskaya-kinostudiya

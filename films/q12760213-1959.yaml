@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12760213
 schema_version: 1
+director:
+- bauer-branko
+cast:
+- person: vrkhovets-yanez
+- person: dushan-yanichievich
+- person: kon-mariya
+- person: vuysich-dushan

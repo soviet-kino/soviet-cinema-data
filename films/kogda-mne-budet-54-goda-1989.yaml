@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q95096623
   imdb: tt0311405
+  youtube: cwUVCtvD2ws
 sources:
 - https://www.wikidata.org/wiki/Q95096623
 schema_version: 1
+director:
+- linkov-sergey-yakovlevich
+screenwriter:
+- slutski-ganna-oganesovna
+cast:
+- person: bragarnik-svetlana-mikhaylovna
+- person: meshcheryakova-alla-dmitrievna
+- person: romanov-ernst-ivanovich
+- person: sirin-aleksandr-vyacheslavovich
+- person: khochinskiy-aleksandr-yurevich
+- person: safonov-aleksey-vasilevich
+- person: dobrovolskaya-evgeniya-vladimirovna

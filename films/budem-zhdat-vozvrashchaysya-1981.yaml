@@ -8,6 +8,22 @@ runtime_min: 82
 external_ids:
   wikidata: Q97305695
   imdb: tt0231301
+  youtube: LrWdJJbnctc
 sources:
 - https://www.wikidata.org/wiki/Q97305695
 schema_version: 1
+director:
+- maletskiy-nikolay-leonidovich
+cinematographer:
+- kalyuta-vilen-aleksandrovich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: ivanov-sergey-petrovich
+- person: kravchenko-tatyana-eduardovna
+- person: kritenko-yuriy-grigorevich
+- person: kuznetsova-larisa-andreevna
+- person: maksimova-elena
+- person: merkurev-pyotr-vasilevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4279630
 schema_version: 1
+director:
+- freymanis-ayvars
+screenwriter:
+- ziedonis-imant
+- freymanis-ayvars
+cinematographer:
+- sr-davis-simanis
+- blumberg-arnis
+composer:
+- brauns-martinsh
+cast:
+- person: antsans-romualds
+- person: vazdiks-uldis
+- person: adermanis-imants
+- person: zagorskis-rolands
+- person: liepinsh-edgar
+- person: martinsons-peteris
+- person: placens-gunars
+- person: vazdika-ilze
+- person: rudolfa-ilze
+- person: lavinsh-yuris
+- person: puce-kaspars
+- person: vecvagare-astrida
+- person: berzinsh-osvald
+- person: lusens-yanis
+- person: latsis-indars
+- person: rence-mara
+- person: lorence-zigrida
+- person: sturnietse-ariya
+studio:
+- rizhskaya-kinostudiya

@@ -1,0 +1,9 @@
+id: konti-vitold
+name_ru: Витольд Конти
+roles:
+- actor
+external_ids:
+  wikidata: Q129310
+sources:
+- https://www.wikidata.org/wiki/Q129310
+schema_version: 1

@@ -8,6 +8,13 @@ runtime_min: 38
 external_ids:
   wikidata: Q20001027
   imdb: tt1238115
+  youtube: hYVDe_ixcA0
 sources:
 - https://www.wikidata.org/wiki/Q20001027
 schema_version: 1
+director:
+- khodataev-nikolay
+- komissarenko-zenon-petrovich
+- merkulov-yuriy-aleksandrovich
+studio:
+- sovkino

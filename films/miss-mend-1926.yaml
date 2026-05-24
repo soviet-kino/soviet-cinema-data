@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4296432
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+- otsep-fyodor-aleksandrovich
+screenwriter:
+- barnet-boris-vasilevich
+cast:
+- person: barnet-boris-vasilevich
+- person: fogel-vladimir-petrovich
+- person: ilinskiy-igor-vladimirovich
+- person: komarov-sergey-petrovich
+studio:
+- mezhrabpom-rus
+poster_commons: Плакат к фильму «Мисс Менд».jpg

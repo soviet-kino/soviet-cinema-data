@@ -11,3 +11,43 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12038875
 schema_version: 1
+director:
+- frich-martin
+screenwriter:
+- gaas-gugo
+- vavra-otakar
+- frich-martin
+cinematographer:
+- pechenka-ferdinand
+composer:
+- dvorsky-rudolf-antonin
+- blahnik-roman
+cast:
+- person: baldova-zdenka
+- person: gaas-gugo
+- person: mandlova-adina
+- person: rasilov-sasa
+- person: bogach-ladislav
+- person: ferbasova-vera
+- person: ptakova-marie
+- person: elias-mirko
+- person: svozilova-svetla
+- person: gampeova-milada
+- person: milich-rudolf
+- person: bernat-miro
+- person: jezkova-marie
+- person: markova-nekolova-marie
+- person: prikrylova-marie
+- person: oliak-josef
+- person: mlejnek-frantisek-xaverius
+- person: oliakova-marie
+- person: q101067938
+- person: pilska-marie
+- person: veliskova-milena
+- person: vetesnikova-elsa
+- person: hausslerova-marie
+- person: sanda-karel
+- person: hlinomaz-jiri
+- person: trebovska-terezie
+studio:
+- barrandov

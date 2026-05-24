@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12841875
 schema_version: 1
+director:
+- atamalibekov-rashid
+screenwriter:
+- ogly-ibragimbekov-maksud-mamed-ibragim
+cinematographer:
+- panasyuk-aleksandr
+cast:
+- person: nuri-yashar
+- person: ogly-dadashev-melik-yusuf
+studio:
+- azerbaydzhanfilm

@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2497066
 schema_version: 1
+director:
+- polanski-roman
+screenwriter:
+- polanski-roman
+cinematographer:
+- todorov-nikola

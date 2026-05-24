@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q136676615
 schema_version: 1
+director:
+- bornemann-fritz
+screenwriter:
+- bornemann-fritz
+cinematographer:
+- beyer-volfram
+composer:
+- gotkhardt-peter
+cast:
+- person: franke-kholger
+- person: volf-bodo
+- person: panknin-yorg
+- person: behrens-heinz
+- person: pucher-wilfried
+- person: eykhel-kaspar
+- person: khayne-manfred
+- person: servatius-martina
+- person: kristian-maykl
+- person: tserbe-uve
+- person: kukhne-volfgang-2
+- person: achtelik-johannes
+- person: thal-wolfgang
+- person: korbel-hans-georg
+- person: roeder-constanze
+- person: eichner-bernd
+studio:
+- deutscher-fernsehfunk

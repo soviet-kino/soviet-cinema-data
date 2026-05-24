@@ -1,0 +1,9 @@
+id: vern-zhyul
+name_ru: Жюль Верн
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q33977
+sources:
+- https://www.wikidata.org/wiki/Q33977
+schema_version: 1

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4063267
   imdb: tt0090620
+  youtube: hrYDkZDPPXs
 sources:
 - https://www.wikidata.org/wiki/Q4063267
 schema_version: 1
+director:
+- isakov-valeriy-trofimovich
+screenwriter:
+- smirnov-viktor-vasilevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: rozanova-irina
+studio:
+- kinostudiya-imeni-m-gorkogo

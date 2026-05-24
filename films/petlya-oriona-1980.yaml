@@ -8,6 +8,26 @@ runtime_min: 85
 external_ids:
   wikidata: Q4360337
   imdb: tt0230634
+  youtube: pcHt1mwmztg
 sources:
 - https://www.wikidata.org/wiki/Q4360337
 schema_version: 1
+director:
+- levin-vasiliy-nikolaevich
+screenwriter:
+- leonov-aleksey-arkhipovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- zatsepin-aleksandr
+cast:
+- person: eliava-liya
+- person: azo-anatoliy
+- person: bakshtaev-leonid-georgievich
+- person: mateshko-anatoliy-nikolaevich
+- person: tonunts-elena-konstantinovna
+- person: tokhadze-givi-maksimovich
+- person: doroshenko-vitaliy-avramovich
+- person: smorodina-lyudmila-gennadievna
+studio:
+- odesskaya-kinostudiya

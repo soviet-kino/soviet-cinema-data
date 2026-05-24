@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4283812
 schema_version: 1
+director:
+- sploshnov-sergey-ivanovich
+cinematographer:
+- shlyugleyt-david-abramovich
+cast:
+- person: kayukov-stepan-yakovlevich
+- person: adashevskiy-konstantin-ignatevich
+- person: beniaminov-aleksandr-davidovich
+- person: gofman-pyotr-romualdovich
+- person: litvinov-nikolay-vladimirovich
+- person: politseymako-vitaliy-pavlovich
+studio:
+- belarusfilm

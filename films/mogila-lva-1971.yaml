@@ -8,6 +8,19 @@ runtime_min: 75
 external_ids:
   wikidata: Q3917438
   imdb: tt0154891
+  youtube: f2XDWG4UC8o
 sources:
 - https://www.wikidata.org/wiki/Q3917438
 schema_version: 1
+director:
+- rubinchik-valeriy-davidovich
+cinematographer:
+- marukhin-yuriy-aleksandrovich
+composer:
+- volkonskiy-andrey-mikhaylovich
+cast:
+- person: vidov-oleg-borisovich
+- person: liepa-maris-rudolf-eduardovich
+- person: shendrikova-valentina-konstantinovna
+studio:
+- belarusfilm

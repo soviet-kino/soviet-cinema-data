@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6440424
 schema_version: 1
+director:
+- sis-vladimir
+- jaros-rudolf
+screenwriter:
+- jaros-rudolf-2
+cinematographer:
+- hejzlar-adolf
+composer:
+- lishka-zdenek
+cast:
+- person: burian-vlasta
+- person: stuchal-jiri
+- person: patocka-milos

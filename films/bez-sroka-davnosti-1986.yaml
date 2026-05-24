@@ -8,6 +8,15 @@ runtime_min: 93
 external_ids:
   wikidata: Q84993133
   imdb: tt0266321
+  youtube: zahYGAmXrFo
 sources:
 - https://www.wikidata.org/wiki/Q84993133
 schema_version: 1
+screenwriter:
+- kuznetsov-vladimir-iovich
+- gagarin-stanislav-semyonovich
+cast:
+- person: glebov-pyotr-petrovich
+- person: shcherbakov-boris-vasilevich
+studio:
+- mosfilm

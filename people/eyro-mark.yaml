@@ -1,0 +1,9 @@
+id: eyro-mark
+name_ru: Марк Эйро
+roles:
+- actor
+external_ids:
+  wikidata: Q3288008
+sources:
+- https://www.wikidata.org/wiki/Q3288008
+schema_version: 1

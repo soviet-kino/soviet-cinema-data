@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116865204
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+screenwriter:
+- belinskiy-aleksandr-arkadevich
+cast:
+- person: borisov-oleg-ivanovich
+- person: luspekaev-pavel-borisovich
+- person: makarova-lyudmila-iosifovna

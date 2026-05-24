@@ -1,0 +1,9 @@
+id: uelch-rakel
+name_ru: Ракель Уэлч
+roles:
+- actor
+external_ids:
+  wikidata: Q229545
+sources:
+- https://www.wikidata.org/wiki/Q229545
+schema_version: 1

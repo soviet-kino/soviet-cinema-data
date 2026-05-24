@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2251154
 schema_version: 1
+cinematographer:
+- eisinger-gunter
+composer:
+- cibulka-kiril
+cast:
+- person: kramm-waltraut
+- person: noyenkhan-villi

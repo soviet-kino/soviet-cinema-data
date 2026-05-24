@@ -1,0 +1,9 @@
+id: kvest-gans
+name_ru: Ганс Квест
+roles:
+- actor
+external_ids:
+  wikidata: Q99288
+sources:
+- https://www.wikidata.org/wiki/Q99288
+schema_version: 1

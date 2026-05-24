@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17007229
 schema_version: 1
+director:
+- komarov-sergey-petrovich
+screenwriter:
+- otsep-fyodor-aleksandrovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: ilinskiy-igor-vladimirovich
+studio:
+- mezhrabpomfilm

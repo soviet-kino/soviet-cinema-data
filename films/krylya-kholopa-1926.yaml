@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48953610
 schema_version: 1
+director:
+- tarich-yuriy-viktorovich
+screenwriter:
+- shklovskiy-viktor-borisovich
+- tarich-yuriy-viktorovich
+- shildkret-konstantin-georgievich
+cinematographer:
+- vladimirskiy-mikhail-fyodorovich
+cast:
+- person: leonidov-leonid-mironovich
+studio:
+- sovkino

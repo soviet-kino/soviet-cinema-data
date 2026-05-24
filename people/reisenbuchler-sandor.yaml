@@ -1,0 +1,9 @@
+id: reisenbuchler-sandor
+name_ru: Sándor Reisenbüchler
+roles:
+- director
+external_ids:
+  wikidata: Q1247145
+sources:
+- https://www.wikidata.org/wiki/Q1247145
+schema_version: 1

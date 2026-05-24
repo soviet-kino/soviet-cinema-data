@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12837387
 schema_version: 1
+director:
+- ogly-takhmasib-rza-abbas-kuli
+cinematographer:
+- tartakovski-ivan
+cast:
+- person: ogly-dzhabbarly-dzhafar-kafar
+- person: kuliev-aga-rza
+studio:
+- azerbaydzhanfilm

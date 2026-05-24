@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47503880
 schema_version: 1
+director:
+- belyaev-vasiliy-nikolaevich
+- vlchek-vladimir
+cinematographer:
+- dolgov-nikolay-sergeevich
+- monglovskiy-yuriy-viktorovich
+- khalushakov-ruvim-borisovich
+- sokolnikov-ivan-ivanovich
+composer:
+- kapr-yan
+cast:
+- person: gotvald-klement
+- person: shvortsova-irzhina
+- person: chvalina-josef
+- person: kovac-ctibor
+- person: hoblik-oldrich

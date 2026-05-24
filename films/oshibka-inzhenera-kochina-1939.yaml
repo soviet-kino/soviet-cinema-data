@@ -8,6 +8,17 @@ runtime_min: 111
 external_ids:
   wikidata: Q4340786
   imdb: tt0175993
+  youtube: BdzxW1tLeEw
 sources:
 - https://www.wikidata.org/wiki/Q4340786
 schema_version: 1
+director:
+- macheret-aleksandr-veniaminovich
+cinematographer:
+- geleyn-igor-vladimirovich
+cast:
+- person: orlova-lyubov
+- person: ranevskaya-faina-georgievna
+studio:
+- mosfilm
+poster_commons: Oshibka inz1.jpg

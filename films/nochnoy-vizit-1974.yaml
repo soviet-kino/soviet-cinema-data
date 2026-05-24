@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4327771
   imdb: tt0279828
+  youtube: YvBdJhJBHr4
 sources:
 - https://www.wikidata.org/wiki/Q4327771
 schema_version: 1
+director:
+- sanishvili-nikolay-konstantinovich
+screenwriter:
+- vayner-arkadiy-aleksandrovich
+composer:
+- kancheli-giya-aleksandrovich

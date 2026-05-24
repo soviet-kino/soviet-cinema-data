@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q109428495
   imdb: tt0093762
+  youtube: vcxANIKe2rA
 sources:
 - https://www.wikidata.org/wiki/Q109428495
 schema_version: 1
+director:
+- shatrov-igor-vladimirovich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- zhurbin-aleksandr-borisovich
+studio:
+- kinostudiya-imeni-m-gorkogo

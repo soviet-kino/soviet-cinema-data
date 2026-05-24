@@ -8,6 +8,28 @@ runtime_min: 99
 external_ids:
   wikidata: Q4229504
   imdb: tt0123138
+  youtube: zfXj6PjykJ4
 sources:
 - https://www.wikidata.org/wiki/Q4229504
 schema_version: 1
+director:
+- rubinchik-valeriy-davidovich
+screenwriter:
+- rubinchik-valeriy-davidovich
+cinematographer:
+- piganov-valentin-vasilevich
+composer:
+- yanchenko-oleg-grigorevich
+cast:
+- person: khmelnitskiy-boris
+- person: raykin-konstantin-arkadevich
+- person: koreneva-elena-alekseevna
+- person: kalyagin-aleksandr-aleksandrovich
+- person: kabo-olga-igorevna
+- person: steblov-evgeniy-yurevich
+- person: feofanova-irina-vyacheslavovna
+- person: karadzhova-elena-dmitrievna
+- person: shendrikova-valentina-konstantinovna
+studio:
+- mosfilm
+- goskino

@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1530053
 schema_version: 1
+director:
+- mettsig-kurt
+screenwriter:
+- mettsig-kurt
+- bartel-kurt
+cinematographer:
+- merz-otto
+composer:
+- nef-vilgelm
+cast:
+- person: shal-ekkekhard
+- person: gyoring-khelga
+- person: finohr-hans
+- person: angelika-gurvich
+- person: geshonnek-ervin
+- person: tayn-ulrikh
+- person: runkehl-karla
+- person: dunkelman-erika
+- person: khindemit-kharri
+- person: kube-khorst
+- person: lyobinger-lotta
+- person: dunkelmann-kurt
+- person: shelkher-raymund
+studio:
+- defa

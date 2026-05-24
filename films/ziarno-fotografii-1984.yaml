@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q99523221
 schema_version: 1
+cast:
+- person: englert-yan
+- person: khyubner-zigmunt
+- person: kiernikowna-manuela
+studio:
+- wytwornia-filmow-oswiatowych

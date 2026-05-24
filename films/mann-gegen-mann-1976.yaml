@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56654545
 schema_version: 1
+director:
+- mettsig-kurt
+screenwriter:
+- biesalski-kurt
+cinematographer:
+- gusko-erikh
+composer:
+- volgemut-gerkhard
+cast:
+- person: gvisdek-mikhael
+- person: tile-klaus-peter
+- person: adomaytis-regimantas
+- person: gregorek-karin
+- person: schroeder-karin
+studio:
+- defa

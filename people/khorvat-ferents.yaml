@@ -1,0 +1,9 @@
+id: khorvat-ferents
+name_ru: Ференц Хорват
+roles:
+- actor
+external_ids:
+  wikidata: Q56389801
+sources:
+- https://www.wikidata.org/wiki/Q56389801
+schema_version: 1

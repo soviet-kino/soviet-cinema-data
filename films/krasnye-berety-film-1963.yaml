@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9198823
 schema_version: 1
+director:
+- komorovskiy-pavel
+screenwriter:
+- lyutovskiy-ezhi
+cinematographer:
+- kshishtof-vinevich
+composer:
+- kilyar-voytsekh
+cast:
+- person: kotsinyak-marian

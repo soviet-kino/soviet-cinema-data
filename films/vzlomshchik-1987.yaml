@@ -8,6 +8,15 @@ runtime_min: 90
 external_ids:
   wikidata: Q4110364
   imdb: tt0092186
+  youtube: I2pkbSRbg30
 sources:
 - https://www.wikidata.org/wiki/Q4110364
 schema_version: 1
+director:
+- ogorodnikov-valeriy-gennadevich
+cinematographer:
+- mironov-valeriy-andreevich
+cast:
+- person: kinchev-konstantin-evgenevich
+studio:
+- lenfilm

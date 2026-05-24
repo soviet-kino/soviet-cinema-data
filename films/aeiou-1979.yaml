@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4651302
 schema_version: 1
+director:
+- bezoushka-martin
+- kukal-dusan
+screenwriter:
+- bezoushka-martin
+- kukal-dusan
+cinematographer:
+- brabek-frantishek-antonin
+composer:
+- misik-vladimir
+- hruby-jan
+- vesely-jiri
+cast:
+- person: misik-vladimir
+- person: yakoubkova-eva
+- person: kemr-yozef
+- person: shmeral-vladimir
+- person: bezouska-bohumil
+- person: lutansky-ivan
+- person: zehrova-vlasta
+- person: vyskocil-ivan
+- person: kacher-yan
+- person: bosek-pavel
+- person: q131824936
+- person: bartosova-bencicova-katarina

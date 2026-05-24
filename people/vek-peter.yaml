@@ -1,0 +1,9 @@
+id: vek-peter
+name_ru: Петер Век
+roles:
+- actor
+external_ids:
+  wikidata: Q89117
+sources:
+- https://www.wikidata.org/wiki/Q89117
+schema_version: 1

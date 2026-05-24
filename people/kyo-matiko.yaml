@@ -1,0 +1,9 @@
+id: kyo-matiko
+name_ru: Матико Кё
+roles:
+- actor
+external_ids:
+  wikidata: Q180602
+sources:
+- https://www.wikidata.org/wiki/Q180602
+schema_version: 1

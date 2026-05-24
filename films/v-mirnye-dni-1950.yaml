@@ -8,6 +8,21 @@ runtime_min: 92
 external_ids:
   wikidata: Q4101737
   imdb: tt0043095
+  youtube: arANuLuPRc4
 sources:
 - https://www.wikidata.org/wiki/Q4101737
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- prut-iosif-leonidovich
+cinematographer:
+- demutskiy-daniil-porfirevich
+- chyornyy-mikhail-kirillovich
+composer:
+- meytus-yuliy-sergeevich
+cast:
+- person: grechanyy-aleksandr-vasilevich
+- person: gurzo-sergey-safonovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

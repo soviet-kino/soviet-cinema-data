@@ -11,3 +11,71 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113086955
 schema_version: 1
+director:
+- strnad-stanislav
+cinematographer:
+- novak-yan
+composer:
+- flosman-oldrikh
+cast:
+- person: hudeckova-eva
+- person: brodskiy-vlastimil
+- person: jirotkova-ilona
+- person: travnichek-pavel
+- person: pogan-yan
+- person: mouchka-yaroslav
+- person: kostelka-lyubomir
+- person: vavrushka-milosh
+- person: khanus-frantishek
+- person: satoranskiy-yaroslav
+- person: zelenogorska-yitka
+- person: engel-karel
+- person: chitilova-miriam
+- person: shmeral-vladimir
+- person: srstka-zdenek
+- person: prokosh-bedrich
+- person: shmida-bogumil
+- person: hlavaty-vladimir
+- person: svobodova-eva
+- person: tikhankova-vera
+- person: husak-frantisek
+- person: geverle-gustav
+- person: teply-yan
+- person: krulisova-jarmila
+- person: lir-yirzhi
+- person: chvalina-josef
+- person: korinkova-lenka
+- person: hein-milan
+- person: zounar-miroslav
+- person: gaierova-nelly
+- person: oliva-petr
+- person: lahoda-ladislav
+- person: rubikova-lyudmila
+- person: tikha-yaroslava
+- person: kruta-ferdinand
+- person: hermachova-jana
+- person: marsalkova-pavla
+- person: vlkova-vlastimila
+- person: vostrcilova-ludmila
+- person: kutil-zdenek
+- person: belohradsky-karel
+- person: savrda-zdenek
+- person: cherny-vitezslav
+- person: kubicek-frantisek
+- person: schneider-david
+- person: forzht-karel
+- person: navratil-vladimir
+- person: sindler-miloslav
+- person: sejk-jindrich
+- person: skalicky-zdenek
+- person: burdova-zdena
+- person: q106158455
+- person: gladik-vatslav
+- person: sedlacek-tomas
+- person: rubes-pavel
+- person: kosek-jiri
+- person: privoznik-petr
+- person: melichar-jan
+- person: lonsky-miroslav
+studio:
+- barrandov

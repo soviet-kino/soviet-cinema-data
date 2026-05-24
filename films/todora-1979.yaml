@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q57549437
 schema_version: 1
+cast:
+- person: miralem-zupchevich
+- person: frayt-bozhidarka
+- person: muzaferiya-zaim

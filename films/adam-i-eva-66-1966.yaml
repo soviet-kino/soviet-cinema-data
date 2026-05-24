@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184900
 schema_version: 1
+director:
+- milosh-radivoevich
+cast:
+- person: ras-eva
+- person: becic-zoran
+studio:
+- fakultet-dramaticheskogo-iskusstva

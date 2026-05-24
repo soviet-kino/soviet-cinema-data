@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16414245
 schema_version: 1
+cast:
+- person: ogly-sharifzade-abbas-mirza-abdul-rasul
+- person: sanani-movsun
+- person: kuliev-aga-rza
+studio:
+- azerbaydzhanfilm

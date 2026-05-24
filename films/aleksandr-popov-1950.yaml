@@ -8,6 +8,26 @@ runtime_min: 87
 external_ids:
   wikidata: Q4060953
   imdb: tt0041105
+  youtube: OuXeksv95rk
 sources:
 - https://www.wikidata.org/wiki/Q4060953
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+- eysymont-viktor-vladislavovich
+screenwriter:
+- razumovskiy-aleksandr-vladimirovich
+cinematographer:
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- kochurov-yuriy-vladimirovich
+cast:
+- person: freyndlikh-bruno
+- person: cherkasov-nikolay-konstantinovich
+- person: borisov-aleksandr-fyodorovich
+- person: skorobogatov-konstantin-vasilevich
+- person: tolubeev-yuriy-vladimirovich
+- person: chestnokov-vladimir-ivanovich
+studio:
+- lenfilm
+poster_commons: Nikolaj Čerkasov Aleksandr Popov.jpg

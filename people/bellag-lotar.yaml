@@ -1,0 +1,9 @@
+id: bellag-lotar
+name_ru: Лотар Беллаг
+roles:
+- actor
+external_ids:
+  wikidata: Q1870759
+sources:
+- https://www.wikidata.org/wiki/Q1870759
+schema_version: 1

@@ -10,3 +10,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16028621
 schema_version: 1
+director:
+- forman-milosh
+- zeman-karel
+- kadar-yan
+- radok-alfred
+- klos-elmar
+- rohac-jan
+- svitachek-vladimir
+- radok-emil
+screenwriter:
+- forman-milosh
+cinematographer:
+- novotny-vladimir
+- kuchera-yaroslav
+composer:
+- lishka-zdenek
+- shlitr-irzhi
+cast:
+- person: kachirkova-irena
+- person: panyrkova-jaroslava
+- person: danickova-sylvie
+- person: stankova-maruska

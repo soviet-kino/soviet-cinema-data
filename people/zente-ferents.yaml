@@ -1,0 +1,9 @@
+id: zente-ferents
+name_ru: Ференц Зенте
+roles:
+- actor
+external_ids:
+  wikidata: Q716207
+sources:
+- https://www.wikidata.org/wiki/Q716207
+schema_version: 1

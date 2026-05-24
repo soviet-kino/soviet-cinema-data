@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131683055
 schema_version: 1
+director:
+- lomnitskiy-yan
+cast:
+- person: englert-yan
+- person: mikolaevska-kristina
+- person: q124568882

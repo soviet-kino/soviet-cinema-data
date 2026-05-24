@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55453557
 schema_version: 1
+cast:
+- person: dinevski-vukan
+- person: siskov-risto
+- person: kyortoshev-kiril
+- person: nikolovski-todor
+- person: martinovic-perica
+- person: kondova-zafirovska-todorka
+- person: cekova-stojka

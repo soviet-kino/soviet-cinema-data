@@ -1,0 +1,9 @@
+id: erdmann-khans
+name_ru: Ханс Эрдманн
+roles:
+- composer
+external_ids:
+  wikidata: Q99363
+sources:
+- https://www.wikidata.org/wiki/Q99363
+schema_version: 1

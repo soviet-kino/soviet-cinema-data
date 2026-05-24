@@ -8,6 +8,11 @@ runtime_min: 61
 external_ids:
   wikidata: Q114710661
   imdb: tt1803742
+  youtube: 9azqlcnA8No
 sources:
 - https://www.wikidata.org/wiki/Q114710661
 schema_version: 1
+director:
+- bazelyan-yakov
+studio:
+- kinostudiya-imeni-m-gorkogo

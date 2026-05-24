@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4360260
 schema_version: 1
+director:
+- tarasov-sergey
+composer:
+- kalsons-romualds
+cast:
+- person: dumpis-uldis
+- person: anatoliy-falkovich
+- person: yakovlev-girt-aleksandrovich
+studio:
+- rizhskaya-kinostudiya

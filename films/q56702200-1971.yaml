@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56702200
 schema_version: 1
+director:
+- besson-benno
+composer:
+- pich-volfgang

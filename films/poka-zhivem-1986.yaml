@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13055199
 schema_version: 1
+director:
+- gevorkyants-ruben
+screenwriter:
+- gevorkyants-ruben
+cinematographer:
+- vatinyan-rudolf
+composer:
+- zakaryan-vagharshak
+cast:
+- person: abramyan-khoren
+- person: dzhanibekyan-karen
+studio:
+- armenfilm

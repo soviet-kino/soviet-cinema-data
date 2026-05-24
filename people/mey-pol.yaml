@@ -1,0 +1,9 @@
+id: mey-pol
+name_ru: Пол Мэй
+roles:
+- director
+external_ids:
+  wikidata: Q76381
+sources:
+- https://www.wikidata.org/wiki/Q76381
+schema_version: 1

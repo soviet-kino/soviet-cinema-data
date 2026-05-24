@@ -8,6 +8,17 @@ runtime_min: 85
 external_ids:
   wikidata: Q65251824
   imdb: tt0363895
+  youtube: OL9m5sQkeRI
 sources:
 - https://www.wikidata.org/wiki/Q65251824
 schema_version: 1
+director:
+- karsakbaev-abdulla
+screenwriter:
+- stepanov-anatoliy-yakovlevich
+cinematographer:
+- aranyshev-mikhail-fyodorovich
+composer:
+- tlendiev-nurgisa-atabaevich
+studio:
+- kazakhfilm

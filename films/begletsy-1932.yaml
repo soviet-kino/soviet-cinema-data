@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4080502
 schema_version: 1
+director:
+- tarich-yuriy-viktorovich
+cast:
+- person: prozorovskiy-nikolay-petrovich
+studio:
+- belarusfilm

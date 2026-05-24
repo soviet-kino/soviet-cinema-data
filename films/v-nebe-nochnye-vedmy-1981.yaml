@@ -8,6 +8,24 @@ runtime_min: 77
 external_ids:
   wikidata: Q4101747
   imdb: tt0232882
+  youtube: G1K0UwG6KXI
 sources:
 - https://www.wikidata.org/wiki/Q4101747
 schema_version: 1
+director:
+- zhigulenko-evgeniya-andreevna
+screenwriter:
+- zhigulenko-evgeniya-andreevna
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- ragozin-lev
+composer:
+- krylatov-evgeniy
+cast:
+- person: zaklunnaya-valeriya-gavriilovna
+- person: zamulin-dmitriy-nikolaevich
+- person: druz-yana-andreevna
+- person: menshikova-nina-evgenevna
+- person: grushina-valentina-fyodorovna
+studio:
+- kinostudiya-imeni-m-gorkogo

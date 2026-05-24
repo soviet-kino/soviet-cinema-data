@@ -8,6 +8,41 @@ runtime_min: 91
 external_ids:
   wikidata: Q7143176
   imdb: tt0123217
+  youtube: MUNfyHxLjV4
 sources:
 - https://www.wikidata.org/wiki/Q7143176
 schema_version: 1
+director:
+- bocan-hynek
+screenwriter:
+- bocan-hynek
+- misar-karel
+cinematographer:
+- shamal-irzhi
+composer:
+- klusak-vladimir
+cast:
+- person: glavachova-daniela
+- person: vyskocil-ivan-2
+- person: krampol-jiri
+- person: kovarik-frantisek
+- person: besser-vilem
+- person: kryzanek-zdenek
+- person: sloup-vatslav
+- person: teply-yan
+- person: sluneckova-karolina
+- person: musil-mirko
+- person: gabzdyl-rene
+- person: minsky-adolf
+- person: foustkova-eva
+- person: krshka-vladimir
+- person: holar-frantisek
+- person: krivacek-ladislav
+- person: kreihanslova-hana
+- person: halama-vaclav
+- person: q101080945
+- person: vognic-milos
+- person: q101081456
+- person: prokes-jan
+studio:
+- barrandov

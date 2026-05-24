@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7720443
 schema_version: 1
+director:
+- fabri-zoltan
+screenwriter:
+- fabri-zoltan
+- sharkadi-imre
+cast:
+- person: besseniey-ferents
+- person: bichkei-tibor

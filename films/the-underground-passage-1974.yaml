@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6411324
 schema_version: 1
+director:
+- keslyovskiy-kshishtof
+screenwriter:
+- keslyovskiy-kshishtof
+cinematographer:
+- idzyak-slavomir
+cast:
+- person: matseevskiy-zygmunt
+- person: severin-andzhey
+- person: budzish-kshizhanovska-tereza
+- person: lozinskiy-marsel
+- person: anna-yarachuvna
+- person: wiszniewski-wojciech
+- person: orsza-ukaszewicz-jan
+studio:
+- tor-kinostudiya

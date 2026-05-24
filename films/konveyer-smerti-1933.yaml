@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4230383
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- romm-mikhail-ilich
+- pyrev-ivan-aleksandrovich
+- gusev-viktor-mikhaylovich
+cinematographer:
+- gindin-mikhail-efimovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: makarova-tamara-fyodorovna
+- person: voytsik-ada-ignatevna
+- person: polonskaya-veronika-vitoldovna
+studio:
+- mosfilm
+- lenfilm
+poster_commons: Плакат к фильму «Конвейер смерти».jpg

@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4363366
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+screenwriter:
+- german-yuriy-pavlovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: dikiy-aleksey-denisovich
+- person: cherkasov-nikolay-konstantinovich
+- person: kostrichkin-andrey-andreevich
+- person: gumilevskiy-georgiy-konstantinovich
+- person: karnovich-valua-sergey-sergeevich
+- person: lebzak-olga-yakovlevna
+- person: lobanov-pyotr-vasilevich
+- person: piletskaya-tatyana-lvovna
+- person: skorobogatov-konstantin-vasilevich
+- person: trofimov-nikolay-nikolaevich
+- person: chestnokov-vladimir-ivanovich
+- person: malyutin-yakov-osipovich
+studio:
+- lenfilm

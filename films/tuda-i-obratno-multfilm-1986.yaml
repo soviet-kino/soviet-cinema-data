@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4464939
 schema_version: 1
+director:
+- tatarskiy-aleksandr-mikhaylovich
+cinematographer:
+- golomb-iosif-emmanuilovich
+composer:
+- chernavskiy-yuriy-aleksandrovich
+studio:
+- ekran

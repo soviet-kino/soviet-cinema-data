@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16514555
 schema_version: 1
+director:
+- solin-anatoliy-ivanovich
+screenwriter:
+- likhodeev-leonid-izrailevich
+- solin-anatoliy-ivanovich
+composer:
+- kallosh-shandor-ernestovich
+studio:
+- ekran

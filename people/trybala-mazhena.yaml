@@ -1,0 +1,9 @@
+id: trybala-mazhena
+name_ru: Мажена Трыбала
+roles:
+- actor
+external_ids:
+  wikidata: Q594125
+sources:
+- https://www.wikidata.org/wiki/Q594125
+schema_version: 1

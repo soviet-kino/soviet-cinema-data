@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q152273
 schema_version: 1
+director:
+- kyortis-maykl
+cast:
+- person: lugoshi-bela
+- person: lotto-clare
+- person: varkoni-viktor
+- person: molnar-laslo-z

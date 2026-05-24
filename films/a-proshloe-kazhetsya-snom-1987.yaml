@@ -8,6 +8,11 @@ runtime_min: 68
 external_ids:
   wikidata: Q109197171
   imdb: tt15247388
+  youtube: lrL696WKxWk
 sources:
 - https://www.wikidata.org/wiki/Q109197171
 schema_version: 1
+director:
+- miroshnichenko-sergey-valentinovich
+studio:
+- sverdlovskaya-kinostudiya

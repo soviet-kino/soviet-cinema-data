@@ -8,6 +8,18 @@ runtime_min: 73
 external_ids:
   wikidata: Q3194178
   imdb: tt0017025
+  youtube: IFtI2jsDjrM
 sources:
 - https://www.wikidata.org/wiki/Q3194178
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- borisoglebskiy-mikhail-vasilevich
+cinematographer:
+- mikhaylov-evgeniy-sergeevich
+cast:
+- person: buzhinskaya-veronika-stanislavovna
+studio:
+- lenfilm
+- sovkino

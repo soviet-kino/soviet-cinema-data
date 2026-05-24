@@ -8,6 +8,30 @@ runtime_min: 148
 external_ids:
   wikidata: Q395279
   imdb: tt0081991
+  youtube: Ll1Wdob2P1E
 sources:
 - https://www.wikidata.org/wiki/Q395279
 schema_version: 1
+director:
+- klimov-elem
+screenwriter:
+- lungin-semyon
+- nusinov-ilya
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- schnittke-alfred
+cast:
+- person: freyndlikh-alisa
+- person: solonitsyn-anatoly
+- person: lemke-lev-isaakovich
+- person: bronevoy-leonid-sergeevich
+- person: petrenko-aleksey-vasilevich
+- person: anatoliy-yurevich-ravikovich
+- person: line-velta-martynovna
+- person: anel-alekseevna-sudakevich
+- person: katin-yartsev-yuriy-vasilevich
+- person: romantsov-aleksandr-ivanovich
+- person: romashin-anatoliy-vladimirovich
+studio:
+- mosfilm

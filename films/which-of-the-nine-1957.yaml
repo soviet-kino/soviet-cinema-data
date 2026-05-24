@@ -8,6 +8,23 @@ runtime_min: 47
 external_ids:
   wikidata: Q59644269
   imdb: tt0360789
+  youtube: T3WJAzQRCY8
 sources:
 - https://www.wikidata.org/wiki/Q59644269
 schema_version: 1
+director:
+- szots-istvan
+screenwriter:
+- szots-istvan
+cinematographer:
+- barnabash-khedi
+composer:
+- farkash-ferents
+cast:
+- person: bikhari-zhozef
+- person: olti-magda
+- person: aytai-andor
+- person: garday-lajos
+- person: suto-iren
+studio:
+- hunnia-film-studio

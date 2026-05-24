@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4155578
   imdb: tt0182056
+  youtube: Eu9un0l6kpM
 sources:
 - https://www.wikidata.org/wiki/Q4155578
 schema_version: 1
+director:
+- rodchenko-valeriy-aleksandrovich
+screenwriter:
+- dubrovskiy-edgar-borisovich
+cinematographer:
+- ilin-vladimir
+composer:
+- gagulashvili-arkadiy-davidovich
+cast:
+- person: grinko-nikolai
+studio:
+- lenfilm

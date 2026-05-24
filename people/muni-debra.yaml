@@ -1,0 +1,9 @@
+id: muni-debra
+name_ru: Дебра Муни
+roles:
+- actor
+external_ids:
+  wikidata: Q273497
+sources:
+- https://www.wikidata.org/wiki/Q273497
+schema_version: 1

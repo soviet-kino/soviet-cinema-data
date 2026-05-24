@@ -8,6 +8,19 @@ runtime_min: 91
 external_ids:
   wikidata: Q4450012
   imdb: tt0090121
+  youtube: xomXEU88h3U
 sources:
 - https://www.wikidata.org/wiki/Q4450012
 schema_version: 1
+director:
+- puchinyan-stepan-filippovich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+cast:
+- person: abdulov-aleksandr-gavrilovich
+- person: dzhigarkhanyan-armen-borisovich
+- person: konakbaev-serik-kerimbekovich
+- person: miroshnichenko-irina-petrovna
+studio:
+- kazakhfilm
+- sovinfilm

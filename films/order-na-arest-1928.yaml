@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116811372
 schema_version: 1
+director:
+- tasin-georgiy
+screenwriter:
+- lazurin-solomon-moiseevich
+cast:
+- person: kutuzov-nikolay-nikolaevich
+- person: varetskaya-valentina-fyodorovna
+- person: emir-zade-khayri
+studio:
+- odesskaya-kinostudiya

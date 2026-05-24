@@ -1,0 +1,9 @@
+id: frank-sezar
+name_ru: Сезар Франк
+roles:
+- composer
+external_ids:
+  wikidata: Q50187
+sources:
+- https://www.wikidata.org/wiki/Q50187
+schema_version: 1

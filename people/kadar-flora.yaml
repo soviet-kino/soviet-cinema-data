@@ -1,0 +1,9 @@
+id: kadar-flora
+name_ru: Флора Кадар
+roles:
+- actor
+external_ids:
+  wikidata: Q18175708
+sources:
+- https://www.wikidata.org/wiki/Q18175708
+schema_version: 1

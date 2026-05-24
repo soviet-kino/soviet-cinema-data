@@ -8,6 +8,20 @@ runtime_min: 88
 external_ids:
   wikidata: Q2496853
   imdb: tt0028012
+  youtube: 9d7m7LLFz70
 sources:
 - https://www.wikidata.org/wiki/Q2496853
 schema_version: 1
+director:
+- dzigan-efim-lvovich
+screenwriter:
+- vishnevskiy-vsevolod-vitalevich
+cinematographer:
+- naumov-strazh-naum-solomonovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: zhakov-oleg-petrovich
+- person: sobolevskiy-pyotr-stanislavovich
+studio:
+- mosfilm

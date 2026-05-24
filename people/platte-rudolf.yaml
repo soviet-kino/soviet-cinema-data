@@ -1,0 +1,9 @@
+id: platte-rudolf
+name_ru: Рудольф Платте
+roles:
+- actor
+external_ids:
+  wikidata: Q109366
+sources:
+- https://www.wikidata.org/wiki/Q109366
+schema_version: 1

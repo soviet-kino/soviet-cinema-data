@@ -1,0 +1,9 @@
+id: meril-masha
+name_ru: Маша Мериль
+roles:
+- actor
+external_ids:
+  wikidata: Q275066
+sources:
+- https://www.wikidata.org/wiki/Q275066
+schema_version: 1

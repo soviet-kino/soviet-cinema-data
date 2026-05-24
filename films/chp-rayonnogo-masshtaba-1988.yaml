@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4506527
 schema_version: 1
+director:
+- snezhkin-sergey-olegovich
+screenwriter:
+- polyakov-yuriy-mikhaylovich
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- knayfel-aleksandr-aronovich
+cast:
+- person: bochkin-igor-ivanovich
+- person: smirnov-andrey-yurevich
+studio:
+- lenfilm

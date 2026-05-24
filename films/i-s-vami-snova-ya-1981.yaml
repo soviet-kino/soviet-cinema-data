@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4195089
 schema_version: 1
+director:
+- galanter-boris-davidovich
+screenwriter:
+- galanter-boris-davidovich
+composer:
+- kallosh-shandor-ernestovich
+cast:
+- person: kaidanovsky-aleksandr
+- person: kostolevskiy-igor-matveevich
+- person: kalyagin-aleksandr-aleksandrovich
+- person: kozakov-mikhail-mikhaylovich
+- person: filozov-albert-leonidovich
+- person: alimova-matlyuba-farkhatovna
+- person: bogatyryov-yuriy-georgievich
+- person: kalinovskaya-irina
+- person: ponomaryov-aleksandr
+studio:
+- ekran

@@ -8,6 +8,16 @@ runtime_min: 78
 external_ids:
   wikidata: Q117306028
   imdb: tt0173470
+  youtube: uB2XfcIrn7g
 sources:
 - https://www.wikidata.org/wiki/Q117306028
 schema_version: 1
+director:
+- lukov-leonid
+screenwriter:
+- avdeenko-aleksandr-ostapovich
+composer:
+- shishov-ivan-petrovich
+cast:
+- person: chuvelyov-ivan-pavlovich
+- person: chistyakov-aleksandr-petrovich

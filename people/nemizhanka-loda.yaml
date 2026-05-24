@@ -1,0 +1,9 @@
+id: nemizhanka-loda
+name_ru: Лода Немижанка
+roles:
+- actor
+external_ids:
+  wikidata: Q130394
+sources:
+- https://www.wikidata.org/wiki/Q130394
+schema_version: 1

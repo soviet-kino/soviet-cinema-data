@@ -8,6 +8,20 @@ runtime_min: 99
 external_ids:
   wikidata: Q4154361
   imdb: tt0305408
+  youtube: ZnhTsstGi2o
 sources:
 - https://www.wikidata.org/wiki/Q4154361
 schema_version: 1
+director:
+- prachenko-andrey-dmitrievich
+screenwriter:
+- ilenko-mikhail
+cinematographer:
+- trushkovskiy-vasiliy-timofeevich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: zharkov-aleksey-dmitrievich
+- person: smirnova-svetlana-stanislavovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

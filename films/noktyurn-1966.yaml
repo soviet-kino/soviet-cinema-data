@@ -8,6 +8,13 @@ runtime_min: 79
 external_ids:
   wikidata: Q4327143
   imdb: tt1957985
+  youtube: 7HL_-g8r2Lw
 sources:
 - https://www.wikidata.org/wiki/Q4327143
 schema_version: 1
+director:
+- goryaev-rostislav-arkadevich
+cast:
+- person: raksa-polya
+studio:
+- rizhskaya-kinostudiya

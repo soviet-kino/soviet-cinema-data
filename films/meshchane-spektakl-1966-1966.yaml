@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4292514
   imdb: tt0201770
+  youtube: _gt2TSpf5V4
 sources:
 - https://www.wikidata.org/wiki/Q4292514
 schema_version: 1
+director:
+- tovstonogov-georgiy-aleksandrovich
+cast:
+- person: lavrov-kirill-yurevich
+- person: lebedev-evgeniy-alekseevich
+- person: pankov-pavel-petrovich
+- person: popova-emma-anatolevna
+studio:
+- lenfilm
+- bolshoy-dramaticheskiy-teatr-imeni-g-a-tovstonogova

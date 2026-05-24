@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994505
 schema_version: 1
+director:
+- chumak-vladimir-gavriilovich
+cinematographer:
+- meskhiev-dmitriy-davydovich
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: kvasha-igor-vladimirovich
+- person: muravyova-irina-vadimovna
+- person: steblov-evgeniy-yurevich
+- person: dyuzheva-marina
+- person: eduard-evgenevich-martsevich
+studio:
+- lenfilm

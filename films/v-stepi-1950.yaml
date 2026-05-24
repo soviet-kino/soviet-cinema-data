@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101808
 schema_version: 1
+director:
+- buneev-boris-alekseevich
+screenwriter:
+- pavlenko-pyotr-andreevich
+- galich-aleksandr-arkadevich
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: bernes-mark-naumovich
+- person: sanaev-vsevolod-vasilevich
+- person: zashchipina-natalya-aleksandrovna
+studio:
+- kinostudiya-imeni-m-gorkogo

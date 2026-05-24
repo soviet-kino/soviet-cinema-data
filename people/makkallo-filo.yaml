@@ -1,0 +1,9 @@
+id: makkallo-filo
+name_ru: Фило МакКалло
+roles:
+- actor
+external_ids:
+  wikidata: Q3381108
+sources:
+- https://www.wikidata.org/wiki/Q3381108
+schema_version: 1

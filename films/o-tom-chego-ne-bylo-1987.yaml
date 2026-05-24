@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130997960
 schema_version: 1
+director:
+- kamalova-kamara
+screenwriter:
+- tokareva-viktoriya-samoylovna
+composer:
+- knayfel-aleksandr-aronovich
+cast:
+- person: alimova-matlyuba-farkhatovna
+- person: aminova-elena-anatolevna
+- person: kayumov-malik-kayumovich
+- person: narliev-khodzhadurdy
+- person: vikmane-lelde
+- person: zakirova-nargiz-pulatovna
+- person: alikhodzhaev-ulmas-safaevich
+- person: lyubshin-yuriy
+studio:
+- uzbekfilm

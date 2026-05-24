@@ -1,0 +1,9 @@
+id: shotra-zdravko
+name_ru: Здравко Шотра
+roles:
+- director
+external_ids:
+  wikidata: Q1253494
+sources:
+- https://www.wikidata.org/wiki/Q1253494
+schema_version: 1

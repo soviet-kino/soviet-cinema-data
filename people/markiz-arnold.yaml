@@ -1,0 +1,9 @@
+id: markiz-arnold
+name_ru: Арнольд Маркиз
+roles:
+- actor
+external_ids:
+  wikidata: Q110568
+sources:
+- https://www.wikidata.org/wiki/Q110568
+schema_version: 1

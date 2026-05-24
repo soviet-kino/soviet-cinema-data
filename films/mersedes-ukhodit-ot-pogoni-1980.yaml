@@ -8,6 +8,18 @@ runtime_min: 79
 external_ids:
   wikidata: Q4053648
   imdb: tt0230519
+  youtube: y9tI2_ZxVzk
 sources:
 - https://www.wikidata.org/wiki/Q4053648
 schema_version: 1
+director:
+- lyashenko-yuriy-ivanovich
+cinematographer:
+- zhuravlyov-nikolay-viktorovich
+composer:
+- doga-evgeniy
+cast:
+- person: mikhail-vasilevich-golubovich
+- person: yushko-german-ivanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

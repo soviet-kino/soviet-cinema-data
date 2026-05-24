@@ -8,6 +8,22 @@ runtime_min: 96
 external_ids:
   wikidata: Q17749070
   imdb: tt5749098
+  youtube: Avy4deOv6S0
 sources:
 - https://www.wikidata.org/wiki/Q17749070
 schema_version: 1
+director:
+- osepyan-mark
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- andrey-makarevich
+- babushkin-viktor-borisovich
+cast:
+- person: sayfulin-gennadiy-rashidovich
+- person: fomin-oleg
+- person: shuvalov-boris-igorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

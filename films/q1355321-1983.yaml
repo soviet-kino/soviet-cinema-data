@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1355321
 schema_version: 1
+director:
+- khonert-gans-verner
+screenwriter:
+- khonert-gans-verner
+composer:
+- stravinskiy-igor

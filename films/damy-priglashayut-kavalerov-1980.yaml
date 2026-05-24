@@ -8,6 +8,20 @@ runtime_min: 72
 external_ids:
   wikidata: Q4154454
   imdb: tt0080591
+  youtube: VypmP_Wq1dU
 sources:
 - https://www.wikidata.org/wiki/Q4154454
 schema_version: 1
+director:
+- kiasashvili-ivan-davidovich
+screenwriter:
+- shakhnazarov-karen
+- borodyanskiy-aleksandr-emmanuilovich
+composer:
+- trotsyuk-bogdan-yakovlevich
+cast:
+- person: neyolova-marina-mstislavovna
+- person: kuravlyov-leonid-vyacheslavovich
+- person: bozhok-tatyana-andreevna
+studio:
+- mosfilm

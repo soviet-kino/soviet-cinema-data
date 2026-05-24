@@ -8,6 +8,16 @@ runtime_min: 73
 external_ids:
   wikidata: Q4447955
   imdb: tt0039005
+  youtube: l41lLZ5G-NQ
 sources:
 - https://www.wikidata.org/wiki/Q4447955
 schema_version: 1
+director:
+- pronin-vasiliy-markelovich
+screenwriter:
+- kataev-valentin-petrovich
+composer:
+- lepin-anatoliy-yakovlevich
+studio:
+- soyuzdetfilm
+poster_commons: Grigory Pluzhnik (1946).jpg

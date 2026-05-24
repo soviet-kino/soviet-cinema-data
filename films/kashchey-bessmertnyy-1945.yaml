@@ -8,6 +8,24 @@ runtime_min: 63
 external_ids:
   wikidata: Q12507703
   imdb: tt0167227
+  youtube: 0vu8OgepnRY
 sources:
 - https://www.wikidata.org/wiki/Q12507703
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- rou-aleksandr-arturovich
+- shveytser-vladimir-zakharovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: millyar-georgiy-frantsevich
+- person: stolyarov-sergey-dmitrievich
+- person: shirshov-aleksandr-grigorevich
+- person: grigoreva-galina-konstantinovna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

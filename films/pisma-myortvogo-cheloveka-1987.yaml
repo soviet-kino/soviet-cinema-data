@@ -8,6 +8,27 @@ runtime_min: 87
 external_ids:
   wikidata: Q914190
   imdb: tt0091759
+  youtube: M1ZAVTSe43Q
 sources:
 - https://www.wikidata.org/wiki/Q914190
 schema_version: 1
+director:
+- lopushanskiy-konstantin-sergeevich
+screenwriter:
+- strugatsky-boris
+- lopushanskiy-konstantin-sergeevich
+- german-aleksey-yurevich
+- rybakov-vyacheslav-mikhaylovich
+cinematographer:
+- pokoptsev-nikolay-ivanovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: bykov-rolan-antonovich
+- person: dvorzhetskiy-vatslav-yanovich
+- person: mayorova-vera-vladimirovna
+- person: smirnova-svetlana-stanislavovna
+- person: mikhaylov-viktor-vasilevich
+- person: lobanov-vadim-vladimirovich
+studio:
+- lenfilm

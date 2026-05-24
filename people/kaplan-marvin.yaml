@@ -1,0 +1,9 @@
+id: kaplan-marvin
+name_ru: Марвин Каплан
+roles:
+- actor
+external_ids:
+  wikidata: Q13605911
+sources:
+- https://www.wikidata.org/wiki/Q13605911
+schema_version: 1

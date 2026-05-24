@@ -1,0 +1,9 @@
+id: bleykli-kolin
+name_ru: Колин Блейкли
+roles:
+- actor
+external_ids:
+  wikidata: Q719529
+sources:
+- https://www.wikidata.org/wiki/Q719529
+schema_version: 1

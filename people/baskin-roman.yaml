@@ -1,0 +1,9 @@
+id: baskin-roman
+name_ru: Роман Баскин
+roles:
+- director
+external_ids:
+  wikidata: Q12374189
+sources:
+- https://www.wikidata.org/wiki/Q12374189
+schema_version: 1

@@ -8,6 +8,20 @@ runtime_min: 74
 external_ids:
   wikidata: Q1304736
   imdb: tt0089831
+  youtube: 4BmDYZNpQKI
 sources:
 - https://www.wikidata.org/wiki/Q1304736
 schema_version: 1
+director:
+- yuzovskiy-mikhail-iosifovich
+screenwriter:
+- kim-yuliy-chersanovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: tabakov-oleg-pavlovich
+- person: anofriev-oleg-andreevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

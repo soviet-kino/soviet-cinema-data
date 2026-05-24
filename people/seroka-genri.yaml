@@ -1,0 +1,9 @@
+id: seroka-genri
+name_ru: Генри Серока
+roles:
+- composer
+external_ids:
+  wikidata: Q932049
+sources:
+- https://www.wikidata.org/wiki/Q932049
+schema_version: 1

@@ -1,0 +1,9 @@
+id: noti-karoli
+name_ru: Кароли Ноти
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q216128
+sources:
+- https://www.wikidata.org/wiki/Q216128
+schema_version: 1

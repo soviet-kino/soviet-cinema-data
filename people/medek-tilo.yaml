@@ -1,0 +1,9 @@
+id: medek-tilo
+name_ru: Tilo Medek
+roles:
+- composer
+external_ids:
+  wikidata: Q100471
+sources:
+- https://www.wikidata.org/wiki/Q100471
+schema_version: 1

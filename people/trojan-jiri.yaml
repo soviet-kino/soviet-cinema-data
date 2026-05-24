@@ -1,0 +1,9 @@
+id: trojan-jiri
+name_ru: Jiří Trojan
+roles:
+- actor
+external_ids:
+  wikidata: Q133467379
+sources:
+- https://www.wikidata.org/wiki/Q133467379
+schema_version: 1

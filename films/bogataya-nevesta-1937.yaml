@@ -8,6 +8,13 @@ runtime_min: 98
 external_ids:
   wikidata: Q4089019
   imdb: tt0029932
+  youtube: 6tNduPR-2yM
 sources:
 - https://www.wikidata.org/wiki/Q4089019
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: ladynina-marina-alekseevna

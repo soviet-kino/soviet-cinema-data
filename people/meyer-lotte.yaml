@@ -1,0 +1,9 @@
+id: meyer-lotte
+name_ru: Лотте Мейер
+roles:
+- actor
+external_ids:
+  wikidata: Q1372208
+sources:
+- https://www.wikidata.org/wiki/Q1372208
+schema_version: 1

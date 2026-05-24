@@ -11,3 +11,41 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18114475
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- kakhinya-karel
+- cabradek-karel
+cinematographer:
+- churzhik-yan
+composer:
+- lishka-zdenek
+cast:
+- person: rehor-zdenek
+- person: somr-josef
+- person: stepanova-barbora
+- person: bartoska-irzhi
+- person: ezhkova-milada
+- person: troyan-ladislav
+- person: motlova-marie
+- person: kaplanova-dita
+- person: krausova-jana
+- person: kozderkova-ladka
+- person: khofbauer-mikhal
+- person: halova-monika
+- person: sedlachek-zdenek
+- person: slovacek-bretislav
+- person: marek-pavel
+- person: richterova-marta
+- person: vondracek-josef
+- person: schneider-bert
+- person: michalek-frantisek
+- person: strosova-anna
+- person: velimska-eliska
+- person: fiserova-zuzana
+- person: kazdova-hana
+- person: smajzl-jaroslav
+- person: smrckova-zdenka
+- person: koubek-rudolf
+studio:
+- barrandov

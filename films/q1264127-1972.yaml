@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1264127
 schema_version: 1
+director:
+- mosblekh-manfred
+screenwriter:
+- bastian-horst
+composer:
+- behrsing-hartmut
+cast:
+- person: borgelt-peter
+- person: gohler-sigrid

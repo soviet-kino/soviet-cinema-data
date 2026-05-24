@@ -1,0 +1,9 @@
+id: lamp-anu
+name_ru: Anu Lamp
+roles:
+- actor
+external_ids:
+  wikidata: Q16405566
+sources:
+- https://www.wikidata.org/wiki/Q16405566
+schema_version: 1

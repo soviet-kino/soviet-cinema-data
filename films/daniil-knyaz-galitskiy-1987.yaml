@@ -7,6 +7,36 @@ country:
 external_ids:
   wikidata: Q7281930
   imdb: tt0294500
+  youtube: 9FEpv1mhGH8
 sources:
 - https://www.wikidata.org/wiki/Q7281930
 schema_version: 1
+director:
+- lupiy-yaroslav-vasilevich
+screenwriter:
+- lupiy-oles-vasilevich
+composer:
+- guba-vladimir
+cast:
+- person: stupka-bogdan-silvestrovich
+- person: beyshenaliev-bolot
+- person: zelchyus-leonardas
+- person: artemenko-konstantin-grigorevich
+- person: bystritskiy-sergey-veniaminovich
+- person: votyakov-yuriy-grigorevich
+- person: grebenshchikov-yuriy-sergeevich
+- person: dekhtyaryova-zinaida-nikolaevna
+- person: dubrovin-yuriy-dmitrievich
+- person: evgrafov-viktor-ivanovich
+- person: kuznetsova-vera-andreevna
+- person: romanov-ernst-ivanovich
+- person: rudchenko-yuriy-ivanovich
+- person: storpirshtis-arunas
+- person: gavrilyuk-ivan-yaroslavovich
+- person: demertash-viktor-konstantinovich
+- person: volkov-nikolay-fyodorovich
+- person: zhanturin-nurmukhan-seytakhmetovich
+- person: joel-m
+studio:
+- odesskaya-kinostudiya
+poster_commons: Даниил Галицкий.png

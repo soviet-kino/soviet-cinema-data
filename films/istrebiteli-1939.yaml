@@ -8,6 +8,17 @@ runtime_min: 91
 external_ids:
   wikidata: Q4205120
   imdb: tt0031498
+  youtube: kiJIfqOkVM8
 sources:
 - https://www.wikidata.org/wiki/Q4205120
 schema_version: 1
+director:
+- pentslin-eduard-adolfovich
+screenwriter:
+- knorre-fyodor-fyodorovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: bernes-mark-naumovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

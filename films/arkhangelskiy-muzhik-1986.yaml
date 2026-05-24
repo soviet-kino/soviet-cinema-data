@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24937335
 schema_version: 1
+director:
+- goldovskaya-marina-evseevna
+screenwriter:
+- strelyanyy-anatoliy-ivanovich
+cinematographer:
+- goldovskaya-marina-evseevna
+cast:
+- person: sivkov-nikolay-semyonovich
+studio:
+- ekran

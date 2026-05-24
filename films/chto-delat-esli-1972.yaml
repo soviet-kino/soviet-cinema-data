@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56884163
 schema_version: 1
+director:
+- born-adolf
+- matsourek-milosh
+- doubrava-jaroslav
+screenwriter:
+- born-adolf
+- matsourek-milosh
+- doubrava-jaroslav
+cinematographer:
+- hajdova-zdenka
+- strakon-emil
+composer:
+- sikola-zdenek
+studio:
+- jiri-trnka-a-bratri-v-triku

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11690658
 schema_version: 1
+director:
+- zalewski-gerard
+cinematographer:
+- baraniecki-bronislaw
+composer:
+- stoklosa-yanush
+cast:
+- person: binchitskiy-ezhi
+- person: lidiya-korsakuvna
+- person: lyudvizhanka-barbara
+- person: pokas-eva
+- person: brusikiewicz-lucyna
+studio:
+- studio-filmowe-kadr

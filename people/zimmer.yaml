@@ -1,0 +1,9 @@
+id: zimmer
+name_ru: Zimmer
+roles:
+- director
+external_ids:
+  wikidata: Q56713835
+sources:
+- https://www.wikidata.org/wiki/Q56713835
+schema_version: 1

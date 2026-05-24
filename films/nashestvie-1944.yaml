@@ -8,6 +8,19 @@ runtime_min: 94
 external_ids:
   wikidata: Q92441787
   imdb: tt0037937
+  youtube: gN-pVjYaoUs
 sources:
 - https://www.wikidata.org/wiki/Q92441787
 schema_version: 1
+director:
+- room-abram-matveevich
+screenwriter:
+- leonov-leonid-maksimovich
+- chirskov-boris
+cinematographer:
+- ivanov-sergey-vasilevich
+composer:
+- biryukov-yuriy-sergeevich
+studio:
+- mosfilm
+- kazakhfilm

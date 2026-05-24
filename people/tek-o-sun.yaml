@@ -1,0 +1,9 @@
+id: tek-o-sun
+name_ru: О Сун Тек
+roles:
+- actor
+external_ids:
+  wikidata: Q1146912
+sources:
+- https://www.wikidata.org/wiki/Q1146912
+schema_version: 1

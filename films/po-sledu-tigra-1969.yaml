@@ -8,6 +8,35 @@ runtime_min: 105
 external_ids:
   wikidata: Q5286846
   imdb: tt0074921
+  youtube: xND6LeIHpTY
 sources:
 - https://www.wikidata.org/wiki/Q5286846
 schema_version: 1
+director:
+- krvavats-khayrudin
+screenwriter:
+- predrag-golubovich
+- dzhordzhe-lebovich
+composer:
+- adamich-boyan
+cast:
+- person: khasse-khanno
+- person: delmare-fred
+- person: bashich-relya
+- person: velimir-bata-zhivoinovich
+- person: bitents-demetr
+- person: dushan-yanichievich
+- person: dvornik-boris
+- person: vojvodic-minja
+- person: kokh-khoge-vilgelm
+- person: galo-igor
+- person: milya-vuyanovich
+- person: slobodan-perovich
+- person: yovan-milichevich
+- person: boro-bregovich
+- person: mandich-velko
+- person: sibina-miyatovich
+- person: burdus-jovan-janicijevic
+studio:
+- bosna-film
+- kinema

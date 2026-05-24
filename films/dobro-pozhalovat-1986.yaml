@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q4163529
   imdb: tt0478360
+  youtube: JP9yJruL7Ek
 sources:
 - https://www.wikidata.org/wiki/Q4163529
 schema_version: 1
+director:
+- karaev-aleksey-borisovich
+screenwriter:
+- koval-yuriy-iosifovich
+composer:
+- nimenskiy-anatoliy-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

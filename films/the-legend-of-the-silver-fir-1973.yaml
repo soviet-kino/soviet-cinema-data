@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q43302347
 schema_version: 1
+director:
+- vlachil-frantishek
+screenwriter:
+- kyorner-vladimir
+- vlachil-frantishek
+cinematographer:
+- uldrikh-frantishek
+composer:
+- lishka-zdenek
+cast:
+- person: kostelka-lyubomir
+- person: kramar-maros
+- person: kryzanek-zdenek
+- person: hlinakova-jana
+- person: halek-jiri
+- person: vasek-julius
+- person: gzela-ladislav

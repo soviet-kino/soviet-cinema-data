@@ -1,0 +1,9 @@
+id: gants-bruno
+name_ru: Бруно Ганц
+roles:
+- actor
+external_ids:
+  wikidata: Q123206
+sources:
+- https://www.wikidata.org/wiki/Q123206
+schema_version: 1

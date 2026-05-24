@@ -8,6 +8,13 @@ runtime_min: 25
 external_ids:
   wikidata: Q23900075
   imdb: tt6055878
+  youtube: WRl2g2WiGtY
 sources:
 - https://www.wikidata.org/wiki/Q23900075
 schema_version: 1
+director:
+- ufimtsev-vladimir-andreevich
+cast:
+- person: mironov-evgeniy-vitalevich
+studio:
+- sverdlovskaya-kinostudiya

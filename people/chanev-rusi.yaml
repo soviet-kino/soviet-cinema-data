@@ -1,0 +1,9 @@
+id: chanev-rusi
+name_ru: Руси Чанев
+roles:
+- actor
+external_ids:
+  wikidata: Q7371355
+sources:
+- https://www.wikidata.org/wiki/Q7371355
+schema_version: 1

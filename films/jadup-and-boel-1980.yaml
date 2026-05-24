@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6121542
 schema_version: 1
+director:
+- zimon-rayner
+screenwriter:
+- zimon-rayner
+cinematographer:
+- dressel-roland
+composer:
+- bredemayer-rayner
+cast:
+- person: gvisdek-mikhael
+- person: raykhel-kete
+- person: pechka-frantishek
+- person: byove-kurt
+- person: kipp-khaydi
+studio:
+- defa

@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18202649
 schema_version: 1
+director:
+- reves-dyord
+screenwriter:
+- karinti-fridesh
+- reves-dyord
+cinematographer:
+- illesh-dyord
+composer:
+- ranki-dyord
+cast:
+- person: zoltan-latinovich
+- person: ruttkai-eva
+- person: tyoryochik-mari
+- person: drahota-andrea
+- person: gera-zoltan
+- person: balazs-samu
+- person: kallai-ferents
+- person: mayor-tamash
+- person: pechi-shandor
+- person: imre-shinkovich
+- person: tomanek-nandor
+studio:
+- mafilm

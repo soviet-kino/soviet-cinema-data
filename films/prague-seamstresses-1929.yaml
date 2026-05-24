@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7237685
 schema_version: 1
+director:
+- prazsky-premysl
+screenwriter:
+- vasserman-vatslav
+- prazsky-premysl
+- faster-otto
+cinematographer:
+- kheller-otto
+- bulanek-josef
+cast:
+- person: lamach-karel
+- person: starshiy-pishtek-teodor
+- person: shlegl-chenek
+- person: dvorski-alois
+- person: hajska-darja
+- person: zhenishkova-mana
+- person: monczakova-helena
+- person: hron-jiri
+- person: kokoskova-dobrovolna-sasa
+- person: prazsky-beda
+- person: kopecka-marie

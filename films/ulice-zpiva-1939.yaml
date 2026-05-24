@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q10935148
 schema_version: 1
+director:
+- burian-vlasta
+- shlegl-chenek
+- brom-ladislav
+screenwriter:
+- shlegl-chenek
+- brom-ladislav
+- schurek-paul
+cinematographer:
+- tuzar-yaroslav
+composer:
+- seehak-jan
+- dobes-josef
+cast:
+- person: burian-vlasta
+- person: marvan-yaroslav
+- person: glazrova-mariya
+- person: shlegl-chenek
+- person: novotny-antonin
+- person: nollova-ella
+- person: salac-vladimir
+- person: plodr-frantisek
+- person: sheybalova-yirzhina
+- person: hemmer-ladislav
+- person: gampeova-milada
+- person: postranetski-karel
+- person: streit-antonin
+- person: kovarik-emanuel
+- person: pospisil-born-vladimir
+- person: dohnal-ada
+- person: romanova-jana
+- person: venclu-josef
+- person: matouskova-eva
+- person: hruby-vaclav

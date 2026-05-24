@@ -1,0 +1,9 @@
+id: pecani-spartak
+name_ru: Spartak Pecani
+roles:
+- director
+external_ids:
+  wikidata: Q16605373
+sources:
+- https://www.wikidata.org/wiki/Q16605373
+schema_version: 1

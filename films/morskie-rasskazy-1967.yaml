@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16514597
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+composer:
+- levitin-yuriy
+cast:
+- person: dostal-nikolay-nikolaevich
+studio:
+- mosfilm

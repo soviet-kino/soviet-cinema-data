@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1199308
 schema_version: 1
+director:
+- shoyman-gerkhard
+- khaynovskiy-valter
+screenwriter:
+- shoyman-gerkhard
+- khaynovskiy-valter
+cast:
+- person: myuller-zigfrid
+studio:
+- defa

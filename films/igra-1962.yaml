@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1170400
 schema_version: 1
+director:
+- vukotich-dushan
+screenwriter:
+- vukotich-dushan
+studio:
+- film-representations

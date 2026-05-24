@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24529787
 schema_version: 1
+director:
+- babich-yozhe
+cinematographer:
+- vaupotich-rudi
+cast:
+- person: vrkhovets-yanez
+- person: nikolich-dragan

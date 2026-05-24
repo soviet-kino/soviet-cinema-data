@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16415433
 schema_version: 1
+director:
+- b-kirzad-nicat
+cinematographer:
+- alekperov-alesker-gadzhi-aga-ogly
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: alakbarov-shakhmar
+studio:
+- azerbaydzhanfilm

@@ -1,0 +1,9 @@
+id: peet-john
+name_ru: John Peet
+roles:
+- actor
+external_ids:
+  wikidata: Q1242486
+sources:
+- https://www.wikidata.org/wiki/Q1242486
+schema_version: 1

@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116864965
 schema_version: 1
+director:
+- sinko-rostislav-aleksandrovich
+cinematographer:
+- buzilevich-aleksandr-viktorovich
+composer:
+- yavorik-aleksandr-vladimirovich
+cast:
+- person: stupka-bogdan-silvestrovich
+- person: brondukov-borislav-nikolaevich
+- person: aminova-elena-anatolevna
+- person: bunina-irina-alekseevna
+- person: ivchenko-valeriy-mikhaylovich
+- person: oleksenko-stepan-stepanovich
+- person: khostikoev-anatoliy-georgievich
+- person: dzhigurda-sergey
+- person: doroshenko-irina-evgenevna
+- person: borisyuk-vitaliy
+studio:
+- ukrtelefilm

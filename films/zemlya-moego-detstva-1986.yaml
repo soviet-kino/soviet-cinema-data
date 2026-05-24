@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4191124
   imdb: tt0267140
+  youtube: frHNw6iYxHE
 sources:
 - https://www.wikidata.org/wiki/Q4191124
 schema_version: 1
+director:
+- nitochkin-anatoliy-dmitrievich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- artemyev-eduard
+cast:
+- person: popova-elena-kimovna
+studio:
+- ekran

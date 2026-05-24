@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q875444
 schema_version: 1
+director:
+- volf-konrad
+screenwriter:
+- volf-konrad
+- kolkhaaze-volfgang
+cinematographer:
+- bergman-verner
+cast:
+- person: khoppe-rolf
+- person: shvarts-dzheki
+- person: gryolman-yenni
+- person: mann-diter
+- person: schmidtchen-achim
+- person: livanov-vasiliy
+- person: solovyov-anatoliy-vasilevich
+- person: polskikh-galina
+- person: gluzskiy-mikhail-andreevich
+- person: byove-kurt
+- person: bayer-german
+- person: wieke-johannes
+- person: khench-yurgen
+- person: mankhen-klaus
+- person: trettau-martin
+- person: greeze-volfgang
+- person: eybozhenko-aleksey-sergeevich
+studio:
+- defa

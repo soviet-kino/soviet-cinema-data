@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7561155
 schema_version: 1
+director:
+- szots-istvan
+screenwriter:
+- szots-istvan
+cinematographer:
+- makai-arpad
+- barnabash-khedi
+composer:
+- polgar-tibor
+cast:
+- person: gerbe-yanosh
+- person: bankhidi-laslo
+- person: bikhari-zhozef
+- person: simon-marcsa
+- person: szellay-alice

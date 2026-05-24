@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4131472
 schema_version: 1
+director:
+- neretnietse-ada
+- rozhdestvenskaya-vera
+screenwriter:
+- mandzhiev-oleg-lidzhievich
+cinematographer:
+- kleyns-martinsh
+- jemeljanovs-valdemars
+- q131745579
+- grunte-guntis
+composer:
+- vigners-ivars
+cast:
+- person: munzuk-maksim-monguzhukovich
+- person: ilin-andrey-epifanovich
+- person: ilin-vladimir-adolfovich
+- person: ryabova-svetlana-leonidovna
+- person: berzinsh-andris
+- person: zhagars-yuris
+- person: altmyae-arnold
+- person: pizics-bertulis
+- person: karpachs-voldemar
+- person: q131745633
+- person: q131745642
+- person: poroshin-valeri
+- person: ziemelis-igor
+- person: q131745705
+- person: gubanov-nikolay
+studio:
+- rizhskaya-kinostudiya

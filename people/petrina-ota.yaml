@@ -1,0 +1,9 @@
+id: petrina-ota
+name_ru: Ota Petřina
+roles:
+- actor
+external_ids:
+  wikidata: Q12043160
+sources:
+- https://www.wikidata.org/wiki/Q12043160
+schema_version: 1

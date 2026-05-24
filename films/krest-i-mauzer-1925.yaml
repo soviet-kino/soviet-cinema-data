@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24041153
 schema_version: 1
+director:
+- gardin-vladimir-rostislavovich
+screenwriter:
+- nikulin-lev-veniaminovich
+cinematographer:
+- levitskiy-aleksandr-andreevich
+cast:
+- person: kriger-vladimir-aleksandrovich
+- person: kutuzov-nikolay-nikolaevich
+- person: rogozhin-naum-aleksandrovich
+- person: starkovskiy-pyotr-ivanovich
+- person: savin-pyotr-nikolaevich
+- person: pirogov-aleksey-stepanovich
+- person: gurnyak-karl-adamovich
+studio:
+- goskino

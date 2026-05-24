@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11878401
 schema_version: 1
+director:
+- nydrle-petr
+cast:
+- person: kostelka-lyubomir
+- person: bek-josef
+- person: zavrzhel-vlastimil
+- person: friedrichova-helena
+- person: stashova-simona

@@ -1,0 +1,9 @@
+id: gotovac-pero
+name_ru: Pero Gotovac
+roles:
+- composer
+external_ids:
+  wikidata: Q12639525
+sources:
+- https://www.wikidata.org/wiki/Q12639525
+schema_version: 1

@@ -8,6 +8,24 @@ runtime_min: 79
 external_ids:
   wikidata: Q4160559
   imdb: tt0332012
+  youtube: 91IlQJGjR9Q
 sources:
 - https://www.wikidata.org/wiki/Q4160559
 schema_version: 1
+director:
+- shneyderov-vladimir-adolfovich
+screenwriter:
+- el-registan
+composer:
+- vasilenko-sergey-nikiforovich
+cast:
+- person: fayt-andrey-andreevich
+- person: gitserot-natalya-maksimillianovna
+- person: cherkasov-nikolay-petrovich
+- person: geller-emmanuil-savelevich
+- person: makarenko-nikolay-konstantinovich
+- person: bobrov-ivan-vasilevich
+- person: rakhmonov-zhurakhon-rakhmonberdievich
+studio:
+- mezhrabpomfilm
+poster_commons: Dzhulbars 02.jpg

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5191568
 schema_version: 1
+director:
+- cserepy-laszlo
+screenwriter:
+- cserepy-laszlo
+cinematographer:
+- barnabash-khedi
+cast:
+- person: latabar-kalman
+- person: kishsh-mani

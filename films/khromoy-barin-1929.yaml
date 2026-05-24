@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24041170
 schema_version: 1
+director:
+- eggert-konstantin
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- foreste-lui-petrovich
+cast:
+- person: klimov-mikhail-mikhaylovich
+- person: malinovskaya-vera-stepanovna
+- person: eggert-konstantin
+studio:
+- mezhrabpom-rus

@@ -1,0 +1,9 @@
+id: brodi-tamash
+name_ru: Тамаш Броди
+roles:
+- composer
+external_ids:
+  wikidata: Q4096729
+sources:
+- https://www.wikidata.org/wiki/Q4096729
+schema_version: 1

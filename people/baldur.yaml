@@ -1,0 +1,9 @@
+id: baldur
+name_ru: Baldur
+roles:
+- actor
+external_ids:
+  wikidata: Q133570406
+sources:
+- https://www.wikidata.org/wiki/Q133570406
+schema_version: 1

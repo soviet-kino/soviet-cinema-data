@@ -1,0 +1,9 @@
+id: margitay-agi
+name_ru: Аги Маргитай
+roles:
+- actor
+external_ids:
+  wikidata: Q1165088
+sources:
+- https://www.wikidata.org/wiki/Q1165088
+schema_version: 1

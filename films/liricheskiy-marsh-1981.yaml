@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20507821
 schema_version: 1
+director:
+- ayvazyan-agasi
+composer:
+- mansuryan-tigran
+cast:
+- person: eliava-liya
+- person: lebedev-evgeniy-alekseevich
+- person: spivakova-sati
+- person: sarkisov-leonard-sarkisovich
+- person: aroyan-razmik
+- person: gevondyan-rudolf
+- person: topchiyan-anait
+- person: kocharyan-vladimir
+studio:
+- armenfilm

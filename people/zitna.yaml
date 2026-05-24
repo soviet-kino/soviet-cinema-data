@@ -1,0 +1,9 @@
+id: zitna
+name_ru: Žitná
+roles:
+- actor
+external_ids:
+  wikidata: Q133282230
+sources:
+- https://www.wikidata.org/wiki/Q133282230
+schema_version: 1

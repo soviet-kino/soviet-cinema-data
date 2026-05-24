@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1409528
 schema_version: 1
+director:
+- hagen-peter
+screenwriter:
+- hagen-peter
+cinematographer:
+- eisinger-gunter
+composer:
+- kubiczeck-walter
+cast:
+- person: khoppe-rolf
+- person: gvisdek-mikhael
+- person: joswig-rudiger
+- person: darie-yurie
+- person: khabbema-koks
+- person: shellkhardt-gelmut
+- person: roysse-peter
+- person: wei-bach-giso
+- person: stra-burger-helmut
+- person: khayne-manfred
+- person: petri-akhim
+- person: christoph-rudolf
+studio:
+- defa

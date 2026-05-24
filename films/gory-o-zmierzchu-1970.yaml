@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9283895
 schema_version: 1
+director:
+- zanussi-kshishtof
+screenwriter:
+- zanussi-kshishtof
+- zhebrovskiy-edvard
+cinematographer:
+- idzyak-slavomir
+composer:
+- kilyar-voytsekh
+cast:
+- person: komorovskaya-mayya
+- person: perepechko-marek
+- person: kreczmar-jerzy
+studio:
+- tor-kinostudiya

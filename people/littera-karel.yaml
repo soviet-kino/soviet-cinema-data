@@ -1,0 +1,9 @@
+id: littera-karel
+name_ru: Karel Littera
+roles:
+- actor
+external_ids:
+  wikidata: Q95483311
+sources:
+- https://www.wikidata.org/wiki/Q95483311
+schema_version: 1

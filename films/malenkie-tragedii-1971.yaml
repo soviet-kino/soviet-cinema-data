@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4277678
 schema_version: 1
+director:
+- pchyolkin-leonid-aristarkhovich
+cast:
+- person: simonov-nikolay-konstantinovich
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: freyndlikh-bruno
+- person: marton-nikolay-sergeevich
+studio:
+- ekran

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4812283
 schema_version: 1
+director:
+- mettsig-kurt
+cinematographer:
+- khaubold-gyunter
+cast:
+- person: zimon-gyunter
+- person: khasse-khanno
+- person: domryoze-angelika
+- person: vytsnevskiy-arno

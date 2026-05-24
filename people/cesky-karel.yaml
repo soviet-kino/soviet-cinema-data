@@ -1,0 +1,9 @@
+id: cesky-karel
+name_ru: Karel Český
+roles:
+- actor
+external_ids:
+  wikidata: Q133288520
+sources:
+- https://www.wikidata.org/wiki/Q133288520
+schema_version: 1

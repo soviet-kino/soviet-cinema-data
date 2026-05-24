@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3202952
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- gruzdev-ilya-aleksandrovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: zhukov-aleksandr-dmitrievich
+- person: smirnov-igor-nikolaevich
+- person: pogodin-nikolay-fyodorovich
+- person: alekseeva-elizaveta-georgievna
+- person: lyarskiy-aleksey-petrovich
+- person: massalitinova-varvara-osipovna
+- person: troyanovskiy-mikhail-konstantinovich
+studio:
+- soyuzdetfilm

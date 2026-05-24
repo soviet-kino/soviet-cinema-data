@@ -8,6 +8,13 @@ runtime_min: 85
 external_ids:
   wikidata: Q4155790
   imdb: tt0305503
+  youtube: AOP1Mcew7qg
 sources:
 - https://www.wikidata.org/wiki/Q4155790
 schema_version: 1
+director:
+- gavrilov-eduard-aleksandrovich
+screenwriter:
+- shcherbakova-galina-nikolaevna
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: knot-jiri
+name_ru: Jiří Knot
+roles:
+- actor
+external_ids:
+  wikidata: Q12025272
+sources:
+- https://www.wikidata.org/wiki/Q12025272
+schema_version: 1

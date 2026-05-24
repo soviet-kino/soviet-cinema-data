@@ -8,6 +8,19 @@ runtime_min: 276
 external_ids:
   wikidata: Q4126285
   imdb: tt0094577
+  youtube: mKaDQEA4jiM
 sources:
 - https://www.wikidata.org/wiki/Q4126285
 schema_version: 1
+director:
+- zobin-vadim-nikolaevich
+screenwriter:
+- rybakov-anatoliy-naumovich
+cast:
+- person: zaytsev-vladimir-ivanovich
+- person: funtikov-vasiliy-vladimirovich
+- person: shubina-margarita
+- person: yumatov-vladimir-sergeevich
+- person: ilin-vladimir-lvovich
+studio:
+- ekran

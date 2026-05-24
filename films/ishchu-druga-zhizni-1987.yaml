@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4205751
   imdb: tt0298377
+  youtube: IlV1pgm04as
 sources:
 - https://www.wikidata.org/wiki/Q4205751
 schema_version: 1
+director:
+- ershov-mikhail-ivanovich
+screenwriter:
+- krasilshchikov-arkadiy-lvovich
+cinematographer:
+- karasyov-viktor
+composer:
+- khromushin-oleg-nikolaevich
+cast:
+- person: astafev-yuriy-grigorevich
+studio:
+- lenfilm

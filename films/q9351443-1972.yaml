@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9351443
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- kornel-filipovich
+composer:
+- kilyar-voytsekh
+cast:
+- person: zofya-kharevich
+- person: stroynskiy-kshishtof
+- person: pechka-frantishek
+- person: dombrovskaya-khelena
+- person: karkoshka-elzhbeta
+- person: netto-irena
+- person: zolkovska-dzhoanna
+- person: nardelli-andzhey
+- person: pototskaya-malgozhata
+- person: grombka-mechislav
+- person: brun-pawe
+studio:
+- tor-kinostudiya

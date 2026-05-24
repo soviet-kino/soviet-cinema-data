@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q380803
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- tolstoy-aleksey-nikolaevich
+- otsep-fyodor-aleksandrovich
+cinematographer:
+- shyuneman-emil
+- zhelyabuzhskiy-yuriy-andreevich
+composer:
+- stravinskiy-igor
+- glazunov-aleksandr-konstantinovich
+- skryabin-aleksandr
+cast:
+- person: batalov-nikolay-petrovich
+- person: zharov-mikhail-ivanovich
+- person: zavadskiy-yuriy-aleksandrovich
+- person: orlova-vera-georgievna
+- person: ilinskiy-igor-vladimirovich
+- person: solntseva-yuliya-ippolitovna
+- person: tseretelli-nikolay-mikhaylovich
+- person: kuindzhi-valentina-efimovna
+studio:
+- mezhrabpom-rus

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4655428
 schema_version: 1
+director:
+- kleyn-gerkhard
+screenwriter:
+- kolkhaaze-volfgang
+composer:
+- kluck-gunter
+cast:
+- person: rek-khartmut
+- person: byurger-annekatrin
+- person: tayn-ulrikh
+- person: dunkelman-erika
+- person: kube-khorst
+studio:
+- defa

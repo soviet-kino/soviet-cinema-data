@@ -8,6 +8,37 @@ runtime_min: 104
 external_ids:
   wikidata: Q1972779
   imdb: tt0097253
+  youtube: wTCEvkrJpx8
 sources:
 - https://www.wikidata.org/wiki/Q1972779
 schema_version: 1
+director:
+- makhulskiy-yuliush
+screenwriter:
+- makhulskiy-yuliush
+- borodyanskiy-aleksandr-emmanuilovich
+cinematographer:
+- gauer-yanush
+composer:
+- debskiy-kshesimir
+cast:
+- person: pazura-tsezary
+- person: shtur-ezhi
+- person: makhulskiy-yan
+- person: karachentsov-nikolay
+- person: vengerov-gennadiy-aronovich
+- person: vysotskiy-nikita-vladimirovich
+- person: golovin-vladimir-ivanovich
+- person: kotenyov-anatoliy-vladimirovich
+- person: orlov-yuriy-viktorovich
+- person: petrova-galina-leonidovna
+- person: stepanov-viktor-fyodorovich
+- person: hanin-ryszarda
+- person: sparazynski-stanis-aw
+- person: kuzniar-zdzis-aw
+- person: khench-yan
+- person: novish-pavel
+- person: khobot-zhigmunt
+- person: aleksandrov-vadim-aleksandrovich
+studio:
+- odesskaya-kinostudiya

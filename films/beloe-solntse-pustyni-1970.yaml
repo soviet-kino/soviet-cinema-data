@@ -25,3 +25,12 @@ composer:
 studio:
 - mosfilm
 - lenfilm
+cast:
+- person: luspekaev-pavel-borisovich
+- person: kuznetsov-anatoliy
+- person: mishulin-spartak-vasilevich
+- person: badev-nikolay-fyodorovich
+- person: godovikov-nikolay-lvovich
+- person: dudaev-musa-abdievich
+- person: kurkina-raisa-semyonovna
+- person: kavsadze-kakhi-davidovich

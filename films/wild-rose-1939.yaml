@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123587131
 schema_version: 1
+director:
+- balog-bela
+- pasztor-bela

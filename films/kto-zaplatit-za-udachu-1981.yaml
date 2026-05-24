@@ -8,6 +8,19 @@ runtime_min: 73
 external_ids:
   wikidata: Q4243394
   imdb: tt0178684
+  youtube: SdoZTbD94U0
 sources:
 - https://www.wikidata.org/wiki/Q4243394
 schema_version: 1
+director:
+- khudyakov-konstantin-pavlovich
+screenwriter:
+- chukhray-pavel-grigorevich
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- ganelin-vyacheslav-shevelevich
+cast:
+- person: solomin-vitaliy-mefodevich
+studio:
+- mosfilm

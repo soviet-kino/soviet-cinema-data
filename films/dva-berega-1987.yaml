@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4155561
   imdb: tt0092939
+  youtube: WPI8vq_hOYE
 sources:
 - https://www.wikidata.org/wiki/Q4155561
 schema_version: 1
+director:
+- voronin-gennadiy-anatolevich
+screenwriter:
+- voronin-gennadiy-anatolevich
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- chekalov-pavel
+studio:
+- kinostudiya-imeni-m-gorkogo

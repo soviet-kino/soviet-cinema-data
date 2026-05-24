@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31185046
 schema_version: 1
+director:
+- zhizhich-bogdan
+screenwriter:
+- zhizhich-bogdan
+cast:
+- person: medar-vladimir
+- person: khershak-zdenka
+- person: guberina-spiro
+- person: valentich-kruno

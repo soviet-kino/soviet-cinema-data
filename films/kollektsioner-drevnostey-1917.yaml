@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4659313
 schema_version: 1
+director:
+- dizi-alfred
+cast:
+- person: lugoshi-bela
+- person: hollay-camilla-von

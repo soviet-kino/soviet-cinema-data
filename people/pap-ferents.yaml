@@ -1,0 +1,9 @@
+id: pap-ferents
+name_ru: Ференц Пап
+roles:
+- cinematographer
+external_ids:
+  wikidata: Q88214422
+sources:
+- https://www.wikidata.org/wiki/Q88214422
+schema_version: 1

@@ -8,6 +8,58 @@ runtime_min: 73
 external_ids:
   wikidata: Q5913497
   imdb: tt0174753
+  youtube: z57nR2cPoeY
 sources:
 - https://www.wikidata.org/wiki/Q5913497
 schema_version: 1
+director:
+- smyczek-karel
+screenwriter:
+- smyczek-karel
+- charvatova-irena
+cinematographer:
+- kolin-irzhi
+composer:
+- john-zdenek
+cast:
+- person: fuchsova-zaneta
+- person: polochek-bronislav
+- person: zhenikova-veronika
+- person: zednitsek-pavel
+- person: gajerova-veronika
+- person: khartl-yan
+- person: dulava-yaromir
+- person: milova-jaromira
+- person: jelenska-jirina
+- person: krenek-emanuel
+- person: foltynova-jitka
+- person: zackova-irena
+- person: kucera-jaromir
+- person: plihalova-ivana
+- person: vesela-dagmar
+- person: vyslouzilova-jaroslava
+- person: kornova-yvetta
+- person: q101082381
+- person: q106159075
+- person: halmi-boris
+- person: vydrova-miroslava
+- person: q131860007
+- person: neborowsky-miroslav
+- person: kucerova-daniela
+- person: blahusova-bozena
+- person: radkova-svatava
+- person: dandova-lenka
+- person: zubalik-nikola
+- person: dolezelova-marika
+- person: kotlarova-drahomira
+- person: langerova-renata
+- person: saidlova-jaroslava
+- person: scholasterova-iva
+- person: szelongova-karin
+- person: vyroubalova-eva
+- person: vrbova-eva
+- person: milek-vladimir
+- person: mertova-jana
+- person: stibor-jan
+studio:
+- barrandov

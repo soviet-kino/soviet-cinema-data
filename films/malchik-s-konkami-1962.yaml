@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4279589
 schema_version: 1
+director:
+- gippius-sergey
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- kovzel-vladimir-prokhorovich
+composer:
+- chistyakov-vladlen
+cast:
+- person: krymov-panteleymon-aleksandrovich
+studio:
+- lenfilm

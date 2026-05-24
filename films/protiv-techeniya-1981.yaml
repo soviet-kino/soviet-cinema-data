@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q21644102
   imdb: tt0237618
+  youtube: FO25AG4IneU
 sources:
 - https://www.wikidata.org/wiki/Q21644102
 schema_version: 1
+director:
+- khalzanov-baras-tsyretarovich
+composer:
+- kazenin-vladislav-igorevich
+cast:
+- person: zaytsev-vladimir-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

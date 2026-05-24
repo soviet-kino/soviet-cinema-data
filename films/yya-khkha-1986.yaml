@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4206058
 schema_version: 1
+director:
+- nugmanov-rashid
+screenwriter:
+- nugmanov-rashid
+cast:
+- person: guryanov-georgiy-konstantinovich
+- person: tsoy-viktor
+- person: grebenshchikov-boris
+- person: kinchev-konstantin-evgenevich
+- person: naumenko-mayk
+studio:
+- vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova

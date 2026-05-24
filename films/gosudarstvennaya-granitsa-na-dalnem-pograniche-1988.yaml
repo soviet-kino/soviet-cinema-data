@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4146560
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+screenwriter:
+- samoryadov-aleksey-alekseevich
+- lutsik-pyotr-nikolaevich
+- smirnov-oleg-pavlovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: lapina-natalya-azarievna
+- person: gogolev-viktor-sergeevich
+- person: desnitskiy-sergey-glebovich
+- person: koreshkov-viktor-viktorovich
+- person: martynov-sergey
+- person: slobodskoy-igor-anatolevich
+- person: sotski-voynichesku-mircha
+- person: kokhv-katrin
+- person: evtifev-leonid-mikhaylovich
+studio:
+- belarusfilm

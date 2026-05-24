@@ -8,6 +8,24 @@ runtime_min: 67
 external_ids:
   wikidata: Q4326507
   imdb: tt0036221
+  youtube: 7OeH1VSYzU4
 sources:
 - https://www.wikidata.org/wiki/Q4326507
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- pomeshchikov-evgeniy-mikhaylovich
+- rozhkov-nikolay-vasilevich
+cinematographer:
+- magidson-mark-pavlovich
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: martinson-sergey-aleksandrovich
+- person: tenin-boris-mikhaylovich
+- person: filippov-sergey-nikolaevich
+studio:
+- tadzhikfilm
+- soyuzdetfilm

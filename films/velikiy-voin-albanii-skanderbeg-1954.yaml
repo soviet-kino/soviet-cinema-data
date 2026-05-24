@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2707305
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- zadeja-cesk
+cast:
+- person: logoretsi-mariya
+- person: zhakov-oleg-petrovich
+- person: khorava-akakiy-alekseevich
+- person: imami-besa
+- person: sokolovskiy-semyon-grigorevich
+studio:
+- mosfilm
+- albfilm

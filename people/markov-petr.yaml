@@ -1,0 +1,9 @@
+id: markov-petr
+name_ru: Петр Марков
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q95072356
+sources:
+- https://www.wikidata.org/wiki/Q95072356
+schema_version: 1

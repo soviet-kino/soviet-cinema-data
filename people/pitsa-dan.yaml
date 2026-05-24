@@ -1,0 +1,9 @@
+id: pitsa-dan
+name_ru: Дан Пица
+roles:
+- director
+external_ids:
+  wikidata: Q4681612
+sources:
+- https://www.wikidata.org/wiki/Q4681612
+schema_version: 1

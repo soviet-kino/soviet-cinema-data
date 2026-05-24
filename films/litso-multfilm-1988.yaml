@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4264386
 schema_version: 1
+studio:
+- mosfilm
+- kazakhfilm

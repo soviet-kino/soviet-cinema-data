@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9189325
 schema_version: 1
+director:
+- kondratiuk-andrzej
+cast:
+- person: maklakiewicz-zdzis-aw
+- person: pavlikovskiy-adam
+- person: gogolevskiy-ignatsy

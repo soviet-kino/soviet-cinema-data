@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4137926
 schema_version: 1
+director:
+- andrievskiy-aleksandr
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- magidson-mark-pavlovich
+composer:
+- vasilenko-sergey-nikiforovich
+cast:
+- person: gardin-vladimir-rostislavovich
+- person: martinson-sergey-aleksandrovich
+studio:
+- mezhrabpomfilm
+poster_commons: Robot1-los-of-sensation.jpg

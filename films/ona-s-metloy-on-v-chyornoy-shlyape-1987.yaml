@@ -8,6 +8,17 @@ runtime_min: 65
 external_ids:
   wikidata: Q4334800
   imdb: tt0186421
+  youtube: RzdymMlSw7w
 sources:
 - https://www.wikidata.org/wiki/Q4334800
 schema_version: 1
+screenwriter:
+- fomina-nina
+composer:
+- zatsepin-aleksandr
+cast:
+- person: ruslanova-nina-ivanovna
+- person: svetin-mikhail-semyonovich
+- person: sokolov-andrey
+studio:
+- kinostudiya-imeni-m-gorkogo

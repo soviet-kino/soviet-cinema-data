@@ -1,0 +1,9 @@
+id: stassino-pol
+name_ru: Пол Стассино
+roles:
+- actor
+external_ids:
+  wikidata: Q7153771
+sources:
+- https://www.wikidata.org/wiki/Q7153771
+schema_version: 1

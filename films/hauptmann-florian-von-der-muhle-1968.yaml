@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1589533
 schema_version: 1
+director:
+- vallrot-verner-v
+screenwriter:
+- vallrot-verner-v
+cinematographer:
+- borkmann-eberkhard
+composer:
+- zasse-karl-ernst
+cast:
+- person: khoppe-rolf
+- person: krug-manfred
+- person: shubert-gyunter
+- person: entoni-karmen-mayya
+- person: abesser-doris
+- person: merkel-harry
+- person: kors-eberkhard
+- person: gren-lilo
+- person: oppel-karl-khaynts
+- person: khardt-khardtloff-khans
+- person: rachold-gerhard
+- person: turoff-niko
+- person: fiebrandt-hans
+- person: kipp-khaydi
+- person: kyofer-gerbert
+- person: klau-jurgen
+- person: zasse-karl-ernst
+- person: larsen-maximilian
+- person: beyer-regina
+- person: kherrikht-rolf
+- person: lirk-verner
+- person: shturm-peter
+- person: tsshekel-gyunter
+studio:
+- defa

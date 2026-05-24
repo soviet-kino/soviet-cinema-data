@@ -11,3 +11,40 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q66371006
 schema_version: 1
+director:
+- fuka-otakar
+- bityukov-igor
+screenwriter:
+- fuka-otakar
+- kupka-jiri-svetozar
+cinematographer:
+- tarantik-irzhi
+- boganov-vladimir
+composer:
+- ezhek-yaroslav
+- shust-irzhi
+cast:
+- person: bruder-jiri
+- person: agafonova-tatyana-ivanovna
+- person: gusev-andrey-fyodorovich
+- person: zhigunov-sergey
+- person: shcherbakov-boris-vasilevich
+- person: mikhaylova-darya
+- person: yakovlev-vadim-2
+- person: stepanek-petr
+- person: kaplanova-valerie
+- person: svobodova-ilona
+- person: zhupanich-ladislav
+- person: guchik-mikhal
+- person: rufus-peter
+- person: skalska-neuwirthova-vida
+- person: zak-zdenek
+- person: tikha-yaroslava
+- person: greif-karel
+- person: sekera-karel
+- person: voganka-irzhi
+- person: golik-anatoliy-ivanovich
+- person: kopecky-vaclav
+studio:
+- mosfilm
+- barrandov

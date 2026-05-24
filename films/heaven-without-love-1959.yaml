@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5694766
 schema_version: 1
+director:
+- pogachich-vladimir
+composer:
+- adamich-boyan
+cast:
+- person: lyubitsa-yovich
+studio:
+- yadran-film

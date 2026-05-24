@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339914
 schema_version: 1
+director:
+- titov-viktor-abrosimovich
+- bujtas-janos
+screenwriter:
+- azernikov-valentin-zakharovich
+composer:
+- kozlov-aleksey
+cast:
+- person: gurchenko-lyudmila
+- person: polishchuk-lyubov
+- person: melikhova-olga-vilgelmovna
+- person: tikhonov-vyacheslav-vasilevich
+- person: kalochai-miklosh
+- person: kostolevskiy-igor-matveevich
+- person: basov-vladimir-pavlovich
+studio:
+- mosfilm
+- vengerskoe-televidenie
+- ekran

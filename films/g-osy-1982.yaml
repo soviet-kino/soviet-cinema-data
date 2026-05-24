@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9284244
 schema_version: 1
+director:
+- kiyovskiy-yanush
+screenwriter:
+- kiyovskiy-yanush
+cinematographer:
+- wyszynski-krzysztof
+composer:
+- matula-ezhi
+cast:
+- person: fronchevskiy-pyotr
+- person: vishnevskaya-eva
+- person: zaleskiy-kshishtof
+- person: dalkovskaya-eva
+- person: fetting-edmund
+studio:
+- zespol-filmowy-x

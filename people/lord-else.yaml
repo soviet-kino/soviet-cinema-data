@@ -1,0 +1,9 @@
+id: lord-else
+name_ru: Else Lord
+roles:
+- actor
+external_ids:
+  wikidata: Q133760775
+sources:
+- https://www.wikidata.org/wiki/Q133760775
+schema_version: 1

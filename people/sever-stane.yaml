@@ -1,0 +1,9 @@
+id: sever-stane
+name_ru: Стане Север
+roles:
+- actor
+external_ids:
+  wikidata: Q11205709
+sources:
+- https://www.wikidata.org/wiki/Q11205709
+schema_version: 1

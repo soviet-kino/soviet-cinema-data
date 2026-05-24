@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4309266
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+cinematographer:
+- gorchilin-ivan-dmitrievich
+cast:
+- person: millyar-georgiy-frantsevich
+- person: martinson-sergey-aleksandrovich
+- person: zheymo-yanina-boleslavovna
+- person: grabbe-nikolay-karlovich
+- person: konsovskiy-aleksey-anatolevich
+- person: ryzhov-ivan-petrovich
+- person: sukharevskaya-lidiya
+- person: filippov-sergey-nikolaevich
+- person: komarov-sergey-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

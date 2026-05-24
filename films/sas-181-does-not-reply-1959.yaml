@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7388795
 schema_version: 1
+director:
+- balkhaus-karl
+screenwriter:
+- raysh-gyunter
+cinematographer:
+- brandt-khorst-e
+composer:
+- nir-gelmut
+cast:
+- person: dits-frits
+- person: balkhaus-karl
+- person: finohr-hans
+- person: geshonnek-ervin
+- person: khoffman-adolf-peter
+- person: tayn-ulrikh
+- person: lennarts-monika
+- person: klyayn-erik-zigfrid
+- person: brauer-erikh
+- person: shvil-ernst-georg
+- person: pyuttyer-gustav
+- person: junge-friedrich-wilhelm
+- person: erforth-klaus
+- person: khindemit-kharri
+- person: buder-horst
+- person: gendris-klaus
+- person: ulrikh-rudolf
+- person: kokh-khoge-vilgelm
+- person: glaser-hans-joachim
+studio:
+- defa

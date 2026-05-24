@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25395139
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: mishchenko-vasiliy-konstantinovich
+studio:
+- mosfilm

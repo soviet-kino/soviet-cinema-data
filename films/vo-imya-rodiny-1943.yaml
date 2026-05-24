@@ -8,6 +8,28 @@ runtime_min: 94
 external_ids:
   wikidata: Q4113848
   imdb: tt0036505
+  youtube: mvpIc8IMSGw
 sources:
 - https://www.wikidata.org/wiki/Q4113848
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- vasilev-dmitriy-ivanovich
+screenwriter:
+- simonov-konstantin-mikhaylovich
+- pudovkin-vsevolod-illarionovich
+- vasilev-dmitriy-ivanovich
+cinematographer:
+- aretskiy-boris-solomonovich
+- volchek-boris-izrailevich
+- saveleva-era-mikhaylovna
+composer:
+- volskiy-boris-alekseevich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: zharov-mikhail-ivanovich
+- person: kryuchkov-nikolay-afanasevich
+- person: tyapkina-elena-alekseevna
+studio:
+- mosfilm
+- kazakhfilm

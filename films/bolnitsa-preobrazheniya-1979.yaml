@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9352165
 schema_version: 1
+director:
+- zhebrovskiy-edvard
+screenwriter:
+- zhebrovskiy-edvard
+- komar-mikhal
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- radvan-stanislav
+cast:
+- person: vuytsik-magda-teresa
+- person: khyubner-zigmunt
+- person: zbignev-zapasevich
+- person: pshonyak-voytsekh
+- person: dejmek-piotr
+- person: shulkin-pyotr
+- person: kholoubek-gustav
+- person: bista-khenrik
+- person: piontek-klaus
+- person: binchitskiy-ezhi
+- person: dalkovskaya-eva
+- person: karkoshka-elzhbeta
+- person: veslava-mazurkevich
+- person: shenaykh-andzhey
+- person: kovalskiy-vladislav
+- person: shimanskiy-zdzislav
+studio:
+- tor-kinostudiya

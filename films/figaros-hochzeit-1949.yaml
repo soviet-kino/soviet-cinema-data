@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5447693
 schema_version: 1
+director:
+- wildhagen-georg
+cinematographer:
+- klagemann-oygen
+- plintsner-karl
+composer:
+- motsart-volfgang-amadey
+cast:
+- person: domgraf-fassbaender-willi
+- person: yanson-viktor
+- person: legal-ernst
+- person: vagner-elza
+- person: hauff-angelika
+- person: venk-evald
+- person: veber-frants
+- person: mayberg-katharina
+- person: peters-sabina
+- person: ahlersmeyer-mathieu
+- person: baltkhoff-alfred
+- person: puhlmann-rico
+studio:
+- defa

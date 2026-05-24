@@ -2,20 +2,78 @@ id: fantomas-1964
 title_ru: Фантомас
 title_original: Fantômas
 year: 1964
-country: [FR, IT]
+country:
+- FR
+- IT
 runtime_min: 105
-genre: [comedy, adventure]
-topics: [foreign-in-soviet-distribution]
+genre:
+- comedy
+- adventure
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1967
   title_ru: Фантомас
   dubbed: true
-  notes: >
-    Дубляж киностудии им. Горького. Жан Маре говорит голосом Владимира
-    Кенигсона; Луи де Фюнес — голосом Владимира Кенигсона же (фильм
-    показывался блоком из трёх частей в течение 1967–1969 годов).
+  notes: 'Дубляж киностудии им. Горького. Жан Маре говорит голосом Владимира Кенигсона;
+    Луи де Фюнес — голосом Владимира Кенигсона же (фильм показывался блоком из трёх
+    частей в течение 1967–1969 годов).
+
+    '
 external_ids:
   wikidata: Q996020
+  imdb: tt0058089
 sources:
-  - https://www.wikidata.org/wiki/Q996020
+- https://www.wikidata.org/wiki/Q996020
 schema_version: 1
+director:
+- yunebel-andre
+screenwriter:
+- alen-zhan
+- fuko-per
+cinematographer:
+- grinon-marsel
+composer:
+- man-mishel
+cast:
+- person: fyunes-lui-de
+- person: mare-zhan
+- person: demonzho-milen
+- person: yunebel-andre
+- person: dalban-rober
+- person: kollet-per
+- person: dinam-zhak
+- person: pelgren-reymon
+- person: zhyulen-remi
+- person: zardi-dominik
+- person: myusson-bernar
+- person: badin-andre
+- person: bezu-andre
+- person: dyuma-andre
+- person: tainsi-andre
+- person: peysson-ann-mari
+- person: bayyar-sharl
+- person: lekurtua-daniel
+- person: doulcet-gabrielle
+- person: myone-gaston
+- person: ade-zhorzh
+- person: attal-anri
+- person: kute-anri
+- person: guegan-henri
+- person: berger-zhak
+- person: alliber-zhan-lui
+- person: blancheur-jean
+- person: minizini-zhan
+- person: sunny-jean
+- person: rosso-luizett
+- person: arian-mark
+- person: arno-mari-elen
+- person: gaidon-marius
+- person: sharrel-mishel
+- person: dyupleks-mishel
+- person: kastelli-filipp
+- person: lenuar-rudi
+- person: shiffr-ivan
+- person: wanner-hugues
+studio:
+- gaumont

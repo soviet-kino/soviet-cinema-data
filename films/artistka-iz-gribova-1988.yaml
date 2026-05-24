@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4070299
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+screenwriter:
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- guslinskiy-evgeniy
+cast:
+- person: muravyova-irina-vadimovna
+studio:
+- mosfilm

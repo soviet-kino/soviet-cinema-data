@@ -11,3 +11,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12736946
 schema_version: 1
+director:
+- pitsa-dan
+- veroyu-mircha

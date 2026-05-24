@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7735381
 schema_version: 1
+director:
+- bolvari-geza-fon
+- balog-bela
+cast:
+- person: sepesh-mariya
+- person: szecsi-ferenc
+- person: inke-rezso
+- person: linke-ilona

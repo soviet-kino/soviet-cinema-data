@@ -7,6 +7,24 @@ country:
 external_ids:
   wikidata: Q4168652
   imdb: tt0173777
+  youtube: WSfcRujFZa0
 sources:
 - https://www.wikidata.org/wiki/Q4168652
 schema_version: 1
+director:
+- ogly-odzhagov-rasim-mirkasum
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- mamedov-kenan
+composer:
+- sabitoglu-emin
+cast:
+- person: akhedzhakova-liya-medzhidovna
+- person: ogly-manafov-fakhraddin-manaf
+- person: kalyagin-aleksandr-aleksandrovich
+- person: kupchenko-irina-petrovna
+- person: maniev-mukhtar
+- person: ismaylov-gadzhi
+studio:
+- azerbaydzhanfilm

@@ -11,3 +11,38 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q213345
 schema_version: 1
+director:
+- goran-paskalevich
+screenwriter:
+- mikhich-gordan
+cinematographer:
+- petkovic-aleksandar
+composer:
+- khristich-zoran
+cast:
+- person: danilo-stoykovich
+- person: cvejic-branko
+- person: arnerich-neda
+- person: aleksich-miya
+- person: shtimats-slavko
+- person: banyats-mira
+- person: zaric-dragan
+- person: vejnovic-sanja
+- person: dzhelika-sretenovich
+- person: predrag-milinkovich
+- person: videnovic-andrijana
+- person: pletl-lidiya
+- person: simic-aleksandra
+- person: kandic-borivoje
+- person: petrich-branka
+- person: q12750676
+- person: milenkovic-zivojin
+- person: mikhich-ivana
+- person: miodrag-radovanovich
+- person: tasovac-predrag
+- person: pavlov-milenko
+- person: q16081966
+- person: kandich-milosh
+- person: milutin-butkovich
+studio:
+- centar-film

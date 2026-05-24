@@ -8,6 +8,17 @@ runtime_min: 127
 external_ids:
   wikidata: Q52572455
   imdb: tt5508442
+  youtube: Iyr8s297u2Y
 sources:
 - https://www.wikidata.org/wiki/Q52572455
 schema_version: 1
+screenwriter:
+- antokolskiy-aleksandr-albertovich
+cinematographer:
+- pirumov-rostislav-archilovich
+cast:
+- person: shtefanko-oleg
+- person: chernyadev-sergey-leonidovich
+- person: chigaryov-mikhail-mikhaylovich
+studio:
+- tadzhikfilm

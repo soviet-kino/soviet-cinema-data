@@ -8,6 +8,33 @@ runtime_min: 113
 external_ids:
   wikidata: Q4249628
   imdb: tt0036572
+  youtube: YQR6eIQRx7Y
 sources:
 - https://www.wikidata.org/wiki/Q4249628
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- solovyov-vladimir-aleksandrovich
+cinematographer:
+- gindin-mikhail-efimovich
+composer:
+- shaporin-yuriy-aleksandrovich
+cast:
+- person: dikiy-aleksey-denisovich
+- person: chirkov-boris-petrovich
+- person: pugovkin-mikhail-ivanovich
+- person: okhlopkov-nikolay-pavlovich
+- person: zakariadze-sergo-aleksandrovich
+- person: blinnikov-sergey-kapitonovich
+- person: gotovtsev-vladimir-vasilevich
+- person: ershov-vladimir-lvovich
+- person: mezhinskiy-semyon-borisovich
+- person: ryzhov-nikolay-ivanovich
+- person: skuratov-ivan-fyodorovich
+- person: briling-nikolay-arkadevich
+- person: polyakov-arkadiy-vasilevich
+- person: kaluzhskiy-evgeniy-vasilevich
+studio:
+- mosfilm
+poster_commons: Aleksej Dikij Kutuzov.jpg

@@ -1,0 +1,9 @@
+id: nova
+name_ru: Nová
+roles:
+- actor
+external_ids:
+  wikidata: Q133282221
+sources:
+- https://www.wikidata.org/wiki/Q133282221
+schema_version: 1

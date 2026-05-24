@@ -8,6 +8,19 @@ runtime_min: 71
 external_ids:
   wikidata: Q65170434
   imdb: tt0495162
+  youtube: FWxSUBNgivk
 sources:
 - https://www.wikidata.org/wiki/Q65170434
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- room-abram-matveevich
+screenwriter:
+- brodyanskiy-boris-lvovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- kosmatov-leonid
+composer:
+- prokofev-sergey-sergeevich
+studio:
+- kazakhfilm

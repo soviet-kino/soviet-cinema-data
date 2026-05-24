@@ -1,0 +1,9 @@
+id: daken-lui
+name_ru: Луи Дакен
+roles:
+- director
+external_ids:
+  wikidata: Q200525
+sources:
+- https://www.wikidata.org/wiki/Q200525
+schema_version: 1

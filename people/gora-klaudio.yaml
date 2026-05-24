@@ -1,0 +1,9 @@
+id: gora-klaudio
+name_ru: Клаудио Гора
+roles:
+- actor
+external_ids:
+  wikidata: Q433903
+sources:
+- https://www.wikidata.org/wiki/Q433903
+schema_version: 1

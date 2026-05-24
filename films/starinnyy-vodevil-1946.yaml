@@ -8,6 +8,21 @@ runtime_min: 68
 external_ids:
   wikidata: Q4439925
   imdb: tt0039866
+  youtube: ah9JH17Z7Zc
 sources:
 - https://www.wikidata.org/wiki/Q4439925
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: stolyarov-sergey-dmitrievich
+- person: gritsenko-nikolay-olimpievich
+- person: lisyanskaya-anna-grigorevna
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: meks-karoli
+name_ru: Кароли Мекс
+roles:
+- actor
+external_ids:
+  wikidata: Q266720
+sources:
+- https://www.wikidata.org/wiki/Q266720
+schema_version: 1

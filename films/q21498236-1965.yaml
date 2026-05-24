@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21498236
 schema_version: 1
+director:
+- weychert-janusz
+screenwriter:
+- weychert-janusz
+composer:
+- kilyar-voytsekh
+cast:
+- person: kopichinskiy-andzhey
+- person: fornal-adam

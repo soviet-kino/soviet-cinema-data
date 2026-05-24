@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11825944
 schema_version: 1
+director:
+- bayon-filip
+screenwriter:
+- bayon-filip
+cinematographer:
+- idzyak-slavomir
+composer:
+- hajdun-janusz
+cast:
+- person: petshikovskiy-zbignev
+- person: bashanovskiy-valdemar
+- person: shchepanskiy-yan
+- person: bartosik-tadeusz
+- person: merle-zofya
+- person: dyja-ryszard
+- person: lyamzha-ioakhim
+- person: sprusinski-micha
+- person: waskowski-mieczys-aw
+- person: aczynska-ludmi-a
+studio:
+- tor-kinostudiya

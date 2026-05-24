@@ -7,6 +7,26 @@ country:
 external_ids:
   wikidata: Q2898626
   imdb: tt0128126
+  youtube: rjqVBGWgeTk
 sources:
 - https://www.wikidata.org/wiki/Q2898626
 schema_version: 1
+director:
+- muntyanu-franchisk
+screenwriter:
+- muntyanu-franchisk
+- laskin-boris-savelevich
+composer:
+- popa-temistokle
+- fradkin-mark
+cast:
+- person: banika-stefan
+- person: khossu-emil
+- person: spetaru-dan
+- person: fateeva-natalya-nikolaevna
+- person: paulgofer-petre
+- person: nagy-reka
+- person: sileanu-shtefan
+- person: dikisyanu-ion
+studio:
+- mosfilm

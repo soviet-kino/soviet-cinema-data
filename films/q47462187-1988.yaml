@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47462187
 schema_version: 1
+screenwriter:
+- donkov-slavcho
+cast:
+- person: banov-vasil
+- person: yanev-marin
+- person: donkin-marius

@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4415401
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- german-yuriy-pavlovich
+cinematographer:
+- velichko-evgeniy-ivanovich
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: makarova-tamara-fyodorovna
+- person: zhakov-oleg-petrovich
+- person: aleynikov-pyotr-martynovich
+- person: apsolon-andrey-nikolaevich
+- person: kuznetsov-ivan-nikolaevich
+- person: novoseltsev-ivan-khrisanfovich
+studio:
+- lenfilm
+poster_commons: Novosel'cev Sette coraggiosi.jpg

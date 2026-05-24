@@ -8,6 +8,15 @@ runtime_min: 76
 external_ids:
   wikidata: Q116865202
   imdb: tt0307061
+  youtube: _2ngbiI--KI
 sources:
 - https://www.wikidata.org/wiki/Q116865202
 schema_version: 1
+director:
+- sergeev-viktor-anatolevich
+screenwriter:
+- kunin-vladimir-vladimirovich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- ekran

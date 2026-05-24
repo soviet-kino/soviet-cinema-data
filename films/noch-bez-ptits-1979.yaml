@@ -8,6 +8,16 @@ runtime_min: 86
 external_ids:
   wikidata: Q4327814
   imdb: tt2395351
+  youtube: WRHLlI1SsQY
 sources:
 - https://www.wikidata.org/wiki/Q4327814
 schema_version: 1
+director:
+- tsilinskiy-gunar-alfredovich
+composer:
+- kalnynsh-imants
+cast:
+- person: dumpis-uldis
+- person: ozolinya-lilita-arvidovna
+studio:
+- rizhskaya-kinostudiya

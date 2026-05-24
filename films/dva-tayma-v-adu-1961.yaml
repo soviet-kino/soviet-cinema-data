@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1437026
 schema_version: 1
+director:
+- fabri-zoltan
+screenwriter:
+- fabri-zoltan
+- bacho-peter
+cinematographer:
+- secheni-ferents
+composer:
+- farkash-ferents
+cast:
+- person: gerbe-yanosh
+- person: gera-zoltan
+- person: garash-dezhyo
+- person: barshi-bela
+- person: benko-gyula
+- person: egri-istvan
+- person: farkas-antal
+- person: koltai-yanosh
+- person: molnar-tibor
+- person: markus-laslo
+- person: rayz-yanosh
+- person: imre-shinkovich
+- person: vegvari-tamas
+studio:
+- hunnia-film-studio

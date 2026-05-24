@@ -11,3 +11,39 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1171706
 schema_version: 1
+director:
+- khellberg-martin
+screenwriter:
+- shtern-kurt
+- shtern-zhanna
+cinematographer:
+- khasler-yoakhim
+composer:
+- roters-ernst
+cast:
+- person: vintershtayn-eduard-fon
+- person: zimon-gyunter
+- person: gyoring-khelga
+- person: gnass-fridrikh
+- person: kayzer-volf
+- person: finohr-hans
+- person: ribauer-kharri
+- person: grimmer-aribert
+- person: adolf-barbara
+- person: fogel-egon
+- person: venor-albert
+- person: narloch-willi
+- person: deickert-karl-heinz
+- person: brahn-jean
+- person: baur-raymar-yokhannes
+- person: garbe-albert
+- person: brenk-karl
+- person: bobeth-bolander-kurt
+- person: gyots-luts
+- person: legal-marga
+- person: polsen-pol
+- person: henker-paul-r
+- person: baldor-ruth
+- person: pledat-verner
+studio:
+- defa

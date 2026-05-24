@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4767521
 schema_version: 1
+director:
+- nicolas-richard
+cinematographer:
+- shyuneman-emil
+cast:
+- person: peters-verner
+- person: zimon-gyunter
+- person: grimmer-aribert
+- person: paulsen-arno
+- person: firmans-lotar
+- person: khindemit-kharri
+- person: maack-alfred
+- person: delshaft-mali
+- person: pledat-verner
+studio:
+- defa

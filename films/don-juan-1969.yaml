@@ -8,6 +8,18 @@ runtime_min: 30
 external_ids:
   wikidata: Q5292862
   imdb: tt0065654
+  youtube: L14f3dYuGQQ
 sources:
 - https://www.wikidata.org/wiki/Q5292862
 schema_version: 1
+director:
+- shvankmayer-yan
+screenwriter:
+- moler
+- shvankmayer-yan
+cinematographer:
+- maly-svatopluk
+composer:
+- lishka-zdenek
+cast:
+- person: filipovskiy-frantishek

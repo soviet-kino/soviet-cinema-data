@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16415809
 schema_version: 1
+director:
+- litvinov-aleksandr-arkadevich
+screenwriter:
+- litvinov-aleksandr-arkadevich
+- troitskiy-sergey-dmitrievich
+- velski-pavel
+cinematographer:
+- lemke-vladimir-petrovich
+cast:
+- person: ogly-sharifzade-abbas-mirza-abdul-rasul
+- person: kirillov-pyotr-klavdievich
+- person: vendelin-nadejda
+- person: troitskiy-sergey-dmitrievich
+studio:
+- azerbaydzhanfilm
+- q16413438

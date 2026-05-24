@@ -1,0 +1,9 @@
+id: spacek
+name_ru: Špaček
+roles:
+- actor
+external_ids:
+  wikidata: Q133307346
+sources:
+- https://www.wikidata.org/wiki/Q133307346
+schema_version: 1

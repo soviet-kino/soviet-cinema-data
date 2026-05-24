@@ -1,0 +1,9 @@
+id: friml-rudolf
+name_ru: Рудольф Фримль
+roles:
+- composer
+external_ids:
+  wikidata: Q48363
+sources:
+- https://www.wikidata.org/wiki/Q48363
+schema_version: 1

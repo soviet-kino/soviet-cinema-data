@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5261169
 schema_version: 1
+director:
+- khaynrikh-khans
+screenwriter:
+- klepper-yokhen
+- nicolas-richard
+cinematographer:
+- lemann-frits
+cast:
+- person: peters-verner
+- person: esser-paul
+- person: pyuttyer-gustav
+- person: brennecke-joachim
+- person: kieper-herbert
+- person: maack-alfred
+- person: delshaft-mali
+studio:
+- defa

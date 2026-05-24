@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q18425937
   imdb: tt0130054
+  youtube: 71l8KUoMYz0
 sources:
 - https://www.wikidata.org/wiki/Q18425937
 schema_version: 1
+director:
+- petrov-bytov-pavel-petrovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+studio:
+- sovkino
+poster_commons: Плакат к фильму «Каин и Артём» (художник Воронов).jpg

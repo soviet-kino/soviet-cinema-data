@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3795739
 schema_version: 1
+director:
+- papich-krsto
+screenwriter:
+- breshan-ivo
+cinematographer:
+- rajkovic-ivica
+composer:
+- klobuchar-andzhelko
+cast:
+- person: uells-orson
+- person: petar-bozhovich
+- person: kodar-oya
+- person: martin-strozer
+- person: bitents-demetr
+- person: patrik-dennis
+- person: drech-vanya
+- person: buzanchich-boris
+- person: rozman-loyze
+studio:
+- zagreb-film

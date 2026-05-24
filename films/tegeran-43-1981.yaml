@@ -8,6 +8,37 @@ runtime_min: 192
 external_ids:
   wikidata: Q1125687
   imdb: tt0081609
+  youtube: -TaOAwtzeGg
 sources:
 - https://www.wikidata.org/wiki/Q1125687
 schema_version: 1
+director:
+- alov-aleksandr-aleksandrovich
+- naumov-vladimir-naumovich
+screenwriter:
+- shatrov-mikhail-filippovich
+- alov-aleksandr-aleksandrovich
+- naumov-vladimir-naumovich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- garvarents-zhorzh
+cast:
+- person: aznavur-sharl
+- person: yurgens-kurd
+- person: delon-alen
+- person: kraft-evelina
+- person: zhad-klod
+- person: belokhvostikova-nataliya-nikolaevna
+- person: marshall-mayk
+- person: dzhigarkhanyan-armen-borisovich
+- person: grinko-nikolai
+- person: zhere-zhorzh
+- person: kostolevskiy-igor-matveevich
+- person: khan-dzhess
+- person: delorm-gi
+- person: strizhenov-gleb-aleksandrovich
+- person: ru-zhak
+studio:
+- mosfilm
+- mediterranee-cinema-productions

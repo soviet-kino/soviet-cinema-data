@@ -1,0 +1,9 @@
+id: trove-gizela
+name_ru: Гизела Трове
+roles:
+- actor
+external_ids:
+  wikidata: Q96194
+sources:
+- https://www.wikidata.org/wiki/Q96194
+schema_version: 1

@@ -8,6 +8,17 @@ runtime_min: 87
 external_ids:
   wikidata: Q33043506
   imdb: tt0265544
+  youtube: KT_-OJAQJB0
 sources:
 - https://www.wikidata.org/wiki/Q33043506
 schema_version: 1
+director:
+- dudin-vitaliy-andreevich
+screenwriter:
+- merezhko-viktor
+cast:
+- person: budraytis-yuozas-stanislavas
+- person: usatova-nina-nikolaevna
+- person: yanovskaya-anna-lvovna
+studio:
+- belarusfilm

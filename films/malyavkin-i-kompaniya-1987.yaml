@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q116864959
   imdb: tt1530497
+  youtube: vl3-zsdaY20
 sources:
 - https://www.wikidata.org/wiki/Q116864959
 schema_version: 1
+director:
+- kuzmenko-yuriy
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- pustovoy-yuriy-ivanovich
+composer:
+- dergachyov-anatoliy
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: akimova-svetlana-nikolaevna
+studio:
+- odesskaya-kinostudiya

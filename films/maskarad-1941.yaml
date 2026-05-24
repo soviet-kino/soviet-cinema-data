@@ -8,6 +8,23 @@ runtime_min: 104
 external_ids:
   wikidata: Q3297214
   imdb: tt0033886
+  youtube: 2-93BxjDaCI
 sources:
 - https://www.wikidata.org/wiki/Q3297214
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: gerasimov-sergey
+- person: makarova-tamara-fyodorovna
+- person: gal-emil-mikhaylovich
+- person: magarill-sofya-zinovevna
+studio:
+- lenfilm
+poster_commons: Лермонтов Маскарад.jpg

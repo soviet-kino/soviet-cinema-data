@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q4155648
   imdb: tt0082303
+  youtube: sSiyYxgj90U
 sources:
 - https://www.wikidata.org/wiki/Q4155648
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+- melnikov-vitalij-vjaceslavovic
+screenwriter:
+- loginov-vladlen-terentevich
+cinematographer:
+- ryzhov-konstantin
+composer:
+- simonyan-nadezhda
+cast:
+- person: shakurov-sergey-kayumovich
+studio:
+- lenfilm
+- studiya-khudozhestvennykh-filmov-defa

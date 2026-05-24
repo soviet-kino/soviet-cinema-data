@@ -7,6 +7,23 @@ country:
 external_ids:
   wikidata: Q4378713
   imdb: tt0152071
+  youtube: WRCW78142ag
 sources:
 - https://www.wikidata.org/wiki/Q4378713
 schema_version: 1
+director:
+- polynnikov-aleksandr
+screenwriter:
+- anatoliy-volkovich-shaykevich
+composer:
+- dobrynin-vyacheslav
+cast:
+- person: talyzina-valentina
+- person: anatoliy-yurevich-ravikovich
+- person: kabo-olga-igorevna
+- person: gradov-andrey-petrovich
+- person: kuznetsov-aleksandr-konstantinovich
+- person: nazareva-anna-vladimirovna
+studio:
+- odesskaya-kinostudiya
+- tvorcheskoe-obedinenie-televizionnykh-filmov

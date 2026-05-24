@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20512096
 schema_version: 1
+director:
+- erzinkyan-yuriy
+screenwriter:
+- karamyan-erazm
+- zurabov-armen
+composer:
+- arutyunyan-yuriy
+cast:
+- person: vinnik-pavel-borisovich
+- person: vinogradova-mariya-sergeevna
+- person: izotova-veronika-eduardovna
+- person: livanov-aristarkh-evgenevich
+- person: romashin-anatoliy-vladimirovich
+- person: simonov-ruben-evgenevich
+- person: dzhanibekyan-karen
+studio:
+- armenfilm

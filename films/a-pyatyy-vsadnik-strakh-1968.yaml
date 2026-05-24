@@ -8,6 +8,65 @@ runtime_min: 100
 external_ids:
   wikidata: Q7733763
   imdb: tt0123368
+  youtube: Hlx3GXmeTgo
 sources:
 - https://www.wikidata.org/wiki/Q7733763
 schema_version: 1
+director:
+- brinikh-zbynek
+screenwriter:
+- brinikh-zbynek
+- koval-ota
+- belohradska-hana
+cinematographer:
+- kalish-yan
+composer:
+- sternwald-jiri
+cast:
+- person: adamira-irzhi
+- person: vinklarzh-yozef
+- person: ruzhichkova-gelena
+- person: yanzhurova-iva
+- person: pleskot-irzhi
+- person: vrstyala-irzhi
+- person: prakhar-ilya
+- person: potmeshil-ladislav
+- person: shaympflyug-olga
+- person: vrum-frederik
+- person: makhachek-miroslav
+- person: budinova-slavka
+- person: rzhanda-chestmir
+- person: prochazkova-zdenka
+- person: svobodova-eva
+- person: brezhkova-yana
+- person: pracharova-jana
+- person: mak-milan
+- person: musil-mirko
+- person: germala-roman
+- person: ostermann-jiri
+- person: myskova-alexandra
+- person: sadilek-jakub
+- person: matouskova-lida
+- person: sattler-otto
+- person: gubel-ivo
+- person: novacek-karel
+- person: smid-karel
+- person: preisslerova-ruzena
+- person: hodr-zdenek
+- person: hadl-tomas
+- person: q101096076
+- person: pejskova-helena
+- person: q101096082
+- person: freyova-anny
+- person: horankova-eva
+- person: hladikova-jirina
+- person: q112439685
+- person: vrana-arnost
+- person: rohanova-eva
+- person: koval-j
+- person: kronus-j
+- person: kohn-e
+- person: zara-m
+- person: sadilek-frantisek
+studio:
+- barrandov-film-studio

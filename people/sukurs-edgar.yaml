@@ -1,0 +1,9 @@
+id: sukurs-edgar
+name_ru: Эдгар Сукурс
+roles:
+- actor
+external_ids:
+  wikidata: Q16335664
+sources:
+- https://www.wikidata.org/wiki/Q16335664
+schema_version: 1

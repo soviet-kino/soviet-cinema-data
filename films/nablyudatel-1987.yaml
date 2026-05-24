@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20001383
 schema_version: 1
+director:
+- ikho-arvo
+screenwriter:
+- sheptunova-marina-igorevna
+cinematographer:
+- loginova-tatyana-dmitrievna
+composer:
+- sumera-lepo
+cast:
+- person: tormakhova-svetlana-dmitrievna
+- person: ruus-erik
+studio:
+- tallinfilm

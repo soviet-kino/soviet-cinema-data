@@ -8,6 +8,17 @@ runtime_min: 84
 external_ids:
   wikidata: Q18242049
   imdb: tt0207846
+  youtube: D45ZtD4DvCQ
 sources:
 - https://www.wikidata.org/wiki/Q18242049
 schema_version: 1
+director:
+- kosarev-aleksandr-borisovich
+screenwriter:
+- stukalov-oleg-nikolaevich
+composer:
+- rybnikov-aleksey
+cast:
+- person: korolkov-gennadiy-anatolevich
+studio:
+- mosfilm

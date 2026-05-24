@@ -1,0 +1,9 @@
+id: luts-teodor
+name_ru: Теодор Лутс
+roles:
+- director
+external_ids:
+  wikidata: Q450504
+sources:
+- https://www.wikidata.org/wiki/Q450504
+schema_version: 1

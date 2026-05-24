@@ -1,0 +1,9 @@
+id: konti-tom
+name_ru: Том Конти
+roles:
+- actor
+external_ids:
+  wikidata: Q241962
+sources:
+- https://www.wikidata.org/wiki/Q241962
+schema_version: 1

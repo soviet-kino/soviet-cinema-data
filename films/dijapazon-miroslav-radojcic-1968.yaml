@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184137
 schema_version: 1
+director:
+- samardzic-mirjana
+cast:
+- person: cvejic-branko
+- person: radojcic-miroslav

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65200474
 schema_version: 1
+director:
+- pchyolkin-leonid-aristarkhovich
+screenwriter:
+- salynskiy-afanasiy-dmitrievich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: chursina-lyudmila-alekseevna
+- person: kindinov-evgeniy-arsenevich
+studio:
+- ekran

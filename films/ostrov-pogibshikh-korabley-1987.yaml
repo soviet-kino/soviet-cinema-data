@@ -8,6 +8,23 @@ runtime_min: 138
 external_ids:
   wikidata: Q4338871
   imdb: tt0270151
+  youtube: PMFtNK3UTSM
 sources:
 - https://www.wikidata.org/wiki/Q4338871
 schema_version: 1
+director:
+- ginzburg-evgeniy-aleksandrovich
+screenwriter:
+- ginzburg-evgeniy-aleksandrovich
+- mamedov-rauf-firuddin-oglu
+cinematographer:
+- mironov-valeriy-andreevich
+composer:
+- basilaya-aleksandr-aleksandrovich
+cast:
+- person: noskov-nikolay-ivanovich
+- person: belogurova-larisa-vladimirovna
+- person: lavrov-nikolay-grigorevich
+- person: storpirshtis-arunas
+studio:
+- lenfilm

@@ -8,6 +8,17 @@ runtime_min: 83
 external_ids:
   wikidata: Q4091839
   imdb: tt0036657
+  youtube: 6_1-i1cNw9w
 sources:
 - https://www.wikidata.org/wiki/Q4091839
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cast:
+- person: batalov-aleksey-vladimirovich
+- person: bernes-mark-naumovich
+- person: makarova-tamara-fyodorovna
+studio:
+- mosfilm

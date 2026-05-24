@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16084952
 schema_version: 1
+director:
+- ravasi-slavoljub-stefanovic
+screenwriter:
+- dik-ferents
+cast:
+- person: stol-arandzhelovich
+- person: sablich-seka
+- person: felba-dragomir
+- person: kral-petar
+- person: zhutich-milosh
+studio:
+- radio-i-televidenie-serbii

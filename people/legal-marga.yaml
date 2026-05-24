@@ -1,0 +1,9 @@
+id: legal-marga
+name_ru: Марга Легаль
+roles:
+- actor
+external_ids:
+  wikidata: Q1894766
+sources:
+- https://www.wikidata.org/wiki/Q1894766
+schema_version: 1

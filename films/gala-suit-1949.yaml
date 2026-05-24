@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123582157
 schema_version: 1
+director:
+- gertler-viktor
+composer:
+- polgar-tibor
+cast:
+- person: darvash-ivan
+- person: benko-gyula

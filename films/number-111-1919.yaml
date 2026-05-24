@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7069482
 schema_version: 1
+director:
+- korda-aleksandr
+screenwriter:
+- vayda-ladislaus
+cinematographer:
+- eiben-istvan
+cast:
+- person: bartosh-dyula
+- person: korda-mariya
+- person: radzhnay-gabor
+- person: torzs-jeno
+- person: kertes-dezho
+studio:
+- corvin-film-studio

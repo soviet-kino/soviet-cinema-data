@@ -1,0 +1,9 @@
+id: corelli-ly
+name_ru: Ly Corelli
+roles:
+- actor
+external_ids:
+  wikidata: Q133768139
+sources:
+- https://www.wikidata.org/wiki/Q133768139
+schema_version: 1

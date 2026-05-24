@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27304494
 schema_version: 1
+director:
+- sipovac-gojko
+cast:
+- person: zhigon-stevo
+- person: yanketich-mikhaylo

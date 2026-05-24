@@ -1,0 +1,9 @@
+id: sabo-andrash
+name_ru: Андраш Сабо
+roles:
+- composer
+external_ids:
+  wikidata: Q1293377
+sources:
+- https://www.wikidata.org/wiki/Q1293377
+schema_version: 1

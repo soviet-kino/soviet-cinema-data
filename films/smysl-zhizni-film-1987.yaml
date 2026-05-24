@@ -8,6 +8,9 @@ runtime_min: 70
 external_ids:
   wikidata: Q120122918
   imdb: tt0300497
+  youtube: x5aaF05QyKE
 sources:
 - https://www.wikidata.org/wiki/Q120122918
 schema_version: 1
+studio:
+- uzbekfilm

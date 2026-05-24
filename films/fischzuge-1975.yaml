@@ -8,6 +8,11 @@ runtime_min: 154
 external_ids:
   wikidata: Q102216716
   imdb: tt0384958
+  youtube: Bh085n8pCU0
 sources:
 - https://www.wikidata.org/wiki/Q102216716
 schema_version: 1
+director:
+- stahnke-gunter
+cinematographer:
+- lents-yurgen

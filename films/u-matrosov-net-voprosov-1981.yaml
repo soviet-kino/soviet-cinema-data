@@ -8,6 +8,19 @@ runtime_min: 85
 external_ids:
   wikidata: Q4468252
   imdb: tt0081673
+  youtube: dbTzPVfLOpc
 sources:
 - https://www.wikidata.org/wiki/Q4468252
 schema_version: 1
+director:
+- rogovoy-vladimir-abramovich
+screenwriter:
+- inin-arkadiy
+cinematographer:
+- egorov-vyacheslav-konstantinovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: andreev-vadim-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

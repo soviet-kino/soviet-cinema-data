@@ -8,6 +8,19 @@ runtime_min: 96
 external_ids:
   wikidata: Q4441201
   imdb: tt0053136
+  youtube: VMydyRrVveE
 sources:
 - https://www.wikidata.org/wiki/Q4441201
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- volpin-mikhail-davydovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+cast:
+- person: skuratov-ivan-fyodorovich
+studio:
+- mosfilm

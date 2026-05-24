@@ -8,6 +8,71 @@ runtime_min: 87
 external_ids:
   wikidata: Q1985917
   imdb: tt0126985
+  youtube: kmyMb6ogo0s
 sources:
 - https://www.wikidata.org/wiki/Q1985917
 schema_version: 1
+director:
+- vorlichek-vatslav
+screenwriter:
+- matsourek-milosh
+- vorlichek-vatslav
+- danek-oldrzhikh
+cinematographer:
+- uldrikh-frantishek
+composer:
+- gavelka-svatopluk
+cast:
+- person: libicek-jan
+- person: ruzhichkova-gelena
+- person: simenek-otto
+- person: pleskot-irzhi
+- person: sovak-irzhi
+- person: kostelka-lyubomir
+- person: vavrushka-milosh
+- person: fialova-kveta
+- person: taub-valter
+- person: kotva-vaclav
+- person: kepka-yaroslav
+- person: chepek-petr
+- person: glinomaz-yozef
+- person: engel-karel
+- person: shmeral-vladimir
+- person: kreuzmannova-alena
+- person: sura-antonin
+- person: braunshleger-zdenek
+- person: hasek-vlastimil
+- person: husak-frantisek
+- person: talpova-hana
+- person: kacher-yan
+- person: lir-yirzhi
+- person: velen-oldrzhikh
+- person: zindulka-stanislav
+- person: skladal-svatopluk
+- person: tomsa-yaroslav
+- person: hoblik-oldrich
+- person: rademacher-otakar
+- person: cmiral-jaroslav
+- person: pospisil-vladimir
+- person: bezdek-karel
+- person: gubel-ivo
+- person: maresova-luda
+- person: sedlmayerova-yana
+- person: heyduk-jaroslav
+- person: pavlicek-eduard
+- person: talpova-zuzana
+- person: reimova-dana
+- person: cmiral-jan
+- person: blazek-zdenek-2
+- person: st-karel-hovorka
+- person: skalicky-zdenek
+- person: q131820038
+- person: weberova-jana
+- person: klinger-viktor
+- person: preclik-cestmir
+- person: tylinkova-isabella
+- person: prazak-antonin
+- person: bauerova-vera
+- person: sedlmayer-jiri
+studio:
+- barrandov

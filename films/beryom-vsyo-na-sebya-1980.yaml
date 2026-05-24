@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4085541
   imdb: tt0193004
+  youtube: NuvQI30FDHA
 sources:
 - https://www.wikidata.org/wiki/Q4085541
 schema_version: 1
+director:
+- sherstobitov-evgeniy-firsovich
+screenwriter:
+- sherstobitov-evgeniy-firsovich
+cinematographer:
+- chyornyy-mikhail-kirillovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

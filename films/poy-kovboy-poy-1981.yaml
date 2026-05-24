@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2288990
 schema_version: 1
+director:
+- rid-din
+screenwriter:
+- rid-din
+cinematographer:
+- khaynrikh-gans
+composer:
+- svoboda-karel
+cast:
+- person: rid-din
+- person: ruzhichkova-gelena
+- person: neckar-vaclav
+- person: andrey-violeta
+- person: darie-yurie
+- person: martens-elke
+- person: last-gertraud
+- person: ruzicka-jiri
+- person: zaybt-zigfrid
+- person: diestelmann-stefan
+- person: uider-teresiya

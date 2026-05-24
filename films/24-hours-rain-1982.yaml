@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12270461
 schema_version: 1
+director:
+- ikonomov-vladislav
+cast:
+- person: danailov-stefan
+- person: varayskiy-kiril
+- person: dimitrov-vasil
+- person: goranov-velyo
+- person: dzhambazov-ivan
+- person: dadov-nikola
+- person: mavrodiev-stefan

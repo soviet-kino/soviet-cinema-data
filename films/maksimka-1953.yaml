@@ -8,6 +8,28 @@ runtime_min: 78
 external_ids:
   wikidata: Q4276154
   imdb: tt0044891
+  youtube: FKy10hEgskY
 sources:
 - https://www.wikidata.org/wiki/Q4276154
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- koltunov-grigoriy
+cinematographer:
+- mishurin-aleksey-aleksandrovich
+composer:
+- gomolyaka-vadim-borisovich
+- shamo-igor
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: bernes-mark-naumovich
+- person: andreev-boris-fyodorovich
+- person: pugovkin-mikhail-ivanovich
+- person: kryuchkov-nikolay-afanasevich
+- person: sobolevskiy-pyotr-stanislavovich
+- person: kayukov-stepan-yakovlevich
+- person: astangov-mikhail-fyodorovich
+- person: bovykin-anatoliy
+studio:
+- kinostudiya-imeni-a-dovzhenko

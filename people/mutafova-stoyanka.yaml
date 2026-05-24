@@ -1,0 +1,9 @@
+id: mutafova-stoyanka
+name_ru: Стоянка Мутафова
+roles:
+- actor
+external_ids:
+  wikidata: Q7620742
+sources:
+- https://www.wikidata.org/wiki/Q7620742
+schema_version: 1

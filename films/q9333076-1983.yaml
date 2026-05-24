@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9333076
 schema_version: 1
+director:
+- fejzo-muharem
+screenwriter:
+- lako-natasha
+composer:
+- peci-aleksander
+cast:
+- person: pogace-aleksander
+- person: hyskja-demir
+- person: shkurti-stavri
+- person: asqeriu-bujar
+- person: dilo-vasil
+studio:
+- albfilm

@@ -1,0 +1,9 @@
+id: aznavur-sharl
+name_ru: Шарль Азнавур
+roles:
+- actor
+external_ids:
+  wikidata: Q1785
+sources:
+- https://www.wikidata.org/wiki/Q1785
+schema_version: 1

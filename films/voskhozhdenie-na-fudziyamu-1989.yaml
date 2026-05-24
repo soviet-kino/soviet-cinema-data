@@ -8,6 +8,17 @@ runtime_min: 130
 external_ids:
   wikidata: Q108800811
   imdb: tt0175309
+  youtube: aG3q20CTntM
 sources:
 - https://www.wikidata.org/wiki/Q108800811
 schema_version: 1
+director:
+- shamshiev-bolotbek
+screenwriter:
+- aytmatov-chingiz
+- shamshiev-bolotbek
+- mukhamedzhanov-kaltay-mukhamedzhanovich
+cinematographer:
+- aliev-murat-abduvalievich
+composer:
+- yanchenko-oleg-grigorevich

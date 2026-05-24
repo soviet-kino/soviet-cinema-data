@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4179350
 schema_version: 1
+director:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+screenwriter:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+cinematographer:
+- pogorelyy-anatoliy-ivanovich
+cast:
+- person: kayukov-stepan-yakovlevich
+- person: garin-erast-pavlovich
+studio:
+- lenfilm

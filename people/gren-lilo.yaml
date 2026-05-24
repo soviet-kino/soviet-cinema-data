@@ -1,0 +1,9 @@
+id: gren-lilo
+name_ru: Лило Грэн
+roles:
+- actor
+external_ids:
+  wikidata: Q1337948
+sources:
+- https://www.wikidata.org/wiki/Q1337948
+schema_version: 1

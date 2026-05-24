@@ -1,0 +1,9 @@
+id: probosh-adam
+name_ru: Адам Пробош
+roles:
+- actor
+external_ids:
+  wikidata: Q9140187
+sources:
+- https://www.wikidata.org/wiki/Q9140187
+schema_version: 1

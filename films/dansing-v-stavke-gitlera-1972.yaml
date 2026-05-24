@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9201184
 schema_version: 1
+director:
+- batory-yan
+screenwriter:
+- brycht-andrzej
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- kilyar-voytsekh
+cast:
+- person: wodecka-maja
+studio:
+- syrena-kinostudiya

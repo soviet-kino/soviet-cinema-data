@@ -1,0 +1,9 @@
+id: kvuk-bert
+name_ru: Берт Квук
+roles:
+- actor
+external_ids:
+  wikidata: Q725674
+sources:
+- https://www.wikidata.org/wiki/Q725674
+schema_version: 1

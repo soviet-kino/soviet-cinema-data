@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4230749
 schema_version: 1
+director:
+- lysenko-sergey-anatolevich
+screenwriter:
+- lysenko-sergey-anatolevich
+composer:
+- tsoy-viktor
+cast:
+- person: guryanov-georgiy-konstantinovich
+- person: tsoy-viktor
+- person: kasparyan-yuriy
+- person: tikhomirov-igor-ruvimovich
+studio:
+- kievskiy-natsionalnyy-universitet-teatra-kino-i-televideniya-imeni-i-k-karpenko-karogo

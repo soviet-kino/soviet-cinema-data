@@ -8,6 +8,25 @@ runtime_min: 88
 external_ids:
   wikidata: Q84994642
   imdb: tt0266691
+  youtube: DiAqh14oGLo
 sources:
 - https://www.wikidata.org/wiki/Q84994642
 schema_version: 1
+director:
+- stambula-nikolay-panteleevich
+screenwriter:
+- likhanov-albert-anatolevich
+composer:
+- shut-vladislav-alekseevich
+cast:
+- person: adomaytis-regimantas
+- person: antsans-romualds
+- person: garmash-sergey-leonidovich
+- person: bondarchuk-alyona-sergeevna
+- person: butyrtseva-nadezhda-viktorovna
+- person: drebnyova-lyudmila
+- person: uralskiy-viktor-vladimirovich
+- person: bespalyy-aleksandr-sergeevich
+- person: dyomina-galina-yakovlevna
+studio:
+- mosfilm

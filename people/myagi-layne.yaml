@@ -1,0 +1,9 @@
+id: myagi-layne
+name_ru: Лайне Мяги
+roles:
+- actor
+external_ids:
+  wikidata: Q12368237
+sources:
+- https://www.wikidata.org/wiki/Q12368237
+schema_version: 1

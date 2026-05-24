@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124364045
 schema_version: 1
+composer:
+- stupel-yuri
+cast:
+- person: mavrodiev-stefan
+- person: minkov-minko
+- person: chipriyanov-nikola
+studio:
+- bolgarskoe-natsionalnoe-televidenie

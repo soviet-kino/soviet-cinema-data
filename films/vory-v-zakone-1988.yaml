@@ -8,6 +8,24 @@ runtime_min: 95
 external_ids:
   wikidata: Q4126061
   imdb: tt0094280
+  youtube: yfu9w-fD_cQ
 sources:
 - https://www.wikidata.org/wiki/Q4126061
 schema_version: 1
+director:
+- kara-yuriy
+composer:
+- shchedrin-rodion-konstantinovich
+cast:
+- person: samokhina-anna
+- person: gaft-valentin-iosifovich
+- person: akopyan-amayak
+- person: gerdt-zinoviy-efimovich
+- person: kaznacheeva-natalya
+- person: litsitis-arnis
+- person: shcherbakov-boris-vasilevich
+- person: novikov-vladimir-vasilevich
+- person: steklov-vladimir-aleksandrovich
+- person: silkin-sergey-yurevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -10,3 +10,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9357716
 schema_version: 1
+director:
+- ber-rishard
+screenwriter:
+- ber-rishard
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- szostak-zdzis-aw
+cast:
+- person: vishnevskaya-eva
+- person: kryshak-ezhi
+- person: bista-khenrik
+- person: adamek-bozhena
+- person: voyt-mechislav
+- person: zalivskiy-tomash
+- person: pavlik-bronislav
+- person: antczak-bogumi
+- person: krzyzanowska-bozena
+- person: kvyatkovska-dorota
+- person: teodorchik-tadeush
+- person: dedek-tomash
+- person: komasa-wies-aw
+- person: dewoyno-w-adys-aw
+- person: vardeyn-zdzislav
+- person: galinski-andzhey
+- person: opuszniak-jan
+- person: goraj-maciej
+- person: garlitskiy-pyotr
+- person: grabovskiy-pyotr
+studio:
+- silesia-kinostudiya

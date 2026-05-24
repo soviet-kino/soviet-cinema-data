@@ -8,6 +8,34 @@ runtime_min: 137
 external_ids:
   wikidata: Q97164509
   imdb: tt2581136
+  youtube: CQnFe9Ga_QA
 sources:
 - https://www.wikidata.org/wiki/Q97164509
 schema_version: 1
+director:
+- lyubshin-stanislav-andreevich
+- dolinin-dmitriy
+screenwriter:
+- aleksandrov-aleksandr-leonardovich
+cinematographer:
+- mikhail-leonidovich-agranovich
+composer:
+- artemyev-eduard
+cast:
+- person: freyndlikh-alisa
+- person: lyubshin-stanislav-andreevich
+- person: savvina-iya-sergeevna
+- person: yakovlev-yuriy-vasilevich
+- person: gaft-valentin-iosifovich
+- person: filozov-albert-leonidovich
+- person: pastukhov-nikolay-isaakovich
+- person: bykadorov-evgeniy-ivanovich
+- person: gorlov-nikolay
+- person: nemolyaeva-anastasiya-nikolaevna
+- person: nosik-vladimir
+- person: plotnikov-sergey-nikolaevich
+- person: smirnova-svetlana-stanislavovna
+- person: khitrov-stanislav-nikolaevich
+- person: bezyaev-igor-ivanovich
+studio:
+- mosfilm

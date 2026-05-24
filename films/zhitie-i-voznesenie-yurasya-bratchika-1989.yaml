@@ -8,6 +8,30 @@ runtime_min: 82
 external_ids:
   wikidata: Q4180637
   imdb: tt0258330
+  youtube: OilyMgbYIgQ
 sources:
 - https://www.wikidata.org/wiki/Q4180637
 schema_version: 1
+director:
+- bychkov-vladimir
+- skvortsov-sergey-konstantinovich
+screenwriter:
+- vladimir-semyonovich-korotkevich
+cinematographer:
+- zabolotskiy-anatoliy-dmitrievich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: banionis-donatas-yuozovich
+- person: smirnov-aleksey-makarovich
+- person: durov-lev-konstantinovich
+- person: brovkin-vyacheslav-vladimirovich
+- person: vasilev-vladimir-vasilevich
+- person: kruglyy-lev-borisovich
+- person: rutberg-ilya-grigorevich
+- person: stolbov-anatoliy-mikhaylovich
+- person: rumyantseva-lyubov-grigorevna
+- person: kormunin-pavel-vasilevich
+- person: shmyryov-rostislav-minaevich
+studio:
+- belarusfilm

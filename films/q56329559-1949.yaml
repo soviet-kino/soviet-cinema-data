@@ -6,6 +6,15 @@ country:
 - PL
 external_ids:
   wikidata: Q56329559
+  youtube: -HGXv0H6b8o
 sources:
 - https://www.wikidata.org/wiki/Q56329559
 schema_version: 1
+director:
+- wasilewski-zenon
+screenwriter:
+- wasilewski-zenon
+composer:
+- harald-jerzy
+studio:
+- se-ma-for

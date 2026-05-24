@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11162723
 schema_version: 1
+director:
+- skrygin-zhorzh
+cast:
+- person: vuisich-pavle

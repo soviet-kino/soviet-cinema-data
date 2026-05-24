@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9142883
 schema_version: 1
+composer:
+- kazanetskiy-valdemar

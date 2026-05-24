@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7686825
 schema_version: 1
+director:
+- kyortis-maykl
+screenwriter:
+- kyortis-maykl
+- bakoni-karoy
+composer:
+- kalman-imre
+cast:
+- person: hollay-camilla-von

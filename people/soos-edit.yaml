@@ -1,0 +1,9 @@
+id: soos-edit
+name_ru: Эдит Соос
+roles:
+- actor
+external_ids:
+  wikidata: Q605871
+sources:
+- https://www.wikidata.org/wiki/Q605871
+schema_version: 1

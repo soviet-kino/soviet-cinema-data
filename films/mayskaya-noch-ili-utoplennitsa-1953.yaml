@@ -8,6 +8,20 @@ runtime_min: 61
 external_ids:
   wikidata: Q1180706
   imdb: tt0046056
+  youtube: tEGQnoVFz50
 sources:
 - https://www.wikidata.org/wiki/Q1180706
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- isaev-konstantin-fyodorovich
+cinematographer:
+- egiazarov-gavriil-georgievich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: konyukhova-tatyana
+- person: yudina-liliya-vitalevna
+studio:
+- kinostudiya-imeni-m-gorkogo

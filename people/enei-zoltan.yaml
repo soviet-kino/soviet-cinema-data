@@ -1,0 +1,9 @@
+id: enei-zoltan
+name_ru: Золтан Енеи
+roles:
+- composer
+external_ids:
+  wikidata: Q897065
+sources:
+- https://www.wikidata.org/wiki/Q897065
+schema_version: 1

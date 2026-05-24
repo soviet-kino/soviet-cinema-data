@@ -8,6 +8,29 @@ runtime_min: 94
 external_ids:
   wikidata: Q4155647
   imdb: tt0097249
+  youtube: fr-KJOymhAQ
 sources:
 - https://www.wikidata.org/wiki/Q4155647
 schema_version: 1
+director:
+- surikova-alla-ilinichna
+screenwriter:
+- volodin-aleksandr-moiseevich
+composer:
+- gladkov-gennadiy
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: shakurov-sergey-kayumovich
+- person: karachentsov-nikolay
+- person: kabo-olga-igorevna
+- person: sadalskiy-stanislav-yurevich
+- person: anofriev-oleg-andreevich
+- person: gundareva-natalya-georgievna
+- person: vinogradova-mariya-sergeevna
+- person: ivanov-aleksandr-aleksandrovich
+- person: kuznetsov-aleksandr-konstantinovich
+- person: maslova-nina-konstantinovna
+- person: nosik-vladimir
+- person: yarmolnik-leonid-isaakovich
+studio:
+- mosfilm

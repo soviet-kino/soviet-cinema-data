@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20513157
 schema_version: 1
+screenwriter:
+- ayrapetyan-boris-aleksandrovich
+composer:
+- mansuryan-tigran
+cast:
+- person: khostikyan-armen-isaakovich
+- person: sherents-azat-armenakovich
+- person: alaverdyan-genrikh
+studio:
+- armenfilm

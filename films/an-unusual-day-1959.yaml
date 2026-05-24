@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1305730
 schema_version: 1
+director:
+- bergmann-barbl
+screenwriter:
+- bergmann-barbl
+cinematographer:
+- anders-ervin
+composer:
+- vertslau-yoakhim
+cast:
+- person: mets-katarina
+- person: dahn-daniela
+- person: fu-walter-e
+- person: draehn-heinz
+- person: buder-horst
+- person: kube-khorst
+- person: korner-ostara
+studio:
+- defa

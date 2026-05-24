@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28667798
 schema_version: 1
+director:
+- dubson-mikhail-iosifovich
+- gakkel-karl-alfredovich
+screenwriter:
+- dubson-mikhail-iosifovich
+- garri-aleksey-nikolaevich
+cinematographer:
+- rapoport-vladimir
+composer:
+- zhelobinskiy-valeriy-viktorovich
+cast:
+- person: babochkin-boris-andreevich
+- person: fyodorova-zoya-alekseevna
+- person: altus-efim-grigorevich
+- person: apsolon-andrey-nikolaevich
+- person: blinov-boris-vladimirovich
+studio:
+- lenfilm

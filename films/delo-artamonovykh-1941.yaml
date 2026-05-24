@@ -8,6 +8,24 @@ runtime_min: 94
 external_ids:
   wikidata: Q4157120
   imdb: tt0033522
+  youtube: hV67vwAk6vs
 sources:
 - https://www.wikidata.org/wiki/Q4157120
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+screenwriter:
+- ermolinskiy-sergey-aleksandrovich
+cinematographer:
+- kosmatov-leonid
+composer:
+- koval-marian-viktorovich
+cast:
+- person: orlova-lyubov
+- person: maretskaya-vera-petrovna
+- person: pugovkin-mikhail-ivanovich
+- person: derzhavin-mikhail-stepanovich
+- person: romodanov-sergey-dmitrievich
+studio:
+- mosfilm
+poster_commons: Balashov Delo Artamonovyh.jpg

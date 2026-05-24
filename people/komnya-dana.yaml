@@ -1,0 +1,9 @@
+id: komnya-dana
+name_ru: Дана Комня
+roles:
+- actor
+external_ids:
+  wikidata: Q12726373
+sources:
+- https://www.wikidata.org/wiki/Q12726373
+schema_version: 1

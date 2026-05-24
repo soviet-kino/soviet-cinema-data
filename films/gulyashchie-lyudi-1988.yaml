@@ -7,6 +7,31 @@ country:
 external_ids:
   wikidata: Q4152000
   imdb: tt0235447
+  youtube: cFA75y73bac
 sources:
 - https://www.wikidata.org/wiki/Q4152000
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+screenwriter:
+- poteykin-viktor-vasilevich
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: lapikov-ivan-gerasimovich
+- person: butenko-vyacheslav-mikhaylovich
+- person: drobysheva-elena
+- person: ivanov-pavel-ivanovich
+- person: kazakov-aleksandr-ivanovich
+- person: martynov-andrey-leonidovich
+- person: naryshkina-zinaida-mikhaylovna
+- person: nevzorov-boris
+- person: parra-aleksandr-vladimirovich
+- person: starchikov-stepan-sergeevich
+- person: fedotova-valentina-aleksandrovna
+- person: filippenko-aleksandr-georgievich
+- person: tsyvina-irina-konstantinovna
+- person: kosukhin-igor-yakovlevich
+- person: dolzhenkov-valeriy-mikhaylovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: ott-edgar
+name_ru: Эдгар Отт
+roles:
+- actor
+external_ids:
+  wikidata: Q1284078
+sources:
+- https://www.wikidata.org/wiki/Q1284078
+schema_version: 1

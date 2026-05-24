@@ -1,0 +1,9 @@
+id: cintula
+name_ru: Cintula
+roles:
+- actor
+external_ids:
+  wikidata: Q31091291
+sources:
+- https://www.wikidata.org/wiki/Q31091291
+schema_version: 1

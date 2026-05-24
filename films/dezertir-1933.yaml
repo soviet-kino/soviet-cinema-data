@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1192878
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+screenwriter:
+- agadzhanyan-nina
+- lazebnikov-aleksandr-efimovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+- fogelman-yuliy-moiseevich
+composer:
+- shaporin-yuriy-aleksandrovich
+cast:
+- person: gerasimov-sergey
+- person: makarova-tamara-fyodorovna
+- person: livanov-boris-nikolaevich
+- person: chistyakov-aleksandr-petrovich
+- person: komarov-sergey-petrovich
+- person: gurnyak-karl-adamovich
+studio:
+- mezhrabpomfilm
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Streikbrechers Pudovkin 1933,.jpg

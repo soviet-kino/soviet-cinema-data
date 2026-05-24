@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q60826034
   imdb: tt2111429
+  youtube: ccZdPSJ8lr4
 sources:
 - https://www.wikidata.org/wiki/Q60826034
 schema_version: 1
+director:
+- zaseev-rudenko-nikolay-viktorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

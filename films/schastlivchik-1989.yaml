@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q19799670
   imdb: tt0193484
+  youtube: BceK9FYZkGo
 sources:
 - https://www.wikidata.org/wiki/Q19799670
 schema_version: 1
+director:
+- mishatkin-valentin-ivanovich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: safonova-elena
+- person: lazarev-evgeniy-nikolaevich
+- person: stotskiy-nikolay-viktorovich
+studio:
+- mosfilm

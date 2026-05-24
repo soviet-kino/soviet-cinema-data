@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1601646
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+cinematographer:
+- kaplan-mikhail-grigorevich
+composer:
+- zhelobinskiy-valeriy-viktorovich
+cast:
+- person: simonov-nikolay-konstantinovich
+studio:
+- lenfilm

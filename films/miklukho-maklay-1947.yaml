@@ -8,6 +8,21 @@ runtime_min: 90
 external_ids:
   wikidata: Q4293071
   imdb: tt0040972
+  youtube: ROmmeVdnCMc
 sources:
 - https://www.wikidata.org/wiki/Q4293071
 schema_version: 1
+director:
+- razumnyy-aleksandr
+screenwriter:
+- volkenshteyn-vladimir-mikhaylovich
+- speshnev-aleksey-vladimirovich
+cinematographer:
+- petrov-boris-aleksandrovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: kurilov-sergey-ivanovich
+- person: grigoreva-galina-konstantinovna
+studio:
+- tsentrnauchfilm

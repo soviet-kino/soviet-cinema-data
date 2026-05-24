@@ -8,6 +8,24 @@ runtime_min: 67
 external_ids:
   wikidata: Q4377833
   imdb: tt0020293
+  youtube: ugZxMcMvN4A
 sources:
 - https://www.wikidata.org/wiki/Q4377833
 schema_version: 1
+director:
+- room-abram-matveevich
+screenwriter:
+- barbyus-anri
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- shenshin-aleksandr-alekseevich
+cast:
+- person: shtraukh-maksim-maksimovich
+- person: zhizneva-olga-andreevna
+- person: ferdinandov-boris-alekseevich
+- person: kara-dmitriev-dmitriy-lazarevich
+- person: gurnyak-karl-adamovich
+studio:
+- sovkino
+poster_commons: Привидениекотороеневозвращается.png

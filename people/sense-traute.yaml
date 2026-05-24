@@ -1,0 +1,9 @@
+id: sense-traute
+name_ru: Traute Sense
+roles:
+- actor
+external_ids:
+  wikidata: Q2450487
+sources:
+- https://www.wikidata.org/wiki/Q2450487
+schema_version: 1

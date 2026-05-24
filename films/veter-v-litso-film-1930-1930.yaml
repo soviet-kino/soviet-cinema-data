@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109958
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+- kheyfits-iosif-efimovich
+screenwriter:
+- berkhin-iosif-moiseevich
+cinematographer:
+- kaplan-mikhail-grigorevich
+cast:
+- person: zhakov-oleg-petrovich
+- person: melnikov-aleksandr-afanasevich
+studio:
+- lenfilm

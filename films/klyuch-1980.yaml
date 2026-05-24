@@ -8,6 +8,18 @@ runtime_min: 134
 external_ids:
   wikidata: Q4224361
   imdb: tt0230420
+  youtube: Tk9i_hY9NxA
 sources:
 - https://www.wikidata.org/wiki/Q4224361
 schema_version: 1
+director:
+- korenev-aleksey-aleksandrovich
+screenwriter:
+- levashov-viktor-vladimirovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: tsyplakova-elena-oktyabrevna
+- person: izotov-vladimir
+studio:
+- ekran

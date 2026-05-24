@@ -8,6 +8,20 @@ runtime_min: 74
 external_ids:
   wikidata: Q1902167
   imdb: tt0154920
+  youtube: mB2DegVrtZk
 sources:
 - https://www.wikidata.org/wiki/Q1902167
 schema_version: 1
+director:
+- birman-naum-borisovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+cast:
+- person: dal-oleg-ivanovich
+- person: birman-boris-naumovich
+- person: malinovskaya-lyubov-ivanovna
+- person: kuznetsova-olga-olegovna
+studio:
+- lenfilm

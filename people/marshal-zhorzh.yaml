@@ -1,0 +1,9 @@
+id: marshal-zhorzh
+name_ru: Жорж Маршаль
+roles:
+- actor
+external_ids:
+  wikidata: Q722421
+sources:
+- https://www.wikidata.org/wiki/Q722421
+schema_version: 1

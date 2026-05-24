@@ -1,0 +1,9 @@
+id: bot-bela
+name_ru: Бела Бот
+roles:
+- actor
+external_ids:
+  wikidata: Q848434
+sources:
+- https://www.wikidata.org/wiki/Q848434
+schema_version: 1

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4299854
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+screenwriter:
+- aksyonov-vasiliy-pavlovich
+- ancharov-mikhail
+cast:
+- person: zelyonaya-rina
+- person: mironov-andrey
+- person: efremov-oleg-nikolaevich
+- person: zbruev-aleksandr-viktorovich
+- person: dal-oleg-ivanovich
+- person: marchenko-lyudmila-vasilevna
+- person: kruusement-arvo
+studio:
+- mosfilm

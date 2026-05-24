@@ -8,6 +8,16 @@ runtime_min: 17
 external_ids:
   wikidata: Q4363939
   imdb: tt1291069
+  youtube: QmEqz4iCMSA
 sources:
 - https://www.wikidata.org/wiki/Q4363939
 schema_version: 1
+director:
+- bardin-garri-yakovlevich
+- peskov-vitaliy-viktorovich
+screenwriter:
+- entin-yuriy-sergeevich
+composer:
+- dunaevskiy-maksim-isaakovich
+studio:
+- ekran

@@ -8,6 +8,31 @@ runtime_min: 93
 external_ids:
   wikidata: Q4338883
   imdb: tt0029356
+  youtube: 82wCUj3lB3A
 sources:
 - https://www.wikidata.org/wiki/Q4338883
 schema_version: 1
+director:
+- vaynshtok-vladimir-petrovich
+screenwriter:
+- vaynshtok-vladimir-petrovich
+- leonidov-oleg-leonidovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: tsaryov-mikhail-ivanovich
+- person: martinson-sergey-aleksandrovich
+- person: abdulov-osip-naumovich
+- person: abdurakhmanov-osman
+- person: biy-brodskiy-iona-abramovich
+- person: galadzhev-pyotr-stepanovich
+- person: ershov-vladimir-lvovich
+- person: klimov-mikhail-mikhaylovich
+- person: michurin-nikolay-ivanovich
+- person: pugachyova-kapitolina-vasilevna
+- person: bykov-anatoliy-vladimirovich
+studio:
+- soyuzdetfilm

@@ -1,0 +1,9 @@
+id: rl-aya
+name_ru: Aya RL
+roles:
+- composer
+external_ids:
+  wikidata: Q9163123
+sources:
+- https://www.wikidata.org/wiki/Q9163123
+schema_version: 1

@@ -1,0 +1,9 @@
+id: kollar-bela-2
+name_ru: Бела Коллар
+roles:
+- actor
+external_ids:
+  wikidata: Q28359145
+sources:
+- https://www.wikidata.org/wiki/Q28359145
+schema_version: 1

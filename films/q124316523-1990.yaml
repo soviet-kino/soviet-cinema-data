@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124316523
 schema_version: 1
+screenwriter:
+- denev-mladen
+composer:
+- zhelev-dimitur
+cast:
+- person: yanchev-ivan
+- person: chukova-katya
+studio:
+- bolgarskoe-natsionalnoe-televidenie

@@ -11,3 +11,40 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q138763026
 schema_version: 1
+director:
+- bellag-lotar
+screenwriter:
+- bohm-rudolf
+cinematographer:
+- plintsner-karl
+- hardt-horst
+composer:
+- pich-volfgang
+cast:
+- person: dissel-verner
+- person: tate-khilmar
+- person: shal-ekkekhard
+- person: gyoring-khelga
+- person: naumann-gyunter
+- person: volf-gerri
+- person: delmare-fred
+- person: mellis-eberkhard
+- person: lucke-hans
+- person: myuller-erika
+- person: khanish-khans-ioakhim
+- person: szekely-kati
+- person: distelmann-yokhen
+- person: rimann-luts
+- person: kilian-zigfrid
+- person: weisgerber-thomas
+- person: khetterle-albert
+- person: viehmann-franz
+- person: hiesgen-hermann
+- person: gaysler-egon
+- person: sasse-wolfgang
+- person: lindenberg-brigitta
+- person: bernhardt-max
+- person: maikowski-hans
+- person: riemann-brigitte
+studio:
+- defa

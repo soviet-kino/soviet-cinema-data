@@ -1,0 +1,9 @@
+id: feigenbaum-bill
+name_ru: Bill Feigenbaum
+roles:
+- director
+external_ids:
+  wikidata: Q113254819
+sources:
+- https://www.wikidata.org/wiki/Q113254819
+schema_version: 1

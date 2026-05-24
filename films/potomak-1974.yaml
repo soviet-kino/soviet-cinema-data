@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187390
 schema_version: 1
+director:
+- goran-paskalevich
+cast:
+- person: velimir-bata-zhivoinovich
+- person: vuisich-pavle

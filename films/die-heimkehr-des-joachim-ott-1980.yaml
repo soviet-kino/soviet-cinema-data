@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q87916282
 schema_version: 1
+director:
+- kaufmann-edgar
+cinematographer:
+- zore-rolf
+composer:
+- pauli-werner

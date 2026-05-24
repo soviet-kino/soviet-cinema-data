@@ -16,3 +16,7 @@ composer:
 - veevo-lembit
 studio:
 - tallinfilm
+cast:
+- person: peep-khelend
+- person: laur-khugo
+- person: karm-kaarel

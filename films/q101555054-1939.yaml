@@ -8,6 +8,23 @@ runtime_min: 85
 external_ids:
   wikidata: Q101555054
   imdb: tt0232898
+  youtube: 5yx4d32hdhk
 sources:
 - https://www.wikidata.org/wiki/Q101555054
 schema_version: 1
+director:
+- burian-emil
+screenwriter:
+- burian-emil
+cinematographer:
+- rot-yan
+composer:
+- burian-emil
+cast:
+- person: grushinskiy-rudolf
+- person: skrbkova-lola
+- person: podlipny-zdenek
+- person: stranska-jirina
+- person: bechynova-jarmila
+- person: podlipna-zdenka
+- person: machnikova-pavla

@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16400677
 schema_version: 1
+director:
+- melkonyan-gennadiy
+screenwriter:
+- akopov-eduard-tigranovich
+cast:
+- person: pogosyan-mikael
+- person: khostikyan-armen-isaakovich
+- person: sharafyan-levon
+- person: sarkisov-leonard-sarkisovich
+- person: abalyan-nina
+- person: petrosyan-nonna
+- person: stepanyan-vigen
+- person: alaverdyan-genrikh
+- person: amiryan-yuriy
+- person: gukasyan-anait
+- person: dzhandzhugazyan-karine
+studio:
+- armenfilm

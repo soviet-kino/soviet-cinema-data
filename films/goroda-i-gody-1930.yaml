@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21638184
 schema_version: 1
+director:
+- chervyakov-evgeniy-veniaminovich
+screenwriter:
+- chervyakov-evgeniy-veniaminovich
+- zarkhi-natan-abramovich
+cinematographer:
+- sigaev-aleksandr-ivanovich
+- belyaev-svyatoslav-aleksandrovich
+composer:
+- astradantsev-dmitriy-borisovich
+cast:
+- person: gyotske-bernkhard
+- person: magarill-sofya-zinovevna
+- person: michurin-gennadiy-mikhaylovich
+- person: chuvelyov-ivan-pavlovich
+studio:
+- lenfilm

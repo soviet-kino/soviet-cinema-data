@@ -1,0 +1,9 @@
+id: zeman-borzhivoy
+name_ru: Борживой Земан
+roles:
+- director
+external_ids:
+  wikidata: Q11239925
+sources:
+- https://www.wikidata.org/wiki/Q11239925
+schema_version: 1

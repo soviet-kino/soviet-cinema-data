@@ -1,0 +1,8 @@
+id: film-polski
+name_ru: Фильм Польски
+country: PL
+external_ids:
+  wikidata: Q19309961
+sources:
+- https://www.wikidata.org/wiki/Q19309961
+schema_version: 1

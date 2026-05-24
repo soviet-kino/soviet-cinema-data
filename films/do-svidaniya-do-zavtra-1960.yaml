@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q759342
 schema_version: 1
+director:
+- morgenshtern-yanush
+screenwriter:
+- cybulski-zbigniew
+- kobelya-bogumil
+- makh-vilgelm
+cinematographer:
+- laskowski-jan
+composer:
+- komeda-kshishtof
+cast:
+- person: polanski-roman
+- person: yatsek-fedorovich
+- person: cybulski-zbigniew
+- person: komeda-kshishtof
+- person: pavlikovskiy-adam
+- person: voytich-tadeush
+- person: tushinskaya-tereza
+- person: kovalskiy-vladislav
+- person: waskowski-mieczys-aw
+studio:
+- studio-filmowe-kadr

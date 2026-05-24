@@ -8,6 +8,13 @@ runtime_min: 83
 external_ids:
   wikidata: Q16355048
   imdb: tt0266491
+  youtube: 4fvTYykV1js
 sources:
 - https://www.wikidata.org/wiki/Q16355048
 schema_version: 1
+director:
+- piks-rikhard
+composer:
+- brauns-martinsh
+studio:
+- rizhskaya-kinostudiya

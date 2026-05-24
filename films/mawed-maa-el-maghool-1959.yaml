@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16119776
 schema_version: 1
+director:
+- salem-atef
+cinematographer:
+- orfanelli-alvise
+cast:
+- person: dzhamal-samiya

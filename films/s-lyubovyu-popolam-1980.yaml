@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q12292780
   imdb: tt0355976
+  youtube: j1BEsecLYwg
 sources:
 - https://www.wikidata.org/wiki/Q12292780
 schema_version: 1
+director:
+- mikaelyan-sergey
+cast:
+- person: kynev-velko
+- person: rusev-georgi
+- person: gudev-stoyan
+- person: simeonov-bogomil
+- person: gyurov-petar
+studio:
+- mosfilm
+- nyu-boyana-film-studios

@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q10705209
 schema_version: 1
+director:
+- kezdi-kovacs-zsolt
+cast:
+- person: bordan-iren

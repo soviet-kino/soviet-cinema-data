@@ -1,0 +1,9 @@
+id: pravda-dzhordzh
+name_ru: Джордж Правда
+roles:
+- actor
+external_ids:
+  wikidata: Q1508089
+sources:
+- https://www.wikidata.org/wiki/Q1508089
+schema_version: 1

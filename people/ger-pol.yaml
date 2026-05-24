@@ -1,0 +1,9 @@
+id: ger-pol
+name_ru: Поль Гер
+roles:
+- actor
+external_ids:
+  wikidata: Q2059885
+sources:
+- https://www.wikidata.org/wiki/Q2059885
+schema_version: 1

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q54990
 schema_version: 1
+director:
+- khentsinskiy-silvestr
+screenwriter:
+- mulyarchuk-andzhey
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- kilyar-voytsekh
+cast:
+- person: karchevskiy-zdzislav
+- person: khancha-vladislav
+- person: kovalskiy-vatslav
+- person: belyavskiy-zygmunt
+- person: buyno-oza-halina
+- person: kusmerskaya-ilona
+- person: yanechek-ezhi
+- person: zbyszewska-maria
+- person: szymanska-natalia
+studio:
+- wroclaw-feature-film-studio
+poster_commons: POL Wacław Kowalski Władysław Hańcza.jpg

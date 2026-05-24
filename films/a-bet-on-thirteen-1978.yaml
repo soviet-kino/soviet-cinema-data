@@ -11,3 +11,50 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q134592470
 schema_version: 1
+director:
+- kleyn-dushan
+screenwriter:
+- kyorner-vladimir
+- kleyn-dushan
+- winter-antonin
+- kop-karel
+cinematographer:
+- barla-andrej
+composer:
+- marat-zdenek
+cast:
+- person: rehor-zdenek
+- person: grushinskiy-rudolf
+- person: polochek-bronislav
+- person: kostelka-lyubomir
+- person: ris-milan
+- person: eben-marek
+- person: augusta-karel
+- person: satoranskiy-yaroslav
+- person: khess-zdenek
+- person: ciganova-zuzana
+- person: shmida-bogumil
+- person: pribil-rene
+- person: maurer-viktor
+- person: kotrbova-yorga
+- person: stehlik-milan
+- person: stehlik-miloslav
+- person: noginek-miroslav
+- person: blaskovic-dusan
+- person: yakl-petr
+- person: jiras-pavel
+- person: pospisil-vladimir
+- person: flicek-jiri
+- person: urbanek-karel
+- person: kopal-zdenek
+- person: budin-otto
+- person: kotva-jan
+- person: martinkova-martsela
+- person: cmiral-jan
+- person: svoboda-mila
+- person: sindler-miloslav
+- person: q101210279
+- person: prochazka-bohumir
+- person: pesan-miroslav
+studio:
+- barrandov-film-studio

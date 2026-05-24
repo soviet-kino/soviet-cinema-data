@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5876416
 schema_version: 1
+director:
+- vangenkhaym-gustav-fon
+cinematographer:
+- ro-kopf-walter
+composer:
+- mayer-ernst-german
+cast:
+- person: vintershtayn-eduard-fon
+- person: tilman-frits
+- person: treff-elis
+- person: paulsen-arno
+- person: monje-axel
+- person: firmans-lotar
+- person: khindemit-kharri
+- person: vangenkhaym-inga-fon
+studio:
+- defa

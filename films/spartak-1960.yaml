@@ -2,20 +2,121 @@ id: spartak-1960
 title_ru: Спартак
 title_original: Spartacus
 year: 1960
-country: [US]
+country:
+- US
 runtime_min: 197
-genre: [drama, historical]
-topics: [foreign-in-soviet-distribution]
+genre:
+- drama
+- historical
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1967
   title_ru: Спартак
   dubbed: true
-  notes: >
-    Прокат был приурочен к 50-летию Октябрьской революции. Тема
-    восстания рабов трактовалась идеологически удобно; цензура убрала
-    несколько фрагментов.
+  notes: 'Прокат был приурочен к 50-летию Октябрьской революции. Тема восстания рабов
+    трактовалась идеологически удобно; цензура убрала несколько фрагментов.
+
+    '
 external_ids:
   wikidata: Q108297
+  youtube: T0Va8AgPS4k
+  imdb: tt0054331
 sources:
-  - https://www.wikidata.org/wiki/Q108297
+- https://www.wikidata.org/wiki/Q108297
 schema_version: 1
+director:
+- kubrik-stenli
+screenwriter:
+- ustinov-piter
+- trambo-dalton
+- fast-govard-melvin
+- uillingem-kolder
+cinematographer:
+- stayn-klifford
+- metti-rassell
+composer:
+- nort-aleks
+cast:
+- person: raisch-bill
+- person: uilki-robert-dzh
+- person: olive-lorens
+- person: louton-charlz
+- person: ustinov-piter
+- person: duglas-kirk
+- person: simmons-dzhin
+- person: gevin-dzhon
+- person: kyortis-toni
+- person: lom-gerbert
+- person: fokh-nina
+- person: kennedi-dzhordzh
+- person: farnsuort-richard
+- person: kheyuort-uinton
+- person: kharris-bred
+- person: makgrou-charlz
+- person: dennis-nik
+- person: ayrlend-dzhon
+- person: ted-de-korsiya
+- person: endzhel-roy
+- person: stroud-vudi
+- person: kinkeyd-aron
+- person: batanides-artur
+- person: mitchell-gordon
+- person: fuller-robert
+- person: kherron-bob
+- person: stil-tom
+- person: khorn-baddi-van
+- person: loftin-keri
+- person: parker-eddi
+- person: doll-dzhon
+- person: brokko-piter
+- person: stoun-kharold
+- person: khoyt-dzhon
+- person: khoy-robert-f
+- person: rouz-uolli
+- person: perkins-dzhek
+- person: morgan-bob
+- person: yang-karlton
+- person: kortni-chak
+- person: roberson-chak
+- person: uorlok-frederik
+- person: gudvin-garold
+- person: stefenson-dzhon
+- person: beksli-pol
+- person: perrin-vik
+- person: griffit-dzheyms
+- person: karmaykl-al
+- person: kharford-betti
+- person: morgan-boyd-red
+- person: khill-khellen
+- person: kheyuord-chak
+- person: layons-kliff
+- person: gold-dzho
+- person: sikel-deyl-van
+- person: lammis-deyton
+- person: krokett-dik
+- person: robotem-dzhordzh
+- person: perkins-dzhil
+- person: kryuger-stabbi
+- person: koszewski-irvin
+- person: uilyams-dzhek
+- person: dunkan-dzhonni
+- person: terrell-ken
+- person: tor-larri
+- person: penn-leonard
+- person: lambert-pol
+- person: bukich-rudi
+- person: gorss-sol
+- person: marni-terens-de
+- person: barns-dzhoenna
+- person: vergov-yulian
+- person: khorvat-charlz
+- person: ketching-bill
+- person: uayt-uill-dzh
+- person: barns-pol-e
+- person: sonders-rassell
+- person: kanutt-tep
+- person: yokhim-entoni
+studio:
+- bryna-productions
+poster_commons: Spartacus - 1960 - poster.png

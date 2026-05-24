@@ -8,6 +8,24 @@ runtime_min: 83
 external_ids:
   wikidata: Q4181546
   imdb: tt0042959
+  youtube: qHU6WrAPEJA
 sources:
 - https://www.wikidata.org/wiki/Q4181546
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- vasilev-dmitriy-ivanovich
+screenwriter:
+- granberg-anatoliy-semyonovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+- lobova-tamara-grigorevna
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: druzhnikov-vladimir-vasilevich
+- person: plyatt-rostislav-yanovich
+- person: belokurov-vladimir-vyacheslavovich
+- person: ilich-yurovskiy-yuriy
+studio:
+- mosfilm

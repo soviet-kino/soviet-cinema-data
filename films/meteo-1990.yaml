@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23672491
 schema_version: 1
+director:
+- mesz-andras
+screenwriter:
+- beremeney-geza
+- mesz-andras
+cinematographer:
+- sabo-gabor
+composer:
+- masik-janos
+- semzyo-tibor
+cast:
+- person: eperjes-karoly
+- person: balkay-geza
+- person: estergayosh-tsetsiliya
+- person: vaydai-vilmosh
+- person: varga-zoltan
+studio:
+- hunnia-film-studio

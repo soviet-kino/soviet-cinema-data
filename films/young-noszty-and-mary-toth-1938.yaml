@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23751155
 schema_version: 1
+director:
+- sekeli-stiv
+cinematographer:
+- eiben-istvan
+composer:
+- fenesh-sabolch
+cast:
+- person: yavor-pal
+- person: szorenyi-eva
+- person: gozon-gyula
+studio:
+- hunnia-film-studio

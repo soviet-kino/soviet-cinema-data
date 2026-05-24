@@ -1,0 +1,9 @@
+id: folkmann-edit
+name_ru: Эдит Фолькманн
+roles:
+- actor
+external_ids:
+  wikidata: Q1285197
+sources:
+- https://www.wikidata.org/wiki/Q1285197
+schema_version: 1

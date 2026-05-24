@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q111533989
 schema_version: 1
+director:
+- verner-mikhail-evgenevich
+screenwriter:
+- ermolinskiy-sergey-aleksandrovich
+cinematographer:
+- slavinskiy-evgeniy-iosifovich
+cast:
+- person: knipper-chekhova-olga-leonardovna
+- person: kramov-aleksandr-grigorevich
+- person: kutuzov-nikolay-nikolaevich
+studio:
+- gosvoenkino

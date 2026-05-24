@@ -1,0 +1,9 @@
+id: serikava-yugo
+name_ru: Юго Сэрикава
+roles:
+- director
+external_ids:
+  wikidata: Q11616011
+sources:
+- https://www.wikidata.org/wiki/Q11616011
+schema_version: 1

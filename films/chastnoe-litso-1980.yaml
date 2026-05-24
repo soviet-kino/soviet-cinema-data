@@ -7,6 +7,24 @@ country:
 external_ids:
   wikidata: Q4507693
   imdb: tt0231016
+  youtube: ZfL10ebcFu0
 sources:
 - https://www.wikidata.org/wiki/Q4507693
 schema_version: 1
+director:
+- proshkin-aleksandr-anatolevich
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- artemyev-eduard
+cast:
+- person: polskikh-galina
+- person: nazarov-yuriy-vladimirovich
+- person: kuznetsov-anatoliy
+- person: odinokov-fyodor-ivanovich
+- person: tashkova-tatyana-aleksandrovna
+- person: tokarev-boris-aleksandrovich
+studio:
+- ekran

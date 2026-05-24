@@ -1,0 +1,8 @@
+id: warner-bros
+name_ru: Warner Bros.
+country: US
+external_ids:
+  wikidata: Q126399
+sources:
+- https://www.wikidata.org/wiki/Q126399
+schema_version: 1

@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12296717
 schema_version: 1
+director:
+- petrov-dimitr
+screenwriter:
+- moskova-rada
+composer:
+- genkov-georgiy
+cast:
+- person: georgiev-georgi-g
+- person: yanchev-ivan
+- person: zafirova-ilka
+- person: radeva-iskra
+- person: chatalov-lyuben
+- person: mazgalov-stoycho

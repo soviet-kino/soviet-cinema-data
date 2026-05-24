@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506242
 schema_version: 1
+director:
+- mimitsa-vatroslav
+screenwriter:
+- mimitsa-vatroslav
+composer:
+- kabilo-alfi
+cast:
+- person: stol-arandzhelovich
+- person: lustig-branko
+- person: velimir-bata-zhivoinovich
+- person: sovagovic-fabijan
+- person: vuisich-pavle
+- person: krivokapic-miodrag
+- person: mimika-gezzan-serdzho
+- person: cheyvan-adem
+- person: miyo-sharl
+- person: maetich-frano
+- person: dzhuro-utzhesanovich
+- person: rozman-loyze
+studio:
+- yadran-film

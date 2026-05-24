@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12281860
 schema_version: 1
+director:
+- kolarov-kiran
+screenwriter:
+- kolarov-kiran
+composer:
+- donchev-kiril
+cast:
+- person: danailov-stefan
+- person: staykov-georgi
+- person: todev-nikola
+- person: kokanova-nevena
+- person: radichev-anton
+- person: kamarashev-vylcho
+- person: evro-katerina
+- person: vachkova-martina
+- person: mutafov-mikhail
+- person: mavrodiev-stefan

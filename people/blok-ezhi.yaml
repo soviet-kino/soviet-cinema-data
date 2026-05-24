@@ -1,0 +1,9 @@
+id: blok-ezhi
+name_ru: Ежи Блок
+roles:
+- actor
+external_ids:
+  wikidata: Q11724384
+sources:
+- https://www.wikidata.org/wiki/Q11724384
+schema_version: 1

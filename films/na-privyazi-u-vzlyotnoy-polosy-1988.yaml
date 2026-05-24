@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4311005
 schema_version: 1
+director:
+- ilich-khmelnitskiy-vladimir
+cast:
+- person: nazarova-tatyana-evgenevna
+studio:
+- kievnauchfilm

@@ -8,6 +8,27 @@ runtime_min: 98
 external_ids:
   wikidata: Q1112886
   imdb: tt0025671
+  youtube: 6ob0aqkAFi8
 sources:
 - https://www.wikidata.org/wiki/Q1112886
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+screenwriter:
+- tynyanov-yuriy
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: kmit-leonid-aleksandrovich
+- person: kostrichkin-andrey-andreevich
+- person: magarill-sofya-zinovevna
+- person: garin-erast-pavlovich
+- person: gorin-goryaynov-boris-anatolevich
+- person: rostovtsev-mikhail-antonovich
+- person: yanshin-mikhail-mikhaylovich
+- person: shaternikova-nina-yakovlevna
+studio:
+- belarusfilm
+poster_commons: Плакат к фильму «Поручик Киже».jpg

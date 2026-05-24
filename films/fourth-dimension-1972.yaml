@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q54555724
 schema_version: 1
+composer:
+- kostich-voki
+cast:
+- person: kish-danilo
+- person: koshir-mantsa

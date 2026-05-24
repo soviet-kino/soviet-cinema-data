@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124376730
 schema_version: 1
+director:
+- vasilev-petr-b
+screenwriter:
+- vasilev-petr-b
+cast:
+- person: kisimov-asen
+- person: garvanov-zhivko
+- person: peev-svetoslav
+studio:
+- bolgarskoe-natsionalnoe-televidenie

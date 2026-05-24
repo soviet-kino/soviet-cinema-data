@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13054055
 schema_version: 1
+director:
+- kesayants-dmitriy
+screenwriter:
+- kesayants-dmitriy
+cinematographer:
+- vatinyan-rudolf
+composer:
+- arutyunyan-yuriy
+cast:
+- person: tokhatyan-grant-aramovich
+- person: sherents-azat-armenakovich
+- person: arutyunyan-gegam
+- person: oganesyan-suren
+- person: pepanyan-boris
+- person: stepanyan-vigen
+- person: nersisyan-ashot
+- person: oganesyan-tamara
+- person: mkhitaryan-tigran
+- person: santrosyan-armen
+- person: oganyan-arshak
+studio:
+- armenfilm

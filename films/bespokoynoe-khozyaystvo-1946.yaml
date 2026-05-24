@@ -8,6 +8,30 @@ runtime_min: 85
 external_ids:
   wikidata: Q4085715
   imdb: tt0038350
+  youtube: kHaWiPyxyJw
 sources:
 - https://www.wikidata.org/wiki/Q4085715
 schema_version: 1
+director:
+- zharov-mikhail-ivanovich
+screenwriter:
+- tur-leonid-davidovich
+- tur-pyotr-lvovich
+cinematographer:
+- pavlov-valentin-efimovich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: lyubimov-yuriy-petrovich
+- person: pugovkin-mikhail-ivanovich
+- person: zharov-mikhail-ivanovich
+- person: grave-aleksandr-konstantinovich
+- person: uralskiy-vladimir-mikhaylovich
+- person: balashov-vladimir-pavlovich
+- person: velikhov-evgeniy-pavlovich
+- person: svetlani-georgiy
+- person: doronin-vitaliy-dmitrievich
+- person: filippov-sergey-nikolaevich
+- person: tselikovskaya-lyudmila-vasilevna
+studio:
+- mosfilm

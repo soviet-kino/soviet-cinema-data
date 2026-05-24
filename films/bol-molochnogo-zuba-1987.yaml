@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12846044
 schema_version: 1
+director:
+- mekhtiev-guseyn
+screenwriter:
+- rovshan-ramiz
+cinematographer:
+- novruzov-amin
+composer:
+- guliev-dzhavanshir
+cast:
+- person: zizov-lican
+- person: khalafova-larisa
+studio:
+- azerbaydzhanfilm

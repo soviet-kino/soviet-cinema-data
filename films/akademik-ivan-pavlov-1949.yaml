@@ -8,6 +8,26 @@ runtime_min: 103
 external_ids:
   wikidata: Q4059120
   imdb: tt0041101
+  youtube: ub4ImG2NCyU
 sources:
 - https://www.wikidata.org/wiki/Q4059120
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+screenwriter:
+- papava-mikhail
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich
+- magid-moisey-sholomovich
+- sokolskiy-lev-evgenevich
+composer:
+- kabalevskiy-dmitriy-borisovich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: alisova-nina-ulyanovna
+- person: balashov-vladimir-pavlovich
+- person: borisov-aleksandr-fyodorovich
+- person: chestnokov-vladimir-ivanovich
+studio:
+- lenfilm
+poster_commons: Borisov Ivan Pavlov.jpg

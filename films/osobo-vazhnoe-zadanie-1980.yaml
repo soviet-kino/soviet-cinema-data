@@ -8,6 +8,23 @@ runtime_min: 138
 external_ids:
   wikidata: Q4338235
   imdb: tt0079680
+  youtube: DVTrjb7QCAw
 sources:
 - https://www.wikidata.org/wiki/Q4338235
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- dobrodeev-boris-tikhonovich
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: gurchenko-lyudmila
+- person: kryuchkov-nikolay-afanasevich
+- person: samoylov-vladimir-yakovlevich
+- person: zaklunnaya-valeriya-gavriilovna
+- person: matveev-evgeniy-semyonovich
+studio:
+- mosfilm

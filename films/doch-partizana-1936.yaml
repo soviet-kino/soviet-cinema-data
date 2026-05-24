@@ -8,6 +8,11 @@ runtime_min: 70
 external_ids:
   wikidata: Q24938140
   imdb: tt0128993
+  youtube: IAbDmUvqe80
 sources:
 - https://www.wikidata.org/wiki/Q24938140
 schema_version: 1
+director:
+- maslyukov-aleksey-semyonovich
+composer:
+- kozitskiy-filipp-emelyanovich

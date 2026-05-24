@@ -8,6 +8,23 @@ runtime_min: 81
 external_ids:
   wikidata: Q4085749
   imdb: tt0028622
+  youtube: slwawWYUxtM
 sources:
 - https://www.wikidata.org/wiki/Q4085749
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- protazanov-yakov
+- shveytser-vladimir-zakharovich
+cinematographer:
+- magidson-mark-pavlovich
+composer:
+- blok-david-semyonovich
+cast:
+- person: ktorov-anatoliy-petrovich
+- person: alisova-nina-ulyanovna
+- person: klimov-mikhail-mikhaylovich
+- person: pyzhova-olga-ivanovna
+studio:
+- kinostudiya-imeni-m-gorkogo

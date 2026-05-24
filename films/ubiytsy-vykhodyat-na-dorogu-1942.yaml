@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4468658
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- tarich-yuriy-viktorovich
+screenwriter:
+- brekht-bertolt
+- pudovkin-vsevolod-illarionovich
+- bolshintsov-manuel-vladimirovich
+cinematographer:
+- volchek-boris-izrailevich
+- saveleva-era-mikhaylovna
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: astangov-mikhail-fyodorovich
+- person: blinov-boris-vladimirovich
+studio:
+- mosfilm
+- kazakhfilm

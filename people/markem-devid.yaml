@@ -1,0 +1,9 @@
+id: markem-devid
+name_ru: Дэвид Маркем
+roles:
+- actor
+external_ids:
+  wikidata: Q3703253
+sources:
+- https://www.wikidata.org/wiki/Q3703253
+schema_version: 1

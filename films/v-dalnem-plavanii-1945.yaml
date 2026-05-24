@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4101682
   imdb: tt0306181
+  youtube: RuBhwsG--lc
 sources:
 - https://www.wikidata.org/wiki/Q4101682
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+cinematographer:
+- mishurin-aleksey-aleksandrovich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: buchma-amvrosiy-maksimilianovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

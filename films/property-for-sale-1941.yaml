@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123367963
 schema_version: 1
+director:
+- banky-viktor
+screenwriter:
+- kharsani-zholt
+- miksat-kalman
+composer:
+- frater-lorand
+cast:
+- person: pager-antal
+- person: gobbi-khilda
+- person: seletski-zita

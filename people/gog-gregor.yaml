@@ -1,0 +1,9 @@
+id: gog-gregor
+name_ru: Грегор Гог
+roles:
+- actor
+external_ids:
+  wikidata: Q1545082
+sources:
+- https://www.wikidata.org/wiki/Q1545082
+schema_version: 1

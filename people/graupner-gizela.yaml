@@ -1,0 +1,9 @@
+id: graupner-gizela
+name_ru: Гизела Граупнер
+roles:
+- actor
+external_ids:
+  wikidata: Q1527337
+sources:
+- https://www.wikidata.org/wiki/Q1527337
+schema_version: 1

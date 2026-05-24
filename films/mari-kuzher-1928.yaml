@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4281364
 schema_version: 1
+cast:
+- person: gradopolov-konstantin-vasilevich
+studio:
+- vostokkino

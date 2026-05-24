@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q232095
 schema_version: 1
+director:
+- polanski-roman
+screenwriter:
+- polanski-roman
+cinematographer:
+- kiyovskiy-matsey
+composer:
+- komeda-kshishtof
+cast:
+- person: polanski-roman
+- person: kvyatkovskaya-lass-barbara
+- person: kondratiuk-andrzej
+- person: mikhalskiy-stanislav

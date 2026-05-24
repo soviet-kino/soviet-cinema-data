@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21647201
 schema_version: 1
+director:
+- marinescu-serban
+screenwriter:
+- petresku-kamil
+cast:
+- person: morgenshtern-mayya
+- person: pintea-adrian
+- person: yuresh-marchel
+- person: iordake-shtefan

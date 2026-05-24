@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124830516
 schema_version: 1
+director:
+- solovyov-aleksandr-leonidovich
+screenwriter:
+- mayakovskiy-vladimir-vladimirovich
+cast:
+- person: maslyuchenko-varvara-alekseevna
+- person: zoya-fyodorovna-barantsevich
+studio:
+- vseukrainskoe-fotokinoupravlenie

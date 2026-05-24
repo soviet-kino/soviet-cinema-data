@@ -8,6 +8,25 @@ runtime_min: 127
 external_ids:
   wikidata: Q4084224
   imdb: tt0143133
+  youtube: nPyheZm5-68
 sources:
 - https://www.wikidata.org/wiki/Q4084224
 schema_version: 1
+director:
+- polynnikov-aleksandr
+- makarov-viktor-pavlovich
+screenwriter:
+- makarov-viktor-pavlovich
+cinematographer:
+- polynnikov-aleksandr
+composer:
+- antonov-yuriy-mikhaylovich
+cast:
+- person: sklyar-igor-borisovich
+- person: gradov-andrey-petrovich
+- person: penkina-svetlana-aleksandrovna
+- person: tonunts-elena-konstantinovna
+- person: shimanskaya-marina
+- person: venevitinova-galina-ivanovna
+studio:
+- odesskaya-kinostudiya

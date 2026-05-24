@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3108887
 schema_version: 1
+director:
+- arnshtam-leo-oskarovich
+screenwriter:
+- arnshtam-leo-oskarovich
+cinematographer:
+- shelenkov-aleksandr-vladimirovich
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: serova-valentina-vasilevna
+- person: chirkov-boris-petrovich
+- person: livanov-boris-nikolaevich
+- person: druzhnikov-vladimir-vasilevich
+- person: merkurev-vasiliy-vasilevich
+- person: golovko-kira-nikolaevna
+- person: nazvanov-mikhail-mikhaylovich
+- person: polovikova-klavdiya-mikhaylovna
+studio:
+- mosfilm

@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6369299
 schema_version: 1
+director:
+- lamach-karel
+- starshiy-pishtek-teodor
+screenwriter:
+- lamach-karel
+- starshiy-pishtek-teodor
+cinematographer:
+- kheller-otto
+cast:
+- person: ondra-anni
+- person: lamach-karel
+- person: voyta-yaroslav
+- person: starshiy-pishtek-teodor
+- person: speerger-jan-w
+- person: ford-robert-w
+- person: marek-antonin
+- person: zahradka-otto
+- person: horska-bela
+- person: jansova-mary
+- person: stal-rudolf-2
+- person: maly-eduard
+- person: opplova-anna
+- person: korner-max

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184888
 schema_version: 1
+director:
+- babac-marko
+screenwriter:
+- babac-marko
+cast:
+- person: lupa-peter

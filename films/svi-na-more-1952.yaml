@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11203521
 schema_version: 1
+director:
+- popovic-sava
+cast:
+- person: ajvaz-milan
+- person: katalinich-blazhenka
+- person: puzich-milan
+- person: didik-lyubomir

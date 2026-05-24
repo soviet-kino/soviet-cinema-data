@@ -1,0 +1,9 @@
+id: kropacek
+name_ru: Kropáček
+roles:
+- actor
+external_ids:
+  wikidata: Q133570535
+sources:
+- https://www.wikidata.org/wiki/Q133570535
+schema_version: 1

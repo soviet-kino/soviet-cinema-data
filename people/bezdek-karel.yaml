@@ -1,0 +1,9 @@
+id: bezdek-karel
+name_ru: Karel Bezděk
+roles:
+- actor
+external_ids:
+  wikidata: Q95164417
+sources:
+- https://www.wikidata.org/wiki/Q95164417
+schema_version: 1

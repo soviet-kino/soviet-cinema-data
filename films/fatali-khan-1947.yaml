@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12839743
 schema_version: 1
+director:
+- dzigan-efim-lvovich
+screenwriter:
+- guseyn-mekhti
+- ogly-mamedkhanly-enver-kafar
+cinematographer:
+- atakshiev-ali-settar
+composer:
+- ogly-tagizade-gadzhibekov-niyazi-zulfugar
+cast:
+- person: alekperov-alesker-gadzhi-aga-ogly
+- person: kyzy-badirbeyli-leyla-agalar
+- person: kyzy-melikova-nadzhiba-gashym
+- person: ogly-efendiev-ismail-makhmud
+- person: ogly-mardanov-mustafa-ashum
+- person: kurbanov-ali
+studio:
+- azerbaydzhanfilm

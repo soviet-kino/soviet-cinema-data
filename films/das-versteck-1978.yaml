@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1170706
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- beker-yurek
+cinematographer:
+- brauer-yurgen
+composer:
+- fisher-gyunter
+cast:
+- person: krug-manfred
+- person: mann-diter
+- person: khofman-yutta
+- person: byome-marita
+- person: myuller-alfred
+- person: trettau-martin

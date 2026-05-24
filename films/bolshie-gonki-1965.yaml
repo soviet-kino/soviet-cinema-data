@@ -2,16 +2,54 @@ id: bolshie-gonki-1965
 title_ru: Большие гонки
 title_original: The Great Race
 year: 1965
-country: [US]
+country:
+- US
 runtime_min: 160
-genre: [comedy, adventure]
-topics: [foreign-in-soviet-distribution]
+genre:
+- comedy
+- adventure
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1976
   title_ru: Большие гонки
   dubbed: true
 external_ids:
   wikidata: Q304366
+  imdb: tt0059243
 sources:
-  - https://www.wikidata.org/wiki/Q304366
+- https://www.wikidata.org/wiki/Q304366
 schema_version: 1
+director:
+- edvards-bleyk
+screenwriter:
+- ross-artur-a
+cinematographer:
+- kharlan-rassell
+composer:
+- manchini-genri
+cast:
+- person: lemmon-dzhek
+- person: kyortis-toni
+- person: vud-natali
+- person: vens-vivian
+- person: martin-ross
+- person: provayn-doroti
+- person: makredi-dzhordzh
+- person: falk-piter
+- person: makdonald-frensis
+- person: artur-okonnell
+- person: dzhenson-roy
+- person: uinn-kinan
+- person: payl-denver
+- person: storch-larri
+- person: rettser-raul
+- person: smit-khel
+- person: perkins-dzhek
+- person: makkallo-filo
+- person: aleksander-rikhard
+- person: kaplan-marvin
+studio:
+- warner-bros
+- q65557474
+poster_commons: Natalie Wood The Great Race 1966 Paris.jpg

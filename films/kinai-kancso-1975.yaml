@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1124702
 schema_version: 1
+director:
+- ranodi-laslo
+screenwriter:
+- ranodi-laslo
+- nadasy-laszlo
+cinematographer:
+- koltai-layosh
+composer:
+- enei-zoltan
+cast:
+- person: tyoryochik-mari
+- person: darvash-ivan

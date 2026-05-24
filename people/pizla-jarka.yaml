@@ -1,0 +1,9 @@
+id: pizla-jarka
+name_ru: Jarka Pižla
+roles:
+- actor
+external_ids:
+  wikidata: Q23038032
+sources:
+- https://www.wikidata.org/wiki/Q23038032
+schema_version: 1

@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q871190
 schema_version: 1
+director:
+- groshopp-rikhard
+screenwriter:
+- gyunter-egon
+- ebeling-volfgang
+cinematographer:
+- khanish-otto
+composer:
+- nef-vilgelm
+cast:
+- person: khoffman-adolf-peter
+- person: drahota-andrea
+- person: mitich-goyko
+- person: shrayber-khelmut
+- person: gren-lilo
+- person: frorip-yurgen
+- person: ryomer-rolf
+- person: junior-heinz-klevenow
+- person: proysker-khorst
+- person: knittel-yokhannes
+- person: ulrikh-rudolf
+studio:
+- defa

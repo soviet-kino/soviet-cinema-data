@@ -8,6 +8,19 @@ runtime_min: 135
 external_ids:
   wikidata: Q4363843
   imdb: tt0385166
+  youtube: c-ndMEEvHHo
 sources:
 - https://www.wikidata.org/wiki/Q4363843
 schema_version: 1
+director:
+- nechaev-leonid-alekseevich
+screenwriter:
+- barinova-elena-petrovna
+composer:
+- efremov-igor-leonidovich
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: zaytsev-denis-yurevich
+- person: trofimov-aleksandr-alekseevich
+studio:
+- belarusfilm

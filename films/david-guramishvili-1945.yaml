@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4153584
 schema_version: 1
+director:
+- sanishvili-nikolay-konstantinovich
+- tumanov-iosif-mikhaylovich
+screenwriter:
+- literaturoved-orlov-vladimir-nikolaevich
+- sanishvili-nikolay-konstantinovich
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- balanchivadze-andrey-melitonovich
+cast:
+- person: chichinadze-dodo-vasevna
+- person: abdulov-osip-naumovich
+- person: perestiani-ivan-nikolaevich
+- person: gambashidze-shalva-ksenofontovich
+- person: davitashvili-georgiy-mikhaylovich
+- person: okunevskaya-tatyana-kirillovna
+- person: smiranin-anatoliy-dmitrievich
+- person: shavgulidze-georgiy-vladimirovich
+- person: shevchenko-faina-vasilevna
+- person: karalashvili-kokhta
+- person: malyutin-yakov-osipovich
+studio:
+- gruziya-film

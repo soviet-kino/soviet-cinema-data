@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q84994274
   imdb: tt0305609
+  youtube: -6s7VYdw_2k
 sources:
 - https://www.wikidata.org/wiki/Q84994274
 schema_version: 1
+director:
+- karpov-aleksandr-yakovlevich
+studio:
+- belarusfilm

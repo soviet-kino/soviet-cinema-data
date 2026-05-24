@@ -1,0 +1,9 @@
+id: tarshoy-elemer
+name_ru: Элемер Таршой
+roles:
+- actor
+external_ids:
+  wikidata: Q12816458
+sources:
+- https://www.wikidata.org/wiki/Q12816458
+schema_version: 1

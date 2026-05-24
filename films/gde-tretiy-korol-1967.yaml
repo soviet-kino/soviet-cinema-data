@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4134606
 schema_version: 1
+director:
+- ber-rishard
+screenwriter:
+- slomchinskiy-matsey
+composer:
+- valyatsinskiy-adam
+cast:
+- person: endrusik-kalina
+- person: glinskiy-venchislav
+- person: lapitskiy-andzhey
+- person: pechka-frantishek
+- person: vakhovyak-marya
+- person: kondrat-tadeush
+- person: petruskiy-ryshard
+- person: pokora-voytsekh
+- person: pavlikovskiy-adam
+- person: pietraszkiewicz-leon
+- person: vyshinskaya-alisiya
+- person: zbignev-yuzefovich
+studio:
+- studio-kinostudiya

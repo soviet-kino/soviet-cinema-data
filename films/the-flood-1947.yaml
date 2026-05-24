@@ -11,3 +11,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3151462
 schema_version: 1
+director:
+- bossak-ezhi
+- kazmerchak-vatslav

@@ -8,6 +8,17 @@ runtime_min: 40
 external_ids:
   wikidata: Q6913306
   imdb: tt0230544
+  youtube: zoQlrEo7zQM
 sources:
 - https://www.wikidata.org/wiki/Q6913306
 schema_version: 1
+director:
+- zhelyabuzhskiy-yuriy-andreevich
+screenwriter:
+- zhelyabuzhskiy-yuriy-andreevich
+cinematographer:
+- zhelyabuzhskiy-yuriy-andreevich
+cast:
+- person: livanov-boris-nikolaevich
+studio:
+- mezhrabpom-rus

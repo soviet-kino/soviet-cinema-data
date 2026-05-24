@@ -1,0 +1,9 @@
+id: kovarik
+name_ru: Kovařík
+roles:
+- actor
+external_ids:
+  wikidata: Q133570532
+sources:
+- https://www.wikidata.org/wiki/Q133570532
+schema_version: 1

@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4197855
   imdb: tt0309701
+  youtube: hEIKFADOt4k
 sources:
 - https://www.wikidata.org/wiki/Q4197855
 schema_version: 1
+director:
+- voznesenskiy-igor-matveevich
+screenwriter:
+- yurev-zinoviy-yurevich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: proklova-elena-igorevna
+studio:
+- kinostudiya-imeni-m-gorkogo

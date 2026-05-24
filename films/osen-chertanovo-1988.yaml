@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4337629
 schema_version: 1
+director:
+- talankin-igor-vasilevich
+screenwriter:
+- talankin-igor-vasilevich
+composer:
+- vinogradov-german-igorevich
+cast:
+- person: dapkunayte-ingeborga
+- person: khermanis-alvis
+- person: tariverdiev-mikael
+- person: skobtseva-irina-konstantinovna
+- person: demidova-alla-sergeevna
+- person: bityukov-boris-valentinovich
+- person: vinogradov-german-igorevich
+- person: zheleznyakov-valentin-mikolayovich
+- person: masalskis-valentinas
+- person: stolyarskaya-danuta-alfredovna
+- person: vilskiy-vadim-konstantinovich
+studio:
+- mosfilm

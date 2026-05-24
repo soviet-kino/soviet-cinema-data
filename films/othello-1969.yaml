@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19297737
 schema_version: 1
+director:
+- felzenshteyn-valter
+cinematographer:
+- merz-otto-2
+composer:
+- verdi-dzhuzeppe
+cast:
+- person: nocker-hanns
+studio:
+- defa

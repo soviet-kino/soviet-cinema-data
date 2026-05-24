@@ -8,6 +8,15 @@ runtime_min: 132
 external_ids:
   wikidata: Q4054845
   imdb: tt0147816
+  youtube: jffBO6eGfag
 sources:
 - https://www.wikidata.org/wiki/Q4054845
 schema_version: 1
+director:
+- nikolaeva-elena-vladislavovna
+screenwriter:
+- korotkov-yuriy-marksovich
+cast:
+- person: galkin-vladislav
+studio:
+- kinostudiya-imeni-m-gorkogo

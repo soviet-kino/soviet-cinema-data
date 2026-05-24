@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4060301
 schema_version: 1
+director:
+- shamshurin-vladimir-georgievich
+screenwriter:
+- stepanov-anatoliy-yakovlevich
+composer:
+- babushkin-viktor-borisovich
+cast:
+- person: galkin-boris-sergeevich
+studio:
+- mosfilm

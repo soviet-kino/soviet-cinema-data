@@ -8,6 +8,25 @@ runtime_min: 99
 external_ids:
   wikidata: Q28665843
   imdb: tt0041427
+  youtube: U7ciqsuiOww
 sources:
 - https://www.wikidata.org/wiki/Q28665843
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- ermler-fridrikh-markovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: aroseva-olga-aleksandrovna
+- person: babochkin-boris-andreevich
+- person: nikitin-fyodor-mikhaylovich
+- person: smirnov-boris-aleksandrovich
+- person: tolubeev-yuriy-vladimirovich
+- person: khokhryakov-viktor-ivanovich
+studio:
+- lenfilm

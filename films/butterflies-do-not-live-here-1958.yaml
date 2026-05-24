@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q44916819
 schema_version: 1
+director:
+- bernat-miro
+cinematographer:
+- hrdlicka-pavel
+composer:
+- reyner-karel
+cast:
+- person: yiraskova-yirzhina
+- person: voska-vatslav
+- person: munzar-lyudek
+- person: sluneckova-karolina

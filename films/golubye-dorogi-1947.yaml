@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4142611
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- koltunov-grigoriy
+composer:
+- gomolyaka-vadim-borisovich
+- tseglyar-yakov-samoylovich
+cast:
+- person: kadochnikov-pavel-petrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4127697
 schema_version: 1
+director:
+- batory-yan
+cinematographer:
+- antoni-voytovich
+composer:
+- sart-marek
+cast:
+- person: zbignev-zapasevich
+- person: beata-tyshkevich
+- person: mikulskiy-stanislav
+- person: sykala-roman
+- person: skarukh-vitold
+- person: kovalskiy-vatslav
+- person: bonk-khenrik
+- person: dombrovskaya-khelena
+- person: makhovskiy-ignatsy
+- person: yakubinskaya-vanda
+- person: kherder-andzhey
+- person: mikhalskiy-stanislav
+- person: nivinskiy-stanislav
+- person: gronkovskiy-stanislav
+- person: zbignev-yuzefovich
+- person: zygmunt-listkevich
+- person: barbara-valkuvna
+- person: ezhi-karashkevich
+- person: valchak-ezhi
+- person: lyubich-lisovskiy-yuliush
+- person: lanevskaya-katarzhina
+- person: lonch-marian
+- person: szymanska-natalia
+studio:
+- syrena-kinostudiya

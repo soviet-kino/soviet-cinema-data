@@ -1,0 +1,9 @@
+id: vine-robert
+name_ru: Роберт Вине
+roles:
+- director
+external_ids:
+  wikidata: Q76552
+sources:
+- https://www.wikidata.org/wiki/Q76552
+schema_version: 1

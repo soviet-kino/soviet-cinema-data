@@ -1,0 +1,9 @@
+id: royter-yurgen
+name_ru: Юрген Ройтер
+roles:
+- actor
+external_ids:
+  wikidata: Q18823042
+sources:
+- https://www.wikidata.org/wiki/Q18823042
+schema_version: 1

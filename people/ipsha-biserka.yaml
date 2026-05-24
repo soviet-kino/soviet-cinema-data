@@ -1,0 +1,9 @@
+id: ipsha-biserka
+name_ru: Бисерка Ипша
+roles:
+- actor
+external_ids:
+  wikidata: Q12627960
+sources:
+- https://www.wikidata.org/wiki/Q12627960
+schema_version: 1

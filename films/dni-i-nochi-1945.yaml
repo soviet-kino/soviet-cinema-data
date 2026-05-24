@@ -8,6 +8,26 @@ runtime_min: 90
 external_ids:
   wikidata: Q29159013
   imdb: tt0037646
+  youtube: d8LsF0-MRaI
 sources:
 - https://www.wikidata.org/wiki/Q29159013
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- simonov-konstantin-mikhaylovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: lyubimov-yuriy-petrovich
+- person: sverdlin-lev-naumovich
+- person: derzhavin-mikhail-stepanovich
+- person: lisyanskaya-anna-grigorevna
+- person: sagal-daniil-lvovich
+- person: solovyov-vladimir-romanovich
+- person: alekseev-anatoliy-aleksandrovich
+- person: geraga-pavel-iosifovich
+studio:
+- mosfilm

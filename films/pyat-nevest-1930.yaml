@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4386082
 schema_version: 1
+director:
+- solovyov-aleksandr-leonidovich
+screenwriter:
+- maryan-david-samoylovich
+cast:
+- person: adelgeym-tamara-fridrikhovna
+- person: buchma-amvrosiy-maksimilianovich
+- person: lyarov-matvey-lvovich
+- person: shagayda-stepan-vasilevich
+studio:
+- vseukrainskoe-fotokinoupravlenie

@@ -1,0 +1,9 @@
+id: ferry-nora
+name_ru: Nora Ferry
+roles:
+- actor
+external_ids:
+  wikidata: Q133307319
+sources:
+- https://www.wikidata.org/wiki/Q133307319
+schema_version: 1

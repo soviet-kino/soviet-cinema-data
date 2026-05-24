@@ -8,6 +8,22 @@ runtime_min: 85
 external_ids:
   wikidata: Q470628
   imdb: tt0067544
+  youtube: n_3KwHOlTkY
 sources:
 - https://www.wikidata.org/wiki/Q470628
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- galyardo-dzhovanna
+cinematographer:
+- palma-karlo-di
+composer:
+- gazlini-dzhordzhio
+cast:
+- person: pazetti-peter
+- person: vitti-monika
+- person: madarash-yozhef
+- person: olbrykhskiy-daniel
+- person: klemanti-per
+- person: pomryol-daniel

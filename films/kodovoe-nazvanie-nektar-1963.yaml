@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11748574
 schema_version: 1
+director:
+- zhanno-leonid
+composer:
+- kilyar-voytsekh
+cast:
+- person: kobelya-bogumil

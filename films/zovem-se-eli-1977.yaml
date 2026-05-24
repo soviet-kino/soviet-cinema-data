@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25461606
 schema_version: 1
+director:
+- chengich-bakhrudin
+screenwriter:
+- kovach-mirko
+cast:
+- person: stupitsa-mira
+- person: aligrudich-slobodan

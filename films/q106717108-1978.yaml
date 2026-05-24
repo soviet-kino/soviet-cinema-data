@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106717108
 schema_version: 1
+director:
+- shoyman-gerkhard
+- khaynovskiy-valter

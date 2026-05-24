@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60722936
 schema_version: 1
+director:
+- shorm-evald
+screenwriter:
+- shorm-evald
+cinematographer:
+- spata-jan

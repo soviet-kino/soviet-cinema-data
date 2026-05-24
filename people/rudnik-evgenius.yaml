@@ -1,0 +1,9 @@
+id: rudnik-evgenius
+name_ru: Евгениус Рудник
+roles:
+- composer
+external_ids:
+  wikidata: Q9256037
+sources:
+- https://www.wikidata.org/wiki/Q9256037
+schema_version: 1

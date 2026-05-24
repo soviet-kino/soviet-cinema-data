@@ -1,0 +1,9 @@
+id: bashich-relya
+name_ru: Реля Башич
+roles:
+- actor
+external_ids:
+  wikidata: Q603685
+sources:
+- https://www.wikidata.org/wiki/Q603685
+schema_version: 1

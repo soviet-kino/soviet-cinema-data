@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4215459
 schema_version: 1
+director:
+- tasin-georgiy
+screenwriter:
+- tasin-georgiy
+cast:
+- person: komissarov-nikolay-valerianovich
+- person: uzhviy-nataliya-mikhaylovna
+- person: ponomarenko-evgeniy-porfirevich
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- odesskaya-kinostudiya
+poster_commons: Кармелюк1938.jpg

@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q130292808
 schema_version: 1
+composer:
+- kornelyuk-igor-evgenevich
+studio:
+- lenfilm

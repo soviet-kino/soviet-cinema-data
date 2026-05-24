@@ -1,0 +1,9 @@
+id: pledat-verner
+name_ru: Вернер Пледат
+roles:
+- actor
+external_ids:
+  wikidata: Q2562283
+sources:
+- https://www.wikidata.org/wiki/Q2562283
+schema_version: 1

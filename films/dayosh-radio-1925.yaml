@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18816910
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- yutkevich-sergey-iosifovich
+cast:
+- person: poslavskiy-boris-dmitrievich
+- person: repnin-pyotr-petrovich
+studio:
+- lenfilm

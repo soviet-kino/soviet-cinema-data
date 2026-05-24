@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q4423291
   imdb: tt0237750
+  youtube: Tf4bNrpS-mg
 sources:
 - https://www.wikidata.org/wiki/Q4423291
 schema_version: 1
+director:
+- neretnietse-ada
+cinematographer:
+- kleyns-martinsh
+composer:
+- vigners-ivars
+cast:
+- person: artmane-viya
+- person: tsilinskiy-gunar-alfredovich
+studio:
+- rizhskaya-kinostudiya

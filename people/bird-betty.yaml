@@ -1,0 +1,9 @@
+id: bird-betty
+name_ru: Betty Bird
+roles:
+- actor
+external_ids:
+  wikidata: Q88112
+sources:
+- https://www.wikidata.org/wiki/Q88112
+schema_version: 1

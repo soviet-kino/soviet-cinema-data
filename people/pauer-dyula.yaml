@@ -1,0 +1,9 @@
+id: pauer-dyula
+name_ru: Дьюла Пауэр
+roles:
+- actor
+external_ids:
+  wikidata: Q768016
+sources:
+- https://www.wikidata.org/wiki/Q768016
+schema_version: 1

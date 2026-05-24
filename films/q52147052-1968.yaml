@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q52147052
 schema_version: 1
+composer:
+- cibulka-kiril

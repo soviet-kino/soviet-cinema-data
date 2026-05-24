@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3976539
 schema_version: 1
+director:
+- nikolau-ted
+screenwriter:
+- bend-charlz
+- pabian-devid
+cast:
+- person: skrimm-angus
+- person: besoyu-yon
+- person: khove-anders
+- person: vilcu-adrian
+- person: movila-irina
+- person: makbrayd-mishel
+studio:
+- castel-film-romania

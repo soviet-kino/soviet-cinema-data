@@ -1,0 +1,9 @@
+id: barych-ryshard
+name_ru: Рышард Барыч
+roles:
+- actor
+external_ids:
+  wikidata: Q8860458
+sources:
+- https://www.wikidata.org/wiki/Q8860458
+schema_version: 1

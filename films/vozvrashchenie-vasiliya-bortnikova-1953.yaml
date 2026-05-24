@@ -8,6 +8,24 @@ runtime_min: 102
 external_ids:
   wikidata: Q4114644
   imdb: tt0045301
+  youtube: nl7Vbzl_fwc
 sources:
 - https://www.wikidata.org/wiki/Q4114644
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+screenwriter:
+- nikolaeva-galina-evgenevna
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- molchanov-kirill
+cast:
+- person: mordyukova-nonna-viktorovna
+- person: luchko-klara-stepanovna
+- person: medvedeva-natalya-pavlovna
+- person: timofeev-nikolay-dmitrievich
+- person: lukyanov-sergey-vladimirovich
+studio:
+- mosfilm

@@ -8,6 +8,22 @@ runtime_min: 43
 external_ids:
   wikidata: Q4287498
   imdb: tt0030428
+  youtube: xyWsbYob5es
 sources:
 - https://www.wikidata.org/wiki/Q4287498
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- annenskiy-isidor-markovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- zhelobinskiy-valeriy-viktorovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: androvskaya-olga-nikolaevna
+- person: pelttser-ivan-romanovich
+- person: sorokin-konstantin-nikolaevich
+studio:
+- belarusfilm

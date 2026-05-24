@@ -1,0 +1,9 @@
+id: sonders-rassell
+name_ru: Расселл Сондерс
+roles:
+- actor
+external_ids:
+  wikidata: Q16015279
+sources:
+- https://www.wikidata.org/wiki/Q16015279
+schema_version: 1

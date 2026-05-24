@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1436522
 schema_version: 1
+director:
+- veiczi-janos
+screenwriter:
+- tyurk-garri
+cinematographer:
+- plintsner-karl
+composer:
+- hauk-gunter
+cast:
+- person: kamp-marion-van-de
+- person: lastsar-kristina
+- person: volf-gerri
+- person: schmidtchen-achim
+- person: khagen-eva-mariya
+- person: palek-ivan
+- person: eshe-eberkhard
+- person: shrayber-khelmut
+- person: lucke-hans
+- person: lyudvig-fred
+- person: barten-fredy
+- person: schonemann-horst
+- person: schafer-gerd-e
+- person: friedman-perry
+- person: ohlenschlager-ingrid
+- person: myuller-alfred
+- person: flyorkhinger-martin
+- person: larsen-maximilian
+- person: gaysler-renata
+- person: kherrikht-rolf
+- person: lirk-verner
+studio:
+- defa

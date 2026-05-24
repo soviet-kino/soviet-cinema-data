@@ -8,6 +8,18 @@ runtime_min: 189
 external_ids:
   wikidata: Q4063262
   imdb: tt1508236
+  youtube: x4G7UJK0YDQ
 sources:
 - https://www.wikidata.org/wiki/Q4063262
 schema_version: 1
+screenwriter:
+- izyumskiy-boris-vasilevich
+- voytetskiy-artur-iosifovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: serebryakov-aleksey-valerevich
+- person: kosheleva-margarita
+- person: kuznetsov-mikhail-artemevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

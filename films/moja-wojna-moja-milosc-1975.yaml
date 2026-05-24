@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q107227349
 schema_version: 1
+director:
+- nasfeter-yanush
+screenwriter:
+- nasfeter-yanush
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- figel-petr
+cast:
+- person: khoynatskaya-yadviga
+- person: senyuk-anna
+- person: makhalitsa-khenrik
+- person: kondrat-tadeush
+- person: kempinskaya-elzhbeta
+- person: veslava-mazurkevich
+- person: rakhvalskaya-barbara
+- person: barych-ryshard
+- person: goleevskiy-andzhey
+- person: tshetsyak-frantsishek
+- person: mikhalska-grazhina
+- person: shimanskiy-zdzislav
+- person: malinich-zofya
+- person: frontskovyak-marek
+- person: stefanowicz-monika
+- person: grabovskiy-pyotr
+- person: ysak-piotr
+- person: gawlik-waldemar
+studio:
+- iluzjon
+- film-polski

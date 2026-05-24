@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19703164
 schema_version: 1
+director:
+- elesh-andrash
+cinematographer:
+- kardos-shandor
+composer:
+- darvash-ferents

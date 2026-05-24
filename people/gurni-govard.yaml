@@ -1,0 +1,9 @@
+id: gurni-govard
+name_ru: Говард Гурни
+roles:
+- actor
+external_ids:
+  wikidata: Q5919778
+sources:
+- https://www.wikidata.org/wiki/Q5919778
+schema_version: 1

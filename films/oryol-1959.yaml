@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1265529
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- buchkovskiy-leonard
+- meyssner-yanush
+cinematographer:
+- krushinskiy-severin
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: khyubner-zigmunt
+- person: glinskiy-venchislav
+- person: bareya-stanislav
+- person: vilgelmi-roman
+- person: bista-khenrik
+- person: makhulskiy-yan
+- person: klosinskiy-yanush
+- person: milskiy-stanislav
+- person: bonk-khenrik
+- person: sevruk-aleksander
+- person: makhovskiy-ignatsy
+- person: pavlik-bronislav
+- person: kherder-andzhey
+- person: gustav-lyutkevich
+- person: kaminskiy-eugenyush
+- person: filipskiy-ryshard
+- person: novak-ezhi
+- person: mrozek-andrzej
+- person: pyaskovskiy-cheslav
+- person: kamas-ezhi
+- person: lodynskiy-yuzef
+- person: waskowski-mieczys-aw
+studio:
+- studio-filmowe-kadr

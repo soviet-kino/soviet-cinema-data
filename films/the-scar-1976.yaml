@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q959838
 schema_version: 1
+director:
+- keslyovskiy-kshishtof
+screenwriter:
+- keslyovskiy-kshishtof
+- karas-romuald
+cinematographer:
+- idzyak-slavomir
+composer:
+- radvan-stanislav
+cast:
+- person: shtur-ezhi
+- person: kholland-agneshka
+- person: eymont-bogdan
+- person: pechka-frantishek
+- person: dmokhovskiy-mariush
+- person: zygadlo-tomash
+- person: khunko-khenrik
+- person: mikhalskiy-stanislav
+- person: lamtyugina-asya
+- person: gryglyashevska-khalina
+- person: winiarska-halina
+- person: igar-stanislav
+- person: lesen-zbignev
+- person: jeruzal-jan
+- person: prazmowski-jerzy
+- person: ozheshkovska-ioanna
+- person: moravski-konrad
+- person: tarkovskiy-mikhal
+- person: skotnicki-jan
+studio:
+- tor-kinostudiya

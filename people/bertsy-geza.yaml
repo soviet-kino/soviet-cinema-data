@@ -1,0 +1,9 @@
+id: bertsy-geza
+name_ru: Геза Берцы
+roles:
+- actor
+external_ids:
+  wikidata: Q793227
+sources:
+- https://www.wikidata.org/wiki/Q793227
+schema_version: 1

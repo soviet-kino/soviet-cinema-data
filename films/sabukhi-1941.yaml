@@ -8,6 +8,24 @@ runtime_min: 101
 external_ids:
   wikidata: Q2352132
   imdb: tt1657426
+  youtube: 7XmswGRItCk
 sources:
 - https://www.wikidata.org/wiki/Q2352132
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- ogly-rafili-mikael-gasan
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: sarabskiy-guseynkuli
+- person: kyzy-badirbeyli-leyla-agalar
+- person: ogly-kurbanov-agadadash-gyulmamed
+- person: dagestanly-ismail
+- person: ziya-kyazim
+- person: ogly-sharifov-alesker-mamedtagi
+studio:
+- azerbaydzhanfilm

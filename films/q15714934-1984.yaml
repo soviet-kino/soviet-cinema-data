@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15714934
 schema_version: 1
+director:
+- wionczek-roman
+screenwriter:
+- krasinskiy-yanush
+- wionczek-roman
+cinematographer:
+- lyambakh-boguslav
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: augustyn-bogus-aw
+- person: grushnits-iolanta
+- person: vysotski-marek
+studio:
+- q110427551

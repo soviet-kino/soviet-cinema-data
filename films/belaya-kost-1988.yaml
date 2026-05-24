@@ -8,6 +8,19 @@ runtime_min: 97
 external_ids:
   wikidata: Q21408211
   imdb: tt0094727
+  youtube: nURsvsKKQH4
 sources:
 - https://www.wikidata.org/wiki/Q21408211
 schema_version: 1
+director:
+- gevorkyants-ruben
+- kevorkov-georgiy
+cast:
+- person: gazarov-sergey-ishkhanovich
+- person: pankratov-chyornyy-aleksandr-vasilevich
+- person: elbakyan-anna
+- person: sarkisov-leonard-sarkisovich
+- person: stepanyan-vigen
+- person: ovakimyan-georgiy
+studio:
+- armenfilm

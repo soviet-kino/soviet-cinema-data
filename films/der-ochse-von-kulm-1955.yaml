@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5261185
 schema_version: 1
+director:
+- khellberg-martin
+screenwriter:
+- schweickert-walter-karl
+cinematographer:
+- klagemann-oygen
+composer:
+- kluck-gunter
+cast:
+- person: artsdorf-frants

@@ -8,6 +8,22 @@ runtime_min: 246
 external_ids:
   wikidata: Q16676644
   imdb: tt5289042
+  youtube: 9rm0Ep8HgGA
 sources:
 - https://www.wikidata.org/wiki/Q16676644
 schema_version: 1
+director:
+- shmaruk-isaak-petrovich
+screenwriter:
+- shemshurin-andrey
+cast:
+- person: kopelyan-efim-zakharovich
+- person: yankovskiy-rostislav-ivanovich
+- person: stupka-bogdan-silvestrovich
+- person: olyalin-nikolay-vladimirovich
+- person: luchko-klara-stepanovna
+- person: bakshtaev-leonid-georgievich
+- person: strzhelchik-vladislav-ignatevich
+- person: lavrov-yuriy-sergeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

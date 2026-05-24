@@ -8,6 +8,22 @@ runtime_min: 137
 external_ids:
   wikidata: Q3225856
   imdb: tt0018269
+  youtube: 01QqXM9ru9g
 sources:
 - https://www.wikidata.org/wiki/Q3225856
 schema_version: 1
+director:
+- gardin-vladimir-rostislavovich
+- chervyakov-evgeniy-veniaminovich
+screenwriter:
+- chervyakov-evgeniy-veniaminovich
+cinematographer:
+- aptekman-naum-grigorevich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: chervyakov-evgeniy-veniaminovich
+- person: khudoleev-ivan-nikolaevich
+- person: tamarin-boris-petrovich
+studio:
+- sovkino
+poster_commons: Поэт и царь (1927) poster.jpg

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56887246
 schema_version: 1
+director:
+- taborsky-vaclav
+cast:
+- person: bogdalova-irzhina
+- person: menshik-vladimir
+- person: khyoger-karel
+- person: cockova-helga
+studio:
+- kratky-film-praha

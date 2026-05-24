@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q61052727
 schema_version: 1
+director:
+- rona-iosif-ivanovich
+screenwriter:
+- nechesa-pavel-fyodorovich
+cinematographer:
+- rona-iosif-ivanovich
+cast:
+- person: lyarov-matvey-lvovich
+- person: shumskiy-yuriy-vasilevich
+- person: gebdovskaya-nataliya-aleksandrovna
+- person: zamychkovskiy-ivan-eduardovich
+studio:
+- odesskaya-kinostudiya

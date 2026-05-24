@@ -8,6 +8,19 @@ runtime_min: 9
 external_ids:
   wikidata: Q12001582
   imdb: tt0346978
+  youtube: dIRrPUZT1P8
 sources:
 - https://www.wikidata.org/wiki/Q12001582
 schema_version: 1
+director:
+- tyrlova-germina
+- zastera-ladislav
+screenwriter:
+- klos-elmar
+- kolaja-jiri
+cinematographer:
+- hrdlicka-pavel
+composer:
+- ponc-miroslav
+studio:
+- filmove-ateliery-bata

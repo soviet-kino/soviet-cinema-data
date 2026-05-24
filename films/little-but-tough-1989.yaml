@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20974135
 schema_version: 1
+director:
+- gryunvalski-ferents
+cast:
+- person: gaspar-shandor
+- person: ban-yanos
+- person: mushchi-zoltan

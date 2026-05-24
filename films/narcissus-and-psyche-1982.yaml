@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1965498
 schema_version: 1
+director:
+- body-gabor
+screenwriter:
+- body-gabor
+- csaplar-vilmos
+cinematographer:
+- khildebrand-ishtvan
+composer:
+- vidovski-laslo
+cast:
+- person: kaven-ingrid
+- person: kir-udo
+- person: gera-zoltan-2
+- person: pilinskiy-yanosh
+- person: cherkhalmi-dyord
+- person: erdely-miklos
+- person: hoppal-mihaly
+poster_commons: Narcissus and Psyche - Poster.jpg

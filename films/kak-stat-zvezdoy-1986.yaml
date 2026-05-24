@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4208851
 schema_version: 1
+director:
+- aksyonov-vitaliy-evgenevich
+cinematographer:
+- bagaev-ivan-mikhaylovich
+composer:
+- reznikov-viktor-mikhaylovich
+cast:
+- person: leontev-valeriy-yakovlevich
+- person: pauls-raymond
+- person: polunin-vyacheslav-ivanovich
+- person: leonidov-maksim
+studio:
+- lenfilm

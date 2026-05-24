@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84993138
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- gerasimov-iosif-abramovich
+- gorokhov-aleksandr-sergeevich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: matveev-evgeniy-semyonovich
+- person: plotnikov-boris
+- person: shabaltas-ivan-mikhaylovich
+studio:
+- mosfilm

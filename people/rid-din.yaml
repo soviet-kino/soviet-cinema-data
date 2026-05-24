@@ -1,0 +1,9 @@
+id: rid-din
+name_ru: Дин Рид
+roles:
+- actor
+external_ids:
+  wikidata: Q172584
+sources:
+- https://www.wikidata.org/wiki/Q172584
+schema_version: 1

@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q15545317
   imdb: tt2643970
+  youtube: GVNDWh57HcE
 sources:
 - https://www.wikidata.org/wiki/Q15545317
 schema_version: 1
+director:
+- khodataeva-olga
+cinematographer:
+- voinov-nikolay-vasilevich
+studio:
+- soyuzmultfilm
+poster_commons: Lisa Zayats i Petukh.jpg

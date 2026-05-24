@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11829072
 schema_version: 1
+director:
+- turov-viktor-timofeevich
+- brodskiy-marek
+screenwriter:
+- turov-viktor-timofeevich
+- gzhimkovskiy-ezhi
+cinematographer:
+- lyambakh-boguslav
+- sporyshkov-vladimir-petrovich
+cast:
+- person: zigmunt-malyanovich
+- person: eymont-bogdan
+- person: lipovskaya-teresa
+- person: zalivskiy-tomash
+- person: kotys-ryshard
+- person: masalskis-valentinas
+- person: nevzorov-boris
+- person: bilevskiy-bogush
+- person: kolbasiuk-kshishtof
+- person: kossobudzkaya-khalina
+- person: probosh-adam
+- person: prechigs-andzhey
+- person: sosna-edward
+- person: nehrebecki-gabriel
+- person: adamski-w-odzimierz
+- person: rychter-zdzis-aw
+- person: molga-ezhi
+- person: grushnits-iolanta
+- person: janowski-mieczys-aw
+- person: seyka-pyotr
+studio:
+- belarusfilm

@@ -8,6 +8,20 @@ runtime_min: 128
 external_ids:
   wikidata: Q4129960
   imdb: tt0367210
+  youtube: yLTbRo9WPFs
 sources:
 - https://www.wikidata.org/wiki/Q4129960
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+screenwriter:
+- abramov-sergey-aleksandrovich
+composer:
+- chernavskiy-yuriy-aleksandrovich
+cast:
+- person: polskikh-galina
+- person: kuklachyov-yuriy-dmitrievich
+- person: maryanov-dmitriy-yurevich
+- person: mashnaya-olga
+studio:
+- odesskaya-kinostudiya

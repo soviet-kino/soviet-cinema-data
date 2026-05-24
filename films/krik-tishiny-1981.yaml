@@ -8,6 +8,21 @@ runtime_min: 89
 external_ids:
   wikidata: Q21640721
   imdb: tt0237388
+  youtube: XE0GIwrLLhM
 sources:
 - https://www.wikidata.org/wiki/Q21640721
 schema_version: 1
+director:
+- dashiev-arya-tsyrenovich
+screenwriter:
+- kalashnikov-isay-kalistratovich
+composer:
+- ter-tatevosyan-dzhon
+cast:
+- person: vidov-oleg-borisovich
+- person: solomin-yuriy-mefodevich
+- person: shcherbakov-boris-vasilevich
+- person: elbonov-mikhail
+- person: vampilov-buda-nikolaevich
+studio:
+- mosfilm

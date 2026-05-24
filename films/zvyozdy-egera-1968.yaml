@@ -11,3 +11,41 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q733771
 schema_version: 1
+director:
+- varkoni-zoltan
+screenwriter:
+- gardoni-geza
+- nemeshkyurti-ishtvan
+cinematographer:
+- secheni-ferents
+composer:
+- farkash-ferents
+cast:
+- person: zoltan-latinovich
+- person: varkoni-zoltan
+- person: ruttkai-eva
+- person: bardi-zhurzh
+- person: besseniey-ferents
+- person: bankhidi-laslo
+- person: agardi-gabor
+- person: bichkei-tibor
+- person: zente-ferents
+- person: ventsel-vera
+- person: benko-piter
+- person: balazs-samu
+- person: benko-gyula
+- person: gobbi-khilda
+- person: kern-andrash
+- person: konts-gabor
+- person: aktyor-ishtvan-kovach
+- person: mayor-tamash
+- person: molnar-tibor
+- person: sabo-gabor-madi
+- person: rayz-yanosh
+- person: imre-shinkovich
+- person: somogyvari-rudolf
+- person: szmere-vera
+- person: tot-laslo-takhi
+- person: tordi-geza
+studio:
+- pannoniya

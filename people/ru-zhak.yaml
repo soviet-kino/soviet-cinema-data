@@ -1,0 +1,9 @@
+id: ru-zhak
+name_ru: Жак Ру
+roles:
+- actor
+external_ids:
+  wikidata: Q17497045
+sources:
+- https://www.wikidata.org/wiki/Q17497045
+schema_version: 1

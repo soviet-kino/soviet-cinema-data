@@ -8,6 +8,15 @@ runtime_min: 18
 external_ids:
   wikidata: Q4453604
   imdb: tt1943018
+  youtube: F6zGJAcbIrI
 sources:
 - https://www.wikidata.org/wiki/Q4453604
 schema_version: 1
+director:
+- lomidze-grigoriy-zakharovich
+screenwriter:
+- romanov-sergey-aleksandrovich
+cinematographer:
+- druyan-mikhail
+studio:
+- soyuzmultfilm

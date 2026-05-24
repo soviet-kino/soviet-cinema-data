@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q53465457
 schema_version: 1
+director:
+- tschortner-petra
+composer:
+- lise-mona

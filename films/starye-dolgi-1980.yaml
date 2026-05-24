@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q124483227
   imdb: tt0484297
+  youtube: 21K9CQ-KQRY
 sources:
 - https://www.wikidata.org/wiki/Q124483227
 schema_version: 1
+director:
+- gurin-ilya-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

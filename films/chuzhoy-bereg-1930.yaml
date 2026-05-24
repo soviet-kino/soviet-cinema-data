@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4517774
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+cinematographer:
+- galper-mikhail-aleksandrovich
+cast:
+- person: gudkin-yakov-matveevich
+studio:
+- lenfilm
+- sovkino

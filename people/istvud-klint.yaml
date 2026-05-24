@@ -1,0 +1,9 @@
+id: istvud-klint
+name_ru: Клинт Иствуд
+roles:
+- actor
+external_ids:
+  wikidata: Q43203
+sources:
+- https://www.wikidata.org/wiki/Q43203
+schema_version: 1

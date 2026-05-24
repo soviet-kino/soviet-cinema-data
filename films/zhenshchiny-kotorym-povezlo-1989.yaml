@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q21639437
   imdb: tt0309230
+  youtube: jh7TZMu2_fg
 sources:
 - https://www.wikidata.org/wiki/Q21639437
 schema_version: 1
+director:
+- orlov-mark-evseevich
+screenwriter:
+- olshanskiy-viktor-iosifovich
+- olshanskiy-iosif-grigorevich
+studio:
+- ekran

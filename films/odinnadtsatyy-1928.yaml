@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q88220751
 schema_version: 1
+director:
+- vertov-dziga
+cinematographer:
+- kaufman-mikhail-abramovich

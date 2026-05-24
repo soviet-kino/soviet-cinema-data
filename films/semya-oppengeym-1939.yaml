@@ -8,6 +8,20 @@ runtime_min: 97
 external_ids:
   wikidata: Q4415699
   imdb: tt0031915
+  youtube: Oba-jXyfP4Q
 sources:
 - https://www.wikidata.org/wiki/Q4415699
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+cinematographer:
+- kosmatov-leonid
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: balashov-vladimir-pavlovich
+- person: voytsik-ada-ignatevna
+- person: plotnikov-nikolay-sergeevich
+- person: tolchanov-iosif-moiseevich
+studio:
+- mosfilm

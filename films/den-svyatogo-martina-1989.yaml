@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31279998
 schema_version: 1
+director:
+- kolberg-jaan
+screenwriter:
+- pedmanson-peep
+cinematographer:
+- kotov-reyn
+cast:
+- person: tabor-margus
+- person: tennosaar-liyna

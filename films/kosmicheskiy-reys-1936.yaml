@@ -8,6 +8,21 @@ runtime_min: 70
 external_ids:
   wikidata: Q3228251
   imdb: tt0252612
+  youtube: RKrOSDTolNA
 sources:
 - https://www.wikidata.org/wiki/Q3228251
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- tsiolkovskiy-konstantin
+- filimonov-aleksandr-aleksandrovich
+cinematographer:
+- galperin-aleksandr-vladimirovich
+composer:
+- kruchinin-valentin-yakovlevich
+cast:
+- person: stolyarov-sergey-dmitrievich
+- person: komarov-sergey-petrovich
+studio:
+- mosfilm

@@ -8,6 +8,22 @@ runtime_min: 65
 external_ids:
   wikidata: Q4156476
   imdb: tt0027522
+  youtube: G9JLPi974SM
 sources:
 - https://www.wikidata.org/wiki/Q4156476
 schema_version: 1
+director:
+- ilich-sidelyov-sergey
+- verner-mikhail-evgenevich
+screenwriter:
+- lokot-vasiliy-timofeevich
+cinematographer:
+- bulinskiy-andrey-aleksandrovich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: petker-boris-yakovlevich
+- person: rostovtsev-mikhail-antonovich
+studio:
+- belarusfilm
+poster_commons: Ru-dev-podr-zheny.png

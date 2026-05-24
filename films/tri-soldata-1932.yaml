@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106640595
 schema_version: 1
+director:
+- ivanov-aleksandr-gavrilovich
+screenwriter:
+- granatman-vladimir-vladimirovich
+- ivanov-aleksandr-gavrilovich
+- lipatov-boris
+cinematographer:
+- ilich-gintsburg-aleksandr
+cast:
+- person: kostrichkin-andrey-andreevich
+- person: chervyakov-evgeniy-veniaminovich
+studio:
+- lenfilm

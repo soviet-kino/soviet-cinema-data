@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24700935
 schema_version: 1
+director:
+- khyubner-volfgang
+screenwriter:
+- khyubner-volfgang
+- borkmann-eberkhard
+cinematographer:
+- borkmann-eberkhard
+composer:
+- fisher-gyunter
+cast:
+- person: klering-khans
+- person: rikhter-raynik-ditmar
+- person: agisheva-mariyam
+- person: shmitt-valfride
+studio:
+- defa

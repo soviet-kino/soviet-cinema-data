@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2636971
 schema_version: 1
+director:
+- kleyn-gerkhard
+screenwriter:
+- kolkhaaze-volfgang
+cinematographer:
+- bergman-verner
+composer:
+- kluck-gunter
+cast:
+- person: gize-khorst
+- person: haack-gunther
+- person: geshonnek-ervin
+- person: reppert-artur
+- person: tayn-ulrikh
+- person: frants-erikh
+- person: shvil-ernst-georg
+- person: flyossel-gans
+- person: legal-marga
+- person: wei-siegfried
+studio:
+- defa

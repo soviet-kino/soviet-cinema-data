@@ -1,0 +1,9 @@
+id: begolli-istref
+name_ru: Istref Begolli
+roles:
+- actor
+external_ids:
+  wikidata: Q13040264
+sources:
+- https://www.wikidata.org/wiki/Q13040264
+schema_version: 1

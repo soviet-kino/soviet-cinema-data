@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q44870555
 schema_version: 1
+director:
+- mikhu-yulian

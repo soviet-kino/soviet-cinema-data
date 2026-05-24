@@ -11,3 +11,48 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6319567
 schema_version: 1
+director:
+- kakhlik-antonin
+screenwriter:
+- kundera-milan
+- kakhlik-antonin
+cinematographer:
+- nemechek-yan
+composer:
+- sommer-vladimir
+cast:
+- person: kopetskiy-milosh
+- person: yiraskova-yirzhina
+- person: landovsky-pavel
+- person: jirotkova-ilona
+- person: kakhlik-antonin
+- person: syslova-dana
+- person: kryzanek-zdenek
+- person: uzelats-milivoy
+- person: khalupka-otakar
+- person: hanzlik-karel
+- person: mixova-ivana
+- person: marsalkova-pavla
+- person: prokhazkova-alena
+- person: gerlova-jarmila
+- person: prichystal-jiri
+- person: lelitova-primusova-gana
+- person: klemens-vladimir
+- person: visek-jan
+- person: richterova-marta
+- person: kubicek-frantisek
+- person: pokrna-daniela
+- person: gouldova-kvetoslava
+- person: fingerova-marie
+- person: rehakova-jindra
+- person: bendova-gelena
+- person: dindelova-edita
+- person: balejova-alena
+- person: marsicek-vlastimil
+- person: kovarova-j
+- person: horakova-p
+- person: lauferova-jana
+- person: svobodova-boleslava
+- person: karpasova-jana
+studio:
+- barrandov

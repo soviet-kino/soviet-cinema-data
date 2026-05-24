@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q38047975
 schema_version: 1
+director:
+- lomidze-grigoriy-zakharovich
+cast:
+- person: krylov-stepan-ivanovich
+- person: karliev-alty
+- person: bobrov-ivan-vasilevich
+- person: aktyor-vorobyov-mikhail-sergeevich
+studio:
+- turkmenfilm

@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16587751
 schema_version: 1
+director:
+- trzos-rastawiecki-andrzej
+composer:
+- schaeffer-bogus-aw

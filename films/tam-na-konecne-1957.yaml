@@ -8,6 +8,35 @@ runtime_min: 98
 external_ids:
   wikidata: Q7680489
   imdb: tt0051048
+  youtube: -JZG-sq509s
 sources:
 - https://www.wikidata.org/wiki/Q7680489
 schema_version: 1
+director:
+- kadar-yan
+- klos-elmar
+screenwriter:
+- ashkenazi-lyudvik
+cinematographer:
+- stal-rudolf
+composer:
+- lishka-zdenek
+cast:
+- person: hegerova-hana
+- person: zazvorkova-stella
+- person: ganichinets-petr
+- person: lukavskiy-radovan
+- person: kemr-yozef
+- person: ditetova-yana
+- person: razh-vladimir
+- person: kreuzmannova-alena
+- person: hlavaty-vladimir
+- person: brozhova-mariya
+- person: ruzek-martin
+- person: meliskova-anna
+- person: rozsival-jaroslav
+- person: jerabkova-urbanova-ema
+- person: ocenasova-eva
+- person: hanslikova-vera
+- person: q101225679
+- person: q131820295

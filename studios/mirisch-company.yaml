@@ -1,0 +1,8 @@
+id: mirisch-company
+name_ru: Mirisch Company
+country: US
+external_ids:
+  wikidata: Q456294
+sources:
+- https://www.wikidata.org/wiki/Q456294
+schema_version: 1

@@ -8,6 +8,18 @@ runtime_min: 77
 external_ids:
   wikidata: Q4098227
   imdb: tt0166114
+  youtube: XprKKDFaGPE
 sources:
 - https://www.wikidata.org/wiki/Q4098227
 schema_version: 1
+director:
+- kikabidze-vakhtang
+- gomelauri-tamaz-konstantinovich
+screenwriter:
+- kikabidze-vakhtang
+- gomelauri-tamaz-konstantinovich
+composer:
+- tsabadze-georgiy
+cast:
+- person: kikabidze-vakhtang
+- person: kavtaradze-georgiy-georgievich

@@ -1,0 +1,9 @@
+id: paris-zhorzh-van
+name_ru: Жорж ван Парис
+roles:
+- composer
+external_ids:
+  wikidata: Q966778
+sources:
+- https://www.wikidata.org/wiki/Q966778
+schema_version: 1

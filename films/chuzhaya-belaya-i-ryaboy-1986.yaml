@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3793500
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+cinematographer:
+- klimenko-yuriy
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: saveleva-lyudmila-mikhaylovna
+- person: bitov-andrey-georgievich
+- person: ivanov-ilya-ivanovich
+- person: bodrov-sergey-vladimirovich
+- person: garmash-sergey-leonidovich
+- person: bashirov-aleksandr-nikolaevich
+- person: lautsyavichyus-lyubomiras
+- person: steklov-vladimir-aleksandrovich
+studio:
+- mosfilm

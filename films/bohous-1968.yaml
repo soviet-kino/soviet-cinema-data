@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18915288
 schema_version: 1
+director:
+- shulgoff-petr
+screenwriter:
+- vlcek-frantisek
+cinematographer:
+- voyta-irzhi
+composer:
+- shust-irzhi
+cast:
+- person: gadrboltsova-zdena
+- person: sovak-irzhi
+- person: menshik-vladimir
+- person: baldur

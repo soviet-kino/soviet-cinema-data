@@ -11,3 +11,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19709371
 schema_version: 1
+director:
+- kelmar-laslo

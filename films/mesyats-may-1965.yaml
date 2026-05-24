@@ -8,6 +8,17 @@ runtime_min: 75
 external_ids:
   wikidata: Q97279132
   imdb: tt5038382
+  youtube: Hfqw6wYEwrs
 sources:
 - https://www.wikidata.org/wiki/Q97279132
 schema_version: 1
+director:
+- lipshits-grigoriy-iosifovich
+screenwriter:
+- mironer-feliks-efimovich
+cinematographer:
+- kuzmich-pishchikov-aleksandr
+composer:
+- sandler-oskar-aronovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

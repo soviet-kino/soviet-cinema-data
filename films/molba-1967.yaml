@@ -8,6 +8,17 @@ runtime_min: 77
 external_ids:
   wikidata: Q4301201
   imdb: tt0064680
+  youtube: mLQzcaU9WpM
 sources:
 - https://www.wikidata.org/wiki/Q4301201
 schema_version: 1
+director:
+- abuladze-tengiz-evgenevich
+cinematographer:
+- antipenko-aleksandr-ivanovich
+composer:
+- gabuniya-nodar-kalistratovich
+cast:
+- person: bagashvili-spartak-levanovich
+studio:
+- gruziya-film

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q24041175
 schema_version: 1
+director:
+- kalabukhov-ivan-grigorevich
+cast:
+- person: lenin-mikhail-frantsevich
+- person: afanasev-vladimir-viktorovich
+- person: troitskiy-sergey-dmitrievich
+- person: gardenin-vladimir-vladimirovich
+- person: kalabukhov-ivan-grigorevich
+poster_commons: Красный газ.jpg

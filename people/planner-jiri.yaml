@@ -1,0 +1,9 @@
+id: planner-jiri
+name_ru: Jiří Planner
+roles:
+- actor
+external_ids:
+  wikidata: Q95489467
+sources:
+- https://www.wikidata.org/wiki/Q95489467
+schema_version: 1

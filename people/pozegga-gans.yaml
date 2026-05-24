@@ -1,0 +1,9 @@
+id: pozegga-gans
+name_ru: Ганс Позегга
+roles:
+- composer
+external_ids:
+  wikidata: Q1581827
+sources:
+- https://www.wikidata.org/wiki/Q1581827
+schema_version: 1

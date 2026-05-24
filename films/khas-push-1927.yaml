@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4496392
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- bek-nazarov-amo
+cinematographer:
+- anoshchenko-nikolay-dmitrievich
+cast:
+- person: avetisyan-avet
+- person: vagarshyan-vagarsh-bogdanovich
+- person: nersesyan-rachiya
+- person: martirosyan-amasiy
+- person: khachanyan-amvrosiy
+- person: shamirkhanyan-tigran-avakovich
+- person: garagash-mikayel
+- person: dzhanan-mkrtich
+- person: ayvazyan-tigran
+studio:
+- armenfilm
+poster_commons: Хас-пуш (фільм, 1928).jpg

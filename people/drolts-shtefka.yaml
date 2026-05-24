@@ -1,0 +1,9 @@
+id: drolts-shtefka
+name_ru: Штефка Дролц
+roles:
+- actor
+external_ids:
+  wikidata: Q13473119
+sources:
+- https://www.wikidata.org/wiki/Q13473119
+schema_version: 1

@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9174718
 schema_version: 1
+director:
+- khentsinskiy-silvestr
+screenwriter:
+- stavinskiy-ezhi
+cinematographer:
+- adamek-vitold
+composer:
+- figel-petr
+cast:
+- person: zayonchkovskaya-malgozhata
+- person: pyrkosh-vitold
+- person: kovnatska-gabriela
+- person: skarukh-vitold
+- person: rakhvalskaya-barbara
+- person: gogolevskiy-ignatsy
+- person: alitsiya-yakhevich
+- person: sar-boguslav
+- person: petrykat-edvin
+- person: matysik-ferdinand
+- person: wydrych-genowefa
+- person: drzewicz-wies-aw
+- person: vardeyn-zdzislav
+- person: schejbal-jerzy
+- person: krolowna-krystyna
+studio:
+- polskoe-televidenie
+- iluzjon

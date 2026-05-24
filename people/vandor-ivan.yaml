@@ -1,0 +1,9 @@
+id: vandor-ivan
+name_ru: Иван Вандор
+roles:
+- composer
+external_ids:
+  wikidata: Q1675864
+sources:
+- https://www.wikidata.org/wiki/Q1675864
+schema_version: 1

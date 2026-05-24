@@ -8,6 +8,31 @@ runtime_min: 92
 external_ids:
   wikidata: Q1519753
   imdb: tt0076391
+  youtube: P4k2LNPRV-0
 sources:
 - https://www.wikidata.org/wiki/Q1519753
 schema_version: 1
+director:
+- daneliya-georgiy-nikolaevich
+screenwriter:
+- daneliya-georgiy-nikolaevich
+- tokareva-viktoriya-samoylovna
+- gabriadze-rezo
+cinematographer:
+- petritskiy-anatoliy-anatolevich
+composer:
+- kancheli-giya-aleksandrovich
+cast:
+- person: kikabidze-vakhtang
+- person: leonov-evgeniy-pavlovich
+- person: mkrtchyan-frunzik
+- person: brondukov-borislav-nikolaevich
+- person: proklova-elena-igorevna
+- person: kuravlyov-leonid-vyacheslavovich
+- person: gomiashvili-archil-mikhaylovich
+- person: basov-vladimir-pavlovich
+- person: daushvili-kote
+- person: dyuzheva-marina
+- person: spiridonov-vadim-semyonovich
+studio:
+- mosfilm

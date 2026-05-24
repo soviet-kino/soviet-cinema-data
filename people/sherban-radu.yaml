@@ -1,0 +1,9 @@
+id: sherban-radu
+name_ru: Раду Шербан
+roles:
+- composer
+external_ids:
+  wikidata: Q74624
+sources:
+- https://www.wikidata.org/wiki/Q74624
+schema_version: 1

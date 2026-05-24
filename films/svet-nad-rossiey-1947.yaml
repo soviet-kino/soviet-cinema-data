@@ -8,6 +8,36 @@ runtime_min: 68
 external_ids:
   wikidata: Q21148923
   imdb: tt4729670
+  youtube: qQ9d43z8Ymk
 sources:
 - https://www.wikidata.org/wiki/Q21148923
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- pogodin-nikolay-fyodorovich
+cinematographer:
+- magidson-mark-pavlovich
+composer:
+- khachaturyan-aram
+cast:
+- person: gelovani-mikhail-georgievich
+- person: okhlopkov-nikolay-pavlovich
+- person: kryuchkov-nikolay-afanasevich
+- person: livanov-boris-nikolaevich
+- person: plyatt-rostislav-yanovich
+- person: zuskin-veniamin-lvovich
+- person: vanin-vasiliy-vasilevich
+- person: golovko-kira-nikolaevna
+- person: markov-vasiliy-petrovich
+- person: olenin-girshman-boris-yulevich
+- person: sukharevskaya-lidiya
+- person: nikitich-tolmazov-boris
+- person: tyapkina-elena-alekseevna
+- person: filippov-sergey-nikolaevich
+- person: tsenin-sergey-sergeevich
+- person: yarotskaya-mariya-kasparovna
+- person: marev-vladimir-timofeevich
+- person: kolesnikov-nikolay-nikolaevich
+studio:
+- mosfilm

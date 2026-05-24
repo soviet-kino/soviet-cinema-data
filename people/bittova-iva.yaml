@@ -1,0 +1,9 @@
+id: bittova-iva
+name_ru: Ива Биттова
+roles:
+- actor
+external_ids:
+  wikidata: Q271706
+sources:
+- https://www.wikidata.org/wiki/Q271706
+schema_version: 1

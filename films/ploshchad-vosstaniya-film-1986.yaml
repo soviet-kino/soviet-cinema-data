@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131553147
 schema_version: 1
+director:
+- tokarev-boris-vasilevich
+screenwriter:
+- tokarev-boris-vasilevich
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- shvarts-isaak-iosifovich
+studio:
+- mosfilm

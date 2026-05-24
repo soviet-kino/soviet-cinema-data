@@ -1,0 +1,9 @@
+id: kommerel-blansh
+name_ru: Бланш Коммерель
+roles:
+- actor
+external_ids:
+  wikidata: Q881414
+sources:
+- https://www.wikidata.org/wiki/Q881414
+schema_version: 1

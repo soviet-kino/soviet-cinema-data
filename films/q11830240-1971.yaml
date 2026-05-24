@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11830240
 schema_version: 1
+director:
+- komorovskiy-pavel
+screenwriter:
+- nowakowski-marek
+cinematographer:
+- yakhoda-mechislav
+composer:
+- kilyar-voytsekh
+cast:
+- person: pechka-frantishek
+- person: bista-khenrik
+- person: klosovskiy-roman
+- person: lipovskaya-teresa
+- person: kovalskiy-vatslav
+- person: gustav-lyutkevich
+- person: hanin-ryszarda
+- person: zat-oka-stanis-aw
+- person: gvyazdovskiy-tadeush
+- person: shchurovskaya-irena
+- person: hesse-ewa-maria

@@ -8,6 +8,17 @@ runtime_min: 146
 external_ids:
   wikidata: Q4479406
   imdb: tt0314811
+  youtube: -sbH9_CCU9g
 sources:
 - https://www.wikidata.org/wiki/Q4479406
 schema_version: 1
+director:
+- tatyana-nikolaevna-lukashevich
+cinematographer:
+- sheynin-semyon-alterovich
+composer:
+- kreyn-aleksandr-abramovich
+cast:
+- person: zeldin-vladimir-mikhaylovich
+studio:
+- mosfilm

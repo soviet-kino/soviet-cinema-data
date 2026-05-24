@@ -1,0 +1,9 @@
+id: gavetta-elo
+name_ru: Эло Гаветта
+roles:
+- director
+external_ids:
+  wikidata: Q989013
+sources:
+- https://www.wikidata.org/wiki/Q989013
+schema_version: 1

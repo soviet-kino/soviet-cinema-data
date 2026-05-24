@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124358274
 schema_version: 1
+director:
+- kamenova-magda
+cast:
+- person: andonov-ivan-asenov
+- person: vachkov-grigor
+- person: eneva-lili
+- person: antonov-damyan
+studio:
+- bolgarskoe-natsionalnoe-televidenie

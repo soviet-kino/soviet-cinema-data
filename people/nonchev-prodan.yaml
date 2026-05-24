@@ -1,0 +1,9 @@
+id: nonchev-prodan
+name_ru: Продан Нончев
+roles:
+- actor
+external_ids:
+  wikidata: Q12291507
+sources:
+- https://www.wikidata.org/wiki/Q12291507
+schema_version: 1

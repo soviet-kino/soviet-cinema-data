@@ -8,6 +8,38 @@ runtime_min: 103
 external_ids:
   wikidata: Q12035949
   imdb: tt0208285
+  youtube: 5co16wRPr-U
 sources:
 - https://www.wikidata.org/wiki/Q12035949
 schema_version: 1
+director:
+- rovenski-dzhozef
+screenwriter:
+- mrshtik-vilem
+- vavra-otakar
+- mrshtik-alois
+cinematographer:
+- degl-karel
+composer:
+- fiala-yirzhi
+- dobes-josef
+cast:
+- person: rovenski-dzhozef
+- person: voyta-yaroslav
+- person: shtepnichkova-yirzhina
+- person: glazrova-mariya
+- person: kovarik-frantisek
+- person: nollova-ella
+- person: borsky-vladimir
+- person: vojtova-hermina
+- person: speerger-jan-w
+- person: schleichert-karel
+- person: balek-brodska-milka
+- person: becvarova-marie
+- person: hlavaty-frantisek
+- person: menger-vaclav
+- person: prihoda-josef-ferdinand
+- person: bebrova-mayerova-marta
+- person: soukup-antonin
+- person: q101092526
+- person: nemec-karel

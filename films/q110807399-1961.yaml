@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q110807399
 schema_version: 1
+director:
+- attia-kamal
+composer:
+- ash-shavvan-aziz
+cast:
+- person: al-din-mariam-fakhr
+- person: rizk-amina
+- person: riad-hussein
+- person: ibrakhim-abdel-moneym
+- person: khamis-akhmed

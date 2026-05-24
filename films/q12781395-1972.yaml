@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12781395
 schema_version: 1
+director:
+- latsko-yan
+screenwriter:
+- sokol-shtefan-martin
+- yonash-yan
+cinematographer:
+- byat-tibor
+composer:
+- malovets-yozef
+cast:
+- person: nagyova-jana
+- person: pantik-yulius
+- person: kramar-maros
+- person: mateyka-adam
+- person: bindas-eduard
+- person: strazhanova-kveta
+- person: strniskova-vera
+- person: durdik-ml-vladimir
+- person: raynyak-ivan
+- person: skovay-jozef
+- person: rashlova-marta
+- person: mildner-yan
+- person: radvani-lotar
+- person: khalamova-emiliya
+studio:
+- q20211097

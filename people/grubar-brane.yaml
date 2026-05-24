@@ -1,0 +1,9 @@
+id: grubar-brane
+name_ru: Brane Grubar
+roles:
+- actor
+external_ids:
+  wikidata: Q12786328
+sources:
+- https://www.wikidata.org/wiki/Q12786328
+schema_version: 1

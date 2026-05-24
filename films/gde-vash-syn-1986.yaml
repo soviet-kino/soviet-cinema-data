@@ -8,6 +8,21 @@ runtime_min: 84
 external_ids:
   wikidata: Q84994067
   imdb: tt0266575
+  youtube: eK2dE7MVdBc
 sources:
 - https://www.wikidata.org/wiki/Q84994067
 schema_version: 1
+director:
+- voznesenskiy-igor-matveevich
+screenwriter:
+- voznesenskiy-igor-matveevich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: rostotskiy-andrey-stanislavovich
+- person: valaeva-elena-yaroslavovna
+- person: degtyaryova-tamara-vasilevna
+- person: potapov-aleksandr-sergeevich
+- person: sychev-vladimir-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

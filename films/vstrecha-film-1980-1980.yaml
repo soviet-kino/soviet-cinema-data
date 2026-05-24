@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25394863
 schema_version: 1
+director:
+- itygilov-aleksandr-ataevich
+screenwriter:
+- panfilov-gleb
+composer:
+- guba-vladimir
+cast:
+- person: lyubshin-stanislav-andreevich
+- person: ruslanova-nina-ivanovna
+studio:
+- mosfilm

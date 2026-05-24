@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475364
 schema_version: 1
+director:
+- maar-dyula
+screenwriter:
+- maar-dyula
+- pilinskiy-yanosh
+cinematographer:
+- koltai-layosh
+composer:
+- chekh-tamash
+cast:
+- person: tyoryochik-mari
+- person: kozak-andrash
+- person: suliok-mariya
+- person: kallai-ferents
+- person: estergayosh-tsetsiliya
+- person: mayor-tamash
+- person: radai-imre
+- person: kadar-flora
+studio:
+- hunnia-film-studio

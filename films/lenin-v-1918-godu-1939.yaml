@@ -8,6 +8,36 @@ runtime_min: 130
 external_ids:
   wikidata: Q2471725
   imdb: tt0031564
+  youtube: h9DuoJ6Tcrk
 sources:
 - https://www.wikidata.org/wiki/Q2471725
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- kapler-aleksey-yakovlevich
+- zlatogorova-tatyana-semyonovna
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: gelovani-mikhail-georgievich
+- person: cherkasov-nikolay-konstantinovich
+- person: okhlopkov-nikolay-pavlovich
+- person: shchukin-boris-vasilevich
+- person: plyatt-rostislav-yanovich
+- person: efron-natalya-grigorevna
+- person: lyubashevskiy-leonid-solomonovich
+- person: markov-vasiliy-petrovich
+- person: muzil-elena-nikolaevna
+- person: orlov-dmitriy
+- person: plotnikov-nikolay-sergeevich
+- person: svobodin-nikolay-kapitonovich
+- person: solovyov-vladimir-romanovich
+- person: tolchanov-iosif-moiseevich
+- person: khokhlov-aleksandr-evgenevich
+- person: shatov-aleksandr-pavlovich
+studio:
+- mosfilm

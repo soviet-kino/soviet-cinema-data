@@ -8,6 +8,27 @@ runtime_min: 87
 external_ids:
   wikidata: Q833579
   imdb: tt0039716
+  youtube: -b9Mta0yCOI
 sources:
 - https://www.wikidata.org/wiki/Q833579
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- bleyman-mikhail-yurevich
+- maklyarskiy-mikhail-borisovich
+- isaev-konstantin-fyodorovich
+cinematographer:
+- demutskiy-daniil-porfirevich
+composer:
+- klebanov-dmitriy-lvovich
+- sandler-oskar-aronovich
+cast:
+- person: barnet-boris-vasilevich
+- person: kadochnikov-pavel-petrovich
+- person: martinson-sergey-aleksandrovich
+- person: buchma-amvrosiy-maksimilianovich
+- person: dobrovolskiy-viktor-nikolaevich
+- person: milyutenko-dmitriy-emelyanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

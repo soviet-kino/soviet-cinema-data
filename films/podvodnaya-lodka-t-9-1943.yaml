@@ -8,6 +8,25 @@ runtime_min: 68
 external_ids:
   wikidata: Q12845911
   imdb: tt1767363
+  youtube: _yKM48El6yk
 sources:
 - https://www.wikidata.org/wiki/Q12845911
 schema_version: 1
+director:
+- ivanov-aleksandr-gavrilovich
+screenwriter:
+- zeltser-iogann-moiseevich
+- shteyn-aleksandr-petrovich
+cinematographer:
+- ogly-dadashev-mukhtar-baba
+- renkov-nikolay-stepanovich
+composer:
+- zeydman-boris-isaakovich
+cast:
+- person: zhakov-oleg-petrovich
+- person: dagestanly-ismail
+- person: chinkin-boris-mikhaylovich
+- person: sharlakhov-viktor-petrovich
+studio:
+- lenfilm
+- azerbaydzhanfilm

@@ -1,0 +1,9 @@
+id: polsen-pol
+name_ru: Пол Полсен
+roles:
+- actor
+external_ids:
+  wikidata: Q2061618
+sources:
+- https://www.wikidata.org/wiki/Q2061618
+schema_version: 1

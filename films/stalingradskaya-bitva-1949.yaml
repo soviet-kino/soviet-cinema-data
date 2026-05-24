@@ -11,3 +11,46 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4439207
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- virta-nikolay-evgenevich
+cinematographer:
+- ekelchik-yuriy-izrailevich
+composer:
+- khachaturyan-aram
+cast:
+- person: simonov-nikolay-konstantinovich
+- person: antonov-aleksandr-pavlovich
+- person: dikiy-aleksey-denisovich
+- person: cherkasov-nikolay-konstantinovich
+- person: kryuchkov-nikolay-afanasevich
+- person: shtraukh-maksim-maksimovich
+- person: livanov-boris-nikolaevich
+- person: merkurev-vasiliy-vasilevich
+- person: astangov-mikhail-fyodorovich
+- person: gaydarov-vladimir-georgievich
+- person: plyatt-rostislav-yanovich
+- person: arzhanov-pyotr-mikhaylovich
+- person: belov-gavriil-nikitich
+- person: garkavi-mikhail-naumovich
+- person: derzhavin-mikhail-stepanovich
+- person: dorokhin-nikolay-ivanovich
+- person: knyazev-leonid-sergeevich
+- person: komissarov-nikolay-valerianovich
+- person: krasnopolskiy-aleksey-sergeevich
+- person: massalskiy-pavel-vladimirovich
+- person: nazvanov-mikhail-mikhaylovich
+- person: orlov-vasiliy-aleksandrovich
+- person: plotnikov-nikolay-sergeevich
+- person: ryzhov-nikolay-ivanovich
+- person: smirnov-boris-aleksandrovich
+- person: solovyov-vladimir-romanovich
+- person: stanitsyn-viktor-yakovlevich
+- person: tolubeev-yuriy-vladimirovich
+- person: khokhryakov-viktor-ivanovich
+- person: shumskiy-yuriy-vasilevich
+- person: mikhaylov-konstantin-konstantinovich
+studio:
+- mosfilm
+poster_commons: Tadeusz Trepkowski Bitwa Stalingradzka.jpg

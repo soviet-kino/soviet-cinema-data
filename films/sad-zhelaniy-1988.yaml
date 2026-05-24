@@ -8,6 +8,13 @@ runtime_min: 98
 external_ids:
   wikidata: Q17582658
   imdb: tt0171712
+  youtube: edyYzWUDT1s
 sources:
 - https://www.wikidata.org/wiki/Q17582658
 schema_version: 1
+director:
+- khamraev-ali-irgashalievich
+cinematographer:
+- klimov-vladimir-mikhaylovich
+studio:
+- mosfilm

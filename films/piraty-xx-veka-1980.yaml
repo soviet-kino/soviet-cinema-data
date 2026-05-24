@@ -8,6 +8,28 @@ runtime_min: 79
 external_ids:
   wikidata: Q1976506
   imdb: tt0151987
+  youtube: LTht9XAB7b4
 sources:
 - https://www.wikidata.org/wiki/Q1976506
 schema_version: 1
+director:
+- durov-boris
+screenwriter:
+- govorukhin-stanislav-sergeevich
+- durov-boris
+cinematographer:
+- rybin-aleksandr
+composer:
+- gevorgyan-evgeniy
+cast:
+- person: nigmatulin-talgat-kadyrovich
+- person: aren-reyno
+- person: eryomenko-nikolay-nikolaevich
+- person: velyaminov-pyotr-sergeevich
+- person: episkoposyan-vladimir-arustamovich
+- person: kambarova-dilorom-fayzullaevna
+- person: eglite-mayya
+- person: khorokhorina-natalya-nikolaevna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

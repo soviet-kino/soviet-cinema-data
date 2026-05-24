@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q135669255
 schema_version: 1
+director:
+- sirenko-arkadiy-vasilevich
+screenwriter:
+- grigorev-evgeniy-aleksandrovich
+cinematographer:
+- karavaev-elizbar
+composer:
+- krylatov-evgeniy
+cast:
+- person: nevzorov-boris
+studio:
+- mosfilm

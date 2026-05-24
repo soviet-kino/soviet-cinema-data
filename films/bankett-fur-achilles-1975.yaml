@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q806744
 schema_version: 1
+director:
+- gref-roland
+screenwriter:
+- stephan-martin
+cinematographer:
+- lents-yurgen
+composer:
+- rozenfeld-gerkhard

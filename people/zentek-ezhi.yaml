@@ -1,0 +1,9 @@
+id: zentek-ezhi
+name_ru: Ежи Зентек
+roles:
+- actor
+external_ids:
+  wikidata: Q327529
+sources:
+- https://www.wikidata.org/wiki/Q327529
+schema_version: 1

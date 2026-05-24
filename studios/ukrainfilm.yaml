@@ -1,0 +1,8 @@
+id: ukrainfilm
+name_ru: Украинфильм
+country: SU
+external_ids:
+  wikidata: Q20070384
+sources:
+- https://www.wikidata.org/wiki/Q20070384
+schema_version: 1

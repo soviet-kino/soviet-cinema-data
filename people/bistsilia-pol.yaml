@@ -1,0 +1,9 @@
+id: bistsilia-pol
+name_ru: Пол Бисцилиа
+roles:
+- actor
+external_ids:
+  wikidata: Q3370651
+sources:
+- https://www.wikidata.org/wiki/Q3370651
+schema_version: 1

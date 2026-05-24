@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11744429
 schema_version: 1
+director:
+- belskiy-khenrik
+screenwriter:
+- yanitskiy-ezhi
+cinematographer:
+- ramlau-andzhey
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: zbignev-zapasevich
+- person: ferentsy-adam
+- person: nemchik-leon
+- person: endryka-ioanna
+- person: himilsbach-jan
+- person: klosinskiy-yanush
+- person: dombrovskaya-khelena
+- person: zentek-eva
+- person: krasitskiy-andzhey
+- person: gryn-virgiliush
+- person: pavlik-bronislav
+- person: yanush-palyushkevich
+- person: plotnitskiy-boleslav
+- person: turek-ezhi
+- person: bilevskiy-bogush
+- person: gustav-lyutkevich
+- person: andzheevskiy-leonard
+- person: migulanka-alicja
+- person: tshetsyak-frantsishek
+- person: vardeyn-zdzislav
+- person: kovalska-danuta
+- person: lyamzha-ioakhim
+studio:
+- iluzjon

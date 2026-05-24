@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60675694
 schema_version: 1
+director:
+- eshe-eberkhard
+cast:
+- person: mellis-otto
+- person: khabbema-koks
+- person: eshe-eberkhard

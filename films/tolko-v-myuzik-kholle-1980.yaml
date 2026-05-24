@@ -8,6 +8,21 @@ runtime_min: 89
 external_ids:
   wikidata: Q4460058
   imdb: tt0081640
+  youtube: C_qYoCgYE4o
 sources:
 - https://www.wikidata.org/wiki/Q4460058
 schema_version: 1
+director:
+- kovalsky-nikolai
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: polishchuk-lyubov
+- person: dmitriev-igor-borisovich
+- person: sklyar-igor-borisovich
+- person: ilichyov-viktor-grigorevich
+- person: migitsko-sergey
+- person: svetin-mikhail-semyonovich
+- person: yurevich-irina-aleksandrovna
+studio:
+- odesskaya-kinostudiya

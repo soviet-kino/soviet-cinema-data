@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4376857
 schema_version: 1
+director:
+- tatarskiy-evgeniy-markovich
+screenwriter:
+- tigay-arkadiy-grigorevich
+cinematographer:
+- veksler-yuriy-abramovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: polishchuk-lyubov
+- person: kuravlyov-leonid-vyacheslavovich
+- person: sadalskiy-stanislav-yurevich
+- person: funtikov-vasiliy-vladimirovich
+studio:
+- lenfilm

@@ -8,6 +8,26 @@ runtime_min: 100
 external_ids:
   wikidata: Q4368799
   imdb: tt0230651
+  youtube: lkaHd2l4t3U
 sources:
 - https://www.wikidata.org/wiki/Q4368799
 schema_version: 1
+director:
+- grigorev-vladimir-nikolaevich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+- aleksey-evgenevich-gabrilovich
+cinematographer:
+- mironov-valeriy-andreevich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: nikonenko-sergey
+- person: vasileva-ekaterina-sergeevna
+- person: malevannaya-larisa-ivanovna
+- person: palmov-oleg-konstantinovich
+- person: platonov-yuriy-andreevich
+- person: simonova-shchepetnova-galina-nikolaevna
+- person: chaban-aleksandr-vasilevich
+studio:
+- lenfilm

@@ -8,6 +8,13 @@ runtime_min: 82
 external_ids:
   wikidata: Q111524057
   imdb: tt0821751
+  youtube: mXsD9OsjSvQ
 sources:
 - https://www.wikidata.org/wiki/Q111524057
 schema_version: 1
+director:
+- nenova-ninel-todorovna
+- tsulaya-geno-yasonovich
+composer:
+- kakhidze-dzhansug-ivanovich
+- brzitsov-aleksandr

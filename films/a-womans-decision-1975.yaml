@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4660696
 schema_version: 1
+director:
+- zanussi-kshishtof
+screenwriter:
+- zanussi-kshishtof
+cinematographer:
+- idzyak-slavomir
+composer:
+- kilyar-voytsekh
+cast:
+- person: fronchevskiy-pyotr
+- person: komorovskaya-mayya
+- person: vinnitskaya-lyutsina
+- person: pritulyak-malgozhata
+- person: utrata-kazimera
+- person: pivovskiy-marek
+- person: dmokhovskiy-mariush
+- person: mrozovska-zofya
+- person: vzhesinska-barbara
+- person: karkoshka-elzhbeta
+- person: rostkovskaya-alina
+- person: rinn-danuta
+- person: shenaykh-andzhey
+- person: girych-antonina
+- person: kherman-eugeniya
+- person: miko-ajska-halina
+- person: szmidt-stefan
+- person: poraska-joanna
+- person: ko-odziejczyk-krystyna
+- person: kepinski-marek
+studio:
+- tor-kinostudiya

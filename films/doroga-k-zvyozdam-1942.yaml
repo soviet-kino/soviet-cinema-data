@@ -8,6 +8,22 @@ runtime_min: 42
 external_ids:
   wikidata: Q16645949
   imdb: tt0312635
+  youtube: Yw_GL6zKhtg
 sources:
 - https://www.wikidata.org/wiki/Q16645949
 schema_version: 1
+director:
+- pentslin-eduard-adolfovich
+screenwriter:
+- kreps-vladimir-mikhaylovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: bernes-mark-naumovich
+- person: volkov-nikolay-nikolaevich-2
+- person: zaychikov-vasiliy-fyodorovich
+- person: khvylya-aleksandr-leopoldovich
+- person: cherkasov-nikolay-petrovich
+studio:
+- uzbekfilm
+poster_commons: Дорога к звёздам (постер).jpg

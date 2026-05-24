@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11776842
 schema_version: 1
+director:
+- yatsek-koprovich
+screenwriter:
+- yatsek-koprovich
+- valtenberger-andzhey-rafal
+cinematographer:
+- zelinskiy-ezhi
+- dabal-vit
+composer:
+- debskiy-kshesimir
+cast:
+- person: shtur-ezhi
+- person: zelnik-ezhi
+- person: shapolovskaya-grazhina
+- person: bayor-mikhal
+- person: bista-khenrik
+- person: benua-mariush
+- person: makhalitsa-pyotr
+- person: dalkovskaya-eva
+- person: zintel-zygmunt
+- person: kaspshik-eva
+- person: novak-ezhi
+- person: chodakowska-anna
+- person: syastach-dariush
+- person: goetel-dabkowska-elzbieta
+- person: dembitskiy-vitold
+- person: kovalskiy-vladislav
+- person: wachelko-zaleska-krystyna
+studio:
+- tor-kinostudiya

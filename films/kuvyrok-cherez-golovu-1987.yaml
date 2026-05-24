@@ -8,6 +8,13 @@ runtime_min: 76
 external_ids:
   wikidata: Q4244249
   imdb: tt0298984
+  youtube: bSf4T_2ePw4
 sources:
 - https://www.wikidata.org/wiki/Q4244249
 schema_version: 1
+director:
+- gavrilov-eduard-aleksandrovich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

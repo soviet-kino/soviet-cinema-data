@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12038373
 schema_version: 1
+director:
+- pinkava-yozef
+screenwriter:
+- pinkava-yozef
+- bouchek-yozef
+cinematographer:
+- kolin-irzhi
+composer:
+- fisher-lyubosh
+cast:
+- person: babka-vaclav
+- person: zelenogorska-yitka
+- person: shtepankova-yana
+- person: pardus-erik
+- person: popelikova-nina
+- person: marshalek-steva
+- person: matyash-svatopluk
+- person: opochenskiy-gustav
+- person: minsky-adolf
+- person: solc-frantisek
+- person: byomova-bozhena
+- person: haukvic-josef
+- person: junek-stanislav
+- person: zencak-antonin
+- person: stovicek-josef
+- person: rabas-milan
+- person: vavrinek-rudolf
+- person: hlavova-blanka
+- person: kolovratova-zorka
+studio:
+- kinostudiya-gotvaldova

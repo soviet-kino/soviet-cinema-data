@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4083145
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- andreev-leonid-nikolaevich
+- urinov-yakov-isaakovich
+- leonidov-oleg-leonidovich
+cinematographer:
+- ermolov-pyotr-vasilevich
+cast:
+- person: meyerkhold-vsevolod-emilevich
+- person: sten-anna
+- person: kachalov-vasiliy-ivanovich
+studio:
+- mezhrabpomfilm

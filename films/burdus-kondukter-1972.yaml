@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184145
 schema_version: 1
+director:
+- lezik-dragoslav
+cast:
+- person: burdus-jovan-janicijevic

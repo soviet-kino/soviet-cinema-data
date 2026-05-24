@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4349868
 schema_version: 1
+director:
+- rozantsev-nikolay-vasilevich
+screenwriter:
+- rozantsev-nikolay-vasilevich
+cast:
+- person: gurzo-sergey-safonovich
+studio:
+- lenfilm

@@ -8,6 +8,26 @@ runtime_min: 101
 external_ids:
   wikidata: Q2250632
   imdb: tt0080101
+  youtube: SN4O08rfDEo
 sources:
 - https://www.wikidata.org/wiki/Q2250632
 schema_version: 1
+director:
+- chukhray-grigoriy-naumovich
+screenwriter:
+- chukhray-grigoriy-naumovich
+cinematographer:
+- kuveyler-luidzhi
+composer:
+- trovayoli-armando
+cast:
+- person: muti-ornella
+- person: dzhannini-dzhankarlo
+- person: fermonte-entso
+- person: adomaytis-regimantas
+- person: koberidze-otar-leontevich
+- person: budraytis-yuozas-stanislavas
+- person: montini-luidzhi
+- person: madia-stefano
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: vetsumnietse-venta
+name_ru: Вента Вецумниеце
+roles:
+- actor
+external_ids:
+  wikidata: Q42269494
+sources:
+- https://www.wikidata.org/wiki/Q42269494
+schema_version: 1

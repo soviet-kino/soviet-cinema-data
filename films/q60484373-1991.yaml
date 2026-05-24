@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60484373
 schema_version: 1
+director:
+- valchanov-valchan
+screenwriter:
+- zhotev-dobri
+cast:
+- person: slabakov-pyotr
+- person: fintsi-itskhak
+- person: shchonov-todor
+- person: stefanov-ivan

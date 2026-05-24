@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4167372
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- brik-osip-maksimovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: komarov-sergey-petrovich
+studio:
+- mezhrabpomfilm

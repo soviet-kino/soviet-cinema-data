@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q26239582
 schema_version: 1
+director:
+- pretnar-igor
+- kosmac-france
+- kavcic-jane
+cinematographer:
+- vaupotich-rudi
+composer:
+- adamich-boyan
+cast:
+- person: vrkhovets-yanez
+- person: potokar-loyze
+- person: sever-stane
+- person: sotlar-bert

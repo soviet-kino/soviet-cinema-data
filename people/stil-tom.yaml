@@ -1,0 +1,9 @@
+id: stil-tom
+name_ru: Том Стил
+roles:
+- actor
+external_ids:
+  wikidata: Q945777
+sources:
+- https://www.wikidata.org/wiki/Q945777
+schema_version: 1

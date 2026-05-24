@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2443979
 schema_version: 1
+director:
+- grlich-rayko
+screenwriter:
+- ugreshich-dubravka
+- grlich-rayko
+cinematographer:
+- pinter-tomislav
+composer:
+- zivkovic-brane
+cast:
+- person: furlan-mira
+- person: predrag-manoylovich
+- person: diklich-bogdan
+- person: sherbedzhiya-rade
+- person: sokolovich-bertok-semka
+- person: velimir-bata-zhivoinovich
+- person: goritsa-popovich
+- person: krivokapic-miodrag
+- person: loncar-vitomira
+studio:
+- yadran-film
+- kroatiya-film

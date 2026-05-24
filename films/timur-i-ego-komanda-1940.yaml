@@ -8,6 +8,19 @@ runtime_min: 80
 external_ids:
   wikidata: Q4457761
   imdb: tt0180250
+  youtube: km79CrMf7iI
 sources:
 - https://www.wikidata.org/wiki/Q4457761
 schema_version: 1
+director:
+- razumnyy-aleksandr
+screenwriter:
+- gaydar-arkadiy
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: shchipachyov-liviy-stepanovich
+- person: derevshchikova-ekaterina-aleksandrovna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

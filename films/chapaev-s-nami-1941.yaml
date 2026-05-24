@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4507141
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- gerasimov-sergey
+- arnshtam-leo-oskarovich
+cinematographer:
+- yakovlev-vladimir-timofeevich
+cast:
+- person: babochkin-boris-andreevich
+studio:
+- lenfilm
+poster_commons: Chapaev with us.png

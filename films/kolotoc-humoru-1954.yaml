@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6427834
 schema_version: 1
+director:
+- krnansky-miroslav-josef
+- brejcha-bohumil
+cast:
+- person: burian-vlasta

@@ -10,3 +10,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11813109
 schema_version: 1
+director:
+- krauze-antoni
+screenwriter:
+- himilsbach-jan
+cinematographer:
+- tarasin-tomasz
+composer:
+- marchevskiy-petr
+cast:
+- person: himilsbach-jan
+- person: dzendzel-marian
+- person: zalivskiy-tomash
+- person: zentek-eva
+- person: rakhvalskaya-barbara
+- person: korin-grazyna
+- person: wyrodek-halina
+- person: voytich-tadeush
+- person: voytsik-vislav
+- person: kobek-mieczys-aw
+studio:
+- tor-kinostudiya

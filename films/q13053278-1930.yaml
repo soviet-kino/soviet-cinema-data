@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13053278
 schema_version: 1
+director:
+- martirosyan-amasiy
+cast:
+- person: avetisyan-avet
+- person: khachanyan-amvrosiy
+- person: amirbekyan-aram
+- person: zhasmen

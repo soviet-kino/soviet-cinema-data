@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12842552
 schema_version: 1
+director:
+- litvinov-aleksandr-arkadevich
+screenwriter:
+- litvinov-aleksandr-arkadevich
+- velski-pavel
+cast:
+- person: legoshin-vladimir-grigorevich
+- person: velski-pavel
+studio:
+- azerbaydzhanfilm

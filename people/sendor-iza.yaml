@@ -1,0 +1,9 @@
+id: sendor-iza
+name_ru: Иза Сэндор
+roles:
+- actor
+external_ids:
+  wikidata: Q29919398
+sources:
+- https://www.wikidata.org/wiki/Q29919398
+schema_version: 1

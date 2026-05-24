@@ -1,0 +1,9 @@
+id: trapsho-tekla
+name_ru: Текла Трапшо
+roles:
+- actor
+external_ids:
+  wikidata: Q75334
+sources:
+- https://www.wikidata.org/wiki/Q75334
+schema_version: 1

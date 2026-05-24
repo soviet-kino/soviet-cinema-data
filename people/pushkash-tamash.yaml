@@ -1,0 +1,9 @@
+id: pushkash-tamash
+name_ru: Тамаш Пушкаш
+roles:
+- actor
+external_ids:
+  wikidata: Q1241694
+sources:
+- https://www.wikidata.org/wiki/Q1241694
+schema_version: 1

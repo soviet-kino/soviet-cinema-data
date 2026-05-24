@@ -1,0 +1,9 @@
+id: svetlikova-marketa
+name_ru: Маркета Светликова
+roles:
+- actor
+external_ids:
+  wikidata: Q22969132
+sources:
+- https://www.wikidata.org/wiki/Q22969132
+schema_version: 1

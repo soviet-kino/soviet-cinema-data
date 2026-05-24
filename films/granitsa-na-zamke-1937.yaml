@@ -8,6 +8,22 @@ runtime_min: 71
 external_ids:
   wikidata: Q106640408
   imdb: tt6629904
+  youtube: VFnmKhkHn8A
 sources:
 - https://www.wikidata.org/wiki/Q106640408
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+- kogtev-konstantin-aleksandrovich
+screenwriter:
+- bachelis-ilya-izrailevich
+- dolgopolov-mikhail-nikolaevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: gradopolov-konstantin-vasilevich
+- person: nassonov-konstantin
+- person: svashenko-semyon-andreevich
+studio:
+- soyuzdetfilm
+poster_commons: Кадр Граница на замке 1937.jpg

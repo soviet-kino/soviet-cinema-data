@@ -8,6 +8,26 @@ runtime_min: 93
 external_ids:
   wikidata: Q6091806
   imdb: tt0037684
+  youtube: JEJcoFoq00Q
 sources:
 - https://www.wikidata.org/wiki/Q6091806
 schema_version: 1
+director:
+- lukov-leonid
+- sukhobokov-vladimir-leonidovich
+screenwriter:
+- antonov-sergey-petrovich
+- gorbatov-boris-leontevich
+- bleyman-mikhail-yurevich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: pereverzev-ivan-fyodorovich
+- person: masokha-lavrentiy-emelyanovich
+- person: okunevskaya-tatyana-kirillovna
+- person: pelttser-ivan-romanovich
+- person: tyapkina-elena-alekseevna
+studio:
+- soyuzdetfilm

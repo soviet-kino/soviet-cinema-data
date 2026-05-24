@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4640226
 schema_version: 1
+director:
+- groshopp-rikhard
+screenwriter:
+- brezan-yuriy
+cinematographer:
+- khasler-yoakhim
+composer:
+- wehding-hans-hendrik
+cast:
+- person: frish-lore
+- person: grimmer-aribert
+- person: korb-iren
+- person: arpe-yokhannes
+- person: lyobinger-lotta
+studio:
+- defa

@@ -8,6 +8,18 @@ runtime_min: 67
 external_ids:
   wikidata: Q4532119
   imdb: tt0021375
+  youtube: vUInm2dC6Ug
 sources:
 - https://www.wikidata.org/wiki/Q4532119
 schema_version: 1
+director:
+- vertov-dziga
+screenwriter:
+- vertov-dziga
+cinematographer:
+- tseytlin-boris-borisovich
+composer:
+- dmitriy-shostakovich
+studio:
+- kinostudiya-imeni-a-dovzhenko
+poster_commons: Плакат к фильму «Энтузиазм (Симфония Донбасса)».jpg

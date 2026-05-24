@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4384154
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+screenwriter:
+- shcherbakova-galina-nikolaevna
+cinematographer:
+- klebanov-igor-semyonovich
+composer:
+- dmitriev-georgiy-petrovich
+cast:
+- person: polskikh-galina
+- person: lapikov-ivan-gerasimovich
+- person: morozova-elena-savvichna
+studio:
+- kinostudiya-imeni-m-gorkogo

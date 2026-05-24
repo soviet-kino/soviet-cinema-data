@@ -8,6 +8,15 @@ runtime_min: 87
 external_ids:
   wikidata: Q61086358
   imdb: tt0040264
+  youtube: evm73zrC7g0
 sources:
 - https://www.wikidata.org/wiki/Q61086358
 schema_version: 1
+director:
+- ivanov-barkov-evgeniy-alekseevich
+screenwriter:
+- shklovskiy-viktor-borisovich
+cinematographer:
+- bulinskiy-andrey-aleksandrovich
+studio:
+- turkmenfilm

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15545302
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+screenwriter:
+- belinskiy-aleksandr-arkadevich
+cinematographer:
+- anisimov-yevgeni
+composer:
+- pyatstsolla-astor
+cast:
+- person: maksimova-ekaterina-sergeevna
+studio:
+- ekran

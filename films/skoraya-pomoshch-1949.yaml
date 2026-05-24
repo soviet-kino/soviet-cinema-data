@@ -8,6 +8,18 @@ runtime_min: 10
 external_ids:
   wikidata: Q21644419
   imdb: tt6052526
+  youtube: uW549lsMeNw
 sources:
 - https://www.wikidata.org/wiki/Q21644419
 schema_version: 1
+director:
+- bredis-lamis
+screenwriter:
+- medvedkin-aleksandr-ivanovich
+cinematographer:
+- petrova-elena-nikolaevna
+composer:
+- peyko-nikolay-ivanovich
+studio:
+- soyuzmultfilm
+poster_commons: Emergency services (1949).jpg

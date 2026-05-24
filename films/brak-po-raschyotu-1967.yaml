@@ -11,3 +11,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q54978
 schema_version: 1
+director:
+- bareya-stanislav
+screenwriter:
+- gruszczynski-krzysztof
+cinematographer:
+- q96197766
+composer:
+- ezhi-matushkevich
+cast:
+- person: yatsek-fedorovich
+- person: kobelya-bogumil
+- person: belitskaya-khanka
+- person: chizhevskaya-elzhbeta
+- person: olbrykhskiy-daniel
+- person: bareya-stanislav
+- person: plotnitskiy-boleslav
+- person: pokora-voytsekh
+- person: vikhnyazh-kazimezh
+- person: yulskiy-tsezary
+- person: yamry-zofya
+- person: mikhnikovskiy-veslav
+- person: lazuka-bogdan
+- person: dembitskiy-vitold
+- person: zaorski-andrzej
+- person: mazurowna-krystyna
+- person: pietrzyk-maciej
+- person: bargelovskiy-marek
+studio:
+- rytm-kinostudiya

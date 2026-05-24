@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7943382
 schema_version: 1
+director:
+- obrad-glushevich
+composer:
+- adamich-boyan
+cast:
+- person: shtimats-slavko

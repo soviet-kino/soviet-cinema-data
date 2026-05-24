@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4090101
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- leonov-leonid-maksimovich
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+- laskin-boris-savelevich
+- lench-leonid-sergeevich
+cinematographer:
+- naumov-strazh-naum-solomonovich
+- fogelman-yuliy-moiseevich
+- yakovlev-vladimir-timofeevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: chirkov-boris-petrovich
+studio:
+- mosfilm
+- lenfilm
+- soyuzdetfilm

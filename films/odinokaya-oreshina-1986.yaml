@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20511716
 schema_version: 1
+director:
+- dovlatyan-frunze
+screenwriter:
+- dovlatyan-frunze
+- petrosyan-vardges
+- agababov-arnold
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: dovlatyan-frunze
+- person: sharafyan-levon
+- person: dovlatyan-mikael
+- person: oganesyan-suren
+- person: miridzhanyan-verdzhaluys
+- person: gevondyan-rudolf
+- person: movsisyan-zhora
+- person: atoyan-rafael
+- person: alaverdyan-genrikh
+- person: kocharyan-vladimir
+- person: kocharyan-anahit
+- person: ovchyan-beniamin
+- person: arutyunyan-robert
+- person: vanyan-ovik
+studio:
+- armenfilm

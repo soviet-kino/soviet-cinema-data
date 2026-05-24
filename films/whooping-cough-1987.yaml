@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1294581
 schema_version: 1
+director:
+- gardosh-peter
+cinematographer:
+- mate-tibor
+composer:
+- novak-janos
+cast:
+- person: revitski-gabor
+- person: tyoryochik-mari
+- person: eperjes-karoly

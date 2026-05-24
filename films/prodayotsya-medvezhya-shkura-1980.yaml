@@ -8,6 +8,17 @@ runtime_min: 65
 external_ids:
   wikidata: Q4379917
   imdb: tt5516856
+  youtube: a_Kmt6TZGZk
 sources:
 - https://www.wikidata.org/wiki/Q4379917
 schema_version: 1
+director:
+- itygilov-aleksandr-ataevich
+screenwriter:
+- itygilov-aleksandr-ataevich
+cinematographer:
+- itygilov-aleksandr-ataevich
+cast:
+- person: pyatronaytis-stasis
+studio:
+- kinostudiya-imeni-a-dovzhenko

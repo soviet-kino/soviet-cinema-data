@@ -10,3 +10,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4030087
 schema_version: 1
+director:
+- nikulin-grigoriy-georgievich
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- bagaev-ivan-mikhaylovich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: lavrov-kirill-yurevich
+- person: tolubeev-andrey-yurevich
+- person: yurskiy-sergey-yurevich
+- person: kozakov-mikhail-mikhaylovich
+- person: vitorgan-emmanuil-gedeonovich
+- person: goloborodko-aleksandr-aleksandrovich
+- person: dyukov-samarskiy-vladimir-ivanovich
+- person: merkurev-evgeniy-petrovich
+- person: nevedomskiy-leonid
+- person: parra-aleksandr-vladimirovich
+- person: pushkaryov-igor-borisovich
+- person: urbla-peeter
+- person: svekolnikov-vladimir-stepanovich
+- person: kakabadze-badri
+studio:
+- lenfilm

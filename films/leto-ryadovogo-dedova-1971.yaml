@@ -8,6 +8,21 @@ runtime_min: 64
 external_ids:
   wikidata: Q4260220
   imdb: tt5301860
+  youtube: kz2cCnZfdVc
 sources:
 - https://www.wikidata.org/wiki/Q4260220
 schema_version: 1
+director:
+- vode-georgiy-dmitrievich
+screenwriter:
+- usoltsev-garf-aleksandr-georgievich
+composer:
+- doga-evgeniy
+cast:
+- person: barabanova-larisa-aleksandrovna
+- person: belov-yuriy-andreevich
+- person: bulgakova-mayya
+- person: vinnik-pavel-borisovich
+- person: chigaryov-mikhail-mikhaylovich
+studio:
+- moldova-film

@@ -8,6 +8,45 @@ runtime_min: 96
 external_ids:
   wikidata: Q11863124
   imdb: tt0169760
+  youtube: FN8Tbu0rmbU
 sources:
 - https://www.wikidata.org/wiki/Q11863124
 schema_version: 1
+director:
+- tsikan-miroslav
+screenwriter:
+- kalash-yulius
+- tsikan-miroslav
+cinematographer:
+- rot-yan
+composer:
+- kalash-yulius
+cast:
+- person: vitova-gana
+- person: nedoshinska-entoni
+- person: tregl-vatslav
+- person: sulanova-zdenka
+- person: shustrova-bozhena
+- person: nollova-ella
+- person: hlavaty-vladimir
+- person: busova-helena
+- person: hemmer-ladislav
+- person: schranil-raoul
+- person: balek-brodska-milka
+- person: smolikova-milada
+- person: hora-zdenek
+- person: hruba-vlasta
+- person: veverka-bedrich
+- person: jezkova-marie
+- person: gunka-vatslav
+- person: munk-stefan
+- person: norrova-marie
+- person: bebrova-mayerova-marta
+- person: q101077140
+- person: geblerova-marie
+- person: mordova-frantiska
+- person: frankl-bedrich
+- person: vetesnikova-elsa
+- person: holanova-marie
+- person: bukovy-antonin
+- person: hallerova-marie

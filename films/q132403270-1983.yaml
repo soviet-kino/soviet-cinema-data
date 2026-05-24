@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q132403270
 schema_version: 1
+director:
+- lener-peter
+cinematographer:
+- radai-mikhali
+cast:
+- person: chakani-laslo
+- person: kormendi-janos
+- person: benedek-miklosh
+- person: pshota-iren

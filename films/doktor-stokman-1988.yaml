@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23705704
 schema_version: 1
+director:
+- mikiver-mikk
+screenwriter:
+- kuyk-valentin
+cinematographer:
+- ruus-ago
+composer:
+- sumera-lepo
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: khermakyula-evald
+- person: semyonova-angelina
+- person: klyonskaya-mariya
+studio:
+- tallinfilm

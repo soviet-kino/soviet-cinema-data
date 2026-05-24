@@ -8,6 +8,23 @@ runtime_min: 100
 external_ids:
   wikidata: Q4322201
   imdb: tt0174990
+  youtube: zwd6kERtmFA
 sources:
 - https://www.wikidata.org/wiki/Q4322201
 schema_version: 1
+director:
+- medvedkin-aleksandr-ivanovich
+screenwriter:
+- medvedkin-aleksandr-ivanovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+cast:
+- person: alisova-nina-ulyanovna
+- person: barabanova-mariya-pavlovna
+- person: sagal-daniil-lvovich
+- person: sukhanov-pavel-mikhaylovich
+studio:
+- mosfilm
+poster_commons: New Moscow.jpg

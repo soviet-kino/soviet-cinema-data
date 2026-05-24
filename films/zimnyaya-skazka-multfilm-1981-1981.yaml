@@ -8,6 +8,15 @@ runtime_min: 559
 external_ids:
   wikidata: Q4192069
   imdb: tt5524152
+  youtube: YTCl30a1zBI
 sources:
 - https://www.wikidata.org/wiki/Q4192069
 schema_version: 1
+director:
+- butyrin-yuriy
+screenwriter:
+- kozlov-sergey-grigorevich
+composer:
+- viktor-viktorovich-kuprevich
+studio:
+- ekran

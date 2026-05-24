@@ -1,0 +1,9 @@
+id: kapuchine
+name_ru: Капучине
+roles:
+- actor
+external_ids:
+  wikidata: Q256466
+sources:
+- https://www.wikidata.org/wiki/Q256466
+schema_version: 1

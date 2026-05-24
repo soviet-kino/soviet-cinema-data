@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9340500
 schema_version: 1
+director:
+- rybkovskiy-yan
+screenwriter:
+- krysztofiak-wojciech
+cinematographer:
+- yakhoda-mechislav
+composer:
+- kilyar-voytsekh
+cast:
+- person: izhevskaya-teresa
+- person: lapitskiy-andzhey
+- person: shlyonskaya-aleksandra
+- person: kholoubek-gustav
+- person: zavadskaya-magdalena

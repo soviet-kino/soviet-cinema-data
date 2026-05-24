@@ -8,6 +8,13 @@ runtime_min: 21
 external_ids:
   wikidata: Q21393902
   imdb: tt0949886
+  youtube: 1aZsbz_00I0
 sources:
 - https://www.wikidata.org/wiki/Q21393902
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+screenwriter:
+- timofeevskiy-aleksandr-pavlovich
+studio:
+- sverdlovskaya-kinostudiya

@@ -1,0 +1,9 @@
+id: barnet-kari
+name_ru: Кари Барнет
+roles:
+- actor
+external_ids:
+  wikidata: Q1572466
+sources:
+- https://www.wikidata.org/wiki/Q1572466
+schema_version: 1

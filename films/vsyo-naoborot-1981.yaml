@@ -7,6 +7,29 @@ country:
 external_ids:
   wikidata: Q4127777
   imdb: tt0083308
+  youtube: 12WX72UehmU
 sources:
 - https://www.wikidata.org/wiki/Q4127777
 schema_version: 1
+director:
+- grammatikov-vladimir-aleksandrovich
+screenwriter:
+- lungin-pavel-semyonovich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: tabakov-oleg-pavlovich
+- person: nemolyaeva-svetlana
+- person: efremov-mikhail-olegovich
+- person: samsonova-nadezhda-vasilevna
+- person: bozhok-tatyana-andreevna
+- person: vlasov-sergey-afanasevich
+- person: grammatikov-vladimir-aleksandrovich
+- person: zolotnitskiy-aleksey-alekseevich
+- person: kaznacheeva-natalya
+- person: leontev-avangard-nikolaevich
+- person: mashnaya-olga
+- person: pashutin-aleksandr-sergeevich
+- person: sorochinskaya-zinaida-sigizmundovna
+studio:
+- kinostudiya-imeni-m-gorkogo

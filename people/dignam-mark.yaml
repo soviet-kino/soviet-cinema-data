@@ -1,0 +1,9 @@
+id: dignam-mark
+name_ru: Марк Дигнам
+roles:
+- actor
+external_ids:
+  wikidata: Q1900020
+sources:
+- https://www.wikidata.org/wiki/Q1900020
+schema_version: 1

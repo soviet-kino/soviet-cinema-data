@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q17043455
   imdb: tt3465286
+  youtube: 7bMZyJhHjrs
 sources:
 - https://www.wikidata.org/wiki/Q17043455
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+cinematographer:
+- elkhov-yuriy
+composer:
+- artemyev-eduard
+studio:
+- belarusfilm

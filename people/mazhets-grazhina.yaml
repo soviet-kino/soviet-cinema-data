@@ -1,0 +1,9 @@
+id: mazhets-grazhina
+name_ru: Гражина Мажец
+roles:
+- actor
+external_ids:
+  wikidata: Q9276077
+sources:
+- https://www.wikidata.org/wiki/Q9276077
+schema_version: 1

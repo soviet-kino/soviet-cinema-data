@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2815369
 schema_version: 1
+director:
+- mettsig-kurt
+- dudov-zlatan
+- groshopp-rikhard
+screenwriter:
+- bekher-iogannes-robert
+- velk-em
+- dudov-zlatan
+- bartel-kurt
+cinematographer:
+- baberske-robert
+composer:
+- roters-ernst
+cast:
+- person: pettsold-konrad
+- person: shuman-erik
+- person: ander-charlotte
+- person: runtse-ottokar
+- person: rudolph-hans-georg
+- person: khindemit-kharri
+- person: deickert-karl-heinz
+- person: delshaft-mali
+- person: pledat-verner
+studio:
+- defa

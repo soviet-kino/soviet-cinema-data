@@ -8,6 +8,25 @@ runtime_min: 100
 external_ids:
   wikidata: Q4230166
   imdb: tt0030331
+  youtube: 7uJuWdGpX1A
 sources:
 - https://www.wikidata.org/wiki/Q4230166
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+- vitukhnovskiy-mikhail-semyonovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: kmit-leonid-aleksandrovich
+- person: gerasimov-sergey
+- person: makarova-tamara-fyodorovna
+- person: kryuchkov-nikolay-afanasevich
+- person: aleynikov-pyotr-martynovich
+studio:
+- lenfilm
+poster_commons: Комсомольск VHS.jpg

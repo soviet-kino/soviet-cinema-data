@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5666166
 schema_version: 1
+director:
+- korda-aleksandr
+screenwriter:
+- falk-richard
+- kovari-gyula
+- lajthay-karoly
+cast:
+- person: ratkay-marton
+- person: lajthay-karoly
+- person: somogyi-nusi
+studio:
+- corvin-film-studio

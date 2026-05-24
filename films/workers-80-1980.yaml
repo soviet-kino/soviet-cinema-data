@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124652052
 schema_version: 1
+director:
+- chodakowski-andrzej
+- zajaczkowski-andrzej
+cinematographer:
+- petritskiy-yatsek
+- bukojemski-micha
+studio:
+- warsaw-documentary-film-studio

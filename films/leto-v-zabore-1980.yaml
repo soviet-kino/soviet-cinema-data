@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31272337
 schema_version: 1
+director:
+- maran-reyn
+screenwriter:
+- maran-reyn
+cinematographer:
+- maran-reyn
+composer:
+- sarv-heno
+- sarv-mikk
+cast:
+- person: yussi-fred
+- person: rosberg-riho
+- person: maasik-anne
+- person: pinsel-enn
+- person: pinsel-mihkel
+- person: kase-hannes
+- person: parjasaar-hillar
+- person: tuut-pauliine
+studio:
+- eesti-telefilm

@@ -1,0 +1,9 @@
+id: fotino-aura
+name_ru: Аура Фотино
+roles:
+- actor
+external_ids:
+  wikidata: Q135184525
+sources:
+- https://www.wikidata.org/wiki/Q135184525
+schema_version: 1

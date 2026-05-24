@@ -8,6 +8,48 @@ runtime_min: 83
 external_ids:
   wikidata: Q12047424
   imdb: tt0054202
+  youtube: T9hiQMHr4II
 sources:
 - https://www.wikidata.org/wiki/Q12047424
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- kakhinya-karel
+- novotny-josef-alois
+cinematographer:
+- illik-yozef
+- shamal-irzhi
+composer:
+- vatsek-milosh
+cast:
+- person: pogan-yan
+- person: menshik-vladimir
+- person: valakh-gustav
+- person: kholub-miroslav
+- person: zagorskiy-boguslav
+- person: troyan-ladislav
+- person: hlavaty-vladimir
+- person: tyapak-martin
+- person: koblits-mikhal
+- person: remunda-stanislav
+- person: skladal-svatopluk
+- person: iroushkova-eva
+- person: musil-oldrich
+- person: tesik-jiri
+- person: zebrak-ota
+- person: houbova-hana
+- person: narenta-jindrich
+- person: krahulik-frantisek
+- person: q101210302
+- person: vondracek-josef
+- person: holubar-milan
+- person: borovec-arnost
+- person: gladik-vatslav
+- person: magdolenova-marie
+- person: zintlova-irena
+- person: mulac-milos
+- person: cerny-antonin
+- person: koutnik-jaroslav
+studio:
+- barrandov

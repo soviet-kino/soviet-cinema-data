@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4256176
 schema_version: 1
+director:
+- ismaylov-rasim-rza-ogly
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- ismaylov-rasim-rza-ogly
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: abdulov-vsevolod-osipovich
+- person: nuri-yashar
+- person: yurskiy-sergey-yurevich
+studio:
+- azerbaydzhanfilm

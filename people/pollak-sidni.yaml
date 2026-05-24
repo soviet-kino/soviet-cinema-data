@@ -1,0 +1,9 @@
+id: pollak-sidni
+name_ru: Сидни Поллак
+roles:
+- director
+external_ids:
+  wikidata: Q51522
+sources:
+- https://www.wikidata.org/wiki/Q51522
+schema_version: 1

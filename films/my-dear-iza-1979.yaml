@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28750049
 schema_version: 1
+director:
+- duletich-voyko
+screenwriter:
+- duletich-voyko
+cast:
+- person: sotlar-bert
+- person: juh-boris
+- person: drolts-shtefka
+- person: hribar-zvone

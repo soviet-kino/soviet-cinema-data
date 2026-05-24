@@ -8,6 +8,23 @@ runtime_min: 65
 external_ids:
   wikidata: Q4101644
   imdb: tt0037423
+  youtube: Gv80c3rxaWk
 sources:
 - https://www.wikidata.org/wiki/Q4101644
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- gusev-viktor-mikhaylovich
+cinematographer:
+- pavlov-valentin-efimovich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: samoylov-evgeniy-valerianovich
+- person: ladynina-marina-alekseevna
+- person: lyubeznov-ivan-aleksandrovich
+- person: savitskaya-elena
+- person: lysak-ariadna-anatolevna
+studio:
+- mosfilm

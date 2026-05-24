@@ -8,6 +8,32 @@ runtime_min: 109
 external_ids:
   wikidata: Q4536759
   imdb: tt0033277
+  youtube: oMs6JxW6apc
 sources:
 - https://www.wikidata.org/wiki/Q4536759
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- pavlenko-pyotr-andreevich
+- 18991940-boris-mikhaylovich-levin
+cinematographer:
+- martov-zhozef-klimentevich
+composer:
+- blok-david-semyonovich
+cast:
+- person: smirnov-igor-nikolaevich
+- person: kadochnikov-pavel-petrovich
+- person: pugovkin-mikhail-ivanovich
+- person: okhlopkov-nikolay-pavlovich
+- person: kryuchkov-nikolay-afanasevich
+- person: millyar-georgiy-frantsevich
+- person: shtraukh-maksim-maksimovich
+- person: kayukov-stepan-yakovlevich
+- person: lyubashevskiy-leonid-solomonovich
+- person: markov-vasiliy-petrovich
+- person: kobaladze-andrey-aleksandrovich
+studio:
+- soyuzdetfilm
+poster_commons: A screenshot of Sverdlov movie, 1940. Yakov Sverdlov (Leonid Lyubashevsky)
+  with gun.jpg

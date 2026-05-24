@@ -7,6 +7,16 @@ country:
 runtime_min: 10
 external_ids:
   wikidata: Q65658783
+  youtube: 0nwAMuuq4aE
 sources:
 - https://www.wikidata.org/wiki/Q65658783
 schema_version: 1
+director:
+- khodataev-nikolay
+screenwriter:
+- khodataev-nikolay
+- bragin-abram-grigorevich
+composer:
+- shvarts-lev-oleksandrovich
+studio:
+- mosfilm

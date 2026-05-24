@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119439216
 schema_version: 1
+director:
+- mur-leo
+screenwriter:
+- tarich-yuriy-viktorovich
+cast:
+- person: baranovskaya-vera-vsevolodovna
+- person: egorova-elena-georgievna
+studio:
+- goskino

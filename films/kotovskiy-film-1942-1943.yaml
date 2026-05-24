@@ -8,6 +8,28 @@ runtime_min: 72
 external_ids:
   wikidata: Q4236251
   imdb: tt0036083
+  youtube: u6P8YwOqRqA
 sources:
 - https://www.wikidata.org/wiki/Q4236251
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+screenwriter:
+- kapler-aleksey-yakovlevich
+cinematographer:
+- gindin-mikhail-efimovich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: maretskaya-vera-petrovna
+- person: kryuchkov-nikolay-afanasevich
+- person: astangov-mikhail-fyodorovich
+- person: vanin-vasiliy-vasilevich
+- person: georgiu-georgiy-aleksandrovich
+- person: denisova-aleksandra-alekseevna
+- person: kuzyurina-elizaveta-vladimirovna
+- person: mordvinov-nikolay-dmitrievich
+- person: sorokin-konstantin-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- kazakhfilm

@@ -1,0 +1,9 @@
+id: nort-aleks
+name_ru: Алекс Норт
+roles:
+- composer
+external_ids:
+  wikidata: Q349448
+sources:
+- https://www.wikidata.org/wiki/Q349448
+schema_version: 1

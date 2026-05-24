@@ -8,6 +8,18 @@ runtime_min: 90
 external_ids:
   wikidata: Q4301095
   imdb: tt0070402
+  youtube: g9EaW5z4FIQ
 sources:
 - https://www.wikidata.org/wiki/Q4301095
 schema_version: 1
+director:
+- metalnikov-budimir-alekseevich
+screenwriter:
+- metalnikov-budimir-alekseevich
+composer:
+- artemyev-eduard
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: skobtseva-irina-konstantinovna
+studio:
+- mosfilm

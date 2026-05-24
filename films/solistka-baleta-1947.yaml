@@ -8,6 +8,15 @@ runtime_min: 75
 external_ids:
   wikidata: Q4427731
   imdb: tt0039789
+  youtube: 1GyP6Kz594c
 sources:
 - https://www.wikidata.org/wiki/Q4427731
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+cast:
+- person: redina-mira-evgenevna
+studio:
+- lenfilm

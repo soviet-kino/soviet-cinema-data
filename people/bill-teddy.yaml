@@ -1,0 +1,9 @@
+id: bill-teddy
+name_ru: Teddy Bill
+roles:
+- actor
+external_ids:
+  wikidata: Q89829
+sources:
+- https://www.wikidata.org/wiki/Q89829
+schema_version: 1

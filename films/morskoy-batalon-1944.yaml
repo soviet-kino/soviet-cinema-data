@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q4303347
   imdb: tt0179988
+  youtube: 4tn0jUdZ_2o
 sources:
 - https://www.wikidata.org/wiki/Q4303347
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+- minkin-adolf-iosifovich
+screenwriter:
+- shteyn-aleksandr-petrovich
+cinematographer:
+- rapoport-vladimir
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: abrikosov-andrey-lvovich
+studio:
+- lenfilm

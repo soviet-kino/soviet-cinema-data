@@ -1,0 +1,9 @@
+id: teliti-esat
+name_ru: Esat Teliti
+roles:
+- director
+external_ids:
+  wikidata: Q16354138
+sources:
+- https://www.wikidata.org/wiki/Q16354138
+schema_version: 1

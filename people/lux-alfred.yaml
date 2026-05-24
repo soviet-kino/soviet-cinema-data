@@ -1,0 +1,9 @@
+id: lux-alfred
+name_ru: Alfred Lux
+roles:
+- actor
+external_ids:
+  wikidata: Q107557762
+sources:
+- https://www.wikidata.org/wiki/Q107557762
+schema_version: 1

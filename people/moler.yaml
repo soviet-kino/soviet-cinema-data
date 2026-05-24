@@ -1,0 +1,9 @@
+id: moler
+name_ru: Мольер
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q687
+sources:
+- https://www.wikidata.org/wiki/Q687
+schema_version: 1

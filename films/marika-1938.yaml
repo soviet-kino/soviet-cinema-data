@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18209213
 schema_version: 1
+director:
+- gertler-viktor
+cast:
+- person: yavor-pal
+- person: yukhas-zhozef
+- person: pertsel-zita

@@ -8,6 +8,28 @@ runtime_min: 130
 external_ids:
   wikidata: Q4057252
   imdb: tt0080332
+  youtube: 99PuVUrOPKs
 sources:
 - https://www.wikidata.org/wiki/Q4057252
 schema_version: 1
+director:
+- titov-viktor-abrosimovich
+screenwriter:
+- titov-viktor-abrosimovich
+cinematographer:
+- rerberg-georgy
+composer:
+- tariverdiev-mikael
+cast:
+- person: tariverdiev-mikael
+- person: kalyagin-aleksandr-aleksandrovich
+- person: vasileva-tatyana-grigorevna
+- person: gerdt-zinoviy-efimovich
+- person: lyubeznov-mikhail-ivanovich
+- person: mashnaya-olga
+- person: roninson-gotlib
+- person: sirin-aleksandr-vyacheslavovich
+- person: solovyov-aleksandr-ivanovich
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- ekran

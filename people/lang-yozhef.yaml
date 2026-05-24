@@ -1,0 +1,9 @@
+id: lang-yozhef
+name_ru: Йожеф Ланг
+roles:
+- actor
+external_ids:
+  wikidata: Q1160131
+sources:
+- https://www.wikidata.org/wiki/Q1160131
+schema_version: 1

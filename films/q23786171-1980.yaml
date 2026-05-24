@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23786171
 schema_version: 1
+director:
+- langkhoff-tomas
+cast:
+- person: gosh-yurgen
+- person: lyobinger-lotta

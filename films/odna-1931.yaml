@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q651553
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: gerasimov-sergey
+- person: kuzmina-elena-aleksandrovna
+- person: sobolevskiy-pyotr-stanislavovich
+studio:
+- lenfilm

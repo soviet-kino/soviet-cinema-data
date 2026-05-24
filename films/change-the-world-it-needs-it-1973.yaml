@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q255092
 schema_version: 1
+director:
+- lippmann-jutta
+- lippmann-gunter
+composer:
+- eysler-khans

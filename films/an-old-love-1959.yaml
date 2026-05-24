@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4750181
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- reinowski-werner
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- vertslau-yoakhim
+cast:
+- person: hau-mann-ezard
+- person: zimon-gyunter
+- person: finohr-hans
+- person: ebert-margot
+- person: may-gizela
+- person: abesser-doris
+- person: frants-erikh
+- person: minetti-khans-peter
+- person: shturm-peter
+studio:
+- defa

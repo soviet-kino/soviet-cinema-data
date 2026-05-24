@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124409182
 schema_version: 1
+director:
+- visarion-alexa
+screenwriter:
+- visarion-alexa
+cinematographer:
+- vasile-vivi-dragan
+composer:
+- stroe-aurel
+cast:
+- person: gaytan-vladimir
+- person: belenutse-leopoldina
+- person: vizan-dorel
+- person: mihalea-ioan-luchian
+- person: vasilesku-rezvan
+- person: lazer-dorina
+- person: shtefenesku-eusebiu
+- person: angel-yon
+- person: moldovan-ovidiu
+- person: zammiresku-florin
+- person: zamfirescu-raluca
+- person: chuperchesku-kornel
+- person: cojocaru-constantin
+- person: manolache-dinu
+- person: praida-nicolae
+- person: panamarenko-radu
+- person: sterian-marioara
+- person: nitsu-dzhelu
+- person: sitaru-valeriya
+studio:
+- radef
+- q111550187

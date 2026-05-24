@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q30095031
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: barnet-boris-vasilevich
+- person: sten-anna
+- person: nikandrov-vasiliy-nikolaevich
+- person: romanov-nikolay-yakovlevich
+- person: bobrov-ivan-vasilevich
+studio:
+- mezhrabpom-rus

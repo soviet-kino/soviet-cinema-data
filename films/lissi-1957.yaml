@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1122106
 schema_version: 1
+director:
+- volf-konrad
+screenwriter:
+- volf-konrad
+- vayskopf-greta
+cinematographer:
+- bergman-verner
+composer:
+- vertslau-yoakhim
+cast:
+- person: zutter-emili
+- person: binert-gerkhard
+- person: drinda-khorst
+- person: minetti-khans-peter
+- person: shelkher-raymund
+studio:
+- defa

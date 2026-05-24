@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q27049563
   imdb: tt0275666
+  youtube: 0-OXYKKR_wo
 sources:
 - https://www.wikidata.org/wiki/Q27049563
 schema_version: 1
+director:
+- dolinin-dmitriy
+screenwriter:
+- smirnov-andrey-sergeevich
+cinematographer:
+- ivanov-vladimir-aleksandrovich
+cast:
+- person: yankovskiy-filipp-olegovich
+studio:
+- lenfilm

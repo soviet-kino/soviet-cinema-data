@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9212633
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- tadeush-ruzhevich
+cinematographer:
+- kiyovskiy-matsey
+composer:
+- kilyar-voytsekh
+cast:
+- person: zbignev-zapasevich
+- person: ezhi-radzivilovich
+- person: volleyko-cheslav
+- person: yanush-palyushkevich
+- person: hanin-ryszarda
+- person: goetel-dabkowska-elzbieta
+- person: noymann-vanda
+studio:
+- tor-kinostudiya

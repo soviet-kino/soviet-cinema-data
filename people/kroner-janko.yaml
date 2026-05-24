@@ -1,0 +1,9 @@
+id: kroner-janko
+name_ru: Janko Kroner
+roles:
+- actor
+external_ids:
+  wikidata: Q10791278
+sources:
+- https://www.wikidata.org/wiki/Q10791278
+schema_version: 1

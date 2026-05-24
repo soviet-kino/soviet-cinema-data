@@ -1,0 +1,9 @@
+id: konecny-karel
+name_ru: Karel Konečný
+roles:
+- actor
+external_ids:
+  wikidata: Q133572486
+sources:
+- https://www.wikidata.org/wiki/Q133572486
+schema_version: 1

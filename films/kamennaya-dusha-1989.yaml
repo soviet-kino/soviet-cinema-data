@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4211129
 schema_version: 1
+director:
+- klimenko-stanislav-stepanovich
+cinematographer:
+- nebera-pavel-vladimirovich
+composer:
+- stankovich-evgeniy-fyodorovich
+cast:
+- person: khostikoev-anatoliy-georgievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

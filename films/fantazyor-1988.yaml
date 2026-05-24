@@ -8,6 +8,15 @@ runtime_min: 83
 external_ids:
   wikidata: Q121084553
   imdb: tt0175607
+  youtube: rRB9lCdBBMo
 sources:
 - https://www.wikidata.org/wiki/Q121084553
 schema_version: 1
+director:
+- bunin-valeriy-ivanovich
+screenwriter:
+- bunin-valeriy-ivanovich
+cinematographer:
+- rayskiy-yuriy-vladimirovich
+studio:
+- mosfilm

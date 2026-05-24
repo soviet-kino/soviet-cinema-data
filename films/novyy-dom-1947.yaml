@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q16874925
   imdb: tt0039670
+  youtube: 2Tn5orz0Wlc
 sources:
 - https://www.wikidata.org/wiki/Q16874925
 schema_version: 1
+director:
+- korsh-sablin-vladimir-vladimirovich
+screenwriter:
+- pomeshchikov-evgeniy-mikhaylovich
+cinematographer:
+- rapoport-vladimir
+composer:
+- dunaevskiy-isaak-osipovich
+- lyuban-isaak-isaakovich
+cast:
+- person: khokhryakov-viktor-ivanovich
+studio:
+- belarusfilm

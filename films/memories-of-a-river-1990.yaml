@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6815637
 schema_version: 1
+director:
+- elek-judit
+screenwriter:
+- nadash-peter
+- elek-judit
+composer:
+- etvyosh-peter
+cast:
+- person: gaspar-shandor
+- person: koltai-robert
+- person: mushchi-zoltan
+- person: stohl-andras
+- person: pechka-frantishek

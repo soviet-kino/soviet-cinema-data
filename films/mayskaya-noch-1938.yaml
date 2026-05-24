@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q97314127
   imdb: tt0179325
+  youtube: UqM8SGTlA7A
 sources:
 - https://www.wikidata.org/wiki/Q97314127
 schema_version: 1
+director:
+- nikolay-fyodorovich-sadkovich
+composer:
+- klebanov-dmitriy-lvovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

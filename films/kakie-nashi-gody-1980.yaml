@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4208899
 schema_version: 1
+director:
+- ishmukhamedov-elyor
+screenwriter:
+- agishev-odelsha
+cinematographer:
+- pilipson-genrikh
+composer:
+- shiryaev-evgeniy
+cast:
+- person: bronevoy-leonid-sergeevich
+- person: ulfsak-lembit-yukhanovich
+- person: proklova-elena-igorevna
+- person: sagdullaev-rustam-abdullaevich
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- uzbekfilm

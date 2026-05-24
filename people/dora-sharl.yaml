@@ -1,0 +1,9 @@
+id: dora-sharl
+name_ru: Шарль Дора
+roles:
+- actor
+external_ids:
+  wikidata: Q2958931
+sources:
+- https://www.wikidata.org/wiki/Q2958931
+schema_version: 1

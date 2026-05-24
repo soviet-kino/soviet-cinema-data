@@ -1,0 +1,9 @@
+id: kryuger-bum
+name_ru: Бум Крюгер
+roles:
+- actor
+external_ids:
+  wikidata: Q1004736
+sources:
+- https://www.wikidata.org/wiki/Q1004736
+schema_version: 1

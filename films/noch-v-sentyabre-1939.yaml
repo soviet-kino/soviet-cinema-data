@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q86665014
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+cinematographer:
+- berliner-yakov-leopoldovich
+- naumov-strazh-naum-solomonovich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+cast:
+- person: kryuchkov-nikolay-afanasevich
+- person: fyodorova-zoya-alekseevna
+- person: sagal-daniil-lvovich
+- person: apkhaidze-emmanuil-eliseevich
+studio:
+- mosfilm

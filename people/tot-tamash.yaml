@@ -1,0 +1,9 @@
+id: tot-tamash
+name_ru: Тамаш Тот
+roles:
+- actor
+external_ids:
+  wikidata: Q56390970
+sources:
+- https://www.wikidata.org/wiki/Q56390970
+schema_version: 1

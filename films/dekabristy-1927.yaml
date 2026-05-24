@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4156933
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- ivanovskiy-aleksandr-viktorovich
+- shchyogolev-pavel-eliseevich
+cinematographer:
+- frolov-ivan-sergeevich
+cast:
+- person: maksimov-vladimir-vasilevich
+- person: kriger-vladimir-aleksandrovich
+- person: larikov-aleksandr-iosifovich
+- person: lebedev-nikolay
+- person: michurin-gennadiy-mikhaylovich
+- person: khudoleev-ivan-nikolaevich
+- person: tamarin-boris-petrovich
+studio:
+- lenfilm
+poster_commons: Decembrists, film 1926.jpg

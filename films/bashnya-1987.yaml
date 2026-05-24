@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4080242
   imdb: tt0092621
+  youtube: A3-L1cmjwV0
 sources:
 - https://www.wikidata.org/wiki/Q4080242
 schema_version: 1
+director:
+- viktor-ivanovich-tregubovich
+screenwriter:
+- aleksandrov-aleksandr-leonardovich
+cinematographer:
+- myulgaut-valeriy-valentinovich
+cast:
+- person: burkov-georgiy-ivanovich
+- person: ostroumova-olga-mikhaylovna
+studio:
+- lenfilm

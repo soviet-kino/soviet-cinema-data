@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4241006
 schema_version: 1
+director:
+- saltykov-aleksey
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: banionis-donatas-yuozovich
+- person: kalnynsh-ivar
+studio:
+- mosfilm

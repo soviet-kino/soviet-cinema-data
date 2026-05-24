@@ -8,6 +8,53 @@ runtime_min: 74
 external_ids:
   wikidata: Q112065933
   imdb: tt0173027
+  youtube: iQVPhe7KEYo
 sources:
 - https://www.wikidata.org/wiki/Q112065933
 schema_version: 1
+director:
+- kulidzhanov-lev-aleksandrovich
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+- aleksin-anatoliy-georgievich
+cinematographer:
+- golpukh-yaromir
+composer:
+- biryukov-yuriy-sergeevich
+cast:
+- person: popov-oleg-konstantinovich
+- person: zazvorkova-stella
+- person: brodskiy-vlastimil
+- person: chirkov-boris-petrovich
+- person: pixa-jan
+- person: dranovskaya-lidiya-dmitrievna
+- person: khanus-frantishek
+- person: effa-karel
+- person: geller-emmanuil-savelevich
+- person: dvorski-alois
+- person: fisher-stanislav
+- person: balek-brodska-milka
+- person: miska-frantisek
+- person: smejkalova-jarmila
+- person: jerabkova-urbanova-ema
+- person: bor-ganush
+- person: hykova-taborska-dagmar
+- person: sedlacek-tomas
+- person: kollarik-peter
+- person: schier-jan
+- person: knappova-helena
+- person: dovzenko-nikolaj
+- person: topcijev-leonid
+- person: podvig-vjaceslav
+- person: tretjacenko-natasa
+- person: cernoscekov-a
+- person: demockina-zena
+- person: garin-nikolaj
+- person: kekis-sasa
+- person: tuma-j
+- person: zapasni-bratri
+- person: motrenko-v
+- person: dichtjarova-v
+studio:
+- barrandov
+- kinostudiya-imeni-m-gorkogo

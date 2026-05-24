@@ -10,3 +10,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9127782
 schema_version: 1
+director:
+- trzos-rastawiecki-andrzej
+screenwriter:
+- trzos-rastawiecki-andrzej
+cinematographer:
+- skwirczynski-przemys-aw
+cast:
+- person: zbignev-zapasevich
+- person: olbrykhskiy-daniel
+- person: pentek-yolanta
+- person: dalkovskaya-eva
+- person: gornostay-anna
+- person: hryniewicz-mieczys-aw
+- person: ostrouch-antoni
+- person: yakubovski-dariush
+- person: kenia-eva
+- person: vechinskiy-rafal
+- person: dembinski-ryszard
+- person: szramel-stefan
+- person: sawicka-olga
+studio:
+- studio-filmowe-kadr

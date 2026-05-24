@@ -1,0 +1,9 @@
+id: leskovar-lado
+name_ru: Ладо Лесковар
+roles:
+- actor
+external_ids:
+  wikidata: Q1279954
+sources:
+- https://www.wikidata.org/wiki/Q1279954
+schema_version: 1

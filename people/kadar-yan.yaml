@@ -1,0 +1,9 @@
+id: kadar-yan
+name_ru: Ян Кадар
+roles:
+- director
+external_ids:
+  wikidata: Q715455
+sources:
+- https://www.wikidata.org/wiki/Q715455
+schema_version: 1

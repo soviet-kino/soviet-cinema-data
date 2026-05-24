@@ -1,0 +1,9 @@
+id: pan-aurora
+name_ru: Aurora Pan
+roles:
+- actor
+external_ids:
+  wikidata: Q95727394
+sources:
+- https://www.wikidata.org/wiki/Q95727394
+schema_version: 1

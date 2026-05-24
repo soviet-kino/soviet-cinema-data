@@ -8,6 +8,20 @@ runtime_min: 84
 external_ids:
   wikidata: Q4286007
   imdb: tt0175875
+  youtube: M2v970u8TCI
 sources:
 - https://www.wikidata.org/wiki/Q4286007
 schema_version: 1
+director:
+- bondaryov-oleg-aleksandrovich
+screenwriter:
+- khalfina-mariya-leontevna
+cinematographer:
+- chernykh-igor-anatolevich
+composer:
+- ponomarenko-grigoriy-fyodorovich
+cast:
+- person: doronina-tatyana-vasilevna
+- person: nevedomskiy-leonid
+studio:
+- mosfilm

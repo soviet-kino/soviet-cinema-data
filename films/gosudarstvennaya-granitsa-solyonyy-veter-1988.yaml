@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4146561
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+screenwriter:
+- smirnov-oleg-pavlovich
+composer:
+- artemyev-eduard
+cast:
+- person: ever-ita-alfredovna
+- person: putsitis-uldis
+- person: vazdiks-uldis
+- person: zandberg-valdemar-yanovich
+- person: rakhlenko-aleksandr-yurevich
+- person: tomkus-vitautas-romualdas
+- person: komissarov-kalyu
+- person: kokhv-katrin
+- person: girdvaynis-gediminas
+- person: luyk-sulev
+- person: shurna-antanas
+- person: belokhvostik-valentin-sergeevich
+studio:
+- belarusfilm

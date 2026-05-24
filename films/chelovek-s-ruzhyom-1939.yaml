@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4508597
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- pogodin-nikolay-fyodorovich
+cinematographer:
+- martov-zhozef-klimentevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: shtraukh-maksim-maksimovich
+- person: tenin-boris-mikhaylovich
+studio:
+- lenfilm
+poster_commons: Chelovek s ruzhyom-Bernes.jpg

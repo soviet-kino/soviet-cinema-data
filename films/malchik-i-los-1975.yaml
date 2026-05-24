@@ -8,6 +8,16 @@ runtime_min: 60
 external_ids:
   wikidata: Q65200920
   imdb: tt0179327
+  youtube: XHLROOUBW78
 sources:
 - https://www.wikidata.org/wiki/Q65200920
 schema_version: 1
+director:
+- tumanyan-inessa
+screenwriter:
+- lungin-semyon
+- tumanyan-inessa
+cinematographer:
+- ginzburg-valeriy
+studio:
+- kinostudiya-imeni-m-gorkogo

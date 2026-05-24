@@ -1,0 +1,9 @@
+id: pelingu-drita
+name_ru: Drita Pelingu
+roles:
+- actor
+external_ids:
+  wikidata: Q9210809
+sources:
+- https://www.wikidata.org/wiki/Q9210809
+schema_version: 1

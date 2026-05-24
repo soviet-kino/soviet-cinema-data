@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12346998
 schema_version: 1
+director:
+- fekher-imre
+screenwriter:
+- khubai-miklosh
+cinematographer:
+- badal-zhan
+cast:
+- person: bara-margit
+- person: darvash-ivan
+- person: pechi-shandor
+studio:
+- mafilm

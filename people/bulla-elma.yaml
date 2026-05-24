@@ -1,0 +1,9 @@
+id: bulla-elma
+name_ru: Elma Bulla
+roles:
+- actor
+external_ids:
+  wikidata: Q383346
+sources:
+- https://www.wikidata.org/wiki/Q383346
+schema_version: 1

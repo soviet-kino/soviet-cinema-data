@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55784929
 schema_version: 1
+director:
+- shandor-pal
+cast:
+- person: ventsel-vera
+- person: ferentsi-gabor
+- person: fener-tamas
+- person: salamon-andrash
+- person: surdi-miklosh
+- person: tardy-balazs

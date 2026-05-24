@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5261179
 schema_version: 1
+director:
+- kunert-yoakhim
+cinematographer:
+- merz-otto-2
+composer:
+- azriel-andre
+cast:
+- person: geshonnek-ervin

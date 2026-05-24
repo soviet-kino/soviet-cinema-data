@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6678930
 schema_version: 1
+director:
+- feyosh-pal
+screenwriter:
+- feyosh-pal
+cast:
+- person: partos-guztav
+- person: bardi-edyon

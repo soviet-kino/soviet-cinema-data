@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q677628
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- mints-klimentiy-borisovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: zhukov-aleksandr-dmitrievich
+- person: kuzmina-elena-aleksandrovna
+- person: kryuchkov-nikolay-afanasevich
+- person: sverdlin-lev-naumovich
+- person: aliev-mirza-aga-ali-ogly
+- person: ogly-efendiev-ismail-makhmud
+- person: komarov-sergey-petrovich
+studio:
+- mezhrabpomfilm
+- azerbaydzhanfilm
+poster_commons: Near most blue sea.png

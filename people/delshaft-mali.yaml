@@ -1,0 +1,9 @@
+id: delshaft-mali
+name_ru: Мали Дельшафт
+roles:
+- actor
+external_ids:
+  wikidata: Q1887965
+sources:
+- https://www.wikidata.org/wiki/Q1887965
+schema_version: 1

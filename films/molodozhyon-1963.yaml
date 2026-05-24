@@ -8,6 +8,19 @@ runtime_min: 28
 external_ids:
   wikidata: Q4300664
   imdb: tt21836262
+  youtube: E0PBf0ze080
 sources:
 - https://www.wikidata.org/wiki/Q4300664
 schema_version: 1
+director:
+- isakov-valeriy-trofimovich
+screenwriter:
+- nagibin-yuriy-markovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: vekshin-vasiliy-ivanovich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20507951
 schema_version: 1
+director:
+- barkhudaryan-patvakan
+screenwriter:
+- oganesyan-genrikh
+- barkhudaryan-patvakan
+cinematographer:
+- dildaryan-ivan
+composer:
+- khachaturyan-aram
+- tigranyan-armen
+- spendiarov-aleksandr
+cast:
+- person: talyan-shara
+- person: lisitsian-pavel
+- person: kocharyan-suren-akimovich
+- person: voinova-shikanyan-lyubov-pavlovna
+- person: danielyan-aykanush
+- person: pogosyan-david-levanovich
+- person: sazandaryan-tatevik
+studio:
+- studiya-telefilmov-erevan
+poster_commons: Scene.png

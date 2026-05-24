@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15789132
 schema_version: 1
+director:
+- bayer-frank
+cinematographer:
+- noymann-klaus
+composer:
+- fisher-gyunter

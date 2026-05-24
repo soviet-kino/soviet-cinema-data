@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9370023
 schema_version: 1
+director:
+- bayon-filip
+screenwriter:
+- bayon-filip
+cinematographer:
+- dabal-vit
+composer:
+- szostak-zdzis-aw
+cast:
+- person: zofya-kharevich
+- person: gayos-yanush
+- person: sokhnatskiy-boguslav
+- person: gryglyashevskaya-khalina
+- person: markhelyuk-miroslava
+- person: stalinska-dorota
+studio:
+- tor-kinostudiya

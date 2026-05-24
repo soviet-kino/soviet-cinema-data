@@ -8,6 +8,24 @@ runtime_min: 97
 external_ids:
   wikidata: Q4192570
   imdb: tt0090375
+  youtube: MabRmJ2qrjM
 sources:
 - https://www.wikidata.org/wiki/Q4192570
 schema_version: 1
+director:
+- derbenyov-vadim-klavdievich
+screenwriter:
+- karelin-lazar-viktorovich
+cinematographer:
+- mikhail-leonidovich-agranovich
+composer:
+- chernyshyov-vladimir
+cast:
+- person: polishchuk-lyubov
+- person: polskikh-galina
+- person: banionis-donatas-yuozovich
+- person: mikhaylov-aleksandr-yakovlevich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: kryuchkova-svetlana
+studio:
+- mosfilm

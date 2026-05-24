@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2839083
 schema_version: 1
+director:
+- tarr-bela
+screenwriter:
+- tarr-bela
+- krasnakhorkai-laslo
+composer:
+- vig-mikhay
+cast:
+- person: derzhi-yanosh
+- person: bodnar-erika
+- person: temessy-hedi

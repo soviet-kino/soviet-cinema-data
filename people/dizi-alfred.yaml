@@ -1,0 +1,9 @@
+id: dizi-alfred
+name_ru: Альфред Дизи
+roles:
+- director
+external_ids:
+  wikidata: Q505546
+sources:
+- https://www.wikidata.org/wiki/Q505546
+schema_version: 1

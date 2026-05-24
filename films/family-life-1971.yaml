@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q928260
 schema_version: 1
+director:
+- zanussi-kshishtof
+screenwriter:
+- zanussi-kshishtof
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- kilyar-voytsekh
+cast:
+- person: komorovskaya-mayya
+- person: krechmar-yan
+- person: novitskiy-yan
+- person: olbrykhskiy-daniel
+- person: nekhrebetska-anna
+- person: binchitskiy-ezhi
+- person: markem-devid
+- person: milevskaya-anna
+- person: retkliff-sendi
+- person: soltysik-barbara
+- person: miko-ajska-halina
+- person: strasburger-karol
+- person: braun-edvin
+studio:
+- tor-kinostudiya

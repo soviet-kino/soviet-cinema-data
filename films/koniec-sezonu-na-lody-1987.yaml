@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11742468
 schema_version: 1
+director:
+- shishko-silvestr
+screenwriter:
+- yanitskiy-ezhi
+cinematographer:
+- stachlewski-jacek
+composer:
+- ezhi-matushkevich
+cast:
+- person: pokora-voytsekh
+studio:
+- iluzjon

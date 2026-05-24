@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q112122272
 schema_version: 1
+director:
+- pintaric-martin
+- hellstern-peter
+screenwriter:
+- hellstern-peter
+cinematographer:
+- rosenwanger-peter
+- pintaric-martin
+composer:
+- dedich-arsen
+- pozegga-gans
+studio:
+- viba-film

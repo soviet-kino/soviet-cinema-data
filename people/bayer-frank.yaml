@@ -1,0 +1,9 @@
+id: bayer-frank
+name_ru: Франк Байер
+roles:
+- director
+external_ids:
+  wikidata: Q63972
+sources:
+- https://www.wikidata.org/wiki/Q63972
+schema_version: 1

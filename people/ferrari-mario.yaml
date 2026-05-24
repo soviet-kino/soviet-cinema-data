@@ -1,0 +1,9 @@
+id: ferrari-mario
+name_ru: Марио Феррари
+roles:
+- actor
+external_ids:
+  wikidata: Q3293430
+sources:
+- https://www.wikidata.org/wiki/Q3293430
+schema_version: 1

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184912
 schema_version: 1
+director:
+- stankovic-srboljub
+screenwriter:
+- mikhich-gordan
+cast:
+- person: starcic-viktor

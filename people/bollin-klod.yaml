@@ -1,0 +1,9 @@
+id: bollin-klod
+name_ru: Клод Боллин
+roles:
+- composer
+external_ids:
+  wikidata: Q943109
+sources:
+- https://www.wikidata.org/wiki/Q943109
+schema_version: 1

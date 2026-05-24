@@ -1,0 +1,9 @@
+id: khanke-edit
+name_ru: Эдит Ханке
+roles:
+- actor
+external_ids:
+  wikidata: Q1285003
+sources:
+- https://www.wikidata.org/wiki/Q1285003
+schema_version: 1

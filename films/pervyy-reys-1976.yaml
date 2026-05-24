@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28665841
 schema_version: 1
+director:
+- shakhmalieva-ayan
+cinematographer:
+- ilin-vladimir
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: andreev-boris-fyodorovich
+studio:
+- lenfilm

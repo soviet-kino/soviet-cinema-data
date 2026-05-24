@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q50179663
 schema_version: 1
+director:
+- shotra-zdravko
+screenwriter:
+- kapor-momo
+cast:
+- person: zoran-radmilovich
+- person: bijelic-severin
+- person: milic-nikola

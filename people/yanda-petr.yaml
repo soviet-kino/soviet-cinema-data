@@ -1,0 +1,9 @@
+id: yanda-petr
+name_ru: Петр Янда
+roles:
+- composer
+external_ids:
+  wikidata: Q504840
+sources:
+- https://www.wikidata.org/wiki/Q504840
+schema_version: 1

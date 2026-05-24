@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1125308
 schema_version: 1
+director:
+- somyash-zhurzh
+screenwriter:
+- fabry-sandor
+- gryunvalski-ferents
+- somyash-zhurzh
+- verebes-istvan
+- vasarhelyi-miklos
+cinematographer:
+- gryunvalski-ferents
+composer:
+- shomlo-tamash-2
+cast:
+- person: eperjes-karoly
+- person: andorai-peter
+- person: molnar-vera

@@ -1,0 +1,9 @@
+id: director-egyptian
+name_ru: Egyptian director
+roles:
+- director
+external_ids:
+  wikidata: Q60578132
+sources:
+- https://www.wikidata.org/wiki/Q60578132
+schema_version: 1

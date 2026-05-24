@@ -8,6 +8,22 @@ runtime_min: 102
 external_ids:
   wikidata: Q4085745
   imdb: tt0286502
+  youtube: 4lqRM_daZdQ
 sources:
 - https://www.wikidata.org/wiki/Q4085745
 schema_version: 1
+director:
+- gostev-igor-aronovich
+screenwriter:
+- nikitinskiy-leonid-vasilevich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: pavlov-viktor-pavlovich
+- person: garmash-sergey-leonidovich
+- person: durov-lev-konstantinovich
+- person: androsov-anton-fyodorovich
+- person: tashkov-andrey-evgenevich
+- person: idrisov-nail
+studio:
+- mosfilm

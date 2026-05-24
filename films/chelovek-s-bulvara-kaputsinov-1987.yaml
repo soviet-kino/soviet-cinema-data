@@ -8,6 +8,23 @@ runtime_min: 98
 external_ids:
   wikidata: Q1195685
   imdb: tt0092745
+  youtube: 4JZzsIncaVo
 sources:
 - https://www.wikidata.org/wiki/Q1195685
 schema_version: 1
+director:
+- surikova-alla-ilinichna
+screenwriter:
+- akopov-eduard-tigranovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: polskikh-galina
+- person: tabakov-oleg-pavlovich
+- person: mironov-andrey
+- person: kvasha-igor-vladimirovich
+- person: boyarskiy-mikhail-sergeevich
+- person: yakovleva-aleksandra-evgenevna
+- person: karachentsov-nikolay
+studio:
+- mosfilm

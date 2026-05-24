@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1653653
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- oliva-hagen-hans
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- vertslau-yoakhim
+cast:
+- person: dits-frits
+- person: gize-khorst
+- person: berens-manya
+- person: geshonnek-ervin
+- person: delmare-fred
+- person: kraus-agnes
+- person: karstens-bruno
+- person: byome-marita
+- person: asmus-rudolf
+- person: besendahl-maria
+- person: grube-dayster-elza
+- person: talbakh-sabina
+- person: khardt-khardtloff-khans
+- person: lyudvig-fred
+- person: elers-gerd
+- person: brendler-gertrud
+- person: distelmann-yokhen
+- person: thomas-jochen
+- person: busse-margo
+- person: dommish-peter
+- person: zahn-albert
+studio:
+- defa

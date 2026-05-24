@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48671824
 schema_version: 1
+director:
+- yurachek-pavel
+- shmidt-yan
+screenwriter:
+- yurachek-pavel
+- shmidt-yan
+cinematographer:
+- churzhik-yan
+composer:
+- bukovyy-vilyam
+cast:
+- person: stivin-irzhi
+- person: pogan-yan
+- person: moravkova-konsuela
+- person: ruzicka-ivan
+- person: spal-jaromir
+- person: marsalkova-pavla
+- person: zrotal-jaroslav
+- person: pavlicek-eduard
+- person: vasicek-karel
+- person: bartl-pavel
+- person: silhanek-pavel
+- person: michler-stanislav

@@ -1,0 +1,9 @@
+id: kvepa-vizma
+name_ru: Vizma Kvepa
+roles:
+- actor
+external_ids:
+  wikidata: Q50301722
+sources:
+- https://www.wikidata.org/wiki/Q50301722
+schema_version: 1

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124316571
 schema_version: 1
+director:
+- tzokov-orfey
+screenwriter:
+- tzokov-orfey
+cinematographer:
+- zankov-konstantin
+composer:
+- genkov-georgiy
+cast:
+- person: gorchev-anton
+- person: doneva-violeta
+- person: mladenov-lyubomir

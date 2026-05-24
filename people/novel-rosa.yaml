@@ -1,0 +1,9 @@
+id: novel-rosa
+name_ru: Роса Новель
+roles:
+- actor
+external_ids:
+  wikidata: Q11946288
+sources:
+- https://www.wikidata.org/wiki/Q11946288
+schema_version: 1

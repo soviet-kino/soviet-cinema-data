@@ -1,0 +1,9 @@
+id: anka-mirchi
+name_ru: Мирчи Анка
+roles:
+- actor
+external_ids:
+  wikidata: Q12735656
+sources:
+- https://www.wikidata.org/wiki/Q12735656
+schema_version: 1

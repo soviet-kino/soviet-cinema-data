@@ -1,0 +1,9 @@
+id: divin-karol
+name_ru: Кароль Дивин
+roles:
+- actor
+external_ids:
+  wikidata: Q717280
+sources:
+- https://www.wikidata.org/wiki/Q717280
+schema_version: 1

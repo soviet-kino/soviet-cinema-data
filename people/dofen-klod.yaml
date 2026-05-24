@@ -1,0 +1,9 @@
+id: dofen-klod
+name_ru: Клод Дофен
+roles:
+- actor
+external_ids:
+  wikidata: Q1096611
+sources:
+- https://www.wikidata.org/wiki/Q1096611
+schema_version: 1

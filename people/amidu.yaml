@@ -1,0 +1,9 @@
+id: amidu
+name_ru: Амиду
+roles:
+- actor
+external_ids:
+  wikidata: Q3126442
+sources:
+- https://www.wikidata.org/wiki/Q3126442
+schema_version: 1

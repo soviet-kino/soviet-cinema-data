@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4298967
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+cast:
+- person: chernov-pyotr
+studio:
+- lenfilm

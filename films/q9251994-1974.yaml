@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9251994
 schema_version: 1
+director:
+- fejzo-muharem
+composer:
+- gaci-pjeter

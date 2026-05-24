@@ -1,0 +1,9 @@
+id: leka-gazmend
+name_ru: Gazmend Leka
+roles:
+- director
+external_ids:
+  wikidata: Q5529169
+sources:
+- https://www.wikidata.org/wiki/Q5529169
+schema_version: 1

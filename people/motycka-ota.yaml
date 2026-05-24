@@ -1,0 +1,9 @@
+id: motycka-ota
+name_ru: Ota Motyčka
+roles:
+- actor
+external_ids:
+  wikidata: Q95455286
+sources:
+- https://www.wikidata.org/wiki/Q95455286
+schema_version: 1

@@ -8,6 +8,22 @@ runtime_min: 77
 external_ids:
   wikidata: Q4137910
   imdb: tt0032524
+  youtube: Rp8zcP57ZJc
 sources:
 - https://www.wikidata.org/wiki/Q4137910
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- fogelman-yuliy-moiseevich
+composer:
+- muradeli-vano-ilich
+- blok-david-semyonovich
+cast:
+- person: annenkov-nikolay-aleksandrovich
+- person: stolyarov-sergey-dmitrievich
+- person: gromov-viktor-alekseevich
+studio:
+- soyuzdetfilm

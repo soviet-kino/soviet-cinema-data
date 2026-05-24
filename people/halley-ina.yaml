@@ -1,0 +1,9 @@
+id: halley-ina
+name_ru: Ina Halley
+roles:
+- actor
+external_ids:
+  wikidata: Q6013195
+sources:
+- https://www.wikidata.org/wiki/Q6013195
+schema_version: 1

@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q115131569
 schema_version: 1
+director:
+- kopac-zdenek
+composer:
+- shust-irzhi
+cast:
+- person: hegerova-hana
+- person: matushka-valdemar
+- person: kokatriks-bruno
+- person: prenosilova-yvonne
+- person: hybs-vaclav
+- person: srnec-jiri
+studio:
+- kratky-film-praha

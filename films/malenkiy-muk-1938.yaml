@@ -8,6 +8,11 @@ runtime_min: 768
 external_ids:
   wikidata: Q28465041
   imdb: tt4854050
+  youtube: nmr10hXHO_c
 sources:
 - https://www.wikidata.org/wiki/Q28465041
 schema_version: 1
+director:
+- khodataeva-olga
+studio:
+- soyuzmultfilm

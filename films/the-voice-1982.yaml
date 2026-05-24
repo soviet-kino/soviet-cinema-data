@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3825033
 schema_version: 1
+director:
+- rondi-brunello
+screenwriter:
+- pinelli-tullio
+- rondi-brunello
+composer:
+- chipriani-stelvio
+cast:
+- person: madzantini-margaret
+- person: fekhmiyu-bekim
+- person: bratstsi-rossano
+- person: belli-marisa
+studio:
+- rai

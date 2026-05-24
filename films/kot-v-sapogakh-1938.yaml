@@ -8,6 +8,18 @@ runtime_min: 12
 external_ids:
   wikidata: Q4235901
   imdb: tt10309366
+  youtube: QEfRrgOiBJs
 sources:
 - https://www.wikidata.org/wiki/Q4235901
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm
+poster_commons: Кот в сапогах (кадр из мультфильма, 1938).JPG

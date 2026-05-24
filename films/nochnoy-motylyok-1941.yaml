@@ -8,6 +8,50 @@ runtime_min: 83
 external_ids:
   wikidata: Q1117112
   imdb: tt0033959
+  youtube: WpDlFiK8iNQ
 sources:
 - https://www.wikidata.org/wiki/Q1117112
 schema_version: 1
+director:
+- chap-frantishek
+screenwriter:
+- chap-frantishek
+- krshka-vatslav
+cinematographer:
+- pechenka-ferdinand
+composer:
+- shtraus-iogann
+- blahnik-roman
+cast:
+- person: mandlova-adina
+- person: nezval-gustav
+- person: grushinskiy-rudolf
+- person: benesh-svatopluk
+- person: marold-lyudek
+- person: marvan-yaroslav
+- person: vitova-gana
+- person: eduard-kogout
+- person: skrbkova-lola
+- person: glazrova-mariya
+- person: shlegl-chenek
+- person: steimarova-anna
+- person: hajska-darja
+- person: halkova-elena
+- person: speerger-jan-w
+- person: blazkova-marie
+- person: stros-vladimir
+- person: vajner-frantisek
+- person: vondrovic-jiri
+- person: oliak-josef
+- person: q101048983
+- person: q101078760
+- person: gabrielova-anna
+- person: karlovsky-ada
+- person: kucera-frantisek-v
+- person: vetesnikova-elsa
+- person: holanova-marie
+- person: hradecka-helena
+- person: pecian-vaclav
+- person: lavecka-renee
+- person: proskova-bobina
+- person: truchly-vasil

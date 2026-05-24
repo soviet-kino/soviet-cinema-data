@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q96314796
 schema_version: 1
+director:
+- director-egyptian
+cast:
+- person: rostom-khind
+- person: yasin-esmaeil
+- person: ibrakhim-abdel-moneym
+- person: al-kasbadzhi-riad
+- person: bably-soher-el

@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4087899
   imdb: tt0096937
+  youtube: mKrGTsxSt5s
 sources:
 - https://www.wikidata.org/wiki/Q4087899
 schema_version: 1
+director:
+- nikiforov-vyacheslav
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: lavrov-kirill-yurevich
+- person: efremov-mikhail-olegovich
+- person: zudina-marina-vyacheslavovna
+- person: samoylov-vladimir-yakovlevich
+studio:
+- belarusfilm

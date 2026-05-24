@@ -8,6 +8,29 @@ runtime_min: 68
 external_ids:
   wikidata: Q12221462
   imdb: tt0344490
+  youtube: PrxnJv-E3PY
 sources:
 - https://www.wikidata.org/wiki/Q12221462
 schema_version: 1
+director:
+- valashek-yan
+cinematographer:
+- fric-ivan-vojtech
+composer:
+- lishka-zdenek
+cast:
+- person: shtepanek-zdenek
+- person: voska-vatslav
+- person: kreycha-otomar
+- person: lukavskiy-radovan
+- person: smolik-frantishek
+- person: zagorskiy-boguslav
+- person: logniskiy-vatslav
+- person: besser-vilem
+- person: strejcek-alfred
+- person: halkova-elena
+- person: kurandova-jarmila
+- person: brozhova-mariya
+- person: kasanova-jana
+- person: kreihanslova-hana
+- person: hadl-tomas

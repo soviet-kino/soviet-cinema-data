@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9338596
 schema_version: 1
+director:
+- wosiewicz-leszek
+screenwriter:
+- kovalchik-andzhey
+composer:
+- orlewicz-leszek

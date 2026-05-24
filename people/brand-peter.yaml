@@ -1,0 +1,9 @@
+id: brand-peter
+name_ru: Петер Бранд
+roles:
+- cinematographer
+external_ids:
+  wikidata: Q17537127
+sources:
+- https://www.wikidata.org/wiki/Q17537127
+schema_version: 1

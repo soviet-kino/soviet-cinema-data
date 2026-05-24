@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84993135
 schema_version: 1
+cast:
+- person: smirnova-lidiya-nikolaevna
+- person: kryuchkov-nikolay-afanasevich
+studio:
+- mosfilm

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20526442
 schema_version: 1
+director:
+- fulgosi-niksa
+cinematographer:
+- pinter-tomislav
+cast:
+- person: nalis-antun
+- person: bilus-dujam
+studio:
+- yadran-film

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16083081
 schema_version: 1
+cast:
+- person: berchek-aleksandr
+- person: diklich-bogdan
+- person: voislav-brayovich
+- person: bulayich-dushan
+- person: boyanich-dragomir
+- person: cipranic-ljubomir
+- person: petar-banichevich
+- person: petrovic-bogoljub
+- person: predrag-milinkovich
+- person: miodrag-krstovich
+- person: erak-milan

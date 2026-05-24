@@ -1,0 +1,9 @@
+id: kote-genri
+name_ru: Генри Коте
+roles:
+- actor
+external_ids:
+  wikidata: Q3130888
+sources:
+- https://www.wikidata.org/wiki/Q3130888
+schema_version: 1

@@ -1,0 +1,9 @@
+id: karpa-uve
+name_ru: Уве Карпа
+roles:
+- actor
+external_ids:
+  wikidata: Q97656
+sources:
+- https://www.wikidata.org/wiki/Q97656
+schema_version: 1

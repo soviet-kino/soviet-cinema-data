@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4236392
 schema_version: 1
+cinematographer:
+- miltner-yuriy-konstantinovich
+composer:
+- kortes-sergey-albertovich
+studio:
+- belarusfilm

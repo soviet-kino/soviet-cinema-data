@@ -1,0 +1,9 @@
+id: mondi-per
+name_ru: Пьер Монди
+roles:
+- actor
+external_ids:
+  wikidata: Q738944
+sources:
+- https://www.wikidata.org/wiki/Q738944
+schema_version: 1

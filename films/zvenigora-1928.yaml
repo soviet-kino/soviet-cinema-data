@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1964744
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- zavelev-boris-isaakovich
+composer:
+- ovchinnikov-vyacheslav
+cast:
+- person: uralskiy-vladimir-mikhaylovich
+- person: podorozhnyy-aleksandr
+- person: svashenko-semyon-andreevich
+studio:
+- mosfilm
+- odesskaya-kinostudiya
+- vseukrainskoe-fotokinoupravlenie
+poster_commons: Плакат к фильму «Звенигора» (Воронов, Евстафьев).jpg

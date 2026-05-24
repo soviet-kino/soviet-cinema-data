@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3301960
 schema_version: 1
+director:
+- keko-dzhanfise
+composer:
+- lalo-aleksander

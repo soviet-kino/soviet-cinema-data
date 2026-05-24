@@ -8,6 +8,109 @@ runtime_min: 101
 external_ids:
   wikidata: Q7538804
   imdb: tt0064996
+  youtube: VqMZ6nAXmwY
 sources:
 - https://www.wikidata.org/wiki/Q7538804
 schema_version: 1
+director:
+- stekly-karel
+screenwriter:
+- stekly-karel
+- prokhazka-yan
+cinematographer:
+- tarantik-irzhi
+composer:
+- klempir-jaromir
+cast:
+- person: kopetskiy-milosh
+- person: gott-karel
+- person: kolarova-daniela
+- person: pogan-yan
+- person: ganzlik-yaromir
+- person: bedrna-vlastimil
+- person: kostelka-lyubomir
+- person: vavrushka-milosh
+- person: menshik-vladimir
+- person: sedlacek-pavel
+- person: besser-vilem
+- person: kryzanek-zdenek
+- person: najman-zdenek
+- person: bezouska-bohumil
+- person: svarc-bohumil
+- person: cap-bohuslav
+- person: hlavaty-vladimir
+- person: hrabanek-vladimir
+- person: gruby-vladimir
+- person: preucil-jan
+- person: lir-yirzhi
+- person: stepnicka-jiri
+- person: gruss-yozef
+- person: svoboda-karel-2
+- person: zahrynowska-milena
+- person: nesvadba-milos
+- person: musil-mirko
+- person: popelikova-nina
+- person: velen-oldrzhikh
+- person: chrz-ivan
+- person: skhanilets-yan
+- person: yakl-petr
+- person: kouba-jan
+- person: minsky-adolf
+- person: habl-karel
+- person: beshtak-kamil
+- person: bartosova-stanislava-wanatowiczova
+- person: cmiral-jaroslav
+- person: hanzlik-frantisek
+- person: robin-pavel
+- person: kasanova-jana
+- person: benisko-karel
+- person: zoubkova-miluse
+- person: vlkova-vlastimila
+- person: zahorsky-richard
+- person: sus-jaroslav
+- person: kutil-zdenek
+- person: gzela-ladislav
+- person: soukup-antonin
+- person: q101048983
+- person: marek-frantisek
+- person: kalina-rudolf
+- person: kubicek-frantisek
+- person: anderle-karel
+- person: bulejko-stepan
+- person: navratil-vladimir
+- person: hein-jiri
+- person: jakl-frantisek
+- person: q101210288
+- person: st-karel-hovorka
+- person: q101210302
+- person: vitek-karel
+- person: blahovec-kamil
+- person: bryg-lubomir
+- person: engelova-ludmila
+- person: elsner-yozef
+- person: souckova-jirina
+- person: kramesova-blazena
+- person: q130537193
+- person: q130545700
+- person: jonas-milan
+- person: q131784968
+- person: svacina-frantisek
+- person: houska-zdenek
+- person: prusa-miloslav
+- person: ritschel-robert
+- person: sruta-zbysek
+- person: vinar-petr
+- person: lebeda-petr
+- person: plechacek-frantisek
+- person: hruska-frantisek
+- person: cechova-magdalena
+- person: sladek-jiri
+- person: trojan-jiri
+- person: juna-stanislav
+- person: ovcarova-jindra
+- person: horek-frantisek
+- person: homolova-jana
+- person: polaskova-eva
+- person: havlicek-frantisek
+- person: dohanyos-michal
+- person: zakourilova-eva

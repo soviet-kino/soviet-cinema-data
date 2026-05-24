@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123365597
 schema_version: 1
+director:
+- rodriguez-endre
+cast:
+- person: turay-ida
+- person: aytai-andor
+- person: szorenyi-eva

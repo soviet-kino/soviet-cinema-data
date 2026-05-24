@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12835676
 schema_version: 1
+director:
+- braginski-qriqori
+- kuliev-aga-rza
+- braginskiy-grigoriy-markovich
+screenwriter:
+- ogly-dzhabbarly-dzhafar-kafar
+cinematographer:
+- frolov-ivan-sergeevich
+composer:
+- ogly-tagizade-gadzhibekov-niyazi-zulfugar
+- ogly-gadzhibekov-zulfugar-abdul-guseyn
+cast:
+- person: kurbanova-okuma
+- person: ogly-guseyn-zade-alekper-guseyn
+- person: ogly-idayatzade-ismail-guseyn
+- person: emir-zade-khayri
+- person: m-likov-lis-ttar
+- person: orudzheva-izzet-mirza-aga-kyzy
+studio:
+- azerbaydzhanfilm

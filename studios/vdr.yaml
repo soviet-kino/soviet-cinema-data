@@ -1,0 +1,8 @@
+id: vdr
+name_ru: ВДР
+country: CS
+external_ids:
+  wikidata: Q203453
+sources:
+- https://www.wikidata.org/wiki/Q203453
+schema_version: 1

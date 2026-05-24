@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q438033
 schema_version: 1
+director:
+- khaynrikh-khans
+screenwriter:
+- khaynrikh-khans
+cinematographer:
+- klagemann-oygen
+composer:
+- nachinskiy-gerd
+cast:
+- person: george-gyots
+- person: naumann-khorst
+- person: dugal-elfie
+- person: dunkelman-erika
+- person: pyuttyer-gustav
+- person: quermann-heinz
+- person: maack-alfred
+- person: shmidtchen-kurt
+studio:
+- defa

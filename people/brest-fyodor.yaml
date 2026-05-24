@@ -1,0 +1,9 @@
+id: brest-fyodor
+name_ru: Фёдор Брест
+roles:
+- actor
+external_ids:
+  wikidata: Q75839547
+sources:
+- https://www.wikidata.org/wiki/Q75839547
+schema_version: 1

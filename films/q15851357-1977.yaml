@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15851357
 schema_version: 1
+director:
+- khyubner-volfgang
+cinematographer:
+- borkmann-eberkhard
+composer:
+- gotkhardt-peter

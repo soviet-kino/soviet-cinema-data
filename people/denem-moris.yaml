@@ -1,0 +1,9 @@
+id: denem-moris
+name_ru: Морис Денэм
+roles:
+- actor
+external_ids:
+  wikidata: Q519940
+sources:
+- https://www.wikidata.org/wiki/Q519940
+schema_version: 1

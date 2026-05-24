@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1939381
 schema_version: 1
+director:
+- varneke-lotar
+- eme-roland
+screenwriter:
+- ryomer-rolf
+cinematographer:
+- krauze-peter
+composer:
+- lenz-klaus
+cast:
+- person: varneke-lotar
+- person: krug-manfred
+- person: mikolaevska-kristina
+- person: kemeron-etta
+- person: byurger-annekatrin
+- person: brodhagen-annemarie
+- person: marian-edvin
+- person: ryomer-rolf
+- person: popovich-mavid-milivoye
+- person: dommish-peter
+- person: kherrikht-rolf

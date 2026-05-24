@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20814469
 schema_version: 1
+director:
+- shvankmayer-yan
+screenwriter:
+- shvankmayer-yan
+cinematographer:
+- safar-jiri
+composer:
+- lishka-zdenek
+cast:
+- person: vozab-jaroslav
+- person: fryba-milos

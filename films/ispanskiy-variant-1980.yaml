@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4204158
   imdb: tt0230340
+  youtube: 6yHa1tkCjF0
 sources:
 - https://www.wikidata.org/wiki/Q4204158
 schema_version: 1
+director:
+- latsis-erik
+screenwriter:
+- semyonov-yulian
+composer:
+- pauls-raymond
+studio:
+- rizhskaya-kinostudiya

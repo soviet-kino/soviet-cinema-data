@@ -8,6 +8,15 @@ runtime_min: 85
 external_ids:
   wikidata: Q4350179
   imdb: tt0095848
+  youtube: 3s97nQSeRiI
 sources:
 - https://www.wikidata.org/wiki/Q4350179
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+composer:
+- artemyev-eduard
+cast:
+- person: mironov-evgeniy-vitalevich
+studio:
+- sverdlovskaya-kinostudiya

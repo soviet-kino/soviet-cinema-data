@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1305085
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+screenwriter:
+- fataliev-ramiz-mamedali-ogly
+cinematographer:
+- shevtsik-vladimir-karlovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: batalov-aleksey-vladimirovich
+- person: ozhelite-niyole
+- person: glagoleva-vera-vitalevna
+- person: mikhaylovskiy-nikita-viktorovich
+studio:
+- mosfilm

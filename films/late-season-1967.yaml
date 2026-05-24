@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23781387
 schema_version: 1
+director:
+- fabri-zoltan
+screenwriter:
+- sas-peter
+cinematographer:
+- illesh-dyord
+composer:
+- fenesh-sabolch
+cast:
+- person: pager-antal
+- person: sendryo-yozhef
+- person: balazs-samu
+- person: basti-layosh
+- person: tolnai-klari
+- person: rayz-yanosh
+- person: zak-yanos
+- person: kyomivesh-shandor
+- person: apor-noemi
+studio:
+- mafilm

@@ -8,6 +8,15 @@ runtime_min: 88
 external_ids:
   wikidata: Q4363504
   imdb: tt0127729
+  youtube: OZf2qBZNUAY
 sources:
 - https://www.wikidata.org/wiki/Q4363504
 schema_version: 1
+director:
+- kara-yuriy
+composer:
+- denisov-edison-vasilevich
+cast:
+- person: feklistov-aleksandr-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

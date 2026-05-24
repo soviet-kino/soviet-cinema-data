@@ -1,0 +1,9 @@
+id: forman-matey
+name_ru: Матей Форман
+roles:
+- actor
+external_ids:
+  wikidata: Q12036115
+sources:
+- https://www.wikidata.org/wiki/Q12036115
+schema_version: 1

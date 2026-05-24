@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q118574679
 schema_version: 1
+director:
+- lauro-ishtvan-bachkai
+screenwriter:
+- munkacsi-miklos
+cinematographer:
+- nagy-jozsef
+composer:
+- madaras-ivan
+cast:
+- person: galvogi-yanosh
+- person: gaspar-shandor
+- person: udvarosh-dorottya
+- person: kern-andrash

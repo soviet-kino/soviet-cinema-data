@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16687352
 schema_version: 1
+director:
+- preobrazhenskaya-olga-ivanovna
+screenwriter:
+- shklovskiy-viktor-borisovich
+cast:
+- person: maksimova-elena
+- person: rogozhin-naum-aleksandrovich
+studio:
+- sovkino

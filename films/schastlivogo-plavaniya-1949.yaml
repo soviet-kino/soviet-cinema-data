@@ -8,6 +8,15 @@ runtime_min: 73
 external_ids:
   wikidata: Q105710552
   imdb: tt0041846
+  youtube: M1S5vtErMDQ
 sources:
 - https://www.wikidata.org/wiki/Q105710552
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- popov-aleksandr-fyodorovich
+cinematographer:
+- levitin-veniamin-faustovich
+studio:
+- lenfilm

@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4230721
 schema_version: 1
+director:
+- egiazarov-gavriil-georgievich
+screenwriter:
+- misharin-aleksandr
+- egiazarov-gavriil-georgievich
+- melnikov-naum-dmitrievich
+cinematographer:
+- karavaev-elizbar
+composer:
+- ter-tatevosyan-dzhon
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: andreychenko-natalya-eduardovna
+- person: polskikh-galina
+- person: dzhigarkhanyan-armen-borisovich
+- person: samoylov-vladimir-yakovlevich
+- person: vasilev-yuriy-nikolaevich
+- person: ivanov-boris-vladimirovich
+- person: korolkov-gennadiy-anatolevich
+- person: malysheva-irina-valentinovna
+- person: markov-leonid-vasilevich
+- person: merkurev-pyotr-vasilevich
+- person: pavlova-sofya-afinogenovna
+- person: sedov-vladimir-alekseevich
+- person: smolyakov-andrey-igorevich
+- person: toloraya-tamaz-konstantinovich
+- person: khabarova-klavdiya-ivanovna
+- person: leonidov-yuriy-leonidovich
+- person: druz-yana-andreevna
+- person: evtifev-leonid-mikhaylovich
+- person: chepchyan-georgiy-avetisovich
+studio:
+- mosfilm

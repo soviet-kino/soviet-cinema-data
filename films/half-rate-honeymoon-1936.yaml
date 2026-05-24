@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q514429
 schema_version: 1
+director:
+- sekeli-stiv
+cinematographer:
+- eiben-istvan
+cast:
+- person: kabosh-gyula
+- person: yavor-pal
+- person: denesh-dyord
+- person: erdelyi-mici
+- person: agay-iren
+studio:
+- lux-film

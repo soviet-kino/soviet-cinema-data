@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q98122413
 schema_version: 1
+director:
+- tammet-raul
+cinematographer:
+- garshnek-yuri
+composer:
+- graps-gunnar
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: aren-reyno
+studio:
+- mosfilm
+- tallinfilm

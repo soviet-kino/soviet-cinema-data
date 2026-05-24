@@ -1,0 +1,9 @@
+id: cekova-stojka
+name_ru: Stojka Cekova
+roles:
+- actor
+external_ids:
+  wikidata: Q56604385
+sources:
+- https://www.wikidata.org/wiki/Q56604385
+schema_version: 1

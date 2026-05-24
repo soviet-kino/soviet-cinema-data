@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15804716
 schema_version: 1
+director:
+- kyun-zigfrid
+cinematographer:
+- dressel-roland
+composer:
+- wenzel-hans-jurgen

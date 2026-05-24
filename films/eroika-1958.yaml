@@ -11,3 +11,49 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4532597
 schema_version: 1
+director:
+- munk-andzhey
+screenwriter:
+- stavinskiy-ezhi
+cinematographer:
+- vuychik-ezhi
+composer:
+- krents-yan
+cast:
+- person: polanski-roman
+- person: opalinskiy-kazimezh
+- person: kobelya-bogumil
+- person: yanchar-tadeush
+- person: nemchik-leon
+- person: semion-voytsekh
+- person: lomnitskiy-tadeush
+- person: bareya-stanislav
+- person: vilgelmi-roman
+- person: novak-yuzef
+- person: pyrkosh-vitold
+- person: dmokhovskiy-mariush
+- person: klosovskiy-roman
+- person: baer-bogdan
+- person: bonk-khenrik
+- person: dzevonskiy-edvard
+- person: zalivskiy-tomash
+- person: emil-karevich
+- person: makhovskiy-ignatsy
+- person: polomskaya-barbara
+- person: rudzkiy-kazimezh
+- person: turek-ezhi
+- person: chervinskaya-zofya
+- person: shevchik-mikhal
+- person: teresa-shmigelyuvna
+- person: gawronski-andrzej
+- person: miko-ajska-halina
+- person: lengren-tomash
+- person: zygmunt-listkevich
+- person: felczynski-jerzy
+- person: dziedzina-julian
+- person: kostetskiy-yuzef
+- person: waskowski-mieczys-aw
+- person: komorovskiy-pavel
+- person: hubczenko-roman
+studio:
+- studio-filmowe-kadr

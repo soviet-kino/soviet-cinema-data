@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4721972
 schema_version: 1
+director:
+- pettsold-konrad
+cinematographer:
+- borkmann-eberkhard
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: zimon-gyunter
+- person: brunner-angela
+- person: klyayn-erik-zigfrid
+- person: bath-evamaria
+- person: rossmann-helmut
+- person: yonishkan-khorst

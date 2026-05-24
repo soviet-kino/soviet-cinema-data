@@ -8,6 +8,17 @@ runtime_min: 87
 external_ids:
   wikidata: Q4124376
   imdb: tt0334652
+  youtube: UJdk9zxy4Do
 sources:
 - https://www.wikidata.org/wiki/Q4124376
 schema_version: 1
+director:
+- filippov-fedir-ivanovich
+screenwriter:
+- simukov-aleksey
+cinematographer:
+- gorbachyov-boris-konstantinovich
+composer:
+- shvarts-lev-oleksandrovich
+studio:
+- mosfilm

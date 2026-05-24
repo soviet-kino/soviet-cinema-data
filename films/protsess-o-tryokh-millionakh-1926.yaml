@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4382272
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- protazanov-yakov
+cinematographer:
+- ermolov-pyotr-vasilevich
+cast:
+- person: zhizneva-olga-andreevna
+- person: ilinskiy-igor-vladimirovich
+- person: ktorov-anatoliy-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- mezhrabpom-rus

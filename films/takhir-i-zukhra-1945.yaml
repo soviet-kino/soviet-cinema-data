@@ -8,6 +8,22 @@ runtime_min: 92
 external_ids:
   wikidata: Q12160172
   imdb: tt0237800
+  youtube: KceA1cdHiHA
 sources:
 - https://www.wikidata.org/wiki/Q12160172
 schema_version: 1
+director:
+- ganiev-nabi-ganievich
+screenwriter:
+- speshnev-aleksey-vladimirovich
+cinematographer:
+- demutskiy-daniil-porfirevich
+composer:
+- kozlovskiy-aleksey-fyodorovich
+cast:
+- person: khidoyatov-abrar
+- person: ismatov-asat
+- person: dzhalilov-obid
+- person: rizaeva-yulduz-akramovna
+studio:
+- uzbekfilm

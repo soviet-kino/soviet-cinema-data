@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12285537
 schema_version: 1
+director:
+- tsanev-emil
+screenwriter:
+- kostov-iliya
+cast:
+- person: getova-plamena
+- person: skorcheva-eli
+- person: rusalieva-mariya
+- person: valchinov-nikolay
+- person: trifonov-filip

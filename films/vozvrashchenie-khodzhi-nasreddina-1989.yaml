@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4114654
   imdb: tt0310330
+  youtube: 5ngqHOKZ8rY
 sources:
 - https://www.wikidata.org/wiki/Q4114654
 schema_version: 1
+director:
+- liblik-rein
+- bekker-anna
+screenwriter:
+- zulfikarov-timur-kasimovich
+cinematographer:
+- kirillov-andrey-mikhaylovich
+cast:
+- person: chkhikvadze-ramaz-grigorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: presetnik-france
+name_ru: France Presetnik
+roles:
+- actor
+external_ids:
+  wikidata: Q12789256
+sources:
+- https://www.wikidata.org/wiki/Q12789256
+schema_version: 1

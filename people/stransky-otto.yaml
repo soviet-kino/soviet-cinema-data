@@ -1,0 +1,9 @@
+id: stransky-otto
+name_ru: Otto Stransky
+roles:
+- composer
+external_ids:
+  wikidata: Q2040726
+sources:
+- https://www.wikidata.org/wiki/Q2040726
+schema_version: 1

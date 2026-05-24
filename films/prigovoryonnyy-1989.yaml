@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4378028
 schema_version: 1
+director:
+- kordon-arkadiy-samoylovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: zaytsev-vladimir-ivanovich
+studio:
+- mosfilm

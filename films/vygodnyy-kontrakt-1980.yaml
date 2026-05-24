@@ -8,6 +8,24 @@ runtime_min: 254
 external_ids:
   wikidata: Q4128763
   imdb: tt2177341
+  youtube: _qqkipwB2p0
 sources:
 - https://www.wikidata.org/wiki/Q4128763
 schema_version: 1
+director:
+- savelev-vladimir-alekseevich
+screenwriter:
+- prudnikov-mikhail-sidorovich
+- titov-viktor-abrosimovich
+- starkov-igor-georgievich
+cinematographer:
+- trushkovskiy-vasiliy-timofeevich
+composer:
+- freydlin-yan-mikhaylovich
+cast:
+- person: aktyor-denisov-aleksandr-petrovich
+- person: netrebin-daniil-matveevich
+- person: eybozhenko-aleksey-sergeevich
+- person: plotnikov-vladimir-semyonovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

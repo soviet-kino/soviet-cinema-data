@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4501134
 schema_version: 1
+director:
+- ogly-odzhagov-rasim-mirkasum
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kambarov-rafail-alievich
+composer:
+- sabitoglu-emin
+cast:
+- person: ogly-manafov-fakhraddin-manaf
+- person: maniev-mukhtar
+- person: gurbanova-gyulzar
+- person: kyzy-mustafaeva-sadaya-ismail
+studio:
+- azerbaydzhanfilm

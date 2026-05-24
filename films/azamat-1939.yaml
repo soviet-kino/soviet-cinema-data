@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56311016
 schema_version: 1
+cinematographer:
+- kinooperator-frolov-aleksandr-ivanovich
+composer:
+- stepanov-lev-borisovich
+cast:
+- person: bakirov-abbas
+- person: ismatov-asat
+- person: rakhmonov-zhurakhon-rakhmonberdievich
+- person: dzhalilov-obid
+studio:
+- uzbekfilm

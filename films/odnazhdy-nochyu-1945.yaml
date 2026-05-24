@@ -8,6 +8,23 @@ runtime_min: 73
 external_ids:
   wikidata: Q16393369
   imdb: tt0037143
+  youtube: tRTDK670jgo
 sources:
 - https://www.wikidata.org/wiki/Q16393369
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- knorre-fyodor-fyodorovich
+cinematographer:
+- gevorkyan-sarkis
+composer:
+- blok-david-semyonovich
+cast:
+- person: barnet-boris-vasilevich
+- person: andreev-boris-fyodorovich
+- person: dupak-nikolay-lukyanovich
+- person: kuznetsov-ivan-nikolaevich
+- person: leonov-vitaliy-viktorovich
+studio:
+- armenfilm

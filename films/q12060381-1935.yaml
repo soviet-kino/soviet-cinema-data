@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12060381
 schema_version: 1
+director:
+- sestka-f
+screenwriter:
+- sestka-f
+cinematographer:
+- khakenshmid-aleksandr
+composer:
+- kalash-yulius
+cast:
+- person: malechek-yozef
+- person: burian-vlasta
+- person: vitova-gana
+- person: shlegl-chenek

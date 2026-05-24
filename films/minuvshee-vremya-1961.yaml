@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9198388
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- buchkovskiy-leonard
+- shchipyorskiy-andzhey
+cinematographer:
+- vuychik-ezhi
+composer:
+- valyatsinskiy-adam
+cast:
+- person: lomnitskiy-tadeush
+- person: antchak-ezhi
+- person: kholoubek-gustav
+- person: bonk-khenrik
+- person: sevruk-aleksander
+- person: vanda-mayeruvna
+- person: makhovskiy-ignatsy
+- person: yulskiy-tsezary
+- person: yanovskaya-alina
+studio:
+- studio-filmowe-kadr

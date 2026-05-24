@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31272502
 schema_version: 1
+director:
+- kolberg-jaan
+screenwriter:
+- kallas-teet
+cinematographer:
+- kotov-reyn
+composer:
+- sumera-lepo
+cast:
+- person: lundver-ada
+- person: ander-ants
+- person: pabut-talvo
+- person: pennie-terje
+- person: eelmaa-aleksandr
+- person: lamp-anu
+- person: tabor-margus
+- person: tamm-kiiri
+- person: teppart-sulev
+- person: rulli-siym
+- person: herm-imbi
+- person: janson-georg
+- person: volkonski-immanuel
+- person: magar-ott
+- person: karo-voldemar
+- person: reintam-jaan
+- person: nou-raimo
+studio:
+- tallinfilm

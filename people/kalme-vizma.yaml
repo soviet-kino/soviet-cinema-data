@@ -1,0 +1,9 @@
+id: kalme-vizma
+name_ru: Визма Калме
+roles:
+- actor
+external_ids:
+  wikidata: Q4210169
+sources:
+- https://www.wikidata.org/wiki/Q4210169
+schema_version: 1

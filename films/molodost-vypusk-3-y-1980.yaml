@@ -9,3 +9,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131228364
 schema_version: 1
+director:
+- pankratov-aleksandr
+- itygilov-aleksandr-ataevich
+screenwriter:
+- panfilov-gleb
+- chernykh-valentin-konstantinovich
+cinematographer:
+- lebeshev-pavel-timofeevich
+- pershin-arkadiy-petrovich
+composer:
+- chaykovskiy-aleksandr-vladimirovich
+- guba-vladimir
+cast:
+- person: lyubshin-stanislav-andreevich
+- person: vikhrov-vladimir
+- person: golubitskiy-oleg-borisovich
+- person: shilovskiy-vsevolod-nikolaevich
+- person: ruslanova-nina-ivanovna
+studio:
+- mosfilm

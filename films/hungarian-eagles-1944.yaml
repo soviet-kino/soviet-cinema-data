@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123696286
 schema_version: 1
+cast:
+- person: perenyi-laszlo
+- person: szmere-vera
+poster_commons: Perényi László és Szemere Vera, Magyar sasok (Magyar Film, 1943).jpg

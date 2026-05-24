@@ -8,6 +8,13 @@ runtime_min: 79
 external_ids:
   wikidata: Q65194744
   imdb: tt0265042
+  youtube: 1qKtkgSIQMI
 sources:
 - https://www.wikidata.org/wiki/Q65194744
 schema_version: 1
+director:
+- nikolaevskiy-oleg-pavlovich
+screenwriter:
+- shugaev-vyacheslav-maksimovich
+studio:
+- sverdlovskaya-kinostudiya

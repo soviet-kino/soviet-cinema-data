@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3198577
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- aleksandrov-grigoriy-vasilevich
+- pavlenko-pyotr-andreevich
+- trenyova-natalya-konstantinovna
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- shebalin-vissarion-yakovlevich
+- shcherbachyov-vladimir-vladimirovich
+cast:
+- person: rikhter-svyatoslav-teofilovich
+- person: orlova-lyubov
+- person: lyubimov-yuriy-petrovich
+- person: vitsin-georgiy-mikhaylovich
+- person: pavlenko-pavel-pavlovich
+- person: fayt-andrey-andreevich
+- person: durasov-lev-grigorevich
+- person: nassonov-konstantin
+- person: smirnov-boris-aleksandrovich
+studio:
+- mosfilm

@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q4242512
   imdb: tt0230428
+  youtube: P93l5CwFpHI
 sources:
 - https://www.wikidata.org/wiki/Q4242512
 schema_version: 1
+screenwriter:
+- vysotskiy-sergey-aleksandrovich
+composer:
+- sevastyanov-valeriy-nikolaevich

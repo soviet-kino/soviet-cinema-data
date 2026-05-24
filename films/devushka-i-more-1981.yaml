@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q4156465
   imdb: tt5539484
+  youtube: miVewOYra0E
 sources:
 - https://www.wikidata.org/wiki/Q4156465
 schema_version: 1
+screenwriter:
+- shevtsov-dmitriy-aleksandrovich
+composer:
+- tseglyar-yakov-samoylovich
+cast:
+- person: inga-nikolaevna-budkevich
+- person: volkov-igor-yurevich
+- person: lavrinova-irina-viktorovna
+- person: malyarov-yuriy-artyomovich
+- person: talashko-vladimir-dmitrievich
+- person: bolotov-gennadiy-georgievich
+- person: shevtsov-dmitriy-aleksandrovich
+studio:
+- ukrtelefilm

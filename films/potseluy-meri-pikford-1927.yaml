@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3909579
 schema_version: 1
+director:
+- komarov-sergey-petrovich
+screenwriter:
+- vadim-gabrielevich-shershenevich
+- komarov-sergey-petrovich
+cast:
+- person: pikford-meri
+- person: ferbenks-duglas
+- person: room-abram-matveevich
+- person: ilinskiy-igor-vladimirovich
+- person: anel-alekseevna-sudakevich
+- person: malinovskaya-vera-stepanovna
+studio:
+- sovkino
+- mezhrabpom-rus

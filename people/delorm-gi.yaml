@@ -1,0 +1,9 @@
+id: delorm-gi
+name_ru: Ги Делорм
+roles:
+- actor
+external_ids:
+  wikidata: Q3121730
+sources:
+- https://www.wikidata.org/wiki/Q3121730
+schema_version: 1

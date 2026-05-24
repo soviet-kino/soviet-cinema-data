@@ -1,0 +1,9 @@
+id: feyosh-pal
+name_ru: Пал Фейош
+roles:
+- director
+external_ids:
+  wikidata: Q3371203
+sources:
+- https://www.wikidata.org/wiki/Q3371203
+schema_version: 1

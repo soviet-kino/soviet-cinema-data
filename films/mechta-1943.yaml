@@ -8,6 +8,24 @@ runtime_min: 100
 external_ids:
   wikidata: Q4292419
   imdb: tt0033889
+  youtube: QLQUWAW0HA0
 sources:
 - https://www.wikidata.org/wiki/Q4292419
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- romm-mikhail-ilich
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- vars-khenrik
+cast:
+- person: ranevskaya-faina-georgievna
+- person: kuzmina-elena-aleksandrovna
+- person: astangov-mikhail-fyodorovich
+- person: plyatt-rostislav-yanovich
+- person: solovyov-vladimir-romanovich
+studio:
+- mosfilm

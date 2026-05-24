@@ -8,6 +8,21 @@ runtime_min: 92
 external_ids:
   wikidata: Q4402536
   imdb: tt0173149
+  youtube: pNrKD9e6his
 sources:
 - https://www.wikidata.org/wiki/Q4402536
 schema_version: 1
+director:
+- lukov-leonid
+screenwriter:
+- mdivani-georgiy
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- blok-david-semyonovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: zhakov-oleg-petrovich
+- person: ignatev-anatoliy-vasilevich
+studio:
+- soyuzdetfilm

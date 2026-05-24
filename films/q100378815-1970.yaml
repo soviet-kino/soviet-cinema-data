@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q100378815
 schema_version: 1
+director:
+- yunge-vinfrid
+screenwriter:
+- yunge-vinfrid
+cinematographer:
+- lehmann-christian
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: mann-diter
+studio:
+- defa

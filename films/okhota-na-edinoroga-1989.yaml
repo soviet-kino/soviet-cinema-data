@@ -8,6 +8,18 @@ runtime_min: 79
 external_ids:
   wikidata: Q4340432
   imdb: tt0311597
+  youtube: 6thi4e8Wl5U
 sources:
 - https://www.wikidata.org/wiki/Q4340432
 schema_version: 1
+director:
+- laptev-vladimir-kirillovich
+screenwriter:
+- galiev-anatoliy-sergeevich
+cast:
+- person: bystritskiy-sergey-veniaminovich
+- person: zikora-vitaliy-grigorevich
+- person: lazarev-yuriy-sergeevich
+- person: solovyov-viktor-yurevich
+studio:
+- sverdlovskaya-kinostudiya

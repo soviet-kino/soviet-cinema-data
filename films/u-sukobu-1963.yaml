@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27070620
 schema_version: 1
+director:
+- babich-yozhe
+composer:
+- skerl-dane
+cast:
+- person: stol-arandzhelovich
+- person: buzanchich-boris
+- person: mirich-voyya
+- person: madunich-zlatko
+- person: karich-ana
+- person: jovanovic-toma

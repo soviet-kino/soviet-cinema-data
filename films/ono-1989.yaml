@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q575697
 schema_version: 1
+director:
+- ovcharov-sergey-mikhaylovich
+screenwriter:
+- ovcharov-sergey-mikhaylovich
+cinematographer:
+- fedosov-valeriy-ivanovich
+composer:
+- kuryokhin-sergey-anatolevich
+cast:
+- person: terekhova-margarita
+- person: bykov-rolan-antonovich
+- person: tabakov-oleg-pavlovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: basilashvili-oleg-valerianovich
+- person: gundareva-natalya-georgievna
+- person: kryuchkova-svetlana
+studio:
+- lenfilm

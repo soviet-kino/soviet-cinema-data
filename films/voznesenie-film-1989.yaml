@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q117848597
 schema_version: 1
+director:
+- keosayan-edmond
+screenwriter:
+- keosayan-edmond
+- borodyanskiy-aleksandr-emmanuilovich
+composer:
+- frenkel-yan-abramovich
+cast:
+- person: gevorkyan-laura
+- person: makhmuryan-tatyana
+studio:
+- mosfilm

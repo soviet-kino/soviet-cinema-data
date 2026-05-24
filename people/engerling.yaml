@@ -1,0 +1,9 @@
+id: engerling
+name_ru: Engerling
+roles:
+- composer
+external_ids:
+  wikidata: Q1342268
+sources:
+- https://www.wikidata.org/wiki/Q1342268
+schema_version: 1

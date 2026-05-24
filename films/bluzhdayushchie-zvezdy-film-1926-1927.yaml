@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97279110
 schema_version: 1
+director:
+- gricher-cherikover-grigoriy-zinovevich
+cast:
+- person: lyarov-matvey-lvovich
+- person: dubravin-iosif
+- person: tsesarskaya-emma-vladimirovna
+studio:
+- vseukrainskoe-fotokinoupravlenie

@@ -11,3 +11,38 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7876303
 schema_version: 1
+director:
+- lamach-karel
+screenwriter:
+- vasserman-vatslav
+- verner-jiri
+cinematographer:
+- stallikh-yan
+composer:
+- dobes-josef
+cast:
+- person: q101067891
+- person: veverka-karel
+- person: kurelova-ruzena
+- person: tryzna-jaroslav
+- person: q101092526
+- person: gabrielova-anna
+- person: nemec-karel
+- person: jarkovsky-ferdinand
+- person: mandlova-adina
+- person: dvorsky-rudolf-antonin
+- person: burian-vlasta
+- person: filipovskiy-frantishek
+- person: marvan-yaroslav
+- person: tregl-vatslav
+- person: shlegl-chenek
+- person: hemmer-ladislav
+- person: blazkova-marie
+- person: lasek-frantisek
+- person: postranetski-karel
+- person: kysilkova-betty
+- person: jezkova-marie
+- person: menger-vaclav
+- person: streit-antonin
+- person: kovarik-emanuel
+- person: soukup-antonin

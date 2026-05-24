@@ -1,0 +1,9 @@
+id: pyorsell-genri
+name_ru: Генри Пёрселл
+roles:
+- composer
+external_ids:
+  wikidata: Q9695
+sources:
+- https://www.wikidata.org/wiki/Q9695
+schema_version: 1

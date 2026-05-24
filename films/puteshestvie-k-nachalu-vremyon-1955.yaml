@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1767168
 schema_version: 1
+director:
+- zeman-karel
+screenwriter:
+- zeman-karel
+- novotny-josef-alois
+cinematographer:
+- gorak-antonin
+- pazdernik-vaclav
+composer:
+- burian-emil
+cast:
+- person: beyval-vladimir
+- person: gerrmann-petr
+- person: setena-bedrich
+- person: hustak-zdenek
+- person: lukas-josef
+studio:
+- chekhoslovatskoe-gosudarstvennoe-kino

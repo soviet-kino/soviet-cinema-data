@@ -8,6 +8,11 @@ runtime_min: 64
 external_ids:
   wikidata: Q110631388
   imdb: tt2254468
+  youtube: nvu00PrxedQ
 sources:
 - https://www.wikidata.org/wiki/Q110631388
 schema_version: 1
+director:
+- zhivolub-viktor-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

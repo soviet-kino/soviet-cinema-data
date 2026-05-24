@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q106738035
   imdb: tt0188138
+  youtube: PlNZ-TwIzCs
 sources:
 - https://www.wikidata.org/wiki/Q106738035
 schema_version: 1
+director:
+- vasilev-sergey-dmitrievich
+- vasilev-georgiy-nikolaevich
+cast:
+- person: myasnikova-varvara-sergeevna
+- person: khodotov-nikolay-nikolaevich
+studio:
+- lenfilm
+poster_commons: 1932 Личное дело (A Personal Affair).jpg

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339387
 schema_version: 1
+director:
+- kostromenko-vadim
+screenwriter:
+- elyash-mark-lvovich
+cinematographer:
+- ilchuk-nikolay-semyonovich
+cast:
+- person: shelokhonov-pyotr-illarionovich
+- person: kanevskiy-leonid-semyonovich
+- person: mandri-kheyno
+- person: bezrukov-vitaliy-sergeevich
+- person: fateeva-natalya-nikolaevna
+studio:
+- odesskaya-kinostudiya

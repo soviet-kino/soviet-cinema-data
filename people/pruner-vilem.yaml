@@ -1,0 +1,9 @@
+id: pruner-vilem
+name_ru: Vilém Pruner
+roles:
+- actor
+external_ids:
+  wikidata: Q101113143
+sources:
+- https://www.wikidata.org/wiki/Q101113143
+schema_version: 1

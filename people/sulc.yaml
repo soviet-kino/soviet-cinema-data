@@ -1,0 +1,9 @@
+id: sulc
+name_ru: Šulc
+roles:
+- actor
+external_ids:
+  wikidata: Q133570536
+sources:
+- https://www.wikidata.org/wiki/Q133570536
+schema_version: 1

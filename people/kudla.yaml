@@ -1,0 +1,9 @@
+id: kudla
+name_ru: Kudla
+roles:
+- actor
+external_ids:
+  wikidata: Q133306751
+sources:
+- https://www.wikidata.org/wiki/Q133306751
+schema_version: 1

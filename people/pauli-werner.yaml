@@ -1,0 +1,9 @@
+id: pauli-werner
+name_ru: Werner Pauli
+roles:
+- composer
+external_ids:
+  wikidata: Q2562219
+sources:
+- https://www.wikidata.org/wiki/Q2562219
+schema_version: 1

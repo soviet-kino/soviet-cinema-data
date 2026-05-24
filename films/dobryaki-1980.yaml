@@ -8,6 +8,30 @@ runtime_min: 77
 external_ids:
   wikidata: Q4163902
   imdb: tt0148076
+  youtube: OgEvZh3cMsg
 sources:
 - https://www.wikidata.org/wiki/Q4163902
 schema_version: 1
+director:
+- shakhnazarov-karen
+screenwriter:
+- zorin-leonid-genrikhovich
+cinematographer:
+- shevtsik-vladimir-karlovich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: burkov-georgiy-ivanovich
+- person: zeldin-vladimir-mikhaylovich
+- person: vasileva-tatyana-grigorevna
+- person: volkov-nikolay-nikolaevich-2
+- person: gusev-yuriy-evgenevich
+- person: izotova-veronika-eduardovna
+- person: nikulin-valentin-yurevich
+- person: pashkova-larisa-alekseevna
+- person: safronov-aleksandr-aleksandrovich
+- person: telichkina-valentina
+- person: leonidov-yuriy-leonidovich
+- person: sharlakhov-viktor-petrovich
+studio:
+- mosfilm

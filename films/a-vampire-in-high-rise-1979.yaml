@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28468045
 schema_version: 1
+director:
+- raza-ludvik
+screenwriter:
+- cabradek-karel
+cinematographer:
+- stinglova-vera
+composer:
+- malasek-irzhi
+- bazant-jiri
+cast:
+- person: gavlova-dagmar
+- person: holy-tomas
+- person: bogdalova-irzhina
+- person: abrgam-yozef
+- person: vetrovec-josef
+- person: batik-miroslav

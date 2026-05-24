@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475295
 schema_version: 1
+director:
+- khusarik-zoltan
+screenwriter:
+- csaszar-istvan
+- dobai-piter
+cinematographer:
+- jankura-peter
+composer:
+- kocsar-miklos
+cast:
+- person: drahota-andrea
+- person: dayka-margit
+- person: temessy-hedi
+- person: fintsi-itskhak
+studio:
+- hunnia-film-studio

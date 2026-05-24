@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475606
 schema_version: 1
+director:
+- nadasdy-kalman
+screenwriter:
+- khuska-yenyo
+cinematographer:
+- makai-arpad
+composer:
+- fenesh-sabolch
+cast:
+- person: varkoni-zoltan
+- person: yavor-pal
+- person: ratkay-marton
+- person: ladomershki-margit
+- person: maklari-zoltan
+- person: seletski-zita
+- person: kurti-zhurzh
+- person: kyomivesh-shandor

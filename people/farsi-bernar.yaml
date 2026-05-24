@@ -1,0 +1,9 @@
+id: farsi-bernar
+name_ru: Бернар Фарси
+roles:
+- actor
+external_ids:
+  wikidata: Q822410
+sources:
+- https://www.wikidata.org/wiki/Q822410
+schema_version: 1

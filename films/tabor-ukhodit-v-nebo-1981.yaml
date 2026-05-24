@@ -8,6 +8,25 @@ runtime_min: 101
 external_ids:
   wikidata: Q464536
   imdb: tt0073781
+  youtube: udkz19ISbZs
 sources:
 - https://www.wikidata.org/wiki/Q464536
 schema_version: 1
+director:
+- lotyanu-emil
+screenwriter:
+- gorkiy-maksim
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- doga-evgeniy
+- zubkov-valeriy-aleksandrovich
+- burdin-isidor-moiseevich
+cast:
+- person: toma-svetlana
+- person: brondukov-borislav-nikolaevich
+- person: grigoriu-grigore-petru
+- person: ilich-simchich-vasiliy
+- person: volshaninova-nelli-nikolaevna
+studio:
+- mosfilm

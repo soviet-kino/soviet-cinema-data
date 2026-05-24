@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4204170
 schema_version: 1
+cinematographer:
+- kozlov-sergey-alekseevich
+studio:
+- mosfilm

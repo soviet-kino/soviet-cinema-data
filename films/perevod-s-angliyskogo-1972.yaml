@@ -8,6 +8,16 @@ runtime_min: 115
 external_ids:
   wikidata: Q104903262
   imdb: tt0069076
+  youtube: Z7N4W0dvWOs
 sources:
 - https://www.wikidata.org/wiki/Q104903262
 schema_version: 1
+director:
+- seleznyova-inessa-sergeevna
+screenwriter:
+- dolinina-natalya-grigorevna
+- polonskiy-georgiy-isidorovich
+composer:
+- vladimir-sergeevich-dashkevich
+studio:
+- ekran

@@ -8,6 +8,20 @@ runtime_min: 98
 external_ids:
   wikidata: Q388339
   imdb: tt0027235
+  youtube: LdIFUJ_AuQQ
 sources:
 - https://www.wikidata.org/wiki/Q388339
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: chirkov-boris-petrovich
+- person: kulakov-aleksandr-viktorovich
+- person: kayukov-stepan-yakovlevich
+studio:
+- lenfilm

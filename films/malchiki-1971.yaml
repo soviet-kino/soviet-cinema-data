@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4279599
   imdb: tt0879254
+  youtube: HkrP2H_t6QE
 sources:
 - https://www.wikidata.org/wiki/Q4279599
 schema_version: 1
+director:
+- stashevskaya-naroditskaya-ekaterina-grigorevna
+cast:
+- person: tabakov-anton-olegovich
+studio:
+- mosfilm

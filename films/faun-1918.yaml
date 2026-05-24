@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5438184
 schema_version: 1
+director:
+- korda-aleksandr
+cast:
+- person: bartosh-dyula
+- person: radzhnay-gabor
+- person: shomlai-artur
+- person: lenkeffy-ica-von
+- person: hajdu-jozsef
+studio:
+- corvin-film-studio

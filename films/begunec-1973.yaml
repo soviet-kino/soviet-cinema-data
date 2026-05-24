@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27658216
 schema_version: 1
+director:
+- kavcic-jane
+cast:
+- person: sherbedzhiya-rade
+- person: kavatstsa-boris
+- person: lojk-marija

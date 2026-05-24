@@ -8,6 +8,16 @@ runtime_min: 78
 external_ids:
   wikidata: Q107168970
   imdb: tt0174704
+  youtube: rz60elm-ct4
 sources:
 - https://www.wikidata.org/wiki/Q107168970
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+cast:
+- person: argo
+studio:
+- goskino
+- sovkino
+- soyuzkino
+poster_commons: Постер фильма "Господа Скотинины" (1926).webp

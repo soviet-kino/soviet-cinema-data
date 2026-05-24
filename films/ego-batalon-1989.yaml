@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q6550000
   imdb: tt5253368
+  youtube: ZamsrQZHc7Q
 sources:
 - https://www.wikidata.org/wiki/Q6550000
 schema_version: 1
+director:
+- karpov-aleksandr-yakovlevich
+screenwriter:
+- bykov-vasil
+studio:
+- belarusfilm

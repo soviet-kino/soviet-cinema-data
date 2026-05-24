@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4127013
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- yudin-lazar-mikhaylovich
+cinematographer:
+- danashevskiy-vladimir-anatolevich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: glazova-lyudmila-sergeevna
+- person: gudkin-yakov-matveevich
+- person: guretskaya-tatyana-ivanovna
+- person: kurikhin-fyodor-nikolaevich
+- person: pluzhnik-grigoriy-dmitrievich
+- person: solovtsov-valeriy-mikhaylovich
+studio:
+- lenfilm

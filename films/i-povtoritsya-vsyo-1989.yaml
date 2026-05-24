@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16380107
 schema_version: 1
+director:
+- oganesyan-bagrat
+cinematographer:
+- petrosyan-vrezh
+composer:
+- artemyev-eduard
+cast:
+- person: alfyorova-irina-ivanovna
+- person: sarkisyan-sos
+- person: garbuk-gennadiy-mikhaylovich
+- person: voropaev-gennadiy-ivanovich
+- person: izotova-veronika-eduardovna
+- person: meschyan-artur-stepanovich
+- person: dzhanibekyan-karen
+- person: tumanyan-alla
+- person: arushanyan-lorents
+- person: babayan-dzhuletta
+- person: bokhyan-nina
+- person: dzhanibekyan-murad
+- person: amiryan-yuriy
+- person: avetisyan-zhenya
+- person: mkrtumyan-zhenya
+studio:
+- armenfilm

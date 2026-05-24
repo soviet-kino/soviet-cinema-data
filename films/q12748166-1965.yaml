@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748166
 schema_version: 1
+director:
+- zhurzh-eva
+cast:
+- person: zoran-radmilovich
+- person: starcic-viktor
+- person: tasovac-predrag
+- person: decermic-stojan
+- person: milic-nikola
+- person: milutin-butkovich

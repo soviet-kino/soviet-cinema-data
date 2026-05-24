@@ -8,6 +8,24 @@ runtime_min: 83
 external_ids:
   wikidata: Q4484461
   imdb: tt0093024
+  youtube: pso4muxLMUc
 sources:
 - https://www.wikidata.org/wiki/Q4484461
 schema_version: 1
+director:
+- balayan-roman-gurgenovich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- verzhbitskiy-bogdan-vladimirovich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: yankovsky-oleg
+- person: abdulov-aleksandr-gavrilovich
+- person: yankovskiy-filipp-olegovich
+- person: zbruev-aleksandr-viktorovich
+- person: safonova-elena
+- person: gorbunov-aleksey-sergeevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

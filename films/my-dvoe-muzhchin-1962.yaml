@@ -7,6 +7,22 @@ country:
 external_ids:
   wikidata: Q4309241
   imdb: tt3855520
+  youtube: pZM-zhLTsRk
 sources:
 - https://www.wikidata.org/wiki/Q4309241
 schema_version: 1
+director:
+- lysenko-yuriy-semyonovich
+screenwriter:
+- kuznetsov-anatoliy-vasilevich-2
+composer:
+- zubtsov-evgeniy-nikitovich
+cast:
+- person: shukshin-vasiliy
+- person: dalskiy-vladimir-mikhaylovich
+- person: kapnist-mariya-rostislavovna
+- person: kireev-yuriy-ilich
+- person: osmolovskaya-dzhemma-grigorevna
+- person: saburov-boris-aleksandrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

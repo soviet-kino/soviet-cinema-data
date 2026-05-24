@@ -8,6 +8,21 @@ runtime_min: 73
 external_ids:
   wikidata: Q4386053
   imdb: tt0232418
+  youtube: pe5rfACuyQ4
 sources:
 - https://www.wikidata.org/wiki/Q4386053
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- filimonov-aleksandr-aleksandrovich
+- speshnev-aleksey-vladimirovich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: abrikosov-andrey-lvovich
+- person: aleynikov-pyotr-martynovich
+- person: gorkusha-evgeniya-aleksandrovna
+- person: zaychikov-vasiliy-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

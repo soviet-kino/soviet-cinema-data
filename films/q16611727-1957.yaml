@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16611727
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- kornel-filipovich
+cinematographer:
+- antsuta-andzhey
+composer:
+- dobrovolskiy-andzhey
+cast:
+- person: sheybal-vladek
+- person: lomnitskiy-tadeush
+- person: byaloshchinskiy-tadeush
+- person: bylchinskiy-yanush
+- person: nalberchak-yuzef
+- person: petruskiy-ryshard
+- person: gustav-lyutkevich
+- person: chepelevskaya-anna
+- person: malinich-zofya
+- person: tsetserskiy-yan
+- person: swiecicka-elzbieta

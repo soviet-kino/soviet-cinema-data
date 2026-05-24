@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q601511
 schema_version: 1
+director:
+- sabo-ishtvan
+screenwriter:
+- sabo-ishtvan
+cinematographer:
+- koltai-layosh
+composer:
+- polgar-tibor
+cast:
+- person: banshagi-ildiko
+- person: kishonti-ildiko
+- person: andorai-peter
+- person: balazhovits-layosh
+- person: bezeredi-zoltan
+studio:
+- mafilm

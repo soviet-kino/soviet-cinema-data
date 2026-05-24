@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4090108
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- doller-mikhail-ivanovich
+screenwriter:
+- leonov-leonid-maksimovich
+- shpikovskiy-nikolay-grigorevich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+composer:
+- muradeli-vano-ilich
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: zueva-anastasiya-platonovna
+- person: kryuchkov-nikolay-afanasevich
+- person: uralskiy-vladimir-mikhaylovich
+- person: danilova-aleksandra-sergeevna
+studio:
+- mosfilm

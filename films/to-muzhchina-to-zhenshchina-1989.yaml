@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q84158672
   imdb: tt5755862
+  youtube: d3SNQB9q4JI
 sources:
 - https://www.wikidata.org/wiki/Q84158672
 schema_version: 1
+cast:
+- person: tolubeev-andrey-yurevich
+- person: bogachyov-gennadiy-petrovich
+- person: gogolev-viktor-sergeevich
+- person: kocheyshvili-boris-petrovich
+- person: nitsenko-leonid-aleksandrovich
+- person: okhlupina-alyona-igorevna
+- person: vilkina-natalya-mikhaylovna
+- person: osipchuk-vladimir
+- person: timofeeva-tamara
+studio:
+- sverdlovskaya-kinostudiya

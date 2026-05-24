@@ -8,6 +8,23 @@ runtime_min: 87
 external_ids:
   wikidata: Q4156474
   imdb: tt0239342
+  youtube: ZIDlg1BlIoI
 sources:
 - https://www.wikidata.org/wiki/Q4156474
 schema_version: 1
+director:
+- yudin-konstantin-konstantinovich
+screenwriter:
+- sklyut-iosif
+- fish-gennadiy-semyonovich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- pokrass-dmitriy-yakovlevich
+- pokrass-daniil-yakovlevich
+cast:
+- person: serova-valentina-vasilevna
+- person: tsesarskaya-emma-vladimirovna
+studio:
+- mosfilm
+poster_commons: 1939. Валентина Серова в фильме Девушка с характером.jpg

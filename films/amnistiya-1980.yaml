@@ -8,6 +8,27 @@ runtime_min: 114
 external_ids:
   wikidata: Q65201851
   imdb: tt0082013
+  youtube: qcF10C3-p1o
 sources:
 - https://www.wikidata.org/wiki/Q65201851
 schema_version: 1
+director:
+- ponomaryov-valeriy
+screenwriter:
+- matukovskiy-nikolay-egorovich
+cinematographer:
+- sukhanova-anastasiya
+composer:
+- glebov-evgeniy-aleksandrovich
+cast:
+- person: bykov-rolan-antonovich
+- person: burkov-georgiy-ivanovich
+- person: eryomenko-starshiy-nikolay-nikolaevich
+- person: ilichyov-viktor-grigorevich
+- person: kashperov-aleksandr-borisovich
+- person: orlova-galina-petrovna
+- person: ryzhov-ivan-petrovich
+- person: sanaeva-elena-vsevolodovna
+- person: filatov-valeriy-nikolaevich
+studio:
+- belarusfilm

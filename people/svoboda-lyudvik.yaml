@@ -1,0 +1,9 @@
+id: svoboda-lyudvik
+name_ru: Людвик Свобода
+roles:
+- actor
+external_ids:
+  wikidata: Q310000
+sources:
+- https://www.wikidata.org/wiki/Q310000
+schema_version: 1

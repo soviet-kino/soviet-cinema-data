@@ -10,3 +10,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q54261787
 schema_version: 1
+director:
+- katki-ilona
+screenwriter:
+- bekes-jozsef
+cinematographer:
+- szabados-tamas
+composer:
+- tamashi-zdenko
+cast:
+- person: bentse-ferents
+- person: bako-marta
+- person: helyey-laszlo
+- person: horkai-janos
+- person: kohut-magda
+- person: nagi-gabor
+- person: nemedi-mari
+- person: pap-vera
+- person: pudich-bela
+- person: sziagiy-ishtvan
+- person: vajda-laszlo
+- person: guyfri-zhurzh
+- person: kovacs-janos
+- person: korompai-vali
+studio:
+- vengerskoe-televidenie
+- mafilm

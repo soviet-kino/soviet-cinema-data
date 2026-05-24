@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5226464
 schema_version: 1
+director:
+- koldits-gotfrid
+cinematographer:
+- anders-ervin
+composer:
+- volgemut-gerkhard

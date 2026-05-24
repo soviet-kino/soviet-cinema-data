@@ -1,0 +1,9 @@
+id: vida-emmi
+name_ru: Эмми Вида
+roles:
+- actor
+external_ids:
+  wikidata: Q1339017
+sources:
+- https://www.wikidata.org/wiki/Q1339017
+schema_version: 1

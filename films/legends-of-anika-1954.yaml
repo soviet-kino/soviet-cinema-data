@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6517941
 schema_version: 1
+director:
+- pogachich-vladimir
+cinematographer:
+- aleksandr-sekulovich
+composer:
+- kreshimir-baranovich
+cast:
+- person: bijelic-severin
+- person: bobich-lyubinka
+- person: dapcevic-milena
+- person: ajvaz-milan
+- person: mata-miloshevich
+- person: starcic-viktor
+- person: zarko-mitrovich
+studio:
+- avala-film

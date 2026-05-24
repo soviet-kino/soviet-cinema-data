@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q109428641
   imdb: tt0264826
+  youtube: kEGc7eAZtoI
 sources:
 - https://www.wikidata.org/wiki/Q109428641
 schema_version: 1
+cinematographer:
+- mishurin-aleksey-aleksandrovich
+composer:
+- meytus-yuliy-sergeevich
+cast:
+- person: alisova-nina-ulyanovna
+- person: dobrovolskiy-viktor-nikolaevich
+- person: dunayskiy-anton-vasilevich
+- person: ivashyova-valentina-semyonovna
+- person: maksimov-aleksey
+- person: sadovskiy-ivan-ivanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

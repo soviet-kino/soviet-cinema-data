@@ -8,6 +8,31 @@ runtime_min: 167
 external_ids:
   wikidata: Q4512665
   imdb: tt0173726
+  youtube: e2hq7IrF_LA
 sources:
 - https://www.wikidata.org/wiki/Q4512665
 schema_version: 1
+director:
+- ordynskiy-vasiliy-sergeevich
+- sumkhu-badrakhyn
+screenwriter:
+- tudev-lodongiyn
+- ordynskiy-vasiliy-sergeevich
+- trunin-vadim-vasilevich
+cinematographer:
+- vasilkov-nikolay-aleksandrovich
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: shtefanko-oleg
+- person: larionov-vsevolod-dmitrievich
+- person: ivashov-vladimir-sergeevich
+- person: zolotukhin-lev-fyodorovich
+- person: martynov-andrey-leonidovich
+- person: nevedomskiy-leonid
+- person: kobaladze-andrey-aleksandrovich
+- person: tomorbaatar-tsegmidiin
+studio:
+- mosfilm
+- defa
+- mongolkino

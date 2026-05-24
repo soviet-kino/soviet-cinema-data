@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1219023
 schema_version: 1
+director:
+- wildhagen-georg
+cinematographer:
+- klagemann-oygen
+- plintsner-karl
+composer:
+- nikolai-otto
+cast:
+- person: tsiman-sonya
+- person: esser-paul
+- person: kholm-klaus
+- person: shpira-kamilla
+- person: engel-aleksandr
+- person: frikkhyoffer-gerd
+- person: dyuks-ekart
+- person: teege-joachim
+- person: vogt-charles-hans
+- person: pauli-edgar
+- person: khanke-edit
+- person: dugal-elfie
+- person: turoff-niko
+- person: richter-herbert
+- person: fritsh-kurt-otto
+- person: muhlhardt-kurt
+- person: fisher-renate
+- person: halley-ina
+studio:
+- defa

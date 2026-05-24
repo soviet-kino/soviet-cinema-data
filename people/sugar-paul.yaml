@@ -1,0 +1,9 @@
+id: sugar-paul
+name_ru: Paul Sugar
+roles:
+- director
+external_ids:
+  wikidata: Q1475028
+sources:
+- https://www.wikidata.org/wiki/Q1475028
+schema_version: 1

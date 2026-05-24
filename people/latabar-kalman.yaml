@@ -1,0 +1,9 @@
+id: latabar-kalman
+name_ru: Кальман Латабар
+roles:
+- actor
+external_ids:
+  wikidata: Q223611
+sources:
+- https://www.wikidata.org/wiki/Q223611
+schema_version: 1

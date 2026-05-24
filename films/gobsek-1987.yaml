@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25395700
 schema_version: 1
+director:
+- kinematografist-orlov-aleksandr-sergeevich
+screenwriter:
+- kapralov-georgiy
+- kinematografist-orlov-aleksandr-sergeevich
+composer:
+- artemyev-eduard
+cast:
+- person: kostolevskiy-igor-matveevich
+- person: tatosov-vladimir-mikhaylovich
+studio:
+- moldova-film
+- sovinfilm
+poster_commons: Gobseck Filmplakat.jpg

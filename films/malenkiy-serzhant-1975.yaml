@@ -8,6 +8,28 @@ runtime_min: 85
 external_ids:
   wikidata: Q4277699
   imdb: tt0396511
+  youtube: l5inxBJqOqM
 sources:
 - https://www.wikidata.org/wiki/Q4277699
 schema_version: 1
+director:
+- golub-lev-vladimirovich
+screenwriter:
+- yakovlev-yuriy-yakovlevich
+cinematographer:
+- avdeev-oleg-tikhonovich
+cast:
+- person: skarke-petr
+- person: pogan-yan
+- person: korolkov-gennadiy-anatolevich
+- person: zelenogorska-yitka
+- person: chitilova-miriam
+- person: hlavaty-vladimir
+- person: lir-yirzhi
+- person: steinmasslova-milena
+- person: noginek-miroslav
+- person: vlasakova-vlasta
+- person: kocourek-michal
+studio:
+- barrandov
+- belarusfilm

@@ -1,0 +1,9 @@
+id: nelli
+name_ru: Нелли
+roles:
+- actor
+external_ids:
+  wikidata: Q6990220
+sources:
+- https://www.wikidata.org/wiki/Q6990220
+schema_version: 1

@@ -1,0 +1,9 @@
+id: barri-dzhon
+name_ru: Джон Барри
+roles:
+- composer
+external_ids:
+  wikidata: Q111074
+sources:
+- https://www.wikidata.org/wiki/Q111074
+schema_version: 1

@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116457491
 schema_version: 1
+director:
+- shulgoff-petr
+cinematographer:
+- prokop-premysl

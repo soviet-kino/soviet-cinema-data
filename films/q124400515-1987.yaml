@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124400515
 schema_version: 1
+director:
+- dzhidrov-konstantin
+cast:
+- person: kolev-todor
+- person: hadzhiyanev-dimitar
+- person: chukova-katya
+studio:
+- bolgarskoe-natsionalnoe-televidenie

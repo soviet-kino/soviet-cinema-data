@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12773217
 schema_version: 1
+director:
+- q12773221
+screenwriter:
+- rusnak-igor
+cinematographer:
+- eshina-vladimir
+composer:
+- brezovsky-ali
+cast:
+- person: zachar-karol
+- person: shulik-anton
+- person: shtepka-stanislav
+- person: mateyka-adam
+- person: danciak-stano-2
+- person: kroner-lyudovit
+- person: tron-anton
+- person: durdiakova-judita
+- person: danciak-stano
+- person: rayter-lyudovit
+- person: figura-stefan
+- person: holoska-peter

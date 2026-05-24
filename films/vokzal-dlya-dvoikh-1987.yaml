@@ -8,6 +8,33 @@ runtime_min: 141
 external_ids:
   wikidata: Q1965523
   imdb: tt0084873
+  youtube: 3g-p1d8H02o
 sources:
 - https://www.wikidata.org/wiki/Q1965523
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- alisov-vadim-valentinovich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: mikhalkov-nikita
+- person: gurchenko-lyudmila
+- person: mordyukova-nonna-viktorovna
+- person: dogileva-tatyana-anatolevna
+- person: ryazanov-eldar-aleksandrovich
+- person: sadalskiy-stanislav-yurevich
+- person: etush-raisa-vladimirovna
+- person: basilashvili-oleg-valerianovich
+- person: kononov-mikhail-ivanovich
+- person: budnitskaya-alla-zinovevna
+- person: voznesenskaya-anastasiya-valentinovna
+- person: volkova-olga-vladimirovna
+- person: shirvindt-aleksandr-anatolevich
+studio:
+- mosfilm
+poster_commons: Crew of Station for Two with actors.jpg

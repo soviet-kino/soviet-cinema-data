@@ -1,0 +1,9 @@
+id: metsger-redli
+name_ru: Рэдли Мецгер
+roles:
+- director
+external_ids:
+  wikidata: Q343888
+sources:
+- https://www.wikidata.org/wiki/Q343888
+schema_version: 1

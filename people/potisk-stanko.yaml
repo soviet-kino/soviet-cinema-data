@@ -1,0 +1,9 @@
+id: potisk-stanko
+name_ru: Stanko Potisk
+roles:
+- actor
+external_ids:
+  wikidata: Q61126223
+sources:
+- https://www.wikidata.org/wiki/Q61126223
+schema_version: 1

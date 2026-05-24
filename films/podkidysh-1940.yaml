@@ -8,6 +8,27 @@ runtime_min: 68
 external_ids:
   wikidata: Q4367638
   imdb: tt0184823
+  youtube: 7RdWPQ28nzI
 sources:
 - https://www.wikidata.org/wiki/Q4367638
 schema_version: 1
+director:
+- tatyana-nikolaevna-lukashevich
+screenwriter:
+- zelyonaya-rina
+- barto-agniya-lvovna
+cinematographer:
+- sheynin-semyon-alterovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: zelyonaya-rina
+- person: ranevskaya-faina-georgievna
+- person: zhizneva-olga-andreevna
+- person: plyatt-rostislav-yanovich
+- person: barysheva-tatyana-semyonovna
+- person: repnin-pyotr-petrovich
+- person: gromov-viktor-alekseevich
+studio:
+- mosfilm
+poster_commons: Кадр из фильма Подкидыш, 1939 год.jpg

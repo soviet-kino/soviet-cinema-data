@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187350
 schema_version: 1
+director:
+- hetrich-ivan
+screenwriter:
+- grgich-milan
+cast:
+- person: bashich-relya
+- person: rozin-shpela

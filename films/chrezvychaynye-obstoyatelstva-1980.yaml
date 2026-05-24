@@ -8,6 +8,11 @@ runtime_min: 78
 external_ids:
   wikidata: Q111797739
   imdb: tt0231363
+  youtube: YMWrqj1bOLo
 sources:
 - https://www.wikidata.org/wiki/Q111797739
 schema_version: 1
+director:
+- vasilev-evgeniy-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

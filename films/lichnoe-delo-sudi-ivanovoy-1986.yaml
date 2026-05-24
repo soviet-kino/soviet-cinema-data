@@ -8,6 +8,16 @@ runtime_min: 85
 external_ids:
   wikidata: Q4264426
   imdb: tt0170162
+  youtube: 6i8aTPJo83o
 sources:
 - https://www.wikidata.org/wiki/Q4264426
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- shcherbakova-galina-nikolaevna
+cast:
+- person: shakurov-sergey-kayumovich
+- person: gundareva-natalya-georgievna
+studio:
+- kinostudiya-imeni-m-gorkogo

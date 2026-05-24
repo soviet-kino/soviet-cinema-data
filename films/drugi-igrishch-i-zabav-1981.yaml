@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4168656
 schema_version: 1
+director:
+- nikitin-mikhail-fyodorovich
+screenwriter:
+- merezhko-viktor
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- portnov-georgiy-anatolevich
+cast:
+- person: borisov-oleg-ivanovich
+- person: vasileva-ekaterina-sergeevna
+- person: vlasov-sergey-afanasevich
+- person: dyachkov-leonid
+- person: lykov-aleksandr-anatolevich
+- person: fedoseeva-shukshina-lidiya-nikolaevna
+- person: simonova-shchepetnova-galina-nikolaevna
+studio:
+- lenfilm

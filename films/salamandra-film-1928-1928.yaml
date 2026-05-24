@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q22976725
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+- doller-mikhail-ivanovich
+screenwriter:
+- lunacharskiy-anatoliy-vasilevich
+- grebner-georgiy-eduardovich
+cinematographer:
+- foreste-lui-petrovich
+- shelenkov-aleksandr-vladimirovich
+cast:
+- person: lunacharskiy-anatoliy-vasilevich
+- person: gyotske-bernkhard
+- person: fogel-vladimir-petrovich
+- person: rozenel-natalya
+- person: khmelyov-nikolay-pavlovich
+- person: komarov-sergey-petrovich
+- person: temary-elza
+studio:
+- mezhrabpomfilm
+poster_commons: Salamander (1928) poster.jpg

@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3373703
 schema_version: 1
+director:
+- gaal-ishtvan
+cinematographer:
+- zhomboyai-yanosh
+cast:
+- person: tyoryochik-mari
+- person: ferenczi-istvan

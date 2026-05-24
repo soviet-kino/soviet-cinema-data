@@ -8,6 +8,16 @@ runtime_min: 64
 external_ids:
   wikidata: Q42303992
   imdb: tt11885946
+  youtube: rQitOEm1FzI
 sources:
 - https://www.wikidata.org/wiki/Q42303992
 schema_version: 1
+director:
+- kordyum-arnold-vladimirovich
+cinematographer:
+- rona-iosif-ivanovich
+cast:
+- person: sadovskiy-nikolay-karpovich
+- person: kononenko-kozelskiy-ivan-vladimirovich
+studio:
+- vseukrainskoe-fotokinoupravlenie

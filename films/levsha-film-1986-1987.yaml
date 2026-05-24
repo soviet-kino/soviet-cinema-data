@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4256823
 schema_version: 1
+director:
+- ovcharov-sergey-mikhaylovich
+cinematographer:
+- fedosov-valeriy-ivanovich
+cast:
+- person: yakovlev-yuriy-vasilevich
+- person: lemke-lev-isaakovich
+- person: kuravlyov-leonid-vyacheslavovich
+- person: gostyukhin-vladimir
+- person: stotskiy-nikolay-viktorovich
+studio:
+- lenfilm

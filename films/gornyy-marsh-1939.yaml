@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109428652
 schema_version: 1
+director:
+- kevorkov-stepan
+composer:
+- satyan-ashot
+cast:
+- person: avetisyan-avet
+- person: vagarshyan-vagarsh-bogdanovich
+- person: avetyan-grigor
+- person: asmik
+- person: malyan-david
+- person: abramyan-khachatur
+- person: kostanyan-murad
+- person: buniatyan-ori
+- person: gabrielyan-gurgen
+- person: mkrtchyan-samvel
+- person: bagratuni-vagan
+- person: mushegyan-garri
+studio:
+- armenfilm

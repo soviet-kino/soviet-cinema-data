@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12058389
 schema_version: 1
+director:
+- bukovchan-ivan
+- hecl-jiri
+screenwriter:
+- bukovchan-ivan
+- hecl-jiri
+cinematographer:
+- lukes-frantisek
+- lukesh-frantishek
+- kopriva-karel
+- hecl-jiri
+- roznovec-emil
+composer:
+- urbanets-bartolomey
+cast:
+- person: khudik-ladislav
+- person: dibarbora-frantishek
+- person: khuba-mikulash

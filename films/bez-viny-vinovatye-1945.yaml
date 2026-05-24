@@ -8,6 +8,21 @@ runtime_min: 92
 external_ids:
   wikidata: Q4080739
   imdb: tt0037540
+  youtube: czzSZUgYkp4
 sources:
 - https://www.wikidata.org/wiki/Q4080739
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- petrov-vladimir-mikhaylovich
+cinematographer:
+- yakovlev-vladimir-timofeevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: druzhnikov-vladimir-vasilevich
+- person: stanitsyn-viktor-yakovlevich
+- person: tarasova-alla-konstantinovna
+studio:
+- mosfilm

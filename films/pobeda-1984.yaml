@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4366188
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- chakovskiy-aleksandr-borisovich
+- matveev-evgeniy-semyonovich
+- trunin-vadim-vasilevich
+cinematographer:
+- kalashnikov-leonid-ivanovich
+composer:
+- ptichkin-evgeniy
+studio:
+- mosfilm
+- defa

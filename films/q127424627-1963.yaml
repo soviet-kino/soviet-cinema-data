@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q127424627
 schema_version: 1
+director:
+- jordanova-vera
+screenwriter:
+- grubin-frantishek
+- sykorova-helena
+cinematographer:
+- stinglova-vera
+cast:
+- person: bednar-dzhiri
+- person: starsi-zuzana-stivinova
+- person: vranova-gabriela
+- person: malkova-mariya
+- person: lukes-oldrich
+- person: zib-frantisek

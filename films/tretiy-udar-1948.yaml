@@ -8,6 +8,20 @@ runtime_min: 106
 external_ids:
   wikidata: Q7768777
   imdb: tt0040900
+  youtube: 8yL9CCROAws
 sources:
 - https://www.wikidata.org/wiki/Q7768777
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- perventsev-arkadiy-alekseevich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+cast:
+- person: dikiy-aleksey-denisovich
+- person: bernes-mark-naumovich
+- person: pereverzev-ivan-fyodorovich
+- person: astangov-mikhail-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

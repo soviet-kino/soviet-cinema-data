@@ -8,6 +8,20 @@ runtime_min: 86
 external_ids:
   wikidata: Q4303530
   imdb: tt0033713
+  youtube: W5krXYhdMoM
 sources:
 - https://www.wikidata.org/wiki/Q4303530
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- zeltser-iogann-moiseevich
+- abramovich-blek-sergey-ivanovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: osvetsimskiy-vladimir-ivanovich
+studio:
+- odesskaya-kinostudiya

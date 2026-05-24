@@ -7,6 +7,12 @@ country:
 runtime_min: 10
 external_ids:
   wikidata: Q72793312
+  youtube: FlaFGPiioPQ
 sources:
 - https://www.wikidata.org/wiki/Q72793312
 schema_version: 1
+director:
+- themerson-stefan
+- themerson-franciszka
+composer:
+- kiselevskiy-stefan

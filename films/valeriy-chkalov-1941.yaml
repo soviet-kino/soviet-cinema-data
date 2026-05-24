@@ -8,6 +8,33 @@ runtime_min: 97
 external_ids:
   wikidata: Q4102841
   imdb: tt0034353
+  youtube: -D6iEZoxu58
 sources:
 - https://www.wikidata.org/wiki/Q4102841
 schema_version: 1
+director:
+- kalatozov-mikhail-konstantinovich
+- derevyanskiy-semyon-iosifovich
+screenwriter:
+- baydukov-georgiy-filippovich
+- chirskov-boris
+- tarasov-dmitriy-lvovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: gelovani-mikhail-georgievich
+- person: bernes-mark-naumovich
+- person: andreev-boris-fyodorovich
+- person: raykin-arkadiy-isaakovich
+- person: belokurov-vladimir-vyacheslavovich
+- person: vanin-vasiliy-vasilevich
+- person: zhukovskiy-boris-eliseevich
+- person: zarubina-irina-petrovna
+- person: mezhinskiy-semyon-borisovich
+- person: tarasova-kseniya-ivanovna
+- person: beryozov-pyotr-alekseevich
+- person: kalatozov-mikhail-konstantinovich
+studio:
+- lenfilm

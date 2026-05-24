@@ -1,0 +1,8 @@
+id: pilot
+name_ru: Пилот
+country: SU
+external_ids:
+  wikidata: Q4362796
+sources:
+- https://www.wikidata.org/wiki/Q4362796
+schema_version: 1

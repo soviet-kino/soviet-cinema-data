@@ -1,0 +1,9 @@
+id: kadosha-pal
+name_ru: Пал Кадоша
+roles:
+- composer
+external_ids:
+  wikidata: Q389262
+sources:
+- https://www.wikidata.org/wiki/Q389262
+schema_version: 1

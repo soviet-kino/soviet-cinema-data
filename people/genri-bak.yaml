@@ -1,0 +1,9 @@
+id: genri-bak
+name_ru: Бак Генри
+roles:
+- director
+external_ids:
+  wikidata: Q999332
+sources:
+- https://www.wikidata.org/wiki/Q999332
+schema_version: 1

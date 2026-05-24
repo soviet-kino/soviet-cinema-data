@@ -1,0 +1,9 @@
+id: kollet-per
+name_ru: Пьер Коллет
+roles:
+- actor
+external_ids:
+  wikidata: Q730564
+sources:
+- https://www.wikidata.org/wiki/Q730564
+schema_version: 1

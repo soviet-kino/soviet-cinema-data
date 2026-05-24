@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4083077
 schema_version: 1
+director:
+- zguridi-aleksandr-mikhaylovich
+screenwriter:
+- zguridi-aleksandr-mikhaylovich
+cinematographer:
+- asmus-viktor-nikolaevich
+- volchek-boris-izrailevich
+- troyanskiy-gleb-aleksandrovich
+composer:
+- oranskiy-viktor-aleksandrovich
+cast:
+- person: zhakov-oleg-petrovich
+- person: sverdlin-lev-naumovich
+- person: abdulov-osip-naumovich
+- person: izmaylova-elena-davydovna
+studio:
+- tsentrnauchfilm

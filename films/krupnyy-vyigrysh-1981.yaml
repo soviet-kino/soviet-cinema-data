@@ -8,6 +8,32 @@ runtime_min: 80
 external_ids:
   wikidata: Q4242252
   imdb: tt0237390
+  youtube: twJpAu8ROGc
 sources:
 - https://www.wikidata.org/wiki/Q4242252
 schema_version: 1
+director:
+- mkrtchyan-albert-mushegovich
+screenwriter:
+- arutyunyan-gevorg
+- payazat-evert
+cinematographer:
+- atoyants-levon
+composer:
+- arutyunyan-yuriy
+cast:
+- person: mkrtchyan-frunzik
+- person: oganesyan-nerses-gedeonovich
+- person: sarkisov-leonard-sarkisovich
+- person: dzhanibekyan-karen
+- person: petrosyan-nonna
+- person: marguni-vaginak
+- person: nersisyan-ashot
+- person: alaverdyan-genrikh
+- person: oganesyan-lyusya
+- person: kazaryan-shaum
+- person: aslanyan-gevork
+- person: dzhagatspanyan-avetik
+- person: galoyan-misail
+studio:
+- armenfilm

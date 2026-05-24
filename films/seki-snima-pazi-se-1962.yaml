@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3510504
 schema_version: 1
+director:
+- vayda-mariyan
+composer:
+- kralich-darko
+cast:
+- person: lola-novakovich
+- person: shekularats-dragoslav

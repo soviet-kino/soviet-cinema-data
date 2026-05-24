@@ -1,0 +1,9 @@
+id: dzharmen-vida
+name_ru: Вида Джармен
+roles:
+- actor
+external_ids:
+  wikidata: Q468362
+sources:
+- https://www.wikidata.org/wiki/Q468362
+schema_version: 1

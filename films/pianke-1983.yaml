@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25016233
 schema_version: 1
+director:
+- friedrich-gunter
+cinematographer:
+- kruze-gans-yurgen
+composer:
+- erdmann-gyunter
+cast:
+- person: klyaynert-folkmar
+- person: heidenreich-alexander
+studio:
+- defa

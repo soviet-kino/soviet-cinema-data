@@ -8,6 +8,39 @@ runtime_min: 78
 external_ids:
   wikidata: Q43371117
   imdb: tt0081535
+  youtube: lu0CsPlVhN4
 sources:
 - https://www.wikidata.org/wiki/Q43371117
 schema_version: 1
+director:
+- olmer-vit
+screenwriter:
+- vacke-vojtech
+cinematographer:
+- fandli-juraj
+composer:
+- ulrych-petr
+cast:
+- person: panenka-antonin
+- person: koufalova-stanislava
+- person: kral-viktor
+- person: tokosh-lubor
+- person: navratil-antonin
+- person: zagayski-irzhi
+- person: kozderkova-ladka
+- person: forman-matey
+- person: dvorak-michal
+- person: praskova-simona
+- person: kocourek-michal
+- person: lebanek-josef
+- person: tomicek-bozek
+- person: gogola-jan
+- person: vondra-vladimir
+- person: kockova-simona
+- person: valentova-marketa
+- person: blahusova-bozena
+- person: podrouzek-tomas
+- person: ajgl-marek
+- person: kroupova-zuzana
+studio:
+- kinostudiya-gotvaldova

@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4192468
   imdb: tt0092292
+  youtube: 51MaocBXgbY
 sources:
 - https://www.wikidata.org/wiki/Q4192468
 schema_version: 1
+director:
+- martynov-vladimir-yurevich
+screenwriter:
+- remez-oskar-yakovlevich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- kinostudiya-imeni-m-gorkogo

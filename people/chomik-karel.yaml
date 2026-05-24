@@ -1,0 +1,9 @@
+id: chomik-karel
+name_ru: Karel Chomik
+roles:
+- actor
+external_ids:
+  wikidata: Q95891574
+sources:
+- https://www.wikidata.org/wiki/Q95891574
+schema_version: 1

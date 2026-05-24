@@ -8,6 +8,22 @@ runtime_min: 76
 external_ids:
   wikidata: Q44817
   imdb: tt0131636
+  youtube: Iu7GihhXziQ
 sources:
 - https://www.wikidata.org/wiki/Q44817
 schema_version: 1
+director:
+- dargai-attila
+screenwriter:
+- dargai-attila
+- fekete-ishtvan
+- ishtvan-imre
+- romkhaniy-yozhef
+- tarbay-ede
+cinematographer:
+- khenrik-iren
+composer:
+- wolf-peter
+studio:
+- pannoniya
+poster_commons: Vuk játszótér - A kis Vuk és Karak - 20210104.jpg

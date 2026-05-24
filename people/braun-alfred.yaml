@@ -1,0 +1,9 @@
+id: braun-alfred
+name_ru: Альфред Браун
+roles:
+- actor
+external_ids:
+  wikidata: Q86778
+sources:
+- https://www.wikidata.org/wiki/Q86778
+schema_version: 1

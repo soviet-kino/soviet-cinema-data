@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4141402
 schema_version: 1
+director:
+- shulkin-pyotr
+screenwriter:
+- shulkin-pyotr
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- konechnyy-zygmunt
+cast:
+- person: yanda-kristina
+- person: pshonyak-voytsekh
+- person: novitskiy-yan
+- person: severin-andzhey
+- person: skshek-yuzef
+- person: maykhzhak-kshishtof-2
+- person: valchevskiy-marek
+- person: opanya-marian
+- person: dmokhovskiy-mariush
+- person: bonk-khenrik
+- person: emil-karevich
+- person: petruskiy-ryshard
+- person: chervinskaya-zofya
+- person: zolkovska-dzhoanna
+- person: maykhzhak-kshishtof
+- person: varchol-gregorts
+- person: manturzewski-stanis-aw
+- person: drzewicz-wies-aw
+- person: buchkovskiy-zbignev
+studio:
+- perspektywa

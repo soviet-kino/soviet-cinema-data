@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q8075022
 schema_version: 1
+director:
+- freund-erich
+cinematographer:
+- kuhle-willi
+composer:
+- fridl-frants-r
+cast:
+- person: kholm-klaus

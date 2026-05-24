@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4256151
   imdb: tt0071749
+  youtube: RlYDwoEb4PU
 sources:
 - https://www.wikidata.org/wiki/Q4256151
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+screenwriter:
+- belinskiy-aleksandr-arkadevich
+composer:
+- tsvetkov-igor-arkadevich
+cast:
+- person: trofimov-nikolay-nikolaevich
+studio:
+- ekran

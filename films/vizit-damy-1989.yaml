@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4110879
 schema_version: 1
+director:
+- kozakov-mikhail-mikhaylovich
+screenwriter:
+- kozakov-mikhail-mikhaylovich
+cinematographer:
+- shevtsik-vladimir-karlovich
+composer:
+- kallosh-shandor-ernestovich
+cast:
+- person: gaft-valentin-iosifovich
+- person: vasileva-ekaterina-sergeevna
+- person: kashintsev-igor-konstantinovich
+studio:
+- mosfilm

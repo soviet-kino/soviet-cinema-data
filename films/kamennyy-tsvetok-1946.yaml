@@ -8,6 +8,24 @@ runtime_min: 82
 external_ids:
   wikidata: Q1219544
   imdb: tt0038666
+  youtube: k6QNtZRtsjM
 sources:
 - https://www.wikidata.org/wiki/Q1219544
 schema_version: 1
+director:
+- ptushko-aleksandr
+screenwriter:
+- bazhov-pavel-petrovich
+- keller-iosif-isaakovich
+cinematographer:
+- provorov-fyodor
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: makarova-tamara-fyodorovna
+- person: druzhnikov-vladimir-vasilevich
+- person: kayukov-stepan-yakovlevich
+- person: yanshin-mikhail-mikhaylovich
+studio:
+- mosfilm
+poster_commons: Makarova Fiore di Pietra.jpg

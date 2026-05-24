@@ -8,6 +8,22 @@ runtime_min: 81
 external_ids:
   wikidata: Q4189830
   imdb: tt0209514
+  youtube: UmqKgekUjDg
 sources:
 - https://www.wikidata.org/wiki/Q4189830
 schema_version: 1
+director:
+- polin-vladimir
+- kovalyov-mark
+screenwriter:
+- travkin-boris-tikhonovich
+composer:
+- rychkov-boris-nikolaevich-2
+cast:
+- person: titova-valentina-antipovna
+- person: ivashov-vladimir-sergeevich
+- person: vitorgan-emmanuil-gedeonovich
+- person: gusev-yuriy-evgenevich
+- person: spivak-timofey-ivanovich
+studio:
+- mosfilm

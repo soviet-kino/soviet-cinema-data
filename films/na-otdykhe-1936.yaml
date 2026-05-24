@@ -8,6 +8,20 @@ runtime_min: 61
 external_ids:
   wikidata: Q109428679
   imdb: tt0239691
+  youtube: qN3fQ_Cqc74
 sources:
 - https://www.wikidata.org/wiki/Q109428679
 schema_version: 1
+director:
+- ioganson-eduard-yulevich
+cinematographer:
+- filatov-georgiy-nikolaevich
+composer:
+- dzerzhinskiy-ivan-ivanovich
+cast:
+- person: guretskaya-tatyana-ivanovna
+- person: tolubeev-yuriy-vladimirovich
+- person: ponachevnyy-sergey-leontevich
+studio:
+- lenfilm
+poster_commons: Na otdyhe 1936 (1).jpg

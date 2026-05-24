@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761247
 schema_version: 1
+director:
+- mrmak-sava
+cast:
+- person: vladimir-popovich
+- person: bogatincevic-pavle
+- person: uricin-rada
+- person: miodrag-radovanovich

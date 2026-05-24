@@ -8,6 +8,23 @@ runtime_min: 83
 external_ids:
   wikidata: Q84994658
   imdb: tt0095254
+  youtube: eg9xk62hnfY
 sources:
 - https://www.wikidata.org/wiki/Q84994658
 schema_version: 1
+director:
+- popkov-vladimir-mikhaylovich
+screenwriter:
+- gonik-vladimir-semyonovich
+cinematographer:
+- anisimov-valeriy-mikhaylovich
+composer:
+- kiva-oleg-filippovich
+- kuznetsov-yuriy-anatolevich
+cast:
+- person: akhedzhakova-liya-medzhidovna
+- person: budraytis-yuozas-stanislavas
+- person: drozd-georgiy-ivanovich
+- person: ryabinkina-kseniya-lvovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

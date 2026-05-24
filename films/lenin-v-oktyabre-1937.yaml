@@ -8,6 +8,26 @@ runtime_min: 105
 external_ids:
   wikidata: Q3270392
   imdb: tt0029132
+  youtube: WKY6wOqh6rk
 sources:
 - https://www.wikidata.org/wiki/Q3270392
 schema_version: 1
+director:
+- romm-mikhail-ilich
+- vasilev-dmitriy-ivanovich
+screenwriter:
+- kapler-aleksey-yakovlevich
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- aleksandrov-anatoliy-nikolaevich
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: okhlopkov-nikolay-pavlovich
+- person: shchukin-boris-vasilevich
+- person: goldshtab-semyon-lvovich
+- person: vanin-vasiliy-vasilevich
+- person: pokrovskiy-vladimir-aleksandrovich
+studio:
+- mosfilm
+poster_commons: Lenin in October movie, 1937 final.jpg

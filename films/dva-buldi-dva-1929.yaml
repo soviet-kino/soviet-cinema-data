@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4155553
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+- agadzhanyan-nina
+screenwriter:
+- brik-osip-maksimovich
+cast:
+- person: komarov-sergey-petrovich
+- person: q135617495
+studio:
+- mezhrabpomfilm

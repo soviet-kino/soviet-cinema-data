@@ -1,0 +1,9 @@
+id: kroner-jan
+name_ru: Ján Kroner
+roles:
+- actor
+external_ids:
+  wikidata: Q19401093
+sources:
+- https://www.wikidata.org/wiki/Q19401093
+schema_version: 1

@@ -1,0 +1,9 @@
+id: konversi-spartako
+name_ru: Спартако Конверси
+roles:
+- actor
+external_ids:
+  wikidata: Q16657898
+sources:
+- https://www.wikidata.org/wiki/Q16657898
+schema_version: 1

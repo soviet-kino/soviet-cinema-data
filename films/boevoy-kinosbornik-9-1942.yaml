@@ -8,6 +8,28 @@ runtime_min: 67
 external_ids:
   wikidata: Q109428627
   imdb: tt0034535
+  youtube: _tdQTeC6Yqo
 sources:
 - https://www.wikidata.org/wiki/Q109428627
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+- savchenko-igor-andreevich
+- braun-vladimir-aleksandrovich
+screenwriter:
+- olesha-yuriy-karlovich
+- grebner-georgiy-eduardovich
+- lazurin-solomon-moiseevich
+cinematographer:
+- gorchilin-ivan-dmitrievich
+- demutskiy-daniil-porfirevich
+- ekelchik-yuriy-izrailevich
+- mishurin-aleksey-aleksandrovich
+- monastyrskiy-boris-savelevich
+composer:
+- meytus-yuliy-sergeevich
+- pototskiy-sergey-ivanovich
+- stollyar-yakov-efimovich
+- shtogarenko-andrey-yakovlevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

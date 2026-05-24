@@ -8,6 +8,22 @@ runtime_min: 100
 external_ids:
   wikidata: Q4259314
   imdb: tt0172718
+  youtube: m0wT2HESl3Y
 sources:
 - https://www.wikidata.org/wiki/Q4259314
 schema_version: 1
+director:
+- motyl-vladimir-yakovlevich
+screenwriter:
+- motyl-vladimir-yakovlevich
+cinematographer:
+- ilin-vladimir
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: sadalskiy-stanislav-yurevich
+- person: kirilichev-vyacheslav-timofeevich
+- person: plotnikov-boris
+- person: tselikovskaya-lyudmila-vasilevna
+studio:
+- lenfilm

@@ -8,6 +8,23 @@ runtime_min: 143
 external_ids:
   wikidata: Q4128516
   imdb: tt0174328
+  youtube: 65tJgeRJvI8
 sources:
 - https://www.wikidata.org/wiki/Q4128516
 schema_version: 1
+director:
+- naumov-vladimir-naumovich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+cast:
+- person: belokhvostikova-nataliya-nikolaevna
+- person: ulyanov-mikhail-aleksandrovich
+- person: dvorzhetskiy-vatslav-yanovich
+- person: koznov-aleksandr-vyacheslavovich
+- person: shcherbakov-boris-vasilevich
+- person: matulyonis-algis
+- person: yakovlev-aleksandr-anatolevich
+- person: fadeeva-elena-alekseevna
+studio:
+- mosfilm
+- sovinfilm

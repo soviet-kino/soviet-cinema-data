@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12754999
 schema_version: 1
+director:
+- zhika-mitrovich
+composer:
+- mokranyats-vasile
+cast:
+- person: tadich-lyuba
+- person: boyanich-dragomir
+- person: zoran-radmilovich
+- person: gavrich-aleksandar
+- person: predrag-milinkovich
+- person: plesha-branko
+- person: dragomir-stanoevich
+- person: vladimir-popovich
+- person: lyubisha-yovanovich
+- person: bogatincevic-pavle
+- person: pavicevic-bozidar
+- person: jerinic-branislav
+- person: tasovac-predrag
+- person: sokich-ruzhitsa
+- person: nikola-yovanovich
+studio:
+- avala-film

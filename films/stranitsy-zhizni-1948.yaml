@@ -8,6 +8,25 @@ runtime_min: 71
 external_ids:
   wikidata: Q30559486
   imdb: tt0040839
+  youtube: kWEEw8hpVvA
 sources:
 - https://www.wikidata.org/wiki/Q30559486
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- kataev-valentin-petrovich
+- macheret-aleksandr-veniaminovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+composer:
+- tsfasman-aleksandr-naumovich
+cast:
+- person: sanaev-vsevolod-vasilevich
+- person: badev-nikolay-fyodorovich
+- person: belov-gavriil-nikitich
+- person: dorofeev-vladimir-andreevich
+- person: eremeeva-tatyana-aleksandrovna
+- person: khokhryakov-viktor-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

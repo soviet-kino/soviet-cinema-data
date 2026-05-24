@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q100998064
 schema_version: 1
+director:
+- kohlert-werner

@@ -8,6 +8,25 @@ runtime_min: 85
 external_ids:
   wikidata: Q25396382
   imdb: tt0230149
+  youtube: rWhFWjvGVlw
 sources:
 - https://www.wikidata.org/wiki/Q25396382
 schema_version: 1
+director:
+- garin-erast-pavlovich
+- lokshina-khesya-aleksandrovna
+screenwriter:
+- german-yuriy-pavlovich
+cinematographer:
+- pogorelyy-anatoliy-ivanovich
+- sigaev-aleksandr-ivanovich
+composer:
+- armand-pavel
+cast:
+- person: raykin-arkadiy-isaakovich
+- person: zheymo-yanina-boleslavovna
+- person: barabanova-mariya-pavlovna
+- person: nikitich-tolmazov-boris
+- person: tolubeev-yuriy-vladimirovich
+studio:
+- lenfilm

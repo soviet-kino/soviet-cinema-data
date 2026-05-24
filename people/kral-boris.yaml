@@ -1,0 +1,9 @@
+id: kral-boris
+name_ru: Борис Краль
+roles:
+- actor
+external_ids:
+  wikidata: Q12786173
+sources:
+- https://www.wikidata.org/wiki/Q12786173
+schema_version: 1

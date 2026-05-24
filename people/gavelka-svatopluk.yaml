@@ -1,0 +1,9 @@
+id: gavelka-svatopluk
+name_ru: Сватоплук Гавелка
+roles:
+- composer
+external_ids:
+  wikidata: Q200623
+sources:
+- https://www.wikidata.org/wiki/Q200623
+schema_version: 1

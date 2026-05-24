@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124458970
 schema_version: 1
+cast:
+- person: glishev-bogdan
+studio:
+- bolgarskoe-natsionalnoe-televidenie

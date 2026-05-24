@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1962773
 schema_version: 1
+director:
+- khas-voytsekh-ezhi
+screenwriter:
+- brandys-kazimezh
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- kashitskiy-lyutsian
+cast:
+- person: cybulski-zbigniew
+- person: maklakiewicz-zdzis-aw
+- person: barbara-krafftuvna
+- person: kraevskaya-miroslava
+- person: glinskiy-venchislav
+- person: golas-veslav
+- person: kvasnevskaya-veslava
+- person: kalinovskiy-tadeush
+studio:
+- kamera-kinostudiya

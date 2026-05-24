@@ -1,0 +1,9 @@
+id: poka-egon
+name_ru: Эгон Пока
+roles:
+- composer
+external_ids:
+  wikidata: Q1243327
+sources:
+- https://www.wikidata.org/wiki/Q1243327
+schema_version: 1

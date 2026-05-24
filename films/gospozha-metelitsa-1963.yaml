@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1451468
 schema_version: 1
+director:
+- koldits-gotfrid
+screenwriter:
+- koldits-gotfrid
+- kaltofen-gunter
+cinematographer:
+- gusko-erikh
+cast:
+- person: florin-elfriede
+- person: ugovski-karin
+- person: gradtke-kherbert
+- person: porschmann-jurgen
+- person: lind-katarina
+- person: danegger-matilda

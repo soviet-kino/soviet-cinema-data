@@ -1,0 +1,9 @@
+id: toysher-gans
+name_ru: Ганс Тойшер
+roles:
+- actor
+external_ids:
+  wikidata: Q1582741
+sources:
+- https://www.wikidata.org/wiki/Q1582741
+schema_version: 1

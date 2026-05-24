@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4141086
   imdb: tt0237275
+  youtube: Ud_bookThbQ
 sources:
 - https://www.wikidata.org/wiki/Q4141086
 schema_version: 1
+director:
+- ashimov-asanali-ashimovich
+screenwriter:
+- vizbor-yuriy-iosifovich
+cinematographer:
+- vovnyanko-igor-aleksandrovich
+composer:
+- khagagortyan-eduard

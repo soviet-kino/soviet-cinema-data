@@ -10,3 +10,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11742466
 schema_version: 1
+director:
+- dziedzina-julian
+- komorovskiy-pavel
+screenwriter:
+- khlasko-marek
+- vuychik-ezhi
+- antoniy-bogdzevich
+- dziedzina-julian
+- komorovskiy-pavel
+cinematographer:
+- vuychik-ezhi
+- kshishtof-vinevich
+composer:
+- kurczewski-jerzy
+cast:
+- person: polanski-roman
+- person: cybulski-zbigniew
+- person: maevskiy-yanush
+- person: andzheevskaya-yadviga
+- person: rakhvalskaya-barbara
+- person: shevchik-mikhal
+- person: filipskiy-ryshard
+- person: chepelevskaya-anna
+- person: kalita-yozef
+- person: fiut-adam
+- person: zdzieszynska-ewa
+- person: kozakiewicz-jerzy
+- person: gorczynski-mariusz

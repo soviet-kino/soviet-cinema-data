@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4140096
 schema_version: 1
+director:
+- malakhov-pyotr-petrovich
+screenwriter:
+- malakhov-pyotr-petrovich
+- shpanov-nikolay-nikolaevich
+cinematographer:
+- lozovskiy-efim-davidovich
+- renkov-nikolay-stepanovich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+- budashkin-nikolay-pavlovich
+studio:
+- tsentrnauchfilm

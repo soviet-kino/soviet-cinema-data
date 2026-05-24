@@ -8,6 +8,25 @@ runtime_min: 67
 external_ids:
   wikidata: Q3228140
   imdb: tt0017653
+  youtube: p8O8vhVdjso
 sources:
 - https://www.wikidata.org/wiki/Q3228140
 schema_version: 1
+director:
+- pravov-ivan
+- preobrazhenskaya-olga-ivanovna
+screenwriter:
+- altshuler-boris-abramovich
+- vishnevskaya-olga-pavlovna
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: maksimova-elena
+- person: puzhnaya-raisa
+- person: tsesarskaya-emma-vladimirovna
+- person: yastrebetskiy-kuzma-nikiforovich
+- person: bobynin-georgiy-aleksandrovich
+studio:
+- mosfilm
+- mezhrabpomfilm
+- sovkino

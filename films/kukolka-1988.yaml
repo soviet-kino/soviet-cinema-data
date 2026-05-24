@@ -8,6 +8,20 @@ runtime_min: 135
 external_ids:
   wikidata: Q4245815
   imdb: tt0095471
+  youtube: -mcLhNOgrKg
 sources:
 - https://www.wikidata.org/wiki/Q4245815
 schema_version: 1
+director:
+- fridberg-isaak-shaevich
+screenwriter:
+- ageev-igor-valentinovich
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- tukhmanov-david-fyodorovich
+cast:
+- person: menshov-vladimir-valentinovich
+- person: metlitskaya-irina-yurevna
+studio:
+- mosfilm

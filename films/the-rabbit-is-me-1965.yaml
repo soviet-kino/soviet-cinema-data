@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1169236
 schema_version: 1
+director:
+- mettsig-kurt
+screenwriter:
+- biler-manfred
+cinematographer:
+- gusko-erikh
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: varneke-lotar
+- person: borgelt-peter
+- person: valler-angelika
+- person: klering-khans
+- person: entoni-karmen-mayya
+- person: engel-kristof
+- person: wien-dieter
+- person: shellkhardt-gelmut
+- person: besendahl-maria
+- person: koster-erhard
+- person: khardt-khardtloff-khans
+- person: jupe-walter
+- person: foygt-ilza
+- person: narloch-willi
+- person: fu-walter-e
+- person: uinkler-volfgang
+- person: lendrikh-valter
+- person: myuller-alfred
+- person: myunkh-irma
+- person: ulrikh-rudolf
+- person: kommerell-ruth
+- person: shrade-villi
+studio:
+- defa

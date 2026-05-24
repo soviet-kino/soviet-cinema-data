@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4086839
 schema_version: 1
+director:
+- alenikov-vladimir-mikhaylovich
+screenwriter:
+- eppel-asar-isaevich
+- alenikov-vladimir-mikhaylovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: gerdt-zinoviy-efimovich
+- person: leonidov-maksim
+studio:
+- kinostudiya-imeni-m-gorkogo

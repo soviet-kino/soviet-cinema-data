@@ -8,6 +8,18 @@ runtime_min: 93
 external_ids:
   wikidata: Q97169434
   imdb: tt0098242
+  youtube: MKin_qYf6O0
 sources:
 - https://www.wikidata.org/wiki/Q97169434
 schema_version: 1
+director:
+- khotinenko-vladimir-ivanovich
+cast:
+- person: khotinenko-vladimir-ivanovich
+- person: steblov-evgeniy-yurevich
+- person: guzeeva-larisa-andreevna
+- person: ilin-vladimir-adolfovich
+- person: leontev-avangard-nikolaevich
+- person: aktyor-smirnov-viktor-fyodorovich
+- person: stepanov-viktor-fyodorovich
+- person: kryuchkova-svetlana

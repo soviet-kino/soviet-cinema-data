@@ -1,0 +1,9 @@
+id: gott-karel
+name_ru: Карел Готт
+roles:
+- actor
+external_ids:
+  wikidata: Q333187
+sources:
+- https://www.wikidata.org/wiki/Q333187
+schema_version: 1

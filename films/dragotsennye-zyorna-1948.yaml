@@ -8,6 +8,24 @@ runtime_min: 89
 external_ids:
   wikidata: Q4167525
   imdb: tt0171242
+  youtube: fQiY-sfaZp4
 sources:
 - https://www.wikidata.org/wiki/Q4167525
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+screenwriter:
+- buranova-esfir-iosifovna
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: zhakov-oleg-petrovich
+- person: aleynikov-pyotr-martynovich
+- person: vanin-vasiliy-vasilevich
+- person: dorokhin-nikolay-ivanovich
+- person: zhukovskiy-boris-eliseevich
+- person: telegina-valentina-petrovna
+- person: kozhakina-galina-ivanovna
+studio:
+- lenfilm

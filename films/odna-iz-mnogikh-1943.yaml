@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q28465042
   imdb: tt6371922
+  youtube: DHXLNJNpBz0
 sources:
 - https://www.wikidata.org/wiki/Q28465042
 schema_version: 1
+director:
+- bredis-lamis
+cinematographer:
+- voinov-nikolay-vasilevich
+studio:
+- soyuzmultfilm

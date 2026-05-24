@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4415655
 schema_version: 1
+director:
+- basov-vladimir-pavlovich
+cast:
+- person: smekhov-veniamin-borisovich
+- person: basov-vladimir
+- person: romashin-anatoliy-vladimirovich
+- person: safonov-vsevolod-dmitrievich
+studio:
+- mosfilm

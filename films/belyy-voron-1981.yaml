@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4083111
 schema_version: 1
+director:
+- lonskoy-valeriy-yakovlevich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: gostyukhin-vladimir
+studio:
+- mosfilm

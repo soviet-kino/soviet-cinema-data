@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q101242799
 schema_version: 1
+director:
+- naguib-ramses
+cast:
+- person: aziz-lobna-abdel
+- person: hamdy-emad
+- person: yusef-khasan
+- person: riad-hussein
+- person: ibrakhim-abdel-moneym
+- person: al-khariri-omar

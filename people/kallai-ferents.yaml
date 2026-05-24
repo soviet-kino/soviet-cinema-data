@@ -1,0 +1,9 @@
+id: kallai-ferents
+name_ru: Ференц Каллаи
+roles:
+- actor
+external_ids:
+  wikidata: Q897074
+sources:
+- https://www.wikidata.org/wiki/Q897074
+schema_version: 1

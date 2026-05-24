@@ -9,3 +9,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65142026
 schema_version: 1
+director:
+- shneyder-evgeniy-mikhaylovich
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- zhuravlyov-vasiliy-nikolaevich
+- pomeshchikov-evgeniy-mikhaylovich
+- rozhkov-nikolay-vasilevich
+cinematographer:
+- egiazarov-gavriil-georgievich
+- garibyan-grayr-aramovich
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: kovalyova-marina-frantsevna
+- person: svashenko-semyon-andreevich
+- person: sukhanov-pavel-mikhaylovich
+- person: tenin-boris-mikhaylovich
+- person: ivanov-apollon-alekseevich
+studio:
+- tadzhikfilm
+- soyuzdetfilm

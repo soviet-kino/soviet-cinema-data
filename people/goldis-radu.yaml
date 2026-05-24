@@ -1,0 +1,9 @@
+id: goldis-radu
+name_ru: Раду Голдис
+roles:
+- composer
+external_ids:
+  wikidata: Q7281715
+sources:
+- https://www.wikidata.org/wiki/Q7281715
+schema_version: 1

@@ -1,0 +1,9 @@
+id: peno-zhak
+name_ru: Жак Пено
+roles:
+- actor
+external_ids:
+  wikidata: Q3159730
+sources:
+- https://www.wikidata.org/wiki/Q3159730
+schema_version: 1

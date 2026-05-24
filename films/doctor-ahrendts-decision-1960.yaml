@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5287290
 schema_version: 1
+director:
+- fogel-frank
+composer:
+- volgemut-gerkhard
+cast:
+- person: dits-frits
+- person: wei-siegfried
+studio:
+- defa

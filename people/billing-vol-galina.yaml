@@ -1,0 +1,9 @@
+id: billing-vol-galina
+name_ru: Галина Биллинг-Воль
+roles:
+- actor
+external_ids:
+  wikidata: Q9285313
+sources:
+- https://www.wikidata.org/wiki/Q9285313
+schema_version: 1

@@ -1,0 +1,9 @@
+id: sokrate-mario
+name_ru: Марио Сократе
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q3849112
+sources:
+- https://www.wikidata.org/wiki/Q3849112
+schema_version: 1

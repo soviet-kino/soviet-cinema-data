@@ -1,0 +1,9 @@
+id: satler
+name_ru: Satler
+roles:
+- actor
+external_ids:
+  wikidata: Q133386197
+sources:
+- https://www.wikidata.org/wiki/Q133386197
+schema_version: 1

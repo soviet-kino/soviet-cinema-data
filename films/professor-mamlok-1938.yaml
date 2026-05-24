@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2905692
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- volf-fridrikh
+cinematographer:
+- filatov-georgiy-nikolaevich
+composer:
+- kochurov-yuriy-vladimirovich
+cast:
+- person: mezhinskiy-semyon-borisovich
+studio:
+- lenfilm

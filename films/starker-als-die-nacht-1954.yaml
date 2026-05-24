@@ -11,3 +11,44 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2360259
 schema_version: 1
+director:
+- dudov-zlatan
+screenwriter:
+- shtern-kurt
+- shtern-zhanna
+cinematographer:
+- brandt-khorst-e
+- plintsner-karl
+composer:
+- roters-ernst
+cast:
+- person: fink-verner
+- person: gyoring-khelga
+- person: volf-gerri
+- person: khyubner-akhim
+- person: khoffman-adolf-peter
+- person: grimmer-aribert
+- person: keppler-brigitte
+- person: bartel-kurt
+- person: beyertt-kristof
+- person: besendahl-maria
+- person: folkmann-edit
+- person: shrayber-khelmut
+- person: dunkelman-erika
+- person: halgardt-harald
+- person: pyuttyer-gustav
+- person: barten-fredy
+- person: rude-frithjof
+- person: brendler-gertrud
+- person: flyossel-gans
+- person: brahn-jean
+- person: arpe-yokhannes
+- person: brenk-karl
+- person: borges-manfred
+- person: shall-teo
+- person: brentina-trude
+- person: kokh-khoge-vilgelm
+- person: brunecker-wolfgang
+- person: khyubner-volfgang
+studio:
+- defa

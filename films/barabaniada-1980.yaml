@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15615398
 schema_version: 1
+director:
+- ovcharov-sergey-mikhaylovich
+screenwriter:
+- ovcharov-sergey-mikhaylovich
+cinematographer:
+- davydov-rostislav-borisovich
+composer:
+- matsievskiy-igor-vladimirovich
+cast:
+- person: ovcharov-sergey-mikhaylovich
+studio:
+- lenfilm

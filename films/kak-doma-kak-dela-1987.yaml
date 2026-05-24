@@ -8,6 +8,25 @@ runtime_min: 87
 external_ids:
   wikidata: Q4208805
   imdb: tt0298951
+  youtube: sE-yF7_khRc
 sources:
 - https://www.wikidata.org/wiki/Q4208805
 schema_version: 1
+director:
+- gasparov-samvel
+screenwriter:
+- ayvazyan-agasi
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- amirkhanyan-robert
+cast:
+- person: mkrtchyan-frunzik
+- person: chkhikvadze-ramaz-grigorevich
+- person: eliava-liya
+- person: lychyova-ekaterina
+- person: dzhanibekyan-mikael
+- person: loriya-abessalom
+- person: ninidze-iya
+studio:
+- kinostudiya-imeni-m-gorkogo

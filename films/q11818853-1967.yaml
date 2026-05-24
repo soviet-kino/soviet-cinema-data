@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11818853
 schema_version: 1
+director:
+- khmelevskiy-zbignev
+screenwriter:
+- kamykovskiy-boleslav
+composer:
+- valyatsinskiy-adam
+cast:
+- person: sykutera-janusz

@@ -1,0 +1,9 @@
+id: monk-igon
+name_ru: Игон Монк
+roles:
+- director
+external_ids:
+  wikidata: Q110647
+sources:
+- https://www.wikidata.org/wiki/Q110647
+schema_version: 1

@@ -1,0 +1,9 @@
+id: dyubo-polett
+name_ru: Полетт Дюбо
+roles:
+- actor
+external_ids:
+  wikidata: Q235429
+sources:
+- https://www.wikidata.org/wiki/Q235429
+schema_version: 1

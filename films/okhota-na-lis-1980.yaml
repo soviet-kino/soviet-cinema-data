@@ -8,6 +8,22 @@ runtime_min: 92
 external_ids:
   wikidata: Q4340438
   imdb: tt0081271
+  youtube: 8rIhH9keWt8
 sources:
 - https://www.wikidata.org/wiki/Q4340438
 schema_version: 1
+director:
+- abdrashitov-vadim-yusupovich
+screenwriter:
+- mindadze-aleksandr-anatolevich
+cinematographer:
+- nevskiy-yuriy-anatolevich
+composer:
+- artemyev-eduard
+cast:
+- person: muravyova-irina-vadimovna
+- person: gostyukhin-vladimir
+- person: nefyodov-igor-vyacheslavovich
+- person: pokrovskaya-alla-borisovna
+studio:
+- mosfilm

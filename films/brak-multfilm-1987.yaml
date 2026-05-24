@@ -8,6 +8,13 @@ runtime_min: 10
 external_ids:
   wikidata: Q4095764
   imdb: tt1284448
+  youtube: lVoulro72zs
 sources:
 - https://www.wikidata.org/wiki/Q4095764
 schema_version: 1
+director:
+- bardin-garri-yakovlevich
+screenwriter:
+- bardin-garri-yakovlevich
+studio:
+- soyuzmultfilm

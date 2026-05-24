@@ -8,6 +8,21 @@ runtime_min: 73
 external_ids:
   wikidata: Q47002138
   imdb: tt0237516
+  youtube: hmbut1-BZtw
 sources:
 - https://www.wikidata.org/wiki/Q47002138
 schema_version: 1
+director:
+- boretskiy-yuriy
+screenwriter:
+- prudnikov-mikhail-sidorovich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: grinko-nikolai
+- person: volontir-mikhay-ermolaevich
+- person: zhigalov-mikhail-vasilevich
+- person: safonov-vsevolod-dmitrievich
+- person: yakovlev-aleksandr-anatolevich
+studio:
+- kinostudiya-imeni-m-gorkogo

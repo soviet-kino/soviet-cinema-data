@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12120759
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+screenwriter:
+- voytekhov-boris-ilich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- balanchivadze-andrey-melitonovich
+cast:
+- person: kryuchkov-nikolay-afanasevich
+studio:
+- lenfilm

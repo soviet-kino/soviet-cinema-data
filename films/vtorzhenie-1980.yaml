@@ -8,6 +8,17 @@ runtime_min: 91
 external_ids:
   wikidata: Q18237709
   imdb: tt0081731
+  youtube: ibkha_9FgEc
 sources:
 - https://www.wikidata.org/wiki/Q18237709
 schema_version: 1
+director:
+- novak-villen-zakharovich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+composer:
+- zubkov-valeriy-aleksandrovich
+cast:
+- person: vavilova-natalya-dmitrievna
+studio:
+- odesskaya-kinostudiya

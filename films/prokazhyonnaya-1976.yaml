@@ -8,6 +8,22 @@ runtime_min: 91
 external_ids:
   wikidata: Q2060789
   imdb: tt0075348
+  youtube: n1Yn21GYACk
 sources:
 - https://www.wikidata.org/wiki/Q2060789
 schema_version: 1
+director:
+- gofman-ezhi
+screenwriter:
+- dygat-stanislav
+cinematographer:
+- lyot-stanislav
+composer:
+- kilyar-voytsekh
+cast:
+- person: baranskaya-yadviga
+- person: volleyko-cheslav
+- person: starostetskaya-elzhbeta
+- person: teleshinskiy-leshek
+studio:
+- silesia-kinostudiya

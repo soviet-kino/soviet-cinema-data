@@ -8,6 +8,15 @@ runtime_min: 100
 external_ids:
   wikidata: Q84993109
   imdb: tt0094807
+  youtube: NGVWZhnEwqg
 sources:
 - https://www.wikidata.org/wiki/Q84993109
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+composer:
+- korndorf-nikolay-sergeevich
+studio:
+- mosfilm

@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4215468
 schema_version: 1
+cast:
+- person: nemchik-leon
+studio:
+- polskoe-televidenie

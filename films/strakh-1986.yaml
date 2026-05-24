@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16352387
 schema_version: 1
+director:
+- tsilinskiy-gunar-alfredovich
+screenwriter:
+- kayyaks-vladimir
+cinematographer:
+- zvirbulis-miks
+composer:
+- kalnynsh-imants
+cast:
+- person: dumpis-uldis
+- person: drege-olga
+- person: zandberg-valdemar-yanovich
+- person: pavuls-eduard-karlovich
+- person: berzinsh-andris
+- person: yanchevska-zane
+- person: vilims-aigars
+- person: zusmanis-karlis
+- person: brakovskis-ivars
+studio:
+- rizhskaya-kinostudiya

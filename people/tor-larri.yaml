@@ -1,0 +1,9 @@
+id: tor-larri
+name_ru: Ларри Тор
+roles:
+- actor
+external_ids:
+  wikidata: Q6491214
+sources:
+- https://www.wikidata.org/wiki/Q6491214
+schema_version: 1

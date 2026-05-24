@@ -8,6 +8,23 @@ runtime_min: 82
 external_ids:
   wikidata: Q151177
   imdb: tt0015361
+  youtube: 74ke_-BnkvE
 sources:
 - https://www.wikidata.org/wiki/Q151177
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+- kravchunovskiy-ilya-afanasevich
+- pletnyov-valerian-fyodorovich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: antonov-aleksandr-pavlovich
+- person: aleksandrov-grigoriy-vasilevich
+- person: shtraukh-maksim-maksimovich
+poster_commons: Sergei Eisensteins 'Streik'. Filmplakat von Mihály Bíró.jpg

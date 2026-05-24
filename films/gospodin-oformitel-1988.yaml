@@ -8,6 +8,23 @@ runtime_min: 109
 external_ids:
   wikidata: Q4146403
   imdb: tt0157713
+  youtube: gionjAiTmaY
 sources:
 - https://www.wikidata.org/wiki/Q4146403
 schema_version: 1
+director:
+- teptsov-oleg-pavlovich
+screenwriter:
+- arabov-yuriy-nikolaevich
+cinematographer:
+- lapshov-anatoliy
+composer:
+- kuryokhin-sergey-anatolevich
+cast:
+- person: kozakov-mikhail-mikhaylovich
+- person: avilov-viktor-vasilevich
+- person: krasko-ivan-ivanovich
+- person: lobanov-vadim-vladimirovich
+- person: lukashov-konstantin-petrovich
+studio:
+- lenfilm

@@ -8,6 +8,20 @@ runtime_min: 98
 external_ids:
   wikidata: Q4456212
   imdb: tt0407250
+  youtube: NbqJt-1-4cU
 sources:
 - https://www.wikidata.org/wiki/Q4456212
 schema_version: 1
+director:
+- surin-aleksandr-vladimirovich
+screenwriter:
+- kuvaev-oleg
+cinematographer:
+- nevskiy-yuriy-anatolevich
+composer:
+- artemyev-eduard
+cast:
+- person: banionis-donatas-yuozovich
+- person: gerasimov-evgeniy-vladimirovich
+studio:
+- mosfilm

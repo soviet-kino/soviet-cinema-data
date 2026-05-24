@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q99628012
 schema_version: 1
+director:
+- aristov-viktor-fyodorovich
+screenwriter:
+- shukshin-vasiliy
+- aristov-viktor-fyodorovich
+cinematographer:
+- vorontsov-yuriy-pavlovich
+composer:
+- gagulashvili-arkadiy-davidovich
+cast:
+- person: orlov-german
+studio:
+- lenfilm

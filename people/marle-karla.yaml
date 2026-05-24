@@ -1,0 +1,9 @@
+id: marle-karla
+name_ru: Карла Марлье
+roles:
+- actor
+external_ids:
+  wikidata: Q2939031
+sources:
+- https://www.wikidata.org/wiki/Q2939031
+schema_version: 1

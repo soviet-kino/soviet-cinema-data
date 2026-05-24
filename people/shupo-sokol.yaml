@@ -1,0 +1,9 @@
+id: shupo-sokol
+name_ru: Сокол Шупо
+roles:
+- composer
+external_ids:
+  wikidata: Q16358462
+sources:
+- https://www.wikidata.org/wiki/Q16358462
+schema_version: 1

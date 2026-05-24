@@ -8,6 +8,17 @@ runtime_min: 82
 external_ids:
   wikidata: Q4279590
   imdb: tt0239585
+  youtube: rRy9r0uI0Js
 sources:
 - https://www.wikidata.org/wiki/Q4279590
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- prut-iosif-leonidovich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: samoylov-evgeniy-valerianovich
+studio:
+- soyuzdetfilm

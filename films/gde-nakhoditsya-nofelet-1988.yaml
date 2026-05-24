@@ -8,6 +8,18 @@ runtime_min: 77
 external_ids:
   wikidata: Q4134604
   imdb: tt0093077
+  youtube: MS9Mq2ZfW1s
 sources:
 - https://www.wikidata.org/wiki/Q4134604
 schema_version: 1
+director:
+- bezhanov-gerald-surenovich
+screenwriter:
+- eyramdzhan-anatoliy
+composer:
+- zatsepin-aleksandr
+cast:
+- person: menshov-vladimir-valentinovich
+- person: pankratov-chyornyy-aleksandr-vasilevich
+studio:
+- mosfilm

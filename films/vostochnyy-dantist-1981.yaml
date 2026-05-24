@@ -8,6 +8,25 @@ runtime_min: 131
 external_ids:
   wikidata: Q20514053
   imdb: tt0417443
+  youtube: 6lTnb3bKAVg
 sources:
 - https://www.wikidata.org/wiki/Q20514053
 schema_version: 1
+director:
+- martirosyan-ernest
+screenwriter:
+- martirosyan-ernest
+cinematographer:
+- atoyants-levon
+composer:
+- garanyan-georgiy
+cast:
+- person: kanevskiy-leonid-semyonovich
+- person: shirvindt-aleksandr-anatolevich
+- person: kaplanyan-tatevik
+- person: khachvankyan-karp
+- person: aroyan-razmik
+- person: alaverdyan-genrikh
+- person: topchiyan-anait
+studio:
+- armenfilm

@@ -7,6 +7,30 @@ country:
 external_ids:
   wikidata: Q4224173
   imdb: tt0298957
+  youtube: 4W36PLsyI_E
 sources:
 - https://www.wikidata.org/wiki/Q4224173
 schema_version: 1
+director:
+- fokin-vladimir
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- filippov-sergey-petrovich
+cast:
+- person: kvasha-igor-vladimirovich
+- person: nazarov-yuriy-vladimirovich
+- person: zakharchenko-vadim-viktorovich
+- person: petrenko-aleksey-vasilevich
+- person: arinina-lyudmila
+- person: bortsov-viktor
+- person: kaznacheeva-natalya
+- person: polbentseva-marina
+- person: politseymako-mariya-vitalevna
+- person: raykina-ekaterina-arkadevna
+- person: solovyov-aleksandr-ivanovich
+- person: shuranova-antonina-nikolaevna
+- person: yarmolnik-leonid-isaakovich
+- person: mitrushina-tatyana
+studio:
+- kinostudiya-imeni-m-gorkogo

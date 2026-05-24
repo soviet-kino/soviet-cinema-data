@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11913783
 schema_version: 1
+director:
+- brejcha-bohumil
+cinematographer:
+- safar-jiri
+cast:
+- person: burian-vlasta
+- person: filipovskiy-frantishek
+studio:
+- chekhoslovatskoe-gosudarstvennoe-kino

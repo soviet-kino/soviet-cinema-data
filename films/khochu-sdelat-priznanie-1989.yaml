@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994683
 schema_version: 1
+director:
+- biyma-oleg-ivanovich
+screenwriter:
+- biyma-oleg-ivanovich
+cinematographer:
+- primisskiy-igor-filippovich
+composer:
+- gronskiy-vladimir
+cast:
+- person: zakharchenko-vadim-viktorovich
+- person: stanyuta-stefaniya-mikhaylovna
+- person: borzova-elena-nikolaevna
+- person: dekhtyaryova-zinaida-nikolaevna
+- person: egorova-nataliya
+- person: litvinov-vladimir-ustinovich
+- person: lobza-lyudmila-mikhaylovna
+- person: lukyanenko-anatoliy-petrovich
+- person: oleynik-nikolay-dmitrievich
+- person: barmin-nikolay-mikhaylovich
+- person: chernyavskiy-konstantin
+studio:
+- ukrtelefilm

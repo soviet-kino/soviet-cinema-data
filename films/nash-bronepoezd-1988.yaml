@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16679971
 schema_version: 1
+director:
+- ptashuk-mikhail-nikolaevich
+screenwriter:
+- grigorev-evgeniy-aleksandrovich
+cinematographer:
+- elkhov-yuriy
+composer:
+- rakhmaninov-sergey-vasilevich
+- yanchenko-oleg-grigorevich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: petrenko-aleksey-vasilevich
+- person: gostyukhin-vladimir
+- person: filippenko-aleksandr-georgievich
+studio:
+- belarusfilm

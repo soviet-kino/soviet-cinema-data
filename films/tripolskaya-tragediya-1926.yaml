@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20203171
 schema_version: 1
+director:
+- anoshchenko-aleksandr-dmitrievich
+screenwriter:
+- epik-grigoriy-danilovich
+cinematographer:
+- lemke-vladimir-petrovich
+cast:
+- person: petrova-evgeniya-alekseevna
+- person: danilevich-vera-musievna
+- person: bezgin-boris-afanasevich
+studio:
+- vseukrainskoe-fotokinoupravlenie

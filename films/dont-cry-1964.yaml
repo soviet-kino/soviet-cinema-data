@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12797357
 schema_version: 1
+director:
+- shtiglits-frantse
+cast:
+- person: sugman-zlatko
+- person: potokar-majda

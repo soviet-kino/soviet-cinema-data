@@ -8,6 +8,15 @@ runtime_min: 82
 external_ids:
   wikidata: Q109428625
   imdb: tt3028096
+  youtube: zIfoIUsiwjw
 sources:
 - https://www.wikidata.org/wiki/Q109428625
 schema_version: 1
+director:
+- razumnyy-aleksandr
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+cinematographer:
+- magidson-mark-pavlovich
+studio:
+- soyuzdetfilm

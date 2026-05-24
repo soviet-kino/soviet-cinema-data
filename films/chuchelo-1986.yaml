@@ -8,6 +8,26 @@ runtime_min: 127
 external_ids:
   wikidata: Q2530123
   imdb: tt0085335
+  youtube: eHExiCW1mLc
 sources:
 - https://www.wikidata.org/wiki/Q2530123
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- bykov-rolan-antonovich
+- zheleznikov-vladimir-karpovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- gubaydulina-sofiya-asgatovna
+cast:
+- person: orbakayte-kristina
+- person: nikulin-yuriy-vladimirovich
+- person: bykov-rolan-antonovich
+- person: sanaev-pavel-vladimirovich
+- person: egorov-dmitriy-borisovich
+- person: sanaeva-elena-vsevolodovna
+- person: kryuchkova-svetlana
+studio:
+- mosfilm

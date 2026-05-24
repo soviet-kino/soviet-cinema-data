@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q21843805
   imdb: tt5874108
+  youtube: gSpjDi2BrQk
 sources:
 - https://www.wikidata.org/wiki/Q21843805
 schema_version: 1
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+cinematographer:
+- golomb-iosif-emmanuilovich
+studio:
+- ekran

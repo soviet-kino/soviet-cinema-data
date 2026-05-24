@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17562506
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cinematographer:
+- yakovlev-vladimir-timofeevich
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: chirkov-boris-petrovich
+- person: makarova-tamara-fyodorovna
+- person: volkov-pavel-mikhaylovich
+- person: shabalina-lyudmila-vasilevna
+studio:
+- lenfilm
+poster_commons: Tamara Makarova (actress).jpg

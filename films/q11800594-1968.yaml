@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11800594
 schema_version: 1
+director:
+- komorovskiy-pavel
+screenwriter:
+- lyutovskiy-ezhi
+cinematographer:
+- stavitskiy-ezhi
+composer:
+- kilyar-voytsekh
+cast:
+- person: shmidt-tadeush

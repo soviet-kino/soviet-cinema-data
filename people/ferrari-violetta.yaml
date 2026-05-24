@@ -1,0 +1,9 @@
+id: ferrari-violetta
+name_ru: Виолетта Феррари
+roles:
+- actor
+external_ids:
+  wikidata: Q546103
+sources:
+- https://www.wikidata.org/wiki/Q546103
+schema_version: 1

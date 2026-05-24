@@ -8,6 +8,20 @@ runtime_min: 160
 external_ids:
   wikidata: Q84157925
   imdb: tt5746352
+  youtube: hcCYuECrvEE
 sources:
 - https://www.wikidata.org/wiki/Q84157925
 schema_version: 1
+director:
+- lonskoy-valeriy-yakovlevich
+cinematographer:
+- nevskiy-yuriy-anatolevich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: yakovleva-elena-alekseevna
+- person: aminova-elena-anatolevna
+- person: rakov-viktor
+studio:
+- mosfilm
+- kinostudiya-imeni-m-gorkogo

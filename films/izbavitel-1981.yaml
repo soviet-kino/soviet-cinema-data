@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1001102
 schema_version: 1
+director:
+- papich-krsto
+screenwriter:
+- breshan-ivo
+- papich-krsto
+cinematographer:
+- rajkovic-ivica
+composer:
+- zivkovic-brane
+cast:
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: ivitsa-vidovich
+- person: boman-mirko
+- person: ivezich-iliya
+- person: edo-perochevich
+- person: spoljar-branko
+studio:
+- yadran-film

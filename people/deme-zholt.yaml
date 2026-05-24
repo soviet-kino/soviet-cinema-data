@@ -1,0 +1,9 @@
+id: deme-zholt
+name_ru: Жольт Деме
+roles:
+- composer
+external_ids:
+  wikidata: Q65665629
+sources:
+- https://www.wikidata.org/wiki/Q65665629
+schema_version: 1

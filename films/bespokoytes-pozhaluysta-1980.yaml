@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131908792
 schema_version: 1
+screenwriter:
+- berezin-efim-iosifovich
+- timoshenko-yuriy-trofimovich
+cast:
+- person: berezin-efim-iosifovich
+- person: timoshenko-yuriy-trofimovich
+studio:
+- ukrainskoe-televidenie

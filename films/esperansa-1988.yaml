@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16482248
 schema_version: 1
+director:
+- serkhio-olkhovich
+screenwriter:
+- serkhio-olkhovich
+- ezhov-valentin-ivanovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: kuravlyov-leonid-vyacheslavovich
+- person: kharatyan-dmitriy-vadimovich
+- person: durov-lev-konstantinovich
+- person: spivak-timofey-ivanovich
+studio:
+- instituto-mexicano-de-cinematografia

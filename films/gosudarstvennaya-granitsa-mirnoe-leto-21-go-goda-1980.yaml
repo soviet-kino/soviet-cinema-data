@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4146558
 schema_version: 1
+director:
+- stepanov-boris-mikhaylovich
+screenwriter:
+- ryabov-geliy
+- nagornyy-aleksey-petrovich
+cinematographer:
+- olifer-boris-alekseevich
+composer:
+- khagagortyan-eduard
+cast:
+- person: starygin-igor-vladimirovich
+- person: kozakov-mikhail-mikhaylovich
+- person: gorobets-yuriy
+- person: yuriy-dedovich
+- person: aktyor-denisov-aleksandr-petrovich
+- person: kamenkova-pavlova-anna-semyonovna
+- person: markina-nadezhda
+- person: nilskaya-lyudmila-valeryanovna
+- person: novikov-vladimir-vasilevich
+- person: bespalyy-aleksandr-sergeevich
+- person: yurchenkov-pyotr-petrovich
+- person: rudakov-anatoliy-rodionovich
+studio:
+- belarusfilm

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7435316
 schema_version: 1
+director:
+- metsger-redli
+screenwriter:
+- duglas-dzherri
+cinematographer:
+- vodopivec-frano
+composer:
+- cornford-robert
+cast:
+- person: kalver-kelvin
+- person: lauri-linn
+- person: wilbur-claire

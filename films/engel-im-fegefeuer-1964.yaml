@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5377483
 schema_version: 1
+director:
+- tsshokhe-german
+cinematographer:
+- ost-gunter
+composer:
+- katzer-georg

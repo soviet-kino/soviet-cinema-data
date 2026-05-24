@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109428670
 schema_version: 1
+director:
+- kustov-andrey-klementevich
+cinematographer:
+- foreste-lui-petrovich
+cast:
+- person: orlova-vera-georgievna
+- person: tamarin-boris-petrovich
+- person: tyrtov-konstantin-andreevich
+studio:
+- soyuzdetfilm

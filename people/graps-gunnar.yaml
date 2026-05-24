@@ -1,0 +1,9 @@
+id: graps-gunnar
+name_ru: Гуннар Грапс
+roles:
+- composer
+external_ids:
+  wikidata: Q3742378
+sources:
+- https://www.wikidata.org/wiki/Q3742378
+schema_version: 1

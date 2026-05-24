@@ -8,6 +8,26 @@ runtime_min: 115
 external_ids:
   wikidata: Q1156836
   imdb: tt0018217
+  youtube: qzGWtXFa018
 sources:
 - https://www.wikidata.org/wiki/Q1156836
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: tisse-eduard-kazimirovich
+- person: livanov-boris-nikolaevich
+- person: uralskiy-vladimir-mikhaylovich
+- person: popov-vladimir-aleksandrovich
+studio:
+- mosfilm
+- sovkino
+poster_commons: Movie poster October (1927).jpg

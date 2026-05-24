@@ -1,0 +1,9 @@
+id: moyk-luts
+name_ru: Луц Мойк
+roles:
+- actor
+external_ids:
+  wikidata: Q1797384
+sources:
+- https://www.wikidata.org/wiki/Q1797384
+schema_version: 1

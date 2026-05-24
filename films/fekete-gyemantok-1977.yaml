@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97199894
 schema_version: 1
+director:
+- varkoni-zoltan
+screenwriter:
+- varkoni-zoltan
+- erdodi-yanos
+cinematographer:
+- illesh-dyord
+composer:
+- emil-petrovich
+cast:
+- person: huszti-peter
+- person: sunyovszky-szilvia
+- person: khaumann-peter
+- person: konts-gabor
+- person: sabo-shandor
+studio:
+- mafilm

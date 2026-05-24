@@ -1,0 +1,9 @@
+id: halm-alfred
+name_ru: Alfred Halm
+roles:
+- director
+external_ids:
+  wikidata: Q85692
+sources:
+- https://www.wikidata.org/wiki/Q85692
+schema_version: 1

@@ -8,6 +8,19 @@ runtime_min: 84
 external_ids:
   wikidata: Q4306612
   imdb: tt0032825
+  youtube: 71cvRdivbHU
 sources:
 - https://www.wikidata.org/wiki/Q4306612
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- petrov-evgeniy-petrovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+cast:
+- person: lemeshev-sergey-yakovlevich
+studio:
+- lenfilm
+poster_commons: SLNSW 13908 Memorys Harvest with Sergei Lemeshev Zoya Fyodorova and
+  A Konovalov.jpg

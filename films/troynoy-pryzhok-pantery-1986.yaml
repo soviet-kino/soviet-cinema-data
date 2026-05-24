@@ -8,6 +8,9 @@ runtime_min: 86
 external_ids:
   wikidata: Q100233844
   imdb: tt0275741
+  youtube: 7Huy7ToZBxA
 sources:
 - https://www.wikidata.org/wiki/Q100233844
 schema_version: 1
+studio:
+- kazakhfilm

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4381512
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- doller-mikhail-ivanovich
+screenwriter:
+- rzheshevskiy-aleksandr-georgievich
+cinematographer:
+- bobrov-georgiy-makarovich
+- kabalov-grigoriy-aleksandrovich
+cast:
+- person: chistyakov-aleksandr-petrovich
+studio:
+- mezhrabpomfilm
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Story about a simple case.png

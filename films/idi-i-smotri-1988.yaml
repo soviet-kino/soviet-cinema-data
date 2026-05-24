@@ -8,6 +8,22 @@ runtime_min: 146
 external_ids:
   wikidata: Q1130395
   imdb: tt0091251
+  youtube: UkkJZweYaLI
 sources:
 - https://www.wikidata.org/wiki/Q1130395
 schema_version: 1
+director:
+- klimov-elem
+screenwriter:
+- ales-adamovich
+- klimov-elem
+cinematographer:
+- rodionov-aleksey-borisovich
+composer:
+- yanchenko-oleg-grigorevich
+cast:
+- person: kravchenko-aleksey-evgenevich
+- person: lautsyavichyus-lyubomiras
+studio:
+- mosfilm
+- belarusfilm

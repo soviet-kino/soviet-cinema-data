@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12752204
 schema_version: 1
+cast:
+- person: salajic-stevan
+- person: milosavljevic-dragoljub-gula
+- person: kljaic-radakovic-milica
+- person: q12960814
+- person: khaytl-ivan
+- person: sokica-dobrila
+- person: jovanovic-toma

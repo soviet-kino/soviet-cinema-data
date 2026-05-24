@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9248955
 schema_version: 1
+director:
+- kondratiuk-andrzej
+cinematographer:
+- laskowski-jan
+composer:
+- stanko-tomash
+cast:
+- person: maklakiewicz-zdzis-aw
+- person: novitskiy-yan
+- person: sobotta-barbara
+- person: novak-yuzef
+- person: pechka-frantishek
+- person: klosovskiy-roman
+- person: golas-veslav
+- person: plotnitskiy-boleslav
+- person: dobrowolski-jerzy
+- person: berestowski-wadim
+- person: mierzejewski-jerzy
+- person: lesnyak-mikhal
+- person: dolewski-pawe-maria

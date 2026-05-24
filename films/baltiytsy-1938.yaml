@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6816303
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+cast:
+- person: livanov-boris-nikolaevich
+- person: viven-leonid-sergeevich
+- person: sofronov-vasiliy-yakovlevich
+studio:
+- belarusfilm

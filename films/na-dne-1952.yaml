@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113572165
 schema_version: 1
+director:
+- frolov-andrey-vladimirovich
+cast:
+- person: batalov-vladimir-petrovich
+- person: golovko-kira-nikolaevna
+- person: gotovtsev-vladimir-vasilevich
+- person: ershov-vladimir-lvovich
+- person: massalskiy-pavel-vladimirovich
+- person: raevskiy-iosif-moiseevich
+- person: tarasova-alla-konstantinovna
+- person: shevchenko-faina-vasilevna
+studio:
+- mosfilm

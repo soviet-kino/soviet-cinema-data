@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12378492
 schema_version: 1
+director:
+- baskin-roman
+screenwriter:
+- valton-arvo
+cinematographer:
+- ikho-arvo
+cast:
+- person: yarvet-yuri-evgenevich
+- person: tammur-ilmar
+- person: luyk-sulev
+studio:
+- tallinfilm

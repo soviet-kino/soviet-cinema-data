@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4141089
   imdb: tt0091124
+  youtube: uv5A-6pgMJU
 sources:
 - https://www.wikidata.org/wiki/Q4141089
 schema_version: 1
+director:
+- popkov-vladimir-mikhaylovich
+screenwriter:
+- strelyanyy-anatoliy-ivanovich
+cast:
+- person: muravyova-irina-vadimovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

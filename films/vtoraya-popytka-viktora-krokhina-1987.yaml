@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4127946
 schema_version: 1
+director:
+- sheshukov-igor-alekseevich
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: gurchenko-lyudmila
+- person: borisov-oleg-ivanovich
+- person: bortnik-ivan-sergeevich
+- person: rybnikov-nikolay-nikolaevich
+studio:
+- lenfilm

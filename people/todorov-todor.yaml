@@ -1,0 +1,9 @@
+id: todorov-todor
+name_ru: Тодор Тодоров
+roles:
+- actor
+external_ids:
+  wikidata: Q12296602
+sources:
+- https://www.wikidata.org/wiki/Q12296602
+schema_version: 1

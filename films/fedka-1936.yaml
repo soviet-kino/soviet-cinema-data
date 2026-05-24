@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4482301
 schema_version: 1
+director:
+- lebedev-nikolay
+screenwriter:
+- levin-doyvber
+studio:
+- lenfilm

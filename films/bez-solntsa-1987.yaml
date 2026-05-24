@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q63027839
   imdb: tt0092649
+  youtube: Q5oLN-l27jM
 sources:
 - https://www.wikidata.org/wiki/Q63027839
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: gluzskiy-mikhail-andreevich
+- person: petrenko-aleksey-vasilevich
+- person: kuznetsov-anatoliy
+- person: gostyukhin-vladimir
+- person: glagoleva-vera-vitalevna
+- person: kokshenov-mikhail
+- person: kochetkov-afanasiy-ivanovich
+- person: steklov-vladimir-aleksandrovich
+studio:
+- mosfilm

@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6691695
 schema_version: 1
+director:
+- vrdolyak-antun
+screenwriter:
+- vrdolyak-antun
+composer:
+- zhivan-tsvitkovich
+cast:
+- person: dvornik-boris
+- person: buzanchich-boris
+- person: lasta-sven
+- person: sokich-ruzhitsa

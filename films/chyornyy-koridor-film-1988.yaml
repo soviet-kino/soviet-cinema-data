@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994090
 schema_version: 1
+director:
+- derbenyov-vadim-klavdievich
+cinematographer:
+- martynov-oleg
+composer:
+- chernyshyov-vladimir
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: kabo-olga-igorevna
+- person: garmash-sergey-leonidovich
+- person: ilin-vladimir-adolfovich
+- person: kurkina-raisa-semyonovna
+- person: unguryanu-ion
+studio:
+- mosfilm

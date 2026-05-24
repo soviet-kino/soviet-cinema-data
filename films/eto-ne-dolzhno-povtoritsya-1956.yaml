@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5310120
 schema_version: 1
+director:
+- torndayk-andre
+cinematographer:
+- stanke-kurt
+composer:
+- dessau-paul

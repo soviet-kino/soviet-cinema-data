@@ -8,6 +8,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q20001914
   imdb: tt1795057
+  youtube: oihBIO_d1lw
 sources:
 - https://www.wikidata.org/wiki/Q20001914
 schema_version: 1
+director:
+- ivanov-vano-ivan
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+- ivanov-aleksandr-vasilevich
+- khodataeva-olga
+studio:
+- soyuzmultfilm

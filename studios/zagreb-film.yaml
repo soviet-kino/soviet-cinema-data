@@ -1,0 +1,8 @@
+id: zagreb-film
+name_ru: Загреб-фильм
+country: YU
+external_ids:
+  wikidata: Q140373
+sources:
+- https://www.wikidata.org/wiki/Q140373
+schema_version: 1

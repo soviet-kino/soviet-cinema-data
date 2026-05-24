@@ -8,6 +8,22 @@ runtime_min: 67
 external_ids:
   wikidata: Q4124845
   imdb: tt0304911
+  youtube: Erv4mJbUMUI
 sources:
 - https://www.wikidata.org/wiki/Q4124845
 schema_version: 1
+director:
+- mikhleev-dmitriy-nikanorovich
+composer:
+- artemyev-eduard
+cast:
+- person: guseva-nataliya
+- person: veksler-sergey-meylekhovich
+- person: vinogradova-mariya-sergeevna
+- person: germanova-lyubov-alekseevna
+- person: aktyor-denisov-aleksandr-petrovich
+- person: ilichyov-viktor-grigorevich
+- person: matskevich-ivan-ivanovich
+- person: boguk-valeriya-georgievna
+studio:
+- belarusfilm

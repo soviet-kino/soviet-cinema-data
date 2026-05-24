@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q59676303
 schema_version: 1
+director:
+- tzokov-orfey
+screenwriter:
+- danailov-georgi
+cinematographer:
+- karayordanov-georgi
+composer:
+- mikhaylov-angel
+cast:
+- person: banov-vasil
+- person: stoyanov-georgi-2
+- person: cholakova-madlen
+- person: dadov-nikola
+- person: pamukov-hristo

@@ -8,6 +8,20 @@ runtime_min: 149
 external_ids:
   wikidata: Q4240049
   imdb: tt0093370
+  youtube: Lglkp7Ba-Rg
 sources:
 - https://www.wikidata.org/wiki/Q4240049
 schema_version: 1
+director:
+- shveytser-mikhail-abramovich
+- milkina-sofiya-abramovna
+screenwriter:
+- shveytser-mikhail-abramovich
+cinematographer:
+- mikhail-leonidovich-agranovich
+composer:
+- gubaydulina-sofiya-asgatovna
+cast:
+- person: yankovsky-oleg
+studio:
+- mosfilm

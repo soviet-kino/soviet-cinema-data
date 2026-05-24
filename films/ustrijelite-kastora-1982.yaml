@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184788
 schema_version: 1
+director:
+- marusic-daniel
+screenwriter:
+- marusic-daniel
+cast:
+- person: drech-vanya
+- person: bulic-karlo
+- person: zlatko-tsrnkovich
+- person: vitez-zlatko

@@ -8,6 +8,13 @@ runtime_min: 96
 external_ids:
   wikidata: Q15270976
   imdb: tt0093794
+  youtube: ksJrA31bdNk
 sources:
 - https://www.wikidata.org/wiki/Q15270976
 schema_version: 1
+director:
+- pankratov-aleksandr
+composer:
+- karetnikov-nikolay-nikolaevich
+studio:
+- mosfilm

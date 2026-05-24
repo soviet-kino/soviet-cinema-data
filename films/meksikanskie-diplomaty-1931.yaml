@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20512120
 schema_version: 1
+director:
+- kalantar-levan
+- martirosyan-amasiy
+screenwriter:
+- chubar-egiya
+cinematographer:
+- beknazaryan-garush
+cast:
+- person: nersesyan-rachiya
+- person: kocharyan-suren-akimovich
+- person: khachanyan-amvrosiy
+- person: amirbekyan-aram
+- person: abramyan-khachatur
+- person: chakhiryan-grigoriy
+studio:
+- armenfilm

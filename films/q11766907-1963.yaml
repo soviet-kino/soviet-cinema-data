@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11766907
 schema_version: 1
+director:
+- dziedzina-julian
+cast:
+- person: zofiya-rysyuvna
+- person: baer-bogdan
+- person: petruskiy-ryshard
+- person: kvyatkovskiy-adam
+- person: grotowicz-wiktor
+- person: strakhotskiy-yanush

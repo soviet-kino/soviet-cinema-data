@@ -8,6 +8,22 @@ runtime_min: 74
 external_ids:
   wikidata: Q28664539
   imdb: tt1346998
+  youtube: sqoGy5jfPMU
 sources:
 - https://www.wikidata.org/wiki/Q28664539
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- korneychuk-aleksandr-evdokimovich
+cinematographer:
+- ekelchik-yuriy-izrailevich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: mordvinov-nikolay-dmitrievich
+- person: politseymako-vitaliy-pavlovich
+studio:
+- kinostudiya-imeni-a-dovzhenko
+- turkmenfilm

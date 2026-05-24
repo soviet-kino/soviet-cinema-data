@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339531
 schema_version: 1
+director:
+- barskaya-margarita-aleksandrovna
+screenwriter:
+- barskaya-margarita-aleksandrovna
+- yadin-veniamin-iosifovich
+cinematographer:
+- foreste-lui-petrovich
+composer:
+- gamburg-grigoriy-semyonovich
+cast:
+- person: sverdlin-lev-naumovich
+- person: zhizneva-olga-andreevna
+- person: barskaya-margarita-aleksandrovna
+- person: vulfovich-teodor-yurevich
+- person: konsovskiy-aleksey-anatolevich
+- person: tarkhanov-mikhail-mikhaylovich
+studio:
+- soyuzdetfilm

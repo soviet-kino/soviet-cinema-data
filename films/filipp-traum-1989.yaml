@@ -8,6 +8,21 @@ runtime_min: 137
 external_ids:
   wikidata: Q4484023
   imdb: tt0097657
+  youtube: W_7bCvE888M
 sources:
 - https://www.wikidata.org/wiki/Q4484023
 schema_version: 1
+director:
+- maslennikov-igor-fyodorovich
+screenwriter:
+- adamatskiy-igor-alekseevich
+- shmidt-evgeniy-vladimirovich
+cinematographer:
+- stroganov-nikolay-ivanovich
+cast:
+- person: vesnik-evgeniy-yakovlevich
+- person: merkurev-pyotr-vasilevich
+- person: zubarev-aleksey-pavlovich
+- person: vorobyov-gabriel-vladislavovich
+studio:
+- lenfilm

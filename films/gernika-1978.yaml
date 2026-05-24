@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2063677
 schema_version: 1
+director:
+- kusturitsa-emir
+screenwriter:
+- kusturitsa-emir
+- sykora-pavel
+cinematographer:
+- kusturitsa-emir
+cast:
+- person: augusta-karel
+- person: prochazka-borik
+- person: smrckova-jana
+- person: vydlak-miroslav
+- person: q124949206

@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4301835
 schema_version: 1
+director:
+- averbakh-ilya-aleksandrovich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- meskhiev-dmitriy-davydovich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: terekhova-margarita
+- person: neyolova-marina-mstislavovna
+- person: gluzskiy-mikhail-andreevich
+studio:
+- lenfilm

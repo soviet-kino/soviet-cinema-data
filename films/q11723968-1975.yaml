@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11723968
 schema_version: 1
+composer:
+- brukner-anton
+cast:
+- person: zelnik-ezhi
+- person: beata-tyshkevich
+- person: nemchik-leon
+- person: vakhovyak-marya
+- person: shonert-miroslav
+- person: bogutskiy-andzhey
+- person: popiel-andrzej
+- person: moes-jerzy
+- person: kolavskaya-anna
+- person: may-andrzej
+- person: sniezanka-ewa
+- person: rostworowski-henryk
+- person: bonchek-ezhi
+- person: januszewicz-jerzy
+- person: jabczynski-julian
+- person: kovolik-lyutsiya
+- person: mrozewski-andrzej

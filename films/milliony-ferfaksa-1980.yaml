@@ -8,6 +8,19 @@ runtime_min: 81
 external_ids:
   wikidata: Q4293576
   imdb: tt0230529
+  youtube: 8fv5W3vDiho
 sources:
 - https://www.wikidata.org/wiki/Q4293576
 schema_version: 1
+director:
+- ilinskiy-nikolay-serafimovich
+screenwriter:
+- ilinskiy-nikolay-serafimovich
+composer:
+- artemyev-eduard
+cast:
+- person: budraytis-yuozas-stanislavas
+- person: martynov-aleksandr-sergeevich
+- person: baykshtite-grazhina
+studio:
+- kinostudiya-imeni-a-dovzhenko

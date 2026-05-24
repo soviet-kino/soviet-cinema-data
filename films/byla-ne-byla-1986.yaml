@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q84994621
   imdb: tt1503091
+  youtube: FXoqQGMghvA
 sources:
 - https://www.wikidata.org/wiki/Q84994621
 schema_version: 1
+director:
+- fedosov-valeriy-ivanovich
+cast:
+- person: starikova-svetlana-ivanovna
+studio:
+- odesskaya-kinostudiya

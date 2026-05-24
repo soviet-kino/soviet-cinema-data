@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1216667
 schema_version: 1
+director:
+- gusner-iris
+screenwriter:
+- kyun-regina
+cinematographer:
+- gref-roland
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: naumann-gyunter
+- person: shtayer-kristian
+- person: lennarts-monika
+- person: ventsel-khaydemari
+- person: sholts-khaynts
+- person: kyofer-gerbert
+- person: bauman-khilmar
+- person: lyobinger-lotta
+- person: greeze-volfgang

@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124363986
 schema_version: 1
+director:
+- pencheva-lilyana
+cinematographer:
+- mladenov-vasko
+cast:
+- person: mikhaylov-vasil
+- person: zoin-ivan
+- person: nikolov-vladimir
+studio:
+- bolgarskoe-natsionalnoe-televidenie

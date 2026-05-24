@@ -8,6 +8,23 @@ runtime_min: 83
 external_ids:
   wikidata: Q4385919
   imdb: tt0038841
+  youtube: gzWtRtL7qQA
 sources:
 - https://www.wikidata.org/wiki/Q4385919
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- fogelman-yuliy-moiseevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: astangov-mikhail-fyodorovich
+- person: larionov-vsevolod-dmitrievich
+- person: abdulov-osip-naumovich
+- person: izmaylova-elena-davydovna
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- soyuzdetfilm

@@ -1,0 +1,9 @@
+id: lonza-tonko
+name_ru: Тонко Лонза
+roles:
+- actor
+external_ids:
+  wikidata: Q1567746
+sources:
+- https://www.wikidata.org/wiki/Q1567746
+schema_version: 1

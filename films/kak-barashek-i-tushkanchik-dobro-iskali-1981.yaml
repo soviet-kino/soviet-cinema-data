@@ -7,6 +7,11 @@ country:
 runtime_min: 8
 external_ids:
   wikidata: Q123298683
+  youtube: -ivrPxpOfMg
 sources:
 - https://www.wikidata.org/wiki/Q123298683
 schema_version: 1
+director:
+- abdrakhmanov-ersain
+studio:
+- kazakhfilm

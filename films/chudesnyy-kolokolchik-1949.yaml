@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4517622
   imdb: tt2482108
+  youtube: 2Jc03tzYXFk
 sources:
 - https://www.wikidata.org/wiki/Q4517622
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- erzinkyan-maro-surenovna
+- filimonova-inna
+cinematographer:
+- voinov-nikolay-vasilevich
+composer:
+- oranskiy-viktor-aleksandrovich
+studio:
+- soyuzmultfilm

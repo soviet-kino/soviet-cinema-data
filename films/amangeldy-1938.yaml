@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4063918
   imdb: tt0031037
+  youtube: 1z5SqcfgGb0
 sources:
 - https://www.wikidata.org/wiki/Q4063918
 schema_version: 1
+director:
+- levin-moisey-zelikovich
+screenwriter:
+- ivanov-vsevolod-vyacheslavovich
+composer:
+- gnesin-mikhail-fabianovich
+cast:
+- person: umurzakov-elyubay
+studio:
+- lenfilm

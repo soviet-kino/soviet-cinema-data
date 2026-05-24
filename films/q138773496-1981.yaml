@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q138773496
 schema_version: 1
+director:
+- fogel-piter
+screenwriter:
+- gorner-eberhard
+- fogel-piter
+- khaubold-gyunter
+cinematographer:
+- khaubold-gyunter
+composer:
+- vefelmeyer-bernd
+cast:
+- person: bey-khannelora
+- person: korner-ditrikh
+- person: wieland-werner
+- person: leng-aleksandr
+- person: pucher-wilfried
+- person: distelmann-yokhen
+- person: khench-yurgen
+- person: agisheva-mariyam
+- person: uider-teresiya
+- person: klyaynert-folkmar
+- person: zaydenberg-boris-ilich
+- person: berndt-paul
+- person: royter-yurgen
+- person: kuchenbuch-roland
+- person: kryuger-khans-khartmut
+- person: wiehler-markus
+- person: feldner-hans
+studio:
+- defa

@@ -1,0 +1,9 @@
+id: kid-mary
+name_ru: Mary Kid
+roles:
+- actor
+external_ids:
+  wikidata: Q91897
+sources:
+- https://www.wikidata.org/wiki/Q91897
+schema_version: 1

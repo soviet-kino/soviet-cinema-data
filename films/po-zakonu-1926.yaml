@@ -8,6 +8,21 @@ runtime_min: 80
 external_ids:
   wikidata: Q477602
   imdb: tt0017271
+  youtube: Ye5MZGFj5Wk
 sources:
 - https://www.wikidata.org/wiki/Q477602
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- london-dzhek
+- kuleshov-lev-vladimirovich
+- shklovskiy-viktor-borisovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: khokhlova-aleksandra-sergeevna
+- person: fogel-vladimir-petrovich
+- person: komarov-sergey-petrovich
+studio:
+- goskino

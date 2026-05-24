@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12281481
 schema_version: 1
+director:
+- grybcheva-ivanka
+screenwriter:
+- mormarevi-bratya
+cinematographer:
+- todorov-yatsek
+composer:
+- stupel-petr
+cast:
+- person: rusev-georgi
+- person: bakalova-ani
+- person: todorov-voytsekh
+- person: ganev-dimitr

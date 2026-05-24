@@ -9,3 +9,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q126689233
 schema_version: 1
+director:
+- karpin-leo
+cinematographer:
+- mutt-anton
+- laansalu-peep
+cast:
+- person: leontev-valeriy-yakovlevich
+- person: rotaru-sofiya
+- person: rymbaeva-roza-kuanyshevna
+- person: kovach-kati
+- person: yoala-yaak
+- person: korn-irzhi
+- person: aspelund-monika
+- person: marylya-rodovich
+- person: linna-ivo
+- person: sherfezi-ivitsa
+- person: myagi-tynis
+- person: apelsin
+- person: zivere-mirdza
+- person: ivanov-igor-vladimirovich
+- person: panayotov-panayot
+- person: radar-ansambl
+- person: spriyt-elonna
+- person: rozenberg-gunnar
+studio:
+- eesti-telefilm

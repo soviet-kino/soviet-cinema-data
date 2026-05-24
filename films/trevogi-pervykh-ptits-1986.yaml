@@ -8,6 +8,24 @@ runtime_min: 90
 external_ids:
   wikidata: Q110887972
   imdb: tt0265899
+  youtube: TVRBtIBO2ic
 sources:
 - https://www.wikidata.org/wiki/Q110887972
 schema_version: 1
+screenwriter:
+- osipenko-aleksandr-kharitonovich
+cinematographer:
+- avdeev-oleg-tikhonovich
+composer:
+- kondrusevich-vladimir-petrovich
+cast:
+- person: borisov-boris-nikolaevich
+- person: valikov-fyodor-mikhaylovich
+- person: dmitrieva-natalya-vladimirovna
+- person: menshov-evgeniy-aleksandrovich
+- person: susnin-aleksandr
+- person: tormakhova-svetlana-dmitrievna
+- person: petrachkova-valentina-timofeevna
+- person: pisareva-lyudmila-ivanovna
+studio:
+- belarusfilm

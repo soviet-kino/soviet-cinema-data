@@ -1,0 +1,9 @@
+id: getova-plamena
+name_ru: Пламена Гетова
+roles:
+- actor
+external_ids:
+  wikidata: Q4803861
+sources:
+- https://www.wikidata.org/wiki/Q4803861
+schema_version: 1

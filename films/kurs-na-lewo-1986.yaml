@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11751306
 schema_version: 1
+director:
+- unrug-pavel
+screenwriter:
+- unrug-pavel
+cinematographer:
+- mohylnytsky-ivan
+composer:
+- marchevskiy-petr
+cast:
+- person: buchkovskiy-zbignev

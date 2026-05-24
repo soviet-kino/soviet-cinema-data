@@ -1,0 +1,9 @@
+id: buls-miks
+name_ru: Микс Булс
+roles:
+- actor
+external_ids:
+  wikidata: Q135921694
+sources:
+- https://www.wikidata.org/wiki/Q135921694
+schema_version: 1

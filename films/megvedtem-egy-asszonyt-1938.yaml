@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1175492
 schema_version: 1
+director:
+- rathonyi-akos
+cast:
+- person: aytai-andor
+- person: pager-antal
+- person: gobbi-khilda
+- person: lazar-mariya
+- person: molnar-laslo-z

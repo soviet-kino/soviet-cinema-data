@@ -1,0 +1,9 @@
+id: lasta-sven
+name_ru: Свен Ласта
+roles:
+- actor
+external_ids:
+  wikidata: Q12643052
+sources:
+- https://www.wikidata.org/wiki/Q12643052
+schema_version: 1

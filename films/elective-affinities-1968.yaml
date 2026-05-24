@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131300172
 schema_version: 1
+director:
+- vachek-karel
+screenwriter:
+- vachek-karel
+cinematographer:
+- ort-snep-jozef
+cast:
+- person: dubchek-aleksandr
+- person: novotnyy-antonin
+- person: gusak-gustav
+- person: kogout-pavel
+- person: kubishova-marta
+- person: svoboda-lyudvik
+- person: yanzhurova-iva
+- person: smrkovskiy-yozef
+- person: prokhazka-yan
+- person: vachek-karel
+- person: jaris-milan

@@ -1,0 +1,9 @@
+id: magda
+name_ru: Магда
+roles:
+- actor
+external_ids:
+  wikidata: Q3276643
+sources:
+- https://www.wikidata.org/wiki/Q3276643
+schema_version: 1

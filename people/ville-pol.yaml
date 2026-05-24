@@ -1,0 +1,9 @@
+id: ville-pol
+name_ru: Поль Вилле
+roles:
+- actor
+external_ids:
+  wikidata: Q3372378
+sources:
+- https://www.wikidata.org/wiki/Q3372378
+schema_version: 1

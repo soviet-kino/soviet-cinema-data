@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11795593
 schema_version: 1
+director:
+- zhebrovskiy-edvard
+screenwriter:
+- zhebrovskiy-edvard
+cinematographer:
+- hesse-jan
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: fronchevskiy-pyotr
+- person: englert-yan
+- person: zbignev-zapasevich
+- person: komorovskaya-mayya
+- person: bardini-aleksander
+- person: opanya-marian
+- person: volleyko-cheslav
+- person: zintel-zygmunt
+- person: bokhdal-iolanta
+- person: malawski-zygmunt
+- person: kamas-ezhi
+studio:
+- tor-kinostudiya

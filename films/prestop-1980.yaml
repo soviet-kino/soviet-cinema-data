@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28750064
 schema_version: 1
+screenwriter:
+- zajec-matjaz
+cast:
+- person: bitents-demetr
+- person: benedicic-danilo
+- person: bogataj-mirko
+- person: avbelj-jozica

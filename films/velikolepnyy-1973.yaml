@@ -2,16 +2,58 @@ id: velikolepnyy-1973
 title_ru: Великолепный
 title_original: Le Magnifique
 year: 1973
-country: [FR, IT]
+country:
+- FR
+- IT
 runtime_min: 84
-genre: [comedy, adventure]
-topics: [foreign-in-soviet-distribution]
+genre:
+- comedy
+- adventure
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1976
   title_ru: Великолепный
   dubbed: true
 external_ids:
   wikidata: Q2401518
+  imdb: tt0070354
 sources:
-  - https://www.wikidata.org/wiki/Q2401518
+- https://www.wikidata.org/wiki/Q2401518
 schema_version: 1
+director:
+- broka-filipp-de
+screenwriter:
+- veber-fransis
+- broka-filipp-de
+- kaprioli-vittorio
+- rappno-zhan-pol
+composer:
+- bollin-klod
+cast:
+- person: belmondo-zhan-pol
+- person: bisset-zhaklin
+- person: broka-filipp-de
+- person: kaprioli-vittorio
+- person: meyer-gans
+- person: lefevr-zhan
+- person: legran-lyusenn
+- person: myusson-bernar
+- person: veber-andre
+- person: garsen-bruno
+- person: noel-gaetan
+- person: czarniak-henri
+- person: desham-yuber
+- person: rambal-zhan-per
+- person: berri-robert
+- person: navarr-lui
+- person: david-mario
+- person: ozel-moris
+- person: dero-maks
+- person: bayyar-misha
+- person: tomass-mishel
+- person: tarbes-monique
+- person: zherom-reymon
+- person: flosh-sebasten
+- person: myuni-rozhe
+- person: fryuzhes-tali

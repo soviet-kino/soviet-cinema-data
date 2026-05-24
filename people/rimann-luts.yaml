@@ -1,0 +1,9 @@
+id: rimann-luts
+name_ru: Лутс Риманн
+roles:
+- actor
+external_ids:
+  wikidata: Q1878189
+sources:
+- https://www.wikidata.org/wiki/Q1878189
+schema_version: 1

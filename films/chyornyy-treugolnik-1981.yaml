@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4518925
 schema_version: 1
+director:
+- tarasov-sergey
+screenwriter:
+- klarov-yuriy-mikhaylovich
+composer:
+- ziv-mikhail-pavlovich
+cast:
+- person: bolotova-zhanna-andreevna
+- person: grigorev-konstantin-konstantinovich
+- person: romashin-anatoliy-vladimirovich
+studio:
+- mosfilm

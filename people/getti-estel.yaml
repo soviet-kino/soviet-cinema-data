@@ -1,0 +1,9 @@
+id: getti-estel
+name_ru: Эстель Гетти
+roles:
+- actor
+external_ids:
+  wikidata: Q232827
+sources:
+- https://www.wikidata.org/wiki/Q232827
+schema_version: 1

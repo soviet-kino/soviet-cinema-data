@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12088558
 schema_version: 1
+director:
+- kurbas-les
+cinematographer:
+- zavelev-boris-isaakovich
+cast:
+- person: buchma-amvrosiy-maksimilianovich
+- person: shagayda-stepan-vasilevich
+studio:
+- odesskaya-kinostudiya
+- vseukrainskoe-fotokinoupravlenie

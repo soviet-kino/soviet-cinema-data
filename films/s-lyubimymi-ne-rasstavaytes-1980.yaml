@@ -8,6 +8,21 @@ runtime_min: 72
 external_ids:
   wikidata: Q4402937
   imdb: tt0079835
+  youtube: H-wPMK7Ns9w
 sources:
 - https://www.wikidata.org/wiki/Q4402937
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- zarafyan-inna
+composer:
+- krylatov-evgeniy
+cast:
+- person: alfyorova-irina-ivanovna
+- person: abdulov-aleksandr-gavrilovich
+- person: drebnyova-lyudmila
+studio:
+- kinostudiya-imeni-m-gorkogo

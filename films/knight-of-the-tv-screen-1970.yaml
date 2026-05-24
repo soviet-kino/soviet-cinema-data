@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17163415
 schema_version: 1
+director:
+- lauro-ishtvan-bachkai
+screenwriter:
+- polgar-andrash
+cast:
+- person: konts-gabor
+- person: ferencz-laszlo

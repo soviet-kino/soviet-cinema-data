@@ -8,6 +8,100 @@ runtime_min: 85
 external_ids:
   wikidata: Q12058242
   imdb: tt0078357
+  youtube: FdSxSv89PyY
 sources:
 - https://www.wikidata.org/wiki/Q12058242
 schema_version: 1
+director:
+- raza-ludvik
+screenwriter:
+- raza-ludvik
+- vogeltanz-ondrej
+cinematographer:
+- nemechek-yan
+composer:
+- fisher-lyubosh
+cast:
+- person: kodet-irzhi
+- person: holy-tomas
+- person: vinklarzh-yozef
+- person: somr-josef
+- person: pogan-yan
+- person: potmesil-jan
+- person: ganzlik-yaromir
+- person: blaga-yozef
+- person: moravets-miroslav
+- person: kotva-vaclav
+- person: potmeshil-ladislav
+- person: kostka-petr
+- person: chepek-petr
+- person: augusta-karel
+- person: engel-karel
+- person: tuma-stanislav
+- person: medvecka-tatjana
+- person: razh-vladimir
+- person: rzhanda-chestmir
+- person: srstka-zdenek
+- person: besser-vilem
+- person: vavra-bogumil
+- person: navratil-borzhivoy
+- person: troyan-ladislav
+- person: maurer-viktor
+- person: kankovsky-vaclav
+- person: preucil-jan
+- person: hejzlar-josef
+- person: velda-josef
+- person: vetrovec-josef
+- person: ruzek-martin
+- person: mak-milan
+- person: splechtova-miluse
+- person: musil-mirko
+- person: drozda-petr
+- person: skamene-roman
+- person: juricka-tomas
+- person: khardt-antonin
+- person: lahoda-ladislav
+- person: fajt-jiri
+- person: yakl-petr
+- person: broz-jiri-2
+- person: kruta-ferdinand
+- person: havel-jiri
+- person: zahorsky-richard
+- person: kutil-zdenek
+- person: hron-martin
+- person: kraus-irzhi
+- person: klenot-jiri
+- person: cmiral-jan
+- person: cmiral-jan-2
+- person: maskova-renata
+- person: jakl-frantisek
+- person: klenot-jaroslav
+- person: sejk-jindrich
+- person: q101210280
+- person: vlk-jaroslav
+- person: vitek-karel
+- person: skalicky-zdenek
+- person: zhelizko-pavel
+- person: horak-jaroslav
+- person: myslik-pavel
+- person: gult-karel
+- person: semerak-oldrich
+- person: prochazka-vladimir
+- person: janecek-arnost
+- person: q112363396
+- person: benda-stanislav
+- person: fiala-karel-2
+- person: q127061194
+- person: q131765966
+- person: q131784955
+- person: q131824936
+- person: kamenicka-sylva
+- person: rosolova-zdenka
+- person: brokl-jan
+- person: barta-vladimir
+- person: jansky-martin
+- person: engel-tomas
+- person: q134506557
+studio:
+- televidenie-v-chekhoslovakii
+- barrandov

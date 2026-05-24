@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q21555102
   imdb: tt2359431
+  youtube: 50es32wGe_w
 sources:
 - https://www.wikidata.org/wiki/Q21555102
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+screenwriter:
+- uspenskiy-eduard
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- sverdlovskaya-kinostudiya

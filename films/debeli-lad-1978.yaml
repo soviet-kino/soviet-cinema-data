@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31185041
 schema_version: 1
+director:
+- marusic-joakim
+cast:
+- person: knezovic-vlasta
+- person: licina-jovan
+- person: kojadinovic-ugljesa

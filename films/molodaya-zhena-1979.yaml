@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4300557
 schema_version: 1
+director:
+- menaker-leonid-isaakovich
+screenwriter:
+- velembovskaya-irina-aleksandrovna
+cinematographer:
+- kovzel-vladimir-prokhorovich
+composer:
+- vaysburd-yakov-isaevich
+cast:
+- person: makarova-galina-klimentevna
+- person: biryukov-vladlen-egorovich
+- person: kamenkova-pavlova-anna-semyonovna
+- person: prokhanov-sergey-borisovich
+studio:
+- lenfilm

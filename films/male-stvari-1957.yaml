@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31183812
 schema_version: 1
+director:
+- kosanovic-bosko
+cast:
+- person: vrkhovets-yanez
+- person: tanhofer-tomislav

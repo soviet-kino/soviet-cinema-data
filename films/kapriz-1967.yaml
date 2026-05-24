@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q83263753
 schema_version: 1
+director:
+- gadzhev-dragomir
+composer:
+- karadimchev-boris
+cast:
+- person: toncheva-doroteya
+- person: denchev-kliment
+- person: penkov-petr
+studio:
+- bolgarskoe-natsionalnoe-televidenie

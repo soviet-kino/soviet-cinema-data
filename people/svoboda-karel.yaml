@@ -1,0 +1,9 @@
+id: svoboda-karel
+name_ru: Карел Свобода
+roles:
+- composer
+external_ids:
+  wikidata: Q356687
+sources:
+- https://www.wikidata.org/wiki/Q356687
+schema_version: 1

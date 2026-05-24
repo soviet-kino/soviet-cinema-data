@@ -1,0 +1,9 @@
+id: korner-ostara
+name_ru: Ostara Körner
+roles:
+- actor
+external_ids:
+  wikidata: Q2034834
+sources:
+- https://www.wikidata.org/wiki/Q2034834
+schema_version: 1

@@ -1,0 +1,9 @@
+id: bromskiy-yatsek
+name_ru: Яцек Бромский
+roles:
+- director
+external_ids:
+  wikidata: Q6582084
+sources:
+- https://www.wikidata.org/wiki/Q6582084
+schema_version: 1

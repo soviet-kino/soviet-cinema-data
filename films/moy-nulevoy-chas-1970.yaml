@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1918019
 schema_version: 1
+director:
+- khasler-yoakhim
+screenwriter:
+- beker-yurek
+cinematographer:
+- khasler-yoakhim
+cast:
+- person: krug-manfred
+- person: jung-alsen-kurt
+- person: rikhter-raynik-ditmar
+- person: schon-horst
+- person: becker-eckhard
+- person: marian-edvin
+- person: shvil-ernst-georg
+- person: zolter-frido
+- person: khindemit-kharri
+- person: myuller-alfred
+- person: distelmann-yokhen
+- person: shturm-karl
+- person: weisgerber-thomas
+- person: greeze-volfgang

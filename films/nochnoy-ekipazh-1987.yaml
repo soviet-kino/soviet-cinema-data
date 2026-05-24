@@ -8,6 +8,11 @@ runtime_min: 95
 external_ids:
   wikidata: Q4327795
   imdb: tt0093644
+  youtube: yUdHdfqIPdY
 sources:
 - https://www.wikidata.org/wiki/Q4327795
 schema_version: 1
+director:
+- tokarev-boris-vasilevich
+studio:
+- mosfilm

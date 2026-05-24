@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4091843
   imdb: tt0094427
+  youtube: 7daotbwAYWE
 sources:
 - https://www.wikidata.org/wiki/Q4091843
 schema_version: 1
+director:
+- semyon-davidovich-aranovich
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- fedosov-valeriy-ivanovich
+composer:
+- knayfel-aleksandr-aronovich
+cast:
+- person: gostyukhin-vladimir
+studio:
+- lenfilm

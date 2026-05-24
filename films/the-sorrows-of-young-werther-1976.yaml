@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1214365
 schema_version: 1
+director:
+- gyunter-egon
+screenwriter:
+- gyunter-egon
+- schutz-helga
+cinematographer:
+- gusko-erikh
+composer:
+- matus-zigfrid
+cast:
+- person: talbakh-katarina
+- person: mann-diter
+- person: lisevskiy-stefan
+- person: frost-simone
+- person: shall-dzhoanna
+- person: binert-gerkhard
+- person: mann-angelika
+- person: dittus-barbara
+- person: kremer-bodo
+- person: turoff-niko
+- person: arenkens-paul
+- person: grosse-khervart
+- person: bauman-khilmar
+- person: distelmann-yokhen
+- person: koren-juliane
+- person: piontek-klaus
+- person: goldstayn-kurt
+- person: hladik-peter
+- person: wolf-hans-jurgen
+studio:
+- defa

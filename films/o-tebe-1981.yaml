@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65197528
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+screenwriter:
+- nakhapetov-rodion-rafailovich
+composer:
+- sergey-petrovich-banevich
+cast:
+- person: glagoleva-vera-vitalevna
+- person: smolyakov-andrey-igorevich
+studio:
+- ekran

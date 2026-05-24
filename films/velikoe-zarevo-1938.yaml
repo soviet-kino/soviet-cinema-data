@@ -8,6 +8,28 @@ runtime_min: 73
 external_ids:
   wikidata: Q7737702
   imdb: tt0030928
+  youtube: BDpBJniWnr4
 sources:
 - https://www.wikidata.org/wiki/Q7737702
 schema_version: 1
+director:
+- chiaureli-mikhail-edisherovich
+screenwriter:
+- chiaureli-mikhail-edisherovich
+- pavlenko-pyotr-andreevich
+- tsagareli-georgiy-konstantinovich
+cinematographer:
+- digmelashvili-aleksandr
+- polikevich-anton-iosifovich
+composer:
+- gokieli-ivan-rafailovich
+cast:
+- person: gelovani-mikhail-georgievich
+- person: makarova-tamara-fyodorovna
+- person: perestiani-ivan-nikolaevich
+- person: bagashvili-spartak-levanovich
+- person: gedevanishvili-shalva-mikhaylovich
+- person: shavgulidze-georgiy-vladimirovich
+- person: myufke-konstantin
+studio:
+- gruziya-film

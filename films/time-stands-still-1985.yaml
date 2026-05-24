@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7805109
 schema_version: 1
+director:
+- gotar-peter
+screenwriter:
+- beremeney-geza
+- gotar-peter
+cinematographer:
+- koltai-layosh
+cast:
+- person: eze-layosh
+- person: khonti-khanna

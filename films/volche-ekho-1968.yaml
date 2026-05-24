@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4124331
 schema_version: 1
+director:
+- stsibor-rylskiy-aleksandr
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- lyot-stanislav
+composer:
+- kilyar-voytsekh
+cast:
+- person: perepechko-marek
+- person: oya-bruno-vernerovich
+- person: karel-irena
+- person: shalyavskiy-andzhey
+- person: stoor-mechislav
+studio:
+- rytm-kinostudiya

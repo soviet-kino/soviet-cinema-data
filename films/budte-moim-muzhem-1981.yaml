@@ -8,6 +8,18 @@ runtime_min: 87
 external_ids:
   wikidata: Q4098243
   imdb: tt0166514
+  youtube: CBMEfNBaxLo
 sources:
 - https://www.wikidata.org/wiki/Q4098243
 schema_version: 1
+director:
+- surikova-alla-ilinichna
+screenwriter:
+- akopov-eduard-tigranovich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: mironov-andrey
+- person: proklova-elena-igorevna
+studio:
+- mosfilm

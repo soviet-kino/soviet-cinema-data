@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17582666
 schema_version: 1
+director:
+- buturlin-viktor-ivanovich
+screenwriter:
+- buturlin-viktor-ivanovich
+- solntsev-roman-kharisovich
+cinematographer:
+- vasilev-vladimir-anatolevich
+cast:
+- person: borisov-lev-ivanovich
+- person: kuznetsov-yuriy-aleksandrovich
+- person: mazhuga-yuriy-nikolaevich
+- person: ruslanova-nina-ivanovna
+- person: aktyor-smirnov-viktor-fyodorovich
+studio:
+- lenfilm

@@ -1,0 +1,9 @@
+id: santelli-claude
+name_ru: Claude Santelli
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q2978131
+sources:
+- https://www.wikidata.org/wiki/Q2978131
+schema_version: 1

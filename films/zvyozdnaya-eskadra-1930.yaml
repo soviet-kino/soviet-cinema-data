@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5623600
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- meyssner-yanush
+cinematographer:
+- wawrzyniak-antoni
+cast:
+- person: orvid-barbara

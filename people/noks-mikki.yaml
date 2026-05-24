@@ -1,0 +1,9 @@
+id: noks-mikki
+name_ru: Микки Нокс
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q6838682
+sources:
+- https://www.wikidata.org/wiki/Q6838682
+schema_version: 1

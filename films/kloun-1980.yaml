@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4224120
 schema_version: 1
+director:
+- zbandut-natalya-amiranovna
+screenwriter:
+- dragunskiy-denis-viktorovich
+cinematographer:
+- osipov-albert-nikanorovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: varley-natalya-vladimirovna
+- person: kamburova-elena
+- person: kamornyy-yuriy-yurevich
+- person: nikulin-valentin-yurevich
+- person: pitsek-vladimir-kondratevich
+- person: trubnikova-natalya-evgenevna
+- person: bykova-rimma-aleksandrovna
+- person: marchevskiy-anatoliy-pavlovich
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11725813
 schema_version: 1
+director:
+- pecani-spartak
+screenwriter:
+- tafa-nexhati
+composer:
+- shupo-sokol
+cast:
+- person: ndrenika-robert
+- person: alikaj-eva
+- person: caushi-kastriot
+studio:
+- kinostudio-shqiperia-e-re

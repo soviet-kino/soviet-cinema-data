@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16371388
 schema_version: 1
+director:
+- levonyan-tigran
+composer:
+- chukhadzhyan-tigran
+cast:
+- person: levonyan-tigran
+studio:
+- armenfilm

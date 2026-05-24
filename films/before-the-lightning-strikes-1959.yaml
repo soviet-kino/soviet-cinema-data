@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q731646
 schema_version: 1
+director:
+- groshopp-rikhard
+screenwriter:
+- andrie-en-carl
+cinematographer:
+- klagemann-oygen
+composer:
+- wehding-hans-hendrik
+cast:
+- person: dissel-verner
+- person: krug-manfred
+- person: lastsar-kristina
+- person: khasse-khanno
+- person: hase-annemarie
+- person: drinda-khorst
+- person: klyayn-erik-zigfrid
+- person: schiemann-rudi
+- person: rikhter-fridrikh
+- person: biewer-gerd
+- person: fisher-khannes
+- person: grosse-khervart
+- person: kube-khorst
+- person: thomas-jochen
+- person: arpe-yokhannes
+- person: homeyer-margret
+- person: dommish-peter
+- person: kherrikht-rolf
+- person: sense-traute
+- person: benekendorf-volf-fon
+studio:
+- defa

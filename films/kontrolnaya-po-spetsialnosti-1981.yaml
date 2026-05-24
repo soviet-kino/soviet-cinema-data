@@ -8,6 +8,20 @@ runtime_min: 76
 external_ids:
   wikidata: Q4231732
   imdb: tt0237384
+  youtube: JuVotmUbilI
 sources:
 - https://www.wikidata.org/wiki/Q4231732
 schema_version: 1
+director:
+- shadurskiy-boris-konstantinovich
+screenwriter:
+- bolgarin-igor-yakovlevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: makarova-inna-vladimirovna
+- person: simonova-evgeniya-pavlovna
+- person: markhel-tatyana-grigorevna
+- person: nifontova-rufina-dmitrievna
+studio:
+- belarusfilm

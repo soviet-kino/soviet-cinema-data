@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27225811
 schema_version: 1
+director:
+- sipovac-gojko
+cast:
+- person: felba-dragomir
+- person: boyanich-dragomir
+- person: vuisich-pavle
+- person: tadich-dushan
+- person: angelovski-kole
+- person: nikshich-snezhana
+- person: aleksandr-stoykovich

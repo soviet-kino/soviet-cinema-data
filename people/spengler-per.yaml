@@ -1,0 +1,9 @@
+id: spengler-per
+name_ru: Пьер Спенглер
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q7192451
+sources:
+- https://www.wikidata.org/wiki/Q7192451
+schema_version: 1

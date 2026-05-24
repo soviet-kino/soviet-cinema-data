@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q4230309
   imdb: tt0311409
+  youtube: AR_OxJwoDy4
 sources:
 - https://www.wikidata.org/wiki/Q4230309
 schema_version: 1
+director:
+- vedyshev-mikhail-vasilevich
+cast:
+- person: buldakov-aleksey-ivanovich
+- person: garmash-sergey-leonidovich
+- person: makarova-galina-klimentevna
+- person: boltnev-andrey-nikolaevich
+- person: egorova-nataliya
+- person: itskov-yuriy-leonidovich
+- person: novikov-boris-kuzmich
+- person: cherichenko-irina-vyacheslavovna
+- person: ekaterinichev-ivan-fyodorovich
+studio:
+- kinostudiya-imeni-m-gorkogo

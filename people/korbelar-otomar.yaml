@@ -1,0 +1,9 @@
+id: korbelar-otomar
+name_ru: Otomar Korbelář
+roles:
+- actor
+external_ids:
+  wikidata: Q7108973
+sources:
+- https://www.wikidata.org/wiki/Q7108973
+schema_version: 1

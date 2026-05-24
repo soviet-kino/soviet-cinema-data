@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506250
 schema_version: 1
+director:
+- mimitsa-vatroslav
+screenwriter:
+- mimitsa-vatroslav
+cinematographer:
+- vodopivec-frano
+cast:
+- person: nalis-antun
+- person: alesha-vuchkovich
+- person: kojadinovic-ugljesa
+- person: kandich-milosh
+studio:
+- yadran-film

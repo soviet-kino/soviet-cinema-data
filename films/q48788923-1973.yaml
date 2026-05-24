@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48788923
 schema_version: 1
+director:
+- gaal-albert
+screenwriter:
+- barany-tamas
+cinematographer:
+- sziagiy-verdzhil
+cast:
+- person: balint-andrash
+- person: benko-piter
+- person: andai-katalin
+- person: kallai-ferents
+- person: dendessi-katalin
+- person: nad-mariya-goor
+- person: varadi-hedi

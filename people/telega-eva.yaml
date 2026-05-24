@@ -1,0 +1,9 @@
+id: telega-eva
+name_ru: Эва Телега
+roles:
+- actor
+external_ids:
+  wikidata: Q9256872
+sources:
+- https://www.wikidata.org/wiki/Q9256872
+schema_version: 1

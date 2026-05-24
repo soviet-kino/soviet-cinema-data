@@ -1,0 +1,9 @@
+id: bor-matey
+name_ru: Матей Бор
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q535355
+sources:
+- https://www.wikidata.org/wiki/Q535355
+schema_version: 1

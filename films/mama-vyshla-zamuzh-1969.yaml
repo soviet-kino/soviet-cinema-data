@@ -8,6 +8,21 @@ runtime_min: 85
 external_ids:
   wikidata: Q4279718
   imdb: tt0064628
+  youtube: _LqVzLqnqWc
 sources:
 - https://www.wikidata.org/wiki/Q4279718
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+screenwriter:
+- klepikov-yuriy-nikolaevich
+cinematographer:
+- dolinin-dmitriy
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: efremov-oleg-nikolaevich
+- person: burlyaev-nikolai
+- person: ovchinnikova-lyusena-ivanovna
+studio:
+- lenfilm

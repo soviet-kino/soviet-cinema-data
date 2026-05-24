@@ -8,6 +8,17 @@ runtime_min: 80
 external_ids:
   wikidata: Q3832389
   imdb: tt0128308
+  youtube: iNs2xFHYfGY
 sources:
 - https://www.wikidata.org/wiki/Q3832389
 schema_version: 1
+director:
+- plesha-branko
+screenwriter:
+- plesha-branko
+cast:
+- person: danilo-stoykovich
+- person: plesha-branko
+- person: drazenovic-ljerka
+- person: vukovic-gizela
+- person: kontic-ljiljana

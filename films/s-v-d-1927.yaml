@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3460236
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- tynyanov-yuriy
+- oksman-yulian-grigorevich
+cinematographer:
+- moskvin-andrey-nikolaevich
+cast:
+- person: gerasimov-sergey
+- person: zhakov-oleg-petrovich
+- person: zheymo-yanina-boleslavovna
+- person: sobolevskiy-pyotr-stanislavovich
+- person: kostrichkin-andrey-andreevich
+- person: gal-emil-mikhaylovich
+- person: semyonova-lyudmila-nikolaevna
+- person: magarill-sofya-zinovevna
+- person: khokhlov-konstantin-pavlovich
+studio:
+- lenfilm

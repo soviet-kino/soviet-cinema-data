@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119630240
 schema_version: 1
+director:
+- bonaventura-jan
+composer:
+- mladek-ivan
+- band-banjo
+cast:
+- person: peshak-ivo
+- person: mladek-ivan
+- person: band-banjo
+- person: sobota-ludek
+- person: gerendas-ladislav
+- person: q122828800
+- person: q123249897
+- person: augusta-jiri
+- person: prochazka-tomas

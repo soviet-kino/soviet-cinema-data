@@ -1,0 +1,9 @@
+id: pyldre-mati
+name_ru: Мати Пыльдре
+roles:
+- director
+external_ids:
+  wikidata: Q4385260
+sources:
+- https://www.wikidata.org/wiki/Q4385260
+schema_version: 1

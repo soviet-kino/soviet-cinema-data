@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2101963
 schema_version: 1
+director:
+- byukhner-norbert
+cinematographer:
+- klyayst-vinfrid
+composer:
+- gotkhardt-peter

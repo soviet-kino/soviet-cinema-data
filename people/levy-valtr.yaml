@@ -1,0 +1,9 @@
+id: levy-valtr
+name_ru: Valtr Levý
+roles:
+- actor
+external_ids:
+  wikidata: Q133502735
+sources:
+- https://www.wikidata.org/wiki/Q133502735
+schema_version: 1

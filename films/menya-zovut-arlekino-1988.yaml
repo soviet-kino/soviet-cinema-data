@@ -8,6 +8,19 @@ runtime_min: 134
 external_ids:
   wikidata: Q4290683
   imdb: tt0095622
+  youtube: W8T0ocyAgPA
 sources:
 - https://www.wikidata.org/wiki/Q4290683
 schema_version: 1
+director:
+- rybarev-valeriy-pavlovich
+screenwriter:
+- shchekochikhin-yuriy-petrovich
+- rybarev-valeriy-pavlovich
+cinematographer:
+- kuchar-feliks-ayzikovich
+cast:
+- person: kopylova-svetlana-vadimovna
+- person: fomin-oleg
+studio:
+- belarusfilm

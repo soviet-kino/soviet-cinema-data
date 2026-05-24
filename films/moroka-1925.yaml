@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119198606
 schema_version: 1
+director:
+- tarich-yuriy-viktorovich
+- ivanov-barkov-evgeniy-alekseevich
+screenwriter:
+- tarich-yuriy-viktorovich
+cast:
+- person: barysheva-tatyana-semyonovna
+- person: zhukov-aleksandr-ivanovich
+studio:
+- goskino

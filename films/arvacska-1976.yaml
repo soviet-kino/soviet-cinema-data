@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q8076995
 schema_version: 1
+director:
+- ranodi-laslo
+screenwriter:
+- morits-zhigmond
+- elek-judit
+- ranodi-laslo
+cinematographer:
+- shara-shandor
+cast:
+- person: madarash-yozhef
+- person: bikhari-zhozef
+- person: moor-marianna
+- person: zhinkozhi-zhuzha
+- person: molnar-piroshka
+- person: khorvat-sandor
+- person: shutts-ila
+- person: szirtes-adam
+- person: nad-anna
+- person: kadar-flora
+studio:
+- hunnia-film-studio

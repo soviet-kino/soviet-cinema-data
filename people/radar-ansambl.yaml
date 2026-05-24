@@ -1,0 +1,9 @@
+id: radar-ansambl
+name_ru: ансамбль «Радар»
+roles:
+- actor
+external_ids:
+  wikidata: Q16413086
+sources:
+- https://www.wikidata.org/wiki/Q16413086
+schema_version: 1

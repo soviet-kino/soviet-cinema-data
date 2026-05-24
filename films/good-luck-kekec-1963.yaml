@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q973480
 schema_version: 1
+director:
+- geyl-yozhe
+cast:
+- person: sever-stane
+- person: sotlar-bert
+- person: bojc-rusa
+- person: gjurin-velemir
+- person: florjanc-blanka
+- person: mele-martin

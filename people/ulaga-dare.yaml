@@ -1,0 +1,9 @@
+id: ulaga-dare
+name_ru: Dare Ulaga
+roles:
+- actor
+external_ids:
+  wikidata: Q12787320
+sources:
+- https://www.wikidata.org/wiki/Q12787320
+schema_version: 1

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6876462
 schema_version: 1
+director:
+- tagizade-tofik-mekhdikulu-ogly
+screenwriter:
+- rovshan-ramiz
+cinematographer:
+- mekhtiev-guseyn
+composer:
+- babaev-mobil
+cast:
+- person: suleymanov-shamil
+- person: ogly-gurbanov-gamlet-agadadash
+- person: omarova-gamida-mamed-kyzy
+- person: ogly-sadygov-guseynaga-alesker
+- person: mamedov-sabir
+- person: ogly-rzaev-samandar-mansim
+studio:
+- azerbaydzhanfilm

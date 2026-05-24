@@ -8,6 +8,27 @@ runtime_min: 139
 external_ids:
   wikidata: Q4516777
   imdb: tt0090826
+  youtube: HH11DPc_oc4
 sources:
 - https://www.wikidata.org/wiki/Q4516777
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+screenwriter:
+- zarkhi-aleksandr-grigorevich
+- loginov-vladlen-terentevich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- gabeli-irakliy-revazovich
+cast:
+- person: filatov-leonid-alekseevich
+- person: zolotukhin-valeriy
+- person: bronevoy-leonid-sergeevich
+- person: grave-aleksandr-konstantinovich
+- person: golubitskiy-oleg-borisovich
+- person: romanov-ernst-ivanovich
+- person: romashin-anatoliy-vladimirovich
+- person: simonov-ruben-evgenevich
+studio:
+- mosfilm

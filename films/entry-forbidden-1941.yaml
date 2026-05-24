@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123367964
 schema_version: 1
+director:
+- martonffy-emil
+screenwriter:
+- noti-karoli
+cast:
+- person: latabar-kalman
+- person: simor-erzsi

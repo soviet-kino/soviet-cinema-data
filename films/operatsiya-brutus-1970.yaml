@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4335262
 schema_version: 1
+director:
+- passendorfer-ezhi
+screenwriter:
+- nenatskiy-zbignev
+composer:
+- kashitskiy-lyutsian
+cast:
+- person: shmidt-tadeush
+- person: pyrkosh-vitold
+- person: fogel-aleksander
+- person: kotsinyak-marian
+- person: krzyzewska-ewa

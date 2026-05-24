@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9254006
 schema_version: 1
+director:
+- bayon-filip
+screenwriter:
+- bayon-filip
+cinematographer:
+- dabal-vit
+composer:
+- szostak-zdzis-aw
+cast:
+- person: kwasniewska-s-awa
+studio:
+- tor-kinostudiya

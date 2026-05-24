@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20510267
 schema_version: 1
+director:
+- erzinkyan-yuriy
+cinematographer:
+- israelyan-sergey
+composer:
+- amirkhanyan-robert
+cast:
+- person: evstigneev-evgeniy-aleksandrovich
+- person: basov-vladimir-pavlovich
+- person: gladunko-lyudmila-mikhaylovna
+- person: denisova-aleksandra-alekseevna
+- person: manukyan-guzh
+- person: ovanesov-vitaliy-sergeevich
+- person: tolbuzin-arkadiy-nikolaevich
+- person: chekan-stanislav-yulianovich
+studio:
+- armenfilm

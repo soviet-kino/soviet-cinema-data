@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4179333
 schema_version: 1
+director:
+- asanova-dinara-kuldashevna
+screenwriter:
+- aristov-viktor-fyodorovich
+cinematographer:
+- vorontsov-yuriy-pavlovich
+cast:
+- person: solovey-elena-yakovlevna
+studio:
+- lenfilm

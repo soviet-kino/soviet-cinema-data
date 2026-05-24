@@ -8,6 +8,25 @@ runtime_min: 261
 external_ids:
   wikidata: Q4226146
   imdb: tt0099946
+  youtube: 3ToX2kv2qiE
 sources:
 - https://www.wikidata.org/wiki/Q4226146
 schema_version: 1
+director:
+- royzman-zinoviy-aleksandrovich
+screenwriter:
+- vayner-georgiy-aleksandrovich
+- slovin-leonid-semyonovich
+- royzman-zinoviy-aleksandrovich
+cinematographer:
+- travitskiy-leonid-iosifovich
+composer:
+- shiryaev-evgeniy
+cast:
+- person: radzhabov-murad-yadgarovich
+- person: rakhimov-nabi
+- person: fatyushin-aleksandr-konstantinovich
+- person: khamraev-dzhavlon-razzakovich
+- person: shevchuk-irina-borisovna
+studio:
+- uzbekfilm

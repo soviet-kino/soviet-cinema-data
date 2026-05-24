@@ -8,6 +8,16 @@ runtime_min: 77
 external_ids:
   wikidata: Q4349077
   imdb: tt0039699
+  youtube: 9lWHVS6rKy8
 sources:
 - https://www.wikidata.org/wiki/Q4349077
 schema_version: 1
+director:
+- frolov-andrey-vladimirovich
+composer:
+- solovyov-sedoy-vasiliy-pavlovich
+cast:
+- person: pereverzev-ivan-fyodorovich
+- person: volodin-vladimir-sergeevich
+studio:
+- mosfilm

@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4348936
 schema_version: 1
+director:
+- mchedlidze-nana-bidzinovna
+screenwriter:
+- mchedlidze-nana-bidzinovna
+- chelidze-levan-sergeevich
+cinematographer:
+- chelidze-georgiy-aleksandrovich
+composer:
+- kakhidze-dzhansug-ivanovich
+cast:
+- person: khvichia-ippolit-alekseevich
+- person: abashidze-david-ivanovich
+- person: lordkipanidze-guram
+- person: ninidze-iya
+- person: pirtskhalava-guram-nikolaevich
+- person: chkhaidze-vasiliy-isakovich
+- person: vartanyan-laura
+- person: dzhaiyani-dmitriy
+studio:
+- gruziya-film

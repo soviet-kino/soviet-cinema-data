@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q995786
 schema_version: 1
+director:
+- somyash-zhurzh
+screenwriter:
+- fekete-iboyya
+- gryunvalski-ferents
+- somyash-zhurzh
+cast:
+- person: sabo-laslo
+- person: ban-yanos
+- person: derzhi-yanosh
+- person: andorai-peter

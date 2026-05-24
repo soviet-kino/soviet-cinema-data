@@ -1,0 +1,9 @@
+id: peti-shandor
+name_ru: Шандор Пети
+roles:
+- actor
+external_ids:
+  wikidata: Q1233820
+sources:
+- https://www.wikidata.org/wiki/Q1233820
+schema_version: 1

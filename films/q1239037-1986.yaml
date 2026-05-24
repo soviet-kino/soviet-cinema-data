@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1239037
 schema_version: 1
+director:
+- toth-lajos
+cinematographer:
+- bacho-zoltan

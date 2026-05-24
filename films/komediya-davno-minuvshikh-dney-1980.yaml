@@ -8,6 +8,21 @@ runtime_min: 80
 external_ids:
   wikidata: Q4229503
   imdb: tt0230421
+  youtube: ehYajR5Qleg
 sources:
 - https://www.wikidata.org/wiki/Q4229503
 schema_version: 1
+director:
+- kushneryov-yuriy-sergeevich
+screenwriter:
+- kostyukovskiy-yakov-aronovich
+- slobodskoy-moris-romanovich
+composer:
+- yakushev-yuriy-alekseevich
+cast:
+- person: vitsin-georgiy-mikhaylovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: gomiashvili-archil-mikhaylovich
+- person: filippov-sergey-nikolaevich
+studio:
+- mosfilm

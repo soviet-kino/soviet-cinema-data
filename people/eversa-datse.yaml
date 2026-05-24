@@ -1,0 +1,9 @@
+id: eversa-datse
+name_ru: Даце Эверса
+roles:
+- actor
+external_ids:
+  wikidata: Q4529655
+sources:
+- https://www.wikidata.org/wiki/Q4529655
+schema_version: 1

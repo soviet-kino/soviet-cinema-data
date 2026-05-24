@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84166640
 schema_version: 1
+director:
+- tsutsulkovskiy-lev-izrailevich
+composer:
+- uspenskiy-vladislav-aleksandrovich
+cast:
+- person: karachentsov-nikolay
+- person: velyaminov-pyotr-sergeevich
+- person: ivchenko-valeriy-mikhaylovich
+- person: lobanov-vadim-vladimirovich
+studio:
+- pyatyy-kanal

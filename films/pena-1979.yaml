@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4348410
 schema_version: 1
+director:
+- aleksandr-borisovich-stefanovich
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+- aleksandr-borisovich-stefanovich
+cinematographer:
+- karavaev-elizbar
+composer:
+- rychkov-boris-nikolaevich-2
+cast:
+- person: bykov-rolan-antonovich
+- person: papanov-anatoliy-dmitrievich
+- person: smirnova-lidiya-nikolaevna
+- person: krachkovskaya-natalya-leonidovna
+- person: kuravlyov-leonid-vyacheslavovich
+- person: basov-vladimir-pavlovich
+- person: steblov-evgeniy-yurevich
+studio:
+- mosfilm

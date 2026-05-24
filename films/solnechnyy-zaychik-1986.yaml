@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q125738579
 schema_version: 1
+director:
+- nurm-karin
+screenwriter:
+- viilup-eve
+cinematographer:
+- kepp-vallo
+cast:
+- person: ilus-maarya-liys
+- person: nygisto-yaanus
+studio:
+- eesti-telefilm

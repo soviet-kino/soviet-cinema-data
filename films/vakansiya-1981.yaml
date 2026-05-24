@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4102599
 schema_version: 1
+director:
+- mikaelyan-margarita
+screenwriter:
+- mikaelyan-margarita
+cinematographer:
+- abramyan-genri-artashesovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: dogileva-tatyana-anatolevna
+- person: bykov-rolan-antonovich
+- person: tabakov-oleg-pavlovich
+- person: vasileva-ekaterina-sergeevna
+- person: kayurov-leonid-yurevich
+- person: proskurin-viktor-alekseevich
+- person: yakovleva-marina-aleksandrovna
+studio:
+- mosfilm

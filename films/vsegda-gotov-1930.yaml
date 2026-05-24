@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20512736
 schema_version: 1
+director:
+- martirosyan-amasiy
+cast:
+- person: manvelyan-mikael
+- person: mkrtchyan-samvel

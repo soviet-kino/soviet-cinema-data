@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27159924
 schema_version: 1
+director:
+- babich-yozhe
+screenwriter:
+- plesha-branko
+cast:
+- person: balokh-mikha
+- person: samardzhich-lyubisha
+- person: prlichko-petr
+- person: antolic-davor

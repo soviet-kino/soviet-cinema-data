@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q15270493
   imdb: tt0032278
+  youtube: 9DGitRgOb88
 sources:
 - https://www.wikidata.org/wiki/Q15270493
 schema_version: 1
+director:
+- vasilchikov-yuri
+screenwriter:
+- kassil-lev-abramovich
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: kryuchkov-nikolay-afanasevich
+- person: mirskiy-lev-solomonovich
+studio:
+- soyuzdetfilm

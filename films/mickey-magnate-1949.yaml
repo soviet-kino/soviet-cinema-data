@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6838704
 schema_version: 1
+director:
+- keleti-marton
+screenwriter:
+- gabor-andor
+- bakoni-karoy
+- bekeffi-ishtvan
+cinematographer:
+- eiben-istvan
+composer:
+- sirmai-albert
+cast:
+- person: mesarosh-agi
+- person: gabor-miklosh

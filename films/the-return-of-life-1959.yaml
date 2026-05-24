@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109324361
 schema_version: 1
+cast:
+- person: al-maligi-makhmud
+- person: ramzi-akhmed
+- person: eddine-youssef-fakhr
+- person: ighraa
+- person: sedi-zinat
+- person: sabry-maha
+- person: ayub-samiha
+- person: q109256210

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4831990
 schema_version: 1
+director:
+- tamash-banovich
+cast:
+- person: bardi-zhurzh
+- person: gobbi-khilda
+- person: mayor-tamash

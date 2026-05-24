@@ -8,6 +8,24 @@ runtime_min: 88
 external_ids:
   wikidata: Q617144
   imdb: tt0091364
+  youtube: QSc3uk8Q5w4
 sources:
 - https://www.wikidata.org/wiki/Q617144
 schema_version: 1
+director:
+- shakhnazarov-karen
+screenwriter:
+- borodyanskiy-aleksandr-emmanuilovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- artemyev-eduard
+cast:
+- person: churikova-inna
+- person: menshov-vladimir-valentinovich
+- person: basilashvili-oleg-valerianovich
+- person: nemolyaeva-anastasiya-nikolaevna
+- person: pankratov-chyornyy-aleksandr-vasilevich
+- person: kryuchkova-svetlana
+studio:
+- mosfilm

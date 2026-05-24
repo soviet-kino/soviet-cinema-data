@@ -8,6 +8,13 @@ runtime_min: 64
 external_ids:
   wikidata: Q20510145
   imdb: tt3800890
+  youtube: lNXwv4Hg4zM
 sources:
 - https://www.wikidata.org/wiki/Q20510145
 schema_version: 1
+director:
+- fanosyan-martiros-retevosovich
+screenwriter:
+- zalotukha-valeriy-aleksandrovich
+studio:
+- armenfilm

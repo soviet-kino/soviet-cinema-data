@@ -1,0 +1,9 @@
+id: tot-barnabash
+name_ru: Барнабаш Тот
+roles:
+- actor
+external_ids:
+  wikidata: Q60538546
+sources:
+- https://www.wikidata.org/wiki/Q60538546
+schema_version: 1

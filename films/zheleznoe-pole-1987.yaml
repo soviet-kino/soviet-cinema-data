@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q97169991
   imdb: tt0267144
+  youtube: JCl1l5CWpQQ
 sources:
 - https://www.wikidata.org/wiki/Q97169991
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+screenwriter:
+- rekemchuk-aleksandr-evseevich
+composer:
+- tukhmanov-david-fyodorovich
+cast:
+- person: titova-valentina-antipovna
+- person: velyaminov-pyotr-sergeevich
+- person: shutov-evgeniy-efimovich
+studio:
+- sverdlovskaya-kinostudiya

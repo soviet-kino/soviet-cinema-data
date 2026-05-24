@@ -1,0 +1,9 @@
+id: goldmann-friedrich
+name_ru: Friedrich Goldmann
+roles:
+- composer
+external_ids:
+  wikidata: Q592552
+sources:
+- https://www.wikidata.org/wiki/Q592552
+schema_version: 1

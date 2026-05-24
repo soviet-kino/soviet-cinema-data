@@ -1,0 +1,9 @@
+id: obrovska
+name_ru: Obrovská
+roles:
+- actor
+external_ids:
+  wikidata: Q133282222
+sources:
+- https://www.wikidata.org/wiki/Q133282222
+schema_version: 1

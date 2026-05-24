@@ -1,0 +1,9 @@
+id: ballon-otto
+name_ru: Otto Ballon
+roles:
+- actor
+external_ids:
+  wikidata: Q111411465
+sources:
+- https://www.wikidata.org/wiki/Q111411465
+schema_version: 1

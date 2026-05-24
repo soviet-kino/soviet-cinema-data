@@ -1,0 +1,9 @@
+id: banyats-mira
+name_ru: Мира Баняц
+roles:
+- actor
+external_ids:
+  wikidata: Q1280064
+sources:
+- https://www.wikidata.org/wiki/Q1280064
+schema_version: 1

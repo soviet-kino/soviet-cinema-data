@@ -8,6 +8,17 @@ runtime_min: 16
 external_ids:
   wikidata: Q56884449
   imdb: tt0426200
+  youtube: EYVV6BDnBq4
 sources:
 - https://www.wikidata.org/wiki/Q56884449
 schema_version: 1
+director:
+- miler-zdenek
+screenwriter:
+- miler-zdenek
+cinematographer:
+- masnik-ivan
+composer:
+- bukovyy-vilyam
+studio:
+- jiri-trnka-a-bratri-v-triku

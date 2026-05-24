@@ -1,0 +1,9 @@
+id: shutts-ila
+name_ru: Ила Шутц
+roles:
+- actor
+external_ids:
+  wikidata: Q1286389
+sources:
+- https://www.wikidata.org/wiki/Q1286389
+schema_version: 1

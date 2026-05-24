@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12370236
 schema_version: 1
+director:
+- kiysk-kalyo-karlovich
+screenwriter:
+- grigoriy-kanovich
+- fridberg-isaak-shaevich
+cinematographer:
+- sillart-yuriy
+composer:
+- veevo-lembit
+cast:
+- person: yarvet-yuri-evgenevich
+- person: klooren-enn
+- person: kark-tynu
+- person: yukskyula-aarne-mati
+- person: kukumyagi-arvo
+- person: gutman-robert
+- person: allabert-rudolf
+- person: mikiver-tynu
+- person: saar-tynu
+studio:
+- tallinfilm

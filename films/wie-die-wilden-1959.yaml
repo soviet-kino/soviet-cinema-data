@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7998851
 schema_version: 1
+cinematographer:
+- khaynrikh-gans
+composer:
+- ulfig-walter
+cast:
+- person: krauze-brigitta
+- person: kherrikht-rolf
+- person: schaerf-wolfram
+- person: cogho-alfred

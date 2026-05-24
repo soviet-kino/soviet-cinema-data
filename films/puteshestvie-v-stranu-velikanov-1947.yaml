@@ -8,6 +8,15 @@ runtime_min: 16
 external_ids:
   wikidata: Q21644123
   imdb: tt6344892
+  youtube: p4BlYSsueBQ
 sources:
 - https://www.wikidata.org/wiki/Q21644123
 schema_version: 1
+director:
+- babichenko-dmitriy-naumovich
+cinematographer:
+- voinov-nikolay-vasilevich
+composer:
+- gamburg-grigoriy-semyonovich
+studio:
+- soyuzmultfilm

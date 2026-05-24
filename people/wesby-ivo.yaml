@@ -1,0 +1,9 @@
+id: wesby-ivo
+name_ru: Ivo Wesby
+roles:
+- composer
+external_ids:
+  wikidata: Q6099231
+sources:
+- https://www.wikidata.org/wiki/Q6099231
+schema_version: 1

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11825952
 schema_version: 1
+director:
+- drapella-hubert
+composer:
+- lusztig-marek
+cast:
+- person: zofya-kharevich
+- person: krechmar-yan
+- person: ordon-lekh
+- person: sokhnatskiy-boguslav
+- person: turek-ezhi
+- person: nivinskiy-stanislav
+- person: valchak-ezhi

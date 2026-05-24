@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11749031
 schema_version: 1
+director:
+- sass-barbara
+screenwriter:
+- sajko-jerzy
+cinematographer:
+- zdort-wies-aw
+composer:
+- tzhinski-voytsekh
+cast:
+- person: stalinska-dorota
+- person: romantovska-anna
+- person: chembrzhynska-iga
+- person: zukowska-ewa
+- person: biczysko-stanis-aw
+- person: igar-stanislav
+- person: zerbst-janusz
+- person: pechinskiy-kshishtof
+studio:
+- studio-filmowe-kadr

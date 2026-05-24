@@ -1,0 +1,9 @@
+id: kharasti-mitsi
+name_ru: Мици Харасти
+roles:
+- actor
+external_ids:
+  wikidata: Q1033866
+sources:
+- https://www.wikidata.org/wiki/Q1033866
+schema_version: 1

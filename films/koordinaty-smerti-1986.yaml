@@ -8,6 +8,17 @@ runtime_min: 78
 external_ids:
   wikidata: Q2996690
   imdb: tt0264766
+  youtube: B6b0ZCNh84o
 sources:
 - https://www.wikidata.org/wiki/Q2996690
 schema_version: 1
+director:
+- gasparov-samvel
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- krylatov-evgeniy
+cast:
+- person: galibin-aleksandr-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

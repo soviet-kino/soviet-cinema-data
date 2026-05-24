@@ -1,0 +1,9 @@
+id: lonch-marian
+name_ru: Мариан Лонч
+roles:
+- actor
+external_ids:
+  wikidata: Q11769802
+sources:
+- https://www.wikidata.org/wiki/Q11769802
+schema_version: 1

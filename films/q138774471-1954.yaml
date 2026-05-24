@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q138774471
 schema_version: 1
+director:
+- hempel-jan
+screenwriter:
+- hempel-jan
+- remane-martin
+cinematographer:
+- sperling-rolf
+cast:
+- person: trosch-robert
+- person: myuller-gustav
+- person: hammer-wallburg-gerda
+studio:
+- studiya-nauchno-populyarnykh-filmov-defa

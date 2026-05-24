@@ -10,3 +10,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109729113
 schema_version: 1
+director:
+- kvapil-yaroslav
+screenwriter:
+- chapek-karel
+- kvapil-yaroslav
+cinematographer:
+- kopriva-karel
+- weber-alfons
+cast:
+- person: shtepanek-zdenek
+- person: vydra-vatslav
+- person: shaympflyug-olga
+- person: voyta-yaroslav
+- person: kovarik-frantisek
+- person: mladshiy-vydra-vatslav
+- person: roland-frantishek
+- person: ptakova-marie
+- person: vavra-milos-2
+- person: augustova-olga
+- person: trebovsky-alexander
+- person: dura-tadeusz

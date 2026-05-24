@@ -8,6 +8,29 @@ runtime_min: 90
 external_ids:
   wikidata: Q2079913
   imdb: tt0307152
+  youtube: zkfAy7DUT3o
 sources:
 - https://www.wikidata.org/wiki/Q2079913
 schema_version: 1
+director:
+- mustafaev-vagif
+screenwriter:
+- mustafaev-vagif
+- fataliev-ramiz-mamedali-ogly
+cinematographer:
+- ilkhovskiy-aleksandr-radievich
+composer:
+- sabitoglu-emin
+cast:
+- person: ogly-mustafaev-chingiz-fuad
+- person: nuri-yashar
+- person: kikaleyshvili-mamuka-andreevich
+- person: dadasheva-brilliant
+- person: ogly-balaev-rasim-akhmed
+- person: ogly-dadashev-melik-yusuf
+- person: maniev-mukhtar
+- person: ogly-turabov-gasan-sattar
+- person: ogly-khanyzade-gamlet-babir
+- person: borodina-larisa-mikhaylovna
+studio:
+- azerbaydzhanfilm

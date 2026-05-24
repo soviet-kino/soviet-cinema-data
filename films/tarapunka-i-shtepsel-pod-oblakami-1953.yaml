@@ -9,3 +9,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25435781
 schema_version: 1
+director:
+- berezin-efim-iosifovich
+- timoshenko-yuriy-trofimovich
+- bryunchugin-evgeniy-vasilevich
+screenwriter:
+- berezin-efim-iosifovich
+- timoshenko-yuriy-trofimovich
+cinematographer:
+- kuzmich-pishchikov-aleksandr
+- revenko-sergey-ivanovich
+cast:
+- person: berezin-efim-iosifovich
+- person: timoshenko-yuriy-trofimovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

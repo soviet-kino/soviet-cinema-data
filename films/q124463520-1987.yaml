@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124463520
 schema_version: 1
+cast:
+- person: yakovlev-yuriy
+- person: dobrev-dobri
+- person: yanakieva-milka
+- person: nonchev-prodan
+studio:
+- bolgarskoe-natsionalnoe-televidenie

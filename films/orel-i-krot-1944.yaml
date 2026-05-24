@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q4336138
   imdb: tt7479860
+  youtube: llEPTyVqkQA
 sources:
 - https://www.wikidata.org/wiki/Q4336138
 schema_version: 1
+director:
+- sazonov-panteleymon-petrovich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm
+poster_commons: The Eagle and the Cat 1944 film.jpg

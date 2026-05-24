@@ -8,6 +8,23 @@ runtime_min: 90
 external_ids:
   wikidata: Q4126934
   imdb: tt0171902
+  youtube: fFlCuz4Fvks
 sources:
 - https://www.wikidata.org/wiki/Q4126934
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+screenwriter:
+- nilin-pavel-filippovich
+cinematographer:
+- dyakonov-vladimir-viktorovich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: starygin-igor-vladimirovich
+- person: volkov-nikolay-nikolaevich
+- person: glushenko-evgeniya-konstantinovna
+- person: smirnova-svetlana-stanislavovna
+- person: telichkina-valentina
+studio:
+- lenfilm

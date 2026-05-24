@@ -13,3 +13,5 @@ sources:
 schema_version: 1
 director:
 - kolosov-sergey-nikolaevich
+cast:
+- person: sverdlin-lev-naumovich

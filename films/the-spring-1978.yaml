@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16083316
 schema_version: 1
+cast:
+- person: sarik-krunoslav
+- person: dzhurevska-nada
+- person: gucevac-ranko
+- person: q30335979
+studio:
+- televizija-sarajevo

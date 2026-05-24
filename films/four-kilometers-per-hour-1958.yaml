@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761190
 schema_version: 1
+cast:
+- person: srdoch-milan
+- person: vuisich-pavle
+- person: chkalya-miodrag-petrovich
+- person: bogatincevic-pavle
+- person: gech-yovan
+- person: mandich-velko
+- person: zarko-mitrovich
+- person: aleksandr-stoykovich

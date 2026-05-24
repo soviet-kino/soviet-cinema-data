@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4327944
   imdb: tt0091659
+  youtube: HXcrGKerCZQ
 sources:
 - https://www.wikidata.org/wiki/Q4327944
 schema_version: 1
+director:
+- alenikov-vladimir-mikhaylovich
+screenwriter:
+- izmaylov-lion
+composer:
+- kvint-lora-gennadevna
+cast:
+- person: vesyolkin-aleksey-alekseevich
+studio:
+- ekran

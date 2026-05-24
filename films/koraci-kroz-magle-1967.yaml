@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12753013
 schema_version: 1
+director:
+- skrygin-zhorzh
+cast:
+- person: simich-nikola
+- person: srdoch-milan
+- person: bora-todorovich
+- person: mirich-voyya
+- person: uzunovic-tanasije

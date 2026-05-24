@@ -8,6 +8,25 @@ runtime_min: 91
 external_ids:
   wikidata: Q4416681
   imdb: tt0307442
+  youtube: flcdmm8oE44
 sources:
 - https://www.wikidata.org/wiki/Q4416681
 schema_version: 1
+director:
+- shamshurin-vladimir-georgievich
+screenwriter:
+- lipatov-vil-vladimirovich
+cinematographer:
+- shapiro-boris-anatolevich
+composer:
+- komarov-vladimir-konstantinovich
+cast:
+- person: syomina-tamara-petrovna
+- person: gusarov-nikolay-ivanovich
+- person: vanin-aleksey-zakharovich
+- person: golubenko-valentin-alekseevich
+- person: solovyov-viktor-yurevich
+- person: usatova-nina-nikolaevna
+- person: yurchenko-boris-aleksandrovich
+studio:
+- sverdlovskaya-kinostudiya

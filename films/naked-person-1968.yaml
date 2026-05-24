@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506323
 schema_version: 1
+director:
+- obrad-glushevich
+screenwriter:
+- ranko-marinkovich
+composer:
+- kalodzhera-nikitsa
+cast:
+- person: rade-markovich
+- person: srdoch-milan
+- person: nalis-antun
+- person: samardzhich-lyubisha
+- person: bulic-karlo
+- person: mincic-pavle
+- person: chukich-vera
+- person: dobrichanin-dragutin
+studio:
+- yadran-film

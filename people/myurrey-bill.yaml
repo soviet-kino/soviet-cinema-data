@@ -1,0 +1,9 @@
+id: myurrey-bill
+name_ru: Билл Мюррей
+roles:
+- actor
+external_ids:
+  wikidata: Q29250
+sources:
+- https://www.wikidata.org/wiki/Q29250
+schema_version: 1

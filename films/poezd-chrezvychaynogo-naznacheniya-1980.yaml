@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106774860
 schema_version: 1
+director:
+- shevchenko-vladimir-nikitovich
+cast:
+- person: petrenko-aleksey-vasilevich
+- person: strigun-fyodor-nikolaevich
+- person: khostikoev-anatoliy-georgievich
+studio:
+- kinostudiya-imeni-a-dovzhenko

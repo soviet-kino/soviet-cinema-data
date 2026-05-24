@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6668689
 schema_version: 1
+director:
+- maevskiy-yanush
+screenwriter:
+- maevskiy-yanush
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- kilyar-voytsekh
+cast:
+- person: braunek-malgozhata
+- person: mrozovska-zofya
+- person: khanna-stankuvna
+- person: fetting-edmund
+- person: gustav-lyutkevich
+studio:
+- tor-kinostudiya

@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12957674
 schema_version: 1
+director:
+- stupitsa-boyan
+screenwriter:
+- stupitsa-boyan
+composer:
+- adamich-boyan
+cast:
+- person: stupitsa-mira
+- person: stupitsa-boyan
+- person: sever-stane
+- person: poskay-dusa

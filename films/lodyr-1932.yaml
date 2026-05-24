@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20513263
 schema_version: 1
+director:
+- perestiani-ivan-nikolaevich
+screenwriter:
+- perestiani-ivan-nikolaevich
+- chakhiryan-grigoriy
+cinematographer:
+- zavelev-boris-isaakovich
+cast:
+- person: manucharyan-nina
+- person: khachanyan-amvrosiy
+- person: amirbekyan-aram
+- person: abramyan-khachatur
+studio:
+- armenfilm

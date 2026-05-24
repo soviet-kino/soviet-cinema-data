@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q95948531
 schema_version: 1
+director:
+- keleti-marton
+screenwriter:
+- noti-karoli
+- bekeffi-ishtvan
+cinematographer:
+- illesh-dyord
+composer:
+- fenesh-sabolch
+- brodi-tamash
+cast:
+- person: chakani-laslo
+- person: latabar-kalman
+- person: dyarmati-olga
+- person: gerbe-yanosh
+- person: papp-laslo
+- person: shoosh-imre
+- person: ferrari-violetta
+- person: gobbi-khilda
+- person: gozon-gyula
+- person: susa-ferents
+- person: manai-layosh
+- person: peti-shandor
+- person: szepesi-gyorgy
+- person: tompa-sandor
+- person: zak-yanos
+- person: dajbukat-ilona
+- person: galcsiki-janos
+- person: rajczy-lajos
+studio:
+- mafilm

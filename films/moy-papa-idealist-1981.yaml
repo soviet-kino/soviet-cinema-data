@@ -8,6 +8,21 @@ runtime_min: 88
 external_ids:
   wikidata: Q4299867
   imdb: tt0081189
+  youtube: GtXEWdRf2XA
 sources:
 - https://www.wikidata.org/wiki/Q4299867
 schema_version: 1
+director:
+- bortko-vladimir
+screenwriter:
+- sokolova-alla-nikolaevna
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: varley-natalya-vladimirovna
+- person: bogatyryov-yuriy-georgievich
+- person: strzhelchik-vladislav-ignatevich
+studio:
+- lenfilm

@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184921
 schema_version: 1
+director:
+- galic-eduard
+cast:
+- person: danilo-stoykovich
+- person: ivezich-iliya

@@ -3,19 +3,48 @@ title_ru: Блеф
 title_original: Bluff — storia di truffe e di imbroglioni
 title_en: The Con Artists
 year: 1976
-country: [IT]
+country:
+- IT
 runtime_min: 116
-genre: [comedy]
-topics: [foreign-in-soviet-distribution]
+genre:
+- comedy
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1980
   title_ru: Блеф
   dubbed: true
-  notes: >
-    Дубляж киностудии им. Горького. В советском прокате фильм имел
-    огромный успех; голос Челентано — Николай Караченцов.
+  notes: 'Дубляж киностудии им. Горького. В советском прокате фильм имел огромный
+    успех; голос Челентано — Николай Караченцов.
+
+    '
 external_ids:
   wikidata: Q489615
+  imdb: tt0076101
 sources:
-  - https://www.wikidata.org/wiki/Q489615
+- https://www.wikidata.org/wiki/Q489615
 schema_version: 1
+director:
+- korbuchchi-serdzho
+screenwriter:
+- korbuchchi-serdzho
+- maiuri-arduino
+- maury-arnold
+- noks-mikki
+- rita-massimo-de
+cinematographer:
+- gatti-marchello
+composer:
+- luttatstsi-lelio
+cast:
+- person: kuinn-entoni
+- person: borgeze-sel
+- person: chelentano-adriano
+- person: kapuchine
+- person: kleri-korinn
+- person: dottezio-attilio
+- person: pappagalli-dzhenarrino
+- person: marinyano-rentso
+- person: otstsano-rentso
+- person: bolonya-ugo
+- person: noks-mikki

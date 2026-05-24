@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4133838
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- shneyder-evgeniy-mikhaylovich
+- fogelman-yuliy-moiseevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: savchenko-igor-andreevich
+- person: fyodorova-zoya-alekseevna
+- person: gorlov-nikolay
+- person: savin-pyotr-nikolaevich
+studio:
+- mezhrabpomfilm

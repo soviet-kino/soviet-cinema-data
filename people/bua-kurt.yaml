@@ -1,0 +1,9 @@
+id: bua-kurt
+name_ru: Курт Буа
+roles:
+- director
+external_ids:
+  wikidata: Q66479
+sources:
+- https://www.wikidata.org/wiki/Q66479
+schema_version: 1

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124363978
 schema_version: 1
+director:
+- mirchev-vasil
+screenwriter:
+- tsonev-plamen
+cast:
+- person: danailov-stefan
+- person: simeonov-bogomil
+- person: dadov-nikola
+- person: kazasyan-nadezhda

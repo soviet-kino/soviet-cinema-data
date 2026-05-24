@@ -8,6 +8,15 @@ runtime_min: 91
 external_ids:
   wikidata: Q4171576
   imdb: tt0176679
+  youtube: hJ1OITdk7II
 sources:
 - https://www.wikidata.org/wiki/Q4171576
 schema_version: 1
+director:
+- lapshin-yaropolk-leonidovich
+composer:
+- levitin-yuriy
+cast:
+- person: zimin-mikhail-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

@@ -8,6 +8,36 @@ runtime_min: 148
 external_ids:
   wikidata: Q738399
   imdb: tt0094683
+  youtube: 1Plo-PLxVg4
 sources:
 - https://www.wikidata.org/wiki/Q738399
 schema_version: 1
+director:
+- solovyov-sergey-aleksandrovich
+screenwriter:
+- solovyov-sergey-aleksandrovich
+- livnev-sergey
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- grebenshchikov-boris
+cast:
+- person: guryanov-georgiy-konstantinovich
+- person: tsoy-viktor
+- person: kasparyan-yuriy
+- person: govorukhin-stanislav-sergeevich
+- person: domogarov-aleksandr-yurevich
+- person: drubich-tatyana-lyusenovna
+- person: bugaev-sergey-anatolevich
+- person: inshakov-aleksandr-ivanovich
+- person: bashirov-aleksandr-nikolaevich
+- person: dolinin-dmitriy
+- person: ivanov-ilya-valentinovich
+- person: kozakov-kirill-mikhaylovich
+- person: novikov-timur-petrovich
+- person: ilich-ryzhenko-sergey
+- person: slivnikov-anatoliy-mikhaylovich
+- person: shumilov-dmitriy-valerevich
+- person: krisanov-andrey-valerevich
+studio:
+- mosfilm

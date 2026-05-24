@@ -1,0 +1,9 @@
+id: frish-lore
+name_ru: Лоре Фриш
+roles:
+- actor
+external_ids:
+  wikidata: Q91049
+sources:
+- https://www.wikidata.org/wiki/Q91049
+schema_version: 1

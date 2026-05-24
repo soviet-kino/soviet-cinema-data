@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48949151
 schema_version: 1
+director:
+- duba-chenek
+screenwriter:
+- khofman-ota
+cinematographer:
+- golpukh-yaromir
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: bernes-mark-naumovich
+- person: izvitskaya-izolda-vasilevna
+- person: kryuchkov-nikolay-afanasevich
+- person: lezhdey-elza-ivanovna
+- person: sarantsev-yuriy-dmitrievich
+- person: yudina-liliya-vitalevna
+- person: ditetova-yana
+- person: gomola-miroslav
+- person: fisher-stanislav
+- person: sedlacek-tomas
+- person: silujanov-vladimir
+- person: tichomirovova-d
+- person: nesciplenko-vasilij
+studio:
+- barrandov
+- kinostudiya-imeni-m-gorkogo

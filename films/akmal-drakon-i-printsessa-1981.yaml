@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4059664
   imdb: tt1718717
+  youtube: VTFh4OGcqT0
 sources:
 - https://www.wikidata.org/wiki/Q4059664
 schema_version: 1
+director:
+- stepchuk-yuriy-stepanovich
+screenwriter:
+- arkadev-lev-arkadevich
+composer:
+- shiryaev-evgeniy
+cast:
+- person: adashev-radzhab-khalimovich
+- person: alieva-iroda-mirzakhonovna
+studio:
+- uzbekfilm

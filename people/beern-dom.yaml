@@ -1,0 +1,9 @@
+id: beern-dom
+name_ru: Dom Beern
+roles:
+- actor
+external_ids:
+  wikidata: Q1236565
+sources:
+- https://www.wikidata.org/wiki/Q1236565
+schema_version: 1

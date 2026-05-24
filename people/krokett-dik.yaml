@@ -1,0 +1,9 @@
+id: krokett-dik
+name_ru: Дик Крокетт
+roles:
+- actor
+external_ids:
+  wikidata: Q5272797
+sources:
+- https://www.wikidata.org/wiki/Q5272797
+schema_version: 1

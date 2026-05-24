@@ -1,0 +1,9 @@
+id: zakonnyy-sandor
+name_ru: Сандор Законный
+roles:
+- director
+external_ids:
+  wikidata: Q80431213
+sources:
+- https://www.wikidata.org/wiki/Q80431213
+schema_version: 1

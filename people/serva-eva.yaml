@@ -1,0 +1,9 @@
+id: serva-eva
+name_ru: Эва Серва
+roles:
+- actor
+external_ids:
+  wikidata: Q499549
+sources:
+- https://www.wikidata.org/wiki/Q499549
+schema_version: 1

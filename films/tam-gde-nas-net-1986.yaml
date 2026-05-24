@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116786288
 schema_version: 1
+director:
+- kvinikhidze-leonid-aleksandrovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- alisov-vadim-valentinovich
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: zamanskiy-vladimir-petrovich
+- person: graps-gunnar
+- person: maksakova-lyudmila-vasilevna
+- person: shulgin-viktor-sergeevich
+- person: kilgas-gunnar
+studio:
+- mosfilm

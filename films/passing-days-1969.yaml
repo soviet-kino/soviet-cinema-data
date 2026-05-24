@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q121316138
 schema_version: 1
+director:
+- dragich-nedelko

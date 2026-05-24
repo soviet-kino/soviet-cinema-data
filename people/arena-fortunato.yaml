@@ -1,0 +1,9 @@
+id: arena-fortunato
+name_ru: Фортунато Арена
+roles:
+- actor
+external_ids:
+  wikidata: Q1439092
+sources:
+- https://www.wikidata.org/wiki/Q1439092
+schema_version: 1

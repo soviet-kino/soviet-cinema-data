@@ -1,0 +1,9 @@
+id: perego-didi
+name_ru: Диди Перего
+roles:
+- actor
+external_ids:
+  wikidata: Q3707022
+sources:
+- https://www.wikidata.org/wiki/Q3707022
+schema_version: 1

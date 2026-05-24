@@ -1,0 +1,9 @@
+id: billi-mimo
+name_ru: Мимо Билли
+roles:
+- actor
+external_ids:
+  wikidata: Q3858222
+sources:
+- https://www.wikidata.org/wiki/Q3858222
+schema_version: 1

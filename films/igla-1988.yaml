@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1059786
 schema_version: 1
+director:
+- nugmanov-rashid
+screenwriter:
+- baranov-aleksandr-nikolaevich
+- kilibaev-bakhyt-sattarbekovich
+composer:
+- tsoy-viktor
+cast:
+- person: tsoy-viktor
+- person: mamonov-pyotr-nikolaevich
+- person: bashirov-aleksandr-nikolaevich
+studio:
+- kazakhfilm

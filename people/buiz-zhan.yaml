@@ -1,0 +1,9 @@
+id: buiz-zhan
+name_ru: Жан Буиз
+roles:
+- actor
+external_ids:
+  wikidata: Q3170909
+sources:
+- https://www.wikidata.org/wiki/Q3170909
+schema_version: 1

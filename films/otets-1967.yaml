@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4339521
 schema_version: 1
+director:
+- gofman-ezhi
+screenwriter:
+- gofman-ezhi
+- petruskiy-ryshard
+cinematographer:
+- lipman-ezhi
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: pavlik-bronislav
+- person: fievskiy-tadeush
+studio:
+- kamera-kinostudiya

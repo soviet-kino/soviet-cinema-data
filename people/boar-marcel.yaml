@@ -1,0 +1,9 @@
+id: boar-marcel
+name_ru: Marcel Boar
+roles:
+- actor
+external_ids:
+  wikidata: Q133279189
+sources:
+- https://www.wikidata.org/wiki/Q133279189
+schema_version: 1

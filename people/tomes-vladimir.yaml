@@ -1,0 +1,9 @@
+id: tomes-vladimir
+name_ru: Vladimír Tomeš
+roles:
+- actor
+external_ids:
+  wikidata: Q95391215
+sources:
+- https://www.wikidata.org/wiki/Q95391215
+schema_version: 1

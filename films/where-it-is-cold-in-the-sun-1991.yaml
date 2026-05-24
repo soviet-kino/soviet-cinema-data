@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18548859
 schema_version: 1
+director:
+- dumitresku-bogdan
+screenwriter:
+- dumitresku-bogdan
+cast:
+- person: pellya-oana
+- person: vishu-george
+studio:
+- filmex-romania

@@ -8,6 +8,24 @@ runtime_min: 100
 external_ids:
   wikidata: Q30442824
   imdb: tt0036220
+  youtube: DeHsToJqA6w
 sources:
 - https://www.wikidata.org/wiki/Q30442824
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- pavlenko-pyotr-andreevich
+- kapler-aleksey-yakovlevich
+cinematographer:
+- ivanov-sergey-vasilevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+- kryukov-nikolay-nikolaevich-3
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: dobrovolskiy-viktor-nikolaevich
+- person: grigorev-evgeniy-nikolaevich
+studio:
+- kazakhfilm

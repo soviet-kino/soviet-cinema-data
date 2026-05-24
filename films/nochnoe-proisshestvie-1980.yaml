@@ -8,6 +8,17 @@ runtime_min: 91
 external_ids:
   wikidata: Q4327766
   imdb: tt0081244
+  youtube: oSRrwpnpJfY
 sources:
 - https://www.wikidata.org/wiki/Q4327766
 schema_version: 1
+director:
+- dorman-veniamin
+screenwriter:
+- bakhnov-vladlen-efimovich
+composer:
+- rybnikov-aleksey
+cast:
+- person: velyaminov-pyotr-sergeevich
+studio:
+- kinostudiya-imeni-m-gorkogo

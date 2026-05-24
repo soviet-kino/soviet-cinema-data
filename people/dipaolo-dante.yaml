@@ -1,0 +1,9 @@
+id: dipaolo-dante
+name_ru: Данте ДиПаоло
+roles:
+- actor
+external_ids:
+  wikidata: Q1164971
+sources:
+- https://www.wikidata.org/wiki/Q1164971
+schema_version: 1

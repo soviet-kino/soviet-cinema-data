@@ -1,0 +1,9 @@
+id: porte-rober
+name_ru: Робер Порте
+roles:
+- actor
+external_ids:
+  wikidata: Q3436102
+sources:
+- https://www.wikidata.org/wiki/Q3436102
+schema_version: 1

@@ -8,6 +8,19 @@ runtime_min: 128
 external_ids:
   wikidata: Q4151196
   imdb: tt0272646
+  youtube: 5hlPhLv5whU
 sources:
 - https://www.wikidata.org/wiki/Q4151196
 schema_version: 1
+director:
+- novak-villen-zakharovich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- kompozitor-vlasov-viktor-petrovich
+cast:
+- person: tolubeev-andrey-yurevich
+- person: gorbunov-aleksey-sergeevich
+- person: sotnikova-vera-mikhaylovna
+studio:
+- odesskaya-kinostudiya

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4144145
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- kuleshov-lev-vladimirovich
+- shklovskiy-viktor-borisovich
+- munblit-georgiy-nikolaevich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+composer:
+- blok-david-semyonovich
+cast:
+- person: batalov-nikolay-petrovich
+- person: kuzmina-elena-aleksandrovna
+studio:
+- mezhrabpomfilm

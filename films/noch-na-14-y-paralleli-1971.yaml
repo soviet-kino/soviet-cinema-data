@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21843618
 schema_version: 1
+director:
+- shredel-vladimir-markovich
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- burykin-vladimir-aleksandrovich
+composer:
+- kazhlaev-murad-magomedovich
+cast:
+- person: gaft-valentin-iosifovich
+studio:
+- lenfilm

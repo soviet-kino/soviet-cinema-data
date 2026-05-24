@@ -8,6 +8,16 @@ runtime_min: 328
 external_ids:
   wikidata: Q4291474
   imdb: tt6326288
+  youtube: uukfsJsz31Y
 sources:
 - https://www.wikidata.org/wiki/Q4291474
 schema_version: 1
+director:
+- evlakhishvili-sergey-sergeevich
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: abrikosov-grigoriy-andreevich
+- person: gluzskiy-mikhail-andreevich
+- person: nemolyaeva-svetlana
+- person: ivanova-lyudmila-ivanovna
+- person: roninson-gotlib

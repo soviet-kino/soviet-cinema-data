@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187326
 schema_version: 1
+director:
+- hetrich-ivan
+cast:
+- person: sherbedzhiya-rade
+- person: bashich-relya
+- person: hajdarhodzic-izet

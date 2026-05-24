@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12747983
 schema_version: 1
+director:
+- shotra-zdravko
+cast:
+- person: banyats-mira
+- person: khaytl-ivan
+- person: sokica-dobrila
+- person: pleskonich-tikhomir

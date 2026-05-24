@@ -9,3 +9,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q112111967
 schema_version: 1
+director:
+- dargai-attila
+- bachvarova-radka
+cinematographer:
+- khenrik-iren
+- nagi-chaba
+studio:
+- edic-films

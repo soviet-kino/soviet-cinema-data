@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q59084886
 schema_version: 1
+director:
+- zafranovic-lordan
+screenwriter:
+- zafranovic-lordan
+cinematographer:
+- pinter-tomislav
+cast:
+- person: dvornik-boris
+- person: bizetich-boris
+- person: curcic-radmilo

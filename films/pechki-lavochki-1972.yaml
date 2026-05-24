@@ -8,6 +8,21 @@ runtime_min: 96
 external_ids:
   wikidata: Q2141856
   imdb: tt0069068
+  youtube: uFu7Fn_gWoE
 sources:
 - https://www.wikidata.org/wiki/Q2141856
 schema_version: 1
+director:
+- shukshin-vasiliy
+screenwriter:
+- shukshin-vasiliy
+cinematographer:
+- zabolotskiy-anatoliy-dmitrievich
+cast:
+- person: shukshin-vasiliy
+- person: burkov-georgiy-ivanovich
+- person: lyubshin-stanislav-andreevich
+- person: zakharchenko-vadim-viktorovich
+- person: fedoseeva-shukshina-lidiya-nikolaevna
+studio:
+- kinostudiya-imeni-m-gorkogo

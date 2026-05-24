@@ -1,0 +1,9 @@
+id: palester-roman
+name_ru: Роман Палестер
+roles:
+- composer
+external_ids:
+  wikidata: Q460721
+sources:
+- https://www.wikidata.org/wiki/Q460721
+schema_version: 1

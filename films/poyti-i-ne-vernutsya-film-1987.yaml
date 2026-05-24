@@ -9,3 +9,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131908221
 schema_version: 1
+cast:
+- person: krylov-stepan-ivanovich
+- person: vlasov-sergey-afanasevich
+- person: lavrov-nikolay-grigorevich
+- person: orlov-yuriy-viktorovich
+- person: tishchenko-lyubov
+- person: lyaleykite-regina

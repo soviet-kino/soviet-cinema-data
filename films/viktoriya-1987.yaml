@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q63166312
 schema_version: 1
+director:
+- dolinin-dmitriy
+screenwriter:
+- chervinskiy-aleksandr-mikhaylovich
+cinematographer:
+- kolganov-lev-nikolaevich
+composer:
+- banshchikov-gennadiy-ivanovich
+cast:
+- person: krasko-andrey
+- person: pastukhov-nikolay-isaakovich
+- person: kuznetsov-yuriy-aleksandrovich
+- person: nevolina-anzhelika-sergeevna
+- person: nikishchikhina-elizaveta-sergeevna
+- person: baykshtite-grazhina
+studio:
+- lenfilm

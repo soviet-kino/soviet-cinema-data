@@ -1,0 +1,9 @@
+id: pechi-ildiko
+name_ru: Ильдико Печи
+roles:
+- actor
+external_ids:
+  wikidata: Q1242805
+sources:
+- https://www.wikidata.org/wiki/Q1242805
+schema_version: 1

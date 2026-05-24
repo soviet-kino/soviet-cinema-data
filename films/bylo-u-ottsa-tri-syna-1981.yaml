@@ -8,6 +8,13 @@ runtime_min: 135
 external_ids:
   wikidata: Q4101052
   imdb: tt2041322
+  youtube: eotQooNf2Ds
 sources:
 - https://www.wikidata.org/wiki/Q4101052
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+cast:
+- person: efremov-oleg-nikolaevich
+studio:
+- mosfilm

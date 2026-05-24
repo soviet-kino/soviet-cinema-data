@@ -8,6 +8,22 @@ runtime_min: 75
 external_ids:
   wikidata: Q4239677
   imdb: tt0238359
+  youtube: QJaKDpAf8ms
 sources:
 - https://www.wikidata.org/wiki/Q4239677
 schema_version: 1
+director:
+- sukhobokov-vladimir-leonidovich
+- sauts-mariya-mikhaylovna
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+cinematographer:
+- monastyrskiy-boris-savelevich
+- dultsev-vasiliy-ivanovich
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- soyuzdetfilm
+poster_commons: Красный галстук.JPG

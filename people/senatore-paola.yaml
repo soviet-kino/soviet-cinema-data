@@ -1,0 +1,9 @@
+id: senatore-paola
+name_ru: Паола Сенаторе
+roles:
+- actor
+external_ids:
+  wikidata: Q822265
+sources:
+- https://www.wikidata.org/wiki/Q822265
+schema_version: 1

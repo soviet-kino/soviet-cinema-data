@@ -2,16 +2,60 @@ id: velikolepnaya-semyorka-1960
 title_ru: Великолепная семёрка
 title_original: The Magnificent Seven
 year: 1960
-country: [US]
+country:
+- US
 runtime_min: 128
-genre: [adventure, drama]
-topics: [foreign-in-soviet-distribution]
+genre:
+- adventure
+- drama
+topics:
+- foreign-in-soviet-distribution
 soviet_release:
   year: 1962
   title_ru: Великолепная семёрка
   dubbed: true
 external_ids:
   wikidata: Q19069
+  youtube: 1MZY_0tYmrs
+  imdb: tt0054047
 sources:
-  - https://www.wikidata.org/wiki/Q19069
+- https://www.wikidata.org/wiki/Q19069
 schema_version: 1
+director:
+- styordzhes-dzhon
+screenwriter:
+- kurosava-akira
+- nyuman-uolter
+- bernstayn-uolter
+- roberts-uilyam
+cinematographer:
+- leng-charlz
+composer:
+- bernstayn-elmer
+cast:
+- person: kobern-dzheyms
+- person: bronson-charlz
+- person: uilki-robert-dzh
+- person: bukhkholts-khorst
+- person: brinner-yul
+- person: uollak-ilay
+- person: rey-fernando
+- person: makkuin-stiv
+- person: von-robert
+- person: bissell-uit
+- person: eyveri-vel
+- person: devis-dzhim
+- person: dekster-bred
+- person: rassel-bing
+- person: french-viktor
+- person: alonso-dzhon
+- person: sokolov-vladimir-aleksandrovich
+- person: vargas-valentin-de
+- person: lusero-enrike
+- person: ruskin-dzhozef
+- person: alanis-riko
+- person: duran-larri
+studio:
+- united-artists
+- mirisch-company
+poster_commons: The Magnificent Seven (1960 poster).jpg

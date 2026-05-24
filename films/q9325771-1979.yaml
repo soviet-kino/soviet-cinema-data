@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9325771
 schema_version: 1
+director:
+- teliti-esat
+screenwriter:
+- topi-flamur
+cast:
+- person: hyskja-demir
+- person: riza-petrika
+- person: cerga-adrian

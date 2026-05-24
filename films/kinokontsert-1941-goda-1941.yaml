@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15545309
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+- menaker-isaak-mikhaylovich
+- timoshenko-semyon-alekseevich
+- tsekhanovskiy-mikhail-mikhaylovich
+- shapiro-mikhail-grigorevich
+- minkin-adolf-iosifovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+- levitin-veniamin-faustovich
+cast:
+- person: ulanova-galina-sergeevna
+- person: ruslanova-lidiya
+- person: lemeshev-sergey-yakovlevich
+- person: mikhaylov-maksim-dormidontovich
+studio:
+- lenfilm

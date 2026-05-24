@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28750138
 schema_version: 1
+director:
+- ciglic-marjan
+screenwriter:
+- yanchar-drago
+cast:
+- person: ban-ivo
+- person: avbelj-jozica
+- person: battelino-milos
+- person: barisic-ivo

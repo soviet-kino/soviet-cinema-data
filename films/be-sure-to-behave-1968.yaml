@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q122661815
 schema_version: 1
+director:
+- solan-peter
+screenwriter:
+- vikhta-tibor
+cinematographer:
+- rosinets-vintsent
+cast:
+- person: dvorska-milena
+- person: petrenko-martin
+- person: dobrovoda-lubomir

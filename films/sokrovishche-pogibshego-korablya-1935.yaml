@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4427534
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- lipatov-boris
+composer:
+- kochurov-yuriy-vladimirovich
+cast:
+- person: batalov-nikolay-petrovich
+studio:
+- lenfilm

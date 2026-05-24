@@ -8,6 +8,15 @@ runtime_min: 8
 external_ids:
   wikidata: Q4464680
   imdb: tt5498058
+  youtube: tay19RVx2fw
 sources:
 - https://www.wikidata.org/wiki/Q4464680
 schema_version: 1
+director:
+- butyrin-yuriy
+screenwriter:
+- kozlov-sergey-grigorevich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- ekran

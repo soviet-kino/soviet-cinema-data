@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q56627582
   imdb: tt0234292
+  youtube: xJhiBDT2zJA
 sources:
 - https://www.wikidata.org/wiki/Q56627582
 schema_version: 1
+director:
+- trauberg-ilya-zakharovich
+- medvedkin-aleksandr-ivanovich
+studio:
+- mosfilm
+poster_commons: '"Мы ждём Вас с победой!", кадр с названием фильма.jpg'

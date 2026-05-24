@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17019060
 schema_version: 1
+director:
+- cserepy-arzen-von
+screenwriter:
+- kodolanyi-janos
+- patkos-gyorgy
+cinematographer:
+- eiben-istvan
+composer:
+- toth-denes
+cast:
+- person: gerbe-yanosh
+- person: pager-antal
+- person: simon-marcsa
+- person: eszenyi-olga
+- person: kiss-ferents

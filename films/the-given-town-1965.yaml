@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11775225
 schema_version: 1
+director:
+- kressl-vladimir
+cast:
+- person: ancherl-karel
+- person: khaas-pavel
+- person: krasa-gans
+- person: sr-otakar-brousek
+- person: munzar-lyudek

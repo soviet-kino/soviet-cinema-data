@@ -1,0 +1,9 @@
+id: wolf-peter
+name_ru: Peter Wolf
+roles:
+- composer
+external_ids:
+  wikidata: Q87265
+sources:
+- https://www.wikidata.org/wiki/Q87265
+schema_version: 1

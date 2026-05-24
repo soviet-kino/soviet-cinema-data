@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4341903
 schema_version: 1
+director:
+- tumanov-semyon-isaevich
+- shchukin-georgiy-borisovich
+screenwriter:
+- pogodin-radiy-petrovich
+composer:
+- ziv-mikhail-pavlovich
+- shvarts-lev-oleksandrovich
+cast:
+- person: mordyukova-nonna-viktorovna
+- person: rumyantseva-nadezhda-vasilevna
+- person: gusev-vladimir-mikhaylovich
+- person: kurkina-raisa-semyonovna
+- person: lebedev-nikolay-sergeevich
+studio:
+- mosfilm

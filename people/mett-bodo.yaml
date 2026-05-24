@@ -1,0 +1,9 @@
+id: mett-bodo
+name_ru: Бодо Метт
+roles:
+- actor
+external_ids:
+  wikidata: Q889959
+sources:
+- https://www.wikidata.org/wiki/Q889959
+schema_version: 1

@@ -1,0 +1,9 @@
+id: kocha-dinu
+name_ru: Дину Коча
+roles:
+- director
+external_ids:
+  wikidata: Q3028475
+sources:
+- https://www.wikidata.org/wiki/Q3028475
+schema_version: 1

@@ -7,6 +7,15 @@ country:
 runtime_min: 82
 external_ids:
   wikidata: Q10833100
+  youtube: zaPX3ZmJtsM
 sources:
 - https://www.wikidata.org/wiki/Q10833100
 schema_version: 1
+director:
+- shabanov-rufat
+cinematographer:
+- narimanbekov-arif
+composer:
+- vaynshteyn-leonid-moiseevich
+studio:
+- azerbaydzhanfilm

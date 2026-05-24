@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q63026371
 schema_version: 1
+director:
+- zguridi-aleksandr-mikhaylovich
+cast:
+- person: masyulis-algimantas-ionovich
+- person: zimin-mikhail-nikolaevich
+- person: kashintsev-igor-konstantinovich
+- person: sergachyov-viktor-nikolaevich
+studio:
+- tsentrnauchfilm

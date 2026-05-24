@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16761117
 schema_version: 1
+director:
+- srdzhan-karanovich
+cast:
+- person: bukilic-goran
+- person: tankoshich-ratko

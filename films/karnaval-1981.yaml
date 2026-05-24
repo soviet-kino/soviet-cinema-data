@@ -8,6 +8,19 @@ runtime_min: 151
 external_ids:
   wikidata: Q4215500
   imdb: tt0082602
+  youtube: K9lEhk1joqw
 sources:
 - https://www.wikidata.org/wiki/Q4215500
 schema_version: 1
+director:
+- lioznova-tatyana-mikhaylovna
+screenwriter:
+- rodionova-anna-sergeevna
+cinematographer:
+- kataev-pyotr
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: muravyova-irina-vadimovna
+studio:
+- kinostudiya-imeni-m-gorkogo

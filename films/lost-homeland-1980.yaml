@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506269
 schema_version: 1
+director:
+- babaya-ante
+screenwriter:
+- novak-slobodan
+composer:
+- monteverdi-klaudio
+cast:
+- person: ivo-gregurevich
+- person: neda-spasoevich

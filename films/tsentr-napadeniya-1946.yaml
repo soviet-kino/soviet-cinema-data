@@ -8,6 +8,22 @@ runtime_min: 71
 external_ids:
   wikidata: Q97821532
   imdb: tt0240135
+  youtube: qDtx9mREKVg
 sources:
 - https://www.wikidata.org/wiki/Q97821532
 schema_version: 1
+director:
+- derevyanskiy-semyon-iosifovich
+screenwriter:
+- laskin-boris-savelevich
+- pomeshchikov-evgeniy-mikhaylovich
+composer:
+- sandler-oskar-aronovich
+cast:
+- person: doronin-vitaliy-dmitrievich
+- person: sova-andrey-korneevich
+- person: nikitich-tolmazov-boris
+- person: lavrov-yuriy-sergeevich
+- person: derevshchikova-ekaterina-aleksandrovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

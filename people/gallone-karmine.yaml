@@ -1,0 +1,9 @@
+id: gallone-karmine
+name_ru: Кармине Галлоне
+roles:
+- director
+external_ids:
+  wikidata: Q53020
+sources:
+- https://www.wikidata.org/wiki/Q53020
+schema_version: 1

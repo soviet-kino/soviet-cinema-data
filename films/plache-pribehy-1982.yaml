@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7200374
 schema_version: 1
+director:
+- flidr-zdenek
+- tintera-tomas
+- zbornik-dobroslav
+cinematographer:
+- shlapeta-ivan
+composer:
+- klusak-yan
+- krcek-jaroslav
+cast:
+- person: kodet-irzhi
+- person: grushinskiy-rudolf
+- person: polochek-bronislav
+- person: krechmer-yaroslava
+- person: novy-pavel
+- person: kotva-vaclav
+- person: kemr-yozef
+- person: zelenogorska-yitka
+- person: adamovskaya-zlata
+- person: vavra-bogumil
+- person: kratina-vladimir
+- person: husak-frantisek
+- person: rekhak-frantishek
+- person: preucil-jan
+- person: stibich-miloslav
+- person: musil-mirko
+- person: vlakh-oldrzhikh
+- person: machoninova-lenka
+- person: ptachek-vladimir
+- person: kodes-jiri
+- person: hofman-mnislav
+- person: novak-rostislav
+- person: q107505135

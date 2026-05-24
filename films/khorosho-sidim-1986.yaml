@@ -8,6 +8,20 @@ runtime_min: 76
 external_ids:
   wikidata: Q4500169
   imdb: tt0091334
+  youtube: vycOc8J6avQ
 sources:
 - https://www.wikidata.org/wiki/Q4500169
 schema_version: 1
+director:
+- zakirov-munid
+screenwriter:
+- kostyukovskiy-yakov-aronovich
+- slobodskoy-moris-romanovich
+composer:
+- kallosh-shandor-ernestovich
+cast:
+- person: mishulin-spartak-vasilevich
+- person: anofriev-oleg-andreevich
+- person: nosik-vladimir
+studio:
+- mosfilm

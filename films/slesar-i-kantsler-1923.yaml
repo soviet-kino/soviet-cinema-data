@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4423394
 schema_version: 1
+director:
+- gardin-vladimir-rostislavovich
+cast:
+- person: khudoleev-ivan-nikolaevich
+studio:
+- odesskaya-kinostudiya
+- yaltinskaya-kinostudiya

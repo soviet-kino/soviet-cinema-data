@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q98109447
   imdb: tt0294546
+  youtube: qPXnik3fskg
 sources:
 - https://www.wikidata.org/wiki/Q98109447
 schema_version: 1
+director:
+- dashuk-viktor-nikiforovich
+screenwriter:
+- dashuk-viktor-nikiforovich
+cinematographer:
+- elkhov-yuriy
+cast:
+- person: zhigalov-mikhail-vasilevich
+- person: koltakov-sergey-mikhaylovich
+- person: ryabova-svetlana-leonidovna
+studio:
+- belarusfilm

@@ -1,0 +1,8 @@
+id: filmex-romania
+name_ru: Filmex Romania
+country: RO
+external_ids:
+  wikidata: Q98497258
+sources:
+- https://www.wikidata.org/wiki/Q98497258
+schema_version: 1

@@ -1,0 +1,9 @@
+id: tamm-kiiri
+name_ru: Kiiri Tamm
+roles:
+- actor
+external_ids:
+  wikidata: Q16406200
+sources:
+- https://www.wikidata.org/wiki/Q16406200
+schema_version: 1

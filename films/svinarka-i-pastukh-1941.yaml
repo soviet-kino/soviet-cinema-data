@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4410719
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- gusev-viktor-mikhaylovich
+cinematographer:
+- pavlov-valentin-efimovich
+composer:
+- khrennikov-tikhon-nikolaevich
+cast:
+- person: ladynina-marina-alekseevna
+- person: zeldin-vladimir-mikhaylovich
+- person: kryuchkov-nikolay-afanasevich
+studio:
+- mosfilm

@@ -8,6 +8,75 @@ runtime_min: 99
 external_ids:
   wikidata: Q18640070
   imdb: tt0153613
+  youtube: abkP6jHGdg8
 sources:
 - https://www.wikidata.org/wiki/Q18640070
 schema_version: 1
+director:
+- tsikan-miroslav
+screenwriter:
+- mayerova-mariya
+cinematographer:
+- rot-yan
+composer:
+- burian-emil
+cast:
+- person: vrstyala-irzhi
+- person: sovak-irzhi
+- person: fialova-kveta
+- person: bogach-ladislav
+- person: khanus-frantishek
+- person: hilmar-gustav
+- person: glinomaz-yozef
+- person: starshiy-pishtek-teodor
+- person: shmeral-vladimir
+- person: kryzanek-zdenek
+- person: karen-bedrich
+- person: hradil-bohus
+- person: bolek-emil
+- person: petruska-vladimir
+- person: dognal-yirzhi
+- person: chvalina-josef
+- person: miksa-yozef
+- person: vashova-mariya
+- person: nedbal-milosh
+- person: gomola-miroslav
+- person: skladal-svatopluk
+- person: kandert-antonin
+- person: richter-karel
+- person: hoblik-oldrich
+- person: lukes-oldrich
+- person: smejkalova-jarmila
+- person: bruder-stanislav
+- person: hradecky-rene
+- person: pavlik-karel
+- person: bulik-bedrich
+- person: cmiral-jaroslav
+- person: slajs-karel
+- person: pospisilova-libuse
+- person: byomova-bozhena
+- person: pilar-jan
+- person: bocek-vitezslav
+- person: raus-martin-artur
+- person: chermak-otto
+- person: navratil-ladislav
+- person: gzela-ladislav
+- person: kuhmund-jan
+- person: q101092476
+- person: bulejko-stepan
+- person: skrceny-josef
+- person: q101210288
+- person: zolar-ervin
+- person: st-karel-hovorka
+- person: q101210302
+- person: nemec-hynek
+- person: kocourek-karel
+- person: q101245539
+- person: kupsovsky-bohuslav
+- person: matysek-jan
+- person: luzicky-stanislav
+- person: vachova-vera
+- person: krenek-karel
+- person: tutter-otto
+- person: cerna-o
+- person: svec-b

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4534697
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- marshak-samuil-yakovlevich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: zharov-mikhail-ivanovich
+- person: astangov-mikhail-fyodorovich
+studio:
+- lenfilm

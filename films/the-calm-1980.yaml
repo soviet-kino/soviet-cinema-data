@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7721042
 schema_version: 1
+director:
+- keslyovskiy-kshishtof
+screenwriter:
+- keslyovskiy-kshishtof
+- shtur-ezhi
+- borski-lech
+cinematographer:
+- petritskiy-yatsek
+composer:
+- figel-petr
+cast:
+- person: shtur-ezhi
+- person: karkoshka-elzhbeta
+- person: trelya-ezhi
+- person: ezhi-fedorovich
+- person: voytsik-vislav
+- person: szajnert-feliks
+- person: olshevskaya-izabella
+- person: zarnecki-micha
+- person: wierzbicki-krzysztof

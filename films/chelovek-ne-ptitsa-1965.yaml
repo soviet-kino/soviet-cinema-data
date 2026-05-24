@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2330695
 schema_version: 1
+director:
+- makaveev-dushan
+screenwriter:
+- makaveev-dushan
+composer:
+- bergamo-petar
+cast:
+- person: danilo-stoykovich
+- person: stol-arandzhelovich
+- person: ras-eva
+- person: milena-dravich
+- person: vrkhovets-yanez
+- person: dushan-yanichievich
+- person: dvornik-boris
+- person: predrag-milinkovich
+- person: q12747886
+- person: blaskovic-mirjana
+studio:
+- avala-film

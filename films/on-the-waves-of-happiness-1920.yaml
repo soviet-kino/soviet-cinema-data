@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21646810
 schema_version: 1
+cast:
+- person: putti-lia-de
+- person: mikhalesko-aleksandr
+- person: filotti-maria

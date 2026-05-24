@@ -1,0 +1,9 @@
+id: rint-karel
+name_ru: Karel Rint
+roles:
+- actor
+external_ids:
+  wikidata: Q101086313
+sources:
+- https://www.wikidata.org/wiki/Q101086313
+schema_version: 1

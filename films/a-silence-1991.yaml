@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q10707864
 schema_version: 1
+director:
+- petkov-dimitar
+composer:
+- nopfler-mark
+cast:
+- person: lukanov-boris
+- person: grabov-khristo
+- person: popyordanov-petar
+- person: shopov-naum
+- person: valchanova-ani
+- person: banov-vasil
+- person: dimitrov-vasil
+- person: nikolova-zhoreta
+- person: karalambova-meglena
+- person: lyubomirov-nikola
+- person: rudarov-nikola
+- person: daskalov-tsvetan

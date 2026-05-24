@@ -8,6 +8,30 @@ runtime_min: 92
 external_ids:
   wikidata: Q4240023
   imdb: tt0177893
+  youtube: 4KpkxWPSJJE
 sources:
 - https://www.wikidata.org/wiki/Q4240023
 schema_version: 1
+director:
+- eysymont-viktor-vladislavovich
+screenwriter:
+- grebner-georgiy-eduardovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: livanov-boris-nikolaevich
+- person: sverdlin-lev-naumovich
+- person: larionov-vsevolod-dmitrievich
+- person: plyatt-rostislav-yanovich
+- person: uralskiy-vladimir-mikhaylovich
+- person: bubnov-nikolay-nikolaevich
+- person: georgiu-georgiy-aleksandrovich
+- person: zrazhevskiy-aleksandr-ivanovich
+- person: sadovskiy-mikhail-mikhaylovich
+- person: svashenko-semyon-andreevich
+- person: smirnov-aleksandr-ilich
+- person: uan-zo-li-vladimir-valentinovich
+- person: tsenin-sergey-sergeevich
+- person: potyomkin-lev-lvovich
+studio:
+- soyuzdetfilm

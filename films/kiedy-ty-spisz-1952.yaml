@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11738964
 schema_version: 1
+director:
+- wajda-andrzej
+screenwriter:
+- wajda-andrzej
+- naletskiy-konrad
+cinematographer:
+- lipman-ezhi
+cast:
+- person: makhulskiy-yan

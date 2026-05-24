@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11742465
 schema_version: 1
+director:
+- yakubovskaya-vanda
+screenwriter:
+- yakubovskaya-vanda
+composer:
+- serotskiy-kazimezh
+cast:
+- person: goluy-tadeush
+- person: madeja-tadeusz
+- person: teodorchik-tadeush
+- person: kusztal-edward
+- person: skolimowski-lech
+- person: glombik-vladislav
+studio:
+- start-kinostudiya

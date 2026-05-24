@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4327518
 schema_version: 1
+director:
+- bykov-rolan-antonovich
+screenwriter:
+- bykov-rolan-antonovich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- sidelnikov-nikolay-nikolaevich
+cast:
+- person: bykov-rolan-antonovich
+- person: basov-vladimir-pavlovich
+studio:
+- ekran

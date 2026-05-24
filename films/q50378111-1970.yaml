@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q50378111
 schema_version: 1
+composer:
+- khozalla-khans-diter

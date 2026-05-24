@@ -9,3 +9,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31192886
 schema_version: 1
+director:
+- vasilev-petr-b
+- anton-marinovich

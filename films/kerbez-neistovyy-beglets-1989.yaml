@@ -8,6 +8,13 @@ runtime_min: 79
 external_ids:
   wikidata: Q108871066
   imdb: tt0309767
+  youtube: G75q5bPSeDM
 sources:
 - https://www.wikidata.org/wiki/Q108871066
 schema_version: 1
+director:
+- nikolaenko-georgiy-mikhaylovich
+screenwriter:
+- omurkulov-kadyrkul
+studio:
+- kyrgyzfilm

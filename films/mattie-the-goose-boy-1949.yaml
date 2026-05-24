@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16521576
 schema_version: 1
+director:
+- fabri-zoltan
+- nadasdy-kalman
+- ranodi-laslo
+screenwriter:
+- szinetar-gyorgy
+cinematographer:
+- barnabash-khedi
+composer:
+- sabo-ferents
+cast:
+- person: gerbe-yanosh
+- person: ruttkai-eva
+- person: shoosh-imre
+- person: kishsh-mani
+- person: balazs-samu
+- person: shomlai-artur
+- person: szakats-miklos

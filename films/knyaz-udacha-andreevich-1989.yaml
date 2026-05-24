@@ -8,6 +8,15 @@ runtime_min: 79
 external_ids:
   wikidata: Q4225000
   imdb: tt0097675
+  youtube: e5Ulpii-wXo
 sources:
 - https://www.wikidata.org/wiki/Q4225000
 schema_version: 1
+director:
+- baisak-gennadi
+screenwriter:
+- priyomykhov-valeriy
+composer:
+- gladkov-gennadiy
+studio:
+- kinostudiya-imeni-m-gorkogo

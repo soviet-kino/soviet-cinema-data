@@ -1,0 +1,9 @@
+id: hors-ola
+name_ru: Ola Hors
+roles:
+- actor
+external_ids:
+  wikidata: Q133793238
+sources:
+- https://www.wikidata.org/wiki/Q133793238
+schema_version: 1

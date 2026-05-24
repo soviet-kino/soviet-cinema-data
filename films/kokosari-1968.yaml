@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16084474
 schema_version: 1
+director:
+- fanelli-mario
+screenwriter:
+- stivicic-ivo
+cast:
+- person: sovagovic-fabijan
+- person: serdar-ivo
+- person: dragan-milivoevich
+- person: pavle-bogdanovich
+- person: subic-ivan

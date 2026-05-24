@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4447757
 schema_version: 1
+director:
+- kinorezhissyor-ivanov-anatoliy-evgenevich
+cinematographer:
+- myasnikov-boris-moiseevich
+cast:
+- person: stupka-bogdan-silvestrovich
+- person: grinko-nikolai
+- person: anokhina-olga-evgenevna
+- person: ignatusha-aleksandr
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4329652
 schema_version: 1
+director:
+- vasilev-sergey-dmitrievich
+- vasilev-georgiy-nikolaevich
+screenwriter:
+- vasilevy-bratya
+cinematographer:
+- dudko-apollinariy-ivanovich
+- ivanov-sergey-vasilevich
+- sigaev-aleksandr-ivanovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: myasnikova-varvara-sergeevna
+- person: bogolyubov-nikolay-ivanovich
+- person: kadochnikov-pavel-petrovich
+- person: gelovani-mikhail-georgievich
+- person: zharov-mikhail-ivanovich
+- person: babochkin-boris-andreevich
+- person: sofronov-vasiliy-yakovlevich
+- person: khvylya-aleksandr-leopoldovich
+- person: dmokhovskiy-boris-mikhaylovich
+- person: sladkopevtsev-vladimir-vladimirovich
+- person: nikashin-pyotr-evdokimovich
+studio:
+- lenfilm
+- kazakhfilm

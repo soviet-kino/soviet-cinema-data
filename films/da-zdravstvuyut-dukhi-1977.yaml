@@ -11,3 +11,152 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2496859
 schema_version: 1
+director:
+- lipskiy-oldrzhikh
+- q134483371
+screenwriter:
+- sverak-zdenek
+- lipskiy-oldrzhikh
+- melisek-jiri
+cinematographer:
+- nemechek-yan
+- kudela-jan
+- q134489342
+- q134489453
+composer:
+- uhlir-jaroslav
+- melisek-jiri
+cast:
+- person: vavrova-dana
+- person: holy-tomas
+- person: koufalova-stanislava
+- person: brodskiy-vlastimil
+- person: myslikova-mila
+- person: sovak-irzhi
+- person: bruder-jiri
+- person: brodska-tereza
+- person: bek-josef
+- person: engel-karel
+- person: effa-karel
+- person: stary-petr
+- person: lipskiy-lyubomir
+- person: tuma-stanislav
+- person: srstka-zdenek
+- person: antonin-kramerius
+- person: janouskova-atka
+- person: ezhkova-milada
+- person: zehrova-vlasta
+- person: tikhankova-vera
+- person: werichova-jana
+- person: nemets-yirzhi
+- person: hejzlar-josef
+- person: drozda-petr
+- person: vatsek-petr
+- person: hes-richard
+- person: petrzhikov-pavel
+- person: filip-adolf
+- person: tomsa-yaroslav
+- person: lahoda-ladislav
+- person: yakl-petr
+- person: flicek-jiri
+- person: simek-ladislav
+- person: anthon-ivan
+- person: nikolau-karel
+- person: haken-radko
+- person: bila-strechova-jirina
+- person: vaculik-jaroslav
+- person: klenot-jiri
+- person: hruby-josef
+- person: koska-bohumil
+- person: jakl-frantisek
+- person: klenot-jaroslav
+- person: sejk-jindrich
+- person: q101210280
+- person: vlk-jaroslav
+- person: wolf-ludvik
+- person: q101225679
+- person: hamouzova-slavka
+- person: vitek-karel
+- person: bohm-arnost
+- person: bryg-lubomir
+- person: q104626199
+- person: semerak-oldrich
+- person: krakora-zbynek
+- person: prochazka-vladimir
+- person: q106962478
+- person: q108167814
+- person: dvorska-jitka
+- person: janecek-arnost
+- person: q112363396
+- person: kvapilova-zdena
+- person: q130383366
+- person: kasik-jiri
+- person: q131765966
+- person: q131784928
+- person: q131784955
+- person: q131845224
+- person: q131909779
+- person: q131924650
+- person: klir-petr
+- person: plavec-zdenek
+- person: sedlarik-stanislav
+- person: stepanek-jan
+- person: nachtigal-igor
+- person: koci-josef
+- person: fichtner-erich
+- person: sladek-jiri
+- person: vlcek-david
+- person: gottlieb-jan
+- person: kosek-jiri
+- person: popelak-petr
+- person: kudlacek-pavel
+- person: brokl-jan
+- person: brokl-miroslav
+- person: serbusova-pavlina
+- person: klegrova-lucie
+- person: blanarova-ivana
+- person: dvorska-ruzhena
+- person: valentova-oxana
+- person: ozdianova-renata
+- person: broz-jiri
+- person: kratka-lucie
+- person: kucera-robert
+- person: zapletal-zdenek
+- person: barta-vladimir
+- person: binko-zdenek
+- person: broz-josef
+- person: sneler-antonin
+- person: simonka-jaroslav
+- person: sefl-vilem
+- person: podrabsky-radek
+- person: menger-zdenek
+- person: jezersky-zdenek
+- person: jansky-martin
+- person: hofer-richard
+- person: geschmay-jan
+- person: fabinyi-zlatomil
+- person: dolezal-bedrich
+- person: damasek-vaclav
+- person: dolejs-jiri
+- person: horak-vaclav
+- person: hrabe-ladislav
+- person: kelbl-jiri
+- person: matejka-pavel
+- person: pesak-vaclav
+- person: pospisil-miroslav
+- person: slepicka-karel
+- person: tupy-miroslav
+- person: vacek-jaroslav
+- person: vancura-vladimir
+- person: hunka-slavek
+- person: hampejs-jaroslav
+- person: varhulik-frantisek
+- person: vesely-jaromir
+- person: q134476358
+- person: q134481529
+- person: q134481752
+- person: q134506557
+- person: q134506564
+studio:
+- barrandov-film-studio
+- q134493869

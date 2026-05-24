@@ -11,3 +11,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q135748889
 schema_version: 1
+director:
+- weiler-kurt

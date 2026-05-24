@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1669707
 schema_version: 1
+director:
+- kurts-rudi
+screenwriter:
+- rodigast-khermann
+cinematographer:
+- bergman-verner
+- shtrobel-khartvig
+composer:
+- ulfig-walter
+cast:
+- person: jurichs-claus
+- person: domryoze-angelika
+- person: raumer-khelga
+- person: malre-ivan
+- person: rikhter-fridrikh
+- person: narloch-willi
+- person: brendler-gertrud
+- person: kherden-peter
+- person: ryovekamp-verner

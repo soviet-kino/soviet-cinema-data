@@ -8,6 +8,14 @@ runtime_min: 86
 external_ids:
   wikidata: Q1134778
   imdb: tt0265015
+  youtube: iUO3ESPf5-Y
 sources:
 - https://www.wikidata.org/wiki/Q1134778
 schema_version: 1
+director:
+- ivanchuk-yuriy-georgievich
+cast:
+- person: velyaminov-pyotr-sergeevich
+- person: pavlova-sofya-afinogenovna
+studio:
+- sverdlovskaya-kinostudiya

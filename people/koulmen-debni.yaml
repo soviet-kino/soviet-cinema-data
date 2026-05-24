@@ -1,0 +1,9 @@
+id: koulmen-debni
+name_ru: Дэбни Коулмен
+roles:
+- actor
+external_ids:
+  wikidata: Q446717
+sources:
+- https://www.wikidata.org/wiki/Q446717
+schema_version: 1

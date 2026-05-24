@@ -7,6 +7,21 @@ country:
 external_ids:
   wikidata: Q97315808
   imdb: tt0337446
+  youtube: Ky3uB9KY0vE
 sources:
 - https://www.wikidata.org/wiki/Q97315808
 schema_version: 1
+director:
+- shneyder-evgeniy-mikhaylovich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- shelenkov-aleksandr-vladimirovich
+composer:
+- yurovskiy-vladimir-mikhaylovich
+cast:
+- person: abrikosov-andrey-lvovich
+- person: massalskiy-pavel-vladimirovich
+- person: svobodin-nikolay-kapitonovich
+studio:
+- soyuzdetfilm

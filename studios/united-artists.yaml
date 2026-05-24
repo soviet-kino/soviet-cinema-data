@@ -1,0 +1,8 @@
+id: united-artists
+name_ru: United Artists
+country: US
+external_ids:
+  wikidata: Q219400
+sources:
+- https://www.wikidata.org/wiki/Q219400
+schema_version: 1

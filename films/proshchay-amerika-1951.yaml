@@ -8,6 +8,17 @@ runtime_min: 70
 external_ids:
   wikidata: Q4382366
   imdb: tt0337620
+  youtube: pUpaqunbR9w
 sources:
 - https://www.wikidata.org/wiki/Q4382366
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+- solntseva-yuliya-ippolitovna
+cinematographer:
+- ekelchik-yuriy-izrailevich
+cast:
+- person: gritsenko-liliya-olimpievna
+- person: gritsenko-nikolay-olimpievich
+studio:
+- mosfilm

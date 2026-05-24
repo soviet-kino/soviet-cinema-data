@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4213214
 schema_version: 1
+director:
+- zaorskiy-yanush
+screenwriter:
+- grokhovyak-stanislav
+cinematographer:
+- ramlau-andzhey
+composer:
+- konechnyy-zygmunt
+cast:
+- person: pechka-frantishek
+- person: skarukh-vitold
+- person: dzvonkovskiy-aleksander
+- person: khancha-vladislav
+- person: bonk-khenrik
+- person: borovskiy-khenrik
+- person: zagurskiy-voytsekh
+- person: zentek-eva
+- person: luchitskaya-vanda
+- person: mulyarchik-adam
+- person: nalberchak-yuzef
+- person: turek-ezhi
+- person: rogalski-ezhi
+studio:
+- pryzmat

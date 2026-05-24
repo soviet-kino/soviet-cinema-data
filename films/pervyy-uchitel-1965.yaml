@@ -8,6 +8,21 @@ runtime_min: 102
 external_ids:
   wikidata: Q3225870
   imdb: tt0059585
+  youtube: WLWJp8IUziw
 sources:
 - https://www.wikidata.org/wiki/Q3225870
 schema_version: 1
+director:
+- konchalovskiy-andrey
+screenwriter:
+- konchalovskiy-andrey
+- aytmatov-chingiz
+cinematographer:
+- rerberg-georgy
+composer:
+- ovchinnikov-vyacheslav
+cast:
+- person: arinbasarova-natalya-utevlevna
+- person: beyshenaliev-bolot
+studio:
+- mosfilm

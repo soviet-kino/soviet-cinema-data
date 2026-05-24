@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270660
 schema_version: 1
+director:
+- herrera-manuel
+screenwriter:
+- alberto-eliseo
+- orlov-dal-konstantinovich
+cinematographer:
+- klebanov-igor-semyonovich
+cast:
+- person: evora-sesar
+- person: belyaeva-galina
+- person: lyampe-grigoriy-moiseevich
+- person: nevzorov-boris
+- person: yakovleva-marina-aleksandrovna
+- person: nunes-eslinda
+studio:
+- kinostudiya-imeni-m-gorkogo

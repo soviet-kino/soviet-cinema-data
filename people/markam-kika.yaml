@@ -1,0 +1,9 @@
+id: markam-kika
+name_ru: Кика Маркам
+roles:
+- actor
+external_ids:
+  wikidata: Q952740
+sources:
+- https://www.wikidata.org/wiki/Q952740
+schema_version: 1

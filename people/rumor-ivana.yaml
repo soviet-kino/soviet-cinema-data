@@ -1,0 +1,9 @@
+id: rumor-ivana
+name_ru: Ивана Румор
+roles:
+- actor
+external_ids:
+  wikidata: Q3804816
+sources:
+- https://www.wikidata.org/wiki/Q3804816
+schema_version: 1

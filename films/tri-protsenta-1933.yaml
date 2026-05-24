@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20509725
 schema_version: 1
+director:
+- armand-pavel
+screenwriter:
+- sarkisov-grigoriy
+cast:
+- person: manucharyan-nina
+- person: sarkisov-grigoriy

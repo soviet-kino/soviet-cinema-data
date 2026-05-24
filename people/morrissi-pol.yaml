@@ -1,0 +1,9 @@
+id: morrissi-pol
+name_ru: Пол Моррисси
+roles:
+- director
+external_ids:
+  wikidata: Q383764
+sources:
+- https://www.wikidata.org/wiki/Q383764
+schema_version: 1

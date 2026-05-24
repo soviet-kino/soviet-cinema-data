@@ -8,6 +8,31 @@ runtime_min: 244
 external_ids:
   wikidata: Q4230756
   imdb: tt2076244
+  youtube: CQo9KjWXTtw
 sources:
 - https://www.wikidata.org/wiki/Q4230756
 schema_version: 1
+director:
+- lioznova-tatyana-mikhaylovna
+screenwriter:
+- lioznova-tatyana-mikhaylovna
+cinematographer:
+- kataev-pyotr
+- yakovich-mikhail-yakovlevich
+composer:
+- kancheli-giya-aleksandrovich
+cast:
+- person: tabakov-oleg-pavlovich
+- person: dzhigarkhanyan-armen-borisovich
+- person: vesnik-evgeniy-yakovlevich
+- person: basilashvili-oleg-valerianovich
+- person: rumyantseva-nadezhda-vasilevna
+- person: pevtsov-dmitriy-anatolevich
+- person: andreev-vadim-yurevich
+- person: vitorgan-emmanuil-gedeonovich
+- person: medvedev-yuriy-nikolaevich
+- person: neznanov-viktor-vladimirovich
+- person: sherstnyov-yuriy-borisovich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu

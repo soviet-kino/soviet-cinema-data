@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123126638
 schema_version: 1
+director:
+- bartha-attila
+screenwriter:
+- bartha-attila
+cinematographer:
+- zadori-ferenc
+composer:
+- novak-janos
+cast:
+- person: bordan-iren
+- person: inke-laslo
+- person: kern-andrash
+- person: papadimitriu-afina
+- person: pelos-zhuzha
+- person: partos-erzhi
+- person: toth-eniko
+- person: maday-gyorgy
+- person: tarshoy-elemer
+- person: khunyadkyurti-ishtvan
+- person: halmagyi-sandor
+- person: perlaki-istvan
+- person: gonda-gyorgy
+studio:
+- vengerskoe-televidenie

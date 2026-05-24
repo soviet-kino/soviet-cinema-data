@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4422835
 schema_version: 1
+director:
+- vaynshtok-vladimir-petrovich
+- koltsatyy-arkadiy-nikolaevich
+screenwriter:
+- brodyanskiy-boris-lvovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- zhivotov-aleksey
+cast:
+- person: kmit-leonid-aleksandrovich
+studio:
+- belarusfilm

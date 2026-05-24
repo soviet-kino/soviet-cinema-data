@@ -8,6 +8,13 @@ runtime_min: 92
 external_ids:
   wikidata: Q114349775
   imdb: tt0092162
+  youtube: p1KpoguBXYU
 sources:
 - https://www.wikidata.org/wiki/Q114349775
 schema_version: 1
+director:
+- musatov-igor
+cinematographer:
+- filippov-sergey-petrovich
+studio:
+- kinostudiya-imeni-m-gorkogo

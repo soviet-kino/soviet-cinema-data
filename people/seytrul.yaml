@@ -1,0 +1,9 @@
+id: seytrul
+name_ru: Seytrul
+roles:
+- director
+external_ids:
+  wikidata: Q16374207
+sources:
+- https://www.wikidata.org/wiki/Q16374207
+schema_version: 1

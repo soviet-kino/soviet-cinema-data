@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q14948527
 schema_version: 1
+director:
+- sadykov-bako-kadyrovich
+cast:
+- person: msryan-vladimir-ivanovich

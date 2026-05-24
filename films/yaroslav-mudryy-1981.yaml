@@ -8,6 +8,19 @@ runtime_min: 156
 external_ids:
   wikidata: Q12173964
   imdb: tt0201345
+  youtube: KQI9wgDj_eY
 sources:
 - https://www.wikidata.org/wiki/Q12173964
 schema_version: 1
+director:
+- kokhan-grigoriy-romanovich
+cinematographer:
+- feliks-gilevich
+composer:
+- stankovich-evgeniy-fyodorovich
+cast:
+- person: filatov-leonid-alekseevich
+- person: muravitskiy-yuriy-adolfovich
+studio:
+- mosfilm
+- kinostudiya-imeni-a-dovzhenko

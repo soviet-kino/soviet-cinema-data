@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119854711
 schema_version: 1
+director:
+- sobota-miroslav
+screenwriter:
+- mladek-ivan
+- oplustil-gustav
+cast:
+- person: peshak-ivo
+- person: mladek-ivan
+- person: gerendas-ladislav
+- person: prochazka-tomas-2
+- person: fleischer-petr-2
+- person: q122828800
+- person: q123249897

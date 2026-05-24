@@ -11,3 +11,39 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2314508
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- bayer-frank
+- noych-erik
+- egel-karl-georg
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- khayking-volfram
+cast:
+- person: raynike-gans-peter
+- person: krug-manfred
+- person: gyoring-khelga
+- person: khofman-yutta
+- person: eshe-eberkhard
+- person: shrayber-khelmut
+- person: mirek-erich
+- person: stiska-erika
+- person: lyudvig-fred
+- person: jupe-walter
+- person: brendler-gertrud
+- person: graupner-gizela
+- person: minetti-khans-peter
+- person: shumakher-ingeborg
+- person: maus-yokhannes
+- person: wieke-johannes
+- person: brenk-karl
+- person: stypu-kowska-krystyna
+- person: rikhter-raynik-valter
+- person: kamenik-werner
+- person: ostberg-wolfgang
+- person: zahn-albert
+- person: veldre-erik
+studio:
+- defa

@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1307117
 schema_version: 1
+director:
+- eme-roland
+screenwriter:
+- eme-roland
+- shtral-rudi
+cinematographer:
+- lents-yurgen
+composer:
+- wenzel-hans-jurgen
+cast:
+- person: shvarts-dzheki
+- person: khasse-khanno
+- person: volf-akhim
+- person: dittus-barbara
+- person: choynski-carl-heinz
+- person: entoni-karmen-mayya
+- person: godeman-verner
+- person: shvil-ernst-georg
+- person: last-gertraud
+- person: brendler-gertrud
+- person: arenkens-paul
+- person: lirk-madlen
+- person: jung-lars
+- person: vyunsher-marianna
+- person: trettau-martin
+- person: kamenik-werner
+- person: lirk-verner
+- person: riemann-werner
+- person: noyenkhan-villi
+- person: shrade-villi
+- person: khetterle-albert
+- person: tilsner-klaus
+studio:
+- defa

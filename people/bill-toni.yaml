@@ -1,0 +1,9 @@
+id: bill-toni
+name_ru: Тони Билл
+roles:
+- actor
+external_ids:
+  wikidata: Q588745
+sources:
+- https://www.wikidata.org/wiki/Q588745
+schema_version: 1

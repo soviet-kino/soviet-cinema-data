@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9389439
 schema_version: 1
+director:
+- kholland-agneshka
+- domaradskiy-ezhi
+screenwriter:
+- kholland-agneshka
+- falk-feliks
+- domaradskiy-ezhi
+cinematographer:
+- zygad-o-jacek
+cast:
+- person: wajda-andrzej
+- person: kholland-agneshka
+- person: ferentsy-adam
+- person: modzhinska-urshulya
+- person: zayonchkovskaya-malgozhata
+- person: olbrykhskiy-daniel
+- person: vakhovyak-marya
+- person: glovatskiy-yanush
+- person: zaorskiy-yanush
+- person: markhelyuk-miroslava
+- person: pechinski-andzhey
+- person: trafankovska-darya
+- person: khzhanovskiy-andzhey
+- person: kwasniewska-s-awa
+- person: belskiy-zbignev
+- person: maciejewski-aleksander
+- person: ostrowicz-kazimierz
+- person: karpinskiy-machey
+- person: bentyn-bogdan
+studio:
+- zespol-filmowy-x

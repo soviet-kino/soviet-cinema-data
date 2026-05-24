@@ -8,6 +8,24 @@ runtime_min: 82
 external_ids:
   wikidata: Q85868259
   imdb: tt0233434
+  youtube: DZSeUVVl-p4
 sources:
 - https://www.wikidata.org/wiki/Q85868259
 schema_version: 1
+director:
+- eysymont-viktor-vladislavovich
+screenwriter:
+- venetsianov-georgiy
+cinematographer:
+- rapoport-vladimir
+composer:
+- golts-boris-grigorevich
+- pushkov-venedikt-venediktovich
+cast:
+- person: blinov-boris-vladimirovich
+- person: nassonov-konstantin
+- person: chestnokov-vladimir-ivanovich
+- person: domashyova-mariya-petrovna
+- person: arkhipenko-valentin-dmitrievich
+studio:
+- lenfilm

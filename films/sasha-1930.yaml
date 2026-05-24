@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124760130
 schema_version: 1
+director:
+- khokhlova-aleksandra-sergeevna
+screenwriter:
+- kuleshov-lev-vladimirovich
+- khokhlova-aleksandra-sergeevna
+- leonidov-oleg-leonidovich
+cinematographer:
+- naumov-strazh-naum-solomonovich
+cast:
+- person: kmit-leonid-aleksandrovich
+- person: fayt-andrey-andreevich
+- person: semyonova-lyudmila-nikolaevna
+- person: galadzhev-pyotr-stepanovich
+- person: melnikov-aleksandr-afanasevich
+studio:
+- belarusfilm

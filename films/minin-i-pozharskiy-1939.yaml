@@ -8,6 +8,28 @@ runtime_min: 134
 external_ids:
   wikidata: Q4294237
   imdb: tt0031654
+  youtube: MM-DFQaJiYM
 sources:
 - https://www.wikidata.org/wiki/Q4294237
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- doller-mikhail-ivanovich
+screenwriter:
+- shklovskiy-viktor-borisovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+composer:
+- shaporin-yuriy-aleksandrovich
+cast:
+- person: chirkov-boris-petrovich
+- person: gluzskiy-mikhail-andreevich
+- person: livanov-boris-nikolaevich
+- person: sverdlin-lev-naumovich
+- person: sobolevskiy-pyotr-stanislavovich
+- person: astangov-mikhail-fyodorovich
+- person: fayt-andrey-andreevich
+- person: khanov-aleksandr-aleksandrovich
+- person: komarov-sergey-petrovich
+studio:
+- mosfilm

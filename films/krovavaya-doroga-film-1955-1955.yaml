@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3437340
 schema_version: 1
+director:
+- novakovic-rados
+- bergstryom-kore
+screenwriter:
+- evensmu-sigurd
+cinematographer:
+- syorensen-ragnar
+cast:
+- person: nalis-antun
+- person: mikhaylo-bata-paskalevich
+- person: milivoe-zhivanovich
+- person: milan-miloshevich
+studio:
+- norsk-film

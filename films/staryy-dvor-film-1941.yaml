@@ -8,6 +8,15 @@ runtime_min: 20
 external_ids:
   wikidata: Q116811391
   imdb: tt14144816
+  youtube: jWoUQxg-GvY
 sources:
 - https://www.wikidata.org/wiki/Q116811391
 schema_version: 1
+director:
+- nemolyaev-vladimir-viktorovich
+screenwriter:
+- nemolyaev-vladimir-viktorovich
+cast:
+- person: karandash
+studio:
+- soyuzdetfilm

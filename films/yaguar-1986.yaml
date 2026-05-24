@@ -8,6 +8,22 @@ runtime_min: 90
 external_ids:
   wikidata: Q4536225
   imdb: tt0092256
+  youtube: GIjLKEXMV_4
 sources:
 - https://www.wikidata.org/wiki/Q4536225
 schema_version: 1
+director:
+- alarkon-sebastyan
+screenwriter:
+- alarkon-sebastyan
+cinematographer:
+- kinorezhissyor-ivanov-anatoliy-evgenevich
+composer:
+- alarkon-sebastyan
+- babushkin-viktor-borisovich
+cast:
+- person: veksler-sergey-meylekhovich
+- person: vernik-igor
+- person: gazarov-sergey-ishkhanovich
+studio:
+- mosfilm

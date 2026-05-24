@@ -8,6 +8,11 @@ runtime_min: 93
 external_ids:
   wikidata: Q85864079
   imdb: tt0082852
+  youtube: 24-2nhVPftE
 sources:
 - https://www.wikidata.org/wiki/Q85864079
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+studio:
+- mosfilm

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12045771
 schema_version: 1
+director:
+- gajer-vaclav
+screenwriter:
+- gajer-vaclav
+- pohl-josef
+cinematographer:
+- milich-rudolf
+composer:
+- sluka-lubos
+cast:
+- person: holy-tomas
+- person: vinklarzh-yozef
+- person: breykhova-yana
+- person: pogan-yan
+- person: valakh-gustav
+- person: buchvaldek-zdenek
+- person: belohradsky-karel
+- person: mika-vladimir
+- person: kindl-milan
+studio:
+- barrandov

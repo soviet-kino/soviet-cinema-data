@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4142135
 schema_version: 1
+director:
+- bortko-vladimir
+screenwriter:
+- mishin-mikhail
+cast:
+- person: farada-semyon-lvovich
+- person: vasileva-ekaterina-sergeevna
+- person: belinskiy-aleksandr-arkadevich
+- person: koval-arkadiy-konstantinovich
+- person: kozhevnikov-aleksey-aleksandrovich
+- person: shilovskiy-vsevolod-nikolaevich
+- person: mekinyan-grachya-ambartsumovich
+- person: slivnikov-anatoliy-mikhaylovich
+- person: strzhelchik-vladislav-ignatevich
+- person: rudakov-anatoliy-rodionovich
+- person: bogdanov-vladimir
+studio:
+- lenfilm

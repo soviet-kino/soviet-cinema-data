@@ -8,6 +8,24 @@ runtime_min: 164
 external_ids:
   wikidata: Q4532706
   imdb: tt0174627
+  youtube: QvVikiCPVAw
 sources:
 - https://www.wikidata.org/wiki/Q4532706
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+- khubov-nikita-georgievich
+screenwriter:
+- ermolinskiy-sergey-aleksandrovich
+cinematographer:
+- yakovich-mikhail-yakovlevich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: lebedev-evgeniy-alekseevich
+- person: rostotskiy-andrey-stanislavovich
+- person: eryomenko-nikolay-nikolaevich
+- person: kashintsev-igor-konstantinovich
+- person: krasko-ivan-ivanovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: petri-roland
+name_ru: Роланд Пьетри
+roles:
+- actor
+external_ids:
+  wikidata: Q3440213
+sources:
+- https://www.wikidata.org/wiki/Q3440213
+schema_version: 1

@@ -1,0 +1,9 @@
+id: kar-alma
+name_ru: Альма Кар
+roles:
+- actor
+external_ids:
+  wikidata: Q129317
+sources:
+- https://www.wikidata.org/wiki/Q129317
+schema_version: 1

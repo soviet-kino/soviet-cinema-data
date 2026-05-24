@@ -11,3 +11,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q325450
 schema_version: 1
+director:
+- pettsold-konrad
+- boshko-boshkovich
+cinematographer:
+- borkmann-eberkhard
+composer:
+- zasse-karl-ernst
+cast:
+- person: khoppe-rolf
+- person: gvisdek-mikhael
+- person: tile-klaus-peter
+- person: volf-gerri
+- person: brylska-barbara
+- person: delmare-fred
+- person: mitich-goyko
+- person: karstens-bruno
+- person: shrayber-khelmut
+- person: lyudvig-fred
+- person: fisher-khannes
+- person: malikh-kholger
+- person: proysker-khorst
+- person: shultse-khorst
+- person: thomas-jochen
+- person: popovich-mavid-milivoye
+- person: slobodan-dimitrievich
+- person: noyenkhan-villi
+studio:
+- defa
+- bosna-film

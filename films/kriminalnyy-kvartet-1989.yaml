@@ -8,6 +8,18 @@ runtime_min: 85
 external_ids:
   wikidata: Q4241041
   imdb: tt0234056
+  youtube: pj0ZGzZWOlo
 sources:
 - https://www.wikidata.org/wiki/Q4241041
 schema_version: 1
+director:
+- muratov-aleksandr-aleksandrovich
+cinematographer:
+- ryzhov-konstantin
+cast:
+- person: karachentsov-nikolay
+- person: eryomin-vladimir-arkadevich
+- person: shcherbakov-boris-vasilevich
+- person: steklov-vladimir-aleksandrovich
+studio:
+- mosfilm

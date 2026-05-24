@@ -1,0 +1,9 @@
+id: zhasmen
+name_ru: Жасмен
+roles:
+- actor
+external_ids:
+  wikidata: Q16381637
+sources:
+- https://www.wikidata.org/wiki/Q16381637
+schema_version: 1

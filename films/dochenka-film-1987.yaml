@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4167383
   imdb: tt0280607
+  youtube: L1CT4tEO1DI
 sources:
 - https://www.wikidata.org/wiki/Q4167383
 schema_version: 1
+director:
+- blank-aleksandr-isaakovich
+composer:
+- lvovskiy-vladimir-mikhaylovich
+cast:
+- person: solovey-elena-yakovlevna
+- person: bogatyryov-yuriy-georgievich
+- person: mashnaya-olga
+- person: muromov-mikhail
+studio:
+- ekran

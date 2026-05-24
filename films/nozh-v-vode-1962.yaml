@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q663469
 schema_version: 1
+director:
+- polanski-roman
+screenwriter:
+- skolimovskiy-ezhi
+- polanski-roman
+cinematographer:
+- lipman-ezhi
+composer:
+- komeda-kshishtof
+cast:
+- person: polanski-roman
+- person: zigmunt-malyanovich
+- person: nemchik-leon
+- person: umetskaya-yolanta
+studio:
+- kamera-kinostudiya

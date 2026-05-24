@@ -7,6 +7,20 @@ country:
 external_ids:
   wikidata: Q4483531
   imdb: tt0308723
+  youtube: FNH3JVyD1eQ
 sources:
 - https://www.wikidata.org/wiki/Q4483531
 schema_version: 1
+director:
+- ryabokon-oleg-vsevolodovich
+screenwriter:
+- ryabokon-oleg-vsevolodovich
+cinematographer:
+- smirnov-valeriy-vasilevich
+cast:
+- person: bronevoy-leonid-sergeevich
+- person: volkova-olga-vladimirovna
+- person: plotnikov-boris
+- person: khimichev-boris-petrovich
+studio:
+- lenfilm

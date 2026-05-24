@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3007543
 schema_version: 1
+director:
+- mimitsa-vatroslav
+screenwriter:
+- mimitsa-vatroslav
+cinematographer:
+- pinter-tomislav
+composer:
+- prokhaska-milenko
+cast:
+- person: vrkhovets-yanez
+- person: vuisich-pavle
+- person: slobodan-dimitrievich
+studio:
+- yadran-film

@@ -8,6 +8,18 @@ runtime_min: 64
 external_ids:
   wikidata: Q4424099
   imdb: tt2221807
+  youtube: 070Q9DVGaxs
 sources:
 - https://www.wikidata.org/wiki/Q4424099
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- fogelman-yuliy-moiseevich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: samoylov-evgeniy-valerianovich
+poster_commons: Vstreca1936.jpg

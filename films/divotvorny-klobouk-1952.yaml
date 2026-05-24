@@ -11,3 +11,60 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5284683
 schema_version: 1
+director:
+- radok-alfred
+screenwriter:
+- radok-alfred
+- klitspera-vatslav-kliment
+cinematographer:
+- strzhekha-yozef
+composer:
+- sternwald-jiri
+cast:
+- person: chervena-sonya
+- person: filipovskiy-frantishek
+- person: rasilov-sasa
+- person: fiala-eman
+- person: kemr-yozef
+- person: glinomaz-yozef
+- person: brzkova-terezie
+- person: starshiy-pishtek-teodor
+- person: dite-zdenek
+- person: kovarik-frantisek
+- person: tregl-vatslav
+- person: kreuzmannova-alena
+- person: beyval-vladimir
+- person: rzhepa-vladimir
+- person: kerni-frantishek
+- person: pleskot-jaromir
+- person: nemecek-jiri
+- person: mak-milan
+- person: pellar-rudolf
+- person: remunda-stanislav
+- person: slegr-frantisek
+- person: rydlova-marie
+- person: rottova-anna
+- person: svoboda-miroslav
+- person: koktova-vera
+- person: foustkova-eva
+- person: holar-frantisek
+- person: truneckova-eva
+- person: budin-otto
+- person: patocka-milos
+- person: novotny-jiri
+- person: bartusek-vladimir
+- person: dedek-oldrich
+- person: rubik-otto
+- person: doubrava-frantisek-miroslav
+- person: bechynova-jarmila
+- person: bila-strechova-jirina
+- person: vankova-anna
+- person: svec-vaclav
+- person: st-karel-hovorka
+- person: pechlatova-josefa
+- person: souckova-jirina
+- person: najman-josef
+- person: vachova-vera
+- person: aisman-bohumil
+- person: mattausch-ludek
+- person: bezdeka-svatopluk

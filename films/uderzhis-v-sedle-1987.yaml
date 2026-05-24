@@ -8,6 +8,11 @@ runtime_min: 64
 external_ids:
   wikidata: Q108862939
   imdb: tt3324554
+  youtube: _iT6by2OmJY
 sources:
 - https://www.wikidata.org/wiki/Q108862939
 schema_version: 1
+director:
+- karagulov-bakyt-nazarkulovich
+studio:
+- kyrgyzfilm

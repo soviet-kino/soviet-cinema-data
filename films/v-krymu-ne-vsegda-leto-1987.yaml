@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q17582614
   imdb: tt0287083
+  youtube: fZvZAzfgZlo
 sources:
 - https://www.wikidata.org/wiki/Q17582614
 schema_version: 1
+director:
+- novak-villen-zakharovich
+screenwriter:
+- bolgarin-igor-yakovlevich
+cinematographer:
+- avloshenko-vadim-sergeevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+studio:
+- odesskaya-kinostudiya

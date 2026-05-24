@@ -9,3 +9,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47494357
 schema_version: 1
+director:
+- gardin-vladimir-rostislavovich
+screenwriter:
+- gardin-vladimir-rostislavovich
+- nikulin-lev-veniaminovich
+cast:
+- person: panov-nikolay
+- person: frelikh-oleg-nikolaevich
+- person: zoya-fyodorovna-barantsevich
+- person: saltykov-nikolay-aleksandrovich
+- person: talanov-iona-nikolaevich
+studio:
+- odesskaya-kinostudiya
+- yaltinskaya-kinostudiya

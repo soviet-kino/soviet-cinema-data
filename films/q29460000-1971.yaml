@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q29460000
 schema_version: 1
+director:
+- dbomba-jorg
+composer:
+- german-peter

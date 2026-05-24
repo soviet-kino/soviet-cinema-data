@@ -8,6 +8,16 @@ runtime_min: 12
 external_ids:
   wikidata: Q111952432
   imdb: tt4869076
+  youtube: ZCzT0-Hbllk
 sources:
 - https://www.wikidata.org/wiki/Q111952432
 schema_version: 1
+director:
+- mokil-sarra-yakovlevna
+screenwriter:
+- mokil-sarra-yakovlevna
+composer:
+- shirinskiy-vasiliy-petrovich
+studio:
+- mosfilm
+poster_commons: Кадр из м-ф "Волк и семеро козлят".png

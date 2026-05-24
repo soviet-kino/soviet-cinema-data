@@ -1,0 +1,9 @@
+id: spenser-bad
+name_ru: Бад Спенсер
+roles:
+- actor
+external_ids:
+  wikidata: Q221074
+sources:
+- https://www.wikidata.org/wiki/Q221074
+schema_version: 1

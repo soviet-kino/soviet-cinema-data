@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7775416
 schema_version: 1
+director:
+- kyortis-maykl
+screenwriter:
+- kyortis-maykl
+- molnar-ferents
+- vayda-ladislaus
+cast:
+- person: varkoni-viktor

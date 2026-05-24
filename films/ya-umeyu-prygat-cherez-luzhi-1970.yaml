@@ -8,6 +8,52 @@ runtime_min: 91
 external_ids:
   wikidata: Q1876507
   imdb: tt0066515
+  youtube: e4UV66cazbY
 sources:
 - https://www.wikidata.org/wiki/Q1876507
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- prokhazka-yan
+- kakhinya-karel
+- khofman-ota
+cinematographer:
+- illik-yozef
+composer:
+- lishka-zdenek
+cast:
+- person: gadrboltsova-zdena
+- person: shvandova-yana
+- person: dlougi-vladimir
+- person: dlougi-mikhal
+- person: karlik-yozef
+- person: satoranskiy-yaroslav
+- person: shmeral-vladimir
+- person: kryzanek-zdenek
+- person: cap-bohuslav
+- person: navratil-borzhivoy
+- person: hajska-darja
+- person: glusitska-karel
+- person: steinmasslova-milena
+- person: musil-oldrich
+- person: urgosik-dusan
+- person: kalva-bohuslav
+- person: minsky-adolf
+- person: jarolimek-zdenek
+- person: byomova-bozhena
+- person: krivacek-ladislav
+- person: karaskova-olga
+- person: q101210301
+- person: vltsek-karel
+- person: q130537180
+- person: q131912304
+- person: herodes-jan
+- person: plhon-ales
+- person: komancova-libuse
+- person: rukavicka-valentin
+- person: filipovsky-milos
+- person: machova-vera
+- person: lacha-martin
+studio:
+- barrandov

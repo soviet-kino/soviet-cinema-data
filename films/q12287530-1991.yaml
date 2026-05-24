@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12287530
 schema_version: 1
+director:
+- kroumov-krassimir
+screenwriter:
+- kroumov-krassimir
+composer:
+- genkov-georgiy
+cast:
+- person: tsvetkova-vanya
+- person: paskaleva-katya
+- person: shopov-naum
+- person: kishkilov-georgi
+- person: surchadzhiev-iosif
+- person: despotov-petar
+- person: pishtalov-stanislav

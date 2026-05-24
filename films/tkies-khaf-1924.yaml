@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7223712
 schema_version: 1
+director:
+- turkov-zigmunt
+cinematographer:
+- shtaynvurtsel-severin
+cast:
+- person: kaminskaya-ester-rokhl

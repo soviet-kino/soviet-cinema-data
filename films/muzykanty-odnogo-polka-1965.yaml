@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4306697
   imdb: tt0232147
+  youtube: V0lDBi0_28I
 sources:
 - https://www.wikidata.org/wiki/Q4306697
 schema_version: 1
+director:
+- kadochnikov-pavel-petrovich
+- kazanskiy-gennadiy-sergeevich
+composer:
+- kladnitskiy-vladislav-ivanovich
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: solomin-yuriy-mefodevich
+- person: boyarskiy-nikolay-aleksandrovich
+studio:
+- lenfilm

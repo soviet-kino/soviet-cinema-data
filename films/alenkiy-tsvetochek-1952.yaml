@@ -8,6 +8,17 @@ runtime_min: 42
 external_ids:
   wikidata: Q3209019
   imdb: tt0949326
+  youtube: PWB1yPx-ong
 sources:
 - https://www.wikidata.org/wiki/Q3209019
 schema_version: 1
+director:
+- atamanov-lev
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- druyan-mikhail
+composer:
+- budashkin-nikolay-pavlovich
+studio:
+- soyuzmultfilm

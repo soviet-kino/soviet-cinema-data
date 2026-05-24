@@ -1,0 +1,9 @@
+id: amio-pol
+name_ru: Поль Амио
+roles:
+- actor
+external_ids:
+  wikidata: Q3370468
+sources:
+- https://www.wikidata.org/wiki/Q3370468
+schema_version: 1

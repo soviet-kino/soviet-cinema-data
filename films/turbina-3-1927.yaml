@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106640592
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- erdman-nikolay-robertovich
+- piotrovskiy-adrian-ivanovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+cast:
+- person: guretskaya-tatyana-ivanovna
+- person: aktyor-kuznetsov-pyotr-vasilevich
+- person: lebedev-nikolay
+studio:
+- lenfilm
+- sovkino
+poster_commons: Плакат к фильму «Турбина №3» 1927.jpg

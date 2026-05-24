@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3230315
 schema_version: 1
+director:
+- shengelaya-nikolay-mikhaylovich
+- kevorkov-stepan
+screenwriter:
+- rzheshevskiy-aleksandr-georgievich
+- shengelaya-nikolay-mikhaylovich
+cinematographer:
+- shneyder-evgeniy-mikhaylovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: gardin-vladimir-rostislavovich
+- person: savchenko-igor-andreevich
+- person: andzhaparidze-veriko-ivlianovna
+- person: emir-zade-khayri
+- person: klyukvin-ivan-sergeevich
+- person: m-likov-lis-ttar
+studio:
+- azerbaydzhanfilm
+poster_commons: 26 комиссаров.jpg

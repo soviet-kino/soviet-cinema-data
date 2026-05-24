@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48616012
 schema_version: 1
+director:
+- horvath-tibor
+screenwriter:
+- fejer-istvan
+cast:
+- person: tabori-nora
+- person: agardi-gabor
+- person: kishsh-mani
+- person: bilicsi-maria
+- person: csala-zsuzsa
+- person: vay-ilus
+- person: feleki-kamill
+- person: peteni-ilona
+- person: versenyi-laszlo

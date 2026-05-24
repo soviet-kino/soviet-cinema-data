@@ -1,0 +1,9 @@
+id: sela-fatos
+name_ru: Fatos Sela
+roles:
+- actor
+external_ids:
+  wikidata: Q9258157
+sources:
+- https://www.wikidata.org/wiki/Q9258157
+schema_version: 1

@@ -11,3 +11,43 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7093193
 schema_version: 1
+director:
+- balik-yaroslav
+screenwriter:
+- plugarzh-zdenek
+- balik-yaroslav
+cinematographer:
+- vanish-yozef
+composer:
+- maresh-karel
+cast:
+- person: kukura-yuray
+- person: khudik-ladislav
+- person: kuznetsov-anatoliy
+- person: moravets-miroslav
+- person: preyss-viktor
+- person: shulik-anton
+- person: khorvat-emil
+- person: maurer-viktor
+- person: myuller-vladislav
+- person: vasek-julius
+- person: haverl-leopold
+- person: yavorkova-anna
+- person: durdik-vladimir
+- person: barthova-alzbeta
+- person: korenci-anton
+- person: zagradnik-slavo
+- person: malkova-mariya
+- person: kruta-ferdinand
+- person: pospisil-vladimir
+- person: hozova-miroslava
+- person: kaspar-jaroslav
+- person: homola-miloslav
+- person: gzela-ladislav
+- person: cherny-yozef
+- person: wiszniewski-bogdan
+- person: q101066153
+- person: piovar-andrej
+- person: halasz-anton
+studio:
+- barrandov

@@ -8,6 +8,20 @@ runtime_min: 48
 external_ids:
   wikidata: Q4501435
   imdb: tt0093343
+  youtube: eLcrnUxFoKo
 sources:
 - https://www.wikidata.org/wiki/Q4501435
 schema_version: 1
+director:
+- zolotukhin-dmitriy-lvovich
+screenwriter:
+- lungin-pavel-semyonovich
+cinematographer:
+- ragozin-lev
+cast:
+- person: polishchuk-lyubov
+- person: ivashov-vladimir-sergeevich
+- person: pastukhov-nikolay-isaakovich
+- person: zolotukhin-lev-fyodorovich
+studio:
+- kinostudiya-imeni-m-gorkogo

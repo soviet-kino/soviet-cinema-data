@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4295944
 schema_version: 1
+director:
+- dubrovin-yuriy-nikolaevich
+screenwriter:
+- nepomnyashchiy-tikhon-alekseevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: olyalin-nikolay-vladimirovich
+- person: rumyantseva-lyubov-grigorevna
+studio:
+- belarusfilm

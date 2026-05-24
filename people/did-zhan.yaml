@@ -1,0 +1,9 @@
+id: did-zhan
+name_ru: Жан д’Ид
+roles:
+- actor
+external_ids:
+  wikidata: Q3175235
+sources:
+- https://www.wikidata.org/wiki/Q3175235
+schema_version: 1

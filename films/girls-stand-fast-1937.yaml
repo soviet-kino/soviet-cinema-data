@@ -8,6 +8,50 @@ runtime_min: 85
 external_ids:
   wikidata: Q11863123
   imdb: tt0166563
+  youtube: xlNQmEVb7N0
 sources:
 - https://www.wikidata.org/wiki/Q11863123
 schema_version: 1
+director:
+- gaas-gugo
+- holman-jan-alfred
+screenwriter:
+- gaas-gugo
+cinematographer:
+- kheller-otto
+composer:
+- kalash-yulius
+cast:
+- person: shteymarova-irzhina
+- person: gaas-gugo
+- person: mandlova-adina
+- person: yanu-zorka
+- person: bogach-ladislav
+- person: likova-eva
+- person: langova-silva
+- person: deyl-rudolf-2
+- person: neyman-stanislav
+- person: roland-frantishek
+- person: pivets-yan
+- person: dognal-yirzhi
+- person: dostalova-leopolda
+- person: svozilova-svetla
+- person: balek-brodska-milka
+- person: majer-vladimir
+- person: jicinsky-karel-b
+- person: veverka-karel
+- person: q101078760
+- person: satoria-vekoslav
+- person: horutova-milada
+- person: dlesk-emil
+- person: pruner-vilem
+- person: veliskova-milena
+- person: pirkova-anci
+- person: vavrova-anna
+- person: zeniskova-erna
+- person: proskova-bobina
+- person: zeniskova-jana
+- person: svirtova-helena
+- person: gollwellova-inka
+- person: zeniskova-julie
+- person: svanda-karel

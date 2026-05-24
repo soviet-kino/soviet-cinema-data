@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q25668464
   imdb: tt5686692
+  youtube: K3k0dw5cLuk
 sources:
 - https://www.wikidata.org/wiki/Q25668464
 schema_version: 1
+director:
+- shestopalov-alfred-vasilevich
+cinematographer:
+- primisskiy-igor-filippovich
+composer:
+- stankovich-evgeniy-fyodorovich
+cast:
+- person: matveev-dmitriy-nikolaevich
+- person: naum-natalya-mikhaylovna
+- person: serdyuk-aleksandr-aleksandrovich
+studio:
+- ukrtelefilm

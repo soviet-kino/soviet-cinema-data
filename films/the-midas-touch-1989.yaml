@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q51121
 schema_version: 1
+director:
+- beremeney-geza
+screenwriter:
+- beremeney-geza
+cinematographer:
+- kardos-shandor
+composer:
+- darvash-ferents
+cast:
+- person: eperjes-karoly
+- person: eseni-enikyo
+- person: andorai-peter
+- person: pogany-judit
+- person: tot-barnabash
+- person: papcsik-andras
+studio:
+- hunnia-film-studio

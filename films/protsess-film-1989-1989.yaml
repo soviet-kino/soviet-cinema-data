@@ -9,3 +9,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q84994690
 schema_version: 1
+director:
+- simonov-aleksey-kirillovich
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- vasilkov-nikolay-aleksandrovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: kachan-vladimir-andreevich
+- person: steklov-vladimir-aleksandrovich
+studio:
+- mosfilm

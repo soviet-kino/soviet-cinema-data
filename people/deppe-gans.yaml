@@ -1,0 +1,9 @@
+id: deppe-gans
+name_ru: Ганс Деппе
+roles:
+- director
+external_ids:
+  wikidata: Q90063
+sources:
+- https://www.wikidata.org/wiki/Q90063
+schema_version: 1

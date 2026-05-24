@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1771333
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- turkin-valentin-konstantinovich
+composer:
+- vasilenko-sergey-nikiforovich
+cast:
+- person: koval-samborskiy-ivan-ivanovich
+- person: sten-anna
+- person: fogel-vladimir-petrovich
+- person: birman-serafima-germanovna
+- person: pol-pavel-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- mezhrabpom-rus
+poster_commons: Ragazza triangolo.jpg

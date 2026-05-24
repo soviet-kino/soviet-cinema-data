@@ -8,6 +8,17 @@ runtime_min: 67
 external_ids:
   wikidata: Q4507686
   imdb: tt0026201
+  youtube: Lp8xWI4D-tM
 sources:
 - https://www.wikidata.org/wiki/Q4507686
 schema_version: 1
+director:
+- macheret-aleksandr-veniaminovich
+screenwriter:
+- slavin-lev-isaevich
+cinematographer:
+- slavinskiy-evgeniy-iosifovich
+composer:
+- knipper-lev-konstantinovich
+cast:
+- person: livanov-boris-nikolaevich

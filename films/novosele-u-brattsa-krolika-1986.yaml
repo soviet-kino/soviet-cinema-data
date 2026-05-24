@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q16681500
   imdb: tt4264862
+  youtube: gtkHNJCQfec
 sources:
 - https://www.wikidata.org/wiki/Q16681500
 schema_version: 1
+director:
+- douksha-iosif-osipovich
+- buzinova-mayya-nikolaevna
+screenwriter:
+- sergienko-konstantin-konstantinovich
+composer:
+- babushkin-viktor-borisovich
+studio:
+- ekran

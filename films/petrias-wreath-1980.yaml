@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7178780
 schema_version: 1
+director:
+- srdzhan-karanovich
+screenwriter:
+- grlich-rayko
+cinematographer:
+- pinter-tomislav
+composer:
+- zoran-simyanovich
+cast:
+- person: miryana-karanovich
+- person: cvejic-branko
+- person: olivera-markovich
+- person: tatich-iosif
+- person: rade-markovich
+- person: nikolich-marko
+- person: vuisich-pavle
+- person: dragan-maksimovich
+- person: zhutich-milosh
+- person: tomich-milivo-e
+- person: mandich-velko
+- person: tadich-dushan
+- person: lupa-peter
+- person: kriticheski-liliana
+- person: q12959542
+studio:
+- centar-film

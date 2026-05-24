@@ -8,6 +8,14 @@ runtime_min: 20
 external_ids:
   wikidata: Q605042
   imdb: tt0496948
+  youtube: jrj6HCxq7OM
 sources:
 - https://www.wikidata.org/wiki/Q605042
 schema_version: 1
+director:
+- yashin-david-isaakovich
+screenwriter:
+- bryukhonenko-sergey-sergeevich
+studio:
+- tsentrnauchfilm
+poster_commons: Experiment1940.jpg

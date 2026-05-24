@@ -1,0 +1,9 @@
+id: tito-iosip-broz
+name_ru: Иосип Броз Тито
+roles:
+- actor
+external_ids:
+  wikidata: Q9161
+sources:
+- https://www.wikidata.org/wiki/Q9161
+schema_version: 1

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12835854
 schema_version: 1
+director:
+- ogly-mir-kasimov-oktay-mir-asadulla
+screenwriter:
+- zhukhovitskiy-leonid-aronovich
+- khazri-nabi
+cinematographer:
+- alekperov-alesker-gadzhi-aga-ogly
+composer:
+- ogly-babaev-rafik-farzi
+cast:
+- person: ogly-mamedov-gasan-agamamed
+- person: omarova-gamida-mamed-kyzy
+- person: ogly-turabov-gasan-sattar
+studio:
+- azerbaydzhanfilm

@@ -8,6 +8,48 @@ runtime_min: 85
 external_ids:
   wikidata: Q7728299
   imdb: tt0122574
+  youtube: QPL6SoxnjrY
 sources:
 - https://www.wikidata.org/wiki/Q7728299
 schema_version: 1
+director:
+- yiresh-yaromil
+screenwriter:
+- ashkenazi-lyudvik
+cinematographer:
+- kuchera-yaroslav
+composer:
+- bize-zhorzh
+- klusak-yan
+cast:
+- person: verikh-yan
+- person: abrgam-yozef
+- person: svobodova-eva
+- person: sloup-vatslav
+- person: vranova-gabriela
+- person: talpova-hana
+- person: ruzicka-ivan
+- person: pondelicek-ivo
+- person: nemecek-jiri
+- person: zahrynowska-milena
+- person: kabrt-josef
+- person: limanova-eva
+- person: kopecka-eva
+- person: zahorsky-richard
+- person: q101096076
+- person: sponarova-marie
+- person: q112346849
+- person: peckova-eva
+- person: peskova-jana
+- person: kvapil-jiri
+- person: krcmar-antonin
+- person: fingerlandova-helena
+- person: prochazkova-stanislava
+- person: bissingerova-ladislava
+- person: baborovska-eva
+- person: kristalova-helena
+- person: peleskova-jitka
+- person: otmar-ladislav
+- person: ossei-tutu
+studio:
+- barrandov

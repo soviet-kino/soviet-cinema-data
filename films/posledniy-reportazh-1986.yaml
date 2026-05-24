@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4373825
   imdb: tt2396625
+  youtube: _4Y-GfJA9j8
 sources:
 - https://www.wikidata.org/wiki/Q4373825
 schema_version: 1
+director:
+- ritenberga-dzidra
+composer:
+- brauns-martinsh
+cast:
+- person: taratorkin-georgiy-georgievich
+studio:
+- rizhskaya-kinostudiya

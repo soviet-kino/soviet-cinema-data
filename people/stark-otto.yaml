@@ -1,0 +1,9 @@
+id: stark-otto
+name_ru: Otto Stark
+roles:
+- actor
+external_ids:
+  wikidata: Q2040666
+sources:
+- https://www.wikidata.org/wiki/Q2040666
+schema_version: 1

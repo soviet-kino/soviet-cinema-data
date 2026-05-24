@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12047180
 schema_version: 1
+cast:
+- person: burian-vlasta

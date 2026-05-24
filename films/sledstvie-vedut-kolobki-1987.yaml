@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4423286
   imdb: tt3066856
+  youtube: 2eG_Le9T5PA
 sources:
 - https://www.wikidata.org/wiki/Q4423286
 schema_version: 1
+director:
+- tatarskiy-aleksandr-mikhaylovich
+- kovalyov-igor-adolfovich
+screenwriter:
+- uspenskiy-eduard
+cinematographer:
+- golomb-iosif-emmanuilovich
+composer:
+- chernavskiy-yuriy-aleksandrovich
+studio:
+- pilot
+- ekran

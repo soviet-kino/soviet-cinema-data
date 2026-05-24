@@ -1,0 +1,9 @@
+id: tarr-bela
+name_ru: Бела Тарр
+roles:
+- director
+external_ids:
+  wikidata: Q312944
+sources:
+- https://www.wikidata.org/wiki/Q312944
+schema_version: 1

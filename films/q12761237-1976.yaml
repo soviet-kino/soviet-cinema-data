@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761237
 schema_version: 1
+director:
+- gligorovic-borislav
+cast:
+- person: rankic-zoran

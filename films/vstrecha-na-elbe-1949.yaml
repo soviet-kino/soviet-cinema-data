@@ -8,6 +8,27 @@ runtime_min: 104
 external_ids:
   wikidata: Q1975020
   imdb: tt0042029
+  youtube: P0Etni9MdaY
 sources:
 - https://www.wikidata.org/wiki/Q1975020
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- sheynin-lev-romanovich
+- tur-leonid-davidovich
+- tur-pyotr-lvovich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: orlova-lyubov
+- person: ranevskaya-faina-georgievna
+- person: andreev-boris-fyodorovich
+- person: fayt-andrey-andreevich
+- person: garin-erast-pavlovich
+- person: davydov-vladlen-semyonovich
+- person: nassonov-konstantin
+studio:
+- mosfilm

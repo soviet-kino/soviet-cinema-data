@@ -1,0 +1,9 @@
+id: domjan-edit
+name_ru: Edit Domján
+roles:
+- actor
+external_ids:
+  wikidata: Q908375
+sources:
+- https://www.wikidata.org/wiki/Q908375
+schema_version: 1

@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28750101
 schema_version: 1
+director:
+- drozg-janez
+cast:
+- person: bibich-polde
+- person: sotlar-bert
+- person: mrzel-jerica

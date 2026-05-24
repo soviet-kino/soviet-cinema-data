@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475404
 schema_version: 1
+director:
+- gaal-ishtvan
+screenwriter:
+- gaal-ishtvan
+- mesyoy-miklosh
+cast:
+- person: banffy-gyorgy-2
+- person: kharshani-gabor
+- person: meszlery-judit
+- person: andonov-ivan-asenov
+- person: kertesz-peter

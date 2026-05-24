@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56677015
 schema_version: 1
+cast:
+- person: velkovska-kostadinka
+- person: dimitrov-bratislav

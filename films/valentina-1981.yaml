@@ -8,6 +8,15 @@ runtime_min: 93
 external_ids:
   wikidata: Q4102803
   imdb: tt0083274
+  youtube: Sisso7zDS5g
 sources:
 - https://www.wikidata.org/wiki/Q4102803
 schema_version: 1
+director:
+- panfilov-gleb
+cast:
+- person: churikova-inna
+- person: mikhaylova-darya
+- person: nakhapetov-rodion-rafailovich
+studio:
+- mosfilm

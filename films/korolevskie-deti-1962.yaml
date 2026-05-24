@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1796408
 schema_version: 1
+director:
+- bayer-frank
+screenwriter:
+- gorrish-walter
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- vertslau-yoakhim
+cast:
+- person: krug-manfred
+- person: naumann-gyunter
+- person: myuller-shtal-armin
+- person: delmare-fred
+- person: byurger-annekatrin
+- person: tayn-ulrikh
+- person: lennarts-monika
+- person: lendrikh-valter
+- person: gerke-klaus
+- person: legal-marga
+- person: veldre-erik
+- person: lau-gerkhard
+studio:
+- defa

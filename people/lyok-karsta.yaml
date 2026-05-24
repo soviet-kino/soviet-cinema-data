@@ -1,0 +1,9 @@
+id: lyok-karsta
+name_ru: Карста Лёк
+roles:
+- actor
+external_ids:
+  wikidata: Q87448
+sources:
+- https://www.wikidata.org/wiki/Q87448
+schema_version: 1

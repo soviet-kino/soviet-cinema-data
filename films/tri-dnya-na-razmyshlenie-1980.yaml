@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4462848
   imdb: tt4944818
+  youtube: SvDmsICQOBo
 sources:
 - https://www.wikidata.org/wiki/Q4462848
 schema_version: 1
+director:
+- kalnynsh-roland
+screenwriter:
+- kolbergs-andris
+cinematographer:
+- zvirbulis-miks
+composer:
+- karlsons-yuris
+cast:
+- person: tomkus-vitautas-romualdas
+studio:
+- rizhskaya-kinostudiya

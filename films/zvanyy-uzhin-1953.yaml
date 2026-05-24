@@ -8,6 +8,20 @@ runtime_min: 30
 external_ids:
   wikidata: Q15270635
   imdb: tt0055911
+  youtube: rhHGO9GVeVM
 sources:
 - https://www.wikidata.org/wiki/Q15270635
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+cinematographer:
+- dudko-apollinariy-ivanovich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: ilinskiy-igor-vladimirovich
+- person: zhukovskiy-boris-eliseevich
+- person: lisyanskaya-anna-grigorevna
+- person: mamaeva-nina-vasilevna
+studio:
+- lenfilm

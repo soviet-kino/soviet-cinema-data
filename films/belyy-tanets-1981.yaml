@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97168139
 schema_version: 1
+director:
+- vinogradov-valentin-nikolaevich
+screenwriter:
+- vinogradov-valentin-nikolaevich
+composer:
+- kantyukov-igor
+cast:
+- person: pavlov-viktor-pavlovich
+- person: kalnynsh-ivar
+- person: butyrtseva-nadezhda-viktorovna
+- person: potapov-aleksandr-sergeevich
+studio:
+- odesskaya-kinostudiya

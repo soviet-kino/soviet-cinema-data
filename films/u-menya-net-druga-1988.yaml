@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16514686
 schema_version: 1
+director:
+- balabanov-aleksey
+screenwriter:
+- balabanov-aleksey
+cast:
+- person: belkin-igor-nikolaevich
+- person: poleva-anastasiya-viktorovna
+studio:
+- sverdlovskaya-kinostudiya

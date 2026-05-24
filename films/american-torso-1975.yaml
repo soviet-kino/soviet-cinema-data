@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q42847581
 schema_version: 1
+director:
+- body-gabor
+screenwriter:
+- body-gabor
+cinematographer:
+- lugossy-istvan
+studio:
+- balazs-bela-studio

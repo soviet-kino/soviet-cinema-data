@@ -8,6 +8,19 @@ runtime_min: 100
 external_ids:
   wikidata: Q4173185
   imdb: tt0015959
+  youtube: jypLUrMdUNQ
 sources:
 - https://www.wikidata.org/wiki/Q4173185
 schema_version: 1
+director:
+- granovskiy-aleksey
+screenwriter:
+- babel-isaak
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- pulver-lev-mikhaylovich
+cast:
+- person: mikhoels-solomon
+studio:
+- goskino

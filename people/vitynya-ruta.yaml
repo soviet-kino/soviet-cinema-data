@@ -1,0 +1,9 @@
+id: vitynya-ruta
+name_ru: Рута Витыня
+roles:
+- actor
+external_ids:
+  wikidata: Q45200989
+sources:
+- https://www.wikidata.org/wiki/Q45200989
+schema_version: 1

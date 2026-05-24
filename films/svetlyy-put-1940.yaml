@@ -8,6 +8,18 @@ runtime_min: 101
 external_ids:
   wikidata: Q3456197
   imdb: tt0033119
+  youtube: AfKlQpNeI4U
 sources:
 - https://www.wikidata.org/wiki/Q3456197
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- ardov-viktor
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: orlova-lyubov
+- person: samoylov-evgeniy-valerianovich
+studio:
+- mosfilm

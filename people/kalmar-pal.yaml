@@ -1,0 +1,9 @@
+id: kalmar-pal
+name_ru: Пал Калмар
+roles:
+- actor
+external_ids:
+  wikidata: Q7264028
+sources:
+- https://www.wikidata.org/wiki/Q7264028
+schema_version: 1

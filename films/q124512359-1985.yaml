@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124512359
 schema_version: 1
+director:
+- batuleva-lilyana
+screenwriter:
+- tikholov-nikola
+cinematographer:
+- chichov-viktor
+composer:
+- genkov-georgiy
+cast:
+- person: mazgalov-stoycho

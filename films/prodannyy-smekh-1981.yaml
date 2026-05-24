@@ -8,6 +8,19 @@ runtime_min: 140
 external_ids:
   wikidata: Q4379915
   imdb: tt0162105
+  youtube: 69XM6PBG34w
 sources:
 - https://www.wikidata.org/wiki/Q4379915
 schema_version: 1
+director:
+- nechaev-leonid-alekseevich
+screenwriter:
+- vetkina-inna-ivanovna
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: prodan-aleksandr
+studio:
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+- belarusfilm

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4508544
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- annenskiy-isidor-markovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: zharov-mikhail-ivanovich
+- person: khmelyov-nikolay-pavlovich
+studio:
+- belarusfilm

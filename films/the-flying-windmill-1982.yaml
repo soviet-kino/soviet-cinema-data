@@ -8,6 +8,13 @@ runtime_min: 82
 external_ids:
   wikidata: Q1218241
   imdb: tt0162327
+  youtube: KbyQUdNkcsE
 sources:
 - https://www.wikidata.org/wiki/Q1218241
 schema_version: 1
+director:
+- ratz-gunter
+screenwriter:
+- ratz-gunter
+composer:
+- bauze-arndt

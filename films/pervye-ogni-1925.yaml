@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119240925
 schema_version: 1
+director:
+- tarich-yuriy-viktorovich
+screenwriter:
+- tarich-yuriy-viktorovich
+cinematographer:
+- shlyugleyt-david-abramovich
+cast:
+- person: antonov-aleksandr-pavlovich
+- person: barysheva-tatyana-semyonovna
+- person: zhukov-aleksandr-ivanovich
+studio:
+- goskino

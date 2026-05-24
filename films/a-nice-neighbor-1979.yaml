@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4658567
 schema_version: 1
+director:
+- kezdi-kovacs-zsolt
+cinematographer:
+- zhomboyai-yanosh
+cast:
+- person: sabo-laslo
+- person: bentse-ferents
+- person: dayka-margit
+- person: dyorner-giyorgi

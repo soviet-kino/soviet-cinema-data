@@ -8,6 +8,17 @@ runtime_min: 565
 external_ids:
   wikidata: Q4197028
   imdb: tt1369668
+  youtube: Y2J7Rwd-kLM
 sources:
 - https://www.wikidata.org/wiki/Q4197028
 schema_version: 1
+director:
+- sokolskiy-gennadiy-mikhaylovich
+screenwriter:
+- uspenskiy-eduard
+cinematographer:
+- druyan-mikhail
+composer:
+- meerovich-mikhail-aleksandrovich
+studio:
+- soyuzmultfilm

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55410832
 schema_version: 1
+director:
+- mladomir-dzhordzhevich
+screenwriter:
+- mladomir-dzhordzhevich
+cast:
+- person: tito-iosip-broz
+- person: dimitrov-georgiy

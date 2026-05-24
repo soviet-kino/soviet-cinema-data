@@ -8,6 +8,24 @@ runtime_min: 93
 external_ids:
   wikidata: Q4424092
   imdb: tt0170599
+  youtube: Na9ar5HYPrk
 sources:
 - https://www.wikidata.org/wiki/Q4424092
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+- pobedonostsev-yuriy-sergeevich
+screenwriter:
+- ivanuseva-lyudmila-fyodorovna
+cinematographer:
+- shatrov-igor-vladimirovich
+- martov-zhozef-klimentevich
+cast:
+- person: antonov-aleksandr-pavlovich
+- person: bityukov-boris-valentinovich
+- person: krepkogorskaya-muza-viktorovna
+- person: kubatskiy-anatoliy-lvovich
+- person: tsydynzhapov-gombozhap-tsydynzhapovich
+- person: shorokhova-rimma-ivanovna
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -1,0 +1,9 @@
+id: chaplin-charli
+name_ru: Чарли Чаплин
+roles:
+- composer
+external_ids:
+  wikidata: Q882
+sources:
+- https://www.wikidata.org/wiki/Q882
+schema_version: 1

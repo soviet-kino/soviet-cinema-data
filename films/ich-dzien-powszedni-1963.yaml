@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11710937
 schema_version: 1
+director:
+- stsibor-rylskiy-aleksandr
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- janczewski-jan
+composer:
+- berd-tadeush
+cast:
+- person: cybulski-zbigniew
+- person: brylska-barbara
+- person: barbara-krafftuvna
+- person: nemchik-leon
+- person: shlyonskaya-aleksandra
+- person: pechka-frantishek
+- person: zbignev-kochanovich
+- person: raksa-polya
+- person: kherder-andzhey
+- person: zbignev-yuzefovich
+- person: kucowna-zofia

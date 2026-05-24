@@ -1,0 +1,9 @@
+id: boruzesku-radu
+name_ru: Раду Борузеску
+roles:
+- actor
+external_ids:
+  wikidata: Q18538187
+sources:
+- https://www.wikidata.org/wiki/Q18538187
+schema_version: 1

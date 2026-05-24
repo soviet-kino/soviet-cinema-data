@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q228933
 schema_version: 1
+director:
+- shtranka-ervin
+cinematographer:
+- brand-peter
+composer:
+- shikora-uve
+cast:
+- person: khintse-petra
+- person: raynike-gans-peter
+- person: khasse-khanno
+- person: delmare-fred
+- person: khagen-eva-mariya
+- person: monika-voytovich
+- person: torka-zanie
+- person: lyudvig-fred
+- person: vandel-kharald
+- person: behrens-heinz
+- person: khaynrikh-yurgen
+- person: gerke-klaus
+- person: khebenshtrayt-pedro
+- person: kommerell-ruth
+studio:
+- defa

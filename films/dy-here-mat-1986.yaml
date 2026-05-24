@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11820770
 schema_version: 1
+director:
+- kapexhiu-bujar
+composer:
+- lalo-aleksander

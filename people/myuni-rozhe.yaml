@@ -1,0 +1,9 @@
+id: myuni-rozhe
+name_ru: Роже Мюни
+roles:
+- actor
+external_ids:
+  wikidata: Q16185232
+sources:
+- https://www.wikidata.org/wiki/Q16185232
+schema_version: 1

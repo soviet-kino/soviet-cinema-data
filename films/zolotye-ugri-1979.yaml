@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18915868
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- kakhinya-karel
+- hamsik-dusan
+cinematographer:
+- churzhik-yan
+composer:
+- fisher-lyubosh
+cast:
+- person: grushinskiy-rudolf
+- person: polochek-bronislav
+- person: brzobogaty-radoslav
+- person: maresh-vatslav
+- person: menshik-vladimir
+- person: munzar-lyudek
+- person: tsisler-irzhi
+- person: augusta-karel
+- person: balzerova-elishka
+- person: martinek-zdenek
+- person: hozova-miroslava
+- person: narenta-jindrich
+- person: q112431247
+- person: vorel-josef
+- person: zindel-zdenek
+- person: vejrostek-michal
+- person: murdych-tomas
+studio:
+- televidenie-v-chekhoslovakii
+- barrandov

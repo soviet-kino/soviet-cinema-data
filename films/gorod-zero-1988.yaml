@@ -8,6 +8,27 @@ runtime_min: 97
 external_ids:
   wikidata: Q3678422
   imdb: tt0095244
+  youtube: 12WwlJYarow
 sources:
 - https://www.wikidata.org/wiki/Q3678422
 schema_version: 1
+director:
+- shakhnazarov-karen
+screenwriter:
+- shakhnazarov-karen
+- borodyanskiy-aleksandr-emmanuilovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- artemyev-eduard
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: menshov-vladimir-valentinovich
+- person: filatov-leonid-alekseevich
+- person: evstigneev-evgeniy-aleksandrovich
+- person: basilashvili-oleg-valerianovich
+- person: arzhanik-elena-anatolevna
+- person: zharkov-aleksey-dmitrievich
+- person: shcherbakov-pyotr-ivanovich
+studio:
+- mosfilm

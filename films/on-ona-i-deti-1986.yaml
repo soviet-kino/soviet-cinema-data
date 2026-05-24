@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4334783
   imdb: tt0273917
+  youtube: R2SRUnSaZqw
 sources:
 - https://www.wikidata.org/wiki/Q4334783
 schema_version: 1
+composer:
+- vigners-ivars
+cast:
+- person: ozolinya-lilita-arvidovna
+studio:
+- rizhskaya-kinostudiya

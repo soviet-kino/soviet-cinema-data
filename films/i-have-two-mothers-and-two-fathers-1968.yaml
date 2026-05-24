@@ -8,6 +8,23 @@ runtime_min: 93
 external_ids:
   wikidata: Q5977555
   imdb: tt0063125
+  youtube: 7eC5193u-U4
 sources:
 - https://www.wikidata.org/wiki/Q5977555
 schema_version: 1
+director:
+- golik-kreso
+screenwriter:
+- senecic-zeljko
+cinematographer:
+- rajkovic-ivica
+composer:
+- tomislav-simovich
+cast:
+- person: mia-oremovich
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: galo-igor
+- person: chukich-vera
+studio:
+- yadran-film

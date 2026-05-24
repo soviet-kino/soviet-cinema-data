@@ -8,6 +8,25 @@ runtime_min: 74
 external_ids:
   wikidata: Q4501232
   imdb: tt0091335
+  youtube: vaN3OOGCHdk
 sources:
 - https://www.wikidata.org/wiki/Q4501232
 schema_version: 1
+director:
+- balayan-roman-gurgenovich
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kalyuta-vilen-aleksandrovich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: okudzhava-bulat
+- person: yankovsky-oleg
+- person: abdulov-aleksandr-gavrilovich
+- person: zbruev-aleksandr-viktorovich
+- person: drubich-tatyana-lyusenovna
+- person: kozakov-mikhail-mikhaylovich
+- person: adabashyan-aleksandr
+studio:
+- kinostudiya-imeni-a-dovzhenko

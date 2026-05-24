@@ -8,6 +8,23 @@ runtime_min: 91
 external_ids:
   wikidata: Q9335056
   imdb: tt0035304
+  youtube: gBezn81-XqM
 sources:
 - https://www.wikidata.org/wiki/Q9335056
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- prut-iosif-leonidovich
+cinematographer:
+- aretskiy-boris-solomonovich
+- pavlov-valentin-efimovich
+composer:
+- volskiy-boris-alekseevich
+cast:
+- person: ladynina-marina-alekseevna
+- person: zharov-mikhail-ivanovich
+- person: vanin-vasiliy-vasilevich
+- person: poslavskiy-boris-dmitrievich
+studio:
+- kazakhfilm

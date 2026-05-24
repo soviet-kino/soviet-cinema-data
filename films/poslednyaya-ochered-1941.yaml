@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4373865
 schema_version: 1
+director:
+- tasin-georgiy
+cinematographer:
+- demutskiy-daniil-porfirevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: novoseltsev-ivan-khrisanfovich
+- person: khvylya-aleksandr-leopoldovich

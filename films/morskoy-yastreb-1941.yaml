@@ -8,6 +8,24 @@ runtime_min: 70
 external_ids:
   wikidata: Q4303417
   imdb: tt0239667
+  youtube: Ru9Jg5G2be8
 sources:
 - https://www.wikidata.org/wiki/Q4303417
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- shpanov-nikolay-nikolaevich
+- mikhaylovskiy-andrey-pavlovich
+cinematographer:
+- ayzenberg-grigoriy-davydovich
+- kulish-yakov-savelevich
+composer:
+- vars-khenrik
+- milyutin-yuriy-sergeevich
+cast:
+- person: pereverzev-ivan-fyodorovich
+- person: fayt-andrey-andreevich
+studio:
+- uzbekfilm
+- odesskaya-kinostudiya

@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4497894
 schema_version: 1
+director:
+- frid-yan-borisovich
+cast:
+- person: moskvin-ivan-mikhaylovich
+- person: ilinskiy-igor-vladimirovich
+- person: merkurev-vasiliy-vasilevich
+- person: telegina-valentina-petrovna
+studio:
+- lenfilm

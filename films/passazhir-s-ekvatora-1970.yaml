@@ -8,6 +8,25 @@ runtime_min: 67
 external_ids:
   wikidata: Q15270903
   imdb: tt1882123
+  youtube: awV2eAftl04
 sources:
 - https://www.wikidata.org/wiki/Q15270903
 schema_version: 1
+director:
+- kurochkin-aleksandr-dmitrievich
+composer:
+- tariverdiev-mikael
+cast:
+- person: aleynikova-arina-petrovna
+- person: volkov-mikhail-davidovich
+- person: gorlov-nikolay
+- person: dovlatov-leonid-arkadevich
+- person: kenigson-vladimir-vladimirovich
+- person: martynov-aleksandr-sergeevich
+- person: okunev-leonid-grigorevich
+- person: tsyupa-vyacheslav-olegovich
+- person: yarenko-tamara-grigorevna
+- person: kryukov-yuri
+- person: chekulaev-yuriy-vladimirovich
+studio:
+- kinostudiya-imeni-m-gorkogo

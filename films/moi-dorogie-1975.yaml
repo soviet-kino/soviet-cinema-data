@@ -8,6 +8,19 @@ runtime_min: 67
 external_ids:
   wikidata: Q4299689
   imdb: tt4844964
+  youtube: XVtJtNkLMfE
 sources:
 - https://www.wikidata.org/wiki/Q4299689
 schema_version: 1
+director:
+- lupiy-yaroslav-vasilevich
+cinematographer:
+- karyuk-gennadiy-vasilevich
+composer:
+- afanasev-leonid
+cast:
+- person: menshov-vladimir-valentinovich
+- person: sokolova-lyubov-sergeevna
+- person: ovchinnikova-lyusena-ivanovna
+studio:
+- odesskaya-kinostudiya

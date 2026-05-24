@@ -8,6 +8,29 @@ runtime_min: 130
 external_ids:
   wikidata: Q4166530
   imdb: tt0266481
+  youtube: qcQBSj2AhCc
 sources:
 - https://www.wikidata.org/wiki/Q4166530
 schema_version: 1
+director:
+- akhadov-valeriy-bakievich
+- kurbanov-saydo-boboevich
+screenwriter:
+- slovin-leonid-semyonovich
+composer:
+- bakhor-firuz
+cast:
+- person: krachkovskaya-natalya-leonidovna
+- person: mukhamedzhanov-ato
+- person: nikonenko-sergey
+- person: vanin-aleksey-zakharovich
+- person: gusev-yuriy-evgenevich
+- person: zemlyanikin-vladimir-mikhaylovich
+- person: korshunov-aleksandr-viktorovich
+- person: kurbanov-saydo-boboevich
+- person: platonov-yuriy-andreevich
+- person: shklovskiy-oleg-mendeleevich
+- person: druz-yana-andreevna
+- person: tsakhilova-zemfira-avramovna
+studio:
+- tadzhikfilm

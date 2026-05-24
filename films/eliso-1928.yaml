@@ -8,6 +8,16 @@ runtime_min: 84
 external_ids:
   wikidata: Q12864130
   imdb: tt0018862
+  youtube: T70DjixVZJk
 sources:
 - https://www.wikidata.org/wiki/Q12864130
 schema_version: 1
+director:
+- shengelaya-nikolay-mikhaylovich
+screenwriter:
+- tretyakov-sergey-mikhaylovich
+- shengelaya-nikolay-mikhaylovich
+composer:
+- tuskiya-iona-iraklievich
+studio:
+- gruziya-film

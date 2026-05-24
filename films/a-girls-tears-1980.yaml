@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17006836
 schema_version: 1
+director:
+- damian-iosif
+cast:
+- person: vizan-dorel

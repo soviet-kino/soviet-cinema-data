@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16689633
 schema_version: 1
+director:
+- levin-moisey-zelikovich
+screenwriter:
+- bleyman-mikhail-yurevich
+composer:
+- strelnikov-nikolay-mikhaylovich
+cast:
+- person: zhuravlyov-dmitriy-nikolaevich
+studio:
+- lenfilm

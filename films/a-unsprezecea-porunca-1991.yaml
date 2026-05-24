@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12719822
 schema_version: 1
+director:
+- danelyuk-mircha
+screenwriter:
+- goma-paul
+cast:
+- person: danelyuk-mircha
+- person: barbora-sesiliya
+- person: konstantin-kostel
+- person: uritesku-valentin
+- person: flonda-virgil
+- person: kotimanis-konstantin

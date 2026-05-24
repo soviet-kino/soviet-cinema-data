@@ -8,6 +8,24 @@ runtime_min: 117
 external_ids:
   wikidata: Q4493025
   imdb: tt0035903
+  youtube: BRlIHq60x5M
 sources:
 - https://www.wikidata.org/wiki/Q4493025
 schema_version: 1
+director:
+- vasilev-sergey-dmitrievich
+- vasilev-georgiy-nikolaevich
+screenwriter:
+- vasilevy-bratya
+cinematographer:
+- dudko-apollinariy-ivanovich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: chirkov-boris-petrovich
+- person: babochkin-boris-andreevich
+- person: kryuchkov-nikolay-afanasevich
+- person: sverdlin-lev-naumovich
+- person: vanin-vasiliy-vasilevich
+studio:
+- kazakhfilm

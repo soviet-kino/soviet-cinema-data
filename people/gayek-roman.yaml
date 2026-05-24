@@ -1,0 +1,9 @@
+id: gayek-roman
+name_ru: Роман Гайек
+roles:
+- actor
+external_ids:
+  wikidata: Q101107670
+sources:
+- https://www.wikidata.org/wiki/Q101107670
+schema_version: 1

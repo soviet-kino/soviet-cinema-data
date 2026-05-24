@@ -8,6 +8,20 @@ runtime_min: 115
 external_ids:
   wikidata: Q4333533
   imdb: tt0051345
+  youtube: VB7Xv7Rthso
 sources:
 - https://www.wikidata.org/wiki/Q4333533
 schema_version: 1
+director:
+- lukov-leonid
+cinematographer:
+- kirillov-mikhail-nikolaevich
+cast:
+- person: stol-arandzhelovich
+- person: tadich-lyuba
+- person: felba-dragomir
+- person: plesha-branko
+- person: starcic-viktor
+- person: puzich-milan
+studio:
+- kinostudiya-imeni-m-gorkogo

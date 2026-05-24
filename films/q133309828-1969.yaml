@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q133309828
 schema_version: 1
+director:
+- gyorgy-palasthy
+screenwriter:
+- benchik-imre
+cinematographer:
+- forgacs-otto
+cast:
+- person: chakani-laslo
+- person: zoltan-latinovich
+- person: egri-istvan
+- person: koltai-yanosh
+- person: pechi-shandor
+studio:
+- mafilm

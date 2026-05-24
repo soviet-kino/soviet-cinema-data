@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12040670
 schema_version: 1
+director:
+- yasny-voytekh
+- kakhinya-karel
+screenwriter:
+- yasny-voytekh
+- kakhinya-karel
+- daniel-frantishek
+cinematographer:
+- yasny-voytekh
+- kakhinya-karel
+composer:
+- lucky-stepan
+cast:
+- person: bublikova-vera
+- person: olsovsky-kamil
+- person: bobek-bedrich
+- person: vitak-jaroslav

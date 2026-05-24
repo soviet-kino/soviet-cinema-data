@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q633836
 schema_version: 1
+director:
+- kosha-ferents
+screenwriter:
+- kosha-ferents
+- dendessi-imre
+- choori-shandor
+cinematographer:
+- shara-shandor
+cast:
+- person: gerbe-yanosh
+- person: kozak-andrash
+- person: molnar-tibor
+- person: rayz-yanosh

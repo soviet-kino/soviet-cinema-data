@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q77395310
 schema_version: 1
+director:
+- fekher-dyord
+screenwriter:
+- fekher-dyord
+cinematographer:
+- gurban-miklos
+composer:
+- vidovski-laslo
+cast:
+- person: derzhi-yanosh
+- person: khaumann-peter
+- person: pogany-judit
+studio:
+- magyar-televizio
+- q123900976

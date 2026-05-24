@@ -11,3 +11,44 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q95976876
 schema_version: 1
+director:
+- varkoni-zoltan
+screenwriter:
+- semesh-marianna
+- erdodi-yanos
+cinematographer:
+- khildebrand-ishtvan
+composer:
+- khidash-fridesh
+cast:
+- person: chakani-laslo
+- person: zoltan-latinovich
+- person: varkoni-zoltan
+- person: ruttkai-eva
+- person: sabo-ernyo
+- person: pager-antal
+- person: suliok-mariya
+- person: benko-gyula
+- person: barani-fridesh
+- person: tsuros-karola
+- person: deak-shandor
+- person: ungvari-laslo
+- person: farkas-antal
+- person: fono-zhozef
+- person: inke-laslo
+- person: kautski-yozhef
+- person: kovach-karoy
+- person: kollo-bela
+- person: lehoczky-zsuzsa
+- person: lote-attila
+- person: molnar-tibor
+- person: nagi-attila
+- person: imre-shinkovich
+- person: szakats-miklos
+- person: satmari-ishtvan
+- person: dajbukat-ilona
+- person: guyfri-zhurzh
+- person: garics-janos
+- person: arva-janos
+studio:
+- hunnia-studio

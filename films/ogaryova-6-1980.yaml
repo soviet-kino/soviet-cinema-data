@@ -8,6 +8,19 @@ runtime_min: 87
 external_ids:
   wikidata: Q4331015
   imdb: tt0081267
+  youtube: 4gb8JjPfMLE
 sources:
 - https://www.wikidata.org/wiki/Q4331015
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+screenwriter:
+- semyonov-yulian
+cinematographer:
+- klebanov-igor-semyonovich
+composer:
+- dmitriev-georgiy-petrovich
+cast:
+- person: lanovoy-vasiliy-semyonovich
+studio:
+- kinostudiya-imeni-m-gorkogo

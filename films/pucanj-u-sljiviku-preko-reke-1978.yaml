@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25461628
 schema_version: 1
+director:
+- shotra-zdravko
+cast:
+- person: zegarats-dushitsa
+- person: shtrlich-milan
+- person: cheyvan-adem

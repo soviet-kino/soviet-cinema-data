@@ -7,6 +7,21 @@ country:
 runtime_min: 65
 external_ids:
   wikidata: Q17046132
+  youtube: 77l835JvmnM
 sources:
 - https://www.wikidata.org/wiki/Q17046132
 schema_version: 1
+director:
+- navrotskiy-sigizmund-frantsevich
+composer:
+- turenkov-aleksey-evlampievich
+cast:
+- person: krylov-stepan-ivanovich
+- person: arkadev-arkadiy-ivanovich
+- person: zaychikov-vasiliy-fyodorovich
+- person: kapka-dmitriy-leontevich
+- person: konsovskiy-aleksey-anatolevich
+- person: kulakov-viktor-ivanovich
+- person: kusenko-olga-yakovlevna
+studio:
+- belarusfilm

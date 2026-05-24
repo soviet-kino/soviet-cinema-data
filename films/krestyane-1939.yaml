@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12841213
 schema_version: 1
+director:
+- ogly-mardanov-samed-ashum
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- ogly-tagizade-gadzhibekov-niyazi-zulfugar
+cast:
+- person: alekperov-alesker-gadzhi-aga-ogly
+- person: sidgi-rukhulla
+- person: afganly-rza
+- person: ogly-mardanov-mustafa-ashum
+- person: darably-rza
+- person: baykov-boris-pavlovich
+studio:
+- azerbaydzhanfilm

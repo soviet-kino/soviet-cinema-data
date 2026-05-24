@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5247582
 schema_version: 1
+director:
+- ezhi-kavalerovich
+screenwriter:
+- ezhi-kavalerovich
+- mikhalek-boleslav
+cinematographer:
+- sobotsinskiy-vitold
+- ezhi-lukashevich
+composer:
+- valyatsinskiy-adam
+cast:
+- person: kolund-ervin
+- person: komorovskaya-liliana
+- person: valchevskiy-marek
+- person: bista-khenrik
+- person: dushinskiy-ezhi
+- person: geyger-zbignev
+- person: zalivskiy-tomash
+- person: krasitskiy-andzhey
+- person: mrozhevskiy-zdzislav
+- person: fetting-edmund
+- person: kalita-yozef
+- person: graziewicz-andrzej
+- person: shenaykh-andzhey
+- person: szurmiej-szymon
+- person: teodorchik-tadeush
+- person: nanowski-wiktor
+- person: shimborskiy-zdzislav
+- person: bauman-adam
+- person: gzhibovskiy-andzhey
+studio:
+- studio-filmowe-kadr

@@ -8,6 +8,45 @@ runtime_min: 114
 external_ids:
   wikidata: Q104418572
   imdb: tt0053407
+  youtube: 4T9ySjGFCjs
 sources:
 - https://www.wikidata.org/wiki/Q104418572
 schema_version: 1
+director:
+- khelge-ladislav
+screenwriter:
+- khelge-ladislav
+- kriz-ivan
+cinematographer:
+- pechenka-ferdinand
+- novotny-yozef
+composer:
+- krivinka-gustav
+cast:
+- person: rehor-zdenek
+- person: grushinskiy-rudolf
+- person: pantik-yulius
+- person: adamcik-samuel
+- person: logniskiy-vatslav
+- person: bogdanova-blanka
+- person: shmida-bogumil
+- person: sykorova-maria
+- person: velen-oldrzhikh
+- person: mateyka-adam
+- person: bachletova-frida
+- person: adamcikova-olga
+- person: slegr-frantisek
+- person: navratil-arnost
+- person: seplavy-karel
+- person: kyzlink-vaclav
+- person: koza-josef
+- person: olejnicek-miroslav
+- person: rubasova-jana
+- person: suchanek-ladislav
+- person: klejzar-alois
+- person: macenauerova-jana
+- person: marustik-otto
+- person: siroka-maria
+- person: lateckova-rampakova-elena
+studio:
+- barrandov

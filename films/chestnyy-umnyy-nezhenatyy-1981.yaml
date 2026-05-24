@@ -8,6 +8,21 @@ runtime_min: 68
 external_ids:
   wikidata: Q30880487
   imdb: tt0238896
+  youtube: x6X5jdlacwI
 sources:
 - https://www.wikidata.org/wiki/Q30880487
 schema_version: 1
+director:
+- korenev-aleksey-aleksandrovich
+composer:
+- krylatov-evgeniy
+cast:
+- person: polskikh-galina
+- person: dyuzheva-marina
+- person: ermakov-aleksandr-yurevich
+- person: kuzmenkov-yuriy-aleksandrovich
+- person: prygunov-lev-georgievich
+- person: tashkova-tatyana-aleksandrovna
+- person: gennadiy-yalovich
+studio:
+- mosfilm

@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506348
 schema_version: 1
+director:
+- zhizhich-bogdan
+screenwriter:
+- senecic-zeljko
+cinematographer:
+- pinter-tomislav
+composer:
+- tomislav-simovich
+cast:
+- person: rade-markovich
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: kaloper-jagoda
+- person: karich-ana
+studio:
+- kroatiya-film

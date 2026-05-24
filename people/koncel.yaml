@@ -1,0 +1,9 @@
+id: koncel
+name_ru: Končel
+roles:
+- actor
+external_ids:
+  wikidata: Q133572490
+sources:
+- https://www.wikidata.org/wiki/Q133572490
+schema_version: 1

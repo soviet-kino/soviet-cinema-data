@@ -1,0 +1,9 @@
+id: wurm-petr
+name_ru: Petr Wurm
+roles:
+- actor
+external_ids:
+  wikidata: Q133328195
+sources:
+- https://www.wikidata.org/wiki/Q133328195
+schema_version: 1

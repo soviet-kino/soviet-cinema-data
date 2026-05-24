@@ -8,6 +8,24 @@ runtime_min: 121
 external_ids:
   wikidata: Q4128545
   imdb: tt0032104
+  youtube: 4-eLvivPuIk
 sources:
 - https://www.wikidata.org/wiki/Q4128545
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: gelovani-mikhail-georgievich
+- person: chirkov-boris-petrovich
+- person: kryuchkov-nikolay-afanasevich
+- person: merkurev-vasiliy-vasilevich
+studio:
+- lenfilm
+poster_commons: Плакат к фильму «Выборгская сторона».jpg

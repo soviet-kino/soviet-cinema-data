@@ -1,0 +1,9 @@
+id: radok-alfred
+name_ru: Альфред Радок
+roles:
+- director
+external_ids:
+  wikidata: Q1401223
+sources:
+- https://www.wikidata.org/wiki/Q1401223
+schema_version: 1

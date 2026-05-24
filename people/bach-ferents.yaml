@@ -1,0 +1,9 @@
+id: bach-ferents
+name_ru: Ференц Бач
+roles:
+- actor
+external_ids:
+  wikidata: Q852559
+sources:
+- https://www.wikidata.org/wiki/Q852559
+schema_version: 1

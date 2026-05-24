@@ -8,6 +8,17 @@ runtime_min: 70
 external_ids:
   wikidata: Q282535
   imdb: tt0230453
+  youtube: kuLboP_-QL8
 sources:
 - https://www.wikidata.org/wiki/Q282535
 schema_version: 1
+director:
+- rytsarev-boris-vladimirovich
+screenwriter:
+- rytsarev-boris-vladimirovich
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- chaykovskiy-pyotr-ilich
+studio:
+- kinostudiya-imeni-m-gorkogo

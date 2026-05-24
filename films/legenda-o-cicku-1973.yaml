@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q59134161
 schema_version: 1
+cast:
+- person: puletic-bosko

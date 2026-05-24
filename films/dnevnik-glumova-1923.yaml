@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3223723
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+cast:
+- person: eyzenshteyn-sergey-mikhaylovich
+- person: antonov-aleksandr-pavlovich
+- person: aleksandrov-grigoriy-vasilevich
+- person: shtraukh-maksim-maksimovich

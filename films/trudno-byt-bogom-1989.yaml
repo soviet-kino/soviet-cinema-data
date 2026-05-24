@@ -8,6 +8,38 @@ runtime_min: 135
 external_ids:
   wikidata: Q552734
   imdb: tt0097292
+  youtube: L1wFZY7c9Kw
 sources:
 - https://www.wikidata.org/wiki/Q552734
 schema_version: 1
+director:
+- flyayshman-peter
+screenwriter:
+- strugatsky-boris
+- strugatsky-arkady
+- flyayshman-peter
+- karrer-zhan-klod
+- christin-pierre
+- orlov-dal-konstantinovich
+cinematographer:
+- lebeshev-pavel-timofeevich
+composer:
+- fritz-jurgen
+cast:
+- person: khertsog-verner
+- person: kaufman-kristina
+- person: yankovsky-oleg
+- person: khannikat-geyl
+- person: adomaytis-regimantas
+- person: doll-birgit
+- person: klemanti-per
+- person: zhentara-edvard
+- person: gluzskiy-mikhail-andreevich
+- person: off-markus
+- person: kester-yug
+- person: boltnev-andrey-nikolaevich
+- person: litsitis-arnis
+- person: filippenko-aleksandr-georgievich
+- person: gote-ann
+studio:
+- kinostudiya-imeni-a-dovzhenko

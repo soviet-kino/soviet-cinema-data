@@ -1,0 +1,9 @@
+id: ketching-bill
+name_ru: Билл Кэтчинг
+roles:
+- actor
+external_ids:
+  wikidata: Q15297026
+sources:
+- https://www.wikidata.org/wiki/Q15297026
+schema_version: 1

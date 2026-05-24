@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6651056
 schema_version: 1
+director:
+- metsger-redli
+cinematographer:
+- dzhura-khans
+cast:
+- person: raukh-zigfrid

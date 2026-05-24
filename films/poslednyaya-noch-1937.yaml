@@ -8,6 +8,21 @@ runtime_min: 98
 external_ids:
   wikidata: Q4373858
   imdb: tt0028131
+  youtube: vOGcZEMxoHw
 sources:
 - https://www.wikidata.org/wiki/Q4373858
 schema_version: 1
+director:
+- rayzman-yuliy-yakovlevich
+screenwriter:
+- rayzman-yuliy-yakovlevich
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- veprik-aleksandr-moiseevich
+cast:
+- person: pelttser-ivan-romanovich
+studio:
+- mosfilm
+poster_commons: Кадр из фильма «Последняя ночь» (СССР, 1936).jpg

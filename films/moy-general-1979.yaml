@@ -8,6 +8,25 @@ runtime_min: 128
 external_ids:
   wikidata: Q16677366
   imdb: tt1720727
+  youtube: Y4rfH-NZP4g
 sources:
 - https://www.wikidata.org/wiki/Q16677366
 schema_version: 1
+director:
+- benkendorf-andrey-aleksandrovich
+screenwriter:
+- likhanov-albert-anatolevich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- zubtsov-evgeniy-nikitovich
+cast:
+- person: grinko-nikolai
+- person: zhakov-oleg-petrovich
+- person: ilich-zharikov-evgeniy
+- person: arinina-lyudmila
+- person: gvozdikova-natalya-fyodorovna
+- person: miroshnichenko-viktor-nikolaevich
+- person: podgornyy-sergey-aleksandrovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

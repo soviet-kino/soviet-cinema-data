@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56876013
 schema_version: 1
+director:
+- vins-zdenek
+screenwriter:
+- kubicek-jiri
+cinematographer:
+- muller-jan
+- malik-vladimir
+composer:
+- vatsek-milosh
+studio:
+- jiri-trnka-studio

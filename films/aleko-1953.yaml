@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4060819
 schema_version: 1
+director:
+- ilich-sidelyov-sergey
+screenwriter:
+- nemirovich-danchenko-vladimir-ivanovich
+cast:
+- person: reyzen-mark-osipovich
+- person: zubkovskaya-inna-borisovna
+- person: kuznetsov-svyatoslav-petrovich
+- person: ognivtsev-aleksandr-pavlovich
+studio:
+- lenfilm

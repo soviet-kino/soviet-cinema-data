@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q4351217
   imdb: tt0353871
+  youtube: vnujFlMQM3s
 sources:
 - https://www.wikidata.org/wiki/Q4351217
 schema_version: 1
+director:
+- viktorov-richard-nikolaevich
+screenwriter:
+- khmelik-aleksandr-grigorevich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: proklova-elena-igorevna
+studio:
+- kinostudiya-imeni-m-gorkogo

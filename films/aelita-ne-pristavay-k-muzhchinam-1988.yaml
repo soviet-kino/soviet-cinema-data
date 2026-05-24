@@ -8,6 +8,18 @@ runtime_min: 89
 external_ids:
   wikidata: Q4073634
   imdb: tt0126775
+  youtube: QZNBUKzsPLE
 sources:
 - https://www.wikidata.org/wiki/Q4073634
 schema_version: 1
+director:
+- natanson-georgiy-grigorevich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- tariverdiev-mikael
+cast:
+- person: gaft-valentin-iosifovich
+- person: gundareva-natalya-georgievna
+studio:
+- mosfilm

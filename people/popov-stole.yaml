@@ -1,0 +1,9 @@
+id: popov-stole
+name_ru: Столе Попов
+roles:
+- director
+external_ids:
+  wikidata: Q3070876
+sources:
+- https://www.wikidata.org/wiki/Q3070876
+schema_version: 1

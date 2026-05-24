@@ -1,0 +1,9 @@
+id: kaldi-nora
+name_ru: Нора Кальди
+roles:
+- actor
+external_ids:
+  wikidata: Q1122793
+sources:
+- https://www.wikidata.org/wiki/Q1122793
+schema_version: 1

@@ -8,6 +8,11 @@ runtime_min: 89
 external_ids:
   wikidata: Q118793117
   imdb: tt0307356
+  youtube: 4wyaugzLm-0
 sources:
 - https://www.wikidata.org/wiki/Q118793117
 schema_version: 1
+director:
+- volkov-viktor-grigorevich
+studio:
+- kinostudiya-imeni-m-gorkogo

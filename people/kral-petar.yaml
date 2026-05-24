@@ -1,0 +1,9 @@
+id: kral-petar
+name_ru: Петар Краль
+roles:
+- actor
+external_ids:
+  wikidata: Q1566279
+sources:
+- https://www.wikidata.org/wiki/Q1566279
+schema_version: 1

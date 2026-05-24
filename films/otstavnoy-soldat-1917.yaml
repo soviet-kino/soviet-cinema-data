@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q121841111
 schema_version: 1
+director:
+- balog-bela
+cast:
+- person: bolvary-helene-von
+- person: vandory-gusztav
+- person: peteo-attila
+- person: boyda-juci

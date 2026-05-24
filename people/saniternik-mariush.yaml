@@ -1,0 +1,9 @@
+id: saniternik-mariush
+name_ru: Мариуш Санитерник
+roles:
+- actor
+external_ids:
+  wikidata: Q11770201
+sources:
+- https://www.wikidata.org/wiki/Q11770201
+schema_version: 1

@@ -8,6 +8,11 @@ runtime_min: 75
 external_ids:
   wikidata: Q111241188
   imdb: tt0305486
+  youtube: uDvMg-kP3gA
 sources:
 - https://www.wikidata.org/wiki/Q111241188
 schema_version: 1
+director:
+- solodukhin-mikhail
+studio:
+- mosfilm

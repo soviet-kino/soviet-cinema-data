@@ -8,6 +8,25 @@ runtime_min: 86
 external_ids:
   wikidata: Q12960346
   imdb: tt0038638
+  youtube: KmIFXZsCUCQ
 sources:
 - https://www.wikidata.org/wiki/Q12960346
 schema_version: 1
+director:
+- tisse-eduard-kazimirovich
+- room-abram-matveevich
+screenwriter:
+- mdivani-georgiy
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- biryukov-yuriy-sergeevich
+cast:
+- person: stupitsa-boyan
+- person: africh-vekoslav
+- person: zhizneva-olga-andreevna
+- person: sanaev-vsevolod-vasilevich
+- person: bersenev-ivan-nikolaevich
+- person: mordvinov-nikolay-dmitrievich
+studio:
+- mosfilm

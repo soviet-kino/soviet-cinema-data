@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11788482
 schema_version: 1
+director:
+- milkani-piro
+composer:
+- zadeja-cesk

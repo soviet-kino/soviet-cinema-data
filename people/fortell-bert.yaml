@@ -1,0 +1,9 @@
+id: fortell-bert
+name_ru: Берт Фортелл
+roles:
+- actor
+external_ids:
+  wikidata: Q90386
+sources:
+- https://www.wikidata.org/wiki/Q90386
+schema_version: 1

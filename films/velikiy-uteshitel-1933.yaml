@@ -8,6 +8,19 @@ runtime_min: 95
 external_ids:
   wikidata: Q4106591
   imdb: tt0024728
+  youtube: Th8CPiTheCA
 sources:
 - https://www.wikidata.org/wiki/Q4106591
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- kuleshov-lev-vladimirovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: khokhlova-aleksandra-sergeevna
+- person: novoseltsev-ivan-khrisanfovich
+- person: khokhlov-konstantin-pavlovich
+studio:
+- mezhrabpomfilm

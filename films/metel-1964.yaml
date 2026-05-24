@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3824645
 schema_version: 1
+director:
+- basov-vladimir-pavlovich
+screenwriter:
+- basov-vladimir-pavlovich
+cinematographer:
+- vronskiy-sergey-arkadevich
+composer:
+- sviridov-georgiy
+cast:
+- person: vidov-oleg-borisovich
+- person: titova-valentina-antipovna
+- person: martynyuk-georgiy-yakovlevich
+studio:
+- mosfilm

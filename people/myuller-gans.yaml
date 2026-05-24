@@ -1,0 +1,9 @@
+id: myuller-gans
+name_ru: Ганс Мюллер
+roles:
+- director
+external_ids:
+  wikidata: Q97775
+sources:
+- https://www.wikidata.org/wiki/Q97775
+schema_version: 1

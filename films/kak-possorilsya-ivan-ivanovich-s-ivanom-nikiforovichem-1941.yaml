@@ -8,6 +8,24 @@ runtime_min: 70
 external_ids:
   wikidata: Q4208840
   imdb: tt0252583
+  youtube: w-KqEkbNAtU
 sources:
 - https://www.wikidata.org/wiki/Q4208840
 schema_version: 1
+director:
+- mazur-anisim
+- kustov-andrey-klementevich
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- starokadomskiy-mikhail-leonidovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: barabanova-mariya-pavlovna
+- person: blinnikov-sergey-kapitonovich
+- person: khvylya-aleksandr-leopoldovich
+- person: popov-vladimir-aleksandrovich
+studio:
+- soyuzdetfilm

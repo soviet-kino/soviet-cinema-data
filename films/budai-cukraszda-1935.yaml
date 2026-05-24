@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q850866
 schema_version: 1
+director:
+- gaal-bela
+screenwriter:
+- gaal-bela
+cinematographer:
+- eiben-istvan
+cast:
+- person: kabosh-gyula
+- person: gozon-gyula
+- person: pertsel-zita
+studio:
+- hunnia-film-studio
+poster_commons: Somlay Artúr és Perczel Zita, Budai cukrászda (Színházi Élet, 1935).jpg

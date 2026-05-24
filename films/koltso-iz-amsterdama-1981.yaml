@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4228995
 schema_version: 1
+director:
+- chebotaryov-vladimir-aleksandrovich
+screenwriter:
+- vostokov-vladimir-vladimirovich
+- gribanov-oleg-mikhaylovich
+- shmelyov-oleg-mikhaylovich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: zbruev-aleksandr-viktorovich
+- person: larionov-vsevolod-dmitrievich
+- person: paul-paulovich-butkevich
+- person: volkov-mikhail-davidovich
+- person: korolkov-gennadiy-anatolevich
+studio:
+- mosfilm

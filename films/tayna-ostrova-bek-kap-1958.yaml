@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2353193
 schema_version: 1
+director:
+- zeman-karel
+screenwriter:
+- zeman-karel
+- grubin-frantishek
+- brdechka-irzhi
+cinematographer:
+- tarantik-irzhi
+composer:
+- lishka-zdenek
+cast:
+- person: simenek-otto
+- person: bryo-feliks-le
+- person: babka-vaclav
+- person: tokosh-lubor
+- person: kholub-miroslav
+- person: kreuzmannova-alena
+- person: rekhak-frantishek
+- person: slegr-frantisek
+- person: navratil-arnost
+- person: kyzlink-vaclav
+- person: zatloukalova-yana
+studio:
+- kratky-film-praha
+- kinostudiya-gotvaldova
+poster_commons: Fabworldofjulesverne.jpg

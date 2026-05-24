@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25462506
 schema_version: 1
+cinematographer:
+- peter-lalovich
+cast:
+- person: vuisich-pavle
+- person: zablacanski-milenko
+- person: zegarats-dushitsa
+- person: miodrag-radovanovich

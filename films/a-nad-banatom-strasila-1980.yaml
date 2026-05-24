@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748007
 schema_version: 1
+director:
+- boro-stepanovich
+screenwriter:
+- zoran-petrovich
+cast:
+- person: boro-stepanovich

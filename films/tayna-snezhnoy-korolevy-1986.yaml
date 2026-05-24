@@ -8,6 +8,20 @@ runtime_min: 140
 external_ids:
   wikidata: Q4449925
   imdb: tt0092043
+  youtube: KWXo5HHPtpE
 sources:
 - https://www.wikidata.org/wiki/Q4449925
 schema_version: 1
+director:
+- aleksandrovich-nikolay-viktorovich
+screenwriter:
+- korostylyov-vadim-nikolaevich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: freyndlikh-alisa
+- person: efremov-oleg-nikolaevich
+- person: gomiashvili-nina-archilovna
+- person: puzyrevskiy-yan-yulevich
+studio:
+- ekran

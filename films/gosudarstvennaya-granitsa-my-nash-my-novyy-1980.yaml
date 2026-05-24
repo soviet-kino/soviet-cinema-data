@@ -8,6 +8,27 @@ runtime_min: 133
 external_ids:
   wikidata: Q15270570
   imdb: tt0193199
+  youtube: HD6n-JtQQaM
 sources:
 - https://www.wikidata.org/wiki/Q15270570
 schema_version: 1
+director:
+- stepanov-boris-mikhaylovich
+screenwriter:
+- ryabov-geliy
+- nagornyy-aleksey-petrovich
+cinematographer:
+- olifer-boris-alekseevich
+composer:
+- khagagortyan-eduard
+cast:
+- person: artmane-viya
+- person: kayurov-yuriy-ivanovich
+- person: starygin-igor-vladimirovich
+- person: aktyor-denisov-aleksandr-petrovich
+- person: dyuzheva-marina
+- person: livanov-aristarkh-evgenevich
+- person: milovanov-avgustin-lazarevich
+- person: romanov-ernst-ivanovich
+studio:
+- belarusfilm

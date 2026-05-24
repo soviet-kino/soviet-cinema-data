@@ -1,0 +1,9 @@
+id: beyrd-garri
+name_ru: Гарри Бейрд
+roles:
+- actor
+external_ids:
+  wikidata: Q505093
+sources:
+- https://www.wikidata.org/wiki/Q505093
+schema_version: 1

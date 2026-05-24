@@ -1,0 +1,9 @@
+id: milkani-piro
+name_ru: Пиро Милькани
+roles:
+- director
+external_ids:
+  wikidata: Q3303180
+sources:
+- https://www.wikidata.org/wiki/Q3303180
+schema_version: 1

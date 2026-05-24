@@ -8,6 +8,19 @@ runtime_min: 93
 external_ids:
   wikidata: Q4212007
   imdb: tt0137868
+  youtube: Ox9TrL7kLL8
 sources:
 - https://www.wikidata.org/wiki/Q4212007
 schema_version: 1
+director:
+- tsyplakova-elena-oktyabrevna
+screenwriter:
+- beloshnikov-sergey-vladimirovich
+- ageev-igor-valentinovich
+cinematographer:
+- karavaev-elizbar
+cast:
+- person: stotskiy-nikolay-viktorovich
+- person: kravchenko-valeriy-pavlovich
+studio:
+- mosfilm

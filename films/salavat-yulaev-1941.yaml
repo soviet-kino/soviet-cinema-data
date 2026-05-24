@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7403723
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- zlobin-stepan-pavlovich
+cinematographer:
+- shelenkov-aleksandr-vladimirovich
+composer:
+- khachaturyan-aram
+cast:
+- person: kryuchkov-nikolay-afanasevich
+- person: millyar-georgiy-frantsevich
+- person: gorlov-nikolay
+- person: mubaryakov-arslan-kotlyakhmetovich
+- person: syrtlanov-rim
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

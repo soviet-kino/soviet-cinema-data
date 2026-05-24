@@ -1,0 +1,9 @@
+id: rikls-don
+name_ru: Дон Риклс
+roles:
+- actor
+external_ids:
+  wikidata: Q269890
+sources:
+- https://www.wikidata.org/wiki/Q269890
+schema_version: 1

@@ -8,6 +8,24 @@ runtime_min: 96
 external_ids:
   wikidata: Q1964422
   imdb: tt0040585
+  youtube: 0R4IpSoZEwE
 sources:
 - https://www.wikidata.org/wiki/Q1964422
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- kosmatov-leonid
+- kun-yuliy-mikhaylovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: lyubimov-yuriy-petrovich
+- person: zharov-mikhail-ivanovich
+- person: belov-grigoriy-akinfovich
+- person: khokhryakov-viktor-ivanovich
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: rabl-cenek
+name_ru: Čeněk Rábl
+roles:
+- actor
+external_ids:
+  wikidata: Q133444886
+sources:
+- https://www.wikidata.org/wiki/Q133444886
+schema_version: 1

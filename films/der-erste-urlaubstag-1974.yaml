@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q76451165
 schema_version: 1
+director:
+- engel-richard
+composer:
+- khayking-volfram

@@ -1,0 +1,9 @@
+id: bromli-sidni
+name_ru: Сидни Бромли
+roles:
+- actor
+external_ids:
+  wikidata: Q535077
+sources:
+- https://www.wikidata.org/wiki/Q535077
+schema_version: 1

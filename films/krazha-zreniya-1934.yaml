@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4237436
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+screenwriter:
+- kassil-lev-abramovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: galadzhev-pyotr-stepanovich
+- person: kravchenko-galina-sergeevna
+studio:
+- mezhrabpomfilm

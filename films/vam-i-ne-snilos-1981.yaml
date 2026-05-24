@@ -8,6 +8,23 @@ runtime_min: 86
 external_ids:
   wikidata: Q4103178
   imdb: tt0153489
+  youtube: K7nTbO8kMAo
 sources:
 - https://www.wikidata.org/wiki/Q4103178
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- frez-ilya-abramovich
+- shcherbakova-galina-nikolaevna
+cinematographer:
+- tutunov-gasan
+composer:
+- rybnikov-aleksey
+cast:
+- person: solovey-elena-yakovlevna
+- person: miroshnichenko-irina-petrovna
+- person: aksyuta-tatyana-vladimirovna
+- person: mikhaylovskiy-nikita-viktorovich
+studio:
+- kinostudiya-imeni-m-gorkogo

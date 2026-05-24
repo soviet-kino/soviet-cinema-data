@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20514089
 schema_version: 1
+director:
+- melkonyan-gennadiy
+cinematographer:
+- vartanov-mikhail
+cast:
+- person: dzhanibekyan-mikael
+- person: sarkisov-leonard-sarkisovich
+- person: abalyan-nina
+- person: tumanyan-alla
+- person: adamyan-ashot
+- person: dzhangirov-karen-sergeevich
+- person: stepanyan-vigen
+- person: melkonyan-gennadiy
+- person: mkrtumyan-zhenya
+- person: markosyan-karl
+studio:
+- armenfilm

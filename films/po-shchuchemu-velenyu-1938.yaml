@@ -8,6 +8,21 @@ runtime_min: 56
 external_ids:
   wikidata: Q4366127
   imdb: tt0030593
+  youtube: Z61qQq22K-E
 sources:
 - https://www.wikidata.org/wiki/Q4366127
 schema_version: 1
+director:
+- rou-aleksandr-arturovich
+screenwriter:
+- tarakhovskaya-elizaveta-yakovlevna
+cinematographer:
+- gorchilin-ivan-dmitrievich
+composer:
+- kochetov-vladimir
+cast:
+- person: millyar-georgiy-frantsevich
+- person: savin-pyotr-nikolaevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

@@ -9,3 +9,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106937820
 schema_version: 1
+director:
+- maalouf-youssef
+cinematographer:
+- q110260302
+cast:
+- person: karioka-takhya
+- person: yasin-esmaeil
+- person: sedi-zinat
+- person: fayek-hassan

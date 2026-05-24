@@ -11,3 +11,44 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4412809
 schema_version: 1
+director:
+- rybkovskiy-yan
+screenwriter:
+- kruchkovskiy-leon
+- rybkovskiy-yan
+cinematographer:
+- lyambakh-boguslav
+composer:
+- kiselevskiy-stefan
+cast:
+- person: khoynatskaya-yadviga
+- person: lapinskiy-stanislav
+- person: barbara-krafftuvna
+- person: endrusik-kalina
+- person: beata-tyshkevich
+- person: modzhinska-urshulya
+- person: shaflyarskaya-danuta
+- person: nemchik-leon
+- person: lapitskiy-andzhey
+- person: vilgelmi-roman
+- person: makhulskiy-yan
+- person: milskiy-stanislav
+- person: hecht-bernard
+- person: baer-bogdan
+- person: emil-karevich
+- person: kempinskaya-elzhbeta
+- person: luchitskaya-vanda
+- person: mrozhevskiy-zdzislav
+- person: khoravyanka-barbara
+- person: shevchik-mikhal
+- person: gogolevskiy-ignatsy
+- person: kurylyuk-yadviga
+- person: mlodnitskiy-artur
+- person: mayda-bogdana
+- person: zbignev-yuzefovich
+- person: lubelski-zdzis-aw
+- person: vodynskaya-danuta
+- person: peratskiy-yuzef
+- person: khobot-zhigmunt
+studio:
+- rytm-kinostudiya

@@ -8,6 +8,34 @@ runtime_min: 91
 external_ids:
   wikidata: Q4128977
   imdb: tt0092185
+  youtube: 916D6GTfFto
 sources:
 - https://www.wikidata.org/wiki/Q4128977
 schema_version: 1
+director:
+- gordon-aleksandr-vitalevich
+composer:
+- sidelnikov-nikolay-nikolaevich
+cast:
+- person: galkin-vladislav
+- person: vitorgan-emmanuil-gedeonovich
+- person: golubitskiy-oleg-borisovich
+- person: dupak-nikolay-lukyanovich
+- person: zolotnitskiy-aleksey-alekseevich
+- person: ivashchenko-aleksey
+- person: izotova-veronika-eduardovna
+- person: kochegarov-nikolay-borisovich
+- person: kronberg-larisa-ivanovna
+- person: shcherbakov-boris-vasilevich
+- person: makagonova-roza-ivanovna
+- person: martirosyan-georgiy-khachaturovich
+- person: metlitskaya-irina-yurevna
+- person: movchan-aleksandr-andreevich
+- person: torkiani-leonid-igorevich
+- person: khimichev-boris-petrovich
+- person: yatsko-aleksandr
+- person: vilskiy-vadim-konstantinovich
+- person: bolshov-vladimir-ivanovich
+- person: priselkov-sergey-aleksandrovich
+studio:
+- mosfilm

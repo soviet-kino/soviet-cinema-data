@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187396
 schema_version: 1
+director:
+- zhizhich-bogdan
+cast:
+- person: sovagovic-fabijan
+- person: ivitsa-vidovich
+- person: lepetich-zvonko

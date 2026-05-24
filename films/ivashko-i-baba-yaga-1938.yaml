@@ -8,6 +8,20 @@ runtime_min: 11
 external_ids:
   wikidata: Q4197050
   imdb: tt2386486
+  youtube: 4lIbnY712Sg
 sources:
 - https://www.wikidata.org/wiki/Q4197050
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+cinematographer:
+- krylova-k
+composer:
+- aleksandrov-anatoliy-nikolaevich
+studio:
+- soyuzmultfilm
+poster_commons: Ivashko.jpg

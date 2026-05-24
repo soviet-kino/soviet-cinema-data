@@ -8,6 +8,17 @@ runtime_min: 7
 external_ids:
   wikidata: Q4922226
   imdb: tt1240905
+  youtube: 6EV41Xna5p4
 sources:
 - https://www.wikidata.org/wiki/Q4922226
 schema_version: 1
+director:
+- ivanov-vano-ivan
+- amalrik-leonid-alekseevich
+screenwriter:
+- sklyut-iosif
+- kovalenko-aleksandr
+composer:
+- gamburg-grigoriy-semyonovich
+studio:
+- mezhrabpomfilm

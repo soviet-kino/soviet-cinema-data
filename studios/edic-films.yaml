@@ -1,0 +1,8 @@
+id: edic-films
+name_ru: Edic Films
+country: BG
+external_ids:
+  wikidata: Q112111902
+sources:
+- https://www.wikidata.org/wiki/Q112111902
+schema_version: 1

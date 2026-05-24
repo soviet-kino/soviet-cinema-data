@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q57204670
 schema_version: 1
+composer:
+- engerling

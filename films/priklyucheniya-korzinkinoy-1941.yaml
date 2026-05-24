@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4378420
   imdb: tt4518318
+  youtube: rD1cU-hWiWU
 sources:
 - https://www.wikidata.org/wiki/Q4378420
 schema_version: 1
+director:
+- mints-klimentiy-borisovich
+screenwriter:
+- mints-klimentiy-borisovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: zheymo-yanina-boleslavovna
+studio:
+- lenfilm

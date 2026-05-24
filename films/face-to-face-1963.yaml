@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3507789
 schema_version: 1
+director:
+- bauer-branko
+cast:
+- person: srdoch-milan
+- person: kojadinovic-ugljesa
+- person: dzhuritsko-tomaniya
+- person: vladimir-popovich

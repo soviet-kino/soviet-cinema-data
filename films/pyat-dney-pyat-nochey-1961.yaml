@@ -8,6 +8,35 @@ runtime_min: 107
 external_ids:
   wikidata: Q442853
   imdb: tt0170478
+  youtube: cxfCGhUxMIE
 sources:
 - https://www.wikidata.org/wiki/Q442853
 schema_version: 1
+director:
+- arnshtam-leo-oskarovich
+- til-khaynts
+screenwriter:
+- arnshtam-leo-oskarovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: may-gizela
+- person: pogodin-nikolay-fyodorovich
+- person: byurger-annekatrin
+- person: til-khaynts
+- person: lennarts-monika
+- person: frants-erikh
+- person: flyossel-gans
+- person: bley-jochen
+- person: legal-marga
+- person: shelkher-raymund
+- person: kommerell-ruth
+- person: yukhtin-gennadiy-gavrilovich
+- person: kokh-khoge-vilgelm
+- person: sergeev-nikolay-vasilevich
+- person: sanaev-vsevolod-vasilevich
+- person: safonov-vsevolod-dmitrievich
+- person: kosireva-evgeniya
+studio:
+- mosfilm
+- studiya-khudozhestvennykh-filmov-defa

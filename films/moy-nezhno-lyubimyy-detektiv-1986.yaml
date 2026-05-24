@@ -8,6 +8,32 @@ runtime_min: 82
 external_ids:
   wikidata: Q4299860
   imdb: tt0091564
+  youtube: TZHacjn4qlM
 sources:
 - https://www.wikidata.org/wiki/Q4299860
 schema_version: 1
+director:
+- simonov-aleksey-kirillovich
+screenwriter:
+- gorin-grigoriy
+- khayt-arkadiy
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: talyzina-valentina
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: gaft-valentin-iosifovich
+- person: agapova-nina-fyodorovna
+- person: garmash-sergey-leonidovich
+- person: vasileva-ekaterina-sergeevna
+- person: akopyan-amayak
+- person: vokach-aleksandr-andreevich
+- person: volkova-olga-vladimirovna
+- person: gerdt-zinoviy-efimovich
+- person: aktyor-danilov-mikhail-viktorovich
+- person: kamburova-elena
+- person: furman-semyon
+- person: simonova-shchepetnova-galina-nikolaevna
+- person: losev-sergey-vasilevich
+studio:
+- ekran

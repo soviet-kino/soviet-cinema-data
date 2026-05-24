@@ -1,0 +1,9 @@
+id: bog-ion
+name_ru: Ion Bog
+roles:
+- actor
+external_ids:
+  wikidata: Q1097669
+sources:
+- https://www.wikidata.org/wiki/Q1097669
+schema_version: 1

@@ -8,6 +8,17 @@ runtime_min: 89
 external_ids:
   wikidata: Q4311717
   imdb: tt0091602
+  youtube: LXe67L3ka9Q
 sources:
 - https://www.wikidata.org/wiki/Q4311717
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+cinematographer:
+- ginzburg-valeriy
+composer:
+- dmitriev-georgiy-petrovich
+cast:
+- person: timoshkin-aleksandr-mikhaylovich
+studio:
+- kinostudiya-imeni-m-gorkogo

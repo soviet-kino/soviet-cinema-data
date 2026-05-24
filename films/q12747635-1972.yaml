@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12747635
 schema_version: 1
+director:
+- belogrlic-vera
+cast:
+- person: banyats-mira
+- person: jaksic-dusan
+- person: velisavljevic-vlasta
+- person: predrag-lakovich
+- person: tatic-milutin-mica
+- person: dobrichanin-dragutin

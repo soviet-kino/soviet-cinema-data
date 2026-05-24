@@ -1,0 +1,9 @@
+id: bora-todorovich
+name_ru: Бора Тодорович
+roles:
+- actor
+external_ids:
+  wikidata: Q1250100
+sources:
+- https://www.wikidata.org/wiki/Q1250100
+schema_version: 1

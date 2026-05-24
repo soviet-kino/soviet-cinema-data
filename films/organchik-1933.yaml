@@ -8,6 +8,16 @@ runtime_min: 21
 external_ids:
   wikidata: Q24284757
   imdb: tt3447746
+  youtube: 3TcgZOeoM8Q
 sources:
 - https://www.wikidata.org/wiki/Q24284757
 schema_version: 1
+director:
+- khodataev-nikolay
+screenwriter:
+- khodataev-nikolay
+- gayamov-aleksandr
+composer:
+- lobachyov-grigoriy-grigorevich
+studio:
+- soyuzmultfilm

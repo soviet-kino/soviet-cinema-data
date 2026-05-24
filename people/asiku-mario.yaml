@@ -1,0 +1,9 @@
+id: asiku-mario
+name_ru: Марио Асику
+roles:
+- actor
+external_ids:
+  wikidata: Q11769995
+sources:
+- https://www.wikidata.org/wiki/Q11769995
+schema_version: 1

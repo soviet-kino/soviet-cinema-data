@@ -1,0 +1,9 @@
+id: kurbas-les
+name_ru: Лесь Курбас
+roles:
+- director
+external_ids:
+  wikidata: Q1406209
+sources:
+- https://www.wikidata.org/wiki/Q1406209
+schema_version: 1

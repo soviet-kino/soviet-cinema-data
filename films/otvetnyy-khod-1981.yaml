@@ -8,6 +8,19 @@ runtime_min: 84
 external_ids:
   wikidata: Q4339388
   imdb: tt0168111
+  youtube: HsGsMVVhb5A
 sources:
 - https://www.wikidata.org/wiki/Q4339388
 schema_version: 1
+director:
+- tumanishvili-mikhail-iosifovich
+screenwriter:
+- mesyatsev-evgeniy-alekseevich
+cast:
+- person: volontir-mikhay-ermolaevich
+- person: kuznetsov-anatoliy
+- person: galkin-boris-sergeevich
+- person: spiridonov-vadim-semyonovich
+- person: pyatkov-aleksandr-aleksandrovich
+studio:
+- mosfilm

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11753122
 schema_version: 1
+director:
+- rzeszewski-janusz
+screenwriter:
+- komar-mikhal
+cinematographer:
+- adamek-vitold
+composer:
+- korcz-w-odzimierz
+cast:
+- person: fronchevskiy-pyotr
+- person: shapolovskaya-grazhina
+- person: stokinger-tomash
+- person: kuklinskaya-eva
+- person: stalinska-dorota
+- person: skawina-katarzyna
+studio:
+- perspektywa-film-studio

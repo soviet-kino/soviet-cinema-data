@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4110205
   imdb: tt3042434
+  youtube: grAehQxW4mM
 sources:
 - https://www.wikidata.org/wiki/Q4110205
 schema_version: 1
+director:
+- ritenberga-dzidra
+screenwriter:
+- dozortsev-vladlen-leonidovich
+composer:
+- kaminskis-valters
+cast:
+- person: gromadskiy-roman
+- person: kayrisha-astrida
+studio:
+- rizhskaya-kinostudiya

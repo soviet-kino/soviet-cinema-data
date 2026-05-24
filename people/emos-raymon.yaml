@@ -1,0 +1,9 @@
+id: emos-raymon
+name_ru: Раймон Эмос
+roles:
+- actor
+external_ids:
+  wikidata: Q3420629
+sources:
+- https://www.wikidata.org/wiki/Q3420629
+schema_version: 1

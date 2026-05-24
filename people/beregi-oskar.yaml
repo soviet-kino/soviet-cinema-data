@@ -1,0 +1,9 @@
+id: beregi-oskar
+name_ru: Оскар Береги
+roles:
+- actor
+external_ids:
+  wikidata: Q338756
+sources:
+- https://www.wikidata.org/wiki/Q338756
+schema_version: 1

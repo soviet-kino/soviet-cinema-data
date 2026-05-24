@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9333292
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- tadeush-ruzhevich
+cinematographer:
+- lyot-stanislav
+composer:
+- kilyar-voytsekh
+cast:
+- person: feldman-kristina
+- person: klosinskiy-yanush
+- person: milskiy-stanislav
+- person: voyt-mechislav
+- person: nalberchak-yuzef
+- person: yanush-palyushkevich
+- person: khoravyanka-barbara
+- person: gogolevskiy-ignatsy
+- person: kaminskiy-eugenyush
+- person: dejunowicz-kazimierz
+- person: hubenakova-svatava
+- person: noymann-vanda
+- person: q116181491
+- person: pankowski-leszek
+studio:
+- tor-kinostudiya

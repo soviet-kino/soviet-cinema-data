@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4212713
 schema_version: 1
+director:
+- sharo-genrik
+screenwriter:
+- stern-anatol
+- strug-andzhey
+cast:
+- person: savan-zbignev

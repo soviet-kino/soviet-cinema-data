@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15260667
 schema_version: 1
+director:
+- gyunter-egon
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- dessau-paul

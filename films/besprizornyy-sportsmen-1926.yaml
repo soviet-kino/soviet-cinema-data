@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16536803
 schema_version: 1
+director:
+- bogdanov-nikolay-vladimirovich
+- konstantinovskiy-lev-davidovich
+screenwriter:
+- bogdanov-nikolay-vladimirovich
+- konstantinovskiy-lev-davidovich
+cast:
+- person: konstantinovskiy-lev-davidovich
+studio:
+- goskino

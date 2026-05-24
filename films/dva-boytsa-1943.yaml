@@ -8,6 +8,24 @@ runtime_min: 80
 external_ids:
   wikidata: Q2628313
   imdb: tt0036782
+  youtube: ZflrFh3rQ7Q
 sources:
 - https://www.wikidata.org/wiki/Q2628313
 schema_version: 1
+director:
+- lukov-leonid
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: bernes-mark-naumovich
+- person: andreev-boris-fyodorovich
+- person: shtraukh-maksim-maksimovich
+- person: zheymo-yanina-boleslavovna
+- person: pereverzev-ivan-fyodorovich
+- person: krylov-stepan-ivanovich
+studio:
+- uzbekfilm

@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16761238
 schema_version: 1
+director:
+- strbac-milenko
+cast:
+- person: cvejic-branko
+- person: veselinovic-mla-a
+- person: radmila-savichevich
+- person: rancic-alenka
+- person: q11121110
+- person: q12747886
+- person: stoshich-bozhidar
+- person: kriticheski-liliana
+- person: dragoslav-popovich

@@ -10,3 +10,32 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5068082
 schema_version: 1
+director:
+- falk-feliks
+screenwriter:
+- shtur-ezhi
+- falk-feliks
+cinematographer:
+- adamek-vitold
+composer:
+- yan-pavlyuskevich
+cast:
+- person: shtur-ezhi
+- person: oleynik-izabella
+- person: opanya-marian
+- person: makhalitsa-pyotr
+- person: kotys-ryshard
+- person: markhelyuk-miroslava
+- person: trelya-grazhina
+- person: ezhi-fedorovich
+- person: machalica-aleksander
+- person: goleevskiy-andzhey
+- person: chitro-anna
+- person: mayzel-jan
+- person: kopachevskiy-yaroslav
+- person: lyamzha-ioakhim
+- person: krupinski-krzysztof
+- person: siudim-marek
+- person: skarga-petr
+- person: mrowiec-andrzej
+- person: stsigalska-anna

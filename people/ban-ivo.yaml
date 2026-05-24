@@ -1,0 +1,9 @@
+id: ban-ivo
+name_ru: Иво Бан
+roles:
+- actor
+external_ids:
+  wikidata: Q12957641
+sources:
+- https://www.wikidata.org/wiki/Q12957641
+schema_version: 1

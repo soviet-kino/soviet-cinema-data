@@ -8,6 +8,34 @@ runtime_min: 80
 external_ids:
   wikidata: Q3211125
   imdb: tt0020230
+  youtube: OWbK412Xx_o
 sources:
 - https://www.wikidata.org/wiki/Q3211125
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: gerasimov-sergey
+- person: makarova-tamara-fyodorovna
+- person: kuzmina-elena-aleksandrovna
+- person: zhakov-oleg-petrovich
+- person: zheymo-yanina-boleslavovna
+- person: sobolevskiy-pyotr-stanislavovich
+- person: kostrichkin-andrey-andreevich
+- person: gutman-david-grigorevich
+- person: chervyakov-evgeniy-veniaminovich
+- person: semyonova-lyudmila-nikolaevna
+- person: magarill-sofya-zinovevna
+studio:
+- lenfilm
+- sovkino
+poster_commons: Плакат к фильму «Новый Вавилон».jpg

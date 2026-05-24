@@ -1,0 +1,9 @@
+id: bostan-ion
+name_ru: Ион Бостан
+roles:
+- director
+external_ids:
+  wikidata: Q12730801
+sources:
+- https://www.wikidata.org/wiki/Q12730801
+schema_version: 1

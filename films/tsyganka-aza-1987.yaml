@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q64666887
   imdb: tt0301956
+  youtube: 8QtrnZf6n_4
 sources:
 - https://www.wikidata.org/wiki/Q64666887
 schema_version: 1
+director:
+- kokhan-grigoriy-romanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

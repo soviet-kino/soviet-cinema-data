@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12744391
 schema_version: 1
+director:
+- shotra-zdravko
+cast:
+- person: stol-arandzhelovich
+- person: petar-banichevich
+- person: slyapich-liliana
+- person: tasovac-predrag
+- person: nikshich-snezhana

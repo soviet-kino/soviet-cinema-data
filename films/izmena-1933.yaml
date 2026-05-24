@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16912805
 schema_version: 1
+cast:
+- person: olgina-evlaliya-vyacheslavovna
+studio:
+- mosfilm
+- lenfilm

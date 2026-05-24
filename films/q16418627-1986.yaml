@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16418627
 schema_version: 1
+director:
+- ogly-ismaylov-tofik-guseyn
+screenwriter:
+- fataliev-ramiz-mamedali-ogly
+cinematographer:
+- mamedov-kenan
+composer:
+- ogly-kuliev-tofik-alekper
+cast:
+- person: aslan-siyavush
+- person: dadashev-rafael
+- person: kyzy-basirzade-sofiya-bashir
+studio:
+- azerbaydzhanfilm

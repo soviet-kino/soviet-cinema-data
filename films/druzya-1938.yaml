@@ -8,6 +8,23 @@ runtime_min: 100
 external_ids:
   wikidata: Q4168915
   imdb: tt0030083
+  youtube: 1f1XRMZ_WIQ
 sources:
 - https://www.wikidata.org/wiki/Q4168915
 schema_version: 1
+director:
+- arnshtam-leo-oskarovich
+- eysymont-viktor-vladislavovich
+screenwriter:
+- arnshtam-leo-oskarovich
+cinematographer:
+- rapoport-vladimir
+composer:
+- dmitriy-shostakovich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: babochkin-boris-andreevich
+- person: kayukov-stepan-yakovlevich
+studio:
+- lenfilm
+poster_commons: Кадр из фильма «Друзья» (СССР, 1938).jpg

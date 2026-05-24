@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4402071
 schema_version: 1
+director:
+- babayan-agasi-arutyunovich
+screenwriter:
+- babayan-agasi-arutyunovich
+- belokurov-leonid-anatolevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: mikhaylov-aleksandr-yakovlevich
+- person: melnikova-elena-viktorovna
+- person: orlovskiy-dmitriy-dmitrievich
+studio:
+- mosfilm

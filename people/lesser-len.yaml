@@ -1,0 +1,9 @@
+id: lesser-len
+name_ru: Лен Лессер
+roles:
+- actor
+external_ids:
+  wikidata: Q552942
+sources:
+- https://www.wikidata.org/wiki/Q552942
+schema_version: 1

@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506596
 schema_version: 1
+director:
+- zhizhich-bogdan
+cast:
+- person: sovagovic-fabijan
+- person: lepetich-zvonko

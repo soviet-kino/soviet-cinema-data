@@ -8,6 +8,21 @@ runtime_min: 78
 external_ids:
   wikidata: Q4425258
   imdb: tt0131588
+  youtube: S6kA38YLC4g
 sources:
 - https://www.wikidata.org/wiki/Q4425258
 schema_version: 1
+director:
+- urazbaev-eldor-magomatovich
+- martynov-vladimir-yurevich
+screenwriter:
+- borodyanskiy-aleksandr-emmanuilovich
+cinematographer:
+- alisov-vadim-valentinovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: brondukov-borislav-nikolaevich
+- person: serebryakov-aleksey-valerevich
+studio:
+- kinostudiya-imeni-m-gorkogo

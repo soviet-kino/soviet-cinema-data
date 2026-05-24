@@ -1,0 +1,9 @@
+id: brass-tinto
+name_ru: Тинто Брасс
+roles:
+- director
+external_ids:
+  wikidata: Q312472
+sources:
+- https://www.wikidata.org/wiki/Q312472
+schema_version: 1

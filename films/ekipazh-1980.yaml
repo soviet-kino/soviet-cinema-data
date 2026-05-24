@@ -8,6 +8,26 @@ runtime_min: 124
 external_ids:
   wikidata: Q4530224
   imdb: tt0134633
+  youtube: lgSl7D_vtEE
 sources:
 - https://www.wikidata.org/wiki/Q4530224
 schema_version: 1
+director:
+- mitta-aleksandr-naumovich
+screenwriter:
+- mitta-aleksandr-naumovich
+- frid-valeriy
+- dunskiy-yuliy
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- schnittke-alfred
+cast:
+- person: filatov-leonid-alekseevich
+- person: zhzhyonov-georgiy-stepanovich
+- person: yakovleva-aleksandra-evgenevna
+- person: koreneva-elena-alekseevna
+- person: vasilev-anatoliy-aleksandrovich
+- person: yushko-german-ivanovich
+studio:
+- mosfilm

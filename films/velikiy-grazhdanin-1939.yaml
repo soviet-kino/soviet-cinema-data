@@ -8,6 +8,23 @@ runtime_min: 252
 external_ids:
   wikidata: Q4106580
   imdb: tt0029726
+  youtube: fvXeGnq0Lkk
 sources:
 - https://www.wikidata.org/wiki/Q4106580
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- ermler-fridrikh-markovich
+- bleyman-mikhail-yurevich
+- bolshintsov-manuel-vladimirovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: fyodorova-zoya-alekseevna
+studio:
+- lenfilm
+poster_commons: Bundesarchiv Bild 183-S90867, Berlin, Luxemburgplatz, Kino "Babylon".jpg

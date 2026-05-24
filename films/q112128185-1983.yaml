@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q112128185
 schema_version: 1
+director:
+- antoniszczak-ryszard
+screenwriter:
+- antoniszczak-ryszard
+cinematographer:
+- stawowczyk-krzysztof
+composer:
+- wilczynski-marek
+studio:
+- q9347389

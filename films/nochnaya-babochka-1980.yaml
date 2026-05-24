@@ -8,6 +8,39 @@ runtime_min: 100
 external_ids:
   wikidata: Q3792262
   imdb: tt0080547
+  youtube: fWCeqxFch1g
 sources:
 - https://www.wikidata.org/wiki/Q3792262
 schema_version: 1
+director:
+- zygadlo-tomash
+screenwriter:
+- zygadlo-tomash
+cinematographer:
+- zygad-o-jacek
+composer:
+- yan-pavlyuskevich
+cast:
+- person: shtur-ezhi
+- person: fronchevskiy-pyotr
+- person: senyuk-anna
+- person: vilgelmi-roman
+- person: adamek-bozhena
+- person: belskaya-ivona
+- person: trelya-ezhi
+- person: chepelevskaya-anna
+- person: kovalchikova-khelena
+- person: giza-hanna-maria
+- person: mroz-ryszard
+- person: teodorchik-tadeush
+- person: voytsik-vislav
+- person: buchkovskiy-zbignev
+- person: miko-ajczak-aleksander
+- person: zharnetskiy-andzhey
+- person: herominski-grzegorz
+- person: strzemzalski-jacek
+- person: khench-yan
+- person: novak-yolanta
+- person: probosh-marek
+- person: obarska-nela
+- person: novish-pavel

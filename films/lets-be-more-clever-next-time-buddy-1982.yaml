@@ -11,3 +11,50 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12048361
 schema_version: 1
+director:
+- shulgoff-petr
+screenwriter:
+- shulgoff-petr
+cinematographer:
+- barla-andrej
+composer:
+- dvorzhak-milan
+cast:
+- person: ruzhichkova-gelena
+- person: peterka-frantisek
+- person: stekl-vaclav
+- person: augusta-karel
+- person: dite-zdenek
+- person: srstka-zdenek
+- person: burianova-zuzana
+- person: cap-bohuslav
+- person: klapka-dalimil
+- person: hlavaty-vladimir
+- person: hrabanek-vladimir
+- person: gruby-vladimir
+- person: salac-vladimir
+- person: svobodova-eva
+- person: skopechek-yan
+- person: lir-yirzhi
+- person: gomola-miroslav
+- person: velen-oldrzhikh
+- person: schranil-raoul
+- person: skamene-roman
+- person: filip-adolf
+- person: khardt-antonin
+- person: altmannova-jana
+- person: strzhekha-yozef
+- person: havel-jiri
+- person: ptachek-vladimir
+- person: byomova-bozhena
+- person: vlkova-vlastimila
+- person: heyduk-jaroslav
+- person: kalendova-nejezchlebova-vera
+- person: homola-miloslav
+- person: q100977063
+- person: cherny-vitezslav
+- person: vavrik-karel
+- person: q106118281
+- person: farkacova-aja
+studio:
+- barrandov-film-studio

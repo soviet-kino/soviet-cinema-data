@@ -1,0 +1,9 @@
+id: riri
+name_ru: Riri
+roles:
+- actor
+external_ids:
+  wikidata: Q110714573
+sources:
+- https://www.wikidata.org/wiki/Q110714573
+schema_version: 1

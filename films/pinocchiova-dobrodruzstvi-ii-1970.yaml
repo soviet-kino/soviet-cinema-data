@@ -10,3 +10,38 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7196393
 schema_version: 1
+director:
+- sirovy-zdenek-2
+screenwriter:
+- sirovy-zdenek-2
+cinematographer:
+- stallikh-yan
+- garvan-miloslav
+composer:
+- fisher-yan
+cast:
+- person: stallikh-yan
+- person: libicek-jan
+- person: zazvorkova-stella
+- person: mouchka-yaroslav
+- person: bruder-jiri
+- person: bogach-ladislav
+- person: kemr-yozef
+- person: peshek-ladislav
+- person: beyvl-yozef
+- person: kreuzmannova-alena
+- person: neyman-stanislav
+- person: dubskiy-eduard
+- person: tvrznikova-jaroslava
+- person: skorepova-luba
+- person: ruzek-martin
+- person: musil-mirko
+- person: gomola-miroslav
+- person: musil-oldrich
+- person: rubikova-lyudmila
+- person: kazda-ladislav
+- person: fialkova-dragomira
+- person: koza-josef
+- person: urbanek-karel
+- person: krshka-vladimir
+- person: vidlar-jaroslav

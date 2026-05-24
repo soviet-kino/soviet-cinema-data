@@ -1,0 +1,9 @@
+id: balog-bela
+name_ru: Бела Балог
+roles:
+- director
+external_ids:
+  wikidata: Q737827
+sources:
+- https://www.wikidata.org/wiki/Q737827
+schema_version: 1

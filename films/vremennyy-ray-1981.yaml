@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7698966
 schema_version: 1
+director:
+- kovach-andrash
+cast:
+- person: sabo-laslo
+- person: dyussole-andre
+- person: soos-edit
+- person: banfalvi-agnes

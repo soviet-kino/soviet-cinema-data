@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q4180220
   imdb: tt0461861
+  youtube: 8J8GEI_vJE0
 sources:
 - https://www.wikidata.org/wiki/Q4180220
 schema_version: 1
+screenwriter:
+- printsev-yuzef-yakovlevich
+composer:
+- tsvetkov-igor-arkadevich
+cast:
+- person: shelokhonov-pyotr-illarionovich
+- person: lemke-lev-isaakovich
+studio:
+- pyatyy-kanal

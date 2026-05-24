@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28666649
 schema_version: 1
+director:
+- popov-aleksey-dmitrievich
+screenwriter:
+- popov-aleksey-dmitrievich
+cinematographer:
+- grinberg-aleksandr-danilovich
+- troyanskiy-gleb-aleksandrovich
+cast:
+- person: popov-aleksey-dmitrievich
+- person: romanov-nikolay-yakovlevich
+studio:
+- sovkino

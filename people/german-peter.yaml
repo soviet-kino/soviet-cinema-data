@@ -1,0 +1,9 @@
+id: german-peter
+name_ru: Петер Герман
+roles:
+- composer
+external_ids:
+  wikidata: Q2075664
+sources:
+- https://www.wikidata.org/wiki/Q2075664
+schema_version: 1

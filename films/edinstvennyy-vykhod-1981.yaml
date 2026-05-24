@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4174000
 schema_version: 1
+director:
+- man-viktor-aronovich
+screenwriter:
+- vakhnyuk-boris-savelevich
+cinematographer:
+- romanenko-yuriy-viktorovich
+composer:
+- vakhnyuk-boris-savelevich
+cast:
+- person: romanenko-yuriy-viktorovich
+studio:
+- tsentrnauchfilm

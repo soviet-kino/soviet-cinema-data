@@ -1,0 +1,9 @@
+id: bredis-lamis
+name_ru: Ламис Бредис
+roles:
+- director
+external_ids:
+  wikidata: Q23943368
+sources:
+- https://www.wikidata.org/wiki/Q23943368
+schema_version: 1

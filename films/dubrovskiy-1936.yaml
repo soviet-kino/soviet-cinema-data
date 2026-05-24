@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4169858
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- ivanovskiy-aleksandr-viktorovich
+cinematographer:
+- sigaev-aleksandr-ivanovich
+cast:
+- person: gardin-vladimir-rostislavovich
+- person: livanov-boris-nikolaevich
+- person: volkov-pavel-mikhaylovich
+- person: monakhov-nikolay-fyodorovich
+- person: tarkhanov-mikhail-mikhaylovich
+- person: samarin-elskiy-iosif-konstantinovich
+- person: grigoreva-galina-konstantinovna
+studio:
+- lenfilm

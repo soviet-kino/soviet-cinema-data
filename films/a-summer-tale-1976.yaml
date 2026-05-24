@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18548471
 schema_version: 1
+director:
+- pitsa-dan
+screenwriter:
+- georgiu-mikhnya
+cinematographer:
+- merdzhinyanu-nikolae
+composer:
+- enesku-adrian
+cast:
+- person: teyka-aristid
+- person: rebendzhyuk-viktor
+- person: bentse-ferents
+- person: chiki-andrash
+- person: dyakonu-mircha
+- person: popesku-mitike
+- person: tapalaga-rodika
+- person: vadasz-zoltan
+- person: vizan-dorel
+- person: ralea-catinca
+- person: konstantin-kostel
+- person: nutsu-dan
+- person: cherkez-khamdi
+- person: iordake-ileana
+- person: mikhuts-mariana
+- person: shumakher-ovidu
+- person: sechu-valeriya
+- person: dellakeza-valer
+- person: zammiresku-florin
+- person: galin-karmen
+- person: petrakesku-eliza
+- person: nitulesku-vasil
+studio:
+- radef

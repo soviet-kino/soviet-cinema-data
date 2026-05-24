@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q65200817
   imdb: tt4851684
+  youtube: 5ghwPqYTgqg
 sources:
 - https://www.wikidata.org/wiki/Q65200817
 schema_version: 1
+director:
+- mishurin-aleksey-aleksandrovich
+- fialko-oleg-borisovich
+screenwriter:
+- satskiy-aleksandr-stepanovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

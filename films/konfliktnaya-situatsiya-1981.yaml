@@ -8,6 +8,15 @@ runtime_min: 125
 external_ids:
   wikidata: Q110246663
   imdb: tt5555626
+  youtube: 5l0SQvtirvE
 sources:
 - https://www.wikidata.org/wiki/Q110246663
 schema_version: 1
+director:
+- muradyan-ruben
+screenwriter:
+- kuzmich-bokarev-gennadiy
+composer:
+- khagagortyan-eduard
+studio:
+- sverdlovskaya-kinostudiya

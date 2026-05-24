@@ -1,0 +1,9 @@
+id: karat
+name_ru: Karat
+roles:
+- composer
+external_ids:
+  wikidata: Q481599
+sources:
+- https://www.wikidata.org/wiki/Q481599
+schema_version: 1

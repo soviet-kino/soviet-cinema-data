@@ -1,0 +1,9 @@
+id: prazsky-doda
+name_ru: Doďa Pražský
+roles:
+- actor
+external_ids:
+  wikidata: Q95445489
+sources:
+- https://www.wikidata.org/wiki/Q95445489
+schema_version: 1

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q126549450
 schema_version: 1
+director:
+- biyma-oleg-ivanovich
+cinematographer:
+- mazepa-aleksandr
+cast:
+- person: zakharchenko-vadim-viktorovich
+- person: kharatyan-dmitriy-vadimovich
+- person: pastukhov-nikolay-isaakovich
+- person: alisova-nina-ulyanovna
+- person: bekhterev-sergey-stanislavovich
+- person: borzova-elena-nikolaevna
+- person: danilova-natalya-yurevna
+- person: karelskikh-evgeniy-konstantinovich
+- person: shcherbakov-boris-vasilevich
+- person: yanvaryov-aleksandr-ivanovich
+studio:
+- ukrtelefilm

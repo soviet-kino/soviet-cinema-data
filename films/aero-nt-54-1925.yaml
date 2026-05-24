@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4073639
 schema_version: 1
+director:
+- rezhissyor-petrov-nikolay-vasilevich
+cast:
+- person: korchagina-aleksandrovskaya-ekaterina-pavlovna
+- person: orlov-aleksandr-aleksandrovich
+- person: voronov-vladimir-ivanovich
+studio:
+- lenfilm

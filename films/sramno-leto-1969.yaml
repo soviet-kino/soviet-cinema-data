@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27334153
 schema_version: 1
+director:
+- bastac-branislav
+screenwriter:
+- branimir-shchepanovich
+cast:
+- person: mikolaevska-kristina
+- person: vladimir-popovich
+- person: burdus-jovan-janicijevic
+- person: neda-spasoevich

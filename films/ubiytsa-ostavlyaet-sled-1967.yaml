@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4468648
 schema_version: 1
+director:
+- stsibor-rylskiy-aleksandr
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- veber-kurt
+composer:
+- kilyar-voytsekh
+cast:
+- person: cybulski-zbigniew
+- person: mikolaevska-kristina
+- person: lomnitskiy-tadeush
+- person: shmidt-tadeush
+- person: nalberchak-yuzef
+- person: kuzemskiy-eliash
+- person: litvin-kshishtof
+studio:
+- rytm-kinostudiya

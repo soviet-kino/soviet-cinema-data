@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9375310
 schema_version: 1
+director:
+- khmelevskiy-tadeush
+screenwriter:
+- khmelevskiy-tadeush
+cinematographer:
+- stavitskiy-ezhi
+composer:
+- ezhi-matushkevich
+cast:
+- person: pritulyak-malgozhata
+- person: bazak-arkadiush
+- person: eymont-bogdan
+- person: novak-yuzef
+- person: himilsbach-jan
+- person: vikhura-edvard
+- person: zintel-zygmunt
+- person: gryn-virgiliush
+- person: somogi-tadeush
+- person: fievskiy-tadeush
+- person: lapinskiy-khenrik
+- person: andzheevskiy-leonard
+- person: nawrocki-ryszard
+- person: szmidt-stefan
+- person: kvinta-tadeush
+- person: dederko-vitold
+- person: vodynskaya-danuta
+- person: rogalski-ezhi
+- person: peratskiy-yuzef
+- person: markovskiy-ryshard
+studio:
+- studio-filmowe-kadr

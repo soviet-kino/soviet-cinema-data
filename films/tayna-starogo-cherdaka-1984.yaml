@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506746
 schema_version: 1
+director:
+- tadey-vladimir
+screenwriter:
+- tadey-vladimir
+- petrzhik-yaroslav
+cinematographer:
+- kolin-irzhi
+composer:
+- dedich-arsen
+cast:
+- person: kopetskiy-milosh
+- person: mia-oremovich
+- person: nalis-antun
+- person: bitorayats-rene
+- person: dvornik-boris
+- person: gotovats-tomislav
+- person: edo-perochevich
+- person: kaniza-yan
+- person: guberina-spiro
+- person: mario-mirkovich
+- person: gacina-vlado
+- person: marjanovic-ivo
+- person: q65195821
+- person: buhin-miroslav
+studio:
+- kroatiya-film
+- kinostudiya-gotvaldova

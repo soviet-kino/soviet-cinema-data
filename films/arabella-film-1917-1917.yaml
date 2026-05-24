@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9158784
 schema_version: 1
+director:
+- gerts-aleksandr
+cast:
+- person: grabovskiy-vladislav
+- person: negri-pola
+studio:
+- sfinks
+poster_commons: Arabella (film 1917).jpg

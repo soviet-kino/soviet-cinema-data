@@ -1,0 +1,9 @@
+id: gabor-pal
+name_ru: Пал Габор
+roles:
+- director
+external_ids:
+  wikidata: Q571230
+sources:
+- https://www.wikidata.org/wiki/Q571230
+schema_version: 1

@@ -1,0 +1,9 @@
+id: zima-oskar
+name_ru: Оскар Зима
+roles:
+- actor
+external_ids:
+  wikidata: Q87909
+sources:
+- https://www.wikidata.org/wiki/Q87909
+schema_version: 1

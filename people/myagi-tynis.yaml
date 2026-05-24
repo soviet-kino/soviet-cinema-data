@@ -1,0 +1,9 @@
+id: myagi-tynis
+name_ru: Тынис Мяги
+roles:
+- actor
+external_ids:
+  wikidata: Q2395982
+sources:
+- https://www.wikidata.org/wiki/Q2395982
+schema_version: 1

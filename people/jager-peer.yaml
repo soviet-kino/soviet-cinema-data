@@ -1,0 +1,9 @@
+id: jager-peer
+name_ru: Peer Jäger
+roles:
+- actor
+external_ids:
+  wikidata: Q2067111
+sources:
+- https://www.wikidata.org/wiki/Q2067111
+schema_version: 1

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48850372
 schema_version: 1
+director:
+- wortman-marek
+screenwriter:
+- khen-yozef
+composer:
+- marchevskiy-petr
+cast:
+- person: trybala-mazhena
+- person: talyar-khenrik
+- person: yanush-palyushkevich
+- person: frontskovyak-marek
+- person: siudim-marek

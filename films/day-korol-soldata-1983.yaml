@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q504121
 schema_version: 1
+director:
+- erdyoshsh-pal
+cinematographer:
+- koltai-layosh
+- sabo-gabor-peter
+cast:
+- person: toth-arpad

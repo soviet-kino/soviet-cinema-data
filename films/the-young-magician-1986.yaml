@@ -11,3 +11,29 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q489483
 schema_version: 1
+director:
+- dziki-valdemar
+screenwriter:
+- dziki-valdemar
+cinematographer:
+- dabal-vit
+composer:
+- debskiy-kshesimir
+cast:
+- person: shapolovskaya-grazhina
+- person: makhulskiy-yan
+- person: benua-mariush
+- person: pavelets-boguslava
+- person: shevchik-mikhal
+- person: polk-petr
+- person: trafankovska-darya
+- person: bia-a-ewa
+- person: kovalskiy-vladislav
+- person: suszynski-zbigniew
+- person: blyumenfeld-andzhey
+- person: kovalska-danuta
+- person: khench-yan
+- person: shary-matsey
+- person: mariya-robashkevich
+studio:
+- tor-kinostudiya

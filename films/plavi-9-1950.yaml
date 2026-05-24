@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1258000
 schema_version: 1
+director:
+- golik-kreso
+- babaya-ante
+cinematographer:
+- tanhofer-nikola
+composer:
+- belinskiy-bruno
+cast:
+- person: nalis-antun
+- person: kolesar-irena
+- person: didik-lyubomir

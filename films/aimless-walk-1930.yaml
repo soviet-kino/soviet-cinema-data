@@ -8,6 +8,13 @@ runtime_min: 9
 external_ids:
   wikidata: Q19570765
   imdb: tt0312476
+  youtube: JOnRAHj_gf8
 sources:
 - https://www.wikidata.org/wiki/Q19570765
 schema_version: 1
+director:
+- khakenshmid-aleksandr
+screenwriter:
+- khakenshmid-aleksandr
+cinematographer:
+- khakenshmid-aleksandr

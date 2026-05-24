@@ -8,6 +8,27 @@ runtime_min: 193
 external_ids:
   wikidata: Q4160093
   imdb: tt0167910
+  youtube: cSCpx1APWsk
 sources:
 - https://www.wikidata.org/wiki/Q4160093
 schema_version: 1
+director:
+- tatarskiy-evgeniy-markovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: evstigneev-evgeniy-aleksandrovich
+- person: romalio-tito
+- person: durov-lev-konstantinovich
+- person: galibin-aleksandr-vladimirovich
+- person: vaskov-mikhail-yurevich
+- person: galtsev-yuriy-nikolaevich
+- person: kuznetsov-aleksandr-konstantinovich
+- person: malinovskaya-lyubov-ivanovna
+- person: migitsko-sergey
+- person: rakshina-irina-semyonovna
+- person: smirnova-nadezhda-lvovna
+- person: susnin-aleksandr
+- person: bokashevskaya-galina-anatolevna
+studio:
+- lenfilm

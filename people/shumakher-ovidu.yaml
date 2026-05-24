@@ -1,0 +1,9 @@
+id: shumakher-ovidu
+name_ru: Овиду Шумахер
+roles:
+- actor
+external_ids:
+  wikidata: Q12737343
+sources:
+- https://www.wikidata.org/wiki/Q12737343
+schema_version: 1

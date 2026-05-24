@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12294080
 schema_version: 1
+director:
+- naumovski-dusan
+cast:
+- person: kostovski-dragi
+- person: yovanovski-meto
+- person: spasovski-stevo

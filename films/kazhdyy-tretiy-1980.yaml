@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65198689
 schema_version: 1
+director:
+- khachaturov-eduard-iosifovich
+screenwriter:
+- osipenko-aleksandr-kharitonovich
+- safarov-nazir-safarovich
+cinematographer:
+- loginova-tatyana-dmitrievna
+composer:
+- artemyev-eduard
+cast:
+- person: gluzskiy-mikhail-andreevich
+- person: kuznetsova-vera-andreevna
+- person: levtova-marina
+- person: paulavichyus-algirdas-romualdas
+- person: ryzhov-ivan-petrovich
+- person: frolov-gennadiy-alekseevich
+- person: tulyakhodzhaev-nazim-turabovich
+studio:
+- belarusfilm

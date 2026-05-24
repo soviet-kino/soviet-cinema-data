@@ -1,0 +1,9 @@
+id: shikora-uve
+name_ru: Уве Шикора
+roles:
+- composer
+external_ids:
+  wikidata: Q2503774
+sources:
+- https://www.wikidata.org/wiki/Q2503774
+schema_version: 1

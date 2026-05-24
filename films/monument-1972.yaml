@@ -9,3 +9,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20512027
 schema_version: 1
+director:
+- mkrtchyan-albert-mushegovich
+cinematographer:
+- mirakyan-armen
+- vartanyan-zhirayr
+cast:
+- person: mkrtchyan-frunzik
+- person: arzumanyan-arkadiy
+studio:
+- armenfilm

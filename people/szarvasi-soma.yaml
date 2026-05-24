@@ -1,0 +1,9 @@
+id: szarvasi-soma
+name_ru: Soma Szarvasi
+roles:
+- actor
+external_ids:
+  wikidata: Q33100452
+sources:
+- https://www.wikidata.org/wiki/Q33100452
+schema_version: 1

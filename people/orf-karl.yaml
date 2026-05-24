@@ -1,0 +1,9 @@
+id: orf-karl
+name_ru: Карл Орф
+roles:
+- composer
+external_ids:
+  wikidata: Q44086
+sources:
+- https://www.wikidata.org/wiki/Q44086
+schema_version: 1

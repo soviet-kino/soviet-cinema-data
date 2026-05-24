@@ -8,6 +8,20 @@ runtime_min: 87
 external_ids:
   wikidata: Q2082902
   imdb: tt0122591
+  youtube: 5LODsZRKXNs
 sources:
 - https://www.wikidata.org/wiki/Q2082902
 schema_version: 1
+director:
+- sokurov-aleksandr
+screenwriter:
+- arabov-yuriy-nikolaevich
+cinematographer:
+- yurizditskiy-sergey-petrovich
+composer:
+- penderetskiy-kshishtof
+cast:
+- person: kochegarov-nikolay-borisovich
+- person: yakovleva-lyudmila-alekseevna
+studio:
+- lenfilm

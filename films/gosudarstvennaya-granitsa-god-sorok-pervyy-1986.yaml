@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4146554
 schema_version: 1
+director:
+- nikiforov-vyacheslav
+screenwriter:
+- smirnov-oleg-pavlovich
+composer:
+- zubkov-igor-valerevich
+- davydenko-vladimir-vladimirovich
+cast:
+- person: shmakov-fyodor-ivanovich
+- person: gomiashvili-archil-mikhaylovich
+- person: garbuk-gennadiy-mikhaylovich
+- person: arzhilovskiy-aleksandr-mikhaylovich
+- person: korolkov-gennadiy-anatolevich
+- person: levtova-marina
+- person: leonov-gladyshev-evgeniy-borisovich
+- person: matveev-dmitriy-nikolaevich
+- person: morozov-semyon-mikhaylovich
+- person: smolyakov-andrey-igorevich
+- person: sotnikova-vera-mikhaylovna
+- person: dmitriev-gerbert-leonidovich
+- person: timoshkin-aleksandr-mikhaylovich
+studio:
+- belarusfilm

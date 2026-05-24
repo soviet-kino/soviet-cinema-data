@@ -8,6 +8,19 @@ runtime_min: 74
 external_ids:
   wikidata: Q4425366
   imdb: tt0129386
+  youtube: jp0jn-RE0WA
 sources:
 - https://www.wikidata.org/wiki/Q4425366
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- timoshenko-semyon-alekseevich
+cinematographer:
+- danashevskiy-vladimir-anatolevich
+composer:
+- malakhovskiy-nikolay-aleksandrovich
+cast:
+- person: sobolevskiy-pyotr-stanislavovich
+- person: shlikhting-boris-karlovich
+- person: kirillov-pyotr-klavdievich

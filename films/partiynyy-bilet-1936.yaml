@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4345943
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+composer:
+- zhelobinskiy-valeriy-viktorovich
+cast:
+- person: abrikosov-andrey-lvovich
+studio:
+- mosfilm
+poster_commons: Partijnyj bilet.jpg

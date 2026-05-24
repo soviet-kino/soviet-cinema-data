@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12847990
 schema_version: 1
+director:
+- braginski-qriqori
+- kuliev-aga-rza
+- braginskiy-grigoriy-markovich
+screenwriter:
+- ogly-dadashev-mukhtar-baba
+- ogly-kasumov-imran-ashum
+cinematographer:
+- ogly-dadashev-mukhtar-baba
+- novitskiy-fyodor
+composer:
+- ogly-tagizade-gadzhibekov-niyazi-zulfugar
+cast:
+- person: sanani-movsun
+- person: ogly-efendiev-ismail-makhmud
+- person: afganly-rza
+- person: mamedova-aziza
+- person: kyzy-basirzade-sofiya-bashir
+- person: kurbanov-ali
+studio:
+- azerbaydzhanfilm

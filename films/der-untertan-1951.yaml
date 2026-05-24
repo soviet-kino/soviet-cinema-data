@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q316628
 schema_version: 1
+director:
+- shtaudte-volfgang
+screenwriter:
+- shtaudte-volfgang
+cinematographer:
+- baberske-robert
+cast:
+- person: peters-verner
+- person: esser-paul
+- person: vintershtayn-eduard-fon
+- person: gnass-fridrikh
+- person: khasse-khanno
+- person: legal-ernst
+- person: talbakh-sabina
+- person: morer-fridrikh
+- person: shelkher-raymund
+- person: fisher-renate
+- person: kukhne-volfgang
+studio:
+- defa

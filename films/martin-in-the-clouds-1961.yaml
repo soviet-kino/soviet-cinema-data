@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q383719
 schema_version: 1
+director:
+- bauer-branko
+screenwriter:
+- vidas-fedor
+cinematographer:
+- blazhina-branko
+cast:
+- person: dvornik-boris
+studio:
+- yadran-film

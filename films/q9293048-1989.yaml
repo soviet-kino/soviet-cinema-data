@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9293048
 schema_version: 1
+director:
+- kumbaro-saimir
+composer:
+- lalo-aleksander

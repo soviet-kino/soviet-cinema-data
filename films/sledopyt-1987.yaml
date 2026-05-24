@@ -8,6 +8,21 @@ runtime_min: 91
 external_ids:
   wikidata: Q1196191
   imdb: tt0093992
+  youtube: YQP5lY25x5s
 sources:
 - https://www.wikidata.org/wiki/Q1196191
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+screenwriter:
+- lyubimov-pavel-grigorevich
+composer:
+- saulskiy-yuriy
+cast:
+- person: mironov-andrey
+- person: evstigneev-evgeniy-aleksandrovich
+- person: zhagars-andreys
+- person: vitorgan-emmanuil-gedeonovich
+- person: nemolyaeva-anastasiya-nikolaevna
+studio:
+- kinostudiya-imeni-m-gorkogo

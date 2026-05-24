@@ -11,3 +11,28 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q19799680
 schema_version: 1
+director:
+- chukhray-pavel-grigorevich
+screenwriter:
+- gelman-aleksandr-isaakovich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: pavlov-viktor-pavlovich
+- person: zbruev-aleksandr-viktorovich
+- person: agapova-nina-fyodorovna
+- person: gostyukhin-vladimir
+- person: agafonova-tatyana-ivanovna
+- person: ananina-valentina-georgievna
+- person: glushenko-evgeniya-konstantinovna
+- person: davydova-lyudmila-petrovna
+- person: mayorova-elena
+- person: marenkov-vladimir-petrovich
+- person: naumenko-olga-nikolaevna
+- person: netrebin-daniil-matveevich
+- person: tormakhova-svetlana-dmitrievna
+- person: shutov-evgeniy-efimovich
+studio:
+- mosfilm

@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20310326
 schema_version: 1
+director:
+- pretnar-igor
+screenwriter:
+- zupan-vitomil
+cinematographer:
+- bogdanich-eduard
+composer:
+- adamich-boyan
+cast:
+- person: zhigon-stevo
+- person: rozman-loyze
+- person: kral-boris
+- person: gall-dubravka
+- person: nikolich-mira
+- person: strakhinya-petrovich
+studio:
+- bosna-film

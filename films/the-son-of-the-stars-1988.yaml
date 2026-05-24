@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q118950256
 schema_version: 1
+director:
+- toia-mircea
+- cazan-calin
+cast:
+- person: albulesku-mircha
+- person: yuresh-marchel
+- person: karamitru-ion
+studio:
+- animafilm

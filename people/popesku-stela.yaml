@@ -1,0 +1,9 @@
+id: popesku-stela
+name_ru: Стела Попеску
+roles:
+- actor
+external_ids:
+  wikidata: Q14500720
+sources:
+- https://www.wikidata.org/wiki/Q14500720
+schema_version: 1

@@ -8,6 +8,59 @@ runtime_min: 103
 external_ids:
   wikidata: Q47531843
   imdb: tt0124051
+  youtube: yP1JTFcGIhk
 sources:
 - https://www.wikidata.org/wiki/Q47531843
 schema_version: 1
+director:
+- brinikh-zbynek
+screenwriter:
+- kalina-vladimir
+cinematographer:
+- churzhik-yan
+composer:
+- sternwald-jiri
+cast:
+- person: brinikh-zbynek
+- person: rehor-zdenek
+- person: brodskiy-vlastimil
+- person: vlachil-frantishek
+- person: trshiska-yan
+- person: chadimova-karla
+- person: blaga-yozef
+- person: marvan-yaroslav
+- person: thielova-valentina
+- person: krampol-jiri
+- person: vasserman-vatslav
+- person: munzar-lyudek
+- person: fiala-eman
+- person: churzhik-yan
+- person: shvormova-libushe
+- person: beyvl-yozef
+- person: kreuzmannova-alena
+- person: zinkova-viola
+- person: jedenactik-vladimir
+- person: hasek-vlastimil
+- person: svobodova-eva
+- person: mrazek-fanda
+- person: husak-frantisek
+- person: kroytsman-frantishek
+- person: vojtova-hermina
+- person: maresova-marie
+- person: skladal-svatopluk
+- person: balek-brodska-milka
+- person: musil-oldrich
+- person: bozdech-bedrich
+- person: prokhazkova-alena
+- person: meliskova-anna
+- person: bor-ganush
+- person: mikota-jiri
+- person: khynkova-miriam
+- person: bila-strechova-jirina
+- person: mikotova-marie
+- person: skalski-otakar
+- person: q131916798
+- person: horejsova-j
+- person: vokurkova-j
+- person: krasna-a
+- person: cumpelikova-helena

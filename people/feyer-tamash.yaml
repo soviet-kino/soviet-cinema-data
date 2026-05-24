@@ -1,0 +1,9 @@
+id: feyer-tamash
+name_ru: Тамаш Фейер
+roles:
+- director
+external_ids:
+  wikidata: Q678856
+sources:
+- https://www.wikidata.org/wiki/Q678856
+schema_version: 1

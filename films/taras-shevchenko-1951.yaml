@@ -8,6 +8,22 @@ runtime_min: 118
 external_ids:
   wikidata: Q4451600
   imdb: tt0044107
+  youtube: spp7UWrzGXo
 sources:
 - https://www.wikidata.org/wiki/Q4451600
 schema_version: 1
+director:
+- savchenko-igor-andreevich
+- alov-aleksandr-aleksandrovich
+screenwriter:
+- savchenko-igor-andreevich
+cinematographer:
+- demutskiy-daniil-porfirevich
+composer:
+- lyatoshinskiy-boris-nikolaevich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: samoylov-evgeniy-valerianovich
+- person: pereverzev-ivan-fyodorovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -1,0 +1,9 @@
+id: igo-eva
+name_ru: Эва Иго
+roles:
+- actor
+external_ids:
+  wikidata: Q1096184
+sources:
+- https://www.wikidata.org/wiki/Q1096184
+schema_version: 1

@@ -8,6 +8,25 @@ runtime_min: 98
 external_ids:
   wikidata: Q52442
   imdb: tt0024402
+  youtube: 8m-cByC8sPg
 sources:
 - https://www.wikidata.org/wiki/Q52442
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- barnet-boris-vasilevich
+- finn-konstantin-yakovlevich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- vasilenko-sergey-nikiforovich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: bogolyubov-nikolay-nikolaevich
+- person: zharov-mikhail-ivanovich
+- person: kuzmina-elena-aleksandrovna
+- person: kryuchkov-nikolay-afanasevich
+- person: komarov-sergey-petrovich
+studio:
+- mezhrabpomfilm

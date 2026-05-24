@@ -8,6 +8,21 @@ runtime_min: 100
 external_ids:
   wikidata: Q4375079
   imdb: tt0098104
+  youtube: k6Qb6PJXuVw
 sources:
 - https://www.wikidata.org/wiki/Q4375079
 schema_version: 1
+director:
+- kobzev-viktor-mikhaylovich
+screenwriter:
+- bulychyov-kir
+composer:
+- paulavichyus-algirdas-romualdovich
+cast:
+- person: gostyukhin-vladimir
+- person: aug-yuliya
+- person: varchuk-sergey-ivanovich
+- person: ramanauskas-romualdas
+- person: solovyov-viktor-yurevich
+studio:
+- sverdlovskaya-kinostudiya

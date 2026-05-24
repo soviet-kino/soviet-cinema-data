@@ -11,3 +11,48 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1763015
 schema_version: 1
+director:
+- sand-y-haakon
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- nordgeym-arni
+cast:
+- person: linda-boguslav
+- person: frych-yan
+- person: tile-klaus-peter
+- person: oskarsson-per
+- person: kryshak-ezhi
+- person: olgerd-lukashevich
+- person: olbrykhskiy-daniel
+- person: ezhi-radzivilovich
+- person: karge-manfred
+- person: bista-khenrik
+- person: gerke-klaus
+- person: felstad-lise
+- person: kristian-norbert
+- person: albrekht-regina
+- person: binchitskiy-ezhi
+- person: falk-vibeke
+- person: vzhesinska-barbara
+- person: karkoshka-elzhbeta
+- person: tsnota-ezhi
+- person: oftebro-nils-ole
+- person: khivyu-erik
+- person: l-kkeberg-georg
+- person: kolavskaya-anna
+- person: teleshinskiy-leshek
+- person: bednazh-aleksandr
+- person: fabizyak-aleksandr
+- person: andzhey-bushevich
+- person: nanowski-wiktor
+- person: lesen-zbignev
+- person: prokhyra-yan
+- person: englert-matsey
+- person: janowski-mieczys-aw
+- person: litevka-marek
+- person: wei-karl-heinz
+studio:
+- pryzmat

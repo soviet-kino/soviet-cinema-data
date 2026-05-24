@@ -7,6 +7,17 @@ country:
 external_ids:
   wikidata: Q4381447
   imdb: tt0095919
+  youtube: fP5JHKz4KRs
 sources:
 - https://www.wikidata.org/wiki/Q4381447
 schema_version: 1
+director:
+- nitochkin-anatoliy-dmitrievich
+screenwriter:
+- arro-vladimir-konstantinovich
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- sidelnikov-nikolay-nikolaevich
+studio:
+- ekran

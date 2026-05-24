@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4327776
   imdb: tt4697338
+  youtube: bNAY-iRTzys
 sources:
 - https://www.wikidata.org/wiki/Q4327776
 schema_version: 1
+director:
+- slupskiy-yuliy-vyacheslavovich
+screenwriter:
+- bolgarin-igor-yakovlevich
+cinematographer:
+- zhuravlyov-nikolay-viktorovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: olyalin-nikolay-vladimirovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

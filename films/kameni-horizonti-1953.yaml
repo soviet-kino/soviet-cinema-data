@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1101020
 schema_version: 1
+director:
+- simatovic-sime
+screenwriter:
+- kaleb-vekoslav
+cinematographer:
+- blazhina-branko
+cast:
+- person: nalis-antun
+- person: kolesar-irena

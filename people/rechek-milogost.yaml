@@ -1,0 +1,9 @@
+id: rechek-milogost
+name_ru: Милогост Речек
+roles:
+- actor
+external_ids:
+  wikidata: Q11784075
+sources:
+- https://www.wikidata.org/wiki/Q11784075
+schema_version: 1

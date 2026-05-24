@@ -8,6 +8,18 @@ runtime_min: 75
 external_ids:
   wikidata: Q15270516
   imdb: tt0351946
+  youtube: qUkeJ_2bRuc
 sources:
 - https://www.wikidata.org/wiki/Q15270516
 schema_version: 1
+director:
+- yurenev-vladimir-yurevich
+cinematographer:
+- magidson-mark-pavlovich
+cast:
+- person: serova-valentina-vasilevna
+- person: astangov-mikhail-fyodorovich
+- person: zrazhevskiy-aleksandr-ivanovich
+studio:
+- soyuzdetfilm
+poster_commons: Весенний поток (фильм).jpg

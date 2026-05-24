@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9350909
 schema_version: 1
+director:
+- kanevska-mariya
+screenwriter:
+- kanevska-mariya
+cinematographer:
+- antoni-voytovich
+composer:
+- kshemenskiy-vitold
+cast:
+- person: mechislav-chekhovich
+- person: milskiy-stanislav
+- person: raksa-polya
+- person: vikhnyazh-kazimezh
+- person: skwark-jozef
+- person: karkovska-kristina
+studio:
+- kamera-kinostudiya

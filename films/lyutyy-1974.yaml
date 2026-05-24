@@ -8,6 +8,14 @@ runtime_min: 92
 external_ids:
   wikidata: Q3223013
   imdb: tt0144290
+  youtube: 5KJiHZgCm_k
 sources:
 - https://www.wikidata.org/wiki/Q3223013
 schema_version: 1
+director:
+- okeev-tolomush-okeevich
+screenwriter:
+- konchalovskiy-andrey
+studio:
+- kyrgyzfilm
+- kazakhfilm

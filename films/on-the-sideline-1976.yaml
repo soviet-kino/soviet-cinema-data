@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1303064
 schema_version: 1
+director:
+- sas-peter
+cinematographer:
+- koltai-layosh
+composer:
+- vukan-gyorgy
+cast:
+- person: kallai-ferents

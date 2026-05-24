@@ -8,6 +8,25 @@ runtime_min: 128
 external_ids:
   wikidata: Q1967615
   imdb: tt0084953
+  youtube: 4mO800K_i1w
 sources:
 - https://www.wikidata.org/wiki/Q1967615
 schema_version: 1
+director:
+- gofman-ezhi
+screenwriter:
+- gofman-ezhi
+- fuksiewicz-jacek
+cinematographer:
+- goshik-ezhi
+composer:
+- marchevskiy-petr
+cast:
+- person: barchish-artur
+- person: fronchevskiy-pyotr
+- person: stokinger-tomash
+- person: dymna-anna
+- person: binchitskiy-ezhi
+- person: kopichinskiy-andzhey
+- person: smyalovskiy-igor
+- person: khomerskaya-mariya

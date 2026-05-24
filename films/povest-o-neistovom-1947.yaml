@@ -8,6 +8,18 @@ runtime_min: 89
 external_ids:
   wikidata: Q4366390
   imdb: tt0189942
+  youtube: pTXw74c6TM8
 sources:
 - https://www.wikidata.org/wiki/Q4366390
 schema_version: 1
+director:
+- babochkin-boris-andreevich
+cinematographer:
+- chen-iolanda-evgenevna
+- shelenkov-aleksandr-vladimirovich
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: babochkin-boris-andreevich
+studio:
+- mosfilm

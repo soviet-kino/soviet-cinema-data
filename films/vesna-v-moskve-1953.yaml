@@ -8,6 +8,20 @@ runtime_min: 108
 external_ids:
   wikidata: Q4109510
   imdb: tt0171886
+  youtube: kIFNKTXIxIc
 sources:
 - https://www.wikidata.org/wiki/Q4109510
 schema_version: 1
+director:
+- kheyfits-iosif-efimovich
+- kosheverova-nadezhda-nikolaevna
+screenwriter:
+- gusev-viktor-mikhaylovich
+cinematographer:
+- levitin-veniamin-faustovich
+composer:
+- zhivotov-aleksey
+cast:
+- person: korotkevich-galina-petrovna
+studio:
+- lenfilm

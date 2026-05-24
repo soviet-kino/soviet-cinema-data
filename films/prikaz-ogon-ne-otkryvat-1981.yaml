@@ -8,6 +8,13 @@ runtime_min: 87
 external_ids:
   wikidata: Q4378328
   imdb: tt0237608
+  youtube: 608wOWuitds
 sources:
 - https://www.wikidata.org/wiki/Q4378328
 schema_version: 1
+director:
+- ivanchuk-yuriy-georgievich
+cast:
+- person: biryukov-vladlen-egorovich
+studio:
+- kinostudiya-imeni-m-gorkogo

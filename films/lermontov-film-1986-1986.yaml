@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4259248
 schema_version: 1
+director:
+- burlyaev-nikolai
+screenwriter:
+- burlyaev-nikolai
+cast:
+- person: burlyaev-nikolai
+studio:
+- mosfilm

@@ -8,6 +8,22 @@ runtime_min: 79
 external_ids:
   wikidata: Q4447797
   imdb: tt0382276
+  youtube: t4LYy2VVeVA
 sources:
 - https://www.wikidata.org/wiki/Q4447797
 schema_version: 1
+director:
+- nemolyaev-vladimir-viktorovich
+screenwriter:
+- ardov-viktor
+- nemolyaev-vladimir-viktorovich
+cinematographer:
+- rubashkin-samuil-yakovlevich
+composer:
+- kats-sigizmund-abramovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: kryuchkov-nikolay-afanasevich
+- person: orlova-vera-markovna
+studio:
+- mosfilm

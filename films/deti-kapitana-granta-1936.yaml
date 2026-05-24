@@ -8,6 +8,30 @@ runtime_min: 88
 external_ids:
   wikidata: Q4159356
   imdb: tt0027516
+  youtube: 9w9lXm6pj_o
 sources:
 - https://www.wikidata.org/wiki/Q4159356
 schema_version: 1
+director:
+- gutman-david-grigorevich
+- vaynshtok-vladimir-petrovich
+screenwriter:
+- leonidov-oleg-leonidovich
+cinematographer:
+- koltsatyy-arkadiy-nikolaevich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: segel-yakov-aleksandrovich
+- person: gutman-david-grigorevich
+- person: biy-brodskiy-iona-abramovich
+- person: romanov-mikhail-fyodorovich
+- person: strelkova-mariya-pavlovna
+- person: chuvelyov-ivan-pavlovich
+- person: yurev-yuriy-mikhaylovich
+- person: vitovtov-nikolay-mikhaylovich
+- person: michurin-nikolay-ivanovich
+- person: adelung-nikolay-nikolaevich
+studio:
+- mosfilm

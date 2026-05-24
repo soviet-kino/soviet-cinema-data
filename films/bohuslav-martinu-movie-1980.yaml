@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116687620
 schema_version: 1
+director:
+- yiresh-yaromil
+cast:
+- person: martinu-boguslav

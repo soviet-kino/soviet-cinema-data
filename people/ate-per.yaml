@@ -1,0 +1,9 @@
+id: ate-per
+name_ru: Пьер Ате
+roles:
+- actor
+external_ids:
+  wikidata: Q3385432
+sources:
+- https://www.wikidata.org/wiki/Q3385432
+schema_version: 1

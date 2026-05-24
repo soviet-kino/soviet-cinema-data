@@ -8,6 +8,40 @@ runtime_min: 117
 external_ids:
   wikidata: Q1755424
   imdb: tt0093664
+  youtube: CyNy0_NRRdc
 sources:
 - https://www.wikidata.org/wiki/Q1755424
 schema_version: 1
+director:
+- mikhalkov-nikita
+screenwriter:
+- mikhalkov-nikita
+- damiko-suzo-chekki
+- adabashyan-aleksandr
+cinematographer:
+- dzhakomo-franko-di
+composer:
+- le-fransis
+cast:
+- person: mastroyanni-marchello
+- person: mangano-silvana
+- person: keller-marta
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: tabakov-oleg-pavlovich
+- person: kherlitska-roberto
+- person: safonova-elena
+- person: larionov-vsevolod-dmitrievich
+- person: roza-franchesko-de
+- person: rumor-ivana
+- person: martines-loredana
+- person: turilli-maks
+- person: baroni-paolo
+- person: chei-pina
+- person: marinyano-rentso
+- person: adabashyan-aleksandr
+- person: bogatyryov-yuriy-georgievich
+- person: zolotukhin-dmitriy-lvovich
+- person: filippenko-aleksandr-georgievich
+- person: bon-mariya-gratsiya
+studio:
+- rai-1

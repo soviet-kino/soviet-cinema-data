@@ -1,0 +1,9 @@
+id: patkosh-irma
+name_ru: Ирма Паткош
+roles:
+- actor
+external_ids:
+  wikidata: Q601164
+sources:
+- https://www.wikidata.org/wiki/Q601164
+schema_version: 1

@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761111
 schema_version: 1
+cast:
+- person: bijelic-severin
+- person: viktorovic-mihajlo
+- person: ajvaz-milan
+- person: jelisic-or-e

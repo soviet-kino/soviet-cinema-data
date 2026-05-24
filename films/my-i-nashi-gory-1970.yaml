@@ -8,6 +8,24 @@ runtime_min: 95
 external_ids:
   wikidata: Q4309256
   imdb: tt0361903
+  youtube: s9Vis5dxlHU
 sources:
 - https://www.wikidata.org/wiki/Q4309256
 schema_version: 1
+director:
+- malyan-genrikh
+screenwriter:
+- matevosyan-grant
+cinematographer:
+- mesyan-karen
+composer:
+- mansuryan-tigran
+cast:
+- person: peleshyan-artavazd
+- person: mkrtchyan-frunzik
+- person: abramyan-khoren
+- person: sarkisyan-sos
+- person: sherents-azat-armenakovich
+- person: ayvazyan-armen
+studio:
+- armenfilm

@@ -8,6 +8,26 @@ runtime_min: 137
 external_ids:
   wikidata: Q1775194
   imdb: tt0092879
+  youtube: dhZ8Q-ORJ9A
 sources:
 - https://www.wikidata.org/wiki/Q1775194
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+composer:
+- korndorf-nikolay-sergeevich
+cast:
+- person: abdulov-aleksandr-gavrilovich
+- person: zeldin-vladimir-mikhaylovich
+- person: kaidanovsky-aleksandr
+- person: gluzskiy-mikhail-andreevich
+- person: drubich-tatyana-lyusenovna
+- person: zharkov-aleksey-dmitrievich
+- person: zolotnitskiy-aleksey-alekseevich
+- person: maksakova-lyudmila-vasilevna
+- person: romashin-anatoliy-vladimirovich
+- person: tereshchenko-irina-georgievna
+studio:
+- odesskaya-kinostudiya

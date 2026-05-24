@@ -9,3 +9,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123304756
 schema_version: 1
+director:
+- donev-dono

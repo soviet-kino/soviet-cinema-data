@@ -8,6 +8,15 @@ runtime_min: 25
 external_ids:
   wikidata: Q4254610
   imdb: tt0081030
+  youtube: FIlDHBZ_HkY
 sources:
 - https://www.wikidata.org/wiki/Q4254610
 schema_version: 1
+director:
+- klimov-elem
+composer:
+- schnittke-alfred
+cast:
+- person: shepitko-larisa
+studio:
+- mosfilm

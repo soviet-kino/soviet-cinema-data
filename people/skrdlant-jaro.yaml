@@ -1,0 +1,9 @@
+id: skrdlant-jaro
+name_ru: Jaro Škrdlant
+roles:
+- actor
+external_ids:
+  wikidata: Q95103455
+sources:
+- https://www.wikidata.org/wiki/Q95103455
+schema_version: 1

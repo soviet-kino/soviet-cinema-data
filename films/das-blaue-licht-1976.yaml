@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1171003
 schema_version: 1
+director:
+- gusner-iris
+screenwriter:
+- sharfenberg-diter
+cinematographer:
+- lents-yurgen
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: talbakh-katarina
+- person: shvarts-dzheki
+- person: shubert-gyunter
+- person: loser-christa
+- person: delmare-fred
+- person: kommerel-blansh
+- person: choynski-carl-heinz
+- person: radeke-kurt
+- person: stra-burger-helmut
+- person: pucher-wilfried
+- person: semenov-viktor
+- person: pulman-marilu
+- person: khebenshtrayt-pedro
+- person: schonitz-joachim

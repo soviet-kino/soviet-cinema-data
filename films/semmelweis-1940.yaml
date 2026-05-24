@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113989958
 schema_version: 1
+director:
+- andre-de-tot
+screenwriter:
+- babay-jozsef
+- kelmar-laslo
+- bihari-laszlo
+- muller-vilmos
+cinematographer:
+- eiben-istvan
+composer:
+- pongracz-zoltan
+- rubanyi-vilmos
+cast:
+- person: bilichi-tivadar
+- person: gozon-gyula
+- person: mikhayfi-bela
+- person: simor-erzsi
+- person: shomlai-artur
+- person: uray-tivadar
+- person: arpad-margit
+- person: ligeti-juliska-d

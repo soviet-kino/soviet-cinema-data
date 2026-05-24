@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3230514
 schema_version: 1
+director:
+- kelmar-laslo
+cinematographer:
+- eiben-istvan
+cast:
+- person: javor-pal

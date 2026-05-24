@@ -1,0 +1,9 @@
+id: laes-vayno
+name_ru: Вайно Лаес
+roles:
+- actor
+external_ids:
+  wikidata: Q16405456
+sources:
+- https://www.wikidata.org/wiki/Q16405456
+schema_version: 1

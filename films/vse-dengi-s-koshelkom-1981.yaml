@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25536379
 schema_version: 1
+director:
+- dudin-vitaliy-andreevich
+cinematographer:
+- sporyshkov-vladimir-petrovich
+studio:
+- mosfilm
+- belarusfilm

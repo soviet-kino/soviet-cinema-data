@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4023727
 schema_version: 1
+director:
+- shvankmayer-yan
+screenwriter:
+- shvankmayer-yan
+cinematographer:
+- maly-svatopluk
+composer:
+- lishka-zdenek
+cast:
+- person: myslikova-mila
+- person: kopriva-ludek
+- person: borovicka-vaclav-pavel
+- person: husak-frantisek
+- person: halek-jiri

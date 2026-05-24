@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4340123
 schema_version: 1
+director:
+- rezhissyor-mylnikov-georgiy-stepanovich
+screenwriter:
+- merezhko-viktor
+composer:
+- kolmanovskiy-sergey-eduardovich
+cast:
+- person: burkov-georgiy-ivanovich
+- person: polskikh-galina
+- person: pelttser-tatyana-ivanovna
+- person: volshaninova-nelli-nikolaevna
+studio:
+- mosfilm

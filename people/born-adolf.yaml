@@ -1,0 +1,9 @@
+id: born-adolf
+name_ru: Адольф Борн
+roles:
+- director
+external_ids:
+  wikidata: Q361032
+sources:
+- https://www.wikidata.org/wiki/Q361032
+schema_version: 1

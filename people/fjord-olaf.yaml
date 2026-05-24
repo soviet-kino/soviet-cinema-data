@@ -1,0 +1,9 @@
+id: fjord-olaf
+name_ru: Olaf Fjord
+roles:
+- actor
+external_ids:
+  wikidata: Q214770
+sources:
+- https://www.wikidata.org/wiki/Q214770
+schema_version: 1

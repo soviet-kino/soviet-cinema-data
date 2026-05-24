@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7658723
 schema_version: 1
+director:
+- kubat-eduard
+screenwriter:
+- koplowitz-jan
+cinematographer:
+- lemann-frits
+composer:
+- vertslau-yoakhim
+cast:
+- person: dits-frits
+- person: zimon-gyunter
+- person: kubichek-rut-mariya
+- person: korb-iren
+- person: lutts-rezhin
+- person: shall-teo
+- person: kuter-charlotte
+studio:
+- defa

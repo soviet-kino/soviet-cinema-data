@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12760678
 schema_version: 1
+director:
+- maricic-milenko
+cast:
+- person: gutovic-milan
+- person: miodrag-radovanovich
+- person: tasovac-predrag
+- person: nikshich-snezhana

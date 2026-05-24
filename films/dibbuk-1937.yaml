@@ -8,6 +8,25 @@ runtime_min: 125
 external_ids:
   wikidata: Q934109
   imdb: tt0030092
+  youtube: U1K23IrEtpI
 sources:
 - https://www.wikidata.org/wiki/Q934109
 schema_version: 1
+director:
+- vashinskiy-mikhal
+screenwriter:
+- katsizne-alter
+- an-skiy-semyon-akimovich
+cinematographer:
+- wywerka-albert
+composer:
+- kon-henech
+cast:
+- person: liana-lili
+- person: kurc-abraham
+- person: morewski-abraham
+- person: samberg-ayzik
+- person: khalpern-dina
+- person: libgold-leon
+- person: bozyk-max
+- person: landau-samuel

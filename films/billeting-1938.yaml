@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123363082
 schema_version: 1
+director:
+- szlatinay-sandor
+composer:
+- szlatinay-sandor
+cast:
+- person: kabosh-gyula
+- person: pager-antal
+- person: seletski-zita

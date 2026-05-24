@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56887244
 schema_version: 1
+director:
+- smetana-zdenek
+screenwriter:
+- dutka-edgar
+- smetana-zdenek
+cinematographer:
+- racek-milan
+- sevcik-jiri
+composer:
+- celba-jaroslav
+studio:
+- jiri-trnka-studio

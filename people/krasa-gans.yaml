@@ -1,0 +1,9 @@
+id: krasa-gans
+name_ru: Ганс Краса
+roles:
+- actor
+external_ids:
+  wikidata: Q695501
+sources:
+- https://www.wikidata.org/wiki/Q695501
+schema_version: 1

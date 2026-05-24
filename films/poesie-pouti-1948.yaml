@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16948677
 schema_version: 1
+director:
+- huska-hugo
+cinematographer:
+- vich-mila
+cast:
+- person: kemr-yozef
+- person: chvalina-josef
+- person: carlini
+- person: vlachova-kveta

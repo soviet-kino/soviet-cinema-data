@@ -1,0 +1,9 @@
+id: eyveri-vel
+name_ru: Вэл Эйвери
+roles:
+- actor
+external_ids:
+  wikidata: Q470062
+sources:
+- https://www.wikidata.org/wiki/Q470062
+schema_version: 1

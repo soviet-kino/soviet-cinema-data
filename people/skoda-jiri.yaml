@@ -1,0 +1,9 @@
+id: skoda-jiri
+name_ru: Jiří Škoda
+roles:
+- actor
+external_ids:
+  wikidata: Q95241298
+sources:
+- https://www.wikidata.org/wiki/Q95241298
+schema_version: 1

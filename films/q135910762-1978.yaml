@@ -10,3 +10,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q135910762
 schema_version: 1
+director:
+- rajnai-andras

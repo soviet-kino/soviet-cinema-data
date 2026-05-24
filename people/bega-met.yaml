@@ -1,0 +1,9 @@
+id: bega-met
+name_ru: Met Bega
+roles:
+- actor
+external_ids:
+  wikidata: Q11777574
+sources:
+- https://www.wikidata.org/wiki/Q11777574
+schema_version: 1

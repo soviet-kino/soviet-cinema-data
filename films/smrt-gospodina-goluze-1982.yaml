@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q13403029
 schema_version: 1
+director:
+- nikolich-zhivko
+screenwriter:
+- branimir-shchepanovich
+cinematographer:
+- szomolanyi-stanislav
+composer:
+- borisavljevic-vojkan
+cast:
+- person: samardzhich-lyubisha
+- person: elena-petrovich
+- person: gershak-savina
+- person: ropaichova-ida
+- person: talpova-hana
+- person: boro-bregovich
+- person: pekanats-vesna
+- person: miodrag-radovanovich
+- person: furkova-zita
+- person: micovic-vojislav
+- person: milutin-butkovich
+studio:
+- avala-film
+- bratislava-film-studios

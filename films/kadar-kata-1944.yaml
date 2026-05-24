@@ -8,6 +8,18 @@ runtime_min: 11
 external_ids:
   wikidata: Q59563227
   imdb: tt0496526
+  youtube: Pt-c0OgYhgM
 sources:
 - https://www.wikidata.org/wiki/Q59563227
 schema_version: 1
+director:
+- szots-istvan
+screenwriter:
+- szots-istvan
+cinematographer:
+- dulovits-jeno
+composer:
+- koday-zoltan
+cast:
+- person: szellay-alice
+- person: halasz-geza

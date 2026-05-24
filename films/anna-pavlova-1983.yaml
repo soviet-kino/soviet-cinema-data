@@ -8,6 +8,40 @@ runtime_min: 151
 external_ids:
   wikidata: Q1964256
   imdb: tt0086089
+  youtube: 96b5ljgTsSw
 sources:
 - https://www.wikidata.org/wiki/Q1964256
 schema_version: 1
+director:
+- lotyanu-emil
+screenwriter:
+- lotyanu-emil
+cinematographer:
+- guslinskiy-evgeniy
+- nakhabtsev-vladimir
+composer:
+- doga-evgeniy
+cast:
+- person: skorseze-martin
+- person: foks-dzheyms
+- person: dmitriev-igor-borisovich
+- person: toma-svetlana
+- person: svetlichnaya-svetlana-afanasevna
+- person: shakurov-sergey-kayumovich
+- person: kryukov-nikolay-nikolaevich
+- person: sklyar-igor-borisovich
+- person: larionov-vsevolod-dmitrievich
+- person: lotyanu-emil
+- person: belyaeva-galina
+- person: babyatinskiy-valeriy-konstantinovich
+- person: ganibalova-valentina
+- person: gusev-pyotr-andreevich
+- person: gusev-yuriy-evgenevich
+- person: kravchenko-galina-sergeevna
+- person: lyampe-grigoriy-moiseevich
+- person: markov-leonid-vasilevich
+- person: romashin-anatoliy-vladimirovich
+- person: fateeva-natalya-nikolaevna
+- person: grigoriu-grigore-petru
+studio:
+- mosfilm

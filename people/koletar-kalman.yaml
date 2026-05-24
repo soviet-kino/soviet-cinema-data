@@ -1,0 +1,9 @@
+id: koletar-kalman
+name_ru: Kálmán Koletár
+roles:
+- actor
+external_ids:
+  wikidata: Q18169147
+sources:
+- https://www.wikidata.org/wiki/Q18169147
+schema_version: 1

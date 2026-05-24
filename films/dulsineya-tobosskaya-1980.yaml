@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4170522
 schema_version: 1
+director:
+- druzhinina-svetlana
+screenwriter:
+- volodin-aleksandr-moiseevich
+cinematographer:
+- mukasey-anatoliy-mikhaylovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: dzhigarkhanyan-armen-borisovich
+- person: talyzina-valentina
+- person: brondukov-borislav-nikolaevich
+- person: gundareva-natalya-georgievna
+- person: durova-ekaterina-lvovna
+- person: plotnikov-boris
+- person: nazarov-aleksandr-pavlovich
+studio:
+- mosfilm

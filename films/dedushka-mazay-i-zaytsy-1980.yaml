@@ -8,6 +8,12 @@ runtime_min: 587
 external_ids:
   wikidata: Q21491034
   imdb: tt2570130
+  youtube: a3-cRHDBohE
 sources:
 - https://www.wikidata.org/wiki/Q21491034
 schema_version: 1
+composer:
+- sviridov-georgiy
+- stikhin-evgeniy-mikhaylovich
+studio:
+- sverdlovskaya-kinostudiya

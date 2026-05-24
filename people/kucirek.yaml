@@ -1,0 +1,9 @@
+id: kucirek
+name_ru: Kučírek
+roles:
+- actor
+external_ids:
+  wikidata: Q133570533
+sources:
+- https://www.wikidata.org/wiki/Q133570533
+schema_version: 1

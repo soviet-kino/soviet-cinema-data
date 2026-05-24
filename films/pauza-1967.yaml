@@ -7,6 +7,12 @@ country:
 runtime_min: 38
 external_ids:
   wikidata: Q85864387
+  youtube: rUa3JTKjWr4
 sources:
 - https://www.wikidata.org/wiki/Q85864387
 schema_version: 1
+cast:
+- person: zhzhyonov-georgiy-stepanovich
+- person: lezhdey-elza-ivanovna
+studio:
+- tsentralnoe-televidenie

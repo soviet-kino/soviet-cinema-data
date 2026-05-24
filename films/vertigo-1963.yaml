@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11081975
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- prokhazka-yan
+- kakhinya-karel
+cinematographer:
+- vanish-yozef
+composer:
+- novak-yan-2
+cast:
+- person: myslikova-mila
+- person: bednar-dzhiri
+- person: solcova-eva
+- person: glusitska-karel
+- person: velen-oldrzhikh
+- person: skala-petr
+- person: hospodsky-karel
+- person: radimetskiy-yaroslav
+- person: dufek-petr
+- person: vachova-iva
+- person: tucek-jiri
+studio:
+- barrandov

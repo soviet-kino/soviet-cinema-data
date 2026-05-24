@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27957972
 schema_version: 1
+director:
+- kazanskiy-gennadiy-sergeevich
+cast:
+- person: michurin-gennadiy-mikhaylovich
+studio:
+- lenfilm

@@ -9,3 +9,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23900095
 schema_version: 1
+director:
+- s-otwinski-jozef
+cast:
+- person: volleyko-cheslav
+- person: baer-bogdan
+- person: pavlikovskiy-mechislav
+- person: kossobudzkaya-khalina

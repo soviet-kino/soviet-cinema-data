@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4423924
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- barto-agniya-lvovna
+cinematographer:
+- egiazarov-gavriil-georgievich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: plyatt-rostislav-yanovich
+- person: zashchipina-natalya-aleksandrovna
+- person: markish-david-peretsovich
+studio:
+- soyuzdetfilm
+poster_commons: Elephant and rope (1945, intro).jpg

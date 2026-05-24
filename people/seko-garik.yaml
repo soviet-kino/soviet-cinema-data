@@ -1,0 +1,9 @@
+id: seko-garik
+name_ru: Гарик Секо
+roles:
+- director
+external_ids:
+  wikidata: Q56875944
+sources:
+- https://www.wikidata.org/wiki/Q56875944
+schema_version: 1

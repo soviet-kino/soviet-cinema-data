@@ -1,0 +1,9 @@
+id: kodar-oya
+name_ru: Ойа Кодар
+roles:
+- actor
+external_ids:
+  wikidata: Q537212
+sources:
+- https://www.wikidata.org/wiki/Q537212
+schema_version: 1

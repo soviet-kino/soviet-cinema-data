@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q120721794
 schema_version: 1
+director:
+- dziedzina-julian
+screenwriter:
+- vidzhinskiy-andzhey
+- dziedzina-julian
+cinematographer:
+- kiyovskiy-matsey
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: shaflyarskaya-danuta
+- person: talyar-khenrik
+- person: shonert-miroslav
+- person: sosna-sarno-tatyana
+- person: sagan-ezhi
+studio:
+- q110427551

@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q315593
 schema_version: 1
+director:
+- raynl-kharald
+screenwriter:
+- raynekker-gerbert
+- raynl-kharald
+cinematographer:
+- kalinke-ernst-vilgelm
+composer:
+- byottkher-martin
+cast:
+- person: dor-karin
+- person: volter-ralf
+- person: arent-eddi
+- person: jurichs-claus
+- person: waitzmann-kurt
+- person: barker-leks
+- person: bris-per
+- person: battalya-rik
+- person: hamacher-hans-w
+- person: giese-heinz
+- person: medar-vladimir
+- person: ivezich-iliya
+- person: zonnenshayn-klaus
+- person: talli-frederik
+- person: spoljar-branko
+- person: leib-vladimir
+studio:
+- yadran-film

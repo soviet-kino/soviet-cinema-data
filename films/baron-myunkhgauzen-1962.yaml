@@ -11,3 +11,37 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7732986
 schema_version: 1
+director:
+- zeman-karel
+screenwriter:
+- zeman-karel
+- kaynar-yozef
+- brdechka-irzhi
+cinematographer:
+- tarantik-irzhi
+composer:
+- lishka-zdenek
+cast:
+- person: kopetskiy-milosh
+- person: libicek-jan
+- person: grushinskiy-rudolf
+- person: breykhova-yana
+- person: simenek-otto
+- person: verikh-yan
+- person: elinek-rudolf
+- person: eduard-kogout
+- person: khyoger-karel
+- person: glinomaz-yozef
+- person: effa-karel
+- person: kholub-miroslav
+- person: zagorskiy-boguslav
+- person: tregl-vatslav
+- person: gomola-miroslav
+- person: slegr-frantisek
+- person: pizla-jarka
+- person: hodr-zdenek
+- person: zahorsky-richard
+- person: cherny-vitezslav
+studio:
+- kratky-film-praha
+- kinostudiya-gotvaldova

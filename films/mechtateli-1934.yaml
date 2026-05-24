@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q55658491
 schema_version: 1
+director:
+- maryan-david-samoylovich
+screenwriter:
+- maryan-david-samoylovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- nechaev-vasiliy-vasilevich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: sverdlin-lev-naumovich
+- person: plotnikov-nikolay-sergeevich
+- person: tarasova-alla-konstantinovna
+studio:
+- mosfilm

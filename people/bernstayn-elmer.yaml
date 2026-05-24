@@ -1,0 +1,9 @@
+id: bernstayn-elmer
+name_ru: Элмер Бернстайн
+roles:
+- composer
+external_ids:
+  wikidata: Q111436
+sources:
+- https://www.wikidata.org/wiki/Q111436
+schema_version: 1

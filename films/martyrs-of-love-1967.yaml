@@ -8,6 +8,83 @@ runtime_min: 71
 external_ids:
   wikidata: Q17633131
   imdb: tt0060718
+  youtube: GgQCaEkrcMQ
 sources:
 - https://www.wikidata.org/wiki/Q17633131
 schema_version: 1
+director:
+- nemets-yan
+screenwriter:
+- nemets-yan
+- krumbakhova-ester
+cinematographer:
+- ondrzhichek-miroslav
+composer:
+- klusak-yan
+- maresh-karel
+cast:
+- person: salivarova-zdena
+- person: kubishova-marta
+- person: anderson-lindsey
+- person: gott-karel
+- person: khammer-yan
+- person: vitoush-miroslav
+- person: jegorov-eugen
+- person: mukha-irzhi
+- person: klusak-yan
+- person: verberger-jiri
+- person: tropp-laco
+- person: deczi-laco
+- person: dvorakova-denisa
+- person: anyzova-helena
+- person: fara-libor
+- person: kisza-herbert
+- person: bruderkhans-zdenek
+- person: karbanova-ivana
+- person: tsergova-itka
+- person: olmerova-eva
+- person: preclik-vladimir
+- person: bahensky-antonin
+- person: havlik-ferdinand
+- person: zemankova-inka
+- person: konichek-yozef
+- person: tesar-milan
+- person: novotny-milon
+- person: bosek-pavel
+- person: sevcikova-jana
+- person: kadlecikova-marta
+- person: cepkova-alena
+- person: greif-karel
+- person: kopriva-petr
+- person: masikova-jana
+- person: vitoch-pavel
+- person: vodak-vaclav
+- person: svetelska-olga
+- person: q131922429
+- person: bota-jaroslav
+- person: kuberova-hana
+- person: jandova-jirina
+- person: schnoblingova-zuzana
+- person: lauferova-jana
+- person: pilar-karel
+- person: lichtenbergova-jana
+- person: prazak-antonin
+- person: pejskova-irena
+- person: krumbach-jan
+- person: dufkova-jana
+- person: fanta-zdenek
+- person: jancova-marie
+- person: sixtova-marie
+- person: korcakova-zdena
+- person: bambulova-vlasta
+- person: kvetonova-ela
+- person: jadernik-pavel
+- person: hotovy-mila
+- person: pejska-emanuel
+- person: siminova-marie
+- person: horackova-sarka
+- person: volf-karel
+- person: kovarik-jiri
+- person: safranek-milos
+- person: weiss-roman
+- person: jancova-lubomira

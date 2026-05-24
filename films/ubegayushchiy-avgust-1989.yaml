@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65211216
 schema_version: 1
+director:
+- dolinin-dmitriy
+screenwriter:
+- efros-anatoliy-vasilevich
+- grebnev-anatoliy
+cinematographer:
+- kolganov-lev-nikolaevich
+composer:
+- banshchikov-gennadiy-ivanovich
+cast:
+- person: malinovskaya-lyubov-ivanovna
+- person: nevolina-anzhelika-sergeevna
+- person: filippenko-aleksandr-georgievich
+- person: russkin-sergey-viktorovich
+- person: osipchuk-vladimir
+studio:
+- lenfilm

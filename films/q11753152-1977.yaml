@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11753152
 schema_version: 1
+director:
+- skonieczny-zygmunt
+screenwriter:
+- frejdlich-konrad
+- skonieczny-zygmunt
+composer:
+- orlewicz-leszek
+cast:
+- person: bedrynskaya-khanna
+- person: kershnovskiy-kshishtof
+- person: mikhalskiy-stanislav
+- person: jurasz-antoni
+- person: wa-aszek-eugeniusz
+- person: os-awski-jozef
+- person: peratskiy-yuzef
+- person: tolewska-krystyna
+studio:
+- q110427551

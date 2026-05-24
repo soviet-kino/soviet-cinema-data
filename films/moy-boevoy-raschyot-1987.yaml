@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4299817
 schema_version: 1
+director:
+- nikitin-mikhail-fyodorovich
+screenwriter:
+- karmalita-svetlana-igorevna
+composer:
+- tsvetkov-igor-arkadevich
+cast:
+- person: borisov-lev-ivanovich
+- person: egorova-nataliya
+- person: kopylova-svetlana-vadimovna
+- person: priyomykhov-valeriy
+studio:
+- lenfilm

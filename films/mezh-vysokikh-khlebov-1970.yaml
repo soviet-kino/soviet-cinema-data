@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4288046
   imdb: tt0314374
+  youtube: sKFd4sw6wtY
 sources:
 - https://www.wikidata.org/wiki/Q4288046
 schema_version: 1
+director:
+- millionshchikov-leonid-sergeevich
+screenwriter:
+- stadnyuk-ivan-fotievich
+cinematographer:
+- lukanev-nikolay-deonisievich
+composer:
+- bilash-aleksandr-ivanovich
+cast:
+- person: leonov-evgeniy-pavlovich
+studio:
+- odesskaya-kinostudiya

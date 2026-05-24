@@ -8,6 +8,24 @@ runtime_min: 91
 external_ids:
   wikidata: Q4193938
   imdb: tt0129289
+  youtube: 7h5YFk9CHS0
 sources:
 - https://www.wikidata.org/wiki/Q4193938
 schema_version: 1
+director:
+- roshal-grigoriy-lvovich
+screenwriter:
+- roshal-grigoriy-lvovich
+cinematographer:
+- kosmatov-leonid
+composer:
+- kabalevskiy-dmitriy-borisovich
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: maksimova-antonina-mikhaylovna
+- person: abrikosov-andrey-lvovich
+- person: plotnikov-nikolay-sergeevich
+- person: stanitsyn-viktor-yakovlevich
+- person: dorliak-dmitriy-lvovich
+studio:
+- mosfilm

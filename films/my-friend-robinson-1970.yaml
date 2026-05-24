@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15834754
 schema_version: 1
+director:
+- gref-roland
+cinematographer:
+- gref-roland
+composer:
+- rozenfeld-gerkhard
+cast:
+- person: berezka-yan

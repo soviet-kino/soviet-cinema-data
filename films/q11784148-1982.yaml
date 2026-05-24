@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11784148
 schema_version: 1
+director:
+- rzeszewski-janusz
+screenwriter:
+- tyoplits-kshishtof-teodor
+cinematographer:
+- zdort-wies-aw
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: stalinska-dorota
+studio:
+- iluzjon

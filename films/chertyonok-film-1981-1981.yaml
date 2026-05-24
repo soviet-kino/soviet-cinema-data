@@ -10,3 +10,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12371193
 schema_version: 1
+director:
+- murdmaa-khelle
+screenwriter:
+- ekhala-olav
+- murdmaa-khelle
+- oidermaa-helgi
+cinematographer:
+- ruus-ago
+composer:
+- ekhala-olav
+cast:
+- person: ever-ita-alfredovna
+- person: nymmik-sulev
+- person: kark-tynu
+- person: yukskyula-aarne-mati
+- person: kurve-anna-liyza
+- person: raud-mikhkel
+- person: kibuspuu-urmas
+- person: kilvet-kaarel
+- person: aru-ines
+studio:
+- tallinfilm

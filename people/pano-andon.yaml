@@ -1,0 +1,9 @@
+id: pano-andon
+name_ru: Andon Pano
+roles:
+- actor
+external_ids:
+  wikidata: Q9150906
+sources:
+- https://www.wikidata.org/wiki/Q9150906
+schema_version: 1

@@ -8,6 +8,30 @@ runtime_min: 81
 external_ids:
   wikidata: Q4367569
   imdb: tt0134899
+  youtube: xJ__j31z3io
 sources:
 - https://www.wikidata.org/wiki/Q4367569
 schema_version: 1
+director:
+- moroz-yuriy-pavlovich
+screenwriter:
+- bulychyov-kir
+cinematographer:
+- filatov-aleksandr
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: karachentsov-nikolay
+- person: pevtsov-dmitriy-anatolevich
+- person: bystritskiy-sergey-veniaminovich
+- person: gromov-leonid
+- person: zhigunov-sergey
+- person: kuznetsov-villor-petrovich
+- person: levtova-marina
+- person: talashko-vladimir-dmitrievich
+- person: igor-yasulovich
+- person: livanova-marina-valerevna
+- person: talasko-vladimir
+studio:
+- kinostudiya-imeni-m-gorkogo

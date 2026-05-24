@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4156458
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- pomeshchikov-evgeniy-mikhaylovich
+cinematographer:
+- beknazaryan-garush
+composer:
+- satyan-ashot
+cast:
+- person: avetisyan-avet
+- person: kevorkov-stepan
+- person: simonyan-metaksiya
+- person: amirbekyan-aram
+- person: saryan-faddey
+- person: khachvankyan-karp
+- person: gabrielyan-gurgen
+- person: pogosyan-david
+- person: gen-gurgen
+studio:
+- armenfilm

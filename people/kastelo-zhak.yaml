@@ -1,0 +1,9 @@
+id: kastelo-zhak
+name_ru: Жак Кастело
+roles:
+- actor
+external_ids:
+  wikidata: Q507482
+sources:
+- https://www.wikidata.org/wiki/Q507482
+schema_version: 1

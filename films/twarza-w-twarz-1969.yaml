@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9363179
 schema_version: 1
+director:
+- zanussi-kshishtof
+screenwriter:
+- zanussi-kshishtof
+- zhebrovskiy-edvard
+cinematographer:
+- vuychik-ezhi
+composer:
+- valyatsinskiy-adam
+cast:
+- person: pavlovskiy-pyotr
+- person: kala-izabela
+studio:
+- tor-kinostudiya

@@ -1,0 +1,9 @@
+id: romancik-elo
+name_ru: Elo Romančík
+roles:
+- actor
+external_ids:
+  wikidata: Q3507359
+sources:
+- https://www.wikidata.org/wiki/Q3507359
+schema_version: 1

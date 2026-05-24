@@ -1,0 +1,9 @@
+id: devis-fil-2
+name_ru: Фил Дэвис
+roles:
+- actor
+external_ids:
+  wikidata: Q915916
+sources:
+- https://www.wikidata.org/wiki/Q915916
+schema_version: 1

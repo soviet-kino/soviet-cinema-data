@@ -1,0 +1,9 @@
+id: sotlar-bert
+name_ru: Берт Сотлар
+roles:
+- actor
+external_ids:
+  wikidata: Q12785795
+sources:
+- https://www.wikidata.org/wiki/Q12785795
+schema_version: 1

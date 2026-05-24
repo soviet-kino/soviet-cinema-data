@@ -1,0 +1,9 @@
+id: lampe-horst
+name_ru: Horst Lampe
+roles:
+- actor
+external_ids:
+  wikidata: Q1629646
+sources:
+- https://www.wikidata.org/wiki/Q1629646
+schema_version: 1

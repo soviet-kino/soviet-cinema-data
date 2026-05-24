@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47537767
 schema_version: 1
+director:
+- markos-miklos
+screenwriter:
+- markos-miklos
+cast:
+- person: madarash-yozhef
+- person: koltai-robert
+- person: agardi-gabor
+- person: buytor-ishtvan
+- person: kallai-ferents
+- person: kovacs-janos

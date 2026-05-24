@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124316497
 schema_version: 1
+director:
+- getov-milen
+screenwriter:
+- getov-milen
+cast:
+- person: hadzhiyanev-dimitar
+- person: dineva-katya
+studio:
+- bolgarskoe-natsionalnoe-televidenie

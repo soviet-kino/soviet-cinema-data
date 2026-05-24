@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4346076
 schema_version: 1
+director:
+- krenbergs-imants
+cinematographer:
+- seletskis-andris
+composer:
+- kalnynsh-imants
+cast:
+- person: abolinsh-gundars
+- person: skrastinsh-imants
+studio:
+- rizhskaya-kinostudiya

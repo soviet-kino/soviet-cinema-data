@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1252554
 schema_version: 1
+director:
+- fryolikh-gustav
+- sekeli-stiv
+screenwriter:
+- khertseg-ferents
+cinematographer:
+- eiben-istvan
+composer:
+- abrakham-pal
+cast:
+- person: fryolikh-gustav
+- person: khorn-kamilla
+- person: tresler-otto
+- person: poynter-anton
+- person: schur-willi
+- person: kramer-leopold
+- person: beregi-oskar
+- person: khalmay-tibor
+- person: paffi-charlz
+- person: frank-ellen

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270644
 schema_version: 1
+director:
+- mayorov-aleksandr
+screenwriter:
+- mayorov-aleksandr
+cinematographer:
+- rerberg-georgy
+composer:
+- bronner-mikhail-borisovich
+cast:
+- person: polskikh-galina
+- person: titova-valentina-antipovna
+- person: kononov-mikhail-ivanovich
+- person: balabanov-sergey
+- person: bozhok-tatyana-andreevna
+- person: golubenko-valentin-alekseevich
+- person: lebedev-aleksandr-ivanovich
+- person: maksimova-elena
+- person: parfyonov-nikolay-ivanovich
+- person: igor-yasulovich
+studio:
+- mosfilm

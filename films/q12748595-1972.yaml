@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748595
 schema_version: 1
+director:
+- maricic-milenko
+cast:
+- person: marko-todorovich
+- person: svetlana-boykovich
+- person: petrich-branka
+- person: zoran-milosavlevich
+- person: yagodich-ivan
+- person: miodrag-radovanovich

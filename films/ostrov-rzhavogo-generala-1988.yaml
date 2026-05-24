@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4338876
 schema_version: 1
+director:
+- khovenko-valentin-mikhaylovich
+screenwriter:
+- bulychyov-kir
+cinematographer:
+- kefchiyan-feliks-artavazdovich
+composer:
+- chaykovskiy-aleksandr-vladimirovich
+cast:
+- person: agafonova-tatyana-ivanovna
+- person: artemeva-lyudmila
+- person: balon-vladimir-yakovlevich
+- person: aktyor-danilov-mikhail-viktorovich
+- person: lenkov-aleksandr-sergeevich
+- person: prizhbilyak-ekaterina
+- person: sokolov-stanislav-aleksandrovich
+- person: storozhik-valeriy-stepanovich
+studio:
+- ekran

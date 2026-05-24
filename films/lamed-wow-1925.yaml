@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7214870
 schema_version: 1
+director:
+- sharo-genrik
+cinematographer:
+- shtaynvurtsel-severin
+cast:
+- person: gotlib-khelena
+poster_commons: Jonas Turkow 4.jpg

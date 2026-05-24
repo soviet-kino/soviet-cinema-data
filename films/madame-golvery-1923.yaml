@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q22000708
 schema_version: 1
+director:
+- binovec-vaclav
+cinematographer:
+- blazek-jaroslav
+- kokeisl-josef
+cast:
+- person: rekopf-paul
+- person: kayzer-kheyl-villi
+- person: marwille-suzanne
+- person: sedlacek-alois
+- person: boettcher-hermann
+- person: vladimirov-vladimir-chinkulov
+- person: svoboda-hugo
+- person: engel-else

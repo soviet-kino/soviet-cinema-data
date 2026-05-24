@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3510516
 schema_version: 1
+director:
+- tanhofer-nikola
+screenwriter:
+- tanhofer-nikola
+composer:
+- tsipra-milo
+cast:
+- person: mia-oremovich
+- person: tadich-lyuba
+- person: vrdolyak-antun
+- person: buzanchich-boris
+- person: rogoz-zvonimir

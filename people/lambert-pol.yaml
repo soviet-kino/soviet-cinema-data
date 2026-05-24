@@ -1,0 +1,9 @@
+id: lambert-pol
+name_ru: Пол Ламберт
+roles:
+- actor
+external_ids:
+  wikidata: Q7151931
+sources:
+- https://www.wikidata.org/wiki/Q7151931
+schema_version: 1

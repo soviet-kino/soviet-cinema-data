@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4055414
 schema_version: 1
+director:
+- maevskiy-yanush
+screenwriter:
+- maevskiy-yanush
+cinematographer:
+- veber-kurt
+composer:
+- kashitskiy-lyutsian
+cast:
+- person: makhulskiy-yan
+- person: kocheska-vanda
+studio:
+- kamera-kinostudiya

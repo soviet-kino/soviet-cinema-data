@@ -1,0 +1,9 @@
+id: planshon-rozhe
+name_ru: Роже Планшон
+roles:
+- actor
+external_ids:
+  wikidata: Q374912
+sources:
+- https://www.wikidata.org/wiki/Q374912
+schema_version: 1

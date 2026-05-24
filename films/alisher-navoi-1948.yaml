@@ -7,6 +7,25 @@ country:
 external_ids:
   wikidata: Q4062476
   imdb: tt0040086
+  youtube: vyC1Sdb1pV8
 sources:
 - https://www.wikidata.org/wiki/Q4062476
 schema_version: 1
+director:
+- yarmatov-kamil
+screenwriter:
+- shklovskiy-viktor-borisovich
+- uygun
+- sultanov-izzat-atakhanovich
+- speshnev-aleksey-vladimirovich
+cinematographer:
+- krasnyanskiy-mikhail-porfirevich
+composer:
+- glier-reyngold
+- sadykov-talib-sadykovich
+cast:
+- person: khamraev-razzak-khamroboevich
+- person: ismatov-asat
+- person: dzhalilov-obid
+studio:
+- uzbekfilm

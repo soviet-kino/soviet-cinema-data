@@ -8,6 +8,15 @@ runtime_min: 60
 external_ids:
   wikidata: Q24041150
   imdb: tt0018533
+  youtube: r9Md9v--kKs
 sources:
 - https://www.wikidata.org/wiki/Q24041150
 schema_version: 1
+director:
+- kuleshov-lev-vladimirovich
+cinematographer:
+- kuznetsov-konstantin-andreevich
+cast:
+- person: khokhlova-aleksandra-sergeevna
+studio:
+- sovkino

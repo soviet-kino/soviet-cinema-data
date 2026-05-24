@@ -1,0 +1,9 @@
+id: york-oygen
+name_ru: Ойген Йорк
+roles:
+- director
+external_ids:
+  wikidata: Q95708
+sources:
+- https://www.wikidata.org/wiki/Q95708
+schema_version: 1

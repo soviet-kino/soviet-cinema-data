@@ -8,6 +8,20 @@ runtime_min: 101
 external_ids:
   wikidata: Q15545277
   imdb: tt0039085
+  youtube: tEjwbmtYcrE
 sources:
 - https://www.wikidata.org/wiki/Q15545277
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+- kheyfits-iosif-efimovich
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: khokhryakov-viktor-ivanovich
+studio:
+- lenfilm

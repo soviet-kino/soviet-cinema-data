@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4064973
 schema_version: 1
+director:
+- zaluskiy-roman
+screenwriter:
+- iredynskiy-ireneush
+- zaluskiy-roman
+composer:
+- piechowska-alina
+cast:
+- person: brylska-barbara
+- person: novitskiy-yan
+- person: nilsen-barbara
+- person: mrozek-andrzej
+- person: mayda-bogdana
+- person: kuzemskiy-eliash
+- person: frontskovyak-marek
+studio:
+- zespo-filmowy-panorama

@@ -1,0 +1,9 @@
+id: pap-eva
+name_ru: Ева Пап
+roles:
+- actor
+external_ids:
+  wikidata: Q1229408
+sources:
+- https://www.wikidata.org/wiki/Q1229408
+schema_version: 1

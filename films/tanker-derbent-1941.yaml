@@ -8,6 +8,19 @@ runtime_min: 83
 external_ids:
   wikidata: Q4451190
   imdb: tt6680502
+  youtube: 4DAJsBNrok0
 sources:
 - https://www.wikidata.org/wiki/Q4451190
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+screenwriter:
+- ermolinskiy-sergey-aleksandrovich
+cinematographer:
+- ivanov-sergey-vasilevich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: goryunov-anatoliy-iosifovich
+studio:
+- odesskaya-kinostudiya

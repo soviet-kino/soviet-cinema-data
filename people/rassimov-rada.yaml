@@ -1,0 +1,9 @@
+id: rassimov-rada
+name_ru: Рада Рассимов
+roles:
+- actor
+external_ids:
+  wikidata: Q282119
+sources:
+- https://www.wikidata.org/wiki/Q282119
+schema_version: 1

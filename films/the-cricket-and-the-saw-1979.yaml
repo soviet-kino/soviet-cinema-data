@@ -8,6 +8,19 @@ runtime_min: 5
 external_ids:
   wikidata: Q56884283
   imdb: tt0372842
+  youtube: 9IXxkfh25eE
 sources:
 - https://www.wikidata.org/wiki/Q56884283
 schema_version: 1
+director:
+- miler-zdenek
+screenwriter:
+- miler-zdenek
+- stransky-jiri
+cinematographer:
+- strakon-emil
+composer:
+- petrov-vadim
+studio:
+- vdr
+- kratky-film-praha

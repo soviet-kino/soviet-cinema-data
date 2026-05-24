@@ -1,0 +1,9 @@
+id: park-wakatobi-national
+name_ru: Wakatobi National Park
+roles:
+- actor
+external_ids:
+  wikidata: Q1517562
+sources:
+- https://www.wikidata.org/wiki/Q1517562
+schema_version: 1

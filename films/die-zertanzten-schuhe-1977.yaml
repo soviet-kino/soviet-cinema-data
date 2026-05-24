@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1219938
 schema_version: 1
+director:
+- schmenger-ursula
+cinematographer:
+- honicke-siegfried
+cast:
+- person: strub-olga
+- person: friedrichson-peter
+- person: sonneson-gunter
+- person: varmbrunn-kharald
+- person: ventsel-khaydemari
+- person: myuller-gelmut
+- person: myuller-solveyg
+- person: eykhel-kaspar
+- person: krayssler-mikaela
+- person: noyenkhan-villi
+- person: shvarts-dzheki
+- person: edenharter-birgit
+- person: kommerel-blansh
+- person: zartmann-jurgen
+- person: raumer-khelga
+- person: blyume-renata
+studio:
+- defa

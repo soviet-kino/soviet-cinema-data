@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q18547039
 schema_version: 1
+director:
+- popesku-gopo-ion
+screenwriter:
+- kryange-ion
+- popesku-gopo-ion
+cinematographer:
+- ionesku-grigore
+composer:
+- popesku-gopo-ion
+cast:
+- person: beligan-radu
+- person: stenesku-karmen
+- person: lupesku-diana
+- person: dron-dorin
+- person: mandache-rodika
+- person: popovichi-eudzheniya
+studio:
+- q111550187

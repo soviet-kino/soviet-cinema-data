@@ -1,0 +1,9 @@
+id: kosha-ferents
+name_ru: Ференц Коша
+roles:
+- director
+external_ids:
+  wikidata: Q252245
+sources:
+- https://www.wikidata.org/wiki/Q252245
+schema_version: 1

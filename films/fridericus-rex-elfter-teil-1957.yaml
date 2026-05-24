@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5503570
 schema_version: 1
+director:
+- bayer-frank
+cinematographer:
+- gusko-erikh
+composer:
+- wehding-hans-hendrik

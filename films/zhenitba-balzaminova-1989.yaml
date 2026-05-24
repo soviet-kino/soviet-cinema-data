@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4179357
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- gavrilin-valeriy-aleksandrovich
+cast:
+- person: alekseeva-elena-pavlovna
+- person: kovmir-nikolay-ivanovich
+studio:
+- lenfilm

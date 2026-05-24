@@ -8,6 +8,28 @@ runtime_min: 96
 external_ids:
   wikidata: Q1877764
   imdb: tt0025946
+  youtube: chDRXQ77IgA
 sources:
 - https://www.wikidata.org/wiki/Q1877764
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- erdman-nikolay-robertovich
+- aleksandrov-grigoriy-vasilevich
+- mass-vladimir-zakharovich
+cinematographer:
+- aretskiy-boris-solomonovich
+- nilsen-vladimir-solomonovich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: orlova-lyubov
+- person: utyosov-leonid-osipovich
+- person: arnold-arnold-grigorevich
+- person: kurikhin-fyodor-nikolaevich
+- person: strelkova-mariya-pavlovna
+- person: tyapkina-elena-alekseevna
+studio:
+- mosfilm
+poster_commons: Веселые ребята.jpg

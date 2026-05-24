@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q100265390
 schema_version: 1
+director:
+- rida-khasan
+screenwriter:
+- bedeer-elsayyed
+cinematographer:
+- farid-vakhid
+composer:
+- al-zakhri-fuad
+cast:
+- person: al-maligi-makhmud
+- person: karioka-takhya
+- person: shakhin-yakhya
+- person: al-khariri-omar

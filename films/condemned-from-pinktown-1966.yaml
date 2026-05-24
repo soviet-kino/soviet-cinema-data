@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12042238
 schema_version: 1
+director:
+- frich-martin
+cinematographer:
+- kraus-yan
+- kraus-jan
+composer:
+- kalash-yulius
+cast:
+- person: kopetskiy-milosh
+- person: zazvorkova-stella
+- person: grushinskiy-rudolf
+- person: brodskiy-vlastimil
+- person: sovak-irzhi
+- person: prakhar-ilya
+- person: kemr-yozef
+- person: rzhanda-chestmir

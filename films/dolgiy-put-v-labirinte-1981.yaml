@@ -7,6 +7,28 @@ country:
 external_ids:
   wikidata: Q4164505
   imdb: tt5545572
+  youtube: Dk4FW8rYsrU
 sources:
 - https://www.wikidata.org/wiki/Q4164505
 schema_version: 1
+director:
+- levin-vasiliy-nikolaevich
+composer:
+- eshpay-andrey
+cast:
+- person: abdulov-vsevolod-osipovich
+- person: stepankov-konstantin-petrovich
+- person: aminova-elena-anatolevna
+- person: budnitskaya-alla-zinovevna
+- person: vasilev-igor-alekseevich
+- person: vitorgan-emmanuil-gedeonovich
+- person: goloborodko-aleksandr-aleksandrovich
+- person: mikhail-vasilevich-golubovich
+- person: gurzo-sergey-sergeevich
+- person: desnitskiy-sergey-glebovich
+- person: krupnik-semyon-samoylovich
+- person: levin-vasiliy-nikolaevich
+- person: romashin-anatoliy-vladimirovich
+- person: mirgorodskiy-dmitriy
+studio:
+- odesskaya-kinostudiya

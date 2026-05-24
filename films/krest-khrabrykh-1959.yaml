@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11750019
 schema_version: 1
+director:
+- kutts-kazimezh-yulian
+screenwriter:
+- kutts-kazimezh-yulian
+cinematographer:
+- vuychik-ezhi
+composer:
+- markovskiy-andzhey
+cast:
+- person: cybulski-zbigniew
+- person: fogel-aleksander
+- person: baer-bogdan
+- person: pavlik-bronislav
+- person: turek-ezhi
+- person: khunko-khenrik
+- person: khronitskiy-adolf
+studio:
+- studio-filmowe-kadr

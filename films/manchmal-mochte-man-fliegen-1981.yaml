@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20851076
 schema_version: 1
+director:
+- nickel-gitta
+composer:
+- karat

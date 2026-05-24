@@ -8,6 +8,28 @@ runtime_min: 72
 external_ids:
   wikidata: Q4193504
   imdb: tt0032162
+  youtube: 7P2RuKhBTys
 sources:
 - https://www.wikidata.org/wiki/Q4193504
 schema_version: 1
+director:
+- ptushko-aleksandr
+screenwriter:
+- tolstoy-aleksey-nikolaevich
+- leshchenko-nikolay-mikhaylovich
+cinematographer:
+- renkov-nikolay-stepanovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: martinson-sergey-aleksandrovich
+- person: adelgeym-tamara-fridrikhovna
+- person: michurin-nikolay-ivanovich
+- person: shchagin-aleksandr-ivanovich
+- person: dagmarov-mikhail-nikolaevich
+- person: shaganova-obraztsova-olga-aleksandrovna
+- person: uvarov-georgiy-mikhaylovich
+studio:
+- mosfilm
+poster_commons: Shchagin - Karabas 02.jpg

@@ -8,6 +8,23 @@ runtime_min: 92
 external_ids:
   wikidata: Q4189435
   imdb: tt0083145
+  youtube: eplWIxApIU4
 sources:
 - https://www.wikidata.org/wiki/Q4189435
 schema_version: 1
+director:
+- talankin-igor-vasilevich
+screenwriter:
+- talankin-igor-vasilevich
+cinematographer:
+- rerberg-georgy
+composer:
+- schnittke-alfred
+cast:
+- person: demidova-alla-sergeevna
+- person: glagoleva-vera-vitalevna
+- person: mikhaylova-darya
+- person: yurchenkov-pyotr-petrovich
+- person: fyodorov-pyotr-evgenevich
+studio:
+- mosfilm

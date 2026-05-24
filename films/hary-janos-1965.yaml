@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5963051
 schema_version: 1
+director:
+- sinetar-miklosh
+cinematographer:
+- tot-yanosh
+composer:
+- koday-zoltan
+cast:
+- person: tordai-teri
+- person: bankhidi-laslo
+- person: kishsh-mani
+- person: balazs-samu
+- person: bodrogi-gyula
+- person: konts-gabor
+- person: markus-laslo
+- person: szirtes-adam

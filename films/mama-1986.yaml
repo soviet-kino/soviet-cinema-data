@@ -8,6 +8,38 @@ runtime_min: 88
 external_ids:
   wikidata: Q2368529
   imdb: tt0076340
+  youtube: 7_3XBQTNsdc
 sources:
 - https://www.wikidata.org/wiki/Q2368529
 schema_version: 1
+director:
+- bostan-elizabeta
+screenwriter:
+- entin-yuriy-sergeevich
+- istrate-vasilika
+cinematographer:
+- petrichenko-konstantin
+- marinesku-ion-2
+composer:
+- popa-temistokle
+- burzhua-zherar
+cast:
+- person: gurchenko-lyudmila
+- person: popov-oleg-konstantinovich
+- person: andrey-violeta
+- person: boyarskiy-mikhail-sergeevich
+- person: krachkovskaya-natalya-leonidovna
+- person: kramarov-saveliy-viktorovich
+- person: pitish-florian
+- person: gerchakov-evgeniy-arkadevich
+- person: ivleva-vera-aleksandrovna
+- person: manokhin-valentin-aleksandrovich
+- person: mikhaitsa-dzhordzh
+- person: shvydkaya-marina
+- person: buchuchanu-botez-tamara
+- person: radulesku-paula
+studio:
+- mosfilm
+- radef
+- casa-de-filme-trei
+- q120273474

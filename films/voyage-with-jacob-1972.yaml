@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7942437
 schema_version: 1
+director:
+- gabor-pal
+screenwriter:
+- gabor-pal
+- csaszar-istvan
+cinematographer:
+- kende-yanosh
+cast:
+- person: moor-marianna
+- person: banshagi-ildiko

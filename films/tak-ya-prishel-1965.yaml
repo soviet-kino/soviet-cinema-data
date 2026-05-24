@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q715142
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- khernadi-gyula
+cinematographer:
+- shomlo-tamash
+composer:
+- enei-zoltan
+cast:
+- person: kozak-andrash
+- person: gera-zoltan
+- person: nikonenko-sergey
+- person: khorvat-laslo

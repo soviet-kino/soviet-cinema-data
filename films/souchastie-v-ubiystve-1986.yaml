@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q109428502
 schema_version: 1
+director:
+- krasnopolskiy-vladimir
+- uskov-valeriy
+composer:
+- artemyev-eduard
+cast:
+- person: bykov-rolan-antonovich
+- person: yumatov-georgiy-aleksandrovich
+- person: basilashvili-oleg-valerianovich
+- person: khermakyula-evald
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: polivka-bolek
+name_ru: Болек Поливка
+roles:
+- actor
+external_ids:
+  wikidata: Q676173
+sources:
+- https://www.wikidata.org/wiki/Q676173
+schema_version: 1

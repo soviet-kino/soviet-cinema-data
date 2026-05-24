@@ -8,6 +8,21 @@ runtime_min: 66
 external_ids:
   wikidata: Q106737356
   imdb: tt0207416
+  youtube: vZIi6AHMG_M
 sources:
 - https://www.wikidata.org/wiki/Q106737356
 schema_version: 1
+director:
+- kydyraliev-kadyrzhan-kydyralievich
+screenwriter:
+- murza-gaparov
+composer:
+- kisin-viktor-borisovich
+cast:
+- person: ukachin-rasul
+- person: baktygereev-mukhtar
+- person: aliev-bakirdin
+- person: kuyukova-darkul
+- person: seydakmatova-dzhamal
+studio:
+- kyrgyzfilm

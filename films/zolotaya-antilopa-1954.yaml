@@ -8,6 +8,18 @@ runtime_min: 31
 external_ids:
   wikidata: Q4193204
   imdb: tt0145799
+  youtube: F2_tOdhMWNs
 sources:
 - https://www.wikidata.org/wiki/Q4193204
 schema_version: 1
+director:
+- atamanov-lev
+screenwriter:
+- erdman-nikolay-robertovich
+- abramov-nikolay-pavlovich
+cinematographer:
+- druyan-mikhail
+composer:
+- yurovskiy-vladimir-mikhaylovich
+studio:
+- soyuzmultfilm

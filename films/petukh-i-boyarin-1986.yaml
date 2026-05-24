@@ -8,6 +8,17 @@ runtime_min: 562
 external_ids:
   wikidata: Q4361804
   imdb: tt4624296
+  youtube: SI400AVaRhI
 sources:
 - https://www.wikidata.org/wiki/Q4361804
 schema_version: 1
+director:
+- milchin-lev-isaakovich
+screenwriter:
+- ivanov-vano-ivan
+cinematographer:
+- druyan-mikhail
+composer:
+- frenkel-yan-abramovich
+studio:
+- soyuzmultfilm

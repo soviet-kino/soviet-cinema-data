@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4092996
 schema_version: 1
+director:
+- rogulski-krzysztof
+screenwriter:
+- rogulski-krzysztof
+cinematographer:
+- prosinskiy-yatsek
+composer:
+- jackowski-marek
+cast:
+- person: pekhotsinskiy-yan
+studio:
+- silesia-kinostudiya

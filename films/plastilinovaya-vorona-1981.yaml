@@ -8,6 +8,17 @@ runtime_min: 9
 external_ids:
   wikidata: Q1212415
   imdb: tt0219251
+  youtube: MhWOFOzKM2M
 sources:
 - https://www.wikidata.org/wiki/Q1212415
 schema_version: 1
+director:
+- tatarskiy-aleksandr-mikhaylovich
+screenwriter:
+- tatarskiy-aleksandr-mikhaylovich
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- ekran

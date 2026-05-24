@@ -1,0 +1,9 @@
+id: pap-vera
+name_ru: Вера Пап
+roles:
+- actor
+external_ids:
+  wikidata: Q1229397
+sources:
+- https://www.wikidata.org/wiki/Q1229397
+schema_version: 1

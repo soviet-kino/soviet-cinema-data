@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q870309
 schema_version: 1
+director:
+- buytor-ishtvan
+- g-sandor-szonyi
+screenwriter:
+- buytor-ishtvan
+cinematographer:
+- bornyi-gyula
+composer:
+- frenreisz-karoly
+cast:
+- person: buytor-ishtvan
+- person: kern-andrash
+studio:
+- lenfilm

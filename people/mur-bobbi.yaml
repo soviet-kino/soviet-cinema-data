@@ -1,0 +1,9 @@
+id: mur-bobbi
+name_ru: Бобби Мур
+roles:
+- actor
+external_ids:
+  wikidata: Q191492
+sources:
+- https://www.wikidata.org/wiki/Q191492
+schema_version: 1

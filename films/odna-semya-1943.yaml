@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4331651
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- pashaev-mir-dzhalal-ali-ogly
+- vaysenberg-lev-markovich
+- prut-iosif-leonidovich
+cinematographer:
+- atakshiev-ali-settar
+- lebeshev-timofey-pavlovich
+- izmaylov-asker-dzhafarovich
+composer:
+- karaev-kara
+cast:
+- person: orlova-lyubov
+- person: zhakov-oleg-petrovich
+- person: kyzy-davudova-marziya-yusuf
+- person: filippova-antonina-mikhaylovna
+studio:
+- azerbaydzhanfilm

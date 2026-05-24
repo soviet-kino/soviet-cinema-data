@@ -8,6 +8,25 @@ runtime_min: 106
 external_ids:
   wikidata: Q2622313
   imdb: tt0030947
+  youtube: wUnZqtcrOlI
 sources:
 - https://www.wikidata.org/wiki/Q2622313
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- erdman-nikolay-robertovich
+- aleksandrov-grigoriy-vasilevich
+- volpin-mikhail-davydovich
+cinematographer:
+- nilsen-vladimir-solomonovich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: orlova-lyubov
+- person: ilinskiy-igor-vladimirovich
+- person: tutyshkin-andrey-petrovich
+- person: mironova-mariya-vladimirovna
+studio:
+- mosfilm
+poster_commons: Volga-volga.jpg

@@ -1,0 +1,9 @@
+id: granval-berta
+name_ru: Берта Гранваль
+roles:
+- actor
+external_ids:
+  wikidata: Q2899270
+sources:
+- https://www.wikidata.org/wiki/Q2899270
+schema_version: 1

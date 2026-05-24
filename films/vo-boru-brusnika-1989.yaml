@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q65208270
   imdb: tt3003670
+  youtube: 5CfXPCqAq8I
 sources:
 - https://www.wikidata.org/wiki/Q65208270
 schema_version: 1
+director:
+- vasilev-evgeniy-ivanovich
+composer:
+- chekalov-pavel
+studio:
+- sverdlovskaya-kinostudiya
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu

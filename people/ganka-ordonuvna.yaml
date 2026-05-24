@@ -1,0 +1,9 @@
+id: ganka-ordonuvna
+name_ru: Ганка Ордонувна
+roles:
+- actor
+external_ids:
+  wikidata: Q453555
+sources:
+- https://www.wikidata.org/wiki/Q453555
+schema_version: 1

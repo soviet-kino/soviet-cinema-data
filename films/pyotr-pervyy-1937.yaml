@@ -8,6 +8,27 @@ runtime_min: 194
 external_ids:
   wikidata: Q3702502
   imdb: tt0029405
+  youtube: v7Y8XFc44Vs
 sources:
 - https://www.wikidata.org/wiki/Q3702502
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- tolstoy-aleksey-nikolaevich
+- leshchenko-nikolay-mikhaylovich
+- petrov-vladimir-mikhaylovich
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich
+- yakovlev-vladimir-timofeevich
+composer:
+- shcherbachyov-vladimir-vladimirovich
+cast:
+- person: simonov-nikolay-konstantinovich
+- person: cherkasov-nikolay-konstantinovich
+- person: zharov-mikhail-ivanovich
+- person: tarasova-alla-konstantinovna
+- person: tarkhanov-mikhail-mikhaylovich
+studio:
+- lenfilm
+poster_commons: Nikolaj Simonov Pietro il grande.jpg

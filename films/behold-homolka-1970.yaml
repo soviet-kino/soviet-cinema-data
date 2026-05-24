@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q922783
 schema_version: 1
+director:
+- papoushek-yaroslav
+screenwriter:
+- papoushek-yaroslav
+cinematographer:
+- ort-snep-jozef
+composer:
+- maresh-karel
+cast:
+- person: ruzhichkova-gelena
+- person: motlova-marie
+- person: jelinek-miki
+- person: husak-frantisek
+- person: sebanek-yosef
+- person: forman-matey
+- person: forman-petr
+- person: fridrich-karel
+- person: fridrich-karel-2
+- person: kucerova-nezavdalova-julie
+- person: pruzinova-ruzena
+- person: dedik-jiri
+- person: kodonova-yvonne
+studio:
+- barrandov

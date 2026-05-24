@@ -1,0 +1,9 @@
+id: khobot-zhigmunt
+name_ru: Жигмунт Хобот
+roles:
+- actor
+external_ids:
+  wikidata: Q11838501
+sources:
+- https://www.wikidata.org/wiki/Q11838501
+schema_version: 1

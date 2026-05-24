@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6817044
 schema_version: 1
+director:
+- ogly-kuliev-dzhamil-elshad
+screenwriter:
+- kuliev-eldiniz
+cinematographer:
+- guliev-rafik
+cast:
+- person: khizroeva-patimat-khizrievna
+- person: chokhonelidze-giuli-yasonovich
+- person: ogly-khanyzade-gamlet-babir
+- person: ogly-aliev-rafik-gadzhibaba
+studio:
+- azerbaydzhanfilm

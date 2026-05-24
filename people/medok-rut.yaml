@@ -1,0 +1,9 @@
+id: medok-rut
+name_ru: Рут Мэдок
+roles:
+- actor
+external_ids:
+  wikidata: Q2999639
+sources:
+- https://www.wikidata.org/wiki/Q2999639
+schema_version: 1

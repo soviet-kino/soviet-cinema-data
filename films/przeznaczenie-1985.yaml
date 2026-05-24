@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11829392
 schema_version: 1
+director:
+- yatsek-koprovich
+screenwriter:
+- yatsek-koprovich
+cinematographer:
+- zelinskiy-ezhi
+composer:
+- szostak-zdzis-aw
+cast:
+- person: khyubner-zigmunt
+- person: bayor-mikhal
+- person: figura-katazhina
+- person: trybala-mazhena
+- person: dymna-anna
+- person: benua-mariush
+- person: sokhnatskiy-boguslav
+- person: karkoshka-elzhbeta
+- person: trelya-grazhina
+- person: shalyavskiy-andzhey
+- person: lyubich-lisovskiy-yuliush
+studio:
+- tor-kinostudiya

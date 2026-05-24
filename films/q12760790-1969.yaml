@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12760790
 schema_version: 1
+director:
+- bajcetic-predrag
+cast:
+- person: cvejic-branko
+- person: sablich-seka
+- person: gutovic-milan
+- person: kral-petar
+- person: milutin-butkovich

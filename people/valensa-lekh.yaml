@@ -1,0 +1,9 @@
+id: valensa-lekh
+name_ru: Лех Валенса
+roles:
+- actor
+external_ids:
+  wikidata: Q444
+sources:
+- https://www.wikidata.org/wiki/Q444
+schema_version: 1

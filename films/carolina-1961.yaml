@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16761138
 schema_version: 1
+director:
+- pogachich-vladimir
+cast:
+- person: nalis-antun
+- person: bulic-karlo
+- person: deba-miodrag-popovic

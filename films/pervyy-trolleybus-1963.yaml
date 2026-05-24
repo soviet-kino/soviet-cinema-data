@@ -8,6 +8,23 @@ runtime_min: 82
 external_ids:
   wikidata: Q4349908
   imdb: tt0184815
+  youtube: yKTvf0PWsRA
 sources:
 - https://www.wikidata.org/wiki/Q4349908
 schema_version: 1
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- shilov-yunior-dmitrievich
+composer:
+- eshpay-andrey
+- boyko-rostislav-grigorevich
+cast:
+- person: demyanenko-aleksandr-sergeevich
+- person: sverdlin-lev-naumovich
+- person: dal-oleg-ivanovich
+- person: gubanova-irina-igorevna
+- person: sazonova-nina-afanasevna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- odesskaya-kinostudiya

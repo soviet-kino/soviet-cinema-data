@@ -8,6 +8,16 @@ runtime_min: 135
 external_ids:
   wikidata: Q4139201
   imdb: tt5497990
+  youtube: 1z7yuuvfbQQ
 sources:
 - https://www.wikidata.org/wiki/Q4139201
 schema_version: 1
+screenwriter:
+- galiev-anatoliy-sergeevich
+composer:
+- efremov-igor-leonidovich
+cast:
+- person: kayurov-yuriy-ivanovich
+- person: nevzorov-boris
+studio:
+- sverdlovskaya-kinostudiya

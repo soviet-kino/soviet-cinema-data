@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q48948142
 schema_version: 1
+director:
+- vertov-dziga
+screenwriter:
+- vertov-dziga
+studio:
+- goskino

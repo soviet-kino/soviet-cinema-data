@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q67835770
 schema_version: 1
+director:
+- gevorkyan-karen-sarkisovich
+cast:
+- person: vasileva-ekaterina-sergeevna
+- person: velyaminov-pyotr-sergeevich
+- person: vorobyov-vladimir-egorovich
+- person: tashkova-tatyana-aleksandrovna
+studio:
+- lenfilm

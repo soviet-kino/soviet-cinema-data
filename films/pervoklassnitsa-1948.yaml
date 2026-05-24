@@ -8,6 +8,20 @@ runtime_min: 68
 external_ids:
   wikidata: Q4349258
   imdb: tt0040689
+  youtube: nkbFf8bTPI0
 sources:
 - https://www.wikidata.org/wiki/Q4349258
 schema_version: 1
+director:
+- frez-ilya-abramovich
+screenwriter:
+- shvarts-evgeniy-lvovich
+cinematographer:
+- egiazarov-gavriil-georgievich
+composer:
+- kabalevskiy-dmitriy-borisovich
+- ziv-mikhail-pavlovich
+cast:
+- person: zashchipina-natalya-aleksandrovna
+studio:
+- soyuzdetfilm

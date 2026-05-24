@@ -8,6 +8,46 @@ runtime_min: 149
 external_ids:
   wikidata: Q4493029
   imdb: tt0082421
+  youtube: FY0fDSPW-fA
 sources:
 - https://www.wikidata.org/wiki/Q4493029
 schema_version: 1
+director:
+- gostev-igor-aronovich
+screenwriter:
+- tsvigun-semyon-kuzmich
+cinematographer:
+- kharitonov-aleksandr-vasilevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: khasse-khanno
+- person: tikhonov-vyacheslav-vasilevich
+- person: mikhaylov-aleksandr-yakovlevich
+- person: krampol-jiri
+- person: ananina-valentina-georgievna
+- person: kokshenov-mikhail
+- person: kosykh-viktor
+- person: matveev-evgeniy-semyonovich
+- person: ryazanova-raisa-ivanovna
+- person: strzhelchik-vladislav-ignatevich
+- person: khimichev-boris-petrovich
+- person: yakovlev-vadim-2
+- person: shveglik-alois
+- person: kaplanova-dita
+- person: sevtsik-otto
+- person: sejk-sobeslav
+- person: fisher-stanislav
+- person: pich-garri
+- person: belohradsky-karel
+- person: robenkova-jana
+- person: vejrostek-michal
+- person: legkov-jurij
+- person: thiede-erich
+- person: nikitin-vladimir
+- person: jegorov-sergej
+- person: karpov-grigori
+studio:
+- mosfilm
+- barrandov
+poster_commons: Съемка фильма Фронт в тылу врага.jpeg

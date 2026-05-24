@@ -1,0 +1,9 @@
+id: kester-yug
+name_ru: Юг Кестер
+roles:
+- actor
+external_ids:
+  wikidata: Q3142664
+sources:
+- https://www.wikidata.org/wiki/Q3142664
+schema_version: 1

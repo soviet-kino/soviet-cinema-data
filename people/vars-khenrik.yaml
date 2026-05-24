@@ -1,0 +1,9 @@
+id: vars-khenrik
+name_ru: Хенрик Варс
+roles:
+- composer
+external_ids:
+  wikidata: Q323368
+sources:
+- https://www.wikidata.org/wiki/Q323368
+schema_version: 1

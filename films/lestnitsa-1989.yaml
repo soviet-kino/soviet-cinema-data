@@ -8,6 +8,20 @@ runtime_min: 114
 external_ids:
   wikidata: Q4259969
   imdb: tt0097730
+  youtube: cr-WmROmts8
 sources:
 - https://www.wikidata.org/wiki/Q4259969
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- zhitinskiy-aleksandr-nikolaevich
+cinematographer:
+- nemolyaev-nikolay-vladimirovich
+composer:
+- komarov-vladimir-konstantinovich
+cast:
+- person: yakovleva-elena-alekseevna
+- person: menshikov-oleg-evgenevich
+studio:
+- mosfilm

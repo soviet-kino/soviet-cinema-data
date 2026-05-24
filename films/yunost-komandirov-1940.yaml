@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q97913641
 schema_version: 1
+director:
+- vaynshtok-vladimir-petrovich
+screenwriter:
+- bleyman-mikhail-yurevich
+- vaynshtok-vladimir-petrovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: sverdlin-lev-naumovich
+- person: biy-brodskiy-iona-abramovich
+- person: kazanskaya-alla-aleksandrovna
+- person: kolchin-vladimir-aleksandrovich
+studio:
+- soyuzdetfilm

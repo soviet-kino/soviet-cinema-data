@@ -8,6 +8,24 @@ runtime_min: 103
 external_ids:
   wikidata: Q4195538
   imdb: tt0023071
+  youtube: moujoz-fA_0
 sources:
 - https://www.wikidata.org/wiki/Q4195538
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- glider-mikhail-moiseevich
+- demutskiy-daniil-porfirevich
+- ekelchik-yuriy-izrailevich
+composer:
+- lyatoshinskiy-boris-nikolaevich
+- belza-igor-fyodorovich
+- meytus-yuliy-sergeevich
+cast:
+- person: masokha-pyotr-emelyanovich
+- person: khvylya-aleksandr-leopoldovich
+- person: shagayda-stepan-vasilevich
+- person: shkurat-stepan-iosifovich

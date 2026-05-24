@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475829
 schema_version: 1
+director:
+- tarr-bela
+screenwriter:
+- tarr-bela
+cinematographer:
+- pap-ferents
+- maykhok-barna
+cast:
+- person: koltai-robert
+- person: ambrus-kyri
+- person: pogany-judit
+studio:
+- balazs-bela-studio
+- studio-of-young-artists

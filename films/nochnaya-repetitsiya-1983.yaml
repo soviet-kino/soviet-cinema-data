@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7033414
 schema_version: 1
+director:
+- surdi-miklosh
+screenwriter:
+- surdi-miklosh
+- verebes-istvan
+cinematographer:
+- salay-andrash
+cast:
+- person: eseni-enikyo
+- person: udvarosh-dorottya

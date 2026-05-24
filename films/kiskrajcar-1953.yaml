@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6416770
 schema_version: 1
+director:
+- keleti-marton
+cinematographer:
+- illesh-dyord
+composer:
+- vintsze-imre
+cast:
+- person: besseniey-ferents
+- person: shoosh-imre
+- person: aytai-andor
+- person: mesarosh-agi
+- person: kishsh-mani
+- person: kallai-ferents
+- person: szirtes-adam

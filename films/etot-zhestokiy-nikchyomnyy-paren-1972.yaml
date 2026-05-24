@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9356679
 schema_version: 1
+director:
+- nasfeter-yanush
+screenwriter:
+- nasfeter-yanush
+cinematographer:
+- zdort-wies-aw
+composer:
+- kazanetskiy-valdemar
+cast:
+- person: kossobudzkaya-khalina
+- person: bokhdal-iolanta
+- person: mosyor-roman
+studio:
+- iluzjon

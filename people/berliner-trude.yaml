@@ -1,0 +1,9 @@
+id: berliner-trude
+name_ru: Труде Берлинер
+roles:
+- actor
+external_ids:
+  wikidata: Q95486
+sources:
+- https://www.wikidata.org/wiki/Q95486
+schema_version: 1

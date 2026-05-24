@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270534
 schema_version: 1
+director:
+- samsonov-samson-iosifovich
+screenwriter:
+- kapitanovskiy-vladimir-evgenevich
+composer:
+- doga-evgeniy
+cast:
+- person: akhedzhakova-liya-medzhidovna
+- person: gubanova-irina-igorevna
+- person: dovlatov-leonid-arkadevich
+- person: kravchenko-tatyana-eduardovna
+- person: solodenko-lyudmila-mikhaylovna
+- person: khanga-elena-abdulaevna
+studio:
+- mosfilm

@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1234483
 schema_version: 1
+director:
+- pontekorvo-dzhillo
+screenwriter:
+- pontekorvo-dzhillo
+- solinas-franko
+cinematographer:
+- aleksandr-sekulovich
+composer:
+- rustikelli-karlo
+cast:
+- person: strasberg-syuzan
+- person: riva-emmanuel
+- person: terzieff-loran
+- person: garko-dzhanni
+- person: pitagora-paola
+- person: felba-dragomir
+- person: perego-didi
+- person: galvani-gratsiella
+- person: shipioni-bruno
+studio:
+- vides-cinematografica

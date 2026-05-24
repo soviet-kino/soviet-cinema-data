@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q18279716
   imdb: tt0250788
+  youtube: BEcdRKyvYCM
 sources:
 - https://www.wikidata.org/wiki/Q18279716
 schema_version: 1
+director:
+- macheret-aleksandr-veniaminovich
+cinematographer:
+- geleyn-igor-vladimirovich
+cast:
+- person: samoylov-evgeniy-valerianovich
+- person: lyubimov-yuriy-petrovich
+- person: altayskaya-vera-vladimirovna
+- person: gitserot-natalya-maksimillianovna
+- person: shpigel-grigoriy-oyzerovich
+studio:
+- mosfilm

@@ -1,0 +1,9 @@
+id: ban-robert
+name_ru: Роберт Бан
+roles:
+- director
+external_ids:
+  wikidata: Q20435417
+sources:
+- https://www.wikidata.org/wiki/Q20435417
+schema_version: 1

@@ -1,0 +1,9 @@
+id: dal-karl
+name_ru: Карл Даль
+roles:
+- actor
+external_ids:
+  wikidata: Q91985
+sources:
+- https://www.wikidata.org/wiki/Q91985
+schema_version: 1

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3800533
 schema_version: 1
+director:
+- brzozowski-jaros-aw
+composer:
+- penderetskiy-kshishtof
+cast:
+- person: novoselskiy-ezhi
+- person: bzhozovskiy-faddey

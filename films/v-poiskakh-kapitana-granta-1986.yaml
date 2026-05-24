@@ -8,6 +8,41 @@ runtime_min: 65
 external_ids:
   wikidata: Q2359642
   imdb: tt0088635
+  youtube: DYUSLdVEvGI
 sources:
 - https://www.wikidata.org/wiki/Q2359642
 schema_version: 1
+director:
+- govorukhin-stanislav-sergeevich
+screenwriter:
+- govorukhin-stanislav-sergeevich
+cinematographer:
+- zelma-timur-georgievich
+composer:
+- dunaevskiy-isaak-osipovich
+- dunaevskiy-maksim-isaakovich
+- kantyukov-igor
+cast:
+- person: vladi-marina
+- person: slabakov-pyotr
+- person: abdulov-aleksandr-gavrilovich
+- person: rosich-dzhoko
+- person: khmelnitskiy-boris
+- person: shtefanko-oleg
+- person: ulfsak-lembit-yukhanovich
+- person: tsonev-kosta
+- person: gostyukhin-vladimir
+- person: vazdiks-uldis
+- person: eryomenko-nikolay-nikolaevich
+- person: akulova-tamara-vasilevna
+- person: kurashov-ruslan-vladimirovich
+- person: smirnov-vladimir-nikolaevich
+- person: pencheva-anya
+- person: stoyanov-luchezar
+- person: yanev-marin
+- person: milushev-yavor
+- person: rudakov-anatoliy-rodionovich
+- person: strutinskaya-galina
+studio:
+- odesskaya-kinostudiya
+- nyu-boyana-film-studios

@@ -8,6 +8,16 @@ runtime_min: 520
 external_ids:
   wikidata: Q4053732
   imdb: tt4865604
+  youtube: wFqNeKW9pAU
 sources:
 - https://www.wikidata.org/wiki/Q4053732
 schema_version: 1
+director:
+- nosov-pyotr-nikolaevich
+- tsekhanovskiy-mikhail-mikhaylovich
+screenwriter:
+- nosov-pyotr-nikolaevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm

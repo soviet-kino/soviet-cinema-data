@@ -8,6 +8,20 @@ runtime_min: 139
 external_ids:
   wikidata: Q4289677
   imdb: tt0230515
+  youtube: FgPTVl_5UqE
 sources:
 - https://www.wikidata.org/wiki/Q4289677
 schema_version: 1
+director:
+- poloka-gennadiy-ivanovich
+- bogolyubov-aleksandr-akimovich
+screenwriter:
+- afanasev-anatoliy-vladimirovich
+composer:
+- zhurbin-aleksandr-borisovich
+- kolker-aleksandr
+cast:
+- person: menshov-evgeniy-aleksandrovich
+- person: nilskaya-lyudmila-valeryanovna
+studio:
+- ekran

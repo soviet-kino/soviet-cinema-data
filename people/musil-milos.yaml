@@ -1,0 +1,9 @@
+id: musil-milos
+name_ru: Miloš Musil
+roles:
+- director
+external_ids:
+  wikidata: Q56886809
+sources:
+- https://www.wikidata.org/wiki/Q56886809
+schema_version: 1

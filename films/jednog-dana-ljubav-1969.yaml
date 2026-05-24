@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184726
 schema_version: 1
+director:
+- radomir-sharanovich
+cast:
+- person: svetlana-boykovich
+- person: laurencic-toni

@@ -10,3 +10,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113788511
 schema_version: 1
+director:
+- krettsig-khelmut
+screenwriter:
+- krettsig-khelmut
+cinematographer:
+- zore-rolf
+composer:
+- zasse-karl-ernst
+cast:
+- person: geshonnek-ervin
+- person: byurger-annekatrin
+- person: dittus-barbara
+- person: drinda-khorst
+- person: grube-dayster-elza
+- person: roysse-peter
+- person: shmitt-valfride
+- person: vaynkhaymer-khorst
+- person: kehrt-katrin
+- person: buchardt-antje
+- person: ney-jens
+- person: reintsch-hans-otto
+studio:
+- defa

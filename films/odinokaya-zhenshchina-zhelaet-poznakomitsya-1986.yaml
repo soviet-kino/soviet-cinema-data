@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4331565
   imdb: tt0093665
+  youtube: VC2vOMU3E8k
 sources:
 - https://www.wikidata.org/wiki/Q4331565
 schema_version: 1
+director:
+- krishtofovich-vyacheslav-sigizmundovich
+screenwriter:
+- merezhko-viktor
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: kupchenko-irina-petrovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

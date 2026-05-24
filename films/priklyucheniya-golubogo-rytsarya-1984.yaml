@@ -8,6 +8,20 @@ runtime_min: 90
 external_ids:
   wikidata: Q11829972
   imdb: tt0086152
+  youtube: 8qQvx6LgiEg
 sources:
 - https://www.wikidata.org/wiki/Q11829972
 schema_version: 1
+director:
+- marshalek-lekhoslav
+screenwriter:
+- marshalek-lekhoslav
+- mikh-lezhek
+cinematographer:
+- poznanskiy-mechislav
+composer:
+- kazanetskiy-valdemar
+studio:
+- studiya-risovannykh-filmov
+- q9347398
+- q9380470

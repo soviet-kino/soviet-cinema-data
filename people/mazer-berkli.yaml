@@ -1,0 +1,9 @@
+id: mazer-berkli
+name_ru: Беркли Мазер
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q820883
+sources:
+- https://www.wikidata.org/wiki/Q820883
+schema_version: 1

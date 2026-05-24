@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3826577
 schema_version: 1
+director:
+- uger-shtefan
+screenwriter:
+- bednar-alfonz
+cinematographer:
+- szomolanyi-stanislav
+composer:
+- zelenka-ilya
+cast:
+- person: roman-lyubomir
+- person: vandlik-andrej
+- person: nosalova-eliska
+- person: salagova-olga
+- person: belakova-jana
+- person: bielik-marian
+- person: chrobak-pavol
+- person: ruskova-zuzana
+- person: janco-adam
+- person: lobotka-peter
+- person: malina-vladimir
+- person: galba-anton

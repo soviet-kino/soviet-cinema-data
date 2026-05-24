@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20091222
 schema_version: 1
+director:
+- ivanov-aleksandr-gavrilovich
+- shiffers-evgeniy-lvovich
+screenwriter:
+- berggolts-olga-fyodorovna
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- karetnikov-nikolay-nikolaevich
+cast:
+- person: chestnokov-vladimir-ivanovich
+studio:
+- lenfilm

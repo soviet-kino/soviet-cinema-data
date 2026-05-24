@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q62987300
 schema_version: 1
+director:
+- shinarbaev-ermek
+screenwriter:
+- kim-anatoliy-andreevich
+cast:
+- person: grinko-nikolai
+- person: zharkov-aleksey-dmitrievich
+studio:
+- kazakhfilm

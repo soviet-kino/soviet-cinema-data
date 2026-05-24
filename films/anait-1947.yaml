@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11035920
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- agayan-gazaros
+cinematographer:
+- dildaryan-ivan
+composer:
+- satyan-ashot
+cast:
+- person: talyan-shara
+- person: avetisyan-avet
+- person: nersesyan-rachiya
+- person: dovlatyan-frunze
+- person: malyan-david
+- person: simonyan-metaksiya
+- person: amirbekyan-aram
+- person: abramyan-khachatur
+- person: buniatyan-ori
+- person: marguni-vaginak
+- person: sebar-evgeniya
+- person: isaakyan-bella
+studio:
+- armenfilm

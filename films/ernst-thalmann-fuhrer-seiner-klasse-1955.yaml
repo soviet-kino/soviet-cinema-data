@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1360378
 schema_version: 1
+director:
+- mettsig-kurt
+screenwriter:
+- chesno-khell-mikhael
+cinematographer:
+- plintsner-karl
+composer:
+- nef-vilgelm
+cast:
+- person: peters-verner
+- person: zimon-gyunter
+- person: volf-gerri
+- person: pikkoli-mishel
+- person: delmare-fred
+- person: minetti-khans-peter
+- person: shelkher-raymund
+- person: shall-teo
+studio:
+- defa

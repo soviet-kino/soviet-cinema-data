@@ -8,6 +8,22 @@ runtime_min: 38
 external_ids:
   wikidata: Q4533498
   imdb: tt0037477
+  youtube: Z3s0EiClkjI
 sources:
 - https://www.wikidata.org/wiki/Q4533498
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+cast:
+- person: zueva-anastasiya-platonovna
+- person: semyonova-lyudmila-nikolaevna
+- person: uralskiy-vladimir-mikhaylovich
+- person: androvskaya-olga-nikolaevna
+- person: toporkov-vasiliy-osipovich
+- person: blinnikov-sergey-kapitonovich
+- person: gribkov-vladimir-vasilevich
+- person: stanitsyn-viktor-yakovlevich
+- person: tsenin-sergey-sergeevich
+studio:
+- mosfilm
+- belarusfilm

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60583839
 schema_version: 1
+director:
+- luderer-wolfgang
+cinematographer:
+- khanish-otto
+composer:
+- pich-volfgang

@@ -8,6 +8,31 @@ runtime_min: 88
 external_ids:
   wikidata: Q359119
   imdb: tt0039132
+  youtube: Afj4S5aPnx8
 sources:
 - https://www.wikidata.org/wiki/Q359119
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+screenwriter:
+- lukovskiy-igor
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+- lobova-tamara-grigorevna
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: dikiy-aleksey-denisovich
+- person: samoylov-evgeniy-valerianovich
+- person: simonov-ruben-nikolaevich
+- person: sobolevskiy-pyotr-stanislavovich
+- person: vladislavskiy-vladimir-aleksandrovich
+- person: gaydeburov-pavel-pavlovich
+- person: gumilevskiy-georgiy-konstantinovich
+- person: knyazev-leonid-sergeevich
+- person: olenin-girshman-boris-yulevich
+- person: khokhlov-aleksandr-evgenevich
+- person: briling-nikolay-arkadevich
+studio:
+- mosfilm

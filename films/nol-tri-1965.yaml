@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65173214
 schema_version: 1
+director:
+- eltsov-igor
+screenwriter:
+- volchek-yakov-iosifovich
+- adamyan-nora-georgievna
+cast:
+- person: dmitriev-ivan-petrovich
+- person: myshkova-ninel-konstantinovna
+studio:
+- tallinfilm

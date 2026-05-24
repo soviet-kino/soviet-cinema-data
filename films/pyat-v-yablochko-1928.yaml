@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4386069
 schema_version: 1
+director:
+- barkhudaryan-patvakan
+screenwriter:
+- barkhudaryan-patvakan
+cast:
+- person: kocharyan-suren-akimovich
+- person: martirosyan-amasiy
+- person: khachanyan-amvrosiy
+studio:
+- armenfilm

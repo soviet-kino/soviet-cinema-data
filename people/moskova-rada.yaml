@@ -1,0 +1,9 @@
+id: moskova-rada
+name_ru: Рада Москова
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q12291924
+sources:
+- https://www.wikidata.org/wiki/Q12291924
+schema_version: 1

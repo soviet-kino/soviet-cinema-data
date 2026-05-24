@@ -10,3 +10,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9305950
 schema_version: 1
+director:
+- bayon-filip
+screenwriter:
+- bayon-filip
+cinematographer:
+- prosinskiy-yatsek
+composer:
+- tshaskovskiy-andzhey
+cast:
+- person: petrzhak-yan
+- person: mroczek-czes-aw
+- person: wiszniewski-wojciech
+- person: stanishevskaya-grazhina
+- person: shimborskiy-zdzislav
+- person: tronski-marcin
+- person: freudenheim-alfred
+- person: skubniewska-jolanta
+- person: q116982075
+studio:
+- tor-kinostudiya

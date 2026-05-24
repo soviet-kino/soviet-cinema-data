@@ -8,6 +8,24 @@ runtime_min: 101
 external_ids:
   wikidata: Q4203986
   imdb: tt0097596
+  youtube: jI3ASBaZdWQ
 sources:
 - https://www.wikidata.org/wiki/Q4203986
 schema_version: 1
+director:
+- georgiy-emilevich-yungvald-khilkevich
+screenwriter:
+- georgiy-emilevich-yungvald-khilkevich
+cinematographer:
+- feliks-gilevich
+composer:
+- gradskiy-aleksandr
+cast:
+- person: tabakov-oleg-pavlovich
+- person: petrenko-aleksey-vasilevich
+- person: avilov-viktor-vasilevich
+- person: koltakov-sergey-mikhaylovich
+- person: sokolov-andrey
+- person: kryuchkova-svetlana
+studio:
+- odesskaya-kinostudiya

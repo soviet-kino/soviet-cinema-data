@@ -7,6 +7,18 @@ country:
 external_ids:
   wikidata: Q4105938
   imdb: tt0094260
+  youtube: HraMvKhVJes
 sources:
 - https://www.wikidata.org/wiki/Q4105938
 schema_version: 1
+director:
+- sheshukov-igor-alekseevich
+screenwriter:
+- chernyakov-yuriy-veniaminovich
+composer:
+- bibergan-vadim-davidovich
+cast:
+- person: borisov-lev-ivanovich
+- person: kashpur-vladimir-terentevich
+studio:
+- lenfilm

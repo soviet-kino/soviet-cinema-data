@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131756689
 schema_version: 1
+director:
+- adam-otto
+cinematographer:
+- kenyeres-gabor
+cast:
+- person: tolnai-klari
+- person: khalaz-yudit
+- person: pechi-shandor
+- person: imre-shinkovich
+- person: ilosvay-katalin
+- person: kelemen-eva

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6778844
 schema_version: 1
+director:
+- korda-aleksandr
+cast:
+- person: uray-tivadar
+- person: szoreghy-gyula
+- person: lenkeffy-ica-von
+- person: somogyi-nusi
+studio:
+- corvin-film-studio

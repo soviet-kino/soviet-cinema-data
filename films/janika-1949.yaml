@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16987913
 schema_version: 1
+director:
+- keleti-marton
+cinematographer:
+- eiben-istvan
+cast:
+- person: latabar-kalman
+- person: turay-ida
+- person: gobbi-khilda
+- person: gombasgogi-ella
+- person: gozon-gyula
+- person: mezey-mariya
+- person: radzhnay-gabor
+- person: sabo-shandor

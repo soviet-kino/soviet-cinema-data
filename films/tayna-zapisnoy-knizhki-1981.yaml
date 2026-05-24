@@ -8,6 +8,20 @@ runtime_min: 76
 external_ids:
   wikidata: Q4449946
   imdb: tt0237798
+  youtube: 3-RE0z_HD9E
 sources:
 - https://www.wikidata.org/wiki/Q4449946
 schema_version: 1
+director:
+- shamshurin-vladimir-georgievich
+screenwriter:
+- golovanov-vladimir-antonovich
+cinematographer:
+- shuvalov-valeriy-pavlovich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: solonitsyn-anatoly
+- person: penkov-nikolay-vasilevich
+studio:
+- mosfilm

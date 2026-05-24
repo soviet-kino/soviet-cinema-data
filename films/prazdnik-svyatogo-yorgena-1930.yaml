@@ -8,6 +8,24 @@ runtime_min: 83
 external_ids:
   wikidata: Q4376329
   imdb: tt0021268
+  youtube: 04k-6aN73S8
 sources:
 - https://www.wikidata.org/wiki/Q4376329
 schema_version: 1
+director:
+- protazanov-yakov
+screenwriter:
+- ilf-ilya-arnoldovich
+- protazanov-yakov
+- petrov-evgeniy-petrovich
+- krzhizhanovskiy-sigizmund-dominikovich
+- shveytser-vladimir-zakharovich
+- leonidov-oleg-leonidovich
+cinematographer:
+- ermolov-pyotr-vasilevich
+cast:
+- person: ilinskiy-igor-vladimirovich
+- person: ktorov-anatoliy-petrovich
+studio:
+- mezhrabpomfilm
+poster_commons: Prazdnik Svyatogo Iorgena Scene 01.jpg

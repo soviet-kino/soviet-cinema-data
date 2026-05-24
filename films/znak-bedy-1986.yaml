@@ -8,6 +8,20 @@ runtime_min: 152
 external_ids:
   wikidata: Q4192670
   imdb: tt0092293
+  youtube: miMkxXR5dDc
 sources:
 - https://www.wikidata.org/wiki/Q4192670
 schema_version: 1
+director:
+- ptashuk-mikhail-nikolaevich
+screenwriter:
+- bykov-vasil
+- grigorev-evgeniy-aleksandrovich
+composer:
+- yanchenko-oleg-grigorevich
+cast:
+- person: gostyukhin-vladimir
+- person: garbuk-gennadiy-mikhaylovich
+- person: ruslanova-nina-ivanovna
+studio:
+- belarusfilm

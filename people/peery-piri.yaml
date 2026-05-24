@@ -1,0 +1,9 @@
+id: peery-piri
+name_ru: Piri Peéry
+roles:
+- actor
+external_ids:
+  wikidata: Q1234417
+sources:
+- https://www.wikidata.org/wiki/Q1234417
+schema_version: 1

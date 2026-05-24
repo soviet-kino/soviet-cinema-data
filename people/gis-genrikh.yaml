@@ -1,0 +1,9 @@
+id: gis-genrikh
+name_ru: Генрих Гис
+roles:
+- actor
+external_ids:
+  wikidata: Q19985825
+sources:
+- https://www.wikidata.org/wiki/Q19985825
+schema_version: 1

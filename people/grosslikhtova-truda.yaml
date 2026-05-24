@@ -1,0 +1,9 @@
+id: grosslikhtova-truda
+name_ru: Труда Гросслихтова
+roles:
+- actor
+external_ids:
+  wikidata: Q3565083
+sources:
+- https://www.wikidata.org/wiki/Q3565083
+schema_version: 1

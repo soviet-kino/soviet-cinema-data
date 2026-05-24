@@ -8,6 +8,11 @@ runtime_min: 138
 external_ids:
   wikidata: Q4312984
   imdb: tt0249048
+  youtube: qEKyZANFiyo
 sources:
 - https://www.wikidata.org/wiki/Q4312984
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+studio:
+- lenfilm

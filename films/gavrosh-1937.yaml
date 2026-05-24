@@ -8,6 +8,25 @@ runtime_min: 76
 external_ids:
   wikidata: Q4131330
   imdb: tt0175649
+  youtube: 4M8GYqsRPt8
 sources:
 - https://www.wikidata.org/wiki/Q4131330
 schema_version: 1
+director:
+- tatyana-nikolaevna-lukashevich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- nikolskiy-yuriy-sergeevich
+cast:
+- person: massalskiy-pavel-vladimirovich
+- person: novoseltsev-ivan-khrisanfovich
+- person: pogodin-nikolay-nikolaevich
+- person: smorchkov-nikolay-gavrilovich
+- person: chernovolenko-georgiy-tikhonovich
+- person: zorskaya-nina-antonovna
+- person: arkadin-ivan-ivanovich
+- person: bobrov-ivan-vasilevich
+studio:
+- mosfilm
+poster_commons: Nikolaj Smorčkov Gavroche.jpg

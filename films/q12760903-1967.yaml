@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12760903
 schema_version: 1
+director:
+- aleksandar-dzhordzhevich
+cast:
+- person: kral-petar
+- person: vladimir-popovich
+- person: tomich-milivo-e
+- person: uricin-rada
+- person: jerinic-branislav
+- person: milenkovic-branislav
+- person: puzich-milan

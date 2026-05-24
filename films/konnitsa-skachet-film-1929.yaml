@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116980020
 schema_version: 1
+director:
+- beresnyov-nikolay-yakovlevich
+screenwriter:
+- beresnyov-nikolay-yakovlevich
+cinematographer:
+- aptekman-naum-grigorevich
+cast:
+- person: kutuzov-nikolay-nikolaevich
+- person: laptev-yuriy-grigorevich
+studio:
+- sovkino

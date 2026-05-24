@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3565431
 schema_version: 1
+director:
+- skolimovskiy-ezhi
+screenwriter:
+- skolimovskiy-ezhi
+- zaverushanka-aleksandra
+- khamets-kshishtof
+cinematographer:
+- nuzhinskiy-antoni
+composer:
+- tshaskovskiy-andzhey
+cast:
+- person: skolimovskiy-ezhi
+- person: chizhevskaya-elzhbeta
+- person: lyote-iolanta
+- person: pechka-frantishek
+- person: zaverushanka-aleksandra
+- person: khamets-kshishtof
+- person: kherder-andzhey
+- person: jurczak-andrzej
+- person: kaminski-stanis-aw-marian
+- person: litvin-kshishtof
+- person: waskowski-mieczys-aw
+- person: kluba-henryk

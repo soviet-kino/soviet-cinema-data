@@ -8,6 +8,11 @@ runtime_min: 80
 external_ids:
   wikidata: Q4158750
   imdb: tt0237149
+  youtube: 2smBLdv0SfU
 sources:
 - https://www.wikidata.org/wiki/Q4158750
 schema_version: 1
+director:
+- kanevskiy-vitaliy-evgenevich
+studio:
+- lenfilm

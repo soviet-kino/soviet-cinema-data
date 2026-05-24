@@ -1,0 +1,9 @@
+id: herm-imbi
+name_ru: Imbi Herm
+roles:
+- actor
+external_ids:
+  wikidata: Q16407934
+sources:
+- https://www.wikidata.org/wiki/Q16407934
+schema_version: 1

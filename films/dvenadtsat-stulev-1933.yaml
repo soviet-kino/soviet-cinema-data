@@ -8,6 +8,36 @@ runtime_min: 83
 external_ids:
   wikidata: Q3490676
   imdb: tt0168720
+  youtube: zfieWz0AGM4
 sources:
 - https://www.wikidata.org/wiki/Q3490676
 schema_version: 1
+director:
+- vashinskiy-mikhal
+- frich-martin
+screenwriter:
+- lamach-karel
+cinematographer:
+- wawrzyniak-antoni
+composer:
+- danilovskiy-vladislav
+- dan-w-adys-aw
+cast:
+- person: beganskiy-viktor
+- person: pogorzhelskaya-zula
+- person: kondrat-yuzef
+- person: yarshevskaya-vanda
+- person: yaroshevskaya-zofiya
+- person: frich-martin
+- person: burian-vlasta
+- person: dymsha-adolf
+- person: koszutski-eugeniusz
+- person: zarembina-helena
+- person: miszczykowna-aniela
+- person: parysiewicz-hanna
+- person: belskiy-stanislav
+- person: szczuka-stefan
+- person: kitay-lo
+- person: narkiewicz-kazimierz
+- person: hubert-karol
+poster_commons: Adolf Dymsza.jpg

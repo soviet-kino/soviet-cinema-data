@@ -1,0 +1,9 @@
+id: verion-rudi
+name_ru: Руди Верион
+roles:
+- composer
+external_ids:
+  wikidata: Q2172157
+sources:
+- https://www.wikidata.org/wiki/Q2172157
+schema_version: 1

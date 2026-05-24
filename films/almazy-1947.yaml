@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4062735
   imdb: tt1407931
+  youtube: 1dOmzcFYP2s
 sources:
 - https://www.wikidata.org/wiki/Q4062735
 schema_version: 1
+director:
+- pravov-ivan
+cinematographer:
+- sigaev-aleksandr-ivanovich
+composer:
+- katsman-klara-abramovna
+cast:
+- person: sanaev-vsevolod-vasilevich
+- person: alisova-nina-ulyanovna
+- person: vanin-vasiliy-vasilevich
+studio:
+- sverdlovskaya-kinostudiya

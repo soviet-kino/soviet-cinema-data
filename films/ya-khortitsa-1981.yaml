@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4535770
   imdb: tt0240232
+  youtube: DNffRPjHXHo
 sources:
 - https://www.wikidata.org/wiki/Q4535770
 schema_version: 1
+director:
+- igishev-aleksandr-sergeevich
+screenwriter:
+- arkadev-lev-arkadevich
+studio:
+- odesskaya-kinostudiya

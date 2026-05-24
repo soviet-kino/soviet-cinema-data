@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9386955
 schema_version: 1
+director:
+- trzos-rastawiecki-andrzej
+screenwriter:
+- trzos-rastawiecki-andrzej
+- krasicki-maciej
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- kuznyak-khenrik
+cast:
+- person: bonchak-ezhi
+- person: hryniewicz-mieczys-aw
+studio:
+- studio-filmowe-kadr

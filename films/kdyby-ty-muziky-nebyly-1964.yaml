@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2559632
 schema_version: 1
+director:
+- forman-milosh
+screenwriter:
+- forman-milosh
+- passer-ivan
+cinematographer:
+- ondrzhichek-miroslav
+cast:
+- person: pravecek-henry
+- person: pucholt-vladimir
+- person: vostrchil-yan
+- person: zeman-frantisek
+- person: blumental-vaclav

@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16678921
 schema_version: 1
+director:
+- levashov-tumanov-georgiy-vadimovich
+cast:
+- person: yanushkevich-mikhail-borisovich
+studio:
+- ekran

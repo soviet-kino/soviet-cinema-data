@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4207233
 schema_version: 1
+director:
+- pipinashvili-konstantin
+screenwriter:
+- lomouri-niko-iosifovich
+- pipinashvili-konstantin
+- gogodze-karlo-iosifovich
+cinematographer:
+- vysotskiy-feliks-mikhaylovich
+composer:
+- machavariani-aleksey-davidovich
+cast:
+- person: vachnadze-nato-georgievna
+- person: abashidze-leyla-mikhaylovna
+- person: andzhaparidze-veriko-ivlianovna
+studio:
+- gruziya-film

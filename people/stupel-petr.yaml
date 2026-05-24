@@ -1,0 +1,9 @@
+id: stupel-petr
+name_ru: Петр Ступел
+roles:
+- composer
+external_ids:
+  wikidata: Q4803869
+sources:
+- https://www.wikidata.org/wiki/Q4803869
+schema_version: 1

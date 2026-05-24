@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11820031
 schema_version: 1
+director:
+- pecani-spartak
+screenwriter:
+- tafa-nexhati
+cinematographer:
+- basha-faruk
+- marko-vladimir
+composer:
+- lalo-aleksander
+cast:
+- person: ksepa-ndrikim
+- person: shuke-agim
+- person: alikaj-eva
+- person: duni-spiro
+- person: ferri-xhevdet
+studio:
+- albfilm

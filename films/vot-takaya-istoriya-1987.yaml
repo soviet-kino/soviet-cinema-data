@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q62988273
   imdb: tt0287105
+  youtube: HT42d1SS5JU
 sources:
 - https://www.wikidata.org/wiki/Q62988273
 schema_version: 1
+director:
+- seleznyova-inessa-sergeevna
+cast:
+- person: alfyorova-irina-ivanovna
+- person: shengelaya-ariadna-vsevolodovna
+- person: kharitonov-andrey-igorevich
+studio:
+- ekran

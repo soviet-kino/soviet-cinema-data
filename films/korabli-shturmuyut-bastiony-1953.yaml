@@ -8,6 +8,50 @@ runtime_min: 94
 external_ids:
   wikidata: Q4232603
   imdb: tt0045973
+  youtube: Z3p58Z2zqZo
 sources:
 - https://www.wikidata.org/wiki/Q4232603
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- shteyn-aleksandr-petrovich
+cinematographer:
+- chen-iolanda-evgenevna
+composer:
+- khachaturyan-aram
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: yumatov-georgiy-aleksandrovich
+- person: pugovkin-mikhail-ivanovich
+- person: kuzmina-elena-aleksandrovna
+- person: martinson-sergey-aleksandrovich
+- person: druzhnikov-vladimir-vasilevich
+- person: kryukov-nikolay-nikolaevich
+- person: pereverzev-ivan-fyodorovich
+- person: pavlenko-pavel-pavlovich
+- person: alekseev-aleksey-petrovich
+- person: balashov-vladimir-pavlovich
+- person: bibikov-boris-vladimirovich
+- person: voytsik-ada-ignatevna
+- person: volkov-nikolay-nikolaevich-2
+- person: volkov-pavel-mikhaylovich
+- person: lekarev-valeriy-petrovich
+- person: nazvanov-mikhail-mikhaylovich
+- person: petrov-sergey-sergeevich
+- person: roninson-gotlib
+- person: svashenko-semyon-andreevich
+- person: svobodin-nikolay-kapitonovich
+- person: solovyov-ivan-ivanovich
+- person: tolchanov-iosif-moiseevich
+- person: fenin-lev-aleksandrovich
+- person: frichinskiy-lev-mikhaylovich
+- person: khryashchikov-nikolay-prokhorovich
+- person: shpringfeld-pavel-aleksandrovich
+- person: yudin-gennadiy
+- person: lyubeshkin-pyotr-vladimirovich
+- person: geller-emmanuil-savelevich
+- person: budarov-georgiy-ivanovich
+- person: agurov-evgeniy-nikolaevich
+studio:
+- mosfilm

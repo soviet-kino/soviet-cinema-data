@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7734886
 schema_version: 1
+director:
+- sinetar-miklosh
+screenwriter:
+- sinetar-miklosh
+- khernadi-gyula
+cast:
+- person: madarash-yozhef
+- person: benko-piter
+- person: benko-gyula
+- person: khernadi-yudit
+- person: rajhona-adam

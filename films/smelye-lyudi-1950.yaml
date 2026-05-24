@@ -8,6 +8,19 @@ runtime_min: 95
 external_ids:
   wikidata: Q4006127
   imdb: tt0042977
+  youtube: Lx7w2iiZFAM
 sources:
 - https://www.wikidata.org/wiki/Q4006127
 schema_version: 1
+director:
+- yudin-konstantin-konstantinovich
+screenwriter:
+- volpin-mikhail-davydovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- spadavekkia-antonio-emmanuilovich
+cast:
+- person: gurzo-sergey-safonovich
+studio:
+- mosfilm

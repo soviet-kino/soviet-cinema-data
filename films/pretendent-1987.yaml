@@ -8,6 +8,37 @@ runtime_min: 195
 external_ids:
   wikidata: Q101683087
   imdb: tt6235162
+  youtube: N0yHABCl-fY
 sources:
 - https://www.wikidata.org/wiki/Q101683087
 schema_version: 1
+director:
+- khudyakov-konstantin-pavlovich
+screenwriter:
+- slobodnik-dushan
+- mendzheritskiy-ivan-aleksandrovich
+- morgan-al
+- kukarkin-aleksandr-viktorovich
+cinematographer:
+- piganov-valentin-vasilevich
+composer:
+- ganelin-vyacheslav-shevelevich
+cast:
+- person: gurchenko-lyudmila
+- person: vashariova-emiliya
+- person: dzhigarkhanyan-armen-borisovich
+- person: filatov-leonid-alekseevich
+- person: yakovlev-yuriy-vasilevich
+- person: khudik-ladislav
+- person: kanevskiy-leonid-semyonovich
+- person: durov-lev-konstantinovich
+- person: maksakova-lyudmila-vasilevna
+- person: remizov-mikhail-grigorevich
+- person: romanov-boris-leonidovich
+- person: kovar-frantisek
+- person: letko-ivan
+- person: gruberova-zdena
+- person: matulik-ivan
+studio:
+- mosfilm
+- televidenie-v-chekhoslovakii

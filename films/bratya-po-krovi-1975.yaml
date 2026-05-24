@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q886769
 schema_version: 1
+director:
+- vallrot-verner-v
+screenwriter:
+- rid-din
+cinematographer:
+- khaynrikh-gans
+composer:
+- zasse-karl-ernst
+cast:
+- person: rid-din
+- person: mitich-goyko
+- person: darie-yurie
+- person: panknin-yorg
+- person: froydenberg-gizela

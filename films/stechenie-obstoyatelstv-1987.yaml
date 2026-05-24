@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4442535
   imdb: tt0301896
+  youtube: prU_T0koU4o
 sources:
 - https://www.wikidata.org/wiki/Q4442535
 schema_version: 1
+director:
+- beynerte-viya
+composer:
+- brauns-martinsh
+cast:
+- person: dapkunayte-ingeborga
+studio:
+- rizhskaya-kinostudiya

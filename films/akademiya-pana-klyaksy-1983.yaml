@@ -8,6 +8,32 @@ runtime_min: 166
 external_ids:
   wikidata: Q1963559
   imdb: tt0086863
+  youtube: GFKrWgxYTvY
 sources:
 - https://www.wikidata.org/wiki/Q1963559
 schema_version: 1
+director:
+- gradovskiy-kshishtof
+screenwriter:
+- bzhekhva-yan
+- gradovskiy-kshishtof
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: fronchevskiy-pyotr
+- person: nemchik-leon
+- person: bista-khenrik
+- person: ordon-lekh
+- person: ulfsak-lembit-yukhanovich
+- person: karel-irena
+- person: plotnitskiy-boleslav
+- person: mikhnikovskiy-veslav
+- person: gawlik-stanis-aw
+- person: alitsiya-yakhevich
+- person: bieluszko-hanna
+- person: buchkovskiy-zbignev
+- person: zo-kowska-jolanta
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7883351
 schema_version: 1
+director:
+- balog-bela
+screenwriter:
+- gimera-anzhel
+- lotar-rudolf
+- pakots-jozsef
+cast:
+- person: ivan-petrovich
+- person: loth-ila

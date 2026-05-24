@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3506227
 schema_version: 1
+director:
+- bulayich-velko
+screenwriter:
+- bulayich-velko
+cinematographer:
+- branko-ivatovich
+composer:
+- privsek-joze
+cast:
+- person: crnko-zvonimir
+- person: nalis-antun
+- person: tanya-boshkovich
+- person: zegarats-dushitsa
+- person: miyo-sharl
+- person: vladimir-popovich
+- person: boro-bregovich
+- person: mandich-velko
+- person: uzunovic-tanasije
+- person: ranko-kovachevich
+studio:
+- yadran-film
+- kroatiya-film

@@ -11,3 +11,39 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12043875
 schema_version: 1
+director:
+- sekvens-irzhi
+screenwriter:
+- marek-irzhi
+- sekvens-irzhi
+cinematographer:
+- garvan-miloslav
+composer:
+- lishka-zdenek
+cast:
+- person: zazvorkova-stella
+- person: vinklarzh-yozef
+- person: myslikova-mila
+- person: abrgam-yozef
+- person: blaga-yozef
+- person: marvan-yaroslav
+- person: menshik-vladimir
+- person: fialova-kveta
+- person: potmeshil-ladislav
+- person: bek-josef
+- person: holy-jiri
+- person: zagorskiy-boguslav
+- person: shmida-bogumil
+- person: mayerova-carmen
+- person: cockova-helga
+- person: shultsova-yana
+- person: musil-mirko
+- person: skladal-svatopluk
+- person: cmiral-jaroslav
+- person: foustkova-eva
+- person: holar-frantisek
+- person: q101080945
+- person: q102361740
+- person: panacek-jindrich
+studio:
+- barrandov

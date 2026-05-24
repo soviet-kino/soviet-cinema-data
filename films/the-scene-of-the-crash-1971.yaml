@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7762481
 schema_version: 1
+director:
+- zvonimir-berkovich
+screenwriter:
+- zvonimir-berkovich
+composer:
+- kabilo-alfi
+cast:
+- person: sherbedzhiya-rade
+- person: zhigon-stevo
+- person: karich-ana
+studio:
+- yadran-film

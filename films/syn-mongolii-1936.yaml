@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20611176
 schema_version: 1
+director:
+- trauberg-ilya-zakharovich
+- suslovich-rafail-rafailovich
+screenwriter:
+- lapin-boris-matveevich
+- slavin-lev-isaevich
+- khatsrevin-zakhar-lvovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+composer:
+- rabinovich-nikolay-semyonovich
+- grikurov-eduard
+cast:
+- person: ichinkhorloo-dashzevegiyn
+- person: tseveen-chimediyn
+- person: tsegmid-nyamyn
+studio:
+- lenfilm

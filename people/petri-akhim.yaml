@@ -1,0 +1,9 @@
+id: petri-akhim
+name_ru: Ахим Петри
+roles:
+- actor
+external_ids:
+  wikidata: Q18018151
+sources:
+- https://www.wikidata.org/wiki/Q18018151
+schema_version: 1

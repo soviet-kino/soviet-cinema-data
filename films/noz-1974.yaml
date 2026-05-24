@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187398
 schema_version: 1
+director:
+- zhizhich-bogdan
+screenwriter:
+- zhizhich-bogdan
+cast:
+- person: dvornik-boris
+- person: lepetich-zvonko
+- person: rancic-alenka

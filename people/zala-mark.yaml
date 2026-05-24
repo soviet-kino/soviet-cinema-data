@@ -1,0 +1,9 @@
+id: zala-mark
+name_ru: Марк Зала
+roles:
+- actor
+external_ids:
+  wikidata: Q17361808
+sources:
+- https://www.wikidata.org/wiki/Q17361808
+schema_version: 1

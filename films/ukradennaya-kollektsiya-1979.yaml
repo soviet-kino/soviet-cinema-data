@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4470381
 schema_version: 1
+director:
+- batory-yan
+screenwriter:
+- khmelevskaya-ioanna
+- batory-yan
+cinematographer:
+- lyambakh-boguslav
+cast:
+- person: dzyarska-izabella
+- person: starostetskaya-elzhbeta
+studio:
+- iluzjon

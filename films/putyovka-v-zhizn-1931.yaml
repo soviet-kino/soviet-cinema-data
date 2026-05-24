@@ -8,6 +8,25 @@ runtime_min: 106
 external_ids:
   wikidata: Q1967124
   imdb: tt0022289
+  youtube: cPG1IXZ8NLQ
 sources:
 - https://www.wikidata.org/wiki/Q1967124
 schema_version: 1
+director:
+- ekk-nikolay-vladimirovich
+screenwriter:
+- ekk-nikolay-vladimirovich
+- stolper-aleksandr
+- yanushkevich-regina-vikentevna
+cinematographer:
+- pronin-vasiliy-markelovich
+composer:
+- stollyar-yakov-efimovich
+cast:
+- person: batalov-nikolay-petrovich
+- person: zharov-mikhail-ivanovich
+- person: kyrla-yyvan
+studio:
+- mezhrabpomfilm
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Putevka v zhisn poster.jpg

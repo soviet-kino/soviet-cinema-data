@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q16514575
   imdb: tt1794855
+  youtube: 1Ypy3IZnQNo
 sources:
 - https://www.wikidata.org/wiki/Q16514575
 schema_version: 1
+director:
+- amalrik-leonid-alekseevich
+screenwriter:
+- chukovskiy-korney-ivanovich
+studio:
+- soyuzmultfilm

@@ -1,0 +1,9 @@
+id: mozer-gans
+name_ru: Ганс Мозер
+roles:
+- actor
+external_ids:
+  wikidata: Q113705
+sources:
+- https://www.wikidata.org/wiki/Q113705
+schema_version: 1

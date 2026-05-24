@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4367469
   imdb: tt0300351
+  youtube: XK4JvFr5enM
 sources:
 - https://www.wikidata.org/wiki/Q4367469
 schema_version: 1
+director:
+- martyanov-sergey-viktorovich
+screenwriter:
+- karasik-yuliy-yurevich
+studio:
+- sverdlovskaya-kinostudiya

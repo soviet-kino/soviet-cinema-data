@@ -8,6 +8,21 @@ runtime_min: 50
 external_ids:
   wikidata: Q7754064
   imdb: tt1550321
+  youtube: 7XshsRYxqO4
 sources:
 - https://www.wikidata.org/wiki/Q7754064
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+- yanshin-mikhail-mikhaylovich
+cinematographer:
+- voinov-nikolay-vasilevich
+- petrova-elena-nikolaevna
+composer:
+- rimskiy-korsakov-nikolay-andreevich
+studio:
+- soyuzmultfilm

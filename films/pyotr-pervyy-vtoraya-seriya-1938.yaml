@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q20091240
   imdb: tt0030011
+  youtube: -Y8JXjl9QZA
 sources:
 - https://www.wikidata.org/wiki/Q20091240
 schema_version: 1
+director:
+- petrov-vladimir-mikhaylovich
+screenwriter:
+- tolstoy-aleksey-nikolaevich
+- leshchenko-nikolay-mikhaylovich
+- petrov-vladimir-mikhaylovich
+cinematographer:
+- gordanov-vyacheslav-vyacheslavovich

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12135347
 schema_version: 1
+director:
+- dolidze-semyon-vissarionovich
+cast:
+- person: zakariadze-sergo-aleksandrovich
+- person: tserodze-dudukhana
+studio:
+- gruziya-film

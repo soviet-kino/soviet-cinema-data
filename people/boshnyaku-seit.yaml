@@ -1,0 +1,9 @@
+id: boshnyaku-seit
+name_ru: Сеит Бошняку
+roles:
+- actor
+external_ids:
+  wikidata: Q13045524
+sources:
+- https://www.wikidata.org/wiki/Q13045524
+schema_version: 1

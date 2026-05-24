@@ -1,0 +1,9 @@
+id: fono-aladar
+name_ru: Аладар Фоньо
+roles:
+- actor
+external_ids:
+  wikidata: Q30611449
+sources:
+- https://www.wikidata.org/wiki/Q30611449
+schema_version: 1

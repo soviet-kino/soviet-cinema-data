@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3207187
 schema_version: 1
+director:
+- bostan-elizabeta
+screenwriter:
+- bostan-elizabeta
+- demer-rok
+cast:
+- person: dyakonu-mircha
+- person: mikhaitsa-dzhordzh
+- person: galin-karmen

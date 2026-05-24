@@ -8,6 +8,12 @@ runtime_min: 81
 external_ids:
   wikidata: Q65250826
   imdb: tt0252067
+  youtube: -SljBqxv9eY
 sources:
 - https://www.wikidata.org/wiki/Q65250826
 schema_version: 1
+director:
+- mansurov-bulat-bogautdinovich
+screenwriter:
+- dzhansugurov-ilyas
+- mansurov-bulat-bogautdinovich

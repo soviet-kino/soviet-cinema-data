@@ -1,0 +1,8 @@
+id: zdf
+name_ru: ZDF
+country: SU
+external_ids:
+  wikidata: Q48989
+sources:
+- https://www.wikidata.org/wiki/Q48989
+schema_version: 1

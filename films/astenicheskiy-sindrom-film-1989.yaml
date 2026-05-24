@@ -8,6 +8,27 @@ runtime_min: 153
 external_ids:
   wikidata: Q3553801
   imdb: tt0096841
+  youtube: YDb76aekGBY
 sources:
 - https://www.wikidata.org/wiki/Q3553801
 schema_version: 1
+director:
+- muratova-kira-georgievna
+screenwriter:
+- muratova-kira-georgievna
+- popov-leonid-sergeevich-2
+- chyornykh-aleksandr-yurevich
+cinematographer:
+- pankov-vladimir
+cast:
+- person: aristov-viktor-fyodorovich
+- person: antonova-olga-sergeevna
+- person: buzko-natalya-evgenevna
+- person: popov-leonid-sergeevich-2
+- person: svenskaya-aleksandra
+- person: shkolnik-oleg-lvovich
+- person: galina-kasperovich
+- person: polishchuk-pavel
+- person: semyonov-nikolay
+studio:
+- odesskaya-kinostudiya

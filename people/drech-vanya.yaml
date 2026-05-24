@@ -1,0 +1,9 @@
+id: drech-vanya
+name_ru: Ваня Дрэч
+roles:
+- actor
+external_ids:
+  wikidata: Q1254032
+sources:
+- https://www.wikidata.org/wiki/Q1254032
+schema_version: 1

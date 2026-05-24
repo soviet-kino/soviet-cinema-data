@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1219970
 schema_version: 1
+director:
+- batory-yan
+screenwriter:
+- bzhekhva-yan
+- batory-yan
+cinematographer:
+- lyambakh-boguslav
+composer:
+- valyatsinskiy-adam
+cast:
+- person: kachinskiy-lekh
+- person: kachinskiy-yaroslav
+- person: shmidt-tadeush
+- person: ronchevskiy-ryshard
+- person: klosinskiy-yanush
+- person: skochilyas-vlodzimezh
+- person: benua-lyudvik
+- person: khelena-grossuvna
+studio:
+- syrena-kinostudiya

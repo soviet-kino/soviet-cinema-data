@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q4447944
   imdb: tt0301914
+  youtube: Gh-1hxEyX9Q
 sources:
 - https://www.wikidata.org/wiki/Q4447944
 schema_version: 1
+cast:
+- person: zolotukhin-valeriy
+studio:
+- ekran

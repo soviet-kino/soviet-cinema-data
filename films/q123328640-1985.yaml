@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123328640
 schema_version: 1
+director:
+- peterffy-andras
+cast:
+- person: banshagi-ildiko
+- person: kendereshi-tibor
+- person: deres-henriett

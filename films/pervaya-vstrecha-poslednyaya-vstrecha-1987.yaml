@@ -8,6 +8,23 @@ runtime_min: 87
 external_ids:
   wikidata: Q4348919
   imdb: tt0093728
+  youtube: tPzm_ndNa6o
 sources:
 - https://www.wikidata.org/wiki/Q4348919
 schema_version: 1
+director:
+- melnikov-vitaliy-vyacheslavovich
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- veksler-yuriy-abramovich
+composer:
+- kogan-timur-iosifovich
+cast:
+- person: efremov-oleg-nikolaevich
+- person: kononov-mikhail-ivanovich
+- person: bogatyryov-yuriy-georgievich
+- person: morozov-mikhail-leonidovich
+- person: plotnikov-boris
+studio:
+- lenfilm

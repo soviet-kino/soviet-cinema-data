@@ -1,0 +1,9 @@
+id: servand-oto
+name_ru: Oto Servand
+roles:
+- actor
+external_ids:
+  wikidata: Q133538838
+sources:
+- https://www.wikidata.org/wiki/Q133538838
+schema_version: 1

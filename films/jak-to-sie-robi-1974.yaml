@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11716266
 schema_version: 1
+director:
+- kondratiuk-andrzej
+composer:
+- zielinski-andrzej
+cast:
+- person: maklakiewicz-zdzis-aw

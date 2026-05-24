@@ -1,0 +1,9 @@
+id: shadiya
+name_ru: Шадия
+roles:
+- actor
+external_ids:
+  wikidata: Q4165830
+sources:
+- https://www.wikidata.org/wiki/Q4165830
+schema_version: 1

@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4303413
 schema_version: 1
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- zhuravlyov-vasiliy-nikolaevich
+cinematographer:
+- kosmatov-leonid
+composer:
+- afanasev-leonid
+cast:
+- person: kryuchkov-nikolay-afanasevich
+studio:
+- mosfilm

@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q4150480
   imdb: tt0309643
+  youtube: HXhKhrySUa4
 sources:
 - https://www.wikidata.org/wiki/Q4150480
 schema_version: 1
+director:
+- kuznetsov-georgiy-mikhaylovich
+cast:
+- person: antsans-romualds
+- person: ivanov-sergey-petrovich
+- person: solovyov-viktor-yurevich
+- person: turaev-anvar-burkhanovich
+studio:
+- sverdlovskaya-kinostudiya

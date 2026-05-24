@@ -1,0 +1,9 @@
+id: conty-claude
+name_ru: Claude Conty
+roles:
+- actor
+external_ids:
+  wikidata: Q111370022
+sources:
+- https://www.wikidata.org/wiki/Q111370022
+schema_version: 1

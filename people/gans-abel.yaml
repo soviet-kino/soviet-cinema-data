@@ -1,0 +1,9 @@
+id: gans-abel
+name_ru: Абель Ганс
+roles:
+- director
+external_ids:
+  wikidata: Q313572
+sources:
+- https://www.wikidata.org/wiki/Q313572
+schema_version: 1

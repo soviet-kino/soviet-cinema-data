@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9169799
 schema_version: 1
+director:
+- sass-barbara
+screenwriter:
+- sass-barbara
+cinematographer:
+- zdort-wies-aw
+composer:
+- kraevskiy-severin
+cast:
+- person: pritulyak-malgozhata
+- person: zayonchkovskaya-malgozhata
+- person: shonert-miroslav
+- person: pavlik-bronislav
+- person: stalinska-dorota
+- person: khoravyanka-barbara
+- person: andzheevskiy-leonard
+- person: privezentsev-eugeniush
+- person: baranovskiy-andzhey
+- person: goleevskiy-andzhey
+- person: girych-antonina
+- person: baczynski-szczepan
+- person: kovalskiy-vladislav
+- person: vardeyn-zdzislav
+- person: kaminskiy-emelyan
+- person: ka-ucki-jacek
+- person: polanowska-misiorny-jadwiga
+- person: so-uba-lech
+- person: mamona-maria
+- person: adamchevskiy-pyotr
+- person: straszewski-ryszard
+studio:
+- iluzjon-2

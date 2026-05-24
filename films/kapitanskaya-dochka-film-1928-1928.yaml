@@ -8,6 +8,16 @@ runtime_min: 87
 external_ids:
   wikidata: Q97832626
   imdb: tt5503064
+  youtube: q3vIr5gpmKY
 sources:
 - https://www.wikidata.org/wiki/Q97832626
 schema_version: 1
+director:
+- tarich-yuriy-viktorovich
+screenwriter:
+- shklovskiy-viktor-borisovich
+cast:
+- person: kuznetsov-stepan-leonidovich
+- person: prozorovskiy-nikolay-petrovich
+studio:
+- sovkino

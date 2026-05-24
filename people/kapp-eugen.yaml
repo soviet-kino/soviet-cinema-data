@@ -1,0 +1,9 @@
+id: kapp-eugen
+name_ru: Эуген Капп
+roles:
+- composer
+external_ids:
+  wikidata: Q937407
+sources:
+- https://www.wikidata.org/wiki/Q937407
+schema_version: 1

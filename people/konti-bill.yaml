@@ -1,0 +1,9 @@
+id: konti-bill
+name_ru: Билл Конти
+roles:
+- composer
+external_ids:
+  wikidata: Q367084
+sources:
+- https://www.wikidata.org/wiki/Q367084
+schema_version: 1

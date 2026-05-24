@@ -8,6 +8,23 @@ runtime_min: 74
 external_ids:
   wikidata: Q4351203
   imdb: tt11980074
+  youtube: emh6weeC_BE
 sources:
 - https://www.wikidata.org/wiki/Q4351203
 schema_version: 1
+director:
+- ivanov-aleksandr-gavrilovich
+screenwriter:
+- polotskiy-semyon-anatolevich
+- tevelyov-matvey-grigorevich
+cinematographer:
+- velichko-evgeniy-ivanovich
+composer:
+- arapov-boris-aleksandrovich
+- popov-gavriil-nikolaevich
+cast:
+- person: krylov-stepan-ivanovich
+- person: kolosov-georgiy-konstantinovich
+- person: predtechenskaya-yuliya-nikolaevna
+studio:
+- lenfilm

@@ -1,0 +1,9 @@
+id: barta-dona
+name_ru: Dona Barta
+roles:
+- director
+external_ids:
+  wikidata: Q51105235
+sources:
+- https://www.wikidata.org/wiki/Q51105235
+schema_version: 1

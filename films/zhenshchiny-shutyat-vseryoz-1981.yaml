@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12104932
 schema_version: 1
+director:
+- ershov-konstantin-vladimirovich
+screenwriter:
+- ershov-konstantin-vladimirovich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- lapinskiy-yakov-naumovich
+cast:
+- person: filatov-leonid-alekseevich
+- person: mateshko-olga-nikolaevna
+- person: melnik-irina-vasilevna
+studio:
+- kinostudiya-imeni-a-dovzhenko

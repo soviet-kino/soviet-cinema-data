@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12273226
 schema_version: 1
+cast:
+- person: kolev-todor
+- person: paskaleva-katya
+- person: banov-vasil
+- person: nedelchev-svetozar
+- person: cheshmedzhiev-hristo

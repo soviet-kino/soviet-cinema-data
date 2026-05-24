@@ -1,0 +1,9 @@
+id: buytor-ishtvan
+name_ru: Иштван Буйтор
+roles:
+- actor
+external_ids:
+  wikidata: Q640420
+sources:
+- https://www.wikidata.org/wiki/Q640420
+schema_version: 1

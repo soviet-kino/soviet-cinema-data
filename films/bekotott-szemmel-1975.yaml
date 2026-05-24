@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1475184
 schema_version: 1
+director:
+- kovach-andrash
+screenwriter:
+- kovach-andrash
+cinematographer:
+- secheni-ferents
+cast:
+- person: madarash-yozhef
+- person: kozak-andrash
+- person: khorvat-sandor
+- person: koltai-yanosh
+studio:
+- mafilm

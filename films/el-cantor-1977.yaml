@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1323920
 schema_version: 1
+director:
+- rid-din
+screenwriter:
+- rid-din
+cinematographer:
+- khaynrikh-gans
+composer:
+- svoboda-karel
+cast:
+- person: volf-gerri
+- person: marian-edvin
+- person: kramm-waltraut
+- person: aust-friederike
+- person: turoff-niko
+- person: khebenshtrayt-pedro
+- person: bettner-ralf
+- person: sense-traute
+- person: noyenkhan-villi
+- person: shrade-villi

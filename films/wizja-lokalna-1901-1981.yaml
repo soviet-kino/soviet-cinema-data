@@ -11,3 +11,36 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q8028797
 schema_version: 1
+director:
+- bayon-filip
+screenwriter:
+- bayon-filip
+cinematographer:
+- zelinskiy-ezhi
+composer:
+- szostak-zdzis-aw
+cast:
+- person: shtur-ezhi
+- person: shtruve-alfred
+- person: olbrykhskiy-daniel
+- person: lomnitskiy-tadeush
+- person: bista-khenrik
+- person: shturm-karl
+- person: voyt-mechislav
+- person: reknits-dzhek
+- person: musyal-vlodzimezh
+- person: gryn-virgiliush
+- person: trelya-ezhi
+- person: belyavskiy-zygmunt
+- person: mikhalskiy-stanislav
+- person: kovalchikova-khelena
+- person: wasilewicz-andrzej
+- person: igar-stanislav
+- person: drzewicz-wies-aw
+- person: komasa-wies-aw
+- person: voytsik-vislav
+- person: buchkovskiy-zbignev
+- person: shimborskiy-zdzislav
+- person: vardeyn-zdzislav
+studio:
+- tor-kinostudiya

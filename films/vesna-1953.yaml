@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4846697
 schema_version: 1
+director:
+- chap-frantishek
+screenwriter:
+- bor-matey
+- chap-frantishek
+composer:
+- adamich-boyan
+cast:
+- person: milcinski-frane
+- person: gabrijelcic-metka
+- person: sever-stane
+- person: cuk-janez
+- person: trefalt-franek

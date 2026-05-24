@@ -8,6 +8,21 @@ runtime_min: 100
 external_ids:
   wikidata: Q4334797
   imdb: tt0036236
+  youtube: fKY5N3usguc
 sources:
 - https://www.wikidata.org/wiki/Q4334797
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- kapler-aleksey-yakovlevich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: smirnova-lidiya-nikolaevna
+- person: maretskaya-vera-petrovna
+- person: fyodorova-inna-ivanovna
+studio:
+- kazakhfilm
+poster_commons: Плакат к фильму «Она защищает Родину».jpg

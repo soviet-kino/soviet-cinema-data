@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3182520
 schema_version: 1
+director:
+- groshopp-rikhard
+cinematographer:
+- ro-kopf-walter
+cast:
+- person: peters-verner
+- person: braunbok-karola
+- person: khelmer-karl
+- person: lemann-manfred
+- person: khanke-edit
+- person: schaumaker-margit
+- person: kutschera-franz
+- person: novak-fridel
+- person: vagner-frits
+- person: venor-albert
+- person: kieper-herbert
+- person: dornbush-zigfrid

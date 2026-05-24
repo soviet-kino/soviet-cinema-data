@@ -7,6 +7,25 @@ country:
 external_ids:
   wikidata: Q6350897
   imdb: tt5501024
+  youtube: 3lLKjhaOc8o
 sources:
 - https://www.wikidata.org/wiki/Q6350897
 schema_version: 1
+director:
+- klimenko-stanislav-stepanovich
+screenwriter:
+- mitko-evgeniy
+- shcherbak-anatoliy-ivanovich
+cinematographer:
+- kurach-vasiliy-nikolaevich
+composer:
+- poklad-igor-dmitrievich
+cast:
+- person: stupka-bogdan-silvestrovich
+- person: gladiy-grigoriy-stepanovich
+- person: strigun-fyodor-nikolaevich
+- person: sumskaya-natalya
+- person: gavrilyuk-yaroslav-dmitrievich
+- person: lukich-panasenko-fyodor
+studio:
+- kinostudiya-imeni-a-dovzhenko

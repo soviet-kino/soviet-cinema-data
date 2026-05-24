@@ -1,0 +1,9 @@
+id: sabo-pal
+name_ru: Пал Сабо
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q1293741
+sources:
+- https://www.wikidata.org/wiki/Q1293741
+schema_version: 1

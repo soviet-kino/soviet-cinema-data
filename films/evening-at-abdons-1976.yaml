@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9372667
 schema_version: 1
+director:
+- kholland-agneshka
+screenwriter:
+- kholland-agneshka
+cinematographer:
+- antoni-voytovich
+composer:
+- marchevskiy-petr
+cast:
+- person: bayor-mikhal
+- person: beata-tyshkevich
+- person: klimczak-celina-maria
+- person: jaroszynski-stanis-aw
+- person: belskiy-zbignev
+- person: wa-aszek-eugeniusz
+- person: wachelko-zaleska-krystyna
+- person: bargelovskiy-marek
+- person: szwejlich-micha
+- person: q116981249
+studio:
+- zespol-filmowy-x

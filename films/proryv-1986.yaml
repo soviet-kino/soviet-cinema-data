@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4380930
 schema_version: 1
+director:
+- svetozarov-dmitriy-iosifovich
+screenwriter:
+- shulgina-albina
+cinematographer:
+- astakhov-sergey-valentinovich
+composer:
+- andrey-makarevich
+- zaytsev-aleksandr-viktorovich
+- kutikov-aleksandr-viktorovich
+cast:
+- person: borisov-oleg-ivanovich
+- person: krasko-andrey
+- person: rostotskiy-andrey-stanislavovich
+- person: demich-yuriy-aleksandrovich
+studio:
+- lenfilm

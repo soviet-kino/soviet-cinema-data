@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12761170
 schema_version: 1
+director:
+- aleksandar-dzhordzhevich
+cast:
+- person: srdoch-milan
+- person: boro-bregovich
+- person: q12750676
+- person: sekic-ramiz

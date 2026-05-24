@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7945040
 schema_version: 1
+director:
+- frich-martin
+screenwriter:
+- klika-frantisek
+cinematographer:
+- miskevyc-roman
+cast:
+- person: marwille-suzanne
+- person: speerger-jan-w
+- person: sindler-valentin
+- person: pavlikova-marie
+- person: behava-marie
+- person: klika-frantisek
+- person: zvachova-olga

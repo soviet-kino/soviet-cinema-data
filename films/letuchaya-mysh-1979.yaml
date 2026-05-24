@@ -8,6 +8,33 @@ runtime_min: 141
 external_ids:
   wikidata: Q4260282
   imdb: tt0079464
+  youtube: z771enWnTrg
 sources:
 - https://www.wikidata.org/wiki/Q4260282
 schema_version: 1
+director:
+- frid-yan-borisovich
+screenwriter:
+- frid-yan-borisovich
+cinematographer:
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- shtraus-iogann
+cast:
+- person: dmitriev-igor-borisovich
+- person: vidov-oleg-borisovich
+- person: solomin-vitaliy-mefodevich
+- person: demyanenko-aleksandr-sergeevich
+- person: bogdanova-chesnokova-glikeriya-vasilevna
+- person: udovichenko-larisa-ivanovna
+- person: vesnik-evgeniy-yakovlevich
+- person: solomin-yuriy-mefodevich
+- person: vasilev-yuriy-nikolaevich
+- person: volkova-olga-vladimirovna
+- person: lyubeznov-ivan-aleksandrovich
+- person: lyakhovitskiy-vladimir-naumovich
+- person: maksakova-lyudmila-vasilevna
+- person: filippov-sergey-nikolaevich
+studio:
+- lenfilm
+- ekran

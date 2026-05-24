@@ -10,3 +10,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124337090
 schema_version: 1
+cast:
+- person: slabakov-pyotr
+- person: kotsev-konstantin

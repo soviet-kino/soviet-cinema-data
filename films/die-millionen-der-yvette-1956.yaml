@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5274408
 schema_version: 1
+director:
+- khellberg-martin
+screenwriter:
+- khellberg-martin
+cast:
+- person: kayzer-volf
+- person: binert-gerkhard

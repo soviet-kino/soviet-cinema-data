@@ -9,3 +9,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12297172
 schema_version: 1
+director:
+- tzokov-orfey
+cast:
+- person: tsonev-kosta
+- person: lukanov-boris
+- person: stavreva-albena

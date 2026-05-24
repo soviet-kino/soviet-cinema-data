@@ -8,6 +8,21 @@ runtime_min: 96
 external_ids:
   wikidata: Q4331592
   imdb: tt0089721
+  youtube: ClXK2ATu9Ds
 sources:
 - https://www.wikidata.org/wiki/Q4331592
 schema_version: 1
+director:
+- tumanishvili-mikhail-iosifovich
+screenwriter:
+- mesyatsev-evgeniy-alekseevich
+composer:
+- babushkin-viktor-borisovich
+cast:
+- person: begalin-nartay-mazhitovich
+- person: zikora-vitaliy-grigorevich
+- person: litsitis-arnis
+- person: nozhkin-mikhail-ivanovich
+- person: fatyushin-aleksandr-konstantinovich
+studio:
+- mosfilm

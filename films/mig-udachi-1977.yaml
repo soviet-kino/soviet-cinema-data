@@ -8,6 +8,13 @@ runtime_min: 63
 external_ids:
   wikidata: Q65200459
   imdb: tt4876438
+  youtube: njHIYnI2hAg
 sources:
 - https://www.wikidata.org/wiki/Q65200459
 schema_version: 1
+director:
+- plotkin-vsevolod-yakovlevich
+screenwriter:
+- priyomykhov-valeriy
+studio:
+- sverdlovskaya-kinostudiya

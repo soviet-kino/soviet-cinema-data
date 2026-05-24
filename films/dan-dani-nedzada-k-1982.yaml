@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q57612043
 schema_version: 1
+cast:
+- person: sokolovic-zijah
+- person: jelisic-or-e
+- person: mirza-tanovich

@@ -10,3 +10,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11788463
 schema_version: 1
+director:
+- brzozowski-jaros-aw
+- wrobel-andrzej
+screenwriter:
+- centkiewiczowa-alina
+cinematographer:
+- lyambakh-boguslav
+composer:
+- serotskiy-kazimezh
+cast:
+- person: nemchik-leon
+- person: pyrkosh-vitold
+- person: skarukh-vitold
+- person: emil-karevich
+- person: kurovskaya-bozhena
+- person: pavlikovskiy-adam

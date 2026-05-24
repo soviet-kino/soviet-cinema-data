@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7087893
 schema_version: 1
+director:
+- garash-marton
+screenwriter:
+- vayda-ladislaus
+cinematographer:
+- eiben-istvan
+cast:
+- person: verebes-erno
+- person: fenveshshi-emil
+- person: simon-marcsa
+- person: torzs-jeno
+- person: szoreghy-gyula
+- person: hajdu-jozsef
+- person: molnar-laslo-z
+- person: lubinszky-tibor
+studio:
+- corvin-film-studio

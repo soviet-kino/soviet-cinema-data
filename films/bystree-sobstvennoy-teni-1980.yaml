@@ -8,6 +8,18 @@ runtime_min: 91
 external_ids:
   wikidata: Q4101103
   imdb: tt0080483
+  youtube: zVXy3Ov-MzE
 sources:
 - https://www.wikidata.org/wiki/Q4101103
 schema_version: 1
+director:
+- lyubimov-pavel-grigorevich
+screenwriter:
+- orlov-dal-konstantinovich
+composer:
+- zhurbin-aleksandr-borisovich
+cast:
+- person: mateshko-anatoliy-nikolaevich
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- kinostudiya-imeni-m-gorkogo

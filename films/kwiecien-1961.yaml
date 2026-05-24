@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11751729
 schema_version: 1
+director:
+- lesiewicz-witold
+screenwriter:
+- khen-yozef
+cinematographer:
+- svirta-cheslav
+composer:
+- berd-tadeush
+cast:
+- person: kovalchik-avgust
+- person: kovalevskiy-kshishtof
+- person: pyrkosh-vitold
+- person: tym-stanislav
+- person: pechka-frantishek
+- person: kobushevskiy-yan
+- person: pavlovskiy-pyotr
+- person: kondrat-tadeush
+- person: kovalskiy-vatslav
+- person: bonk-khenrik
+- person: krasitskiy-andzhey
+- person: plotnitskiy-boleslav
+- person: turek-ezhi
+- person: pikhelskiy-ezhi
+- person: kherdegen-leshek
+- person: perzyk-adam
+- person: novak-ezhi
+- person: rajewski-wojciech
+- person: lodynskiy-yuzef
+- person: cheselska-mariya
+- person: czaplinska-jolanta
+studio:
+- kamera-kinostudiya

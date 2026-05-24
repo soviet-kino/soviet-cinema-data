@@ -1,0 +1,9 @@
+id: pechek-yan
+name_ru: Ян Печек
+roles:
+- actor
+external_ids:
+  wikidata: Q11718789
+sources:
+- https://www.wikidata.org/wiki/Q11718789
+schema_version: 1

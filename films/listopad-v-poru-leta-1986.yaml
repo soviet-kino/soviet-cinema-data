@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4263484
 schema_version: 1
+director:
+- ogly-ismaylov-tofik-guseyn
+cinematographer:
+- kerimov-valeri
+cast:
+- person: aslan-siyavush
+studio:
+- azerbaydzhanfilm

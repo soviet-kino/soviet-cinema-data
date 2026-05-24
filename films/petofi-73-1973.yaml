@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7179461
 schema_version: 1
+director:
+- kardosh-ferents
+screenwriter:
+- kardosh-ferents
+- kardos-istvan
+cinematographer:
+- kende-yanosh
+cast:
+- person: togai-kan
+- person: kovacs-mihaly

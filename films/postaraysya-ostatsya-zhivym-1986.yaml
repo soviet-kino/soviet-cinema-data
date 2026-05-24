@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4374210
   imdb: tt0274730
+  youtube: rBx2AFtU6sI
 sources:
 - https://www.wikidata.org/wiki/Q4374210
 schema_version: 1
+director:
+- ivanov-gennadiy-kronidovich
+cinematographer:
+- rybin-aleksandr
+composer:
+- afanasev-leonid
+cast:
+- person: glebov-pyotr-petrovich
+- person: menshov-evgeniy-aleksandrovich
+- person: stomma-zdislav-frantsevich
+studio:
+- kinostudiya-imeni-m-gorkogo

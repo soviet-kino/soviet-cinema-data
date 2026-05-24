@@ -1,0 +1,9 @@
+id: grazhina-krukovna
+name_ru: Гражина Круковна
+roles:
+- actor
+external_ids:
+  wikidata: Q9276062
+sources:
+- https://www.wikidata.org/wiki/Q9276062
+schema_version: 1

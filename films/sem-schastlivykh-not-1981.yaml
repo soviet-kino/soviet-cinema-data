@@ -7,6 +7,16 @@ country:
 external_ids:
   wikidata: Q4415676
   imdb: tt5570514
+  youtube: oDMCUR7qOzQ
 sources:
 - https://www.wikidata.org/wiki/Q4415676
 schema_version: 1
+director:
+- mezentsev-evgeniy-mikhaylovich
+composer:
+- dunaevskiy-maksim-isaakovich
+cast:
+- person: aroseva-olga-aleksandrovna
+- person: svetin-mikhail-semyonovich
+studio:
+- lenfilm

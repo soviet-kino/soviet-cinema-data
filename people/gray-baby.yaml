@@ -1,0 +1,9 @@
+id: gray-baby
+name_ru: Baby Gray
+roles:
+- actor
+external_ids:
+  wikidata: Q797844
+sources:
+- https://www.wikidata.org/wiki/Q797844
+schema_version: 1

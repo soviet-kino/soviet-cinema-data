@@ -6,6 +6,13 @@ country:
 - PL
 external_ids:
   wikidata: Q116226756
+  youtube: gDpkDQj2AQA
 sources:
 - https://www.wikidata.org/wiki/Q116226756
 schema_version: 1
+director:
+- dubowski-grzegorz
+screenwriter:
+- micinska-anna
+studio:
+- polskoe-televidenie

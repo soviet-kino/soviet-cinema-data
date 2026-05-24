@@ -1,0 +1,9 @@
+id: dolly-mila
+name_ru: Mila Dolly
+roles:
+- actor
+external_ids:
+  wikidata: Q133514869
+sources:
+- https://www.wikidata.org/wiki/Q133514869
+schema_version: 1

@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q113234030
 schema_version: 1
+director:
+- efros-anatoliy-vasilevich
+cinematographer:
+- bozhko-aleksandr
+cast:
+- person: ktorov-anatoliy-petrovich
+- person: stepanova-angelina-iosifovna

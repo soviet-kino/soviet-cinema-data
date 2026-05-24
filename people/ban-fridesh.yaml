@@ -1,0 +1,9 @@
+id: ban-fridesh
+name_ru: Фридьеш Бан
+roles:
+- director
+external_ids:
+  wikidata: Q662288
+sources:
+- https://www.wikidata.org/wiki/Q662288
+schema_version: 1

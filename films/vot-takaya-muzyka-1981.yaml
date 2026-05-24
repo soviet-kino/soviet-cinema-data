@@ -8,6 +8,17 @@ runtime_min: 88
 external_ids:
   wikidata: Q4126779
   imdb: tt0232910
+  youtube: 0Ddm_R9fSc8
 sources:
 - https://www.wikidata.org/wiki/Q4126779
 schema_version: 1
+director:
+- vorontsov-olgerd-riksovich
+screenwriter:
+- shustrov-boris-nikolaevich
+cinematographer:
+- shapiro-boris-anatolevich
+composer:
+- portnov-georgiy-anatolevich
+studio:
+- sverdlovskaya-kinostudiya

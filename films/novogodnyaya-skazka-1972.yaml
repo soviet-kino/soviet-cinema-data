@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q16514614
   imdb: tt4577456
+  youtube: inCgZ1njVRU
 sources:
 - https://www.wikidata.org/wiki/Q16514614
 schema_version: 1
+director:
+- degtyaryov-vladimir-dmitrievich
+cinematographer:
+- kamenetskiy-mikhail-abramovich
+composer:
+- feltsman-oskar-borisovich
+studio:
+- soyuzmultfilm

@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4279581
 schema_version: 1
+director:
+- fayt-yuliy-andreevich
+screenwriter:
+- panova-vera-fyodorovna
+cinematographer:
+- chumak-vladimir-gavriilovich
+composer:
+- chaykovskiy-boris-aleksandrovich
+cast:
+- person: burlyaev-nikolai
+- person: bogunova-nataliya-vasilevna
+studio:
+- lenfilm

@@ -8,6 +8,20 @@ runtime_min: 94
 external_ids:
   wikidata: Q4060950
   imdb: tt0034443
+  youtube: SrwI0_TZkio
 sources:
 - https://www.wikidata.org/wiki/Q4060950
 schema_version: 1
+director:
+- lukov-leonid
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: chirkov-boris-petrovich
+- person: pereverzev-ivan-fyodorovich
+- person: okunevskaya-tatyana-kirillovna
+- person: khvylya-aleksandr-leopoldovich
+studio:
+- kinostudiya-imeni-a-dovzhenko
+- uzbekfilm

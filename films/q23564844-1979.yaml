@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q23564844
 schema_version: 1
+director:
+- markvardt-frits
+cast:
+- person: rothert-jurgen

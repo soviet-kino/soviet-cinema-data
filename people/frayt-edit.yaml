@@ -1,0 +1,9 @@
+id: frayt-edit
+name_ru: Эдит Фрайт
+roles:
+- actor
+external_ids:
+  wikidata: Q1003280
+sources:
+- https://www.wikidata.org/wiki/Q1003280
+schema_version: 1

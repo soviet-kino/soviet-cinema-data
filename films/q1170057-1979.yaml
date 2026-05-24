@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1170057
 schema_version: 1
+director:
+- schlegel-egon
+cinematographer:
+- braumann-wolfgang
+composer:
+- erdmann-gyunter
+cast:
+- person: klering-khans
+- person: merkel-harry
+- person: foygt-ilza
+- person: uinkler-volfgang
+- person: lotz-karl-heinz

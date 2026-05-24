@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3796845
 schema_version: 1
+director:
+- sokurov-aleksandr
+screenwriter:
+- sokurov-aleksandr
+composer:
+- verdi-dzhuzeppe
+cast:
+- person: osipenko-alla-evgenevna
+studio:
+- lenfilm

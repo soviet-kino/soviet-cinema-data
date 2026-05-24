@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q74562382
 schema_version: 1
+director:
+- ranodi-laslo
+screenwriter:
+- darvash-yozhef
+cinematographer:
+- pazhtor-ishtvan
+composer:
+- servanski-endre
+cast:
+- person: bankhidi-laslo
+- person: bikhari-zhozef
+- person: agardi-gabor
+- person: pager-antal
+- person: dayka-margit
+- person: tolnai-klari
+- person: pap-eva
+- person: somogyi-erzsi
+- person: tordi-geza
+- person: somogyi-nusi

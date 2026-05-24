@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56391159
 schema_version: 1
+director:
+- der-andrash
+- hartai-laszlo
+cinematographer:
+- der-andrash
+cast:
+- person: molnar-chilli

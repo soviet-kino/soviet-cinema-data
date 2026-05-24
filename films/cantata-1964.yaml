@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4540701
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- yancho-miklosh
+- khernadi-gyula
+- lendel-yozhef
+cinematographer:
+- shomlo-tamash
+composer:
+- sarosi-balint
+cast:
+- person: zoltan-latinovich
+- person: aytai-andor
+- person: bodrogi-gyula

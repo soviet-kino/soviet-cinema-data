@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9340497
 schema_version: 1
+director:
+- ezhi-kavalerovich
+screenwriter:
+- ezhi-kavalerovich
+cinematographer:
+- ezhi-lukashevich
+composer:
+- figel-petr
+cast:
+- person: matseevskiy-zygmunt
+- person: valchevskiy-marek
+- person: budzish-kshizhanovska-tereza
+- person: nemirskaya-malgozhata
+- person: gogolevskiy-ignatsy
+- person: gustav-lyutkevich
+- person: mikhalskiy-stanislav
+- person: levandovskiy-marek
+studio:
+- studio-filmowe-kadr

@@ -8,6 +8,20 @@ runtime_min: 91
 external_ids:
   wikidata: Q4366413
   imdb: tt0040707
+  youtube: _Lu0l6HxWps
 sources:
 - https://www.wikidata.org/wiki/Q4366413
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- polevoy-boris
+- smirnova-mariya-nikolaevna
+cinematographer:
+- magidson-mark-pavlovich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: kadochnikov-pavel-petrovich
+studio:
+- mosfilm

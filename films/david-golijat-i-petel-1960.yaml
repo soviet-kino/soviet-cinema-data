@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q38507091
 schema_version: 1
+director:
+- yanevski-slavko
+screenwriter:
+- yanevski-slavko
+cast:
+- person: kyortoshev-kiril

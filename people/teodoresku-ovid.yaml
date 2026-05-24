@@ -1,0 +1,9 @@
+id: teodoresku-ovid
+name_ru: Овид Теодореску
+roles:
+- actor
+external_ids:
+  wikidata: Q18548527
+sources:
+- https://www.wikidata.org/wiki/Q18548527
+schema_version: 1

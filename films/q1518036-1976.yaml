@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1518036
 schema_version: 1
+director:
+- fogel-piter
+composer:
+- anders-khermann
+studio:
+- deutscher-fernsehfunk

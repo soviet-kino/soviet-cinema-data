@@ -8,6 +8,20 @@ runtime_min: 84
 external_ids:
   wikidata: Q4198246
   imdb: tt0080939
+  youtube: uYw1w6OoV9k
 sources:
 - https://www.wikidata.org/wiki/Q4198246
 schema_version: 1
+director:
+- gubenko-nikolay-nikolaevich
+screenwriter:
+- gubenko-nikolay-nikolaevich
+cinematographer:
+- knyazhinskiy-aleksandr-leonidovich
+composer:
+- shvarts-isaak-iosifovich
+cast:
+- person: adomaytis-regimantas
+- person: bolotova-zhanna-andreevna
+studio:
+- mosfilm

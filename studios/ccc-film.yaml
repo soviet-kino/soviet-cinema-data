@@ -1,0 +1,8 @@
+id: ccc-film
+name_ru: CCC Film
+country: RO
+external_ids:
+  wikidata: Q676498
+sources:
+- https://www.wikidata.org/wiki/Q676498
+schema_version: 1

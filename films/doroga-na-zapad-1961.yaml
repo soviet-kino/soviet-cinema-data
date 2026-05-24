@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9211120
 schema_version: 1
+director:
+- poremba-bogdan
+screenwriter:
+- dzevanovskiy-kazimezh
+cinematographer:
+- stefan-matyyashkevich
+composer:
+- kashitskiy-lyutsian
+cast:
+- person: opalinskiy-kazimezh
+studio:
+- kamera-kinostudiya

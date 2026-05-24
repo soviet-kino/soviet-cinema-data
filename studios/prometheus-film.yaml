@@ -1,0 +1,8 @@
+id: prometheus-film
+name_ru: Prometheus Film
+country: SU
+external_ids:
+  wikidata: Q771529
+sources:
+- https://www.wikidata.org/wiki/Q771529
+schema_version: 1

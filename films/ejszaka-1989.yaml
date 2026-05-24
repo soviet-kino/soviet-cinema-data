@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q86082047
 schema_version: 1
+director:
+- gaal-ishtvan
+screenwriter:
+- gaal-ishtvan
+cinematographer:
+- vecsernyes-janos
+cast:
+- person: nagi-attila
+- person: papp-zoltan
+- person: ratoti-zoltan
+- person: almashi-albert
+- person: tolnai-miklosh

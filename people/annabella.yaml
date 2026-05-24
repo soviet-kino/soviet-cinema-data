@@ -1,0 +1,9 @@
+id: annabella
+name_ru: Аннабелла
+roles:
+- actor
+external_ids:
+  wikidata: Q436894
+sources:
+- https://www.wikidata.org/wiki/Q436894
+schema_version: 1

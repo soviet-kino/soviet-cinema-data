@@ -8,6 +8,22 @@ runtime_min: 74
 external_ids:
   wikidata: Q1977969
   imdb: tt0018505
+  youtube: mrG3FA2lmiI
 sources:
 - https://www.wikidata.org/wiki/Q1977969
 schema_version: 1
+director:
+- room-abram-matveevich
+screenwriter:
+- shklovskiy-viktor-borisovich
+- room-abram-matveevich
+cinematographer:
+- giber-grigoriy-vladimirovich
+cast:
+- person: batalov-nikolay-petrovich
+- person: fogel-vladimir-petrovich
+- person: semyonova-lyudmila-nikolaevna
+studio:
+- mosfilm
+- sovkino
+poster_commons: Scene from Bed and Sofa.jpg

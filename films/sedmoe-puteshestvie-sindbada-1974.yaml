@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56840285
 schema_version: 1
+director:
+- zeman-karel
+cinematographer:
+- pikkhart-boguslav
+composer:
+- belfin-frantisek
+studio:
+- kinostudiya-gotvaldova

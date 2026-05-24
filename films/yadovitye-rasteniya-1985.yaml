@@ -11,3 +11,33 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9323491
 schema_version: 1
+director:
+- glinski-robert
+screenwriter:
+- glinski-robert
+cinematographer:
+- volf-andzhey
+composer:
+- branski-lech
+cast:
+- person: linda-boguslav
+- person: blashchik-eva
+- person: ferentsy-adam
+- person: kovalevskiy-kshishtof
+- person: figura-katazhina
+- person: dmokhovskiy-mariush
+- person: makhalitsa-pyotr
+- person: kristina-borovich
+- person: kotulanka-agnieszka
+- person: hanin-ryszarda
+- person: bartosik-tadeusz
+- person: bursztynowicz-barbara
+- person: dzekan-barbara
+- person: kijowska-elzbieta
+- person: dembinski-ryszard
+- person: dedek-tomash
+- person: paszkowski-wojciech
+- person: buchkovskiy-zbignev
+- person: yankovskiy-yan
+studio:
+- studio-filmowe-kadr

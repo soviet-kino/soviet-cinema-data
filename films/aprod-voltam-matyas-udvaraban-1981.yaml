@@ -9,3 +9,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q63866791
 schema_version: 1
+screenwriter:
+- gyarfas-endre
+cast:
+- person: kozak-andrash
+- person: bodnar-erika

@@ -8,6 +8,22 @@ runtime_min: 92
 external_ids:
   wikidata: Q2901494
   imdb: tt0032802
+  youtube: GKpstSbaLBs
 sources:
 - https://www.wikidata.org/wiki/Q2901494
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- donskoy-mark-semyonovich
+cinematographer:
+- ermolov-pyotr-vasilevich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: sverdlin-lev-naumovich
+- person: kayukov-stepan-yakovlevich
+- person: plotnikov-nikolay-sergeevich
+studio:
+- soyuzdetfilm
+poster_commons: Tadeusz Trepkowski Moje uniwersytety.webp

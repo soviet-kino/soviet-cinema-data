@@ -8,6 +8,19 @@ runtime_min: 27
 external_ids:
   wikidata: Q27049553
   imdb: tt0278645
+  youtube: bzPeDLer4ck
 sources:
 - https://www.wikidata.org/wiki/Q27049553
 schema_version: 1
+director:
+- kolomoytsev-pavel-aleksandrovich
+screenwriter:
+- zoshchenko-mikhail-mikhaylovich
+- popov-ivan-fyodorovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+cast:
+- person: bernes-mark-naumovich
+- person: ilinskiy-igor-vladimirovich
+- person: lepko-vladimir-alekseevich
+- person: mironova-mariya-vladimirovna

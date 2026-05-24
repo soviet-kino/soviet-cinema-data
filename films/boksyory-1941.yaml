@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4090615
 schema_version: 1
+director:
+- gonchukov-vladimir-ivanovich
+cinematographer:
+- leybov-yakov-solomonovich
+composer:
+- kats-sigizmund-abramovich
+cast:
+- person: gradopolov-konstantin-vasilevich
+- person: doronin-vitaliy-dmitrievich
+- person: sagal-daniil-lvovich
+- person: sorokin-konstantin-nikolaevich
+- person: mikhaylov-konstantin-konstantinovich

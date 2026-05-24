@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q17027620
 schema_version: 1
+director:
+- beganskiy-viktor
+cast:
+- person: tsibulskiy-mechislav

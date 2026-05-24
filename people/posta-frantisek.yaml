@@ -1,0 +1,9 @@
+id: posta-frantisek
+name_ru: František Pošta
+roles:
+- actor
+external_ids:
+  wikidata: Q133288562
+sources:
+- https://www.wikidata.org/wiki/Q133288562
+schema_version: 1

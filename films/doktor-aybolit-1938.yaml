@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4164280
 schema_version: 1
+director:
+- nemolyaev-vladimir-viktorovich
+screenwriter:
+- shvarts-evgeniy-lvovich
+cinematographer:
+- petrov-aleksandr
+composer:
+- varlamov-aleksandr-vladimirovich
+cast:
+- person: shtraukh-maksim-maksimovich
+- person: biy-brodskiy-iona-abramovich
+- person: galadzhev-pyotr-stepanovich
+- person: geller-emmanuil-savelevich
+- person: gurov-evgeniy-alekseevich
+- person: arkadin-ivan-ivanovich
+studio:
+- soyuzdetfilm

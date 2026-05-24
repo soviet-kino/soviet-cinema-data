@@ -11,3 +11,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12752223
 schema_version: 1
+director:
+- sofiya-yovanovich
+cast:
+- person: milena-dravich
+- person: mikhaylo-bata-paskalevich
+- person: saric-ratko
+- person: dzhurich-slobodan

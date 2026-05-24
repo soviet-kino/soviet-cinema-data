@@ -8,6 +8,21 @@ runtime_min: 88
 external_ids:
   wikidata: Q4212929
   imdb: tt0266686
+  youtube: Ja4cZ9V3NPs
 sources:
 - https://www.wikidata.org/wiki/Q4212929
 schema_version: 1
+director:
+- prachenko-andrey-dmitrievich
+cinematographer:
+- trushkovskiy-vasiliy-timofeevich
+composer:
+- khrapachev-vadim-yurevich
+cast:
+- person: mgaloblishvili-nodar-aleksandrovich
+- person: durov-lev-konstantinovich
+- person: filozov-albert-leonidovich
+- person: parkina-tatyana-alekseevna
+- person: yarmolnik-leonid-isaakovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

@@ -1,0 +1,9 @@
+id: abrakham-pal
+name_ru: Пал Абрахам
+roles:
+- composer
+external_ids:
+  wikidata: Q158650
+sources:
+- https://www.wikidata.org/wiki/Q158650
+schema_version: 1

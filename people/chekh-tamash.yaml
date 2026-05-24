@@ -1,0 +1,9 @@
+id: chekh-tamash
+name_ru: Тамаш Чех
+roles:
+- composer
+external_ids:
+  wikidata: Q53603
+sources:
+- https://www.wikidata.org/wiki/Q53603
+schema_version: 1

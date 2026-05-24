@@ -1,0 +1,9 @@
+id: roshi-kadri
+name_ru: Кадри Роши
+roles:
+- actor
+external_ids:
+  wikidata: Q2533292
+sources:
+- https://www.wikidata.org/wiki/Q2533292
+schema_version: 1

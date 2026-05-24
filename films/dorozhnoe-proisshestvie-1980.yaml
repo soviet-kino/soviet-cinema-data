@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16376373
 schema_version: 1
+director:
+- bekirzade-teymur
+screenwriter:
+- c-lilov-asim
+cinematographer:
+- alekperov-alesker-gadzhi-aga-ogly
+- sharifov-sharif
+composer:
+- ogly-polad-byulbyul
+cast:
+- person: nuri-yashar
+- person: aslan-siyavush
+- person: omarova-gamida-mamed-kyzy
+- person: m-h-rr-mov-kamil
+- person: ismaylov-gadzhi
+studio:
+- azerbaydzhanfilm

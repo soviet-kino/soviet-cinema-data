@@ -8,6 +8,30 @@ runtime_min: 86
 external_ids:
   wikidata: Q12027756
   imdb: tt0183331
+  youtube: 4cuWoln9n7Y
 sources:
 - https://www.wikidata.org/wiki/Q12027756
 schema_version: 1
+director:
+- fuka-otakar
+screenwriter:
+- nesvadba-yozef
+- fuka-otakar
+- makovichka-dragoslav
+cinematographer:
+- q131842897
+composer:
+- lishka-zdenek
+cast:
+- person: matous-zdenek
+- person: yakoubkova-eva
+- person: bruder-jiri
+- person: kotva-vaclav
+- person: srstka-zdenek
+- person: salac-vladimir
+- person: kaniza-yan
+- person: stibich-miloslav
+- person: lahoda-ladislav
+- person: altmannova-jana
+- person: homolova-dana
+- person: houska-karel

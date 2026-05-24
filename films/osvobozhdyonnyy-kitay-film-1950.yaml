@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7753545
 schema_version: 1
+director:
+- gerasimov-sergey
+cinematographer:
+- gindin-mikhail-efimovich
+- kinooperator-kiselyov-vasiliy-nikolaevich
+- makaseev-boris-konstantinovich
+- petrov-boris-aleksandrovich
+- rapoport-vladimir
+- khavchin-abram-lvovich
+- blazhkov-nikolay-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

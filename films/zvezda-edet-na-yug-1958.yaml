@@ -11,3 +11,61 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5951780
 schema_version: 1
+director:
+- lipskiy-oldrzhikh
+screenwriter:
+- lipskiy-oldrzhikh
+- skutina-vladimir
+- sila-jiri
+cinematographer:
+- pechenka-ferdinand
+composer:
+- legar-frants
+- gala-vlastimil
+- duchac-miloslav
+- illin-evzhen
+- baur-jiri
+cast:
+- person: kopetskiy-milosh
+- person: shteymarova-irzhina
+- person: zazvorkova-stella
+- person: grushinskiy-rudolf
+- person: bogdalova-irzhina
+- person: nalis-antun
+- person: menshik-vladimir
+- person: deyl-rudolf
+- person: adamova-jaroslava
+- person: fiala-eman
+- person: polomskaya-barbara
+- person: jelinek-jiri
+- person: glinomaz-yozef
+- person: effa-karel
+- person: lipskiy-lyubomir
+- person: tregl-vatslav
+- person: kreuzmannova-alena
+- person: milakovic-or-e
+- person: shmida-bogumil
+- person: talpova-hana
+- person: shtertsi-yaroslav
+- person: musil-mirko
+- person: kortes-rudolf
+- person: pipinic-hermina
+- person: gregorin-joza
+- person: didik-lyubomir
+- person: miletic-gordana
+- person: boshko-boshkovich
+- person: suljo-petar-spajic
+- person: milorad-spasoevich
+- person: perkovic-dusan
+- person: pavlik-karel
+- person: maska-jan
+- person: pikhova-lyudmila
+- person: prihoda-josef-ferdinand
+- person: martinkova-martsela
+- person: princ-rudolf
+- person: q131765991
+- person: chudacek-zdenek
+- person: perlic-zlata
+- person: nesovic-natalija
+- person: jeknic-milos
+- person: obradovic-branislav

@@ -8,6 +8,20 @@ runtime_min: 126
 external_ids:
   wikidata: Q4461945
   imdb: tt1393023
+  youtube: uPCFvSN6Fww
 sources:
 - https://www.wikidata.org/wiki/Q4461945
 schema_version: 1
+director:
+- fokin-valeriy-vladimirovich
+screenwriter:
+- zorin-leonid-genrikhovich
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: ulyanov-mikhail-aleksandrovich
+- person: neyolova-marina-mstislavovna
+- person: simonova-evgeniya-pavlovna
+- person: filozov-albert-leonidovich
+studio:
+- sverdlovskaya-kinostudiya

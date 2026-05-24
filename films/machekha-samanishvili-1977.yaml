@@ -8,6 +8,16 @@ runtime_min: 89
 external_ids:
   wikidata: Q16374871
   imdb: tt0154855
+  youtube: 5nObXp69HX4
 sources:
 - https://www.wikidata.org/wiki/Q16374871
 schema_version: 1
+director:
+- shengelaya-eldar-nikolaevich
+screenwriter:
+- cheyshvili-rezo-benediktovich
+cinematographer:
+- akhvlediani-lomer
+composer:
+- kancheli-giya-aleksandrovich
+- kakhidze-dzhansug-ivanovich

@@ -1,0 +1,9 @@
+id: etterle-fori
+name_ru: Фори Эттерле
+roles:
+- actor
+external_ids:
+  wikidata: Q12728522
+sources:
+- https://www.wikidata.org/wiki/Q12728522
+schema_version: 1

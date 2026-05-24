@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11787898
 schema_version: 1
+director:
+- hoshafi-fehmi
+composer:
+- krajka-agim

@@ -1,0 +1,9 @@
+id: ordon-lekh
+name_ru: Лех Ордон
+roles:
+- actor
+external_ids:
+  wikidata: Q1659004
+sources:
+- https://www.wikidata.org/wiki/Q1659004
+schema_version: 1

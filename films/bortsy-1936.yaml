@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1795366
 schema_version: 1
+director:
+- vangenkhaym-gustav-fon
+screenwriter:
+- kurella-alfred
+cast:
+- person: grayf-genrikh
+- person: gog-gregor
+- person: vangenkhaym-inga-fon
+- person: lyobinger-lotta
+- person: shmidtsdorf-bruno
+- person: arendt-kurt
+studio:
+- mezhrabpomfilm

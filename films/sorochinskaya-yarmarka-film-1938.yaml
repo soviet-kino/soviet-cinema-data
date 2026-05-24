@@ -8,6 +8,21 @@ runtime_min: 94
 external_ids:
   wikidata: Q18278023
   imdb: tt0195292
+  youtube: grdQLI5oDKQ
 sources:
 - https://www.wikidata.org/wiki/Q18278023
 schema_version: 1
+director:
+- ekk-nikolay-vladimirovich
+screenwriter:
+- ekk-nikolay-vladimirovich
+cinematographer:
+- kulchitskiy-nikolay-leonidovich
+composer:
+- stollyar-yakov-efimovich
+cast:
+- person: dunayskiy-anton-vasilevich
+- person: ivashyova-valentina-semyonovna
+studio:
+- kinostudiya-imeni-a-dovzhenko
+poster_commons: Плакат к фильму «Сорочинская ярмарка».jpg

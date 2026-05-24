@@ -8,6 +8,13 @@ runtime_min: 8
 external_ids:
   wikidata: Q4279717
   imdb: tt1074985
+  youtube: la7hwRw6SbY
 sources:
 - https://www.wikidata.org/wiki/Q4279717
 schema_version: 1
+director:
+- churkin-oleg-dmitrievich
+composer:
+- shainskiy-vladimir-yakovlevich
+studio:
+- ekran

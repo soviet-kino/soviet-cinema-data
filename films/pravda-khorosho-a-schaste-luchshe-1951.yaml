@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q29020771
 schema_version: 1
+director:
+- alekseev-sergey-petrovich
+cinematographer:
+- monastyrskiy-boris-savelevich
+cast:
+- person: ryzhov-nikolay-ivanovich
+- person: ryzhova-varvara-nikolaevna
+- person: turchaninova-evdokiya-dmitrievna
+studio:
+- kinostudiya-imeni-m-gorkogo

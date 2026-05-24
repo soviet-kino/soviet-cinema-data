@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2102004
 schema_version: 1
+director:
+- fogel-piter
+screenwriter:
+- gorner-eberhard
+composer:
+- anders-khermann

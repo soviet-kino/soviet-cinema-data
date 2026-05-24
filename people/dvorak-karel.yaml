@@ -1,0 +1,9 @@
+id: dvorak-karel
+name_ru: Karel Dvořák
+roles:
+- actor
+external_ids:
+  wikidata: Q133503664
+sources:
+- https://www.wikidata.org/wiki/Q133503664
+schema_version: 1

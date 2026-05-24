@@ -8,6 +8,24 @@ runtime_min: 106
 external_ids:
   wikidata: Q655133
   imdb: tt0122227
+  youtube: _64psC81JF8
 sources:
 - https://www.wikidata.org/wiki/Q655133
 schema_version: 1
+director:
+- cherkasskiy-david-yanovich
+screenwriter:
+- cherkasskiy-david-yanovich
+- alikov-yuriy-ivanovich
+composer:
+- bystryakov-vladimir-yurevich
+cast:
+- person: cherkasskiy-david-yanovich
+- person: andrienko-viktor
+- person: bystryakov-vladimir-yurevich
+- person: dyachenko-anatoliy-nikolaevich
+- person: tserishenko-mikhail-anatolevich
+- person: chiglyaev-valeriy-ivanovich
+- person: levit-aleksandr-nikolaevich
+studio:
+- kievnauchfilm

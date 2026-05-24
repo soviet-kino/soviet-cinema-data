@@ -6,6 +6,16 @@ country:
 - SU
 external_ids:
   wikidata: Q28465056
+  youtube: Q4j0HmEwGr8
 sources:
 - https://www.wikidata.org/wiki/Q28465056
 schema_version: 1
+director:
+- ivanov-aleksandr-vasilevich
+screenwriter:
+- ulitskaya-olga-petrovna
+- vinokurov-isidor-grigorevich
+composer:
+- ivanov-radkevich-nikolay-pavlovich
+studio:
+- soyuzmultfilm

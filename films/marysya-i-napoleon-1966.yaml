@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4283349
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- buchkovskiy-leonard
+cinematographer:
+- zdort-wies-aw
+composer:
+- kilyar-voytsekh
+cast:
+- person: kobelya-bogumil
+- person: beata-tyshkevich
+- person: kholoubek-gustav
+- person: makhovskiy-ignatsy
+- person: rudzkiy-kazimezh
+studio:
+- studio-filmowe-kadr

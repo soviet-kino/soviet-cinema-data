@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15545336
 schema_version: 1
+director:
+- petrov-bytov-pavel-petrovich
+screenwriter:
+- forsh-olga-dmitrievna
+cinematographer:
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: gardin-vladimir-rostislavovich
+- person: skorobogatov-konstantin-vasilevich
+- person: mukhutdinov-kasim-mukhutdinovich
+- person: malyutin-yakov-osipovich
+studio:
+- lenfilm

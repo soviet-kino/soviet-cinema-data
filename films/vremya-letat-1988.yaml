@@ -8,6 +8,50 @@ runtime_min: 90
 external_ids:
   wikidata: Q4127152
   imdb: tt0094281
+  youtube: 1dP90Y7Y2Ps
 sources:
 - https://www.wikidata.org/wiki/Q4127152
 schema_version: 1
+director:
+- sakharov-aleksey-nikolaevich
+screenwriter:
+- zhitinskiy-aleksandr-nikolaevich
+cinematographer:
+- zheleznyakov-valentin-mikolayovich
+composer:
+- tukhmanov-david-fyodorovich
+cast:
+- person: freyndlikh-bruno
+- person: yakovleva-elena-alekseevna
+- person: munzuk-maksim-monguzhukovich
+- person: tolubeev-andrey-yurevich
+- person: zakharchenko-vadim-viktorovich
+- person: volkov-vladimir-aleksandrovich
+- person: gaft-valentin-iosifovich
+- person: solovey-elena-yakovlevna
+- person: agafonov-ivan-ageevich
+- person: anokhina-olga-evgenevna
+- person: artsibashev-sergey-nikolaevich
+- person: balon-vladimir-yakovlevich
+- person: bocharov-eduard
+- person: vanin-aleksey-zakharovich
+- person: gabnia-sergey-semyonovich
+- person: gavrilova-lyudmila-ivanovna
+- person: gazarov-sergey-ishkhanovich
+- person: golubenko-valentin-alekseevich
+- person: domninskaya-irina-pavlovna
+- person: zonnenshtral-mikhail-georgievich
+- person: ilin-vladimir-adolfovich
+- person: konopatskiy-iosif-nikolaevich
+- person: lebedev-aleksandr-ivanovich
+- person: migitsko-sergey
+- person: mysina-oksana-anatolevna
+- person: nemolyaeva-anastasiya-nikolaevna
+- person: nikishchikhina-elizaveta-sergeevna
+- person: nifontov-yuriy-borisovich
+- person: toloraya-tamaz-konstantinovich
+- person: fateeva-natalya-nikolaevna
+- person: yurchenko-boris-aleksandrovich
+- person: druz-yana-andreevna
+studio:
+- mosfilm

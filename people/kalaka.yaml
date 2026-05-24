@@ -1,0 +1,9 @@
+id: kalaka
+name_ru: Kaláka
+roles:
+- composer
+external_ids:
+  wikidata: Q1103703
+sources:
+- https://www.wikidata.org/wiki/Q1103703
+schema_version: 1

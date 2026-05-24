@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q472007
 schema_version: 1
+director:
+- bacho-peter
+screenwriter:
+- bacho-peter
+cinematographer:
+- zhomboyai-yanosh
+composer:
+- vukan-gyorgy
+cast:
+- person: fabri-zoltan
+- person: eze-layosh
+- person: vamos-laslo
+- person: ratonyi-robert
+- person: bot-bela
+- person: balint-gyorgy
+- person: kallai-ferents
+- person: mezei-layosh
+- person: monori-lili
+- person: novak-ishtvan
+- person: fekher-tibor

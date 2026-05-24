@@ -8,6 +8,22 @@ runtime_min: 78
 external_ids:
   wikidata: Q4030952
   imdb: tt0081967
+  youtube: ioIR9IAA7oA
 sources:
 - https://www.wikidata.org/wiki/Q4030952
 schema_version: 1
+director:
+- malyukov-andrey
+screenwriter:
+- malyukov-andrey
+cinematographer:
+- gantman-yuriy
+composer:
+- minkov-mark-anatolevich
+cast:
+- person: durov-lev-konstantinovich
+- person: masyulis-algimantas-ionovich
+- person: mayorova-elena
+- person: fatyushin-aleksandr-konstantinovich
+studio:
+- mosfilm

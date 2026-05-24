@@ -8,6 +8,24 @@ runtime_min: 89
 external_ids:
   wikidata: Q2198716
   imdb: tt0018066
+  youtube: Osw0h6S_7k8
 sources:
 - https://www.wikidata.org/wiki/Q2198716
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+- doller-mikhail-ivanovich
+screenwriter:
+- zarkhi-natan-abramovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: baranovskaya-vera-vsevolodovna
+- person: fogel-vladimir-petrovich
+- person: chuvelyov-ivan-pavlovich
+- person: komarov-sergey-petrovich
+- person: q135617495
+studio:
+- mezhrabpom-rus
+poster_commons: The End of St. Petersburg, poster.jpg

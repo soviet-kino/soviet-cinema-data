@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q8028941
 schema_version: 1
+director:
+- khellberg-martin
+composer:
+- mayer-ernst-german
+cast:
+- person: trove-gizela
+- person: volf-gerri
+- person: shelkher-raymund

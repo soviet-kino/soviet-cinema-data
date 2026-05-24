@@ -8,6 +8,25 @@ runtime_min: 40
 external_ids:
   wikidata: Q3212458
   imdb: tt0016726
+  youtube: Kup0B5HEm50
 sources:
 - https://www.wikidata.org/wiki/Q3212458
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- piotrovskiy-adrian-ivanovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+cast:
+- person: gerasimov-sergey
+- person: martinson-sergey-aleksandrovich
+- person: zheymo-yanina-boleslavovna
+- person: sobolevskiy-pyotr-stanislavovich
+- person: kostrichkin-andrey-andreevich
+- person: gal-emil-mikhaylovich
+- person: semyonova-lyudmila-nikolaevna
+studio:
+- lenfilm
+poster_commons: Плакат к фильму «Чёртово колесо».jpg

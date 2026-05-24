@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4498020
 schema_version: 1
+director:
+- nikulin-grigoriy-georgievich
+screenwriter:
+- alekseev-mikhail-nikolaevich
+cinematographer:
+- astakhov-sergey-valentinovich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: lavrov-kirill-yurevich
+studio:
+- lenfilm

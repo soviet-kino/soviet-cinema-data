@@ -8,6 +8,23 @@ runtime_min: 74
 external_ids:
   wikidata: Q4381600
   imdb: tt0038860
+  youtube: RomfWKEL9sM
 sources:
 - https://www.wikidata.org/wiki/Q4381600
 schema_version: 1
+director:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+screenwriter:
+- kozintsev-grigoriy-mikhaylovich
+- trauberg-leonid-zakharovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: tolubeev-yuriy-vladimirovich
+studio:
+- lenfilm

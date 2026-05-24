@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9281053
 schema_version: 1
+director:
+- topallaj-mark
+composer:
+- radoja-robert

@@ -7,6 +7,11 @@ country:
 external_ids:
   wikidata: Q117848559
   imdb: tt0097399
+  youtube: FcoNr3AI4sA
 sources:
 - https://www.wikidata.org/wiki/Q117848559
 schema_version: 1
+cast:
+- person: polishchuk-lyubov
+studio:
+- lenfilm

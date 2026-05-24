@@ -1,0 +1,9 @@
+id: figura-katazhina
+name_ru: Катажина Фигура
+roles:
+- actor
+external_ids:
+  wikidata: Q443803
+sources:
+- https://www.wikidata.org/wiki/Q443803
+schema_version: 1

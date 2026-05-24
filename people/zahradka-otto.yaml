@@ -1,0 +1,9 @@
+id: zahradka-otto
+name_ru: Otto Zahrádka
+roles:
+- actor
+external_ids:
+  wikidata: Q106532033
+sources:
+- https://www.wikidata.org/wiki/Q106532033
+schema_version: 1

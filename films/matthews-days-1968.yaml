@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6789801
 schema_version: 1
+director:
+- leshchinskiy-vitold
+screenwriter:
+- leshchinskiy-vitold
+- vesos-tarey
+- solarz-wojciech
+cinematographer:
+- kostenko-andzhey
+composer:
+- korelli-arkandzhelo
+cast:
+- person: braunek-malgozhata
+- person: pechka-frantishek
+- person: fogel-aleksander
+- person: gryn-virgiliush

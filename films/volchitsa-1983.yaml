@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4124280
 schema_version: 1
+director:
+- pestrak-marek
+screenwriter:
+- pestrak-marek
+composer:
+- matula-ezhi
+cast:
+- person: nemchik-leon
+- person: olgerd-lukashevich
+- person: makhalitsa-khenrik
+- person: belskaya-ivona
+- person: kotys-ryshard
+- person: khanna-stankuvna
+- person: teodorchik-tadeush
+studio:
+- silesia-kinostudiya

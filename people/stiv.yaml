@@ -1,0 +1,9 @@
+id: stiv
+name_ru: Стив
+roles:
+- actor
+external_ids:
+  wikidata: Q21115433
+sources:
+- https://www.wikidata.org/wiki/Q21115433
+schema_version: 1

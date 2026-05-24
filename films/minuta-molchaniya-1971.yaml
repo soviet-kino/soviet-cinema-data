@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q4295283
   imdb: tt3638664
+  youtube: zGHkc_UG-XE
 sources:
 - https://www.wikidata.org/wiki/Q4295283
 schema_version: 1
+director:
+- shatrov-igor-vladimirovich
+cast:
+- person: lapikov-ivan-gerasimovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11756961
 schema_version: 1
+director:
+- kutts-kazimezh-yulian
+screenwriter:
+- kutts-kazimezh-yulian
+cinematographer:
+- kshishtof-vinevich
+composer:
+- kilyar-voytsekh
+cast:
+- person: lipovskaya-teresa
+- person: petrashak-leonard
+- person: igar-stanislav
+- person: bogdanski-zbignev
+- person: jaroszynski-czes-aw
+- person: siwy-jerzy
+- person: bogatskaya-yoanna
+- person: jabczynski-julian
+- person: iwinski-kazimierz
+studio:
+- silesia-kinostudiya

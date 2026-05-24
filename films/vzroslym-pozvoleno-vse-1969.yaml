@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11822847
 schema_version: 1
+director:
+- tsvrchek-radim
+screenwriter:
+- tsvrchek-radim
+- shimek-milan
+cinematographer:
+- kolin-irzhi
+composer:
+- matsuorek-garri
+cast:
+- person: tsvrchek-radim
+- person: babka-vaclav
+- person: pardus-erik
+- person: chekhova-kheda
+- person: shults-mila
+- person: urbankova-nadya
+- person: popelikova-nina
+- person: filipovska-pavlina
+- person: marshalek-steva
+- person: opochenskiy-gustav
+- person: triska-stanislav
+- person: hrebacka-ladislav
+- person: marshalek-irzhi
+- person: stovicek-josef
+- person: stepanova-vera
+- person: trojan-martin
+studio:
+- kinostudiya-gotvaldova

@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123327243
 schema_version: 1
+director:
+- esztergalyos-karoly
+cast:
+- person: galfi-laslo
+- person: khaumann-peter
+- person: pirosh-ildiko
+- person: peremartoni-krisztina
+- person: till-attila

@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11692656
 schema_version: 1
+director:
+- poremba-bogdan
+screenwriter:
+- wejroch-jacek
+cinematographer:
+- dybovskiy-vatslav
+composer:
+- kilyar-voytsekh
+cast:
+- person: makhulskiy-yan

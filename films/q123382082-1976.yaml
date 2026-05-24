@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123382082
 schema_version: 1
+director:
+- riha-jan
+screenwriter:
+- q112427289
+- riha-jan
+cinematographer:
+- kafka-karel
+composer:
+- mladek-ivan
+- fiala-vaclav
+cast:
+- person: filipova-lenka
+- person: peshak-ivo
+- person: mladek-ivan
+- person: hrzan-jiri
+- person: vala-irzhi
+- person: skala-pavel-2
+- person: jirsak-leos
+- person: prochazka-tomas-2
+- person: fleischer-petr-2
+- person: q122828800
+- person: q123249897

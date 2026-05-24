@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4303749
 schema_version: 1
+director:
+- gostev-igor-aronovich
+screenwriter:
+- ilich-trifonov-vladimir
+- ivanov-dmitriy-georgievich
+composer:
+- lyudvikovskiy-vadim-nikolaevich
+cast:
+- person: magomaev-muslim-magometovich
+studio:
+- mosfilm

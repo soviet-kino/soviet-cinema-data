@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q406290
 schema_version: 1
+director:
+- wajda-andrzej
+screenwriter:
+- wajda-andrzej
+cinematographer:
+- samosyuk-zigmunt
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: krakovska-emiliya
+- person: olgerd-lukashevich
+- person: olbrykhskiy-daniel
+- person: perepechko-marek
+- person: stoor-mechislav
+- person: kotkowski-andrzej
+- person: vodynskaya-danuta
+studio:
+- tor-kinostudiya

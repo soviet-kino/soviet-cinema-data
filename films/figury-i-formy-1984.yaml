@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q59360408
 schema_version: 1
+director:
+- shomov-vladimir
+screenwriter:
+- angelov-boris

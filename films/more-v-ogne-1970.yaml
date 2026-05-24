@@ -11,3 +11,63 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4302588
 schema_version: 1
+director:
+- saakov-leon
+screenwriter:
+- figurovskiy-nikolay-nikolaevich
+- saakov-leon
+cinematographer:
+- petritskiy-anatoliy-anatolevich
+composer:
+- basner-veniamin-efimovich
+cast:
+- person: yankovskiy-rostislav-ivanovich
+- person: ulyanov-mikhail-aleksandrovich
+- person: solovyov-anatoliy-vasilevich
+- person: grinko-nikolai
+- person: sokolova-lyubov-sergeevna
+- person: izotov-eduard-konstantinovich
+- person: smirnov-aleksey-makarovich
+- person: ostroumova-olga-mikhaylovna
+- person: shmakov-fyodor-ivanovich
+- person: luchko-klara-stepanovna
+- person: yukhtin-gennadiy-gavrilovich
+- person: solomin-yuriy-mefodevich
+- person: eskola-olev
+- person: eryomenko-starshiy-nikolay-nikolaevich
+- person: alekseev-nikolay-2
+- person: antonenko-grigoriy-nikolaevich
+- person: berikashvili-givi-zakharevich
+- person: borisov-boris-nikolaevich
+- person: vikkel-larisa-viktorovna
+- person: svetlani-georgiy
+- person: gorobets-yuriy
+- person: grachyov-anatoliy-dmitrievich
+- person: dzivaev-anatoliy-gavrilovich
+- person: ivanov-nikolay-nikolaevich
+- person: kashpur-vladimir-terentevich
+- person: knausmyuller-ervin-ervinovich
+- person: korzun-vasiliy-ivanovich
+- person: lyakhnitskiy-sergey-sergeevich
+- person: marenkov-vladimir-petrovich
+- person: markina-olga-aleksandrovna
+- person: paulus-vladlen-vladimirovich
+- person: pirtskhalava-guram-nikolaevich
+- person: pitsek-vladimir-kondratevich
+- person: rushkovskiy-nikolay-nikolaevich
+- person: rychagova-natalya-sergeevna
+- person: sazontev-sergey-vladislavovich
+- person: safonov-vsevolod-dmitrievich
+- person: teykh-georgiy-nikolaevich
+- person: khotchenkov-aleksandr-yakovlevich
+- person: shcherbakov-dalvin-aleksandrovich
+- person: franko-dmitriy-vasilevich
+- person: petchenko-vladimir-kirillovich
+- person: abramov-valentin-alekseevich
+- person: barmin-nikolay-mikhaylovich
+- person: afanasev-radiy-aleksandrovich
+- person: platov-vsevolod-nikolaevich
+- person: korotkova-irina-yurevna
+- person: tyrtov-konstantin-andreevich
+studio:
+- mosfilm

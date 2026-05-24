@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184885
 schema_version: 1
+director:
+- ivkov-dragoljub
+cast:
+- person: lupa-peter

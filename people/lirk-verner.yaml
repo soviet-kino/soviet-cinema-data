@@ -1,0 +1,9 @@
+id: lirk-verner
+name_ru: Вернер Лирк
+roles:
+- actor
+external_ids:
+  wikidata: Q2561913
+sources:
+- https://www.wikidata.org/wiki/Q2561913
+schema_version: 1

@@ -1,0 +1,9 @@
+id: verne-klod
+name_ru: Клод Вернье
+roles:
+- actor
+external_ids:
+  wikidata: Q1097198
+sources:
+- https://www.wikidata.org/wiki/Q1097198
+schema_version: 1

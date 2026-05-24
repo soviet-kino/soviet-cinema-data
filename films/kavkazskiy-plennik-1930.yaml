@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q136776542
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- shchyogolev-pavel-eliseevich
+- manuylov-viktor-andronikovich
+cinematographer:
+- aptekman-naum-grigorevich
+cast:
+- person: tamarin-boris-petrovich
+studio:
+- soyuzkino

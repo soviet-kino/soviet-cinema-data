@@ -1,0 +1,9 @@
+id: bloos-koka
+name_ru: Кока Блоос
+roles:
+- actor
+external_ids:
+  wikidata: Q12724254
+sources:
+- https://www.wikidata.org/wiki/Q12724254
+schema_version: 1

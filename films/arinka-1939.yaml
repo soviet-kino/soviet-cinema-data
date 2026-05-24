@@ -8,6 +8,18 @@ runtime_min: 82
 external_ids:
   wikidata: Q4069249
   imdb: tt0239240
+  youtube: gkr3vtzEOwI
 sources:
 - https://www.wikidata.org/wiki/Q4069249
 schema_version: 1
+director:
+- kosheverova-nadezhda-nikolaevna
+- muzykant-yuriy-aleksandrovich
+screenwriter:
+- polotskiy-semyon-anatolevich
+- tevelyov-matvey-grigorevich
+cast:
+- person: konovalov-nikolay-leonidovich
+studio:
+- lenfilm
+poster_commons: Arinka film1.jpg

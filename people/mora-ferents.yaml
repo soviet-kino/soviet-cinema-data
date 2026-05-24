@@ -1,0 +1,9 @@
+id: mora-ferents
+name_ru: Ференц Мора
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q774280
+sources:
+- https://www.wikidata.org/wiki/Q774280
+schema_version: 1

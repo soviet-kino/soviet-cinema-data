@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11819922
 schema_version: 1
+director:
+- budkiewicz-jan
+composer:
+- zarytskiy-andzhey

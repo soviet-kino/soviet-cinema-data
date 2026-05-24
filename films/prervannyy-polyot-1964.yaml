@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11829121
 schema_version: 1
+director:
+- buchkovskiy-leonard
+screenwriter:
+- yanitskiy-ezhi
+cinematographer:
+- forbert-vladislav
+composer:
+- komeda-kshishtof
+cast:
+- person: chizhevskaya-elzhbeta
+- person: belyavskiy-aleksandr-borisovich
+studio:
+- studio-filmowe-kadr

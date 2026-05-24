@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106640585
 schema_version: 1
+director:
+- timoshenko-semyon-alekseevich
+screenwriter:
+- lipatov-boris
+cast:
+- person: guretskaya-tatyana-ivanovna
+- person: egorova-elena-georgievna
+- person: aktyor-kuznetsov-pyotr-vasilevich
+- person: kirillov-pyotr-klavdievich
+studio:
+- lenfilm
+- sovkino

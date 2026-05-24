@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4327825
 schema_version: 1
+director:
+- belikov-mikhail-aleksandrovich
+screenwriter:
+- menshov-vladimir-valentinovich
+- belikov-mikhail-aleksandrovich
+cinematographer:
+- trushkovskiy-vasiliy-timofeevich
+cast:
+- person: andrienko-viktor
+- person: mikhail-vasilevich-golubovich
+- person: okhlupin-igor-leonidovich
+- person: papernyy-evgeniy
+studio:
+- kinostudiya-imeni-a-dovzhenko

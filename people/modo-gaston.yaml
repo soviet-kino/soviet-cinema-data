@@ -1,0 +1,9 @@
+id: modo-gaston
+name_ru: Гастон Модо
+roles:
+- actor
+external_ids:
+  wikidata: Q323377
+sources:
+- https://www.wikidata.org/wiki/Q323377
+schema_version: 1

@@ -8,6 +8,19 @@ runtime_min: 126
 external_ids:
   wikidata: Q4340785
   imdb: tt1522761
+  youtube: ddwXVpJZCHI
 sources:
 - https://www.wikidata.org/wiki/Q4340785
 schema_version: 1
+director:
+- breskanu-vasile
+screenwriter:
+- yurovskiy-aleksandr-yakovlevich
+cast:
+- person: kostolevskiy-igor-matveevich
+- person: paul-paulovich-butkevich
+- person: filippenko-aleksandr-georgievich
+- person: tontegode-milena-viktorovna
+- person: yatautis-valdas
+studio:
+- moldova-film

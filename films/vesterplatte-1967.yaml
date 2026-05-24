@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4109584
 schema_version: 1
+director:
+- stanislav-ruzhevich
+screenwriter:
+- shchepanskiy-yan-yuzef
+cinematographer:
+- vuychik-ezhi
+composer:
+- kilyar-voytsekh
+cast:
+- person: khyubner-zigmunt
+- person: vilgelmi-roman
+- person: bazak-arkadiush
+- person: plyutsinskiy-tadeush
+- person: novak-yuzef
+- person: shmidt-tadeush
+- person: krasitskiy-andzhey
+- person: kozak-andzhey
+- person: bilevskiy-bogush
+studio:
+- rytm-kinostudiya

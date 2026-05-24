@@ -8,6 +8,19 @@ runtime_min: 115
 external_ids:
   wikidata: Q4377575
   imdb: tt0043939
+  youtube: Z5UlxMUVJpQ
 sources:
 - https://www.wikidata.org/wiki/Q4377575
 schema_version: 1
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- speshnev-aleksey-vladimirovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- sviridov-georgiy
+cast:
+- person: papov-sergey-ivanovich
+studio:
+- mosfilm

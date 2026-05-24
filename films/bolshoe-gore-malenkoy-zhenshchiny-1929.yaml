@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q65159030
 schema_version: 1
+director:
+- tereshchenko-mark-stepanovich
+screenwriter:
+- radysh-vasiliy-georgievich
+cinematographer:
+- zavelev-boris-isaakovich
+cast:
+- person: zamychkovskiy-ivan-eduardovich
+- person: obukhovich-anna-bronislavovna
+studio:
+- odesskaya-kinostudiya

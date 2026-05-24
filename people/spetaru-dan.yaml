@@ -1,0 +1,9 @@
+id: spetaru-dan
+name_ru: Дан Спэтару
+roles:
+- actor
+external_ids:
+  wikidata: Q4438302
+sources:
+- https://www.wikidata.org/wiki/Q4438302
+schema_version: 1

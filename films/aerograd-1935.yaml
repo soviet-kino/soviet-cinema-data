@@ -8,6 +8,20 @@ runtime_min: 77
 external_ids:
   wikidata: Q2369228
   imdb: tt0026040
+  youtube: JpkjdvLCHA0
 sources:
 - https://www.wikidata.org/wiki/Q2369228
 schema_version: 1
+director:
+- dovzhenko-aleksandr-petrovich
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- kabalevskiy-dmitriy-borisovich
+cast:
+- person: shagayda-stepan-vasilevich
+studio:
+- kinostudiya-imeni-a-dovzhenko
+poster_commons: Плакат к фильму «Аэроград».jpg

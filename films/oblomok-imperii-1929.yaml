@@ -8,6 +8,21 @@ runtime_min: 110
 external_ids:
   wikidata: Q4329347
   imdb: tt0020232
+  youtube: dSpoc-3-0NU
 sources:
 - https://www.wikidata.org/wiki/Q4329347
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- ermler-fridrikh-markovich
+cinematographer:
+- shneyder-evgeniy-mikhaylovich
+cast:
+- person: gerasimov-sergey
+- person: gal-emil-mikhaylovich
+- person: semyonova-lyudmila-nikolaevna
+studio:
+- lenfilm
+- sovkino
+poster_commons: Плакат к фильму «Обломок империи» (Воронов).jpg

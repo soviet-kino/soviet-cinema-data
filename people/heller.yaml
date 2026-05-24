@@ -1,0 +1,9 @@
+id: heller
+name_ru: Heller
+roles:
+- actor
+external_ids:
+  wikidata: Q133501812
+sources:
+- https://www.wikidata.org/wiki/Q133501812
+schema_version: 1

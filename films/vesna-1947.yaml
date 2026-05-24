@@ -8,6 +8,27 @@ runtime_min: 102
 external_ids:
   wikidata: Q4109506
   imdb: tt0039954
+  youtube: INd8Z-trdPk
 sources:
 - https://www.wikidata.org/wiki/Q4109506
 schema_version: 1
+director:
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- aleksandrov-grigoriy-vasilevich
+- raskin-aleksandr-borisovich
+- slobodskoy-moris-romanovich
+cinematographer:
+- ekelchik-yuriy-izrailevich
+composer:
+- dunaevskiy-isaak-osipovich
+cast:
+- person: orlova-lyubov
+- person: ranevskaya-faina-georgievna
+- person: cherkasov-nikolay-konstantinovich
+- person: larionov-vsevolod-dmitrievich
+- person: plyatt-rostislav-yanovich
+- person: guretskaya-tatyana-ivanovna
+- person: shtertsi-yaroslav
+studio:
+- mosfilm

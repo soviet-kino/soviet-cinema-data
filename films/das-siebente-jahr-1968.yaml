@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5226486
 schema_version: 1
+director:
+- fogel-frank
+cinematographer:
+- gref-roland
+composer:
+- rabenalt-peter
+cast:
+- person: kiling-volfgang

@@ -7,6 +7,9 @@ country:
 runtime_min: 21
 external_ids:
   wikidata: Q112080149
+  youtube: kkbXXPCpWF8
 sources:
 - https://www.wikidata.org/wiki/Q112080149
 schema_version: 1
+studio:
+- sverdlovskaya-kinostudiya

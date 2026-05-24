@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q30329996
 schema_version: 1
+director:
+- barnet-boris-vasilevich
+screenwriter:
+- barnet-boris-vasilevich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+- mishurin-aleksey-aleksandrovich
+composer:
+- fradkin-mark
+- meytus-yuliy-sergeevich
+cast:
+- person: chavdar-elizaveta-ivanovna
+- person: gmyrya-boris-romanovich
+- person: grishko-mikhail-stepanovich
+- person: litvinenko-volgemut-mariya-ivanovna
+- person: romanov-mikhail-fyodorovich
+- person: patorzhinskiy-ivan-sergeevich
+- person: rudenko-larisa-arkhipovna
+- person: gerasimchuk-lidiya-pavlovna
+studio:
+- kinostudiya-imeni-a-dovzhenko

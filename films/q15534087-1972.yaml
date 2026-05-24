@@ -11,3 +11,60 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15534087
 schema_version: 1
+director:
+- lettrich-andrej
+screenwriter:
+- lettrich-andrej
+cinematographer:
+- byat-tibor
+composer:
+- lishka-zdenek
+cast:
+- person: vashariova-emiliya
+- person: docholomanskiy-mikhal
+- person: zvarik-frantisek
+- person: machata-karol
+- person: beran-mila
+- person: jamnicka-vilma
+- person: kvietik-shtefan
+- person: greshsho-lyudovit
+- person: kocurikova-zuzana
+- person: krizikova-eva
+- person: vasek-julius
+- person: hurbanova-kronerova-terezia
+- person: blaskovic-dusan
+- person: bindas-eduard
+- person: desset-frantisek
+- person: kovar-frantisek
+- person: blaho-viktor
+- person: durdik-vladimir
+- person: durdik-ml-vladimir
+- person: vladimir-kostovich
+- person: krivosudsky-ivan
+- person: raynyak-ivan
+- person: kramar-yan
+- person: chernik-karol
+- person: ladizinski-mikulas
+- person: korenci-anton
+- person: adamcikova-olga
+- person: gruberova-zdena
+- person: rozsival-jaroslav
+- person: cherny-yozef
+- person: gausnerova-brigita
+- person: radvanyiova-viera
+- person: tsut-yozef
+- person: belak-mikhal
+- person: figura-stefan
+- person: vrzala-jaroslav
+- person: sykorova-olga
+- person: fecko-ladislav
+- person: mifkovic-jozef
+- person: kuzelova-nora
+- person: gec-jan
+- person: riggova-maria-de
+- person: brestovanska-zuzana
+- person: horska-eva
+- person: baca-frantisek
+- person: fekete-eugen
+- person: sapakova-zuzka
+- person: pausova-jana

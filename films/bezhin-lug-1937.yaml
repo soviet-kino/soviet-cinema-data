@@ -8,6 +8,21 @@ runtime_min: 30
 external_ids:
   wikidata: Q2599933
   imdb: tt0028624
+  youtube: qWpBAYkdqMo
 sources:
 - https://www.wikidata.org/wiki/Q2599933
 schema_version: 1
+director:
+- eyzenshteyn-sergey-mikhaylovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- rzheshevskiy-aleksandr-georgievich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: garin-erast-pavlovich
+- person: zakhava-boris-evgenevich
+studio:
+- mosfilm

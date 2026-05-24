@@ -8,6 +8,25 @@ runtime_min: 132
 external_ids:
   wikidata: Q4239906
   imdb: tt0081014
+  youtube: maIJ1xn7R1s
 sources:
 - https://www.wikidata.org/wiki/Q4239906
 schema_version: 1
+director:
+- bobrovskiy-anatoliy-alekseevich
+screenwriter:
+- semyonov-yulian
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: gluzskiy-mikhail-andreevich
+- person: shakurov-sergey-kayumovich
+- person: porokhovshchikov-aleksandr-shalvovich
+- person: karapetyan-artyom-yakovlevich
+- person: kulagin-leonid-nikolaevich
+- person: taratorkin-georgiy-georgievich
+- person: khamets-kshishtof
+- person: tsyplakova-elena-oktyabrevna
+studio:
+- mosfilm
+- iluzjon

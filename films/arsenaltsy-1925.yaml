@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q42494567
 schema_version: 1
+director:
+- kurbas-les
+screenwriter:
+- tasin-georgiy
+cinematographer:
+- feldman-dmitriy-moiseevich
+cast:
+- person: braynin-teodor-abramovich
+- person: buchma-amvrosiy-maksimilianovich
+- person: svashenko-semyon-andreevich
+- person: chistyakova-valentina-nikolaevna
+- person: chistyakov-aleksandr-petrovich
+- person: dolina-pavel
+- person: pereguda-aleksandr-iosifovich
+- person: fedorovskiy-dmitriy-grigorevich
+- person: chembarskiy-leonid
+studio:
+- odesskaya-kinostudiya
+- vseukrainskoe-fotokinoupravlenie

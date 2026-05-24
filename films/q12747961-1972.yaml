@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12747961
 schema_version: 1
+director:
+- plesha-branko
+cast:
+- person: danilo-stoykovich
+- person: sablich-seka
+- person: stojiljkovic-vlastimir-uza
+- person: miodrag-radovanovich

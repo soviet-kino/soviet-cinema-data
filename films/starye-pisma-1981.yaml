@@ -8,6 +8,13 @@ runtime_min: 64
 external_ids:
   wikidata: Q65196757
   imdb: tt4003556
+  youtube: MI5sx-tjWFo
 sources:
 - https://www.wikidata.org/wiki/Q65196757
 schema_version: 1
+director:
+- kinorezhissyor-ivanov-anatoliy-evgenevich
+composer:
+- bystryakov-vladimir-yurevich
+studio:
+- kinostudiya-imeni-a-dovzhenko

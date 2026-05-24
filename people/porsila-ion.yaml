@@ -1,0 +1,9 @@
+id: porsila-ion
+name_ru: Ион Порсила
+roles:
+- actor
+external_ids:
+  wikidata: Q134100636
+sources:
+- https://www.wikidata.org/wiki/Q134100636
+schema_version: 1

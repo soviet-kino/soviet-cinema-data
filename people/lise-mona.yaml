@@ -1,0 +1,9 @@
+id: lise-mona
+name_ru: Mona Lise
+roles:
+- composer
+external_ids:
+  wikidata: Q1240484
+sources:
+- https://www.wikidata.org/wiki/Q1240484
+schema_version: 1

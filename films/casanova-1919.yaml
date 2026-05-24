@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5048027
 schema_version: 1
+director:
+- dizi-alfred
+screenwriter:
+- bekeffi-laszlo
+- farago-jeno
+- pakots-jozsef
+cinematographer:
+- fass-karl
+cast:
+- person: lugoshi-bela
+- person: dizi-alfred
+- person: hollay-camilla-von
+- person: loth-ila

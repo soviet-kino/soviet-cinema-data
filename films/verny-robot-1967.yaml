@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123563659
 schema_version: 1
+director:
+- matejovsky-jan
+screenwriter:
+- lem-stanislav
+- matejovsky-jan
+cinematographer:
+- opletal-vladimir
+composer:
+- vyhnalek-ivo
+cast:
+- person: sr-otakar-brousek
+- person: devata-ivanka
+- person: vala-irzhi
+- person: remunda-stanislav
+- person: beneshova-lyuba
+- person: bartusek-vladimir
+- person: linc-karel
+- person: vondracek-josef
+- person: vltsek-karel

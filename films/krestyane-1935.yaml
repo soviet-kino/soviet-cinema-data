@@ -8,6 +8,18 @@ runtime_min: 114
 external_ids:
   wikidata: Q63107732
   imdb: tt0026583
+  youtube: oyNmdVR1wtw
 sources:
 - https://www.wikidata.org/wiki/Q63107732
 schema_version: 1
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- ermler-fridrikh-markovich
+- bolshintsov-manuel-vladimirovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- pushkov-venedikt-venediktovich
+studio:
+- lenfilm

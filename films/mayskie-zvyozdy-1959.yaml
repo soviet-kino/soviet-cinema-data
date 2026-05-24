@@ -8,6 +8,57 @@ runtime_min: 89
 external_ids:
   wikidata: Q13091411
   imdb: tt0053036
+  youtube: KcmcAhsKl_o
 sources:
 - https://www.wikidata.org/wiki/Q13091411
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+screenwriter:
+- ashkenazi-lyudvik
+cinematographer:
+- shumskiy-vyacheslav-mikhaylovich
+- gunka-vatslav
+composer:
+- molchanov-kirill
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: breykhova-yana
+- person: bogdalova-irzhina
+- person: pugovkin-mikhail-ivanovich
+- person: kryuchkov-nikolay-afanasevich
+- person: kostelka-lyubomir
+- person: zubkov-valentin-ivanovich
+- person: bykov-leonid-fyodorovich
+- person: belov-yuriy-andreevich
+- person: golubitskiy-oleg-borisovich
+- person: khanov-aleksandr-aleksandrovich
+- person: ditetova-yana
+- person: effa-karel
+- person: nademleynska-mari
+- person: dite-zdenek
+- person: peshek-ladislav
+- person: tregl-vatslav
+- person: kroytsman-frantishek
+- person: vnusek-frantishek
+- person: nedbal-milosh
+- person: chubarov-leonid-arkhipovich
+- person: cech-mirko
+- person: jezkova-marie
+- person: majer-svatopluk
+- person: knor-valentin
+- person: staninec-michal
+- person: vondrovic-jiri
+- person: klemens-vladimir
+- person: motycka-ota
+- person: bila-strechova-jirina
+- person: kalendova-nejezchlebova-vera
+- person: bebrova-mayerova-marta
+- person: markova-heda
+- person: q101245539
+- person: kupsovsky-bohuslav
+- person: q131765991
+- person: dovzenko-nikolaj
+studio:
+- barrandov
+- kinostudiya-imeni-m-gorkogo

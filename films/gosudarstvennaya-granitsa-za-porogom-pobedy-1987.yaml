@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4146555
 schema_version: 1
+director:
+- stepanov-boris-mikhaylovich
+screenwriter:
+- smirnov-oleg-pavlovich
+composer:
+- khagagortyan-eduard
+cast:
+- person: stepankov-konstantin-petrovich
+- person: velezheva-lidiya-leonidovna
+- person: gurev-anatoliy-viktorovich
+- person: zikora-vitaliy-grigorevich
+- person: korolkov-gennadiy-anatolevich
+- person: matveev-dmitriy-nikolaevich
+- person: miroshnichenko-viktor-nikolaevich
+- person: morozov-semyon-mikhaylovich
+- person: parfyonov-sergey-alekseevich
+- person: sotnikova-vera-mikhaylovna
+- person: spivak-timofey-ivanovich
+- person: sumskaya-natalya
+- person: kozak-bogdan-nikolaevich
+- person: nikitich-klyonov-pavel
+- person: bystrushkin-aleksandr-pavlovich
+studio:
+- belarusfilm

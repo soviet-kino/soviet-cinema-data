@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1807931
 schema_version: 1
+director:
+- pudovkin-vsevolod-illarionovich
+screenwriter:
+- brik-osip-maksimovich
+- novokshonov-ivan-mikhaylovich
+cinematographer:
+- golovnya-anatoliy-dmitrievich
+cast:
+- person: barnet-boris-vasilevich
+- person: inkizhinov-valeriy-ivanovich
+- person: sten-anna
+- person: anel-alekseevna-sudakevich
+- person: chistyakov-aleksandr-petrovich
+- person: gurnyak-karl-adamovich
+- person: q135617495
+studio:
+- mezhrabpomfilm

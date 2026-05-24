@@ -8,6 +8,11 @@ runtime_min: 93
 external_ids:
   wikidata: Q108678483
   imdb: tt0091586
+  youtube: QGfphRdnF5s
 sources:
 - https://www.wikidata.org/wiki/Q108678483
 schema_version: 1
+director:
+- surin-aleksandr-vladimirovich
+studio:
+- mosfilm

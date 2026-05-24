@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4507864
 schema_version: 1
+director:
+- shpikovskiy-nikolay-grigorevich
+screenwriter:
+- shpikovskiy-nikolay-grigorevich
+cinematographer:
+- feldman-dmitriy-moiseevich
+cast:
+- person: ilinskiy-igor-vladimirovich
+studio:
+- mezhrabpomfilm

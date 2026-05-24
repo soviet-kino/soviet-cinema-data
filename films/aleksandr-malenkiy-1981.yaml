@@ -8,6 +8,25 @@ runtime_min: 94
 external_ids:
   wikidata: Q4060939
   imdb: tt0081998
+  youtube: ZEboWpjJORk
 sources:
 - https://www.wikidata.org/wiki/Q4060939
 schema_version: 1
+director:
+- fokin-vladimir
+screenwriter:
+- ezhov-valentin-ivanovich
+- fokin-vladimir
+cinematographer:
+- filippov-sergey-petrovich
+composer:
+- artemyev-eduard
+cast:
+- person: nazarov-yuriy-vladimirovich
+- person: tokarev-boris-vasilevich
+- person: kokshenov-mikhail
+- person: skorobogatov-nikolay-arkadevich
+studio:
+- defa
+- kinostudiya-imeni-m-gorkogo
+- studiya-khudozhestvennykh-filmov-defa

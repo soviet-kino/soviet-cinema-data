@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q119438901
 schema_version: 1
+director:
+- sabinskiy-cheslav-genrikhovich
+screenwriter:
+- tarich-yuriy-viktorovich
+- natan-ayzikovich
+cast:
+- person: zaychikov-vasiliy-fyodorovich
+studio:
+- goskino

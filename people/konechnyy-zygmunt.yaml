@@ -1,0 +1,9 @@
+id: konechnyy-zygmunt
+name_ru: Зыгмунт Конечный
+roles:
+- composer
+external_ids:
+  wikidata: Q245344
+sources:
+- https://www.wikidata.org/wiki/Q245344
+schema_version: 1

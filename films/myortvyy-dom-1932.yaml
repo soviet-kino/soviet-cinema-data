@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4310525
 schema_version: 1
+director:
+- rezhissyor-fyodorov-vasiliy-fyodorovich
+screenwriter:
+- shklovskiy-viktor-borisovich
+- rezhissyor-fyodorov-vasiliy-fyodorovich
+cinematographer:
+- pronin-vasiliy-markelovich
+composer:
+- kryukov-vladimir-nikolaevich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: podgornyy-nikolay-afanasevich
+- person: khmelyov-nikolay-pavlovich
+studio:
+- mezhrabpomfilm

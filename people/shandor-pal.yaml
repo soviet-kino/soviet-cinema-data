@@ -1,0 +1,9 @@
+id: shandor-pal
+name_ru: Пал Шандор
+roles:
+- director
+external_ids:
+  wikidata: Q714177
+sources:
+- https://www.wikidata.org/wiki/Q714177
+schema_version: 1

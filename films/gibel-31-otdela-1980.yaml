@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31279923
 schema_version: 1
+director:
+- urbla-peeter
+screenwriter:
+- valyo-per
+- urbla-peeter
+cinematographer:
+- blinov-valeriy-fyodorovich
+composer:
+- rannap-reyn
+cast:
+- person: ulfsak-lembit-yukhanovich
+- person: klooren-enn
+- person: volmer-omar
+studio:
+- tallinfilm

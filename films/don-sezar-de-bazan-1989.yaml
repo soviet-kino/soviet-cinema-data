@@ -8,6 +8,28 @@ runtime_min: 133
 external_ids:
   wikidata: Q4166026
   imdb: tt0309526
+  youtube: SxmQj1oX_DU
 sources:
 - https://www.wikidata.org/wiki/Q4166026
 schema_version: 1
+director:
+- frid-yan-borisovich
+screenwriter:
+- donskoy-mikhail-aleksandrovich
+cinematographer:
+- rozovskiy-eduard-aleksandrovich
+composer:
+- gladkov-gennadiy
+cast:
+- person: dmitriev-igor-borisovich
+- person: samokhina-anna
+- person: boyarskiy-mikhail-sergeevich
+- person: lapina-natalya-azarievna
+- person: krasko-andrey
+- person: bogatyryov-yuriy-georgievich
+- person: gorshenina-viktoriya-zakharovna
+- person: yuriy-dedovich
+- person: svetin-mikhail-semyonovich
+- person: orlov-german
+studio:
+- lenfilm

@@ -8,6 +8,67 @@ runtime_min: 134
 external_ids:
   wikidata: Q29966822
   imdb: tt0058924
+  youtube: f23XA7cE76Q
 sources:
 - https://www.wikidata.org/wiki/Q29966822
 schema_version: 1
+director:
+- kakhinya-karel
+screenwriter:
+- prokhazka-yan
+- kakhinya-karel
+cinematographer:
+- shofr-yaromir
+composer:
+- novak-yan-2
+cast:
+- person: q131876400
+- person: wurser-pavel
+- person: handt-jan
+- person: lerche-miroslav
+- person: bohdanecky-p
+- person: lozan-o
+- person: kozel-j
+- person: cerna-alena
+- person: kabelac-vladimir
+- person: fila-m
+- person: svobodova-d
+- person: vocilka-a
+- person: stegr-j
+- person: vagrcka-j
+- person: golysev-frantisek
+- person: podolak-v
+- person: patek-k
+- person: vorel-josef
+- person: yanzhurova-iva
+- person: nazarov-yuriy-vladimirovich
+- person: kraus-yan
+- person: kakhinya-karel
+- person: karlik-yozef
+- person: olmer-vit
+- person: bredun-eduard-aleksandrovich
+- person: stolyarov-kirill-sergeevich
+- person: valakh-gustav
+- person: martinek-zdenek
+- person: myuller-vladislav
+- person: renc-ivan
+- person: nesvadba-milos
+- person: sevtsik-otto
+- person: argus-frank-hanus
+- person: mauerova-nadezda
+- person: preyssova-yindrzhishka-gabriela
+- person: zemanek-stepan
+- person: stach-vladimir
+- person: lstiburek-zdenek
+- person: solc-frantisek
+- person: jarolimek-zdenek
+- person: chmelar-jiri
+- person: vyslouzilova-jaroslava
+- person: jedlicka-milan
+- person: kubaskova-ilona
+- person: q101210292
+- person: barta-yozef
+- person: rathova-jindriska
+- person: q131862196
+studio:
+- barrandov

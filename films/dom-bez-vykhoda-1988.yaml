@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4165462
 schema_version: 1
+director:
+- ritenberga-dzidra
+composer:
+- vigners-ivars
+cast:
+- person: slutska-inara
+- person: budraytis-yuozas-stanislavas
+- person: krylovs-peteris
+- person: matulyonis-algis
+studio:
+- rizhskaya-kinostudiya

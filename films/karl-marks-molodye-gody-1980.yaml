@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4215168
 schema_version: 1
+director:
+- kulidzhanov-lev-aleksandrovich
+screenwriter:
+- dobrodeev-boris-tikhonovich
+cinematographer:
+- yusov-vadim
+cast:
+- person: kisyov-ventsislav
+studio:
+- defa
+- kinostudiya-imeni-m-gorkogo

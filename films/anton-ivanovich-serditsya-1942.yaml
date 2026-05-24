@@ -8,6 +8,20 @@ runtime_min: 80
 external_ids:
   wikidata: Q4067185
   imdb: tt0033346
+  youtube: 2tqs24blJxo
 sources:
 - https://www.wikidata.org/wiki/Q4067185
 schema_version: 1
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- petrov-evgeniy-petrovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- kabalevskiy-dmitriy-borisovich
+cast:
+- person: konovalov-nikolay-leonidovich
+studio:
+- lenfilm
+poster_commons: Konovalov Anton Ivanovic si arrabbia.jpg

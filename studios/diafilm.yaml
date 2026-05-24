@@ -1,0 +1,8 @@
+id: diafilm
+name_ru: диафильм
+country: SU
+external_ids:
+  wikidata: Q860594
+sources:
+- https://www.wikidata.org/wiki/Q860594
+schema_version: 1

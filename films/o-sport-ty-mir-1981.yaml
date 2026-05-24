@@ -8,6 +8,28 @@ runtime_min: 142
 external_ids:
   wikidata: Q2690549
   imdb: tt0151789
+  youtube: mZ1vnjFaCvM
 sources:
 - https://www.wikidata.org/wiki/Q2690549
 schema_version: 1
+director:
+- ozerov-yuriy-nikolaevich
+- rychkov-boris-nikolaevich
+screenwriter:
+- ozerov-yuriy-nikolaevich
+- rychkov-boris-nikolaevich
+cinematographer:
+- zilberg-lev-naumovich
+- kiselyov-sergey-ivanovich
+- krogis-valdis
+- olonovskiy-nikolay
+- oshurkov-mikhail-fyodorovich
+- roozipuu-khans
+- tseslyuk-vladimir-pavlovich
+- kuzmich-epifanov-georgiy
+- staroshas-viktor
+- fedyaev-evgeniy-vasilevich
+composer:
+- pakhmutova-aleksandra-nikolaevna
+studio:
+- mosfilm

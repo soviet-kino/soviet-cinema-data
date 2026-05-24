@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28054400
 schema_version: 1
+director:
+- dykhovichnyy-ivan-vladimirovich
+screenwriter:
+- dykhovichnyy-ivan-vladimirovich
+- solovyov-sergey-aleksandrovich
+cinematographer:
+- yusov-vadim
+cast:
+- person: lyubshin-stanislav-andreevich
+- person: drubich-tatyana-lyusenovna
+- person: fomenko-pyotr-naumovich
+studio:
+- mosfilm

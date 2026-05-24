@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4380861
 schema_version: 1
+director:
+- braun-vladimir-aleksandrovich
+screenwriter:
+- laskin-boris-savelevich
+- sklyut-iosif
+cinematographer:
+- kulish-yakov-savelevich
+composer:
+- klebanov-dmitriy-lvovich
+cast:
+- person: smirnova-lidiya-nikolaevna
+- person: goldshtab-semyon-lvovich
+- person: sova-andrey-korneevich
+- person: bobrov-ivan-vasilevich
+studio:
+- uzbekfilm

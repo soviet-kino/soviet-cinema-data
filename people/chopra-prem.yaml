@@ -1,0 +1,9 @@
+id: chopra-prem
+name_ru: Прем Чопра
+roles:
+- actor
+external_ids:
+  wikidata: Q3401588
+sources:
+- https://www.wikidata.org/wiki/Q3401588
+schema_version: 1

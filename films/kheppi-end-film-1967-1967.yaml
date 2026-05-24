@@ -8,6 +8,73 @@ runtime_min: 71
 external_ids:
   wikidata: Q2010476
   imdb: tt0061029
+  youtube: I0OjVTZdJ1Q
 sources:
 - https://www.wikidata.org/wiki/Q2010476
 schema_version: 1
+director:
+- lipskiy-oldrzhikh
+screenwriter:
+- matsourek-milosh
+- lipskiy-oldrzhikh
+cinematographer:
+- novotny-vladimir
+composer:
+- gala-vlastimil
+cast:
+- person: zazvorkova-stella
+- person: ruzhichkova-gelena
+- person: matsourek-milosh
+- person: kraus-ivan
+- person: kraus-yan
+- person: abrgam-yozef
+- person: kostelka-lyubomir
+- person: menshik-vladimir
+- person: stekl-vaclav
+- person: obermayerova-yaroslava
+- person: glinomaz-yozef
+- person: zagorskiy-boguslav
+- person: prokosh-bedrich
+- person: steimar-jiri
+- person: teply-yan
+- person: shtertsi-yaroslav
+- person: ruzek-martin
+- person: musil-mirko
+- person: velen-oldrzhikh
+- person: tomsa-yaroslav
+- person: mey-dahl-rolf
+- person: lukes-oldrich
+- person: jandova-milena
+- person: ocasek-viktor
+- person: maska-jan
+- person: cech-vladimir-2
+- person: odl-jan
+- person: flyaysher-yan
+- person: vlkova-vlastimila
+- person: sykora-jiri
+- person: bradacova-alena
+- person: stenova-sona
+- person: birkova-lena
+- person: gzela-ladislav
+- person: q101080493
+- person: litera-stanislav
+- person: hladikova-jirina
+- person: kindl-milan
+- person: popelkova-marie
+- person: bryg-lubomir
+- person: krames-josef
+- person: kasik-jiri
+- person: sedlak-petr
+- person: vesely-rudolf
+- person: obrda-jan
+- person: rodr-otakar
+- person: kheck-vojtech
+- person: sieber-jan
+- person: levy-valtr
+- person: krausova-katerina
+- person: cicvarkova-ilona
+- person: rychterova-helena
+- person: kuttner-otakar
+- person: mikulastik-karel
+studio:
+- barrandov

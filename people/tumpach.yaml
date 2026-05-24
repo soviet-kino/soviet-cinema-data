@@ -1,0 +1,9 @@
+id: tumpach
+name_ru: Tumpach
+roles:
+- actor
+external_ids:
+  wikidata: Q133816729
+sources:
+- https://www.wikidata.org/wiki/Q133816729
+schema_version: 1

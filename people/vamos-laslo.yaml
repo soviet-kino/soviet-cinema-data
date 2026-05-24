@@ -1,0 +1,9 @@
+id: vamos-laslo
+name_ru: Ласло Вамос
+roles:
+- actor
+external_ids:
+  wikidata: Q661798
+sources:
+- https://www.wikidata.org/wiki/Q661798
+schema_version: 1

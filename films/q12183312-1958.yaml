@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12183312
 schema_version: 1
+director:
+- vakhab-fatin-abdel
+cast:
+- person: rostom-khind
+- person: shawqi-farid
+- person: ramzi-akhmed

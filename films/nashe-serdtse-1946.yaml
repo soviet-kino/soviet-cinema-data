@@ -8,6 +8,22 @@ runtime_min: 82
 external_ids:
   wikidata: Q60851628
   imdb: tt0174964
+  youtube: XnFQN0SKUTE
 sources:
 - https://www.wikidata.org/wiki/Q60851628
 schema_version: 1
+director:
+- stolper-aleksandr
+screenwriter:
+- evgeniy-iosifovich-gabrilovich
+- galin-boris-abramovich
+cinematographer:
+- pavlov-valentin-efimovich
+- uralov-sergey-yakovlevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: druzhnikov-vladimir-vasilevich
+- person: kuznetsov-mikhail-artemevich
+studio:
+- mosfilm

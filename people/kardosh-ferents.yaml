@@ -1,0 +1,9 @@
+id: kardosh-ferents
+name_ru: Ференц Кардош
+roles:
+- director
+external_ids:
+  wikidata: Q1104593
+sources:
+- https://www.wikidata.org/wiki/Q1104593
+schema_version: 1

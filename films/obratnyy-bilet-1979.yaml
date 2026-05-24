@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9171671
 schema_version: 1
+director:
+- petelskiy-cheslav
+- petelskaya-eva
+screenwriter:
+- stavinskiy-ezhi
+- prochazkova-iva
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: senyuk-anna
+- person: klosinskiy-yanush
+- person: bonk-khenrik
+- person: yanush-palyushkevich
+- person: kherdegen-leshek
+- person: kalita-yozef
+- person: saretok-zofiya
+studio:
+- iluzjon

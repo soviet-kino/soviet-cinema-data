@@ -1,0 +1,9 @@
+id: xiv-dalay-lama
+name_ru: Далай-лама XIV
+roles:
+- actor
+external_ids:
+  wikidata: Q17293
+sources:
+- https://www.wikidata.org/wiki/Q17293
+schema_version: 1

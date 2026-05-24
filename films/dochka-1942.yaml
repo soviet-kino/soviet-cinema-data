@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11041871
 schema_version: 1
+director:
+- bek-nazarov-amo
+cinematographer:
+- feldman-dmitriy-moiseevich
+composer:
+- satyan-ashot
+cast:
+- person: avetisyan-avet
+- person: nersesyan-rachiya
+- person: volkhovskaya-bek-nazarova-sofya
+- person: mokatsyan-anatoliy-aronovich
+studio:
+- armenfilm

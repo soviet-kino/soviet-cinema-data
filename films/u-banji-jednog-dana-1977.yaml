@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q25461624
 schema_version: 1
+cast:
+- person: zigon-jelena
+- person: nikolich-dragan
+- person: marko-todorovich
+- person: alesha-vuchkovich
+- person: spiridonovic-olga
+- person: zhigon-ivana
+- person: kadrich-rialda
+- person: neda-spasoevich

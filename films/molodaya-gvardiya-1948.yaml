@@ -8,6 +8,30 @@ runtime_min: 171
 external_ids:
   wikidata: Q1976498
   imdb: tt0040601
+  youtube: 4obe6uyD_eY
 sources:
 - https://www.wikidata.org/wiki/Q1976498
 schema_version: 1
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cinematographer:
+- rapoport-vladimir
+composer:
+- dmitriy-shostakovich
+cast:
+- person: bondarchuk-sergey-fyodorovich
+- person: mordyukova-nonna-viktorovna
+- person: tikhonov-vyacheslav-vasilevich
+- person: yumatov-georgiy-aleksandrovich
+- person: makarova-inna-vladimirovna
+- person: shagalova-lyudmila-aleksandrovna
+- person: bityukov-boris-valentinovich
+- person: gurzo-sergey-safonovich
+- person: ivanov-vladimir-nikolaevich
+- person: mgeladze-karaman-georgievich
+- person: romanov-gleb-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo
+poster_commons: Кадр из фильма Молодая гвардия.jpg

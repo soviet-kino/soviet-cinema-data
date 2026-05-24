@@ -10,3 +10,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q126539592
 schema_version: 1
+director:
+- khachaturov-eduard-iosifovich
+screenwriter:
+- mendzheritskiy-ivan-aleksandrovich
+composer:
+- vildanov-rumil-dzhiangirovich
+cast:
+- person: avdyushko-viktor-antonovich
+- person: nigmatulin-talgat-kadyrovich
+- person: irgashev-shukhrat-ibragimovich
+- person: norbaeva-svetlana-abdulkhakovna
+- person: omaev-dagun-ibragimovich
+- person: saidkasymov-pulat
+- person: umarov-khamza
+- person: rudnev-boris
+- person: ganiev-otabek
+studio:
+- uzbekfilm

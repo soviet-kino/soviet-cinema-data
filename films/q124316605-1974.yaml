@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124316605
 schema_version: 1
+screenwriter:
+- bosev-rosen
+cast:
+- person: chukova-katya
+- person: maynolovski-sotir

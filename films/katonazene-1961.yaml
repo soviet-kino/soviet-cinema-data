@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47466537
 schema_version: 1
+director:
+- marton-endre
+screenwriter:
+- khinch-dyord
+- marton-endre
+cinematographer:
+- khildebrand-ishtvan
+composer:
+- khidash-fridesh
+cast:
+- person: bara-margit
+- person: eze-layosh
+- person: pager-antal
+- person: basti-layosh
+- person: kallai-ferents
+- person: szirtes-adam
+studio:
+- mafilm

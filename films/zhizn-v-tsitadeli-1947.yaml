@@ -11,3 +11,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270623
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- yakobson-august
+- trauberg-leonid-zakharovich
+cinematographer:
+- ivanov-sergey-vasilevich
+composer:
+- kapp-eugen
+cast:
+- person: talvi-ayno
+- person: syarev-andres
+- person: kuuskemaa-betty
+- person: laur-khugo
+- person: rayala-lembit
+- person: laats-liya-karlovna
+- person: nuude-rudolf-aleksandrovich
+- person: kilgas-gunnar
+- person: randviyr-aleksandr-augustovich
+studio:
+- lenfilm

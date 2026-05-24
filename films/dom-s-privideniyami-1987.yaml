@@ -8,6 +8,17 @@ runtime_min: 90
 external_ids:
   wikidata: Q4165584
   imdb: tt0296595
+  youtube: 1irI40e9FoM
 sources:
 - https://www.wikidata.org/wiki/Q4165584
 schema_version: 1
+director:
+- galperin-efim-mikhaylovich
+screenwriter:
+- lungin-semyon
+cinematographer:
+- antipenko-aleksandr-ivanovich
+composer:
+- berinskiy-sergey-samuilovich
+studio:
+- kinostudiya-imeni-m-gorkogo

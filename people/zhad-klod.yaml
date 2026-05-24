@@ -1,0 +1,9 @@
+id: zhad-klod
+name_ru: Клод Жад
+roles:
+- actor
+external_ids:
+  wikidata: Q183471
+sources:
+- https://www.wikidata.org/wiki/Q183471
+schema_version: 1

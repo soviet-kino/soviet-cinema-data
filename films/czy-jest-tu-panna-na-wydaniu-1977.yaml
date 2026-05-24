@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q9199844
 schema_version: 1
+director:
+- kondratyuk-yanush
+screenwriter:
+- kondratiuk-andrzej
+cast:
+- person: klosovskiy-roman

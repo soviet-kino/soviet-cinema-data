@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4493784
 schema_version: 1
+director:
+- vasilev-vladimir-viktorovich
+- ermolaev-boris-vladimirovich
+screenwriter:
+- kulish-savva-yakovlevich
+- ermolaev-boris-vladimirovich
+cinematographer:
+- mironov-valeriy-andreevich
+composer:
+- motsart-volfgang-amadey
+- bakh-iogann-sebastyan
+- chaykovskiy-pyotr-ilich
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: maksimova-ekaterina-sergeevna
+- person: vasilev-vladimir-viktorovich
+studio:
+- lenfilm

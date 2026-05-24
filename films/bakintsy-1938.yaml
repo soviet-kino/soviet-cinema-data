@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4075936
 schema_version: 1
+director:
+- turin-viktor-aleksandrovich
+screenwriter:
+- turin-viktor-aleksandrovich
+cinematographer:
+- atakshiev-ali-settar
+- kosmatov-leonid
+- feldman-dmitriy-moiseevich
+composer:
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: kostrichkin-andrey-andreevich
+- person: godziashvili-vasiliy-davydovich
+- person: sanani-movsun
+- person: afganly-rza
+- person: ogly-mardanov-mustafa-ashum
+- person: baykov-boris-pavlovich
+- person: shulgin-nikolay
+studio:
+- azerbaydzhanfilm

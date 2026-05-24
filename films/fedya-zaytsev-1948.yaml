@@ -8,6 +8,20 @@ runtime_min: 20
 external_ids:
   wikidata: Q4482346
   imdb: tt0211364
+  youtube: 4sMXP3PrX_I
 sources:
 - https://www.wikidata.org/wiki/Q4482346
 schema_version: 1
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- erdman-nikolay-robertovich
+- volpin-mikhail-davydovich
+cinematographer:
+- voinov-nikolay-vasilevich
+composer:
+- oranskiy-viktor-aleksandrovich
+studio:
+- soyuzmultfilm
+poster_commons: Fiedia Zajcew.jpg

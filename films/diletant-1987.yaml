@@ -8,6 +8,14 @@ runtime_min: 91
 external_ids:
   wikidata: Q108871073
   imdb: tt0296590
+  youtube: J6kPbKCt2yc
 sources:
 - https://www.wikidata.org/wiki/Q108871073
 schema_version: 1
+director:
+- kamchibekov-aman
+- sodanbek-dzhali
+screenwriter:
+- khusnutdinova-roza-usmanovna
+studio:
+- kyrgyzfilm

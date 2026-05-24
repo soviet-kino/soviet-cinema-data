@@ -8,6 +8,24 @@ runtime_min: 88
 external_ids:
   wikidata: Q4331120
   imdb: tt0052021
+  youtube: 0hiFLXz6Ow0
 sources:
 - https://www.wikidata.org/wiki/Q4331120
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+- ogly-takhmasib-rza-abbas-kuli
+cinematographer:
+- egiazarov-gavriil-georgievich
+composer:
+- karaev-kara
+cast:
+- person: gelovani-mikhail-georgievich
+- person: okhlopkov-nikolay-pavlovich
+- person: kryuchkov-nikolay-afanasevich
+- person: kyzy-davudova-marziya-yusuf
+- person: aliev-mirza-aga-ali-ogly
+- person: kyzy-melikova-nadzhiba-gashym
+- person: ogly-takhmasib-rza-abbas-kuli
+studio:
+- azerbaydzhanfilm

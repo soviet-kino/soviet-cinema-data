@@ -11,3 +11,46 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q136717842
 schema_version: 1
+director:
+- podskalsky-zdenek
+screenwriter:
+- ditl-yaroslav
+- podskalsky-zdenek
+cinematographer:
+- kuchera-yaroslav
+composer:
+- gadl-vitezslav
+cast:
+- person: kopetskiy-milosh
+- person: gavlova-dagmar
+- person: shafrankova-libushe
+- person: brodskiy-vlastimil
+- person: yiraskova-yirzhina
+- person: karesova-alena
+- person: kraus-yan
+- person: pesek-michal
+- person: podskalsky-zdenek
+- person: prokosh-bedrich
+- person: bogdanova-blanka
+- person: gruby-vladimir
+- person: salac-vladimir
+- person: vozab-jaroslav
+- person: kozderkova-ladka
+- person: schranil-raoul
+- person: germala-roman
+- person: skopal-svatopluk
+- person: vochoc-karel
+- person: habl-karel
+- person: matsak-irzhi
+- person: bicik-vladimir
+- person: skoda-jiri
+- person: vlkova-vlastimila
+- person: homola-miloslav
+- person: q104626280
+- person: nedvidkova-jarmila
+- person: q112411395
+- person: opratko-jiri
+- person: jerieova-sarka
+- person: charova-katerina
+studio:
+- barrandov-film-studio

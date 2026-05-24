@@ -1,0 +1,9 @@
+id: marietto
+name_ru: Мариэтто
+roles:
+- actor
+external_ids:
+  wikidata: Q15714209
+sources:
+- https://www.wikidata.org/wiki/Q15714209
+schema_version: 1

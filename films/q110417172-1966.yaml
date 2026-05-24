@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q110417172
 schema_version: 1
+director:
+- khmelevskiy-zbignev
+- weychert-janusz
+screenwriter:
+- posmich-sofiya
+- weychert-janusz
+cast:
+- person: barbara-krafftuvna
+- person: plotnitskiy-boleslav
+- person: kopichinskiy-andzhey
+- person: filipskiy-ryshard
+- person: jurasz-antoni
+- person: baltsezhak-andzhey
+- person: uolter-dzhoanna
+studio:
+- start-kinostudiya

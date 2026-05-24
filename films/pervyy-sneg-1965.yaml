@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q105763622
 schema_version: 1
+director:
+- grigorev-boris-alekseevich
+- shvyryov-yuriy
+screenwriter:
+- roslyakov-vasiliy-petrovich
+cinematographer:
+- kataev-pyotr
+composer:
+- ilich-rubin-vladimir
+cast:
+- person: prokhorenko-zhanna-trofimovna
+- person: loktev-aleksey-vasilevich
+- person: nakhapetov-rodion-rafailovich
+- person: velichko-natalya-yakovlevna
+studio:
+- kinostudiya-imeni-m-gorkogo

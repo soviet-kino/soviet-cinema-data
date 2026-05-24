@@ -1,0 +1,9 @@
+id: susa-ferents
+name_ru: Ференц Суса
+roles:
+- actor
+external_ids:
+  wikidata: Q1078457
+sources:
+- https://www.wikidata.org/wiki/Q1078457
+schema_version: 1

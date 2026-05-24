@@ -11,3 +11,46 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2679556
 schema_version: 1
+director:
+- menzel-jiri
+screenwriter:
+- sverak-zdenek
+- smolyak-ladislav
+cinematographer:
+- shofr-yaromir
+composer:
+- shust-irzhi
+cast:
+- person: smolyak-ladislav
+- person: kemr-yozef
+- person: elinkova-vlasta
+- person: vigel-yaroslav
+- person: kovarik-frantisek
+- person: tregl-vatslav
+- person: brukner-petr
+- person: rekhak-frantishek
+- person: vozab-jaroslav
+- person: stibich-miloslav
+- person: cepelka-milon
+- person: urbankova-nadya
+- person: unger-oldrich
+- person: vlakh-oldrzhikh
+- person: liskutin-alois
+- person: kalina-rudolf
+- person: st-karel-hovorka
+- person: hradilkova-marie
+- person: vachek-alois
+- person: blazek-zdenek
+- person: fiala-karel-2
+- person: sustr-milos
+- person: waldmann-jan
+- person: hradilek-martin
+- person: sverak-zdenek
+- person: kolarova-daniela
+- person: brodskiy-vlastimil
+- person: myslikova-mila
+- person: jegorov-eugen
+- person: trshiska-yan
+- person: chadimova-karla
+studio:
+- barrandov

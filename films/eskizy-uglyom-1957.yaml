@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7664701
 schema_version: 1
+director:
+- antoniy-bogdzevich
+screenwriter:
+- buchkovskiy-leonard
+- buczkowski-leopold
+cinematographer:
+- forbert-vladislav
+composer:
+- kizevetter-tomash
+cast:
+- person: bartik-stefan
+- person: golas-veslav
+- person: volinskiy-stanislav
+- person: barbara-valkuvna
+studio:
+- rytm-kinostudiya

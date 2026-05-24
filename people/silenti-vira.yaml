@@ -1,0 +1,9 @@
+id: silenti-vira
+name_ru: Вира Силенти
+roles:
+- actor
+external_ids:
+  wikidata: Q4013872
+sources:
+- https://www.wikidata.org/wiki/Q4013872
+schema_version: 1

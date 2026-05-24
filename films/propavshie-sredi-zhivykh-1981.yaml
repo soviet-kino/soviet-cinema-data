@@ -8,6 +8,19 @@ runtime_min: 85
 external_ids:
   wikidata: Q4380855
   imdb: tt0170462
+  youtube: 8SF0xLr2W84
 sources:
 - https://www.wikidata.org/wiki/Q4380855
 schema_version: 1
+director:
+- fetin-vladimir-aleksandrovich
+screenwriter:
+- vysotskiy-sergey-aleksandrovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- lebedev-viktor-mikhaylovich
+cast:
+- person: dolginin-mikhail-andreevich
+studio:
+- lenfilm

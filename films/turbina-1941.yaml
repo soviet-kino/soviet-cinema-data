@@ -8,6 +8,60 @@ runtime_min: 98
 external_ids:
   wikidata: Q3313956
   imdb: tt0166385
+  youtube: D-YlUtMHD7o
 sources:
 - https://www.wikidata.org/wiki/Q3313956
 schema_version: 1
+director:
+- vavra-otakar
+screenwriter:
+- vavra-otakar
+cinematographer:
+- ganush-vatslav
+composer:
+- srnka-irzhi
+cast:
+- person: baarova-lida
+- person: plakhta-indrzhikh
+- person: grushinskiy-rudolf
+- person: filipovskiy-frantishek
+- person: eduard-kogout
+- person: khyoger-karel
+- person: kharvat-yozhka
+- person: smolik-frantishek
+- person: voyta-yaroslav
+- person: glazrova-mariya
+- person: dostal-karel
+- person: novak-vojta
+- person: veyrazhka-vitezslav
+- person: starsi-karel-roden
+- person: brozhova-mariya
+- person: valentova
+- person: matulova-vlasta
+- person: nejedly-viktor
+- person: svobodova-bozena
+- person: hladik-jaroslav
+- person: majer-vladimir
+- person: bulik-bedrich
+- person: strobachova-stanislava
+- person: sladek-josef
+- person: maj-karel
+- person: belsky-josef
+- person: gottliebova-ruzena
+- person: mlejnek-frantisek-xaverius
+- person: q101067875
+- person: smichovsky-vladimir
+- person: oliakova-marie
+- person: q101067938
+- person: jirsa-antonin
+- person: hribal-emanuel
+- person: horutova-milada
+- person: gabrielova-anna
+- person: cikan-josef
+- person: vetesnikova-elsa
+- person: nemec-karel
+- person: solc-antonin
+- person: svimberska-marie
+studio:
+- ente-nazionale-industrie-cinematografiche
+poster_commons: Höger Matulová Turbina 032.jpg

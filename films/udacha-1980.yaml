@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4469331
 schema_version: 1
+director:
+- tsuladze-baadur-sokratovich
+screenwriter:
+- gabriadze-rezo
+cast:
+- person: berikashvili-givi-zakharevich
+- person: tsuladze-baadur-sokratovich
+- person: kavsadze-kakhi-davidovich
+studio:
+- gruziya-film

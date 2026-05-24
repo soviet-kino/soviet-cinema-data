@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q136352546
 schema_version: 1
+director:
+- fiwek-wojciech
+cast:
+- person: zigmunt-malyanovich
+- person: rakhvalskaya-barbara
+- person: wawszczyk-maria
+- person: alwasiak-monika
+- person: q136352554

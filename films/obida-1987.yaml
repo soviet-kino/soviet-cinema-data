@@ -8,6 +8,11 @@ runtime_min: 87
 external_ids:
   wikidata: Q108738276
   imdb: tt0273903
+  youtube: cKabzvAB3z0
 sources:
 - https://www.wikidata.org/wiki/Q108738276
 schema_version: 1
+director:
+- sirenko-arkadiy-vasilevich
+studio:
+- mosfilm

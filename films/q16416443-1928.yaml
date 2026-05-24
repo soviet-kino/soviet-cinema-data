@@ -10,3 +10,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16416443
 schema_version: 1
+director:
+- mur-leo
+cinematographer:
+- frolov-ivan-sergeevich
+cast:
+- person: sidgi-rukhulla
+- person: ogly-safarov-lyatif-bashir
+studio:
+- azerbaydzhanfilm

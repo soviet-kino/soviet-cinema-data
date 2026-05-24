@@ -11,3 +11,27 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4656538
 schema_version: 1
+director:
+- petrov-dimitr
+screenwriter:
+- moskova-rada
+cinematographer:
+- tasev-atanas
+composer:
+- karadimchev-boris
+cast:
+- person: dimitrov-emil
+- person: delcheva-ruzha
+- person: pendatchanska-alexandrina
+- person: sotirova-aneta
+- person: prachov-veselin
+- person: garvanov-zhivko
+- person: filipova-lyudmila
+- person: kavardjikova-maria
+- person: todorova-nadya
+- person: poppandov-pavel
+- person: iliev-stefan
+- person: stoyanov-martin
+- person: genova-evgeniya
+studio:
+- sofia-film-studios

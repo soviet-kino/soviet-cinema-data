@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12047075
 schema_version: 1
+director:
+- filip-frantishek
+screenwriter:
+- sabina-karel
+- filip-frantishek
+cinematographer:
+- boyanovskiy-ilya
+composer:
+- smetana-bedrzhikh
+cast:
+- person: benyachkova-gabriela
+- person: dvorski-peter
+- person: jonasova-jana
+- person: novak-richard
+- person: hampel-alfred
+- person: mrazova-marie
+- person: hanus-karel
+- person: horacek-jaroslav
+- person: jindrak-jindrich

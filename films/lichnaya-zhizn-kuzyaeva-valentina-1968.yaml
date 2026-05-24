@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270722
 schema_version: 1
+director:
+- maslennikov-igor-fyodorovich
+- averbakh-ilya-aleksandrovich
+screenwriter:
+- ryazantseva-nataliya-borisovna
+cinematographer:
+- timkovskiy-boris-viktorovich
+composer:
+- kolker-aleksandr
+cast:
+- person: ilichyov-viktor-grigorevich
+- person: kozhevnikov-aleksey-aleksandrovich
+- person: shtil-georgiy
+studio:
+- lenfilm

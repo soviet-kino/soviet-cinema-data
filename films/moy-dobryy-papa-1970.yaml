@@ -8,6 +8,18 @@ runtime_min: 67
 external_ids:
   wikidata: Q4299826
   imdb: tt1673626
+  youtube: 5aXFNmIajHI
 sources:
 - https://www.wikidata.org/wiki/Q4299826
 schema_version: 1
+director:
+- usov-igor-vladimirovich
+screenwriter:
+- golyavkin-viktor-vladimirovich
+- usov-igor-vladimirovich
+cinematographer:
+- dibrivnyy-aleksandr-ivanovich
+composer:
+- petrov-andrey-pavlovich
+studio:
+- lenfilm

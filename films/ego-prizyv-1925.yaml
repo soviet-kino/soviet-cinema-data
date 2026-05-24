@@ -7,6 +7,14 @@ country:
 external_ids:
   wikidata: Q5771942
   imdb: tt0015958
+  youtube: Z6eroorr9UU
 sources:
 - https://www.wikidata.org/wiki/Q5771942
 schema_version: 1
+director:
+- protazanov-yakov
+cast:
+- person: popova-varvara-aleksandrovna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- mezhrabpom-rus

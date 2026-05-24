@@ -1,0 +1,9 @@
+id: nova-alice
+name_ru: Alice Nová
+roles:
+- actor
+external_ids:
+  wikidata: Q137773367
+sources:
+- https://www.wikidata.org/wiki/Q137773367
+schema_version: 1

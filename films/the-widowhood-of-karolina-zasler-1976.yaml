@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7774782
 schema_version: 1
+director:
+- klopcic-matjaz
+cinematographer:
+- pinter-tomislav
+cast:
+- person: polich-ratko
+- person: bibich-polde
+- person: sugman-zlatko
+- person: zupanchich-milena

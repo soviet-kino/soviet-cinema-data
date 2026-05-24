@@ -1,0 +1,9 @@
+id: stroud-vudi
+name_ru: Вуди Строуд
+roles:
+- actor
+external_ids:
+  wikidata: Q609860
+sources:
+- https://www.wikidata.org/wiki/Q609860
+schema_version: 1

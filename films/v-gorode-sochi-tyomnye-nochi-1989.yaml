@@ -8,6 +8,18 @@ runtime_min: 115
 external_ids:
   wikidata: Q281773
   imdb: tt0098574
+  youtube: 46EA0qLj8BE
 sources:
 - https://www.wikidata.org/wiki/Q281773
 schema_version: 1
+director:
+- pichul-vasiliy
+screenwriter:
+- khmelik-mariya-aleksandrovna
+composer:
+- matetskiy-vladimir-leonardovich
+cast:
+- person: negoda-natalya-igorevna
+- person: zharkov-aleksey-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

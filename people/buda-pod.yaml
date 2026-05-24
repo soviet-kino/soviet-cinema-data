@@ -1,0 +1,9 @@
+id: buda-pod
+name_ru: Pod Budą
+roles:
+- actor
+external_ids:
+  wikidata: Q11820138
+sources:
+- https://www.wikidata.org/wiki/Q11820138
+schema_version: 1

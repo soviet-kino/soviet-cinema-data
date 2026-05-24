@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q477687
 schema_version: 1
+director:
+- lalu-rene
+screenwriter:
+- topor-rolan
+- lalu-rene
+- vul-stefan
+cinematographer:
+- elliot-dik
+- baromykin-boris
+- rejthar-lubomir
+composer:
+- gorage-alen

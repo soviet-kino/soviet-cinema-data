@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11795809
 schema_version: 1
+director:
+- shulkin-pyotr
+screenwriter:
+- shulkin-pyotr
+cinematographer:
+- stok-vitold
+composer:
+- stanislas-syrevich
+cast:
+- person: kherdegen-leshek
+- person: ronchkovskiy-edvard
+- person: dusza-jozef
+studio:
+- tor-kinostudiya

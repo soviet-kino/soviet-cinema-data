@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31187032
 schema_version: 1
+director:
+- zafranovic-lordan
+cast:
+- person: pipinic-hermina

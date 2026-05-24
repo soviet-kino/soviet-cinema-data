@@ -8,6 +8,20 @@ runtime_min: 89
 external_ids:
   wikidata: Q4208850
   imdb: tt0264747
+  youtube: 4TN8SFWQJok
 sources:
 - https://www.wikidata.org/wiki/Q4208850
 schema_version: 1
+director:
+- chulyukin-yuriy-stepanovich
+screenwriter:
+- kushnirenko-georgiy-anatolevich
+cinematographer:
+- guslinskiy-evgeniy
+composer:
+- vladimir-sergeevich-dashkevich
+cast:
+- person: maslyakov-aleksandr-vasilevich
+- person: karachentsov-nikolay
+studio:
+- mosfilm

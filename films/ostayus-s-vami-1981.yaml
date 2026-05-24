@@ -8,6 +8,17 @@ runtime_min: 67
 external_ids:
   wikidata: Q4338620
   imdb: tt0237528
+  youtube: tJhqJWDUvqU
 sources:
 - https://www.wikidata.org/wiki/Q4338620
 schema_version: 1
+director:
+- voznesenskiy-igor-matveevich
+screenwriter:
+- mitko-evgeniy
+composer:
+- krylatov-evgeniy
+cast:
+- person: grachyov-anatoliy-dmitrievich
+studio:
+- kinostudiya-imeni-m-gorkogo

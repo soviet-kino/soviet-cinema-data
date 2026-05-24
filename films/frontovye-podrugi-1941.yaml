@@ -8,6 +8,27 @@ runtime_min: 95
 external_ids:
   wikidata: Q19804434
   imdb: tt0033637
+  youtube: uE7hXqPlQms
 sources:
 - https://www.wikidata.org/wiki/Q19804434
 schema_version: 1
+director:
+- eysymont-viktor-vladislavovich
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+- rozenberg-mikhail-yakovlevich
+- rozenberg-mikhail-fyodorovich
+cinematographer:
+- rapoport-vladimir
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: abrikosov-andrey-lvovich
+- person: fyodorova-zoya-alekseevna
+- person: adashevskiy-konstantin-ignatevich
+- person: alyoshina-tamara-ivanovna
+- person: blinov-boris-vladimirovich
+- person: sobolevskaya-manefa-vladimirovna
+- person: tolubeev-yuriy-vladimirovich
+studio:
+- lenfilm

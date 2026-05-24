@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106640616
 schema_version: 1
+director:
+- pyrev-ivan-aleksandrovich
+screenwriter:
+- erdman-nikolay-robertovich
+- mariengof-anatoliy-borisovich
+cast:
+- person: zhizneva-olga-andreevna
+- person: gradopolov-konstantin-vasilevich
+studio:
+- sovkino
+poster_commons: Плакат к фильму «Посторонняя женщина» 1929.jpg

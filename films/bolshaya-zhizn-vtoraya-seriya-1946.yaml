@@ -8,6 +8,20 @@ runtime_min: 94
 external_ids:
   wikidata: Q4091836
   imdb: tt0051426
+  youtube: lfVGh8Q8M6I
 sources:
 - https://www.wikidata.org/wiki/Q4091836
 schema_version: 1
+director:
+- lukov-leonid
+screenwriter:
+- nilin-pavel-filippovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+composer:
+- bogoslovskiy-nikita-vladimirovich
+cast:
+- person: andreev-boris-fyodorovich
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm

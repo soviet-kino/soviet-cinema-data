@@ -1,0 +1,9 @@
+id: voz-ulrikh
+name_ru: Ульрих Воз
+roles:
+- actor
+external_ids:
+  wikidata: Q1603258
+sources:
+- https://www.wikidata.org/wiki/Q1603258
+schema_version: 1

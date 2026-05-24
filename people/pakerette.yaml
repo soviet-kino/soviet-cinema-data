@@ -1,0 +1,9 @@
+id: pakerette
+name_ru: Пакеретте
+roles:
+- actor
+external_ids:
+  wikidata: Q3411493
+sources:
+- https://www.wikidata.org/wiki/Q3411493
+schema_version: 1

@@ -8,6 +8,26 @@ runtime_min: 148
 external_ids:
   wikidata: Q2313918
   imdb: tt0126237
+  youtube: EDvFUXXsrDg
 sources:
 - https://www.wikidata.org/wiki/Q2313918
 schema_version: 1
+director:
+- viktorov-richard-nikolaevich
+screenwriter:
+- bulychyov-kir
+- viktorov-richard-nikolaevich
+cinematographer:
+- rybin-aleksandr
+composer:
+- rybnikov-aleksey
+cast:
+- person: lazarev-aleksandr-sergeevich
+- person: mikhaylov-aleksandr-yakovlevich
+- person: ledogorov-vadim-igorevich
+- person: ledogorov-igor-vadimovich
+- person: metyolkina-elena-vladimirovna
+- person: fadeeva-elena-alekseevna
+studio:
+- kinostudiya-imeni-m-gorkogo
+- yaltinskaya-kinostudiya

@@ -1,0 +1,9 @@
+id: nad-fero
+name_ru: Феро Надь
+roles:
+- actor
+external_ids:
+  wikidata: Q1214174
+sources:
+- https://www.wikidata.org/wiki/Q1214174
+schema_version: 1

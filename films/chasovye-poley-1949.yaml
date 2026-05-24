@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21148931
 schema_version: 1
+director:
+- nosov-pyotr-nikolaevich
+cinematographer:
+- voinov-nikolay-vasilevich
+composer:
+- nikolskiy-yuriy-sergeevich
+studio:
+- soyuzmultfilm

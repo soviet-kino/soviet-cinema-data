@@ -1,0 +1,9 @@
+id: peter-gizi
+name_ru: Gizi Péter
+roles:
+- actor
+external_ids:
+  wikidata: Q1243120
+sources:
+- https://www.wikidata.org/wiki/Q1243120
+schema_version: 1

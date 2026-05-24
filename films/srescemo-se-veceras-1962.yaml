@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27070693
 schema_version: 1
+director:
+- chap-frantishek
+screenwriter:
+- nikolic-milan
+composer:
+- lesyak-borut
+cast:
+- person: aleksich-miya
+- person: nalis-antun
+- person: buzanchich-boris
+- person: starcic-viktor
+- person: cuk-janez
+- person: prosen-irena

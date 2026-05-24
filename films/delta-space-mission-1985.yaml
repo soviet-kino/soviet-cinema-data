@@ -11,3 +11,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12727734
 schema_version: 1
+director:
+- toia-mircea
+- cazan-calin

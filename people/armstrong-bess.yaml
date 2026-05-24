@@ -1,0 +1,9 @@
+id: armstrong-bess
+name_ru: Бесс Армстронг
+roles:
+- actor
+external_ids:
+  wikidata: Q63308
+sources:
+- https://www.wikidata.org/wiki/Q63308
+schema_version: 1

@@ -10,3 +10,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7732399
 schema_version: 1
+director:
+- khartman-zigfrid
+cinematographer:
+- zore-rolf
+cast:
+- person: dits-frits
+- person: wien-dieter
+- person: byome-marita
+- person: lyudvig-rolf
+- person: khardt-khardtloff-khans
+- person: albrekht-regina
+- person: wei-siegfried
+- person: zonnenberg-gyunter
+studio:
+- defa

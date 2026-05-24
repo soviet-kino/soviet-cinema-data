@@ -10,3 +10,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12757157
 schema_version: 1
+director:
+- novakovic-rados
+cast:
+- person: rade-markovich
+- person: velimir-bata-zhivoinovich
+- person: tadich-lyuba
+- person: viktorovic-mihajlo
+- person: pantelich-vasa
+- person: zoran-milosavlevich
+- person: peshich-stanislava

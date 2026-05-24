@@ -8,6 +8,21 @@ runtime_min: 77
 external_ids:
   wikidata: Q4331664
   imdb: tt0081262
+  youtube: 2lvgauEmdMg
 sources:
 - https://www.wikidata.org/wiki/Q4331664
 schema_version: 1
+director:
+- egorov-yuriy-pavlovich
+screenwriter:
+- egorov-yuriy-pavlovich
+- inin-arkadiy
+cinematographer:
+- puchkov-nikolay
+composer:
+- fradkin-mark
+cast:
+- person: gundareva-natalya-georgievna
+- person: proskurin-viktor-alekseevich
+studio:
+- kinostudiya-imeni-m-gorkogo

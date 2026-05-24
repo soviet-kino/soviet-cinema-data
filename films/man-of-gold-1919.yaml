@@ -11,3 +11,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q29016673
 schema_version: 1
+director:
+- korda-aleksandr
+screenwriter:
+- vayda-ladislaus
+cast:
+- person: beregi-oskar
+studio:
+- corvin-film-studio

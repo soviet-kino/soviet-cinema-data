@@ -1,0 +1,9 @@
+id: provans-deniz
+name_ru: Дениз Прованс
+roles:
+- actor
+external_ids:
+  wikidata: Q3023078
+sources:
+- https://www.wikidata.org/wiki/Q3023078
+schema_version: 1

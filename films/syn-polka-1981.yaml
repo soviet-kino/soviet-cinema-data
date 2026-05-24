@@ -8,6 +8,21 @@ runtime_min: 128
 external_ids:
   wikidata: Q4447956
   imdb: tt3001484
+  youtube: F8aTBMZ5rd0
 sources:
 - https://www.wikidata.org/wiki/Q4447956
 schema_version: 1
+director:
+- kuznetsov-georgiy-mikhaylovich
+cinematographer:
+- lesnikov-anatoliy-egorovich
+cast:
+- person: farada-semyon-lvovich
+- person: pavlov-viktor-pavlovich
+- person: krasko-ivan-ivanovich
+- person: miroshnichenko-viktor-nikolaevich
+- person: nosov-igor-petrovich
+- person: yakovlev-vadim-2
+- person: gusarov-nikolay-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

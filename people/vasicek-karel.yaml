@@ -1,0 +1,9 @@
+id: vasicek-karel
+name_ru: Karel Vasicek
+roles:
+- actor
+external_ids:
+  wikidata: Q111411430
+sources:
+- https://www.wikidata.org/wiki/Q111411430
+schema_version: 1

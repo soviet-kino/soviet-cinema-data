@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q106640523
 schema_version: 1
+director:
+- petrov-bytov-pavel-petrovich
+screenwriter:
+- petrov-bytov-pavel-petrovich
+cinematographer:
+- ushakov-nikolay-nikolaevich
+cast:
+- person: simonov-nikolay-konstantinovich
+- person: michurin-nikolay-ivanovich
+studio:
+- soyuzkino

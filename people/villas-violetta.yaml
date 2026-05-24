@@ -1,0 +1,9 @@
+id: villas-violetta
+name_ru: Виолетта Виллас
+roles:
+- actor
+external_ids:
+  wikidata: Q217750
+sources:
+- https://www.wikidata.org/wiki/Q217750
+schema_version: 1

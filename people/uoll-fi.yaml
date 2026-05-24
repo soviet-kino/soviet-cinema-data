@@ -1,0 +1,9 @@
+id: uoll-fi
+name_ru: Фи Уолл
+roles:
+- actor
+external_ids:
+  wikidata: Q1400864
+sources:
+- https://www.wikidata.org/wiki/Q1400864
+schema_version: 1

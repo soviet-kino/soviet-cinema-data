@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q428049
 schema_version: 1
+director:
+- gyunter-egon
+screenwriter:
+- gyunter-egon
+cinematographer:
+- gusko-erikh
+composer:
+- zasse-karl-ernst
+cast:
+- person: palmer-lilli
+- person: talbakh-katarina
+- person: time-tomas
+- person: mann-diter
+- person: khofman-yutta
+- person: delmare-fred
+- person: khaaze-annemona
+- person: tribel-aksel
+- person: brekht-shall-barbara
+- person: lemann-krista
+- person: lennarts-monika
+- person: lyudvig-rolf
+- person: bauman-khilmar
+- person: eykhgorn-khilmar
+- person: lendrikh-valter
+- person: khellberg-martin
+- person: kristian-norbert
+- person: khyorbing-sonya
+- person: dayss-viktor
+- person: greeze-volfgang
+studio:
+- defa

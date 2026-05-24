@@ -1,0 +1,9 @@
+id: topar-zhan
+name_ru: Жан Топар
+roles:
+- actor
+external_ids:
+  wikidata: Q2110802
+sources:
+- https://www.wikidata.org/wiki/Q2110802
+schema_version: 1

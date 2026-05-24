@@ -10,3 +10,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4142285
 schema_version: 1
+director:
+- biyma-oleg-ivanovich
+screenwriter:
+- biyma-oleg-ivanovich
+cinematographer:
+- bordakov-yuriy-viktorovich
+- zotsenko-aleksey
+composer:
+- kiva-oleg-filippovich
+cast:
+- person: dmitriev-igor-borisovich
+- person: arinina-lyudmila
+- person: bakshtaev-leonid-georgievich
+- person: aleksey-vladimirovich-bogdanovich
+- person: borzova-elena-nikolaevna
+- person: kadochnikova-larisa-valentinovna
+- person: katin-yartsev-yuriy-vasilevich
+- person: lezhdey-elza-ivanovna
+- person: papernyy-evgeniy
+- person: safonov-vsevolod-dmitrievich
+- person: chekan-elena-vasilevna
+studio:
+- ukrtelefilm

@@ -11,3 +11,52 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4462898
 schema_version: 1
+director:
+- petelskiy-cheslav
+- petelskaya-eva
+- stanislav-lenartovich
+screenwriter:
+- tyrmand-leopold
+- antoniy-bogdzevich
+- petelskiy-cheslav
+- petelskaya-eva
+- stanislav-lenartovich
+cinematographer:
+- antoni-voytovich
+- svirta-cheslav
+composer:
+- harald-jerzy
+cast:
+- person: polanski-roman
+- person: brodzish-adam
+- person: karchevskiy-zdzislav
+- person: cybulski-zbigniew
+- person: kobelya-bogumil
+- person: nemchik-leon
+- person: antchak-ezhi
+- person: bareya-stanislav
+- person: stempovskiy-yarema
+- person: klosinskiy-yanush
+- person: skarukh-vitold
+- person: kovalskiy-vatslav
+- person: baer-bogdan
+- person: vikhura-edvard
+- person: zintel-zygmunt
+- person: kanevska-mariya
+- person: rakhvalskaya-barbara
+- person: zhukovskiy-feliks
+- person: filipskiy-ryshard
+- person: osta-owski-ryszard
+- person: igar-stanislav
+- person: kwaskowski-w-odzimierz
+- person: yablonski-zbignev
+- person: smyk-ezhi
+- person: peratskiy-yuzef
+- person: lodynskiy-yuzef
+- person: lanevskaya-katarzhina
+- person: loza-mechislav
+- person: kaczmarek-jerzy
+- person: kobylinski-anatol
+- person: tsiprian-adam
+studio:
+- q9380470

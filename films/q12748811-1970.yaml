@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748811
 schema_version: 1
+director:
+- aleksandar-dzhordzhevich
+cast:
+- person: boyanich-dragomir
+- person: sokich-ruzhitsa
+- person: milutin-butkovich

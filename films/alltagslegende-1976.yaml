@@ -10,3 +10,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q96745448
 schema_version: 1
+director:
+- felix-laszlo
+screenwriter:
+- sos-gyorgy
+cinematographer:
+- mestyan-tibor
+cast:
+- person: kvaltinger-gelmut
+- person: meks-karoli
+- person: drahota-andrea
+- person: khorvat-teri
+- person: konrad-antal
+- person: shimon-dyord
+- person: semesh-mari
+- person: rudnik-frants
+- person: padua-ildiko
+- person: szenasi-erno
+studio:
+- telepool

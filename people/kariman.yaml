@@ -1,0 +1,9 @@
+id: kariman
+name_ru: Kariman
+roles:
+- actor
+external_ids:
+  wikidata: Q11022095
+sources:
+- https://www.wikidata.org/wiki/Q11022095
+schema_version: 1

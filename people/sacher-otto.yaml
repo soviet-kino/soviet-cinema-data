@@ -1,0 +1,9 @@
+id: sacher-otto
+name_ru: Otto Sacher
+roles:
+- director
+external_ids:
+  wikidata: Q55587108
+sources:
+- https://www.wikidata.org/wiki/Q55587108
+schema_version: 1

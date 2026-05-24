@@ -10,3 +10,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12292278
 schema_version: 1
+director:
+- zakhariev-eduard
+screenwriter:
+- maslarov-plamen
+composer:
+- donchev-kiril
+cast:
+- person: staykov-georgi
+- person: fintsi-itskhak
+- person: glishev-bogdan
+- person: andreev-ivan
+- person: karamiteva-margarita
+- person: mazgalov-stoycho

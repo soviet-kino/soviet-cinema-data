@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q28750060
 schema_version: 1
+director:
+- lyubich-milan
+cast:
+- person: samardzhich-lyubisha
+- person: vrkhovets-yanez

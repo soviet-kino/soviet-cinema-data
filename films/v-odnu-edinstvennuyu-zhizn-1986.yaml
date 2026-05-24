@@ -11,3 +11,12 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4101756
 schema_version: 1
+director:
+- apasyan-igor-karpovich
+composer:
+- gradskiy-aleksandr
+cast:
+- person: olyalin-nikolay-vladimirovich
+- person: romanov-ernst-ivanovich
+studio:
+- odesskaya-kinostudiya

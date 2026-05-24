@@ -1,0 +1,9 @@
+id: chervena-sonya
+name_ru: Соня Червена
+roles:
+- actor
+external_ids:
+  wikidata: Q195520
+sources:
+- https://www.wikidata.org/wiki/Q195520
+schema_version: 1

@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4350964
 schema_version: 1
+director:
+- viktorov-richard-nikolaevich
+screenwriter:
+- grebnev-anatoliy
+cinematographer:
+- kirillov-andrey-mikhaylovich
+composer:
+- chernyshyov-vladimir
+cast:
+- person: aroseva-olga-aleksandrovna
+- person: vizbor-yuriy-iosifovich
+- person: karelskikh-evgeniy-konstantinovich
+- person: lyubeznov-mikhail-ivanovich
+- person: naumenko-olga-nikolaevna
+- person: rychagova-natalya-sergeevna
+- person: sementsova-nadezhda-mefodevna
+- person: korotkova-irina-yurevna
+- person: koshkin-konstantin-mikhaylovich
+studio:
+- kinostudiya-imeni-m-gorkogo

@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6075245
 schema_version: 1
+director:
+- zhurzh-eva
+screenwriter:
+- romkhaniy-yozhef
+cinematographer:
+- czabarka-gyorgy
+composer:
+- kerekes-janos
+cast:
+- person: latabar-kalman
+- person: bodrogi-gyula

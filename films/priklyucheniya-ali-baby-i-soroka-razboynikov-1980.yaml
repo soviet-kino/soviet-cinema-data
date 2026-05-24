@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q780428
 schema_version: 1
+director:
+- mekhra-umesh
+- fayziev-latif-abidovich
+cinematographer:
+- travitskiy-leonid-iosifovich
+composer:
+- burman-rakhul-dev
+cast:
+- person: malini-khema
+- person: aman-zinat
+- person: bykov-rolan-antonovich
+- person: dkharmendra
+- person: chiaureli-sofiko-mikhaylovna
+- person: mkrtchyan-frunzik
+- person: chopra-prem
+- person: voinov-konstantin
+studio:
+- uzbekfilm

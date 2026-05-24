@@ -7,6 +7,30 @@ country:
 external_ids:
   wikidata: Q4410244
   imdb: tt0447516
+  youtube: fV0vGtigXTs
 sources:
 - https://www.wikidata.org/wiki/Q4410244
 schema_version: 1
+director:
+- rappaport-gerbert-moritsevich
+screenwriter:
+- leberekht-gans
+- german-yuriy-pavlovich
+cinematographer:
+- ivanov-sergey-vasilevich
+composer:
+- kapp-eugen
+- kyrver-boris-voldemarovich
+cast:
+- person: ots-georg-karlovich
+- person: rauer-evi
+- person: laur-khugo
+- person: tammur-ilmar
+- person: nuude-rudolf-aleksandrovich
+- person: randviyr-aleksandr-augustovich
+- person: kivilo-elmar-khansovich
+- person: tinn-olev-eduardovich
+- person: tern-valentina-georgievna
+studio:
+- lenfilm
+- tallinfilm

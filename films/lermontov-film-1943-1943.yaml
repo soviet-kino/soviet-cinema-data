@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15270708
 schema_version: 1
+director:
+- gendelshteyn-albert-aleksandrovich
+screenwriter:
+- paustovskiy-konstantin-georgievich
+cinematographer:
+- magidson-mark-pavlovich
+- shelenkov-aleksandr-vladimirovich
+composer:
+- prokofev-sergey-sergeevich
+- pushkov-venedikt-venediktovich
+cast:
+- person: konsovskiy-aleksey-anatolevich
+- person: massalskiy-pavel-vladimirovich
+- person: menglet-georgiy-pavlovich
+- person: shaternikova-nina-yakovlevna
+- person: gurnyak-karl-adamovich
+studio:
+- tadzhikfilm
+- soyuzdetfilm

@@ -1,0 +1,9 @@
+id: petrich-branka
+name_ru: Бранка Петрич
+roles:
+- actor
+external_ids:
+  wikidata: Q12749301
+sources:
+- https://www.wikidata.org/wiki/Q12749301
+schema_version: 1

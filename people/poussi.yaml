@@ -1,0 +1,9 @@
+id: poussi
+name_ru: Poussi
+roles:
+- actor
+external_ids:
+  wikidata: Q12199915
+sources:
+- https://www.wikidata.org/wiki/Q12199915
+schema_version: 1

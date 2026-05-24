@@ -8,6 +8,17 @@ runtime_min: 164
 external_ids:
   wikidata: Q4326520
   imdb: tt0307245
+  youtube: mckHGWSksi8
 sources:
 - https://www.wikidata.org/wiki/Q4326520
 schema_version: 1
+director:
+- gres-viktor-stepanovich
+screenwriter:
+- roshchin-mikhail-mikhaylovich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: koltakov-sergey-mikhaylovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

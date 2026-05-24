@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7970979
 schema_version: 1
+director:
+- rybkovskiy-yan
+screenwriter:
+- stanislav-ruzhevich
+- rybkovskiy-yan
+cinematographer:
+- antsuta-andzhey
+composer:
+- sikorskiy-kazimezh
+cast:
+- person: sempolinskiy-lyudvik
+- person: opalinskiy-kazimezh
+- person: shaflyarskaya-danuta
+- person: plyutsinskiy-tadeush
+- person: novak-yuzef
+- person: ordon-lekh
+- person: dushinskiy-ezhi
+- person: benua-lyudvik
+- person: kanevska-mariya
+- person: emil-karevich
+- person: pavlik-bronislav
+- person: pavlikovskiy-mechislav
+- person: mrozhevskiy-zdzislav
+- person: andrych-nina
+- person: yan-kurnakovich
+- person: gawronski-andrzej
+- person: tsetserskiy-yan
+- person: koecher-jan
+studio:
+- q9380470
+- film-polski

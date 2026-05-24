@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q531109
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- yancho-miklosh
+- khernadi-gyula
+cinematographer:
+- shomlo-tamash
+cast:
+- person: zoltan-latinovich
+- person: madarash-yozhef
+- person: gerbe-yanosh
+- person: avar-istvan
+- person: eze-layosh
+- person: kozak-andrash
+- person: agardi-gabor
+- person: molnar-tibor
+studio:
+- mafilm

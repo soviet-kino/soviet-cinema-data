@@ -1,0 +1,9 @@
+id: lang-otto
+name_ru: Отто Ланг
+roles:
+- actor
+external_ids:
+  wikidata: Q102363
+sources:
+- https://www.wikidata.org/wiki/Q102363
+schema_version: 1

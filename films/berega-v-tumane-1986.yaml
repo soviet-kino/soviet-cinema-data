@@ -8,6 +8,24 @@ runtime_min: 145
 external_ids:
   wikidata: Q4084208
   imdb: tt0088788
+  youtube: _ajzzEDxqio
 sources:
 - https://www.wikidata.org/wiki/Q4084208
 schema_version: 1
+director:
+- karasik-yuliy-yurevich
+screenwriter:
+- metalnikov-budimir-alekseevich
+composer:
+- butsko-yuriy-markovich
+cast:
+- person: danailov-stefan
+- person: filatov-leonid-alekseevich
+- person: kuznetsov-anatoliy
+- person: kupchenko-irina-petrovna
+- person: lukanov-boris
+- person: mladenov-lyubomir
+- person: batakliev-peter
+- person: dimitrova-tanya
+studio:
+- mosfilm

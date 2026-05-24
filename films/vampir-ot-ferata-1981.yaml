@@ -8,6 +8,40 @@ runtime_min: 93
 external_ids:
   wikidata: Q908750
   imdb: tt0083264
+  youtube: qMvsqaUdTGM
 sources:
 - https://www.wikidata.org/wiki/Q908750
 schema_version: 1
+director:
+- gerts-yuray
+screenwriter:
+- gerts-yuray
+- flyaysher-yan
+cinematographer:
+- valenta-richard
+composer:
+- gapka-petr
+cast:
+- person: gavlova-dagmar
+- person: menzel-jiri
+- person: gerts-yuray
+- person: olmer-vit
+- person: vondruska-pavel
+- person: chepek-petr
+- person: valeska-blanka
+- person: prochazkova-zdenka
+- person: ornest-zdenek
+- person: prochazka-borik
+- person: ratsek-ilya
+- person: shmid-yan
+- person: brezhkova-yana
+- person: pavlata-michal
+- person: mak-milan
+- person: stibich-miloslav
+- person: streda-miroslav
+- person: horankova-eva
+- person: vackova-daniela
+- person: cechovska-tatana
+- person: obrda-jan
+- person: kykalova-ebrova-miloslava
+poster_commons: SkodaFerat.jpg

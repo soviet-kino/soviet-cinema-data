@@ -1,0 +1,9 @@
+id: gorss-sol
+name_ru: Сол Горсс
+roles:
+- actor
+external_ids:
+  wikidata: Q7555529
+sources:
+- https://www.wikidata.org/wiki/Q7555529
+schema_version: 1

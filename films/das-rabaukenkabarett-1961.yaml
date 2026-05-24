@@ -10,3 +10,24 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56849103
 schema_version: 1
+director:
+- vallrot-verner-v
+screenwriter:
+- vallrot-verner-v
+cinematographer:
+- ost-gunter
+composer:
+- ortveyn-karl-ernst
+cast:
+- person: khofman-yutta
+- person: roysse-peter
+- person: shvil-ernst-georg
+- person: schafer-gerd-e
+- person: yungkhans-gyunter
+- person: yonishkan-khorst
+- person: zinderman-peter
+- person: khetterle-albert
+- person: papendiek-alexander
+- person: schulz-wittan-werner
+studio:
+- defa

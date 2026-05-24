@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q124400306
 schema_version: 1
+director:
+- grigorova-nushka
+cast:
+- person: doycheva-vancha
+- person: alamancheva-mariana
+- person: iliev-stefan
+studio:
+- bolgarskoe-natsionalnoe-televidenie

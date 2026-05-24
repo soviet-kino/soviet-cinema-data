@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4535969
 schema_version: 1
+director:
+- nikitchenko-vladimir-semyonovich
+- nikitchenko-ivan-semyonovich
+cinematographer:
+- kirillov-mikhail-nikolaevich
+- alekseev-konstantin-yakovlevich
+cast:
+- person: ashkenazi-david-vladimirovich
+studio:
+- soyuzdetfilm

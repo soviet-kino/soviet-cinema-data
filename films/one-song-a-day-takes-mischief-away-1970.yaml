@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7093213
 schema_version: 1
+director:
+- golik-kreso
+screenwriter:
+- golik-kreso
+- shkrabalo-ivo
+cinematographer:
+- rajkovic-ivica
+composer:
+- zhivan-tsvitkovich
+cast:
+- person: mia-oremovich
+- person: bashich-relya
+- person: maetich-frano
+- person: bohanec-mirjana

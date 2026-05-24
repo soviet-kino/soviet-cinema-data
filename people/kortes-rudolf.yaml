@@ -1,0 +1,9 @@
+id: kortes-rudolf
+name_ru: Рудольф Кортес
+roles:
+- actor
+external_ids:
+  wikidata: Q12050130
+sources:
+- https://www.wikidata.org/wiki/Q12050130
+schema_version: 1

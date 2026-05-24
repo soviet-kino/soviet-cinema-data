@@ -10,3 +10,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12144868
 schema_version: 1
+director:
+- kavaleridze-ivan-petrovich
+cinematographer:
+- topchiy-nikolay-pavlovich
+composer:
+- balanchivadze-andrey-melitonovich
+- tolstyakov-pavel-nilovich
+cast:
+- person: uzhviy-nataliya-mikhaylovna
+- person: serdyuk-aleksandr-ivanovich
+- person: tabachnikova-polina-moiseevna
+- person: tverdokhleb-ivan-iosifovich
+studio:
+- kinostudiya-imeni-a-dovzhenko

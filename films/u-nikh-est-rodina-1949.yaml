@@ -11,3 +11,23 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4468255
 schema_version: 1
+director:
+- fayntsimmer-aleksandr-mikhaylovich
+- legoshin-vladimir-grigorevich
+screenwriter:
+- mikhalkov-sergey-vladimirovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- khachaturyan-aram
+cast:
+- person: kadochnikov-pavel-petrovich
+- person: ranevskaya-faina-georgievna
+- person: smirnova-lidiya-nikolaevna
+- person: maretskaya-vera-petrovna
+- person: morgunov-evgeniy-aleksandrovich
+- person: astangov-mikhail-fyodorovich
+- person: sanaev-vsevolod-vasilevich
+- person: zashchipina-natalya-aleksandrovna
+studio:
+- kinostudiya-imeni-m-gorkogo

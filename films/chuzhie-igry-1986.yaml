@@ -8,6 +8,29 @@ runtime_min: 78
 external_ids:
   wikidata: Q16402375
   imdb: tt0275262
+  youtube: CWd3SsM_vvY
 sources:
 - https://www.wikidata.org/wiki/Q16402375
 schema_version: 1
+director:
+- oganesyan-nerses-gedeonovich
+screenwriter:
+- oganesyan-nerses-gedeonovich
+- levonyan-tigran
+- payazat-evert
+composer:
+- amirkhanyan-robert
+cast:
+- person: dzhigarkhanyan-armen-borisovich
+- person: dovlatyan-frunze
+- person: kotandzhyan-rafael-artyomovich
+- person: spivakova-sati
+- person: sarkisov-leonard-sarkisovich
+- person: tumanyan-alla
+- person: petrosyan-nonna
+- person: movsisyan-zhora
+- person: abramyan-levon
+- person: alaverdyan-genrikh
+- person: manukyan-artsrun
+studio:
+- armenfilm

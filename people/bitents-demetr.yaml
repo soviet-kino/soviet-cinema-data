@@ -1,0 +1,9 @@
+id: bitents-demetr
+name_ru: Деметр Битенц
+roles:
+- actor
+external_ids:
+  wikidata: Q1185395
+sources:
+- https://www.wikidata.org/wiki/Q1185395
+schema_version: 1

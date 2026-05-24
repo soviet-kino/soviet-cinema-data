@@ -7,6 +7,13 @@ country:
 external_ids:
   wikidata: Q16503598
   imdb: tt4533416
+  youtube: zTIYqYgJFQI
 sources:
 - https://www.wikidata.org/wiki/Q16503598
 schema_version: 1
+director:
+- nikiforov-vyacheslav
+cast:
+- person: kulish-tatyana-petrovna
+studio:
+- belarusfilm

@@ -1,0 +1,9 @@
+id: ras-eva
+name_ru: Ева Рас
+roles:
+- actor
+external_ids:
+  wikidata: Q468377
+sources:
+- https://www.wikidata.org/wiki/Q468377
+schema_version: 1

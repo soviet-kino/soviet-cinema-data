@@ -1,0 +1,9 @@
+id: rozhdestvenskaya-vera
+name_ru: Вера Рождественская
+roles:
+- director
+external_ids:
+  wikidata: Q131745531
+sources:
+- https://www.wikidata.org/wiki/Q131745531
+schema_version: 1

@@ -11,3 +11,40 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1194751
 schema_version: 1
+director:
+- koval-ota
+screenwriter:
+- khofman-ota
+cinematographer:
+- barla-andrej
+- dosoudil-pavel
+composer:
+- sluka-lubos
+cast:
+- person: fuchsova-zaneta
+- person: tuchnyy-mikhal
+- person: glattseder-vinfrid
+- person: sperling-kurt
+- person: brodska-tereza
+- person: shallerova-yaroslava
+- person: chepek-petr
+- person: kreuzmannova-alena
+- person: vavra-bogumil
+- person: gibner-boris
+- person: kaplanova-valerie
+- person: tyblova-veronika
+- person: hasek-vlastimil
+- person: andresikova-yana
+- person: tvrznikova-jaroslava
+- person: andrsova-jana
+- person: ployhar-david
+- person: tintera-tomas
+- person: hachle-pavel
+- person: q126884701
+- person: sedlakova-zdena
+- person: flakus-rudiger
+- person: triska-michal
+- person: janecek-martin
+studio:
+- barrandov
+- defa

@@ -8,6 +8,11 @@ runtime_min: 68
 external_ids:
   wikidata: Q111903280
   imdb: tt5559850
+  youtube: HSGVzTli6kI
 sources:
 - https://www.wikidata.org/wiki/Q111903280
 schema_version: 1
+director:
+- mirskiy-lev-solomonovich
+studio:
+- sverdlovskaya-kinostudiya

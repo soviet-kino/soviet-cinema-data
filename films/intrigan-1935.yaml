@@ -11,3 +11,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4202165
 schema_version: 1
+director:
+- urinov-yakov-isaakovich
+cast:
+- person: kulakov-viktor-ivanovich
+studio:
+- ukrainfilm

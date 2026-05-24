@@ -11,3 +11,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1003197
 schema_version: 1
+director:
+- zolnai-pal
+screenwriter:
+- kollo-miklos
+- zolnai-pal
+cinematographer:
+- ragay-elemer
+composer:
+- sebo-ferenc
+cast:
+- person: iglodi-ishtvan

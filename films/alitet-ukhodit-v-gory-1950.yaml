@@ -8,6 +8,19 @@ runtime_min: 100
 external_ids:
   wikidata: Q4062447
   imdb: tt0041110
+  youtube: IwcIbG1xJt0
 sources:
 - https://www.wikidata.org/wiki/Q4062447
 schema_version: 1
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- syomushkin-tikhon-zakharovich
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: abrikosov-andrey-lvovich
+studio:
+- kinostudiya-imeni-m-gorkogo

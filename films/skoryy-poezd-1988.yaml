@@ -8,6 +8,13 @@ runtime_min: 99
 external_ids:
   wikidata: Q4422409
   imdb: tt0178895
+  youtube: 5R4Wx5uIivo
 sources:
 - https://www.wikidata.org/wiki/Q4422409
 schema_version: 1
+director:
+- yashin-boris-vladimirovich
+cast:
+- person: mayorova-elena
+studio:
+- mosfilm

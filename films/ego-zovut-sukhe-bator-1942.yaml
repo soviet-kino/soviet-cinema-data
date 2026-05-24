@@ -7,6 +7,30 @@ country:
 external_ids:
   wikidata: Q4173637
   imdb: tt0035578
+  youtube: inJ-mKEIJT8
 sources:
 - https://www.wikidata.org/wiki/Q4173637
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+- kheyfits-iosif-efimovich
+screenwriter:
+- lapin-boris-matveevich
+- khatsrevin-zakhar-lvovich
+cinematographer:
+- ilich-gintsburg-aleksandr
+composer:
+- arapov-boris-aleksandrovich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: shtraukh-maksim-maksimovich
+- person: sverdlin-lev-naumovich
+- person: goldshtab-semyon-lvovich
+- person: gribkov-vladimir-vasilevich
+- person: tseveen-chimediyn
+- person: tsegmid-nyamyn
+- person: luvsandjamts-mindjuuriin
+- person: bold-mindzhuriyn
+studio:
+- lenfilm
+- mongolkino

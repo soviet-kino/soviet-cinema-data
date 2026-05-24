@@ -1,0 +1,9 @@
+id: maitre-bernard
+name_ru: Bernard Maître
+roles:
+- actor
+external_ids:
+  wikidata: Q111365402
+sources:
+- https://www.wikidata.org/wiki/Q111365402
+schema_version: 1

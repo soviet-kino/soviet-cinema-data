@@ -8,6 +8,17 @@ runtime_min: 96
 external_ids:
   wikidata: Q4158615
   imdb: tt0027509
+  youtube: ATMAEkOMwIk
 sources:
 - https://www.wikidata.org/wiki/Q4158615
 schema_version: 1
+director:
+- zarkhi-aleksandr-grigorevich
+screenwriter:
+- lyubashevskiy-leonid-solomonovich
+cinematographer:
+- kaplan-mikhail-grigorevich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+studio:
+- lenfilm

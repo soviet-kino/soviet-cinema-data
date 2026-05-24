@@ -8,6 +8,13 @@ runtime_min: 75
 external_ids:
   wikidata: Q65203381
   imdb: tt0286456
+  youtube: xl4a9LozJ8I
 sources:
 - https://www.wikidata.org/wiki/Q65203381
 schema_version: 1
+screenwriter:
+- mandzhiev-oleg-lidzhievich
+composer:
+- shut-vladislav-alekseevich
+studio:
+- mosfilm

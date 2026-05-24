@@ -10,3 +10,14 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q66547421
 schema_version: 1
+director:
+- matveev-evgeniy-semyonovich
+screenwriter:
+- markov-sergey-alekseevich
+composer:
+- ptichkin-evgeniy
+cast:
+- person: ostroumova-olga-mikhaylovna
+- person: matveev-evgeniy-semyonovich
+studio:
+- mosfilm

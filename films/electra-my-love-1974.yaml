@@ -11,3 +11,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q5357217
 schema_version: 1
+director:
+- yancho-miklosh
+screenwriter:
+- khernadi-gyula
+- dyurko-laslo
+cinematographer:
+- kende-yanosh
+composer:
+- chekh-tamash
+cast:
+- person: madarash-yozhef
+- person: tyoryochik-mari
+- person: balazhovits-layosh
+- person: cherkhalmi-dyord
+- person: veletskiy-frantishek
+studio:
+- mafilm

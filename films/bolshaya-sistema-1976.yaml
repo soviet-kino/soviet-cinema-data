@@ -11,3 +11,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4274051
 schema_version: 1
+director:
+- piotrovskiy-andzhey-ezhi
+screenwriter:
+- kubikowski-zbigniew
+cinematographer:
+- ramlau-andzhey
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: zigmunt-malyanovich
+- person: braunek-malgozhata
+- person: zakzhenskiy-yanush-stanislav
+- person: endryka-ioanna
+- person: petrashak-leonard
+- person: shalyavskiy-andzhey
+- person: kurylyuk-yadviga
+- person: kleydysh-mariya
+- person: kolavskaya-anna
+- person: khzhanovskiy-andzhey
+- person: vyshinskiy-stanislav
+- person: kussyk-cezary
+studio:
+- pryzmat

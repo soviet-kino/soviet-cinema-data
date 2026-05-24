@@ -11,3 +11,21 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q203102
 schema_version: 1
+director:
+- vallrot-verner-v
+cinematographer:
+- braumann-wolfgang
+composer:
+- rabenalt-peter
+cast:
+- person: brunner-angela
+- person: delmare-fred
+- person: nolze-kurt
+- person: khoffmann-daniela
+- person: abesser-doris
+- person: klyayn-erik-zigfrid
+- person: shrayber-khelmut
+- person: vyunsher-marianna
+- person: zieler-thomas
+- person: tserbe-uve
+- person: lirk-verner

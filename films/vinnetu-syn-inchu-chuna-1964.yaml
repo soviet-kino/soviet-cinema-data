@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q521876
 schema_version: 1
+director:
+- raynl-kharald
+screenwriter:
+- petersson-kharald-g
+cinematographer:
+- kalinke-ernst-vilgelm
+composer:
+- byottkher-martin
+cast:
+- person: kinski-klaus
+- person: dor-karin
+- person: arent-eddi
+- person: shyurenberg-zigfrid
+- person: jurichs-claus
+- person: khill-terens
+- person: stil-entoni
+- person: stol-arandzhelovich
+- person: frank-khorst
+- person: nalis-antun
+- person: barker-leks
+- person: bris-per
+- person: mitich-goyko
+- person: khitil-velemir
+- person: akkerman-kurt
+- person: duwner-gerd
+- person: boman-mirko
+- person: ivezich-iliya
+- person: latwesen-klaus-hagen
+- person: baldini-renato
+- person: nenadovic-or-e
+studio:
+- rialto-film

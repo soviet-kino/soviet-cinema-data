@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4153578
 schema_version: 1
+director:
+- bek-nazarov-amo
+screenwriter:
+- bek-nazarov-amo
+- dukor-yakov-aronovich
+- artutyunyan-sagatel
+cinematographer:
+- beknazaryan-garush
+composer:
+- satyan-ashot
+cast:
+- person: samoylov-evgeniy-valerianovich
+- person: avetisyan-avet
+- person: sverdlin-lev-naumovich
+- person: nersesyan-rachiya
+- person: abelyan-ovanes
+- person: perestiani-ivan-nikolaevich
+- person: avetyan-grigor
+- person: asmik
+- person: asryan-arus
+- person: dovlatyan-frunze
+- person: ershov-vladimir-lvovich
+- person: malyan-david
+- person: kotikyan-arman
+- person: kostanyan-murad
+- person: makhmuryan-tatyana
+- person: zorabyan-levon
+- person: ayvazyan-tigran
+- person: marguni-vaginak
+- person: pogosyan-david
+studio:
+- armenfilm

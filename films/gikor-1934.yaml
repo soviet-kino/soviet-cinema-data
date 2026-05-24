@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16376662
 schema_version: 1
+director:
+- martirosyan-amasiy
+cinematographer:
+- beknazaryan-garush
+cast:
+- person: avetisyan-avet
+- person: nersesyan-rachiya
+- person: asmik
+studio:
+- armenfilm

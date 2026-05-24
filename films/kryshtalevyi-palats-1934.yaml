@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q139575528
 schema_version: 1
+director:
+- gricher-cherikover-grigoriy-zinovevich
+cast:
+- person: shagayda-stepan-vasilevich
+- person: kaniansky-pavol
+- person: terekhov-gavriil

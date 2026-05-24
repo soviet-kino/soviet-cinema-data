@@ -1,0 +1,9 @@
+id: vidov-tomo
+name_ru: Томо Видов
+roles:
+- actor
+external_ids:
+  wikidata: Q56737586
+sources:
+- https://www.wikidata.org/wiki/Q56737586
+schema_version: 1

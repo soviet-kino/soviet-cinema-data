@@ -11,3 +11,31 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q762455
 schema_version: 1
+director:
+- wajda-andrzej
+screenwriter:
+- wajda-andrzej
+- brandys-kazimezh
+cinematographer:
+- vuychik-ezhi
+composer:
+- berd-tadeush
+cast:
+- person: polanski-roman
+- person: vuytsik-magda-teresa
+- person: khyubner-zigmunt
+- person: beata-tyshkevich
+- person: kristina-zakhvatovich
+- person: merlen-serzh
+- person: krupska-tyszkiewicz-beata
+- person: bonk-khenrik
+- person: kempinskaya-elzhbeta
+- person: netto-irena
+- person: fetting-edmund
+- person: yanovskaya-alina
+- person: kherder-andzhey
+- person: bartosik-tadeusz
+- person: kovalskiy-vladislav
+- person: tsetserskiy-yan
+studio:
+- studio-filmowe-kadr

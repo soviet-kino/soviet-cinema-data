@@ -8,6 +8,21 @@ runtime_min: 83
 external_ids:
   wikidata: Q17512767
   imdb: tt0038811
+  youtube: x7teeZ5YlS0
 sources:
 - https://www.wikidata.org/wiki/Q17512767
 schema_version: 1
+director:
+- medvedkin-aleksandr-ivanovich
+cinematographer:
+- lebeshev-timofey-pavlovich
+composer:
+- pototskiy-sergey-ivanovich
+cast:
+- person: altayskaya-vera-vladimirovna
+- person: vanin-vasiliy-vasilevich
+- person: kalinin-sergey-ivanovich
+- person: khvylya-aleksandr-leopoldovich
+- person: tsesarskaya-emma-vladimirovna
+studio:
+- sverdlovskaya-kinostudiya

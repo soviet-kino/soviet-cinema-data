@@ -8,6 +8,19 @@ runtime_min: 78
 external_ids:
   wikidata: Q4517618
   imdb: tt0233453
+  youtube: JPuwOzW8AX0
 sources:
 - https://www.wikidata.org/wiki/Q4517618
 schema_version: 1
+director:
+- medvedkin-aleksandr-ivanovich
+screenwriter:
+- medvedkin-aleksandr-ivanovich
+cinematographer:
+- geleyn-igor-vladimirovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: bokaryova-zinaida-alekseevna
+studio:
+- mosfilm

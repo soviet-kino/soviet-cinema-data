@@ -8,6 +8,18 @@ runtime_min: 80
 external_ids:
   wikidata: Q4417231
   imdb: tt0038533
+  youtube: yVSZ42kfrbg
 sources:
 - https://www.wikidata.org/wiki/Q4417231
 schema_version: 1
+director:
+- yudin-konstantin-konstantinovich
+screenwriter:
+- fayko-aleksey-mikhaylovich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: serova-valentina-vasilevna
+studio:
+- mosfilm
+poster_commons: 4 hearts.jpg

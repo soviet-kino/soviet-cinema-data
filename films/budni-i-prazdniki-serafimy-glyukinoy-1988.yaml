@@ -7,6 +7,15 @@ country:
 external_ids:
   wikidata: Q4098141
   imdb: tt1407957
+  youtube: gQzar0zXFlM
 sources:
 - https://www.wikidata.org/wiki/Q4098141
 schema_version: 1
+director:
+- goryaev-rostislav-arkadevich
+cinematographer:
+- makeranets-vladimir
+cast:
+- person: freyndlikh-alisa
+studio:
+- sverdlovskaya-kinostudiya

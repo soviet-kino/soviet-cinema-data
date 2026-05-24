@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q20819883
 schema_version: 1
+director:
+- cserepy-laszlo
+cinematographer:
+- barnabash-khedi
+composer:
+- fenesh-sabolch

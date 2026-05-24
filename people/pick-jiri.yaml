@@ -1,0 +1,9 @@
+id: pick-jiri
+name_ru: Jiří Pick
+roles:
+- actor
+external_ids:
+  wikidata: Q19941709
+sources:
+- https://www.wikidata.org/wiki/Q19941709
+schema_version: 1

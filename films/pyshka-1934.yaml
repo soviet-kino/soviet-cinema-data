@@ -8,6 +8,26 @@ runtime_min: 70
 external_ids:
   wikidata: Q331606
   imdb: tt0025691
+  youtube: JAs_qnErU24
 sources:
 - https://www.wikidata.org/wiki/Q331606
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- romm-mikhail-ilich
+cinematographer:
+- volchek-boris-izrailevich
+composer:
+- chulaki-mikhail-ivanovich
+cast:
+- person: ranevskaya-faina-georgievna
+- person: fayt-andrey-andreevich
+- person: sergeeva-galina-ermolaevna
+- person: goryunov-anatoliy-iosifovich
+- person: okunevskaya-tatyana-kirillovna
+- person: repnin-pyotr-petrovich
+- person: osenev-vladimir-ivanovich
+- person: gurnyak-karl-adamovich
+studio:
+- mosfilm

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184393
 schema_version: 1
+director:
+- burek-zlatko
+cast:
+- person: dzhuvalekovski-iliya
+- person: shtefanchich-vlado
+- person: khershak-zdenka
+- person: dulcic-ante

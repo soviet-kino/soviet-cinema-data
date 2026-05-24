@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7729562
 schema_version: 1
+director:
+- khadzhich-fadil
+screenwriter:
+- khadzhich-fadil
+composer:
+- kalodzhera-nikitsa
+cast:
+- person: armenulich-silvana
+- person: balokh-mikha
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: dvornik-boris
+- person: ivezich-iliya
+- person: cheyvan-adem
+- person: lepetich-zvonko
+- person: maetich-frano
+- person: serdar-ivo
+studio:
+- film-authors-studio

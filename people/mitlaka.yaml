@@ -1,0 +1,9 @@
+id: mitlaka
+name_ru: Mitlaka
+roles:
+- actor
+external_ids:
+  wikidata: Q133307359
+sources:
+- https://www.wikidata.org/wiki/Q133307359
+schema_version: 1

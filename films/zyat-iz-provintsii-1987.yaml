@@ -8,6 +8,13 @@ runtime_min: 62
 external_ids:
   wikidata: Q111733632
   imdb: tt0094392
+  youtube: MiJrmvvCSX0
 sources:
 - https://www.wikidata.org/wiki/Q111733632
 schema_version: 1
+director:
+- narymbetov-satybaldy-zhalelovich
+screenwriter:
+- narymbetov-satybaldy-zhalelovich
+studio:
+- kazakhfilm

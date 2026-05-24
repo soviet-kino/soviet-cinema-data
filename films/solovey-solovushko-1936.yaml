@@ -8,6 +8,20 @@ runtime_min: 105
 external_ids:
   wikidata: Q4150644
   imdb: tt0027703
+  youtube: Sga8r5uMfTs
 sources:
 - https://www.wikidata.org/wiki/Q4150644
 schema_version: 1
+director:
+- ekk-nikolay-vladimirovich
+screenwriter:
+- ekk-nikolay-vladimirovich
+cinematographer:
+- provorov-fyodor
+composer:
+- stollyar-yakov-efimovich
+cast:
+- person: ivashyova-valentina-semyonovna
+- person: maksimova-elena
+studio:
+- mezhrabpomfilm

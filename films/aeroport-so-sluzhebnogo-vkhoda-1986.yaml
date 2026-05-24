@@ -8,6 +8,11 @@ runtime_min: 91
 external_ids:
   wikidata: Q63844302
   imdb: tt0090596
+  youtube: Jz-h65_4yog
 sources:
 - https://www.wikidata.org/wiki/Q63844302
 schema_version: 1
+director:
+- yashin-boris-vladimirovich
+studio:
+- mosfilm

@@ -8,6 +8,27 @@ runtime_min: 99
 external_ids:
   wikidata: Q2071987
   imdb: tt0037589
+  youtube: spAMLtEK93k
 sources:
 - https://www.wikidata.org/wiki/Q2071987
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- romm-mikhail-ilich
+- evgeniy-iosifovich-gabrilovich
+cinematographer:
+- volchek-boris-izrailevich
+- saveleva-era-mikhaylovna
+composer:
+- khachaturyan-aram
+cast:
+- person: grayf-genrikh
+- person: kuzmina-elena-aleksandrovna
+- person: morgunov-evgeniy-aleksandrovich
+- person: zaychikov-vasiliy-fyodorovich
+- person: komissarov-nikolay-valerianovich
+- person: lisyanskaya-anna-grigorevna
+studio:
+- mosfilm
+- uzbekfilm

@@ -11,3 +11,6 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q6004815
 schema_version: 1
+director:
+- mettsig-kurt
+- pappe-feodor

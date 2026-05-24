@@ -7,6 +7,19 @@ country:
 external_ids:
   wikidata: Q4386164
   imdb: tt0218534
+  youtube: rz0upt_pfKo
 sources:
 - https://www.wikidata.org/wiki/Q4386164
 schema_version: 1
+director:
+- gamburg-efim
+screenwriter:
+- valutskiy-vladimir-ivanovich
+cinematographer:
+- druyan-mikhail
+composer:
+- smeyan-pavel
+- kelmi-kris
+- oppengeym-boris-rafailovich
+studio:
+- soyuzmultfilm

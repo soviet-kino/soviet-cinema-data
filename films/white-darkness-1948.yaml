@@ -8,6 +8,46 @@ runtime_min: 102
 external_ids:
   wikidata: Q106701245
   imdb: tt0040164
+  youtube: mCy3XuRX2ow
 sources:
 - https://www.wikidata.org/wiki/Q106701245
 schema_version: 1
+director:
+- chap-frantishek
+screenwriter:
+- lahola-leopold
+- chap-frantishek
+cinematographer:
+- gunka-vatslav
+composer:
+- srnka-irzhi
+cast:
+- person: ozabal-ludovit
+- person: andreev-boris-fyodorovich
+- person: khudik-ladislav
+- person: pantik-yulius
+- person: deyl-rudolf
+- person: zachar-karol
+- person: lukavskiy-radovan
+- person: medrzhitskaya-dana
+- person: valakh-gustav
+- person: budskiy-yozef
+- person: dibarbora-frantishek
+- person: kovarik-frantisek
+- person: zaborsky-viliam
+- person: salac-vladimir
+- person: struna-ladislav-kh
+- person: tyapak-martin
+- person: tanska-natasa
+- person: bartfay-yulius
+- person: durdik-vladimir
+- person: hodr-zdenek
+- person: prechovska-maria
+- person: figura-stefan
+- person: sykorova-olga
+- person: koren-branislav
+- person: st-yuray-pashka
+- person: sandor-jozef
+- person: sebok-juraj
+- person: paska-m
+- person: kovac-jozef

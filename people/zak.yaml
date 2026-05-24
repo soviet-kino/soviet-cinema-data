@@ -1,0 +1,9 @@
+id: zak
+name_ru: Žák
+roles:
+- actor
+external_ids:
+  wikidata: Q133572497
+sources:
+- https://www.wikidata.org/wiki/Q133572497
+schema_version: 1

@@ -11,3 +11,18 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4427590
 schema_version: 1
+director:
+- zazhitskiy-ezhi
+screenwriter:
+- pshibora-eremi
+cinematographer:
+- antoni-voytovich
+composer:
+- vislotskiy-stanislav
+cast:
+- person: kvyatkovskaya-irena
+- person: kvyatkovskaya-lass-barbara
+- person: fievskiy-tadeush
+- person: gogolevskiy-ignatsy
+studio:
+- syrena-kinostudiya

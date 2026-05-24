@@ -11,3 +11,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11816714
 schema_version: 1
+director:
+- rybkovskiy-yan
+screenwriter:
+- hamera-bogdan
+cinematographer:
+- forbert-vladislav
+composer:
+- sikorskiy-kazimezh
+cast:
+- person: tsetserskiy-yan
+studio:
+- q9380470

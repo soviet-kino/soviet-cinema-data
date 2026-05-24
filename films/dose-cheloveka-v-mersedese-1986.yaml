@@ -8,6 +8,14 @@ runtime_min: 135
 external_ids:
   wikidata: Q4167311
   imdb: tt0090959
+  youtube: jGCflbZg_Qo
 sources:
 - https://www.wikidata.org/wiki/Q4167311
 schema_version: 1
+director:
+- nikolaenko-georgiy-mikhaylovich
+cast:
+- person: adomaytis-regimantas
+- person: chursina-lyudmila-alekseevna
+studio:
+- kinostudiya-imeni-m-gorkogo

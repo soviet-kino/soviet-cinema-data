@@ -8,6 +8,19 @@ runtime_min: 98
 external_ids:
   wikidata: Q106765274
   imdb: tt0174026
+  youtube: B8-z1um3V1k
 sources:
 - https://www.wikidata.org/wiki/Q106765274
 schema_version: 1
+director:
+- okeev-tolomush-okeevich
+screenwriter:
+- zulfikarov-timur-kasimovich
+- okeev-tolomush-okeevich
+cinematographer:
+- borbiev-nurtay
+composer:
+- vildanov-rumil-dzhiangirovich
+studio:
+- kyrgyzfilm
+- tadzhikfilm

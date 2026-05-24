@@ -10,3 +10,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q123464110
 schema_version: 1
+director:
+- gaal-albert
+cast:
+- person: besseniey-ferents

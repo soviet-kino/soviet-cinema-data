@@ -11,3 +11,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12748779
 schema_version: 1
+director:
+- maricic-milenko
+cast:
+- person: milena-dravich
+- person: plesha-branko

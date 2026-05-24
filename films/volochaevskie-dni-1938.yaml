@@ -8,6 +8,22 @@ runtime_min: 102
 external_ids:
   wikidata: Q4124053
   imdb: tt0030949
+  youtube: mY6fTzeI1Zk
 sources:
 - https://www.wikidata.org/wiki/Q4124053
 schema_version: 1
+director:
+- vasilev-sergey-dmitrievich
+- vasilev-georgiy-nikolaevich
+screenwriter:
+- vasilevy-bratya
+cinematographer:
+- sigaev-aleksandr-ivanovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: myasnikova-varvara-sergeevna
+- person: sverdlin-lev-naumovich
+- person: dorokhin-nikolay-ivanovich
+studio:
+- lenfilm

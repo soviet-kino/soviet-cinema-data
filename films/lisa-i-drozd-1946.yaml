@@ -8,6 +8,16 @@ runtime_min: 15
 external_ids:
   wikidata: Q15270718
   imdb: tt3254786
+  youtube: MlCySg-txpA
 sources:
 - https://www.wikidata.org/wiki/Q15270718
 schema_version: 1
+director:
+- ivanov-aleksandr-vasilevich
+screenwriter:
+- grebner-georgiy-eduardovich
+cinematographer:
+- voinov-nikolay-vasilevich
+studio:
+- soyuzmultfilm
+poster_commons: Fox and thrush (1946).jpg

@@ -1,0 +1,9 @@
+id: meister-karel
+name_ru: Karel Meister
+roles:
+- actor
+external_ids:
+  wikidata: Q101112602
+sources:
+- https://www.wikidata.org/wiki/Q101112602
+schema_version: 1

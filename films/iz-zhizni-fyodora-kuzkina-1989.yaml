@@ -8,6 +8,17 @@ runtime_min: 182
 external_ids:
   wikidata: Q4198244
   imdb: tt0097602
+  youtube: dtJWkPqF_qw
 sources:
 - https://www.wikidata.org/wiki/Q4198244
 schema_version: 1
+director:
+- rostotskiy-stanislav-iosifovich
+screenwriter:
+- rostotskiy-stanislav-iosifovich
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: susnin-aleksandr
+studio:
+- kinostudiya-imeni-m-gorkogo

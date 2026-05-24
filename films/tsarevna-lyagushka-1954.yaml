@@ -8,6 +8,15 @@ runtime_min: 40
 external_ids:
   wikidata: Q16029478
   imdb: tt3065832
+  youtube: leS1K4P_h_s
 sources:
 - https://www.wikidata.org/wiki/Q16029478
 schema_version: 1
+director:
+- tsekhanovskiy-mikhail-mikhaylovich
+screenwriter:
+- volpin-mikhail-davydovich
+composer:
+- levitin-yuriy
+studio:
+- soyuzmultfilm

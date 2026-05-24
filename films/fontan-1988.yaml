@@ -11,3 +11,19 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4491749
 schema_version: 1
+director:
+- mamin-yuriy-borisovich
+screenwriter:
+- vardunas-vladimir-arkadevich
+cinematographer:
+- lapshov-anatoliy
+cast:
+- person: dreyden-sergey-simonovich
+- person: zalivalov-aleksey-georgievich
+- person: kerimtaeva-zhanna-isaevna
+- person: mikhaylov-viktor-petrovich
+- person: usatova-nina-nikolaevna
+- person: kuttubaev-asankul
+- person: kalmykov-anatoliy-egorovich
+studio:
+- lenfilm

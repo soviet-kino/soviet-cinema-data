@@ -10,3 +10,15 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11800628
 schema_version: 1
+director:
+- oblamskiy-ezhi
+screenwriter:
+- mulyarchuk-andzhey
+cinematographer:
+- mohylnytsky-ivan
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: zbignev-zapasevich
+studio:
+- zespol-filmowy-x

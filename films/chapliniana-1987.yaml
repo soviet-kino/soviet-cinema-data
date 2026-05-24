@@ -11,3 +11,16 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15732538
 schema_version: 1
+director:
+- belinskiy-aleksandr-arkadevich
+screenwriter:
+- belinskiy-aleksandr-arkadevich
+cinematographer:
+- marandzhyan-genrikh-saakovich
+composer:
+- chaplin-charli
+cast:
+- person: maksimova-ekaterina-sergeevna
+- person: abaydulov-gali-myagazovich
+studio:
+- lenfilm

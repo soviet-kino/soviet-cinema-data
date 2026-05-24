@@ -8,6 +8,20 @@ runtime_min: 73
 external_ids:
   wikidata: Q4261614
   imdb: tt0093419
+  youtube: U09BzD3hxvU
 sources:
 - https://www.wikidata.org/wiki/Q4261614
 schema_version: 1
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- bulychyov-kir
+composer:
+- krylatov-evgeniy
+cast:
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: guseva-nataliya
+- person: baranov-vyacheslav-vasilevich
+- person: shcherbakov-boris-vasilevich
+studio:
+- kinostudiya-imeni-m-gorkogo

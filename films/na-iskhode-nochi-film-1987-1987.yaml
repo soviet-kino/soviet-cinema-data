@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q131908243
 schema_version: 1
+director:
+- nakhapetov-rodion-rafailovich
+screenwriter:
+- talankin-igor-vasilevich
+- rudnev-oleg-aleksandrovich
+cinematographer:
+- shevtsik-vladimir-karlovich
+composer:
+- sergey-petrovich-banevich
+cast:
+- person: smoktunovskiy-innokentiy-mikhaylovich
+- person: banionis-donatas-yuozovich
+- person: savichenko-nele
+- person: sabulis-remigiyus
+studio:
+- mosfilm
+- defa

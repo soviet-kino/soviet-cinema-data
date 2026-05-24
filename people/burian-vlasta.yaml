@@ -1,0 +1,9 @@
+id: burian-vlasta
+name_ru: Власта Буриан
+roles:
+- actor
+external_ids:
+  wikidata: Q1350633
+sources:
+- https://www.wikidata.org/wiki/Q1350633
+schema_version: 1

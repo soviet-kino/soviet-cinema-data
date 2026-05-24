@@ -8,6 +8,46 @@ runtime_min: 84
 external_ids:
   wikidata: Q4413295
   imdb: tt0175148
+  youtube: O6tcm9ejFgE
 sources:
 - https://www.wikidata.org/wiki/Q4413295
 schema_version: 1
+director:
+- romm-mikhail-ilich
+screenwriter:
+- maklyarskiy-mikhail-borisovich
+- isaev-konstantin-fyodorovich
+cinematographer:
+- volchek-boris-izrailevich
+- renkov-nikolay-stepanovich
+composer:
+- khachaturyan-aram
+cast:
+- person: antonov-aleksandr-pavlovich
+- person: kuzmina-elena-aleksandrovna
+- person: gardin-vladimir-rostislavovich
+- person: morgunov-evgeniy-aleksandrovich
+- person: belokurov-vladimir-vyacheslavovich
+- person: vecheslov-sergey-mikhaylovich
+- person: gaydeburov-pavel-pavlovich
+- person: georgiu-georgiy-aleksandrovich
+- person: gotovtsev-vladimir-vasilevich
+- person: gribov-aleksey-nikolaevich
+- person: komissarov-nikolay-valerianovich
+- person: makarov-vasiliy-ivanovich
+- person: pelevin-aleksandr-aleksandrovich
+- person: pertsovskiy-mark-naumovich
+- person: petker-boris-yakovlevich
+- person: savelev-vladimir-dmitrievich
+- person: svetlovidov-nikolay-afanasevich
+- person: svobodin-nikolay-kapitonovich
+- person: solovyov-ivan-ivanovich
+- person: timofeev-nikolay-dmitrievich
+- person: trofimov-nikolay-nikolaevich
+- person: fenin-lev-aleksandrovich
+- person: khokhlov-aleksandr-evgenevich
+- person: cheban-aleksandr-ivanovich
+- person: yanshin-mikhail-mikhaylovich
+- person: rybnikov-nikolay-nikolaevich-2
+studio:
+- mosfilm

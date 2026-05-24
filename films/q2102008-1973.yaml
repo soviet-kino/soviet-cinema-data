@@ -11,3 +11,13 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2102008
 schema_version: 1
+director:
+- seibert-heinz
+cinematographer:
+- khaymann-gyunter
+composer:
+- behrsing-hartmut
+cast:
+- person: raynike-gans-peter
+- person: frorip-yurgen
+- person: rucker-alfred

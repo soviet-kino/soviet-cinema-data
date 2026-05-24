@@ -11,3 +11,25 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4274136
 schema_version: 1
+director:
+- wajda-andrzej
+screenwriter:
+- lem-stanislav
+cinematographer:
+- zdort-wies-aw
+composer:
+- markovskiy-andzhey
+cast:
+- person: zelnik-ezhi
+- person: prutsnal-anna
+- person: kobelya-bogumil
+- person: plyutsinskiy-tadeush
+- person: filipskiy-ryshard
+- person: piszczatowski-andrzej
+- person: uilk-zherar
+- person: dederko-vitold
+- person: rajewski-wojciech
+- person: vysotski-petr
+- person: q130457936
+studio:
+- polskoe-televidenie

@@ -8,6 +8,55 @@ runtime_min: 136
 external_ids:
   wikidata: Q1165071
   imdb: tt0083789
+  youtube: u-b7Rtu-nuk
 sources:
 - https://www.wikidata.org/wiki/Q1165071
 schema_version: 1
+director:
+- wajda-andrzej
+screenwriter:
+- wajda-andrzej
+- kholland-agneshka
+- karrer-zhan-klod
+- pshibyshevskaya-stanislava
+- mikhalek-boleslav
+cinematographer:
+- lyuter-igor
+composer:
+- prodromides-zhan
+cast:
+- person: linda-boguslav
+- person: vinkler-angela
+- person: depardyo-zherar
+- person: vilre-zhak
+- person: pshonyak-voytsekh
+- person: shero-patris
+- person: planshon-rozhe
+- person: alvaro-ann
+- person: severin-andzhey
+- person: zayonchkovskaya-malgozhata
+- person: staroveyskiy-frantsishek
+- person: kondrat-marek
+- person: mace-alain
+- person: gattmen-ronald
+- person: volleyko-cheslav
+- person: pengern-artyus-de
+- person: blansh-rolan
+- person: merlen-serzh
+- person: iordanov-vladimir
+- person: kotsinyak-marian
+- person: petrashak-leonard
+- person: trelya-ezhi
+- person: khuk-tadeush
+- person: globish-kshishtof
+- person: privezentsev-eugeniush
+- person: novyashek-ervin
+- person: zhober-stefan
+- person: debever-emmanuel
+- person: hardy-gerard
+- person: melki-lucien
+- person: wolff-jean-loup
+- person: maitre-bernard
+- person: zaleski-szymon
+studio:
+- les-films-du-losange

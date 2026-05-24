@@ -1,0 +1,9 @@
+id: pravda-khana-mariya
+name_ru: Хана Мария Правда
+roles:
+- actor
+external_ids:
+  wikidata: Q5646782
+sources:
+- https://www.wikidata.org/wiki/Q5646782
+schema_version: 1

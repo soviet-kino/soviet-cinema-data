@@ -11,3 +11,30 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7429555
 schema_version: 1
+director:
+- gerts-yuray
+screenwriter:
+- hrabal-bohumil
+- gerts-yuray
+cinematographer:
+- milich-rudolf
+composer:
+- lishka-zdenek
+cast:
+- person: tsvrchek-radim
+- person: paleckova-libuse
+- person: gubel-ivo
+- person: q95388528
+- person: halama-vaclav
+- person: soldat-vaclav
+- person: vlckova-ruzena
+- person: vlcek-jan
+- person: novotna-olga
+- person: pelikan-frantisek
+- person: klicnikova-ivana
+- person: dimitrov-antonin
+- person: marsatova-bobina
+- person: vesely-karel-3
+- person: pokorna-vera
+studio:
+- barrandov

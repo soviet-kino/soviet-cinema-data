@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q132861849
 schema_version: 1
+director:
+- keleti-marton
+cast:
+- person: kabosh-gyula
+- person: barshoni-rozi
+- person: dayka-margit
+- person: radzhnay-gabor

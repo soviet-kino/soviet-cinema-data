@@ -10,3 +10,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q47511889
 schema_version: 1
+director:
+- felzenshteyn-valter
+cinematographer:
+- merz-otto-2
+composer:
+- offenbakh-zhak
+studio:
+- defa

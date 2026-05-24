@@ -1,0 +1,9 @@
+id: olti-magda
+name_ru: Магда Ольти
+roles:
+- actor
+external_ids:
+  wikidata: Q426017
+sources:
+- https://www.wikidata.org/wiki/Q426017
+schema_version: 1

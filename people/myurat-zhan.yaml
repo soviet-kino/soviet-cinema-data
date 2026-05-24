@@ -1,0 +1,9 @@
+id: myurat-zhan
+name_ru: Жан Мюрат
+roles:
+- actor
+external_ids:
+  wikidata: Q1340978
+sources:
+- https://www.wikidata.org/wiki/Q1340978
+schema_version: 1

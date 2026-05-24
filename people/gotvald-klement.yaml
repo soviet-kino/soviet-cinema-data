@@ -1,0 +1,9 @@
+id: gotvald-klement
+name_ru: Клемент Готвальд
+roles:
+- actor
+external_ids:
+  wikidata: Q296054
+sources:
+- https://www.wikidata.org/wiki/Q296054
+schema_version: 1

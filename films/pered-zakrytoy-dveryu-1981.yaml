@@ -11,3 +11,17 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12837493
 schema_version: 1
+director:
+- ogly-odzhagov-rasim-mirkasum
+screenwriter:
+- ibragimbekov-rustam
+cinematographer:
+- kambarov-rafail-alievich
+composer:
+- sabitoglu-emin
+cast:
+- person: kyzy-zeynalova-nasiba-dzhakhangir
+- person: kalyagin-aleksandr-aleksandrovich
+- person: nakhapetov-rodion-rafailovich
+studio:
+- azerbaydzhanfilm

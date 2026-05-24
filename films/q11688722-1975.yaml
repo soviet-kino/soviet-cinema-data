@@ -10,3 +10,26 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q11688722
 schema_version: 1
+director:
+- pivovskiy-marek
+composer:
+- zawierski-jan
+cast:
+- person: fronchevskiy-pyotr
+- person: zbignev-zapasevich
+- person: novitskiy-yan
+- person: himilsbach-jan
+- person: plotnitskiy-boleslav
+- person: zolkovska-dzhoanna
+- person: kaminskiy-eugenyush
+- person: maykhzhak-kshishtof
+- person: glinka-marian
+- person: roshkovskiy-cheslav
+- person: milde-prus-ewa
+- person: malinich-zofya
+- person: sviderskiy-yan
+- person: lyamzha-ioakhim
+- person: sventokhovskiy-kshishtof
+- person: khvalibog-mariya
+studio:
+- polskoe-televidenie

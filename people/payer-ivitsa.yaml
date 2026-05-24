@@ -1,0 +1,9 @@
+id: payer-ivitsa
+name_ru: Ивица Пайер
+roles:
+- actor
+external_ids:
+  wikidata: Q21403318
+sources:
+- https://www.wikidata.org/wiki/Q21403318
+schema_version: 1

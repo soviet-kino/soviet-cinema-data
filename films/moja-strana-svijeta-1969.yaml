@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q27308850
 schema_version: 1
+cast:
+- person: olivera-markovich
+- person: zigon-jelena
+- person: zaric-dragan
+- person: begolli-faruk
+- person: hajdarhodzic-izet

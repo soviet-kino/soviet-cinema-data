@@ -10,3 +10,8 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q3397827
 schema_version: 1
+director:
+- tsenevski-kiril
+cast:
+- person: vuisich-pavle
+- person: mirich-voyya

@@ -10,3 +10,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q16418316
 schema_version: 1
+director:
+- kuliev-aga-rza
+cinematographer:
+- ogly-dadashev-mukhtar-baba
+cast:
+- person: ogly-efendiev-ismail-makhmud

@@ -10,3 +10,10 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12750688
 schema_version: 1
+director:
+- kadijevic-or-e
+cast:
+- person: cipranic-ljubomir
+- person: slobodan-perovich
+- person: kriticheski-liliana
+- person: neda-spasoevich

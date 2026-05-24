@@ -8,6 +8,15 @@ runtime_min: 45
 external_ids:
   wikidata: Q108670833
   imdb: tt4001094
+  youtube: HT6bmlQXojE
 sources:
 - https://www.wikidata.org/wiki/Q108670833
 schema_version: 1
+director:
+- zakharias-manos
+cinematographer:
+- kupriyanov-georgiy-alekseevich
+composer:
+- oganesyan-edgar
+studio:
+- mosfilm

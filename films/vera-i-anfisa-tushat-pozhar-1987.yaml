@@ -8,6 +8,15 @@ runtime_min: 526
 external_ids:
   wikidata: Q21636853
   imdb: tt2342261
+  youtube: OcVhdc0XLzc
 sources:
 - https://www.wikidata.org/wiki/Q21636853
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+screenwriter:
+- uspenskiy-eduard
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- sverdlovskaya-kinostudiya

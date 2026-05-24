@@ -8,6 +8,22 @@ runtime_min: 76
 external_ids:
   wikidata: Q4060139
   imdb: tt0035620
+  youtube: N5cvEAN0xfA
 sources:
 - https://www.wikidata.org/wiki/Q4060139
 schema_version: 1
+director:
+- trauberg-leonid-zakharovich
+screenwriter:
+- erdman-nikolay-robertovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+composer:
+- sandler-oskar-aronovich
+cast:
+- person: zharov-mikhail-ivanovich
+- person: babochkin-boris-andreevich
+- person: sergeeva-galina-ermolaevna
+- person: gribkov-vladimir-vasilevich
+- person: morskaya-zinaida-ignatevna
+- person: sorokin-konstantin-nikolaevich

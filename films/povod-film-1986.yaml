@@ -10,3 +10,20 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q116811381
 schema_version: 1
+director:
+- polynnikov-aleksandr
+screenwriter:
+- radiy-kushnerovich
+cinematographer:
+- povzner-arkadiy
+composer:
+- chernavskiy-yuriy-aleksandrovich
+cast:
+- person: polskikh-galina
+- person: akhedzhakova-liya-medzhidovna
+- person: samoylov-vladimir-yakovlevich
+- person: nevedomskiy-leonid
+- person: pashutin-aleksandr-sergeevich
+- person: ryazanova-raisa-ivanovna
+studio:
+- odesskaya-kinostudiya

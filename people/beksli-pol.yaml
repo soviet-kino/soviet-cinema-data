@@ -1,0 +1,9 @@
+id: beksli-pol
+name_ru: Пол Бэксли
+roles:
+- actor
+external_ids:
+  wikidata: Q3370585
+sources:
+- https://www.wikidata.org/wiki/Q3370585
+schema_version: 1

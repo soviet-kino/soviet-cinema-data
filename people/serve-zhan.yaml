@@ -1,0 +1,9 @@
+id: serve-zhan
+name_ru: Жан Сервэ
+roles:
+- actor
+external_ids:
+  wikidata: Q1685823
+sources:
+- https://www.wikidata.org/wiki/Q1685823
+schema_version: 1

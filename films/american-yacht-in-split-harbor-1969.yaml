@@ -11,3 +11,22 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q31184401
 schema_version: 1
+director:
+- paro-georgij
+screenwriter:
+- ivanac-ivica
+composer:
+- gotovac-pero
+cast:
+- person: ivitsa-vidovich
+- person: lepetich-zvonko
+- person: bulyan-khelena
+- person: zdravka-krstulovich
+- person: bortolazzi-etta
+- person: kadic-ivo
+- person: vlajki-jelica
+- person: guberina-spiro
+- person: stefanini-niksa
+- person: bonacci-branko
+studio:
+- radio-i-televidenie-khorvatii

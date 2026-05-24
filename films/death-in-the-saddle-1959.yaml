@@ -11,3 +11,34 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q1197464
 schema_version: 1
+director:
+- polak-indrzhikh
+screenwriter:
+- polak-indrzhikh
+- tsirkl-irzhi
+cinematographer:
+- milich-rudolf
+composer:
+- illin-evzhen
+cast:
+- person: sovak-irzhi
+- person: vavrushka-milosh
+- person: elinek-rudolf
+- person: lukavskiy-radovan
+- person: beyvl-yozef
+- person: dubskiy-eduard
+- person: preucil-jan
+- person: skopechek-yan
+- person: michny-jiri
+- person: ruzek-martin
+- person: nesvadba-milos
+- person: fisher-stanislav
+- person: vesely-ludvik
+- person: kasanova-jana
+- person: skalova-ema
+- person: narenta-jindrich
+- person: kulic-michal
+- person: stipka-harald
+- person: kaiser-jan
+studio:
+- barrandov-film-studio

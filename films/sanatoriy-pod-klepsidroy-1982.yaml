@@ -11,3 +11,35 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q2297889
 schema_version: 1
+director:
+- khas-voytsekh-ezhi
+screenwriter:
+- shults-bruno
+- khas-voytsekh-ezhi
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- maksymyuk-ezhi-yan
+cast:
+- person: tencer-go-da
+- person: novitskiy-yan
+- person: shmidt-tadeush
+- person: kholoubek-gustav
+- person: kondrat-tadeush
+- person: adamek-bozhena
+- person: benua-lyudvik
+- person: voyt-mechislav
+- person: kovalskaya-khalina
+- person: irena-malkevich
+- person: orskaya-irena
+- person: trelya-ezhi
+- person: unrug-pavel
+- person: pyaskovskiy-cheslav
+- person: szurmiej-szymon
+- person: lodynskiy-yuzef
+- person: lombardo-miroslava
+- person: radulski-edward
+- person: q116842766
+studio:
+- silesia-kinostudiya
+- film-polski

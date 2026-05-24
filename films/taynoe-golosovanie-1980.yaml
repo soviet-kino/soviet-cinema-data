@@ -8,6 +8,20 @@ runtime_min: 85
 external_ids:
   wikidata: Q4449988
   imdb: tt0230847
+  youtube: UjURkROg26A
 sources:
 - https://www.wikidata.org/wiki/Q4449988
 schema_version: 1
+director:
+- guryanov-valeriy-alekseevich
+screenwriter:
+- strelyanyy-anatoliy-ivanovich
+cinematographer:
+- timkovskiy-boris-viktorovich
+composer:
+- vigners-ivars
+cast:
+- person: biryukov-vladlen-egorovich
+- person: kuznetsov-mikhail-artemevich
+studio:
+- lenfilm

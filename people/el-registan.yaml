@@ -1,0 +1,9 @@
+id: el-registan
+name_ru: Эль-Регистан
+roles:
+- screenwriter
+external_ids:
+  wikidata: Q453447
+sources:
+- https://www.wikidata.org/wiki/Q453447
+schema_version: 1

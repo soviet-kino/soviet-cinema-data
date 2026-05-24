@@ -8,6 +8,32 @@ runtime_min: 95
 external_ids:
   wikidata: Q1212842
   imdb: tt0079193
+  youtube: Xqsa4u00GXM
 sources:
 - https://www.wikidata.org/wiki/Q1212842
 schema_version: 1
+director:
+- ryazanov-eldar-aleksandrovich
+screenwriter:
+- ryazanov-eldar-aleksandrovich
+- braginskiy-emmanuel-veniaminovich
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- petrov-andrey-pavlovich
+cast:
+- person: farada-semyon-lvovich
+- person: ryazanov-eldar-aleksandrovich
+- person: burkov-georgiy-ivanovich
+- person: savvina-iya-sergeevna
+- person: myagkov-andrey-vasilevich
+- person: brondukov-borislav-nikolaevich
+- person: zakharchenko-vadim-viktorovich
+- person: kostolevskiy-igor-matveevich
+- person: nemolyaeva-svetlana
+- person: akhedzhakova-liya-medzhidovna
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: gaft-valentin-iosifovich
+studio:
+- mosfilm
+poster_commons: Semyon Farada 1979.jpg
