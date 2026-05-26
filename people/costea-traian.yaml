@@ -7,3 +7,5 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q12742453
 schema_version: 1
+birth: '1946-01-01'
+death: '2004-01-01'
