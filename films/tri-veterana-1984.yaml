@@ -1,0 +1,13 @@
+id: tri-veterana-1984
+title_ru: Три ветерана
+title_original: Три ветерана
+year: 1984
+country:
+- CS
+runtime_min: 93
+external_ids:
+  wikidata: Q1215516
+  imdb: tt0086477
+sources:
+- https://www.wikidata.org/wiki/Q1215516
+schema_version: 1

@@ -1,0 +1,13 @@
+id: imago-1984
+title_ru: Imago
+title_original: Imago
+year: 1984
+country:
+- CS
+runtime_min: 11
+external_ids:
+  wikidata: Q56871581
+  imdb: tt4234670
+sources:
+- https://www.wikidata.org/wiki/Q56871581
+schema_version: 1

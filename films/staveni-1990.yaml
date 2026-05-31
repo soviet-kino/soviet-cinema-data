@@ -1,0 +1,13 @@
+id: staveni-1990
+title_ru: Stavení
+title_original: Stavení
+year: 1990
+country:
+- CS
+runtime_min: 77
+external_ids:
+  wikidata: Q7604814
+  imdb: tt0304752
+sources:
+- https://www.wikidata.org/wiki/Q7604814
+schema_version: 1

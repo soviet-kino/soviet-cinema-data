@@ -1,0 +1,13 @@
+id: the-hen-1984
+title_ru: The Hen
+title_original: The Hen
+year: 1984
+country:
+- CS
+runtime_min: 4
+external_ids:
+  wikidata: Q56871109
+  imdb: tt4234676
+sources:
+- https://www.wikidata.org/wiki/Q56871109
+schema_version: 1

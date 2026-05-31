@@ -1,0 +1,13 @@
+id: vracenky-1990
+title_ru: Vracenky
+title_original: Vracenky
+year: 1990
+country:
+- CS
+runtime_min: 90
+external_ids:
+  wikidata: Q7942564
+  imdb: tt0100890
+sources:
+- https://www.wikidata.org/wiki/Q7942564
+schema_version: 1

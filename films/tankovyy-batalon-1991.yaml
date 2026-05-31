@@ -1,0 +1,13 @@
+id: tankovyy-batalon-1991
+title_ru: Танковый батальон
+title_original: Танковый батальон
+year: 1991
+country:
+- CS
+runtime_min: 83
+external_ids:
+  wikidata: Q3565876
+  imdb: tt0103042
+sources:
+- https://www.wikidata.org/wiki/Q3565876
+schema_version: 1

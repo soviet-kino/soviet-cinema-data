@@ -1,0 +1,13 @@
+id: whos-that-soldier-1987
+title_ru: Who's That Soldier?
+title_original: Who's That Soldier?
+year: 1987
+country:
+- CS
+runtime_min: 85
+external_ids:
+  wikidata: Q7997063
+  imdb: tt0092784
+sources:
+- https://www.wikidata.org/wiki/Q7997063
+schema_version: 1

@@ -1,0 +1,13 @@
+id: ticha-bolest-1991
+title_ru: Tichá bolest
+title_original: Tichá bolest
+year: 1991
+country:
+- CS
+runtime_min: 95
+external_ids:
+  wikidata: Q30406081
+  imdb: tt0100780
+sources:
+- https://www.wikidata.org/wiki/Q30406081
+schema_version: 1

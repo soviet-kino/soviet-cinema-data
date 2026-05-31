@@ -1,0 +1,13 @@
+id: sleeping-beauty-1989
+title_ru: Sleeping Beauty
+title_original: Sleeping Beauty
+year: 1989
+country:
+- CS
+runtime_min: 94
+external_ids:
+  wikidata: Q836529
+  imdb: tt0100626
+sources:
+- https://www.wikidata.org/wiki/Q836529
+schema_version: 1

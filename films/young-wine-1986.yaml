@@ -1,0 +1,13 @@
+id: young-wine-1986
+title_ru: Young Wine
+title_original: Young Wine
+year: 1986
+country:
+- CS
+runtime_min: 94
+external_ids:
+  wikidata: Q8058481
+  imdb: tt0138619
+sources:
+- https://www.wikidata.org/wiki/Q8058481
+schema_version: 1

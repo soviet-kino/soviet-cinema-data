@@ -1,0 +1,13 @@
+id: alisa-1990
+title_ru: Алиса
+title_original: Алиса
+year: 1990
+country:
+- CS
+runtime_min: 86
+external_ids:
+  wikidata: Q1283391
+  imdb: tt0095715
+sources:
+- https://www.wikidata.org/wiki/Q1283391
+schema_version: 1

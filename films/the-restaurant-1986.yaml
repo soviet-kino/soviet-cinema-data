@@ -1,0 +1,12 @@
+id: the-restaurant-1986
+title_ru: The Restaurant
+title_original: The Restaurant
+year: 1986
+country:
+- CS
+runtime_min: 9
+external_ids:
+  wikidata: Q57268231
+sources:
+- https://www.wikidata.org/wiki/Q57268231
+schema_version: 1
