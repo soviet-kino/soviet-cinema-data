@@ -1,0 +1,13 @@
+id: commuters-1988
+title_ru: Commuters
+title_original: Commuters
+year: 1988
+country:
+- CS
+runtime_min: 80
+external_ids:
+  wikidata: Q106241141
+  imdb: tt0324463
+sources:
+- https://www.wikidata.org/wiki/Q106241141
+schema_version: 1

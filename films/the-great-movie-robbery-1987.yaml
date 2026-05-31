@@ -1,0 +1,13 @@
+id: the-great-movie-robbery-1987
+title_ru: The Great Movie Robbery
+title_original: The Great Movie Robbery
+year: 1987
+country:
+- CS
+runtime_min: 77
+external_ids:
+  wikidata: Q11878770
+  imdb: tt0092155
+sources:
+- https://www.wikidata.org/wiki/Q11878770
+schema_version: 1

@@ -1,0 +1,13 @@
+id: gemini-1991
+title_ru: Gemini
+title_original: Gemini
+year: 1991
+country:
+- CS
+runtime_min: 79
+external_ids:
+  wikidata: Q12766285
+  imdb: tt1050247
+sources:
+- https://www.wikidata.org/wiki/Q12766285
+schema_version: 1

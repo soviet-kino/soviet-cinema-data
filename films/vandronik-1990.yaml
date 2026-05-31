@@ -1,0 +1,13 @@
+id: vandronik-1990
+title_ru: Vandronik
+title_original: Vandronik
+year: 1990
+country:
+- CS
+runtime_min: 89
+external_ids:
+  wikidata: Q2675048
+  imdb: tt0246305
+sources:
+- https://www.wikidata.org/wiki/Q2675048
+schema_version: 1

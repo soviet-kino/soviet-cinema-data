@@ -1,0 +1,13 @@
+id: snow-queen-1987
+title_ru: Snow Queen
+title_original: Snow Queen
+year: 1987
+country:
+- CS
+runtime_min: 48
+external_ids:
+  wikidata: Q30918440
+  imdb: tt0344350
+sources:
+- https://www.wikidata.org/wiki/Q30918440
+schema_version: 1

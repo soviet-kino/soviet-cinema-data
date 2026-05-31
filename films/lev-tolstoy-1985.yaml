@@ -1,0 +1,13 @@
+id: lev-tolstoy-1985
+title_ru: Лев Толстой
+title_original: Лев Толстой
+year: 1985
+country:
+- CS
+runtime_min: 168
+external_ids:
+  wikidata: Q4256164
+  imdb: tt0087615
+sources:
+- https://www.wikidata.org/wiki/Q4256164
+schema_version: 1

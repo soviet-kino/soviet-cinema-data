@@ -1,0 +1,13 @@
+id: vojtech-1990
+title_ru: Vojtech
+title_original: Vojtech
+year: 1990
+country:
+- CS
+runtime_min: 80
+external_ids:
+  wikidata: Q11925833
+  imdb: tt0065188
+sources:
+- https://www.wikidata.org/wiki/Q11925833
+schema_version: 1

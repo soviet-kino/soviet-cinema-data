@@ -1,0 +1,13 @@
+id: mag-1987
+title_ru: Mág
+title_original: Mág
+year: 1987
+country:
+- CS
+runtime_min: 87
+external_ids:
+  wikidata: Q48672584
+  imdb: tt0175934
+sources:
+- https://www.wikidata.org/wiki/Q48672584
+schema_version: 1

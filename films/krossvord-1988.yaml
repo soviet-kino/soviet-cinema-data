@@ -1,0 +1,13 @@
+id: krossvord-1988
+title_ru: Кроссворд
+title_original: Кроссворд
+year: 1988
+country:
+- CS
+runtime_min: 4
+external_ids:
+  wikidata: Q56875888
+  imdb: tt0309780
+sources:
+- https://www.wikidata.org/wiki/Q56875888
+schema_version: 1

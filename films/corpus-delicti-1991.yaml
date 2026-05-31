@@ -1,0 +1,13 @@
+id: corpus-delicti-1991
+title_ru: Corpus Delicti
+title_original: Corpus Delicti
+year: 1991
+country:
+- CS
+runtime_min: 97
+external_ids:
+  wikidata: Q32795232
+  imdb: tt0101618
+sources:
+- https://www.wikidata.org/wiki/Q32795232
+schema_version: 1
