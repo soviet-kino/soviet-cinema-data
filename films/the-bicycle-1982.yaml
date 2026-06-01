@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1167775
   imdb: tt0765055
+  tmdb: 245400
 sources:
 - https://www.wikidata.org/wiki/Q1167775
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: krolkiewicz-ralf-gunter
 - person: zaybt-zigfrid
 - person: klas-ioganna
+poster_tmdb_path: /mlLI4OfFNFIGBiMsavTpuQ6WqNJ.jpg
+backdrop_tmdb_path: /6JjH04uMJRGUxza9QUkhzEV0rnh.jpg

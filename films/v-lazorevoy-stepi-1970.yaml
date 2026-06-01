@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q15270502
   imdb: tt0324397
+  tmdb: 846162
 sources:
 - https://www.wikidata.org/wiki/Q15270502
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kormunin-pavel-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /1rTXaHygTJwrwR7QhpXkumLPWxa.jpg
+backdrop_tmdb_path: /pS5hEmFw7kFxhcfL6GxnJyElVhG.jpg

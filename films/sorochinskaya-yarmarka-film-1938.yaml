@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18278023
   imdb: tt0195292
   youtube: grdQLI5oDKQ
+  tmdb: 373003
 sources:
 - https://www.wikidata.org/wiki/Q18278023
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 poster_commons: Плакат к фильму «Сорочинская ярмарка».jpg
+poster_tmdb_path: /mbDVJY4tKs3kL06K83IAcCdl2zy.jpg

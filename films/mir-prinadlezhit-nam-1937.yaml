@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7775996
   imdb: tt0169282
+  tmdb: 246356
 sources:
 - https://www.wikidata.org/wiki/Q7775996
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: vavrova-anna
 - person: haller-frantisek
 - person: kopecky-jaroslav
+poster_tmdb_path: /4FB1uq1xBdHSYHVXeSLJWiS2Fue.jpg
+backdrop_tmdb_path: /vFzrv7c60uU6EfMqe1OMTrvl8zS.jpg

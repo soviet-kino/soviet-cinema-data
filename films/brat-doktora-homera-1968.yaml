@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q12749345
   imdb: tt0172193
+  tmdb: 283852
 sources:
 - https://www.wikidata.org/wiki/Q12749345
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: mirich-voyya
 - person: begolli-faruk
 - person: yovan-milichevich
+poster_tmdb_path: /twGSwA15qzZC5zlLqsQlAnSfDul.jpg
+backdrop_tmdb_path: /d9vRu0YNLUjvu7KoUm4HKDdTiBg.jpg

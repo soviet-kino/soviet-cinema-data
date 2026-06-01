@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12754243
   imdb: tt0123140
+  tmdb: 502481
 sources:
 - https://www.wikidata.org/wiki/Q12754243
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: cumic-dragomir
 - person: angelovski-kole
 - person: sokich-ruzhitsa
+poster_tmdb_path: /5hd4rZttjJsGMCu0mMyxb2PpkM2.jpg

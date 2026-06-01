@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4464653
   imdb: tt0075353
+  tmdb: 578090
 sources:
 - https://www.wikidata.org/wiki/Q4464653
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: nikonenko-sergey
 - person: obukhov-anatoliy-matveevich
+poster_tmdb_path: /evDONmbPX9Ulb4HTBoRgPJtS4Li.jpg
+backdrop_tmdb_path: /b5LeH57M5AJ5l6wKNhLNQZzEXAC.jpg

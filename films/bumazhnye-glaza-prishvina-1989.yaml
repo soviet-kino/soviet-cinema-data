@@ -8,6 +8,7 @@ runtime_min: 146
 external_ids:
   wikidata: Q4099128
   imdb: tt0096992
+  tmdb: 285956
 sources:
 - https://www.wikidata.org/wiki/Q4099128
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: rudakov-pavel-vasilevich
 studio:
 - lenfilm
+poster_tmdb_path: /ox9e3YFFonuSmlTVc24hqghw1k8.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23705704
   imdb: tt0446310
+  tmdb: 529958
 sources:
 - https://www.wikidata.org/wiki/Q23705704
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: klyonskaya-mariya
 studio:
 - tallinfilm
+poster_tmdb_path: /xvHE4kMxObrb92tKSrzZDD2WmaE.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1939381
   imdb: tt0064676
+  tmdb: 286577
 sources:
 - https://www.wikidata.org/wiki/Q1939381
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: popovich-mavid-milivoye
 - person: dommish-peter
 - person: kherrikht-rolf
+poster_tmdb_path: /fC2oJJAOWlaOgaCizCfV58Tp7Qz.jpg
+backdrop_tmdb_path: /8PuGKojqE0JokHinQsgs5skIdEJ.jpg

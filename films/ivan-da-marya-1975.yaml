@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1676019
   imdb: tt0073185
   youtube: BgT05-TWO0U
+  tmdb: 112400
 sources:
 - https://www.wikidata.org/wiki/Q1676019
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: livanova-tatyana
 - person: ryzhov-ivan-petrovich
 - person: uvarova-elizaveta
+poster_tmdb_path: /jOVmdtpFhYNn6NPcWNGIYcM4P6d.jpg
+backdrop_tmdb_path: /6sHGUJOsKLDnv9YjLFNapB4Up2m.jpg

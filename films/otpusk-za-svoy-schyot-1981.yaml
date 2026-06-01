@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4339914
   imdb: tt0082867
+  tmdb: 72959
 sources:
 - https://www.wikidata.org/wiki/Q4339914
 schema_version: 1
@@ -29,3 +30,5 @@ studio:
 - mosfilm
 - vengerskoe-televidenie
 - ekran
+poster_tmdb_path: /mFDcfUsStuM6YMEEdAnz3cpGNd9.jpg
+backdrop_tmdb_path: /1AqZVu21VIFXksMKkmKQN1RCEsO.jpg

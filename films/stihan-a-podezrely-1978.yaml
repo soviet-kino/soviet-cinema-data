@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q110337803
   imdb: tt0170633
+  tmdb: 363441
 sources:
 - https://www.wikidata.org/wiki/Q110337803
 schema_version: 1
@@ -68,3 +69,4 @@ cast:
 - person: prokesova-marie
 - person: sustr-milos
 - person: jestrab-jaromir
+poster_tmdb_path: /r4n2j6cUBMiOtDbqtoLwn6hSQft.jpg

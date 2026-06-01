@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270598
   imdb: tt0074418
   youtube: QuRQLP54Qfc
+  tmdb: 207879
 sources:
 - https://www.wikidata.org/wiki/Q15270598
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - khrennikov-tikhon-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /Ah3beZke1zcqBDZ0Gky2yZPocje.jpg
+backdrop_tmdb_path: /1i6qbmFNh9QeoKWLUMX5Uhbv5O5.jpg

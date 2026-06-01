@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q15270534
   imdb: tt0083304
+  tmdb: 704331
 sources:
 - https://www.wikidata.org/wiki/Q15270534
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: khanga-elena-abdulaevna
 studio:
 - mosfilm
+poster_tmdb_path: /4KEzdGgdfLFL0PdeYav5at7F9s5.jpg

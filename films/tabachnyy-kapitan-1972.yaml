@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15271056
   imdb: tt0130300
   youtube: DroRLx1f60Y
+  tmdb: 65127
 sources:
 - https://www.wikidata.org/wiki/Q15271056
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: davydov-vladlen-semyonovich
 studio:
 - lenfilm
+poster_tmdb_path: /ugYHVGqNRzKlccXSeSIjIdoCpWR.jpg
+backdrop_tmdb_path: /g9hNMkW3Mhx2S602JtpUpaJ20rc.jpg

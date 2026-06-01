@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q507792
   imdb: tt0052199
+  tmdb: 12495
 sources:
 - https://www.wikidata.org/wiki/Q507792
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kryuger-richard
 studio:
 - defa
+poster_tmdb_path: /u43QdMm7vayHsi5K0953p4LCUnQ.jpg
+backdrop_tmdb_path: /nbSncvmn231eCYUKwAxQxOQjjtb.jpg

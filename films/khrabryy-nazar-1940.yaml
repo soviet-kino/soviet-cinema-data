@@ -8,6 +8,7 @@ runtime_min: 50
 external_ids:
   wikidata: Q16401627
   imdb: tt0359532
+  tmdb: 806591
 sources:
 - https://www.wikidata.org/wiki/Q16401627
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: manvelyan-mikael
 - person: mkrtchyan-samvel
 - person: gulazyan-david
+poster_tmdb_path: /eMu8i8HUM53RUbY2sIKe5R3fAmm.jpg

@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4465698
   imdb: tt0287057
+  tmdb: 1338033
 sources:
 - https://www.wikidata.org/wiki/Q4465698
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: botsvadze-zeynab
 studio:
 - gruziya-film
+poster_tmdb_path: /kJAtHbFGKQRCOZeyMZu8Vq1cI5L.jpg
+backdrop_tmdb_path: /rqo2tdRJDU91WKytYX0GRKzPrli.jpg

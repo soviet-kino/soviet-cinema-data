@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4200254
   imdb: tt0079331
   youtube: 8n1-8DYLURI
+  tmdb: 94056
 sources:
 - https://www.wikidata.org/wiki/Q4200254
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - partskhaladze-merab
 cast:
 - person: mchedlidze-nana-bidzinovna
+poster_tmdb_path: /kbDLBOdvr3WOBWieGBG1dlOyyWo.jpg
+backdrop_tmdb_path: /w01kW7OWtDI5nHc2dlpUfkcraQx.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9251994
   imdb: tt0295606
+  tmdb: 461720
 sources:
 - https://www.wikidata.org/wiki/Q9251994
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 composer:
 - gaci-pjeter
+poster_tmdb_path: /k8xiA8AjSMleBNmWkiGrYpSg1nT.jpg
+backdrop_tmdb_path: /55KKeu3nChICLaULw4fKCTOfsw7.jpg

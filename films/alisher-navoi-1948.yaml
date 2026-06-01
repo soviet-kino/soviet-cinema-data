@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4062476
   imdb: tt0040086
   youtube: vyC1Sdb1pV8
+  tmdb: 458754
 sources:
 - https://www.wikidata.org/wiki/Q4062476
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: dzhalilov-obid
 studio:
 - uzbekfilm
+poster_tmdb_path: /e94N6Wi4FM3cCXMcWH24dAF8oNa.jpg

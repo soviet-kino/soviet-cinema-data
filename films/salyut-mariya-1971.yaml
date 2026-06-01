@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q1661420
   imdb: tt0171714
+  tmdb: 848964
 sources:
 - https://www.wikidata.org/wiki/Q1661420
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: guterres-ankhel
 studio:
 - lenfilm
+poster_tmdb_path: /8RAHDRRsBmerv1YvjLrIXGGKvEL.jpg

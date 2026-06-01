@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q104524694
   imdb: tt0183875
+  tmdb: 195697
 sources:
 - https://www.wikidata.org/wiki/Q104524694
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: svejkovsky-petr
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /zBeYjmtl9oMXPU5MBtf268QjsO7.jpg
+backdrop_tmdb_path: /roe4MqG2Xp3CL5KouMsAIvcSxZh.jpg

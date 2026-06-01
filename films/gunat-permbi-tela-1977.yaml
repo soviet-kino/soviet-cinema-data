@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q616592
   imdb: tt0295288
+  tmdb: 461890
 sources:
 - https://www.wikidata.org/wiki/Q616592
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 composer:
 - laro-kujtim
+poster_tmdb_path: /bnHJvaWBUtCHdlZTod2jvZwRQcj.jpg
+backdrop_tmdb_path: /bpT21OCHVuQ4FHmCo4NEQzmqRG4.jpg

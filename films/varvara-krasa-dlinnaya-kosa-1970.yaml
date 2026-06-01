@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1145985
   imdb: tt0191625
   youtube: 3dq0U8u47cU
+  tmdb: 20934
 sources:
 - https://www.wikidata.org/wiki/Q1145985
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: klyueva-tatyana-nikolaevna
 - person: kubatskiy-anatoliy-lvovich
 - person: nikolaev-sergey-sergeevich
+poster_tmdb_path: /5DAoVUDOQBxOoGSM0BXnTkE9fhV.jpg
+backdrop_tmdb_path: /g64G14PlOmA5ov3SQNnqXQz6DPZ.jpg

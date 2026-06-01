@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12027710
   imdb: tt0082599
   youtube: CCAbS-U0Knk
+  tmdb: 65692
 sources:
 - https://www.wikidata.org/wiki/Q12027710
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: kubalek-antonin
 - person: bejbl-viktor
 - person: bernatova-leona
+poster_tmdb_path: /ActIglBGgeqO8KSiEwo63C8Dl4J.jpg
+backdrop_tmdb_path: /8h0lsTWVFCUOLsxVwdCV24PGi3m.jpg

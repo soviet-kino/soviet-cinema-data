@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q9212173
   imdb: tt0054829
+  tmdb: 747647
 sources:
 - https://www.wikidata.org/wiki/Q9212173
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: mrozhevskiy-zdzislav
 - person: tushinskaya-tereza
 - person: shchepkovskiy-andzhey
+poster_tmdb_path: /emwq0WHx8gGBvhMqnPIzjpLTcBc.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q21647042
   imdb: tt0015997
+  tmdb: 611177
 sources:
 - https://www.wikidata.org/wiki/Q21647042
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - mezhrabpom-rus
 poster_commons: Коллежский регистратор (фильм).jpg
+poster_tmdb_path: /ynBEKZKQ6CgY2cmpKz9Qn5LBFHR.jpg
+backdrop_tmdb_path: /mlh5i4zKEokv2KjeUEzcvHyMAmM.jpg

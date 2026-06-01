@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12959173
   imdb: tt0180055
+  tmdb: 285391
 sources:
 - https://www.wikidata.org/wiki/Q12959173
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: jerinic-branislav
 - person: vuysich-dushan
 - person: simich-slavko
+poster_tmdb_path: /fHgctTYRy9xdtQVT18LytyT8ZvD.jpg

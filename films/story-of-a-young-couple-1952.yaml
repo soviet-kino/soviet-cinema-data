@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q820866
   imdb: tt0045099
+  tmdb: 288808
 sources:
 - https://www.wikidata.org/wiki/Q820866
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: gyots-luts
 - person: khellberg-martin
 - person: shall-teo
+poster_tmdb_path: /tdaSyN705y3o4r4sEJ0p4PMMA74.jpg
+backdrop_tmdb_path: /bNX6llnAGnUABDXehBNlxGpdRzP.jpg

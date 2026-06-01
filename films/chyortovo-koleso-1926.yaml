@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3212458
   imdb: tt0016726
   youtube: Kup0B5HEm50
+  tmdb: 189525
 sources:
 - https://www.wikidata.org/wiki/Q3212458
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Плакат к фильму «Чёртово колесо».jpg
+poster_tmdb_path: /6dsHIj6On95wd1sFaualmvBPwnJ.jpg
+backdrop_tmdb_path: /m68LN6kB5jlRwUVO2QCcTonFKBh.jpg

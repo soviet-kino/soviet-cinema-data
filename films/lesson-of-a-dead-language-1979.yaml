@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q11753912
   imdb: tt0081041
+  tmdb: 415256
 sources:
 - https://www.wikidata.org/wiki/Q11753912
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kurylewicz-andrzej
 cast:
 - person: olgerd-lukashevich
+poster_tmdb_path: /bc6BmXb0EVrvDVr7vdIL16kzCG6.jpg
+backdrop_tmdb_path: /14EIdWZeWkTAL3cESvOb472jen5.jpg

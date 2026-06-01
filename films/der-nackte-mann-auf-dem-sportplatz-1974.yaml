@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q1199456
   imdb: tt0076437
+  tmdb: 132831
 sources:
 - https://www.wikidata.org/wiki/Q1199456
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: lyubosh-ute
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /uDuV2LUxRwXqivMDgZZMyNXHvLE.jpg
+backdrop_tmdb_path: /AimnpFJDmViCe5nt7rYsjvb45uw.jpg

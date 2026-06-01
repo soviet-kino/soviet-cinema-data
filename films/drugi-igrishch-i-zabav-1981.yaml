@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4168656
   imdb: tt0082297
+  tmdb: 531286
 sources:
 - https://www.wikidata.org/wiki/Q4168656
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: simonova-shchepetnova-galina-nikolaevna
 studio:
 - lenfilm
+poster_tmdb_path: /f2kJmGqWM6h7HQz6kxQhIu2aGCG.jpg

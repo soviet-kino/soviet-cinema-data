@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q11800621
   imdb: tt0064771
+  tmdb: 335294
 sources:
 - https://www.wikidata.org/wiki/Q11800621
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - zhukrovskiy-voytsekh
 composer:
 - valyatsinskiy-adam
+poster_tmdb_path: /ihAtWvZO6IBp725LoYBECCJJert.jpg
+backdrop_tmdb_path: /tCzkSMKx0bHKsWnFOhbltok1LGH.jpg

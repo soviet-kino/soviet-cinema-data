@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q4375349
   imdb: tt0250660
+  tmdb: 375009
 sources:
 - https://www.wikidata.org/wiki/Q4375349
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 studio:
 - lenfilm
 - sovkino
+poster_tmdb_path: /g9BIsle8iqBOmNIWDw58ygMFVD1.jpg
+backdrop_tmdb_path: /qLNQASOmL29P28PKh1u3v2FXBSm.jpg

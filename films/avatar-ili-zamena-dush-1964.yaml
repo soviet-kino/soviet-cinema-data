@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q4055414
   imdb: tt0932937
+  tmdb: 155444
 sources:
 - https://www.wikidata.org/wiki/Q4055414
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: kocheska-vanda
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /ymydy1zLK4lNWT6PQB1o5P6Wy9X.jpg

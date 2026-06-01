@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4480704
   imdb: tt0082354
   youtube: ntxqY-zJ68I
+  tmdb: 658492
 sources:
 - https://www.wikidata.org/wiki/Q4480704
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: martynov-andrey-leonidovich
 studio:
 - mosfilm
+poster_tmdb_path: /5cA8Ma15W6CK6ag4S6yeaOeS7oa.jpg

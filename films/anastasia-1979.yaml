@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q42908574
   imdb: tt0129892
+  tmdb: 102411
 sources:
 - https://www.wikidata.org/wiki/Q42908574
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - tatos-alexandru
 screenwriter:
 - popesku-dumitru-radu
+poster_tmdb_path: /3hCiIWukVWuRPDdScaoPRzsK9pg.jpg
+backdrop_tmdb_path: /oDE7GvFUFJXDYrwgEWGiztxJwCW.jpg

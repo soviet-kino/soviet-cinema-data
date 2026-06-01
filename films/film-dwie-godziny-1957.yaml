@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9213184
   imdb: tt0050345
+  tmdb: 618926
 sources:
 - https://www.wikidata.org/wiki/Q9213184
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: q114212343
 poster_commons: Irena Krasnowiecka & Stanisław Grolicki - Dwie Godziny - Film Nr.4
   - 1946-08-16.JPG
+poster_tmdb_path: /5tFxOPU6MkA7779U2JQ5iQpml3O.jpg

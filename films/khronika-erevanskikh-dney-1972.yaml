@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4501685
   imdb: tt0410924
+  tmdb: 282228
 sources:
 - https://www.wikidata.org/wiki/Q4501685
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: abramyan-khoren
 - person: sarkisov-leonard-sarkisovich
 - person: dzhanibekyan-gurgen
+poster_tmdb_path: /rtL7DB6qDGTWVJA0XgZrUdgXcUW.jpg

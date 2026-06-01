@@ -24,6 +24,9 @@ external_ids:
   wikidata: Q2576334
   imdb: tt0095574
   youtube: E8MCiceJJdY
+  tmdb: 41961
 sources:
 - https://www.wikidata.org/wiki/Q2576334
 schema_version: 1
+poster_tmdb_path: /A3TZnlLBLaD1kD2GSuQ554uX7vw.jpg
+backdrop_tmdb_path: /xYgcdCZkjmFKe74MxxFHy4Y5FGA.jpg

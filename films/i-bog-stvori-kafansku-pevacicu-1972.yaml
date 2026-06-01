@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q16085463
   imdb: tt0125212
+  tmdb: 336306
 sources:
 - https://www.wikidata.org/wiki/Q16085463
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: chukich-vera
 - person: milenkovic-zivojin
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /5FiNLQVe9D62w0lfwyo5mpFJTrm.jpg
+backdrop_tmdb_path: /borwqEeH2DpRQu9OUZr7aUmMsWz.jpg

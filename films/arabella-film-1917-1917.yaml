@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q9158784
   imdb: tt0219512
+  tmdb: 395021
 sources:
 - https://www.wikidata.org/wiki/Q9158784
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 studio:
 - sfinks
 poster_commons: Arabella (film 1917).jpg
+poster_tmdb_path: /cHU1ndd6dyrwP3vk1tFu7c77W0N.jpg
+backdrop_tmdb_path: /rBU94JUrBAmdqX0xDUAXwzszJy3.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4517590
   imdb: tt0068374
   youtube: UAYmjFAiI4s
+  tmdb: 462232
 sources:
 - https://www.wikidata.org/wiki/Q4517590
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: vesnik-evgeniy-yakovlevich
 - person: voynovskiy-andrey-sergeevich
 - person: merzlikin-nikolay-nikolaevich
+poster_tmdb_path: /szCEXvXqpT8J5ixPh3SENxhn7SK.jpg
+backdrop_tmdb_path: /gdb6puvyLKzCHGOTWHfCqMf9RRn.jpg

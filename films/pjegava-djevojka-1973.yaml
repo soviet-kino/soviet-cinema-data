@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184604
   imdb: tt0070541
+  tmdb: 1026908
 sources:
 - https://www.wikidata.org/wiki/Q31184604
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: milena-dravich
 - person: ines-fankovich
 - person: kravljaca-uros
+poster_tmdb_path: /aEevS4HXbMWrQrDvdbww1QVXflo.jpg

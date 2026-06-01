@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1266866
   imdb: tt0076932
   youtube: 0y4M_WbnvjA
+  tmdb: 147163
 sources:
 - https://www.wikidata.org/wiki/Q1266866
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: veroyu-mircha
 - person: ploae-mariya
 - person: skhanilets-yan
+poster_tmdb_path: /sDEYBGK2X8Hx2K42gKgMMV0CpnK.jpg
+backdrop_tmdb_path: /ayEa4Uaj8u8Zxq9AyADtt4mdYvc.jpg

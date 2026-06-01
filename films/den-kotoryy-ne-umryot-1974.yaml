@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q13402132
   imdb: tt0175558
+  tmdb: 935744
 sources:
 - https://www.wikidata.org/wiki/Q13402132
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: mierzwiak-zygmund-j
 - person: hirko-dionyz
 - person: lapunik-daniel
+poster_tmdb_path: /c3j9uk3yRKP8nvzMAxRYXaduabm.jpg
+backdrop_tmdb_path: /Aony7b4pzU5Exr5EUAHPQcejiR1.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12160172
   imdb: tt0237800
   youtube: KceA1cdHiHA
+  tmdb: 364684
 sources:
 - https://www.wikidata.org/wiki/Q12160172
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: rizaeva-yulduz-akramovna
 studio:
 - uzbekfilm
+poster_tmdb_path: /XawNHTw4sv1vf1rjfWxAJ2WonA.jpg
+backdrop_tmdb_path: /ouy4Z6pHlXa1n5wdSFDB08uf4d0.jpg

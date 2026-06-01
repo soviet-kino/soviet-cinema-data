@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q6684482
   imdb: tt0169095
+  tmdb: 553170
 sources:
 - https://www.wikidata.org/wiki/Q6684482
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: liskova-michaela
 - person: flendr-zdenek
 - person: sucha-pavla
+poster_tmdb_path: /mI9PI7n9lU4qzYxG5Qh5zRWETw4.jpg

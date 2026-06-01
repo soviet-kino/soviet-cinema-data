@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1192428
   imdb: tt0078833
+  tmdb: 77847
 sources:
 - https://www.wikidata.org/wiki/Q1192428
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kyofer-gerbert
 - person: dommish-peter
 - person: kherrikht-rolf
+poster_tmdb_path: /sgX0AWgkUOlQMuIH9XaWecCGrG4.jpg
+backdrop_tmdb_path: /d948t410egPgoFElJerzb97b4T1.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q15714934
   imdb: tt0087382
+  tmdb: 899007
 sources:
 - https://www.wikidata.org/wiki/Q15714934
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vysotski-marek
 studio:
 - q110427551
+poster_tmdb_path: /19TT5VYkt0y9rbEqRmgnZnwec3q.jpg
+backdrop_tmdb_path: /9CboSWvJ5eI5Z6DAgQY8xOwiAlS.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1640894
   imdb: tt0057300
+  tmdb: 266683
 sources:
 - https://www.wikidata.org/wiki/Q1640894
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: petar-banichevich
 - person: sobotka-kurt
 - person: allerson-aleksandr
+poster_tmdb_path: /r9sY7XBcPxbIUiT3yVwjrEtf6W5.jpg

@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q1169651
   imdb: tt0051860
+  tmdb: 283042
 sources:
 - https://www.wikidata.org/wiki/Q1169651
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 studio:
 - defa
 poster_commons: Das Lied der Matrosen Logo 001.svg
+poster_tmdb_path: /1RPKajZP8mTKTRz59uZKdJZzEwY.jpg
+backdrop_tmdb_path: /aOcWdz9i7bdax8ZSCB5gLthZJe1.jpg

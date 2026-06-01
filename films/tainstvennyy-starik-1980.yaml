@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4449770
   imdb: tt0230846
   youtube: 5okXuW0uUBg
+  tmdb: 892268
 sources:
 - https://www.wikidata.org/wiki/Q4449770
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - gladkov-gennadiy
 studio:
 - lenfilm
+poster_tmdb_path: /6pniFpdSV0GWOA5R7DGZChEezWL.jpg
+backdrop_tmdb_path: /rEHKFlvRLPyDtruB7v5O3KPDUyc.jpg

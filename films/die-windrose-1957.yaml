@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q5274464
   imdb: tt0051197
+  tmdb: 405870
 sources:
 - https://www.wikidata.org/wiki/Q5274464
 schema_version: 1
@@ -26,3 +27,4 @@ screenwriter:
 - neto-trigueirinho
 composer:
 - khoenzee-volfgang
+poster_tmdb_path: /jGBY6ycMtHA73rSE5WqB4g9Qgm1.jpg

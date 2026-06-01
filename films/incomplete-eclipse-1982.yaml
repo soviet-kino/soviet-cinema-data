@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q6015165
   imdb: tt0134843
+  tmdb: 263552
 sources:
 - https://www.wikidata.org/wiki/Q6015165
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: patikova-lucie
 - person: lojkaskova-jana
 - person: bestakova-gabriela
+poster_tmdb_path: /iu70ZKPHHmmPZNNTisClzPi9zu6.jpg

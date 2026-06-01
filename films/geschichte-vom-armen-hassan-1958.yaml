@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q616363
   imdb: tt0051650
+  tmdb: 13292
 sources:
 - https://www.wikidata.org/wiki/Q616363
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: shubert-khaynts
 - person: geshonnek-ervin
 - person: fuhrmann-e-o
+poster_tmdb_path: /bv5dvAVLBEy5tmIcIbQTmnBwct9.jpg
+backdrop_tmdb_path: /ifnJVCnqvWwMFwiVmflTizsfsWA.jpg

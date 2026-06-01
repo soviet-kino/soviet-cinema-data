@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q11780157
   imdb: tt0054085
+  tmdb: 733004
 sources:
 - https://www.wikidata.org/wiki/Q11780157
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: daczynski-stanis-aw
 - person: polonski-piotr
 - person: cierniak-krystyna
+poster_tmdb_path: /i5ZDnzznQ6NsClN0Lpt7p23cIQj.jpg

@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q15837216
   imdb: tt0054186
+  tmdb: 243195
 sources:
 - https://www.wikidata.org/wiki/Q15837216
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - gala-vlastimil
 studio:
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+poster_tmdb_path: /fCT49lkfqxFJrIv3wcA1X1gNOfS.jpg
+backdrop_tmdb_path: /wlI1iUyhyqGFDeDQkdEebYqrEds.jpg

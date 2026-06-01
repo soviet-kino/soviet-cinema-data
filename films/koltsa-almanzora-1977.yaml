@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4228960
   imdb: tt0177889
   youtube: -KLQR40gFFo
+  tmdb: 461210
 sources:
 - https://www.wikidata.org/wiki/Q4228960
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: smirnova-svetlana-stanislavovna
+poster_tmdb_path: /49jb1jgyX6trF984jNbEyCJ5ajp.jpg
+backdrop_tmdb_path: /y7BEcdhswPYYONtR9oqbRW3heGf.jpg

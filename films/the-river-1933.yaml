@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q85847758
   imdb: tt0158893
+  tmdb: 257680
 sources:
 - https://www.wikidata.org/wiki/Q85847758
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: piskacek-vaclav
 - person: wardasova-bedriska
 - person: chaloupka-jan
+poster_tmdb_path: /ixksmP2Uo3Rb7WdSdfcbeU0QDQf.jpg

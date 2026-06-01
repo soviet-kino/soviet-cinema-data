@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9197820
   imdb: tt0042368
+  tmdb: 605949
 sources:
 - https://www.wikidata.org/wiki/Q9197820
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - serotskiy-kazimezh
 cast:
 - person: shmidt-tadeush
+poster_tmdb_path: /h5w9SNueV89mpxoTkVRgxtjf7hX.jpg
+backdrop_tmdb_path: /d4Lyrbq73UcAVSYqSafr0OQU044.jpg

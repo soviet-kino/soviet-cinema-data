@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116811391
   imdb: tt14144816
   youtube: jWoUQxg-GvY
+  tmdb: 1645549
 sources:
 - https://www.wikidata.org/wiki/Q116811391
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: karandash
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /2tW9WiJMc1HDAJmW1s1HDIDDjGi.jpg
+backdrop_tmdb_path: /y64rEYdfcjs0yqpIxV3rLmugL4D.jpg

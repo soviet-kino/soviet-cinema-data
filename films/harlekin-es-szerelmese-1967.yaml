@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q56390020
   imdb: tt0060489
+  tmdb: 360669
 sources:
 - https://www.wikidata.org/wiki/Q56390020
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - fekher-imre
 screenwriter:
 - berta-bulchu
+poster_tmdb_path: /3Bdfp4ljDJyVGjDtS6GoCJLx0XJ.jpg

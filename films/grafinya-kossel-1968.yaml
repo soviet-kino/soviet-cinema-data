@@ -8,6 +8,7 @@ runtime_min: 139
 external_ids:
   wikidata: Q2072323
   imdb: tt0063104
+  tmdb: 480117
 sources:
 - https://www.wikidata.org/wiki/Q2072323
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: kalenik-mieczys-aw
 studio:
 - iluzjon
+poster_tmdb_path: /zgje9cqS3LENBnnSvslTTx3hQBa.jpg
+backdrop_tmdb_path: /9EyBMbyBfOMM19louzuAl81NLbZ.jpg

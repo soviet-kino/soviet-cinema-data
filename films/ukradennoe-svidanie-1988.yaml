@@ -26,6 +26,9 @@ cast:
 external_ids:
   wikidata: Q20001423
   imdb: tt0134188
+  tmdb: 696902
 sources:
 - https://www.wikidata.org/wiki/Q20001423
 schema_version: 1
+poster_tmdb_path: /lVTs0coZXwTtN082Xvo9qvOjBBQ.jpg
+backdrop_tmdb_path: /aIyvULcVGlxHEbVXMl05P3x0zKk.jpg

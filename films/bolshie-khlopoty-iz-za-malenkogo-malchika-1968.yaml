@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27049571
   imdb: tt0321490
+  tmdb: 588359
 sources:
 - https://www.wikidata.org/wiki/Q27049571
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - guba-vladimir
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /qsdKyvPLFsndblDsBqhWaKhibFb.jpg
+backdrop_tmdb_path: /f8g6B8H9wqrBsSEefPWG9kkekvm.jpg

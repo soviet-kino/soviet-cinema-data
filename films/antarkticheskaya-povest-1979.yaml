@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q21555100
   imdb: tt0305231
   youtube: V-MHId2_Nsg
+  tmdb: 342629
 sources:
 - https://www.wikidata.org/wiki/Q21555100
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - mosfilm
 cast:
 - person: grigorev-konstantin-konstantinovich
+poster_tmdb_path: /4dUL5VK0YqIElaO12M2bEsMGdof.jpg
+backdrop_tmdb_path: /ommTZg2PNvROnMZ7Xymw2AUWvRd.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q24529799
   imdb: tt0181096
+  tmdb: 316614
 sources:
 - https://www.wikidata.org/wiki/Q24529799
 schema_version: 1
 director:
 - chengich-bakhrudin
+poster_tmdb_path: /c0fXwnKZUBQZBbIOkEu88Dcx9YJ.jpg
+backdrop_tmdb_path: /qXBl73WxlGBwVidbfg9b5zc0K17.jpg

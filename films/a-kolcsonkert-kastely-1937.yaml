@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q468182
   imdb: tt0029099
+  tmdb: 41168
 sources:
 - https://www.wikidata.org/wiki/Q468182
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 screenwriter:
 - bekeffi-ishtvan
 - stella-adzhordan
+poster_tmdb_path: /haz1kjJ0QE83jycvGUvDSlrtrBB.jpg

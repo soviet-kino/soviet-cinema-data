@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q130292827
   imdb: tt4718998
+  tmdb: 1427580
 sources:
 - https://www.wikidata.org/wiki/Q130292827
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - doga-evgeniy
 studio:
 - moldova-film
+poster_tmdb_path: /73Opekotw3atSZsHId0UCf756WY.jpg
+backdrop_tmdb_path: /fW9XQEIvrcWAGNVxqhaRDOTjGU1.jpg

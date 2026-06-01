@@ -8,6 +8,7 @@ runtime_min: 40
 external_ids:
   wikidata: Q113005246
   imdb: tt0268406
+  tmdb: 1418278
 sources:
 - https://www.wikidata.org/wiki/Q113005246
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - machavariani-aleksey-davidovich
 studio:
 - gruziya-film
+poster_tmdb_path: /5DVqt52kxt3JiYRfb7z0gs2m0rb.jpg
+backdrop_tmdb_path: /mzowlEY3u6WmIIOsYdU1XFVZ2Ic.jpg

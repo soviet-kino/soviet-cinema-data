@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q7943382
   imdb: tt0069478
+  tmdb: 276711
 sources:
 - https://www.wikidata.org/wiki/Q7943382
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - adamich-boyan
 cast:
 - person: shtimats-slavko
+poster_tmdb_path: /ddmh2GmbNUPdePljx4Vk1lqftV7.jpg
+backdrop_tmdb_path: /nfsZcaYuprZvP9flauX4Dln2WoB.jpg

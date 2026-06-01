@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7658723
   imdb: tt0230349
+  tmdb: 439260
 sources:
 - https://www.wikidata.org/wiki/Q7658723
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: kuter-charlotte
 studio:
 - defa
+poster_tmdb_path: /gUUSaoF2qTntIN3mEz5EyIfa3Zu.jpg

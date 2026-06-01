@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q7235128
   imdb: tt0194270
+  tmdb: 502053
 sources:
 - https://www.wikidata.org/wiki/Q7235128
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 cast:
 - person: madunich-zlatko
 - person: cuk-janez
+poster_tmdb_path: /c1U2qe3lPnPW3Ovdlp2GHNfv9RH.jpg

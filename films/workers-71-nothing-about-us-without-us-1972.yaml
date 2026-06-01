@@ -8,6 +8,7 @@ runtime_min: 46
 external_ids:
   wikidata: Q66105073
   imdb: tt0067683
+  tmdb: 363560
 sources:
 - https://www.wikidata.org/wiki/Q66105073
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - stok-vitold
 studio:
 - warsaw-documentary-film-studio
+poster_tmdb_path: /7DtbHdkGjC6MgvrCdIRv5Wmizyu.jpg

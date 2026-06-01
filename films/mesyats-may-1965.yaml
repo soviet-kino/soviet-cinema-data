@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97279132
   imdb: tt5038382
   youtube: Hfqw6wYEwrs
+  tmdb: 432946
 sources:
 - https://www.wikidata.org/wiki/Q97279132
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - sandler-oskar-aronovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /qZVlKfsoLFCHpedPA6YvXPVfFnt.jpg
+backdrop_tmdb_path: /is3YhFRYS2INuGRzakum1yIdCuk.jpg

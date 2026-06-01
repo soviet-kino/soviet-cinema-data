@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q54970
   imdb: tt0064203
+  tmdb: 210487
 sources:
 - https://www.wikidata.org/wiki/Q54970
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 studio:
 - studio-kinostudiya
 poster_commons: Modelska Kobiela Człowiek z M-3.jpg
+poster_tmdb_path: /jqpjygNnmr7TDzsDJRLl3Ob8bpx.jpg
+backdrop_tmdb_path: /njjr80S5bRuzLML0aW2CZJsRLOY.jpg

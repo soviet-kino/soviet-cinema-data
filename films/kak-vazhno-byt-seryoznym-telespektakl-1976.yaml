@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4208799
   imdb: tt2187374
   youtube: _bfHUJ8kEeU
+  tmdb: 707980
 sources:
 - https://www.wikidata.org/wiki/Q4208799
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: simonova-evgeniya-pavlovna
 - person: vasileva-tatyana-grigorevna
 - person: sukharevskaya-lidiya
+poster_tmdb_path: /jD6BycN2mnd83HNUwIgvdmEyzl3.jpg

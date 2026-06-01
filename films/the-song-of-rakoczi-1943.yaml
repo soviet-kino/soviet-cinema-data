@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123529368
   imdb: tt0036320
+  tmdb: 822988
 sources:
 - https://www.wikidata.org/wiki/Q123529368
 schema_version: 1
 director:
 - daroczy-jozsef
+poster_tmdb_path: /2EvZGWmxUX72VkWlERyWLQT9HHZ.jpg

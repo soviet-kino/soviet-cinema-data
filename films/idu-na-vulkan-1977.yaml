@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16418233
   imdb: tt1456655
+  tmdb: 534973
 sources:
 - https://www.wikidata.org/wiki/Q16418233
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: maniev-mukhtar
 - person: khudaverdiev-kamal
 - person: ogly-sheykhzamanov-mamedrza-isa
+poster_tmdb_path: /xo75PVBBVYaMGRcmB8zWroe2XsN.jpg

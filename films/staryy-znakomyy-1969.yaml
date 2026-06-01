@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4441189
   imdb: tt0168191
+  tmdb: 472042
 sources:
 - https://www.wikidata.org/wiki/Q4441189
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: filippov-sergey-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /4MGT74qRuZkEGO9J5J73YYspPVY.jpg
+backdrop_tmdb_path: /ejGbuMMbDjH5hZvapvl33FFfXx9.jpg

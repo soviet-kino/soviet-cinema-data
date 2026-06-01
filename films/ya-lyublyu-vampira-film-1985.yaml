@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q11763079
   imdb: tt0091444
+  tmdb: 386303
 sources:
 - https://www.wikidata.org/wiki/Q11763079
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kuzemskiy-eliash
 - person: prokhyra-yan
 - person: marek-barbasevich
+poster_tmdb_path: /9oSy0WahPD1mY4lM3JU1zormUQx.jpg
+backdrop_tmdb_path: /iqa3Eatu2nExW2r7PnX28g0QIEQ.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12275870
   imdb: tt0343160
+  tmdb: 878584
 sources:
 - https://www.wikidata.org/wiki/Q12275870
 schema_version: 1
 director:
 - shivachev-simeon
+poster_tmdb_path: /ziSd1gEz0ZhRJP7LpWHfNUxxXrb.jpg

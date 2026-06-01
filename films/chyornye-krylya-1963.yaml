@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q277227
   imdb: tt0056970
+  tmdb: 919642
 sources:
 - https://www.wikidata.org/wiki/Q277227
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: mayda-bogdana
 - person: lodynskiy-yuzef
 - person: novakovski-andzhey
+poster_tmdb_path: /cNt7WpaX1NUhRJDCgVJt9yPOZ3A.jpg

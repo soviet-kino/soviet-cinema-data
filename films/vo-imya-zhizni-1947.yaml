@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15545277
   imdb: tt0039085
   youtube: tEjwbmtYcrE
+  tmdb: 67797
 sources:
 - https://www.wikidata.org/wiki/Q15545277
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /xjYmQlOBHU0REDJEVCeYD8bBdDb.jpg
+backdrop_tmdb_path: /zW9jjxtsKTI9AboZtb3bVlgz9D2.jpg

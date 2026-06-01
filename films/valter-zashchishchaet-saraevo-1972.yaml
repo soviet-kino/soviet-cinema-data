@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q82223
   imdb: tt0069452
+  tmdb: 90617
 sources:
 - https://www.wikidata.org/wiki/Q82223
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: neda-spasoevich
 - person: sekic-ramiz
 - person: gucevac-ranko
+poster_tmdb_path: /3LcUaRrnXqtSUDFIc8xtuSmlRD1.jpg
+backdrop_tmdb_path: /mfHTKqt4yF6JFhV4vrfrm3RTOaI.jpg

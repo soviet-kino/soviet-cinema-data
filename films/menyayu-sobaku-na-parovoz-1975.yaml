@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4290699
   imdb: tt0073377
   youtube: tegsX26XPZI
+  tmdb: 462220
 sources:
 - https://www.wikidata.org/wiki/Q4290699
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: sergachyov-viktor-nikolaevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /1nwpiV5OltZakOBcj4BTCp6YjNv.jpg
+backdrop_tmdb_path: /9j8FDI7mJxhxDXi7nZuy1biU9Cw.jpg

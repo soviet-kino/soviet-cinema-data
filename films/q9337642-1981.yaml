@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9337642
   imdb: tt0354102
+  tmdb: 484758
 sources:
 - https://www.wikidata.org/wiki/Q9337642
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 composer:
 - lalo-aleksander
+poster_tmdb_path: /mRfCAlmIXln3M5AV93m4oT2Araa.jpg
+backdrop_tmdb_path: /dKsJUYCLcfDwrmYGsoscHorfHWI.jpg

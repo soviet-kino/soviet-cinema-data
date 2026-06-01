@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5288137
   imdb: tt0169151
   youtube: stl1AZrul5Y
+  tmdb: 199425
 sources:
 - https://www.wikidata.org/wiki/Q5288137
 schema_version: 1
@@ -81,3 +82,4 @@ cast:
 - person: zahradnickova-jana
 - person: austova-vaclava
 - person: jaros-t
+poster_tmdb_path: /vpXrdZeoeWdFUbHVpGpissGrOdq.jpg

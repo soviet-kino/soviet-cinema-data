@@ -25,6 +25,9 @@ poster_commons: Narcissus and Psyche - Poster.jpg
 external_ids:
   wikidata: Q1965498
   imdb: tt0081254
+  tmdb: 8778
 sources:
 - https://www.wikidata.org/wiki/Q1965498
 schema_version: 1
+poster_tmdb_path: /ssAmLbclhB4aTOt08v7AmdiFI63.jpg
+backdrop_tmdb_path: /hyM7mCiaaACJXe0tuPvusHU1Leb.jpg

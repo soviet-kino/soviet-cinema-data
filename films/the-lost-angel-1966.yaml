@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q23566102
   imdb: tt0061151
+  tmdb: 316094
 sources:
 - https://www.wikidata.org/wiki/Q23566102
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - noymann-klaus
 composer:
 - azriel-andre
+poster_tmdb_path: /1H4uRhlg6XmHEKIMzlWAMCn6DDZ.jpg
+backdrop_tmdb_path: /mkzEsuEMuBkGpcRcCA7pwkcodKN.jpg

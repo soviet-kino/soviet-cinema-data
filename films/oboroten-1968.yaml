@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25522232
   imdb: tt0445527
+  tmdb: 389684
 sources:
 - https://www.wikidata.org/wiki/Q25522232
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: rammeld-ene
 studio:
 - tallinfilm
+poster_tmdb_path: /j6JgJPStZe67lCiga9aY2RohWoL.jpg
+backdrop_tmdb_path: /9tgmfUeIfh5Vg02ch3pxlPngK9z.jpg

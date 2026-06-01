@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q128957962
   imdb: tt0273972
   youtube: t_UC3OkToxw
+  tmdb: 895230
 sources:
 - https://www.wikidata.org/wiki/Q128957962
 schema_version: 1
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ph8yh5QU2PIEsWfIQg44wzM3Qwr.jpg

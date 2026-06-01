@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4235900
   imdb: tt0239538
+  tmdb: 533510
 sources:
 - https://www.wikidata.org/wiki/Q4235900
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: sadalskiy-stanislav-yurevich
 - person: anofriev-oleg-andreevich
 - person: ilichyov-viktor-grigorevich
+poster_tmdb_path: /7YjMgccmB8z1YCa5itrmYweyJBE.jpg
+backdrop_tmdb_path: /8kKDpvwn0ya5HcTIisIwjBP93kz.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q11716266
   imdb: tt0071686
+  tmdb: 135827
 sources:
 - https://www.wikidata.org/wiki/Q11716266
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - zielinski-andrzej
 cast:
 - person: maklakiewicz-zdzis-aw
+poster_tmdb_path: /wDaeAF2SbwY27JD6go8s6y9a0tb.jpg
+backdrop_tmdb_path: /r5Lgm9T9yEHFtvU9oWdrOaGRCSs.jpg

@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4508862
   imdb: tt6253352
+  tmdb: 448688
 sources:
 - https://www.wikidata.org/wiki/Q4508862
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: Champiom (USSR, 1948).jpg
+poster_tmdb_path: /3nayf0PnwIYzznZ4MFLvbtqBpUw.jpg

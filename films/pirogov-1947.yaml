@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4363366
   imdb: tt0039710
+  tmdb: 457585
 sources:
 - https://www.wikidata.org/wiki/Q4363366
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: malyutin-yakov-osipovich
 studio:
 - lenfilm
+poster_tmdb_path: /15bZx871EjfbV5SR5JS5On4M45l.jpg
+backdrop_tmdb_path: /idovxC1UPn5PEFXE8G4Xs0WhCuK.jpg

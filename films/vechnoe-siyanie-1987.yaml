@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12648283
   imdb: tt0200619
+  tmdb: 528406
 sources:
 - https://www.wikidata.org/wiki/Q12648283
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - puypa-algimantas
 screenwriter:
 - savelis-rimantas
+poster_tmdb_path: /gqU4S6Ra9j5xEyCvcnqwYytqRse.jpg
+backdrop_tmdb_path: /cAsUiLJOQkniUJlZuIRG5fk1MQT.jpg

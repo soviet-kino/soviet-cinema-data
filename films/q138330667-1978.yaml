@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q138330667
   imdb: tt0076480
+  tmdb: 662372
 sources:
 - https://www.wikidata.org/wiki/Q138330667
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - khildebrand-ishtvan
 composer:
 - kormendi-vilmos
+poster_tmdb_path: /nmKCCOGNCdfUqaLVdQjhgvDggdN.jpg

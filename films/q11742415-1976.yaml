@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11742415
   imdb: tt0171611
+  tmdb: 440431
 sources:
 - https://www.wikidata.org/wiki/Q11742415
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - gjika-viktor
 screenwriter:
 - lako-teodor
+poster_tmdb_path: /s9DrfpzCXmjxC4L5cWMEXjGacWn.jpg
+backdrop_tmdb_path: /r2Z55TVw8fUnxEWetfsFFr2Kp76.jpg

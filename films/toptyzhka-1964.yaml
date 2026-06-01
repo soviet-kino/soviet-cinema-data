@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4460900
   imdb: tt1332621
+  tmdb: 77559
 sources:
 - https://www.wikidata.org/wiki/Q4460900
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - vaynberg-moisey-samuilovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9eKZJ11fA9eGNwx7WJr1K99tZNT.jpg
+backdrop_tmdb_path: /2rhJ72yrjrexyiHFC3jjIY3R5ZP.jpg

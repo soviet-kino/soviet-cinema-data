@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q106716888
   imdb: tt0240940
+  tmdb: 441044
 sources:
 - https://www.wikidata.org/wiki/Q106716888
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: barkmann-ingrid
 - person: landl-frantisek
 - person: st-karel-hovorka
+poster_tmdb_path: /serALBqfvj69iCRgMoST7qGXXbs.jpg

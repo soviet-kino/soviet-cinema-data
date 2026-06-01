@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4239350
   imdb: tt0076283
   youtube: TgxT-F75XIw
+  tmdb: 418664
 sources:
 - https://www.wikidata.org/wiki/Q4239350
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - zatsepin-aleksandr
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /uWPxpvkQX1CaTEUgdlFRdDnoSXG.jpg
+backdrop_tmdb_path: /vxPkolXnf96CoWVyBKczoEwaPL5.jpg

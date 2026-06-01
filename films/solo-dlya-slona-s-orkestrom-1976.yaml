@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4427916
   imdb: tt0073728
   youtube: Fl5yN6EpJpc
+  tmdb: 341541
 sources:
 - https://www.wikidata.org/wiki/Q4427916
 schema_version: 1
@@ -84,3 +85,5 @@ cast:
 studio:
 - mosfilm
 - barrandov
+poster_tmdb_path: /vILSBMPwGrxI6WGPzKLZZUhrZ4D.jpg
+backdrop_tmdb_path: /z6otvaa7BlTnZojtYjIAQM8efkm.jpg

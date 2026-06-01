@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15411105
   imdb: tt0174757
+  tmdb: 656581
 sources:
 - https://www.wikidata.org/wiki/Q15411105
 schema_version: 1
@@ -83,3 +84,4 @@ cast:
 - person: vrabec-martin
 - person: sulc-jiri
 - person: smolik-petr
+poster_tmdb_path: /jEMJhJZIBy2sooNwFPKdcThlZhQ.jpg

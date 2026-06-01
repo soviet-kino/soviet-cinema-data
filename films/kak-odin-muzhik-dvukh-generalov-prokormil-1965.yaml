@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514545
   imdb: tt5520740
+  tmdb: 431398
 sources:
 - https://www.wikidata.org/wiki/Q16514545
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - aleksandrov-anatoliy-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9FtSXtZVbv6TSqM5k4paoAeRJvA.jpg
+backdrop_tmdb_path: /6Gynzsp2yrEpEom7WhRwpHIyKPx.jpg

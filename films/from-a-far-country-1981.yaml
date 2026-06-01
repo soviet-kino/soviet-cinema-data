@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q9383743
   imdb: tt0083356
+  tmdb: 132585
 sources:
 - https://www.wikidata.org/wiki/Q9383743
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: zharnetskiy-andzhey
 - person: piskorz-leszek
 - person: zhil-kerol
+poster_tmdb_path: /8LIjjJ7OjNnZRNrE4FLdA8DnsgX.jpg
+backdrop_tmdb_path: /vcP9N0FCKs7lS7goKUjme2h9f5G.jpg

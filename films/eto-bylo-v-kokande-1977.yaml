@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4533086
   imdb: tt5450320
   youtube: JlNOkIBnrKU
+  tmdb: 1252605
 sources:
 - https://www.wikidata.org/wiki/Q4533086
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kaidanovsky-aleksandr
 - person: umarov-khamza
 - person: ganiev-otabek
+poster_tmdb_path: /t3FPWDssaf3IrXCnLMsw2DjZhpi.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q785532
   imdb: tt0064769
+  tmdb: 79243
 sources:
 - https://www.wikidata.org/wiki/Q785532
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: koosh-yanosh
 - person: medvetski-ilona
 - person: pshota-iren
+poster_tmdb_path: /gJu05RLD70WhRJcfgERUHEDNxIN.jpg
+backdrop_tmdb_path: /3qQeOpnj6f42rn1S0bK8i3teZZx.jpg

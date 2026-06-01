@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761111
   imdb: tt0065661
+  tmdb: 502530
 sources:
 - https://www.wikidata.org/wiki/Q16761111
 schema_version: 1
@@ -14,3 +15,4 @@ cast:
 - person: petar-bozhovich
 - person: begolli-faruk
 - person: cumic-dragomir
+poster_tmdb_path: /sq1fWPFx6AEjVly6JgDluGLHGEJ.jpg

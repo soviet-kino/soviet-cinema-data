@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15271097
   imdb: tt0275254
+  tmdb: 484143
 sources:
 - https://www.wikidata.org/wiki/Q15271097
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: livanov-aristarkh-evgenevich
 studio:
 - belarusfilm
+poster_tmdb_path: /cI1PLsVj4XjaK9BUXsvuX6Mqiur.jpg
+backdrop_tmdb_path: /nGHcbyYRznevsmmIGug1JM0t6eh.jpg

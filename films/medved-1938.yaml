@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4287498
   imdb: tt0030428
   youtube: xyWsbYob5es
+  tmdb: 396987
 sources:
 - https://www.wikidata.org/wiki/Q4287498
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: sorokin-konstantin-nikolaevich
 studio:
 - belarusfilm
+poster_tmdb_path: /iyKxlcZXagqJ25943dNYPzlBYpJ.jpg
+backdrop_tmdb_path: /j2f9O8nSuBvlIeNIRbrVz0OYA8e.jpg

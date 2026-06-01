@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q3551976
   imdb: tt0064843
+  tmdb: 212761
 sources:
 - https://www.wikidata.org/wiki/Q3551976
 schema_version: 1
@@ -95,3 +96,5 @@ cast:
 - person: volk-vaclav
 studio:
 - barrandov
+poster_tmdb_path: /lomlfc0dGV2PBKvrKgo1gpmH6lO.jpg
+backdrop_tmdb_path: /cz1t1iBFXqmPp0DLFOEtMO7zDg7.jpg

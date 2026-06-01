@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q12033737
   imdb: tt0174876
+  tmdb: 160092
 sources:
 - https://www.wikidata.org/wiki/Q12033737
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: buriankova-yveta
 - person: hartychova-alena
 - person: pacholik-frantisek
+poster_tmdb_path: /ipna7TiR0yblG6egctakFSHKF8D.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q651553
   imdb: tt0022215
+  tmdb: 262745
 sources:
 - https://www.wikidata.org/wiki/Q651553
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: sobolevskiy-pyotr-stanislavovich
 studio:
 - lenfilm
+poster_tmdb_path: /1k3LZDe7cq7cyB888fUJIjcIWrm.jpg
+backdrop_tmdb_path: /byHEy3W3gLwjKBcNayvzyS4hMxt.jpg

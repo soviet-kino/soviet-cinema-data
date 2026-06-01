@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4187811
   imdb: tt5277040
   youtube: DOWoDU5-5aU
+  tmdb: 381594
 sources:
 - https://www.wikidata.org/wiki/Q4187811
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - vilenskiy-valeriy-vladimirovich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /8JC4Qpyk2OmBcZQwuORpxYQAr3x.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q42298794
   imdb: tt0305247
+  tmdb: 293707
 sources:
 - https://www.wikidata.org/wiki/Q42298794
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: noyman-tomas
 - person: bastubbe-ilse
 - person: staiger-gerd
+poster_tmdb_path: /s9hMWI9i9CPoJ36gn5hB1ozwp1T.jpg
+backdrop_tmdb_path: /tcYABRKXKWTr1iqF4HZIrlr1YPz.jpg

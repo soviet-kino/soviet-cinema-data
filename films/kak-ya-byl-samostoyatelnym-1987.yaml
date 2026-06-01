@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208860
   imdb: tt1726664
+  tmdb: 800346
 sources:
 - https://www.wikidata.org/wiki/Q4208860
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - radkevich-evgeniy-grigorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /7wkXpqm1ghJ6gItrRSjZGPOj54h.jpg

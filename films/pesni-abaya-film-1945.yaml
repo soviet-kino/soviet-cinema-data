@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q12526277
   imdb: tt0175031
   youtube: Qz_6oMg0lOw
+  tmdb: 752642
 sources:
 - https://www.wikidata.org/wiki/Q12526277
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - roshal-grigoriy-lvovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /m32pRsPCtMx22wBVq1smkloK2Lm.jpg

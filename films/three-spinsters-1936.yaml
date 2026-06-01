@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q1057064
   imdb: tt0027771
+  tmdb: 53836
 sources:
 - https://www.wikidata.org/wiki/Q1057064
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - kurzmayer-karl
 composer:
 - szlatinay-sandor
+poster_tmdb_path: /sqXS4Aa9QZ85OUKvlIXTWLMnK5f.jpg
+backdrop_tmdb_path: /xDT0I9AUQimIioM0AeOM341JDBr.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11688515
   imdb: tt0061415
+  tmdb: 785842
 sources:
 - https://www.wikidata.org/wiki/Q11688515
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: tomaszewska-glinska-marzena
 - person: radulski-edward
 - person: q112828068
+poster_tmdb_path: /nurSkyAjMpGMTubw3B21Mu9gfq4.jpg
+backdrop_tmdb_path: /kdkO4odtQIXFeoWovF4DbYSxYf6.jpg

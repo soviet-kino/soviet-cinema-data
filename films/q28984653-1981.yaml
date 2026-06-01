@@ -8,8 +8,11 @@ runtime_min: 96
 external_ids:
   wikidata: Q28984653
   imdb: tt0357778
+  tmdb: 787178
 sources:
 - https://www.wikidata.org/wiki/Q28984653
 schema_version: 1
 director:
 - hellwig-joachim
+poster_tmdb_path: /h9LBhu7Iy0azT9sCN2grKhpLPKq.jpg
+backdrop_tmdb_path: /jB7rJSbhkiBNchpWZdtMNH2jGiZ.jpg

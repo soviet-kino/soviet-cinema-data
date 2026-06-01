@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1579305
   imdb: tt0064542
+  tmdb: 46809
 sources:
 - https://www.wikidata.org/wiki/Q1579305
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: ani-endel
 studio:
 - tallinfilm
+poster_tmdb_path: /miB1rYhgp7FUalSLeRAWyMYeNvc.jpg
+backdrop_tmdb_path: /8N1Idlj9tnnKRnTZsL3g36ew9gJ.jpg

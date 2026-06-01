@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130261809
   imdb: tt6100150
+  tmdb: 440548
 sources:
 - https://www.wikidata.org/wiki/Q130261809
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - sidorov-vladimir-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zKjrFnykioeRFzNlK7MyvdUbJv4.jpg

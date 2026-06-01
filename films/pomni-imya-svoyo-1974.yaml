@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4371732
   imdb: tt0177122
+  tmdb: 294716
 sources:
 - https://www.wikidata.org/wiki/Q4371732
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 studio:
 - mosfilm
 - iluzjon
+poster_tmdb_path: /3Q1AS9n2ffz5k7R28ExRXbgG2lU.jpg

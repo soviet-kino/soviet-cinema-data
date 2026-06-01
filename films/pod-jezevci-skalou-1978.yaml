@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q12045771
   imdb: tt0124061
+  tmdb: 159048
 sources:
 - https://www.wikidata.org/wiki/Q12045771
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: kindl-milan
 studio:
 - barrandov
+poster_tmdb_path: /w4cdEBeiVONoVgS7f1Xn50fvBTJ.jpg
+backdrop_tmdb_path: /gIyaqmdDv3kVxV7p1wihjj0r6Xt.jpg

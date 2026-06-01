@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q4703279
   imdb: tt0356111
+  tmdb: 333920
 sources:
 - https://www.wikidata.org/wiki/Q4703279
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: khamama-faten
 - person: mazhar-akhmed
+poster_tmdb_path: /qwW9jjyOJ0t7VXjt9i3Lt7z4Wci.jpg

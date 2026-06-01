@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4281843
   imdb: tt1862478
   youtube: E6sd5OXaGIs
+  tmdb: 253354
 sources:
 - https://www.wikidata.org/wiki/Q4281843
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - golovanov-vladimir-antonovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /rVT9WCwPeUKk6TZT82qzj0MMM3B.jpg

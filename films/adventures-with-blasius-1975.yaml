@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q102047149
   imdb: tt0072463
+  tmdb: 344932
 sources:
 - https://www.wikidata.org/wiki/Q102047149
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: hamouzova-slavka
 - person: q131823517
 - person: tichacek-mojmir
+poster_tmdb_path: /AkypJs6OKQtI5BVR35nAsuxvqdc.jpg

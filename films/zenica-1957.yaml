@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11248242
   imdb: tt0177410
+  tmdb: 265547
 sources:
 - https://www.wikidata.org/wiki/Q11248242
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: starcic-viktor
 - person: milic-nikola
 - person: dragoslav-popovich
+poster_tmdb_path: /f3k7PdnTHQtHp7EIy5HuMdQAvUE.jpg
+backdrop_tmdb_path: /cf1mFIuGFbabuDMmjNdmGEWJMbQ.jpg

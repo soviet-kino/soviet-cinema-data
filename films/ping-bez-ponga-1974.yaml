@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184356
   imdb: tt0199948
+  tmdb: 1567579
 sources:
 - https://www.wikidata.org/wiki/Q31184356
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zegarats-dushitsa
 - person: vladimir-popovich
 - person: sokich-ruzhitsa
+poster_tmdb_path: /v2VIgIrvNUBXXWDCpHhZSHoWAxK.jpg

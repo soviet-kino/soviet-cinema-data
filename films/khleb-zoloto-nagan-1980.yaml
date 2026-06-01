@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4498013
   imdb: tt0080995
   youtube: lEhkOs3LTKQ
+  tmdb: 147377
 sources:
 - https://www.wikidata.org/wiki/Q4498013
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: borisov-vladimir-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /e6X83wsGHyhVD5QEWahzWccXfGS.jpg
+backdrop_tmdb_path: /lK6KwQvoFaKEQlhsaRJrTriBXEc.jpg

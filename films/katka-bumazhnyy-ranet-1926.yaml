@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3194178
   imdb: tt0017025
   youtube: IFtI2jsDjrM
+  tmdb: 189486
 sources:
 - https://www.wikidata.org/wiki/Q3194178
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - lenfilm
 - sovkino
+poster_tmdb_path: /kUoStyCi1mnwwm3IZdGXCZI9R58.jpg
+backdrop_tmdb_path: /x3JtJzFx5JMHsWlXdkxC4mItH4J.jpg

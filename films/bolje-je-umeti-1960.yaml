@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12749256
   imdb: tt0179685
+  tmdb: 266445
 sources:
 - https://www.wikidata.org/wiki/Q12749256
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: zarko-mitrovich
 - person: veselinovits-branka
 - person: katalinich-blazhenka
+poster_tmdb_path: /mJfPqKneQClPPpIefIDWIyt8AGY.jpg
+backdrop_tmdb_path: /2TnofjcrOcyBDVBXZlNme6JK1oF.jpg

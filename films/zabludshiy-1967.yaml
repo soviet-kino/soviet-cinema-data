@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21639520
   imdb: tt0061211
+  tmdb: 532138
 sources:
 - https://www.wikidata.org/wiki/Q21639520
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: smirnova-lidiya-nikolaevna
 - person: kryuchkov-nikolay-afanasevich
 - person: luchko-klara-stepanovna
+poster_tmdb_path: /tHlx6zPnVy4bwtJR0NLS2qLL1jy.jpg
+backdrop_tmdb_path: /3IDYBaaOTuyV9OYgb4n5u3n7Ab5.jpg

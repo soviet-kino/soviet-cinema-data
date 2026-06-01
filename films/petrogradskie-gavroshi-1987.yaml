@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4361439
   imdb: tt0300333
   youtube: 2K7rSAWukWo
+  tmdb: 896070
 sources:
 - https://www.wikidata.org/wiki/Q4361439
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: lebedev-evgeniy-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /bQcvMGJLQ81lUfpdDSsFoF04uIq.jpg

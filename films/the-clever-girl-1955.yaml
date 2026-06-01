@@ -11,6 +11,8 @@ director:
 external_ids:
   wikidata: Q15621829
   imdb: tt3494204
+  tmdb: 572046
 sources:
 - https://www.wikidata.org/wiki/Q15621829
 schema_version: 1
+poster_tmdb_path: /uEAibzYa1H7iS6EUk17A8cXKv94.jpg

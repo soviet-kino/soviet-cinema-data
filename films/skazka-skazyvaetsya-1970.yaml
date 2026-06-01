@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4421398
   imdb: tt6347186
+  tmdb: 454124
 sources:
 - https://www.wikidata.org/wiki/Q4421398
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - botyarov-evgeniy-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6pfkahvPB5yoAfgM1Y6SO7D7Ytq.jpg
+backdrop_tmdb_path: /xtdKktWyy70StFCa2TNZRc1udN2.jpg

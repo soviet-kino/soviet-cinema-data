@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q47002138
   imdb: tt0237516
   youtube: hmbut1-BZtw
+  tmdb: 535785
 sources:
 - https://www.wikidata.org/wiki/Q47002138
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: yakovlev-aleksandr-anatolevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /1pPC37KJm9h9wEcjRzmGskrIlaP.jpg

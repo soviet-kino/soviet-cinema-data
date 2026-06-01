@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q6991010
   imdb: tt0130234
+  tmdb: 324757
 sources:
 - https://www.wikidata.org/wiki/Q6991010
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 cast:
 - person: bar-adon-pessah
 poster_commons: Sabra 1.jpg
+poster_tmdb_path: /oZENKHeXaMtMaxNG4DhHLNyWuob.jpg

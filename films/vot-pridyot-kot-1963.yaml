@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q2593049
   imdb: tt0056844
+  tmdb: 47852
 sources:
 - https://www.wikidata.org/wiki/Q2593049
 schema_version: 1
@@ -67,3 +68,5 @@ cast:
 - person: vechetova-bozena
 studio:
 - barrandov
+poster_tmdb_path: /5u2Z5pu8hLEP1PHFzswPRyl70qP.jpg
+backdrop_tmdb_path: /bFFw0zYBNA7HmMTVZUNEcjyF668.jpg

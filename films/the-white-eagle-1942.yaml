@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q21994338
   imdb: tt0035554
+  tmdb: 236861
 sources:
 - https://www.wikidata.org/wiki/Q21994338
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - palmer-ernest
 studio:
 - concanen-films-ltd
+poster_tmdb_path: /KGXPPaPlAlClLHDujd1T3U5eRX.jpg

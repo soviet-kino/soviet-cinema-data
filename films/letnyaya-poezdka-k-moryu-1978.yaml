@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270714
   imdb: tt1733166
   youtube: COnptKk2uRw
+  tmdb: 344065
 sources:
 - https://www.wikidata.org/wiki/Q15270714
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 cast:
 - person: skorobogatov-nikolay-arkadevich
+poster_tmdb_path: /mSWy3jV1N5iATTuBeThWZNY32Yq.jpg
+backdrop_tmdb_path: /6JCbI8b8zwi148EMuBXSzWRpxEy.jpg

@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q59780451
   imdb: tt2326362
+  tmdb: 1064297
 sources:
 - https://www.wikidata.org/wiki/Q59780451
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - layta-laslo
 studio:
 - mafilm
+poster_tmdb_path: /b59GwItvjf6HVlfzl8IfxdyN0T2.jpg

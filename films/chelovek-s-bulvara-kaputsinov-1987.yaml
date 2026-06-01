@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1195685
   imdb: tt0092745
   youtube: 4JZzsIncaVo
+  tmdb: 45227
 sources:
 - https://www.wikidata.org/wiki/Q1195685
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: karachentsov-nikolay
 studio:
 - mosfilm
+poster_tmdb_path: /9GAPbG2B0NEBaWXRO04VHnJ1UVg.jpg
+backdrop_tmdb_path: /nQd4VWlm63lHLfL8Br7fukeO9m9.jpg

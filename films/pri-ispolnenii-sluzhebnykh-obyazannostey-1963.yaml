@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4377594
   imdb: tt2678326
   youtube: BYIBSG3SLHA
+  tmdb: 345134
 sources:
 - https://www.wikidata.org/wiki/Q4377594
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: sarantsev-yuriy-dmitrievich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mX54X6lHnpYiC8PTHTF73vJTOAd.jpg
+backdrop_tmdb_path: /e1TnZppO54c1jXDGSYFKatB0qYz.jpg

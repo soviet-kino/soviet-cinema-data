@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7729959
   imdb: tt0009853
+  tmdb: 1549576
 sources:
 - https://www.wikidata.org/wiki/Q7729959
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: kramer-leopold
 - person: varkoni-viktor
+poster_tmdb_path: /qkPmu2S0a9hX0bVULlaaE0ET3YO.jpg

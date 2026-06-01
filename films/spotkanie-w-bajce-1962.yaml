@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9340500
   imdb: tt0056517
+  tmdb: 594339
 sources:
 - https://www.wikidata.org/wiki/Q9340500
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: shlyonskaya-aleksandra
 - person: kholoubek-gustav
 - person: zavadskaya-magdalena
+poster_tmdb_path: /wzQGUUgxCXYnQJy4ds9EWgMJZx4.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q85999221
   imdb: tt0265586
+  tmdb: 1528405
 sources:
 - https://www.wikidata.org/wiki/Q85999221
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: nakhapetov-rodion-rafailovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /zeVRCESbm0eyCk6wM9WJzHJxuzX.jpg

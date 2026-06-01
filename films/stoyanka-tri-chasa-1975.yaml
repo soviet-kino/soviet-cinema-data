@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q109428489
   imdb: tt4840062
+  tmdb: 888341
 sources:
 - https://www.wikidata.org/wiki/Q109428489
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - flyarkovskiy-aleksandr-georgievich
 studio:
 - mosfilm
+poster_tmdb_path: /g4FoTN7gAZaP9w2ElsjdUB8yKpJ.jpg

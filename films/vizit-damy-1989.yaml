@@ -8,6 +8,7 @@ runtime_min: 144
 external_ids:
   wikidata: Q4110879
   imdb: tt0127966
+  tmdb: 121968
 sources:
 - https://www.wikidata.org/wiki/Q4110879
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kashintsev-igor-konstantinovich
 studio:
 - mosfilm
+poster_tmdb_path: /jjXreWxPDqVjZHCZSJPP6I8J7E4.jpg
+backdrop_tmdb_path: /tnoUlJC739RkswAlPRqFCpgQQuO.jpg

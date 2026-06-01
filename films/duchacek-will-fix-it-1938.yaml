@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q5311397
   imdb: tt0150407
+  tmdb: 159288
 sources:
 - https://www.wikidata.org/wiki/Q5311397
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: nemec-karel
 - person: jarkovsky-ferdinand
 - person: drazil-vaclav
+poster_tmdb_path: /AlIfk0MyLOgoy74Gs2uooxwUkzF.jpg
+backdrop_tmdb_path: /9cat3XiYZS95uALcUiD2SgPe8Hz.jpg

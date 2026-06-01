@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q11739061
   imdb: tt0064543
+  tmdb: 159271
 sources:
 - https://www.wikidata.org/wiki/Q11739061
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - valyatsinskiy-adam
 cast:
 - person: semion-voytsekh
+poster_tmdb_path: /zxsuQFyPmzhY7wWlaFaao1PlOlK.jpg

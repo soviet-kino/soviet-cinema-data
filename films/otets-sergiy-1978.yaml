@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4339526
   imdb: tt0168112
   youtube: -NjVL0hEheU
+  tmdb: 263799
 sources:
 - https://www.wikidata.org/wiki/Q4339526
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bondarchuk-sergey-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /jjcU9JRbImuX2UEIWYdfPVGGkRz.jpg
+backdrop_tmdb_path: /qCVKOrp72Rt0gzegml0yFWMNP6V.jpg

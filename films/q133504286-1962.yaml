@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q133504286
   imdb: tt0329032
+  tmdb: 651787
 sources:
 - https://www.wikidata.org/wiki/Q133504286
 schema_version: 1
@@ -69,3 +70,4 @@ cast:
 - person: munzar-zdenek
 - person: bauer-jiri
 - person: adolfova-barbora
+poster_tmdb_path: /aNMShQVskco46gDPo3MeJsof4g9.jpg

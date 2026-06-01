@@ -8,8 +8,10 @@ runtime_min: 15
 external_ids:
   wikidata: Q12173432
   imdb: tt0170095
+  tmdb: 1218861
 sources:
 - https://www.wikidata.org/wiki/Q12173432
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
+poster_tmdb_path: /fwFR1p8jKQspiHEMreTUgHhRX7K.jpg

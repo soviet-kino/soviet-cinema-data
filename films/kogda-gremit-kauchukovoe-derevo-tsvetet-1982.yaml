@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q100347556
   imdb: tt1808662
+  tmdb: 515792
 sources:
 - https://www.wikidata.org/wiki/Q100347556
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: miethling-jens
 - person: sanden-alexandra
 - person: flegel-ulrike
+poster_tmdb_path: /oCT3MMZmw0qwXaChOBmZT4FleBu.jpg

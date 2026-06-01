@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q24284757
   imdb: tt3447746
   youtube: 3TcgZOeoM8Q
+  tmdb: 190536
 sources:
 - https://www.wikidata.org/wiki/Q24284757
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - lobachyov-grigoriy-grigorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pjTP0dtyHtifwba4YckrUHwNs3m.jpg

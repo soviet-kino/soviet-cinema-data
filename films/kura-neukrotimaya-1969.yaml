@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4247687
   imdb: tt1279422
+  tmdb: 524538
 sources:
 - https://www.wikidata.org/wiki/Q4247687
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kovalkov-vladislav-timofeevich
 - person: sadykhova-zemfira
 - person: aliev-eldar
+poster_tmdb_path: /bF3wrk3yDpDGw1p6PhSIRYky7qu.jpg
+backdrop_tmdb_path: /oaXadVxA4Qfk80YexxGlSxUF0Pk.jpg

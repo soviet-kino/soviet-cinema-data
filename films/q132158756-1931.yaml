@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q132158756
   imdb: tt0022330
+  tmdb: 342060
 sources:
 - https://www.wikidata.org/wiki/Q132158756
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - luts-teodor
 studio:
 - theodor-lutsu-filmiproduktsioon
+poster_tmdb_path: /uQKziSQdiFbeLwLWNPv2xYeW3IP.jpg

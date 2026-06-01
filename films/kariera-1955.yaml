@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11735694
   imdb: tt0048243
+  tmdb: 605746
 sources:
 - https://www.wikidata.org/wiki/Q11735694
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - skrovachevskiy-stanislav
 cast:
 - person: sviderskiy-yan
+backdrop_tmdb_path: /jfPiinkLKW7xfypxz63V9LquaMs.jpg

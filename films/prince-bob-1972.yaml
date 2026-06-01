@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q832702
   imdb: tt0068299
+  tmdb: 216795
 sources:
 - https://www.wikidata.org/wiki/Q832702
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - bakoni-karoy
 - bekeffi-ishtvan
+poster_tmdb_path: /2seHxhs6FFbuvMcyxzBtLjoeKs9.jpg

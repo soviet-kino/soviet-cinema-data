@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4142557
   imdb: tt0284153
   youtube: RysVPUn4wSc
+  tmdb: 636781
 sources:
 - https://www.wikidata.org/wiki/Q4142557
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: bespalyy-aleksandr-sergeevich
 - person: gvozdyov-evgeniy
 - person: titov-konstantin-grigorevich
+poster_tmdb_path: /3YyxitiuOFabhvNXclevWRzvj8T.jpg
+backdrop_tmdb_path: /7TodaWIGOOh76JF5BrzGWhOUB7T.jpg

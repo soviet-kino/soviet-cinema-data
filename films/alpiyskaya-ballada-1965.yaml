@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4063538
   imdb: tt0139829
+  tmdb: 405630
 sources:
 - https://www.wikidata.org/wiki/Q4063538
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: lyubshin-stanislav-andreevich
 - person: rumyantseva-lyubov-grigorevna
+poster_tmdb_path: /cqe5aycwzHKr5m1bbuYAizlL2zy.jpg
+backdrop_tmdb_path: /xxhmLfIz55gq30q1ybX2pUEzdwF.jpg

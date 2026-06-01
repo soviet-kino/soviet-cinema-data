@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4101685
   imdb: tt0262863
   youtube: KJqKwNCwkt4
+  tmdb: 620877
 sources:
 - https://www.wikidata.org/wiki/Q4101685
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - zoloev-taymuraz-aleksandrovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /omzPZgIt1UJkPzHhsnhD9NraLpk.jpg
+backdrop_tmdb_path: /ydkBOT5XoB95G31z6zbuGspVthK.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q5304495
   imdb: tt0065659
+  tmdb: 280535
 sources:
 - https://www.wikidata.org/wiki/Q5304495
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - gref-roland
 composer:
 - rozenfeld-gerkhard
+poster_tmdb_path: /hsfcM8j4a40m0ZpDtClKu8YP7Eo.jpg

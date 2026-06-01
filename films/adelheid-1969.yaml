@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q3566100
   imdb: tt0122371
+  tmdb: 113456
 sources:
 - https://www.wikidata.org/wiki/Q3566100
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: krupickova-jana
 - person: matl-zdenek
 - person: petrikova-vlasta
+poster_tmdb_path: /enJyIJwiYvrVbe5OXLqn5gkqERN.jpg
+backdrop_tmdb_path: /f9edaRDGfKRZdljZ9ghu4lec9Oi.jpg

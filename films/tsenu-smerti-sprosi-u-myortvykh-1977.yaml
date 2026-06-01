@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20001212
   imdb: tt0174538
   youtube: rOrdSy-MJXk
+  tmdb: 519340
 sources:
 - https://www.wikidata.org/wiki/Q20001212
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - sumera-lepo
 studio:
 - tallinfilm
+poster_tmdb_path: /gC5ABlk3JDkrXEpksWZdAgfM15b.jpg
+backdrop_tmdb_path: /nVVQUJW3BK4X6D17XVtYuGW7ahc.jpg

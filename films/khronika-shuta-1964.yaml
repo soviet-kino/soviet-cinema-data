@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q3563514
   imdb: tt0057894
+  tmdb: 57983
 sources:
 - https://www.wikidata.org/wiki/Q3563514
 schema_version: 1
@@ -90,3 +91,5 @@ cast:
 - person: palivec-k
 studio:
 - kinostudiya-gotvaldova
+poster_tmdb_path: /fGWWLLqusiKsTO2U1QKaB1KwBwC.jpg
+backdrop_tmdb_path: /wVBWufH6x4CvannAECmcNGrlLzB.jpg

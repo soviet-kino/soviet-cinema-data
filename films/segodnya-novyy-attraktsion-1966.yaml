@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4412804
   imdb: tt0196082
+  tmdb: 71346
 sources:
 - https://www.wikidata.org/wiki/Q4412804
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: chetverikov-vladimir-anatolevich
 studio:
 - lenfilm
+poster_tmdb_path: /3RMISZPyy33t5vqQf5VEuohgfxI.jpg
+backdrop_tmdb_path: /dTYIn86pnYhd0POWcPT1oGtUj5M.jpg

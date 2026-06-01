@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4234087
   imdb: tt0129184
   youtube: F5Y5_GwNsqY
+  tmdb: 449771
 sources:
 - https://www.wikidata.org/wiki/Q4234087
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - frenkel-yan-abramovich
 - mazhukov-aleksey-sergeevich
 - ptichkin-evgeniy
+poster_tmdb_path: /vkeipztR0aSbcLJl0norVX2ZflN.jpg
+backdrop_tmdb_path: /lFQ3roO19u2tK00wTEPtdhkFbYk.jpg

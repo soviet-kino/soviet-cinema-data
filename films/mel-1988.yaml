@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16353366
   imdb: tt4575476
+  tmdb: 1504808
 sources:
 - https://www.wikidata.org/wiki/Q16353366
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - vigners-ivars
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /ApkBuf8zpi0vnaT2QXyMG5XBIKW.jpg
+backdrop_tmdb_path: /fJkR3ENOULaD68DgmIWRjv0KR7l.jpg

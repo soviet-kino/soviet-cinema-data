@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1775194
   imdb: tt0092879
   youtube: dhZ8Q-ORJ9A
+  tmdb: 4885
 sources:
 - https://www.wikidata.org/wiki/Q1775194
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: tereshchenko-irina-georgievna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /1r050Led0OpxOUh9zFy5d1WPJ0m.jpg
+backdrop_tmdb_path: /uyqLzO7SUAAYQWNQnLk7JpUEffl.jpg

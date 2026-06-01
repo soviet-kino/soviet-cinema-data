@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17555817
   imdb: tt0400638
+  tmdb: 748160
 sources:
 - https://www.wikidata.org/wiki/Q17555817
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - khen-yozef
 composer:
 - komeda-kshishtof
+poster_tmdb_path: /shLKuXCQjHXAkyxF3ppVtVLbch9.jpg
+backdrop_tmdb_path: /cq1F79frGgKKjakZXRGrL20gPzT.jpg

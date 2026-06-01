@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4128977
   imdb: tt0092185
   youtube: 916D6GTfFto
+  tmdb: 388428
 sources:
 - https://www.wikidata.org/wiki/Q4128977
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: priselkov-sergey-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /tS5tbWzReQ5cy67yrLfBMXESPBb.jpg
+backdrop_tmdb_path: /lALJqI9ivbLaF7zuISztJC868VB.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56365308
   imdb: tt4686464
+  tmdb: 1260364
 sources:
 - https://www.wikidata.org/wiki/Q56365308
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: kuzmenkov-yuriy-aleksandrovich
 - person: ryzhakov-valeriy-nikolaevich
 - person: sanaeva-elena-vsevolodovna
+poster_tmdb_path: /bptIFYCZLS3MuS50eQZzY3IKzc2.jpg

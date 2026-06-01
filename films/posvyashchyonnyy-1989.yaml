@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q4373581
   imdb: tt0098110
+  tmdb: 447411
 sources:
 - https://www.wikidata.org/wiki/Q4373581
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: vorobyov-gabriel-vladislavovich
 studio:
 - lenfilm
+poster_tmdb_path: /6UiD48faUd1eGGAgtSs7NbLpPht.jpg
+backdrop_tmdb_path: /tC4sfypOJ1ZcwH92cGQkgVDUKaK.jpg

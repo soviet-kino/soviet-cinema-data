@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q130154731
   imdb: tt1090216
+  tmdb: 283053
 sources:
 - https://www.wikidata.org/wiki/Q130154731
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - blayvayss-tselino
 cinematographer:
 - yaoyte-gyunter
+poster_tmdb_path: /dskh4VZ8hOyXfaVngGqILxo4OnO.jpg
+backdrop_tmdb_path: /o6W9PKsFwDbzhHjrDcue0pt3AXE.jpg

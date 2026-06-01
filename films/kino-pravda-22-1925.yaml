@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q134479989
   imdb: tt0949742
+  tmdb: 176721
 sources:
 - https://www.wikidata.org/wiki/Q134479989
 schema_version: 1
 director:
 - vertov-dziga
+poster_tmdb_path: /tOpNXwdQdmlXPTiy4Ie9IXkJJwz.jpg
+backdrop_tmdb_path: /zfUqzm5mhsEbOSbVFPaY94sFMse.jpg

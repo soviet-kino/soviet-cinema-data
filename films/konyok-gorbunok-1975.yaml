@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21930147
   imdb: tt0239096
   youtube: LuTuvXdqDAM
+  tmdb: 73924
 sources:
 - https://www.wikidata.org/wiki/Q21930147
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - druyan-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9Wr3xnwvIGbThF5p1frf43oH8Nw.jpg
+backdrop_tmdb_path: /wIE436lMvXpLByb2lz01gnVJGfi.jpg

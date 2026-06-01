@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q113499287
   imdb: tt0068009
   youtube: _8gbSivHElo
+  tmdb: 849620
 sources:
 - https://www.wikidata.org/wiki/Q113499287
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 - smirnov-oleg-pavlovich
 studio:
 - turkmenfilm
+poster_tmdb_path: /Yzca4pg0uMh2PEoa92fpV7hkes.jpg

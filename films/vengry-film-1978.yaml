@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q1476010
   imdb: tt0077891
+  tmdb: 202779
 sources:
 - https://www.wikidata.org/wiki/Q1476010
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: molnar-tibor
 - person: szabo-istvan-o
 - person: sabo-shandor
+poster_tmdb_path: /rN5e5Ql06q2stCwPP9ayDSXi613.jpg
+backdrop_tmdb_path: /pvakbkFa5O9eExGGK1BeuyLOwrP.jpg

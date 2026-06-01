@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12530506
   imdb: tt0170835
   youtube: pLdc3Z5Coi4
+  tmdb: 258939
 sources:
 - https://www.wikidata.org/wiki/Q12530506
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - rakhmadiev-erkegali-rakhmadievich
 studio:
 - kazakhfilm
+poster_tmdb_path: /m77prkKh9CdjaT9mqc8xQnPX0U6.jpg

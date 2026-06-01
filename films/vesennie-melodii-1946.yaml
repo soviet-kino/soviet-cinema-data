@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q21636911
   imdb: tt9239328
+  tmdb: 446970
 sources:
 - https://www.wikidata.org/wiki/Q21636911
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - chaykovskiy-pyotr-ilich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /31T8ixLkZykPW4yTLNoHmqUqNLn.jpg

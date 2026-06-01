@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11772523
   imdb: tt0066048
+  tmdb: 601888
 sources:
 - https://www.wikidata.org/wiki/Q11772523
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: malgozhata-lyorentovich
 - person: levandovskiy-marek
 - person: khvalibog-mariya
+backdrop_tmdb_path: /oCHwV1YhbVdTkj9fbHtpSjcgJo.jpg

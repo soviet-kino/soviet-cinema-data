@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q489483
   imdb: tt0092806
+  tmdb: 125069
 sources:
 - https://www.wikidata.org/wiki/Q489483
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: mariya-robashkevich
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /ycw7BMEHqjbEKB6l9PHm5MlWLj7.jpg
+backdrop_tmdb_path: /bozLg9Ui1L2liATeJXYGJZ347jp.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4359593
   imdb: tt4617636
+  tmdb: 439686
 sources:
 - https://www.wikidata.org/wiki/Q4359593
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - buevskiy-boris-nikolaevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /wtuxg0QGVNEAeo6pEcdzb9znGZg.jpg

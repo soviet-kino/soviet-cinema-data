@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q1171360
   imdb: tt0336611
+  tmdb: 352912
 sources:
 - https://www.wikidata.org/wiki/Q1171360
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: brendler-gertrud
 - person: lozanski-rolf
 - person: noyenkhan-villi
+poster_tmdb_path: /yFFmZunmtxRJ6dEQCVl5P57iNSw.jpg
+backdrop_tmdb_path: /uxzm5um4bFOtIBQ6YsgAfYT0Bi9.jpg

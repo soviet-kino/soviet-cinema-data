@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4167525
   imdb: tt0171242
   youtube: fQiY-sfaZp4
+  tmdb: 881686
 sources:
 - https://www.wikidata.org/wiki/Q4167525
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kozhakina-galina-ivanovna
 studio:
 - lenfilm
+poster_tmdb_path: /rRbWNGWCzhGSpDlKGiCuOGoY2p0.jpg
+backdrop_tmdb_path: /lKEAQGi5bImYnyY6bmcJHanKq2A.jpg

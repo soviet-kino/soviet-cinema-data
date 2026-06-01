@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4224477
   imdb: tt0314279
   youtube: Y0QJ3iEPrh4
+  tmdb: 267540
 sources:
 - https://www.wikidata.org/wiki/Q4224477
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: bessarab-valeriy-aleksandrovich
 - person: lenkov-aleksandr-sergeevich
+poster_tmdb_path: /sbWAVVb9uagubX6qlYjKu8yOlWH.jpg
+backdrop_tmdb_path: /xVc2OVmwwDQ3ILzjWwTPxtjYWw3.jpg

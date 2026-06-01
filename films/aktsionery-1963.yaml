@@ -8,8 +8,11 @@ runtime_min: 25
 external_ids:
   wikidata: Q17631631
   imdb: tt1238099
+  tmdb: 206747
 sources:
 - https://www.wikidata.org/wiki/Q17631631
 schema_version: 1
 director:
 - davydov-roman-vladimirovich
+poster_tmdb_path: /7G184IG88WnjXcFg9CTxzo5hcfD.jpg
+backdrop_tmdb_path: /2CQqvUBoK9kap6OwmLSOE5TFxCc.jpg

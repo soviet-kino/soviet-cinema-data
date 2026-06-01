@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q11862910
   imdb: tt0287982
+  tmdb: 585905
 sources:
 - https://www.wikidata.org/wiki/Q11862910
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: masek-p
 - person: materna-d
 - person: vaclavova-tana
+poster_tmdb_path: /oiPnbosH0Au9hMWI6pxhD6jYqjk.jpg
+backdrop_tmdb_path: /e8ErreBLrt6HzFnSAffhSloRgrI.jpg

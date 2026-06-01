@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97314076
   imdb: tt0359326
+  tmdb: 848405
 sources:
 - https://www.wikidata.org/wiki/Q97314076
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: burkhanov-shukur
 - person: irgashev-shukhrat-ibragimovich
 - person: khomyatov-roman-zakharevich
+poster_tmdb_path: /4NqHLqojyWikvqj9oCzgmTlEExN.jpg

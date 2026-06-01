@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q535427
   imdb: tt0059915
+  tmdb: 7085
 sources:
 - https://www.wikidata.org/wiki/Q535427
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: baldini-renato
 - person: slobodan-dimitrievich
 - person: maricic-veljko
+poster_tmdb_path: /2ogQNQ4uCPKj48bQHtJpkkQ65kA.jpg
+backdrop_tmdb_path: /8viekHLJISuhitoskhrENyNhUKZ.jpg

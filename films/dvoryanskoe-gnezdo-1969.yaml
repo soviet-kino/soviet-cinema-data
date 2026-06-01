@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156102
   imdb: tt0064268
   youtube: 1bHj3i69R3s
+  tmdb: 149170
 sources:
 - https://www.wikidata.org/wiki/Q4156102
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: beata-tyshkevich
 - person: kupchenko-irina-petrovna
 - person: kulagin-leonid-nikolaevich
+poster_tmdb_path: /dB8rXbT5rJtxYXhmRsnU8AT3Tjf.jpg
+backdrop_tmdb_path: /lXkW7tumbkUc5MUjuH8N0neLYs2.jpg

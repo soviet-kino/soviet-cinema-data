@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q9248678
   imdb: tt0295741
+  tmdb: 462867
 sources:
 - https://www.wikidata.org/wiki/Q9248678
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ljarja-marieta
 studio:
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /wfY2GF4RCfjYNW4X57YUH3zO20k.jpg
+backdrop_tmdb_path: /dpc8NSmo7VvjyzEvNPWK0VXDhBl.jpg

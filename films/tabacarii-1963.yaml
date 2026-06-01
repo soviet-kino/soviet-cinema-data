@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44874541
   imdb: tt0140597
+  tmdb: 839933
 sources:
 - https://www.wikidata.org/wiki/Q44874541
 schema_version: 1
 director:
 - ilieshu-mirel
+poster_tmdb_path: /2UDH9s23Lod6iYiGDS2BEfxHWZS.jpg

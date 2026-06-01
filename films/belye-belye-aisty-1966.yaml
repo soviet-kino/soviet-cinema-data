@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q117859962
   imdb: tt0171095
+  tmdb: 292640
 sources:
 - https://www.wikidata.org/wiki/Q117859962
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: beyshenaliev-bolot
 - person: isaeva-sayram
 - person: latypov-khikmat
+poster_tmdb_path: /6nOZps8K7WH1q3gDQZDI1zO40aO.jpg

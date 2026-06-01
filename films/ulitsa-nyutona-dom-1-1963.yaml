@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4473387
   imdb: tt0057614
+  tmdb: 826859
 sources:
 - https://www.wikidata.org/wiki/Q4473387
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - lenfilm
 cast:
 - person: ilenko-yuriy-gerasimovich
+poster_tmdb_path: /aHigoMLSdkpJ765AW1LEbpEi8Bb.jpg

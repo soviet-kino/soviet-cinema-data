@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q11738959
   imdb: tt0298025
+  tmdb: 519700
 sources:
 - https://www.wikidata.org/wiki/Q11738959
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gjoni-valter
 studio:
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /9A0jwQOGkAbLtxNglrrQ4KeuWX0.jpg
+backdrop_tmdb_path: /qHyWfeett4adymPBQ6r6Wiyeinh.jpg

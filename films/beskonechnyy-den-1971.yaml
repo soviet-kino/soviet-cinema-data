@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q31272119
   imdb: tt2061738
+  tmdb: 617186
 sources:
 - https://www.wikidata.org/wiki/Q31272119
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - tooming-yaan
 studio:
 - eesti-telefilm
+poster_tmdb_path: /kmn82wCRp5o6vkxkDd1BhL5f4pF.jpg

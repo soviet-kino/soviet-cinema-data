@@ -8,9 +8,11 @@ runtime_min: 95
 external_ids:
   wikidata: Q31190065
   imdb: tt0170152
+  tmdb: 831609
 sources:
 - https://www.wikidata.org/wiki/Q31190065
 schema_version: 1
 director:
 - aleksandrov-grigoriy-vasilevich
 - vasilev-dmitriy-ivanovich
+poster_tmdb_path: /5r35WzMxvKdDtPibeAnBVH7rEmX.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4006127
   imdb: tt0042977
   youtube: Lx7w2iiZFAM
+  tmdb: 158726
 sources:
 - https://www.wikidata.org/wiki/Q4006127
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gurzo-sergey-safonovich
 studio:
 - mosfilm
+poster_tmdb_path: /mXrMaJiX8XDrYbkdIG7WqFtJsdX.jpg
+backdrop_tmdb_path: /iwtzf2A7Ym2EUDZU1nkqQFeqLr.jpg

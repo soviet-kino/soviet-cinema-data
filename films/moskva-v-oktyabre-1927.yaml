@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q30095031
   imdb: tt0018173
+  tmdb: 444465
 sources:
 - https://www.wikidata.org/wiki/Q30095031
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: bobrov-ivan-vasilevich
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /xWkSEt2vONtFrmaw5DZ5vMkYIqG.jpg

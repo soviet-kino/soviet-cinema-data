@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q152273
   imdb: tt0008810
+  tmdb: 1549572
 sources:
 - https://www.wikidata.org/wiki/Q152273
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: lotto-clare
 - person: varkoni-viktor
 - person: molnar-laslo-z
+poster_tmdb_path: /hJOi5CDoQ0inCf0ykAJdXKdcZ7o.jpg

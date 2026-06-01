@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q43302337
   imdb: tt0175820
+  tmdb: 247117
 sources:
 - https://www.wikidata.org/wiki/Q43302337
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: vejmelkova-jana
 - person: schrofel-erik
 - person: linke-vilem
+poster_tmdb_path: /eqleGeL0HsiJL8hRhmZaIxQlpxc.jpg
+backdrop_tmdb_path: /sXzOqZttAJT4MGtkxZa84zvdgDY.jpg

@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q15270480
   imdb: tt0312454
+  tmdb: 499283
 sources:
 - https://www.wikidata.org/wiki/Q15270480
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: azamatova-stalina-azimovna
 - person: akhmetov-ruslan-yusupdzhanovich
 - person: shatskaya-nina-sergeevna
+poster_tmdb_path: /6MLMiazoUocjwCwoIXEo7Mhc7LJ.jpg
+backdrop_tmdb_path: /xEaUrOES6ZubfakSKmOA3Gl4XNN.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q9259648
   imdb: tt0083938
+  tmdb: 156974
 sources:
 - https://www.wikidata.org/wiki/Q9259648
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: gebski-filip
 studio:
 - iluzjon
+poster_tmdb_path: /z3XZZv91CC9UnLOkMuHLu2REK3R.jpg
+backdrop_tmdb_path: /6URObnzwpk5g081CWHiP1kXaDWB.jpg

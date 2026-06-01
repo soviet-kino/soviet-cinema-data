@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q7931342
   imdb: tt0171892
+  tmdb: 724580
 sources:
 - https://www.wikidata.org/wiki/Q7931342
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: nedved-jaroslav
 - person: nejdlova-dana
 - person: andres-e
+poster_tmdb_path: /9l3XrTQTxRbx1SKw7Ou4T1CisX2.jpg

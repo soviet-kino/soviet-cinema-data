@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1813933
   imdb: tt0068842
+  tmdb: 288832
 sources:
 - https://www.wikidata.org/wiki/Q1813933
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: stark-otto
 - person: dayss-viktor
 - person: viehmann-franz
+poster_tmdb_path: /sGKUVa4Rg8MRB3kQmzFtoYwD1Sl.jpg
+backdrop_tmdb_path: /fVHidp9pKC4jrQrisrNMvdcAg3i.jpg

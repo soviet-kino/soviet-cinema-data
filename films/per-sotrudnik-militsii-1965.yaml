@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4385494
   imdb: tt0274719
+  tmdb: 1219382
 sources:
 - https://www.wikidata.org/wiki/Q4385494
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: kakhiani-imeda-vladimirovich
 studio:
 - gruziya-film
+poster_tmdb_path: /iKDXFiooDqnOsV73jp0egxJgfpc.jpg
+backdrop_tmdb_path: /bwEcMvglxh8ZyT5jg6eofdYZ8mK.jpg

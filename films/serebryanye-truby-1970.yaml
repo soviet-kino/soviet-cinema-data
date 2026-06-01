@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4417417
   imdb: tt2942750
   youtube: lmLizi4uUGU
+  tmdb: 848972
 sources:
 - https://www.wikidata.org/wiki/Q4417417
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: myagkov-andrey-vasilevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /p0K9DY5Wf3sNTJrJXbawQn1NoQ7.jpg

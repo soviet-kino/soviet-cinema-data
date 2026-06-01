@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16514575
   imdb: tt1794855
   youtube: 1Ypy3IZnQNo
+  tmdb: 429360
 sources:
 - https://www.wikidata.org/wiki/Q16514575
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - chukovskiy-korney-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /rJzV16AQsB34OkEfsAUb2IoFh92.jpg

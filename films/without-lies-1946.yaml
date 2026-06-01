@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123758964
   imdb: tt0037768
+  tmdb: 1247451
 sources:
 - https://www.wikidata.org/wiki/Q123758964
 schema_version: 1
 director:
 - gertler-viktor
+poster_tmdb_path: /a1UlNtOSNXuSQbxreDcT02z8DUI.jpg

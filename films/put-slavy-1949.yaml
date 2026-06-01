@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q15270986
   imdb: tt0176068
+  tmdb: 612259
 sources:
 - https://www.wikidata.org/wiki/Q15270986
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: bondarchuk-sergey-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /gwrkIztPlB8Ve5OkfGrx8UwjxMJ.jpg

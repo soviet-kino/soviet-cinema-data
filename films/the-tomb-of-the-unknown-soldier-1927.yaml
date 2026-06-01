@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q11784620
   imdb: tt0969724
+  tmdb: 161540
 sources:
 - https://www.wikidata.org/wiki/Q11784620
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 cast:
 - person: leshchinskiy-ezhi
 poster_commons: Mogiła nieznanego żołnierza (1927).jpg
+poster_tmdb_path: /5qlwSwG4JpRCduNZHb8NF0f1R7W.jpg

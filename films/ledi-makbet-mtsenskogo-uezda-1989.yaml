@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4257083
   imdb: tt0097724
   youtube: 5-lqqfCZydU
+  tmdb: 342167
 sources:
 - https://www.wikidata.org/wiki/Q4257083
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: kravchenko-tatyana-eduardovna
 studio:
 - mosfilm
+poster_tmdb_path: /s7sBRFEE73dGKbWcsp4sTfLIPws.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q125772
   imdb: tt0069293
   youtube: 6-4KydP92ss
+  tmdb: 593
 sources:
 - https://www.wikidata.org/wiki/Q125772
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: oganesyan-bagrat
 studio:
 - mosfilm
+poster_tmdb_path: /xYN3dwytiL3vgcuynzYitIcKmKS.jpg
+backdrop_tmdb_path: /jZv1u7uzpOE5JOc2MmrvPUZWoyb.jpg

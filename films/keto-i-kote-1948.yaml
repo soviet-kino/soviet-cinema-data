@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1965400
   imdb: tt0045957
+  tmdb: 399537
 sources:
 - https://www.wikidata.org/wiki/Q1965400
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: dzhaparidze-medeya-valerianovna
 studio:
 - gruziya-film
+poster_tmdb_path: /5SPwbdeuVyJPt7sUcOyDKKmrGzs.jpg
+backdrop_tmdb_path: /dyPd9geRluPkAAfih0FgawvwLsQ.jpg

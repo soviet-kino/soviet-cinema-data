@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4143083
   imdb: tt0266594
+  tmdb: 532857
 sources:
 - https://www.wikidata.org/wiki/Q4143083
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: kull-elle
 studio:
 - mosfilm
+poster_tmdb_path: /uiiHwJJyeCeOI4TgE2D6Arn9TH0.jpg
+backdrop_tmdb_path: /htQ2NnSOwhCVDtDgNZchsCm4ywm.jpg

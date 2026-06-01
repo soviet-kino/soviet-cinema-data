@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28465037
   imdb: tt4474466
+  tmdb: 425050
 sources:
 - https://www.wikidata.org/wiki/Q28465037
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - slonov-yuriy-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7pmBEoP94qu0fFdlO5UQVeKv2xt.jpg

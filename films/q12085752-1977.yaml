@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12085752
   imdb: tt0814583
+  tmdb: 1420170
 sources:
 - https://www.wikidata.org/wiki/Q12085752
 schema_version: 1
 director:
 - andronikashvili-otar-konstantinovich
+poster_tmdb_path: /s7weVmAJn7VvQh36qShUQYR5vSS.jpg
+backdrop_tmdb_path: /ko7fDNkcxk95ieO9L4EHqPd4dlT.jpg

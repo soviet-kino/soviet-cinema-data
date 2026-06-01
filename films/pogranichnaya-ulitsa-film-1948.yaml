@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q9365197
   imdb: tt0041999
+  tmdb: 317073
 sources:
 - https://www.wikidata.org/wiki/Q9365197
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: renard-irena
 - person: raciecka-halina
 poster_commons: Film nr 31-32 - Maja Broniewska - 1947-12-23.JPG
+poster_tmdb_path: /xRiWHDUEFPX0iVxG29d5B851Tld.jpg
+backdrop_tmdb_path: /f1x3qPv6XJBLAXFRFKzV0rtOFz9.jpg

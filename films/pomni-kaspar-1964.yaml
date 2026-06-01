@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270934
   imdb: tt0232438
+  tmdb: 830658
 sources:
 - https://www.wikidata.org/wiki/Q15270934
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - simonyan-nadezhda
 studio:
 - lenfilm
+poster_tmdb_path: /iSloheRoJfqroLqvKGK4wXpjyVj.jpg

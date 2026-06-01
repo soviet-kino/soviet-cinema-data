@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q4299854
   imdb: tt0056253
+  tmdb: 464435
 sources:
 - https://www.wikidata.org/wiki/Q4299854
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kruusement-arvo
 studio:
 - mosfilm
+poster_tmdb_path: /k6nteC7Bjm6OWL0k7S3pRKSBS8k.jpg
+backdrop_tmdb_path: /1Xuzm0aU313VTtLYAfifyvQ8X2p.jpg

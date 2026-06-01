@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q20001818
   imdb: tt0171873
+  tmdb: 332473
 sources:
 - https://www.wikidata.org/wiki/Q20001818
 schema_version: 1
@@ -17,3 +18,4 @@ director:
 screenwriter:
 - gofman-ezhi
 - skuzhevskiy-edvard
+poster_tmdb_path: /jVoV9hlFMfhQdB7obaF43sKsDaq.jpg

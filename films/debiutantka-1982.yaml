@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q9203075
   imdb: tt0083808
+  tmdb: 587941
 sources:
 - https://www.wikidata.org/wiki/Q9203075
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - maleki-matsey
 cast:
 - person: stalinska-dorota
+poster_tmdb_path: /mRhTSrGo6KiZSl2OZ2xbeJtTg8H.jpg
+backdrop_tmdb_path: /3cp5vI9nS7B2sSWaipJuvfdT5Hg.jpg

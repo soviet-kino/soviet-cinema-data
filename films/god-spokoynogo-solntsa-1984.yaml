@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q1094047
   imdb: tt0088009
+  tmdb: 42096
 sources:
 - https://www.wikidata.org/wiki/Q1094047
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 studio:
 - tor-kinostudiya
 poster_commons: Tablica poświęcona filmowi "Rok spokojnego słońca" w Toruniu.jpg
+poster_tmdb_path: /25qR06N9pGJiJidAyZO5BEUHu5c.jpg
+backdrop_tmdb_path: /zcYbG1IF5SJ62WeHqXg48ASPwP6.jpg

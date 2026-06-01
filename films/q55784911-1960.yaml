@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55784911
   imdb: tt0172422
+  tmdb: 286615
 sources:
 - https://www.wikidata.org/wiki/Q55784911
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - mariashshi-feliks
 screenwriter:
 - mariashshi-yudit
+poster_tmdb_path: /aA5VLAlgZsy4ZDYTczmf8m8Tj9.jpg

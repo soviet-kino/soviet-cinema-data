@@ -8,6 +8,7 @@ runtime_min: 520
 external_ids:
   wikidata: Q4213009
   imdb: tt5563508
+  tmdb: 362083
 sources:
 - https://www.wikidata.org/wiki/Q4213009
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - sasko-gennadiy-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /ozM1uEjqb3FQ8nf4ucCKkHJYIbU.jpg
+backdrop_tmdb_path: /5a7SPsGWMXpRgTPOIHWjI9S8ZAy.jpg

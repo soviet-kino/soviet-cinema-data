@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20077254
   imdb: tt6493354
+  tmdb: 439546
 sources:
 - https://www.wikidata.org/wiki/Q20077254
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - gomolyaka-vadim-borisovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /499YAcu8H8YzAowwctvOCQN2ezN.jpg
+backdrop_tmdb_path: /zAXeKDvUCPiOsqHT1vuYUxv2IaP.jpg

@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4217581
   imdb: tt3907386
+  tmdb: 239671
 sources:
 - https://www.wikidata.org/wiki/Q4217581
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - putse-voldemar
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /xj36g1wei193PQJ25bLBJgnzN64.jpg

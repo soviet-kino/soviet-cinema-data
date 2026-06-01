@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11819381
   imdb: tt0086115
+  tmdb: 605370
 sources:
 - https://www.wikidata.org/wiki/Q11819381
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: kopachevskiy-yaroslav
 - person: karpinskiy-machey
 - person: novish-pavel
+poster_tmdb_path: /e8qNOL0iYD3L7BjFH0mnqxTwqY.jpg

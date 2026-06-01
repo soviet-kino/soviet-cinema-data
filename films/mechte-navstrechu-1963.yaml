@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4292436
   imdb: tt0057301
   youtube: xquJ5-fZiNE
+  tmdb: 71018
 sources:
 - https://www.wikidata.org/wiki/Q4292436
 schema_version: 1
@@ -28,3 +29,5 @@ studio:
 cast:
 - person: koberidze-otar-leontevich
 - person: timofeev-nikolay-dmitrievich
+poster_tmdb_path: /7GK9hlLaCw51ephWVdvO4a9XunM.jpg
+backdrop_tmdb_path: /A0OMO21MmVTNXuVjTXrqHWl22ZD.jpg

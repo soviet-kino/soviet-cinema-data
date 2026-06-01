@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15271088
   imdb: tt0067299
   youtube: KYW0snd0r6w
+  tmdb: 873677
 sources:
 - https://www.wikidata.org/wiki/Q15271088
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 - person: ozerov-nikolay-nikolaevich
 - person: fyodorova-viktoriya-yakovlevna
+poster_tmdb_path: /tKQ7aWcSHeBQ5zEMGKQoMMqkK5y.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q105954512
   imdb: tt1404029
+  tmdb: 694219
 sources:
 - https://www.wikidata.org/wiki/Q105954512
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - geick-eberhard
 composer:
 - rozenfeld-gerkhard
+poster_tmdb_path: /cZgk7vqAN9R2uE05A21D0XN4vBe.jpg

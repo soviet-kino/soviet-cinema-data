@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q16119776
   imdb: tt0308562
+  tmdb: 357886
 sources:
 - https://www.wikidata.org/wiki/Q16119776
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - orfanelli-alvise
 cast:
 - person: dzhamal-samiya
+poster_tmdb_path: /4pYOHZM1hrQSg6dDjdKFsx8tbHg.jpg

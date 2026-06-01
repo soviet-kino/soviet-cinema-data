@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4113848
   imdb: tt0036505
   youtube: mvpIc8IMSGw
+  tmdb: 467893
 sources:
 - https://www.wikidata.org/wiki/Q4113848
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - mosfilm
 - kazakhfilm
+poster_tmdb_path: /bWK8Kc0h7G3hBdCjrQea06M1i9B.jpg
+backdrop_tmdb_path: /owzfoK9epfm5hYJidnOWqnalXFu.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q24700935
   imdb: tt0072503
+  tmdb: 334084
 sources:
 - https://www.wikidata.org/wiki/Q24700935
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: shmitt-valfride
 studio:
 - defa
+poster_tmdb_path: /sr6Z0n2sJ9dqK89gGwyZoJEI2oy.jpg

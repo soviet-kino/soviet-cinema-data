@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q569233
   imdb: tt0233654
+  tmdb: 2254
 sources:
 - https://www.wikidata.org/wiki/Q569233
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: klyaynert-folkmar
 - person: klas-ioganna
 - person: veldre-erik
+poster_tmdb_path: /zXFENUf171NppnS6jZCyxbVYOAt.jpg

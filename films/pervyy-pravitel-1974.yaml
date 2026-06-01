@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q5574231
   imdb: tt0071559
+  tmdb: 708042
 sources:
 - https://www.wikidata.org/wiki/Q5574231
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: noymann-vanda
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /h1qnZ8TEPv19wqC9FYojy5gQ1P8.jpg
+backdrop_tmdb_path: /rGY8oZWLGW3CdX5tAbKeBXb2ouO.jpg

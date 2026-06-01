@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127679
   imdb: tt0337440
   youtube: 6exdFedZ4OM
+  tmdb: 493029
 sources:
 - https://www.wikidata.org/wiki/Q4127679
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - sverdlovskaya-kinostudiya
 cast:
 - person: smirnov-vladimir-fyodorovich
+poster_tmdb_path: /b1C50kVhQhaGvhrW3G14oPWT1R0.jpg
+backdrop_tmdb_path: /lVu9x1hZo8rwbdESFXDlZxKqLm9.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462397
   imdb: tt1512865
   youtube: TCznWJLkX94
+  tmdb: 457420
 sources:
 - https://www.wikidata.org/wiki/Q4462397
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: ryzhakov-valeriy-nikolaevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /1sqh2TdJe2yLjceRY1A5cjuGmNK.jpg
+backdrop_tmdb_path: /5p7uGARyUTcvkMGnLNRQQxzYjpJ.jpg

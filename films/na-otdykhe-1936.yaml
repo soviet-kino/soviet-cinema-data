@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109428679
   imdb: tt0239691
   youtube: qN3fQ_Cqc74
+  tmdb: 535218
 sources:
 - https://www.wikidata.org/wiki/Q109428679
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Na otdyhe 1936 (1).jpg
+poster_tmdb_path: /gXMRXfvLGRxk7kbMIVRIMwZdTIX.jpg
+backdrop_tmdb_path: /mPQoEIzV6QAlZwi3d4aEE4lMlmd.jpg

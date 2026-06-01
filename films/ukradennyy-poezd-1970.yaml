@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4470385
   imdb: tt0318526
   youtube: lUsOSxDrR5E
+  tmdb: 585143
 sources:
 - https://www.wikidata.org/wiki/Q4470385
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: sanaev-vsevolod-vasilevich
 - person: arabov-boris
 - person: iliev-stefan
+poster_tmdb_path: /84OkG43kWR8vgO8NMw4wsc31qvx.jpg
+backdrop_tmdb_path: /1HIiEA7K0vQrfIu6MRHFNnMBR9P.jpg

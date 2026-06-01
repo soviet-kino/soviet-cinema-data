@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11793803
   imdb: tt0066165
+  tmdb: 579727
 sources:
 - https://www.wikidata.org/wiki/Q11793803
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - ziarnik-jerzy
 composer:
 - ezhi-matushkevich
+poster_tmdb_path: /zjAmtNejmpOoh3bIXnOSUIRguEw.jpg

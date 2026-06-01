@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q7294350
   imdb: tt0170495
+  tmdb: 605136
 sources:
 - https://www.wikidata.org/wiki/Q7294350
 schema_version: 1
+poster_tmdb_path: /rhl1yyzSSHqqOBo1bSs1kYWH5q3.jpg

@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q106771513
   imdb: tt0345869
+  tmdb: 474805
 sources:
 - https://www.wikidata.org/wiki/Q106771513
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 studio:
 - polskoe-televidenie
 - warsaw-documentary-film-studio
+poster_tmdb_path: /qGaHO6B4UGpjguBmz3NXj1xIZ0V.jpg

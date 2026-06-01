@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1196825
   imdb: tt0086260
+  tmdb: 223805
 sources:
 - https://www.wikidata.org/wiki/Q1196825
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: tschimiddordsh-budragtschagijn
 studio:
 - mongolkino
+poster_tmdb_path: /tm9GCFnIezKLHJr1XvWzxOJG3Hp.jpg
+backdrop_tmdb_path: /nuhJMVLDkm3dvmZtzUgcDnCdk2J.jpg

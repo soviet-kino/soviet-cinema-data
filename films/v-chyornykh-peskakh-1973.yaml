@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q86669086
   imdb: tt0329719
+  tmdb: 720476
 sources:
 - https://www.wikidata.org/wiki/Q86669086
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: vataev-bimbolat-zaurbekovich
 - person: nilov-gennadiy-petrovich
 - person: omaev-dagun-ibragimovich
+poster_tmdb_path: /ybctvJVIP13cVVzC14a9wr24rvs.jpg

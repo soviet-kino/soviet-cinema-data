@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q730340
   imdb: tt0056865
+  tmdb: 292676
 sources:
 - https://www.wikidata.org/wiki/Q730340
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: veldre-erik
 poster_commons: Bundesarchiv Bild 183-B0114-0003-003, DEFA-Film "Beschreibung eines
   Sommers", Bodenstein, Krug".jpg
+poster_tmdb_path: /2cAgYXhQJaNhYplpwJTTSx1yozi.jpg
+backdrop_tmdb_path: /dUew5Wn1xK6Uq1n3OABUFjZOxDf.jpg

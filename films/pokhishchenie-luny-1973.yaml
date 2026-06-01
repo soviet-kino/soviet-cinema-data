@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4375075
   imdb: tt0275856
+  tmdb: 1203896
 sources:
 - https://www.wikidata.org/wiki/Q4375075
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - gamsakhurdiya-konstantin-simonovich
 studio:
 - gruziya-film
+poster_tmdb_path: /29yPT7sCu5uJqPNlLgQWCjRQKnj.jpg
+backdrop_tmdb_path: /1DcifUVeVyBBjRTMfiuP8OL3qS6.jpg

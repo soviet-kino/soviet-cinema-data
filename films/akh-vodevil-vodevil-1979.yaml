@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4072889
   imdb: tt0078743
   youtube: k67DxEYCQ7o
+  tmdb: 37173
 sources:
 - https://www.wikidata.org/wiki/Q4072889
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: pugovkin-mikhail-ivanovich
 - person: belyaeva-galina
 - person: krylova-lyudmila-ivanovna
+poster_tmdb_path: /jMSLVzTEDMOWQ8e1J2t6ZlsO1uv.jpg
+backdrop_tmdb_path: /pCIUthcf1GueurTadBTqoLYXkKx.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4083167
   imdb: tt0312453
   youtube: 7JCBNscWJYQ
+  tmdb: 404346
 sources:
 - https://www.wikidata.org/wiki/Q4083167
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kononov-mikhail-ivanovich
 - person: krasko-ivan-ivanovich
 - person: ovchinnikova-lyusena-ivanovna
+poster_tmdb_path: /faRCcJQJnh6DaZS9juQMdbo2xJa.jpg
+backdrop_tmdb_path: /6ZCd0QYedBsDSHgWTfmDTacjmra.jpg

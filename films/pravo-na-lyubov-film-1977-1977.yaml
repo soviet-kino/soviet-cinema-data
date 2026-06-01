@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q12143253
   imdb: tt2034083
+  tmdb: 1520167
 sources:
 - https://www.wikidata.org/wiki/Q12143253
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: gasinov-zhorzh-inalovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bhw0eznZFyirW5HczyRb1PVB6VZ.jpg

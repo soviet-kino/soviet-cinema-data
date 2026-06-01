@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q8028941
   imdb: tt0194548
+  tmdb: 439271
 sources:
 - https://www.wikidata.org/wiki/Q8028941
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: trove-gizela
 - person: volf-gerri
 - person: shelkher-raymund
+poster_tmdb_path: /nreFubwDvWQXULhYp4DEmZdmNUK.jpg

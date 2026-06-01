@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q16444926
   imdb: tt0383292
+  tmdb: 497358
 sources:
 - https://www.wikidata.org/wiki/Q16444926
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: babkauskas-bronyus
 - person: paukshte-vitautas
+poster_tmdb_path: /vlDr3dZFfb3Qdffcrog1P7iCe60.jpg
+backdrop_tmdb_path: /tYZlG4L0U8iBaod2egwGfczGScW.jpg

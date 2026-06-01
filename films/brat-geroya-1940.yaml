@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270493
   imdb: tt0032278
   youtube: 9DGitRgOb88
+  tmdb: 638350
 sources:
 - https://www.wikidata.org/wiki/Q15270493
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: mirskiy-lev-solomonovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /lar7yVHQhQQVYATU6kciCjZK71b.jpg
+backdrop_tmdb_path: /r66O5UwCyRM4roR3DQf7cNfA6W2.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q15985069
   imdb: tt0314451
+  tmdb: 535680
 sources:
 - https://www.wikidata.org/wiki/Q15985069
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: fyodorova-viktoriya-yakovlevna
 studio:
 - lenfilm
+poster_tmdb_path: /8kl5Vxd58PVt220m6i0sWj4NaRM.jpg

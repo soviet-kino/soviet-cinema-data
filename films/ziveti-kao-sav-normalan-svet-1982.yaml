@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12751757
   imdb: tt0084951
+  tmdb: 283861
 sources:
 - https://www.wikidata.org/wiki/Q12751757
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: jezina-olivera
 - person: gonchich-svetislav
 - person: puzich-milan
+poster_tmdb_path: /bz8Eslcv2JxIrQoqQlvcCKIHRAp.jpg

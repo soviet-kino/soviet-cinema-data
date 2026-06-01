@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q29054481
   imdb: tt0060309
+  tmdb: 530734
 sources:
 - https://www.wikidata.org/wiki/Q29054481
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: pogodin-nikolay-nikolaevich
 - person: safonov-vsevolod-dmitrievich
 - person: chekan-stanislav-yulianovich
+poster_tmdb_path: /2OluY8GcnxfRnV5KdY9iCuPcrOZ.jpg

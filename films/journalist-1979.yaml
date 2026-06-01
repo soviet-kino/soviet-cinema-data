@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q6296254
   imdb: tt0079645
+  tmdb: 363200
 sources:
 - https://www.wikidata.org/wiki/Q6296254
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: zima-vera
 - person: zupanchich-milena
 - person: hajdarhodzic-izet
+poster_tmdb_path: /uvv7FGNwxEO0w0EU6FrGSMgkDSn.jpg

@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q2301345
   imdb: tt0174547
+  tmdb: 1001909
 sources:
 - https://www.wikidata.org/wiki/Q2301345
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: rotaru-sofiya
 - person: yaremchuk-nazariy-nazarovich
 - person: vasiliy-ivanovich-zinkevich
+poster_tmdb_path: /tAOvoroTakg27NOR9lmGaTKCCLH.jpg
+backdrop_tmdb_path: /13uPLOkVb0qcI3UOE6rddJmHW7U.jpg

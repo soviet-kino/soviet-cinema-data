@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6730883
   imdb: tt0009754
+  tmdb: 1549580
 sources:
 - https://www.wikidata.org/wiki/Q6730883
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - kyortis-maykl
 cast:
 - person: varkoni-viktor
+poster_tmdb_path: /xlf5Pgi9w6LSbPldcOwSwj3CiFa.jpg

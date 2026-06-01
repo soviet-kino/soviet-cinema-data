@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q29163231
   imdb: tt0057349
+  tmdb: 392823
 sources:
 - https://www.wikidata.org/wiki/Q29163231
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: sasek-vojtech
 - person: seplavy-antonin
 - person: chrzanovska-michaela
+poster_tmdb_path: /2GOwzj3x2Ugj6gDcS4HP8xMHt5W.jpg
+backdrop_tmdb_path: /AojqMVeXO0ig6H4SZlPDpHfquLC.jpg

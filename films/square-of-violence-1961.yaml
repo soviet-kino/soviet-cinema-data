@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q18636548
   imdb: tt0055473
+  tmdb: 245061
 sources:
 - https://www.wikidata.org/wiki/Q18636548
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: plesha-branko
 - person: starcic-viktor
 - person: sotlar-bert
+poster_tmdb_path: /2nT7hq7tiY6L5D8qMOPL8NulzWj.jpg

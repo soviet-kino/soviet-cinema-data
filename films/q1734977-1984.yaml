@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1734977
   imdb: tt0087539
+  tmdb: 276951
 sources:
 - https://www.wikidata.org/wiki/Q1734977
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: uider-teresiya
 - person: yellinek-uve
 - person: shrade-villi
+poster_tmdb_path: /bac0D07YZoNuGvqBlC1ejXUZr5p.jpg

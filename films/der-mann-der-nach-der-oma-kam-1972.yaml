@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1195407
   imdb: tt0067394
+  tmdb: 77849
 sources:
 - https://www.wikidata.org/wiki/Q1195407
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: bonacker-senta
 - person: shvabe-villi
 - person: greeze-volfgang
+poster_tmdb_path: /frbaMX53QDO23PcSAMqiwlyYvpq.jpg

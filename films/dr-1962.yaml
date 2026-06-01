@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q16761109
   imdb: tt0057011
+  tmdb: 271676
 sources:
 - https://www.wikidata.org/wiki/Q16761109
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: radmila-savichevich
 - person: mitic-branka
 - person: slovenski-petr
+poster_tmdb_path: /idbum92PbUrzhe6twaRH9WRSqqG.jpg
+backdrop_tmdb_path: /3n3a8va9HN5iZ7QwV0Y2938RNyM.jpg

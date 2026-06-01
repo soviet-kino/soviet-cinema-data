@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19570765
   imdb: tt0312476
   youtube: JOnRAHj_gf8
+  tmdb: 165933
 sources:
 - https://www.wikidata.org/wiki/Q19570765
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - khakenshmid-aleksandr
 cinematographer:
 - khakenshmid-aleksandr
+poster_tmdb_path: /gnO9GMkV6ZWx1zk16oAMlXdKuLx.jpg
+backdrop_tmdb_path: /jLG6PatMIyYjaoDjGyUodZgMtkX.jpg

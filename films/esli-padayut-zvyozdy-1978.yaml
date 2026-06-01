@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16514520
   imdb: tt8185440
   youtube: _4qba0_--nY
+  tmdb: 439535
 sources:
 - https://www.wikidata.org/wiki/Q16514520
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - mukhin-aleksandr
 studio:
 - kievnauchfilm
+poster_tmdb_path: /wYd9MuXp2O66EracoIuHH41AZvp.jpg

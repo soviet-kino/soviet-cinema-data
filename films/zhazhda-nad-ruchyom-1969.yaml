@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q97305544
   imdb: tt5074400
+  tmdb: 638317
 sources:
 - https://www.wikidata.org/wiki/Q97305544
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: sovchi-tamara
 studio:
 - mosfilm
+poster_tmdb_path: /TQXrMtJauv8beQQ49Hs8mPOmbV.jpg
+backdrop_tmdb_path: /yKBBrAQNMarXzx8hjjmmPpv8Dly.jpg

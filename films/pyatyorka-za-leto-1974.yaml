@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4386120
   imdb: tt1726287
+  tmdb: 470037
 sources:
 - https://www.wikidata.org/wiki/Q4386120
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: shtil-georgiy
 studio:
 - lenfilm
+poster_tmdb_path: /z6wTaknkHQpMGejymZ7pHOUV8vU.jpg
+backdrop_tmdb_path: /p6Ld8DbStU2VMOZwdY6BRJhElXg.jpg

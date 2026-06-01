@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q5530281
   imdb: tt0050427
+  tmdb: 283041
 sources:
 - https://www.wikidata.org/wiki/Q5530281
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - khasler-yoakhim
 screenwriter:
 - kuhnert-a-artur
+poster_tmdb_path: /hR6WZ4RSDTa7ly3CuKOxJJmsY6W.jpg

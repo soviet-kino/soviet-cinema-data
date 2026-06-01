@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q20530080
   imdb: tt0447499
+  tmdb: 638296
 sources:
 - https://www.wikidata.org/wiki/Q20530080
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: khermakyula-evald
 studio:
 - tallinfilm
+poster_tmdb_path: /i1GHd0NvbNts6X7NcG2WEKWt5KT.jpg
+backdrop_tmdb_path: /jhVCzGBKXa55XdjtsNi6I3IJlP7.jpg

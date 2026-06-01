@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q5688528
   imdb: tt0044691
+  tmdb: 67105
 sources:
 - https://www.wikidata.org/wiki/Q5688528
 schema_version: 1
@@ -81,3 +82,4 @@ cast:
 - person: najman-josef
 - person: matejova-vera
 - person: sasek-stanislav
+poster_tmdb_path: /yAAgCQlhSw9q6h1bxmDA4U9b5M6.jpg

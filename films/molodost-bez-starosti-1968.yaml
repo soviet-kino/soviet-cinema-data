@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1170282
   imdb: tt0063699
+  tmdb: 206669
 sources:
 - https://www.wikidata.org/wiki/Q1170282
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - popa-temistokle
 cast:
 - person: petruts-emanoil
+poster_tmdb_path: /3s11Ltgm9kmKxPAGDCW2nfRreyz.jpg
+backdrop_tmdb_path: /hIDD0825INxgbfUniS9HZLdnrW0.jpg

@@ -8,6 +8,7 @@ runtime_min: 38
 external_ids:
   wikidata: Q31272502
   imdb: tt0446516
+  tmdb: 472060
 sources:
 - https://www.wikidata.org/wiki/Q31272502
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: nou-raimo
 studio:
 - tallinfilm
+poster_tmdb_path: /biHpqt4e8uGakbIkAEE95jQCWdZ.jpg
+backdrop_tmdb_path: /srKNRBgqA4MMJ4Lb6Ugc4V38vLV.jpg

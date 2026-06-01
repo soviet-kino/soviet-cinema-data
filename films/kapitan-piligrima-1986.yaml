@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4212929
   imdb: tt0266686
   youtube: Ja4cZ9V3NPs
+  tmdb: 381512
 sources:
 - https://www.wikidata.org/wiki/Q4212929
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yarmolnik-leonid-isaakovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /z9e9TcChyiZdGhFnT9zaqtTGxtB.jpg
+backdrop_tmdb_path: /eVuMGqEOsK3bB8nmZgsfXRrCEcU.jpg

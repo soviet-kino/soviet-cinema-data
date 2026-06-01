@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q7811018
   imdb: tt0171950
+  tmdb: 364274
 sources:
 - https://www.wikidata.org/wiki/Q7811018
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: lepetich-zvonko
 - person: maetich-frano
 - person: rancic-alenka
+poster_tmdb_path: /30Tua0mWBQs1ol5l9NlJetRUjx.jpg
+backdrop_tmdb_path: /3kpr1yqxWgWZxGlkqdezDt5C3Zu.jpg

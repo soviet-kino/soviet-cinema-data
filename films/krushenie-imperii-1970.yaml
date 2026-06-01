@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4242624
   imdb: tt4667944
   youtube: ZEuCijXRInM
+  tmdb: 848427
 sources:
 - https://www.wikidata.org/wiki/Q4242624
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: solovyov-anatoliy-vasilevich
 - person: kirienko-zinaida-mikhaylovna
 - person: eryomenko-starshiy-nikolay-nikolaevich
+poster_tmdb_path: /japZv2HggMvS8EO57lC1OoOVFg2.jpg

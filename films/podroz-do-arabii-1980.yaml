@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11820637
   imdb: tt0079729
+  tmdb: 703743
 sources:
 - https://www.wikidata.org/wiki/Q11820637
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: labonarska-khalina
 - person: waniek-henryk
 - person: koman-dobrowolska-halina
+poster_tmdb_path: /kZiTMoBDaFWHV1RJ0MKEWQMMwXN.jpg

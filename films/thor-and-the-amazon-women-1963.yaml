@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3828764
   imdb: tt0054382
+  tmdb: 151704
 sources:
 - https://www.wikidata.org/wiki/Q3828764
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: cevenini-alberto
 - person: hendy-janine
 poster_commons: Thor and the Amazon Women Fight Scene.jpg
+poster_tmdb_path: /oWwe1Nzoqwzz9YxPHA7avToLqLU.jpg
+backdrop_tmdb_path: /kxaHQCBIGkujyeN0H1NeyVrk4ip.jpg

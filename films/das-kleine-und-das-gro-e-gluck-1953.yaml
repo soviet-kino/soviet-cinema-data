@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q5226482
   imdb: tt0236390
+  tmdb: 300550
 sources:
 - https://www.wikidata.org/wiki/Q5226482
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bergman-verner
 cast:
 - person: decho-fritz
+poster_tmdb_path: /fskLOqdBNcp595XyDBfJ91FXqur.jpg

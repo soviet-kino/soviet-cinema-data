@@ -8,6 +8,7 @@ runtime_min: 125
 external_ids:
   wikidata: Q23308932
   imdb: tt1893251
+  tmdb: 420694
 sources:
 - https://www.wikidata.org/wiki/Q23308932
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - langkhoff-tomas
 cinematographer:
 - helbig-werner
+poster_tmdb_path: /95jaKOqb7au2YDVBjIoEsFTfHND.jpg

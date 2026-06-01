@@ -24,6 +24,9 @@ external_ids:
   wikidata: Q1130395
   imdb: tt0091251
   youtube: UkkJZweYaLI
+  tmdb: 25237
 sources:
 - https://www.wikidata.org/wiki/Q1130395
 schema_version: 1
+poster_tmdb_path: /baK79h2An0J8mzTue13KThAeYC5.jpg
+backdrop_tmdb_path: /3Na31ta8vDuKOgQuPLdSZLs8bCB.jpg

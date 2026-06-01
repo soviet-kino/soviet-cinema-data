@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q27588607
   imdb: tt0183921
+  tmdb: 737709
 sources:
 - https://www.wikidata.org/wiki/Q27588607
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: bauerova-renata
 - person: sedlak-antonin
 - person: gogelova-zuzana
+poster_tmdb_path: /beB35H9cn0jTBZeU2NZsOB1RVVV.jpg

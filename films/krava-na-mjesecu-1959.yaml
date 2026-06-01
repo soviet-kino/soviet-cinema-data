@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19822655
   imdb: tt0175826
+  tmdb: 301627
 sources:
 - https://www.wikidata.org/wiki/Q19822655
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - vukotich-dushan
 studio:
 - zagreb-film
+poster_tmdb_path: /94gwxqrSY8dQEmQGfAR2cxYi4iL.jpg
+backdrop_tmdb_path: /5OgMNE9d4kEEK3olHhqKkpMTtyT.jpg

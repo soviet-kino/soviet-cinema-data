@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12866722
   imdb: tt0171515
+  tmdb: 270373
 sources:
 - https://www.wikidata.org/wiki/Q12866722
 schema_version: 1
 director:
 - gogoberidze-lana-levanovna
+poster_tmdb_path: /uwlZPAPZZVOdyyw0lbCqUj5locl.jpg
+backdrop_tmdb_path: /7efhmKhmv6OBj3S7Z0NS8nhY9SF.jpg

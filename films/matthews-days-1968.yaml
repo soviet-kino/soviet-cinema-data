@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q6789801
   imdb: tt0062529
+  tmdb: 198782
 sources:
 - https://www.wikidata.org/wiki/Q6789801
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pechka-frantishek
 - person: fogel-aleksander
 - person: gryn-virgiliush
+poster_tmdb_path: /bLCcu3AfD7BZdHZKFeU4dg1LDGV.jpg
+backdrop_tmdb_path: /lILGmH0HWOXziENZIFcOdZTJIuh.jpg

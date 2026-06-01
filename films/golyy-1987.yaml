@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q30897673
   imdb: tt0345345
   youtube: qHxPACzZNb0
+  tmdb: 1212037
 sources:
 - https://www.wikidata.org/wiki/Q30897673
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: evsyukov-yuriy-stepanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9WtIU43Mg9SlAVGbxldErBGyLgv.jpg

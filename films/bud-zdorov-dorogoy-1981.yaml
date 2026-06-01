@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4098227
   imdb: tt0166114
   youtube: XprKKDFaGPE
+  tmdb: 399765
 sources:
 - https://www.wikidata.org/wiki/Q4098227
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 cast:
 - person: kikabidze-vakhtang
 - person: kavtaradze-georgiy-georgievich
+poster_tmdb_path: /yFmPbLgS12aldozPHTT01ek9wC5.jpg
+backdrop_tmdb_path: /aaX2NV0WZgxPIDIVEEJjsmb5PLm.jpg

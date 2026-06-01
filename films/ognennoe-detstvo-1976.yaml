@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97913538
   imdb: tt0313421
   youtube: rH-P38Ij1og
+  tmdb: 520345
 sources:
 - https://www.wikidata.org/wiki/Q97913538
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - trotsyuk-bogdan-yakovlevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qZSPrb3FmdjMm2u0XNbyKHZs9Q2.jpg
+backdrop_tmdb_path: /wN5UIGJVg9V6NGxL2Q8DSqq08Ck.jpg

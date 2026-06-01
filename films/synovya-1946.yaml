@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16355416
   imdb: tt0039006
+  tmdb: 239082
 sources:
 - https://www.wikidata.org/wiki/Q16355416
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 studio:
 - lenfilm
 - rizhskaya-kinostudiya
+poster_tmdb_path: /mxxZP7s0bCKpKGYr05XS3mG55fX.jpg

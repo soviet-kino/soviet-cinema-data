@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4380857
   imdb: tt0175075
   youtube: ER1PPotCscw
+  tmdb: 124007
 sources:
 - https://www.wikidata.org/wiki/Q4380857
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ilich-simchich-vasiliy
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bLvza7BwMYMqB41tT078cs6kk9n.jpg
+backdrop_tmdb_path: /yoLvMXBfQS766ldL2JfxwRxYS2v.jpg

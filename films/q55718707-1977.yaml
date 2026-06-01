@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q55718707
   imdb: tt0075080
+  tmdb: 343475
 sources:
 - https://www.wikidata.org/wiki/Q55718707
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - rozha-yanush
 screenwriter:
 - rozha-yanush
+poster_tmdb_path: /5nbUEnQ1bwsMF66BaxhEy8lErfo.jpg

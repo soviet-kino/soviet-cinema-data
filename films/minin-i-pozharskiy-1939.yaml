@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4294237
   imdb: tt0031654
   youtube: MM-DFQaJiYM
+  tmdb: 361346
 sources:
 - https://www.wikidata.org/wiki/Q4294237
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: komarov-sergey-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /ezsvdWeJoPIIx4EdA7V3tw3SB1r.jpg
+backdrop_tmdb_path: /w48DPxQXN8Tkpi235ht5dKpvY7M.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11832620
   imdb: tt0078093
+  tmdb: 792825
 sources:
 - https://www.wikidata.org/wiki/Q11832620
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - svirta-cheslav
 cast:
 - person: durias-yuzef
+poster_tmdb_path: /hYWazu6CHEISQ0xF2kUwVMETAkz.jpg

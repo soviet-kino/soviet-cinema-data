@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108658448
   imdb: tt0153576
   youtube: iPKuXusspy8
+  tmdb: 549272
 sources:
 - https://www.wikidata.org/wiki/Q108658448
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - efros-anatoliy-vasilevich
 screenwriter:
 - panova-vera-fyodorovna
+poster_tmdb_path: /wR2T5CNmGp6ZvCa2iyO2IHnAY7Y.jpg
+backdrop_tmdb_path: /i5LtDEQZVX2SEGLtKnHUZfjH9bv.jpg

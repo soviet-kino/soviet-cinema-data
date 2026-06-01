@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q2571534
   imdb: tt0068894
+  tmdb: 80701
 sources:
 - https://www.wikidata.org/wiki/Q2571534
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 studio:
 - euro-international-film
 - dunav-film
+poster_tmdb_path: /wmE1wXjGYybSlBvM516sbiOQ29m.jpg
+backdrop_tmdb_path: /2Fg09PICJ6bxJW9eE36cklVmrV2.jpg

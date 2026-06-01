@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1246524
   imdb: tt0085730
+  tmdb: 298756
 sources:
 - https://www.wikidata.org/wiki/Q1246524
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - yaoyte-gyunter
 composer:
 - gotkhardt-peter
+poster_tmdb_path: /g5WbOArv5ZatXMhNnsYE6lyxoYW.jpg
+backdrop_tmdb_path: /4DDviI3Qjx5UJayqBKCIIcKYRao.jpg

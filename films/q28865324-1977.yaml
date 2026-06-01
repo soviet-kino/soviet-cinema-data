@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q28865324
   imdb: tt0417256
+  tmdb: 457623
 sources:
 - https://www.wikidata.org/wiki/Q28865324
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - byotkher-yurgen
 cinematographer:
 - kohlert-werner
+poster_tmdb_path: /wz4yjY0IGq0ZHXYVzrfMu5b2syW.jpg

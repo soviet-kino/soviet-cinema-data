@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12960346
   imdb: tt0038638
   youtube: KmIFXZsCUCQ
+  tmdb: 364851
 sources:
 - https://www.wikidata.org/wiki/Q12960346
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mordvinov-nikolay-dmitrievich
 studio:
 - mosfilm
+poster_tmdb_path: /oOEoAQsbAkyEvwrWgEdP6QyoPiV.jpg
+backdrop_tmdb_path: /tLUa3hcEiL4FwhEQU8IuxYc9RP8.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4533095
   imdb: tt0072955
   youtube: YSiiNPyZAdw
+  tmdb: 63575
 sources:
 - https://www.wikidata.org/wiki/Q4533095
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: rostotskiy-andrey-stanislavovich
 - person: tokarev-boris-vasilevich
 - person: rychagova-natalya-sergeevna
+poster_tmdb_path: /rwb5JPKybtrjFZWuVtxCIFJNvbX.jpg
+backdrop_tmdb_path: /qhxUocKsTedFVjWHjqdZpNIhmSE.jpg

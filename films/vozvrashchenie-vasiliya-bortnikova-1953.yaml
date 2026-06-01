@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4114644
   imdb: tt0045301
   youtube: nl7Vbzl_fwc
+  tmdb: 204295
 sources:
 - https://www.wikidata.org/wiki/Q4114644
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: lukyanov-sergey-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /wlyQWHYz1ktMkrrGkeRCpMZXdJ4.jpg
+backdrop_tmdb_path: /bproIWLnWGK4De82Ps1PWcOSaWj.jpg

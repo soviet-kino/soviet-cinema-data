@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4126774
   imdb: tt0069474
+  tmdb: 579488
 sources:
 - https://www.wikidata.org/wiki/Q4126774
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: strenga-yuris
 - person: plotnikov-aleksandr-konstantinovich
 - person: kuznetsov-aleksandr-vsevolodovich
+poster_tmdb_path: /v2zDztPFt2ekXSEzXlqxsxJz9TD.jpg
+backdrop_tmdb_path: /xBiGjHRFdvLENW7Rqe1sKobuCgr.jpg

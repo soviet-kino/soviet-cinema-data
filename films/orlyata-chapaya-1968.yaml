@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q97009707
   imdb: tt3274044
+  tmdb: 466915
 sources:
 - https://www.wikidata.org/wiki/Q97009707
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - petrov-valeriy-ivanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /sjIbsM6rCD17yeCNDAgx70vHSDE.jpg
+backdrop_tmdb_path: /hzvTvHJXImcr3DhtH4cqzdQ1eeM.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4193301
   imdb: tt0038269
   youtube: yURvEt9vpCY
+  tmdb: 440877
 sources:
 - https://www.wikidata.org/wiki/Q4193301
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - machavariani-aleksey-davidovich
 cast:
 - person: chobur-voldemar-yanovich
+poster_tmdb_path: /opq9RjQHOQ4x2a1yoqd6ht7hN5g.jpg

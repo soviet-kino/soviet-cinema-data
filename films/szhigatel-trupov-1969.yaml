@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q3178853
   imdb: tt0063633
+  tmdb: 18352
 sources:
 - https://www.wikidata.org/wiki/Q3178853
 schema_version: 1
@@ -80,3 +81,5 @@ cast:
 - person: cerny-felix
 studio:
 - barrandov
+poster_tmdb_path: /kwl7MNooVsyXzKARZvBBd1tKFJW.jpg
+backdrop_tmdb_path: /fMjdPM3pdc7T0NVoVqXtXEuJvG2.jpg

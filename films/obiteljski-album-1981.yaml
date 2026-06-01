@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184228
   imdb: tt0342849
+  tmdb: 1642090
 sources:
 - https://www.wikidata.org/wiki/Q31184228
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: pipinic-hermina
 - person: alich-bozhidar
 - person: toryanach-zvonimir
+poster_tmdb_path: /nl9564vePNWjvt1fkRQmHl7Rif6.jpg

@@ -8,8 +8,10 @@ runtime_min: 80
 external_ids:
   wikidata: Q123690393
   imdb: tt0240718
+  tmdb: 662355
 sources:
 - https://www.wikidata.org/wiki/Q123690393
 schema_version: 1
 director:
 - vasari-yanosh
+poster_tmdb_path: /bcD8ZewgYbRFC0OSRvlbhWV1hHs.jpg

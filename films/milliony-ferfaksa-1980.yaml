@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4293576
   imdb: tt0230529
   youtube: 8fv5W3vDiho
+  tmdb: 623164
 sources:
 - https://www.wikidata.org/wiki/Q4293576
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: baykshtite-grazhina
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xOsXsWbfzDS9AsLLh9bGLsh4FwX.jpg
+backdrop_tmdb_path: /cf0lmh3OEG8cN0nmNqotoQD30WK.jpg

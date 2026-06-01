@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116923585
   imdb: tt15060006
+  tmdb: 652510
 sources:
 - https://www.wikidata.org/wiki/Q116923585
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - keslyovskiy-kshishtof
 screenwriter:
 - barbara-vakhovich
+poster_tmdb_path: /uYQQ6ipdeBYNJrtqnDV3WVqjViQ.jpg

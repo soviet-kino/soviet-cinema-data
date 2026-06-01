@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q131908635
   imdb: tt0273961
+  tmdb: 895362
 sources:
 - https://www.wikidata.org/wiki/Q131908635
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - artemyev-eduard
 studio:
 - lenfilm
+poster_tmdb_path: /tyaMBpGEZhPavcYfAwxk1bVhbE1.jpg
+backdrop_tmdb_path: /9BygxuLr2fJQbnRXUOxeCwyId6L.jpg

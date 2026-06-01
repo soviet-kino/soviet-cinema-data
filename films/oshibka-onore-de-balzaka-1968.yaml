@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19019145
   imdb: tt0172929
   youtube: FnGVDVmjtmg
+  tmdb: 733052
 sources:
 - https://www.wikidata.org/wiki/Q19019145
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /dAMvsAdlBs9cpiHhPgBwN9ovooz.jpg
+backdrop_tmdb_path: /AbJDXR08eqBeJJNv0WzXWFW98Ei.jpg

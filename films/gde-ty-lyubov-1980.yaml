@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1810897
   imdb: tt0173875
+  tmdb: 685316
 sources:
 - https://www.wikidata.org/wiki/Q1810897
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: grigoriu-grigore-petru
 studio:
 - moldova-film
+poster_tmdb_path: /ahNefb5ob8aFJwAqibGK0shOGQQ.jpg
+backdrop_tmdb_path: /pRQSzfeZ8SpFOfbysfc3XIM6CJW.jpg

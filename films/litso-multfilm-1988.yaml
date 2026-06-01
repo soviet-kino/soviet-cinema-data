@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q4264386
   imdb: tt13889712
+  tmdb: 1099445
 sources:
 - https://www.wikidata.org/wiki/Q4264386
 schema_version: 1
 studio:
 - mosfilm
 - kazakhfilm
+poster_tmdb_path: /4iLYb9PdZCLmgRrz6cRbaTkiwm9.jpg

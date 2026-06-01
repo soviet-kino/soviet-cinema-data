@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4450089
   imdb: tt4971394
   youtube: 0gUx1MKhRTI
+  tmdb: 890919
 sources:
 - https://www.wikidata.org/wiki/Q4450089
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - mirskiy-lev-solomonovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /8tOZ28O9AgIEYLVR3PIKMXF9TGE.jpg

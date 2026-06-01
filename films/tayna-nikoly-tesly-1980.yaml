@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q3795739
   imdb: tt0079985
+  tmdb: 51444
 sources:
 - https://www.wikidata.org/wiki/Q3795739
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: rozman-loyze
 studio:
 - zagreb-film
+poster_tmdb_path: /g5Zl61UT6xV71Kk5WDfZu7VG7pi.jpg
+backdrop_tmdb_path: /82lAkdyuka7lDa8unf37Q6FMLws.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4095603
   imdb: tt0204176
+  tmdb: 625246
 sources:
 - https://www.wikidata.org/wiki/Q4095603
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - chelidze-levan-sergeevich
 cast:
 - person: kipshidze-zurab-vasilevich
+poster_tmdb_path: /pQfFumHKFYOFwD8nzRxd20yrFKc.jpg

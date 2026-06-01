@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q47004711
   imdb: tt0025139
+  tmdb: 286586
 sources:
 - https://www.wikidata.org/wiki/Q47004711
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: scharwenka-franz
 - person: pospisil-born-vladimir
 - person: john-inge
+poster_tmdb_path: /sgXWcwfbImLMhZCCS8w09avE3vw.jpg

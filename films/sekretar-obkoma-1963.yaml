@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q29159069
   imdb: tt0350101
+  tmdb: 825891
 sources:
 - https://www.wikidata.org/wiki/Q29159069
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: abramov-valentin-alekseevich
 studio:
 - mosfilm
+poster_tmdb_path: /h9Oqrek52zoFRQ3AnK2THkUIlIc.jpg

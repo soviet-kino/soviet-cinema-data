@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17633131
   imdb: tt0060718
   youtube: GgQCaEkrcMQ
+  tmdb: 257049
 sources:
 - https://www.wikidata.org/wiki/Q17633131
 schema_version: 1
@@ -88,3 +89,5 @@ cast:
 - person: safranek-milos
 - person: weiss-roman
 - person: jancova-lubomira
+poster_tmdb_path: /hBn8qwgMFrJzSrpHJQ66TV9lSHL.jpg
+backdrop_tmdb_path: /4yU6qh4WOcLCTy3RSsAnK2bZTAI.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12020934
   imdb: tt0175757
+  tmdb: 316907
 sources:
 - https://www.wikidata.org/wiki/Q12020934
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: q101067875
 - person: q101225679
 - person: subrt-milos
+poster_tmdb_path: /vADpfwOvrtnqD93U5BdNOnm1qPr.jpg

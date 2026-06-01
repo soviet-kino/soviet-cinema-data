@@ -8,6 +8,7 @@ runtime_min: 38
 external_ids:
   wikidata: Q48671824
   imdb: tt0057421
+  tmdb: 151614
 sources:
 - https://www.wikidata.org/wiki/Q48671824
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: bartl-pavel
 - person: silhanek-pavel
 - person: michler-stanislav
+poster_tmdb_path: /uivek4okPYe2blTTvUwGRJzbv6S.jpg
+backdrop_tmdb_path: /jzyddWyozXxI78IluQIAkSiDAnk.jpg

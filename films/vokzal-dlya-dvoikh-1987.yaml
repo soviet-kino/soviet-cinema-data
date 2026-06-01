@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1965523
   imdb: tt0084873
   youtube: 3g-p1d8H02o
+  tmdb: 32336
 sources:
 - https://www.wikidata.org/wiki/Q1965523
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Crew of Station for Two with actors.jpg
+poster_tmdb_path: /psJIQ73IyRHXxN1Wujwxk2SLWcq.jpg
+backdrop_tmdb_path: /vzzkfRM6pEAaPPQ56wHoixg0XgN.jpg

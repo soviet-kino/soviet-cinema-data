@@ -8,6 +8,7 @@ runtime_min: 42
 external_ids:
   wikidata: Q25382637
   imdb: tt8228358
+  tmdb: 893052
 sources:
 - https://www.wikidata.org/wiki/Q25382637
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kramarov-saveliy-viktorovich
 - person: derzhavin-mikhail-mikhaylovich
 - person: sharykina-valentina-dmitrievna
+poster_tmdb_path: /4Jm7QiBGS02sxjXXErWZzZOlSvH.jpg

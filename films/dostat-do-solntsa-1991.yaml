@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q3207187
   imdb: tt0099215
+  tmdb: 149020
 sources:
 - https://www.wikidata.org/wiki/Q3207187
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: dyakonu-mircha
 - person: mikhaitsa-dzhordzh
 - person: galin-karmen
+poster_tmdb_path: /5MSSNg2lIKmTSMRAyKfAutDlGlX.jpg
+backdrop_tmdb_path: /9Tk1RjbDCN6f5JVLVzwt0VjpAvp.jpg

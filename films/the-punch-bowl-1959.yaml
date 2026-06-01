@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1885135
   imdb: tt0174897
+  tmdb: 292659
 sources:
 - https://www.wikidata.org/wiki/Q1885135
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: myunkh-irma
 - person: lirk-verner
 - person: khetterle-albert
+poster_tmdb_path: /pmojShdpYpBKYLmkbsjIkM7rWDN.jpg
+backdrop_tmdb_path: /x7l12KdZxiV8UVpzIJ9ec8N01Sy.jpg

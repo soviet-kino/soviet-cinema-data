@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q924555
   imdb: tt0078095
+  tmdb: 173284
 sources:
 - https://www.wikidata.org/wiki/Q924555
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: shcherbakov-boris-vasilevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /i4A5YKQTQoOCLeb3JjJA7TCwge8.jpg
+backdrop_tmdb_path: /ap0orwjaxTCI58j9uyJNNpvpwOZ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761375
   imdb: tt0200553
+  tmdb: 266028
 sources:
 - https://www.wikidata.org/wiki/Q16761375
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: spiridonovic-olga
 - person: zivotic-velimir
 - person: nadezhda-vukichevich
+poster_tmdb_path: /ay4X3f5TvsI7VHgg62KvlDEZ8Gi.jpg

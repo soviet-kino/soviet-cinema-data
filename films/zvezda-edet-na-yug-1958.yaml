@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q5951780
   imdb: tt0051751
+  tmdb: 653162
 sources:
 - https://www.wikidata.org/wiki/Q5951780
 schema_version: 1
@@ -69,3 +70,4 @@ cast:
 - person: nesovic-natalija
 - person: jeknic-milos
 - person: obradovic-branislav
+poster_tmdb_path: /jotm4xmO0ssePH8JknAGKhuImvS.jpg

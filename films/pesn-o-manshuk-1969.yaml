@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q106774853
   imdb: tt0064803
   youtube: mfddIDvu66o
+  tmdb: 549455
 sources:
 - https://www.wikidata.org/wiki/Q106774853
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: ryzhov-ivan-petrovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /1jUyqEDhl541cfWGmQiiv6cUG3i.jpg
+backdrop_tmdb_path: /5r3jUcRgI3F7IZEZgKzFLN5oiFg.jpg

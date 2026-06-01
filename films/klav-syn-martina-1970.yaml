@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4222763
   imdb: tt2275781
+  tmdb: 749858
 sources:
 - https://www.wikidata.org/wiki/Q4222763
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kaminskis-yuris
 - person: ozolinya-lilita-arvidovna
 - person: freymane-lidiya-eduardovna
+poster_tmdb_path: /3zFQJ7wwAQTnSaJQkyr57QVdXvA.jpg

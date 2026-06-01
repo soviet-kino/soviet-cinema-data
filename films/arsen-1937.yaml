@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q22191916
   imdb: tt0169566
+  tmdb: 465111
 sources:
 - https://www.wikidata.org/wiki/Q22191916
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kiladze-grigoriy-varfolomeevich
 cast:
 - person: bagashvili-spartak-levanovich
+poster_tmdb_path: /eZOsCJT3fsvWl0DdFY24alLBRf7.jpg
+backdrop_tmdb_path: /5ZeTKh499IfUbuwr8ASJvTrJOxU.jpg

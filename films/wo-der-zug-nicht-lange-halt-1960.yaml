@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q8028947
   imdb: tt0171924
+  tmdb: 439608
 sources:
 - https://www.wikidata.org/wiki/Q8028947
 schema_version: 1
 director:
 - khasler-yoakhim
+poster_tmdb_path: /dAFPKyXZmjS0pKkDtl4IJALtFVV.jpg

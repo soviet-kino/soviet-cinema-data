@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q21643634
   imdb: tt8061628
+  tmdb: 448417
 sources:
 - https://www.wikidata.org/wiki/Q21643634
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Eagle feather (1946).jpg
+poster_tmdb_path: /2gay3RhEnOD9aerl9hmUnApvgur.jpg

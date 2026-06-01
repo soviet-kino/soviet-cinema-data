@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q2873476
   imdb: tt0244488
+  tmdb: 605645
 sources:
 - https://www.wikidata.org/wiki/Q2873476
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: bohdal-karel
 - person: stindl-t
 - person: stindl-v
+poster_tmdb_path: /mQ3FF0oJL096KPXY2ufQL0uD0CJ.jpg

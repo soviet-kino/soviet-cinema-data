@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q3225999
   imdb: tt0049290
+  tmdb: 254359
 sources:
 - https://www.wikidata.org/wiki/Q3225999
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: sabo-ernyo
 - person: greguss-zoltan
 - person: kishsh-mani
+poster_tmdb_path: /nBgY90skCl9SFvoPiEJPHIorvwo.jpg
+backdrop_tmdb_path: /xpW357SGLNfauCwFRxCeqZ59BQ8.jpg

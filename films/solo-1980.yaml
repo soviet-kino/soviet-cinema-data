@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q85866309
   imdb: tt0173226
+  tmdb: 22114
 sources:
 - https://www.wikidata.org/wiki/Q85866309
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - lopushanskiy-konstantin-sergeevich
 studio:
 - lenfilm
+poster_tmdb_path: /dnDYmpYaDclS1bw2DSmTBN8pX5X.jpg

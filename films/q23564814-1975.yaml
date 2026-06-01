@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q23564814
   imdb: tt0323223
+  tmdb: 418460
 sources:
 - https://www.wikidata.org/wiki/Q23564814
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - yaoyte-gyunter
 composer:
 - kozhinskiy-andzhey
+poster_tmdb_path: /oawxk04uLqmVihMkzVLgcWhbflS.jpg

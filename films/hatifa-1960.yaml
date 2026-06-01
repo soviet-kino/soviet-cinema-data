@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1588919
   imdb: tt0186195
+  tmdb: 13303
 sources:
 - https://www.wikidata.org/wiki/Q1588919
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: thomas-jochen
 - person: knittel-yokhannes
 - person: byuttner-gizela
+poster_tmdb_path: /wWLDC7V6DzW7DoCk0KGJbxIjgyx.jpg
+backdrop_tmdb_path: /vFQ1Px6rhLp3iIUYiShqPtYNaZ8.jpg

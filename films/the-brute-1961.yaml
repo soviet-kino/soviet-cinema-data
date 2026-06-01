@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q7720443
   imdb: tt0052768
+  tmdb: 198882
 sources:
 - https://www.wikidata.org/wiki/Q7720443
 schema_version: 1
@@ -19,3 +20,5 @@ screenwriter:
 cast:
 - person: besseniey-ferents
 - person: bichkei-tibor
+poster_tmdb_path: /9eaePbTXg5Qb1Rr8iehZ88gnc3X.jpg
+backdrop_tmdb_path: /qKX67EunNRTcAdaLWW6ZMevXa7q.jpg

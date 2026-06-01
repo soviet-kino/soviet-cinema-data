@@ -8,6 +8,7 @@ runtime_min: 203
 external_ids:
   wikidata: Q1530053
   imdb: tt0049724
+  tmdb: 277762
 sources:
 - https://www.wikidata.org/wiki/Q1530053
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: shelkher-raymund
 studio:
 - defa
+poster_tmdb_path: /hdQhivWpEt6jfN8GQxym3RIqdpu.jpg

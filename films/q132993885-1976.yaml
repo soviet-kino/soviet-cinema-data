@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q132993885
   imdb: tt0280963
+  tmdb: 536831
 sources:
 - https://www.wikidata.org/wiki/Q132993885
 schema_version: 1
 director:
 - kokochashvili-merab-archilovich
+poster_tmdb_path: /s5a6grVZHosBmsUSCZJf6oDpWC0.jpg

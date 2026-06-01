@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q3225002
   imdb: tt0077383
+  tmdb: 48318
 sources:
 - https://www.wikidata.org/wiki/Q3225002
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - tarr-bela
 composer:
 - brodi-yanosh
+poster_tmdb_path: /ouY0aef7rjEtMRvtLO6ZGFRT8ST.jpg
+backdrop_tmdb_path: /hjIEvUldc2lbxKZi6og3G39gLpK.jpg

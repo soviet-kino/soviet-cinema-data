@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4363939
   imdb: tt1291069
   youtube: QmEqz4iCMSA
+  tmdb: 281135
 sources:
 - https://www.wikidata.org/wiki/Q4363939
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - dunaevskiy-maksim-isaakovich
 studio:
 - ekran
+poster_tmdb_path: /oHxquGh0DpZ34n51b9DLtOvyTK9.jpg

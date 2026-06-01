@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11694003
   imdb: tt0051535
+  tmdb: 747418
 sources:
 - https://www.wikidata.org/wiki/Q11694003
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 cast:
 - person: modzhinska-urshulya
 - person: olszyn-w-adys-aw
+poster_tmdb_path: /4NLdmHTAAsEfmBstU6AqXCIofiW.jpg

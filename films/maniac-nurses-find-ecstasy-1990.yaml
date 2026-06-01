@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q3427820
   imdb: tt0165870
+  tmdb: 19351
 sources:
 - https://www.wikidata.org/wiki/Q3427820
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - bruyn-leon-paul-de
 studio:
 - troma-entertainment
+poster_tmdb_path: /dLVhecsbVOXDlisZ0i7kEDyOJSA.jpg
+backdrop_tmdb_path: /q8b1qmCCbmpDsN9FGyL0QTNpnOR.jpg

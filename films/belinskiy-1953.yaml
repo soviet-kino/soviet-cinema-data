@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4081961
   imdb: tt0043329
   youtube: wGnnqQ4mPU8
+  tmdb: 457588
 sources:
 - https://www.wikidata.org/wiki/Q4081961
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: dmokhovskiy-boris-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /4th5Qd0cz0YHnIYQkaPSGMg5GKr.jpg
+backdrop_tmdb_path: /66rIYNMErekL3LiPvJeTboFXGSY.jpg

@@ -8,8 +8,10 @@ runtime_min: 117
 external_ids:
   wikidata: Q12904487
   imdb: tt0182254
+  tmdb: 283407
 sources:
 - https://www.wikidata.org/wiki/Q12904487
 schema_version: 1
 director:
 - tsenevski-kiril
+poster_tmdb_path: /gjLGihO7Mzhmt7eSnhl9jzsNMLR.jpg

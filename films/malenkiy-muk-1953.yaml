@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1212956
   imdb: tt0045470
+  tmdb: 13294
 sources:
 - https://www.wikidata.org/wiki/Q1212956
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - defa
 poster_commons: Filmpark Babelsberg, Der kleine Muck.jpg
+poster_tmdb_path: /AatqDNBRBXX9oLdIQEx2JuRrWtJ.jpg
+backdrop_tmdb_path: /4FlJzKjRYyKNlRDooum6i3anIbz.jpg

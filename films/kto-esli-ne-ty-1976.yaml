@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109392335
   imdb: tt4834482
   youtube: 6Mp8dn1p5KM
+  tmdb: 620052
 sources:
 - https://www.wikidata.org/wiki/Q109392335
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /ga6aVYPffyE1Y98Tp7TnzIzTrHV.jpg

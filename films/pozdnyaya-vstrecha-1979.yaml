@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4368836
   imdb: tt1031958
   youtube: PhPWF5cXVOk
+  tmdb: 352842
 sources:
 - https://www.wikidata.org/wiki/Q4368836
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - sverdlovskaya-kinostudiya
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /ymX8uTbgPQTbMyLt11GhFDgoDT2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4309256
   imdb: tt0361903
   youtube: s9Vis5dxlHU
+  tmdb: 290893
 sources:
 - https://www.wikidata.org/wiki/Q4309256
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: ayvazyan-armen
 studio:
 - armenfilm
+poster_tmdb_path: /pIpWWdf0eRkfIBu5z0V7I3FDPDq.jpg
+backdrop_tmdb_path: /3ToUhQQsYnknsJJNE8TmljOcpwJ.jpg

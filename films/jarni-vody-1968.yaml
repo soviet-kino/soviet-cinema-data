@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q6160438
   imdb: tt0172625
+  tmdb: 978600
 sources:
 - https://www.wikidata.org/wiki/Q6160438
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: klikova-albina
 - person: jirackova-lenka
 - person: henychova-milada
+poster_tmdb_path: /gWicoxHvtilBM50a83MarzXxOKe.jpg

@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q4006581
   imdb: tt0167319
+  tmdb: 49097
 sources:
 - https://www.wikidata.org/wiki/Q4006581
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - keslyovskiy-kshishtof
 cinematographer:
 - trzesowski-lechos-aw
+poster_tmdb_path: /8eK9f7mfG2ZZVDvOlW97kF6JGp6.jpg
+backdrop_tmdb_path: /u3P1p4PbZrkU4RP6KA3k0Mtf6tp.jpg

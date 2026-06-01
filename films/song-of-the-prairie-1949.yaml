@@ -8,6 +8,7 @@ runtime_min: 23
 external_ids:
   wikidata: Q3221002
   imdb: tt0247179
+  tmdb: 92824
 sources:
 - https://www.wikidata.org/wiki/Q3221002
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - franek-emanuel
 composer:
 - rykhlik-yan
+poster_tmdb_path: /pvltO7dzy4DmoeGPqGhzRzNhcIm.jpg
+backdrop_tmdb_path: /i9sNxGjIfAgac4mT01xSwJ5ai6Q.jpg

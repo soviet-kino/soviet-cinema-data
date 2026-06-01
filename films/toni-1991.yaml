@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12296717
   imdb: tt0389456
+  tmdb: 547719
 sources:
 - https://www.wikidata.org/wiki/Q12296717
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: radeva-iskra
 - person: chatalov-lyuben
 - person: mazgalov-stoycho
+poster_tmdb_path: /AmT2rXpQuYfu2TCluzylojnj6FM.jpg
+backdrop_tmdb_path: /okMVouB2Zr3sfrjooTX1I7E1HX2.jpg

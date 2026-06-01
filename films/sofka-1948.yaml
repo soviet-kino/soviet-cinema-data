@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11191647
   imdb: tt0180180
+  tmdb: 317310
 sources:
 - https://www.wikidata.org/wiki/Q11191647
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: milivoe-zhivanovich
 - person: tsrnobori-mariya
 - person: dimitrijevic-mila
+poster_tmdb_path: /lNm7tT61V81UltfjAfPmDGIkzjL.jpg

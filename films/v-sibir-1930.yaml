@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4101668
   imdb: tt0285765
+  tmdb: 165971
 sources:
 - https://www.wikidata.org/wiki/Q4101668
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: samborskiy-boguslav
 - person: smosarskaya-yadviga
 poster_commons: Na Sybir кадр.jpg
+poster_tmdb_path: /fKccn4Zwai1BXTu88kOaJJ6ilhu.jpg

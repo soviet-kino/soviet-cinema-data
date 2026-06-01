@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q47538202
   imdb: tt0232685
   youtube: qkQpx3je2Gs
+  tmdb: 392819
 sources:
 - https://www.wikidata.org/wiki/Q47538202
 schema_version: 1
@@ -57,3 +58,4 @@ cast:
 - person: fajta-josef
 - person: skorpik-karel
 - person: vrba-frantisek
+poster_tmdb_path: /ckbY4SEKf05nxbYTftyNLd2bvLC.jpg

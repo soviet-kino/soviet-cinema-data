@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q15545348
   imdb: tt0058611
+  tmdb: 309600
 sources:
 - https://www.wikidata.org/wiki/Q15545348
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: solovyov-yuriy-vladimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /8MSqtLAISHxJrFT4EfGAPGWnt19.jpg
+backdrop_tmdb_path: /ajxfCMt8zMVSnXkufBO1W2h5lnP.jpg

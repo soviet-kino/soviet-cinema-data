@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3007543
   imdb: tt0173063
+  tmdb: 266091
 sources:
 - https://www.wikidata.org/wiki/Q3007543
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: slobodan-dimitrievich
 studio:
 - yadran-film
+poster_tmdb_path: /r3B4UcZvkxS5OVlaSSpv5wu6gWx.jpg
+backdrop_tmdb_path: /iC2LL7VhNbHGnCw28YY1ZHwiigF.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761238
   imdb: tt0056382
+  tmdb: 502055
 sources:
 - https://www.wikidata.org/wiki/Q16761238
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: stoshich-bozhidar
 - person: kriticheski-liliana
 - person: dragoslav-popovich
+poster_tmdb_path: /vnguTZQysgMFrvsCZw5duYJnNCb.jpg

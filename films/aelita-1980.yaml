@@ -8,8 +8,10 @@ runtime_min: 51
 external_ids:
   wikidata: Q65216949
   imdb: tt4963304
+  tmdb: 478254
 sources:
 - https://www.wikidata.org/wiki/Q65216949
 schema_version: 1
 director:
 - rajnai-andras
+poster_tmdb_path: /sLnUK5zeYJ9XEO0LJ3fMlINN5Nh.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1217964
   imdb: tt0236025
+  tmdb: 288937
 sources:
 - https://www.wikidata.org/wiki/Q1217964
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: kukhne-volfgang
 - person: medding-irene
 poster_commons: Bundesarchiv Bild 183-S91747, Berlin, Kino "Babylon", Nacht.jpg
+poster_tmdb_path: /znzfd35azZQjj0zdYjIy9jHC5f2.jpg
+backdrop_tmdb_path: /8Izzk4kc23XK0bHUuZtxCao0ss9.jpg

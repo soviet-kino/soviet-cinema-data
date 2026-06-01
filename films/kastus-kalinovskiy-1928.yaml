@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q4216918
   imdb: tt0250464
+  tmdb: 160826
 sources:
 - https://www.wikidata.org/wiki/Q4216918
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 studio:
 - belarusfilm
 poster_commons: Кастусь Калиновский.jpg
+poster_tmdb_path: /4RDUKMQ9dNw30AiSpZwqOiYj5gR.jpg

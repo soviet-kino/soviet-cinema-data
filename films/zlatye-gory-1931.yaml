@@ -8,6 +8,7 @@ runtime_min: 129
 external_ids:
   wikidata: Q5579675
   imdb: tt0022595
+  tmdb: 304224
 sources:
 - https://www.wikidata.org/wiki/Q5579675
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - dmitriy-shostakovich
 studio:
 - lenfilm
+poster_tmdb_path: /b0EnksJVNvy57m2HzwEpSiStmD2.jpg

@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q56641805
   imdb: tt0171285
+  tmdb: 531779
 sources:
 - https://www.wikidata.org/wiki/Q56641805
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - firtich-georgiy
 studio:
 - mosfilm
+poster_tmdb_path: /5YotlrGGPgZU386R33ZgDIUJA5o.jpg

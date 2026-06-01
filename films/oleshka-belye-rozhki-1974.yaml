@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20083289
   imdb: tt6409422
+  tmdb: 439673
 sources:
 - https://www.wikidata.org/wiki/Q20083289
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - vitenzon-zhanna-ziskindovna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /18axzuWELEb9INPHfp0Db2AYpGo.jpg

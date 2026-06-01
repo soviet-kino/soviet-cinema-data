@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q16956900
   imdb: tt0486139
+  tmdb: 264312
 sources:
 - https://www.wikidata.org/wiki/Q16956900
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: ruzek-martin
 - person: nedbal-milosh
 - person: fiserova-lenka
+backdrop_tmdb_path: /rOwNK617HQVjdONyKw92X0kUlPb.jpg

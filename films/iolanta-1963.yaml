@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4202698
   imdb: tt0058762
+  tmdb: 207269
 sources:
 - https://www.wikidata.org/wiki/Q4202698
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: rudnaya-natalya-vladimirovna
 - person: ushakova-valentina-alekseevna
 - person: sharykina-valentina-dmitrievna
+poster_tmdb_path: /laXT46grqX9tJyme2tlL8BG6uwK.jpg

@@ -69,6 +69,9 @@ external_ids:
   wikidata: Q29966822
   imdb: tt0058924
   youtube: f23XA7cE76Q
+  tmdb: 247446
 sources:
 - https://www.wikidata.org/wiki/Q29966822
 schema_version: 1
+poster_tmdb_path: /xEhbbGhq6N5er7vbaEtjrkxKRSr.jpg
+backdrop_tmdb_path: /rLbzq8jPqZ04bNxbifg6MeijJHL.jpg

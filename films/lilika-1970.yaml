@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3832389
   imdb: tt0128308
   youtube: iNs2xFHYfGY
+  tmdb: 231754
 sources:
 - https://www.wikidata.org/wiki/Q3832389
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: drazenovic-ljerka
 - person: vukovic-gizela
 - person: kontic-ljiljana
+poster_tmdb_path: /fRiDgDObRlTUmqp8OwCoCpuCapw.jpg
+backdrop_tmdb_path: /pXYi6XrYcjM3tvnp47F4L7A1Aq1.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4260282
   imdb: tt0079464
   youtube: z771enWnTrg
+  tmdb: 65102
 sources:
 - https://www.wikidata.org/wiki/Q4260282
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 studio:
 - lenfilm
 - ekran
+poster_tmdb_path: /Ccr8idgrszoehzV9xuLaDdMzEO.jpg
+backdrop_tmdb_path: /whNyubGSvgI6eATuNCTFN6doISN.jpg

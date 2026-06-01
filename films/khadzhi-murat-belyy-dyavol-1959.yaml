@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q130612
   imdb: tt0052538
+  tmdb: 271572
 sources:
 - https://www.wikidata.org/wiki/Q130612
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: popovich-mavid-milivoye
 - person: baldini-renato
 poster_commons: Agi Murad poster Italy.jpg
+poster_tmdb_path: /5PbZ8y9f3GlBRxbzcdF6YZX6rlQ.jpg
+backdrop_tmdb_path: /cIXHzwterpkazJaSnCEVb3rGPxT.jpg

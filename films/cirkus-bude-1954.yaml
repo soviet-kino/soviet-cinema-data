@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q5121929
   imdb: tt0046858
+  tmdb: 370709
 sources:
 - https://www.wikidata.org/wiki/Q5121929
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: rosenbergova-slavka
 - person: vachova-vera
 - person: dvorsky-oldrich
+poster_tmdb_path: /kPy3SYxIpvE4kFdd3Xbpb0aPxbD.jpg
+backdrop_tmdb_path: /vX0cbEogVFJnrYF8R5PCvlSmlb0.jpg

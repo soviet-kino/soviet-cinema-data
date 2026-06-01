@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q11784262
   imdb: tt0082760
+  tmdb: 439041
 sources:
 - https://www.wikidata.org/wiki/Q11784262
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: mikhalska-grazhina
 - person: kovalskiy-vladislav
 - person: prokhyra-yan
+poster_tmdb_path: /1uGbEUfvGv8lC8PwBHzBIKJCy8I.jpg
+backdrop_tmdb_path: /5I8jK2sJVvrE3jLZuII2SjKU5Hc.jpg

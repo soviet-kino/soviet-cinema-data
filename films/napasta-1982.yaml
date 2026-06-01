@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q124409182
   imdb: tt0261850
+  tmdb: 623221
 sources:
 - https://www.wikidata.org/wiki/Q124409182
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 studio:
 - radef
 - q111550187
+poster_tmdb_path: /enCWvl68ld6obJSxNMhjkdrUwXj.jpg
+backdrop_tmdb_path: /pYWYMrL2s0Jl7FhrzaRGCstxSv2.jpg

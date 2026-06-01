@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q6691695
   imdb: tt0180801
+  tmdb: 411505
 sources:
 - https://www.wikidata.org/wiki/Q6691695
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: buzanchich-boris
 - person: lasta-sven
 - person: sokich-ruzhitsa
+poster_tmdb_path: /z7O5a80E84vBiHnFM2BZoHfNOm4.jpg

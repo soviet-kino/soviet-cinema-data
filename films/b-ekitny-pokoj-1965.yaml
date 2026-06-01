@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q11689282
   imdb: tt0932954
+  tmdb: 335018
 sources:
 - https://www.wikidata.org/wiki/Q11689282
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - veber-kurt
 cast:
 - person: nasierowski-jerzy
+poster_tmdb_path: /uvmi5eKGqZQ1qUDXkuU1gByU7NC.jpg

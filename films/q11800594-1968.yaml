@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11800594
   imdb: tt0063398
+  tmdb: 578254
 sources:
 - https://www.wikidata.org/wiki/Q11800594
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: shmidt-tadeush
+poster_tmdb_path: /zJy8IMncNig2cc2KuiNzvS3yZzS.jpg

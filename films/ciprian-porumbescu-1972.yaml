@@ -8,6 +8,7 @@ runtime_min: 150
 external_ids:
   wikidata: Q18539019
   imdb: tt0068383
+  tmdb: 465064
 sources:
 - https://www.wikidata.org/wiki/Q18539019
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: chiuaru-angela
 - person: dafinesku-chezara
 - person: velnichuk-stefan
+poster_tmdb_path: /bcfeIPcWVavwnCMR0nkZ7DBmJJv.jpg
+backdrop_tmdb_path: /77EN7wnswSJvbEpFXD4MSz71M1T.jpg

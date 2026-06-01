@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q44864208
   imdb: tt0174613
+  tmdb: 630249
 sources:
 - https://www.wikidata.org/wiki/Q44864208
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: miller-konstantin
 - person: vishu-george
 - person: kitsl-albert
+poster_tmdb_path: /2CugosCwJ20fFlwuL0BEu2H4phQ.jpg

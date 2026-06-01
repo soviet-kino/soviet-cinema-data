@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163529
   imdb: tt0478360
   youtube: JP9yJruL7Ek
+  tmdb: 385469
 sources:
 - https://www.wikidata.org/wiki/Q4163529
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - nimenskiy-anatoliy-nikolaevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /1L8ysQSuzGthYkNRHQ6KPpJlgFU.jpg
+backdrop_tmdb_path: /AuM1pMDUxzzugAsUdmU40trGuFF.jpg

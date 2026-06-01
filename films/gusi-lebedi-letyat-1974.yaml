@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12098569
   imdb: tt3097768
   youtube: YIwpDE3X-yA
+  tmdb: 852547
 sources:
 - https://www.wikidata.org/wiki/Q12098569
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - skorik-miroslav-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /iXnwOSRuGNtDhkco6X9mgbaHfSK.jpg
+backdrop_tmdb_path: /2V9ZkQWTOyZZKXMagMTefwM2dC2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18237709
   imdb: tt0081731
   youtube: ibkha_9FgEc
+  tmdb: 397318
 sources:
 - https://www.wikidata.org/wiki/Q18237709
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: vavilova-natalya-dmitrievna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /nTONG9axDikqdSYppSUvrNpcM2s.jpg
+backdrop_tmdb_path: /eOps3WVh07SkOfYC0zmgYfd27WX.jpg

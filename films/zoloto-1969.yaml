@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q15545304
   imdb: tt0167510
+  tmdb: 564236
 sources:
 - https://www.wikidata.org/wiki/Q15545304
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 - mosfilm
 cast:
 - person: varley-natalya-vladimirovna
+poster_tmdb_path: /AfiI7oUq3FmIAM9jzWmVIVRT0jh.jpg

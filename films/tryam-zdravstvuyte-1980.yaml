@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4464680
   imdb: tt5498058
   youtube: tay19RVx2fw
+  tmdb: 383282
 sources:
 - https://www.wikidata.org/wiki/Q4464680
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - ekran
+poster_tmdb_path: /plE8I7WI5L1oGnLLyAEmCG2Vigq.jpg
+backdrop_tmdb_path: /lKxoYbs4WnJLiRkuncsaspArZPD.jpg

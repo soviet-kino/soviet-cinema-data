@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1187886
   imdb: tt0059097
+  tmdb: 278790
 sources:
 - https://www.wikidata.org/wiki/Q1187886
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: buder-horst
 studio:
 - defa
+poster_tmdb_path: /aE8El2BM8OHjAWXeY216bFPjkwj.jpg
+backdrop_tmdb_path: /51lPH8WUikW45CE7VFZfHgFxxnw.jpg

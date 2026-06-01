@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q3457663
   imdb: tt0032136
+  tmdb: 293687
 sources:
 - https://www.wikidata.org/wiki/Q3457663
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: domb-adam
 - person: marten-aleksander
 - person: fakiel-dora
+poster_tmdb_path: /rTdw8A5envbI6Bki5tOlhn4THKn.jpg

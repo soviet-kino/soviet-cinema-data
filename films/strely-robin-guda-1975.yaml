@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1215401
   imdb: tt0075274
   youtube: j7uQlwh1WKM
+  tmdb: 75392
 sources:
 - https://www.wikidata.org/wiki/Q1215401
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: shveyts-khariy-arvidovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /cNDfzsZcfIQRcBKj48ZmRcJ3q0T.jpg

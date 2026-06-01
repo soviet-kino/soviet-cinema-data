@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12755548
   imdb: tt0181690
+  tmdb: 393946
 sources:
 - https://www.wikidata.org/wiki/Q12755548
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: babic-mirko
 - person: radovanovic-radmila
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /zluJE9SBmCZFqhbbsHOsGoJVXzd.jpg
+backdrop_tmdb_path: /4ZbZsvKSKEX6wyULaVVVr8VSwAT.jpg

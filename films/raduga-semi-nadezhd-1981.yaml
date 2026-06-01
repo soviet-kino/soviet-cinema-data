@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q46978020
   imdb: tt7787354
+  tmdb: 259107
 sources:
 - https://www.wikidata.org/wiki/Q46978020
 schema_version: 1
+poster_tmdb_path: /drnWbzfNdg6FzjbA0IF5Ll1NR0T.jpg
+backdrop_tmdb_path: /e1Zt99Vwutb5MPWsslLrJXiFyV.jpg

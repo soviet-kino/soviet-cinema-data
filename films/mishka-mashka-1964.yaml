@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20082326
   imdb: tt20255220
+  tmdb: 908234
 sources:
 - https://www.wikidata.org/wiki/Q20082326
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - kanevskiy-aleksandr-semyonovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /pECKeXNa5syVz2mP41SWaWxSdje.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12752824
   imdb: tt0182261
+  tmdb: 472455
 sources:
 - https://www.wikidata.org/wiki/Q12752824
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kosanovic-bosko
 cast:
 - person: velimir-bata-zhivoinovich
+poster_tmdb_path: /xT9M9jeMTUjKLD2rYael9EKujAO.jpg
+backdrop_tmdb_path: /moDXt4JvoEmoH1wT1x7TnUX2t54.jpg

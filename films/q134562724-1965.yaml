@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q134562724
   imdb: tt0399772
+  tmdb: 783226
 sources:
 - https://www.wikidata.org/wiki/Q134562724
 schema_version: 1
 director:
 - bzhozovskiy-andzhey
+poster_tmdb_path: /dGlwCvmOeIFH2sqRJyKcBekulV1.jpg

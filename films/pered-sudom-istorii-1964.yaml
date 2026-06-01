@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4350181
   imdb: tt0170364
+  tmdb: 281091
 sources:
 - https://www.wikidata.org/wiki/Q4350181
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: petrov-fyodor-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /hYhmBCt5PYFv5kdmYmpsdNnGCDE.jpg
+backdrop_tmdb_path: /zpYaW5WrAjBUj3uOUXrweCbuTo3.jpg

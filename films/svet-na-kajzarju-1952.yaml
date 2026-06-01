@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16977894
   imdb: tt0045210
+  tmdb: 472340
 sources:
 - https://www.wikidata.org/wiki/Q16977894
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: podgorska-vika
 - person: rozman-loyze
 - person: sotlar-bert
+poster_tmdb_path: /mQaPV7rgpqsdsa3zE0BeA6kQHKx.jpg

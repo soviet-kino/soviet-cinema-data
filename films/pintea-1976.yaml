@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12738086
   imdb: tt0075067
+  tmdb: 31669
 sources:
 - https://www.wikidata.org/wiki/Q12738086
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: ploae-mariya
 - person: sasaran-ion
 - person: teyka-aristid
+poster_tmdb_path: /5VbA7hz4z2RGIXK22RtmjEHSBoi.jpg

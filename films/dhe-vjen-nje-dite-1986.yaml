@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q10994604
   imdb: tt0297855
+  tmdb: 505985
 sources:
 - https://www.wikidata.org/wiki/Q10994604
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ferri-xhevdet
 studio:
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /cFXCRooL1nyYR8xAx20fsQ5xlGA.jpg
+backdrop_tmdb_path: /6sf0xusGBH3pjyHkG1LIN2Hbu4w.jpg

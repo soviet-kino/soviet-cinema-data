@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4256176
   imdb: tt1482181
+  tmdb: 534715
 sources:
 - https://www.wikidata.org/wiki/Q4256176
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: yurskiy-sergey-yurevich
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /xoL8m2ujqzf4yZZlE4XufgA55yT.jpg
+backdrop_tmdb_path: /g7qOm5A9UXVj7MS4pnLT7zauUc1.jpg

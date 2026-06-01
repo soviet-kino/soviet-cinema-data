@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15804655
   imdb: tt0083367
+  tmdb: 149900
 sources:
 - https://www.wikidata.org/wiki/Q15804655
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: papp-zoltan
 - person: safar-aniko
 - person: khorvat-laslo
+poster_tmdb_path: /v7FNOdgW2o4WYaxMK7wML1uvMh6.jpg
+backdrop_tmdb_path: /dqa3sKLnXVLc1me8EBdlcw2k8qp.jpg

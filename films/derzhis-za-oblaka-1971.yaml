@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4158932
   imdb: tt0066983
   youtube: _4RXUcFLibU
+  tmdb: 530731
 sources:
 - https://www.wikidata.org/wiki/Q4158932
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: darvash-ivan
 - person: svetlichnaya-svetlana-afanasevna
 - person: tsilinskiy-gunar-alfredovich
+poster_tmdb_path: /bzxKfSs1pljW9OsVVdpwFY1wqnZ.jpg
+backdrop_tmdb_path: /9RzgiSUYgpjQrVJH3LMxv2Gf0sx.jpg

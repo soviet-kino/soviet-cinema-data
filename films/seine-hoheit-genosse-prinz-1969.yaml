@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1758939
   imdb: tt0230751
+  tmdb: 275045
 sources:
 - https://www.wikidata.org/wiki/Q1758939
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: ulrikh-rudolf
 - person: pfeifer-werner
 - person: shrade-villi
+poster_tmdb_path: /1BfAJidl5HG52b1ZYBBDh516Dk6.jpg

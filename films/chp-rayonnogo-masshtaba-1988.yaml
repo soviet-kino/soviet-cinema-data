@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4506527
   imdb: tt0282409
+  tmdb: 320056
 sources:
 - https://www.wikidata.org/wiki/Q4506527
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: smirnov-andrey-yurevich
 studio:
 - lenfilm
+poster_tmdb_path: /4RPjsJ65S2DrRGarDklRegEY3on.jpg
+backdrop_tmdb_path: /sJQpglmNqcsmSFjA0UYmVQnSFQZ.jpg

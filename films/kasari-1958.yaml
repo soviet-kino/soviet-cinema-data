@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q16948202
   imdb: tt0051812
+  tmdb: 653442
 sources:
 - https://www.wikidata.org/wiki/Q16948202
 schema_version: 1
@@ -54,3 +55,4 @@ cast:
 - person: q101245298
 - person: matysek-jan
 - person: q131765991
+poster_tmdb_path: /4BuoYXhEN6XMnWpYYlnM2FMtXsc.jpg

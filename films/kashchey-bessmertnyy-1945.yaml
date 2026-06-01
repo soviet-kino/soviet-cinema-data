@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12507703
   imdb: tt0167227
   youtube: 0vu8OgepnRY
+  tmdb: 76249
 sources:
 - https://www.wikidata.org/wiki/Q12507703
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - soyuzdetfilm
+poster_tmdb_path: /7NRZFY5G6vBjylJ1IZvouXgAKGM.jpg
+backdrop_tmdb_path: /1bAZXph31vEh5xh4y1lfSKL8xzh.jpg

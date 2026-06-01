@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109464
   imdb: tt0075388
   youtube: Cu-j_2UMIl8
+  tmdb: 183201
 sources:
 - https://www.wikidata.org/wiki/Q4109464
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: fatyushin-aleksandr-konstantinovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /kIjWHriCCiggNMvrjipW1BFQxf7.jpg

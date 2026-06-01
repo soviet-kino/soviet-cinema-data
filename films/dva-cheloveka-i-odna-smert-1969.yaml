@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44863596
   imdb: tt0064242
+  tmdb: 465884
 sources:
 - https://www.wikidata.org/wiki/Q44863596
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 screenwriter:
 - suto-andras
 - nagi-george
+poster_tmdb_path: /48hXvsttgtCTkny9NxUccOxgj2m.jpg
+backdrop_tmdb_path: /vDEeEi210ei5HNq4IwbzVJlwQD8.jpg

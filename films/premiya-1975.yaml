@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4376921
   imdb: tt0072027
   youtube: MpA9qXWAIO8
+  tmdb: 275054
 sources:
 - https://www.wikidata.org/wiki/Q4376921
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kryuchkova-svetlana
 studio:
 - lenfilm
+poster_tmdb_path: /yQsAzLkzYfoAsvNYZ4UsEsBcKoA.jpg
+backdrop_tmdb_path: /hFhAIC0cUy1ei9wMBknFdU5qds5.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65200940
   imdb: tt4680604
+  tmdb: 531777
 sources:
 - https://www.wikidata.org/wiki/Q65200940
 schema_version: 1
 director:
 - chemodurov-anatoliy-vladimirovich
+poster_tmdb_path: /3RczV7HjySGl2mBCB8BK19Wyr4v.jpg

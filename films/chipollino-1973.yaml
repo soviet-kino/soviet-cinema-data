@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4516126
   imdb: tt0167827
   youtube: 9BxaJnqMmaU
+  tmdb: 72200
 sources:
 - https://www.wikidata.org/wiki/Q4516126
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: belokurov-vladimir-vyacheslavovich
 - person: elistratov-aleksandr-vitalevich
 - person: panova-aleksandra-petrovna
+poster_tmdb_path: /cmlP1GSowV7luyZnH4TVI629kkQ.jpg
+backdrop_tmdb_path: /1UHa9S5U8mQGDLmj48kzscnIGnk.jpg

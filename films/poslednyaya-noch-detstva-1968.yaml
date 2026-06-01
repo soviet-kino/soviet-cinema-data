@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q421984
   imdb: tt1861461
+  tmdb: 326857
 sources:
 - https://www.wikidata.org/wiki/Q421984
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: seyfi-alekper
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /FErETyt58NWIZmwbfcHYW8e8hN.jpg
+backdrop_tmdb_path: /yiPnBBDZoQzFlk0SAU5VEyAdjTY.jpg

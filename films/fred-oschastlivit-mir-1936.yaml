@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9263608
   imdb: tt0027643
+  tmdb: 748154
 sources:
 - https://www.wikidata.org/wiki/Q9263608
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: czaplicki-jerzy
 - person: lyubenskaya-karolina
 poster_commons: Fredek uszczęśliwia świat.png
+poster_tmdb_path: /6VbpzcOLWze5yaFjoOrDlP4D2uK.jpg
+backdrop_tmdb_path: /yOoFUNrldhUDVBhS1ho1AhcZTD2.jpg

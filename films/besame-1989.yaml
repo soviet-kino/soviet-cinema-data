@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4085546
   imdb: tt0286501
+  tmdb: 1485797
 sources:
 - https://www.wikidata.org/wiki/Q4085546
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - akhvlediani-lomer
 composer:
 - kakhidze-vakhtang-dzhansugovich
+poster_tmdb_path: /9cXdGcj9CSes7GSMM2uGZt10VNW.jpg

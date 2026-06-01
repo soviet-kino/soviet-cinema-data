@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4330575
   imdb: tt0058423
   youtube: MT5JesgpJgE
+  tmdb: 63449
 sources:
 - https://www.wikidata.org/wiki/Q4330575
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: maksimova-nelli-vasilevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dfHfqsLCFHt6l9m2YUYoO9grzZB.jpg
+backdrop_tmdb_path: /wAEUuOhdIlQZHhoBTEFCkBjO9WR.jpg

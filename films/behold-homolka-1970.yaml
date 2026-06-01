@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q922783
   imdb: tt0132935
+  tmdb: 78817
 sources:
 - https://www.wikidata.org/wiki/Q922783
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kodonova-yvonne
 studio:
 - barrandov
+poster_tmdb_path: /ooWMrtbMHemRvgNTTLMLz8Qqs3t.jpg
+backdrop_tmdb_path: /fuOXmhJcUhLvwTkneCof96If3Wq.jpg

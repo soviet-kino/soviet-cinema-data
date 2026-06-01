@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q123857668
   imdb: tt0382917
   youtube: MoMAwRg54Eg
+  tmdb: 536900
 sources:
 - https://www.wikidata.org/wiki/Q123857668
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - frenkel-yan-abramovich
 studio:
 - belarusfilm
+poster_tmdb_path: /j4NNrDGgV4vH6nvk5mYtB7S3yfc.jpg
+backdrop_tmdb_path: /uTeCFOMul7uBiqt8ynw0f2zfuzv.jpg

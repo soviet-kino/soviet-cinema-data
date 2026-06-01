@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q16459172
   imdb: tt2044811
+  tmdb: 1177920
 sources:
 - https://www.wikidata.org/wiki/Q16459172
 schema_version: 1
 screenwriter:
 - nosov-nikolay-nikolaevich
+poster_tmdb_path: /kg5BBBV6G6lOzMAYW5c789ilcFS.jpg

@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q106720458
   imdb: tt0241548
+  tmdb: 213263
 sources:
 - https://www.wikidata.org/wiki/Q106720458
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kertes-dezho
 - person: sieder-adolf
 - person: almasi-sari
+poster_tmdb_path: /yDEzb9m7p2MRzKUuQgmXlJ5Hg5k.jpg

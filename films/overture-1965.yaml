@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7114050
   imdb: tt0059559
+  tmdb: 220573
 sources:
 - https://www.wikidata.org/wiki/Q7114050
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - vadasz-janos
 composer:
 - betkhoven-lyudvig-van
+poster_tmdb_path: /yhb0o65Im8hda5HNWJRCF4o7FJK.jpg

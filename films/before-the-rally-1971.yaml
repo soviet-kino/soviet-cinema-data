@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q3924816
   imdb: tt0067626
+  tmdb: 363557
 sources:
 - https://www.wikidata.org/wiki/Q3924816
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - keslyovskiy-kshishtof
 cast:
 - person: komornicki-krzysztof
+poster_tmdb_path: /ndW6FYRtgIRo4GsrAL7CL97Dcp9.jpg

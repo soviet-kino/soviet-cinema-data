@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q2756357
   imdb: tt0063791
+  tmdb: 46659
 sources:
 - https://www.wikidata.org/wiki/Q2756357
 schema_version: 1
@@ -81,3 +82,5 @@ cast:
 - person: fric-leopold
 - person: staud-rudolf
 - person: mauer-jan
+poster_tmdb_path: /jqz6XUrGtt1mQZEcAsCXYVaivjP.jpg
+backdrop_tmdb_path: /eF0UYfLOrirT8TLpIMfkuvw4x4I.jpg

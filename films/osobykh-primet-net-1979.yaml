@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q9391637
   imdb: tt0078042
   youtube: -tGHXkrh6hU
+  tmdb: 571210
 sources:
 - https://www.wikidata.org/wiki/Q9391637
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: garlitskiy-pyotr
 studio:
 - iluzjon
+poster_tmdb_path: /8a4v0qWrMYU1vebbg7ZKkPS8bhT.jpg
+backdrop_tmdb_path: /xmau5zTB8wWr8FvQlIEjcPNRsNw.jpg

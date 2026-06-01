@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4672550
   imdb: tt0074090
+  tmdb: 278693
 sources:
 - https://www.wikidata.org/wiki/Q4672550
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: dron-dorin
 - person: dafinesku-chezara
 - person: popovichi-ilyana
+poster_tmdb_path: /l3IiJHbmcbiUMVD2xByDKVhe2fy.jpg

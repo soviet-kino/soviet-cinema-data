@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1150376
   imdb: tt0137073
+  tmdb: 266170
 sources:
 - https://www.wikidata.org/wiki/Q1150376
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: fiebrandt-hans
 - person: senftleben-werner
 - person: shelkher-raymund
+poster_tmdb_path: /97hEDkVQDMD7w6ZcVumr2BTvuEi.jpg

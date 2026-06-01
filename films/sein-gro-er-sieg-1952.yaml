@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7446834
   imdb: tt0045134
+  tmdb: 439257
 sources:
 - https://www.wikidata.org/wiki/Q7446834
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - losche-alexander
 cinematographer:
 - kuhle-willi
+poster_tmdb_path: /cP9Z29ruGYRGcn3ocnFQAmhJiOY.jpg
+backdrop_tmdb_path: /81NliGnHznQkhEJOfWQ3b2fSvF6.jpg

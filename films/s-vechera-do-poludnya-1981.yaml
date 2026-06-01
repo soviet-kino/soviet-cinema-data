@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4402927
   imdb: tt0131570
   youtube: R9Je8apJho4
+  tmdb: 92188
 sources:
 - https://www.wikidata.org/wiki/Q4402927
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: sanaev-vsevolod-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /uAwEMUmdkdxHnpTPQUXU1gzthMV.jpg
+backdrop_tmdb_path: /mnbTYp9abgIfynl8dVSpD2HzsH4.jpg

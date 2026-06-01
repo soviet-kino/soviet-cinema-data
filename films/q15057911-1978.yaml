@@ -8,6 +8,7 @@ runtime_min: 40
 external_ids:
   wikidata: Q15057911
   imdb: tt3681806
+  tmdb: 513595
 sources:
 - https://www.wikidata.org/wiki/Q15057911
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: nalepkova-svetlana
 - person: svehlova-jarmila
 - person: leichtova-jana
+poster_tmdb_path: /30utJn0wrdyW97L2YKluiWvQJ46.jpg
+backdrop_tmdb_path: /qJMCJmLzTkDM43e5XJQlJheJWkw.jpg

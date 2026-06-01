@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q12728191
   imdb: tt0068578
+  tmdb: 89792
 sources:
 - https://www.wikidata.org/wiki/Q12728191
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: boruzesku-radu
 - person: skerletesku-florin
 - person: teyka-aristid
+poster_tmdb_path: /tMONOLHWjLT05roXkhAUOynPWi2.jpg
+backdrop_tmdb_path: /yPfaYDP7voL2RC1YU6dmYxJkef3.jpg

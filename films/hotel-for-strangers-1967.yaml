@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q5912209
   imdb: tt0133012
+  tmdb: 198784
 sources:
 - https://www.wikidata.org/wiki/Q5912209
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: subrtova-irena
 - person: borovian-josef
 - person: bissingerova-ivana
+poster_tmdb_path: /y5tgRM6ykuBQSeeLQj2db4Ydosp.jpg

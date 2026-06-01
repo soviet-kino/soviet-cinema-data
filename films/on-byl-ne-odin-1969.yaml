@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4334788
   imdb: tt5084406
+  tmdb: 535852
 sources:
 - https://www.wikidata.org/wiki/Q4334788
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: irgashev-shukhrat-ibragimovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /6mtUQchNmSQyXXZWCWso2IKok4q.jpg

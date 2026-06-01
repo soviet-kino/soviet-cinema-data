@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q2793244
   imdb: tt0081363
+  tmdb: 51178
 sources:
 - https://www.wikidata.org/wiki/Q2793244
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: q131819746
 - person: wurser-pavel
 - person: otoupal-josef
+poster_tmdb_path: /odyvT0NVpP1jRVXpvygMQuLNiX2.jpg
+backdrop_tmdb_path: /itUVvN7k9Jbsj2Tz3mYSP2NjbU6.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4530224
   imdb: tt0134633
   youtube: lgSl7D_vtEE
+  tmdb: 72892
 sources:
 - https://www.wikidata.org/wiki/Q4530224
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: yushko-german-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /iTjmNWo6ijA0EHFeTv6GPrez02r.jpg
+backdrop_tmdb_path: /b0P37NCL1fXHAopeqwvwuGGuNEx.jpg

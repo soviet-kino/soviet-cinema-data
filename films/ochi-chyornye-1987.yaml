@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1755424
   imdb: tt0093664
   youtube: CyNy0_NRRdc
+  tmdb: 44658
 sources:
 - https://www.wikidata.org/wiki/Q1755424
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: bon-mariya-gratsiya
 studio:
 - rai-1
+poster_tmdb_path: /ruYkXUbGKi6BwDqZeO3lk2fZXnq.jpg
+backdrop_tmdb_path: /metcg6lwJqJMZeQx41ISgh62iVl.jpg

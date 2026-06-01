@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65199442
   imdb: tt0080107
+  tmdb: 890258
 sources:
 - https://www.wikidata.org/wiki/Q65199442
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - osepyan-mark
 studio:
 - mosfilm
+poster_tmdb_path: /qNSv0ZnMvGb6z0t9zuuz5K21Eb4.jpg

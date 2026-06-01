@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q89185877
   imdb: tt0060770
   youtube: IeRUdzXFrR8
+  tmdb: 104306
 sources:
 - https://www.wikidata.org/wiki/Q89185877
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: lebedova-anna
 - person: janecek-josef
 - person: tichy-rudolf
+poster_tmdb_path: /524wZDvsgbK9lrXI9fi0nVOVZwn.jpg
+backdrop_tmdb_path: /uxfQFC44okqtXhlrN44pQAYApIw.jpg

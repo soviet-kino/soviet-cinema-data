@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514566
   imdb: tt6247694
+  tmdb: 448040
 sources:
 - https://www.wikidata.org/wiki/Q16514566
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Красная шапочка. Плакат к фильму (1937).jpg
+poster_tmdb_path: /phIhnbXzai6Yw56n4SPW3KqC0az.jpg
+backdrop_tmdb_path: /m3CA381XGj7Jmr3tKtuFLvBb6cl.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4364375
   imdb: tt3517224
   youtube: EszLWPfjHk8
+  tmdb: 309874
 sources:
 - https://www.wikidata.org/wiki/Q4364375
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kobaladze-andrey-aleksandrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /v4orf1hvNeKHHX6hc7PXe3Z7Kcm.jpg
+backdrop_tmdb_path: /iSMuxNfARVOCjXZvmKZUK5i5X49.jpg

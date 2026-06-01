@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q43302500
   imdb: tt0176150
+  tmdb: 247114
 sources:
 - https://www.wikidata.org/wiki/Q43302500
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - vatsek-milosh
 cast:
 - person: zib-antonin
+poster_tmdb_path: /aJ2nA0W9TsapgxUNcfhAoI22Fq2.jpg

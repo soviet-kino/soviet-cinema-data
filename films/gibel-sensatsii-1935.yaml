@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4137926
   imdb: tt0240539
+  tmdb: 137209
 sources:
 - https://www.wikidata.org/wiki/Q4137926
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - mezhrabpomfilm
 poster_commons: Robot1-los-of-sensation.jpg
+poster_tmdb_path: /tu2YVUAq8zGYXDygam7wnCAXsCj.jpg
+backdrop_tmdb_path: /9hvjK6wKS5z0KApZFl1Z3Z0jU6X.jpg

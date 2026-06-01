@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q2253690
   imdb: tt0060947
+  tmdb: 288567
 sources:
 - https://www.wikidata.org/wiki/Q2253690
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: yonishkan-khorst
 - person: kube-khorst
 - person: shrade-villi
+poster_tmdb_path: /nCD5SrjzvZCfOnfJQhIr9geTGKd.jpg

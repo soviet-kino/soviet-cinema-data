@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4277698
   imdb: tt0234182
+  tmdb: 225327
 sources:
 - https://www.wikidata.org/wiki/Q4277698
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: banionis-donatas-yuozovich
 - person: koberidze-otar-leontevich
 - person: mikalyunas-evaldas
+poster_tmdb_path: /Aq4U5AsgR0G7Me0p2K0Vfu6Kf8O.jpg
+backdrop_tmdb_path: /rEFd5qpbvyU0qAHVEgxoL6MQCHp.jpg

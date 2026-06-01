@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q130292808
   imdb: tt0271076
+  tmdb: 345249
 sources:
 - https://www.wikidata.org/wiki/Q130292808
 schema_version: 1
@@ -15,3 +16,5 @@ composer:
 - kornelyuk-igor-evgenevich
 studio:
 - lenfilm
+poster_tmdb_path: /oPPa2oAkO0zR9Tjf8RzhmHH7Axz.jpg
+backdrop_tmdb_path: /2t7DeTCtuGQJLgXgY6RMrMAf4lJ.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28665763
   imdb: tt0484298
   youtube: IhJZ_BcpLjc
+  tmdb: 409832
 sources:
 - https://www.wikidata.org/wiki/Q28665763
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: galin-yuriy
 studio:
 - mosfilm
+poster_tmdb_path: /dWoBL2WQgN4vZlD1j4Ad9W0LBRu.jpg
+backdrop_tmdb_path: /dUDh0XUO2sK10Y9lnVS2KM8PEUR.jpg

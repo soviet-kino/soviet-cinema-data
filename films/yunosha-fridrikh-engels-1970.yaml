@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4534642
   imdb: tt0411543
+  tmdb: 565701
 sources:
 - https://www.wikidata.org/wiki/Q4534642
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 studio:
 - soyuzmultfilm
 - defa
+poster_tmdb_path: /QR6IpNLueqpFowzj4FrUEZdllA.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12760704
   imdb: tt0179818
+  tmdb: 334611
 sources:
 - https://www.wikidata.org/wiki/Q12760704
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: prlichko-petr
 - person: yovanovski-ako
 - person: boskova-meri
+poster_tmdb_path: /9T3Jv2qDLLhRxhNE2jUJkFP2STH.jpg
+backdrop_tmdb_path: /w7uM8MNWPdJa1OJqxGPtggCelCZ.jpg

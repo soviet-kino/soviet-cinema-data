@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q124758331
   imdb: tt7738486
+  tmdb: 883622
 sources:
 - https://www.wikidata.org/wiki/Q124758331
 schema_version: 1
 studio:
 - soyuzkino
+poster_tmdb_path: /tENJ6UeRDoMYlhWEZAFkplfiVDv.jpg
+backdrop_tmdb_path: /csvjnFAgXBIWD5Q9COZsKUtBpHf.jpg

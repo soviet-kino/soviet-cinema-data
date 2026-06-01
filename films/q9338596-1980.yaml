@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9338596
   imdb: tt0081527
+  tmdb: 921960
 sources:
 - https://www.wikidata.org/wiki/Q9338596
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - kovalchik-andzhey
 composer:
 - orlewicz-leszek
+poster_tmdb_path: /gya4EGjYfAJnKglw08yMUIUYLcb.jpg

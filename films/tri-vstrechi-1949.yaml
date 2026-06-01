@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4462827
   imdb: tt0040901
+  tmdb: 806547
 sources:
 - https://www.wikidata.org/wiki/Q4462827
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: borisova-yuliya-konstantinovna
 studio:
 - mosfilm
+poster_tmdb_path: /qA4tjPeUJhP69JwWdFocIePwsVs.jpg

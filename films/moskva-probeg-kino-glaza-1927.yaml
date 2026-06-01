@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q134509606
   imdb: tt0018172
+  tmdb: 189653
 sources:
 - https://www.wikidata.org/wiki/Q134509606
 schema_version: 1
 director:
 - kaufman-mikhail-abramovich
 - kopalin-ilya-petrovich
+poster_tmdb_path: /vILXm5DTw0sDiGOntNNrsRx0urm.jpg

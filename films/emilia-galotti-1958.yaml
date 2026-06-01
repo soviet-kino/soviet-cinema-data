@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q1337262
   imdb: tt0051577
+  tmdb: 281534
 sources:
 - https://www.wikidata.org/wiki/Q1337262
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: gyots-luts
 - person: delshaft-mali
 - person: vyunsher-marianna
+poster_tmdb_path: /ryaGQjRVzi5FEYFM6dv6HqY6yT2.jpg

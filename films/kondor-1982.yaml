@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q987167
   imdb: tt0083865
+  tmdb: 96411
 sources:
 - https://www.wikidata.org/wiki/Q987167
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kristof-tibor
 - person: pertsel-zita
 - person: temessy-hedi
+poster_tmdb_path: /qIhVUSqd5m9fZEfIfrd4KBnHdVM.jpg
+backdrop_tmdb_path: /4OPMvIA3uyFdNm4v19RdOBK5JdN.jpg

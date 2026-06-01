@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q987990
   imdb: tt0028821
+  tmdb: 592149
 sources:
 - https://www.wikidata.org/wiki/Q987990
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 studio:
 - hunnia-film-studio
 poster_commons: Egy lány elindul (Színházi Élet, 1938).jpg
+poster_tmdb_path: /1fOTW6lnDMWgtxGezYXtFzEj4z3.jpg

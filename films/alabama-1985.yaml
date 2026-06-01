@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9143989
   imdb: tt0086867
+  tmdb: 246261
 sources:
 - https://www.wikidata.org/wiki/Q9143989
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: okonski-pavel
 - person: matysik-gzhegozh
 - person: szymanowska-barbara
+poster_tmdb_path: /aNv97E0SeQkIOWOkdVFPnUJGfg9.jpg
+backdrop_tmdb_path: /cZsOzWxzannuuXpXcp8PSt4SPO7.jpg

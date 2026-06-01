@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q31273903
   imdb: tt0452287
+  tmdb: 398280
 sources:
 - https://www.wikidata.org/wiki/Q31273903
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - sumera-lepo
 studio:
 - tallinfilm
+poster_tmdb_path: /nAP6n5f83t948zyONXsWVMtOvjS.jpg

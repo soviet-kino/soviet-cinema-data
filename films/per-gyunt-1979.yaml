@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q29512160
   imdb: tt6052454
+  tmdb: 689903
 sources:
 - https://www.wikidata.org/wiki/Q29512160
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - karetnikov-nikolay-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ld7cwsmTRYq3JZNoIGWcWhhSsJ9.jpg

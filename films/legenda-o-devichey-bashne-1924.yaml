@@ -8,6 +8,7 @@ runtime_min: 54
 external_ids:
   wikidata: Q4256914
   imdb: tt1407280
+  tmdb: 160593
 sources:
 - https://www.wikidata.org/wiki/Q4256914
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ogly-idayatzade-ismail-guseyn
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /pleIrBYOa7S7VnxAtBtrVCaTqLC.jpg
+backdrop_tmdb_path: /iNcSUeXKGUuWBdpOL3rDUAVBysE.jpg

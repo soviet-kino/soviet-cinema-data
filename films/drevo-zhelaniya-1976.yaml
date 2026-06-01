@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2379008
   imdb: tt0075963
   youtube: BQONBiHu2nM
+  tmdb: 150223
 sources:
 - https://www.wikidata.org/wiki/Q2379008
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kavzharadze-lika-vissarionovna
 - person: kolelishvili-zaza
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /1PeQj4Oruy82OAGvUd8a68Tw9YV.jpg
+backdrop_tmdb_path: /zO9ZzreCsmyxeMo0MEPSArzj1Ra.jpg

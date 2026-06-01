@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q1304863
   imdb: tt0061919
+  tmdb: 2226
 sources:
 - https://www.wikidata.org/wiki/Q1304863
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: sense-traute
 - person: shvabe-villi
 - person: papendiek-alexander
+poster_tmdb_path: /h1n8kkqguDRcrlye8esT7yEznDF.jpg
+backdrop_tmdb_path: /g0Vk2MlJogkyzo3Ynuy4yF6QbTl.jpg

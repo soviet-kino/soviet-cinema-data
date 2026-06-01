@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1415082
   imdb: tt0097584
   youtube: g1otOdOp-DA
+  tmdb: 83524
 sources:
 - https://www.wikidata.org/wiki/Q1415082
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - mosfilm
 - sovinfilm
+poster_tmdb_path: /nUi1vuuemOgSehUzyLixUyt3m7C.jpg
+backdrop_tmdb_path: /rvkQoZSxKptvtZ1EzAHZZx6GHuG.jpg

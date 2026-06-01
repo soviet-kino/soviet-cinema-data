@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16353988
   imdb: tt0348491
+  tmdb: 207258
 sources:
 - https://www.wikidata.org/wiki/Q16353988
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - zarinsh-margeris
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /4yZBIUrttsdXCn4JJk5A3tLFHFW.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116864984
   imdb: tt0070838
+  tmdb: 889993
 sources:
 - https://www.wikidata.org/wiki/Q116864984
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: zaytseva-lyudmila-vasilevna
 - person: romanov-ernst-ivanovich
 - person: sergachyov-viktor-nikolaevich
+poster_tmdb_path: /kMgbTGlHD8Mah1JKl8zr25Gh2J0.jpg

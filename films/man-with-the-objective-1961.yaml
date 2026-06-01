@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q29345554
   imdb: tt0055137
+  tmdb: 2855
 sources:
 - https://www.wikidata.org/wiki/Q29345554
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: labudda-khelga
 - person: krayssler-mikaela
 - person: stark-otto
+poster_tmdb_path: /1QswxrSghgZOBdVA5qKyxq9LRo3.jpg

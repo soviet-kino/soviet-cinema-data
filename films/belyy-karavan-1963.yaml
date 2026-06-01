@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4083127
   imdb: tt0175238
+  tmdb: 198830
 sources:
 - https://www.wikidata.org/wiki/Q4083127
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: shengelaya-ariadna-vsevolodovna
 - person: abashidze-david-ivanovich
+poster_tmdb_path: /fwmki8pUFscpJooEtpd6tkcGLVE.jpg
+backdrop_tmdb_path: /8ego5uWetYEJzFFL4NhJvEnOqro.jpg

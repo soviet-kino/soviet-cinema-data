@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q3209449
   imdb: tt0239543
+  tmdb: 67104
 sources:
 - https://www.wikidata.org/wiki/Q3209449
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - novak-yan-2
 studio:
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+poster_tmdb_path: /3IAsXppnO1CXxjiqMbpwxHLgies.jpg

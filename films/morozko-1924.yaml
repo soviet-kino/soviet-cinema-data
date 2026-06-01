@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6913306
   imdb: tt0230544
   youtube: zoQlrEo7zQM
+  tmdb: 1017476
 sources:
 - https://www.wikidata.org/wiki/Q6913306
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: livanov-boris-nikolaevich
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /zE8SSWj91S0LfxfovEtdT57UYwx.jpg
+backdrop_tmdb_path: /wxhf1OKoMCsQzcJv6c9iDdE7W39.jpg

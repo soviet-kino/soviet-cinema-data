@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7903247
   imdb: tt0187570
+  tmdb: 59812
 sources:
 - https://www.wikidata.org/wiki/Q7903247
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: sedlacek-tomas
 - person: kudlova-ivana
 - person: zemanova-frantiska
+poster_tmdb_path: /a51DSxnnZLHYweCLDSZqKFdyZyJ.jpg

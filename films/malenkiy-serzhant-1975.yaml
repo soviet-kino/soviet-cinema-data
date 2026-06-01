@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4277699
   imdb: tt0396511
   youtube: l5inxBJqOqM
+  tmdb: 1050123
 sources:
 - https://www.wikidata.org/wiki/Q4277699
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 studio:
 - barrandov
 - belarusfilm
+poster_tmdb_path: /isR9BXg6EaFnXlEhMQ1fNBcJCLV.jpg

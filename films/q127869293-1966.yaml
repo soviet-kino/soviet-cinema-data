@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q127869293
   imdb: tt1024725
+  tmdb: 371201
 sources:
 - https://www.wikidata.org/wiki/Q127869293
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - zonn-lidiya
 - kamienska-irena
+poster_tmdb_path: /4Ktw2UC7r5mWH5G5nHfvBVIAaV1.jpg

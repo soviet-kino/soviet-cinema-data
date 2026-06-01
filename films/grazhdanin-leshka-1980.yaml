@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65201959
   imdb: tt0193202
   youtube: SvAczKhE0cY
+  tmdb: 570294
 sources:
 - https://www.wikidata.org/wiki/Q65201959
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - kryuchkov-viktor-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /lkwzw9Nrr5AsCexa29tImThgoTd.jpg
+backdrop_tmdb_path: /58mNjM1araRdJdfzHTJ3iBnXFPu.jpg

@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q9158408
   imdb: tt0402802
+  tmdb: 175916
 sources:
 - https://www.wikidata.org/wiki/Q9158408
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - czeka-a-ryszard
 cinematographer:
 - tkaczyk-jan
+poster_tmdb_path: /bTQiuczOUkRDE3m5vBdBmznWFra.jpg

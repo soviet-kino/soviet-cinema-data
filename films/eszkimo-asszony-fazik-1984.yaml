@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q991658
   imdb: tt0085512
+  tmdb: 131044
 sources:
 - https://www.wikidata.org/wiki/Q991658
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: fyoldesh-laslo
 - person: kallay-ilona
 - person: mehes-marietta
+poster_tmdb_path: /PVjqMUXCg8BMd8iJ2gb7HhIf7B.jpg
+backdrop_tmdb_path: /7CM5fhxoUKTl7wKvsQWHk9Mt4CY.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4508526
   imdb: tt0194752
+  tmdb: 512940
 sources:
 - https://www.wikidata.org/wiki/Q4508526
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - mosfilm
 cast:
 - person: zamanskiy-vladimir-petrovich
+poster_tmdb_path: /dD06Qoanc43526hU7tQTjsQpQ8l.jpg

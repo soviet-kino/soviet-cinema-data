@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16687613
   imdb: tt4837382
   youtube: zzK6Lr2KFcc
+  tmdb: 922334
 sources:
 - https://www.wikidata.org/wiki/Q16687613
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - sherstobitov-evgeniy-firsovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /kP88ZsIL1kEkzrOAOGIOHIL0fAq.jpg

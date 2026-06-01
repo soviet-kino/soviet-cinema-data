@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4339348
   imdb: tt2395147
   youtube: oosjGA0ah0k
+  tmdb: 247860
 sources:
 - https://www.wikidata.org/wiki/Q4339348
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: putsitis-uldis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /tUkyKdN6BJsISNIgOFfgrR0DZjt.jpg

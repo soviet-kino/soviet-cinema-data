@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4187050
   imdb: tt0052987
+  tmdb: 104141
 sources:
 - https://www.wikidata.org/wiki/Q4187050
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - polanski-roman
 cast:
 - person: polanski-roman
+poster_tmdb_path: /usNbYhy8Qj5BL9acN5ddm86Y5BI.jpg
+backdrop_tmdb_path: /zfxw1zjZwdavWUQHJKL8i4CdyEt.jpg

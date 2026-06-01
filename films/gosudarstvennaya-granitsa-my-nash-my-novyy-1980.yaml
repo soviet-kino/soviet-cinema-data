@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270570
   imdb: tt0193199
   youtube: HD6n-JtQQaM
+  tmdb: 531029
 sources:
 - https://www.wikidata.org/wiki/Q15270570
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: romanov-ernst-ivanovich
 studio:
 - belarusfilm
+poster_tmdb_path: /pwxenT53MhVYj2F6UYG6fyLhqjQ.jpg

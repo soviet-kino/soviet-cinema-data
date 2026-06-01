@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q16417876
   imdb: tt3127136
+  tmdb: 472208
 sources:
 - https://www.wikidata.org/wiki/Q16417876
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: bochorishvili-ketevan-gavrilovna
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /f5M4mmJNgpEOiVV7GuMYQerveko.jpg

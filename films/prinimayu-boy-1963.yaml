@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q106774711
   imdb: tt5026520
+  tmdb: 537855
 sources:
 - https://www.wikidata.org/wiki/Q106774711
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - ilich-sklyanskiy-yakov
 studio:
 - lenfilm
+poster_tmdb_path: /dmSgoETBOTE7GC40MjqtGWyYCjL.jpg

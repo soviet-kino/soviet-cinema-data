@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4959164
   imdb: tt0230051
+  tmdb: 441051
 sources:
 - https://www.wikidata.org/wiki/Q4959164
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: khindemit-kharri
 - person: kube-khorst
 - person: shrade-villi
+poster_tmdb_path: /tztIkOsJsOQjX8DInBtLlIIXuF0.jpg

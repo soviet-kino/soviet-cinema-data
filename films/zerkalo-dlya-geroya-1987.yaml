@@ -20,6 +20,7 @@ external_ids:
   wikidata: Q4191540
   youtube: 8Jsxj-pIMe8
   imdb: tt0094371
+  tmdb: 83495
 sources:
 - https://www.wikidata.org/wiki/Q4191540
 schema_version: 1
@@ -32,3 +33,5 @@ studio:
 cast:
 - person: bortnik-ivan-sergeevich
 - person: koltakov-sergey-mikhaylovich
+poster_tmdb_path: /hRQsE6krPfh159aZT7503Cqv5bI.jpg
+backdrop_tmdb_path: /snzr7vrVAKHtvdmtocFsZucOWZc.jpg

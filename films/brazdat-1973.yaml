@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3287339
   imdb: tt0295193
+  tmdb: 461411
 sources:
 - https://www.wikidata.org/wiki/Q3287339
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - damo-kristach
 cinematographer:
 - kokona-saim
+poster_tmdb_path: /eWMdSpWFE6wJ61pY5l2aY2rnFr8.jpg
+backdrop_tmdb_path: /kz6c5VI9uhqBOOnyXZoEE0i8YcW.jpg

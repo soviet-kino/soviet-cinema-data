@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97305695
   imdb: tt0231301
   youtube: LrWdJJbnctc
+  tmdb: 1033854
 sources:
 - https://www.wikidata.org/wiki/Q97305695
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: merkurev-pyotr-vasilevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /5g3Kn7qYI0NYW7M7qBnIhzIKOHz.jpg
+backdrop_tmdb_path: /ajcgYxRWaseADvPO9XxBQC6fB5C.jpg

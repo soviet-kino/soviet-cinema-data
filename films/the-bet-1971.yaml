@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12756562
   imdb: tt0180027
+  tmdb: 278584
 sources:
 - https://www.wikidata.org/wiki/Q12756562
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: milenkovic-zivojin
 - person: lupa-peter
 - person: dobrichanin-dragutin
+poster_tmdb_path: /abieDLGq9fPvpkE4mmUtN3A9g7G.jpg
+backdrop_tmdb_path: /tcP2O4mOtAuznDR1xuYukDECUuc.jpg

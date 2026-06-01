@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4379915
   imdb: tt0162105
   youtube: 69XM6PBG34w
+  tmdb: 63532
 sources:
 - https://www.wikidata.org/wiki/Q4379915
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
 - belarusfilm
+poster_tmdb_path: /rnhZW3CqGx3ZsYCLUIBWSuewdGL.jpg
+backdrop_tmdb_path: /dLU0NKZzeedrBQOiQoiVojCWSAi.jpg

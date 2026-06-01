@@ -51,6 +51,9 @@ runtime_min: 116
 external_ids:
   wikidata: Q54966
   imdb: tt0088083
+  tmdb: 19673
 sources:
 - https://www.wikidata.org/wiki/Q54966
 schema_version: 1
+poster_tmdb_path: /dgCbxuRLOFZlltXgOL0Aao1pPqS.jpg
+backdrop_tmdb_path: /36nTaD0feaC8fXry2eG9qOCJJfc.jpg

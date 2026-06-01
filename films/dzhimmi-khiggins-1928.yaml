@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q122181182
   imdb: tt0336299
+  tmdb: 1006219
 sources:
 - https://www.wikidata.org/wiki/Q122181182
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 screenwriter:
 - babel-isaak
 - tasin-georgiy
+poster_tmdb_path: /ayV3JWyQzduxm4YZv0S6HiXAHpW.jpg
+backdrop_tmdb_path: /8JoEQ6w9F4T7SWO0HJCXrlloq1d.jpg

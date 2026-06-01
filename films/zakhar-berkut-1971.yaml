@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4188524
   imdb: tt0175346
   youtube: sMf-iiOAbc0
+  tmdb: 278089
 sources:
 - https://www.wikidata.org/wiki/Q4188524
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: beyshenaliev-bolot
 - person: stepankov-konstantin-petrovich
 - person: leftiy-antonina-vladimirovna
+poster_tmdb_path: /aRms1GlEXQgnFJybvCnvtXafsv6.jpg
+backdrop_tmdb_path: /rEMNpPdQe0sEHgljZe87bSeWRBh.jpg

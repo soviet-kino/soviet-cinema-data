@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q18209842
   imdb: tt0081350
+  tmdb: 51902
 sources:
 - https://www.wikidata.org/wiki/Q18209842
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - krupa-zdenek
 composer:
 - svoboda-karel
+poster_tmdb_path: /mIjQlnoHExlmVw2ibHi43ZMCf79.jpg
+backdrop_tmdb_path: /7lzTJvoGtVK4NBy3xRdqHo52noZ.jpg

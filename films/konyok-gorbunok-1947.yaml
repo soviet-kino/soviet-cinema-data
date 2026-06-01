@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q2388260
   imdb: tt0050604
+  tmdb: 116733
 sources:
 - https://www.wikidata.org/wiki/Q2388260
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: The Soviet Union 1988 CPA 5915 stamp (The Little Horse - Little Humpback).jpg
+poster_tmdb_path: /np2JxCCeu0Dq3R2i8mTODMfJjnb.jpg
+backdrop_tmdb_path: /pE4L6xQIpYYgEVVHDbgZKf1263k.jpg

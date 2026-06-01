@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86753659
   imdb: tt0165435
   youtube: mhiGZI7PDNM
+  tmdb: 204727
 sources:
 - https://www.wikidata.org/wiki/Q86753659
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: majer-vladimir
 - person: bastyr-alfred
 - person: hofman-luigi
+poster_tmdb_path: /uH55Cu30JhXWKPFfc20W8JTTxIN.jpg
+backdrop_tmdb_path: /vMegHZ9Sxxh5jFZEVUJk3GQJVgw.jpg

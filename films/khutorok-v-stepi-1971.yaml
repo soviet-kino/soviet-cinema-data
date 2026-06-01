@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106640569
   imdb: tt5292996
   youtube: FiDqTl-KBKo
+  tmdb: 849191
 sources:
 - https://www.wikidata.org/wiki/Q106640569
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - raukhverger-mikhail-rafailovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ajnPqZaHgJvfpc5yKGXk6xWTzt9.jpg

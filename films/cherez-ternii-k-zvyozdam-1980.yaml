@@ -20,6 +20,9 @@ censorship_status: released
 external_ids:
   wikidata: Q4512673
   imdb: tt0081546
+  tmdb: 76711
 sources:
 - https://www.wikidata.org/wiki/Q4512673
 schema_version: 1
+poster_tmdb_path: /mrre1UwGF1gEfVglpEkUf5XJD8A.jpg
+backdrop_tmdb_path: /anvpc5ZLJR2XdRKr9MDKrrS0PLS.jpg

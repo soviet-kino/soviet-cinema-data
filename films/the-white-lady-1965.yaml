@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4827148
   imdb: tt0058971
   youtube: 5kMwtjzsiIQ
+  tmdb: 117570
 sources:
 - https://www.wikidata.org/wiki/Q4827148
 schema_version: 1
@@ -69,3 +70,5 @@ cast:
 - person: tichacek-mojmir
 - person: pesek-j
 poster_commons: Wojciech Gerson - Zjawa Barbary Radziwiłłówny.jpg
+poster_tmdb_path: /a2qyBuAp8AuEGPDpNuYzCaF0cK2.jpg
+backdrop_tmdb_path: /slNP8aQmrheLPzfrF1dgQ80VVvL.jpg

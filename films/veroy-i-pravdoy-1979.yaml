@@ -8,6 +8,7 @@ runtime_min: 141
 external_ids:
   wikidata: Q4107976
   imdb: tt0080091
+  tmdb: 601903
 sources:
 - https://www.wikidata.org/wiki/Q4107976
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: proklova-elena-igorevna
 studio:
 - mosfilm
+poster_tmdb_path: /hVTsvdlLLHuFBV9srhp9lpc4wuV.jpg

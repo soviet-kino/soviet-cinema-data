@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4081784
   imdb: tt0028674
+  tmdb: 157966
 sources:
 - https://www.wikidata.org/wiki/Q4081784
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - raukhverger-mikhail-rafailovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /6wURf1PNlyiEfVumpVhahKxDqq4.jpg
+backdrop_tmdb_path: /14n4XijklqIBcb6QTG8P5cBtTZu.jpg

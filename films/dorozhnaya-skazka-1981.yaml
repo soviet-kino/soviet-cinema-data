@@ -8,6 +8,7 @@ runtime_min: 627
 external_ids:
   wikidata: Q4166871
   imdb: tt1294155
+  tmdb: 274226
 sources:
 - https://www.wikidata.org/wiki/Q4166871
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - anashkin-sergey-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6Ijn7nIr0eXFwomBJoiUEcoYExx.jpg

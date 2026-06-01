@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97186381
   imdb: tt6484788
+  tmdb: 439379
 sources:
 - https://www.wikidata.org/wiki/Q97186381
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - tatarskiy-mikhail-semyonovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /uEv6UI3gcZK0CEuz2Cu2MDfFRzP.jpg

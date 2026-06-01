@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q56276941
   imdb: tt0153392
+  tmdb: 333148
 sources:
 - https://www.wikidata.org/wiki/Q56276941
 schema_version: 1
 director:
 - szlatinay-sandor
+poster_tmdb_path: /wWJ1GlvMzn31joj30DCXJGb6GVI.jpg

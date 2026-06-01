@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4732713
   imdb: tt0089471
+  tmdb: 290474
 sources:
 - https://www.wikidata.org/wiki/Q4732713
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: wolski-stanislaw
 studio:
 - perspektywa-film-studio
+poster_tmdb_path: /htQieBOKrexsI9r1dtcirP5Pyj.jpg

@@ -8,8 +8,10 @@ runtime_min: 11
 external_ids:
   wikidata: Q64879632
   imdb: tt12623454
+  tmdb: 405136
 sources:
 - https://www.wikidata.org/wiki/Q64879632
 schema_version: 1
 director:
 - jovanovic-bojan
+poster_tmdb_path: /7v2pgVU4JE7YUIk1G66iv4Wb5IL.jpg

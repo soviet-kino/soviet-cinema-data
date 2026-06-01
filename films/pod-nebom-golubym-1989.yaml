@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q33043506
   imdb: tt0265544
   youtube: KT_-OJAQJB0
+  tmdb: 767196
 sources:
 - https://www.wikidata.org/wiki/Q33043506
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: yanovskaya-anna-lvovna
 studio:
 - belarusfilm
+poster_tmdb_path: /s6uEVBp2vHESN2sMxaHonIlfiFD.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2544617
   imdb: tt0217594
   youtube: 241C5lmIYnM
+  tmdb: 82564
 sources:
 - https://www.wikidata.org/wiki/Q2544617
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: proklova-elena-igorevna
 - person: dal-oleg-ivanovich
 - person: etush-vladimir-abramovich
+poster_tmdb_path: /jQtdelyr1fQKdaYq0ARDCny0Z29.jpg
+backdrop_tmdb_path: /riQtLBdhSCu5r4OEPAkoyGKtsfo.jpg

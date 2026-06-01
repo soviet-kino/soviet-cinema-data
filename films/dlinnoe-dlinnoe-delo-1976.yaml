@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4162640
   imdb: tt0412653
+  tmdb: 129818
 sources:
 - https://www.wikidata.org/wiki/Q4162640
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: leonov-evgeniy-pavlovich
 - person: gluzskiy-mikhail-andreevich
 - person: zamanskiy-vladimir-petrovich
+poster_tmdb_path: /kpUtzySfxHFzmpbBbr7TsTc3nBW.jpg
+backdrop_tmdb_path: /fS11DD7buq18kD1CwfSsSdBecdE.jpg

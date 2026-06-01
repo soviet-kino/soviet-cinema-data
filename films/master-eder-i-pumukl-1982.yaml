@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q57523564
   imdb: tt0319844
+  tmdb: 12494
 sources:
 - https://www.wikidata.org/wiki/Q57523564
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: feddersen-khelga
 - person: mahler-margot
 - person: astor-eva
+poster_tmdb_path: /kZRPZDdMtRrWLYRxY7SOLffw7XG.jpg
+backdrop_tmdb_path: /mcyoHueo3k97hJFfWZ1btYfuREE.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q6956471
   imdb: tt0079604
+  tmdb: 159042
 sources:
 - https://www.wikidata.org/wiki/Q6956471
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: sirovy-zdenek
 studio:
 - barrandov
+poster_tmdb_path: /5MvgAgzDmSK0PwgOI1rPMChNVtZ.jpg
+backdrop_tmdb_path: /gRXcnPk9myvb1IhZZm9GBceMatM.jpg

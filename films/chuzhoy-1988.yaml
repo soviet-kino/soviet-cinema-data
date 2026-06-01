@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16353261
   imdb: tt2396679
+  tmdb: 1143587
 sources:
 - https://www.wikidata.org/wiki/Q16353261
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - karlsons-yuris
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /92my6DqOHp492kQCzzdYC6rxM5P.jpg

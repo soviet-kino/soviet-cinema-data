@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q125917045
   imdb: tt15214562
+  tmdb: 1078684
 sources:
 - https://www.wikidata.org/wiki/Q125917045
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - ruderman-mikhail-isaakovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /v8cy1iqkCxPWvQRzV2ST9tNdbhE.jpg

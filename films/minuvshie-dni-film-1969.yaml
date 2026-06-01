@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12829580
   imdb: tt0363820
   youtube: QXWWVioPRac
+  tmdb: 838863
 sources:
 - https://www.wikidata.org/wiki/Q12829580
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dzhalilova-gulchekhra
 studio:
 - uzbekfilm
+poster_tmdb_path: /3JPWg67JUtBZMEAptkcMPAJdTr2.jpg

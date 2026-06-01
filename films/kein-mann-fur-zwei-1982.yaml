@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q132151202
   imdb: tt1813412
+  tmdb: 1431096
 sources:
 - https://www.wikidata.org/wiki/Q132151202
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: jung-lars
 - person: schweizer-viola
 - person: raatz-birgit
+poster_tmdb_path: /bUOnV80iDwxO05YpwTUjoADzUXp.jpg
+backdrop_tmdb_path: /qU6XZfmKGU8b5d1p2TqKYyOsTYs.jpg

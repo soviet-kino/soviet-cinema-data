@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9252343
   imdb: tt0079101
+  tmdb: 710188
 sources:
 - https://www.wikidata.org/wiki/Q9252343
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: vuytsik-magda-teresa
+poster_tmdb_path: /fBvL3m69Ot5hTJ4wyOIRifXyyFR.jpg

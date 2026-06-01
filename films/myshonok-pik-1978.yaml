@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270793
   imdb: tt2332719
+  tmdb: 448788
 sources:
 - https://www.wikidata.org/wiki/Q15270793
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - martynov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /chA94cb4n1ETwovFMknTHexPk1.jpg
+backdrop_tmdb_path: /cDue1JDiLTw2TssarxuIriZHTtl.jpg

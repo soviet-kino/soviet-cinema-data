@@ -8,6 +8,7 @@ runtime_min: 26
 external_ids:
   wikidata: Q129241410
   imdb: tt2074470
+  tmdb: 472398
 sources:
 - https://www.wikidata.org/wiki/Q129241410
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - odesskaya-kinostudiya
 cast:
 - person: kavalerov-aleksandr-aleksandrovich
+poster_tmdb_path: /oZSkU3lGy0SeKjXhpWGhbsNoJDT.jpg
+backdrop_tmdb_path: /NL0COUXEpYkoRVfSi5b7fkkrMT.jpg

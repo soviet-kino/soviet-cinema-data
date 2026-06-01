@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6435916
   imdb: tt0039539
   youtube: y6kk-OPrebc
+  tmdb: 47393
 sources:
 - https://www.wikidata.org/wiki/Q6435916
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: jeh-tsiao
 - person: amakof-margaret
 - person: cancinov-cebeh
+poster_tmdb_path: /8yd2nhkKJslfR0KVi89fGjKKwmZ.jpg
+backdrop_tmdb_path: /myDXFMcw2lPVMZRrm1T7zqDRuOR.jpg

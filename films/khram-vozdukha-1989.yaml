@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4501134
   imdb: tt0173956
+  tmdb: 524230
 sources:
 - https://www.wikidata.org/wiki/Q4501134
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kyzy-mustafaeva-sadaya-ismail
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /aEh8XaBxNu6Gykyez53vn30L4lV.jpg
+backdrop_tmdb_path: /iFZIHdki2Mi03u6s1x6U5Gr5ymH.jpg

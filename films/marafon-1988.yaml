@@ -8,6 +8,7 @@ runtime_min: 226
 external_ids:
   wikidata: Q18401841
   imdb: tt2963460
+  tmdb: 316069
 sources:
 - https://www.wikidata.org/wiki/Q18401841
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 - belarusfilm
+poster_tmdb_path: /o03pKD7plxaAg6SwimqhfV9ivo9.jpg
+backdrop_tmdb_path: /8qGMKLO9aqdafdgpKakCXDz3r2T.jpg

@@ -8,8 +8,11 @@ runtime_min: 2
 external_ids:
   wikidata: Q20814522
   imdb: tt0240667
+  tmdb: 116363
 sources:
 - https://www.wikidata.org/wiki/Q20814522
 schema_version: 1
 director:
 - martsel-yankovich
+poster_tmdb_path: /853dYyMY6mO4VSDV5CwwLn9W3HI.jpg
+backdrop_tmdb_path: /vyQNsT3R2AWYDjxfb0Cm9erazx3.jpg

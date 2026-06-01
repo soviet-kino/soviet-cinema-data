@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q2304895
   imdb: tt0075246
+  tmdb: 441200
 sources:
 - https://www.wikidata.org/wiki/Q2304895
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: plesov-klaus-peter
 - person: vyunsher-marianna
 - person: beyer-regina
+poster_tmdb_path: /4GKJpXpAn2P7CGCokUoYju8vTBy.jpg

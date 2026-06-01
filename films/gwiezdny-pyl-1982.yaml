@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q9283207
   imdb: tt0084038
+  tmdb: 157224
 sources:
 - https://www.wikidata.org/wiki/Q9283207
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: alyaborskiy-voytsekh
 - person: khamets-kshishtof
 - person: chembrzhynska-iga
+poster_tmdb_path: /5pXj60PZ7NGHPeMxqk4zimBGJTq.jpg
+backdrop_tmdb_path: /8h9trqx43wlAf1MoaqXRnZAyneI.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1254784
   imdb: tt0125301
   youtube: WCSg5oX1nLk
+  tmdb: 65904
 sources:
 - https://www.wikidata.org/wiki/Q1254784
 schema_version: 1
@@ -93,3 +94,5 @@ cast:
 - person: hrachovec-jiri
 - person: schmitt-jan
 - person: hamouz-zdenek
+poster_tmdb_path: /vTyGH9bn948xMGaLjInhZp9tqyJ.jpg
+backdrop_tmdb_path: /bi4fsFHOeXlapR0g8SSvSVCXacT.jpg

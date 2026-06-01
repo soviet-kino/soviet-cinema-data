@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q132444098
   imdb: tt0006626
+  tmdb: 339545
 sources:
 - https://www.wikidata.org/wiki/Q132444098
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 screenwriter:
 - rakosi-viktor
 - garash-marton
+poster_tmdb_path: /pQmegUGaweBxzWl95F4TPjrurKp.jpg

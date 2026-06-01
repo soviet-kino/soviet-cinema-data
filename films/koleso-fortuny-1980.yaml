@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514555
   imdb: tt14833656
+  tmdb: 915466
 sources:
 - https://www.wikidata.org/wiki/Q16514555
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - ekran
+poster_tmdb_path: /3GY0vLo3SWU4zqChyC8ZEIgKL45.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4114650
   imdb: tt0029740
   youtube: KZnLi3_TtDs
+  tmdb: 262746
 sources:
 - https://www.wikidata.org/wiki/Q4114650
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kibardina-valentina-tikhonovna
 studio:
 - lenfilm
+poster_tmdb_path: /am98CjEvx9Cez8p5SOBmuTCU9Lb.jpg
+backdrop_tmdb_path: /5SZyKdtEvbHL2vm2f7Oeoe39eUr.jpg

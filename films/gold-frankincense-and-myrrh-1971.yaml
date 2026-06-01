@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q5578508
   imdb: tt0194160
+  tmdb: 502814
 sources:
 - https://www.wikidata.org/wiki/Q5578508
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - babaya-ante
 cast:
 - person: lasta-sven
+poster_tmdb_path: /nJEZtbPmqaqETeWQkvt2SbYZTd9.jpg
+backdrop_tmdb_path: /gzAcGbmqbCvz4BJvS033uVr28o2.jpg

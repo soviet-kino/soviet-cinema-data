@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4157120
   imdb: tt0033522
   youtube: hV67vwAk6vs
+  tmdb: 396214
 sources:
 - https://www.wikidata.org/wiki/Q4157120
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Balashov Delo Artamonovyh.jpg
+poster_tmdb_path: /u4jF1eGuIAOY8v0ubUxR7fH2Ji8.jpg
+backdrop_tmdb_path: /chTV8X16iI8Rtvre9FzDEo1TO8t.jpg

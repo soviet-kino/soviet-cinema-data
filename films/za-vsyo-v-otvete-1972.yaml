@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q107741481
   imdb: tt0069531
   youtube: O8DTXSdyz8k
+  tmdb: 887881
 sources:
 - https://www.wikidata.org/wiki/Q107741481
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: kirienko-zinaida-mikhaylovna
 - person: ledogorov-igor-vadimovich
 - person: fatyushin-aleksandr-konstantinovich
+poster_tmdb_path: /oLhLssKifCu2oANGuOWoV4Rbn5O.jpg

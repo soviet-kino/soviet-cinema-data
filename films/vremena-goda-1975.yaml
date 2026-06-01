@@ -8,6 +8,7 @@ runtime_min: 28
 external_ids:
   wikidata: Q13055089
   imdb: tt0298597
+  tmdb: 44357
 sources:
 - https://www.wikidata.org/wiki/Q13055089
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - vartanov-mikhail
 composer:
 - mansuryan-tigran
+poster_tmdb_path: /xj57TV88eeqgdmc2U11waA83kO2.jpg
+backdrop_tmdb_path: /3y614GBlD78MWjVOC56ay6i8mLp.jpg

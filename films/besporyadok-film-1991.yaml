@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q61083572
   imdb: tt0264671
+  tmdb: 649614
 sources:
 - https://www.wikidata.org/wiki/Q61083572
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: sayzesku-dzho
 - person: ionesku-ileana-stana
 - person: miller-konstantin
+poster_tmdb_path: /hrgxAP7GRPECPfbc0YhRoMjBQaf.jpg

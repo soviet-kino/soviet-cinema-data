@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q121175087
   imdb: tt4920022
   youtube: 5wIkFg74GSY
+  tmdb: 537161
 sources:
 - https://www.wikidata.org/wiki/Q121175087
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: aktyor-gavrilov-vsevolod-sergeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /txF7qs4LElCagDwnNxmewzpj4wV.jpg

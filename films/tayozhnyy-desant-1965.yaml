@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q27049549
   imdb: tt0471935
   youtube: ZZsBHN-KCsA
+  tmdb: 673455
 sources:
 - https://www.wikidata.org/wiki/Q27049549
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: borodokin-stanislav-yurevich
 - person: gusev-vladimir-mikhaylovich
 - person: telichkina-valentina
+poster_tmdb_path: /7MCJOzu2VWVarhIXNiD0McrLUGa.jpg
+backdrop_tmdb_path: /oCg9cXVJKKWbyHIPIzoxsu1tpMq.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q2396099
   imdb: tt0173314
+  tmdb: 292654
 sources:
 - https://www.wikidata.org/wiki/Q2396099
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: peters-karl-khaynts
 - person: flyorkhinger-martin
 - person: ulrikh-rudolf
+poster_tmdb_path: /cspKQMf3PMaw41gWc2USxiAAMQl.jpg

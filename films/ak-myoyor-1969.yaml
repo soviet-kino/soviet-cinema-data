@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116865199
   imdb: tt2161936
   youtube: kCfr5u9YXko
+  tmdb: 718183
 sources:
 - https://www.wikidata.org/wiki/Q116865199
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 cast:
 - person: beyshenaliev-bolot
 - person: tursunbaeva-tattybuu
+poster_tmdb_path: /s6yAQ4I4Qcp8dlw7he4H0Vr69q9.jpg
+backdrop_tmdb_path: /rGSP3EciclokVO29DVwIeidYtae.jpg

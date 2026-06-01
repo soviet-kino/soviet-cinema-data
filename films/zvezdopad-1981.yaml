@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4189435
   imdb: tt0083145
   youtube: eplWIxApIU4
+  tmdb: 204166
 sources:
 - https://www.wikidata.org/wiki/Q4189435
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: fyodorov-pyotr-evgenevich
 studio:
 - mosfilm
+poster_tmdb_path: /rotqCzpgTXvlNb6W4uryRphpWYU.jpg
+backdrop_tmdb_path: /zzyhrFTZEdbY83g1pW5XRNAz5fs.jpg

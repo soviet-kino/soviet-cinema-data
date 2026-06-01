@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4466656
   imdb: tt9663580
+  tmdb: 890517
 sources:
 - https://www.wikidata.org/wiki/Q4466656
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: nikulin-yuriy-vladimirovich
 - person: durov-lev-konstantinovich
 - person: tokarev-boris-aleksandrovich
+poster_tmdb_path: /xcylpn2DGI5xcOTtENMm0jhzN6T.jpg

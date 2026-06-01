@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31186952
   imdb: tt0201177
+  tmdb: 173905
 sources:
 - https://www.wikidata.org/wiki/Q31186952
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: plesha-branko
 studio:
 - radio-i-televidenie-serbii
+poster_tmdb_path: /wVzSrr5cx1t8tB7xRLcUJxcHfKM.jpg
+backdrop_tmdb_path: /kftEYzGYY3QoCYp4KRrzVyphJ2k.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56578206
   imdb: tt0856017
+  tmdb: 369923
 sources:
 - https://www.wikidata.org/wiki/Q56578206
 schema_version: 1
@@ -15,3 +16,4 @@ cast:
 - person: yovanovski-ako
 - person: angelovski-kole
 - person: kyortoshev-kiril
+poster_tmdb_path: /a0paPh7VyqkB9PQehEH3Y2G4IO7.jpg

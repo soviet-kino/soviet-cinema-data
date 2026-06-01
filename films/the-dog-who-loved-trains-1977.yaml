@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q7219497
   imdb: tt0124825
+  tmdb: 109674
 sources:
 - https://www.wikidata.org/wiki/Q7219497
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: boro-bregovich
 - person: leso-miroljub
 - person: vladan-zhivkovich
+poster_tmdb_path: /qveWVZaCPy0F92qZdgjQCERaTj9.jpg
+backdrop_tmdb_path: /cVFsua1coojUiMZ2MXmCZGsil1t.jpg

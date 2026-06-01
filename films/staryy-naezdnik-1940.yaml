@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4441201
   imdb: tt0053136
   youtube: VMydyRrVveE
+  tmdb: 257252
 sources:
 - https://www.wikidata.org/wiki/Q4441201
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: skuratov-ivan-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /ckDn8SiAvKpAeKyWOdO2frkEjBO.jpg

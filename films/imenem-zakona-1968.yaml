@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4200181
   imdb: tt1431142
+  tmdb: 524525
 sources:
 - https://www.wikidata.org/wiki/Q4200181
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ogly-takhmasib-rza-abbas-kuli
 - person: afganly-rza
 - person: ogly-mardanov-mustafa-ashum
+poster_tmdb_path: /7o2F6HO9TJfSSRghodsntMnY5lm.jpg
+backdrop_tmdb_path: /7CDZGIoCCfysJ5OOYmbrMzQIpyg.jpg

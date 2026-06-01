@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4427731
   imdb: tt0039789
   youtube: 1GyP6Kz594c
+  tmdb: 884745
 sources:
 - https://www.wikidata.org/wiki/Q4427731
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: redina-mira-evgenevna
 studio:
 - lenfilm
+poster_tmdb_path: /dyUw7O6qbl3SZAzZr2c7CeRkLlA.jpg

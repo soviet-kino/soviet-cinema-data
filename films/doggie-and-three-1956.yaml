@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q12042013
   imdb: tt0251310
+  tmdb: 109980
 sources:
 - https://www.wikidata.org/wiki/Q12042013
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: partyngl-frantisek
 - person: smetanova-sarka
 - person: strudlova-d
+poster_tmdb_path: /yhCT8GvwXn1H4ednmwqxkRoeve3.jpg
+backdrop_tmdb_path: /fw0aW7McARo6Qct7Ie2Z7hoZXPx.jpg

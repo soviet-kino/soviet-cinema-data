@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q9392685
   imdb: tt0172874
+  tmdb: 439039
 sources:
 - https://www.wikidata.org/wiki/Q9392685
 schema_version: 1
+poster_tmdb_path: /3OYf9uIgo2QaN5C3fkGNDxlGoLY.jpg
+backdrop_tmdb_path: /yyklikceVPvQXHEvw2fJx0RgP2L.jpg

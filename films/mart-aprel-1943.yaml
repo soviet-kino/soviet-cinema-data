@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109428618
   imdb: tt4601014
   youtube: qygfce1yJFY
+  tmdb: 533723
 sources:
 - https://www.wikidata.org/wiki/Q109428618
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: zhakov-oleg-petrovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /j2Hccu4sIT4lrUH6UunLu7uaneN.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q130292834
   imdb: tt0337439
+  tmdb: 1425326
 sources:
 - https://www.wikidata.org/wiki/Q130292834
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - fradkin-mark
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /jAjHvk4H07ugVWvsgJVXTn8AOWA.jpg
+backdrop_tmdb_path: /rOYTkCTV0tSXfrnv04J6fTPnGRP.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7209428
   imdb: tt0149682
+  tmdb: 155430
 sources:
 - https://www.wikidata.org/wiki/Q7209428
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: orvid-yuzef
 - person: fertner-antoni
 - person: zarembina-helena
+poster_tmdb_path: /79lTA1PF5lWylssUNUxhrbPIk0.jpg
+backdrop_tmdb_path: /1I63KqI6CW2KUeczDvGZJTqc5G3.jpg

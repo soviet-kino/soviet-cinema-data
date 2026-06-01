@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q23900102
   imdb: tt0061153
+  tmdb: 832667
 sources:
 - https://www.wikidata.org/wiki/Q23900102
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: loginova-tamara-abramovna
 - person: nakhapetov-rodion-rafailovich
 - person: fadeeva-elena-alekseevna
+poster_tmdb_path: /q3bXa5aDZQFeKmKx0yI56wXfG4P.jpg
+backdrop_tmdb_path: /r322BAJhGCwpFnwOzqmqnQ7qZM.jpg

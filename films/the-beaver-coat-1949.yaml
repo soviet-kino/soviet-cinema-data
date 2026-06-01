@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q17327204
   imdb: tt0041174
+  tmdb: 283510
 sources:
 - https://www.wikidata.org/wiki/Q17327204
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: ulrich-hans
 - person: honna-friedrich
 - person: breiderhoff-gisela
+poster_tmdb_path: /yYSi6BXfPfobBJ1cx1bPgpwu0rz.jpg

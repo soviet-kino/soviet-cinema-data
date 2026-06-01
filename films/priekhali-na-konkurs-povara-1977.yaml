@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378202
   imdb: tt2032517
   youtube: _LwAT_JLfgY
+  tmdb: 447674
 sources:
 - https://www.wikidata.org/wiki/Q4378202
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: arutyunyan-stepan
 studio:
 - armenfilm
+poster_tmdb_path: /c7caLVjXX3G6dv4S49YzE0s135P.jpg
+backdrop_tmdb_path: /cOybInaF1eYRhECuYSDtPTI0e9b.jpg

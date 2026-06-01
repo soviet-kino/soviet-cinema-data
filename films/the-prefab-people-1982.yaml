@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q1475829
   imdb: tt0084465
+  tmdb: 60261
 sources:
 - https://www.wikidata.org/wiki/Q1475829
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - balazs-bela-studio
 - studio-of-young-artists
+poster_tmdb_path: /vD1iD2lbLCHIJNfCZOGRtSIjg1b.jpg
+backdrop_tmdb_path: /ciL1NT4CsnZ0MSebbrxkUwVfmSh.jpg

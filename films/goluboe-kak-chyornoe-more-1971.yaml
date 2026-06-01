@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791276
   imdb: tt0070443
+  tmdb: 585634
 sources:
 - https://www.wikidata.org/wiki/Q11791276
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - ezhi-matushkevich
 cast:
 - person: kotsinyak-marian
+poster_tmdb_path: /7Cta0xvG3q5Cgw5laFehc6st0Ho.jpg
+backdrop_tmdb_path: /xgP9Rv5dqEs52N0XxIEVzpJzlax.jpg

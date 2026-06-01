@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q133268101
   imdb: tt4716294
+  tmdb: 604849
 sources:
 - https://www.wikidata.org/wiki/Q133268101
 schema_version: 1
 studio:
 - belarusfilm
+poster_tmdb_path: /6OlrKmZmCERE9jnbsxsEH6kNijA.jpg
+backdrop_tmdb_path: /sRGFDpoCzk4DH5xQRLubVEcd83Q.jpg

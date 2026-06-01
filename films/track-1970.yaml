@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3338746
   imdb: tt1611048
+  tmdb: 460907
 sources:
 - https://www.wikidata.org/wiki/Q3338746
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 screenwriter:
 - damo-kristach
 - dado-peci
+poster_tmdb_path: /kGGdD1xNmGCmKxt6zFdCgfUKvQr.jpg
+backdrop_tmdb_path: /u4ufeOxRUWChX9ss1Nkhht9Tgj7.jpg

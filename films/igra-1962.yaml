@@ -8,6 +8,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q1170400
   imdb: tt0057185
+  tmdb: 243244
 sources:
 - https://www.wikidata.org/wiki/Q1170400
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - vukotich-dushan
 studio:
 - film-representations
+poster_tmdb_path: /oFFBa3wmz3bcoWHRRpgYROcnIWy.jpg
+backdrop_tmdb_path: /i2m0xUDDsv7Msg2DOCGlhZZAgGD.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3220514
   imdb: tt0017961
   youtube: t1wM1FSTIm0
+  tmdb: 93743
 sources:
 - https://www.wikidata.org/wiki/Q3220514
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - troyanskiy-gleb-aleksandrovich
 cast:
 - person: zinovev-pyotr-aleksandrovich
+poster_tmdb_path: /fpRuxg05Z5KTPlW5VkJjwOgnXaa.jpg
+backdrop_tmdb_path: /oFK7PBY9LDHaqWkJHl6HBFRIYfB.jpg

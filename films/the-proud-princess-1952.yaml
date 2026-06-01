@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q10801961
   imdb: tt0191383
+  tmdb: 41228
 sources:
 - https://www.wikidata.org/wiki/Q10801961
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: koren-branislav
 - person: mosnicka-zdenek
 - person: zukal-jiri
+poster_tmdb_path: /vUPcxVcNxbiytMV75XTFjA3K1H7.jpg
+backdrop_tmdb_path: /3Y0HoplrL57V9HRiEhz7k2HEgak.jpg

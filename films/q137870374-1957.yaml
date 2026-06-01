@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q137870374
   imdb: tt0050535
+  tmdb: 291086
 sources:
 - https://www.wikidata.org/wiki/Q137870374
 schema_version: 1
 director:
 - lenitsa-yan
 - borovchik-valerian
+poster_tmdb_path: /83ReXwK49GvXn9IwjstMeI2Q3f8.jpg

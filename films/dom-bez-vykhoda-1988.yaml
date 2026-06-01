@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4165462
   imdb: tt0305487
+  tmdb: 774659
 sources:
 - https://www.wikidata.org/wiki/Q4165462
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: matulyonis-algis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /1RbaEtoyYr3MVWYTNvAK0gLW487.jpg

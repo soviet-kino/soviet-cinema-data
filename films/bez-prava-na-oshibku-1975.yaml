@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4080762
   imdb: tt0166505
+  tmdb: 127976
 sources:
 - https://www.wikidata.org/wiki/Q4080762
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - mosfilm
 cast:
 - person: zhakov-oleg-petrovich
+poster_tmdb_path: /6LluLRTfjaeXXeTdYtANfAMNxW3.jpg
+backdrop_tmdb_path: /sogyOurR1lQysN0EdEbHkItMadw.jpg

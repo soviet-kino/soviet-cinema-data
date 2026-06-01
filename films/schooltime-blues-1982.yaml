@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q125626995
   imdb: tt0156113
+  tmdb: 957458
 sources:
 - https://www.wikidata.org/wiki/Q125626995
 schema_version: 1
 director:
 - varsanyi-ferenc
+poster_tmdb_path: /tB7FA0jaNhx1ihMz4fvDgv4muoi.jpg

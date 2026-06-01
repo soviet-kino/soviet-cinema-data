@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101642
   imdb: tt0170744
   youtube: 6rK3DTQYBEs
+  tmdb: 616179
 sources:
 - https://www.wikidata.org/wiki/Q4101642
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - uzbekfilm
 cast:
 - person: norbaeva-svetlana-abdulkhakovna
+poster_tmdb_path: /ApBTwBb0NiNVivfw1jmVk2ADBox.jpg
+backdrop_tmdb_path: /vOXXut8iCJUpfBebvMCkDWTMLKQ.jpg

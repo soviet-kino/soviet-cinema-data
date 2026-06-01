@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4493027
   imdb: tt0071525
   youtube: i3iibu2c_Yg
+  tmdb: 106214
 sources:
 - https://www.wikidata.org/wiki/Q4493027
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: tikhonov-vyacheslav-vasilevich
 - person: zhakov-oleg-petrovich
 - person: aktyor-denisov-aleksandr-petrovich
+poster_tmdb_path: /kqF7j50Das1SVuczmO3lGOkJuoo.jpg
+backdrop_tmdb_path: /tjCaUgVpDuNscmbHUMc3NTnKSaj.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187098
   imdb: tt4246488
+  tmdb: 1105394
 sources:
 - https://www.wikidata.org/wiki/Q31187098
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: zdravka-krstulovich
 - person: kapor-ljubomir
 - person: spoljar-branko
+poster_tmdb_path: /jhdtJgcCpBAwcroVZEIKCOQ3TTD.jpg

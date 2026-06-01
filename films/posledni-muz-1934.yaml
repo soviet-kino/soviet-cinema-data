@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7233337
   imdb: tt0166769
+  tmdb: 159122
 sources:
 - https://www.wikidata.org/wiki/Q7233337
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: novak-josef
 - person: burton-max
 - person: riha-frantisek
+poster_tmdb_path: /gjQyENM9C6dpTNqe0w6DC6enrbY.jpg

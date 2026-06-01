@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q23566269
   imdb: tt0232955
+  tmdb: 290051
 sources:
 - https://www.wikidata.org/wiki/Q23566269
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - belike-kurt
 composer:
 - khayking-volfram
+poster_tmdb_path: /fwTrXbOaExXw9fvbw3c8wjEzZsa.jpg

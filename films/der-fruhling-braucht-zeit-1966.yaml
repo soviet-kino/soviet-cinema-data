@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q5261148
   imdb: tt0060435
+  tmdb: 283932
 sources:
 - https://www.wikidata.org/wiki/Q5261148
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: abesser-doris
 - person: khardt-khardtloff-khans
 - person: flyossel-gans
+poster_tmdb_path: /ijy51rndsLaZHFaC6XtakP9ZIB9.jpg

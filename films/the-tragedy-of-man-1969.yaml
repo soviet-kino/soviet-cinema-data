@@ -8,8 +8,10 @@ runtime_min: 115
 external_ids:
   wikidata: Q66148191
   imdb: tt0292500
+  tmdb: 152471
 sources:
 - https://www.wikidata.org/wiki/Q66148191
 schema_version: 1
 director:
 - sinetar-miklosh
+poster_tmdb_path: /8vQ09wUgt19xz0gr12Yyh0a5Q52.jpg

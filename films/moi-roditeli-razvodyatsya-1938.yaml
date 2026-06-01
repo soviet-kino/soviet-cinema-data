@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q747436
   imdb: tt0208305
+  tmdb: 748207
 sources:
 - https://www.wikidata.org/wiki/Q747436
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - stern-anatol
 cast:
 - person: andzheevskaya-yadviga
+poster_tmdb_path: /1tJax8uUrkvJ5sooHyYWRLqIfnw.jpg

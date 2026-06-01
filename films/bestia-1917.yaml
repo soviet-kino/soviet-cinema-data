@@ -8,6 +8,7 @@ runtime_min: 48
 external_ids:
   wikidata: Q4897071
   imdb: tt0219547
+  tmdb: 319754
 sources:
 - https://www.wikidata.org/wiki/Q4897071
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: negri-pola
 - person: dulemba-mariya
 poster_commons: The Polish Dancer, poster.jpg
+poster_tmdb_path: /KlYZXkItACBQgJyBQVH2B9LunO.jpg
+backdrop_tmdb_path: /dhHbj5IX3xpa0GLub88m2apMb4G.jpg

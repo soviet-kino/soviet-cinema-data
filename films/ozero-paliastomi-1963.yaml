@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12135347
   imdb: tt0271102
+  tmdb: 1268584
 sources:
 - https://www.wikidata.org/wiki/Q12135347
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: tserodze-dudukhana
 studio:
 - gruziya-film
+poster_tmdb_path: /lPi1D19cSZxjICF46N93xrFvF1V.jpg
+backdrop_tmdb_path: /sIFmnoEa6ArOK1sZNNVHL8ADzTD.jpg

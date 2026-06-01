@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q12750645
   imdb: tt0124330
+  tmdb: 267177
 sources:
 - https://www.wikidata.org/wiki/Q12750645
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - aleksandr-petrovich
 cast:
 - person: samardzhich-lyubisha
+poster_tmdb_path: /f9yPELansk69XqGZIEZS2aD6tgK.jpg
+backdrop_tmdb_path: /WQo7MPv1p1YUX1JPUzvHFUkSEl.jpg

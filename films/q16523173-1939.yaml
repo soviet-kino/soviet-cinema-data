@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16523173
   imdb: tt0031992
+  tmdb: 662305
 sources:
 - https://www.wikidata.org/wiki/Q16523173
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kelmar-laslo
 screenwriter:
 - zilakhi-layosh
+poster_tmdb_path: /iVum847MZZv8fI2GWkzSmQWXYst.jpg

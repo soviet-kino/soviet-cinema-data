@@ -8,6 +8,7 @@ runtime_min: 195
 external_ids:
   wikidata: Q385199
   imdb: tt0070894
+  tmdb: 154297
 sources:
 - https://www.wikidata.org/wiki/Q385199
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: fares-abbas
 - person: rosca-monika
 - person: mendzhak-tomash
+poster_tmdb_path: /8PQW4j0ffcl6fmEuObuNsUUh4yK.jpg
+backdrop_tmdb_path: /g0HLe5F7GQquxYCWbAVQnMIZT2o.jpg

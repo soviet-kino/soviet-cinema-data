@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116759074
   imdb: tt0055542
+  tmdb: 298814
 sources:
 - https://www.wikidata.org/wiki/Q116759074
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - mettsig-kurt
 cinematographer:
 - plintsner-karl
+poster_tmdb_path: /xv5gJU4fdnEgHiXhLNl4NPu7Gto.jpg

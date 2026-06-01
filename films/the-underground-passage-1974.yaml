@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q6411324
   imdb: tt0070570
+  tmdb: 406066
 sources:
 - https://www.wikidata.org/wiki/Q6411324
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: orsza-ukaszewicz-jan
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /dX57BEPt8N4WLj0TDWsshbn2ssP.jpg
+backdrop_tmdb_path: /y9kMlOlepBqLOdXuL80SCweLlV5.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18424368
   imdb: tt0061604
+  tmdb: 495198
 sources:
 - https://www.wikidata.org/wiki/Q18424368
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - forbert-vladislav
 composer:
 - turskiy-zbignev
+poster_tmdb_path: /bmYOdFINTYu3HsXOT5JNsMGHZTM.jpg
+backdrop_tmdb_path: /d5oUhEtizJB5ikZrWHsK0lkSGCn.jpg

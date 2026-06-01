@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q118950256
   imdb: tt21227626
+  tmdb: 996830
 sources:
 - https://www.wikidata.org/wiki/Q118950256
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: karamitru-ion
 studio:
 - animafilm
+poster_tmdb_path: /pZjm61dsuh1agMFeeBN74BvKXeL.jpg
+backdrop_tmdb_path: /uOuB8sLLZKP3OVtGJSWH1smacv3.jpg

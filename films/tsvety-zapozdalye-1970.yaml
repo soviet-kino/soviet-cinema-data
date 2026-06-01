@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4503566
   imdb: tt0065128
   youtube: Z1CFhPzO6K4
+  tmdb: 690014
 sources:
 - https://www.wikidata.org/wiki/Q4503566
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - berlioz-gektor
 studio:
 - mosfilm
+poster_tmdb_path: /7rvqCMoCU5JTbF6OjrGdXXQAMPP.jpg
+backdrop_tmdb_path: /nLErCLoHFgmrxMUPLxhv07Xxj7M.jpg

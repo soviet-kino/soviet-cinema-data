@@ -8,6 +8,9 @@ runtime_min: 100
 external_ids:
   wikidata: Q4444070
   imdb: tt0025841
+  tmdb: 199552
 sources:
 - https://www.wikidata.org/wiki/Q4444070
 schema_version: 1
+poster_tmdb_path: /vv6t0CkqnOmU8CCCFalxMu9wlmB.jpg
+backdrop_tmdb_path: /lwmERzrypPPX9z4YhRmj42lHzEh.jpg

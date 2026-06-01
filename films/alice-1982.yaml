@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1767839
   imdb: tt0083537
+  tmdb: 283125
 sources:
 - https://www.wikidata.org/wiki/Q1767839
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: gard-dominik
 - person: khayd-treysi
 - person: nikolas-pol
+poster_tmdb_path: /xezIfJ4E9t898rahnFpFfaCjhKu.jpg
+backdrop_tmdb_path: /le7jY3cHa4pcL8RGoLFhEFIGrL8.jpg

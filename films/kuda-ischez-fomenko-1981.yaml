@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4244328
   imdb: tt0082632
+  tmdb: 65675
 sources:
 - https://www.wikidata.org/wiki/Q4244328
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - gauzner-vadim
 studio:
 - lenfilm
+poster_tmdb_path: /o4pWU1QVtHGZRxQQmjgHv7LRvSp.jpg

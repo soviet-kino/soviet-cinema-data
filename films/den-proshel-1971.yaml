@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q16416687
   imdb: tt3961682
+  tmdb: 524601
 sources:
 - https://www.wikidata.org/wiki/Q16416687
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: ogly-mamedov-gasan-agamamed
 - person: shikhlinskaya-leyla-farrukh-kyzy
+poster_tmdb_path: /2LpLhO1tABBddABosxsMgWztHeF.jpg
+backdrop_tmdb_path: /du2za41M5IRtjVJrxnJtORpAD3S.jpg

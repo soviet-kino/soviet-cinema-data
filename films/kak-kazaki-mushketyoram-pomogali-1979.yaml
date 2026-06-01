@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q12173426
   imdb: tt5939258
+  tmdb: 210157
 sources:
 - https://www.wikidata.org/wiki/Q12173426
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - poklad-igor-dmitrievich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /tAtIs3yvLdGPY5dqBCbnNv1l1ul.jpg
+backdrop_tmdb_path: /m1o2fMyA9Fc7sNuMGS3Du8XU3sG.jpg

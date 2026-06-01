@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4070299
   imdb: tt0094679
+  tmdb: 261172
 sources:
 - https://www.wikidata.org/wiki/Q4070299
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: muravyova-irina-vadimovna
 studio:
 - mosfilm
+poster_tmdb_path: /sSoeexJxqk0yJwzU9EcpBER7jQ7.jpg
+backdrop_tmdb_path: /5I58qO4iHw6vjmYzkMARjMgyf9U.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q16518826
   imdb: tt0133241
+  tmdb: 47063
 sources:
 - https://www.wikidata.org/wiki/Q16518826
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: bubik-frantisek
 - person: rehak-jozef
 - person: torok-frantisek
+poster_tmdb_path: /zsLnplgyXXYfLADfj1ZQaHvFSVi.jpg

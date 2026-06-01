@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9347023
   imdb: tt0298179
+  tmdb: 688230
 sources:
 - https://www.wikidata.org/wiki/Q9347023
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: qirjaqi-agim
 - person: bega-met
 - person: mani-pavlina
+poster_tmdb_path: /fzwjgCztBsU6rs2rvc1cW8Zmoyi.jpg
+backdrop_tmdb_path: /jFt8Zd89xYQp35iTYewr9ca1RlL.jpg

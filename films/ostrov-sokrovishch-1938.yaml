@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4338883
   imdb: tt0029356
   youtube: 82wCUj3lB3A
+  tmdb: 394671
 sources:
 - https://www.wikidata.org/wiki/Q4338883
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: bykov-anatoliy-vladimirovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /oFRhFcm1uIAjpQ5UVBu7evxAr9L.jpg
+backdrop_tmdb_path: /kCooHyGOGXMq9tgp3LnpROwu5L5.jpg

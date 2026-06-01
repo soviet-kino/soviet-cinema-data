@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65200730
   imdb: tt4842572
   youtube: hwHZnAzGfoE
+  tmdb: 69821
 sources:
 - https://www.wikidata.org/wiki/Q65200730
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: bogunova-nataliya-vasilevna
 - person: nevzorov-boris
+poster_tmdb_path: /aHNkdLE4uMfusg5UFd3uukvKvzq.jpg

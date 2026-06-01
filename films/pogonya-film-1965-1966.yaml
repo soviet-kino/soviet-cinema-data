@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111145570
   imdb: tt1616514
   youtube: z7vEyB50Zi4
+  tmdb: 885132
 sources:
 - https://www.wikidata.org/wiki/Q111145570
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - karavaychuk-oleg-nikolaevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /zrsiAqLKKpj4qQyKTtpoXoC94GC.jpg

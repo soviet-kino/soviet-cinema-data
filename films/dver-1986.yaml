@@ -8,6 +8,7 @@ runtime_min: 639
 external_ids:
   wikidata: Q25395616
   imdb: tt1389073
+  tmdb: 335038
 sources:
 - https://www.wikidata.org/wiki/Q25395616
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - shorina-nina-ivanovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /z6VATVNQtNPsRIl6kPNIgUl4T1K.jpg
+backdrop_tmdb_path: /3QUnoHI5YkIvVLPRDQp46ZGunDm.jpg

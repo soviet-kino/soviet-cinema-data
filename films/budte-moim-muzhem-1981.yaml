@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4098243
   imdb: tt0166514
   youtube: CBMEfNBaxLo
+  tmdb: 63300
 sources:
 - https://www.wikidata.org/wiki/Q4098243
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: proklova-elena-igorevna
 studio:
 - mosfilm
+poster_tmdb_path: /kVPEa2Jn7amg2c4NrlIIdmKKSJV.jpg
+backdrop_tmdb_path: /vQQ63mob7GheUTLLAjBHEaFNU4O.jpg

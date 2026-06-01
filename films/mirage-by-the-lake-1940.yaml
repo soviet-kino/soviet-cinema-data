@@ -8,8 +8,10 @@ runtime_min: 93
 external_ids:
   wikidata: Q18418768
   imdb: tt0033197
+  tmdb: 822916
 sources:
 - https://www.wikidata.org/wiki/Q18418768
 schema_version: 1
 director:
 - kelmar-laslo
+poster_tmdb_path: /km9nvFaGYVDkhVOlntPPn3Ejqhl.jpg

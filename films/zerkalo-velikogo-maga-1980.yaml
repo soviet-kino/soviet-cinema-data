@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q1197002
   imdb: tt0371249
+  tmdb: 156614
 sources:
 - https://www.wikidata.org/wiki/Q1197002
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: eshe-eberkhard
 - person: skarke-petr
 - person: piontek-klaus
+poster_tmdb_path: /nhlFTLhZDQOiSJkuqsGH1h8FpRY.jpg
+backdrop_tmdb_path: /awrGCMYYqAK3rOaZC8NZ4ElkD4U.jpg

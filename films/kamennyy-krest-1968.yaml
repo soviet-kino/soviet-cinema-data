@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4211280
   imdb: tt0347307
   youtube: dF8TCnXKaaI
+  tmdb: 249586
 sources:
 - https://www.wikidata.org/wiki/Q4211280
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: brondukov-borislav-nikolaevich
 - person: stepankov-konstantin-petrovich
 - person: ilchenko-daniil-ivanovich
+poster_tmdb_path: /10egxIgt7ZTLieThEXOgL2Jtmr6.jpg
+backdrop_tmdb_path: /sxpBMhNnkox0BbVnrCMHDLvwiqa.jpg

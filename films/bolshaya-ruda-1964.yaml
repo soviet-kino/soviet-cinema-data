@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4091865
   imdb: tt0149917
   youtube: lj88xSsxNF4
+  tmdb: 306689
 sources:
 - https://www.wikidata.org/wiki/Q4091865
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: sanaev-vsevolod-vasilevich
 - person: luzhina-larisa-anatolevna
 - person: urbanskiy-evgeniy-yakovlevich
+poster_tmdb_path: /hn0kvM24dpqBK3X203vXXgXvrAl.jpg
+backdrop_tmdb_path: /cCvIxRzEA1iy71Jku0nfZHVqRro.jpg

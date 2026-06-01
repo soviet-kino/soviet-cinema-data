@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12835451
   imdb: tt1330178
+  tmdb: 1534248
 sources:
 - https://www.wikidata.org/wiki/Q12835451
 schema_version: 1
 director:
 - kazimovski-alakbar
+poster_tmdb_path: /qLiMV084OWJrawUFsj7zHGJ7gea.jpg
+backdrop_tmdb_path: /uaCfHNjDX2vhZNxxMsx32Lqb4j7.jpg

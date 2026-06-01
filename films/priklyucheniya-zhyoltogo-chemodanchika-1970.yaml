@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1210857
   imdb: tt0066245
   youtube: ypcnUfqk5ns
+  tmdb: 85355
 sources:
 - https://www.wikidata.org/wiki/Q1210857
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: gromov-andrey-yurevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /aObr0hE0DERbBdDSSqkcumrTQ5m.jpg
+backdrop_tmdb_path: /jZckI9ShSpqSP5jzosPCtWyA2BN.jpg

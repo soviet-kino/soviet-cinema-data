@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q4366234
   imdb: tt1794910
+  tmdb: 236226
 sources:
 - https://www.wikidata.org/wiki/Q4366234
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - babichenko-dmitriy-naumovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5p0XwhF89bxIdLu9MHuavCj9sRr.jpg

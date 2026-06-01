@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15623559
   imdb: tt0110906
+  tmdb: 1268329
 sources:
 - https://www.wikidata.org/wiki/Q15623559
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bacho-zoltan
 composer:
 - petkho-zholt
+poster_tmdb_path: /jwk23L98AXlJCmCyFGchtYj8JWa.jpg

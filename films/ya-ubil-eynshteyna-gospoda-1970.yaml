@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q933712
   imdb: tt0065235
+  tmdb: 61127
 sources:
 - https://www.wikidata.org/wiki/Q933712
 schema_version: 1
@@ -113,3 +114,5 @@ cast:
 - person: puffler-josef
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
+poster_tmdb_path: /w8t4mApF3uIoX7lOiob9s2f6q3U.jpg
+backdrop_tmdb_path: /r2MnvHcrewHMTIU3NJKDGtJ1ecY.jpg

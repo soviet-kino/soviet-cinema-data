@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65201851
   imdb: tt0082013
   youtube: qcF10C3-p1o
+  tmdb: 455266
 sources:
 - https://www.wikidata.org/wiki/Q65201851
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: filatov-valeriy-nikolaevich
 studio:
 - belarusfilm
+poster_tmdb_path: /4rlqMPa1y3uZakgfDupFTxkAYcZ.jpg
+backdrop_tmdb_path: /wGzuWis4hOexD7jLns9P7IXiKJf.jpg

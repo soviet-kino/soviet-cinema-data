@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108670833
   imdb: tt4001094
   youtube: HT6bmlQXojE
+  tmdb: 535664
 sources:
 - https://www.wikidata.org/wiki/Q108670833
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - oganesyan-edgar
 studio:
 - mosfilm
+poster_tmdb_path: /l86mlyQfnn9R4aUqQnM9Om2T0Mf.jpg
+backdrop_tmdb_path: /lg7ygaVPcv7foy9ZZ0OxCoXSPPa.jpg

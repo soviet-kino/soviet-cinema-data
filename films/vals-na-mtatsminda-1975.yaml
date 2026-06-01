@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q4103092
   imdb: tt0276597
+  tmdb: 1126381
 sources:
 - https://www.wikidata.org/wiki/Q4103092
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: tsuladze-baadur-sokratovich
 studio:
 - gruziya-film
+poster_tmdb_path: /7cDsNqYNaKOg8wOy1JzQlUavo6s.jpg

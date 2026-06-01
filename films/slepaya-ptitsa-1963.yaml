@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4423329
   imdb: tt0057509
+  tmdb: 635919
 sources:
 - https://www.wikidata.org/wiki/Q4423329
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - dolin-boris-genrikhovich
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /14dX0jwYZpaTyjqx6NBNlICuxsD.jpg

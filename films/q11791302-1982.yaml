@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791302
   imdb: tt0084410
+  tmdb: 374955
 sources:
 - https://www.wikidata.org/wiki/Q11791302
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: probosh-marek
 studio:
 - silesia-kinostudiya
+poster_tmdb_path: /sUu28JKG3OriQiWqO7fplS2BBqi.jpg

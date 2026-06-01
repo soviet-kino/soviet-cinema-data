@@ -9,8 +9,10 @@ external_ids:
   wikidata: Q100233844
   imdb: tt0275741
   youtube: 7Huy7ToZBxA
+  tmdb: 641526
 sources:
 - https://www.wikidata.org/wiki/Q100233844
 schema_version: 1
 studio:
 - kazakhfilm
+poster_tmdb_path: /oNFodZ2k2xzjPNETVBufZFFARtR.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1192171
   imdb: tt0055844
   youtube: tTGBfRCx5Ic
+  tmdb: 43685
 sources:
 - https://www.wikidata.org/wiki/Q1192171
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: korenev-vladimir-borisovich
 - person: kuzmin-nikolay-alekseevich
 - person: smiranin-anatoliy-dmitrievich
+poster_tmdb_path: /nICdk7XHOzX2KuiDH8NpadqUzh1.jpg
+backdrop_tmdb_path: /gEt1TN9SOaTlMqg1g81f0jmEbuu.jpg

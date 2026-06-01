@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16486071
   imdb: tt0989619
+  tmdb: 176897
 sources:
 - https://www.wikidata.org/wiki/Q16486071
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cinematographer:
 - krzeptowski-adam
 poster_commons: Biały ślad.jpg
+poster_tmdb_path: /8Lplz73hKbin9Tq056h4Yh0dvzk.jpg

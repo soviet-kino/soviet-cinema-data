@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4053896
   imdb: tt0147807
   youtube: AjIT9q6TWQs
+  tmdb: 400527
 sources:
 - https://www.wikidata.org/wiki/Q4053896
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - mosfilm
 cast:
 - person: syomina-tamara-petrovna
+poster_tmdb_path: /px6uvG4Lt9mzxV7WLtUwg7VGKoU.jpg
+backdrop_tmdb_path: /zeql4ElZ8KUWBnnJDem2ccrcZjv.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11817130
   imdb: tt0059595
+  tmdb: 355439
 sources:
 - https://www.wikidata.org/wiki/Q11817130
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - komeda-kshishtof
 cast:
 - person: kozak-andzhey
+poster_tmdb_path: /q5JP7F9rEc5jNKX1CBWWiPuD9JH.jpg

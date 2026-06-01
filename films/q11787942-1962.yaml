@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11787942
   imdb: tt0056236
+  tmdb: 721390
 sources:
 - https://www.wikidata.org/wiki/Q11787942
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - khertel-petr
 cast:
 - person: lyaskovskaya-irena
+poster_tmdb_path: /wmjrD6usZ4su1TAG3rApp01k6qb.jpg
+backdrop_tmdb_path: /mVqMzOEdZEazg9LUlwtssUlMmu1.jpg

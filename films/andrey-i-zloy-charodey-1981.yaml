@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4065869
   imdb: tt0231141
   youtube: EAy0qDehNNc
+  tmdb: 548316
 sources:
 - https://www.wikidata.org/wiki/Q4065869
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: millyar-georgiy-frantsevich
 studio:
 - belarusfilm
+poster_tmdb_path: /xjJp2i6oRWVJIjBn3XO5c0vACAq.jpg
+backdrop_tmdb_path: /9aQ0sWdSBZvZd4f3JcKICXSevNZ.jpg

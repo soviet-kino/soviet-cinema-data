@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q19573162
   imdb: tt0170281
+  tmdb: 416806
 sources:
 - https://www.wikidata.org/wiki/Q19573162
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: jarkovsky-ferdinand
 - person: fuksa-josef
 - person: kucerova-marie
+poster_tmdb_path: /bfTcJqY2lO3jl7sUwriw6hA7zCX.jpg
+backdrop_tmdb_path: /csYKvda2Cc4uejCw3gkZZFIVzxz.jpg

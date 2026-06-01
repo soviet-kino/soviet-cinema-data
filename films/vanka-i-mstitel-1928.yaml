@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q21636695
   imdb: tt3785450
+  tmdb: 275660
 sources:
 - https://www.wikidata.org/wiki/Q21636695
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Ванька и «Мститель».jpg
+poster_tmdb_path: /uEMVP1gM2FXLhMJOhwSxfR17mYK.jpg
+backdrop_tmdb_path: /av3ylzCeXTzH33EDH2Wha0wzdws.jpg

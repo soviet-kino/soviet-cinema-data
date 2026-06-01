@@ -8,6 +8,7 @@ runtime_min: 28
 external_ids:
   wikidata: Q16522471
   imdb: tt0173086
+  tmdb: 724382
 sources:
 - https://www.wikidata.org/wiki/Q16522471
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - illesh-dyord
 composer:
 - brodi-tamash
+poster_tmdb_path: /4bmF0oSKj1Uj6pfGzVqvwr0ehbM.jpg

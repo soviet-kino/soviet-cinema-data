@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q18543862
   imdb: tt0072970
+  tmdb: 264095
 sources:
 - https://www.wikidata.org/wiki/Q18543862
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tastaman-vasilika
 - person: caciulescu-horia
 - person: voychu-yorzh
+poster_tmdb_path: /eh2vgBbjdMW56qtSbdSaiCIu5pd.jpg
+backdrop_tmdb_path: /ftneLRUnKjW2HWVa3pD3VegQFA6.jpg

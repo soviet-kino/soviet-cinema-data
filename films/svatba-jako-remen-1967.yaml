@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q7651741
   imdb: tt0173279
+  tmdb: 326167
 sources:
 - https://www.wikidata.org/wiki/Q7651741
 schema_version: 1
@@ -59,3 +60,5 @@ cast:
 - person: herglotzova-ivana
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /sfvj7ccuAqtd8E3YPq9EejqaRmZ.jpg
+backdrop_tmdb_path: /3hXVS0MUSmD6ZLgEZMQ40Mmnbk7.jpg

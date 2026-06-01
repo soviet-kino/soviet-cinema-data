@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q130456253
   imdb: tt8774210
+  tmdb: 884748
 sources:
 - https://www.wikidata.org/wiki/Q130456253
 schema_version: 1
 studio:
 - lenfilm
+poster_tmdb_path: /eHBd1Rf1ahPTfxCocze88zZVyPg.jpg

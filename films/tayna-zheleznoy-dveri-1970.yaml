@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4449945
   imdb: tt0066442
   youtube: WBmfO2CyLVo
+  tmdb: 149894
 sources:
 - https://www.wikidata.org/wiki/Q4449945
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: mikalyunas-evaldas
+poster_tmdb_path: /3IOF0x6R6OHsMqnuApv5s6Ab4e9.jpg
+backdrop_tmdb_path: /znSvvXjLnDQ6aw6Fgi8TJDi9du5.jpg

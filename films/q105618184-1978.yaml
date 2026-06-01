@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q105618184
   imdb: tt1473025
+  tmdb: 565993
 sources:
 - https://www.wikidata.org/wiki/Q105618184
 schema_version: 1
 screenwriter:
 - achtel-ludwig
+poster_tmdb_path: /t0jfoQqyiiXeo4cygzlxxKFGdoz.jpg

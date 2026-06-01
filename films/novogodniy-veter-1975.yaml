@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48953227
   imdb: tt7972394
+  tmdb: 440514
 sources:
 - https://www.wikidata.org/wiki/Q48953227
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kamenetskiy-mikhail-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /wATmhYnwUPw7aE9WJ2inyrz9XPI.jpg

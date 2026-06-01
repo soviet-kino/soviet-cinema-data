@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4445113
   imdb: tt5752450
   youtube: rykmaJR4DzA
+  tmdb: 397202
 sources:
 - https://www.wikidata.org/wiki/Q4445113
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: korotkova-irina-yurevna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /v30tFmtkaUMmfuyTIBEPJeOrUD4.jpg
+backdrop_tmdb_path: /5oNyrrKkREd2Vc441czJKpyWH6M.jpg

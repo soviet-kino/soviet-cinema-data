@@ -8,6 +8,7 @@ runtime_min: 925
 external_ids:
   wikidata: Q139581967
   imdb: tt9145300
+  tmdb: 441999
 sources:
 - https://www.wikidata.org/wiki/Q139581967
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - artemyev-eduard
 studio:
 - ekran
+poster_tmdb_path: /hNlme5t6vs2tcP5tVyOU7LtasaL.jpg

@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q4260100
   imdb: tt3238456
+  tmdb: 345131
 sources:
 - https://www.wikidata.org/wiki/Q4260100
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - belarusfilm
 - ekran
+poster_tmdb_path: /l4MfnjVvcQHqf97CWqtDItmm0oR.jpg
+backdrop_tmdb_path: /4frrqYiA7Vl6RqB6GKjYAMwTSm2.jpg

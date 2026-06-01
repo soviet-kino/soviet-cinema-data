@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7771900
   imdb: tt0153885
+  tmdb: 621225
 sources:
 - https://www.wikidata.org/wiki/Q7771900
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: grolitskiy-stanislav
 - person: wajda-kazimierz
 - person: vysotskaya-stanislava
+poster_tmdb_path: /oV1ANmBwXjifovjxYD2juvtlFM7.jpg

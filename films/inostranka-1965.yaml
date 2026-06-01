@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4201294
   imdb: tt0059313
   youtube: FeIIaJUN-4A
+  tmdb: 207919
 sources:
 - https://www.wikidata.org/wiki/Q4201294
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - kazhlaev-murad-magomedovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /3cnv9MGDkucvnwieKpYsEW4ao4Y.jpg
+backdrop_tmdb_path: /x5tY0IufVFpBJRyqD6334vSz7OR.jpg

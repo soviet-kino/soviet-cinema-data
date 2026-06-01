@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1211800
   imdb: tt0062757
   youtube: I4arxS-jvJc
+  tmdb: 173962
 sources:
 - https://www.wikidata.org/wiki/Q1211800
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: prudkin-mark-isaakovich
 - person: pyreva-lionella-ivanovna
 - person: khvylya-aleksandr-leopoldovich
+poster_tmdb_path: /tbfwVJCGRy5hkB4NMeu4cS5PCNK.jpg
+backdrop_tmdb_path: /4sEC5wFwE0DM2UsSwGhMwApgZiP.jpg

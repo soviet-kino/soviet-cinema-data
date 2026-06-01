@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12029119
   imdb: tt0071716
+  tmdb: 264543
 sources:
 - https://www.wikidata.org/wiki/Q12029119
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: koukola-jiri
 - person: radechovska-tatana
 - person: prokel-jiri
+poster_tmdb_path: /eZZ7rkMlilOX9OmfS9womW2QeUS.jpg

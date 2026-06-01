@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4337623
   imdb: tt9129084
+  tmdb: 439675
 sources:
 - https://www.wikidata.org/wiki/Q4337623
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - dychko-lesya-vasilevna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /lOpSRm3rSXss6FppXA15hNdp6sN.jpg
+backdrop_tmdb_path: /r3ojtcLGTEmKarzVz0WbjBh840G.jpg

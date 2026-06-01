@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q16968820
   imdb: tt0170785
+  tmdb: 67101
 sources:
 - https://www.wikidata.org/wiki/Q16968820
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: semecky-josef
 - person: vacek-j
 - person: rosignol-v
+poster_tmdb_path: /aCsW4ZwwPavUJHPMrIrhMNlYTJX.jpg

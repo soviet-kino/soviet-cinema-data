@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q8068601
   imdb: tt0175350
+  tmdb: 289493
 sources:
 - https://www.wikidata.org/wiki/Q8068601
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - mosfilm
 - defa
 - odesskaya-kinostudiya
+poster_tmdb_path: /nrq2bih0cHFJEkOaK69KbMc3AJe.jpg
+backdrop_tmdb_path: /rIAHMBJtrEB20EWklBF1mPF5Arp.jpg

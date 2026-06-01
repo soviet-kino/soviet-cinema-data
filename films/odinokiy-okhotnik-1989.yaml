@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4331572
   imdb: tt0098013
+  tmdb: 357975
 sources:
 - https://www.wikidata.org/wiki/Q4331572
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - mikhalkov-nikita
 cast:
 - person: kipshidze-zurab-vasilevich
+poster_tmdb_path: /qUlVxrh6W03atbCW8upsFaBpury.jpg
+backdrop_tmdb_path: /yb0UiuzAPfFTIGxA9fDdMXHPV62.jpg

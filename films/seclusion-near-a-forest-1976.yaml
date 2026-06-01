@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q2679556
   imdb: tt0074947
+  tmdb: 75026
 sources:
 - https://www.wikidata.org/wiki/Q2679556
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: chadimova-karla
 studio:
 - barrandov
+poster_tmdb_path: /b6KQtJB3pKV7GuEp1VrOOx2Ezc6.jpg
+backdrop_tmdb_path: /aC7RdlR4HkEcUXJNRkoSFEkCYTB.jpg

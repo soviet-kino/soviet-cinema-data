@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7763473
   imdb: tt0063575
+  tmdb: 284160
 sources:
 - https://www.wikidata.org/wiki/Q7763473
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: kuban-jan
 - person: ditrichova-dagmar
 - person: bullova-jolana
+poster_tmdb_path: /c6VgrE5EDgb8VPQ90LO8tpGucPb.jpg

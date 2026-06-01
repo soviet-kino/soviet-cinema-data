@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12863299
   imdb: tt0275376
+  tmdb: 711675
 sources:
 - https://www.wikidata.org/wiki/Q12863299
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - palavandishvili-temur-mikhaylovich
 screenwriter:
 - chelidze-levan-sergeevich
+poster_tmdb_path: /xiYdqn5YuKhJ6cglEiVLAc5VYvx.jpg

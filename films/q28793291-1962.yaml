@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q28793291
   imdb: tt0416845
+  tmdb: 455734
 sources:
 - https://www.wikidata.org/wiki/Q28793291
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - lehmann-christian
 composer:
 - rozenfeld-gerkhard
+poster_tmdb_path: /6WoBPUc6h84nfaOBhWuEsb0iDff.jpg

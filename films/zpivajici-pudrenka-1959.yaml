@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q8074754
   imdb: tt0053469
+  tmdb: 856887
 sources:
 - https://www.wikidata.org/wiki/Q8074754
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: jandova-marcela
 - person: venhoda-vaclav
 - person: kruml-josef
+poster_tmdb_path: /dWLg7FlQCEUw5HWhEYD8sj1B4kZ.jpg

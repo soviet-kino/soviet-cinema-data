@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q7081163
   imdb: tt0447333
+  tmdb: 381635
 sources:
 - https://www.wikidata.org/wiki/Q7081163
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: toomet-tiina
 studio:
 - tallinfilm
+poster_tmdb_path: /uhQJwgh4vwfPSubeG4dzs9uV4YK.jpg

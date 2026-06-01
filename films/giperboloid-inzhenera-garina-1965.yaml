@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4138716
   imdb: tt0314105
   youtube: 96_TwIa1kY8
+  tmdb: 74695
 sources:
 - https://www.wikidata.org/wiki/Q4138716
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: klimova-natalya-ivanovna
 - person: kuznetsov-mikhail-artemevich
 - person: safonov-vsevolod-dmitrievich
+poster_tmdb_path: /2xFH5438AHXAg4nuvHw9016CjCU.jpg
+backdrop_tmdb_path: /kPcg9DGdNeX31YNyyy0xzRoCFX4.jpg

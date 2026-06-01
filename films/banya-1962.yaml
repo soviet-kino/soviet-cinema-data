@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20636418
   imdb: tt0054662
+  tmdb: 558702
 sources:
 - https://www.wikidata.org/wiki/Q20636418
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - shchedrin-rodion-konstantinovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /67ruowEXVgnDcQ8sS55jF0UqQd.jpg

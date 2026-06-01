@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q4535769
   imdb: tt7784908
+  tmdb: 1525128
 sources:
 - https://www.wikidata.org/wiki/Q4535769
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: baktygereev-mukhtar
 studio:
 - mosfilm
+poster_tmdb_path: /6tK3DCAGFcRuuVl1ipSx3ChReLr.jpg

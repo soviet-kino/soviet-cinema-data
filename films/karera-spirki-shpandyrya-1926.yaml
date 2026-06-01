@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q97305504
   imdb: tt0461260
+  tmdb: 234233
 sources:
 - https://www.wikidata.org/wiki/Q97305504
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: utyosov-leonid-osipovich
 studio:
 - lenfilm
+poster_tmdb_path: /lXs1wrcD3dLsqKXPTlmNkIIJcZH.jpg
+backdrop_tmdb_path: /tUsMffN6Y3Net0n4Jsne8XuSbEY.jpg

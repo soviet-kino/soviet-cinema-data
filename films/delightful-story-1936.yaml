@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q20814495
   imdb: tt0152237
+  tmdb: 596174
 sources:
 - https://www.wikidata.org/wiki/Q20814495
 schema_version: 1
@@ -58,3 +59,4 @@ cast:
 - person: krejci-jaroslav
 - person: kostalova-iska
 - person: stehlickova-bozena
+poster_tmdb_path: /wo4bHCtDFHbXy6Gg1C8fwWWKnsl.jpg

@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q12755083
   imdb: tt0081104
+  tmdb: 230574
 sources:
 - https://www.wikidata.org/wiki/Q12755083
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: decermic-stojan
 - person: tankoshich-ratko
 - person: cirkovic-dobrila
+poster_tmdb_path: /zRzgpPuJ5pt4giMGVGR14piVDK5.jpg
+backdrop_tmdb_path: /zjEvPW46VCSsXqHObE8gNtAE5sX.jpg

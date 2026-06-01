@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q10214481
   imdb: tt0124969
+  tmdb: 46210
 sources:
 - https://www.wikidata.org/wiki/Q10214481
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: mazal-ferdinand
 - person: weiser-vladimir
 - person: torok-frantisek
+poster_tmdb_path: /NY6xtXodRG4a5Qsllp4GCIC0SW.jpg
+backdrop_tmdb_path: /50GoUUu1eT03cLTkjef9fsJnQhC.jpg

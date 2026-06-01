@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1282161
   imdb: tt0081043
   youtube: PZZd4QfE8S0
+  tmdb: 2381
 sources:
 - https://www.wikidata.org/wiki/Q1282161
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Lenin in Paris Lenine a Paris.jpg
+poster_tmdb_path: /3HsZ9wiNvmXWchsHtBYJZCpkwYz.jpg
+backdrop_tmdb_path: /gXoFG2wwaOGObEce5fJmDnzM4vz.jpg

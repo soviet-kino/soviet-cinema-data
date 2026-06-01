@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q7491993
   imdb: tt0122678
+  tmdb: 327440
 sources:
 - https://www.wikidata.org/wiki/Q7491993
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: macurak-ferdinand
 - person: klecka-ivan
 - person: tron-jaroslav
+poster_tmdb_path: /bhlTqiaY9ilSqmXrwBKLYiwyjXj.jpg
+backdrop_tmdb_path: /3481PWvcFaj73yUBz7Q7FztPd3x.jpg

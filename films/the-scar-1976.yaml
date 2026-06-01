@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q959838
   imdb: tt0074220
+  tmdb: 49134
 sources:
 - https://www.wikidata.org/wiki/Q959838
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: skotnicki-jan
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /8iByYKsLR8rL0JHb9BFaClBr8tb.jpg
+backdrop_tmdb_path: /r3WQWhJIgyL8JUTW6pKNXTYNEJd.jpg

@@ -8,6 +8,7 @@ runtime_min: 589
 external_ids:
   wikidata: Q4208815
   imdb: tt1321406
+  tmdb: 150949
 sources:
 - https://www.wikidata.org/wiki/Q4208815
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - skorik-miroslav-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /zFQGjuqYsihmnNBGMXQRKXXZBgr.jpg
+backdrop_tmdb_path: /3FT20tle9o3acKR7qJuN2JfMzNh.jpg

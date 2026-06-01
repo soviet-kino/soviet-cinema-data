@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q1211972
   imdb: tt0053404
+  tmdb: 363491
 sources:
 - https://www.wikidata.org/wiki/Q1211972
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: petresku-irina
 - person: chuley-liviu
+poster_tmdb_path: /uwYUZqza0swAXWAgJUvWo92aqe8.jpg
+backdrop_tmdb_path: /zqAZheBpDZOKozeanlFAA21Lxcz.jpg

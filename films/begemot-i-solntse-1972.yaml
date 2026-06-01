@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20073031
   imdb: tt2381101
+  tmdb: 439376
 sources:
 - https://www.wikidata.org/wiki/Q20073031
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - zarubin-leonid
 studio:
 - kievnauchfilm
+poster_tmdb_path: /iRDfcoX5BrrVkn5Svl9MOe8WmIJ.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3225870
   imdb: tt0059585
   youtube: WLWJp8IUziw
+  tmdb: 48676
 sources:
 - https://www.wikidata.org/wiki/Q3225870
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: beyshenaliev-bolot
 studio:
 - mosfilm
+poster_tmdb_path: /ivgyVLnP5c9s3oqpewjqAmzi1qK.jpg
+backdrop_tmdb_path: /buyW2sd5Vftp8sqFa2wZNxoB5CB.jpg

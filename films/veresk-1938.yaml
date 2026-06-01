@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4107685
   imdb: tt0153960
+  tmdb: 732948
 sources:
 - https://www.wikidata.org/wiki/Q4107685
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: yunosha-stempovskiy-kazimezh
 - person: vysotskaya-stanislava
 poster_commons: WRZOS.jpg
+poster_tmdb_path: /jz32dAnaw1rkxkLcuCWw3CnuCS4.jpg

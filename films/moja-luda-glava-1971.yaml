@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12755759
   imdb: tt0179983
+  tmdb: 395738
 sources:
 - https://www.wikidata.org/wiki/Q12755759
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: radmila-savichevich
 - person: tomich-milivo-e
 - person: bikhali-melita
+poster_tmdb_path: /kbHDd2pf5evCAUfBGy8XnK5nKTe.jpg
+backdrop_tmdb_path: /jUWwFCRTEKrBZ8NAPrKWMX7AcXy.jpg

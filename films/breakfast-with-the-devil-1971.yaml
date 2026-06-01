@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12751051
   imdb: tt0179775
+  tmdb: 284220
 sources:
 - https://www.wikidata.org/wiki/Q12751051
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kojadinovic-rade
 - person: sokica-dobrila
 - person: vladan-zhivkovich
+poster_tmdb_path: /9cR7gM64knYQ2d3ytcgtNbuZgDZ.jpg
+backdrop_tmdb_path: /50kY0ShtoRKYQ06UbN2VZoVjtYE.jpg

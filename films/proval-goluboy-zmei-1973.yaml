@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28734827
   imdb: tt0069748
+  tmdb: 528986
 sources:
 - https://www.wikidata.org/wiki/Q28734827
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: chomartan-ioana
 - person: zugrevesku-khoriya
 - person: naku-gabriel
+poster_tmdb_path: /u5GNndGvi03ukREUMsJVn37s2lZ.jpg
+backdrop_tmdb_path: /3IZM9qkuvFd5WQEIxFGc5MUvarx.jpg

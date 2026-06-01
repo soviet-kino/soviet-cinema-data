@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q62987300
   imdb: tt0202668
+  tmdb: 584362
 sources:
 - https://www.wikidata.org/wiki/Q62987300
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zharkov-aleksey-dmitrievich
 studio:
 - kazakhfilm
+poster_tmdb_path: /w8dVBUIROpFFsqGlPEcWPGdeg1o.jpg

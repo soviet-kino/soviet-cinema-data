@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q12020000
   imdb: tt0150929
+  tmdb: 159289
 sources:
 - https://www.wikidata.org/wiki/Q12020000
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: strnadova-jarkova-nina
 - person: kostalova-iska
 - person: kabelac-frantisek
+poster_tmdb_path: /w7zIuYCOfhSBxTgwfef0TAQfxdo.jpg

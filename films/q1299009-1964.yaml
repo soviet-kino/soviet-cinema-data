@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1299009
   imdb: tt0058052
+  tmdb: 286213
 sources:
 - https://www.wikidata.org/wiki/Q1299009
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: gohler-sigrid
 - person: kulikovski-traudl
 - person: mikhelis-frank
+poster_tmdb_path: /7XzDLe63y1mZmIddhwg6MMypjGw.jpg

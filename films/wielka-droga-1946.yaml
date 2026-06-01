@@ -20,6 +20,9 @@ cast:
 external_ids:
   wikidata: Q7999010
   imdb: tt0283145
+  tmdb: 945637
 sources:
 - https://www.wikidata.org/wiki/Q7999010
 schema_version: 1
+poster_tmdb_path: /g0NXA8nW5769etzqvVfnoRyxOmD.jpg
+backdrop_tmdb_path: /wkFLE1E0TXvVWJz8S00D8B0dkeS.jpg

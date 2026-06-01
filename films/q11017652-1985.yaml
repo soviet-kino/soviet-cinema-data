@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11017652
   imdb: tt0296089
+  tmdb: 503245
 sources:
 - https://www.wikidata.org/wiki/Q11017652
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kurti-besim
 screenwriter:
 - bushaka-gaqo
+poster_tmdb_path: /dw0il7iITYSELKOdZtuGK23VvfO.jpg
+backdrop_tmdb_path: /A6yoAtaY5pKLLUzvOW41agG5sfr.jpg

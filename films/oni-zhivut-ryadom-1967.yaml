@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q15270889
   imdb: tt0175006
+  tmdb: 836522
 sources:
 - https://www.wikidata.org/wiki/Q15270889
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: nifontova-rufina-dmitrievna
 studio:
 - mosfilm
+poster_tmdb_path: /r2kkcuhNoCMmql1MmGZVpA3yIES.jpg

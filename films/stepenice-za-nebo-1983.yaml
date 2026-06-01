@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16232066
   imdb: tt0084730
+  tmdb: 336571
 sources:
 - https://www.wikidata.org/wiki/Q16232066
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: ferari-rakhela
 - person: velimir-bata-zhivoinovich
 - person: svetozar-tsvetkovich
+poster_tmdb_path: /1PoSYRpUiDVIylGWp2b6Lmojheb.jpg
+backdrop_tmdb_path: /tGOCR5YFQRhBkFWUwktJE7Br12n.jpg

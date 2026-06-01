@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11716273
   imdb: tt0354017
+  tmdb: 484756
 sources:
 - https://www.wikidata.org/wiki/Q11716273
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - pecani-spartak
 screenwriter:
 - pulaha-ruzhdi
+poster_tmdb_path: /4P3IjChvfkLEpjlTNXaL3qwcxuq.jpg
+backdrop_tmdb_path: /pv9LIrwtjNqGbPSa4AICrGwkeFB.jpg

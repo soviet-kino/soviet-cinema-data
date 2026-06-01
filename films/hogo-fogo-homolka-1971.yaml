@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q9293212
   imdb: tt0173900
+  tmdb: 142725
 sources:
 - https://www.wikidata.org/wiki/Q9293212
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: kubalkova-dana
 - person: chvojka-jindrich
 - person: pruzinova-ruzena
+poster_tmdb_path: /aS0OOmmEtM2G1d5Tv8ZkDZXn9Mq.jpg
+backdrop_tmdb_path: /1CwCNV8BynPqDJ5fHExsHkxNG0p.jpg

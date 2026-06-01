@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7070005
   imdb: tt0230581
+  tmdb: 439276
 sources:
 - https://www.wikidata.org/wiki/Q7070005
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - shmidt-eberkhard
 cast:
 - person: runkehl-karla
+poster_tmdb_path: /uP53a0v41aSspK1gSt8SanV7djt.jpg

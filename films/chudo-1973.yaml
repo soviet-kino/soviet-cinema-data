@@ -8,6 +8,7 @@ runtime_min: 2
 external_ids:
   wikidata: Q15271112
   imdb: tt1075791
+  tmdb: 936097
 sources:
 - https://www.wikidata.org/wiki/Q15271112
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /chYBpxNKd9ZdRduwSGh8kQAoXlg.jpg

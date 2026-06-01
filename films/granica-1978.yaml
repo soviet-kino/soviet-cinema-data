@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9275719
   imdb: tt0077627
+  tmdb: 157182
 sources:
 - https://www.wikidata.org/wiki/Q9275719
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: severin-andzhey
 - person: lomnitskiy-tadeush
 - person: kanevska-mariya
+poster_tmdb_path: /n4ekQafY3h3fwebde6F4x40pH2w.jpg
+backdrop_tmdb_path: /dE9NmxGCQSqOiqXFrKrjRGJGwF8.jpg

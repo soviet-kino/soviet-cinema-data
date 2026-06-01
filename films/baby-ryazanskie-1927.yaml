@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3228140
   imdb: tt0017653
   youtube: p8O8vhVdjso
+  tmdb: 189921
 sources:
 - https://www.wikidata.org/wiki/Q3228140
 schema_version: 1
@@ -30,3 +31,5 @@ studio:
 - mosfilm
 - mezhrabpomfilm
 - sovkino
+poster_tmdb_path: /AeghrfPaJaz8r0vYMR7WVd8PWkc.jpg
+backdrop_tmdb_path: /dMKpwFJGDqgGU5NNYhgQI9CvBtb.jpg

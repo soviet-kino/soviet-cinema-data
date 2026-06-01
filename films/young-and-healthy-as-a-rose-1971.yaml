@@ -8,8 +8,11 @@ runtime_min: 76
 external_ids:
   wikidata: Q12755662
   imdb: tt0180841
+  tmdb: 62067
 sources:
 - https://www.wikidata.org/wiki/Q12755662
 schema_version: 1
 director:
 - yovan-yovanovich
+poster_tmdb_path: /wUfkbV0sVjHhwlNTtHvK3TPRuZu.jpg
+backdrop_tmdb_path: /xPn1dxp7ZAKSUX7JQSjsQ4FXX6t.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17582658
   imdb: tt0171712
   youtube: edyYzWUDT1s
+  tmdb: 406293
 sources:
 - https://www.wikidata.org/wiki/Q17582658
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - klimov-vladimir-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /hlUEz89ypWbPLCjvjQaycodGxLi.jpg
+backdrop_tmdb_path: /yKEt5YG9qZImwAnSu6LMWf8KPRN.jpg

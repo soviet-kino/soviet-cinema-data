@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12059389
   imdb: tt0021484
+  tmdb: 186158
 sources:
 - https://www.wikidata.org/wiki/Q12059389
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: velicky-ada
 - person: marek-jan
 - person: stepan-rudolf
+poster_tmdb_path: /5enhoTXBG83nNCYx041vUrUQZJc.jpg
+backdrop_tmdb_path: /9R95xAYyanToeNejczFBifiWm6P.jpg

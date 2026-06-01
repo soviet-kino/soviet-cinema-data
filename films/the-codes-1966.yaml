@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q2792170
   imdb: tt0061056
+  tmdb: 149460
 sources:
 - https://www.wikidata.org/wiki/Q2792170
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: irena-eykhleruvna
 - person: gogolevskiy-ignatsy
 - person: merle-zofya
+poster_tmdb_path: /ffooSTLF329biB3NRCrvi8K9sBz.jpg
+backdrop_tmdb_path: /lk8uc3pzT15JGN1sQmzSxS6T4qm.jpg

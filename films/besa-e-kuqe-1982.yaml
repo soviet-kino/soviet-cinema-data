@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3303642
   imdb: tt0172173
+  tmdb: 484766
 sources:
 - https://www.wikidata.org/wiki/Q3303642
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - coba-zef
 studio:
 - albfilm
+poster_tmdb_path: /x36BRvvuwRyRvcNaZBPhVWnkYEf.jpg
+backdrop_tmdb_path: /fyy9yDX6IhVnkMlkhQixPmx7CD4.jpg

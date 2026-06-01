@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q20001475
   imdb: tt1240914
+  tmdb: 90684
 sources:
 - https://www.wikidata.org/wiki/Q20001475
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Obcy głos (1949).jpg
+poster_tmdb_path: /8s71u7QTrGbQVi1IpHX299fWkFt.jpg
+backdrop_tmdb_path: /1WdB93lVnz0tQDmwqgLfo5BmWac.jpg

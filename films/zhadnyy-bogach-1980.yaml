@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q21843805
   imdb: tt5874108
   youtube: gSpjDi2BrQk
+  tmdb: 441216
 sources:
 - https://www.wikidata.org/wiki/Q21843805
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - golomb-iosif-emmanuilovich
 studio:
 - ekran
+poster_tmdb_path: /Am5dBnk64AjlaEG0XeXsKXwwCr2.jpg

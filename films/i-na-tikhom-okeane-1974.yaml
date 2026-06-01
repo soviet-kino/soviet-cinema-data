@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19615958
   imdb: tt2202576
+  tmdb: 532583
 sources:
 - https://www.wikidata.org/wiki/Q19615958
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: polyakov-lev-aleksandrovich
 - person: shutov-evgeniy-efimovich
 - person: filippov-viktor-sergeevich
+poster_tmdb_path: /19WDZaAiRjhmuVlITeXfGDVttSk.jpg

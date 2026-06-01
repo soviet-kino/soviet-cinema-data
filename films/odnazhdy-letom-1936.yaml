@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q12135260
   imdb: tt0186413
+  tmdb: 143032
 sources:
 - https://www.wikidata.org/wiki/Q12135260
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: tverdokhleb-ivan-iosifovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /d5XwwGQ6SMcJ1F7yXiEDZfmmAvw.jpg
+backdrop_tmdb_path: /3zj0ZXc1UDU93uzHuuQdIDcMEkD.jpg

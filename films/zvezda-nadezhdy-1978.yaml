@@ -8,6 +8,7 @@ runtime_min: 204
 external_ids:
   wikidata: Q4189409
   imdb: tt0078532
+  tmdb: 456059
 sources:
 - https://www.wikidata.org/wiki/Q4189409
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: oganesyan-lyusya
 - person: aslanyan-gevork
 - person: gevorkyan-avetik
+poster_tmdb_path: /lUskz2oGHdy5wb47X2ZLgNpIYkQ.jpg
+backdrop_tmdb_path: /5HQzqsaF1tHA9sEuLO7GNE3Hwk4.jpg

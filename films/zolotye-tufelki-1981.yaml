@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q56364322
   imdb: tt3002464
   youtube: TH9tBZmq7no
+  tmdb: 893547
 sources:
 - https://www.wikidata.org/wiki/Q56364322
 schema_version: 1
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /oeJr87iQF5eYq7LBVSpDwXx9g3V.jpg

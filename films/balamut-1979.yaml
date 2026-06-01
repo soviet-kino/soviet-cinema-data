@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4076346
   imdb: tt0166499
   youtube: cksc0Zdb4WE
+  tmdb: 195486
 sources:
 - https://www.wikidata.org/wiki/Q4076346
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: andreev-vadim-yurevich
+poster_tmdb_path: /kWel0211tBIRUNAJAAV4wK9LgSh.jpg
+backdrop_tmdb_path: /njv3Gz4RHrV5Aic2C6I6oCrpTZV.jpg

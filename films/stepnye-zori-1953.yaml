@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q25830868
   imdb: tt0046369
+  tmdb: 1062028
 sources:
 - https://www.wikidata.org/wiki/Q25830868
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: frichinskiy-lev-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /h6bU82zS3GONZKBSME7utfrcpcn.jpg
+backdrop_tmdb_path: /tG2eg8UV98Cr9b8U1jusKq5x1it.jpg

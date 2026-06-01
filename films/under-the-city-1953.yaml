@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25999805
   imdb: tt0046529
+  tmdb: 494035
 sources:
 - https://www.wikidata.org/wiki/Q25999805
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: sabo-shandor
 - person: szmere-vera
 - person: szirtes-adam
+poster_tmdb_path: /1KAUxSwLXAM5qDi2I1sJClRVAeH.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q9340596
   imdb: tt0049789
+  tmdb: 724799
 sources:
 - https://www.wikidata.org/wiki/Q9340596
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: yakubinskaya-vanda
 - person: nevinovskiy-bogdan
 - person: tsetserskiy-yan
+poster_tmdb_path: /x1ASqs1vsNhmPtbTugKEARRqF9r.jpg

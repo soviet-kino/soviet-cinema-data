@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3812790
   imdb: tt2677888
   youtube: LlhXKZgV-7Y
+  tmdb: 637535
 sources:
 - https://www.wikidata.org/wiki/Q3812790
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: grishina-irina
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /4PxAdvlb6hoZ2ErvyPMBsHpvUXz.jpg
+backdrop_tmdb_path: /vEYJ77B4BGA48HhPoLWv0we1ihy.jpg

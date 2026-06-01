@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3399660
   imdb: tt0173227
+  tmdb: 354248
 sources:
 - https://www.wikidata.org/wiki/Q3399660
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: marko-todorovich
 - person: gavrich-aleksandar
 - person: prlichko-petr
+poster_tmdb_path: /jXcN1IzLB76Oov2mFVYr6OEIA1o.jpg

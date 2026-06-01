@@ -8,6 +8,7 @@ runtime_min: 388
 external_ids:
   wikidata: Q4101723
   imdb: tt6358630
+  tmdb: 145812
 sources:
 - https://www.wikidata.org/wiki/Q4101723
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - butakov-boris
 studio:
 - ekran
+poster_tmdb_path: /iqm7zNoy4kUVziwTbFant8MeZKn.jpg

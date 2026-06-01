@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4124845
   imdb: tt0304911
   youtube: Erv4mJbUMUI
+  tmdb: 459798
 sources:
 - https://www.wikidata.org/wiki/Q4124845
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: boguk-valeriya-georgievna
 studio:
 - belarusfilm
+poster_tmdb_path: /vlwwbe9x7pxEz8YyRkIolfBkybZ.jpg
+backdrop_tmdb_path: /aRCwFX5zNDklb8JwCXZBaArzFDN.jpg

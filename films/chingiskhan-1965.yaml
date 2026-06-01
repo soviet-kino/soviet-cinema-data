@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q708014
   imdb: tt0059219
+  tmdb: 4868
 sources:
 - https://www.wikidata.org/wiki/Q708014
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kholt-patrik
 studio:
 - columbia-pictures
+poster_tmdb_path: /xDbKUiPsEYGppuTOzGQoBU3UBMv.jpg
+backdrop_tmdb_path: /nnfVMtkUcIqQBVodjLJzWRqRhLF.jpg

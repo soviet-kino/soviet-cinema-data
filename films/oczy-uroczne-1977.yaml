@@ -8,6 +8,7 @@ runtime_min: 41
 external_ids:
   wikidata: Q11795809
   imdb: tt0175986
+  tmdb: 375451
 sources:
 - https://www.wikidata.org/wiki/Q11795809
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: dusza-jozef
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /hYLvqHDHpJyv1WtcNMqQ93vIyt5.jpg

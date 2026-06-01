@@ -11,6 +11,9 @@ director:
 external_ids:
   wikidata: Q16719112
   imdb: tt12096062
+  tmdb: 1075328
 sources:
 - https://www.wikidata.org/wiki/Q16719112
 schema_version: 1
+poster_tmdb_path: /gIl8gQ99EN5uVOlBEkyvpYI1cly.jpg
+backdrop_tmdb_path: /lyv0tP3MzjT3XG6G8hhm9zBrn3n.jpg

@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q96381322
   imdb: tt1235136
+  tmdb: 364003
 sources:
 - https://www.wikidata.org/wiki/Q96381322
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: jirouskova-olga
 - person: seda-bohuslav
 - person: joanovicova-marie
+poster_tmdb_path: /93PkvPN9wWprMRGsr3GhRJnl4p1.jpg

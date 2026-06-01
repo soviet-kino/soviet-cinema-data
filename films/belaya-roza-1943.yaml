@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q116865168
   imdb: tt0312446
+  tmdb: 1167472
 sources:
 - https://www.wikidata.org/wiki/Q116865168
 schema_version: 1
+poster_tmdb_path: /3qfldxAMnEEnvWEHRhTq9mBx71X.jpg

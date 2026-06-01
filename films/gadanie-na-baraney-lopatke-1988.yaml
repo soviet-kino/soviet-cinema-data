@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4131472
   imdb: tt0175638
+  tmdb: 1160993
 sources:
 - https://www.wikidata.org/wiki/Q4131472
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: gubanov-nikolay
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /wCTMSLC86yfVvZUc5TL5h9iiZTF.jpg

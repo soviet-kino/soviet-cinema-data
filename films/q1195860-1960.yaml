@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q1195860
   imdb: tt0054092
+  tmdb: 371471
 sources:
 - https://www.wikidata.org/wiki/Q1195860
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: kube-khorst
 - person: ripperger-rolf
 - person: lyobinger-lotta
+poster_tmdb_path: /9SGMr6BVZjn1xsPHHopvOOybKTr.jpg

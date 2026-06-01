@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4366996
   imdb: tt1283895
   youtube: JvidGA-Z8-o
+  tmdb: 248104
 sources:
 - https://www.wikidata.org/wiki/Q4366996
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: artmane-viya
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /6jFivMiNY07ddAHdoh4rKbRl8H3.jpg
+backdrop_tmdb_path: /jFlNWnfRVI3zslcnjc7BZudBGr6.jpg

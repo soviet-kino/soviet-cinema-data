@@ -8,6 +8,7 @@ runtime_min: 122
 external_ids:
   wikidata: Q120555771
   imdb: tt10602132
+  tmdb: 828936
 sources:
 - https://www.wikidata.org/wiki/Q120555771
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - institut-kinematografii-i-audiovizualnykh-iskusstv
 - wanda-vision
+poster_tmdb_path: /lIPC1FM9KBX8vXRG40iSJoKsZsv.jpg
+backdrop_tmdb_path: /cBueKI86rE4f0ommhkVo4snHUxp.jpg

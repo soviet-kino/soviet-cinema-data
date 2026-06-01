@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156474
   imdb: tt0239342
   youtube: ZIDlg1BlIoI
+  tmdb: 396197
 sources:
 - https://www.wikidata.org/wiki/Q4156474
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: 1939. Валентина Серова в фильме Девушка с характером.jpg
+poster_tmdb_path: /5ZtFln0mwGIE5QM0qRYRUywB4CX.jpg
+backdrop_tmdb_path: /92WrUGTCkNwUrOvNeKFQ4p7BMfq.jpg

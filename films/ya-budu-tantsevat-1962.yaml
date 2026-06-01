@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4535662
   imdb: tt0350343
+  tmdb: 458650
 sources:
 - https://www.wikidata.org/wiki/Q4535662
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - azerbaydzhanfilm
 cast:
 - person: esambaev-makhmud-alisultanovich
+poster_tmdb_path: /jEckIJhgOFM45fuJuwi5YMl5jRX.jpg
+backdrop_tmdb_path: /hDmWzevgo8SBLp8LXek8Ddf5ayD.jpg

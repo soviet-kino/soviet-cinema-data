@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4385919
   imdb: tt0038841
   youtube: gzWtRtL7qQA
+  tmdb: 206798
 sources:
 - https://www.wikidata.org/wiki/Q4385919
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: khvylya-aleksandr-leopoldovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /nPM2LczxLOVdRSl7G0qEhMbRVyb.jpg
+backdrop_tmdb_path: /uFAeOGCKSYGXZVxa4yy9OQJ2jS1.jpg

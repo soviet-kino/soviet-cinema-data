@@ -8,6 +8,7 @@ runtime_min: 196
 external_ids:
   wikidata: Q596039
   imdb: tt0077170
+  tmdb: 88623
 sources:
 - https://www.wikidata.org/wiki/Q596039
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: dymna-anna
 - person: noyenkhan-villi
 - person: grigoriu-grigore-petru
+poster_tmdb_path: /vFuUDqLTJOVrVWtNB78AZ0TUqCB.jpg
+backdrop_tmdb_path: /eOPg1Vwjg5AhPvo049poIlmvNeJ.jpg

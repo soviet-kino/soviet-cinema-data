@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q119482841
   imdb: tt0043323
+  tmdb: 370758
 sources:
 - https://www.wikidata.org/wiki/Q119482841
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - pazhtor-ishtvan
 composer:
 - kadosha-pal
+poster_tmdb_path: /6lwWvn7FsqCcOhoJql58BWPjnIc.jpg
+backdrop_tmdb_path: /f5LugjlABrfpvvlkURt2zjPgj45.jpg

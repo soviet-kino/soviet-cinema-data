@@ -8,6 +8,7 @@ runtime_min: 160
 external_ids:
   wikidata: Q4366188
   imdb: tt0173000
+  tmdb: 399108
 sources:
 - https://www.wikidata.org/wiki/Q4366188
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 studio:
 - mosfilm
 - defa
+poster_tmdb_path: /s7fuw2DgUFiUlric1ThvJeGgbPi.jpg
+backdrop_tmdb_path: /olbcYvcJcRk5THbjxr4cYJ8bzrX.jpg

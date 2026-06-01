@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q23564576
   imdb: tt0175823
+  tmdb: 418893
 sources:
 - https://www.wikidata.org/wiki/Q23564576
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - unterberg-hannelore
 cinematographer:
 - braumann-wolfgang
+poster_tmdb_path: /kPyEqWve5PtKOwxR8a6ZrKCaXNf.jpg

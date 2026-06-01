@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4313896
   imdb: tt1710431
+  tmdb: 524714
 sources:
 - https://www.wikidata.org/wiki/Q4313896
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ogly-rzaev-samandar-mansim
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /qW5aBJNrlphJK0POekfogFFBioB.jpg
+backdrop_tmdb_path: /4UtIgMmsSeqcBiTVNwjhpwSTFoo.jpg

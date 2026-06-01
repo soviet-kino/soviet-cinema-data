@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4157100
   imdb: tt0046356
+  tmdb: 578011
 sources:
 - https://www.wikidata.org/wiki/Q4157100
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dymsha-adolf
 studio:
 - q9380470
+poster_tmdb_path: /qpffARPa0eSfQsOt5T92BEUsLAy.jpg

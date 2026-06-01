@@ -33,6 +33,9 @@ poster_commons: Namus film poster on a 2025 stamp of Armenia.jpg
 external_ids:
   wikidata: Q1971536
   imdb: tt0017195
+  tmdb: 36277
 sources:
 - https://www.wikidata.org/wiki/Q1971536
 schema_version: 1
+poster_tmdb_path: /bQy0nOn5k5v1H8NCifC9YTXfUTv.jpg
+backdrop_tmdb_path: /2fCWWMct5hme1r5kOPOIXDpZq5Q.jpg

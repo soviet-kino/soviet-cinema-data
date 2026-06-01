@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12868392
   imdb: tt0286008
+  tmdb: 1418765
 sources:
 - https://www.wikidata.org/wiki/Q12868392
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - ebralidze-rezo-semyonovich
 composer:
 - bobokhidze-yakov
+poster_tmdb_path: /AtmhElEfQW51i8FtBODjlFJiU2Q.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12292780
   imdb: tt0355976
   youtube: j1BEsecLYwg
+  tmdb: 890421
 sources:
 - https://www.wikidata.org/wiki/Q12292780
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 studio:
 - mosfilm
 - nyu-boyana-film-studios
+poster_tmdb_path: /oOqb3fjeYlv6FeraQ171oEOs9HJ.jpg

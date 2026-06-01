@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9248602
   imdb: tt0022601
+  tmdb: 156654
 sources:
 - https://www.wikidata.org/wiki/Q9248602
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - danilovskiy-vladislav
 cast:
 - person: brodzish-adam
+poster_tmdb_path: /dNAuOrCvx2hYBkHqGVv5ePXRNNe.jpg

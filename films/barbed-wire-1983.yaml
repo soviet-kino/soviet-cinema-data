@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9387278
   imdb: tt0083357
+  tmdb: 577851
 sources:
 - https://www.wikidata.org/wiki/Q9387278
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: nekhrebetska-anna
 - person: bylchinskiy-yanush
 - person: kotys-ryshard
+poster_tmdb_path: /cf3tl8ZhXrJoD9BtkafQ2CqipHa.jpg

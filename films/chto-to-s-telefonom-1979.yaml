@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q4517298
   imdb: tt5534708
+  tmdb: 558045
 sources:
 - https://www.wikidata.org/wiki/Q4517298
 schema_version: 1
@@ -18,3 +19,4 @@ studio:
 cast:
 - person: arepina-iya-alekseevna
 - person: grachyov-anatoliy-dmitrievich
+poster_tmdb_path: /5CuiuFocaYkO64vteNXgIvjMKcj.jpg

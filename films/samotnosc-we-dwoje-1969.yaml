@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9333292
   imdb: tt0064925
+  tmdb: 762867
 sources:
 - https://www.wikidata.org/wiki/Q9333292
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: pankowski-leszek
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /z2NnOOwfdjaGTAgrUsr3autFwM0.jpg

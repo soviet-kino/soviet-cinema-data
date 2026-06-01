@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q20310326
   imdb: tt0053165
+  tmdb: 478062
 sources:
 - https://www.wikidata.org/wiki/Q20310326
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: strakhinya-petrovich
 studio:
 - bosna-film
+poster_tmdb_path: /hYm3eOq3LgNXm5SHBru8HuGbHfc.jpg
+backdrop_tmdb_path: /sdhz9qiYkUgMHYwQ1C2Oy9a12Y9.jpg

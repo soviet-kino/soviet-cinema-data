@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q7732986
   imdb: tt0054665
+  tmdb: 41213
 sources:
 - https://www.wikidata.org/wiki/Q7732986
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 studio:
 - kratky-film-praha
 - kinostudiya-gotvaldova
+poster_tmdb_path: /61i36R6sSsfbolh2QIjOpqNbGOc.jpg
+backdrop_tmdb_path: /elfVwrfn5goenMteFuYboz5q2BN.jpg

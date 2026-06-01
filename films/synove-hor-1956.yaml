@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q91676215
   imdb: tt0152789
+  tmdb: 392698
 sources:
 - https://www.wikidata.org/wiki/Q91676215
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: novakova-karlicka
 - person: jarous-miroslav
 - person: hrabe-jan
+poster_tmdb_path: /a0lvNjrv0Wur9ua80r5yKG3npZv.jpg
+backdrop_tmdb_path: /uavpEu87z34214JqX5Qu0i7lYAv.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q30890990
   imdb: tt0261634
+  tmdb: 441585
 sources:
 - https://www.wikidata.org/wiki/Q30890990
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - mdivani-georgiy
 composer:
 - balanchivadze-andrey-melitonovich
+poster_tmdb_path: /6MDaKtrMJdUhWAMbeTfJH9W5ILi.jpg
+backdrop_tmdb_path: /sLhe8Iw51jzQdqN3LkgXdWGte10.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q105763622
   imdb: tt5224126
+  tmdb: 1520671
 sources:
 - https://www.wikidata.org/wiki/Q105763622
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: velichko-natalya-yakovlevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mrWnJeAESNy3iWbM275C8NCkkm0.jpg

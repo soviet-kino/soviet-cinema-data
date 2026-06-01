@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q15782458
   imdb: tt0077149
+  tmdb: 260830
 sources:
 - https://www.wikidata.org/wiki/Q15782458
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: solti-bertalan
 - person: khorvat-laslo
 - person: taryan-dzhordzhiana
+poster_tmdb_path: /hwH0hKOKtOJapGgAEnTxf88yuzm.jpg
+backdrop_tmdb_path: /tloQVWPQfd4kfoenyt7v7dhmuvi.jpg

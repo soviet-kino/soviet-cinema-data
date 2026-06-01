@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4440847
   imdb: tt1018920
+  tmdb: 200547
 sources:
 - https://www.wikidata.org/wiki/Q4440847
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - podnieks-yuris
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /sLRXYGexSPr0zHsOSpHEH5fEtPT.jpg
+backdrop_tmdb_path: /x7tcwjMGVKqWwLDkYI3xoXu7ov1.jpg

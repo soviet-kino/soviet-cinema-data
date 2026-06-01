@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q916686
   imdb: tt0241710
+  tmdb: 408701
 sources:
 - https://www.wikidata.org/wiki/Q916686
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: muhlhardt-kurt
 - person: gyunter-maykl
 - person: ksirova-jarmila
+poster_tmdb_path: /cSm54Ft3eH1ybIAy6cX3bMGpHPF.jpg

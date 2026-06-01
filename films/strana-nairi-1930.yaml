@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q3560640
   imdb: tt0361130
+  tmdb: 1097658
 sources:
 - https://www.wikidata.org/wiki/Q3560640
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bek-nazarov-amo
 studio:
 - armenfilm
+poster_tmdb_path: /aSxdbDjVlZHLr9NSEuo94L9LS6q.jpg

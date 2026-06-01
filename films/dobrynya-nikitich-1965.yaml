@@ -8,6 +8,7 @@ runtime_min: 916
 external_ids:
   wikidata: Q4163894
   imdb: tt7523038
+  tmdb: 1123409
 sources:
 - https://www.wikidata.org/wiki/Q4163894
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - levitin-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /b3TdcruIKbHpi2vKEWvIOm0sUCA.jpg
+backdrop_tmdb_path: /jln3mKcx9AHl6EG7C2iK0AdNv7u.jpg

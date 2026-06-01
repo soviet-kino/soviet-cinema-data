@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4377489
   imdb: tt0255509
+  tmdb: 537576
 sources:
 - https://www.wikidata.org/wiki/Q4377489
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ozerov-igor-vyacheslavovich
 studio:
 - mosfilm
+poster_tmdb_path: /iE8Fq7GTVbSnD9EWJ4xhlAgAI58.jpg
+backdrop_tmdb_path: /l6UzVpGk6YmPKCsi74vCfjqjjLT.jpg

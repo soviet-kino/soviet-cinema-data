@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4157228
   imdb: tt0056982
   youtube: Y3TMti_iK28
+  tmdb: 92983
 sources:
 - https://www.wikidata.org/wiki/Q4157228
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: chulyukin-yuriy-stepanovich
 - person: shvorin-aleksandr-borisovich
 - person: gromov-viktor-alekseevich
+poster_tmdb_path: /bDPOo2SWRd5xIABgkR5y7mIjsWx.jpg
+backdrop_tmdb_path: /vRUW69sWDQtf7vaVrSsgK9gy0is.jpg

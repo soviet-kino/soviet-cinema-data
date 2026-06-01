@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12088961
   imdb: tt5293100
   youtube: Jh5_JaX1ZCI
+  tmdb: 427332
 sources:
 - https://www.wikidata.org/wiki/Q12088961
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: belozyorova-lidiya-alekseevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /zyadQrXRvSLnrdYwerAgC92FIEP.jpg
+backdrop_tmdb_path: /2qKLg83f15GclngwzLO0KKrVV9R.jpg

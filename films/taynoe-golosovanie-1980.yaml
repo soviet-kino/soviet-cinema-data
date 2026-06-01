@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4449988
   imdb: tt0230847
   youtube: UjURkROg26A
+  tmdb: 892231
 sources:
 - https://www.wikidata.org/wiki/Q4449988
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kuznetsov-mikhail-artemevich
 studio:
 - lenfilm
+poster_tmdb_path: /2BcGLLrvkRrsWyDBRLp4IofJWkR.jpg

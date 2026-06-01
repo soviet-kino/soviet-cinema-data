@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4382391
   imdb: tt0145411
   youtube: aDZx28Gy0nE
+  tmdb: 538952
 sources:
 - https://www.wikidata.org/wiki/Q4382391
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: yakovlev-girt-aleksandrovich
 studio:
 - lenfilm
+poster_tmdb_path: /AbjM9gNGGumXghSEQyHmsR9Au5z.jpg
+backdrop_tmdb_path: /xYvQZdwwgOtJPDeKb7dMnxituie.jpg

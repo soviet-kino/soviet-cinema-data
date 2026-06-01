@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q24041174
   imdb: tt0015046
+  tmdb: 687158
 sources:
 - https://www.wikidata.org/wiki/Q24041174
 schema_version: 1
 director:
 - viskovskiy-vyacheslav-kazimirovich
+poster_tmdb_path: /r4uhj1qaMwNTqa2gJYLRJjEATXC.jpg

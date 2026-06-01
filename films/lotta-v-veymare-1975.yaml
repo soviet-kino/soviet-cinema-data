@@ -39,6 +39,8 @@ runtime_min: 119
 external_ids:
   wikidata: Q428049
   imdb: tt0071774
+  tmdb: 198527
 sources:
 - https://www.wikidata.org/wiki/Q428049
 schema_version: 1
+poster_tmdb_path: /qNZRcldoYREjhMNv6hCOHRhVaNI.jpg

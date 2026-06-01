@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84993109
   imdb: tt0094807
   youtube: NGVWZhnEwqg
+  tmdb: 614224
 sources:
 - https://www.wikidata.org/wiki/Q84993109
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - korndorf-nikolay-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /qXX5frgssYHrjL1TWThNX4QpinQ.jpg
+backdrop_tmdb_path: /gTQySZmBMphlZMmCfj9WmWBoe1L.jpg

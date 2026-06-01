@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4301095
   imdb: tt0070402
   youtube: g9EaW5z4FIQ
+  tmdb: 181924
 sources:
 - https://www.wikidata.org/wiki/Q4301095
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: skobtseva-irina-konstantinovna
 studio:
 - mosfilm
+poster_tmdb_path: /cvpyKrqWie10qk8hJVxykfYFo5i.jpg
+backdrop_tmdb_path: /zHyTfNoRglq2VNTvChCTjXJGQsW.jpg

@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q9393537
   imdb: tt0176346
+  tmdb: 299539
 sources:
 - https://www.wikidata.org/wiki/Q9393537
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - wajda-andrzej
 cast:
 - person: lomnitskiy-yan
+poster_tmdb_path: /xFSGOdDJzGvCrfMSVr9BFBTLuR2.jpg

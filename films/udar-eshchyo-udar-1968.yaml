@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4469278
   imdb: tt0159802
+  tmdb: 345982
 sources:
 - https://www.wikidata.org/wiki/Q4469278
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: smirnitskiy-valentin-georgievich
 - person: korshunov-viktor-ivanovich
 - person: yatskina-galina-ivanovna
+poster_tmdb_path: /7AwTRRtOsLAvYtJJMWtwsn6Hdg5.jpg
+backdrop_tmdb_path: /sXV7Y1xYPFUQTOOT1ksCbnR5zTD.jpg

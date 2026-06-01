@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q114617014
   imdb: tt0121445
+  tmdb: 1015678
 sources:
 - https://www.wikidata.org/wiki/Q114617014
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: havlasa-zdenek
 - person: strejc-antonin-2
 - person: pockova-ivana
+poster_tmdb_path: /yqmMcAL41p8XNfOnZBDXdbPPazI.jpg

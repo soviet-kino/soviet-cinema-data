@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4517618
   imdb: tt0233453
   youtube: JPuwOzW8AX0
+  tmdb: 262883
 sources:
 - https://www.wikidata.org/wiki/Q4517618
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bokaryova-zinaida-alekseevna
 studio:
 - mosfilm
+poster_tmdb_path: /s739PDp3wvF9pLpd8NVhM5T54wO.jpg

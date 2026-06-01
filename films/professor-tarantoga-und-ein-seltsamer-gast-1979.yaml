@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q112964009
   imdb: tt1168749
+  tmdb: 346096
 sources:
 - https://www.wikidata.org/wiki/Q112964009
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: gloss-ruth
 - person: klyaynert-folkmar
 - person: sievers-herbert
+poster_tmdb_path: /hFannOh9HyPe0Fol11UMDVA6RsB.jpg

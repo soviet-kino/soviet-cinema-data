@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31272340
   imdb: tt0447265
+  tmdb: 1287622
 sources:
 - https://www.wikidata.org/wiki/Q31272340
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: aarma-yuri
 studio:
 - tallinfilm
+poster_tmdb_path: /ccWmSjm17q6VqsTp4iXs0N8tI6Y.jpg

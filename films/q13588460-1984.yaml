@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q13588460
   imdb: tt0296097
+  tmdb: 501507
 sources:
 - https://www.wikidata.org/wiki/Q13588460
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - musliu-esat
 composer:
 - laro-kujtim
+poster_tmdb_path: /d2okxsHKl2xTyKlojyJ61VT089Q.jpg
+backdrop_tmdb_path: /7Ir6nshNO5WTzu1v3B6O7qwA7R6.jpg

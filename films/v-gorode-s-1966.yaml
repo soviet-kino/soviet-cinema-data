@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101678
   imdb: tt0061147
   youtube: y5D-TOVSMgM
+  tmdb: 292356
 sources:
 - https://www.wikidata.org/wiki/Q4101678
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: terenteva-nonna-nikolaevna
 studio:
 - lenfilm
+poster_tmdb_path: /otKRQCb8Y5dCFSJZ8o2QJmOIP2y.jpg
+backdrop_tmdb_path: /mcQwC23DBiyqiLBzNVtOkZvSVsf.jpg

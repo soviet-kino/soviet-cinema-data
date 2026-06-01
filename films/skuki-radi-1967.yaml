@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4422687
   imdb: tt0348046
   youtube: qdqYFcoXtf4
+  tmdb: 484576
 sources:
 - https://www.wikidata.org/wiki/Q4422687
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: shutov-evgeniy-efimovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /asg0I0DPFcinXoR4lNzGLjpUpiS.jpg
+backdrop_tmdb_path: /9Izwz6iX0T7ffitpjfeTKCc0bu.jpg

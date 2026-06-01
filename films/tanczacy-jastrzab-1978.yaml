@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9355939
   imdb: tt0076796
+  tmdb: 107056
 sources:
 - https://www.wikidata.org/wiki/Q9355939
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: przyby-a-czes-aw
 - person: yozef-frizlevich
 - person: q130420337
+poster_tmdb_path: /tEqt8SpL64Yd4A58Uf2rtzLNaxv.jpg
+backdrop_tmdb_path: /d6aZgLj1uGdaztqhdJUa0zdf7r4.jpg

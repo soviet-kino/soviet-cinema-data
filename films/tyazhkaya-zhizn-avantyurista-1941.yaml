@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7738847
   imdb: tt0169309
+  tmdb: 288188
 sources:
 - https://www.wikidata.org/wiki/Q7738847
 schema_version: 1
@@ -59,3 +60,5 @@ cast:
 - person: haller-frantisek
 - person: spacek
 - person: kubasek-bohuslav
+poster_tmdb_path: /t7gqNy9UMxOnDLy78W7PQYNG6XG.jpg
+backdrop_tmdb_path: /4IhT1FYxBimaxhATGGC8YWbWNVh.jpg

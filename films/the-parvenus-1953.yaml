@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12957674
   imdb: tt0045929
+  tmdb: 318597
 sources:
 - https://www.wikidata.org/wiki/Q12957674
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: stupitsa-boyan
 - person: sever-stane
 - person: poskay-dusa
+poster_tmdb_path: /l06JmdCBjFb2jCYSmYNSBcHpAV.jpg

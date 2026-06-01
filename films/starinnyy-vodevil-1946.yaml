@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4439925
   imdb: tt0039866
   youtube: ah9JH17Z7Zc
+  tmdb: 77718
 sources:
 - https://www.wikidata.org/wiki/Q4439925
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: lisyanskaya-anna-grigorevna
 studio:
 - mosfilm
+poster_tmdb_path: /hBPkyrYgX5fjGAC5rAuf9txDM4q.jpg
+backdrop_tmdb_path: /zQvr5pln0jd8sIa2wlyaQnAEPGq.jpg

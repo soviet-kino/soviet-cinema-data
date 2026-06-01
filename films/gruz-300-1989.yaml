@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4150480
   imdb: tt0309643
   youtube: HXhKhrySUa4
+  tmdb: 599736
 sources:
 - https://www.wikidata.org/wiki/Q4150480
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: turaev-anvar-burkhanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /tB89TDvWdVvappU5Pq37rPduk99.jpg
+backdrop_tmdb_path: /1UP9mcmYszApQpaRig0hA2CgK3o.jpg

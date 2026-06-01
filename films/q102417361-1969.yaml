@@ -8,8 +8,10 @@ runtime_min: 92
 external_ids:
   wikidata: Q102417361
   imdb: tt0064829
+  tmdb: 396273
 sources:
 - https://www.wikidata.org/wiki/Q102417361
 schema_version: 1
 director:
 - savona-leopoldo
+poster_tmdb_path: /inAqYLPNtUhwL4CJ7hd5hLL7E22.jpg

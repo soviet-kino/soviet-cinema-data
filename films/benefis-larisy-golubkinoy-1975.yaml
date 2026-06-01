@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q4083769
   imdb: tt8228368
+  tmdb: 893051
 sources:
 - https://www.wikidata.org/wiki/Q4083769
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: golubkina-larisa-ivanovna
 - person: derzhavin-mikhail-mikhaylovich
 - person: shirvindt-aleksandr-anatolevich
+poster_tmdb_path: /4Jm7QiBGS02sxjXXErWZzZOlSvH.jpg

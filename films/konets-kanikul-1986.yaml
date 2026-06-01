@@ -8,6 +8,7 @@ runtime_min: 23
 external_ids:
   wikidata: Q4230749
   imdb: tt2290966
+  tmdb: 334795
 sources:
 - https://www.wikidata.org/wiki/Q4230749
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tikhomirov-igor-ruvimovich
 studio:
 - kievskiy-natsionalnyy-universitet-teatra-kino-i-televideniya-imeni-i-k-karpenko-karogo
+poster_tmdb_path: /fVVB7UB3WZuorgO4Mw1YyVroqu7.jpg
+backdrop_tmdb_path: /hhJwyUEAKqWlJECrSJO5pWJdluu.jpg

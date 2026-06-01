@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116811449
   imdb: tt5221564
+  tmdb: 692521
 sources:
 - https://www.wikidata.org/wiki/Q116811449
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: chekmaryov-viktor-konstantinovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /8ZawugyPsnEXM4818aWxD1vYioC.jpg

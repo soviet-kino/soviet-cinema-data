@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1763015
   imdb: tt0075908
+  tmdb: 544936
 sources:
 - https://www.wikidata.org/wiki/Q1763015
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: wei-karl-heinz
 studio:
 - pryzmat
+poster_tmdb_path: /wcYZllygDF6zK0PGuC90uXc5TR0.jpg
+backdrop_tmdb_path: /ghdKEhPQ1iq5m3AEhCbcJVYjpzJ.jpg

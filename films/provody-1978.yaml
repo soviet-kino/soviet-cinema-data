@@ -8,6 +8,7 @@ runtime_min: 134
 external_ids:
   wikidata: Q16688621
   imdb: tt4920100
+  tmdb: 1572863
 sources:
 - https://www.wikidata.org/wiki/Q16688621
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: fyodorova-tatyana-nikolaevna
 studio:
 - ekran
+poster_tmdb_path: /ut10rlW2XByg8UU11ZUX4aojylA.jpg

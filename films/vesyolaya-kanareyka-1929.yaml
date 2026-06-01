@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4109733
   imdb: tt0020550
+  tmdb: 596764
 sources:
 - https://www.wikidata.org/wiki/Q4109733
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: komarov-sergey-petrovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /s1lhFRxkHEbOc0dsMBdMhw7GssN.jpg
+backdrop_tmdb_path: /vdWM4qM9iI48Ln5xkGoqVpGRVxc.jpg

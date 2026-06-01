@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q16410465
   imdb: tt0445466
+  tmdb: 493925
 sources:
 - https://www.wikidata.org/wiki/Q16410465
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: eskola-ants
 - person: klyonskaya-mariya
 - person: kyrvits-kharri
+poster_tmdb_path: /92sANoXimTTo4Rd7jIKPfpZEZTt.jpg
+backdrop_tmdb_path: /9SZE5gSZ5c0SGpOAgWbNh02JTBN.jpg

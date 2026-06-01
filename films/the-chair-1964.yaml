@@ -8,8 +8,10 @@ runtime_min: 6
 external_ids:
   wikidata: Q65032285
   imdb: tt0432856
+  tmdb: 153082
 sources:
 - https://www.wikidata.org/wiki/Q65032285
 schema_version: 1
 director:
 - szczechura-daniel
+poster_tmdb_path: /dYCHP9eLArbMKVr8YwuamAgPJVS.jpg

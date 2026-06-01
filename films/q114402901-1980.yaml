@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q114402901
   imdb: tt0320108
+  tmdb: 333043
 sources:
 - https://www.wikidata.org/wiki/Q114402901
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: kalaene-rene
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /dT6dhkCAFGwENhelBShpwz34AjL.jpg

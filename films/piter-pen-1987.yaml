@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4363843
   imdb: tt0385166
   youtube: c-ndMEEvHHo
+  tmdb: 400070
 sources:
 - https://www.wikidata.org/wiki/Q4363843
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: trofimov-aleksandr-alekseevich
 studio:
 - belarusfilm
+poster_tmdb_path: /kedvOxvzgwVq99TTgsIlkgu80Iu.jpg
+backdrop_tmdb_path: /ppeWZgXQb4aWteSWm99L4sFu6el.jpg

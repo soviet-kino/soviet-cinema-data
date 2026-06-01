@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26432672
   imdb: tt0131623
+  tmdb: 163011
 sources:
 - https://www.wikidata.org/wiki/Q26432672
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: satmari-ishtvan
 - person: till-attila
 - person: guyfri-zhurzh
+poster_tmdb_path: /8LRHpgqk20e2aUo0h4LqewYy0v2.jpg

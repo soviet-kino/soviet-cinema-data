@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q2549119
   imdb: tt0053433
+  tmdb: 276741
 sources:
 - https://www.wikidata.org/wiki/Q2549119
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: shturm-peter
 studio:
 - defa
+poster_tmdb_path: /pU0Ox0opjNCSuEXDmihusUzYZ1o.jpg

@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q11237995
   imdb: tt0156377
+  tmdb: 400346
 sources:
 - https://www.wikidata.org/wiki/Q11237995
 schema_version: 1
@@ -108,3 +109,4 @@ cast:
 - person: moser-lenz
 - person: znamenacek-karel
 - person: mlcousek-miroslav
+poster_tmdb_path: /6bfd9oEj9lU8fqeNNVpfAhxQc4R.jpg

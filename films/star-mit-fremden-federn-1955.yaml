@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16931131
   imdb: tt0236763
+  tmdb: 288815
 sources:
 - https://www.wikidata.org/wiki/Q16931131
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - nachinskiy-gerd
 studio:
 - defa
+poster_tmdb_path: /fMg2GVj8oHxuTx9KMQDDINcluii.jpg

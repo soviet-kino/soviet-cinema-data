@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3826577
   imdb: tt0176155
+  tmdb: 47903
 sources:
 - https://www.wikidata.org/wiki/Q3826577
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: lobotka-peter
 - person: malina-vladimir
 - person: galba-anton
+poster_tmdb_path: /iYWhJLImHOvl301p9uw1sCisI3J.jpg
+backdrop_tmdb_path: /sahQN7DxIPDb0o0TPX7NkAcoH40.jpg

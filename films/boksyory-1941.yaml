@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q4090615
   imdb: tt1989466
+  tmdb: 69816
 sources:
 - https://www.wikidata.org/wiki/Q4090615
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: sagal-daniil-lvovich
 - person: sorokin-konstantin-nikolaevich
 - person: mikhaylov-konstantin-konstantinovich
+poster_tmdb_path: /3Oy3QdqDKOZ8szpLqBJfn4HWzl0.jpg
+backdrop_tmdb_path: /ksQYR0ogD6tp3NdJcSffXYGWtSk.jpg

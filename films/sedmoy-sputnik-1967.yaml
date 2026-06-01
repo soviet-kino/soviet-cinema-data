@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q3227104
   imdb: tt0062245
+  tmdb: 164041
 sources:
 - https://www.wikidata.org/wiki/Q3227104
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: popov-andrey-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /ulzcE3XJpS0mt6ceRpZvQvhoIJ4.jpg
+backdrop_tmdb_path: /pb52m2uygGyINyXfwnWxBGAjiNc.jpg

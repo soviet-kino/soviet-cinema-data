@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q16088342
   imdb: tt0083765
+  tmdb: 367612
 sources:
 - https://www.wikidata.org/wiki/Q16088342
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: dobrichanin-dragutin
 - person: q12960814
 - person: didik-lyubomir
+poster_tmdb_path: /oNtYsez3UMbPq9NnCDQjjI7dtXv.jpg
+backdrop_tmdb_path: /3ashFZNGP05cbKy6agR1yyZIGWt.jpg

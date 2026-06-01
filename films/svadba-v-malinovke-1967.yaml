@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4409920
   imdb: tt0062323
   youtube: I9SUZJYrLiI
+  tmdb: 20879
 sources:
 - https://www.wikidata.org/wiki/Q4409920
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: tishchenko-lyubov
 studio:
 - lenfilm
+poster_tmdb_path: /oxVGHc6slieNkMmXaShGk7LcJrw.jpg
+backdrop_tmdb_path: /npq3QptZ6zf0zJZ4prfh6ZGE5y1.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7093213
   imdb: tt0066461
+  tmdb: 221244
 sources:
 - https://www.wikidata.org/wiki/Q7093213
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: bashich-relya
 - person: maetich-frano
 - person: bohanec-mirjana
+poster_tmdb_path: /t0IB5koLpfUFt24mL3CX89eJD3J.jpg
+backdrop_tmdb_path: /upopjN9c58ZHd6FYXUwcoKldnyf.jpg

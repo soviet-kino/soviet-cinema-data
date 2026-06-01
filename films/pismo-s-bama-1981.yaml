@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q124313137
   imdb: tt0284581
+  tmdb: 1198533
 sources:
 - https://www.wikidata.org/wiki/Q124313137
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - bobokhidze-yakov
 studio:
 - gruziya-film
+poster_tmdb_path: /5tztD9f1pCALoj4Cw7lJnoWKxXH.jpg
+backdrop_tmdb_path: /1T270kOw8fov0sznrng5fmr1NIL.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44863190
   imdb: tt0266461
+  tmdb: 1514429
 sources:
 - https://www.wikidata.org/wiki/Q44863190
 schema_version: 1
 director:
 - boiangiu-alexandru
+poster_tmdb_path: /A0mZa1qS1SvfWtG1N76XI518PtA.jpg

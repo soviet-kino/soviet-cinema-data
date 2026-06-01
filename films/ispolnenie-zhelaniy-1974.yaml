@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q13156635
   imdb: tt0070230
+  tmdb: 532934
 sources:
 - https://www.wikidata.org/wiki/Q13156635
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: smoktunovskiy-innokentiy-mikhaylovich
 - person: bondarchuk-natalya-sergeevna
 - person: lebedev-evgeniy-alekseevich
+poster_tmdb_path: /9epeWDB9zbJvpi2QC43diXTXCUd.jpg

@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q4158460
   imdb: tt0056978
+  tmdb: 530707
 sources:
 - https://www.wikidata.org/wiki/Q4158460
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: tykke-vladimir-aleksandrovich
 - person: shtil-georgiy
 - person: selyanin-ivan-semyonovich
+poster_tmdb_path: /v17aIu7CvlcBAYxOQHQeBDrsFrI.jpg
+backdrop_tmdb_path: /uRXB6OX4egjZD9mLj3mLPeD7U9i.jpg

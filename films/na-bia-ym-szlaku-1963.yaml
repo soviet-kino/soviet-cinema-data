@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788463
   imdb: tt0057346
+  tmdb: 577872
 sources:
 - https://www.wikidata.org/wiki/Q11788463
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: emil-karevich
 - person: kurovskaya-bozhena
 - person: pavlikovskiy-adam
+poster_tmdb_path: /2hAoLEciZnvHugdMtN2mwDFYr1z.jpg
+backdrop_tmdb_path: /tNk3950TGEzQ1P9rfyoRLef99F0.jpg

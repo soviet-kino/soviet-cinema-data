@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q107656602
   imdb: tt0396901
   youtube: -9-434yuh1w
+  tmdb: 881715
 sources:
 - https://www.wikidata.org/wiki/Q107656602
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 poster_commons: Фильм Том Сойер (1936, СССР).jpg
+poster_tmdb_path: /A2g7D3dgISKq9EXP5mVffSkluOF.jpg
+backdrop_tmdb_path: /8IsUSIUZZeBrNgRVXWyVNRoyBL9.jpg

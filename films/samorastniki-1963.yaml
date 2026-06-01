@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q27139405
   imdb: tt0189978
+  tmdb: 272117
 sources:
 - https://www.wikidata.org/wiki/Q27139405
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - pretnar-igor
 cast:
 - person: potokar-majda
+poster_tmdb_path: /nD4rXI2pxXqJ7NgJMtOHgGRGD4q.jpg
+backdrop_tmdb_path: /hwZreJtjAi5064CmctiX7jceuHl.jpg

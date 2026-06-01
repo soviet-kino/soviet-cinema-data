@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4133838
   imdb: tt0025162
+  tmdb: 263465
 sources:
 - https://www.wikidata.org/wiki/Q4133838
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: savin-pyotr-nikolaevich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /bRU8ZgkAVpotEVW4GvB9dgj7pbg.jpg
+backdrop_tmdb_path: /adGMpI7yjAu5nrlqKhTTHRArDCe.jpg

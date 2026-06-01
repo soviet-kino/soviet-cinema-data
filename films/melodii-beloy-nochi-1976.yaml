@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4289659
   imdb: tt0174913
   youtube: 6leMPSjKY5s
+  tmdb: 65677
 sources:
 - https://www.wikidata.org/wiki/Q4289659
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - mosfilm
 cast:
 - person: kurikhara-komaki
+poster_tmdb_path: /kYOeJXOo2h7Z6rWtV7WHp4JpgWB.jpg
+backdrop_tmdb_path: /wMV6STTp8w2Y8x6TjqfDOoVHNWl.jpg

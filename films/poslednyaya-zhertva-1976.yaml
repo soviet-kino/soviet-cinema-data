@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4373852
   imdb: tt0073558
   youtube: H5PdjPF4l6A
+  tmdb: 314626
 sources:
 - https://www.wikidata.org/wiki/Q4373852
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: volodina-margarita-vladimirovna
 studio:
 - mosfilm
+poster_tmdb_path: /pSieiXQiQWbvhylw7TnMjUIMjDT.jpg
+backdrop_tmdb_path: /oSrzWDPj5jzxDyQNmXo8H7JvK5.jpg

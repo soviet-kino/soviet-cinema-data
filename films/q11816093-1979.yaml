@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816093
   imdb: tt0081321
+  tmdb: 388776
 sources:
 - https://www.wikidata.org/wiki/Q11816093
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - nagorny-vlodzimezh
 cast:
 - person: zalivskiy-tomash
+poster_tmdb_path: /zcMnWzUoc2Xn0JO6F4HwjRt95zX.jpg
+backdrop_tmdb_path: /zvc6VmC97aaUjYWwlEQCplsI33S.jpg

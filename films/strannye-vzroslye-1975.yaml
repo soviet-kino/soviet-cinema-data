@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4443369
   imdb: tt0072220
+  tmdb: 565796
 sources:
 - https://www.wikidata.org/wiki/Q4443369
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: sergeecheva-margarita-vladimirovna
 studio:
 - lenfilm
+poster_tmdb_path: /gctQ9QL34tZFrbULLYDBqc5Txnj.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5286846
   imdb: tt0074921
   youtube: xND6LeIHpTY
+  tmdb: 251210
 sources:
 - https://www.wikidata.org/wiki/Q5286846
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 studio:
 - bosna-film
 - kinema
+poster_tmdb_path: /hIcdPuKYaoR6xOj7dqe0ooiXphG.jpg
+backdrop_tmdb_path: /keONAJeg39zkWyMbcTOsZDadJNf.jpg

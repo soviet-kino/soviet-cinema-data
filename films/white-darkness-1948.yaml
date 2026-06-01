@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106701245
   imdb: tt0040164
   youtube: mCy3XuRX2ow
+  tmdb: 553090
 sources:
 - https://www.wikidata.org/wiki/Q106701245
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: sebok-juraj
 - person: paska-m
 - person: kovac-jozef
+backdrop_tmdb_path: /6XHZdfL54n0MF5pG7nTC5UCK0w5.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25830846
   imdb: tt5847326
+  tmdb: 986587
 sources:
 - https://www.wikidata.org/wiki/Q25830846
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - shvachko-les-filimonovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /dr2QHWorotDQ9vAhNLS8DRSIBYt.jpg
+backdrop_tmdb_path: /stkqKzyarYhFqVMKNuKeYoFIdoW.jpg

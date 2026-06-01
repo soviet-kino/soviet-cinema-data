@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378418
   imdb: tt0174137
   youtube: LWtM1fqTFNA
+  tmdb: 306277
 sources:
 - https://www.wikidata.org/wiki/Q4378418
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: druz-yana-andreevna
 studio:
 - mosfilm
+poster_tmdb_path: /b8RpQk32p3D4gDr3XBxZHQ7bgJS.jpg

@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q97316122
   imdb: tt30624922
+  tmdb: 679787
 sources:
 - https://www.wikidata.org/wiki/Q97316122
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 studio:
 - kazakhfilm
 poster_commons: Хромой кулан.jpg
+poster_tmdb_path: /s2it7JPL2T5nwKOx8KBFUi6Dpo4.jpg

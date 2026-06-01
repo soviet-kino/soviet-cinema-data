@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4987224
   imdb: tt0017715
+  tmdb: 631045
 sources:
 - https://www.wikidata.org/wiki/Q4987224
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 studio:
 - sovkino
 poster_commons: Bulat-Batır affıche 1928.jpg
+poster_tmdb_path: /4PE96DlD1wOcnmmi7kMiBatONB4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109963
   imdb: tt0170764
   youtube: U8oda969t54
+  tmdb: 412622
 sources:
 - https://www.wikidata.org/wiki/Q4109963
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - fradkin-mark
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /fJ5oV7OFE6QFrSBOQ5LxBb4NtGY.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1359471
   imdb: tt0242459
   youtube: FcHfLQj0-n8
+  tmdb: 148613
 sources:
 - https://www.wikidata.org/wiki/Q1359471
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: pertsovskiy-mark-naumovich
 - person: khityaeva-lyudmila-ivanovna
 - person: potyomkin-lev-lvovich
+poster_tmdb_path: /LNIfzKCtXrOgqhrY2BuoBHZsyz.jpg
+backdrop_tmdb_path: /xVfVBVZrVbsMspwsCw6NLbgDUkA.jpg

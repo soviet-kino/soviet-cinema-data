@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4315201
   imdb: tt0129255
+  tmdb: 319671
 sources:
 - https://www.wikidata.org/wiki/Q4315201
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kornienko-nelli-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /36WwKQtjMeXaRUKCdohxjedc1eO.jpg
+backdrop_tmdb_path: /t8p9JiNG9AfY5RlidXQmSTxGtX4.jpg

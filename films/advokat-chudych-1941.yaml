@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q10712811
   imdb: tt0247914
+  tmdb: 316991
 sources:
 - https://www.wikidata.org/wiki/Q10712811
 schema_version: 1
@@ -72,3 +73,4 @@ cast:
 - person: suva-rudolf
 - person: dvorak-karel
 - person: suva-josef
+poster_tmdb_path: /1BcVK6S6AijzFLXKvPNgvvFWtwF.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11738962
   imdb: tt0353648
+  tmdb: 520524
 sources:
 - https://www.wikidata.org/wiki/Q11738962
 schema_version: 1
 director:
 - llanaj-petrit
+poster_tmdb_path: /rSJHJcYJkhRNvA1vEAdxaJDJZUt.jpg
+backdrop_tmdb_path: /3Pe6I0ovLT52OAc7RboiS4FL5NA.jpg

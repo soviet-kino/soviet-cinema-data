@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q16473551
   imdb: tt4754662
+  tmdb: 656178
 sources:
 - https://www.wikidata.org/wiki/Q16473551
 schema_version: 1
@@ -17,3 +18,5 @@ director:
 - gidris-mariyonas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /t8jiBP7G9VCgROqnihDc6nFDjSj.jpg
+backdrop_tmdb_path: /zFiwdEzS3W6J7UAaBpAxUXQRF4X.jpg

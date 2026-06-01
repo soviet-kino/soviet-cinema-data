@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4134604
   imdb: tt0093077
   youtube: MS9Mq2ZfW1s
+  tmdb: 131958
 sources:
 - https://www.wikidata.org/wiki/Q4134604
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: pankratov-chyornyy-aleksandr-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /ppzEu7V09R02iKwopsmtk53FsGR.jpg
+backdrop_tmdb_path: /kfeuQCGE5JD36c3Fm18Tqi2MIdN.jpg

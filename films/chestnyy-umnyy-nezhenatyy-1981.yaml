@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q30880487
   imdb: tt0238896
   youtube: x6X5jdlacwI
+  tmdb: 570749
 sources:
 - https://www.wikidata.org/wiki/Q30880487
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gennadiy-yalovich
 studio:
 - mosfilm
+poster_tmdb_path: /pFImP1hwGVtnFQ8J2IGl4ddP51p.jpg

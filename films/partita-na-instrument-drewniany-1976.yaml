@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11813099
   imdb: tt0078061
+  tmdb: 791834
 sources:
 - https://www.wikidata.org/wiki/Q11813099
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - brams-iogannes
 cast:
 - person: turek-ezhi
+poster_tmdb_path: /jcMV7pyniTt05e0S03NrxfNoO2J.jpg

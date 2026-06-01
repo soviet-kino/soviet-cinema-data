@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q24265376
   imdb: tt0062462
+  tmdb: 257659
 sources:
 - https://www.wikidata.org/wiki/Q24265376
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: lubomirska-mariana
 studio:
 - barrandov
+poster_tmdb_path: /bR9oVzT6Kf5RsUVpjYDGu5QTLIL.jpg
+backdrop_tmdb_path: /4gIGRXK3kEi8aH5OARdPAcbtwiU.jpg

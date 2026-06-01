@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4084224
   imdb: tt0143133
   youtube: nPyheZm5-68
+  tmdb: 142746
 sources:
 - https://www.wikidata.org/wiki/Q4084224
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: venevitinova-galina-ivanovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /bUCOAu7Y8T2uLN4Ag4QGe3d909M.jpg
+backdrop_tmdb_path: /dNJGZ3uwKlU6PkaXsrGKT0jrYvB.jpg

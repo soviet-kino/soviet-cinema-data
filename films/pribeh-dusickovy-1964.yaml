@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7265216
   imdb: tt0924474
+  tmdb: 571863
 sources:
 - https://www.wikidata.org/wiki/Q7265216
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: gavelkova-libushe
 - person: ruzek-martin
 - person: tyle-zdenek
+poster_tmdb_path: /s23zL6xgBDhraetfoWz06NkYdZd.jpg
+backdrop_tmdb_path: /oGB7R8fGYug1V4CmiNJ0J6etLX9.jpg

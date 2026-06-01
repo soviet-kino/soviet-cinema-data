@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1935559
   imdb: tt1240953
   youtube: t8LStnV1pis
+  tmdb: 91675
 sources:
 - https://www.wikidata.org/wiki/Q1935559
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - mikhalkov-sergey-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /fikNO0mO3b97forruyTJ8lVr694.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12221064
   imdb: tt0058638
   youtube: Ce_SOFW4Zc0
+  tmdb: 329391
 sources:
 - https://www.wikidata.org/wiki/Q12221064
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: mrazek-martin
 - person: repik-rudolf
 - person: sourkova-bohumila
+poster_tmdb_path: /40jT5mKCiO2mXqdfAlL8mmZTVa1.jpg
+backdrop_tmdb_path: /hk6B5QaDHgzncEBR4SvfBKb21fY.jpg

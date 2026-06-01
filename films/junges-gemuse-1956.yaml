@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6312725
   imdb: tt0174800
+  tmdb: 372587
 sources:
 - https://www.wikidata.org/wiki/Q6312725
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - ryukker-gyunter
 cinematographer:
 - brandt-khorst-e
+poster_tmdb_path: /heZcQaOeQNyCdpXhZkK2nCtcasj.jpg

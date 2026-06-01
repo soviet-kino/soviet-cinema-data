@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q11684252
   imdb: tt0027257
+  tmdb: 155327
 sources:
 - https://www.wikidata.org/wiki/Q11684252
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - vikhler-zygmunt
 cast:
 - person: nemizhanka-loda
+poster_tmdb_path: /i4gZVXtGStcqQOFQGBvhUSvzUg8.jpg
+backdrop_tmdb_path: /mfUJDmGC63oOItmKD0O6jLvxKJv.jpg

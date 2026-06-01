@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q12048714
   imdb: tt0350027
+  tmdb: 500532
 sources:
 - https://www.wikidata.org/wiki/Q12048714
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: michalek-frantisek
 - person: hospoda-jiri
 - person: korn-miloslav
+poster_tmdb_path: /w36VAabA3aGWiPYmsWsNgfQX4Ab.jpg

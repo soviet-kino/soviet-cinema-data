@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4536225
   imdb: tt0092256
   youtube: GIjLKEXMV_4
+  tmdb: 399428
 sources:
 - https://www.wikidata.org/wiki/Q4536225
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gazarov-sergey-ishkhanovich
 studio:
 - mosfilm
+poster_tmdb_path: /pler9SsD3FYUW2lLGXsRMlbutDQ.jpg
+backdrop_tmdb_path: /gwpcHCDTzquQ7k7uPzeHj0NrAbA.jpg

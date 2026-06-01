@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q70462191
   imdb: tt0170101
+  tmdb: 636333
 sources:
 - https://www.wikidata.org/wiki/Q70462191
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: tabakov-oleg-pavlovich
 - person: durov-lev-konstantinovich
+poster_tmdb_path: /rI3qBaKmGh37oItOhPX3841ByOd.jpg
+backdrop_tmdb_path: /3Z2EZKXWqdBApCokI969zIhuoLl.jpg

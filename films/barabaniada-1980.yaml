@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q15615398
   imdb: tt0173660
+  tmdb: 475130
 sources:
 - https://www.wikidata.org/wiki/Q15615398
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: ovcharov-sergey-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /auFpw9DRsIJOZvSDf3MOIpaHyK8.jpg

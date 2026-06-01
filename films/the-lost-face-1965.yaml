@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q109928968
   imdb: tt0059951
+  tmdb: 344934
 sources:
 - https://www.wikidata.org/wiki/Q109928968
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: bukvaj-jiri
 - person: schnoblingova-zuzana
 - person: sikorova-dana
+poster_tmdb_path: /9rlSoxPSRdCees9UGfaEsqGqpKP.jpg

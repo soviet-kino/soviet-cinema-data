@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q932464
   imdb: tt0063380
   youtube: XJeH1wkx80o
+  tmdb: 14497
 sources:
 - https://www.wikidata.org/wiki/Q932464
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: khvylya-aleksandr-leopoldovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2MCUB26lC5znrsvmBkzuc2q2xPn.jpg
+backdrop_tmdb_path: /kBLR6rka1HOtCqnvBZNXL9CED4w.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q8072958
   imdb: tt0170842
+  tmdb: 858028
 sources:
 - https://www.wikidata.org/wiki/Q8072958
 schema_version: 1
@@ -75,3 +76,4 @@ cast:
 - person: balikova-helena
 - person: jurickova-irena
 - person: novak-miloslav-2
+poster_tmdb_path: /enrU1ucfsib0gzrxodFSjonx7ZU.jpg

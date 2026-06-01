@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q11791325
   imdb: tt0084411
+  tmdb: 44595
 sources:
 - https://www.wikidata.org/wiki/Q11791325
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: dewoyno-w-adys-aw
 - person: bargelovskiy-marek
 - person: romanczuk-elwira
+poster_tmdb_path: /hZ8DoDGUseVlZQU3KOMoEMbjeLg.jpg
+backdrop_tmdb_path: /7xtMZxgE85qirdmFgVGcFSDnykB.jpg

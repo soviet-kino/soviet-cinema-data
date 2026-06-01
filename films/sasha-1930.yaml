@@ -8,6 +8,7 @@ runtime_min: 40
 external_ids:
   wikidata: Q124760130
   imdb: tt0021336
+  tmdb: 394646
 sources:
 - https://www.wikidata.org/wiki/Q124760130
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: melnikov-aleksandr-afanasevich
 studio:
 - belarusfilm
+poster_tmdb_path: /wTGkgRE54g2yiDAugCJHLeflRzh.jpg

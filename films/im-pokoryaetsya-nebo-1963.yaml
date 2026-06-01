@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4200087
   imdb: tt0177860
   youtube: jjmGlJhPEEM
+  tmdb: 389543
 sources:
 - https://www.wikidata.org/wiki/Q4200087
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: sobolevskaya-manefa-vladimirovna
 - person: shcherbakov-pyotr-ivanovich
 - person: barmin-nikolay-mikhaylovich
+poster_tmdb_path: /44Ik7YUrcMd0UXoJ8T2qK5XOlXc.jpg
+backdrop_tmdb_path: /VWdRqYXzrBgF5sIGR8SBQy3bwl.jpg

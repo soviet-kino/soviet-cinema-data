@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4381966
   imdb: tt0175073
   youtube: 2GoBuJl2lCs
+  tmdb: 890468
 sources:
 - https://www.wikidata.org/wiki/Q4381966
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: tikhonov-vyacheslav-vasilevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6WsRud5zfo7Xtx4xA5UC3Yavd4B.jpg
+backdrop_tmdb_path: /l8Zm1eiEL290s9Q0PdJJNwa0dMB.jpg

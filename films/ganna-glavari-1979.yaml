@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4133321
   imdb: tt2739026
+  tmdb: 1493945
 sources:
 - https://www.wikidata.org/wiki/Q4133321
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: vasilev-gerard-vyacheslavovich
 - person: smolkin-boris-grigorevich
 - person: sorkin-igor-vyacheslavovich
+poster_tmdb_path: /kZ5enB183UmjoAzEFvHZTzJSTNs.jpg
+backdrop_tmdb_path: /3hLKV004UpSAOqBwz9kGyY6KsR.jpg

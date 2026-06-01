@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3514924
   imdb: tt0178976
+  tmdb: 380334
 sources:
 - https://www.wikidata.org/wiki/Q3514924
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: brondukov-borislav-nikolaevich
 - person: makarova-galina-klimentevna
+poster_tmdb_path: /9ccwkGumj1tmRxyRKyKcNwYBIGG.jpg
+backdrop_tmdb_path: /vGApHkw4CfYqNfLuY7z3FOfDgaq.jpg

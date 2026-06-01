@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q6421416
   imdb: tt0051824
+  tmdb: 290040
 sources:
 - https://www.wikidata.org/wiki/Q6421416
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - gusko-erikh
 composer:
 - nachinskiy-gerd
+poster_tmdb_path: /ofg3QGuzEX4yfsBFIcJr14zdKCx.jpg

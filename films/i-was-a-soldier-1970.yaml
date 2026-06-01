@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q3647915
   imdb: tt0065508
+  tmdb: 48884
 sources:
 - https://www.wikidata.org/wiki/Q3647915
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - keslyovskiy-kshishtof
 cast:
 - person: keslyovskiy-kshishtof
+poster_tmdb_path: /icS8rZtkSUjI2nIEQK4hRBQT0m2.jpg

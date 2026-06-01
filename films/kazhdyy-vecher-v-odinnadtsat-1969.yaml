@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4207464
   imdb: tt0174812
   youtube: gomSzypXTFc
+  tmdb: 142872
 sources:
 - https://www.wikidata.org/wiki/Q4207464
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: volodina-margarita-vladimirovna
 - person: nozhkin-mikhail-ivanovich
+poster_tmdb_path: /zjtq8HH0Jc0iWfALOFaptHO5t23.jpg
+backdrop_tmdb_path: /dhRDWIjlFc9mQYb279AI3pAzXC2.jpg

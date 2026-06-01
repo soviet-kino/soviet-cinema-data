@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4251014
   imdb: tt0071732
   youtube: 7yU6u_tYdYg
+  tmdb: 493023
 sources:
 - https://www.wikidata.org/wiki/Q4251014
 schema_version: 1
@@ -25,3 +26,4 @@ studio:
 cast:
 - person: kuravlyov-leonid-vyacheslavovich
 - person: luzhina-larisa-anatolevna
+poster_tmdb_path: /qM1eX96bAgZIBTSgLoER9i37HWb.jpg

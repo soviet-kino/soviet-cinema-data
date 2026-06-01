@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q22078272
   imdb: tt0053932
+  tmdb: 858852
 sources:
 - https://www.wikidata.org/wiki/Q22078272
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: karamitev-apostol
 - person: gabor-miklosh
 - person: kallai-ferents
+poster_tmdb_path: /tJ0LblxSSbkjwjxI93RCzO1w8ej.jpg

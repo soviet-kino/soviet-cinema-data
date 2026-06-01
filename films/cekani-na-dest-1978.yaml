@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q18114475
   imdb: tt0075822
+  tmdb: 261000
 sources:
 - https://www.wikidata.org/wiki/Q18114475
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: koubek-rudolf
 studio:
 - barrandov
+poster_tmdb_path: /65pItnoB1H93tJYUW5lPDmwYJuX.jpg
+backdrop_tmdb_path: /o7p2lEAittweNcNgxOGnTdNQSDR.jpg

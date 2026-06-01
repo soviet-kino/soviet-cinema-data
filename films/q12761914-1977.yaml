@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12761914
   imdb: tt0249333
+  tmdb: 359324
 sources:
 - https://www.wikidata.org/wiki/Q12761914
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: palus-julius
 - person: jezerska-zuzana
 - person: bruchac-milan
+poster_tmdb_path: /qigNEUhCjp557WDIKdQ6XG7G7V7.jpg

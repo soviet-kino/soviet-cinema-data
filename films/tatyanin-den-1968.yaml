@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4452688
   imdb: tt5072068
   youtube: TsyiqeYNxvc
+  tmdb: 461452
 sources:
 - https://www.wikidata.org/wiki/Q4452688
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - vaynberg-moisey-samuilovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9dVoMbK9nTevfAO0JNs44fEykzW.jpg
+backdrop_tmdb_path: /4UbeFvhQ2FsznnL1eFa0DnOL690.jpg

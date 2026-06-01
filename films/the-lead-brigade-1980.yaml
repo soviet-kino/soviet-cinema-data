@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12909294
   imdb: tt0180024
+  tmdb: 361742
 sources:
 - https://www.wikidata.org/wiki/Q12909294
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: yovanovski-ako
 - person: chevrevski-yordanko
 - person: angelovski-kole
+poster_tmdb_path: /tYU7KhIUnLkOFVeok8pOEDJ3iSJ.jpg

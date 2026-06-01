@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9386955
   imdb: tt0072438
+  tmdb: 348598
 sources:
 - https://www.wikidata.org/wiki/Q9386955
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: hryniewicz-mieczys-aw
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /kCgOvM80Qn4oolAuCsOmLtZm9lF.jpg
+backdrop_tmdb_path: /kn96KXbLgDhRFpC2lEzNGWnAQpF.jpg

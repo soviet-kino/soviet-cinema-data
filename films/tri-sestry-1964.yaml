@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4462892
   imdb: tt0058686
+  tmdb: 452399
 sources:
 - https://www.wikidata.org/wiki/Q4462892
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: sokolova-lyubov-sergeevna
 studio:
 - mosfilm
+poster_tmdb_path: /4SUUmAxVhzBzYnIrg7VoMsbc4g2.jpg
+backdrop_tmdb_path: /29agHOK5udF0s6lCBJ8es9w0yUm.jpg

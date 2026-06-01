@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4279599
   imdb: tt0879254
   youtube: HkrP2H_t6QE
+  tmdb: 849885
 sources:
 - https://www.wikidata.org/wiki/Q4279599
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: tabakov-anton-olegovich
 studio:
 - mosfilm
+poster_tmdb_path: /d6MBVNG8tUd8eOWlef1mhdJM0re.jpg

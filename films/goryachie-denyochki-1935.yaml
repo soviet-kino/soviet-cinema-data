@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1601646
   imdb: tt0022986
+  tmdb: 259264
 sources:
 - https://www.wikidata.org/wiki/Q1601646
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: simonov-nikolay-konstantinovich
 studio:
 - lenfilm
+poster_tmdb_path: /9VEB6os5U98hro8sE3Z02orKCpp.jpg
+backdrop_tmdb_path: /xuLYHNxuMt4wKvzc4epcy7ta2q0.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q12043875
   imdb: tt0168117
+  tmdb: 48427
 sources:
 - https://www.wikidata.org/wiki/Q12043875
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: panacek-jindrich
 studio:
 - barrandov
+poster_tmdb_path: /dcjToGvibZ2X2Xtv1QNYUv6j94n.jpg

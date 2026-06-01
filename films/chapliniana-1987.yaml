@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q15732538
   imdb: tt0092741
+  tmdb: 896044
 sources:
 - https://www.wikidata.org/wiki/Q15732538
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: abaydulov-gali-myagazovich
 studio:
 - lenfilm
+poster_tmdb_path: /mYdN9yEa94rci71cc8TlKObEjJW.jpg

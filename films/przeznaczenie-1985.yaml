@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11829392
   imdb: tt0087952
+  tmdb: 923043
 sources:
 - https://www.wikidata.org/wiki/Q11829392
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: lyubich-lisovskiy-yuliush
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /sg0f9vvbWpXl1dhpjd2R8U7Ikga.jpg

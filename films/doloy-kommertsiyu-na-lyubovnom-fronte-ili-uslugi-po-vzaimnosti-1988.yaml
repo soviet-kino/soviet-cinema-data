@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111241188
   imdb: tt0305486
   youtube: uDvMg-kP3gA
+  tmdb: 545159
 sources:
 - https://www.wikidata.org/wiki/Q111241188
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - solodukhin-mikhail
 studio:
 - mosfilm
+poster_tmdb_path: /ocoWNrH6z6Ay9N9bhFCtuMBFpk5.jpg
+backdrop_tmdb_path: /ys1vtkfvvivecSdASjl8WO0rmnz.jpg

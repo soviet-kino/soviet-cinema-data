@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4173658
   imdb: tt0068001
   youtube: ecZZ9XkyK6w
+  tmdb: 605092
 sources:
 - https://www.wikidata.org/wiki/Q4173658
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ulyanov-mikhail-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /kzyO657h4m0YoxVvQ8G0BtfTX5X.jpg
+backdrop_tmdb_path: /woqGp33Xa0TB7LuE3zE5PuS2igw.jpg

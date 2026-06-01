@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q392973
   imdb: tt0059090
+  tmdb: 265092
 sources:
 - https://www.wikidata.org/wiki/Q392973
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: sever-septimiu
 - person: popovichi-eudzheniya
 - person: demetru-dzhordzhe
+poster_tmdb_path: /bRcUsLKXmnc6Impu1HQYHi5zRBG.jpg
+backdrop_tmdb_path: /5SHZ8z2pTAt23bhoD1F6QLFXraO.jpg

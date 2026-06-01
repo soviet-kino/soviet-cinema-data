@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4193432
   imdb: tt4687146
+  tmdb: 769576
 sources:
 - https://www.wikidata.org/wiki/Q4193432
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kalnynsh-imants
 studio:
 - telefilma-riga
+poster_tmdb_path: /sv2aFwVt2uGRYKXwXeBOUqOuVnH.jpg
+backdrop_tmdb_path: /4vhVvZqrwNenwMMKYOkld3eovFS.jpg

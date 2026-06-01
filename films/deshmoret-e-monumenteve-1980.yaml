@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q11787898
   imdb: tt0295221
+  tmdb: 463140
 sources:
 - https://www.wikidata.org/wiki/Q11787898
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - hoshafi-fehmi
 composer:
 - krajka-agim
+poster_tmdb_path: /D7EDYPFDsnkFMeZJAQgAwv16dq.jpg
+backdrop_tmdb_path: /ul61b9RBF74ocvHOSnXP0sY5oec.jpg

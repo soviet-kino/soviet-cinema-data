@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q12741824
   imdb: tt0086226
+  tmdb: 368829
 sources:
 - https://www.wikidata.org/wiki/Q12741824
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: andriesku-virzhil
 - person: bogdan-stanoevich
 - person: vishu-george
+poster_tmdb_path: /55wyAFKj6OAV6fJH2P5LnIWsUQI.jpg

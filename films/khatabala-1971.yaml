@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q13053106
   imdb: tt0363738
   youtube: H-xUjyCt1Yg
+  tmdb: 689526
 sources:
 - https://www.wikidata.org/wiki/Q13053106
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: vartanyan-laura
 - person: akopyan-vrezh
 - person: nagashyan-asmik
+poster_tmdb_path: /zVjY2tB13jx3ABpX84eqpwkxKzr.jpg

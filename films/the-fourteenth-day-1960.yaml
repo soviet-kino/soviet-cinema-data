@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7735054
   imdb: tt0053747
+  tmdb: 198870
 sources:
 - https://www.wikidata.org/wiki/Q7735054
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: starcic-viktor
 - person: pipinic-hermina
 - person: stojiljkovic-vlastimir-uza
+poster_tmdb_path: /fTP83UbCrJbGwHKsgVR3spYq0ys.jpg
+backdrop_tmdb_path: /4Bbu6zNKGTmsETzy7CnxlbVROW1.jpg

@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q4428745
   imdb: tt7126608
+  tmdb: 519610
 sources:
 - https://www.wikidata.org/wiki/Q4428745
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: frolov-dmitriy-alekseevich
 poster_commons: DMITRIFROLOV COH.jpg
+poster_tmdb_path: /yZ79y33BMPY73PHRTd7l3rBlOdf.jpg

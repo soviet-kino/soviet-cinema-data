@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q12748779
   imdb: tt0200484
+  tmdb: 1504340
 sources:
 - https://www.wikidata.org/wiki/Q12748779
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: milena-dravich
 - person: plesha-branko
+poster_tmdb_path: /7ZHiwKdWgWyWjk67voOMB9XRXtx.jpg

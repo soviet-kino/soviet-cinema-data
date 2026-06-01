@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4179329
   imdb: tt0096503
+  tmdb: 260969
 sources:
 - https://www.wikidata.org/wiki/Q4179329
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: paukshte-vitautas
 studio:
 - mosfilm
+poster_tmdb_path: /k8gMoyNHq9XZ2gtqDnzKZDEvpFq.jpg
+backdrop_tmdb_path: /7SuTdzJSTywHrgM7qVg2qjWSprC.jpg

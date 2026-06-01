@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20513739
   imdb: tt0364136
+  tmdb: 1534304
 sources:
 - https://www.wikidata.org/wiki/Q20513739
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: avetisyan-zhenya
 - person: dzhagatspanyan-avetik
 - person: akopyan-vrezh
+poster_tmdb_path: /4cQFcqrljSnupskoQWFRW5u4BbP.jpg

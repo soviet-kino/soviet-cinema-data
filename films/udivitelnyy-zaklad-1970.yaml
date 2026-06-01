@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q18676998
   imdb: tt1612598
+  tmdb: 641753
 sources:
 - https://www.wikidata.org/wiki/Q18676998
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: talyzina-valentina
 - person: shpringfeld-pavel-aleksandrovich
+poster_tmdb_path: /vhZN310LOEb6KQjGpj5eOPosGOB.jpg
+backdrop_tmdb_path: /ytxJQxIJYtAU2AsNOL8Ru4ibPs1.jpg

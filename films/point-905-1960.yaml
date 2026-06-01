@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3507805
   imdb: tt0179924
+  tmdb: 286985
 sources:
 - https://www.wikidata.org/wiki/Q3507805
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: branimir-tori-yankovich
 - person: kandich-milosh
 - person: milan-miloshevich
+poster_tmdb_path: /gHETqYFIDvSWkfeuoNXKnr9x2sK.jpg

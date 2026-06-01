@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4205754
   imdb: tt0070227
   youtube: 38t23FyL5sI
+  tmdb: 620026
 sources:
 - https://www.wikidata.org/wiki/Q4205754
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: uvarova-elizaveta
 - person: gennadiy-yalovich
 - person: chernov-aleksey-petrovich
+poster_tmdb_path: /AtnXedTz5cV2UYv9uDTZWSSOfHO.jpg

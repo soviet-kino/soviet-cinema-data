@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6489926
   imdb: tt0060798
+  tmdb: 266461
 sources:
 - https://www.wikidata.org/wiki/Q6489926
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: toma-kuruzovich
 - person: dobrichanin-dragutin
 - person: khaytl-ivan
+poster_tmdb_path: /jQWzLeT0uTrLSEovKGGtOWejDEN.jpg
+backdrop_tmdb_path: /e2rYZsoz5SH4KndIrU6dmjtTwp0.jpg

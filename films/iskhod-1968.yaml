@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4205172
   imdb: tt0347261
   youtube: NPaNs2OTkso
+  tmdb: 532936
 sources:
 - https://www.wikidata.org/wiki/Q4205172
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: zamanskiy-vladimir-petrovich
 - person: lemberg-aleksandr-yanovich
+poster_tmdb_path: /a3bf4f6sgk2Az9jchzBRX17pspU.jpg
+backdrop_tmdb_path: /tf29AWfMHDePY0jj22bhA1wzN9O.jpg

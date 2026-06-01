@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q15057917
   imdb: tt0023328
+  tmdb: 148756
 sources:
 - https://www.wikidata.org/wiki/Q15057917
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: amady-theo
 - person: schuhova-frantiska
 - person: sulc-emanuel
+poster_tmdb_path: /u3mbFne8uTgQBw8QgfSdS5rFLhH.jpg
+backdrop_tmdb_path: /4SwK2cI2lk3l6iLzCVQZ2alyIGE.jpg

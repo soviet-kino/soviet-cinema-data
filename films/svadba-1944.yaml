@@ -43,6 +43,9 @@ external_ids:
   wikidata: Q4409904
   imdb: tt0037332
   youtube: dKgMpdCmmRk
+  tmdb: 270910
 sources:
 - https://www.wikidata.org/wiki/Q4409904
 schema_version: 1
+poster_tmdb_path: /kA3uHUmZBFxYMRKvHwaNkzXE5xW.jpg
+backdrop_tmdb_path: /sqvWyzBofLny1iwfSoi4U6730Wq.jpg

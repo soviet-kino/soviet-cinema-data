@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4468247
   imdb: tt2275909
+  tmdb: 359712
 sources:
 - https://www.wikidata.org/wiki/Q4468247
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: liepinya-liga
 - person: sebris-karlis
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /vBYO2ran1dOG1WvgPVXiMUIzI4S.jpg
+backdrop_tmdb_path: /1CvCPnSlSDxLsWszt6P8Ywe5WIk.jpg

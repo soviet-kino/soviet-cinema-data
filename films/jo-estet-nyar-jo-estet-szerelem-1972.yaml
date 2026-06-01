@@ -8,8 +8,10 @@ runtime_min: 195
 external_ids:
   wikidata: Q65215540
   imdb: tt0170091
+  tmdb: 245295
 sources:
 - https://www.wikidata.org/wiki/Q65215540
 schema_version: 1
 director:
 - g-sandor-szonyi
+poster_tmdb_path: /lRnRAFxpnAlZxtZupl5YoPrXO1E.jpg

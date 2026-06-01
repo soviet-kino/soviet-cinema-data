@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12734740
   imdb: tt0172759
+  tmdb: 191106
 sources:
 - https://www.wikidata.org/wiki/Q12734740
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - timus-ion
 screenwriter:
 - dzhordzhesku-zhan
+poster_tmdb_path: /hJcLJoB5EtcfScAHCUCx205DiMy.jpg

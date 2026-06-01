@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1498399
   imdb: tt0171335
+  tmdb: 81642
 sources:
 - https://www.wikidata.org/wiki/Q1498399
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: arpe-yokhannes
 - person: ulrikh-rudolf
 - person: khetterle-albert
+poster_tmdb_path: /z0wXxm1bKXDg0AtLUfdl1hURzBC.jpg

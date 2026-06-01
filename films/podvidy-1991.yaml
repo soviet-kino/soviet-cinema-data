@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q3976539
   imdb: tt0103002
+  tmdb: 24789
 sources:
 - https://www.wikidata.org/wiki/Q3976539
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: makbrayd-mishel
 studio:
 - castel-film-romania
+poster_tmdb_path: /jDN4ILUNcYpy4IxnBkSspKHeUUb.jpg
+backdrop_tmdb_path: /yd9arKaPafJcLCRGu3XtTEkvLYA.jpg

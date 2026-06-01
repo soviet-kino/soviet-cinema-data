@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q1475572
   imdb: tt0292081
+  tmdb: 115427
 sources:
 - https://www.wikidata.org/wiki/Q1475572
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: bentse-ferents
 - person: cherkhalmi-dyord
 - person: chuya-imre
+poster_tmdb_path: /yYiy2WTHcevtUBCqmXjLlDiQaR0.jpg
+backdrop_tmdb_path: /yYXYeLBoa0JoIWw64QSfQLo3AHj.jpg

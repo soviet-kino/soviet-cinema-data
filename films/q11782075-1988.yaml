@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11782075
   imdb: tt0353743
+  tmdb: 696991
 sources:
 - https://www.wikidata.org/wiki/Q11782075
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - kondo-anastas
 composer:
 - teodorakis-mikis
+poster_tmdb_path: /uGe8VSbPsIh08CokNKTxrtwxzbG.jpg
+backdrop_tmdb_path: /eQM4AMzuCcmV9fBYgytco7GXYAs.jpg

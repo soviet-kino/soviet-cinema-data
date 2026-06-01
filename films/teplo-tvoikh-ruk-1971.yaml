@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4455249
   imdb: tt0275743
+  tmdb: 1209048
 sources:
 - https://www.wikidata.org/wiki/Q4455249
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: chiaureli-sofiko-mikhaylovna
 - person: archvadze-tengiz-grigorevich
 - person: chichinadze-givi
+poster_tmdb_path: /oAUIOXarSuHvY1y8sEN4AIkM750.jpg

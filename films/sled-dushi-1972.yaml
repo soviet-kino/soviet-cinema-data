@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q122691994
   imdb: tt1037806
+  tmdb: 503495
 sources:
 - https://www.wikidata.org/wiki/Q122691994
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - zaltsmanis-kalvis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /gCSV2shbL1KRW6q97YZZm1Gax1t.jpg
+backdrop_tmdb_path: /wv0MKjp35paEqqv0jbCh0bqBqal.jpg

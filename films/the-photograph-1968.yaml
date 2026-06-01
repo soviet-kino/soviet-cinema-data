@@ -8,6 +8,7 @@ runtime_min: 32
 external_ids:
   wikidata: Q4023963
   imdb: tt0163915
+  tmdb: 162231
 sources:
 - https://www.wikidata.org/wiki/Q4023963
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - yuzvyak-marek
 studio:
 - polskoe-televidenie
+poster_tmdb_path: /8bWjew3yVelEvprvBhOvby2mK7x.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12837334
   imdb: tt1767277
   youtube: Srb5xMDmSo0
+  tmdb: 63798
 sources:
 - https://www.wikidata.org/wiki/Q12837334
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: ogly-mamedov-gasan-agamamed
 - person: fedortsov-nikolay-pavlovich
 - person: alakbarov-shakhmar
+poster_tmdb_path: /eq91mJKEraXZHs8v6pIROuZqZD7.jpg
+backdrop_tmdb_path: /hDpYB4zDZRJAZcGBMYyOq0avzzc.jpg

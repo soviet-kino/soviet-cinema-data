@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4173185
   imdb: tt0015959
   youtube: jypLUrMdUNQ
+  tmdb: 184508
 sources:
 - https://www.wikidata.org/wiki/Q4173185
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: mikhoels-solomon
 studio:
 - goskino
+poster_tmdb_path: /fkYWzrGrlj8cjMaaSrIyOeLOHNe.jpg
+backdrop_tmdb_path: /tWYPCRWsIWwTMdDB4vH9eyg4gcD.jpg

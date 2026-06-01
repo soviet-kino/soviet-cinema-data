@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q18544567
   imdb: tt0125968
+  tmdb: 38779
 sources:
 - https://www.wikidata.org/wiki/Q18544567
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: gusti-nineta
 - person: kotesku-oktavian
 - person: shumakher-ovidu
+poster_tmdb_path: /xGPuAmLSXybW7e7AkRB6DI0dx0C.jpg

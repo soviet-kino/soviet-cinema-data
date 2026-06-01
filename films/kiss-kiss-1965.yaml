@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1780166
   imdb: tt0059364
+  tmdb: 4527
 sources:
 - https://www.wikidata.org/wiki/Q1780166
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: simonelli-dzhovanni
 - person: kendall-toni
 - person: bezard-jacques
+poster_tmdb_path: /j4ISLgzy4iqeSYsAcovBidcr0m6.jpg
+backdrop_tmdb_path: /yrpOHY6cO52zxvY2RDamDUFx1XX.jpg

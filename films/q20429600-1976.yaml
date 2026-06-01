@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q20429600
   imdb: tt0163824
+  tmdb: 629980
 sources:
 - https://www.wikidata.org/wiki/Q20429600
 schema_version: 1
+poster_tmdb_path: /fEsfpO7O1K2X7YzUWWEzONyEvUX.jpg

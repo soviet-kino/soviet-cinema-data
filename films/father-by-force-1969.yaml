@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758827
   imdb: tt0180164
+  tmdb: 325229
 sources:
 - https://www.wikidata.org/wiki/Q12758827
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: q12750676
 - person: petrovik-chedomir
 - person: dobrichanin-dragutin
+poster_tmdb_path: /bFoxSQJkSn0x5idBQZZblIqKTa1.jpg

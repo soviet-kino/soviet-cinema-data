@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514553
   imdb: tt6344802
+  tmdb: 114314
 sources:
 - https://www.wikidata.org/wiki/Q16514553
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Quartet 1947.jpg
+poster_tmdb_path: /zWnarydaO2KVssJkU9mOStQypIW.jpg

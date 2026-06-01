@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q28725910
   imdb: tt0061555
+  tmdb: 764308
 sources:
 - https://www.wikidata.org/wiki/Q28725910
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - yakob-mikhay
 screenwriter:
 - yakob-mikhay
+poster_tmdb_path: /iwa6J50cKxJ3mjRxCWv1Ax2kJQJ.jpg

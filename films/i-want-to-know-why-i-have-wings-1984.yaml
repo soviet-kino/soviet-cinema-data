@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876921
   imdb: tt0141971
+  tmdb: 637677
 sources:
 - https://www.wikidata.org/wiki/Q44876921
 schema_version: 1
 director:
 - stan-niku
+poster_tmdb_path: /qCL8UmsM17Uh7rCB2Vm49fKG2f8.jpg

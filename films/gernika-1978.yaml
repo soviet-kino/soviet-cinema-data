@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q2063677
   imdb: tt0172520
+  tmdb: 86465
 sources:
 - https://www.wikidata.org/wiki/Q2063677
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: smrckova-jana
 - person: vydlak-miroslav
 - person: q124949206
+poster_tmdb_path: /22lqJM9mSWBy6peCt20HaKdH09B.jpg

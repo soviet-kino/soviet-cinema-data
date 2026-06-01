@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4203986
   imdb: tt0097596
   youtube: jI3ASBaZdWQ
+  tmdb: 142851
 sources:
 - https://www.wikidata.org/wiki/Q4203986
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kryuchkova-svetlana
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /sDUav2pIlsb0pHhGoj1Tg7vIrd6.jpg
+backdrop_tmdb_path: /97ascbIR0epCfjYggGJR9enWaQ0.jpg

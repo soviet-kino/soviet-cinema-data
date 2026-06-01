@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4069006
   imdb: tt0265041
+  tmdb: 1428933
 sources:
 - https://www.wikidata.org/wiki/Q4069006
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: kavzharadze-lika-vissarionovna
 - person: megvinetukhutsesi-otar-vakhtangovich
 - person: nilskaya-lyudmila-valeryanovna
+poster_tmdb_path: /5NgiVde9UazDcCg1GxwuCWCgVCJ.jpg
+backdrop_tmdb_path: /lSSFlU3FW3D1GaaQbJ0jFUu8wv8.jpg

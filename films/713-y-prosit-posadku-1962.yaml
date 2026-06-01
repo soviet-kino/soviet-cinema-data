@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4032288
   imdb: tt0182667
+  tmdb: 207696
 sources:
 - https://www.wikidata.org/wiki/Q4032288
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: abramova-lyudmila-vladimirovna
 - person: kruglyy-lev-borisovich
 - person: chestnokov-vladimir-ivanovich
+poster_tmdb_path: /xDHBNauTRxchx2C1kQTqHfYVwxq.jpg
+backdrop_tmdb_path: /qciA8lRV7JY6IsVCN2moCK5OQQv.jpg

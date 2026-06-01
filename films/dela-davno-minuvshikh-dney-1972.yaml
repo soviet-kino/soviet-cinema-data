@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4157011
   imdb: tt0068470
+  tmdb: 282105
 sources:
 - https://www.wikidata.org/wiki/Q4157011
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: freyndlikh-bruno
 - person: merkurev-pyotr-vasilevich
+poster_tmdb_path: /8NEEg3p6anJIPjU3VnBcQ1k6tx1.jpg
+backdrop_tmdb_path: /gdi6h5hYznEdLLp0rztD2i9xagX.jpg

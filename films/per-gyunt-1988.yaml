@@ -8,6 +8,7 @@ runtime_min: 139
 external_ids:
   wikidata: Q23710649
   imdb: tt0439760
+  tmdb: 1115901
 sources:
 - https://www.wikidata.org/wiki/Q23710649
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: fur-aniko
 - person: tyoryochik-mari
 - person: sakachi-shandor
+poster_tmdb_path: /h8JwWifQvb40cslzGaRQoswyJFS.jpg

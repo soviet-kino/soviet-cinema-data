@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4463808
   imdb: tt0232855
+  tmdb: 663856
 sources:
 - https://www.wikidata.org/wiki/Q4463808
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: melikhova-olga-vilgelmovna
 studio:
 - lenfilm
+poster_tmdb_path: /apm1dobh7yzHNQoJD0dFcavY9se.jpg

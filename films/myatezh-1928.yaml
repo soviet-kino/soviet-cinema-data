@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q60852035
   imdb: tt0234255
+  tmdb: 882301
 sources:
 - https://www.wikidata.org/wiki/Q60852035
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: guretskaya-tatyana-ivanovna
 - person: alekseev-aleksey-alekseevich
 poster_commons: Мятеж.jpg
+poster_tmdb_path: /fZBXR8ecegQ0nV76NbFsnCL574u.jpg

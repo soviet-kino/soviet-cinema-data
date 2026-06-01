@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12372909
   imdb: tt0447379
+  tmdb: 712637
 sources:
 - https://www.wikidata.org/wiki/Q12372909
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: lorents-viktor
 - person: ird-kaarel
+poster_tmdb_path: /ytwlKaa8kgs32OPKNPM7KSJA2e2.jpg
+backdrop_tmdb_path: /AsS54navKWKuLl8H9Yfno52uajB.jpg

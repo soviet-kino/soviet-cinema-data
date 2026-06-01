@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q11690510
   imdb: tt0950684
+  tmdb: 1161770
 sources:
 - https://www.wikidata.org/wiki/Q11690510
 schema_version: 1
 cast:
 - person: frenkiel-mieczys-aw
+poster_tmdb_path: /nQnxpMs1EtOITN86fikMnPfKhPU.jpg

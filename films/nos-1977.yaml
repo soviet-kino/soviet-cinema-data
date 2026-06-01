@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4327518
   imdb: tt0076466
+  tmdb: 411533
 sources:
 - https://www.wikidata.org/wiki/Q4327518
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: basov-vladimir-pavlovich
 studio:
 - ekran
+poster_tmdb_path: /b12ngwThfC3cAbATqbUgtYq38tf.jpg

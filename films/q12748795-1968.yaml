@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748795
   imdb: tt0179670
+  tmdb: 502311
 sources:
 - https://www.wikidata.org/wiki/Q12748795
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: dobrichanin-dragutin
 - person: burdus-jovan-janicijevic
 - person: djuric-dusan
+poster_tmdb_path: /d7FDM2JC3hwxhRSjZaVDtp8jnnL.jpg

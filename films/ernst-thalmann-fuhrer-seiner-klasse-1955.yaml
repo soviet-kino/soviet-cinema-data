@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q1360378
   imdb: tt0048038
+  tmdb: 174065
 sources:
 - https://www.wikidata.org/wiki/Q1360378
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: shall-teo
 studio:
 - defa
+poster_tmdb_path: /xFkgSzuLhiYwD1bUEOGqK9kOQRa.jpg
+backdrop_tmdb_path: /ceofKOgoC5jksm3xhQCXUa64DeC.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4193504
   imdb: tt0032162
   youtube: 7P2RuKhBTys
+  tmdb: 239536
 sources:
 - https://www.wikidata.org/wiki/Q4193504
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Shchagin - Karabas 02.jpg
+poster_tmdb_path: /iaHKyRQBM8jStZCtR7B4TrQFFyI.jpg
+backdrop_tmdb_path: /uPtbbo5Zvim6MJYQAXr4qPVd9E0.jpg

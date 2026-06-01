@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1245309
   imdb: tt0036288
+  tmdb: 333146
 sources:
 - https://www.wikidata.org/wiki/Q1245309
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - mariashshi-feliks
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /nPk6HIPyVhap4NpZNvOwLXXmsdU.jpg

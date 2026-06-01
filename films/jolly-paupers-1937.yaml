@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q3566554
   imdb: tt0028902
+  tmdb: 284635
 sources:
 - https://www.wikidata.org/wiki/Q3566554
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kon-henech
 cast:
 - person: dzhigan-shimon
+poster_tmdb_path: /5QYOPN7ecoyr7CEC3n0OvIA0iq5.jpg

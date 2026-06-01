@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4257632
   imdb: tt0077846
   youtube: EswgsU65R3o
+  tmdb: 224808
 sources:
 - https://www.wikidata.org/wiki/Q4257632
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: zhzhyonov-georgiy-stepanovich
 - person: fatyushin-aleksandr-konstantinovich
+poster_tmdb_path: /xlQXzF5Juc5wo3kBgpppgE0LVVr.jpg
+backdrop_tmdb_path: /onJSylLz4zcovuEKQBxgfnam4To.jpg

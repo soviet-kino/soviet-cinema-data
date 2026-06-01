@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31272211
   imdb: tt0098728
+  tmdb: 604167
 sources:
 - https://www.wikidata.org/wiki/Q31272211
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: luyk-sulev
 studio:
 - tallinfilm
+poster_tmdb_path: /d9OntNt994c7xqWe2xmD9QugGkA.jpg
+backdrop_tmdb_path: /3UkwzyiGBoNXY43AFdOqeo4NZ8R.jpg

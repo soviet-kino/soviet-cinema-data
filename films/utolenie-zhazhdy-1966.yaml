@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q24938588
   imdb: tt0348298
+  tmdb: 1529705
 sources:
 - https://www.wikidata.org/wiki/Q24938588
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - turkmenfilm
 cast:
 - person: aleynikov-pyotr-martynovich
+poster_tmdb_path: /vfCGHBFIRuEPqh4POdj75CrGP4D.jpg

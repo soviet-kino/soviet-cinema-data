@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12021054
   imdb: tt0058215
   youtube: BjG1YA9A06w
+  tmdb: 666857
 sources:
 - https://www.wikidata.org/wiki/Q12021054
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: kvasnicka-k
 - person: ublova-vera
 - person: hauptman-eduard
+poster_tmdb_path: /75Aovw4ZMH2GB7F1SUCDPtlrIT2.jpg

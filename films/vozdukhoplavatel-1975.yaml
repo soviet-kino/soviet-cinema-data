@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4114744
   imdb: tt0073873
+  tmdb: 888351
 sources:
 - https://www.wikidata.org/wiki/Q4114744
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: khromenkov-oleg-gerasimovich
 - person: rudakov-anatoliy-rodionovich
 - person: muravitskiy-yuriy-adolfovich
+poster_tmdb_path: /cXJDhuZ7sGXwTfiIIhkEQL3ClwF.jpg
+backdrop_tmdb_path: /74Hans3tLIcKcORMUF9DsWV78aU.jpg

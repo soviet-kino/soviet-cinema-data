@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4310943
   imdb: tt3452166
+  tmdb: 372398
 sources:
 - https://www.wikidata.org/wiki/Q4310943
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - petrov-anatoliy-alekseevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /vCsvayTNVOjqt1t8IwNlNbMYyUp.jpg

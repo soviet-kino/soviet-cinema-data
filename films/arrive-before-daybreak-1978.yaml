@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12759723
   imdb: tt0181029
+  tmdb: 467628
 sources:
 - https://www.wikidata.org/wiki/Q12759723
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: sekic-ramiz
 - person: jovanovic-toma
 - person: pleskonich-tikhomir
+poster_tmdb_path: /dmILfQqwNOOZFLWacFwrI58gnpz.jpg

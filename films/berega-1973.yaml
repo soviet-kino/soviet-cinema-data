@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4084203
   imdb: tt0312461
+  tmdb: 697441
 sources:
 - https://www.wikidata.org/wiki/Q4084203
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - mosfilm
 cast:
 - person: zolotukhin-valeriy
+poster_tmdb_path: /rFp3lnJ1McNsmIbNZCjJYmS2qeq.jpg
+backdrop_tmdb_path: /lATk4akQMmTsVDdxhj6mYJLiplx.jpg

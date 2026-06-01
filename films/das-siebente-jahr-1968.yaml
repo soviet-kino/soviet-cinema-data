@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5226486
   imdb: tt0063601
+  tmdb: 288523
 sources:
 - https://www.wikidata.org/wiki/Q5226486
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - rabenalt-peter
 cast:
 - person: kiling-volfgang
+poster_tmdb_path: /aPB3wlO9q2ci7JVU5QLZA6PuJIj.jpg

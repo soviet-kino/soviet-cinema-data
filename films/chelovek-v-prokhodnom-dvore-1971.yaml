@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4508538
   imdb: tt2157229
   youtube: OMj2Tvg7bCs
+  tmdb: 448139
 sources:
 - https://www.wikidata.org/wiki/Q4508538
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: pereverzev-ivan-fyodorovich
 - person: korolkov-gennadiy-anatolevich
+poster_tmdb_path: /unqURrWVxkMezzYUZvHBba9reuj.jpg
+backdrop_tmdb_path: /14k2dKCzufBfJwseeiogJAsXrj5.jpg

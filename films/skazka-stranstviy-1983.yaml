@@ -20,6 +20,7 @@ external_ids:
   wikidata: Q4421399
   imdb: tt0086245
   youtube: 7LNrQ4bt-Qc
+  tmdb: 123020
 sources:
 - https://www.wikidata.org/wiki/Q4421399
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: seitmamutov-baltybaj
 - person: rogin-constantin
 - person: titov-dmitrij
+poster_tmdb_path: /84wtq20d0lxgJMO9NuUXydQaHRC.jpg
+backdrop_tmdb_path: /ive9rrhJoL1dw5wiqOZuvyO3QTX.jpg

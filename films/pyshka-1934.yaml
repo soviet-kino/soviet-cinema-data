@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q331606
   imdb: tt0025691
   youtube: JAs_qnErU24
+  tmdb: 170041
 sources:
 - https://www.wikidata.org/wiki/Q331606
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: gurnyak-karl-adamovich
 studio:
 - mosfilm
+poster_tmdb_path: /mYiwZyqLl44fF7jn6JsofKXWNJQ.jpg
+backdrop_tmdb_path: /yo8H4bODYvyIkHcwMNccxRiGfGk.jpg

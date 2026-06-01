@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4207021
   imdb: tt0491413
   youtube: Xtfwx7RMAv8
+  tmdb: 396778
 sources:
 - https://www.wikidata.org/wiki/Q4207021
 schema_version: 1
@@ -18,3 +19,4 @@ studio:
 - gruziya-film
 cast:
 - person: nazarov-yuriy-vladimirovich
+poster_tmdb_path: /tYv7hxIshb7KvP2NnCq0w8WV3am.jpg

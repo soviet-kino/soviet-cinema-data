@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q11029349
   imdb: tt0459842
+  tmdb: 1640339
 sources:
 - https://www.wikidata.org/wiki/Q11029349
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: marko-todorovich
 - person: jerinic-branislav
+poster_tmdb_path: /2VZQwQ9EatPNhWTXoKsyo867ao4.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7069483
   imdb: tt0028545
+  tmdb: 1480976
 sources:
 - https://www.wikidata.org/wiki/Q7069483
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: radzhnay-gabor
 - person: torzs-jeno
 - person: szekely-lujza
+poster_tmdb_path: /j1KCRkb7jXWNwfxjGfx0Gam0bOl.jpg

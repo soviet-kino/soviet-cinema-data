@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q1170706
   imdb: tt0076876
+  tmdb: 286391
 sources:
 - https://www.wikidata.org/wiki/Q1170706
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: byome-marita
 - person: myuller-alfred
 - person: trettau-martin
+poster_tmdb_path: /k2SB9YTfsIhWEKoUyok3BG8d97t.jpg
+backdrop_tmdb_path: /3PXPWjLMs7FEHmg2WWw6s6gbhxJ.jpg

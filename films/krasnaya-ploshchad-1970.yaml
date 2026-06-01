@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4238145
   imdb: tt0173968
   youtube: _m9fUjGVN2w
+  tmdb: 458708
 sources:
 - https://www.wikidata.org/wiki/Q4238145
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: shulgin-viktor-sergeevich
 - person: kormunin-pavel-vasilevich
 - person: lakirev-viktor-nikolaevich
+poster_tmdb_path: /xDc1ukno4fcvuAbzWsvPU7mtnjA.jpg
+backdrop_tmdb_path: /fiB5OOFM9paD9hHUKhJE5AIR2ML.jpg

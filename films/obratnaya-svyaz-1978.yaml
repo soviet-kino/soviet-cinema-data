@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4329818
   imdb: tt0175982
   youtube: Oa9OJWXXu7o
+  tmdb: 535693
 sources:
 - https://www.wikidata.org/wiki/Q4329818
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: gundareva-natalya-georgievna
 studio:
 - lenfilm
+poster_tmdb_path: /7fl2NfxiXlcOJXi0LwPay50m5X7.jpg

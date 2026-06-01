@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12737623
   imdb: tt0165910
+  tmdb: 629509
 sources:
 - https://www.wikidata.org/wiki/Q12737623
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - cornea-george
 screenwriter:
 - matey-draga-oltyanu
+poster_tmdb_path: /6Hpjwh66QCogdJ1NPrF7Dk8CMDA.jpg

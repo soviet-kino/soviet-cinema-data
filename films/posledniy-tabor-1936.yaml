@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q130471669
   imdb: tt0027708
+  tmdb: 378886
 sources:
 - https://www.wikidata.org/wiki/Q130471669
 schema_version: 1
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /5jajjmrlpew3lztGdQdW7fhY37Q.jpg

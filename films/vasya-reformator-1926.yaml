@@ -8,6 +8,7 @@ runtime_min: 49
 external_ids:
   wikidata: Q16514492
   imdb: tt0017513
+  tmdb: 292176
 sources:
 - https://www.wikidata.org/wiki/Q16514492
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: shumskiy-yuriy-vasilevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /qSAtwaRR0liqewBq1je0zqf0MsF.jpg
+backdrop_tmdb_path: /vwBvcikpEZLxVATEVeG56FYloXI.jpg

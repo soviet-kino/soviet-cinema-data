@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q121316138
   imdb: tt2049469
+  tmdb: 147983
 sources:
 - https://www.wikidata.org/wiki/Q121316138
 schema_version: 1
 director:
 - dragich-nedelko
+poster_tmdb_path: /4oaU2fGu4eNIQwoRCcHng6GNPSI.jpg

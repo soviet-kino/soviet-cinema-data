@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7251586
   imdb: tt0207027
+  tmdb: 443565
 sources:
 - https://www.wikidata.org/wiki/Q7251586
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: vrdolyak-antun
 - person: buzanchich-boris
 - person: subotic-nada
+poster_tmdb_path: /5AHIXIM2KLVsM0GEBHla04edWOT.jpg
+backdrop_tmdb_path: /nVFYiHbgdqxLvRK4mXx6wPMNn0p.jpg

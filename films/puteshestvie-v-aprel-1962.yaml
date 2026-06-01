@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q21148920
   imdb: tt0237624
+  tmdb: 493184
 sources:
 - https://www.wikidata.org/wiki/Q21148920
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: konstantinov-konstantin-timofeevich
 studio:
 - moldova-film
+poster_tmdb_path: /yGlV2cAAHeusXZPozvyWMINrVL9.jpg
+backdrop_tmdb_path: /yzWRstT2yWNVt178Ydrk2DF1MEf.jpg

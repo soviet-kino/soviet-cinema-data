@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q19817580
   imdb: tt0067695
+  tmdb: 486494
 sources:
 - https://www.wikidata.org/wiki/Q19817580
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: tikhonov-vladimir-vyacheslavovich
 - person: trushina-tamara-vasilevna
 - person: khityaeva-lyudmila-ivanovna
+poster_tmdb_path: /eDk3x3I3yTOENbygUaz6UQkY89v.jpg
+backdrop_tmdb_path: /wqZeXMzTrdkwOF8O3zwQjiNGL8r.jpg

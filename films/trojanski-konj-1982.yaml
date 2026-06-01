@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q31187060
   imdb: tt2174944
+  tmdb: 824373
 sources:
 - https://www.wikidata.org/wiki/Q31187060
 schema_version: 1
 director:
 - delich-stipe
+poster_tmdb_path: /2zhIugP6ZWVpwfrDSPJjzP4jjAS.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4381445
   imdb: tt1714888
   youtube: lbtLgDzNCUM
+  tmdb: 1540499
 sources:
 - https://www.wikidata.org/wiki/Q4381445
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: kuznetsov-mikhail-artemevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /1YCsbgA8d1HBJ9jq9FEK2L3LRvp.jpg
+backdrop_tmdb_path: /9kHC0ODjYZNj8bxHDAZsFEOny4U.jpg

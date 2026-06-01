@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4232120
   imdb: tt0239535
   youtube: zi0JwyWvfWk
+  tmdb: 88308
 sources:
 - https://www.wikidata.org/wiki/Q4232120
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: potyomkin-lev-lvovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /fcDxseR8qTqq3X4ocMb8fvg33Ax.jpg
+backdrop_tmdb_path: /2KHBkGQQGmqI8DClRW8uQtn8IIH.jpg

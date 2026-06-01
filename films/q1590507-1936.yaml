@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q1590507
   imdb: tt0026049
+  tmdb: 1167317
 sources:
 - https://www.wikidata.org/wiki/Q1590507
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: sega-owicz-klara
 studio:
 - kinor-kinostudiya
+poster_tmdb_path: /9XSUBGTUMbcDiG31czxqsOoqGrC.jpg

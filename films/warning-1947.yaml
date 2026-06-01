@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7969815
   imdb: tt0169361
+  tmdb: 290435
 sources:
 - https://www.wikidata.org/wiki/Q7969815
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: bada-alexander
 - person: nahalka-jan
 - person: sekula-j
+poster_tmdb_path: /l30sPF6tBTX3WSYTf3cOLNEV35m.jpg

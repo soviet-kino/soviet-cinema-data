@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56364761
   imdb: tt5303256
+  tmdb: 1086767
 sources:
 - https://www.wikidata.org/wiki/Q56364761
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - denisenko-vladimir-terentevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /3hKs10poaFdZNTfesyQhnTmqqnd.jpg
+backdrop_tmdb_path: /r6M3nXCsHwqHQIsDK0isu1aQP2Z.jpg

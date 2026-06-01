@@ -8,6 +8,7 @@ runtime_min: 33
 external_ids:
   wikidata: Q20076398
   imdb: tt0412655
+  tmdb: 886361
 sources:
 - https://www.wikidata.org/wiki/Q20076398
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: rybnikov-nikolay-nikolaevich
 - person: sazonova-nina-afanasevna
 - person: kalyuzhnaya-lyubov-andreevna
+poster_tmdb_path: /nw1WpX7kfgP6Od0H4oCdyBKz5Mf.jpg

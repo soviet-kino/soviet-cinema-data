@@ -25,6 +25,9 @@ runtime_min: 101
 external_ids:
   wikidata: Q833502
   imdb: tt0079090
+  tmdb: 95269
 sources:
 - https://www.wikidata.org/wiki/Q833502
 schema_version: 1
+poster_tmdb_path: /pjWuMZg54MBnbZTjKHFVvdfVemb.jpg
+backdrop_tmdb_path: /4A8P55DQK3kLRuMJMRn2HjwW7ax.jpg

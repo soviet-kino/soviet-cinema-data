@@ -24,6 +24,9 @@ external_ids:
   wikidata: Q8074696
   imdb: tt0037482
   youtube: asbRamqCH1Y
+  tmdb: 189192
 sources:
 - https://www.wikidata.org/wiki/Q8074696
 schema_version: 1
+poster_tmdb_path: /e1WQDOSeSU4rz7O7XE32qztD3TL.jpg
+backdrop_tmdb_path: /zq5KQGNkhx84LR7L3NQjMcyZ6L8.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9338075
   imdb: tt0070702
+  tmdb: 245785
 sources:
 - https://www.wikidata.org/wiki/Q9338075
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: chembrzhynska-iga
+poster_tmdb_path: /sBO0mG0ZAZvuVTtqhpXOUKwKysc.jpg

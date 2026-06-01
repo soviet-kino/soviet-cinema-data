@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q9248663
   imdb: tt0068520
+  tmdb: 156691
 sources:
 - https://www.wikidata.org/wiki/Q9248663
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: shikulskaya-eva
 - person: chembrzhynska-iga
 - person: buchkovskiy-zbignev
+poster_tmdb_path: /a8cf0bCXIXXKMtZZqwTRVS6CXC6.jpg

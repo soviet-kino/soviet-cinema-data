@@ -8,8 +8,10 @@ runtime_min: 7
 external_ids:
   wikidata: Q139551715
   imdb: tt27951178
+  tmdb: 1560433
 sources:
 - https://www.wikidata.org/wiki/Q139551715
 schema_version: 1
 director:
 - hamacher-sieglinde
+poster_tmdb_path: /7vKAxN7lhS7choMuv4bSyP1K2oQ.jpg

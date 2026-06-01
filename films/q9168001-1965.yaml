@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q9168001
   imdb: tt0058956
+  tmdb: 670461
 sources:
 - https://www.wikidata.org/wiki/Q9168001
 schema_version: 1
+poster_tmdb_path: /92Ca9cUhbRu4Y40ub5jw9AhPUXe.jpg
+backdrop_tmdb_path: /gTHVIgiYlD71Ibam1cedbykcUpI.jpg

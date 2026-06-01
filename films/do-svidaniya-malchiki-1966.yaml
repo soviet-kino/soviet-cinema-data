@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163336
   imdb: tt0060318
   youtube: RvDtNWaoAVc
+  tmdb: 146432
 sources:
 - https://www.wikidata.org/wiki/Q4163336
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: steblov-evgeniy-yurevich
 - person: grabbe-nikolay-karlovich
 - person: dostal-nikolay-nikolaevich
+poster_tmdb_path: /deSoPIQkyRzjmEAdstpKPnvob18.jpg
+backdrop_tmdb_path: /tNEHvgRfyjds9qNTFPbyJwA4v7L.jpg

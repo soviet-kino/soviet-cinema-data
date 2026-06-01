@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116736207
   imdb: tt0103024
+  tmdb: 527106
 sources:
 - https://www.wikidata.org/wiki/Q116736207
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: ferenc-andrzej
 - person: nemeti-ferents
 - person: falvay-klara
+poster_tmdb_path: /tuikX2Nt8fWNu3DuILxlWxQi1PH.jpg

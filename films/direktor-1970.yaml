@@ -8,6 +8,7 @@ runtime_min: 151
 external_ids:
   wikidata: Q15985060
   imdb: tt0174593
+  tmdb: 530737
 sources:
 - https://www.wikidata.org/wiki/Q15985060
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: sedov-vladimir-alekseevich
 - person: krychenkov-aleksey-fyodorovich
 - person: eliseev-anatoliy-mikhaylovich
+poster_tmdb_path: /ySwecsdQGvJh6ahy5Yzz870qbqD.jpg

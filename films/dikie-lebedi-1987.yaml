@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1218164
   imdb: tt0296589
+  tmdb: 14488
 sources:
 - https://www.wikidata.org/wiki/Q1218164
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 - ruus-ago
 composer:
 - karavaychuk-oleg-nikolaevich
+poster_tmdb_path: /fOnKOBgxmXxTKAKohqwnepDKhpF.jpg
+backdrop_tmdb_path: /tlY2IgEKtomGoZEz2MBsBX3Wf9V.jpg

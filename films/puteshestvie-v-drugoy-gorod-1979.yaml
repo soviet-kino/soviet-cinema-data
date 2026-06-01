@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q109371520
   imdb: tt0176069
+  tmdb: 539132
 sources:
 - https://www.wikidata.org/wiki/Q109371520
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: shapiro-evgeniy-veniaminovich
 studio:
 - lenfilm
+poster_tmdb_path: /rRdDEoDGBHYSEf9AzzihIaM4Qqo.jpg

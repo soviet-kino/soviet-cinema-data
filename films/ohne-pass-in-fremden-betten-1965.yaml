@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3275793
   imdb: tt0232215
+  tmdb: 292679
 sources:
 - https://www.wikidata.org/wiki/Q3275793
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: stark-otto
 - person: kamenik-werner
 - person: lirk-verner
+poster_tmdb_path: /8oYKuzUvB4m5bn204w8fbFcvHac.jpg

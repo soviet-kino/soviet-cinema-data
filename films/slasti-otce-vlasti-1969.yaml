@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7538804
   imdb: tt0064996
   youtube: VqMZ6nAXmwY
+  tmdb: 328409
 sources:
 - https://www.wikidata.org/wiki/Q7538804
 schema_version: 1
@@ -114,3 +115,5 @@ cast:
 - person: havlicek-frantisek
 - person: dohanyos-michal
 - person: zakourilova-eva
+poster_tmdb_path: /fURAUH8bXS9nqVpObkQ0E51k9Ye.jpg
+backdrop_tmdb_path: /z5vmHlLMGjXRoesr4QVQcqM5wIZ.jpg

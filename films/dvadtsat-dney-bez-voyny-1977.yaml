@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2814738
   imdb: tt0074447
   youtube: sLl-wzLfx-w
+  tmdb: 133008
 sources:
 - https://www.wikidata.org/wiki/Q2814738
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: petrenko-aleksey-vasilevich
 - person: kononov-mikhail-ivanovich
 - person: vasileva-ekaterina-sergeevna
+poster_tmdb_path: /fqcAR0GmTqvxTBxvOod1MQ4H8aj.jpg
+backdrop_tmdb_path: /kDxL1EbO5sJ0oobbWnb1fEkhAg7.jpg

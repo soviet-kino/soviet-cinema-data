@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q17007229
   imdb: tt0019061
+  tmdb: 189909
 sources:
 - https://www.wikidata.org/wiki/Q17007229
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: ilinskiy-igor-vladimirovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /sXLLehuEPuST3iWUu8EvgKyf7RU.jpg
+backdrop_tmdb_path: /4fU4fXvoNXC8TWxN41Upu2UuBBF.jpg

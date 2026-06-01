@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q7388795
   imdb: tt0345880
+  tmdb: 295795
 sources:
 - https://www.wikidata.org/wiki/Q7388795
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: glaser-hans-joachim
 studio:
 - defa
+poster_tmdb_path: /fBcRCcQkQ20TFVlvmRHkCxMTstT.jpg

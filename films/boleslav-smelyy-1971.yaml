@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4939275
   imdb: tt0068303
+  tmdb: 383333
 sources:
 - https://www.wikidata.org/wiki/Q4939275
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: gogolevskiy-ignatsy
+poster_tmdb_path: /oEzXsmw2C128i0GB991X20PEsrT.jpg
+backdrop_tmdb_path: /sKuWYDUXMdz0tW203CSXDC8BMW.jpg

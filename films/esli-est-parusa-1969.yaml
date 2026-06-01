@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q50390110
   imdb: tt0065229
+  tmdb: 838262
 sources:
 - https://www.wikidata.org/wiki/Q50390110
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: gennadiy-yalovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /zIDtxyGgPo96ECnRZ9n2tbLEnj0.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q111249763
   imdb: tt2116907
   youtube: 3BFgd4Y-F2Y
+  tmdb: 1165814
 sources:
 - https://www.wikidata.org/wiki/Q111249763
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kasymbekov-kanymbek-kano
 studio:
 - kazakhfilm
+poster_tmdb_path: /jv5potioZxIspy38alPTBj8aSx2.jpg

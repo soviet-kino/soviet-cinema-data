@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9345880
   imdb: tt0079953
+  tmdb: 899132
 sources:
 - https://www.wikidata.org/wiki/Q9345880
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 cast:
 - person: linde-lyubashenko-edvard
 - person: kramar-yan
+poster_tmdb_path: /xrhAnW9birAn43bqc8WzHVDeSXp.jpg
+backdrop_tmdb_path: /3XkqCMkNwN8vxIrY4MIS9tdV1M5.jpg

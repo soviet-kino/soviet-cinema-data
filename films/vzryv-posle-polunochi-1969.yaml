@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q4110415
   imdb: tt0410431
+  tmdb: 1284582
 sources:
 - https://www.wikidata.org/wiki/Q4110415
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: nosova-tamara-makarovna
 - person: tonunts-gurgen
 - person: gen-gurgen
+poster_tmdb_path: /zN0IoQ02Sor2g4YUqcSt4DlpxEi.jpg
+backdrop_tmdb_path: /i1qsqQCW4txJMSuzXq7ibdR6ggv.jpg

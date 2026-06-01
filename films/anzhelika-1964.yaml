@@ -25,6 +25,7 @@ external_ids:
   wikidata: Q94943
   youtube: GTVTjz2ntIk
   imdb: tt0057846
+  tmdb: 44450
 sources:
 - https://www.wikidata.org/wiki/Q94943
 schema_version: 1
@@ -86,3 +87,5 @@ cast:
 - person: barsak-iv
 - person: ersi-elizabet
 - person: roberto
+poster_tmdb_path: /iNfASnIua6TLQUIuJximZyUvOZ7.jpg
+backdrop_tmdb_path: /vp4vAcBbIg9ftcz52mWMGWnFSMY.jpg

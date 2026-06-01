@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1219544
   imdb: tt0038666
   youtube: k6QNtZRtsjM
+  tmdb: 14495
 sources:
 - https://www.wikidata.org/wiki/Q1219544
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Makarova Fiore di Pietra.jpg
+poster_tmdb_path: /1uaOGsu6EeqH6eIxdChelDorTMJ.jpg
+backdrop_tmdb_path: /y2jsy6JP1eqgLi6w20pcMh0P8AE.jpg

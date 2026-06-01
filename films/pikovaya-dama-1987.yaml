@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19799688
   imdb: tt2598590
+  tmdb: 482439
 sources:
 - https://www.wikidata.org/wiki/Q19799688
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - fomenko-pyotr-naumovich
 studio:
 - tsentralnoe-televidenie-2
+poster_tmdb_path: /83CT0aZ9ahNUbndUJDzBXTvgQiA.jpg

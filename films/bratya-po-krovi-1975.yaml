@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q886769
   imdb: tt0072717
+  tmdb: 197408
 sources:
 - https://www.wikidata.org/wiki/Q886769
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: darie-yurie
 - person: panknin-yorg
 - person: froydenberg-gizela
+poster_tmdb_path: /2M7XrC5eAU2BPzI5PB64MTYWJ4l.jpg
+backdrop_tmdb_path: /2EtDvtYxv15xzY9vLzPMIXEvkEw.jpg

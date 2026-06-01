@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11692030
   imdb: tt0296041
+  tmdb: 486090
 sources:
 - https://www.wikidata.org/wiki/Q11692030
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - pecani-spartak
 composer:
 - zaharian-hajg
+poster_tmdb_path: /qTImzUplXASdsCl9gsJxuyoJq2D.jpg
+backdrop_tmdb_path: /un6kcbPdkuYPypPXjre32xg89pJ.jpg

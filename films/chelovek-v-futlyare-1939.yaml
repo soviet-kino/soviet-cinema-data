@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4508544
   imdb: tt0252315
+  tmdb: 397627
 sources:
 - https://www.wikidata.org/wiki/Q4508544
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: khmelyov-nikolay-pavlovich
 studio:
 - belarusfilm
+poster_tmdb_path: /mvEcN18mwqtEWuGUerN3NvcuFYt.jpg

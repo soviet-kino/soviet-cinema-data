@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44866670
   imdb: tt0236324
+  tmdb: 465089
 sources:
 - https://www.wikidata.org/wiki/Q44866670
 schema_version: 1
 director:
 - marascu-tudor
+poster_tmdb_path: /5UG6B1t4VEHn0IWNPPkgr9wZxpI.jpg

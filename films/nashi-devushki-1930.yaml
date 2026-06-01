@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q106640501
   imdb: tt0021174
+  tmdb: 1079529
 sources:
 - https://www.wikidata.org/wiki/Q106640501
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 studio:
 - lenfilm
 poster_commons: Наши девушки-1 1930.jpg
+backdrop_tmdb_path: /6jyYZzjJHpDay5GOJHFOCwHr1Nm.jpg

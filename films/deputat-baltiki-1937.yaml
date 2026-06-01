@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4158615
   imdb: tt0027509
   youtube: ATMAEkOMwIk
+  tmdb: 259262
 sources:
 - https://www.wikidata.org/wiki/Q4158615
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: cherkasov-nikolay-konstantinovich
 studio:
 - lenfilm
+poster_tmdb_path: /2OaSHkg8lkU38EJHM7AqtSk5Q5a.jpg
+backdrop_tmdb_path: /rQ0HcDsyIk837hvrbKRymXTHClF.jpg

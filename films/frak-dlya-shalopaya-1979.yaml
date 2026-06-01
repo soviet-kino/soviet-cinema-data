@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4492316
   imdb: tt0079172
   youtube: nWPhGOr05Ik
+  tmdb: 472929
 sources:
 - https://www.wikidata.org/wiki/Q4492316
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: ilichyov-viktor-grigorevich
+poster_tmdb_path: /2Yc7laWXkNqbb6Dl3yJgDJbUyS0.jpg
+backdrop_tmdb_path: /mHqZunKzR9NfqzwNUAQ0uPEWUkE.jpg

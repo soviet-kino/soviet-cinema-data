@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q5445983
   imdb: tt0055321
+  tmdb: 878585
 sources:
 - https://www.wikidata.org/wiki/Q5445983
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: holubar-milan
 - person: cerny-lubomir
 - person: pilar-karel
+poster_tmdb_path: /rU40LyG2ACxz3KjMUZGP9EArg5c.jpg

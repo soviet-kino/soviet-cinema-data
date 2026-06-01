@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q42417492
   imdb: tt0068013
+  tmdb: 449298
 sources:
 - https://www.wikidata.org/wiki/Q42417492
 schema_version: 1
@@ -135,3 +136,5 @@ cast:
 - person: vavruska-frantisek
 - person: kacer-ludvik
 - person: janouskova-miroslava
+poster_tmdb_path: /mOJhoj7UrUn2ehPM5O6YTAgiPSW.jpg
+backdrop_tmdb_path: /aGQ7tH4HAW0IfWUyo5lwOvckpsM.jpg

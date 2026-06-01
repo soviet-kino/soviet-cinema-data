@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12755760
   imdb: tt0084346
+  tmdb: 266572
 sources:
 - https://www.wikidata.org/wiki/Q12755760
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: q2444552
 - person: vojinovic-nada
 - person: vladan-zhivkovich
+poster_tmdb_path: /k7yhM3WJHqb0YlouiNSOWYXGKx1.jpg
+backdrop_tmdb_path: /1PF9sXbNvgNPnPhQmo9Im2qFvNh.jpg

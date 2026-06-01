@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4484023
   imdb: tt0097657
   youtube: W_7bCvE888M
+  tmdb: 254248
 sources:
 - https://www.wikidata.org/wiki/Q4484023
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vorobyov-gabriel-vladislavovich
 studio:
 - lenfilm
+poster_tmdb_path: /qGB55UfQDPOI9kndovxmSkqbpIY.jpg
+backdrop_tmdb_path: /3EprqeizjrmkldmulQTb6Ih5Fcm.jpg

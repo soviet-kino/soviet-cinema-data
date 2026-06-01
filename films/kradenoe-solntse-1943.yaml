@@ -8,6 +8,7 @@ runtime_min: 670
 external_ids:
   wikidata: Q5791851
   imdb: tt2234203
+  tmdb: 448038
 sources:
 - https://www.wikidata.org/wiki/Q5791851
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Kradenoe Solntse 1943.jpg
+poster_tmdb_path: /k9eV9JKSIJuOWcMzs8arvEv96tF.jpg

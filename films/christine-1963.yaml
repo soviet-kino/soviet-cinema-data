@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q15794288
   imdb: tt0056933
+  tmdb: 2222
 sources:
 - https://www.wikidata.org/wiki/Q15794288
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: shultse-khorst
 - person: gregorek-karin
 - person: klas-ioganna
+poster_tmdb_path: /9nAWnMNvFrhSmytB2VLw3OR7BJ3.jpg

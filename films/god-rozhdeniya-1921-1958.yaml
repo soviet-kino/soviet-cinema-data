@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7356057
   imdb: tt0171702
+  tmdb: 439275
 sources:
 - https://www.wikidata.org/wiki/Q7356057
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: matyash-svatopluk
 - person: gohler-siegfried
 - person: korbs-herbert
+poster_tmdb_path: /yTkN8QqA07Gyc2RrV3MXBgvTLZA.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4373362
   imdb: tt0076562
+  tmdb: 536874
 sources:
 - https://www.wikidata.org/wiki/Q4373362
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: ledogorov-igor-vadimovich
 studio:
 - mosfilm
+poster_tmdb_path: /zExGI5IfbXQziZ5fdN5D6xORsdV.jpg

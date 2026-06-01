@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q137217554
   imdb: tt7723146
+  tmdb: 526768
 sources:
 - https://www.wikidata.org/wiki/Q137217554
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - golomb-iosif-emmanuilovich
 composer:
 - yurovskiy-vladimir-mikhaylovich
+poster_tmdb_path: /jSlyTYqIq4EUtZusVZLTZdbQM5Y.jpg

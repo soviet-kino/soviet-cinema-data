@@ -8,6 +8,7 @@ runtime_min: 55
 external_ids:
   wikidata: Q4229514
   imdb: tt7638068
+  tmdb: 294558
 sources:
 - https://www.wikidata.org/wiki/Q4229514
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kmit-leonid-aleksandrovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /8fdkvNMx9w6CTayHaXRrmz3KafK.jpg
+backdrop_tmdb_path: /zjLMtCvhKZtYVmNZmf7oNnnT6Ks.jpg

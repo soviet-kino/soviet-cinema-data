@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q12054458
   imdb: tt0174209
+  tmdb: 434150
 sources:
 - https://www.wikidata.org/wiki/Q12054458
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kreidl-jan
 - person: ml-viktor-nejedly
 - person: novotna-sona
+poster_tmdb_path: /7eJmpTgnViMEsMocJf8BBRxG4Kh.jpg
+backdrop_tmdb_path: /uOQAwOzZFsVyuvrXZuRGyTgK6nE.jpg

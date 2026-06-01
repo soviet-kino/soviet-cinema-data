@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106737756
   imdb: tt11497370
   youtube: S2WW8Mz1RCU
+  tmdb: 658164
 sources:
 - https://www.wikidata.org/wiki/Q106737756
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - mukhamedzhanov-sydyk
 studio:
 - kazakhfilm
+poster_tmdb_path: /qDvomM5HgLw1eVERKTcJJHpheNT.jpg

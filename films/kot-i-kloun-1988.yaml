@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4235904
   imdb: tt1934307
+  tmdb: 246974
 sources:
 - https://www.wikidata.org/wiki/Q4235904
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - golovanova-nataliya-evgenevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8rU0TkXXGnVgXKXp8gwkLCnuOIC.jpg
+backdrop_tmdb_path: /h5u1g2zy7EAXVYmeSUPBVqm9k9d.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1117019
   imdb: tt0076761
   youtube: fI-mMVI8nbo
+  tmdb: 459627
 sources:
 - https://www.wikidata.org/wiki/Q1117019
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - ovchinnikov-vyacheslav
 studio:
 - mosfilm
+poster_tmdb_path: /ySTVhySQ3prSRkm3misuLt2bxQe.jpg
+backdrop_tmdb_path: /bpBZ2oM1qPA2cyo3Waqa03FW1U5.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7848460
   imdb: tt0075454
+  tmdb: 208309
 sources:
 - https://www.wikidata.org/wiki/Q7848460
 schema_version: 1
@@ -80,3 +81,5 @@ cast:
 - person: spirk-pavel
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /a6nuEBwPvviSP8207Mm0S9GTlPk.jpg
+backdrop_tmdb_path: /jCE9q1UlrE4I5rm1Ja0pomXVSiN.jpg

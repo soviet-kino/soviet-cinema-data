@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4091855
   imdb: tt0068304
   youtube: beS3GuqkVbc
+  tmdb: 75262
 sources:
 - https://www.wikidata.org/wiki/Q4091855
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: gvozdikova-natalya-fyodorovna
 - person: kuzmenkov-yuriy-aleksandrovich
 - person: kryuchkova-svetlana
+poster_tmdb_path: /cp2ixGFZadxL9RC3rCQk5OHmXEo.jpg
+backdrop_tmdb_path: /nCDksQYZbwO4TcMdyldgoI0LLV7.jpg

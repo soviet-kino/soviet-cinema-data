@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q5431872
   imdb: tt0279805
+  tmdb: 357521
 sources:
 - https://www.wikidata.org/wiki/Q5431872
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: fric-antonin
 - person: burianova-anna
 - person: ml-marie-kalmarova
+poster_tmdb_path: /tXJ5h2X4mr0psNB5Z6puXOLowAB.jpg

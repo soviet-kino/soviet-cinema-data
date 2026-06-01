@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4532919
   imdb: tt0070042
   youtube: xeQYVvKr5Mo
+  tmdb: 65080
 sources:
 - https://www.wikidata.org/wiki/Q4532919
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 - person: vasileva-ekaterina-sergeevna
 - person: sergachyov-viktor-nikolaevich
+poster_tmdb_path: /9E5xhcvA0vJT1Q3w7C1EasTu04H.jpg
+backdrop_tmdb_path: /iMDtp5bhrNUe7PaeloNSpPvWR0t.jpg

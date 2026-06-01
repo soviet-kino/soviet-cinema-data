@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16702943
   imdb: tt2219528
+  tmdb: 439577
 sources:
 - https://www.wikidata.org/wiki/Q16702943
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 studio:
 - kievnauchfilm
 poster_commons: Котигорошко (1970).png
+poster_tmdb_path: /maSJokjHc5Y34ETckMtT3XnQU5h.jpg
+backdrop_tmdb_path: /cKGJKOlmgi7AYlNZPcL91K2YW4w.jpg

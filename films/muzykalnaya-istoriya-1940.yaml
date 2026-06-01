@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4306612
   imdb: tt0032825
   youtube: 71cvRdivbHU
+  tmdb: 464425
 sources:
 - https://www.wikidata.org/wiki/Q4306612
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 poster_commons: SLNSW 13908 Memorys Harvest with Sergei Lemeshev Zoya Fyodorova and
   A Konovalov.jpg
+poster_tmdb_path: /gBWcm8IOT4NpvkLBduAlBplkLnR.jpg
+backdrop_tmdb_path: /65EMO8Nqur9OkXInbyEnkdrOovd.jpg

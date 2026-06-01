@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4417252
   imdb: tt0059702
   youtube: FCoLx9kkYew
+  tmdb: 420423
 sources:
 - https://www.wikidata.org/wiki/Q4417252
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: fadeeva-elena-alekseevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /bMdRCkTYjxomUjoIwSKTsSzpMi8.jpg

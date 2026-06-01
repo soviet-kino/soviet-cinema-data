@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3507789
   imdb: tt0057249
+  tmdb: 266638
 sources:
 - https://www.wikidata.org/wiki/Q3507789
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: kojadinovic-ugljesa
 - person: dzhuritsko-tomaniya
 - person: vladimir-popovich
+poster_tmdb_path: /bV7TfviRBWi3CCO8j7jDkY9I0Ac.jpg

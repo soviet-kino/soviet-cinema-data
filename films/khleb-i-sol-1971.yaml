@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65198905
   imdb: tt1942899
+  tmdb: 258702
 sources:
 - https://www.wikidata.org/wiki/Q65198905
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - makarenko-nikolay-konstantinovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /vlPKh48C2dbcJBDuK6u8Lqwzq13.jpg
+backdrop_tmdb_path: /1doPfVrQjFUEDqJraXdfVqMShwj.jpg

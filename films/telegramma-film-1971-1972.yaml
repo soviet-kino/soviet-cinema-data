@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4453991
   imdb: tt0067838
   youtube: aMWbDj1lNNM
+  tmdb: 49558
 sources:
 - https://www.wikidata.org/wiki/Q4453991
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: sadalskiy-stanislav-yurevich
 - person: arkhipova-nina
 - person: shustitskiy-sergey-yurevich
+poster_tmdb_path: /qYR3LzNQGPSN0v0wHuGvhEAl68d.jpg
+backdrop_tmdb_path: /mq810kK5pd3yD4LbQuQiSiGtoV1.jpg

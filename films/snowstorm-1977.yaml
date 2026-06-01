@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q7548729
   imdb: tt0076381
+  tmdb: 283777
 sources:
 - https://www.wikidata.org/wiki/Q7548729
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - vrdolyak-antun
 composer:
 - gotovac-pero
+poster_tmdb_path: /pwkbn8SEopzkai1qtaa8cldNqcu.jpg

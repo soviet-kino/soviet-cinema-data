@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q84994717
   imdb: tt5013702
+  tmdb: 814656
 sources:
 - https://www.wikidata.org/wiki/Q84994717
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: musatova-anna-ivanovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /rLjOlkXEsz0Lfm02a3ZDf6ZQz2v.jpg

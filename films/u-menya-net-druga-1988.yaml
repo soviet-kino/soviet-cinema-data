@@ -8,6 +8,7 @@ runtime_min: 23
 external_ids:
   wikidata: Q16514686
   imdb: tt8433972
+  tmdb: 525288
 sources:
 - https://www.wikidata.org/wiki/Q16514686
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: poleva-anastasiya-viktorovna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /tiVao0XJgB16OznB0PVVf6EV7hp.jpg
+backdrop_tmdb_path: /AnyTxKrWMRKd0V7NfKQSw3lLCoi.jpg

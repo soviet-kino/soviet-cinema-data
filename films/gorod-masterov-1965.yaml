@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4144880
   imdb: tt0160330
+  tmdb: 284687
 sources:
 - https://www.wikidata.org/wiki/Q4144880
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: shpringfeld-pavel-aleksandrovich
 - person: komarov-igor-nikitich
 - person: kremena-vladimir-ivanovich
+poster_tmdb_path: /hayhu4e0s1W32zSOkboPWhN79VC.jpg
+backdrop_tmdb_path: /5NHTmXfEzHOGJciTWZLDIQEm8Gs.jpg

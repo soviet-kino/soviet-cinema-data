@@ -8,6 +8,7 @@ runtime_min: 171
 external_ids:
   wikidata: Q1297560
   imdb: tt0066430
+  tmdb: 255744
 sources:
 - https://www.wikidata.org/wiki/Q1297560
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: luchko-klara-stepanovna
 - person: shengelaya-ariadna-vsevolodovna
 - person: gubanova-irina-igorevna
+poster_tmdb_path: /ifh0gtGQGPhWpWX2fG85tLNngU9.jpg
+backdrop_tmdb_path: /zpdIPiFC7hOuKAqvFShwD4CX7DT.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3220350
   imdb: tt0169601
   youtube: IczAH7ewNX8
+  tmdb: 263830
 sources:
 - https://www.wikidata.org/wiki/Q3220350
 schema_version: 1
@@ -27,3 +28,4 @@ studio:
 poster_commons: Stamps of Kyrgyzstan, 2009-582.jpg
 cast:
 - person: kumushalieva-sabira-kumushalieva
+poster_tmdb_path: /b1PtlLWOUAYuxtUfbiPVDCQp8d0.jpg

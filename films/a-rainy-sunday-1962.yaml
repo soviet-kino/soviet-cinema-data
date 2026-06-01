@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q133864093
   imdb: tt0055967
+  tmdb: 334762
 sources:
 - https://www.wikidata.org/wiki/Q133864093
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: meks-karoli
 - person: khalaz-yudit
 - person: poloniy-dendi
+poster_tmdb_path: /lLGhXQdognV678ikfhgFCTgghx2.jpg

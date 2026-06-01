@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4101821
   imdb: tt0475110
+  tmdb: 191536
 sources:
 - https://www.wikidata.org/wiki/Q4101821
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: pavuls-eduard-karlovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /fxvcEIeQZVHWfS5lho6k8I31Zv6.jpg
+backdrop_tmdb_path: /7GrMTd18q1qw2b6EeBF8S0m08II.jpg

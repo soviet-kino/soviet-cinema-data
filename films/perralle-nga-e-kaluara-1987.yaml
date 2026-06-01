@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q9167944
   imdb: tt0093720
+  tmdb: 276123
 sources:
 - https://www.wikidata.org/wiki/Q9167944
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - anagnosti-dimiter
 composer:
 - dizdari-limoz
+poster_tmdb_path: /4oY7vFFnWO0hHFwhb6f5GsMQMho.jpg
+backdrop_tmdb_path: /mMLZys8XWAYroIkhLfNR4hAHgHF.jpg

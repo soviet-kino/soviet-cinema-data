@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4481077
   imdb: tt1555803
   youtube: 6gm-ryk6Lbs
+  tmdb: 441919
 sources:
 - https://www.wikidata.org/wiki/Q4481077
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: sukhov-fyodor-vladimirovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /cgjN9L4tWmaUFgkrQ9Hkt0LfdSz.jpg

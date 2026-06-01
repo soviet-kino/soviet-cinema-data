@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4331562
   imdb: tt0073476
+  tmdb: 888275
 sources:
 - https://www.wikidata.org/wiki/Q4331562
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: dobryakov-igor-georgievich
 studio:
 - lenfilm
+poster_tmdb_path: /aIchdgSfL9B0TlBdrGL4GhQMlfF.jpg

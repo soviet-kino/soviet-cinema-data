@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4379677
   imdb: tt4292312
+  tmdb: 615642
 sources:
 - https://www.wikidata.org/wiki/Q4379677
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: kutuzov-nikolay-nikolaevich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /sEBrgVJdp2NvjjRJeH51mFpfhE2.jpg

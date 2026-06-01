@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q5463901
   imdb: tt0049978
+  tmdb: 142595
 sources:
 - https://www.wikidata.org/wiki/Q5463901
 schema_version: 1
@@ -77,3 +78,4 @@ cast:
 - person: bryg-lubomir
 - person: kautska-marie
 - person: gradwohl-ludek
+poster_tmdb_path: /kkAZDmGDxjHI08apgVyMgx3aJNL.jpg

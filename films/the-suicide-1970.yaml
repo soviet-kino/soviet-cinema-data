@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23899736
   imdb: tt3498676
+  tmdb: 1006507
 sources:
 - https://www.wikidata.org/wiki/Q23899736
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - nemenyi-maria
 composer:
 - petkho-zholt
+poster_tmdb_path: /eV5hp9bvH2awMc3i5HclWMs1LLV.jpg

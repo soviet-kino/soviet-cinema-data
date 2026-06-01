@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q9167556
   imdb: tt0052608
+  tmdb: 155519
 sources:
 - https://www.wikidata.org/wiki/Q9167556
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: lodynskiy-yuzef
 - person: loza-mechislav
 - person: hubczenko-roman
+poster_tmdb_path: /v3LNl5LEANb5bg5HpG0EhhzjPCL.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4084208
   imdb: tt0088788
   youtube: _ajzzEDxqio
+  tmdb: 542817
 sources:
 - https://www.wikidata.org/wiki/Q4084208
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: dimitrova-tanya
 studio:
 - mosfilm
+poster_tmdb_path: /p7MRaw74XZJQJubJMxVceuzFeXw.jpg
+backdrop_tmdb_path: /yxzEN0NyztZuuu4Iny5psVC8ui4.jpg

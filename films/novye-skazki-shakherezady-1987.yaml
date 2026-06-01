@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1219086
   imdb: tt0093653
+  tmdb: 181310
 sources:
 - https://www.wikidata.org/wiki/Q1219086
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: rakhmatullaev-aslan
 studio:
 - tadzhikfilm
+poster_tmdb_path: /rG0k0g5Mk83SSXh6esnLzvtThKT.jpg
+backdrop_tmdb_path: /dtEx2iByDvW4qfzFmvUShdNKX7x.jpg

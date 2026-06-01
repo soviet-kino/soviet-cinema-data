@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q85970503
   imdb: tt0027239
+  tmdb: 440881
 sources:
 - https://www.wikidata.org/wiki/Q85970503
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: shneyderov-vladimir-adolfovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /qzfNjxbygh7pJ6AIWrYUzZxLzAx.jpg
+backdrop_tmdb_path: /4r84IagIBDEQp8RLL0V4vdB1y8V.jpg

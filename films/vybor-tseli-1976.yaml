@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4128528
   imdb: tt0072382
   youtube: goavuJufU9Y
+  tmdb: 1500365
 sources:
 - https://www.wikidata.org/wiki/Q4128528
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: tripolskiy-yakov-vladimirovich
 - person: nedbal-milosh
 - person: garrel-sofya-nikolaevna
+poster_tmdb_path: /me5FI0lGjeQKAR5phZSERTxJTkd.jpg
+backdrop_tmdb_path: /jfRkcqMrvv0e1244BdnAfwYOfSY.jpg

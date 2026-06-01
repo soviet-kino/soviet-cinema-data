@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108871073
   imdb: tt0296590
   youtube: J6kPbKCt2yc
+  tmdb: 1251062
 sources:
 - https://www.wikidata.org/wiki/Q108871073
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 - khusnutdinova-roza-usmanovna
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /uXogC4DeEzwt24gYA3Mes0fwQYW.jpg

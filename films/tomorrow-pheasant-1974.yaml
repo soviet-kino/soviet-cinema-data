@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q18340911
   imdb: tt0071614
+  tmdb: 337872
 sources:
 - https://www.wikidata.org/wiki/Q18340911
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 screenwriter:
 - shara-shandor
 - paskandi-geza
+poster_tmdb_path: /wSzEd7YJRBpGGqkx1LM0KPCAonv.jpg
+backdrop_tmdb_path: /rHpQinfr6NfqOGpw7X9kESKEwvb.jpg

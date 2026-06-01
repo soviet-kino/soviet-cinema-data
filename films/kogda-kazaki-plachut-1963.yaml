@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226037
   imdb: tt0179922
   youtube: qdcCuS3QoQA
+  tmdb: 414950
 sources:
 - https://www.wikidata.org/wiki/Q4226037
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: markin-viktor-grigorevich
 - person: murzaeva-irina-vsevolodovna
 - person: tsesarskaya-emma-vladimirovna
+poster_tmdb_path: /7uP5UGcPv7kC8hP91wn0LHcTIiS.jpg
+backdrop_tmdb_path: /91KHkPE30r9bBmtRbaabkJdWfgZ.jpg

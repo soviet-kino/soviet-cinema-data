@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21646351
   imdb: tt0021517
+  tmdb: 528995
 sources:
 - https://www.wikidata.org/wiki/Q21646351
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: niky-cucu-leria
 - person: sturdza-petre
 - person: sturdza-alice
+poster_tmdb_path: /5hrZ1HcxKzuqfzOPXpGSfQmzXNl.jpg

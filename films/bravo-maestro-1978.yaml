@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q3506372
   imdb: tt0077273
+  tmdb: 198510
 sources:
 - https://www.wikidata.org/wiki/Q3506372
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: lepetich-zvonko
 - person: kon-mariya
 - person: hajdarhodzic-izet
+poster_tmdb_path: /5Zob4qIczCdXG3F3zmywO0O3Hqt.jpg

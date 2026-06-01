@@ -8,6 +8,7 @@ runtime_min: 529
 external_ids:
   wikidata: Q24936517
   imdb: tt5900518
+  tmdb: 343545
 sources:
 - https://www.wikidata.org/wiki/Q24936517
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - osadchiy-aleksandr-filippovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /zPRFgcpmG1EEisd9zckybqZ96gs.jpg

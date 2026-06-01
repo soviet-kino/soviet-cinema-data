@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21674793
   imdb: tt3457914
+  tmdb: 834544
 sources:
 - https://www.wikidata.org/wiki/Q21674793
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - szoboszlay-peter
 composer:
 - tomsits-rudolf
+poster_tmdb_path: /dCNqowy3LBcXlyEEjqBsQfetJ6r.jpg

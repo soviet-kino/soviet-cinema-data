@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q11797976
   imdb: tt0081274
+  tmdb: 341278
 sources:
 - https://www.wikidata.org/wiki/Q11797976
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: pshonyak-voytsekh
 - person: benua-mariush
 - person: kotys-ryshard
+poster_tmdb_path: /xIIYDtn9HNUWY1ef3wof9SkZNVn.jpg
+backdrop_tmdb_path: /lP3FK77aiy8cKPDwrpWvOIpw09D.jpg

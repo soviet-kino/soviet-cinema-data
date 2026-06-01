@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q595196
   imdb: tt0059527
+  tmdb: 25905
 sources:
 - https://www.wikidata.org/wiki/Q595196
 schema_version: 1
@@ -62,3 +63,5 @@ cast:
 - person: soltesova-elena
 studio:
 - barrandov
+poster_tmdb_path: /zIo4fdmYgDZr4jMLMplOW1tDa8F.jpg
+backdrop_tmdb_path: /dpa5PiYGIvkjeMTcBG9VD4bQOjg.jpg

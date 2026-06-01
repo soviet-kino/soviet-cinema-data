@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q12647271
   imdb: tt4237612
+  tmdb: 659782
 sources:
 - https://www.wikidata.org/wiki/Q12647271
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - balsis-eduardas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /zBm9LwY3WvgfGyvZX2eyOttUmFq.jpg
+backdrop_tmdb_path: /hbEQZbPOqJBn05DDCkjhehKKTDH.jpg

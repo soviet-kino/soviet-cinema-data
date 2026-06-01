@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11012570
   imdb: tt0170133
+  tmdb: 461722
 sources:
 - https://www.wikidata.org/wiki/Q11012570
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - anagnosti-dimiter
 composer:
 - gaci-pjeter
+poster_tmdb_path: /5co8qEPQaMu1rbwoSSTEWwK2FhD.jpg

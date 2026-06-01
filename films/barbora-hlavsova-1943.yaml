@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4859710
   imdb: tt0168486
+  tmdb: 574110
 sources:
 - https://www.wikidata.org/wiki/Q4859710
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: pata-vaclav
 - person: vildova-marie
 - person: sasek-karel
+poster_tmdb_path: /iqDAKt2WlMsTYbzqU15G8JXZ0Mw.jpg

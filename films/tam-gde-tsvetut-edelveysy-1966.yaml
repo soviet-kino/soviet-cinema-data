@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q65250295
   imdb: tt0314757
+  tmdb: 641210
 sources:
 - https://www.wikidata.org/wiki/Q65250295
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: chiginskaya-galina-evgenevna
 studio:
 - kazakhfilm
+poster_tmdb_path: /iXAu1msiwoFnNX7whvY3ONN2zS2.jpg

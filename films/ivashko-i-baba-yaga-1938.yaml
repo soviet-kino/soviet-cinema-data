@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4197050
   imdb: tt2386486
   youtube: 4lIbnY712Sg
+  tmdb: 448025
 sources:
 - https://www.wikidata.org/wiki/Q4197050
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Ivashko.jpg
+poster_tmdb_path: /vDSsB904ST3H3dVw5p4GeG5znFB.jpg

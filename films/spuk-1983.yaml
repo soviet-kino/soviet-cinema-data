@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3211080
   imdb: tt0086225
+  tmdb: 356836
 sources:
 - https://www.wikidata.org/wiki/Q3211080
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 cast:
 - person: yurik-zvonimir
 - person: ljustina-danko
+poster_tmdb_path: /iAY5VJMRYU61XKSGSnJ29sGyTVo.jpg

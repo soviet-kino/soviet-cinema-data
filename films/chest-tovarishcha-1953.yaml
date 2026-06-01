@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25830863
   imdb: tt0313885
   youtube: eiOftwW83pg
+  tmdb: 458789
 sources:
 - https://www.wikidata.org/wiki/Q25830863
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - lebedev-nikolay
 studio:
 - lenfilm
+poster_tmdb_path: /xDdCRYDURIffv3VsRZm11wGUspZ.jpg
+backdrop_tmdb_path: /d11hjN86vGXetExu2xqtLqKVX9V.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25447784
   imdb: tt5291274
   youtube: CDWm6s1CP80
+  tmdb: 1076711
 sources:
 - https://www.wikidata.org/wiki/Q25447784
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - karavaychuk-oleg-nikolaevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /jhg6RwbZKH4nTMgIapzMHjQknCa.jpg
+backdrop_tmdb_path: /mrIZIuRKZLAOSJo3ODopzvovjGh.jpg

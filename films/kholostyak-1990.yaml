@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q1475627
   imdb: tt0102449
+  tmdb: 185971
 sources:
 - https://www.wikidata.org/wiki/Q1475627
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: bentse-ferents
 - person: gera-zoltan
 - person: gosztonyi-janos
+poster_tmdb_path: /ndu5dD6ykRWKVtwtqAGIY0IIEPP.jpg

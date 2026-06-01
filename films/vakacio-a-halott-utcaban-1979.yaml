@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q103852518
   imdb: tt0174316
+  tmdb: 257590
 sources:
 - https://www.wikidata.org/wiki/Q103852518
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - chukash-ishtvan
 cinematographer:
 - forgacs-otto
+poster_tmdb_path: /9W9iFBz3mZp5LVoRS5o7ATyqX8A.jpg

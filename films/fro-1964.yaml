@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4492857
   imdb: tt0231616
+  tmdb: 830653
 sources:
 - https://www.wikidata.org/wiki/Q4492857
 schema_version: 1
@@ -18,3 +19,4 @@ studio:
 - lenfilm
 cast:
 - person: zavyalova-aleksandra-semyonovna
+poster_tmdb_path: /heWQWjdf6n2ms0Xfrc8BnkbaT0t.jpg

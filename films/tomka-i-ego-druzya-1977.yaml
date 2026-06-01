@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q3301960
   imdb: tt0295730
+  tmdb: 263014
 sources:
 - https://www.wikidata.org/wiki/Q3301960
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - keko-dzhanfise
 composer:
 - lalo-aleksander
+poster_tmdb_path: /k7VpjAPHTTSjCQyetkSLAhF3Lzc.jpg
+backdrop_tmdb_path: /bHMZnHOqzDsMX0j7n00aJZ1cFJF.jpg

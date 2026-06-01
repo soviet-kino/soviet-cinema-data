@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q16087270
   imdb: tt0181772
+  tmdb: 283121
 sources:
 - https://www.wikidata.org/wiki/Q16087270
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: dzhuritsko-tomaniya
 - person: burdus-jovan-janicijevic
 - person: kandich-milosh
+poster_tmdb_path: /vwD3qHXHO2cxiDcKhwXiFetSfdM.jpg
+backdrop_tmdb_path: /wZJA20FoUtBjPABI8klcWcbY1AT.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q1400306
   imdb: tt0149320
+  tmdb: 456591
 sources:
 - https://www.wikidata.org/wiki/Q1400306
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cinematographer:
 - eiben-istvan
 poster_commons: Uz Bence.jpg
+poster_tmdb_path: /lqG8eev5VaoeS4PwtPQ6jfZ5q3B.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424099
   imdb: tt2221807
   youtube: 070Q9DVGaxs
+  tmdb: 469836
 sources:
 - https://www.wikidata.org/wiki/Q4424099
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 cast:
 - person: samoylov-evgeniy-valerianovich
 poster_commons: Vstreca1936.jpg
+poster_tmdb_path: /ttT2nXxxMCRS0l53EuLcqxRcTYp.jpg
+backdrop_tmdb_path: /4ya0djGTpDciYNHpK6XcLJV33Jr.jpg

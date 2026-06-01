@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24935870
   imdb: tt2109252
+  tmdb: 197769
 sources:
 - https://www.wikidata.org/wiki/Q24935870
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - rasulov-kabul-abdurakhmanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /SGa2nxJ2rMwWM1BqO4jCSP7m8J.jpg
+backdrop_tmdb_path: /zhLM1qQps722av6stjWotxNXNmG.jpg

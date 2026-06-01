@@ -8,6 +8,7 @@ runtime_min: 618
 external_ids:
   wikidata: Q16629390
   imdb: tt1945226
+  tmdb: 197776
 sources:
 - https://www.wikidata.org/wiki/Q16629390
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - vitenzon-zhanna-ziskindovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /lUs9J1wwfNwbV5qFg8lbLme4ZFQ.jpg

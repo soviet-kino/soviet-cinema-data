@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514504
   imdb: tt4718892
+  tmdb: 551573
 sources:
 - https://www.wikidata.org/wiki/Q16514504
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - belarusfilm
 cast:
 - person: adashevskiy-konstantin-ignatevich
+poster_tmdb_path: /tsOtOTo1Sz4UNdtjCtKUpGbPmJm.jpg
+backdrop_tmdb_path: /km0QxjhxKTYxu3MFQHowO74rZ8p.jpg

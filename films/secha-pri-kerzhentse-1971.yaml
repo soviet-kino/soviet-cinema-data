@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q259557
   imdb: tt0066813
+  tmdb: 90327
 sources:
 - https://www.wikidata.org/wiki/Q259557
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - rimskiy-korsakov-nikolay-andreevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4wmCU1zvbYROMqHNClmIQ71QOg6.jpg
+backdrop_tmdb_path: /cx8ZNWcsy0OlNLfuZzRoJyfT6il.jpg

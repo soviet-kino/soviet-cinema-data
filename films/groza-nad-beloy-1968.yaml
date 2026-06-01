@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4150066
   imdb: tt0347130
+  tmdb: 835076
 sources:
 - https://www.wikidata.org/wiki/Q4150066
 schema_version: 1
@@ -18,3 +19,4 @@ studio:
 - lenfilm
 cast:
 - person: mikhaylov-aleksandr-aleksandrovich
+poster_tmdb_path: /7Y6Gg2CccS8S20NMoyxrm2ghT8G.jpg

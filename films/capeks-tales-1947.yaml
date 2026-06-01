@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q5035221
   imdb: tt0150037
+  tmdb: 317059
 sources:
 - https://www.wikidata.org/wiki/Q5035221
 schema_version: 1
@@ -86,3 +87,4 @@ cast:
 - person: jarkovsky-ferdinand
 - person: sedlacek-ladislav
 - person: kautska-marie
+poster_tmdb_path: /fjqQbTJ1wM9Jbu1oUXTJzmU3nXs.jpg

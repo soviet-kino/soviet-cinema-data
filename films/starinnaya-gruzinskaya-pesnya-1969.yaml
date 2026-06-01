@@ -8,8 +8,11 @@ runtime_min: 21
 external_ids:
   wikidata: Q12157381
   imdb: tt0171782
+  tmdb: 216753
 sources:
 - https://www.wikidata.org/wiki/Q12157381
 schema_version: 1
 director:
 - ioseliani-otar-davidovich
+poster_tmdb_path: /8Qy92exIucYXOsflyTsZoFejzhO.jpg
+backdrop_tmdb_path: /3C8uVIJhNbjUdV3RFGNWT5s6C1S.jpg

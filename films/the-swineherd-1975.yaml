@@ -8,8 +8,10 @@ runtime_min: 13
 external_ids:
   wikidata: Q33572250
   imdb: tt1570404
+  tmdb: 965387
 sources:
 - https://www.wikidata.org/wiki/Q33572250
 schema_version: 1
 director:
 - deych-dzhin
+poster_tmdb_path: /tHxsRjlA0TVXXMRbvQpNeZ1M0iH.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q20082722
   imdb: tt5460518
   youtube: J0i0XnrZln0
+  tmdb: 961488
 sources:
 - https://www.wikidata.org/wiki/Q20082722
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - efimenko-rodion-rodionovich
 studio:
 - ukrtelefilm
+poster_tmdb_path: /d5YJmnSwLPFfZKeSNUm526I4d87.jpg
+backdrop_tmdb_path: /ts4XJff8zQeu0Hs1PRWP8Y144BO.jpg

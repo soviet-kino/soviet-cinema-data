@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4373816
   imdb: tt4263860
+  tmdb: 456327
 sources:
 - https://www.wikidata.org/wiki/Q4373816
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: ogly-makhmudov-abdulakhad-elisa
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /44pfC7YAdcm3oYIrkwCVIyzhYSs.jpg
+backdrop_tmdb_path: /sFJUoRQHW4TrD7KGb7QO6Y9kAVe.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q44875989
   imdb: tt0136196
+  tmdb: 323691
 sources:
 - https://www.wikidata.org/wiki/Q44875989
 schema_version: 1
 director:
 - bratu-luchian
+poster_tmdb_path: /cCIxP4QXCbk7XA6r0ocw44Ujlcf.jpg
+backdrop_tmdb_path: /jhIiEurUDf3eF9JkwH49CkpN7U7.jpg

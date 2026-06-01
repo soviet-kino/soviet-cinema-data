@@ -8,6 +8,7 @@ runtime_min: 34
 external_ids:
   wikidata: Q112235041
   imdb: tt10487702
+  tmdb: 933400
 sources:
 - https://www.wikidata.org/wiki/Q112235041
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 studio:
 - mosfilm
 poster_commons: In the Doll Land, 1940.jpg
+poster_tmdb_path: /1slRKHAVbmQBF2VlM2KsDc4PETB.jpg

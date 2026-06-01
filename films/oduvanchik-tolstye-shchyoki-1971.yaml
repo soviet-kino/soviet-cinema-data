@@ -8,6 +8,7 @@ runtime_min: 392
 external_ids:
   wikidata: Q4331814
   imdb: tt5495286
+  tmdb: 484115
 sources:
 - https://www.wikidata.org/wiki/Q4331814
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kanershteyn-aleksandr-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /58UokekPtDjq2nL0udYfVrNMxm3.jpg
+backdrop_tmdb_path: /eAY2mYhrwS9vZo8XJHUUuxNls76.jpg

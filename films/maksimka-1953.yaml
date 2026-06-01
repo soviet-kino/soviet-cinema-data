@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4276154
   imdb: tt0044891
   youtube: FKy10hEgskY
+  tmdb: 531152
 sources:
 - https://www.wikidata.org/wiki/Q4276154
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: bovykin-anatoliy
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /5ySuLw5r3rzsDskFEJsN4xlpmvj.jpg
+backdrop_tmdb_path: /3U8JUI6l7zzOcEtZal652OdthrQ.jpg

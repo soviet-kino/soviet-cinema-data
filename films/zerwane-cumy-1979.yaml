@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q9390192
   imdb: tt0080169
+  tmdb: 419427
 sources:
 - https://www.wikidata.org/wiki/Q9390192
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: czubasiewicz-maria
 - person: wojtczak-marian
 - person: anna-romanowicz
+poster_tmdb_path: /erjUlu33AeeXhCF9uzNuXiZ899I.jpg

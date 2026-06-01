@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q19571471
   imdb: tt0169776
+  tmdb: 392520
 sources:
 - https://www.wikidata.org/wiki/Q19571471
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: cikan-josef
 - person: moravek-frantisek
 - person: noskova-bohunka
+poster_tmdb_path: /9qEZhtfCIHloy6joY9cLcQWezeU.jpg

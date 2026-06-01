@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9346399
   imdb: tt0933169
+  tmdb: 640859
 sources:
 - https://www.wikidata.org/wiki/Q9346399
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - zdort-wies-aw
 cast:
 - person: olgerd-lukashevich
+poster_tmdb_path: /yVtSGOxtJZ3OiByegTS1W3Tcba8.jpg
+backdrop_tmdb_path: /os47jgGXxOrgv2UOYrQmHzgHRDW.jpg

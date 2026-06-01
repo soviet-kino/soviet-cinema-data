@@ -67,6 +67,9 @@ external_ids:
   wikidata: Q2910960
   imdb: tt0092688
   youtube: 41B6WMx8zKQ
+  tmdb: 198460
 sources:
 - https://www.wikidata.org/wiki/Q2910960
 schema_version: 1
+poster_tmdb_path: /zLP4r4v56zUD4WjCTMuOTdtYutg.jpg
+backdrop_tmdb_path: /acRoBRgjpsOaUVBCNVLpuf4gYS8.jpg

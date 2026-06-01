@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21408211
   imdb: tt0094727
   youtube: nURsvsKKQH4
+  tmdb: 900467
 sources:
 - https://www.wikidata.org/wiki/Q21408211
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: ovakimyan-georgiy
 studio:
 - armenfilm
+poster_tmdb_path: /rxen0Ylmd9lKr0EMDCh5LB7cvLI.jpg
+backdrop_tmdb_path: /o3FEMqgOj7ymIZx8u3zNLUIUYIx.jpg

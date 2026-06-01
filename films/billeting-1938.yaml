@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q123363082
   imdb: tt0029909
+  tmdb: 1687625
 sources:
 - https://www.wikidata.org/wiki/Q123363082
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kabosh-gyula
 - person: pager-antal
 - person: seletski-zita
+poster_tmdb_path: /imeaPJUZzsEzlt2krIdzh4PYw0k.jpg

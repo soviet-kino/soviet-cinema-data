@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156429
   imdb: tt4866834
   youtube: _yNIrf-DjY8
+  tmdb: 138781
 sources:
 - https://www.wikidata.org/wiki/Q4156429
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - artemyev-eduard
 studio:
 - ekran
+poster_tmdb_path: /jLZdAjAsCnASjk3VWvH92NSCN16.jpg

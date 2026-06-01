@@ -8,6 +8,7 @@ runtime_min: 143
 external_ids:
   wikidata: Q4127736
   imdb: tt0281641
+  tmdb: 1203152
 sources:
 - https://www.wikidata.org/wiki/Q4127736
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - akhvlediani-erlom-sergeevich
 studio:
 - gruziya-film
+poster_tmdb_path: /bjAzLcLBuWDMze4oncWl6xwQpQL.jpg
+backdrop_tmdb_path: /cLCiBpIdeotdOHZEvwgQRg6T67U.jpg

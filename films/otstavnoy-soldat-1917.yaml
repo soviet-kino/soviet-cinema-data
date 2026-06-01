@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q121841111
   imdb: tt0008374
+  tmdb: 174646
 sources:
 - https://www.wikidata.org/wiki/Q121841111
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: vandory-gusztav
 - person: peteo-attila
 - person: boyda-juci
+poster_tmdb_path: /hz3yBvJhd87yQ6mikoQI1LgoyHX.jpg
+backdrop_tmdb_path: /bbE11BFh9Wf85ZDw03VzVQHVfYg.jpg

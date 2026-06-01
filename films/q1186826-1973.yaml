@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1186826
   imdb: tt0495641
+  tmdb: 425667
 sources:
 - https://www.wikidata.org/wiki/Q1186826
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: klyayn-erik-zigfrid
 - person: byove-kurt
 - person: ritter-gudrun
+poster_tmdb_path: /esJEHfs7Om9XbBdo4zguK9baqe5.jpg

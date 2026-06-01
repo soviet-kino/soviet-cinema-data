@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4225000
   imdb: tt0097675
   youtube: e5Ulpii-wXo
+  tmdb: 306703
 sources:
 - https://www.wikidata.org/wiki/Q4225000
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - gladkov-gennadiy
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /7nGTYuTCNepIwRevfQNXUUrtAKI.jpg
+backdrop_tmdb_path: /8F3y3s8ZAuRNKx271FKRYLpiSQw.jpg

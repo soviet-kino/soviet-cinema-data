@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q16083162
   imdb: tt0066866
+  tmdb: 258786
 sources:
 - https://www.wikidata.org/wiki/Q16083162
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vukovic-gizela
 - person: micovic-vojislav
 - person: matic-zivka
+poster_tmdb_path: /kp11nQq7XaKPkacsHrNgvMEu3qm.jpg

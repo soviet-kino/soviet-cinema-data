@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4071038
   imdb: tt1573789
+  tmdb: 454543
 sources:
 - https://www.wikidata.org/wiki/Q4071038
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: ibragimova-safura-agababa-kyzy
 - person: shikhlinskaya-leyla-farrukh-kyzy
 - person: gadzhieva-khuraman
+poster_tmdb_path: /JbqjoSJoxxKQtWMWnQKDtd2nam.jpg
+backdrop_tmdb_path: /c9eTNkJekGR0flU7sbWrLcSCPKa.jpg

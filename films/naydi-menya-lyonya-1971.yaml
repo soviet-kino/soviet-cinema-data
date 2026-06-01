@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4312393
   imdb: tt1673633
+  tmdb: 464717
 sources:
 - https://www.wikidata.org/wiki/Q4312393
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - maklakov-vladimir-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /fXfR4iZZIZ36sdBfWBh7R10cpLg.jpg
+backdrop_tmdb_path: /FCkFL0gBl7a3RfvaHociSx7OUR.jpg

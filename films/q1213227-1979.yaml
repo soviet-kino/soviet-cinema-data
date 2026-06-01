@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q1213227
   imdb: tt0079253
+  tmdb: 101331
 sources:
 - https://www.wikidata.org/wiki/Q1213227
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: shrade-villi
 - person: khyokhst-aleksandr
 - person: veldre-erik
+poster_tmdb_path: /5ShhcDTgh8uG8pF6yee83Jg2IqW.jpg
+backdrop_tmdb_path: /shp54p3oGBYOZTtjszphMqJeLtZ.jpg

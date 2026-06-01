@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726427
   imdb: tt0185147
+  tmdb: 622141
 sources:
 - https://www.wikidata.org/wiki/Q28726427
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - sebastyan-mikhail
 studio:
 - radef
+poster_tmdb_path: /bF9Unr8wtluhehWdElGGpq53hT1.jpg

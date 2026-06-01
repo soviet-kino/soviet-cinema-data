@@ -8,6 +8,7 @@ runtime_min: 26
 external_ids:
   wikidata: Q60839839
   imdb: tt0241632
+  tmdb: 657615
 sources:
 - https://www.wikidata.org/wiki/Q60839839
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - antalffy-alexander
 screenwriter:
 - tyoryok-dyula
+poster_tmdb_path: /upZFzZqtgeLYxx3gPmWWilZ42y6.jpg

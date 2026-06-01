@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4463344
   imdb: tt5088720
+  tmdb: 1423759
 sources:
 - https://www.wikidata.org/wiki/Q4463344
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: tretyakov-georgiy-mikhaylovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /5gx6w8S0J8NKU0VFpj0o0clZ820.jpg
+backdrop_tmdb_path: /m2QCAEkimXzqHtUlMZTBhP2NV5t.jpg

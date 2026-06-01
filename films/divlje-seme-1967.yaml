@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q16083683
   imdb: tt0179772
+  tmdb: 259834
 sources:
 - https://www.wikidata.org/wiki/Q16083683
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: bijelic-severin
 - person: predrag-milinkovich
 - person: vuysich-dushan
+poster_tmdb_path: /je5VA55DLpdujRBnJYiSVvVd8pT.jpg
+backdrop_tmdb_path: /5vacd4b4ATUSRSH9eiK6RoNtkdE.jpg

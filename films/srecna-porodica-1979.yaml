@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12759519
   imdb: tt0352867
+  tmdb: 504069
 sources:
 - https://www.wikidata.org/wiki/Q12759519
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: mikhich-ivana
 - person: q12960814
 - person: cirkovic-dobrila
+poster_tmdb_path: /kN4reuUUmH5RS1GQAZ1feyczPT5.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24346491
   imdb: tt0244405
+  tmdb: 1444274
 sources:
 - https://www.wikidata.org/wiki/Q24346491
 schema_version: 1
@@ -16,3 +17,5 @@ studio:
 - ekran
 cast:
 - person: raykin-arkadiy-isaakovich
+poster_tmdb_path: /bmSEY0oaOU6GoK6RhK3FdkeJF33.jpg
+backdrop_tmdb_path: /cQt6z9BJ61K5GaCOVkhVbx7rTWS.jpg

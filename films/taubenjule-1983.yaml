@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q106717219
   imdb: tt0126093
+  tmdb: 284148
 sources:
 - https://www.wikidata.org/wiki/Q106717219
 schema_version: 1
 director:
 - krattsert-khans
+poster_tmdb_path: /e6DsvmDgDzpR5QPNrQe7Y3nJAJU.jpg

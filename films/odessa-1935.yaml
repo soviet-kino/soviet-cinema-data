@@ -8,6 +8,7 @@ runtime_min: 22
 external_ids:
   wikidata: Q106764445
   imdb: tt3739338
+  tmdb: 606053
 sources:
 - https://www.wikidata.org/wiki/Q106764445
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - konstantin-fyodorovich-dankevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /cfQiZ35aKajDUHurNRFls2o8xcs.jpg

@@ -8,6 +8,7 @@ runtime_min: 131
 external_ids:
   wikidata: Q307620
   imdb: tt0096126
+  tmdb: 43680
 sources:
 - https://www.wikidata.org/wiki/Q307620
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: tolokonnikov-vladimir-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /1XYwOhbalbXMvSsFhFX163AfPtr.jpg
+backdrop_tmdb_path: /v9UtQvfasBZ40kQRTF2Tzx2FnVz.jpg

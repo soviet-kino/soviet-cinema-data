@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4208816
   imdb: tt1332536
   youtube: Bd-lt6-AceY
+  tmdb: 210149
 sources:
 - https://www.wikidata.org/wiki/Q4208816
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - dakhno-vladimir-avksentevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /l8CUZyfquQMHrE1vJ2lUdqPpPN5.jpg
+backdrop_tmdb_path: /uGoYXiOAr3HOTikgis3i4VzKbrp.jpg

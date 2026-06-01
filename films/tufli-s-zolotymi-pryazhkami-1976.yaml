@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4466674
   imdb: tt0387651
   youtube: 9o2OVQnIomU
+  tmdb: 765073
 sources:
 - https://www.wikidata.org/wiki/Q4466674
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: durov-lev-konstantinovich
 - person: gerasimov-vladimir-makarovich
 - person: malysheva-irina-valentinovna
+poster_tmdb_path: /dakpBqHi4vHlChbURwra3xtcgfc.jpg

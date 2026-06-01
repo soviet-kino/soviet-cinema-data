@@ -8,8 +8,11 @@ runtime_min: 103
 external_ids:
   wikidata: Q7711126
   imdb: tt0080174
+  tmdb: 266153
 sources:
 - https://www.wikidata.org/wiki/Q7711126
 schema_version: 1
 cast:
 - person: vejnovic-sanja
+poster_tmdb_path: /vvyfu4osUnLmHJ5AIx29hKIAFSZ.jpg
+backdrop_tmdb_path: /n6d8xOtEMQzNiCW4a06pfflcvqH.jpg

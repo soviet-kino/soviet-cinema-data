@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q1193023
   imdb: tt0068508
+  tmdb: 2219
 sources:
 - https://www.wikidata.org/wiki/Q1193023
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: mankhen-klaus
 - person: kommerell-ruth
 - person: lyubosh-ute
+poster_tmdb_path: /qGXCHlMAlnsPMm7qhGAtHNr3ght.jpg
+backdrop_tmdb_path: /gYro5spiE4w38OQktY9gxcKZHft.jpg

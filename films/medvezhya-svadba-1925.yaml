@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4287588
   imdb: tt0017130
+  tmdb: 279405
 sources:
 - https://www.wikidata.org/wiki/Q4287588
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gurnyak-karl-adamovich
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /6DMGbABCyKoywf2JStEZdpyqfOH.jpg

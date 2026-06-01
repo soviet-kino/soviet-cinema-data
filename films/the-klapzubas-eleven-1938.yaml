@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6419710
   imdb: tt0151226
   youtube: yhwDB59viZk
+  tmdb: 505207
 sources:
 - https://www.wikidata.org/wiki/Q6419710
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: kuzel-frantisek
 - person: stovik-vilem
 - person: hampacher-josef
+poster_tmdb_path: /8TKJLIImN8InS6a4qx0BD3BuqvY.jpg
+backdrop_tmdb_path: /vo5T841jUpVfiEFrdC5RMntRl7l.jpg

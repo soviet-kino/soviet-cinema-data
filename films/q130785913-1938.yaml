@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q130785913
   imdb: tt0030227
+  tmdb: 297970
 sources:
 - https://www.wikidata.org/wiki/Q130785913
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: kramer-glockner-josefine
 - person: pitt-hella
 - person: wessely-trude
+poster_tmdb_path: /oIN6zOIH74ptqgZTGVP3Bj9g6Es.jpg

@@ -8,6 +8,7 @@ runtime_min: 141
 external_ids:
   wikidata: Q4423984
   imdb: tt0096121
+  tmdb: 81193
 sources:
 - https://www.wikidata.org/wiki/Q4423984
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: belyaev-yuriy-viktorovich
 studio:
 - mosfilm
+poster_tmdb_path: /dyRCl0iRe8bFskhQ8qEpP0TjU7a.jpg
+backdrop_tmdb_path: /9UCURpRFwftT7TS9XqzR6cpFXTP.jpg

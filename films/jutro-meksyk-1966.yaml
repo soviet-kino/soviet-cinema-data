@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11729740
   imdb: tt0060577
+  tmdb: 558129
 sources:
 - https://www.wikidata.org/wiki/Q11729740
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: teresa-shmigelyuvna
 - person: shcherbits-ioanna
 - person: peratskiy-yuzef
+poster_tmdb_path: /wMU9DQMESz3Nxdoo1RzYg6BYW0A.jpg

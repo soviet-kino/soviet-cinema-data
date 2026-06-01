@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q17394716
   imdb: tt0054026
+  tmdb: 299861
 sources:
 - https://www.wikidata.org/wiki/Q17394716
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: khetterle-albert
 - person: zahn-albert
 - person: krone-otto
+poster_tmdb_path: /apLyLl7vJ1utHfT1yrsmOzWQauY.jpg

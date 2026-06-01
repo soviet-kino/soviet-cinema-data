@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20091912
   imdb: tt0091797
   youtube: K2dbhoaZ7PI
+  tmdb: 538794
 sources:
 - https://www.wikidata.org/wiki/Q20091912
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kostolevskiy-igor-matveevich
 studio:
 - lenfilm
+poster_tmdb_path: /gstusnIKqDAZ0W1vDJyzXLK3vbq.jpg
+backdrop_tmdb_path: /wAtCM1XZvDoZZWlMYjkrIhTUzgU.jpg

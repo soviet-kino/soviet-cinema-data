@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q9378068
   imdb: tt0051206
+  tmdb: 84529
 sources:
 - https://www.wikidata.org/wiki/Q9378068
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: teodorchik-tadeush
 - person: zbignev-yuzefovich
 - person: lodynskiy-yuzef
+poster_tmdb_path: /yqgyN9Ovsf2BsQjncxX84T7tzNg.jpg

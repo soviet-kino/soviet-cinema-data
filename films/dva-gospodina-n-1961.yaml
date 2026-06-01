@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4155575
   imdb: tt0055942
+  tmdb: 340394
 sources:
 - https://www.wikidata.org/wiki/Q4155575
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: smigielski-bogdan
 studio:
 - start-kinostudiya
+poster_tmdb_path: /rP2QiaBcz5yiYgtI9cQXWZIpxY9.jpg

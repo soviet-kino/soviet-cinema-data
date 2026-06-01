@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3209019
   imdb: tt0949326
   youtube: PWB1yPx-ong
+  tmdb: 81604
 sources:
 - https://www.wikidata.org/wiki/Q3209019
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - budashkin-nikolay-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sfVjidg334LK7TbNvSlKNKndFjJ.jpg
+backdrop_tmdb_path: /e6aE0q38DR48WnUB0L2DQLv9kPd.jpg

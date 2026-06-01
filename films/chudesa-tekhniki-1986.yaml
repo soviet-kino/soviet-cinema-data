@@ -8,6 +8,7 @@ runtime_min: 472
 external_ids:
   wikidata: Q16514698
   imdb: tt7697442
+  tmdb: 448854
 sources:
 - https://www.wikidata.org/wiki/Q16514698
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /q8cMcpoWe1wpy483FTMS6L5SL5U.jpg
+backdrop_tmdb_path: /1L83dDq8SwrQhh0GKlV2HYWV297.jpg

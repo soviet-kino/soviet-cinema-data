@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12278855
   imdb: tt0172334
+  tmdb: 266181
 sources:
 - https://www.wikidata.org/wiki/Q12278855
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: gavrich-aleksandar
 - person: mirich-voyya
 - person: angelovski-kole
+poster_tmdb_path: /wNstHO0auBWptQ7h86ZAuqwmJ9N.jpg

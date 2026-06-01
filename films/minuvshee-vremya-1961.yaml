@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q9198388
   imdb: tt0054778
+  tmdb: 666837
 sources:
 - https://www.wikidata.org/wiki/Q9198388
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: yanovskaya-alina
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /t1Uzvka8RqCfSaOeRhgh1NFsBnY.jpg
+backdrop_tmdb_path: /8a1wXaXKk6onv3Xcms4ADJElX9n.jpg

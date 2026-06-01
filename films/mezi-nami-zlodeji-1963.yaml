@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q6826657
   imdb: tt0232090
+  tmdb: 368821
 sources:
 - https://www.wikidata.org/wiki/Q6826657
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 - person: biskup-j
 - person: biskupova-k
 - person: sporkova-v
+poster_tmdb_path: /eiBJmU0j67abgm1KQ1Ooq7fNQ9J.jpg

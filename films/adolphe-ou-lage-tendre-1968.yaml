@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q2824940
   imdb: tt0062642
+  tmdb: 2536
 sources:
 - https://www.wikidata.org/wiki/Q2824940
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: nell-natali
 - person: khamets-kshishtof
 - person: falkuchchi-dzhozef
+poster_tmdb_path: /ma8ZGgsoeWTHOp8cD7Lu8yYIDpy.jpg
+backdrop_tmdb_path: /zBTqq9FypJSVk5r0IgZo8jVSNX.jpg

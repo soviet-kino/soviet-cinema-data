@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q11816714
   imdb: tt0045032
+  tmdb: 714727
 sources:
 - https://www.wikidata.org/wiki/Q11816714
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: tsetserskiy-yan
 studio:
 - q9380470
+poster_tmdb_path: /thq3zuzkHKyBMi6FIwwmRA1eg0B.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16418316
   imdb: tt1767374
+  tmdb: 534974
 sources:
 - https://www.wikidata.org/wiki/Q16418316
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - ogly-dadashev-mukhtar-baba
 cast:
 - person: ogly-efendiev-ismail-makhmud
+poster_tmdb_path: /zN2Q6h48bByo57PsQkSCx57GYMh.jpg
+backdrop_tmdb_path: /jriJVjVtqeKwCKXIuLHibotT2aX.jpg

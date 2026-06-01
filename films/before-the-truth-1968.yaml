@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12757760
   imdb: tt0181773
+  tmdb: 265667
 sources:
 - https://www.wikidata.org/wiki/Q12757760
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: plesha-branko
 - person: dragomir-stanoevich
 - person: matic-zivka
+poster_tmdb_path: /bKEoNj8qhmcNA26unaMRt35TnxZ.jpg
+backdrop_tmdb_path: /z6kQFEwYuf3k5ewPYDo0aYJgPBV.jpg

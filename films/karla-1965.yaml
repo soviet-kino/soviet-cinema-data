@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q1733724
   imdb: tt0059349
+  tmdb: 276944
 sources:
 - https://www.wikidata.org/wiki/Q1733724
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: knochee-jorg
 - person: khench-yurgen
 - person: plesov-klaus-peter
+poster_tmdb_path: /vmIYJTqoBftSObzCDDrzriagERH.jpg
+backdrop_tmdb_path: /55RIj9mUiU0CNNqceZFjrjDXsI9.jpg

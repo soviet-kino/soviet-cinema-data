@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9274184
   imdb: tt0048126
+  tmdb: 605753
 sources:
 - https://www.wikidata.org/wiki/Q9274184
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: lubelski-zdzis-aw
 - person: kostetskiy-yuzef
 - person: dobrovolskaya-khalina
+poster_tmdb_path: /clZa4UGmoOhMrmeBjlg2hyKofVm.jpg
+backdrop_tmdb_path: /25FVHUKkYsMBsJia3NlaqFM0l0c.jpg

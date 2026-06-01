@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q25395139
   imdb: tt0081544
+  tmdb: 143060
 sources:
 - https://www.wikidata.org/wiki/Q25395139
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: mishchenko-vasiliy-konstantinovich
 studio:
 - mosfilm
+poster_tmdb_path: /iytXjR1Sk8SnCxchngbSpeStMuq.jpg
+backdrop_tmdb_path: /6WoHE9gaflkTyxNOW1pkCXOWYps.jpg

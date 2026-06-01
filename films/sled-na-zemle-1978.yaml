@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15271019
   imdb: tt3097730
   youtube: zLWas4DC2lU
+  tmdb: 1145411
 sources:
 - https://www.wikidata.org/wiki/Q15271019
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: ivanov-boris-vladimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /i6QiMXjygJJPQ2bANs08dmkLpjR.jpg

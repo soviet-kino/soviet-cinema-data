@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q2636971
   imdb: tt0046691
+  tmdb: 295503
 sources:
 - https://www.wikidata.org/wiki/Q2636971
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: wei-siegfried
 studio:
 - defa
+poster_tmdb_path: /K4uuQNkak76P3OYxfnBksRBGEu.jpg
+backdrop_tmdb_path: /6XzIX18T3kVVh6sgroeU3H7iPdq.jpg

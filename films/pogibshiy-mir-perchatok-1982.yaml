@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q56868094
   imdb: tt0303256
+  tmdb: 262054
 sources:
 - https://www.wikidata.org/wiki/Q56868094
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - petr-skoumal
 studio:
 - jiri-trnka-studio
+poster_tmdb_path: /AwcgqAjh5E7KtIF9afSKFI1NzEh.jpg
+backdrop_tmdb_path: /pyqt7xOU4xrw17SNsJOYzcvcbhm.jpg

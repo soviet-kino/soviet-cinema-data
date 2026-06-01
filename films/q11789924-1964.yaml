@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11789924
   imdb: tt0271833
+  tmdb: 439033
 sources:
 - https://www.wikidata.org/wiki/Q11789924
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - dado-peci
 composer:
 - zadeja-cesk
+poster_tmdb_path: /yaOhK1Ccl48nhtF1KMjzllvGYnK.jpg
+backdrop_tmdb_path: /fYkoTuJVCvZbdsVrmQ4v0ym2UEn.jpg

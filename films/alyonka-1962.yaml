@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4063775
   imdb: tt0054619
   youtube: 6NV9y-Pg96w
+  tmdb: 132041
 sources:
 - https://www.wikidata.org/wiki/Q4063775
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: zarubina-irina-petrovna
 - person: menglet-mayya-georgievna
 - person: shutov-evgeniy-efimovich
+poster_tmdb_path: /7aJlZasq1ykvaHd9Iv1KrQXf850.jpg
+backdrop_tmdb_path: /6Er0lX0jxHMwxPF67LbsG4FQTq.jpg

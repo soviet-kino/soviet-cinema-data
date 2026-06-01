@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9210761
   imdb: tt0059128
+  tmdb: 604248
 sources:
 - https://www.wikidata.org/wiki/Q9210761
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - berd-tadeush
 cast:
 - person: karkoshka-elzhbeta
+poster_tmdb_path: /gGx7fwBAc8G9Qv8NXrbXS6GA6Bd.jpg
+backdrop_tmdb_path: /aDucrJ0dQtg0TR5i4t6oKvfOBBK.jpg

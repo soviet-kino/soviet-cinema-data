@@ -8,8 +8,10 @@ runtime_min: 5
 external_ids:
   wikidata: Q64878693
   imdb: tt0173308
+  tmdb: 968802
 sources:
 - https://www.wikidata.org/wiki/Q64878693
 schema_version: 1
 director:
 - petek-vladimir
+poster_tmdb_path: /b9Vw1yt7DYuF30UwtbvgQRxbttS.jpg

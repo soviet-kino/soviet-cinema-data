@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4230166
   imdb: tt0030331
   youtube: 7uJuWdGpX1A
+  tmdb: 637082
 sources:
 - https://www.wikidata.org/wiki/Q4230166
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Комсомольск VHS.jpg
+poster_tmdb_path: /me1SPhEkOa9yfeEe0TnPbAsg55Q.jpg
+backdrop_tmdb_path: /loGjnFZWujaj6U6fddhDanxuDea.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q15805230
   imdb: tt0070931
+  tmdb: 282939
 sources:
 - https://www.wikidata.org/wiki/Q15805230
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - braumann-wolfgang
 composer:
 - fisher-gyunter
+poster_tmdb_path: /bUj1wYuRUcxksP3t82x542l2RTp.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q12084660
   imdb: tt0107875
+  tmdb: 42001
 sources:
 - https://www.wikidata.org/wiki/Q12084660
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - gemesh-yozhef
 composer:
 - lerch-istvan
+poster_tmdb_path: /gWXeEzpOavcmv1Ca8sjqkorfuIO.jpg
+backdrop_tmdb_path: /x1XWqlbmfSrOPiZ81An6MFjO3Aq.jpg

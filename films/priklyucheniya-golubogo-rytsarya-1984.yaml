@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q11829972
   imdb: tt0086152
   youtube: 8qQvx6LgiEg
+  tmdb: 656792
 sources:
 - https://www.wikidata.org/wiki/Q11829972
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 - studiya-risovannykh-filmov
 - q9347398
 - q9380470
+poster_tmdb_path: /wiBpIFLlt4ns792yGyV3oEEfReh.jpg
+backdrop_tmdb_path: /a4yMt1UzzDSpuPyqnpS0JrbvnTE.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3792262
   imdb: tt0080547
   youtube: fWCeqxFch1g
+  tmdb: 155852
 sources:
 - https://www.wikidata.org/wiki/Q3792262
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: probosh-marek
 - person: obarska-nela
 - person: novish-pavel
+poster_tmdb_path: /jRG6BbT39HQOUGVLKGatQpZA03X.jpg
+backdrop_tmdb_path: /me1Be6guGmv3oZYh3L4IHWDKn6S.jpg

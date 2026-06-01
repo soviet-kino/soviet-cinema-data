@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4090313
   imdb: tt0068312
   youtube: Q_xYvRxqbGs
+  tmdb: 138270
 sources:
 - https://www.wikidata.org/wiki/Q4090313
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kuznetsov-evgeniy-borisovich
 - person: maksakova-lyudmila-vasilevna
 - person: eybozhenko-aleksey-sergeevich
+poster_tmdb_path: /4JctQRQAcEhbsdqMfw8VArcPaI4.jpg
+backdrop_tmdb_path: /lnjDOEJFDPOxXWYxxj7YxVIPSvm.jpg

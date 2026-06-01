@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q988018
   imdb: tt0033570
+  tmdb: 532877
 sources:
 - https://www.wikidata.org/wiki/Q988018
 schema_version: 1
@@ -26,3 +27,4 @@ studio:
 - hunnia-film-studio
 poster_commons: Karády Katalin és Jávor Pál, Egy tál lencse (Film Színház Irodalom
   1941).jpg
+poster_tmdb_path: /r7ySwTzmLh6s9FZxVoBSyDW49Dl.jpg

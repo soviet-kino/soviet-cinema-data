@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q3506250
   imdb: tt0064531
+  tmdb: 268124
 sources:
 - https://www.wikidata.org/wiki/Q3506250
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: kandich-milosh
 studio:
 - yadran-film
+poster_tmdb_path: /y7Ryv06ewD8Yb2amv7xeh8YICDM.jpg

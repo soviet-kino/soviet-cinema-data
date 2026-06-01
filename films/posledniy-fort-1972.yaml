@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q112843022
   imdb: tt6194440
+  tmdb: 1519458
 sources:
 - https://www.wikidata.org/wiki/Q112843022
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - yakovlev-vadim
 studio:
 - moldova-film
+poster_tmdb_path: /8cX6OjIN8NmiHKEYsCSDouWK6E7.jpg

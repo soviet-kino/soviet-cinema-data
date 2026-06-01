@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7997918
   imdb: tt2977446
   youtube: izm9-9nel38
+  tmdb: 352631
 sources:
 - https://www.wikidata.org/wiki/Q7997918
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 studio:
 - kazakhfilm
 poster_commons: Why the Swallow Has the Tail with Little Horns 2017 Stamp of Kazakhstan.jpg
+poster_tmdb_path: /4zetHQK4SESp6g6mMhHZh2hTeNW.jpg

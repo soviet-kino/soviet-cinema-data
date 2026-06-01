@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q18676985
   imdb: tt0047886
+  tmdb: 132136
 sources:
 - https://www.wikidata.org/wiki/Q18676985
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - warsaw-documentary-film-studio
 poster_commons: Błękitny krzyż Munk.jpg
+poster_tmdb_path: /maby4vsmxWFVhEGAOzPHJkJR5Gy.jpg
+backdrop_tmdb_path: /vi6JFKrLh7JiJq5bktKsb11Heh.jpg

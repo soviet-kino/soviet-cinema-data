@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q57262796
   imdb: tt0247630
+  tmdb: 531463
 sources:
 - https://www.wikidata.org/wiki/Q57262796
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - bedrich-jan
 studio:
 - televidenie-v-chekhoslovakii
+poster_tmdb_path: /6lEN8ydpuwG6TvbJaTJqtlt0G7U.jpg

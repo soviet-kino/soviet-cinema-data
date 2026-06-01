@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4329081
   imdb: tt0064749
   youtube: ntpgnMmdex0
+  tmdb: 471759
 sources:
 - https://www.wikidata.org/wiki/Q4329081
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: nosik-vladimir
 studio:
 - moldova-film
+poster_tmdb_path: /j1JIKFO30XbeqAVdyMKc0VdzndO.jpg
+backdrop_tmdb_path: /l79FyhWUtWEfp6HtErU8cA9qBjB.jpg

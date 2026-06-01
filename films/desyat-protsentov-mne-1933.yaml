@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9127851
   imdb: tt0024345
+  tmdb: 724897
 sources:
 - https://www.wikidata.org/wiki/Q9127851
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: rapacka-halina
 - person: vesyolovskiy-tadeush
 poster_commons: Dziesiec procent dla mnie 1933.jpg
+poster_tmdb_path: /qRFZ5zk88dS0ztxx9CxQIMZ4gkF.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2117834
   imdb: tt0060625
   youtube: 0gE_PAgyuAA
+  tmdb: 198802
 sources:
 - https://www.wikidata.org/wiki/Q2117834
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: kusmerskaya-ilona
 - person: kalczynski-krzysztof
 - person: pavlycheva-antonina-pavlovna
+poster_tmdb_path: /ws7yRtphg4aypvfg4jki8Sno1j1.jpg
+backdrop_tmdb_path: /87dbsCXSjn6tmuGbBQk7DH0FtV0.jpg

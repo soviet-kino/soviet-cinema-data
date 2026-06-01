@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q3506277
   imdb: tt0176902
+  tmdb: 502826
 sources:
 - https://www.wikidata.org/wiki/Q3506277
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kabilo-alfi
 cast:
 - person: pipinic-hermina
+poster_tmdb_path: /iJoEFkv8wmHu7rMWoITQ1fSRks7.jpg

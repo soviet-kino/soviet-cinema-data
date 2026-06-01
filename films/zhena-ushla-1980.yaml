@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4179333
   imdb: tt0170822
+  tmdb: 531968
 sources:
 - https://www.wikidata.org/wiki/Q4179333
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: solovey-elena-yakovlevna
 studio:
 - lenfilm
+poster_tmdb_path: /6WJns1ipNlgIHs3wbruRrW7itaR.jpg
+backdrop_tmdb_path: /awrWYkfe0QX1NFi9kwxkPJ1soHW.jpg

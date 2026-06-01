@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q123288590
   imdb: tt1288455
+  tmdb: 654362
 sources:
 - https://www.wikidata.org/wiki/Q123288590
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - deych-dzhin
 composer:
 - belfin-frantisek
+poster_tmdb_path: /848pYgtShmNDylmXaA3pyJcdNVn.jpg
+backdrop_tmdb_path: /oeBPAbJaFSNIUcGotqiTki5lj1q.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740285
   imdb: tt0056146
+  tmdb: 747743
 sources:
 - https://www.wikidata.org/wiki/Q11740285
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - sart-marek
 cast:
 - person: kobushevskiy-yan
+poster_tmdb_path: /bBzlJc4vOIsK0OjFeDrfmvVtzma.jpg
+backdrop_tmdb_path: /fhNkVU8ipzr9XnrpOHkGfmBMjF0.jpg

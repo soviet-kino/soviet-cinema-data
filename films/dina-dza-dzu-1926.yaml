@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130553786
   imdb: tt0289695
+  tmdb: 1018722
 sources:
 - https://www.wikidata.org/wiki/Q130553786
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 studio:
 - mezhrabpom-rus
 poster_commons: Плакат к фильму «Дина Дзадзу».jpg
+poster_tmdb_path: /91eMrg1XXPfu4z3NmVJopSvkLI5.jpg
+backdrop_tmdb_path: /kBPXR38TLsSz10qYMk85YgIOLio.jpg

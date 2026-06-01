@@ -8,8 +8,10 @@ runtime_min: 86
 external_ids:
   wikidata: Q123669718
   imdb: tt0034367
+  tmdb: 578470
 sources:
 - https://www.wikidata.org/wiki/Q123669718
 schema_version: 1
 director:
 - farkash-zoltan
+poster_tmdb_path: /Ak1rDdFQyydQCvtWS2xdyWkV6Gx.jpg

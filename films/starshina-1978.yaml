@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4440873
   imdb: tt0479758
+  tmdb: 395749
 sources:
 - https://www.wikidata.org/wiki/Q4440873
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: gostyukhin-vladimir
 studio:
 - lenfilm
+poster_tmdb_path: /tXDllcmvGfzFXSeVoggeAScFtpf.jpg

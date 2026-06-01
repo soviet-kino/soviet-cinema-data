@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44863453
   imdb: tt0069978
+  tmdb: 388847
 sources:
 - https://www.wikidata.org/wiki/Q44863453
 schema_version: 1
 director:
 - gabrya-radu
+poster_tmdb_path: /3nTO4GACJ628d5USvf23eW9zfez.jpg

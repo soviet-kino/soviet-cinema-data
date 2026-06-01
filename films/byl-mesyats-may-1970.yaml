@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q4101037
   imdb: tt0065507
+  tmdb: 184335
 sources:
 - https://www.wikidata.org/wiki/Q4101037
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: shakurov-sergey-kayumovich
 - person: gostyukhin-vladimir
 - person: arzhilovskiy-aleksandr-mikhaylovich
+poster_tmdb_path: /sZLtFG8kL9WfaAUS8TdyiW10xDW.jpg
+backdrop_tmdb_path: /8xlBsPL6fbzS75VO0ujh7kO0tRo.jpg

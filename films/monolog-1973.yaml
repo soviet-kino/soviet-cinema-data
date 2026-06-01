@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4301835
   imdb: tt0068963
+  tmdb: 83461
 sources:
 - https://www.wikidata.org/wiki/Q4301835
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: gluzskiy-mikhail-andreevich
 studio:
 - lenfilm
+poster_tmdb_path: /rgnfIPP56yP5ZRF4LhktpjaRao.jpg
+backdrop_tmdb_path: /xr2ROidjPXAWJfjmzb9rlmmHD2v.jpg

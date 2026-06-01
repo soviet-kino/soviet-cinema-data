@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26961368
   imdb: tt0123564
+  tmdb: 628551
 sources:
 - https://www.wikidata.org/wiki/Q26961368
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - dregan-mircha
 screenwriter:
 - grigoresku-yoan
+poster_tmdb_path: /gzCkVtMLMfPxzmNwiT5z0hhSEA7.jpg

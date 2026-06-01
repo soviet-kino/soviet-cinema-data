@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4068159
   imdb: tt0312373
+  tmdb: 811657
 sources:
 - https://www.wikidata.org/wiki/Q4068159
 schema_version: 1
@@ -17,3 +18,4 @@ studio:
 cast:
 - person: emelyanov-vladimir-nikolaevich
 - person: smirnov-boris-aleksandrovich
+poster_tmdb_path: /kuyjCuUcMDxAlkHrZ2VO4zVhDO8.jpg

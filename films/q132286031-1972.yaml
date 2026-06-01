@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q132286031
   imdb: tt0162305
+  tmdb: 661727
 sources:
 - https://www.wikidata.org/wiki/Q132286031
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: garash-dezhyo
 - person: kallai-ferents
 - person: tot-laslo-takhi
+poster_tmdb_path: /h1AqqaWFRp5oJrkZ3xtpXI4VoHC.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4295283
   imdb: tt3638664
   youtube: zGHkc_UG-XE
+  tmdb: 464141
 sources:
 - https://www.wikidata.org/wiki/Q4295283
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: lapikov-ivan-gerasimovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /7RYvvlMfgfXfMCzrBW9HpUy7PFh.jpg
+backdrop_tmdb_path: /tmxJTICcjWcZVxFrS3ctJVP3Lwx.jpg

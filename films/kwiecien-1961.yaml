@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q11751729
   imdb: tt0055065
+  tmdb: 285632
 sources:
 - https://www.wikidata.org/wiki/Q11751729
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: czaplinska-jolanta
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /hkYwNWDJWdoK0LvJkW5KfnpHMTG.jpg

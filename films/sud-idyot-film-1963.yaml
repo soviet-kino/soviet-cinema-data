@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116476877
   imdb: tt8212314
+  tmdb: 547672
 sources:
 - https://www.wikidata.org/wiki/Q116476877
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: filippov-sergey-nikolaevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /w1tBDCShnKhq1nNHmp1p7wP2qIp.jpg

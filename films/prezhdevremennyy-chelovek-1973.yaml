@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q18676992
   imdb: tt0191371
+  tmdb: 537391
 sources:
 - https://www.wikidata.org/wiki/Q18676992
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: kvasha-igor-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /pvm5b2iWKmLCkaw0pOEKSZUGyGw.jpg
+backdrop_tmdb_path: /91nuaBsfZIwGnU4VY4xnMDN7yMJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q106113003
   imdb: tt0168452
+  tmdb: 336799
 sources:
 - https://www.wikidata.org/wiki/Q106113003
 schema_version: 1
@@ -74,3 +75,5 @@ cast:
 - person: lipa-josef
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
+poster_tmdb_path: /xppEsTu3eNNQxpDfpNLS0oFet10.jpg
+backdrop_tmdb_path: /mxUcxj8LoEJPfrjFDYypZL2Ai0E.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7759838
   imdb: tt0173969
   youtube: KxGgmaZ7Gr0
+  tmdb: 327605
 sources:
 - https://www.wikidata.org/wiki/Q7759838
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 cast:
 - person: chokmorov-suymenkul
 - person: tursunbaeva-tattybuu
+poster_tmdb_path: /6vL4OQ9Ks0u6WPSy4PEJbJiCu0O.jpg

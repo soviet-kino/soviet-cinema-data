@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123690394
   imdb: tt0138600
+  tmdb: 370754
 sources:
 - https://www.wikidata.org/wiki/Q123690394
 schema_version: 1
 director:
 - balog-bela
+poster_tmdb_path: /3iKycg8B88QEo6vK2lo9aRF4mkE.jpg

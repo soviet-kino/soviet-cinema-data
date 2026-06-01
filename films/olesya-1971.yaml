@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4333668
   imdb: tt0177065
   youtube: ebyn3Ci51dM
+  tmdb: 258666
 sources:
 - https://www.wikidata.org/wiki/Q4333668
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: chursina-lyudmila-alekseevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /jQL8618cum6vWf6yNVKoBmkoJIW.jpg
+backdrop_tmdb_path: /oTlfhRVQqmMk32KUFSqU6qYJ2iM.jpg

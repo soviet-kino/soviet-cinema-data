@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4410250
   imdb: tt0314745
   youtube: f7Y3gUYlgC8
+  tmdb: 206939
 sources:
 - https://www.wikidata.org/wiki/Q4410250
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - vigners-ivars
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /xUc1QUDg9ZFzYryicCBPaUE51B5.jpg
+backdrop_tmdb_path: /5DH8757IOuvinnc18GnWDTJloaM.jpg

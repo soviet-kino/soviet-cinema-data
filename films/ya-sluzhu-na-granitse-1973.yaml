@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4535738
   imdb: tt0070934
+  tmdb: 887422
 sources:
 - https://www.wikidata.org/wiki/Q4535738
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: brondukov-borislav-nikolaevich
 - person: karelskikh-evgeniy-konstantinovich
 - person: shcherbakov-boris-vasilevich
+poster_tmdb_path: /f7ddSuEceRYoqn8YzsAzrkmtMmP.jpg
+backdrop_tmdb_path: /3xBdstTHdSlgRoXckWRUNpVklAW.jpg

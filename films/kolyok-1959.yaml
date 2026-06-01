@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q65217278
   imdb: tt0052983
+  tmdb: 662042
 sources:
 - https://www.wikidata.org/wiki/Q65217278
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - pazhtor-ishtvan
 composer:
 - emil-petrovich
+poster_tmdb_path: /j5lljchYc8OGgojPBvEq4R0cvsM.jpg

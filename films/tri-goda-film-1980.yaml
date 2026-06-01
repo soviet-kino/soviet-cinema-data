@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97164509
   imdb: tt2581136
   youtube: CQnFe9Ga_QA
+  tmdb: 892244
 sources:
 - https://www.wikidata.org/wiki/Q97164509
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: bezyaev-igor-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /jDeA3FNAPvl5BL98C1zv6ZeGlYn.jpg

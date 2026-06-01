@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q5432146
   imdb: tt0037537
+  tmdb: 273125
 sources:
 - https://www.wikidata.org/wiki/Q5432146
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
 poster_commons: Berlin title frame.jpg
+poster_tmdb_path: /o2BmRQpTuoWaOiBzKJpokTOcEeJ.jpg
+backdrop_tmdb_path: /sKtxDDC8l50yGeirgHNVEBGfzXz.jpg

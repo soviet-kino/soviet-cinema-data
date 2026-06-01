@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q28750003
   imdb: tt0175061
+  tmdb: 467449
 sources:
 - https://www.wikidata.org/wiki/Q28750003
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - shtiglits-frantse
 cinematographer:
 - vaupotich-rudi
+poster_tmdb_path: /rdmB3OHlSrZLi8WwHmvpyd6f3OT.jpg

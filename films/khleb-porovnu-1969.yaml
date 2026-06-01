@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q12849788
   imdb: tt2921002
+  tmdb: 508263
 sources:
 - https://www.wikidata.org/wiki/Q12849788
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mamayev-xosrov
 - person: salaev-fazil
 - person: aliev-firuz-ali-abbas-ogly
+poster_tmdb_path: /mmPMV7oBciDpQCB7BGd3f4XmunW.jpg
+backdrop_tmdb_path: /lOidlyL78DfTYqs04K3YLUV11TY.jpg

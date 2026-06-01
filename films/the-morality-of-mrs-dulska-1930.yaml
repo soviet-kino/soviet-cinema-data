@@ -7,9 +7,12 @@ country:
 external_ids:
   wikidata: Q11785406
   imdb: tt0924255
+  tmdb: 854824
 sources:
 - https://www.wikidata.org/wiki/Q11785406
 schema_version: 1
 composer:
 - ruzhitskiy-lyudomir
 poster_commons: Moralność Pani Dulskiej.png
+poster_tmdb_path: /bJKEFZxO7xhd4ryE8XOToXYpJx8.jpg
+backdrop_tmdb_path: /eivm61Pt6CEXka6yJNbVlo5fw22.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25468485
   imdb: tt0058504
+  tmdb: 348056
 sources:
 - https://www.wikidata.org/wiki/Q25468485
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - ban-fridesh
 screenwriter:
 - benchik-imre
+poster_tmdb_path: /mU8g6gY4BL5oNLiBmc69pQUkBpC.jpg
+backdrop_tmdb_path: /cLWlMBETMPaSbs50zkfgoUtN7GQ.jpg

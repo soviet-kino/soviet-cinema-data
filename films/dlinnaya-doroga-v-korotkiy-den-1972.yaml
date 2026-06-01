@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4162633
   imdb: tt0172332
+  tmdb: 687944
 sources:
 - https://www.wikidata.org/wiki/Q4162633
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 - person: chekmaryov-viktor-konstantinovich
 - person: mirgorodskiy-dmitriy
+poster_tmdb_path: /8lzGvYQYPvWCPXT6e8wljIHqNfF.jpg
+backdrop_tmdb_path: /qpWCgEtV5o8InzQBU1mAwUkLnh2.jpg

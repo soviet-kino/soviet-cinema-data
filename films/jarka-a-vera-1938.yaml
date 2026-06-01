@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q6160269
   imdb: tt0275431
+  tmdb: 505062
 sources:
 - https://www.wikidata.org/wiki/Q6160269
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: q101225679
 - person: vodickova-wanda
 - person: prcek-josef
+poster_tmdb_path: /kMKSrQyHlI0ujp7xa61wTT252RO.jpg

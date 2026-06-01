@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q9335240
   imdb: tt0353402
+  tmdb: 487556
 sources:
 - https://www.wikidata.org/wiki/Q9335240
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - hoshafi-fehmi
 composer:
 - hoshafi-tasim
+poster_tmdb_path: /ibGgZeQPG8HPt1oS7lGgFSY7sdL.jpg
+backdrop_tmdb_path: /1betG3qzreidrOwweunqdJM6udi.jpg

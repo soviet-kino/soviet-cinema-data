@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q30668153
   imdb: tt0261612
+  tmdb: 368493
 sources:
 - https://www.wikidata.org/wiki/Q30668153
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: janderova-jirina
 - person: svoboda-hugo
 - person: rasp-alfons
+poster_tmdb_path: /xVGxk45FJSb7G9rH8KMLAvFX3uY.jpg
+backdrop_tmdb_path: /1nN1TMFlaJ2tDtw3bz4g3q9T8zF.jpg

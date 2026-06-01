@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65200652
   imdb: tt4842178
   youtube: wmONSpmDz4U
+  tmdb: 888349
 sources:
 - https://www.wikidata.org/wiki/Q65200652
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: tokhadze-givi-maksimovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /pcmBl0LLwDoinc73jro4Vbk4TvE.jpg
+backdrop_tmdb_path: /ffO7wTkiTUag21Q11ftlJkU5Alh.jpg

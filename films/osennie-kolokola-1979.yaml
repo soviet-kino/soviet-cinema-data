@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2533279
   imdb: tt0080426
   youtube: y1u-7yy5e4A
+  tmdb: 71026
 sources:
 - https://www.wikidata.org/wiki/Q2533279
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: millyar-georgiy-frantsevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /Aid496sssGFPBcysBQBJDXMZoww.jpg
+backdrop_tmdb_path: /vvz7Cfv8E1sz29KEz83QJaEueGW.jpg

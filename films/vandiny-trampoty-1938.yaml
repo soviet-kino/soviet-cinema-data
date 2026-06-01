@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q19600212
   imdb: tt0153494
+  tmdb: 422334
 sources:
 - https://www.wikidata.org/wiki/Q19600212
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 - person: suldovsky-vaclav
 - person: horakova-frantiska
 - person: proskova-bobina
+poster_tmdb_path: /a6m0ArMXugqGDHWVmxJffUJGCno.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q106774684
   imdb: tt0244147
+  tmdb: 640306
 sources:
 - https://www.wikidata.org/wiki/Q106774684
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 studio:
 - gruziya-film
 - bratislava-film-studios
+poster_tmdb_path: /wze7m52Jd19tGhbEqXerjJxYzGx.jpg

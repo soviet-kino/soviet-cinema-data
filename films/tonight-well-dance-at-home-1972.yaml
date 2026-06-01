@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12721137
   imdb: tt0165629
+  tmdb: 159232
 sources:
 - https://www.wikidata.org/wiki/Q12721137
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: popesku-stela
 - person: tastaman-vasilika
 - person: voluntaru-maria
+poster_tmdb_path: /yHcnYnhBzST6JOD1kPq3oJ5H3TQ.jpg

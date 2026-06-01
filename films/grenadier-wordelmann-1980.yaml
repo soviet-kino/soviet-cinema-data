@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q105552451
   imdb: tt1779409
+  tmdb: 798166
 sources:
 - https://www.wikidata.org/wiki/Q105552451
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - hildebrandt-hans-joachim
 studio:
 - defa
+poster_tmdb_path: /fjTYnW0G3IUspO2yeFambsJ77gF.jpg
+backdrop_tmdb_path: /1CRZJ3ZnxQHanOwvyJW1wPkOIjt.jpg

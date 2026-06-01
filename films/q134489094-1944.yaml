@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q134489094
   imdb: tt0037889
+  tmdb: 541449
 sources:
 - https://www.wikidata.org/wiki/Q134489094
 schema_version: 1
 director:
 - ford-aleksandr
+poster_tmdb_path: /qXVKewuJI7XvybCsZ46dcdA42df.jpg

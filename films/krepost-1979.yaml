@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7734886
   imdb: tt0077514
+  tmdb: 131015
 sources:
 - https://www.wikidata.org/wiki/Q7734886
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: benko-gyula
 - person: khernadi-yudit
 - person: rajhona-adam
+poster_tmdb_path: /pQqPkhwtPV9zTjvPXbCnULTRi6L.jpg

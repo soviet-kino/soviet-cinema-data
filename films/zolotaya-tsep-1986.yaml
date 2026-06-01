@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4193302
   imdb: tt0092294
+  tmdb: 558058
 sources:
 - https://www.wikidata.org/wiki/Q4193302
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: galkin-vladislav
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /qddM6nJawSChm4SYDHfPHYgaV9u.jpg
+backdrop_tmdb_path: /y3WD0fcveOOjZSfJoz4s4Qu3iVP.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4215315
   imdb: tt0209074
   youtube: NiYj3uD8vic
+  tmdb: 72203
 sources:
 - https://www.wikidata.org/wiki/Q4215315
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - gladkov-gennadiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ig4vsq3CPiJsQXKOIIx92SAkXEc.jpg
+backdrop_tmdb_path: /vbjsdmWTnIBzDJSzVF9oCOV1430.jpg

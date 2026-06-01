@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4334783
   imdb: tt0273917
   youtube: R2SRUnSaZqw
+  tmdb: 535854
 sources:
 - https://www.wikidata.org/wiki/Q4334783
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: ozolinya-lilita-arvidovna
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /zyadrXE8l7Xnhw9eSiU4IDwXPqR.jpg

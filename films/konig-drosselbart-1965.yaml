@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q1795961
   imdb: tt0059372
+  tmdb: 13302
 sources:
 - https://www.wikidata.org/wiki/Q1795961
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: brentina-trude
 - person: kamenik-werner
 - person: heyse-evamaria
+poster_tmdb_path: /s030xxlgT5aMpBoP16E3XMTB9Ir.jpg
+backdrop_tmdb_path: /suJlo9KMNFutAQCkYwWmPLcsaPG.jpg

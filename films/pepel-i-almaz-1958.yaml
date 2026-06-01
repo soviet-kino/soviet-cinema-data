@@ -53,6 +53,9 @@ poster_commons: Tomasz Wójcik - Ashes and Diamonds.jpg
 external_ids:
   wikidata: Q722281
   imdb: tt0052080
+  tmdb: 5055
 sources:
 - https://www.wikidata.org/wiki/Q722281
 schema_version: 1
+poster_tmdb_path: /nyB9f0VjBVNQcM6GepOXyoiU0ju.jpg
+backdrop_tmdb_path: /1QlZ3Kge4bCH01V3VibxckeVIiu.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q5284718
   imdb: tt0167898
+  tmdb: 255799
 sources:
 - https://www.wikidata.org/wiki/Q5284718
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
 poster_commons: Anna-Kaderabkova-Marjanka-Diva-Bara-1949-square-a.jpg
+poster_tmdb_path: /mfnLPt8EfLr63rs0wYK5FfFUtat.jpg

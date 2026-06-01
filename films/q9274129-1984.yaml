@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9274129
   imdb: tt0089211
+  tmdb: 576367
 sources:
 - https://www.wikidata.org/wiki/Q9274129
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - wionczek-roman
 screenwriter:
 - gzhimkovskiy-ezhi
+poster_tmdb_path: /mkSn8ybY41nGluCJKjWaQ8uociU.jpg

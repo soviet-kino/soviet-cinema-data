@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4469283
   imdb: tt4274820
+  tmdb: 525579
 sources:
 - https://www.wikidata.org/wiki/Q4469283
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - azerbaydzhanfilm
 cast:
 - person: alakbarov-shakhmar
+poster_tmdb_path: /vZ3dG7cz7sL47vMZtkY09RPIiSV.jpg
+backdrop_tmdb_path: /swSzqD2JOqTCDtv12I0fbBoWjHk.jpg

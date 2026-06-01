@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131393054
   imdb: tt4203198
+  tmdb: 356558
 sources:
 - https://www.wikidata.org/wiki/Q131393054
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 screenwriter:
 - talachka-bronyus
 - kratulis-algirdas
+poster_tmdb_path: /ghhVcX2bH2H74kEiUz3SUsjbSWm.jpg
+backdrop_tmdb_path: /hQT59oirat6wXtVlkSyQziAxGZ4.jpg

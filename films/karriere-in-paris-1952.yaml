@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6373373
   imdb: tt0236375
+  tmdb: 439255
 sources:
 - https://www.wikidata.org/wiki/Q6373373
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: nurnberg-ilse
 - person: teitke-friedrich
 - person: baillier-gunther
+poster_tmdb_path: /lxXXTterSX1g11sMW0JIMoZggpO.jpg

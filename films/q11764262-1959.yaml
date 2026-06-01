@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11764262
   imdb: tt0053024
+  tmdb: 425559
 sources:
 - https://www.wikidata.org/wiki/Q11764262
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - manturzewski-stanis-aw
 composer:
 - kilyar-voytsekh
+poster_tmdb_path: /i1w3bylEOSWKY8qovtc5VgOok1W.jpg
+backdrop_tmdb_path: /1K234grz3ZkGrvJfT8fuhPTmEEM.jpg

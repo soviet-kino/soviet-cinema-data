@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q5701628
   imdb: tt0140135
+  tmdb: 290357
 sources:
 - https://www.wikidata.org/wiki/Q5701628
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: fichner-rudolf
 - person: kadner-rudolf
 - person: tretsch-karl
+poster_tmdb_path: /hKa8YrYf0ofpt6x5ysWSMwz1rf9.jpg

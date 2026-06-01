@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q97200159
   imdb: tt0064496
+  tmdb: 300594
 sources:
 - https://www.wikidata.org/wiki/Q97200159
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: shutts-ila
 studio:
 - mafilm
+poster_tmdb_path: /45MxivNlb89EEetp96UKaFuUV2o.jpg
+backdrop_tmdb_path: /z7f48UzlPc1nivZ26HV4i1d4O6l.jpg

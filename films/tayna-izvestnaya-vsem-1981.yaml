@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q60826034
   imdb: tt2111429
   youtube: ccZdPSJ8lr4
+  tmdb: 472096
 sources:
 - https://www.wikidata.org/wiki/Q60826034
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - zaseev-rudenko-nikolay-viktorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /80jYjDdOEn4MM6XshTvVdvmz6G0.jpg
+backdrop_tmdb_path: /moOm6V81PeB4kBnYOYnvbaU5Qu1.jpg

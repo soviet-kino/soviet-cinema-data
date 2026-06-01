@@ -8,6 +8,7 @@ runtime_min: 172
 external_ids:
   wikidata: Q15270627
   imdb: tt1325678
+  tmdb: 1431338
 sources:
 - https://www.wikidata.org/wiki/Q15270627
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - efremov-igor-leonidovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /up7OGDN3LMiVwtvmYwBQFPYT4PP.jpg
+backdrop_tmdb_path: /zFTWzXMRInDVlmqoANaEOylbBTq.jpg

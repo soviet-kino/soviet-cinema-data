@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4284289
   imdb: tt2395327
   youtube: _arVZa2Xk4Q
+  tmdb: 423181
 sources:
 - https://www.wikidata.org/wiki/Q4284289
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: artmane-viya
 - person: gaudinsh-peteris
 - person: pasternak-katrina
+poster_tmdb_path: /dczMKqZzi8rgHGyztEAyt6ov9Tj.jpg

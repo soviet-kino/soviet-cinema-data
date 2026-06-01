@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4399863
   imdb: tt4676226
   youtube: UxfAEzSaYXk
+  tmdb: 540575
 sources:
 - https://www.wikidata.org/wiki/Q4399863
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 - belarusfilm
 cast:
 - person: ledogorov-igor-vadimovich
+poster_tmdb_path: /rdjZONvrd4OHhQup6X30BpUx0nX.jpg

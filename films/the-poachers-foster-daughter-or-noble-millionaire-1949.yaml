@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q7757550
   imdb: tt0152111
+  tmdb: 392670
 sources:
 - https://www.wikidata.org/wiki/Q7757550
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: danesova-sasa
 - person: jezerska-ruzena
 - person: plichtova-ludmila
+poster_tmdb_path: /v1QyUE6Uryw5ZEkxGS1Svw8zmwo.jpg

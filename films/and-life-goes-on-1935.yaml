@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q104727765
   imdb: tt0268112
+  tmdb: 315047
 sources:
 - https://www.wikidata.org/wiki/Q104727765
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: strunova-vlasta
 - person: popovic-joca
 - person: dryakova-zlata
+poster_tmdb_path: /tjo3nQ09onNKpNNabT2fSoNp5Zc.jpg

@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q7403723
   imdb: tt0034147
+  tmdb: 811983
 sources:
 - https://www.wikidata.org/wiki/Q7403723
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - soyuzdetfilm
+poster_tmdb_path: /n4yJ39COtGk4SiLsHIPBILThPA6.jpg
+backdrop_tmdb_path: /hLUeHuqXEICW5Udb6lRtHkmL5Oa.jpg

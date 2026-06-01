@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4226971
   imdb: tt2226200
+  tmdb: 275143
 sources:
 - https://www.wikidata.org/wiki/Q4226971
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - degtyaryov-vladimir-dmitrievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /bYkUlu1PVtarf1nK1VIb62GGqRu.jpg

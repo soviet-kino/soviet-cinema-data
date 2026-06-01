@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q123505039
   imdb: tt0028338
+  tmdb: 1671491
 sources:
 - https://www.wikidata.org/wiki/Q123505039
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: chortos-gyula
 - person: kiss-ferents
 - person: komar-dzhuliya
+poster_tmdb_path: /l1EDXKBC8mVc3pwlF682PJyPm8Z.jpg

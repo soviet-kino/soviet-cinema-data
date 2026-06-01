@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q131300172
   imdb: tt0267945
+  tmdb: 385015
 sources:
 - https://www.wikidata.org/wiki/Q131300172
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: prokhazka-yan
 - person: vachek-karel
 - person: jaris-milan
+poster_tmdb_path: /egFvghEcXTsz5Lm5Uyf8MaxbYOt.jpg

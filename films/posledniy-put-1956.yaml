@@ -8,8 +8,11 @@ runtime_min: 84
 external_ids:
   wikidata: Q11161526
   imdb: tt0049631
+  tmdb: 264008
 sources:
 - https://www.wikidata.org/wiki/Q11161526
 schema_version: 1
 director:
 - zhika-mitrovich
+poster_tmdb_path: /8NIjeb2kQbsGPZoXOqXycMkbxZM.jpg
+backdrop_tmdb_path: /rR0xh8uysudWcA7tGaovGovsn8i.jpg

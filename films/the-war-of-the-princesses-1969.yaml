@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44872821
   imdb: tt0187446
+  tmdb: 627102
 sources:
 - https://www.wikidata.org/wiki/Q44872821
 schema_version: 1
 director:
 - kalotesku-virdzhil
+poster_tmdb_path: /4kQurHMtUs8cc7hjFbGpV8fZOsB.jpg

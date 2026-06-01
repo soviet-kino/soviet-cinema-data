@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994083
   imdb: tt0301891
+  tmdb: 783548
 sources:
 - https://www.wikidata.org/wiki/Q84994083
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - goldshteyn-aleksandr-borisovich
 studio:
 - mosfilm
+poster_tmdb_path: /1CRbvNJGSaI7mIt1jVczxPPJu6b.jpg
+backdrop_tmdb_path: /e2LWbmqsi7sdtT605FrX4N0GuMo.jpg

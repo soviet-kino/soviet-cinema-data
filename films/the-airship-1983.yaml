@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q23564735
   imdb: tt0085876
+  tmdb: 289300
 sources:
 - https://www.wikidata.org/wiki/Q23564735
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - dressel-roland
 composer:
 - goldmann-friedrich
+poster_tmdb_path: /d3GcxgyiFTuE6pdOxGxaQagPAXn.jpg
+backdrop_tmdb_path: /tN9i1qtRIr7h8ksq09HpYSC0vYA.jpg

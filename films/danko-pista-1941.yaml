@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3230514
   imdb: tt0032381
+  tmdb: 316944
 sources:
 - https://www.wikidata.org/wiki/Q3230514
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - eiben-istvan
 cast:
 - person: javor-pal
+poster_tmdb_path: /uJa2is20gNpSyTvgHN6qfzJJhSD.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1125143
   imdb: tt0076671
+  tmdb: 208362
 sources:
 - https://www.wikidata.org/wiki/Q1125143
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: schreier-hartmut
 - person: gorges-ingolf
 - person: baumgarten-liselott
+poster_tmdb_path: /6UvOszIZu8vxBSV3spNlwZqoqEQ.jpg

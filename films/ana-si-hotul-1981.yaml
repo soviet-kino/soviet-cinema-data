@@ -8,8 +8,10 @@ runtime_min: 94
 external_ids:
   wikidata: Q28734780
   imdb: tt0236982
+  tmdb: 626852
 sources:
 - https://www.wikidata.org/wiki/Q28734780
 schema_version: 1
 director:
 - kalotesku-virdzhil
+poster_tmdb_path: /70N6Sh5UeZBM2SXXiPV2V6rH4gG.jpg

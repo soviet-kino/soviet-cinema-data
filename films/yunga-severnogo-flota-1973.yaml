@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4534518
   imdb: tt0072433
   youtube: lYmE8WtK6u4
+  tmdb: 149840
 sources:
 - https://www.wikidata.org/wiki/Q4534518
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: arlauskas-algis-iozasovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6tluJdwuKxr0BV3GEcAceNsWEXr.jpg
+backdrop_tmdb_path: /b0RVZMsqLh00bwM2IsHcLbCQ9rW.jpg

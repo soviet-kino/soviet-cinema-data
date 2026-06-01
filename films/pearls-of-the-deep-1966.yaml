@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q16028796
   imdb: tt0059581
+  tmdb: 106124
 sources:
 - https://www.wikidata.org/wiki/Q16028796
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: vasak-jan
 - person: jerabek-karel
 - person: lastovkova-alzbeta
+poster_tmdb_path: /rghHfnUN3uZ6dDu5vu0I2jQNtxa.jpg
+backdrop_tmdb_path: /15tVIeL8V77BoEdLfw2FIu4KtMh.jpg

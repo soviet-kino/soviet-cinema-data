@@ -8,8 +8,10 @@ runtime_min: 70
 external_ids:
   wikidata: Q5261214
   imdb: tt0056375
+  tmdb: 1520287
 sources:
 - https://www.wikidata.org/wiki/Q5261214
 schema_version: 1
 director:
 - jung-alsen-kurt
+poster_tmdb_path: /cGNw5Ce4QkCQuWjpkwjqEzmCf2x.jpg

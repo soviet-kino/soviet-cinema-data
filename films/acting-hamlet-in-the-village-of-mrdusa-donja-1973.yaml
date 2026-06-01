@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4676850
   imdb: tt0072025
+  tmdb: 264722
 sources:
 - https://www.wikidata.org/wiki/Q4676850
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: lepetich-zvonko
 - person: sain-nevenka
 - person: hajdarhodzic-izet
+poster_tmdb_path: /p6NUxqXtr18wjPklPfJ57VwRyZr.jpg
+backdrop_tmdb_path: /aq9JvLhbydoYKZrIKaaZ7N8WXGx.jpg

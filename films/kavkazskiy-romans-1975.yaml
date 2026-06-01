@@ -8,9 +8,11 @@ runtime_min: 25
 external_ids:
   wikidata: Q107134632
   imdb: tt0276248
+  tmdb: 825312
 sources:
 - https://www.wikidata.org/wiki/Q107134632
 schema_version: 1
 director:
 - gabriadze-rezo
 - darsavelidze-amiran-shalvovich
+poster_tmdb_path: /5tHzuuHrnANJKaJzIeiaXEjmpyw.jpg

@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q4738493
   imdb: tt0231128
+  tmdb: 290045
 sources:
 - https://www.wikidata.org/wiki/Q4738493
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - bergmann-khelmut
 composer:
 - wehding-hans-hendrik
+poster_tmdb_path: /uml3kNFY0fBeoXZ1EjQxhSI9X95.jpg

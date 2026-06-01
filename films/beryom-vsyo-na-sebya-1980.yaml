@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4085541
   imdb: tt0193004
   youtube: NuvQI30FDHA
+  tmdb: 558051
 sources:
 - https://www.wikidata.org/wiki/Q4085541
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - chyornyy-mikhail-kirillovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /pfQrHuRAkesUH0jgxGTmeZxFbL9.jpg
+backdrop_tmdb_path: /kSdjUMxnAkoARDiG2SOQuiTbHR4.jpg

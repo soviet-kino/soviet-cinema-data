@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q12047075
   imdb: tt12845628
+  tmdb: 469009
 sources:
 - https://www.wikidata.org/wiki/Q12047075
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: hanus-karel
 - person: horacek-jaroslav
 - person: jindrak-jindrich
+poster_tmdb_path: /oGb1fvADxDwU6nNEOba8FBfQYE9.jpg
+backdrop_tmdb_path: /xxUPtoFNFrDYorwayy6kufOOCcI.jpg

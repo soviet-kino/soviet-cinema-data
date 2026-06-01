@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4230746
   imdb: tt0167239
   youtube: FGMPTXnKV_k
+  tmdb: 275255
 sources:
 - https://www.wikidata.org/wiki/Q4230746
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ashimov-asanali-ashimovich
 - person: ivanov-boris-vladimirovich
 - person: strzhelchik-vladislav-ignatevich
+poster_tmdb_path: /nCkzPcxaW8a5eRvjwf5M2CYBf0h.jpg
+backdrop_tmdb_path: /mIIH2Oyn0ct8V1KjbC26cNNKe77.jpg

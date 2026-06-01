@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4229123
   imdb: tt0093361
   youtube: 5ujAtm5WiSg
+  tmdb: 182715
 sources:
 - https://www.wikidata.org/wiki/Q4229123
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: rakhlenko-aleksandr-yurevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /6UWw4gCaZhLlBnF8vkK7CvBt3Sm.jpg
+backdrop_tmdb_path: /v7aQ6xB0x6EmKimznHlxEN11Q13.jpg

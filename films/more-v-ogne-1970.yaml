@@ -8,6 +8,7 @@ runtime_min: 146
 external_ids:
   wikidata: Q4302588
   imdb: tt4032688
+  tmdb: 534463
 sources:
 - https://www.wikidata.org/wiki/Q4302588
 schema_version: 1
@@ -71,3 +72,5 @@ cast:
 - person: tyrtov-konstantin-andreevich
 studio:
 - mosfilm
+poster_tmdb_path: /yrf9GFVeZ6gHXuc26EF7ZHW8Pg5.jpg
+backdrop_tmdb_path: /60mYesUpixY90fo6VCrdE5A6had.jpg

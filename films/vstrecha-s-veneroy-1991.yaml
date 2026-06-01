@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q148383
   imdb: tt0102428
+  tmdb: 117825
 sources:
 - https://www.wikidata.org/wiki/Q148383
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: sholl-rita
 studio:
 - warner-bros
+poster_tmdb_path: /zCId7g6MCWBM3bcwQV4ZkSNvWvz.jpg
+backdrop_tmdb_path: /67zQHjQTUBrtpcgDusrVpg1ebT0.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q11820031
   imdb: tt0346051
+  tmdb: 700363
 sources:
 - https://www.wikidata.org/wiki/Q11820031
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ferri-xhevdet
 studio:
 - albfilm
+poster_tmdb_path: /ffdydkjibaGPUy5ukS78omMJCLw.jpg
+backdrop_tmdb_path: /hFag61qZKxGPod7bVQigTUtx0NP.jpg

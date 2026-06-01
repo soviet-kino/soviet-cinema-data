@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4374210
   imdb: tt0274730
   youtube: rBx2AFtU6sI
+  tmdb: 536898
 sources:
 - https://www.wikidata.org/wiki/Q4374210
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: stomma-zdislav-frantsevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /1ARhWAa4efCFppcT4YjqQ2AOmny.jpg

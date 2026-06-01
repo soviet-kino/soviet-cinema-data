@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3302573
   imdb: tt0295174
+  tmdb: 391434
 sources:
 - https://www.wikidata.org/wiki/Q3302573
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: roshi-kadri
 - person: caushi-kastriot
 - person: makochi-matilda
+poster_tmdb_path: /eT4Oyb4shUvPu0yTO9Q26a3gZJJ.jpg
+backdrop_tmdb_path: /hXwbc6TO4HHgMzmEmX82RYDW5W8.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1124808
   imdb: tt0074755
+  tmdb: 384414
 sources:
 - https://www.wikidata.org/wiki/Q1124808
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - shomlo-tamash
 composer:
 - emil-petrovich
+poster_tmdb_path: /ixxivoXbRXqR57MWZbfk7bSZHbG.jpg
+backdrop_tmdb_path: /ku4lRUSQDcJ2iEPJJcHwrDEf4dp.jpg

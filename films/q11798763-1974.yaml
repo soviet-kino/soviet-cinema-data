@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11798763
   imdb: tt0071947
+  tmdb: 790897
 sources:
 - https://www.wikidata.org/wiki/Q11798763
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - radvan-stanislav
 cast:
 - person: novitskiy-yan
+poster_tmdb_path: /n3sIvrpQbK8JgwyqOSQk7hegtsH.jpg

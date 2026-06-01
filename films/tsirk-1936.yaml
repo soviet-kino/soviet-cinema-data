@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1976863
   imdb: tt0028420
   youtube: ia4DyErYhAs
+  tmdb: 87799
 sources:
 - https://www.wikidata.org/wiki/Q1976863
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Patterson1936cirk.jpg
+poster_tmdb_path: /aUQpKgrfeeNSzL1OdpjzXxU2aoQ.jpg
+backdrop_tmdb_path: /zIGHACfMfANRkZHjj8AsChT50OE.jpg

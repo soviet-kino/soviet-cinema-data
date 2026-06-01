@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9351371
   imdb: tt0069338
+  tmdb: 818667
 sources:
 - https://www.wikidata.org/wiki/Q9351371
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kazanetskiy-valdemar
 cast:
 - person: nemirskaya-malgozhata
+poster_tmdb_path: /yqtULLqJBYDZj3e9oDTBMDtLDn0.jpg

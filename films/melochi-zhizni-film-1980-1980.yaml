@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97191688
   imdb: tt2522468
   youtube: _idAt-Y_C_c
+  tmdb: 1174053
 sources:
 - https://www.wikidata.org/wiki/Q97191688
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - khrapachev-vadim-yurevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /kziHZJ3xXha3wPev86PV813O0yS.jpg
+backdrop_tmdb_path: /orkTEpJeOCAV80tUParYe0dEhed.jpg

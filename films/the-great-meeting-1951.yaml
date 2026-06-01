@@ -8,8 +8,10 @@ runtime_min: 20
 external_ids:
   wikidata: Q31185275
   imdb: tt0324421
+  tmdb: 401569
 sources:
 - https://www.wikidata.org/wiki/Q31185275
 schema_version: 1
 director:
 - neugebauer-walter
+poster_tmdb_path: /k2uuxTXQgXXU3FIL98AbJS4jGcW.jpg

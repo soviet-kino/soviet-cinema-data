@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q6692470
   imdb: tt0170244
+  tmdb: 341538
 sources:
 - https://www.wikidata.org/wiki/Q6692470
 schema_version: 1
@@ -71,3 +72,5 @@ cast:
 - person: bilek-vladimir
 - person: vodicka-bohumil
 - person: novakova-dagmar
+poster_tmdb_path: /gIxuE56RX43UwhZL7asQjTDRPP0.jpg
+backdrop_tmdb_path: /1CpjjmLmTJW6hCXwPH3ApF3ngsH.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4430725
   imdb: tt11906140
+  tmdb: 1143992
 sources:
 - https://www.wikidata.org/wiki/Q4430725
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Spartacus 1926.jpg
+poster_tmdb_path: /5hQ6NbgxDcl9mPjudSqHupX0VzR.jpg
+backdrop_tmdb_path: /AfDmkB7z6LuXfZ4OOURCSf47FTy.jpg

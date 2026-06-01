@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q65199246
   imdb: tt3327632
+  tmdb: 455248
 sources:
 - https://www.wikidata.org/wiki/Q65199246
 schema_version: 1
 director:
 - shadurskiy-boris-konstantinovich
+poster_tmdb_path: /aP7MmlRvARnItiXFPgdK5QyytKe.jpg
+backdrop_tmdb_path: /nTKRyIytxLPqlpNuXONejFgmEmw.jpg

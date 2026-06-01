@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270524
   imdb: tt0310321
+  tmdb: 707739
 sources:
 - https://www.wikidata.org/wiki/Q15270524
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: shetenova-galina
 studio:
 - kazakhfilm
+poster_tmdb_path: /rRhmb1xYjd12RzNvZtBBUpkJIgk.jpg
+backdrop_tmdb_path: /j64sUMoatnmBSBgWhFiwISHL9ED.jpg

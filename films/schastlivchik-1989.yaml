@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q19799670
   imdb: tt0193484
   youtube: BceK9FYZkGo
+  tmdb: 574121
 sources:
 - https://www.wikidata.org/wiki/Q19799670
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: stotskiy-nikolay-viktorovich
 studio:
 - mosfilm
+poster_tmdb_path: /oYV3zcTrzu5SGx5rdfoBR1UhIHM.jpg
+backdrop_tmdb_path: /59EuU6qzCNj0NR7ejykhPZIk2NY.jpg

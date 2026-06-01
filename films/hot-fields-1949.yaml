@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15297973
   imdb: tt0040368
+  tmdb: 355838
 sources:
 - https://www.wikidata.org/wiki/Q15297973
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - apathi-imre
 screenwriter:
 - varkoni-zoltan
+poster_tmdb_path: /AtuOInGlyjbXbcY0c14xes14JT.jpg

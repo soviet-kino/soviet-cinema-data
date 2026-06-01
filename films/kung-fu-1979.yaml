@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11751089
   imdb: tt0081017
+  tmdb: 299848
 sources:
 - https://www.wikidata.org/wiki/Q11751089
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: novish-pavel
 - person: dipont-magdalena
 - person: mrowiec-andrzej
+poster_tmdb_path: /8lbhGDqavuV5SL2qPKQ04AVNt0x.jpg
+backdrop_tmdb_path: /7d8OQyL43PVhhsnyBij6pN1y39A.jpg

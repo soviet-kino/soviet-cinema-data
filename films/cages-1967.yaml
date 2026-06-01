@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q15823699
   imdb: tt0475636
+  tmdb: 333557
 sources:
 - https://www.wikidata.org/wiki/Q15823699
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kijowicz-miros-aw
 composer:
 - komeda-kshishtof
+poster_tmdb_path: /5AQyTSRn1vHBvsezCFgwB4wbooP.jpg

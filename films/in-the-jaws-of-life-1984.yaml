@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q2443979
   imdb: tt0088312
+  tmdb: 266699
 sources:
 - https://www.wikidata.org/wiki/Q2443979
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - yadran-film
 - kroatiya-film
+poster_tmdb_path: /5VdK0ASt6R2BqrlwKnoVQg0XXQw.jpg
+backdrop_tmdb_path: /u7tH5YKGnnET6tHRAWMLFsF9pdI.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4134603
   imdb: tt0338056
   youtube: 6kdaWTILPow
+  tmdb: 207917
 sources:
 - https://www.wikidata.org/wiki/Q4134603
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - sergey-petrovich-banevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /wlswOKJ0Uh7pBhJKyTLRsLRPzx4.jpg
+backdrop_tmdb_path: /s26b9mLVJuy7yi39XqE39Tiv4YC.jpg

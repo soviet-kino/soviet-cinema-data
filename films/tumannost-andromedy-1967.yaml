@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1971187
   imdb: tt0278781
   youtube: q-aOXXXzNVk
+  tmdb: 42655
 sources:
 - https://www.wikidata.org/wiki/Q1971187
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: yanpavlis-vitold
 - person: fedorinskiy-alim-vladimirovich
 - person: tskhvariashvili-vladimir-georgievich
+poster_tmdb_path: /3HGhgqtfOcthal6y8yjCMHR0wv2.jpg
+backdrop_tmdb_path: /3Fh5BVsz4LsHc0VR1xMtnnZw46I.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q20508439
   imdb: tt0173394
   youtube: 0nj634PtRgE
+  tmdb: 1206419
 sources:
 - https://www.wikidata.org/wiki/Q20508439
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: khachatryan-aleksandr
 - person: marguni-vaginak
 - person: bagratuni-arseniy
+poster_tmdb_path: /1ZaV3CamjfGwj11p3A4FH1G4jkH.jpg
+backdrop_tmdb_path: /zbzWbtfMHEf56f7T2eJDCQTUoYV.jpg

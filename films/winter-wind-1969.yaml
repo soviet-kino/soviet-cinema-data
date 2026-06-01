@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q3485288
   imdb: tt0065138
+  tmdb: 197849
 sources:
 - https://www.wikidata.org/wiki/Q3485288
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: buytor-ishtvan
 - person: share-zhak
 - person: marsh-filipp
+poster_tmdb_path: /pz3HpalL7x4SYSVGpwkoUNHwQXH.jpg
+backdrop_tmdb_path: /hmH7vDeBRCeGS8Q2kvTlrgp6J3C.jpg

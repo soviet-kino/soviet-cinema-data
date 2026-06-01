@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4184537
   imdb: tt0058767
   youtube: g5W9rmrICE8
+  tmdb: 208785
 sources:
 - https://www.wikidata.org/wiki/Q4184537
 schema_version: 1
@@ -27,3 +28,5 @@ studio:
 - lenfilm
 cast:
 - person: bykov-leonid-fyodorovich
+poster_tmdb_path: /tZfCz5gLms8C4TiF4bLQbVqvNzW.jpg
+backdrop_tmdb_path: /z69Mb6rtlKprw1a2oC5AX40vPfW.jpg

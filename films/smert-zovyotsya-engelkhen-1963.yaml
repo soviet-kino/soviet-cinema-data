@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q251284
   imdb: tt0057513
   youtube: JXzFta0s3YM
+  tmdb: 227743
 sources:
 - https://www.wikidata.org/wiki/Q251284
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: stehlik-josef
 - person: prihoda-jozef
 - person: chotas-norbert
+poster_tmdb_path: /fIlc86SIWtyUGCwmfrQxMv8Xk63.jpg
+backdrop_tmdb_path: /gUyERYXdc2InoN8i9Ekdiv1JYdW.jpg

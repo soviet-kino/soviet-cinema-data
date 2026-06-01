@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q12760069
   imdb: tt0086444
+  tmdb: 503931
 sources:
 - https://www.wikidata.org/wiki/Q12760069
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mensur-irfan
 - person: babic-mirko
 - person: q16088547
+poster_tmdb_path: /cyPq2lfk36zhEw6XVwBGeMkbidE.jpg
+backdrop_tmdb_path: /acPHjpTXicONuTsi0YMg7MUK13k.jpg

@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q4382360
   imdb: tt0073584
+  tmdb: 186588
 sources:
 - https://www.wikidata.org/wiki/Q4382360
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: gubenko-nikolay-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /pMAdJ7zhWNy0PIDPmJ6lIS54czQ.jpg
+backdrop_tmdb_path: /7OHYUyA7BwGLDKJTZbC6jSPxnXD.jpg

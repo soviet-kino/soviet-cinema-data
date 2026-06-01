@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q99628012
   imdb: tt2764802
+  tmdb: 541915
 sources:
 - https://www.wikidata.org/wiki/Q99628012
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: orlov-german
 studio:
 - lenfilm
+poster_tmdb_path: /h7vgjWgYI2uXeI2puSSa0VWhm8Q.jpg

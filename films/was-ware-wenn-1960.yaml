@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7971304
   imdb: tt0054461
+  tmdb: 439609
 sources:
 - https://www.wikidata.org/wiki/Q7971304
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - klingenberg-gerhard
 cinematographer:
 - gusko-erikh
+poster_tmdb_path: /6ookXxqzJkXWOE5bicZgXVIYeBK.jpg

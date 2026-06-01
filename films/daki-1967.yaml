@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1963051
   imdb: tt0060482
   youtube: 8u42IyoPZc0
+  tmdb: 36662
 sources:
 - https://www.wikidata.org/wiki/Q1963051
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: chekh-sabolch
 - person: barton-dzheo
 - person: cosma-vasile
+poster_tmdb_path: /awN7lXKuIJ49nUnr3ZNNUw5oqCY.jpg
+backdrop_tmdb_path: /ocVv7ivaYXl2TFrQbk25mnzhhsm.jpg

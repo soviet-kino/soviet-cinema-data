@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q12861801
   imdb: tt0275820
+  tmdb: 835452
 sources:
 - https://www.wikidata.org/wiki/Q12861801
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - mgeladze-karaman-georgievich
 studio:
 - gruziya-film
+poster_tmdb_path: /ePPC6w44vE6JRh9KExhp4ADIn8t.jpg

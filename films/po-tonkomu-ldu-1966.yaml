@@ -8,6 +8,7 @@ runtime_min: 175
 external_ids:
   wikidata: Q4366114
   imdb: tt0188147
+  tmdb: 106264
 sources:
 - https://www.wikidata.org/wiki/Q4366114
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yavorskiy-feliks-leonidovich
 studio:
 - mosfilm
+poster_tmdb_path: /gUzRtHpMkkhNNO1lK322zk5G3YJ.jpg
+backdrop_tmdb_path: /yWZJDu14arnriF83rnjTsYmx0qQ.jpg

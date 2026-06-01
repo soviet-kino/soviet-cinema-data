@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6959188
   imdb: tt0076435
   youtube: nAK7BeLIaMo
+  tmdb: 285382
 sources:
 - https://www.wikidata.org/wiki/Q6959188
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: sarkisyan-sos
 studio:
 - armenfilm
+poster_tmdb_path: /7jOcw8XjJED6hpK4DFiMWLUaMLz.jpg

@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q11770939
   imdb: tt0055150
+  tmdb: 557436
 sources:
 - https://www.wikidata.org/wiki/Q11770939
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - grazhina-batsevich
 cast:
 - person: piekarska-ma-gosia
+poster_tmdb_path: /nW5DD2VcXHgx5RpWlalFh3SXgyF.jpg
+backdrop_tmdb_path: /v7U3Ek5j9CUnwkDViIaaJcw4TAy.jpg

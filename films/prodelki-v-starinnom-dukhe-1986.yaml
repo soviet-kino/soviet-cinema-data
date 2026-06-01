@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4379924
   imdb: tt0091793
   youtube: obSy6rcX83s
+  tmdb: 469354
 sources:
 - https://www.wikidata.org/wiki/Q4379924
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: samoylov-vladimir-yakovlevich
 studio:
 - mosfilm
+poster_tmdb_path: /58Rnjs2Ymlx6OPctoJTO5VXjIAU.jpg
+backdrop_tmdb_path: /jqj8dBlIqGPdqOBwZH2GNBJK5mr.jpg

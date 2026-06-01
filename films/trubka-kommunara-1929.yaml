@@ -8,8 +8,11 @@ runtime_min: 65
 external_ids:
   wikidata: Q3211648
   imdb: tt0261007
+  tmdb: 190326
 sources:
 - https://www.wikidata.org/wiki/Q3211648
 schema_version: 1
 director:
 - mardzhanishvili-konstantin-aleksandrovich
+poster_tmdb_path: /ctQ3tynZWFpiNpOogjfoPENZiUf.jpg
+backdrop_tmdb_path: /4OcbBcRONGeRbultQz64lPD3OHb.jpg

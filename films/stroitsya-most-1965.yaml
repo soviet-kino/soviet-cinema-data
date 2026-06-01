@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q4444164
   imdb: tt0059761
+  tmdb: 547568
 sources:
 - https://www.wikidata.org/wiki/Q4444164
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: tolmachyova-liliya-mikhaylovna
 studio:
 - mosfilm
+poster_tmdb_path: /eNdIRPRP6OpWwvdMgkiZqfVLpwK.jpg

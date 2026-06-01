@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366987
   imdb: tt2396425
   youtube: ZUK7Gw56vHo
+  tmdb: 207259
 sources:
 - https://www.wikidata.org/wiki/Q4366987
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: pyatronaytis-stasis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /sCdQ9sptkDwWArg6KgcZIFQDyK2.jpg
+backdrop_tmdb_path: /ko1jgh6Px8U37utsez1nzkNBCym.jpg

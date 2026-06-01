@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q115780306
   imdb: tt1303774
+  tmdb: 948315
 sources:
 - https://www.wikidata.org/wiki/Q115780306
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - ragozin-lev
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /pnJe4Tz44MdI3Kqpkaw5wffbuyD.jpg

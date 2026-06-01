@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4113744
   imdb: tt0065186
   youtube: tPw1CrVUHII
+  tmdb: 838185
 sources:
 - https://www.wikidata.org/wiki/Q4113744
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: yumatov-georgiy-aleksandrovich
 - person: zubkov-valentin-ivanovich
 - person: bogolyubov-yuriy-nikolaevich
+poster_tmdb_path: /fIDHdoB94uMWONlNWIDqIWOQbk8.jpg
+backdrop_tmdb_path: /haipPVU2aHfgzJ9OduQALRl3u1w.jpg

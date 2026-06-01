@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q8073044
   imdb: tt0248624
+  tmdb: 242762
 sources:
 - https://www.wikidata.org/wiki/Q8073044
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: krchnavy-jiri
 - person: bartakova-eva
 - person: jedlicka-vladimir-2
+poster_tmdb_path: /x7W4BUN5yYRfR4gd3hstHHspcjF.jpg
+backdrop_tmdb_path: /jh0D0M4q6HUaEaoVQ3wOtLsxUdW.jpg

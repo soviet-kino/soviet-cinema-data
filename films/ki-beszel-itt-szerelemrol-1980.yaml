@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20882781
   imdb: tt0079398
+  tmdb: 286776
 sources:
 - https://www.wikidata.org/wiki/Q20882781
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - andor-tamash
 composer:
 - vukan-gyorgy
+poster_tmdb_path: /eJ9HmRrU8CM4w8coom0jWSh9WB1.jpg

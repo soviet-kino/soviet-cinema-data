@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q11749031
   imdb: tt0085812
+  tmdb: 298160
 sources:
 - https://www.wikidata.org/wiki/Q11749031
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: pechinskiy-kshishtof
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /gLT0PzCkoRrjxDVfdv2hTmDY1rO.jpg

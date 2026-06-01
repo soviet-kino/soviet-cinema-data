@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1138968
   imdb: tt0086022
   youtube: KSN3_wj2G0M
+  tmdb: 1394
 sources:
 - https://www.wikidata.org/wiki/Q1138968
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: kvazimodo-mariya-kumani
 - person: vida-pero
 - person: mario-raffael-di
+poster_tmdb_path: /kkTdijJeGXt2wFbKnvvoZOmouIo.jpg
+backdrop_tmdb_path: /z0ZAEC2aZuflzua3HOSygVzE6Jq.jpg

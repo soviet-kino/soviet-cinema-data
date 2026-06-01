@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q109420379
   imdb: tt0172859
+  tmdb: 505853
 sources:
 - https://www.wikidata.org/wiki/Q109420379
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: fandera-oleg-yakovlevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /ctf2kcKfXwHg6D0WrqvYrb2eSVI.jpg
+backdrop_tmdb_path: /pTwXlQr3DTDNMcOqmEQzCXEdVih.jpg

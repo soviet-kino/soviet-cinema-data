@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q21292048
   imdb: tt3170766
+  tmdb: 383087
 sources:
 - https://www.wikidata.org/wiki/Q21292048
 schema_version: 1
 director:
 - rajnai-andras
+poster_tmdb_path: /n3HnsicbkZomnkpmOui8KlL05Bo.jpg

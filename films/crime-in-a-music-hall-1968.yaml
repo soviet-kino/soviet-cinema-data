@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5185414
   imdb: tt0063844
   youtube: Mt4hHcV7R5Q
+  tmdb: 194093
 sources:
 - https://www.wikidata.org/wiki/Q5185414
 schema_version: 1
@@ -87,3 +88,4 @@ cast:
 - person: juna-stanislav
 - person: pejskova-irena
 - person: sojka-frantisek
+poster_tmdb_path: /8c5AriF3VODt0Cl4h8s1Ocq8dPU.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4483531
   imdb: tt0308723
   youtube: FNH3JVyD1eQ
+  tmdb: 531248
 sources:
 - https://www.wikidata.org/wiki/Q4483531
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: khimichev-boris-petrovich
 studio:
 - lenfilm
+poster_tmdb_path: /j2fxjJWj5fzBrWKEpX4bCBrJPYT.jpg

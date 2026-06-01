@@ -8,8 +8,11 @@ runtime_min: 29
 external_ids:
   wikidata: Q31185512
   imdb: tt0174141
+  tmdb: 467764
 sources:
 - https://www.wikidata.org/wiki/Q31185512
 schema_version: 1
 director:
 - milosh-radivoevich
+poster_tmdb_path: /pRcPIxIz5zEGRXGMDXUWo1jMH4J.jpg
+backdrop_tmdb_path: /vMRJMfYeYH4wqQAC0wKCinBbTnl.jpg

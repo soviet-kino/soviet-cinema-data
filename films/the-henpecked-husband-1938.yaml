@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123588530
   imdb: tt0030552
+  tmdb: 46701
 sources:
 - https://www.wikidata.org/wiki/Q123588530
 schema_version: 1
 director:
 - vasari-yanosh
+poster_tmdb_path: /aFccQVqjItO7GcZTig5AJOKmQCq.jpg

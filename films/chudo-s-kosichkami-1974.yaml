@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q52558203
   imdb: tt0128119
+  tmdb: 204093
 sources:
 - https://www.wikidata.org/wiki/Q52558203
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 cast:
 - person: irina-stepanovna-mazurkevich
 - person: igor-yasulovich
+poster_tmdb_path: /vWiVii3Dey92KOjgQLV8CSkxSfo.jpg
+backdrop_tmdb_path: /sbxP9EgOlv0JyIWnFanKXjck55z.jpg

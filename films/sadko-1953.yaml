@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q74568
   imdb: tt0046264
   youtube: zedi4fgeMeI
+  tmdb: 46997
 sources:
 - https://www.wikidata.org/wiki/Q74568
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: larionova-alla-dmitrievna
 studio:
 - mosfilm
+poster_tmdb_path: /oizWxkFptSQ6wSu7y5tblvKY6S8.jpg
+backdrop_tmdb_path: /jdddVDvyIoV2au7qBhCTJsKd5bf.jpg

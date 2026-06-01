@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4106452
   imdb: tt0332808
   youtube: s4QeN47pysw
+  tmdb: 889787
 sources:
 - https://www.wikidata.org/wiki/Q4106452
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: zhukov-viktor-alekseevich
+poster_tmdb_path: /eY4p6Djd0fqEfR2owb6bs7Sl6P2.jpg

@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q4462643
   imdb: tt0059522
+  tmdb: 72633
 sources:
 - https://www.wikidata.org/wiki/Q4462643
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: vasilev-mikhail-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /2d7YPuPnNIo1m2mqMbdvCAAHltp.jpg

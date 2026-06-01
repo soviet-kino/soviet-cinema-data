@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q20092496
   imdb: tt0457120
+  tmdb: 397196
 sources:
 - https://www.wikidata.org/wiki/Q20092496
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - gagulashvili-arkadiy-davidovich
 studio:
 - lenfilm
+poster_tmdb_path: /ovMwm4uz1MQwHuChjAixEmF1wd8.jpg

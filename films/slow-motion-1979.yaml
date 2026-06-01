@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q7542038
   imdb: tt0182509
+  tmdb: 337280
 sources:
 - https://www.wikidata.org/wiki/Q7542038
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kabilo-alfi
 cast:
 - person: dulich-vlatko
+poster_tmdb_path: /79cYDWO11lPZ65kTFJwApahir4f.jpg

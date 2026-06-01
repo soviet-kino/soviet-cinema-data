@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q47004589
   imdb: tt0452372
+  tmdb: 766704
 sources:
 - https://www.wikidata.org/wiki/Q47004589
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - pars-kheyno
 studio:
 - tallinfilm
+poster_tmdb_path: /r8ojqvtaItjB3z1EaYp9WoJGtsJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q28665847
   imdb: tt0063175
+  tmdb: 454434
 sources:
 - https://www.wikidata.org/wiki/Q28665847
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: dzhigarkhanyan-armen-borisovich
 - person: shakurov-sergey-kayumovich
 - person: kindinov-evgeniy-arsenevich
+poster_tmdb_path: /uEu7C02VfdtpFm7BBA2Vgg6PqHr.jpg
+backdrop_tmdb_path: /vSTvyLheFr6W3HkOVt8oHixuAiH.jpg

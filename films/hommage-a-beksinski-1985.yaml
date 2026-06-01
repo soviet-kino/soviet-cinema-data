@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131315036
   imdb: tt3961902
+  tmdb: 1379324
 sources:
 - https://www.wikidata.org/wiki/Q131315036
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - dziworski-bogdan
 composer:
 - kuznyak-khenrik
+poster_tmdb_path: /f597NQkb71ARxfrYVpn73yR907b.jpg

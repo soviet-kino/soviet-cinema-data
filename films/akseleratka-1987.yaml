@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4059869
   imdb: tt0092525
   youtube: oK7QXVGB7xM
+  tmdb: 142690
 sources:
 - https://www.wikidata.org/wiki/Q4059869
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: shmelyova-irina-viktorovna
 studio:
 - mosfilm
+poster_tmdb_path: /uN5KH8vQ1sK6SIZRNmPaPHEuaH3.jpg
+backdrop_tmdb_path: /o3TCBMiVAKUotyfr78jNiRswpmf.jpg

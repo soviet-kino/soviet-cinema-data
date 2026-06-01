@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11772157
   imdb: tt0476804
+  tmdb: 949333
 sources:
 - https://www.wikidata.org/wiki/Q11772157
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - gzhimkovskiy-ezhi
 composer:
 - nadolski-helmut
+poster_tmdb_path: /uJTa9stcw1B9aWf4j6bCuzWIFy6.jpg

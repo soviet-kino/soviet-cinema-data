@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q506767
   imdb: tt0053306
+  tmdb: 199177
 sources:
 - https://www.wikidata.org/wiki/Q506767
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: konforti-leo
 - person: vachkov-grigor
 - person: yakovlev-yuriy
+poster_tmdb_path: /9LF08zUpTqXnOjlNES8dkqdBEwm.jpg
+backdrop_tmdb_path: /35Lkd1KQ1OJGG3WEWBJs6H46LYJ.jpg

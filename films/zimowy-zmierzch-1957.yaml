@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q9391298
   imdb: tt0051224
+  tmdb: 259998
 sources:
 - https://www.wikidata.org/wiki/Q9391298
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - valyatsinskiy-adam
 cast:
 - person: ziembinski-w-odzis-aw
+poster_tmdb_path: /1svxJmoaQDRNHWiS3JthLLdMQDN.jpg
+backdrop_tmdb_path: /tnWkiJsLYA3pjAQEjeeVgvHMEK.jpg

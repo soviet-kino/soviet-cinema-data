@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q1057230
   imdb: tt0051753
+  tmdb: 245072
 sources:
 - https://www.wikidata.org/wiki/Q1057230
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: sivo-mariya
 - person: andahazi-margit
 - person: orban-viola
+poster_tmdb_path: /6VPceAmEhgetAuPg5VLbpgXhVbH.jpg
+backdrop_tmdb_path: /1W3klBgc7Ts6UkcaFnz4vIr2Q29.jpg

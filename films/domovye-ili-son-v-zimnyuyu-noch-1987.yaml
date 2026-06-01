@@ -8,6 +8,7 @@ runtime_min: 608
 external_ids:
   wikidata: Q4165923
   imdb: tt6389252
+  tmdb: 1131252
 sources:
 - https://www.wikidata.org/wiki/Q4165923
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kiselyov-anatoliy-ivanovich
 studio:
 - ekran
+poster_tmdb_path: /zCgoDsmfjicm1PgGaSffuzcnI4e.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4333533
   imdb: tt0051345
   youtube: VB7Xv7Rthso
+  tmdb: 364700
 sources:
 - https://www.wikidata.org/wiki/Q4333533
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: puzich-milan
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /okPPzYbbQahuZDmlUhL4DKOmcHT.jpg
+backdrop_tmdb_path: /S5VElr1OdStLo1IUF1HnRcyy1q.jpg

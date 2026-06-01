@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q2209782
   imdb: tt0084623
+  tmdb: 81190
 sources:
 - https://www.wikidata.org/wiki/Q2209782
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: klas-ioganna
 studio:
 - defa
+poster_tmdb_path: /3d2q3u9kWT3EJgaiBD0kieLdS8d.jpg
+backdrop_tmdb_path: /6D5Huto1yBFyUvSK4V9Ih0RdBfq.jpg

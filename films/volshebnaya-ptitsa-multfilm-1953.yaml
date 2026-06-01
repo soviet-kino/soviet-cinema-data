@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21148881
   imdb: tt4158588
+  tmdb: 432223
 sources:
 - https://www.wikidata.org/wiki/Q21148881
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - novikov-anatoliy-grigorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /dVcineXWb4yFzCL9dhJA5H7yGd9.jpg

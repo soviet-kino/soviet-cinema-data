@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12797357
   imdb: tt0058394
+  tmdb: 24414
 sources:
 - https://www.wikidata.org/wiki/Q12797357
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 cast:
 - person: sugman-zlatko
 - person: potokar-majda
+poster_tmdb_path: /k7ahTZE1GEEvBCfTQ9zDKBl7Ucx.jpg
+backdrop_tmdb_path: /tJnYBaXINxx1Uu1gyLnMNarPWXf.jpg

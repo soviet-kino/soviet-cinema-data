@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q7744563
   imdb: tt0057235
+  tmdb: 369341
 sources:
 - https://www.wikidata.org/wiki/Q7744563
 schema_version: 1
@@ -68,3 +69,4 @@ cast:
 - person: schoberova-eva
 - person: safranek-ferdinand
 - person: stvanova-helena
+poster_tmdb_path: /5otILE8ZPSQQujE9qIuOm3SotQ3.jpg

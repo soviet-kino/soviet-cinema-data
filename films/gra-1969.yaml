@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q9275122
   imdb: tt0063027
+  tmdb: 386062
 sources:
 - https://www.wikidata.org/wiki/Q9275122
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: marszel-barbara
 - person: levandovskiy-marek
 - person: grabovskiy-pyotr
+poster_tmdb_path: /6g8ZlKkv4jtB9iCRx5XSAKyfphw.jpg
+backdrop_tmdb_path: /Af3IrDUuRHsZXLbgKcv37vJgSn7.jpg

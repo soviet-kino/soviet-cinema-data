@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4526979
   imdb: tt0062264
   youtube: 6r7cGAas-9g
+  tmdb: 1252700
 sources:
 - https://www.wikidata.org/wiki/Q4526979
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: kolchitskiy-galiks
 studio:
 - ekran
+poster_tmdb_path: /hIGzcnQ8y1o8kNk4zJRGWkVbevE.jpg

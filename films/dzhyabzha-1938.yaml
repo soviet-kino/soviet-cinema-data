@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q28465020
   imdb: tt2381165
   youtube: TimznsECZUI
+  tmdb: 884374
 sources:
 - https://www.wikidata.org/wiki/Q28465020
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 studio:
 - lenfilm
 poster_commons: Th djjabja.jpg
+poster_tmdb_path: /ualezrg9uINifu5VyIeLHK7wtep.jpg

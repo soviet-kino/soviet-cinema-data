@@ -9,9 +9,12 @@ external_ids:
   wikidata: Q110603967
   imdb: tt1546020
   youtube: 8N369ImbIj4
+  tmdb: 1156246
 sources:
 - https://www.wikidata.org/wiki/Q110603967
 schema_version: 1
 studio:
 - sverdlovskaya-kinostudiya
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /f8sMniLdfmrQdfFxrg0eQcxTyRN.jpg
+backdrop_tmdb_path: /wkJ4cnMTiVMuD8UBSYBaY5EVF9A.jpg

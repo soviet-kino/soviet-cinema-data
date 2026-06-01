@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97171274
   imdb: tt2807606
+  tmdb: 530072
 sources:
 - https://www.wikidata.org/wiki/Q97171274
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - lebedev-aleksandr
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /4qKo3Fe2S4hoPgblO1AMjRI2x8u.jpg
+backdrop_tmdb_path: /oHqSoTv9SzGcypavJH3w3daetLo.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4416681
   imdb: tt0307442
   youtube: flcdmm8oE44
+  tmdb: 1260559
 sources:
 - https://www.wikidata.org/wiki/Q4416681
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: yurchenko-boris-aleksandrovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /ezpni7SeKS9squNIRe2Zqzl3g3M.jpg
+backdrop_tmdb_path: /lzlBKewW3eNohPuhzSiKUxG751K.jpg

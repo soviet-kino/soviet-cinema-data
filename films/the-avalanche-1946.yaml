@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q18712776
   imdb: tt0302711
+  tmdb: 689020
 sources:
 - https://www.wikidata.org/wiki/Q18712776
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: kautska-marie
 - person: ronsky-rurik
 - person: gonicova-ema
+poster_tmdb_path: /pSQRLCeGNck2saPFbyjBKc9vsV2.jpg

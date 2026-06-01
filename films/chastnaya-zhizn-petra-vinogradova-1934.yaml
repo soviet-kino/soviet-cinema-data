@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4507686
   imdb: tt0026201
   youtube: Lp8xWI4D-tM
+  tmdb: 593997
 sources:
 - https://www.wikidata.org/wiki/Q4507686
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - knipper-lev-konstantinovich
 cast:
 - person: livanov-boris-nikolaevich
+poster_tmdb_path: /7Cd39u96UoLxhszlvLmxODPDp4y.jpg
+backdrop_tmdb_path: /vZsTdJM0uOKLvvxBjl0HZyNVXCF.jpg

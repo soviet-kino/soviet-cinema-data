@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4425366
   imdb: tt0129386
   youtube: jp0jn-RE0WA
+  tmdb: 520584
 sources:
 - https://www.wikidata.org/wiki/Q4425366
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: sobolevskiy-pyotr-stanislavovich
 - person: shlikhting-boris-karlovich
 - person: kirillov-pyotr-klavdievich
+poster_tmdb_path: /5VeWgg0aotSS5l3Mem2qMnxOrkl.jpg
+backdrop_tmdb_path: /buvCoOzAS6YyfRtZUaKk156rOwc.jpg

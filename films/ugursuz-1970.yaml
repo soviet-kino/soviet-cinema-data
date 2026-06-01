@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187247
   imdb: tt1080846
+  tmdb: 967458
 sources:
 - https://www.wikidata.org/wiki/Q31187247
 schema_version: 1
@@ -15,3 +16,4 @@ screenwriter:
 cast:
 - person: alva-rudi
 - person: hajdarhodzic-izet
+poster_tmdb_path: /hkA3zW6WiKE73vRo6RwJnIiNChq.jpg

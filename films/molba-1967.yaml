@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4301201
   imdb: tt0064680
   youtube: mLQzcaU9WpM
+  tmdb: 149727
 sources:
 - https://www.wikidata.org/wiki/Q4301201
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: bagashvili-spartak-levanovich
 studio:
 - gruziya-film
+poster_tmdb_path: /cV5ddrXgLVAeOqLe5HP7RLrG7iE.jpg
+backdrop_tmdb_path: /bB5wP5xRYiNV58L5PWKhY9tWufU.jpg

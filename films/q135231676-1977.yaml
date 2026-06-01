@@ -8,6 +8,7 @@ runtime_min: 22
 external_ids:
   wikidata: Q135231676
   imdb: tt3189476
+  tmdb: 561538
 sources:
 - https://www.wikidata.org/wiki/Q135231676
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - denekke-gabrile
 cinematographer:
 - geick-eberhard
+poster_tmdb_path: /dN7IbHY8PRYl1l7n4QPKjjSiiem.jpg

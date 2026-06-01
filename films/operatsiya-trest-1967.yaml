@@ -8,6 +8,7 @@ runtime_min: 288
 external_ids:
   wikidata: Q4335311
   imdb: tt0062079
+  tmdb: 68195
 sources:
 - https://www.wikidata.org/wiki/Q4335311
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: gorbachyov-igor-olegovich
 studio:
 - mosfilm
+poster_tmdb_path: /wHGoiNenEIW24Qr6dDZlQT4U3QZ.jpg
+backdrop_tmdb_path: /vcgqUOCgy45HeDWKZqIaRwMWhEO.jpg

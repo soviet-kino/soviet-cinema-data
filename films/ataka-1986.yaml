@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4071918
   imdb: tt0265049
   youtube: nXqL1UcPuQQ
+  tmdb: 594656
 sources:
 - https://www.wikidata.org/wiki/Q4071918
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: chekan-sergey-stanislavovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9LX5xxJoZJAC2rg9csumfXQsAyC.jpg
+backdrop_tmdb_path: /q8TLGy4byDIROJUaqKEVHiWfk0p.jpg

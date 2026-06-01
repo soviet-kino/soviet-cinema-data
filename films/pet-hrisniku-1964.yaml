@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q7265028
   imdb: tt0058464
+  tmdb: 234460
 sources:
 - https://www.wikidata.org/wiki/Q7265028
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: q101210301
 - person: kohlerova-bozena
 - person: drazdik-milan
+poster_tmdb_path: /vumP47BGZQue0JVzPXpwi4Nv4PK.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28665850
   imdb: tt0176861
   youtube: qATLldVhTS0
+  tmdb: 85250
 sources:
 - https://www.wikidata.org/wiki/Q28665850
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: velyaminov-pyotr-sergeevich
 - person: kochetkov-afanasiy-ivanovich
 - person: orlov-yuriy-petrovich
+poster_tmdb_path: /pSW65Q2TiTSLxA1LwXCVb47sehW.jpg

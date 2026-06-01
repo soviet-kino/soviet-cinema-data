@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4163305
   imdb: tt0073983
   youtube: eYkZ0atVzgM
+  tmdb: 79907
 sources:
 - https://www.wikidata.org/wiki/Q4163305
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - ekran
 cast:
 - person: efremov-oleg-nikolaevich
+poster_tmdb_path: /mR4ujeplaoQBlkpW6YtHQ2z88xT.jpg
+backdrop_tmdb_path: /oQJFqIQPi75CSrqpdM5WQptlWwv.jpg

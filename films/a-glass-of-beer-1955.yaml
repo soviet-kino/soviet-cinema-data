@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4657052
   imdb: tt0048029
+  tmdb: 286611
 sources:
 - https://www.wikidata.org/wiki/Q4657052
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: ruttkai-eva
 - person: bichkei-tibor
 - person: suliok-mariya
+poster_tmdb_path: /uP6ILHeEobqoS5dO0ifaesuWLfs.jpg

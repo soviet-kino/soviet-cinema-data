@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1767168
   imdb: tt0047930
+  tmdb: 8779
 sources:
 - https://www.wikidata.org/wiki/Q1767168
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: lukas-josef
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
+poster_tmdb_path: /i6nbgmdjtJZydXPX3EEUjNceVVb.jpg
+backdrop_tmdb_path: /eO3CchK1dKfuzSrYAnV5xsV6754.jpg

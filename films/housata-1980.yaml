@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5913497
   imdb: tt0174753
   youtube: z57nR2cPoeY
+  tmdb: 655557
 sources:
 - https://www.wikidata.org/wiki/Q5913497
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: stibor-jan
 studio:
 - barrandov
+poster_tmdb_path: /uvB3WxdM5TJCm9Grr2rF2ACqlqp.jpg
+backdrop_tmdb_path: /mv9cCgOiL2BjG91dPLvwGU2OXXO.jpg

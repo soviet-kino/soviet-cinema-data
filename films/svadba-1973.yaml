@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16086650
   imdb: tt0070759
+  tmdb: 502832
 sources:
 - https://www.wikidata.org/wiki/Q16086650
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 - zeta-film
+poster_tmdb_path: /dnPZGEI68qVnLjVPbTpQ661OJFY.jpg
+backdrop_tmdb_path: /wOnbfJgbk2QnkBFjvoacINChik0.jpg

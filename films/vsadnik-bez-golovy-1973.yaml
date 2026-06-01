@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q144054
   imdb: tt0202080
+  tmdb: 168866
 sources:
 - https://www.wikidata.org/wiki/Q144054
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: vaynshtok-vladimir-petrovich
 - person: yukskyula-aarne-mati
 - person: nunes-eslinda
+poster_tmdb_path: /e4SI5osV12z2fxWuQ6Y3MKOOKho.jpg
+backdrop_tmdb_path: /uKP8uQQvkYSEdwJgUPcXZsZkkjU.jpg

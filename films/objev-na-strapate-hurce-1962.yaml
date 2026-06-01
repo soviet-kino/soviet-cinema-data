@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q19573413
   imdb: tt0174995
+  tmdb: 947945
 sources:
 - https://www.wikidata.org/wiki/Q19573413
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: pavlov-andrej
 - person: suchomel-karel
 - person: vodicka-jan
+poster_tmdb_path: /3j76oVA8YAqrfzSbamhLgNHH6QD.jpg

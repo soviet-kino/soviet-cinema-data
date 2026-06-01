@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q96192838
   imdb: tt12485054
+  tmdb: 983797
 sources:
 - https://www.wikidata.org/wiki/Q96192838
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: vode-mokryak-nina-georgievna
 studio:
 - moldova-film
+poster_tmdb_path: /dzbx1T7pg2NEtd39AKSOqPkhG0Q.jpg

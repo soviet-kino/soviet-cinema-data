@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11689893
   imdb: tt0021729
+  tmdb: 155641
 sources:
 - https://www.wikidata.org/wiki/Q11689893
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gielba-eugeniusz
 - person: gielniewski-mieczys-aw
 - person: ordeyg-tadeusz
+poster_tmdb_path: /2cU5YOZeQlPRWl0sEliOw24sawt.jpg

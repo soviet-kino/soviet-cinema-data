@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12104428
   imdb: tt5460306
+  tmdb: 1129954
 sources:
 - https://www.wikidata.org/wiki/Q12104428
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: naum-natalya-mikhaylovna
 - person: khostikoev-anatoliy-georgievich
 - person: rudakov-anatoliy-rodionovich
+poster_tmdb_path: /wqXCAQqeptcIkxMdST3ELw5QoC4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109085742
   imdb: tt1822359
   youtube: KpZq3z4HRQ4
+  tmdb: 304230
 sources:
 - https://www.wikidata.org/wiki/Q109085742
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - zhukov-nikolay-fedorovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /csQmUFMUNMy9PeUC6oXPGhsYvwW.jpg
+backdrop_tmdb_path: /31LxA3GGk1YWZqVNK7z5n8mdjBd.jpg

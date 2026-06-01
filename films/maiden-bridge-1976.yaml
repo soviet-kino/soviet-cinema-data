@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q9397716
   imdb: tt0074405
+  tmdb: 314211
 sources:
 - https://www.wikidata.org/wiki/Q9397716
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: leso-miroljub
 - person: uzunovic-tanasije
 - person: vladan-zhivkovich
+poster_tmdb_path: /qzJAnFeMvgNFNnrgO0JA6VzT9pn.jpg
+backdrop_tmdb_path: /ue3H5887C8I9QUrTVke81aeW7zP.jpg

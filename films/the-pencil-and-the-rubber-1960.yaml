@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15621914
   imdb: tt1565004
+  tmdb: 270945
 sources:
 - https://www.wikidata.org/wiki/Q15621914
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - macskassy-gyula
 studio:
 - pannoniya
+poster_tmdb_path: /ramGi4U3e0YchObAiSnIApuc1Xs.jpg
+backdrop_tmdb_path: /n6MUhetp5MpUjtvuD4B7tDiazfH.jpg

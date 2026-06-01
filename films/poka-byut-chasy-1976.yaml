@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4369003
   imdb: tt0217727
   youtube: vh7rYmMDR3Q
+  tmdb: 457398
 sources:
 - https://www.wikidata.org/wiki/Q4369003
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: sergeecheva-margarita-vladimirovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ePQMYh9CBqlst45aJT9nJaVPws1.jpg
+backdrop_tmdb_path: /tVGkZJlasJKEKwNvFd0gnvZlLJN.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q19364264
   imdb: tt0152093
+  tmdb: 748555
 sources:
 - https://www.wikidata.org/wiki/Q19364264
 schema_version: 1
@@ -76,3 +77,4 @@ cast:
 - person: romanova-jana
 - person: sanda-karel
 - person: kacer-jiri
+poster_tmdb_path: /vaI44PblYhHinPpb6dc8BWTP20H.jpg

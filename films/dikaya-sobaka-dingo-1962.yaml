@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4161476
   imdb: tt0167896
   youtube: J6S3kTPzDes
+  tmdb: 22187
 sources:
 - https://www.wikidata.org/wiki/Q4161476
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: timofeev-nikolay-dmitrievich
 - person: pavlycheva-antonina-pavlovna
 - person: umurzakov-talas-kamasievich
+poster_tmdb_path: /lf1OMmgshJc73khJ2bklYh9qLpZ.jpg
+backdrop_tmdb_path: /mtmTtIpC6AohfsRY3N6CzJa5Yno.jpg

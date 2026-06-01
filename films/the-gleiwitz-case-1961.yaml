@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q1193266
   imdb: tt0054864
+  tmdb: 205409
 sources:
 - https://www.wikidata.org/wiki/Q1193266
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: grosse-khervart
 - person: ripperger-rolf
 - person: gyunter-manfred
+poster_tmdb_path: /y56eXJCnQJmA7phTwe7GgKa6Uqa.jpg
+backdrop_tmdb_path: /a2hIDP8DNw2q4t1JcS9vBcA3bi2.jpg

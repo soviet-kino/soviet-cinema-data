@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15696412
   imdb: tt7019916
+  tmdb: 453744
 sources:
 - https://www.wikidata.org/wiki/Q15696412
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - gubaydulina-sofiya-asgatovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /yA4ZXAC00io5Am43MA2caQSyaEB.jpg

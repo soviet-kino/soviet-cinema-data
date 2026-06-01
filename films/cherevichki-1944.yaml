@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4512619
   imdb: tt5125104
+  tmdb: 373009
 sources:
 - https://www.wikidata.org/wiki/Q4512619
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: golemba-sofya-mikhaylovna
 studio:
 - kazakhfilm
+poster_tmdb_path: /2rfeNj1kfdvnvlIfibNNFZGPi2V.jpg

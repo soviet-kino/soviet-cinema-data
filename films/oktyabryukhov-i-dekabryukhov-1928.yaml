@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q4333278
   imdb: tt1073534
+  tmdb: 160824
 sources:
 - https://www.wikidata.org/wiki/Q4333278
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - mayakovskiy-vladimir-vladimirovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /EbBoDfVXCPzKGJeRLKXzwMUkKb.jpg

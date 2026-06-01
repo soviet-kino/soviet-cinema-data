@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q124061414
   imdb: tt0030826
+  tmdb: 471584
 sources:
 - https://www.wikidata.org/wiki/Q124061414
 schema_version: 1
 director:
 - csepreghy-jeno
+poster_tmdb_path: /sQuTKQSD3b8BKyqHlxANdNH3lN1.jpg
+backdrop_tmdb_path: /r9axvh1QZ8d39WOwlFez6MQZUU.jpg

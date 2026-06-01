@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3053554
   imdb: tt0032086
+  tmdb: 148536
 sources:
 - https://www.wikidata.org/wiki/Q3053554
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: troyanovskiy-mikhail-konstantinovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /aOSsqzcuZeB0hC7UegMorP0zwVq.jpg
+backdrop_tmdb_path: /xDXMkQYgtHcIhl90F5LcXAgZBXx.jpg

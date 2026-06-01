@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116865073
   imdb: tt9516298
+  tmdb: 1465370
 sources:
 - https://www.wikidata.org/wiki/Q116865073
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - shiryaev-evgeniy
 studio:
 - uzbekfilm
+poster_tmdb_path: /mMolrcSXqZipFB6YVTDEgX8F2CF.jpg

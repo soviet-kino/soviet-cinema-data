@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1294581
   imdb: tt0092040
+  tmdb: 133427
 sources:
 - https://www.wikidata.org/wiki/Q1294581
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: revitski-gabor
 - person: tyoryochik-mari
 - person: eperjes-karoly
+poster_tmdb_path: /x7advHkSGkVSJNcrLWVTas6eqgz.jpg
+backdrop_tmdb_path: /bUMOBZNPNCI70md0wjTrgcwzXvJ.jpg

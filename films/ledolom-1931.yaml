@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q3794094
   imdb: tt0022065
+  tmdb: 162335
 sources:
 - https://www.wikidata.org/wiki/Q3794094
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - evlakhov-sergey-sergeevich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /vQ9b4qJA8Eg3gadL8p3Cxk9DpKn.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q44862845
   imdb: tt0236143
+  tmdb: 408227
 sources:
 - https://www.wikidata.org/wiki/Q44862845
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: dumitrescu-ana-maria
 - person: glodeanu-antoaneta
 - person: herescu-octavian
+poster_tmdb_path: /wulNJicqoCvvsGZTkqtHyQ9ENMg.jpg
+backdrop_tmdb_path: /nLKijSI4KeoP3TNQDUUH2TnUqA.jpg

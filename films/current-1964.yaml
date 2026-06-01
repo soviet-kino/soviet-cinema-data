@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q3424591
   imdb: tt0057514
+  tmdb: 263112
 sources:
 - https://www.wikidata.org/wiki/Q3424591
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: orban-tibor
 - person: csikos-sandor
 - person: harkanyi-janos
+poster_tmdb_path: /hlNTzhxYH15YIFmlIlRJcKXgW9p.jpg
+backdrop_tmdb_path: /rmxWzTMhAlXcafbQ8cGF51WgRlo.jpg

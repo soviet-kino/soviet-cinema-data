@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11826346
   imdb: tt0069114
+  tmdb: 689621
 sources:
 - https://www.wikidata.org/wiki/Q11826346
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - ezhi-matushkevich
 cast:
 - person: englert-yan
+poster_tmdb_path: /6KsKxxi86RVR8ZfFxkD3JQBXyQH.jpg
+backdrop_tmdb_path: /wVIQZzqzHNYUAeSIwWmtNo8GZA3.jpg

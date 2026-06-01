@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4190760
   imdb: tt0314940
   youtube: r39BZIF6B_4
+  tmdb: 309912
 sources:
 - https://www.wikidata.org/wiki/Q4190760
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: luspekaev-pavel-borisovich
 studio:
 - lenfilm
+poster_tmdb_path: /uN6YuooNM20GR6pSsTzHYeelUUT.jpg
+backdrop_tmdb_path: /h1QxZPJKKlAX3XGljn6aXHBdMi1.jpg

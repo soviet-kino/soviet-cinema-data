@@ -40,6 +40,9 @@ poster_commons: Paul und Paula MG 1268 fahrendes bett singerstrasse Berlin Entwu
 external_ids:
   wikidata: Q457003
   imdb: tt0070299
+  tmdb: 2232
 sources:
 - https://www.wikidata.org/wiki/Q457003
 schema_version: 1
+poster_tmdb_path: /9LLzDz6QfmDyfiittN0PdQMhgwz.jpg
+backdrop_tmdb_path: /kDBlIgliapy7RbEvtY4Vb9PTGAD.jpg

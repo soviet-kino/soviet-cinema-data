@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q9352939
   imdb: tt0064938
+  tmdb: 639310
 sources:
 - https://www.wikidata.org/wiki/Q9352939
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: dewoyno-w-adys-aw
 - person: zbignev-yuzefovich
 - person: kuzniar-zdzis-aw
+poster_tmdb_path: /d698NJUFOi4B6pHN2Cfzi1fNbsY.jpg

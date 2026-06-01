@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q107435455
   imdb: tt0055465
+  tmdb: 287539
 sources:
 - https://www.wikidata.org/wiki/Q107435455
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kleyn-gerkhard
 composer:
 - kluck-gunter
+poster_tmdb_path: /v0SUwHxy9x5TZfmeti4wXNJsSOk.jpg

@@ -8,6 +8,7 @@ runtime_min: 578
 external_ids:
   wikidata: Q21641193
   imdb: tt6405722
+  tmdb: 903906
 sources:
 - https://www.wikidata.org/wiki/Q21641193
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - stankovich-evgeniy-fyodorovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /49gaL6ix0I6Qa1r4kumHtHjUuCp.jpg
+backdrop_tmdb_path: /bTN0XYJvQjREJA0UeYir7P8eN8W.jpg

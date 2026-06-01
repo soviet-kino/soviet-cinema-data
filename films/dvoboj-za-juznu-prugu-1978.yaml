@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750706
   imdb: tt0175586
+  tmdb: 159065
 sources:
 - https://www.wikidata.org/wiki/Q12750706
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: micovic-vojislav
 - person: pleskonich-tikhomir
 - person: gucevac-ranko
+poster_tmdb_path: /mnmMapoGNF3iWXifgyZhgjE9yGC.jpg

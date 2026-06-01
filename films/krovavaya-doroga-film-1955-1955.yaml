@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3437340
   imdb: tt0048269
+  tmdb: 56696
 sources:
 - https://www.wikidata.org/wiki/Q3437340
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: milan-miloshevich
 studio:
 - norsk-film
+poster_tmdb_path: /2qP7IotYynQWddes9vqwM6u75XF.jpg
+backdrop_tmdb_path: /m9NmXSwWUKIFf7BSlgoxA0MWiC.jpg

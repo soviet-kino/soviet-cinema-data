@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q16516858
   imdb: tt0050747
+  tmdb: 328271
 sources:
 - https://www.wikidata.org/wiki/Q16516858
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - secheni-ferents
 composer:
 - tamashi-zdenko
+poster_tmdb_path: /weeOiSnKMNXVq5MnFNy4Nk5YQfm.jpg
+backdrop_tmdb_path: /myOJoduFokDWLPmaRsqz9nIJFgy.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1218234
   imdb: tt0283242
   youtube: rpsdN8OIdcg
+  tmdb: 14489
 sources:
 - https://www.wikidata.org/wiki/Q1218234
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: gneushev-valentin-aleksandrovich
 - person: ilichyova-marina-aleksandrovna
 - person: chernov-aleksey-petrovich
+poster_tmdb_path: /6BmSjdoSp3WBAnOVzXU3W7EbRWV.jpg
+backdrop_tmdb_path: /cvV3VksUVsHWFVoccu5kgcOBydf.jpg

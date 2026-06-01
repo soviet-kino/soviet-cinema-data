@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11825953
   imdb: tt0097688
+  tmdb: 393145
 sources:
 - https://www.wikidata.org/wiki/Q11825953
 schema_version: 1
 director:
 - anagnosti-dimiter
+poster_tmdb_path: /ycEEpTbJbQVuU6KPcs2GjGzIpLA.jpg
+backdrop_tmdb_path: /zSK0Ias5WSAWk6y2NLYGVehc7yY.jpg

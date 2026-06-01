@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4192107
   imdb: tt1721141
   youtube: kGHyQmOZCo0
+  tmdb: 453142
 sources:
 - https://www.wikidata.org/wiki/Q4192107
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: samoylov-vladimir-yakovlevich
 - person: samoylov-aleksandr-vladimirovich
+poster_tmdb_path: /99zK9eivBuQyFKQzg4lPmUxtijw.jpg
+backdrop_tmdb_path: /b4FioUiSDTMkhx5UINlsAGQ3JyM.jpg

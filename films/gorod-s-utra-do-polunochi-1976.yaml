@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4144892
   imdb: tt5375522
   youtube: ADgsgriOv28
+  tmdb: 888645
 sources:
 - https://www.wikidata.org/wiki/Q4144892
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kruglyy-lev-borisovich
 - person: martynov-andrey-leonidovich
 - person: sazontev-sergey-vladislavovich
+poster_tmdb_path: /loaHvKuy6DYfEknksfLZMnp2Or4.jpg
+backdrop_tmdb_path: /lMvM7w7aREMyz5JQ7oF71KClWpL.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q17582622
   imdb: tt1508257
+  tmdb: 306498
 sources:
 - https://www.wikidata.org/wiki/Q17582622
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: parfyonov-nikolay-ivanovich
 - person: sergachyov-viktor-nikolaevich
 - person: shcherbakov-pyotr-ivanovich
+poster_tmdb_path: /h2gCWawA6Y4k5L0NjIGRR4NhA27.jpg
+backdrop_tmdb_path: /9zOIjUdRnRQbPlQP4g3uPOk5T19.jpg

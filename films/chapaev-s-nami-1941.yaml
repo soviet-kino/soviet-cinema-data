@@ -8,6 +8,7 @@ runtime_min: 330
 external_ids:
   wikidata: Q4507141
   imdb: tt0173720
+  tmdb: 884753
 sources:
 - https://www.wikidata.org/wiki/Q4507141
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Chapaev with us.png
+poster_tmdb_path: /lJJmTCVqumUX1WJpbHxxNxIoGUf.jpg
+backdrop_tmdb_path: /QXNfOlZ5jM8NNelagER6eY6sBA.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q9209586
   imdb: tt0087162
+  tmdb: 850773
 sources:
 - https://www.wikidata.org/wiki/Q9209586
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: irena-malkevich
 - person: gogolevskiy-ignatsy
+poster_tmdb_path: /SH1ZvrUVALwyKtJ4kgj7e34MRO.jpg

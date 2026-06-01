@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q2581338
   imdb: tt0020451
+  tmdb: 110741
 sources:
 - https://www.wikidata.org/wiki/Q2581338
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - sovkino
 poster_commons: Eisenstein general line 01.jpg
+poster_tmdb_path: /fktYEpylWQKAHgvDifNlRbD7J54.jpg
+backdrop_tmdb_path: /tF2OHtIQkN4Y5D7xuy3S2ZuRM9k.jpg

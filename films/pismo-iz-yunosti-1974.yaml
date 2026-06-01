@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q117213341
   imdb: tt0316454
   youtube: yP-SQ5hCzNc
+  tmdb: 889793
 sources:
 - https://www.wikidata.org/wiki/Q117213341
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - komarov-vladimir-konstantinovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /5GTVvTvmKBnXXDSLOnPEtV82Gfw.jpg

@@ -8,6 +8,7 @@ runtime_min: 54
 external_ids:
   wikidata: Q43302347
   imdb: tt0176039
+  tmdb: 328239
 sources:
 - https://www.wikidata.org/wiki/Q43302347
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: halek-jiri
 - person: vasek-julius
 - person: gzela-ladislav
+poster_tmdb_path: /dtaQGY2BZQacjSS5YRgSzZSnre6.jpg

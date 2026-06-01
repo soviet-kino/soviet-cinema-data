@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q16416104
   imdb: tt2081344
+  tmdb: 281079
 sources:
 - https://www.wikidata.org/wiki/Q16416104
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: khanizade-bakhtiyar
 - person: kyzy-sharifova-firangiz-abbasmirza
 - person: ogly-khanyzade-gamlet-babir
+poster_tmdb_path: /3mgfEX0mJeEjvldHCpSQaSpLiU1.jpg
+backdrop_tmdb_path: /b0Yy7a0xohJb35HBmkyJkqjrAGA.jpg

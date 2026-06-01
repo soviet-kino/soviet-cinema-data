@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11792649
   imdb: tt4001902
+  tmdb: 529886
 sources:
 - https://www.wikidata.org/wiki/Q11792649
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - jackowski-marek
 cast:
 - person: golas-veslav
+poster_tmdb_path: /co0BJIazQ0ZydcTSH7K9pHP0t7B.jpg
+backdrop_tmdb_path: /riyJb8qPVQzk0RMHKw5kTCwY2MB.jpg

@@ -8,6 +8,7 @@ runtime_min: 56
 external_ids:
   wikidata: Q771271
   imdb: tt7154796
+  tmdb: 467249
 sources:
 - https://www.wikidata.org/wiki/Q771271
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - shevchenko-vladimir-nikitovich
 studio:
 - ukrainskaya-studiya-khronikalno-dokumentalnykh-filmov
+poster_tmdb_path: /AeIsnzICSH8O35idajPR1B9pgxR.jpg
+backdrop_tmdb_path: /SKoepugtoj2HGa0MjRhII8mRIY.jpg

@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q12632077
   imdb: tt0124701
+  tmdb: 267280
 sources:
 - https://www.wikidata.org/wiki/Q12632077
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: burdus-jovan-janicijevic
 - person: kandich-milosh
 - person: vladan-zhivkovich
+poster_tmdb_path: /oqAYx3ak9mzObA4b0nDAivmSCfR.jpg
+backdrop_tmdb_path: /rSZXK7mbac7BGeTuQfcO8K1dsZX.jpg

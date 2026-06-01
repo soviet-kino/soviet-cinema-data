@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4331565
   imdb: tt0093665
   youtube: VC2vOMU3E8k
+  tmdb: 183236
 sources:
 - https://www.wikidata.org/wiki/Q4331565
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kupchenko-irina-petrovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /m0ElH4g8dqIW9QmrJy9l28RXLNf.jpg
+backdrop_tmdb_path: /ew4oHy4PdKDjKrnax0Lcyw9IBno.jpg

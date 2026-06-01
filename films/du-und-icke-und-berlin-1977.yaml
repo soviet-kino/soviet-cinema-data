@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1167328
   imdb: tt0075966
+  tmdb: 259621
 sources:
 - https://www.wikidata.org/wiki/Q1167328
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: noyenkhan-villi
 - person: narloch-michael
 - person: tilsner-klaus
+poster_tmdb_path: /fjohK2LMn0GOcBuzfRFOeHORvFm.jpg
+backdrop_tmdb_path: /nr4CTfWgKVHu3x0ZeU0UjeTXdv2.jpg

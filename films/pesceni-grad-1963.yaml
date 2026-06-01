@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q27113861
   imdb: tt0171615
+  tmdb: 269005
 sources:
 - https://www.wikidata.org/wiki/Q27113861
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: rozin-shpela
 - person: raner-ali
 poster_commons: Plakat za film Peščeni grad.jpg
+poster_tmdb_path: /fIeyc5keunTbHgrpzeZRAtEC9cG.jpg
+backdrop_tmdb_path: /6GbFKeAr8vTprXC9DVhocty9pyL.jpg

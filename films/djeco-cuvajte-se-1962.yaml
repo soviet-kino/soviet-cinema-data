@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q31184020
   imdb: tt0172331
+  tmdb: 1061382
 sources:
 - https://www.wikidata.org/wiki/Q31184020
 schema_version: 1
 director:
 - krvavats-khayrudin
+poster_tmdb_path: /ijIQrxvMqkq8DkDS6XZyZWGzrS3.jpg

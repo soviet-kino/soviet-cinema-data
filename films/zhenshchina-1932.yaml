@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q68638820
   imdb: tt0164973
+  tmdb: 240727
 sources:
 - https://www.wikidata.org/wiki/Q68638820
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - naumov-strazh-naum-solomonovich
 studio:
 - belarusfilm
+poster_tmdb_path: /fbmSrPcRiniJSL2b7dT57rbW0Iy.jpg

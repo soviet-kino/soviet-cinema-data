@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q28726128
   imdb: tt0057404
+  tmdb: 345281
 sources:
 - https://www.wikidata.org/wiki/Q28726128
 schema_version: 1
 director:
 - popesku-gopo-ion
+poster_tmdb_path: /vwDEqx8Bj0j6MhTKvPMwd1dWVQg.jpg
+backdrop_tmdb_path: /gN5SXKFFf1u4Rf3lXaDXIXvrP4n.jpg

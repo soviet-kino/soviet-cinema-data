@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q12736985
   imdb: tt0323909
+  tmdb: 398968
 sources:
 - https://www.wikidata.org/wiki/Q12736985
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: etterle-fori
 - person: mikhuts-mariana
 - person: kotesku-oktavian
+poster_tmdb_path: /h1qaNkQU4Ka7tw087VqdWERm1zI.jpg

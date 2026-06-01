@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52562178
   imdb: tt4665432
+  tmdb: 848416
 sources:
 - https://www.wikidata.org/wiki/Q52562178
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - lyadov-yuriy-grigorevich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /qq7wNhyOXk5qbEjuC51l0hGLxkg.jpg

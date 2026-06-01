@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q106774860
   imdb: tt0230650
+  tmdb: 1523896
 sources:
 - https://www.wikidata.org/wiki/Q106774860
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: khostikoev-anatoliy-georgievich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xFtxqvK2NiLaLQHYiTqztyqjhn9.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4738474
   imdb: tt0235100
+  tmdb: 439604
 sources:
 - https://www.wikidata.org/wiki/Q4738474
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: kube-khorst
 studio:
 - defa
+poster_tmdb_path: /rQbHTzvj7s25BKbFSqSvy6Zwa5P.jpg

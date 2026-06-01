@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q31187127
   imdb: tt0081084
+  tmdb: 560553
 sources:
 - https://www.wikidata.org/wiki/Q31187127
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: bulyan-ratko
 - person: martinovic-perica
 - person: brlecic-miljenko
+poster_tmdb_path: /vgpGtz5tSNXmbO6Z18K1YsF15Oo.jpg

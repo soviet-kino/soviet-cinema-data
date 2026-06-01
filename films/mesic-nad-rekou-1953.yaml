@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q12039432
   imdb: tt0172790
+  tmdb: 457614
 sources:
 - https://www.wikidata.org/wiki/Q12039432
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: kocourek-karel
 - person: vilsky-antonin
 - person: austova-vaclava
+poster_tmdb_path: /cQ329VbvDpkWxVZnuqc0f9Aur7B.jpg

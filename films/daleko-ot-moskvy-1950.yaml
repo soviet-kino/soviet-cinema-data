@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q22137288
   imdb: tt0042371
   youtube: 9RZdkDFwuGQ
+  tmdb: 494923
 sources:
 - https://www.wikidata.org/wiki/Q22137288
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: khvylya-aleksandr-leopoldovich
 studio:
 - mosfilm
+poster_tmdb_path: /2z40pgm2KMjEz07eIFgP5urlhyQ.jpg
+backdrop_tmdb_path: /ylva0nIwMKiVOGFtS9IJtecHliG.jpg

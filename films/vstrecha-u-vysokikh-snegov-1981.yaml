@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q124427858
   imdb: tt5539362
   youtube: k-pkzdQjOcc
+  tmdb: 619183
 sources:
 - https://www.wikidata.org/wiki/Q124427858
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: tulyakhodzhaev-nazim-turabovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /vrLUkg1XjBA5RNEygK1EB66DW4t.jpg

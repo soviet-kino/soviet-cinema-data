@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15362551
   imdb: tt0128808
+  tmdb: 526467
 sources:
 - https://www.wikidata.org/wiki/Q15362551
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - syoke-andrash
 composer:
 - syoke-andrash
+poster_tmdb_path: /uqmK2EUdIRalzdkKSBc1010OI7v.jpg

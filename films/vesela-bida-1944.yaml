@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q19600257
   imdb: tt0170761
+  tmdb: 588309
 sources:
 - https://www.wikidata.org/wiki/Q19600257
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: zivojnovic-daniel
 - person: pata-vaclav
 - person: karlova-ema
+poster_tmdb_path: /hKR0tJoz0bnJrVdtnvETqTUeE8C.jpg

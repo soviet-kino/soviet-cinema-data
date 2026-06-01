@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q6319567
   imdb: tt0171421
+  tmdb: 407898
 sources:
 - https://www.wikidata.org/wiki/Q6319567
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: karpasova-jana
 studio:
 - barrandov
+poster_tmdb_path: /dQINH8UOASiOQPMzUFkgQKVsd44.jpg
+backdrop_tmdb_path: /whS6O5I22Km8S6gNgPTAOmzz2Gc.jpg

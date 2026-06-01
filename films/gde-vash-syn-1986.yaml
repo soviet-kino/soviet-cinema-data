@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994067
   imdb: tt0266575
   youtube: eK2dE7MVdBc
+  tmdb: 895237
 sources:
 - https://www.wikidata.org/wiki/Q84994067
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: sychev-vladimir-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /p4OdlHiVMZPNG0ki4304jmlM3n0.jpg

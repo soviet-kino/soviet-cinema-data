@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q101208710
   imdb: tt0088013
+  tmdb: 441237
 sources:
 - https://www.wikidata.org/wiki/Q101208710
 schema_version: 1
 director:
 - kyun-zigfrid
+poster_tmdb_path: /uhYGkgQisJ4Ye4g8z6BuWg243CA.jpg

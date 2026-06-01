@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44865648
   imdb: tt0181557
+  tmdb: 607673
 sources:
 - https://www.wikidata.org/wiki/Q44865648
 schema_version: 1
 director:
 - bocanet-alexandru
+poster_tmdb_path: /11C7su7g6xRDCHrA58Dix8FdogH.jpg

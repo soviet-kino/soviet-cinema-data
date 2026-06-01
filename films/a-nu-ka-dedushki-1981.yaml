@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111524057
   imdb: tt0821751
   youtube: mXsD9OsjSvQ
+  tmdb: 1250412
 sources:
 - https://www.wikidata.org/wiki/Q111524057
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 composer:
 - kakhidze-dzhansug-ivanovich
 - brzitsov-aleksandr
+poster_tmdb_path: /9c7tXbYhtRxBG3pfT7MZ1Kqt7ZV.jpg
+backdrop_tmdb_path: /56oQLOsxDvfTtv81KRTAbMSvEys.jpg

@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q1962131
   imdb: tt0097534
+  tmdb: 35945
 sources:
 - https://www.wikidata.org/wiki/Q1962131
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ketlin-viktoriya
 - person: cole-ben
 - person: turner-clive
+poster_tmdb_path: /irbRWCwIB1AONKlA4VzsYRkGmrK.jpg
+backdrop_tmdb_path: /liTiTI5qcyFULM5iCpiEObydhZu.jpg

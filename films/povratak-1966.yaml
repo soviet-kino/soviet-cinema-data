@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q16761199
   imdb: tt0058487
+  tmdb: 263944
 sources:
 - https://www.wikidata.org/wiki/Q16761199
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: predrag-milinkovich
 - person: lupa-peter
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /utUIgN4vUVIF0nLbR7Aj2IseU5C.jpg
+backdrop_tmdb_path: /rFpprHXoUme6LqVKDDuQDD2I1wt.jpg

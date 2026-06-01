@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q60971439
   imdb: tt21618004
+  tmdb: 1427321
 sources:
 - https://www.wikidata.org/wiki/Q60971439
 schema_version: 1
 director:
 - lebedev-nikolay
+poster_tmdb_path: /u13c4tXvfIfx7MwYIxHRLhQogOB.jpg
+backdrop_tmdb_path: /eNbiWYpIDlh60zIjocyBxi4fd4i.jpg

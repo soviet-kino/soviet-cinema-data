@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4365446
   imdb: tt0130188
+  tmdb: 75383
 sources:
 - https://www.wikidata.org/wiki/Q4365446
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: dal-oleg-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /A6ymx5jzAP6ReOtgeruZbdVcDFn.jpg
+backdrop_tmdb_path: /aE17GJdU1f3STcILpTDZIpCvM8R.jpg

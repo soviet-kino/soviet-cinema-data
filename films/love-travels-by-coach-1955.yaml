@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q1036593
   imdb: tt0047091
+  tmdb: 661769
 sources:
 - https://www.wikidata.org/wiki/Q1036593
 schema_version: 1
+poster_tmdb_path: /wnXGrWfFGZWhYClrAuRRpmhITeC.jpg

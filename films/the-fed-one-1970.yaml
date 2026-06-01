@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q3506523
   imdb: tt0065861
+  tmdb: 458675
 sources:
 - https://www.wikidata.org/wiki/Q3506523
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: angelovski-kole
 studio:
 - yadran-film
+poster_tmdb_path: /hoys99W6IuXZEyNHhlJrXxnIBMH.jpg
+backdrop_tmdb_path: /g1qPTKzbwrwHQIWKr5d9CeSEML7.jpg

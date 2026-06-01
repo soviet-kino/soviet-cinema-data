@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4078900
   imdb: tt0271104
+  tmdb: 748520
 sources:
 - https://www.wikidata.org/wiki/Q4078900
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: sikiewicz-bazyli
 - person: gulanicki-stefan
 poster_commons: Panienka z poste restante 1934.jpg
+poster_tmdb_path: /5I7zOO3LwVhP8utC0xFfiMkfBnE.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q946512
   imdb: tt0027378
+  tmdb: 1167324
 sources:
 - https://www.wikidata.org/wiki/Q946512
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: fertner-antoni
 - person: bogutskiy-andzhey
 poster_commons: Feliks Chmurkowski i Antoni Fertner w filmie Bolek i Lolek.jpg
+poster_tmdb_path: /rzEsSKLAoRSAld69UgLx3ZHr12G.jpg

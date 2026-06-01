@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994300
   imdb: tt4683520
+  tmdb: 889692
 sources:
 - https://www.wikidata.org/wiki/Q84994300
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - tolmachyov-mark-vladimirovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /4rztouUX0j6sRtQfUJ6rJ711CRI.jpg

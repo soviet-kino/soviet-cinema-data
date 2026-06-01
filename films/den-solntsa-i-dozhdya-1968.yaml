@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4158437
   imdb: tt0346915
+  tmdb: 565815
 sources:
 - https://www.wikidata.org/wiki/Q4158437
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kozakov-mikhail-mikhaylovich
 - person: savyolova-svetlana-ivanovna
 - person: time-elizaveta-ivanovna
+poster_tmdb_path: /1MPEZu5pIwsIA53qpgd5RJKZbA3.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4382349
   imdb: tt2449870
   youtube: Jnnck3SkpS8
+  tmdb: 512679
 sources:
 - https://www.wikidata.org/wiki/Q4382349
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: zhulina-olga-nikolaevna
 studio:
 - belarusfilm
+poster_tmdb_path: /z35BQCfQTMr3BPSMD9NeXUk4F3X.jpg
+backdrop_tmdb_path: /teOjwe16ztp0OAdOGhmuxCgWMWY.jpg

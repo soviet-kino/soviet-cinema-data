@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q138774471
   imdb: tt1315990
+  tmdb: 1059989
 sources:
 - https://www.wikidata.org/wiki/Q138774471
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: hammer-wallburg-gerda
 studio:
 - studiya-nauchno-populyarnykh-filmov-defa
+poster_tmdb_path: /lAAi3zasTU5hgIlEuH1s8z3WcVz.jpg

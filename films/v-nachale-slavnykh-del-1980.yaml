@@ -38,6 +38,9 @@ external_ids:
   wikidata: Q1822835
   imdb: tt0171874
   youtube: 28T1KofXFRc
+  tmdb: 1519404
 sources:
 - https://www.wikidata.org/wiki/Q1822835
 schema_version: 1
+poster_tmdb_path: /l91AbwqRFUb2P8GX3G6RfuNJwG6.jpg
+backdrop_tmdb_path: /eJWPmkwSGfbKAIH40Cn0IXgFgX4.jpg

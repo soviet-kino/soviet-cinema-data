@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q12750524
   imdb: tt0200677
+  tmdb: 1643389
 sources:
 - https://www.wikidata.org/wiki/Q12750524
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pura-or-e
 - person: sekic-ramiz
 - person: yakshich-ivo
+poster_tmdb_path: /voH9JpKLiRFTuONBNWafdgD3sT8.jpg

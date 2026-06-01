@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24937335
   imdb: tt0244404
+  tmdb: 1444220
 sources:
 - https://www.wikidata.org/wiki/Q24937335
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: sivkov-nikolay-semyonovich
 studio:
 - ekran
+poster_tmdb_path: /8zzqN114ZjDEC6sO0XTpBhOmKHP.jpg
+backdrop_tmdb_path: /bqNdwxoONQwRGD5pdVZI5HpfCEy.jpg

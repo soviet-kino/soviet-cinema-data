@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12294915
   imdb: tt0176057
   youtube: T8r4ei7RWrs
+  tmdb: 135254
 sources:
 - https://www.wikidata.org/wiki/Q12294915
 schema_version: 1
@@ -73,3 +74,4 @@ cast:
 - person: marek-frantisek
 - person: svec-vaclav
 - person: orlicky-jaroslav
+poster_tmdb_path: /e0a5WPKRpckIhHhJQrUBCgF7MGt.jpg

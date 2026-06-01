@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116865064
   imdb: tt11511192
+  tmdb: 1296894
 sources:
 - https://www.wikidata.org/wiki/Q116865064
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: aga-mirzaev-mukhtar-kardashkhanovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /A6nwQOke2jf6ZKbWWhB3QVHeAbH.jpg

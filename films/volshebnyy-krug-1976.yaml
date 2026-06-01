@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56322505
   imdb: tt3256248
   youtube: ebPLLAF7iGg
+  tmdb: 1131699
 sources:
 - https://www.wikidata.org/wiki/Q56322505
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: drozd-georgiy-ivanovich
 - person: korchikov-oleg-glebovich
 - person: tatosov-vladimir-mikhaylovich
+poster_tmdb_path: /eb1AI0xWhZbQx97NdbbpghLyLha.jpg

@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q1399952
   imdb: tt0058134
+  tmdb: 2181
 sources:
 - https://www.wikidata.org/wiki/Q1399952
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: dommish-peter
 - person: kherrikht-rolf
 - person: lirk-verner
+poster_tmdb_path: /7slPTUASqMkVonBrHbmTAc1AYko.jpg

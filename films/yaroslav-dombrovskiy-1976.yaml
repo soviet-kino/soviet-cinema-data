@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4538776
   imdb: tt0074712
+  tmdb: 582351
 sources:
 - https://www.wikidata.org/wiki/Q4538776
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: pototskaya-malgozhata
 studio:
 - mosfilm
+poster_tmdb_path: /7e37HpDzWecAE2RzyerLEXwTnSC.jpg

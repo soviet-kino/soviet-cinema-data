@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5359856
   imdb: tt0385675
+  tmdb: 383941
 sources:
 - https://www.wikidata.org/wiki/Q5359856
 schema_version: 1
 director:
 - yunge-vinfrid
+poster_tmdb_path: /4yyp6XiMo7sRevaRe55gdkcTOfq.jpg

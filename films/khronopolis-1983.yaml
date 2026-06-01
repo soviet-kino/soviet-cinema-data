@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q5114248
   imdb: tt0262333
+  tmdb: 65504
 sources:
 - https://www.wikidata.org/wiki/Q5114248
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kamler-pyotr
 composer:
 - ferrari-lyuk
+poster_tmdb_path: /9An9FKnD3vUTQU5cZtzKOFBejhk.jpg
+backdrop_tmdb_path: /ddVYvhfNBI2vBRXpamsECpSvVKl.jpg

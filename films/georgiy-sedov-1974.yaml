@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4135880
   imdb: tt0071545
+  tmdb: 888282
 sources:
 - https://www.wikidata.org/wiki/Q4135880
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: ushakov-vladimir-petrovich
 - person: lebedkova-tatyana-evgenevna
 - person: velichko-natalya-yakovlevna
+poster_tmdb_path: /hfUhqyp5os1rKXvFTyZQZErSnTL.jpg

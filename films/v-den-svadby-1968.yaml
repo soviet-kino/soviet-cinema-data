@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q25447071
   imdb: tt0324393
   youtube: uh5Xk0doVjQ
+  tmdb: 620811
 sources:
 - https://www.wikidata.org/wiki/Q25447071
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - mikhaylov-vadim
 studio:
 - lenfilm
+poster_tmdb_path: /kRT6dbvPRu67Jz4rSDmHhxrHogG.jpg
+backdrop_tmdb_path: /45JH0pX8eE0ujazdkObHzrdpD2n.jpg

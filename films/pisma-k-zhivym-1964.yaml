@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4363735
   imdb: tt5032390
+  tmdb: 830648
 sources:
 - https://www.wikidata.org/wiki/Q4363735
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - afanasev-leonid
 studio:
 - belarusfilm
+poster_tmdb_path: /nTuo6OEY9t959eiICsP0gJN0JVp.jpg
+backdrop_tmdb_path: /ySaXJRWh58nGROKDXrc8NhBqiej.jpg

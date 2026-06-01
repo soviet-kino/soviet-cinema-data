@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q12744012
   imdb: tt0130379
+  tmdb: 466243
 sources:
 - https://www.wikidata.org/wiki/Q12744012
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: peunesku-niku
 - person: gardesku-nikolae
 - person: skerletesku-florin
+poster_tmdb_path: /izrjhadHuoNMWkFvuQZSZJnVbdX.jpg

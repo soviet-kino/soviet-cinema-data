@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4102870
   imdb: tt4076306
+  tmdb: 432053
 sources:
 - https://www.wikidata.org/wiki/Q4102870
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: Кадр из мультфильма «Валидуб» (СССР, 1952).jpg
+poster_tmdb_path: /re5vTsegXnHVHN80R7qEU3NqRjM.jpg

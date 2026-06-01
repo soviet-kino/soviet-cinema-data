@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21393910
   imdb: tt0949887
   youtube: 10NpPooT77s
+  tmdb: 399845
 sources:
 - https://www.wikidata.org/wiki/Q21393910
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - nikolaevskiy-oleg-pavlovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /jyJPPUJJ5xGpXIF9Azt47epPBRL.jpg

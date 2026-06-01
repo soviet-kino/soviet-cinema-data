@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q2898626
   imdb: tt0128126
   youtube: rjqVBGWgeTk
+  tmdb: 499108
 sources:
 - https://www.wikidata.org/wiki/Q2898626
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: dikisyanu-ion
 studio:
 - mosfilm
+poster_tmdb_path: /lqjMmvP7HJEBVD8R5GWswJmi7xk.jpg

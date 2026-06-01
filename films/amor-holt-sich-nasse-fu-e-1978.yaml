@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q108870283
   imdb: tt0303643
+  tmdb: 327780
 sources:
 - https://www.wikidata.org/wiki/Q108870283
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - knyotssh-khans
 cinematographer:
 - lents-yurgen
+poster_tmdb_path: /jPP3J46t2FvNOEn9RKGVprFZB1N.jpg

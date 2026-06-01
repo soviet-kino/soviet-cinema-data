@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2352132
   imdb: tt1657426
   youtube: 7XmswGRItCk
+  tmdb: 529786
 sources:
 - https://www.wikidata.org/wiki/Q2352132
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: ogly-sharifov-alesker-mamedtagi
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /uLTtRcrKKXC1cF5NBnc0TEPCSEA.jpg

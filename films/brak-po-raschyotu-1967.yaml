@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q54978
   imdb: tt0061945
+  tmdb: 240833
 sources:
 - https://www.wikidata.org/wiki/Q54978
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: bargelovskiy-marek
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /gl6y5S7k91LLr8Hpnm89cwk9hou.jpg
+backdrop_tmdb_path: /8vX6wdWqU5J7I70Le4mMFYZC1Bv.jpg

@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q7406160
   imdb: tt0059670
+  tmdb: 193348
 sources:
 - https://www.wikidata.org/wiki/Q7406160
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: cybulski-zbigniew
+poster_tmdb_path: /kZTy3p3wWlxmLRq7hgoavKYGDuX.jpg
+backdrop_tmdb_path: /dbEc7bzhGOIGvicnzEcZ8KjM3Hw.jpg

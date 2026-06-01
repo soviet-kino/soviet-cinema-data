@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31280004
   imdb: tt0454671
+  tmdb: 727893
 sources:
 - https://www.wikidata.org/wiki/Q31280004
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: lu-reyne
 studio:
 - eesti-telefilm
+poster_tmdb_path: /crFX2wITYidvVYt5fXgJo633B78.jpg
+backdrop_tmdb_path: /xgcvFdtL6EUJbM0Cgil9jxund7b.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4454833
   imdb: tt0217841
   youtube: Ted9HpTG7EE
+  tmdb: 65131
 sources:
 - https://www.wikidata.org/wiki/Q4454833
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: neyolova-marina-mstislavovna
 - person: dal-oleg-ivanovich
 - person: etush-vladimir-abramovich
+poster_tmdb_path: /2mkeJYGcslswNf1B6eWphRsTu1A.jpg
+backdrop_tmdb_path: /vpRzk7a8rVjqIKeyvXd5tLGR0O7.jpg

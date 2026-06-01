@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q101683087
   imdb: tt6235162
   youtube: N0yHABCl-fY
+  tmdb: 895978
 sources:
 - https://www.wikidata.org/wiki/Q101683087
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 studio:
 - mosfilm
 - televidenie-v-chekhoslovakii
+poster_tmdb_path: /56dVPpmImoVdCuJCcJmd1Ep89wZ.jpg

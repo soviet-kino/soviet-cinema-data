@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q136664823
   imdb: tt0274920
+  tmdb: 968339
 sources:
 - https://www.wikidata.org/wiki/Q136664823
 schema_version: 1
 director:
 - ordynski-ryshard
+poster_tmdb_path: /oPsQXmqA58at2VI24qci3A5F350.jpg

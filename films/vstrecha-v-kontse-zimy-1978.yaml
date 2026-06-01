@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127684
   imdb: tt0335539
   youtube: _I40wPQN-yQ
+  tmdb: 638155
 sources:
 - https://www.wikidata.org/wiki/Q4127684
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - belarusfilm
 cast:
 - person: luzhina-larisa-anatolevna
+poster_tmdb_path: /cM4W6JPmHKMLmTaYUUDWlmRJ0Mb.jpg

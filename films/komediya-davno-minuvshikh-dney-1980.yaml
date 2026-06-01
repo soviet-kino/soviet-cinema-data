@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4229503
   imdb: tt0230421
   youtube: ehYajR5Qleg
+  tmdb: 418471
 sources:
 - https://www.wikidata.org/wiki/Q4229503
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: filippov-sergey-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /xlnsolnIXXmhJWqfD2e22n1d2ta.jpg
+backdrop_tmdb_path: /3AgPhmPsJ3g8AM3xem8MKUAOfFp.jpg

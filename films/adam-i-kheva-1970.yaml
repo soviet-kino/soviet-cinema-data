@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4057255
   imdb: tt0149586
   youtube: k8yp_tIrMCo
+  tmdb: 647112
 sources:
 - https://www.wikidata.org/wiki/Q4057255
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: vasileva-ekaterina-sergeevna
 - person: gegechkori-georgiy-vladimirovich
 - person: giorgobiani-ramaz-dutuevich
+poster_tmdb_path: /fgeeOeVPQjEAoYVdEKy9T7QN5Zd.jpg

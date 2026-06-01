@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q66580418
   imdb: tt0075304
   youtube: qMyejsN0o70
+  tmdb: 481313
 sources:
 - https://www.wikidata.org/wiki/Q66580418
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: luzhina-larisa-anatolevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /eGqP13noTH6F0Khk0PhDdzr59zL.jpg

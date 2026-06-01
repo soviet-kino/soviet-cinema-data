@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q20165349
   imdb: tt0307212
   youtube: cl5HQr9Y_to
+  tmdb: 67842
 sources:
 - https://www.wikidata.org/wiki/Q20165349
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: mashnaya-olga
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zoDS1Gqrg6SyPfCkVqx3DLM4RZM.jpg
+backdrop_tmdb_path: /ztfzYYkGBJDHUTowqjNaq7w7kxi.jpg

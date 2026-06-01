@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748867
   imdb: tt0179673
+  tmdb: 502049
 sources:
 - https://www.wikidata.org/wiki/Q12748867
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: gadzhich-gordana
 - person: zhutich-milosh
 - person: aleksandar-todorovich
+poster_tmdb_path: /ukFLA5CVaxKmCARlV5qobPozf1R.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123581138
   imdb: tt0036488
+  tmdb: 262614
 sources:
 - https://www.wikidata.org/wiki/Q123581138
 schema_version: 1
 director:
 - zilakhi-layosh
+poster_tmdb_path: /qIsVz40neVtErTyJLUKmZZYzEV7.jpg

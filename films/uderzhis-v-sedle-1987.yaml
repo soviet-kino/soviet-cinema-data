@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108862939
   imdb: tt3324554
   youtube: _iT6by2OmJY
+  tmdb: 1557665
 sources:
 - https://www.wikidata.org/wiki/Q108862939
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - karagulov-bakyt-nazarkulovich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /y0lp5wzYWyzUN3H25XI9OZjRXXv.jpg
+backdrop_tmdb_path: /2s2ARKrEucPVRIpp2iLxlfJf5IW.jpg

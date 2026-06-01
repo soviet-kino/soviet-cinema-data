@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4327825
   imdb: tt0082823
+  tmdb: 457384
 sources:
 - https://www.wikidata.org/wiki/Q4327825
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: papernyy-evgeniy
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /m93Xicy2iYQ8fjmY30ZBJzkOXaQ.jpg
+backdrop_tmdb_path: /un5xhWBilobgVdy3u0rWPNxyP8o.jpg

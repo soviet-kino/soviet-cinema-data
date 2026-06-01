@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q11043838
   imdb: tt0179721
+  tmdb: 285392
 sources:
 - https://www.wikidata.org/wiki/Q11043838
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: mikhaylo-bata-paskalevich
 - person: milivoe-zhivanovich
 - person: radomir-plaovich
+poster_tmdb_path: /71vAWZMWWZFcDQh10NfzQ8croSb.jpg
+backdrop_tmdb_path: /qTlge2F8dSRrH2l90dbZlwhoavE.jpg

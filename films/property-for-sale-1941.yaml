@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q123367963
   imdb: tt0032435
+  tmdb: 822250
 sources:
 - https://www.wikidata.org/wiki/Q123367963
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: pager-antal
 - person: gobbi-khilda
 - person: seletski-zita
+poster_tmdb_path: /utA9LVonWwZuJJ0kYnla77ffOA4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18623421
   imdb: tt0241259
   youtube: cwCflkT13IU
+  tmdb: 142755
 sources:
 - https://www.wikidata.org/wiki/Q18623421
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: martinson-sergey-aleksandrovich
 - person: tsilinskiy-gunar-alfredovich
 - person: menglet-mayya-georgievna
+poster_tmdb_path: /1G4Hnqh5GcXN2NskRn85C6ngQg9.jpg
+backdrop_tmdb_path: /u2dVRZSpUH7thHApFEEE6YWVyIV.jpg

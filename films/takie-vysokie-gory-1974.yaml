@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18278465
   imdb: tt0175226
+  tmdb: 1528620
 sources:
 - https://www.wikidata.org/wiki/Q18278465
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: korotkova-irina-yurevna
 studio:
 - mosfilm
+poster_tmdb_path: /qDTDc9CenptHMBUdSHfyi1rhT5s.jpg

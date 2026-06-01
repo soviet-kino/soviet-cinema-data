@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44875195
   imdb: tt0078411
+  tmdb: 743558
 sources:
 - https://www.wikidata.org/wiki/Q44875195
 schema_version: 1
 director:
 - blayer-andrey
+poster_tmdb_path: /a1ojO3U4m0ylglGWd0J0dPvDhDF.jpg

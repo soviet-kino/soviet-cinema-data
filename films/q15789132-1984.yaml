@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q15789132
   imdb: tt0085261
+  tmdb: 421617
 sources:
 - https://www.wikidata.org/wiki/Q15789132
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - noymann-klaus
 composer:
 - fisher-gyunter
+poster_tmdb_path: /noQ02sgVQe54EVlw0QFyNRTXqsc.jpg

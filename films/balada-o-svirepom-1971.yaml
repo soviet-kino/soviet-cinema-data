@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12748663
   imdb: tt0181304
+  tmdb: 262730
 sources:
 - https://www.wikidata.org/wiki/Q12748663
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: rade-markovich
 - person: tadich-lyuba
 - person: boyanich-dragomir
+poster_tmdb_path: /3xT7q622bLSEhJslMVKjU3Tis7s.jpg
+backdrop_tmdb_path: /xErly2IJQgcsUNpO64AooO6TYm1.jpg

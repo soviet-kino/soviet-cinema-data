@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428722
   imdb: tt0233561
+  tmdb: 687154
 sources:
 - https://www.wikidata.org/wiki/Q109428722
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 studio:
 - lenfilm
 poster_commons: Rasstrel rabochego shestviya1.jpg
+poster_tmdb_path: /qdeHOQZsnGMnxKooV9MUB0pQwDx.jpg

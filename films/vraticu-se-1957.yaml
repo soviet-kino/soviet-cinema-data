@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q31183770
   imdb: tt0180294
+  tmdb: 386604
 sources:
 - https://www.wikidata.org/wiki/Q31183770
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zhigon-stevo
 - person: bijelic-severin
 - person: sever-stane
+poster_tmdb_path: /aV8ZSRUpK1rAHAm409g9ADIHJ28.jpg

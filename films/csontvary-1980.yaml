@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q1475295
   imdb: tt0080577
+  tmdb: 131027
 sources:
 - https://www.wikidata.org/wiki/Q1475295
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: fintsi-itskhak
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /zpIhhoSQpFrnPJ859JuGerieloX.jpg
+backdrop_tmdb_path: /agBlL4CepOGz5VtscgYDVEB0i4c.jpg

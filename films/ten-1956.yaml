@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q7460434
   imdb: tt0049077
+  tmdb: 199219
 sources:
 - https://www.wikidata.org/wiki/Q7460434
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: strakhotskiy-yanush
 - person: khvalibog-mariya
 - person: lonch-marian
+poster_tmdb_path: /t0vWPIHS0XL5GXqngbJy6qrF8bo.jpg
+backdrop_tmdb_path: /4XqKh1PbVU1nQGq4M6I8coEiiO.jpg

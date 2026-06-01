@@ -8,6 +8,7 @@ runtime_min: 136
 external_ids:
   wikidata: Q4146554
   imdb: tt2693808
+  tmdb: 531046
 sources:
 - https://www.wikidata.org/wiki/Q4146554
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: timoshkin-aleksandr-mikhaylovich
 studio:
 - belarusfilm
+poster_tmdb_path: /cWEqHMtcI8ag1yVMY9EbvrbnUdX.jpg

@@ -8,6 +8,7 @@ runtime_min: 40
 external_ids:
   wikidata: Q4101677
   imdb: tt0062015
+  tmdb: 272138
 sources:
 - https://www.wikidata.org/wiki/Q4101677
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - khamdamov-rustam-usmanovich
 cinematographer:
 - dyakonov-vladimir-viktorovich
+poster_tmdb_path: /8B30DilSPzkFKq7MMQLHjmLIVnL.jpg
+backdrop_tmdb_path: /q48saqRYItE0eXKMEPWQXqPwz4.jpg

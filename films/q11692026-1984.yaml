@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11692026
   imdb: tt0087105
+  tmdb: 923061
 sources:
 - https://www.wikidata.org/wiki/Q11692026
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: probosh-mariya
 - person: yan-yurevich
 - person: probosh-marek
+poster_tmdb_path: /ijYf5wuSbmzWVSC0OIeXw1Lsn64.jpg

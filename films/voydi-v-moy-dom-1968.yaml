@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q97276917
   imdb: tt0348328
+  tmdb: 1466584
 sources:
 - https://www.wikidata.org/wiki/Q97276917
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - pann-aleksandr
 studio:
 - uzbekfilm
+poster_tmdb_path: /s0eLz7WV6wvNBCSyH5xEtq0ZBQD.jpg

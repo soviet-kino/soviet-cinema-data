@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788467
   imdb: tt0091596
+  tmdb: 579861
 sources:
 - https://www.wikidata.org/wiki/Q11788467
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: inglot-robert
 studio:
 - wroclaw-feature-film-studio
+poster_tmdb_path: /i8l1aTStIbIo2jWizfODJy5f0As.jpg

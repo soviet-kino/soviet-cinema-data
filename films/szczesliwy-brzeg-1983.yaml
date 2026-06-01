@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9351234
   imdb: tt0085875
+  tmdb: 923045
 sources:
 - https://www.wikidata.org/wiki/Q9351234
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pokora-voytsekh
 - person: buchkovskiy-zbignev
 - person: rychter-zdzis-aw
+poster_tmdb_path: /kRX7RNzerKPASG0jAztGPfyWjVB.jpg

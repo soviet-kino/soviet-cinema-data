@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12866203
   imdb: tt0276283
+  tmdb: 1389190
 sources:
 - https://www.wikidata.org/wiki/Q12866203
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: gorgiladze-malkhaz-dmitrievich
 - person: badurashvili-lali
 - person: asatiani-liana
+poster_tmdb_path: /xzN51QlcJAcDadPr6VBNaO8BY0t.jpg
+backdrop_tmdb_path: /oAyOjQVd3nF4lt6GbvvR8fOxYG6.jpg

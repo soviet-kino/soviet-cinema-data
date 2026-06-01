@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q42891473
   imdb: tt0057836
+  tmdb: 441304
 sources:
 - https://www.wikidata.org/wiki/Q42891473
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - borkmann-eberkhard
 composer:
 - lesser-volfgang
+poster_tmdb_path: /AsTA74WD7VKQ2SiXe1nGMSdgvMp.jpg
+backdrop_tmdb_path: /1ycTpc4iGN6yI7Qe0gsHmDnQPvZ.jpg

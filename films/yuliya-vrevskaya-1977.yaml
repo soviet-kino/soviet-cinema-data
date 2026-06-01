@@ -8,6 +8,7 @@ runtime_min: 139
 external_ids:
   wikidata: Q12299524
   imdb: tt0076946
+  tmdb: 547213
 sources:
 - https://www.wikidata.org/wiki/Q12299524
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 studio:
 - mosfilm
 - nyu-boyana-film-studios
+poster_tmdb_path: /vsGJOqouIIFmuMY9vfRh0HQ7tcv.jpg
+backdrop_tmdb_path: /sJY1hv7M0GLZ84fe7zwwY6OGrmH.jpg

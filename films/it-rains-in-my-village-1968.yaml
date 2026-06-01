@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q3028211
   imdb: tt0124294
+  tmdb: 127083
 sources:
 - https://www.wikidata.org/wiki/Q3028211
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: petar-banichevich
 - person: tomich-milivo-e
 - person: pavicevic-bozidar
+poster_tmdb_path: /e6EtnZwa7RUr2dgeBulQqyFLoB7.jpg
+backdrop_tmdb_path: /2xnPJFZhhip8XR0nSIg552WW9fd.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q6435626
   imdb: tt0030333
+  tmdb: 284777
 sources:
 - https://www.wikidata.org/wiki/Q6435626
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: yan-kurnakovich
 - person: pikhelskiy-ezhi
 poster_commons: Franciszek Dominiak jako Bartosz Głowacki.jpg
+poster_tmdb_path: /cW9hEZE9MJKCvXlczATOSsrXebr.jpg

@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q12043230
   imdb: tt0357993
+  tmdb: 376920
 sources:
 - https://www.wikidata.org/wiki/Q12043230
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: glinomaz-yozef
 - person: andrlova-ivana
 - person: cap-josef
+backdrop_tmdb_path: /qXnrBVwSZHnkUbWY9Ehw0U40p34.jpg

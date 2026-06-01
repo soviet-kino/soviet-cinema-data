@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12199255
   imdb: tt0366216
+  tmdb: 1190756
 sources:
 - https://www.wikidata.org/wiki/Q12199255
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: sedi-zinat
 - person: monib-mari
 - person: riri
+poster_tmdb_path: /c9v7xeywDFa7FDA6AwzlSpWC6bA.jpg
+backdrop_tmdb_path: /otZgN3TX210r2TlmoTO0qcZwyVz.jpg

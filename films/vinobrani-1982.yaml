@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7932714
   imdb: tt0138917
+  tmdb: 795593
 sources:
 - https://www.wikidata.org/wiki/Q7932714
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: smrckova-jana
 - person: miksicek-ondrej
 - person: smolikova-ruzena
+poster_tmdb_path: /zvLDMuHK3Eato3Eeaj6mx3EKMi5.jpg

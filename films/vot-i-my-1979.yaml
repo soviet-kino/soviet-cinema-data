@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7513481
   imdb: tt0374223
+  tmdb: 172886
 sources:
 - https://www.wikidata.org/wiki/Q7513481
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: abel-ervin
 - person: puura-vaino
 - person: jaatma-kadri
+poster_tmdb_path: /n5TlakY4N4DWokKctHlX8C9kB75.jpg
+backdrop_tmdb_path: /ckqjlmdb4ipASkfpnmEljYHr9fw.jpg

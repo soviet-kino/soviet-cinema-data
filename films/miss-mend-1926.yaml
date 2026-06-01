@@ -8,6 +8,7 @@ runtime_min: 190
 external_ids:
   wikidata: Q4296432
   imdb: tt0017159
+  tmdb: 250676
 sources:
 - https://www.wikidata.org/wiki/Q4296432
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - mezhrabpom-rus
 poster_commons: Плакат к фильму «Мисс Менд».jpg
+poster_tmdb_path: /cAFHbtniAew8mJ84tS5J9iCuTDm.jpg

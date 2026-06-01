@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4457456
   imdb: tt5560708
   youtube: 3w_r6y_a0tU
+  tmdb: 439236
 sources:
 - https://www.wikidata.org/wiki/Q4457456
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - savelev-boris
 studio:
 - belarusfilm
+poster_tmdb_path: /363xjtfRTtF0lU0pj1F3MVXrJ2x.jpg
+backdrop_tmdb_path: /26VrWUQ7sBLk64N838ATNfbljzl.jpg

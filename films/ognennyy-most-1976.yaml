@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q51309627
   imdb: tt0074998
+  tmdb: 1410697
 sources:
 - https://www.wikidata.org/wiki/Q51309627
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kenigson-vladimir-vladimirovich
 - person: safonov-vsevolod-dmitrievich
 - person: chernova-alla-iosifovna
+poster_tmdb_path: /pRqkKp0gv2sfFhgKIRC1Q08QoNG.jpg
+backdrop_tmdb_path: /6MYzOfHyE1AZN6XA7xMAQq4P8Bu.jpg

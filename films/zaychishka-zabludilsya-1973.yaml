@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21639587
   imdb: tt9089842
   youtube: UZIehuULjFM
+  tmdb: 343547
 sources:
 - https://www.wikidata.org/wiki/Q21639587
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - gavrilov-anatoliy
 studio:
 - kievnauchfilm
+poster_tmdb_path: /qZwOd7mMlo4ScG4s88xu9QpD2Yq.jpg

@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q18540255
   imdb: tt0123846
+  tmdb: 317050
 sources:
 - https://www.wikidata.org/wiki/Q18540255
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - dregan-mircha
 screenwriter:
 - sadovyanu-mikhail
+poster_tmdb_path: /E6XY1HT9GA5H1NfJjB6u4wIL8z.jpg

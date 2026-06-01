@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q315593
   imdb: tt0063818
+  tmdb: 10638
 sources:
 - https://www.wikidata.org/wiki/Q315593
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: leib-vladimir
 studio:
 - yadran-film
+poster_tmdb_path: /ejsTfuSuxbfzJ77CgHcwyahstiM.jpg
+backdrop_tmdb_path: /ufy2hQNhsL0ZPg875tbiXIOmWWw.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12751975
   imdb: tt0062521
+  tmdb: 324370
 sources:
 - https://www.wikidata.org/wiki/Q12751975
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: sokich-ruzhitsa
 - person: kandich-milosh
 - person: ranko-kovachevich
+poster_tmdb_path: /6m6afBlZogsNRTM9WLFLaoglnEh.jpg
+backdrop_tmdb_path: /azp6Dl3K7kD7ryPDvsmYJRxVGBn.jpg

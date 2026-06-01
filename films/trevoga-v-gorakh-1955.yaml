@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25894440
   imdb: tt0154125
+  tmdb: 551828
 sources:
 - https://www.wikidata.org/wiki/Q25894440
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: petruts-emanoil
 - person: etterle-fori
 - person: q139821830
+poster_tmdb_path: /dSwMCbl4MWkxoV1qxf2u0z0Z6s4.jpg

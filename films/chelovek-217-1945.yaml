@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2071987
   imdb: tt0037589
   youtube: spAMLtEK93k
+  tmdb: 189180
 sources:
 - https://www.wikidata.org/wiki/Q2071987
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - mosfilm
 - uzbekfilm
+poster_tmdb_path: /rDSx1lnk42rGYGzQ9tXPo5qqox7.jpg
+backdrop_tmdb_path: /b3ABleVbfDfPwGiBDeyyXzJFyEZ.jpg

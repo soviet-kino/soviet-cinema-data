@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q20529436
   imdb: tt0447471
+  tmdb: 1413876
 sources:
 - https://www.wikidata.org/wiki/Q20529436
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - ryaets-yaan
 studio:
 - tallinfilm
+poster_tmdb_path: /rBKRRZ215H2Vgirkm7n3N8eHtxW.jpg
+backdrop_tmdb_path: /3N4SSa0onJQvff3zmbcPpRJTvb0.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4224120
   imdb: tt0151230
+  tmdb: 694309
 sources:
 - https://www.wikidata.org/wiki/Q4224120
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: marchevskiy-anatoliy-pavlovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /ptiO0ITUkoxLtHMviCflKOU9roy.jpg
+backdrop_tmdb_path: /sbwRsR67WJIKF6OToVczqpNdD6R.jpg

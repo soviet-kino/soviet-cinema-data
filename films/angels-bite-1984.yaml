@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4762015
   imdb: tt0088313
+  tmdb: 365373
 sources:
 - https://www.wikidata.org/wiki/Q4762015
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - sabljak-tomislav
 composer:
 - kabilo-alfi
+poster_tmdb_path: /oNZ2yhqqBX1PHDsKKbhiKmnigel.jpg

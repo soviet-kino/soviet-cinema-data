@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748837
   imdb: tt0200478
+  tmdb: 460172
 sources:
 - https://www.wikidata.org/wiki/Q12748837
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: gutovic-milan
 - person: yanketich-mikhaylo
 - person: slobodan-perovich
+poster_tmdb_path: /32EpR3uP50g9kuLk1UcVwTcdD2S.jpg

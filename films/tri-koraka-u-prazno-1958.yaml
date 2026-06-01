@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20310525
   imdb: tt0180264
+  tmdb: 476851
 sources:
 - https://www.wikidata.org/wiki/Q20310525
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - nanovic-vojislav
 cast:
 - person: vuisich-pavle
+poster_tmdb_path: /7VawIztGU2tYVGXjOiUYdGSqTa3.jpg
+backdrop_tmdb_path: /mRimraqNx6SfDOU6rTfRdnqHOYs.jpg

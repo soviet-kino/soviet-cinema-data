@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q110491461
   imdb: tt0263678
+  tmdb: 651956
 sources:
 - https://www.wikidata.org/wiki/Q110491461
 schema_version: 1
@@ -67,3 +68,4 @@ cast:
 - person: vlasak-v-a
 - person: bezrucova-zdenka
 - person: jirkovska-zdenicka
+poster_tmdb_path: /twItYGp28PW66E0SdFxb9V7TJjV.jpg

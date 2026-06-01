@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4236908
   imdb: tt0378212
   youtube: mJAiIHJufXk
+  tmdb: 637080
 sources:
 - https://www.wikidata.org/wiki/Q4236908
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: khomyatov-roman-zakharevich
 - person: umuraliev-asanbek
 - person: zhanturin-nurmukhan-seytakhmetovich
+poster_tmdb_path: /aGWBPp0OBk7WwNeXOdboAS93gRv.jpg

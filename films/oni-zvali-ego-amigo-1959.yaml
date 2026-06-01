@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q2282098
   imdb: tt0053277
+  tmdb: 289287
 sources:
 - https://www.wikidata.org/wiki/Q2282098
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: shvil-ernst-georg
 - person: dyuren-fred
 - person: kokh-khoge-vilgelm
+poster_tmdb_path: /Ggbljjlox0zeArnyqEHKEN1Pg8.jpg
+backdrop_tmdb_path: /3c2h8skZClCEpwtleLD3D1NrGAC.jpg

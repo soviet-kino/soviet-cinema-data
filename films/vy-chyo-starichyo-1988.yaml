@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4128497
   imdb: tt0096407
+  tmdb: 499116
 sources:
 - https://www.wikidata.org/wiki/Q4128497
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pakhomenko-mikhail-arsentevich
 studio:
 - lenfilm
+poster_tmdb_path: /8oZSHITjZWXBSLwyCdfwiQJ3AL9.jpg
+backdrop_tmdb_path: /h7gIrw1P0JlqJD6QqlooV9Ywds9.jpg

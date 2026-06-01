@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q106765280
   imdb: tt3097744
+  tmdb: 826841
 sources:
 - https://www.wikidata.org/wiki/Q106765280
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - pirumov-aleksandr-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /mY2sgQ5WT9BQZHgIWmjs2nM6aZP.jpg

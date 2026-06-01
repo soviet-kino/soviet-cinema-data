@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q1475364
   imdb: tt0158595
+  tmdb: 198522
 sources:
 - https://www.wikidata.org/wiki/Q1475364
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kadar-flora
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /p8xz0kdfY3fGsJwRberWs9OCll7.jpg
+backdrop_tmdb_path: /pXHExnmGBDHll69aH1kCt7saQhZ.jpg

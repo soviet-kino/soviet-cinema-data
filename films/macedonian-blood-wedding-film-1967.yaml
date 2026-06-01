@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3405938
   imdb: tt0179957
+  tmdb: 268544
 sources:
 - https://www.wikidata.org/wiki/Q3405938
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - yanevski-slavko
 composer:
 - makedonskiy-kiril
+poster_tmdb_path: /iOfvebthXKgYFTW9GyLI7w9p5B5.jpg

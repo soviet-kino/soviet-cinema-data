@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q52567456
   imdb: tt5332324
+  tmdb: 1519707
 sources:
 - https://www.wikidata.org/wiki/Q52567456
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 cast:
 - person: konyukhova-tatyana
 - person: kydykeeva-baken
+poster_tmdb_path: /kzoisAxpBbSAltCrciXbvGdyJ1d.jpg

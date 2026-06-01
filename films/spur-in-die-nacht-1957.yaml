@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1458889
   imdb: tt0175197
+  tmdb: 371569
 sources:
 - https://www.wikidata.org/wiki/Q1458889
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: dunkelmann-kurt
 - person: shelkher-raymund
 - person: khetterle-albert
+poster_tmdb_path: /jN1e85et1K3wfxFy4otWUHioBs7.jpg

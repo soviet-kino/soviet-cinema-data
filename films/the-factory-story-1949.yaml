@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11155358
   imdb: tt0174135
+  tmdb: 692753
 sources:
 - https://www.wikidata.org/wiki/Q11155358
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: starcic-viktor
 - person: strozzi-tito
 - person: aleksandr-stoykovich
+poster_tmdb_path: /8BzDviITlP7uVtIcfjuDvbRaC9C.jpg

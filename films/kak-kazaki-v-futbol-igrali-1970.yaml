@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q4208819
   imdb: tt1230144
+  tmdb: 210140
 sources:
 - https://www.wikidata.org/wiki/Q4208819
 schema_version: 1
 director:
 - dakhno-vladimir-avksentevich
+poster_tmdb_path: /57iYq6SOAPL24LXlixcybtP5AKJ.jpg
+backdrop_tmdb_path: /uvEPykRjA19564ypUGquvwNblbi.jpg

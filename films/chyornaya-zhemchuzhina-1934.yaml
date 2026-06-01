@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4921450
   imdb: tt0284990
+  tmdb: 397539
 sources:
 - https://www.wikidata.org/wiki/Q4921450
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: frantishek-brodnevich
 - person: znich-mikhal
 poster_commons: Czarna Perła 1934.jpg
+poster_tmdb_path: /cbjWfO7vPtLrjmWlW6AivtCBtyr.jpg
+backdrop_tmdb_path: /25F8dCPGkmdjP57J7hW9oZsJFbk.jpg

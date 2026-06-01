@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12088989
   imdb: tt0781030
+  tmdb: 446969
 sources:
 - https://www.wikidata.org/wiki/Q12088989
 schema_version: 1
 director:
 - mudzhiri-vladimir-yasonovich
+poster_tmdb_path: /yvPUzmj5mxIrYhHTUb3QTEduZZb.jpg

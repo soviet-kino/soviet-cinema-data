@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q97171423
   imdb: tt0314098
   youtube: oyg-XcCKL98
+  tmdb: 530843
 sources:
 - https://www.wikidata.org/wiki/Q97171423
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - galiev-anatoliy-sergeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /8MckFeEV607UJyRYJIK21ZLbssR.jpg
+backdrop_tmdb_path: /hh1EM37fsiq0DXE41BGwBwwRsQt.jpg

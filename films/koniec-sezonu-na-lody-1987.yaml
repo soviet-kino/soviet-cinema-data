@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11742468
   imdb: tt0095461
+  tmdb: 923204
 sources:
 - https://www.wikidata.org/wiki/Q11742468
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: pokora-voytsekh
 studio:
 - iluzjon
+poster_tmdb_path: /psWOcwzBlimxF11eyKae1pUcaIN.jpg
+backdrop_tmdb_path: /c5qbJjYPz2tsYv6Z7FU7QgRGdwy.jpg

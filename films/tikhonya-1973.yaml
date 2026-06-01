@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4458735
   imdb: tt2959276
+  tmdb: 685300
 sources:
 - https://www.wikidata.org/wiki/Q4458735
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vetlova-evgeniya-aleksandrovna
 studio:
 - moldova-film
+poster_tmdb_path: /2a6u0QA3vpfYZTWgnvnyWZFCUTH.jpg
+backdrop_tmdb_path: /hJCjoOXnxOzescH2uWprsuKQVIj.jpg

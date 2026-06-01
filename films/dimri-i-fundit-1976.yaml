@@ -8,6 +8,7 @@ runtime_min: 51
 external_ids:
   wikidata: Q11051405
   imdb: tt0295211
+  tmdb: 354594
 sources:
 - https://www.wikidata.org/wiki/Q11051405
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - tafa-nexhati
 composer:
 - lalo-aleksander
+poster_tmdb_path: /ckOP4CyV7dk7qHoYBeapl3m8q5E.jpg
+backdrop_tmdb_path: /7wU417aFAnAXQMrmmX0o9pJtYAO.jpg

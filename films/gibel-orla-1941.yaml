@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4137910
   imdb: tt0032524
   youtube: Rp8zcP57ZJc
+  tmdb: 628233
 sources:
 - https://www.wikidata.org/wiki/Q4137910
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: gromov-viktor-alekseevich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /tXj57ew823zIIj7Pdr8l7y3ujja.jpg

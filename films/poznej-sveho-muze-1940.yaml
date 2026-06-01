@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q7237045
   imdb: tt0152051
+  tmdb: 516843
 sources:
 - https://www.wikidata.org/wiki/Q7237045
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: dvorak-karel
 - person: schmitt-jan-otto
 - person: svimberska-marie
+poster_tmdb_path: /6Ss2lf9NFTsiHruWXzOIHog7gVN.jpg
+backdrop_tmdb_path: /9NB0UclA62MMxmRYlhMNfdUWiR4.jpg

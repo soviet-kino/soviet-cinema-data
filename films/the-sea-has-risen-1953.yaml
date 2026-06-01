@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1006196
   imdb: tt0045799
+  tmdb: 287591
 sources:
 - https://www.wikidata.org/wiki/Q1006196
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: uray-tivadar
 - person: kyomivesh-shandor
 - person: domsodi-janos
+poster_tmdb_path: /fiMU6YqFiawvuVouYC0FA3ZQr5M.jpg

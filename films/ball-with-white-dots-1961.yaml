@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15622108
   imdb: tt1255486
+  tmdb: 834460
 sources:
 - https://www.wikidata.org/wiki/Q15622108
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - khenrik-iren
 composer:
 - sokolai-shandor
+poster_tmdb_path: /yyBEQFe4oNDxin5yVQeJL8Pm97Y.jpg

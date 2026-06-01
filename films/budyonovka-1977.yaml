@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65210966
   imdb: tt0315860
   youtube: Jy5dq5VSKgY
+  tmdb: 404455
 sources:
 - https://www.wikidata.org/wiki/Q65210966
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - voznesenskiy-igor-matveevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qeM6RMl7nzglZOGCt0IkCEeQyT0.jpg
+backdrop_tmdb_path: /7e1Abd3D476pz41XEoiXIjKSBwJ.jpg

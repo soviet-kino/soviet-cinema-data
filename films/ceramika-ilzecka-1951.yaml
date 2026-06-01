@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q11689653
   imdb: tt0175515
+  tmdb: 271909
 sources:
 - https://www.wikidata.org/wiki/Q11689653
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - wajda-andrzej
 cinematographer:
 - lipman-ezhi
+poster_tmdb_path: /b6Dka54SgeVkQ89WreURBsuIiwa.jpg

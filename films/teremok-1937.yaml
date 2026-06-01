@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q4455586
   imdb: tt2381327
+  tmdb: 654788
 sources:
 - https://www.wikidata.org/wiki/Q4455586
 schema_version: 1
 studio:
 - lenfilm
 poster_commons: Теремок (1937).jpg
+poster_tmdb_path: /2eIgGwetxl7MJBqzNCfN5NACPBo.jpg

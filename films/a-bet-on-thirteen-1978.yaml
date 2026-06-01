@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q134592470
   imdb: tt0076667
+  tmdb: 551075
 sources:
 - https://www.wikidata.org/wiki/Q134592470
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: pesan-miroslav
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /eeArkgqI7gOp3wDLL5uEXyfyDe0.jpg
+backdrop_tmdb_path: /2lHwpmMtMHp28RwxrJavgI46cA4.jpg

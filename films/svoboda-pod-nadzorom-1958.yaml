@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q16466193
   imdb: tt0138572
+  tmdb: 522580
 sources:
 - https://www.wikidata.org/wiki/Q16466193
 schema_version: 1
@@ -57,3 +58,4 @@ cast:
 - person: hlavata-marie
 - person: lastovka-v
 - person: vacek-erik
+poster_tmdb_path: /wX7SYP1kmMiFLuwkIgrn56OKDix.jpg

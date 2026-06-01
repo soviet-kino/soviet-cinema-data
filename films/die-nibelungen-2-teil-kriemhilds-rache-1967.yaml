@@ -8,8 +8,11 @@ runtime_min: 110
 external_ids:
   wikidata: Q16465878
   imdb: tt0060750
+  tmdb: 5609
 sources:
 - https://www.wikidata.org/wiki/Q16465878
 schema_version: 1
 director:
 - raynl-kharald
+poster_tmdb_path: /aDFaYOmDgcabdkcjOEyDGAwzIgi.jpg
+backdrop_tmdb_path: /y6nc02wVHGOTjoXlydRGe4G5I6Y.jpg

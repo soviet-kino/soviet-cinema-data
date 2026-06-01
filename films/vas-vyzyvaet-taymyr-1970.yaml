@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4104155
   imdb: tt0066520
+  tmdb: 142762
 sources:
 - https://www.wikidata.org/wiki/Q4104155
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - mosfilm
 cast:
 - person: kuzmenkov-yuriy-aleksandrovich
+poster_tmdb_path: /m6YO8VpEXUb3Egxu70Mi7xfXWNR.jpg
+backdrop_tmdb_path: /xLs4A4BTkuzdU0d8IjX0xVNUBbx.jpg

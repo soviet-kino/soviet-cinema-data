@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11692462
   imdb: tt0176629
+  tmdb: 934525
 sources:
 - https://www.wikidata.org/wiki/Q11692462
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - mundkowski-andrzej
 cast:
 - person: nemchik-leon
+poster_tmdb_path: /bSGQenM0BppOb8C5iFimewtxBIu.jpg
+backdrop_tmdb_path: /qwbdI3Tv95KeYEuXV6D9na4KVUy.jpg

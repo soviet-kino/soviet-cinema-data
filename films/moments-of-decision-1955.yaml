@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12960299
   imdb: tt0048746
+  tmdb: 363217
 sources:
 - https://www.wikidata.org/wiki/Q12960299
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 cast:
 - person: sever-stane
 - person: sotlar-bert
+poster_tmdb_path: /2NKcqoyVPOltWFUe1bdZpLYWXT0.jpg
+backdrop_tmdb_path: /ujgEx6SWiIshx0puXRkkm3fjiDA.jpg

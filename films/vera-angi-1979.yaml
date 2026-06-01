@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q2513476
   imdb: tt0077165
+  tmdb: 47622
 sources:
 - https://www.wikidata.org/wiki/Q2513476
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: kadar-flora
 studio:
 - mafilm
+poster_tmdb_path: /j0udo2u0SyvZu8UHdx6PgRPiC3l.jpg
+backdrop_tmdb_path: /zaMGaxG4gWySlY6hMnedG6pd2vL.jpg

@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q52562409
   imdb: tt2806434
+  tmdb: 1326450
 sources:
 - https://www.wikidata.org/wiki/Q52562409
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: shpigel-grigoriy-oyzerovich
 - person: zavkibekov-gurmindzh
 - person: kasymov-abdulkhayr-bakhromovich
+poster_tmdb_path: /6Mfqfh9ZQH1s3Q0dQCIymxUvHwI.jpg
+backdrop_tmdb_path: /aqgLVqKoNQIvCEx2FItuisyVyl5.jpg

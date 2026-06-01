@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4298828
   imdb: tt0174927
   youtube: SPAl2nRU0z0
+  tmdb: 464429
 sources:
 - https://www.wikidata.org/wiki/Q4298828
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - samsonov-samson-iosifovich
 studio:
 - mosfilm
+poster_tmdb_path: /htQna7uBxxYWWzG7jwmaDghpfeK.jpg
+backdrop_tmdb_path: /IoD8n8IbBvMTxH1QzE8OhN1NzE.jpg

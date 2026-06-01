@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1101020
   imdb: tt0045952
+  tmdb: 476848
 sources:
 - https://www.wikidata.org/wiki/Q1101020
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 cast:
 - person: nalis-antun
 - person: kolesar-irena
+poster_tmdb_path: /iwnbxvb9xNxwAsjA5FIqMKgc8mZ.jpg

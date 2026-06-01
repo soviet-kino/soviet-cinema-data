@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4291468
   imdb: tt3238494
+  tmdb: 372256
 sources:
 - https://www.wikidata.org/wiki/Q4291468
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: shakurov-sergey-kayumovich
 studio:
 - lenfilm
+poster_tmdb_path: /hjWfiky20ITRyQB4GSuVBiLJ1BE.jpg
+backdrop_tmdb_path: /vpR6HOpudJExi8tWkY0pBQyaHyh.jpg

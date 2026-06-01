@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4379917
   imdb: tt5516856
   youtube: a_Kmt6TZGZk
+  tmdb: 1641432
 sources:
 - https://www.wikidata.org/wiki/Q4379917
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: pyatronaytis-stasis
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /zp5RTzqjj30MZjbJyc5OE1nBZxH.jpg

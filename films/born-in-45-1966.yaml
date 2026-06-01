@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1540387
   imdb: tt0059325
+  tmdb: 194443
 sources:
 - https://www.wikidata.org/wiki/Q1540387
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: malikh-kholger
 - person: kanits-verner
 - person: kommerell-ruth
+poster_tmdb_path: /qEzrr9M0W361yx7poqok4kjmDVT.jpg
+backdrop_tmdb_path: /rOBAcS2XGUpxZcpwnPFMmXC2zAA.jpg

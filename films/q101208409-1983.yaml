@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q101208409
   imdb: tt0368392
+  tmdb: 412598
 sources:
 - https://www.wikidata.org/wiki/Q101208409
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - schafer-eberhard
 cinematographer:
 - pitsh-volfgang
+poster_tmdb_path: /nBXErTOItg4Pm3wy6w8199KawYm.jpg
+backdrop_tmdb_path: /A5BHpMUZGcmQJBDdRZt1XzZ81iE.jpg

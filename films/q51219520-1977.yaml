@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q51219520
   imdb: tt0076669
+  tmdb: 514565
 sources:
 - https://www.wikidata.org/wiki/Q51219520
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: baier-bernhard
 studio:
 - deutscher-fernsehfunk
+poster_tmdb_path: /1jkbw4JEmiZAnNisglLbe1rfl7e.jpg

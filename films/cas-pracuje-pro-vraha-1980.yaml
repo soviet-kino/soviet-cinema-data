@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q130438250
   imdb: tt0138351
+  tmdb: 399587
 sources:
 - https://www.wikidata.org/wiki/Q130438250
 schema_version: 1
@@ -68,3 +69,4 @@ cast:
 - person: kozisek-tomas
 - person: st-marta-srovnalova
 - person: vacikova-jana
+poster_tmdb_path: /5H1ZBikqYItjkdMPhAhX1ODIBrp.jpg

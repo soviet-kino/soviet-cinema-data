@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q12034544
   imdb: tt0077883
+  tmdb: 341544
 sources:
 - https://www.wikidata.org/wiki/Q12034544
 schema_version: 1
@@ -234,3 +235,5 @@ cast:
 - person: falout-miroslav
 studio:
 - barrandov
+poster_tmdb_path: /yGSOUjvJ2M8ztLVMDwmb0pM67sS.jpg
+backdrop_tmdb_path: /lB6nAnbHUelmtGZ9fdCSrTnttw8.jpg

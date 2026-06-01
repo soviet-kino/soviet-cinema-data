@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12755959
   imdb: tt0177034
+  tmdb: 364717
 sources:
 - https://www.wikidata.org/wiki/Q12755959
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: q12959542
 - person: jovanovic-borivoje
 - person: cirkovic-dobrila
+poster_tmdb_path: /1LnmTnQXjgolwhnXliRsZp3xunI.jpg
+backdrop_tmdb_path: /3EDUkFdfIedxGvhL90QtEtzkg0w.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q8082883
   imdb: tt0247731
+  tmdb: 821761
 sources:
 - https://www.wikidata.org/wiki/Q8082883
 schema_version: 1
@@ -76,3 +77,4 @@ cast:
 - person: vesela-helena
 - person: zemanova
 - person: zitna
+poster_tmdb_path: /xqWkgCTWe9JyCdg3MzUtlJDayd3.jpg

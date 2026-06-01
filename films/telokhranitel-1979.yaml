@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4454259
   imdb: tt0171819
+  tmdb: 262514
 sources:
 - https://www.wikidata.org/wiki/Q4454259
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - artemyev-eduard
 cast:
 - person: kaidanovsky-aleksandr
+poster_tmdb_path: /eUWePB2qAkIiMI3fq5hbGFAUGXT.jpg
+backdrop_tmdb_path: /z8bRLFp6KKw9iiE1t8xjHyjCX2L.jpg

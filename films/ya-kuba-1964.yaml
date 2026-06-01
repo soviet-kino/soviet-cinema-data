@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2527730
   imdb: tt0058604
   youtube: lt-RbV8KiC0
+  tmdb: 32015
 sources:
 - https://www.wikidata.org/wiki/Q2527730
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 - mosfilm
 cast:
 - person: korreri-serkhio
+poster_tmdb_path: /23zDoL8E43BpcINqBEEtcgHtl57.jpg
+backdrop_tmdb_path: /cLKNGx0bFpbtsVOXeaXJw3dNcKQ.jpg

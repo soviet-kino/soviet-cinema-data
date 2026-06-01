@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4139201
   imdb: tt5497990
   youtube: 1z7yuuvfbQQ
+  tmdb: 480092
 sources:
 - https://www.wikidata.org/wiki/Q4139201
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: nevzorov-boris
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /4gNiDscoNARVeAxW8L1y3bVztXF.jpg
+backdrop_tmdb_path: /ogzgmyFGJBy4YFzGE6VqRG4hgRg.jpg

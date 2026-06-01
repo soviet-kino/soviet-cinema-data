@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4500613
   imdb: tt1794830
+  tmdb: 448639
 sources:
 - https://www.wikidata.org/wiki/Q4500613
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - druyan-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /bVQMQ8kauYty9fNjP1MrLY7iJ0j.jpg

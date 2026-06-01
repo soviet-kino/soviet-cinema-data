@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q901302
   imdb: tt0847478
+  tmdb: 244265
 sources:
 - https://www.wikidata.org/wiki/Q901302
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - decsenyi-janos
 studio:
 - pannoniya
+poster_tmdb_path: /xpzxGMD2pp6izat8o0bAxwEzZ9q.jpg
+backdrop_tmdb_path: /l3E6Qmg8R0bj2zNBj2gWTPJTNai.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12104999
   imdb: tt5450640
+  tmdb: 1442160
 sources:
 - https://www.wikidata.org/wiki/Q12104999
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kinorezhissyor-ivanov-anatoliy-evgenevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /vZcbaURdRI1VY1Z0VoZysWGXBH3.jpg

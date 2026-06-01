@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q1167255
   imdb: tt0043328
+  tmdb: 262869
 sources:
 - https://www.wikidata.org/wiki/Q1167255
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: geshonnek-ervin
 studio:
 - defa
+poster_tmdb_path: /abj8CiDgwdPFvWNsYPwqAO8M6r.jpg
+backdrop_tmdb_path: /w7CoF2XSD5hI3TNFm7aO8Tax7TR.jpg

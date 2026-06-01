@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q81972525
   imdb: tt5018756
   youtube: ZF9DI0ZHR0c
+  tmdb: 603424
 sources:
 - https://www.wikidata.org/wiki/Q81972525
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nikishchikhina-elizaveta-sergeevna
 - person: sitko-boris-aleksandrovich
 - person: trusov-arkadiy-vasilevich
+poster_tmdb_path: /wDiksaho6wu1qn6jfIMoV031sDI.jpg
+backdrop_tmdb_path: /7yt96Z8GjZopYOgiG6RBRofPlut.jpg

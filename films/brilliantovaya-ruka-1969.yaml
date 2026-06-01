@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1999930
   imdb: tt0062759
   youtube: 8XDaVi6NreE
+  tmdb: 20873
 sources:
 - https://www.wikidata.org/wiki/Q1999930
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: chekan-stanislav-yulianovich
 topics:
 - masonic-symbolism
+poster_tmdb_path: /kBSPGuqykXm7nb7UYjpx2RVhKhl.jpg
+backdrop_tmdb_path: /azc8hiaT0sNAxNP1MSC591Oxod1.jpg

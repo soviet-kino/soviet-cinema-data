@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q29014855
   imdb: tt5066904
+  tmdb: 1103479
 sources:
 - https://www.wikidata.org/wiki/Q29014855
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: bibikov-boris-vladimirovich
 - person: kochetkov-afanasiy-ivanovich
 - person: leonidov-yuriy-leonidovich
+poster_tmdb_path: /szxIK7hcWhksNQacNCQBiRccd8j.jpg

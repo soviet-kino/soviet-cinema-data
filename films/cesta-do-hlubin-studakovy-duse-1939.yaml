@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q5065593
   imdb: tt0168574
+  tmdb: 47710
 sources:
 - https://www.wikidata.org/wiki/Q5065593
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: q101225679
 - person: vildova-marie
 - person: hosek-karel
+poster_tmdb_path: /xy6bnyk6XPr8SDWk0WWdMuOB8mC.jpg
+backdrop_tmdb_path: /nCyf5HbWcLZKDQATvGK6BbDartd.jpg

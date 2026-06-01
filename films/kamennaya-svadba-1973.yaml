@@ -8,9 +8,11 @@ runtime_min: 90
 external_ids:
   wikidata: Q12736946
   imdb: tt0069033
+  tmdb: 244560
 sources:
 - https://www.wikidata.org/wiki/Q12736946
 schema_version: 1
 director:
 - pitsa-dan
 - veroyu-mircha
+poster_tmdb_path: /9Rec0RNtO3CZXpC0C1NxVH8Q3Tc.jpg

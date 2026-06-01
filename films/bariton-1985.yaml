@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1192397
   imdb: tt0088774
+  tmdb: 649009
 sources:
 - https://www.wikidata.org/wiki/Q1192397
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: janowski-mieczys-aw
 - person: szymkow-tadeusz
 - person: volyanchik-adam
+poster_tmdb_path: /m28tDob6tNMV7SLKOmCdi1tJCa7.jpg

@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4166825
   imdb: tt0422120
+  tmdb: 381367
 sources:
 - https://www.wikidata.org/wiki/Q4166825
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: elistratov-aleksandr-vitalevich
 - person: krupenikov-sergey-ivanovich
+poster_tmdb_path: /daJDzkLjZT9NnIfqhGHf9C4JbOp.jpg
+backdrop_tmdb_path: /pFYI6aTuZWnQhakHIZhmUuCqB3A.jpg

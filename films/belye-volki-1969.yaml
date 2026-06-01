@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q325450
   imdb: tt0063798
+  tmdb: 5036
 sources:
 - https://www.wikidata.org/wiki/Q325450
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 studio:
 - defa
 - bosna-film
+poster_tmdb_path: /kIAookoiVSEHPf9T9gMJCjXpRx.jpg
+backdrop_tmdb_path: /7h1NlsHPsgZ0T6btQo3T1VQH7YZ.jpg

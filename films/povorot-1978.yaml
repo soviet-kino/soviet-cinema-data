@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366473
   imdb: tt0170442
   youtube: 8FH28tuV9x8
+  tmdb: 403312
 sources:
 - https://www.wikidata.org/wiki/Q4366473
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kupchenko-irina-petrovna
 studio:
 - mosfilm
+poster_tmdb_path: /hhY5sXzitnJR4CMrJ8PxVfNuwqn.jpg
+backdrop_tmdb_path: /8iFuJCHDM5CgqjTNhILbYukV7H2.jpg

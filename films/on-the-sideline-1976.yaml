@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1303064
   imdb: tt0075300
+  tmdb: 334775
 sources:
 - https://www.wikidata.org/wiki/Q1303064
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - vukan-gyorgy
 cast:
 - person: kallai-ferents
+poster_tmdb_path: /7xlgQY5xEyJRbXEicvwhVIqGi6X.jpg

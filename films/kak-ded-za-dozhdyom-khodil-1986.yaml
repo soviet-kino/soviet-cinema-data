@@ -8,6 +8,7 @@ runtime_min: 599
 external_ids:
   wikidata: Q4208803
   imdb: tt5928420
+  tmdb: 343176
 sources:
 - https://www.wikidata.org/wiki/Q4208803
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - miltner-yuriy-konstantinovich
 studio:
 - belarusfilm
+poster_tmdb_path: /7ZNE5h9bkeNIUv9uWaDLhHWN7t0.jpg

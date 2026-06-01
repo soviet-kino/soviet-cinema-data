@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q4539556
   imdb: tt0440944
+  tmdb: 904956
 sources:
 - https://www.wikidata.org/wiki/Q4539556
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tikhonov-vladimir-vyacheslavovich
 studio:
 - belarusfilm
+poster_tmdb_path: /nKaG9qEDntU1yMgujnA1fnSsz2B.jpg
+backdrop_tmdb_path: /gLuhxuKWbpBW8atpndlTSPabtpk.jpg

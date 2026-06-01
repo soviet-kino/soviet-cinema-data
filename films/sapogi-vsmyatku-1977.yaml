@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q62050517
   imdb: tt5455590
+  tmdb: 428720
 sources:
 - https://www.wikidata.org/wiki/Q62050517
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - ilenko-mikhail
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lhoVgIKehzE7UWqCTRaMdFTJudS.jpg

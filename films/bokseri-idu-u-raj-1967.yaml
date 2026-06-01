@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12749149
   imdb: tt0179684
+  tmdb: 230548
 sources:
 - https://www.wikidata.org/wiki/Q12749149
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: dzhurich-slobodan
 - person: pura-or-e
 - person: ranko-kovachevich
+poster_tmdb_path: /iPJMiYCWatlfBFDRpfmAbY7zPjg.jpg

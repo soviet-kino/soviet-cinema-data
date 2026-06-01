@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1305612
   imdb: tt0152238
+  tmdb: 327641
 sources:
 - https://www.wikidata.org/wiki/Q1305612
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: chvalova-lida
 - person: q101225679
 - person: jarkovsky-ferdinand
+poster_tmdb_path: /AdQ4IvAIgyvAG88gEI26oddmxm4.jpg
+backdrop_tmdb_path: /tNos8Lkf4UTvp4js5KclxksK6vq.jpg

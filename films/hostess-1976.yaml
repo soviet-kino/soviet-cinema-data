@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1630595
   imdb: tt0074645
+  tmdb: 2209
 sources:
 - https://www.wikidata.org/wiki/Q1630595
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: brendler-gertrud
 - person: ryomer-rolf
 - person: khaynrikh-yurgen
+poster_tmdb_path: /ka8pc9GoWelsdsSElsYvMpKH8SJ.jpg

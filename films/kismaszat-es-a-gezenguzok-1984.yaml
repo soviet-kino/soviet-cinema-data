@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q1111235
   imdb: tt0123134
+  tmdb: 423696
 sources:
 - https://www.wikidata.org/wiki/Q1111235
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - illes-yanos
 composer:
 - madaras-ivan
+poster_tmdb_path: /eC1QJv3Fl9o0XBk6F9p40GPnUHy.jpg
+backdrop_tmdb_path: /6LLFYvBo9ogFc5NHlTSzwHsRb97.jpg

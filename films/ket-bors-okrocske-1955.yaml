@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q1124272
   imdb: tt0048249
+  tmdb: 90907
 sources:
 - https://www.wikidata.org/wiki/Q1124272
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ranki-gyorgy
 studio:
 - pannoniya
+poster_tmdb_path: /o4fm7OZb582aqwariou1xDY6V1i.jpg

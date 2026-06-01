@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q123206028
   imdb: tt0385121
+  tmdb: 286277
 sources:
 - https://www.wikidata.org/wiki/Q123206028
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - stahnke-gunter
 cinematographer:
 - braumann-wolfgang
+poster_tmdb_path: /ek6M1kMJ64mHxJvV1Tb0KCfmQl9.jpg
+backdrop_tmdb_path: /9eCVsVwvXkfn7qPZGbTrCdArxDL.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4108123
   imdb: tt0182512
   youtube: s71GnrtJwVc
+  tmdb: 74852
 sources:
 - https://www.wikidata.org/wiki/Q4108123
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: fadeev-aleksandr
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /rPJCGjPIShVpA2k9D2ee0BUsO8A.jpg
+backdrop_tmdb_path: /mYMNVCHShuTjgi74WALIjjLo86r.jpg

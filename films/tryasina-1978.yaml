@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4464690
   imdb: tt0077983
+  tmdb: 430944
 sources:
 - https://www.wikidata.org/wiki/Q4464690
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: mordyukova-nonna-viktorovna
 - person: todorovskiy-pyotr-efimovich
+poster_tmdb_path: /tRTmw9upNB9ku2kr3OjLeV67f4I.jpg
+backdrop_tmdb_path: /j6dyb0Dro9oAZLGOxFqR8wVDLYQ.jpg

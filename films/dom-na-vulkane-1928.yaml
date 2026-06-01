@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q864882
   imdb: tt0359176
+  tmdb: 313076
 sources:
 - https://www.wikidata.org/wiki/Q864882
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - armenfilm
 - azerbaydzhanfilm
+poster_tmdb_path: /63B1LuJemUM5Anl4urfNit8zmp1.jpg
+backdrop_tmdb_path: /3OYiCLGfMmuHgdZO7aMi2QZWrPi.jpg

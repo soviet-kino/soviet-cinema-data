@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130997960
   imdb: tt0136441
+  tmdb: 1534379
 sources:
 - https://www.wikidata.org/wiki/Q130997960
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: lyubshin-yuriy
 studio:
 - uzbekfilm
+poster_tmdb_path: /4j9C87vCRBkqfYOvWmk3fQh05AV.jpg

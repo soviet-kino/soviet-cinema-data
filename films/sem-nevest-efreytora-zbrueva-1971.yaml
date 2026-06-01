@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4415658
   imdb: tt0066351
   youtube: uMkQdHx219U
+  tmdb: 217043
 sources:
 - https://www.wikidata.org/wiki/Q4415658
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: chetverikova-natalya-anatolevna
 studio:
 - lenfilm
+poster_tmdb_path: /129R9RLw4h4BjTkcLnI0c2PFbkU.jpg
+backdrop_tmdb_path: /2X7XXGNofYgxcWAqcBRfT1YRlpZ.jpg

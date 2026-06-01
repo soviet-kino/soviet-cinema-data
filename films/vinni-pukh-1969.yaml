@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q404535
   imdb: tt0211729
+  tmdb: 36161
 sources:
 - https://www.wikidata.org/wiki/Q404535
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Russian Pooh and Piglet postcard (cropped).png
+poster_tmdb_path: /jSzuXChK281KUVFAZApTDJshHrZ.jpg
+backdrop_tmdb_path: /9BGAEwPVRz60XAexSlLWPtHy0jd.jpg

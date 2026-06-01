@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1117112
   imdb: tt0033959
   youtube: WpDlFiK8iNQ
+  tmdb: 316993
 sources:
 - https://www.wikidata.org/wiki/Q1117112
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: lavecka-renee
 - person: proskova-bobina
 - person: truchly-vasil
+poster_tmdb_path: /5CvYAyQ906ZzKsF5lJQeIQ9hE79.jpg

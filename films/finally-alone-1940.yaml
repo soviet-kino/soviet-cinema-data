@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q18712964
   imdb: tt0151242
+  tmdb: 582866
 sources:
 - https://www.wikidata.org/wiki/Q18712964
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: zezulka-josef
 - person: orlicky-jaroslav
 - person: zivojnovic-daniel
+poster_tmdb_path: /30nV4DvaJ70lFcPZ6BDqdgWAzJi.jpg

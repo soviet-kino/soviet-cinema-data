@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4180268
   imdb: tt0480487
+  tmdb: 383748
 sources:
 - https://www.wikidata.org/wiki/Q4180268
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - kotov-boris-stepanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /woSfflIeBTB31iCyGoa6uCMRwa2.jpg

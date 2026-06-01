@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12845911
   imdb: tt1767363
   youtube: _yKM48El6yk
+  tmdb: 74533
 sources:
 - https://www.wikidata.org/wiki/Q12845911
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 studio:
 - lenfilm
 - azerbaydzhanfilm
+poster_tmdb_path: /tarnipxwi71P7lzQTNJPqY7K1kO.jpg

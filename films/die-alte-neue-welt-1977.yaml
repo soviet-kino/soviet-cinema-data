@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q1217830
   imdb: tt0369227
+  tmdb: 609759
 sources:
 - https://www.wikidata.org/wiki/Q1217830
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - rosie-thomas
 composer:
 - khozalla-khans-diter
+poster_tmdb_path: /cAvpGzLx5vk699yZ3kad8F4iUbL.jpg

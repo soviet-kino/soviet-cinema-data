@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q3565431
   imdb: tt0059892
+  tmdb: 163863
 sources:
 - https://www.wikidata.org/wiki/Q3565431
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: litvin-kshishtof
 - person: waskowski-mieczys-aw
 - person: kluba-henryk
+poster_tmdb_path: /pY7jCuLFPKwMvvaLddjfnYnsqML.jpg
+backdrop_tmdb_path: /uuOWMPzhejkKrmtyAYjuXRy9ZhQ.jpg

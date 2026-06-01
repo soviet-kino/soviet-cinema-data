@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q1823742
   imdb: tt0071752
+  tmdb: 259948
 sources:
 - https://www.wikidata.org/wiki/Q1823742
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: pulman-marilu
 - person: tsgliniki-simona-fon
 - person: shrade-villi
+poster_tmdb_path: /boGm5yGM9VpZdPPtWd1hFl618o0.jpg
+backdrop_tmdb_path: /vn6rD63GqWluB8NQiZkxQyvYOVK.jpg

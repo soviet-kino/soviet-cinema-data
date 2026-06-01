@@ -21,6 +21,7 @@ external_ids:
   wikidata: Q909910
   youtube: DgRBei_FoaU
   imdb: tt0064615
+  tmdb: 18118
 sources:
 - https://www.wikidata.org/wiki/Q909910
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: fillips-robert
 studio:
 - columbia-pictures
+poster_tmdb_path: /dWZbk0w0OGixY7AkHw3V62uQgvL.jpg
+backdrop_tmdb_path: /osqSUfyy3P2PwIRpi0C8XNFADfz.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4326507
   imdb: tt0036221
   youtube: 7OeH1VSYzU4
+  tmdb: 490265
 sources:
 - https://www.wikidata.org/wiki/Q4326507
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - tadzhikfilm
 - soyuzdetfilm
+poster_tmdb_path: /jrcD9g54q9NprmVwkcC5mxjNnQM.jpg
+backdrop_tmdb_path: /elP8qvolaGbMuv9MptQCFXTzS8J.jpg

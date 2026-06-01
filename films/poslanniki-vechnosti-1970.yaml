@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q59188718
   imdb: tt4675956
+  tmdb: 1522277
 sources:
 - https://www.wikidata.org/wiki/Q59188718
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: kobaladze-andrey-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /riXutbZSdfczXvwTyQMPLZ7fY63.jpg

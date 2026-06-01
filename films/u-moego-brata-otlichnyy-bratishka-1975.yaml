@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q6945114
   imdb: tt0304432
+  tmdb: 228138
 sources:
 - https://www.wikidata.org/wiki/Q6945114
 schema_version: 1
@@ -71,3 +72,5 @@ cast:
 - person: havlin-josef
 - person: kulhavy-max
 - person: deyl-zdenek
+poster_tmdb_path: /gpfuIl6UbkMHHzZfKuuiAEreVxW.jpg
+backdrop_tmdb_path: /5D44NDgnEo6OwmiJlSBUUtv3uzK.jpg

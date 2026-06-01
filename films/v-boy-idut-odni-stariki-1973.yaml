@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1626585
   imdb: tt0070861
   youtube: -MtSnPXeAeI
+  tmdb: 37129
 sources:
 - https://www.wikidata.org/wiki/Q1626585
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: smirnov-aleksey-makarovich
 - person: bykov-leonid-fyodorovich
 - person: talashko-vladimir-dmitrievich
+poster_tmdb_path: /zNbFymyCTRE4hQBzsajdEMFB8Oa.jpg
+backdrop_tmdb_path: /c0kQSGXwehhITupNfj2fnIJ9LeS.jpg

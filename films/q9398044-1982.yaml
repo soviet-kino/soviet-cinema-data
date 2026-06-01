@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q9398044
   imdb: tt1258629
+  tmdb: 155429
 sources:
 - https://www.wikidata.org/wiki/Q9398044
 schema_version: 1
+poster_tmdb_path: /d3SYcv34LrttBWJnfZLv31ClV03.jpg
+backdrop_tmdb_path: /ktxei8j1zaOnA3YtTczaTeiiyp0.jpg

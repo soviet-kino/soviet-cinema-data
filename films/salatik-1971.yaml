@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16351911
   imdb: tt2395397
+  tmdb: 1556039
 sources:
 - https://www.wikidata.org/wiki/Q16351911
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - brasla-varis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /vJRHnbTk9TwMvTE4UmzBwYkEY2q.jpg

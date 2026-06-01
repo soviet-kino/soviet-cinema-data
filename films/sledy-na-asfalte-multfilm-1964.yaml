@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4423299
   imdb: tt6056852
+  tmdb: 847708
 sources:
 - https://www.wikidata.org/wiki/Q4423299
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /vYjC434utwHGvl5dYsvfiSmIiAz.jpg
+backdrop_tmdb_path: /6UojI12PT1Oz3QNsBq2v63d0tud.jpg

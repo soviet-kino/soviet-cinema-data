@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4166530
   imdb: tt0266481
   youtube: qcQBSj2AhCc
+  tmdb: 634440
 sources:
 - https://www.wikidata.org/wiki/Q4166530
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: tsakhilova-zemfira-avramovna
 studio:
 - tadzhikfilm
+poster_tmdb_path: /34QyR0Gq9DG7POIpHqERPmwBsl5.jpg
+backdrop_tmdb_path: /2TwGvzjYwBKWEIzyMYigRjuWvVG.jpg

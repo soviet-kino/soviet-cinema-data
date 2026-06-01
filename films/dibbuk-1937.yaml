@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q934109
   imdb: tt0030092
   youtube: U1K23IrEtpI
+  tmdb: 104748
 sources:
 - https://www.wikidata.org/wiki/Q934109
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: libgold-leon
 - person: bozyk-max
 - person: landau-samuel
+poster_tmdb_path: /3fl3xSSFfiEgm32AJLTiAepHxiV.jpg
+backdrop_tmdb_path: /jzpK9w2kFo3XgdfoGoWkvqGhjLt.jpg

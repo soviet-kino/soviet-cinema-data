@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4205120
   imdb: tt0031498
   youtube: kiJIfqOkVM8
+  tmdb: 77072
 sources:
 - https://www.wikidata.org/wiki/Q4205120
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: bernes-mark-naumovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /iZsZKJ3qTUdqvjdNiwmFqsYf0wY.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28704774
   imdb: tt3097770
   youtube: 9fbD298-QjI
+  tmdb: 273684
 sources:
 - https://www.wikidata.org/wiki/Q28704774
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - krutikov-svyatoslav-leontevich
 studio:
 - ukrtelefilm
+poster_tmdb_path: /4tS9VzQM18k8bgGScer6LrfNsOg.jpg
+backdrop_tmdb_path: /pbTl8pEWFKCR3TK98xhunkWrccx.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4154454
   imdb: tt0080591
   youtube: VypmP_Wq1dU
+  tmdb: 256592
 sources:
 - https://www.wikidata.org/wiki/Q4154454
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: bozhok-tatyana-andreevna
 studio:
 - mosfilm
+poster_tmdb_path: /dyelfvzl3j41sCjKlbEhr0vk083.jpg
+backdrop_tmdb_path: /hkWMghRTph6BjLrF08p0xAJqWLL.jpg

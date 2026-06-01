@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q3460940
   imdb: tt0173175
+  tmdb: 410829
 sources:
 - https://www.wikidata.org/wiki/Q3460940
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: vyunsher-marianna
 - person: lirk-verner
 - person: noyenkhan-villi
+poster_tmdb_path: /o43OtmxjgbSuf8ILbVf3EzKcTj3.jpg

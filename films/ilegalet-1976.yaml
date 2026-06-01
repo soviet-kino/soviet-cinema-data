@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q11791525
   imdb: tt0295348
+  tmdb: 461856
 sources:
 - https://www.wikidata.org/wiki/Q11791525
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kumbaro-saimir
 composer:
 - zaharian-hajg
+poster_tmdb_path: /gaF9NFo78C4LYaX5zMyEe4k9nUu.jpg
+backdrop_tmdb_path: /4W1Z639lFYu4AnbL9WkvLPvGDPY.jpg

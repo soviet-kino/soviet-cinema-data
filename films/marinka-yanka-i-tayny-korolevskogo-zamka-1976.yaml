@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4281503
   imdb: tt4857270
   youtube: bB0I9cXY7xI
+  tmdb: 269405
 sources:
 - https://www.wikidata.org/wiki/Q4281503
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: lebedev-evgeniy-alekseevich
 - person: chemodurova-natalya-evgenevna
 - person: rumyantseva-lyubov-grigorevna
+poster_tmdb_path: /9ZNfdk354Ks0F90EXx7gMGIDbuT.jpg
+backdrop_tmdb_path: /eYolhGYf43DIysMYccjmpaF1ulj.jpg

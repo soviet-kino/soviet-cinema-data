@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q120598930
   imdb: tt0173357
+  tmdb: 264996
 sources:
 - https://www.wikidata.org/wiki/Q120598930
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: bulandra-toni
 - person: veri-lizett
 - person: enescu-marcel
+poster_tmdb_path: /zlJhdhQ62vEyEdFgPoIY8StPo82.jpg

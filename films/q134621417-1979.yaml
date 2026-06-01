@@ -8,8 +8,10 @@ runtime_min: 33
 external_ids:
   wikidata: Q134621417
   imdb: tt16440574
+  tmdb: 748284
 sources:
 - https://www.wikidata.org/wiki/Q134621417
 schema_version: 1
 director:
 - tarr-bela
+poster_tmdb_path: /7rXgvllT3zbpJIhj2etjm2eGnfv.jpg

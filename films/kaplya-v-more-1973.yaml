@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4213118
   imdb: tt0070265
+  tmdb: 447294
 sources:
 - https://www.wikidata.org/wiki/Q4213118
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /O78kOmePLmaheB01dEb9JZ7ZU5.jpg
+backdrop_tmdb_path: /8ffsQ9l6iZzNzR7yE6r8HKhWdcz.jpg

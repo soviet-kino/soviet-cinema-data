@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q29158977
   imdb: tt0346916
+  tmdb: 638303
 sources:
 - https://www.wikidata.org/wiki/Q29158977
 schema_version: 1
@@ -19,3 +20,4 @@ studio:
 - tallinfilm
 cast:
 - person: budraytis-yuozas-stanislavas
+poster_tmdb_path: /ani48okUTsH1RqWSW9yp4pY6NyU.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16937962
   imdb: tt0231871
+  tmdb: 292657
 sources:
 - https://www.wikidata.org/wiki/Q16937962
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: ulrikh-rudolf
 - person: khetterle-albert
 - person: hoffmann-gabriele
+poster_tmdb_path: /20aCnB7cSARCnHvapdm1lYWavtO.jpg

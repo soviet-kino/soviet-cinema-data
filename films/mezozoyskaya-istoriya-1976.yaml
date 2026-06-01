@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12841875
   imdb: tt9856080
+  tmdb: 534111
 sources:
 - https://www.wikidata.org/wiki/Q12841875
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: ogly-dadashev-melik-yusuf
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /sLNoM1KdVJAWoZZUC52U7CBqNX1.jpg
+backdrop_tmdb_path: /ISV6skjqzVidFPGWUaDF6g8gd9.jpg

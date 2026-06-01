@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134572492
   imdb: tt1634330
+  tmdb: 582219
 sources:
 - https://www.wikidata.org/wiki/Q134572492
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vegvari-tamas
 - person: voros-eszter
 - person: ksikos-gabor
+poster_tmdb_path: /j7UdVj4sjLs1qwaCUEFn83K1Ww6.jpg

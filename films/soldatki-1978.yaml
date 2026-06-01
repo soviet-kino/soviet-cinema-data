@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994457
   imdb: tt3097766
   youtube: z0jPIzCoESQ
+  tmdb: 1429337
 sources:
 - https://www.wikidata.org/wiki/Q84994457
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: prachenko-andrey-dmitrievich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /rLMKlXONTVcmByHQd4WW5oebAsS.jpg
+backdrop_tmdb_path: /wokQIEop6LrLUfQhtRnXEsY4Laj.jpg

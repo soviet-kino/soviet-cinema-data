@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q5942798
   imdb: tt0077492
+  tmdb: 48268
 sources:
 - https://www.wikidata.org/wiki/Q5942798
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: cherkhalmi-dyord
 - person: zhinkozhi-zhuzha
 - person: konts-gabor
+poster_tmdb_path: /jUkasmVBIu8s2Si31xZHyfE6fi0.jpg
+backdrop_tmdb_path: /wgAJFitVcUVGAXaDlKK0CD6wceT.jpg

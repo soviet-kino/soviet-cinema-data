@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q970967
   imdb: tt0176048
+  tmdb: 84030
 sources:
 - https://www.wikidata.org/wiki/Q970967
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: q131765966
 - person: formanek-vaclav
 - person: kucera-marek
+poster_tmdb_path: /4YDmslIaXsx1qzq4t4Kyrhhj3UO.jpg
+backdrop_tmdb_path: /erSYL7n344wMVUn4DbUjin5JNsS.jpg

@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q4271476
   imdb: tt5038340
+  tmdb: 505962
 sources:
 - https://www.wikidata.org/wiki/Q4271476
 schema_version: 1
+poster_tmdb_path: /4IzlmdUioyE8QdXJhfBneYsolQv.jpg
+backdrop_tmdb_path: /kpvmEkQ9zl23R2mURjkCwJXtGyK.jpg

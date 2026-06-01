@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4197855
   imdb: tt0309701
   youtube: hEIKFADOt4k
+  tmdb: 344915
 sources:
 - https://www.wikidata.org/wiki/Q4197855
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: proklova-elena-igorevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mFAPDftm1IGRBLmPOanXXho16pJ.jpg
+backdrop_tmdb_path: /jrmKlOTjyRrOdmZ77SypRGBY337.jpg

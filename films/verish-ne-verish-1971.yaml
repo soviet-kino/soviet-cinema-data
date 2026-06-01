@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65200665
   imdb: tt4678628
   youtube: 3UC34oLDXD8
+  tmdb: 849325
 sources:
 - https://www.wikidata.org/wiki/Q65200665
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - dudorov-anatoliy-alekseevich
 studio:
 - belarusfilm
+poster_tmdb_path: /xry2MWVIeosqQ4lZS6fixptuIn6.jpg
+backdrop_tmdb_path: /2RzLAnw0QYXBJdptg4DS8kK6Oeh.jpg

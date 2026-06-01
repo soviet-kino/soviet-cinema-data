@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q132861849
   imdb: tt0028977
+  tmdb: 495863
 sources:
 - https://www.wikidata.org/wiki/Q132861849
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: barshoni-rozi
 - person: dayka-margit
 - person: radzhnay-gabor
+poster_tmdb_path: /bIoegL7MBryorPN52pMcNM6JU6D.jpg

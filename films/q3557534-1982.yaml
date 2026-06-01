@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q3557534
   imdb: tt0170570
+  tmdb: 485197
 sources:
 - https://www.wikidata.org/wiki/Q3557534
 schema_version: 1
 director:
 - cashku-kujtim
+poster_tmdb_path: /fvbGicayXaGfKYTkEulKAZMSf5S.jpg
+backdrop_tmdb_path: /cEvUtkzrF09Z4mNpaMNl4N3niH6.jpg

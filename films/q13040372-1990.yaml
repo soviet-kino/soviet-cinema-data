@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q13040372
   imdb: tt0347276
+  tmdb: 1656769
 sources:
 - https://www.wikidata.org/wiki/Q13040372
 schema_version: 1
 director:
 - xholi-albert
+poster_tmdb_path: /xAqMLVlAvSXO4FovUgPGXBB7AHO.jpg

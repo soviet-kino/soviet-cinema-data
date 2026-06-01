@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q3999206
   imdb: tt0189160
+  tmdb: 77294
 sources:
 - https://www.wikidata.org/wiki/Q3999206
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - soyuzmultfilm
 poster_commons: Новогодняя почтовая открытка СССР, худ. Т. Жебелева, 1989, лицевая
   сторона.png
+poster_tmdb_path: /wA46TGkU7lz7QvkiemrwvpN0A29.jpg
+backdrop_tmdb_path: /8BD2cEWfuduvgbWlHbjqgWHssoB.jpg

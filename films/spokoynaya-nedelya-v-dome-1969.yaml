@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q3991176
   imdb: tt0065101
+  tmdb: 19013
 sources:
 - https://www.wikidata.org/wiki/Q3991176
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cinematographer:
 - maly-svatopluk
 - suzan-karel
+poster_tmdb_path: /clZf3gJk3bU185UQv6d1pcbbbG2.jpg
+backdrop_tmdb_path: /j8HILqID3upoOK17m8OiSirQesA.jpg

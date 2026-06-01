@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4212943
   imdb: tt2395275
   youtube: OIpRbxnKoXE
+  tmdb: 207274
 sources:
 - https://www.wikidata.org/wiki/Q4212943
 schema_version: 1
@@ -19,3 +20,4 @@ studio:
 - rizhskaya-kinostudiya
 cast:
 - person: q135180166
+poster_tmdb_path: /wOUBvDtgGQZ9nIV7C7sp7O7Nx64.jpg

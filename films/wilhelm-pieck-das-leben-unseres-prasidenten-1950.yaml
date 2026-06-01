@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q8002274
   imdb: tt0370065
+  tmdb: 460252
 sources:
 - https://www.wikidata.org/wiki/Q8002274
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - anders-ervin
 composer:
 - eysler-khans
+poster_tmdb_path: /cJzbgMapYRxIZqlfKOKoD6XbUQG.jpg

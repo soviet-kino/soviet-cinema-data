@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11005744
   imdb: tt0353547
+  tmdb: 519702
 sources:
 - https://www.wikidata.org/wiki/Q11005744
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - lako-natasha
 composer:
 - zaharian-hajg
+poster_tmdb_path: /owgxoASpdP7d7ZDXvsNh8Jf4XUm.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127247
   imdb: tt3683846
   youtube: hacddU_tAoo
+  tmdb: 549670
 sources:
 - https://www.wikidata.org/wiki/Q4127247
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: arkushenko-vladimir-prokofevich
 - person: khromenkov-oleg-gerasimovich
 - person: prostyakov-sergey-mikhaylovich
+poster_tmdb_path: /nt9nkMajjjO8zYFcmUsypgLV30g.jpg
+backdrop_tmdb_path: /ntH9LwprwaFSMUWWXamxpMnBMvx.jpg

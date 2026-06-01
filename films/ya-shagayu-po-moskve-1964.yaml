@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q244999
   imdb: tt0057694
   youtube: vbjs5zfxDMs
+  tmdb: 27862
 sources:
 - https://www.wikidata.org/wiki/Q244999
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: steblov-evgeniy-yurevich
 - person: miroshnichenko-irina-petrovna
 - person: loktev-aleksey-vasilevich
+poster_tmdb_path: /hztnzWvjlhmU2ukBzoYJy5cv8OD.jpg
+backdrop_tmdb_path: /eVQ3nRByV4YIg9jUGEqZrCDm8wN.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15545317
   imdb: tt2643970
   youtube: GVNDWh57HcE
+  tmdb: 363403
 sources:
 - https://www.wikidata.org/wiki/Q15545317
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: Lisa Zayats i Petukh.jpg
+poster_tmdb_path: /qfaEKMn7WjrNXOo2QTiRhPR967k.jpg

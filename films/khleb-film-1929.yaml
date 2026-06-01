@@ -15,6 +15,9 @@ external_ids:
   wikidata: Q16722084
   imdb: tt3511734
   youtube: ptB4m9VedZA
+  tmdb: 285339
 sources:
 - https://www.wikidata.org/wiki/Q16722084
 schema_version: 1
+poster_tmdb_path: /pXRqDHAQ3mMiB9rfKTBV5DZwBAR.jpg
+backdrop_tmdb_path: /bWbz1WSFBFoEqqP6cWgKVaWnMHt.jpg

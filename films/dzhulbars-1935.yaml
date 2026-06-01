@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4160559
   imdb: tt0332012
   youtube: 91IlQJGjR9Q
+  tmdb: 199537
 sources:
 - https://www.wikidata.org/wiki/Q4160559
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mezhrabpomfilm
 poster_commons: Dzhulbars 02.jpg
+poster_tmdb_path: /hwtevjAUHBX4b0Qq3wUacJDHiF7.jpg
+backdrop_tmdb_path: /w9ynyEqwl6l2q06r5QzDdvEbBs.jpg

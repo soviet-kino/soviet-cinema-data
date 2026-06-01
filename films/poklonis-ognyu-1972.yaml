@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106775385
   imdb: tt0174124
   youtube: 6d155_A7-EU
+  tmdb: 813771
 sources:
 - https://www.wikidata.org/wiki/Q106775385
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - kydyraliev-kadyrzhan-kydyralievich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /fhQnJoOD0iABq8mQTS0Ken4kxkv.jpg

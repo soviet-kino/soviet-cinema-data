@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4190055
   imdb: tt0073927
   youtube: Qo_sQMJW8D8
+  tmdb: 72611
 sources:
 - https://www.wikidata.org/wiki/Q4190055
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: shklovskiy-oleg-mendeleevich
 studio:
 - ekran
+poster_tmdb_path: /b0MK0IivTlGNzrvuuq8eTvOGtN8.jpg
+backdrop_tmdb_path: /5PoAJrAMsnSqQCrXJO7rFlbUnro.jpg

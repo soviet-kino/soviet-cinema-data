@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134547218
   imdb: tt0173231
+  tmdb: 211710
 sources:
 - https://www.wikidata.org/wiki/Q134547218
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - munk-andzhey
 cinematographer:
 - veber-kurt
+poster_tmdb_path: /johM35AU0glCjtBg8DGztz7b6m5.jpg

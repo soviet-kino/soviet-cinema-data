@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q12054229
   imdb: tt0081512
+  tmdb: 227980
 sources:
 - https://www.wikidata.org/wiki/Q12054229
 schema_version: 1
@@ -90,3 +91,5 @@ cast:
 - person: nemec-otakar
 studio:
 - barrandov
+poster_tmdb_path: /aJi1tW2FmwEFOam9LqKzP4CbudX.jpg
+backdrop_tmdb_path: /6pXuVfOZcKQsfiOzzYurtHnUUgF.jpg

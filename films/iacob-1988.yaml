@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q3791419
   imdb: tt0095349
+  tmdb: 131332
 sources:
 - https://www.wikidata.org/wiki/Q3791419
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: vizan-dorel
 - person: barbora-sesiliya
 - person: seles-maria
+poster_tmdb_path: /32O5828Q4WMGxEd7rov9cOlPvby.jpg

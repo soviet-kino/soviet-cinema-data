@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123900184
   imdb: tt0052265
+  tmdb: 662303
 sources:
 - https://www.wikidata.org/wiki/Q123900184
 schema_version: 1
 director:
 - varkoni-zoltan
+poster_tmdb_path: /rrwIbO4nFV9dFQ3OEoUS8R7vJ8S.jpg

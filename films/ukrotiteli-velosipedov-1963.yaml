@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4470710
   imdb: tt0314813
+  tmdb: 619612
 sources:
 - https://www.wikidata.org/wiki/Q4470710
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: borisov-oleg-ivanovich
 - person: putsitis-uldis
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /cBgD2K28QqpoYV7XkQAMmplYhbe.jpg
+backdrop_tmdb_path: /49Ff4Eu8xH6HSGUznVj44EfFC5u.jpg

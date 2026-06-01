@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65250168
   imdb: tt2896996
   youtube: tyXW1thouCY
+  tmdb: 849320
 sources:
 - https://www.wikidata.org/wiki/Q65250168
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - tlendiev-nurgisa-atabaevich
 studio:
 - kazakhfilm
+poster_tmdb_path: /eVxhMpL8e70KXD5kjn7sZFqUQIW.jpg

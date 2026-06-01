@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4384425
   imdb: tt0168139
   youtube: r_JtfoLHkYU
+  tmdb: 138263
 sources:
 - https://www.wikidata.org/wiki/Q4384425
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kuznetsov-evgeniy-borisovich
 studio:
 - mosfilm
+poster_tmdb_path: /5PyRpR0wLsenjBJqpZiszBHGR10.jpg
+backdrop_tmdb_path: /fgAOb3PRrHL5PPf19UQZG2u2sU2.jpg

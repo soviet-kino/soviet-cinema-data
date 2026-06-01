@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4212007
   imdb: tt0137868
   youtube: Ox9TrL7kLL8
+  tmdb: 389547
 sources:
 - https://www.wikidata.org/wiki/Q4212007
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kravchenko-valeriy-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /4zMYKGMxK0mzAlhFiMo3BQOLFHN.jpg
+backdrop_tmdb_path: /uMP7Th9Z6ZkTZJvlF5xGPy3cDic.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q124125170
   imdb: tt0034838
+  tmdb: 334764
 sources:
 - https://www.wikidata.org/wiki/Q124125170
 schema_version: 1
 director:
 - farkash-zoltan
+poster_tmdb_path: /iqoSsEPZglK2CRn1heprEtq1uyp.jpg

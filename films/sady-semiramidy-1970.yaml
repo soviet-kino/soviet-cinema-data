@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3653344
   imdb: tt0275665
+  tmdb: 1521324
 sources:
 - https://www.wikidata.org/wiki/Q3653344
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - dolidze-semyon-vissarionovich
 screenwriter:
 - dolidze-semyon-vissarionovich
+poster_tmdb_path: /AvQ3oEnB0AWxHA8DxamgFeMdI70.jpg
+backdrop_tmdb_path: /rbUNiBu4powEQOBm9wwiPeTgCyM.jpg

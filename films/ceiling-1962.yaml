@@ -8,6 +8,7 @@ runtime_min: 43
 external_ids:
   wikidata: Q55237912
   imdb: tt0056533
+  tmdb: 327867
 sources:
 - https://www.wikidata.org/wiki/Q55237912
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: afework-beyene
 - person: adjali-bob
 - person: jirousek-karel
+poster_tmdb_path: /uwSHOhvCCXTRMA43Bz02GDIMzPv.jpg
+backdrop_tmdb_path: /g1re9IXP00D3eQ5D5vTlSLJBbc.jpg

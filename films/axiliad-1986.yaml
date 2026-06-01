@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q9336449
   imdb: tt0093968
+  tmdb: 270382
 sources:
 - https://www.wikidata.org/wiki/Q9336449
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: pak-lyudvik
 - person: chyunelis-mariya
 - person: boratynska-ma-gorzata
+poster_tmdb_path: /7PlSOsRfKEQrIb4OBWGzTeXzEpN.jpg
+backdrop_tmdb_path: /ofplZMrZNnG8st00OK6HK94tzX1.jpg

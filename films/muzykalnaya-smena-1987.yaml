@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q114710858
   imdb: tt4202938
   youtube: shwdSj12kGk
+  tmdb: 464706
 sources:
 - https://www.wikidata.org/wiki/Q114710858
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - levin-vladimir-moiseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /pMEP6bZt2Y79TT1RRJrrIPIwexq.jpg
+backdrop_tmdb_path: /MJ3C9SMjflkc0y2a3OX6HDByou.jpg

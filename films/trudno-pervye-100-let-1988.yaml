@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15271074
   imdb: tt0271238
+  tmdb: 564991
 sources:
 - https://www.wikidata.org/wiki/Q15271074
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - gagulashvili-arkadiy-davidovich
 studio:
 - lenfilm
+poster_tmdb_path: /mV3wuyOh7c2kvo7JZZ3Pm6vbDw4.jpg

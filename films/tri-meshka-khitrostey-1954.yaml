@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4462867
   imdb: tt4860040
+  tmdb: 1504908
 sources:
 - https://www.wikidata.org/wiki/Q4462867
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - khodataeva-olga
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /q6almh9Xx1EcFYFJGX8bVn4i34m.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7837543
   imdb: tt0193087
+  tmdb: 463713
 sources:
 - https://www.wikidata.org/wiki/Q7837543
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - aymedova-mayagozel
 cast:
 - person: aymedova-mayagozel
+poster_tmdb_path: /rsFMju9J3bJZl13VLxK4q9PEtyj.jpg

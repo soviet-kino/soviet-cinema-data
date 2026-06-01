@@ -15,6 +15,9 @@ external_ids:
   wikidata: Q65194744
   imdb: tt0265042
   youtube: 1qKtkgSIQMI
+  tmdb: 529451
 sources:
 - https://www.wikidata.org/wiki/Q65194744
 schema_version: 1
+poster_tmdb_path: /eU8Mep0WA2jpldXlGqS3dlS3LXu.jpg
+backdrop_tmdb_path: /kSpHdI24HOumkeWOmHWf8FJscyu.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4101795
   imdb: tt0170748
+  tmdb: 1244040
 sources:
 - https://www.wikidata.org/wiki/Q4101795
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - leonidov-boris-leonidovich
 cast:
 - person: toidze-aleksandra-moiseevna
+poster_tmdb_path: /zVIWWxeTzXhoykyePOAIf5yvymz.jpg

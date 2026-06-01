@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q29524908
   imdb: tt1502793
+  tmdb: 496103
 sources:
 - https://www.wikidata.org/wiki/Q29524908
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - hohmann-lew
 composer:
 - fisher-gyunter
+poster_tmdb_path: /icCHwzf2ekVvXNiaZtJdHmfzjxb.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4241869
   imdb: tt0068820
   youtube: CN5SgKK2Aes
+  tmdb: 131209
 sources:
 - https://www.wikidata.org/wiki/Q4241869
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gorbachyov-igor-olegovich
 - person: korkoshko-svetlana-ivanovna
 - person: rybnikov-nikolay-nikolaevich
+poster_tmdb_path: /dPaEPQ8UEZPBf8ewMlCv0l0ajHL.jpg
+backdrop_tmdb_path: /lr3zFBceVhk0S36MfmqrhaRrpSv.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4263484
   imdb: tt0378258
+  tmdb: 535375
 sources:
 - https://www.wikidata.org/wiki/Q4263484
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: aslan-siyavush
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /8IJfzGiCvoWbbtGXkuDChFjX3A.jpg
+backdrop_tmdb_path: /27spQCxamLM61epCTy7izlkXlRX.jpg

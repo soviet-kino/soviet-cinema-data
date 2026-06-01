@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3373703
   imdb: tt0067208
+  tmdb: 257679
 sources:
 - https://www.wikidata.org/wiki/Q3373703
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 cast:
 - person: tyoryochik-mari
 - person: ferenczi-istvan
+poster_tmdb_path: /n8KSDtmFAdVVjycTOeUPIv9X1Nk.jpg

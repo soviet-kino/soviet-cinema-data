@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7317166
   imdb: tt0151069
+  tmdb: 341263
 sources:
 - https://www.wikidata.org/wiki/Q7317166
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - selkudyanu-petre
 cast:
 - person: ploae-mariya
+poster_tmdb_path: /ewGojUzcP1l99IOEy81S6R1VP4I.jpg

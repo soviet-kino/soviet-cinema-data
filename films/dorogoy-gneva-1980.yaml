@@ -8,6 +8,7 @@ runtime_min: 125
 external_ids:
   wikidata: Q18539848
   imdb: tt0081743
+  tmdb: 315414
 sources:
 - https://www.wikidata.org/wiki/Q18539848
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: danilesku-konstantin
 - person: stenesku-trayan
 - person: teyka-aristid
+poster_tmdb_path: /ndHc8VofoJCNAjZZQVqBME0Jugk.jpg

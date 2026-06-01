@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q62272184
   imdb: tt0069666
+  tmdb: 186474
 sources:
 - https://www.wikidata.org/wiki/Q62272184
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: hnatkova-eva
 - person: vatkova-renata
 - person: masarikova-vera
+poster_tmdb_path: /ycyRbs1d8pBYb55YEWk5flYkMry.jpg
+backdrop_tmdb_path: /9GZvjL558lmsfvntlmOb6mq6iPG.jpg

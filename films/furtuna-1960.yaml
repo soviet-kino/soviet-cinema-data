@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q42908579
   imdb: tt0053845
+  tmdb: 614407
 sources:
 - https://www.wikidata.org/wiki/Q42908579
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: soare-gheorghe
 - person: alexandra-natasa
 - person: q139821830
+poster_tmdb_path: /6G6mm30eP80LOt1phU4qLOJpg1E.jpg

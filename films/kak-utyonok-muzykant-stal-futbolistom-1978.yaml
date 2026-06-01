@@ -8,6 +8,7 @@ runtime_min: 612
 external_ids:
   wikidata: Q23900089
   imdb: tt2201144
+  tmdb: 453675
 sources:
 - https://www.wikidata.org/wiki/Q23900089
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kazenin-vladislav-igorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uUMtxWI0HmA6duGrN3USniBryFl.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q392490
   imdb: tt0123381
+  tmdb: 56927
 sources:
 - https://www.wikidata.org/wiki/Q392490
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - marta-ishtvan
 cast:
 - person: bochor-peter
+poster_tmdb_path: /xg4uGqKFukdgGaUn7Y8JhS4Hk6k.jpg

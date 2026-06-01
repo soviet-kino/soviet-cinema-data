@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q3302408
   imdb: tt0060599
+  tmdb: 439036
 sources:
 - https://www.wikidata.org/wiki/Q3302408
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - anagnosti-dimiter
 composer:
 - daiya-tish
+poster_tmdb_path: /9A6dWOYRNxEkpQR2ugHGmbvS8eC.jpg
+backdrop_tmdb_path: /2rc5Jxt085TJZ7iWF2snnRucOph.jpg

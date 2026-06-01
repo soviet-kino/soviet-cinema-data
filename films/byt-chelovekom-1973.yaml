@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q124630693
   imdb: tt4716948
+  tmdb: 1237331
 sources:
 - https://www.wikidata.org/wiki/Q124630693
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - igishev-aleksandr-sergeevich
 studio:
 - belarusfilm
+poster_tmdb_path: /uUkBl0q7MLGzDINXQ7ZNmbj0EXV.jpg
+backdrop_tmdb_path: /1rTWKwZYHpjHHvocqWiAPo8h06T.jpg

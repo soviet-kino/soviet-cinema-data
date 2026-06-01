@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1034579
   imdb: tt0032574
+  tmdb: 435717
 sources:
 - https://www.wikidata.org/wiki/Q1034579
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - zilakhi-layosh
 cinematographer:
 - eiben-istvan
+poster_tmdb_path: /wx0QRO30y22w6Sf90nlFQmrEApc.jpg

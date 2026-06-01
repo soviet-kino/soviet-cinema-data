@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q9262037
   imdb: tt0172465
+  tmdb: 409189
 sources:
 - https://www.wikidata.org/wiki/Q9262037
 schema_version: 1
 director:
 - milkani-piro
+poster_tmdb_path: /96ZWJRBwmSPcrjeiswJwqkOqHlh.jpg
+backdrop_tmdb_path: /lkUHcdUSAR70b1xmqBQIGuxdbGl.jpg

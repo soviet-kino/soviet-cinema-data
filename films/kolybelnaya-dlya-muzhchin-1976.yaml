@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4228849
   imdb: tt0074760
   youtube: IyzfJqRXqjk
+  tmdb: 464130
 sources:
 - https://www.wikidata.org/wiki/Q4228849
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 cast:
 - person: ovchinnikova-lyusena-ivanovna
 - person: shlykov-yuriy-veniaminovich
+poster_tmdb_path: /1A8TuZN4z11gQfCKwQusSbR7w6.jpg
+backdrop_tmdb_path: /mF0SkQA1sa1Sx6A3uiCeGrOKmpi.jpg

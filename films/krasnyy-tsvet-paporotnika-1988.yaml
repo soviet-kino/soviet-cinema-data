@@ -8,6 +8,7 @@ runtime_min: 175
 external_ids:
   wikidata: Q11829072
   imdb: tt0300329
+  tmdb: 746417
 sources:
 - https://www.wikidata.org/wiki/Q11829072
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: seyka-pyotr
 studio:
 - belarusfilm
+poster_tmdb_path: /9nOOptjayUPh1YM2dR0uqI0fRvE.jpg
+backdrop_tmdb_path: /oRco0jpbVXR9Y6zsgcqCUlidoZx.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q4348936
   imdb: tt0275862
+  tmdb: 71050
 sources:
 - https://www.wikidata.org/wiki/Q4348936
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: dzhaiyani-dmitriy
 studio:
 - gruziya-film
+poster_tmdb_path: /5yRyV0jPgmRt8UU3pTtwxJ6ZG2v.jpg
+backdrop_tmdb_path: /dEe6QIVXqahZ9aoxwb3kCipUvlF.jpg

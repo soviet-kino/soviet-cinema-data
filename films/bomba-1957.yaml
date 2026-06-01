@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q112325784
   imdb: tt0169634
+  tmdb: 652903
 sources:
 - https://www.wikidata.org/wiki/Q112325784
 schema_version: 1
@@ -54,3 +55,4 @@ cast:
 - person: chudacek-zdenek
 studio:
 - barrandov
+poster_tmdb_path: /ygqSTGFR3lnyOItvktPI7Vd1BPC.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4454138
   imdb: tt0237811
+  tmdb: 526108
 sources:
 - https://www.wikidata.org/wiki/Q4454138
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: kyzy-seidbeyli-maryam-gasan
 - person: xmara-valentina
 - person: kyzy-alieva-ataya-gulam
+poster_tmdb_path: /5jVL98vx2r0DBH6AplLniL3VJ4L.jpg

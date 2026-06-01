@@ -8,8 +8,10 @@ runtime_min: 63
 external_ids:
   wikidata: Q109943650
   imdb: tt4885532
+  tmdb: 446333
 sources:
 - https://www.wikidata.org/wiki/Q109943650
 schema_version: 1
 cast:
 - person: smirnov-vladimir-nikolaevich
+poster_tmdb_path: /ldRGbGqc0Ir3XwAhTTdcbdvXoTX.jpg

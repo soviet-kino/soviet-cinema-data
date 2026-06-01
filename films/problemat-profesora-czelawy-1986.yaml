@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q11827258
   imdb: tt1310661
+  tmdb: 345256
 sources:
 - https://www.wikidata.org/wiki/Q11827258
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: richardson-monika
 studio:
 - zespo-filmowy-oko
+backdrop_tmdb_path: /bsvZqjOHBl4Au7eamJ9mfMiHT8F.jpg

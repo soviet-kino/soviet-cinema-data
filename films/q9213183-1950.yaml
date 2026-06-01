@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q9213183
   imdb: tt0042424
+  tmdb: 711965
 sources:
 - https://www.wikidata.org/wiki/Q9213183
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: lomnitskiy-tadeush
 - person: mlodnitskiy-artur
 - person: mniewska-dejmek-danuta
+backdrop_tmdb_path: /bLfk8UjFVWnxYrbmERmY6VKY277.jpg

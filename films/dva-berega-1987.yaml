@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4155561
   imdb: tt0092939
   youtube: WPI8vq_hOYE
+  tmdb: 896090
 sources:
 - https://www.wikidata.org/wiki/Q4155561
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - chekalov-pavel
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mRwE9oWqBECJqEBGu3HQpDp7GmB.jpg
+backdrop_tmdb_path: /oHARitTN9bOQTgs38KyOPTkwDHD.jpg

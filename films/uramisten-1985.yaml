@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q55785131
   imdb: tt0090241
+  tmdb: 133425
 sources:
 - https://www.wikidata.org/wiki/Q55785131
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: feleki-kamill
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /n9n5sGFUtYiGYceJT3QR6UunZXX.jpg

@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q4173122
   imdb: tt0456130
+  tmdb: 128379
 sources:
 - https://www.wikidata.org/wiki/Q4173122
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 studio:
 - sovkino
 poster_commons: 1928 LYuB editing film.jpg
+poster_tmdb_path: /aGzCE9qmZTWqo9dCy9JOllQXGkp.jpg

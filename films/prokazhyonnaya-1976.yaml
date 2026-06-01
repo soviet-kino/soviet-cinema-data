@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2060789
   imdb: tt0075348
   youtube: n1Yn21GYACk
+  tmdb: 245059
 sources:
 - https://www.wikidata.org/wiki/Q2060789
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: teleshinskiy-leshek
 studio:
 - silesia-kinostudiya
+poster_tmdb_path: /3PZWGmXWfjuWQHet6qZ8GrXV0RY.jpg
+backdrop_tmdb_path: /aYXpVn6sFFoGau18I1zQjjECziJ.jpg

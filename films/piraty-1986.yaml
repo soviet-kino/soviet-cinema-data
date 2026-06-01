@@ -8,6 +8,7 @@ runtime_min: 124
 external_ids:
   wikidata: Q1673923
   imdb: tt0091757
+  tmdb: 11483
 sources:
 - https://www.wikidata.org/wiki/Q1673923
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 studio:
 - the-cannon-group
 poster_commons: Pirates, Roman Polanski, boat Genova.jpg
+poster_tmdb_path: /oyEoEZn7qm7X3R5ooqkuwEtbYAh.jpg
+backdrop_tmdb_path: /eu4djO43goqQAMAp4kX6aflvRa.jpg

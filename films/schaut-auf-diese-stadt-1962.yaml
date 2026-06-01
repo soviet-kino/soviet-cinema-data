@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7431013
   imdb: tt0386768
+  tmdb: 343747
 sources:
 - https://www.wikidata.org/wiki/Q7431013
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - forest-zhan-kurt
 cast:
 - person: gass-karl
+poster_tmdb_path: /50HI4jJ2keum4tCHGCongHiUB3F.jpg

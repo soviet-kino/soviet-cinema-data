@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4169858
   imdb: tt0027554
+  tmdb: 637524
 sources:
 - https://www.wikidata.org/wiki/Q4169858
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: grigoreva-galina-konstantinovna
 studio:
 - lenfilm
+poster_tmdb_path: /nhPlyxEW65Hk3zUx642Mf3zOqIK.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7772655
   imdb: tt0006665
+  tmdb: 361551
 sources:
 - https://www.wikidata.org/wiki/Q7772655
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 cast:
 - person: bolvary-helene-von
 - person: kertes-dezho
+poster_tmdb_path: /ynOpnp2uyjapGcYkMOghtMxTf59.jpg

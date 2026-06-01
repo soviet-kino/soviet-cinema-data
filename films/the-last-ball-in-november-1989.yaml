@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q7745580
   imdb: tt0136432
+  tmdb: 409374
 sources:
 - https://www.wikidata.org/wiki/Q7745580
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: murdzhea-ketelina
 - person: tudose-sergiu
 - person: popovici-gioni
+poster_tmdb_path: /koEhcsVBXXSrJvVdR4dkbIxdvrt.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q2717046
   imdb: tt0078477
+  tmdb: 34467
 sources:
 - https://www.wikidata.org/wiki/Q2717046
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: dzheyson-devid
 - person: stabbs-una
 - person: lyuti-pol
+poster_tmdb_path: /vpgFomQKyvpsxazK0SB5pB7S8xo.jpg
+backdrop_tmdb_path: /wJmrzkRyOYwMed24E7QcwrLVFIF.jpg

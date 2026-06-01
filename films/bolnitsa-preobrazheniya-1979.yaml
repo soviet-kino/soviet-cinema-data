@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9352165
   imdb: tt0079979
+  tmdb: 288741
 sources:
 - https://www.wikidata.org/wiki/Q9352165
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: shimanskiy-zdzislav
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /bBFMPk2sbYIT3DFabzwinpJ3Fi7.jpg
+backdrop_tmdb_path: /331D30jmbq9c9RJijhpay847ox5.jpg

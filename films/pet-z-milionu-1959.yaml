@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q47531843
   imdb: tt0124051
   youtube: yP1JTFcGIhk
+  tmdb: 455766
 sources:
 - https://www.wikidata.org/wiki/Q47531843
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: vokurkova-j
 - person: krasna-a
 - person: cumpelikova-helena
+poster_tmdb_path: /aovKjJvMPrcv9DT5Ck9VUNd0gmt.jpg

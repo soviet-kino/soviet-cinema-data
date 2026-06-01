@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4168915
   imdb: tt0030083
   youtube: 1f1XRMZ_WIQ
+  tmdb: 328381
 sources:
 - https://www.wikidata.org/wiki/Q4168915
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Кадр из фильма «Друзья» (СССР, 1938).jpg
+poster_tmdb_path: /ge5bL5JayGmlNBBlFdQrrm4ZDZT.jpg
+backdrop_tmdb_path: /tvC8bJwEhxVR9aIgsfZN6qis0p9.jpg

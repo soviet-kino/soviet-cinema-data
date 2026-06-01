@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4279619
   imdb: tt0492679
   youtube: FeIIaJUN-4A
+  tmdb: 637443
 sources:
 - https://www.wikidata.org/wiki/Q4279619
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: grachyov-anatoliy-dmitrievich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /ya2L4q2IJ8fMtWI8LB3dDPlCH0L.jpg
+backdrop_tmdb_path: /oMP92u6c8KxjEfxY6COfa8N1Lca.jpg

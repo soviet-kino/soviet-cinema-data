@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15271011
   imdb: tt2286972
+  tmdb: 848966
 sources:
 - https://www.wikidata.org/wiki/Q15271011
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: korolkov-gennadiy-anatolevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /xtiU10wiGpRzAsUyOdJZW3M7qnC.jpg

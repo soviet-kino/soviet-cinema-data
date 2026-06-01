@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4056328
   imdb: tt0071179
   youtube: _Uf0uSOyULE
+  tmdb: 63571
 sources:
 - https://www.wikidata.org/wiki/Q4056328
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bykov-rolan-antonovich
 - person: vitsin-georgiy-mikhaylovich
 - person: gerdt-zinoviy-efimovich
+poster_tmdb_path: /xDhrcUjgN1YuuFHSdibFcmXtNhk.jpg
+backdrop_tmdb_path: /2I0NT0UW4kPBW4v7gQZohCPs3xu.jpg

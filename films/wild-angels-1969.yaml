@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3506614
   imdb: tt0064239
+  tmdb: 363033
 sources:
 - https://www.wikidata.org/wiki/Q3506614
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: durbesic-veronika
 - person: poskay-dusa
 - person: micovic-vojislav
+poster_tmdb_path: /kXOjRfp3y7DbeySzVvNVRbrurCQ.jpg

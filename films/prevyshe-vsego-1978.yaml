@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27121623
   imdb: tt0136381
+  tmdb: 748842
 sources:
 - https://www.wikidata.org/wiki/Q27121623
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: iekel-tatyana
 - person: vitcu-dionisie
 - person: borcia-corneliu-dan
+poster_tmdb_path: /kku3NXMKKhiO5IrnMOFPmDmfjlM.jpg

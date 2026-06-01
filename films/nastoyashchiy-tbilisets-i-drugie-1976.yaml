@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4314056
   imdb: tt0280978
+  tmdb: 418928
 sources:
 - https://www.wikidata.org/wiki/Q4314056
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kakhidze-dzhansug-ivanovich
 studio:
 - gruziya-film
+poster_tmdb_path: /dfu7zZoSa8CIdvwMjYH1hPGQ1DJ.jpg
+backdrop_tmdb_path: /n7KoxsCbw4g1tJCKQGPrOIhR8VL.jpg

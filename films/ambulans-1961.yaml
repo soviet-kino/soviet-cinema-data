@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11685614
   imdb: tt0172112
+  tmdb: 243461
 sources:
 - https://www.wikidata.org/wiki/Q11685614
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - komeda-kshishtof
 cast:
 - person: zbignev-yuzefovich
+poster_tmdb_path: /mnar5T7UwRttRh5jlK3BROsLsEK.jpg

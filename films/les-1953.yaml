@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27957991
   imdb: tt0045994
+  tmdb: 708172
 sources:
 - https://www.wikidata.org/wiki/Q27957991
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - timoshenko-semyon-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /rnm3E61VU4w1UTDNuffCgmumz4x.jpg

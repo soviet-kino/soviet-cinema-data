@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q16514679
   imdb: tt5847394
+  tmdb: 655497
 sources:
 - https://www.wikidata.org/wiki/Q16514679
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - tolstoy-dmitriy-andreevich
 studio:
 - lenfilm
+poster_tmdb_path: /kpDf3h2hOq7PwomwlbRr3dnvSpg.jpg

@@ -8,6 +8,7 @@ runtime_min: 53
 external_ids:
   wikidata: Q106403400
   imdb: tt0351800
+  tmdb: 1016486
 sources:
 - https://www.wikidata.org/wiki/Q106403400
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - pushkov-venedikt-venediktovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /eecWUXZ733WUeF2yBpHcrMpDsa9.jpg
+backdrop_tmdb_path: /kqkRDgzrHaDV9ThauHw35DhbNAp.jpg

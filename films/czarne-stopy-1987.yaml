@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9197984
   imdb: tt0099335
+  tmdb: 194854
 sources:
 - https://www.wikidata.org/wiki/Q9197984
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - tarasin-tomasz
 composer:
 - marchevskiy-petr
+poster_tmdb_path: /8EipUajRtR37LvDcJobNWCxiF9g.jpg
+backdrop_tmdb_path: /glAhGUbTw5EKzQk2Baa3tHFKZVX.jpg

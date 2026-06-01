@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4142571
   imdb: tt0314113
   youtube: O8I4PPQJCmk
+  tmdb: 427743
 sources:
 - https://www.wikidata.org/wiki/Q4142571
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - mosfilm
 cast:
 - person: mikhaylova-darya
+poster_tmdb_path: /rp60iIe0dRxBDUVACZ0r01NM536.jpg

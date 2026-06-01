@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7933205
   imdb: tt0077863
+  tmdb: 504064
 sources:
 - https://www.wikidata.org/wiki/Q7933205
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: frayt-bozhidarka
 - person: stanic-stjepan-jimmy
 - person: toryanach-zvonimir
+poster_tmdb_path: /qiQmSons8Lghl1CK7je4Mbe0klB.jpg
+backdrop_tmdb_path: /mPJawJSGDi9rjwUhsu4ZsKgu3X1.jpg

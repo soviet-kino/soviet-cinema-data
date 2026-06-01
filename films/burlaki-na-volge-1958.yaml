@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q428780
   imdb: tt0051401
+  tmdb: 311046
 sources:
 - https://www.wikidata.org/wiki/Q428780
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: bernardi-nerio
 - person: bragalya-arturo
 - person: marketti-nino
+poster_tmdb_path: /bmnxxoUN5DGvqVganO5b8pRjRm6.jpg
+backdrop_tmdb_path: /i9hv0bh0h06BndWKYLU7jdcsSIf.jpg

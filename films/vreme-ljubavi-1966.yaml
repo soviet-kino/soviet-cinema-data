@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27194914
   imdb: tt0180295
+  tmdb: 402471
 sources:
 - https://www.wikidata.org/wiki/Q27194914
 schema_version: 1
@@ -14,3 +15,4 @@ screenwriter:
 - mikhich-gordan
 cast:
 - person: neda-spasoevich
+poster_tmdb_path: /ecqzBq3ZdU4cQa5K9jUj4Saj0gA.jpg

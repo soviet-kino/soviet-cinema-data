@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q15270644
   imdb: tt0188306
+  tmdb: 345124
 sources:
 - https://www.wikidata.org/wiki/Q15270644
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: igor-yasulovich
 studio:
 - mosfilm
+poster_tmdb_path: /oDn6yJ8u1zGbRzxKosWNyOa58y4.jpg

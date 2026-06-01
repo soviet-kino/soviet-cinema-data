@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q16514616
   imdb: tt4668202
+  tmdb: 535592
 sources:
 - https://www.wikidata.org/wiki/Q16514616
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: chernova-alla-iosifovna
 studio:
 - lenfilm
+poster_tmdb_path: /kcpHEhRFGgBu5U3QOGThDpLPF8Z.jpg

@@ -8,6 +8,7 @@ runtime_min: 144
 external_ids:
   wikidata: Q2481391
   imdb: tt0058126
+  tmdb: 71317
 sources:
 - https://www.wikidata.org/wiki/Q2481391
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: erenberg-vladimir-vladimirovich
 - person: berkun-yuriy-grigorevich
 - person: chekaevskiy-aleksandr-valentinovich
+poster_tmdb_path: /ed9VkATNLqGvyDMJ1dDC8pR512r.jpg
+backdrop_tmdb_path: /bQLrbzsMj5iKNkoLzVVgcxgF845.jpg

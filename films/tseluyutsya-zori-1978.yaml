@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4503822
   imdb: tt0078424
   youtube: zIgfXYiJHuI
+  tmdb: 558037
 sources:
 - https://www.wikidata.org/wiki/Q4503822
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - nikonenko-sergey
 studio:
 - mosfilm
+poster_tmdb_path: /rkgqLIy2zsVIt0qExWVoZBtJPzJ.jpg
+backdrop_tmdb_path: /c6IobQOzkQ8cIylpKUnSBgIG0XS.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16535543
   imdb: tt4507904
   youtube: l5Mg7XmF70I
+  tmdb: 638343
 sources:
 - https://www.wikidata.org/wiki/Q16535543
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - kazhlaev-murad-magomedovich
 studio:
 - lenfilm
+poster_tmdb_path: /iLm0aAyIobMm0t7UjcQmsE3AAoo.jpg
+backdrop_tmdb_path: /iNHy4MdKs7OPE5mac2NfHKSBPft.jpg

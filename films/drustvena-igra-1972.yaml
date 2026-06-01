@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q16761117
   imdb: tt0172367
+  tmdb: 388857
 sources:
 - https://www.wikidata.org/wiki/Q16761117
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: bukilic-goran
 - person: tankoshich-ratko
+poster_tmdb_path: /znVOYCkRkRBRThHaUn6kYW6ZGFw.jpg

@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q61122185
   imdb: tt4687012
+  tmdb: 775444
 sources:
 - https://www.wikidata.org/wiki/Q61122185
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - iskusstva-yakovlev-igor-nikolaevich-deyatel
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /6PHe9v2Xidp9afME8Ny1NhIlrRU.jpg

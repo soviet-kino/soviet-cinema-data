@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3203227
   imdb: tt0056124
   youtube: j6WyfJbP3o4
+  tmdb: 121523
 sources:
 - https://www.wikidata.org/wiki/Q3203227
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: silenti-vira
 - person: marietto
 poster_commons: Giuseppe venduto dai fratelli (1960) Geoffrey Horne.png
+poster_tmdb_path: /x7HaZf7hRcw1SQG3nOcAEjSeqGI.jpg
+backdrop_tmdb_path: /pEMWSTdlIlaQ2nc4s2AV5HuvZVj.jpg

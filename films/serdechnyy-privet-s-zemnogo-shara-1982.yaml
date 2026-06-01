@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12055810
   imdb: tt0084721
   youtube: Rk_jBnHVb38
+  tmdb: 270440
 sources:
 - https://www.wikidata.org/wiki/Q12055810
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: tomsa-yaroslav
 - person: koktova-vera
 - person: kucera-jaromir
+poster_tmdb_path: /lUyIzW1ENRyLlvoiaw0nV37zFPu.jpg
+backdrop_tmdb_path: /qJTk6dgt67hUEgMBOZ3KWSafdwa.jpg

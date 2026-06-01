@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28796759
   imdb: tt1321827
+  tmdb: 630458
 sources:
 - https://www.wikidata.org/wiki/Q28796759
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - khenrik-iren
 composer:
 - petkho-zholt
+poster_tmdb_path: /j0QmMPCwJ8qpgilB3b8JdnyJIEg.jpg

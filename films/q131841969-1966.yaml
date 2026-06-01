@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131841969
   imdb: tt0060442
+  tmdb: 286619
 sources:
 - https://www.wikidata.org/wiki/Q131841969
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kishsh-mani
 - person: khalaz-yudit
 - person: aktyor-ishtvan-kovach
+poster_tmdb_path: /gDBZfKLYGb4OimQKcrhp6qok3GE.jpg

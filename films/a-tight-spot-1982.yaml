@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1428083
   imdb: tt0084780
+  tmdb: 50752
 sources:
 - https://www.wikidata.org/wiki/Q1428083
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: vladan-zhivkovich
 - person: stanisic-momcilo
 - person: nenadovic-nenad
+poster_tmdb_path: /t1eXmJP4u6sQEVHvdPD9DX4m4tK.jpg
+backdrop_tmdb_path: /jfKqhQcTSRa8ZgqTJDdPptzO27S.jpg

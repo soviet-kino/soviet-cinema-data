@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4107943
   imdb: tt0176285
   youtube: PTDCmqDulfI
+  tmdb: 412611
 sources:
 - https://www.wikidata.org/wiki/Q4107943
 schema_version: 1
@@ -28,3 +29,4 @@ studio:
 cast:
 - person: polskikh-galina
 - person: chetverikov-vladimir-anatolevich
+poster_tmdb_path: /4EovWu6O8QNmKaGDAvRxFeXX4fk.jpg

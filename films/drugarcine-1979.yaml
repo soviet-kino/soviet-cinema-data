@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16088721
   imdb: tt0179783
+  tmdb: 365356
 sources:
 - https://www.wikidata.org/wiki/Q16088721
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: q12960814
 - person: vojnovic-dusan
 - person: vladan-zhivkovich
+poster_tmdb_path: /mKE1ybrkgE8JVx7bWbAP742kF0X.jpg
+backdrop_tmdb_path: /vBtBmRUFoB5TmqmkAdTix3u94pk.jpg

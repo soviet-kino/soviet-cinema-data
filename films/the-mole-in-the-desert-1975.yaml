@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q57314312
   imdb: tt0268414
+  tmdb: 1338948
 sources:
 - https://www.wikidata.org/wiki/Q57314312
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - miler-zdenek
 composer:
 - petrov-vadim
+poster_tmdb_path: /xCRZHP0EOxHqLP9AuGDDCgx6OW3.jpg

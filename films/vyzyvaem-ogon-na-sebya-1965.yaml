@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4128945
   imdb: tt0056793
   youtube: CvpQbQmgIVY
+  tmdb: 531024
 sources:
 - https://www.wikidata.org/wiki/Q4128945
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: braun-khaynts-adolfovich
 - person: evtifev-leonid-mikhaylovich
 - person: komissarov-yuriy-danilovich
+poster_tmdb_path: /kZA6oeItQ1KjHTcdoXGmWYOBvTc.jpg
+backdrop_tmdb_path: /oni6RuQV0klfQ8tToLJfvGpE6B2.jpg

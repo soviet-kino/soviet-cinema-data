@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q108085261
   imdb: tt0062931
+  tmdb: 122095
 sources:
 - https://www.wikidata.org/wiki/Q108085261
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: szirtes-adam
 - person: gurnik-ilona
 - person: simenfalvy-ida
+poster_tmdb_path: /4q2qTicIgtYlqbSyFCpjWDG9bpl.jpg
+backdrop_tmdb_path: /5opYCz70E181JofD8pUTBgcy0pv.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11825332
   imdb: tt0060850
+  tmdb: 377494
 sources:
 - https://www.wikidata.org/wiki/Q11825332
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: kruk-jan-pawe
 - person: korcharovskiy-eugeniush
 - person: q116842870
+poster_tmdb_path: /g1ILIvJOg15AFlVbtCE2Ll9CZ9J.jpg
+backdrop_tmdb_path: /31Jeubz5ih1aTjDXefx1oOpUeJw.jpg

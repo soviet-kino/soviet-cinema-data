@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20576557
   imdb: tt0237483
+  tmdb: 771181
 sources:
 - https://www.wikidata.org/wiki/Q20576557
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - kalnynsh-imants
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /uOv8VjH390m337wMlj0dlLNuqY1.jpg

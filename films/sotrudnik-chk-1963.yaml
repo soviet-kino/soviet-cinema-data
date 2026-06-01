@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1601721
   imdb: tt0057520
   youtube: W82nI2u3bh4
+  tmdb: 69839
 sources:
 - https://www.wikidata.org/wiki/Q1601721
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - lazarev-eduard
 studio:
 - mosfilm
+poster_tmdb_path: /bYSC5tT80cP8t8VtaFux8wt5rmR.jpg
+backdrop_tmdb_path: /nWgVrQzwadXO4NzogFDLq95wscV.jpg

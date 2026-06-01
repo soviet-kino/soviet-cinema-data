@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q15975562
   imdb: tt0077719
+  tmdb: 286662
 sources:
 - https://www.wikidata.org/wiki/Q15975562
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - brauer-yurgen
 composer:
 - matus-zigfrid
+poster_tmdb_path: /tEAw58qfrquvDnC1mGA2hCVwfuj.jpg

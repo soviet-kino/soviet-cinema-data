@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4182777
   imdb: tt0314936
   youtube: eyK2WlxRAo4
+  tmdb: 383921
 sources:
 - https://www.wikidata.org/wiki/Q4182777
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: matveev-vitaliy-ivanovich
 - person: merkurev-pyotr-vasilevich
 - person: stanislav-ivanovich-stankevich
+poster_tmdb_path: /zvjZ8kPJNrc8VwYWf9FulNwi6bH.jpg

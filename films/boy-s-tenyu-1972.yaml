@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q65212838
   imdb: tt0317181
+  tmdb: 890026
 sources:
 - https://www.wikidata.org/wiki/Q65212838
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - kolker-aleksandr
 studio:
 - mosfilm
+poster_tmdb_path: /A4rGGXfe1ZOAdLShjy9HPJSUFNj.jpg
+backdrop_tmdb_path: /28H8tZU5tjbPEu4XeYcJeGvx5p0.jpg

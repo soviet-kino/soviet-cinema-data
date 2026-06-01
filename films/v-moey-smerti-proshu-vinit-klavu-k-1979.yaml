@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101740
   imdb: tt0080073
   youtube: 04mPuVbW6kQ
+  tmdb: 64122
 sources:
 - https://www.wikidata.org/wiki/Q4101740
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ozeretskovskaya-olga-lvovna
 studio:
 - lenfilm
+poster_tmdb_path: /vD35UdFokJkBD0PrcptzYSrzZO.jpg
+backdrop_tmdb_path: /h9hlvMOd8yTXiotgzAPwHNhTk1i.jpg

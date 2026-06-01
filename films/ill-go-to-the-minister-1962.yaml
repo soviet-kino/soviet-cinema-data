@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5965835
   imdb: tt0054871
+  tmdb: 578476
 sources:
 - https://www.wikidata.org/wiki/Q5965835
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: sabo-gabor-madi
 - person: rayz-yanosh
 - person: szirtes-adam
+poster_tmdb_path: /hNg4ot4p1wqdDu0fRsjcXjzT5dI.jpg
+backdrop_tmdb_path: /avBT2BCtkcn92q3xME1rDBIaSXl.jpg

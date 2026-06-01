@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16387996
   imdb: tt0312333
   youtube: 1wyZlIvdjYY
+  tmdb: 283662
 sources:
 - https://www.wikidata.org/wiki/Q16387996
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: mkrtchyan-frunzik
 - person: varderesyan-vardui
 - person: sherents-azat-armenakovich
+poster_tmdb_path: /mq0UZ3cBJGmz4I763qO8aw56ul2.jpg
+backdrop_tmdb_path: /jHXCtDQiVY8AhxOwaIQEz1PEv79.jpg

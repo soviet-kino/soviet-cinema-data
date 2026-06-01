@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q14624809
   imdb: tt0008164
+  tmdb: 990692
 sources:
 - https://www.wikidata.org/wiki/Q14624809
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: uray-tivadar
 - person: lenkeffy-ica-von
 - person: molnar-laslo-z
+poster_tmdb_path: /t8NpHOPwRalUx6mfk6fUtt58YmV.jpg

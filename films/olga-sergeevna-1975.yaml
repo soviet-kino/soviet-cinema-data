@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4334081
   imdb: tt1087897
   youtube: TmyLYcgaYn8
+  tmdb: 352836
 sources:
 - https://www.wikidata.org/wiki/Q4334081
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 cast:
 - person: dzhigarkhanyan-armen-borisovich
 - person: doronina-tatyana-vasilevna
+poster_tmdb_path: /sTrIl0YvWgEZjz6DDZYNofl3Ny2.jpg

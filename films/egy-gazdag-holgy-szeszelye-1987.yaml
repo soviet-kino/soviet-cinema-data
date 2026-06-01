@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19159336
   imdb: tt0431774
+  tmdb: 805062
 sources:
 - https://www.wikidata.org/wiki/Q19159336
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - mafilm
 poster_commons: Danubius Grand Hotel Margitsziget főbejárata.jpg
+poster_tmdb_path: /lfd0ttMoxCszLHuiJzwlsQ7uuuj.jpg
+backdrop_tmdb_path: /kGkCF23CaHirdsmvAIQGt0bkrSd.jpg

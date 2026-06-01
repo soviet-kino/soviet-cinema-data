@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16084709
   imdb: tt0179960
+  tmdb: 354246
 sources:
 - https://www.wikidata.org/wiki/Q16084709
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: nesic-sofija-peric
 - person: veselinovits-branka
 - person: milic-nikola
+poster_tmdb_path: /xon2ovztE1bHSE1ors84QBWz5mg.jpg

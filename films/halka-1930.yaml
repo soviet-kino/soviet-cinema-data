@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11708467
   imdb: tt0924224
+  tmdb: 774649
 sources:
 - https://www.wikidata.org/wiki/Q11708467
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - meglitskiy-konstanty
 screenwriter:
 - braun-jerzy
+poster_tmdb_path: /1k4MDULwGtbFjD7izjGhf4hOQOK.jpg
+backdrop_tmdb_path: /rXfcqu1243sNmOk0GOEnkojY5rj.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3566259
   imdb: tt0161562
+  tmdb: 41981
 sources:
 - https://www.wikidata.org/wiki/Q3566259
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: kvasnica-rudolf
 studio:
 - barrandov
+poster_tmdb_path: /fQfKmaJFe9waBVkoSXgfcPACuXn.jpg
+backdrop_tmdb_path: /vIRFSvsgYcyvece6jkPEpocjHMH.jpg

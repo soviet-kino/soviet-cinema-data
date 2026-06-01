@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q57315717
   imdb: tt1485739
+  tmdb: 372187
 sources:
 - https://www.wikidata.org/wiki/Q57315717
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - kratky-film-praha
 - studiya-dlya-animatsionnykh-filmov-defa
+poster_tmdb_path: /G4CVVtSkqXUd3l31r7ZFTV9Gwt.jpg
+backdrop_tmdb_path: /tqcSpprLcCMsU2sBiOzGg6xJm92.jpg

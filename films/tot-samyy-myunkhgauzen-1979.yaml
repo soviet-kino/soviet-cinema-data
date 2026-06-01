@@ -19,6 +19,7 @@ external_ids:
   wikidata: Q4461443
   youtube: OWB4k-YXJUM
   imdb: tt0080037
+  tmdb: 27937
 sources:
 - https://www.wikidata.org/wiki/Q4461443
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: skoryakin-anatoliy-evgenevich
 - person: yarmolnik-leonid-isaakovich
 - person: igor-yasulovich
+poster_tmdb_path: /ofW7l89csAAe9XpVINFCjlQIpiv.jpg
+backdrop_tmdb_path: /m6D6i7VUY8nlD2CWe0CcBpJjPpt.jpg

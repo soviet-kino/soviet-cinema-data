@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q130292840
   imdb: tt5045448
+  tmdb: 640311
 sources:
 - https://www.wikidata.org/wiki/Q130292840
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: breskanu-vasile
 studio:
 - moldova-film
+poster_tmdb_path: /53ffN227PbAOLoSctjTmQ05BUPg.jpg

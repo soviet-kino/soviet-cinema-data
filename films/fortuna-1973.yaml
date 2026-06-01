@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9261811
   imdb: tt3606412
+  tmdb: 522240
 sources:
 - https://www.wikidata.org/wiki/Q9261811
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kazanetskiy-valdemar
 cast:
 - person: nalberchak-yuzef
+poster_tmdb_path: /jdwlQwazH6YNTIznhFyrHO0prhR.jpg

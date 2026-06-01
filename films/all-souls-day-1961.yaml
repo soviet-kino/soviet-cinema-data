@@ -30,6 +30,9 @@ runtime_min: 93
 external_ids:
   wikidata: Q4729641
   imdb: tt0056713
+  tmdb: 291976
 sources:
 - https://www.wikidata.org/wiki/Q4729641
 schema_version: 1
+poster_tmdb_path: /o4iUgJfPllYWjFvC2xR808hzGoF.jpg
+backdrop_tmdb_path: /oWb9QuKNOxWoAd8s34IopJkZyJK.jpg

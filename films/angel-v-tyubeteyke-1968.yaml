@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4065098
   imdb: tt0169556
   youtube: k2MkgBMDUwk
+  tmdb: 480393
 sources:
 - https://www.wikidata.org/wiki/Q4065098
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kazakhfilm
 cast:
 - person: umurzakova-amina-ergozhaevna
+poster_tmdb_path: /feGcO5H1kDQjmBsn181a5PYeLMb.jpg

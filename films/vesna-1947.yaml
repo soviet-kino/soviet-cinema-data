@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109506
   imdb: tt0039954
   youtube: INd8Z-trdPk
+  tmdb: 100638
 sources:
 - https://www.wikidata.org/wiki/Q4109506
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: shtertsi-yaroslav
 studio:
 - mosfilm
+poster_tmdb_path: /hAJg3x1wMSnE0UU2qCmFQOR9CDx.jpg
+backdrop_tmdb_path: /nJVw79Q734ZsVjoOM5Ntw6fwqWH.jpg

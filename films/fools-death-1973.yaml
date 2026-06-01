@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q126857849
   imdb: tt6149012
+  tmdb: 495581
 sources:
 - https://www.wikidata.org/wiki/Q126857849
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: q106188480
 - person: zemla-eduard
 - person: q127061194
+poster_tmdb_path: /zjGqKtIGvJL50UVaO2dJQJTUYY3.jpg
+backdrop_tmdb_path: /xNoBeDobK2pd2T3uK3oXIYzhD51.jpg

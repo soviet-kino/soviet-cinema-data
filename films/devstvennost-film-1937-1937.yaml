@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q12043707
   imdb: tt0166302
+  tmdb: 264493
 sources:
 - https://www.wikidata.org/wiki/Q12043707
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: skorkovska-jaroslava
 - person: ballon-otto
 - person: barta-hanus
+poster_tmdb_path: /mbBmkrovaQ0iFY59WzwmESk2M0C.jpg
+backdrop_tmdb_path: /fbEwqQApIE3gNEU6s0ahtfd1rp8.jpg

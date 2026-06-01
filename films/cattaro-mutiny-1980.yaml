@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16085841
   imdb: tt0181635
+  tmdb: 385531
 sources:
 - https://www.wikidata.org/wiki/Q16085841
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: predrag-milinkovich
 - person: cumic-dragomir
 - person: sultanovic-goran
+poster_tmdb_path: /oTmkNGJxp11c5C43XcEWMCqhx04.jpg

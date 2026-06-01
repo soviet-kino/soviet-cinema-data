@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7252926
   imdb: tt0138723
+  tmdb: 892033
 sources:
 - https://www.wikidata.org/wiki/Q7252926
 schema_version: 1
@@ -78,3 +79,4 @@ cast:
 - person: moskalik-pavol
 - person: semanco-stefan
 - person: hubner-antonin
+poster_tmdb_path: /eakcUxmT40J2025DYuxBA8LgR2f.jpg

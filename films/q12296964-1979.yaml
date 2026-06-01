@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12296964
   imdb: tt0247782
+  tmdb: 306697
 sources:
 - https://www.wikidata.org/wiki/Q12296964
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: kvid-jaroslav
 - person: skarke-petr
 - person: grigorov-ivan
+poster_tmdb_path: /ddSKGVmx0lqlexkzdsF2o2Cenuy.jpg
+backdrop_tmdb_path: /xJ76pujCbziH2FknhNZgYfozCos.jpg

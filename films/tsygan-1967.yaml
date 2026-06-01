@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4506302
   imdb: tt0173366
   youtube: bRCIX-UvK8o
+  tmdb: 681588
 sources:
 - https://www.wikidata.org/wiki/Q4506302
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: matveev-evgeniy-semyonovich
 - person: khityaeva-lyudmila-ivanovna
+poster_tmdb_path: /6NXaYHTYLww8IpDysleTGDXz0Vw.jpg
+backdrop_tmdb_path: /mdJRjYlVAm1wRzc5PZoTaveHNpI.jpg

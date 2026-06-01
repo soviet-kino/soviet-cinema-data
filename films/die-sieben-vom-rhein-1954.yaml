@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5274435
   imdb: tt0369933
+  tmdb: 1450991
 sources:
 - https://www.wikidata.org/wiki/Q5274435
 schema_version: 1
 director:
 - torndayk-andre
+poster_tmdb_path: /ezUGTbGhCu3VsjoROykYPimdKQP.jpg

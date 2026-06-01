@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q3408329
   imdb: tt0062623
+  tmdb: 90421
 sources:
 - https://www.wikidata.org/wiki/Q3408329
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - norshteyn-yuriy-borisovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1syRyw2Qq6oXRX3nScRTI1JcLlG.jpg
+backdrop_tmdb_path: /bQjoPu5SEEttXLI4lkVE8gXghS6.jpg

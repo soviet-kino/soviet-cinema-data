@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q1219413
   imdb: tt0167474
+  tmdb: 72968
 sources:
 - https://www.wikidata.org/wiki/Q1219413
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: stolyarov-sergey-dmitrievich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /6whrpFyxRfVYvOAllt85mOBa8HU.jpg
+backdrop_tmdb_path: /x3rhAwzVCcFmxpOgqt252tUdiZk.jpg

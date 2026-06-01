@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q4460315
   imdb: tt0022486
+  tmdb: 262804
 sources:
 - https://www.wikidata.org/wiki/Q4460315
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - mezhrabpomfilm
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qAO9IjC89iFXvRFULp7VNiPPZhb.jpg
+backdrop_tmdb_path: /obb5XWvTfDC6epwfnj3cLVfnZVH.jpg

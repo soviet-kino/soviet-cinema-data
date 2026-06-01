@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q929494
   imdb: tt0069078
+  tmdb: 155965
 sources:
 - https://www.wikidata.org/wiki/Q929494
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: dederko-vitold
 - person: bogdo-jan
 - person: grabovskiy-pyotr
+poster_tmdb_path: /vzFmE7rUYsjpUNZZuPWEtvqRzwk.jpg
+backdrop_tmdb_path: /jmG9kH1tH1DtvzhtdquUIfZgo4q.jpg

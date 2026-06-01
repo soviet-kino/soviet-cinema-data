@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9387617
   imdb: tt0061213
+  tmdb: 747609
 sources:
 - https://www.wikidata.org/wiki/Q9387617
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: turek-ezhi
 - person: bary-a-andrzej
 - person: greda-tadeusz
+poster_tmdb_path: /inOhJ0XVzA0LfYXES1wGui1awLe.jpg

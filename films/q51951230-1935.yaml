@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q51951230
   imdb: tt0140680
+  tmdb: 677165
 sources:
 - https://www.wikidata.org/wiki/Q51951230
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - eiben-istvan
 composer:
 - brodskiy-nikolas
+poster_tmdb_path: /3cDQTKraCzkpRml4n0MqwoJOyil.jpg

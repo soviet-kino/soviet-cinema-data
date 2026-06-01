@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1233436
   imdb: tt0029397
+  tmdb: 41101
 sources:
 - https://www.wikidata.org/wiki/Q1233436
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mezey-mariya
 - person: bekashshi-stiven
 poster_commons: Pesti mese forgatása (Pálházi Gyula, 1937).jpg
+poster_tmdb_path: /hY7V4EVkZkuwhjTlVlsEveJ1GoX.jpg
+backdrop_tmdb_path: /1SQCcmmyxoMySx9hDVs1AHFsq7b.jpg

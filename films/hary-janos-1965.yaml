@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q5963051
   imdb: tt0343814
+  tmdb: 736289
 sources:
 - https://www.wikidata.org/wiki/Q5963051
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: konts-gabor
 - person: markus-laslo
 - person: szirtes-adam
+poster_tmdb_path: /y2kbLYMQqJMAYBT1cSIZ6yroABA.jpg

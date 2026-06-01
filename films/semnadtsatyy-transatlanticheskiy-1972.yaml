@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994319
   imdb: tt4701594
+  tmdb: 542261
 sources:
 - https://www.wikidata.org/wiki/Q84994319
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: mateshko-olga-nikolaevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gsY9Vq5omRKUamyundmQHD8d4Tg.jpg

@@ -8,6 +8,7 @@ runtime_min: 147
 external_ids:
   wikidata: Q959682
   imdb: tt0082222
+  tmdb: 225
 sources:
 - https://www.wikidata.org/wiki/Q959682
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: terlecka-ludmi-a
 studio:
 - zespol-filmowy-x
+poster_tmdb_path: /2FlIwfhRyiJXVgZwjfUSIEeWCmD.jpg
+backdrop_tmdb_path: /row4sMw5mVzKCWRbyrAQ39zvyLX.jpg

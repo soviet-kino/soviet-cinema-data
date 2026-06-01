@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111464673
   imdb: tt0316107
   youtube: gU0hx5SzHfQ
+  tmdb: 726235
 sources:
 - https://www.wikidata.org/wiki/Q111464673
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - belarusfilm
 cast:
 - person: samoylov-vladimir-yakovlevich
+poster_tmdb_path: /dkmznyrT1Q80IApznHxgQKmHVwK.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q112080783
   imdb: tt0184994
+  tmdb: 530223
 sources:
 - https://www.wikidata.org/wiki/Q112080783
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pelttser-tatyana-ivanovna
 - person: kuravlyov-leonid-vyacheslavovich
 - person: gavrilova-tatyana
+poster_tmdb_path: /ihVnNNiySm9ew2rHsSy25NxpHzB.jpg

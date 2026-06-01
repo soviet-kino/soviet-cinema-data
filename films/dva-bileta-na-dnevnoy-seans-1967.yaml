@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155562
   imdb: tt0149558
   youtube: tnQc1PoppGw
+  tmdb: 129792
 sources:
 - https://www.wikidata.org/wiki/Q4155562
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: zbruev-aleksandr-viktorovich
 - person: tsakhilova-zemfira-avramovna
+poster_tmdb_path: /iCtH6uAkswGPRx03IcKNMfWqoB2.jpg
+backdrop_tmdb_path: /pIMibHghB2RZ89oS7ahcF06eHhW.jpg

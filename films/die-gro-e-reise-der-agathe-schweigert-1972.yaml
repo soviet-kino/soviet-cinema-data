@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q1218518
   imdb: tt0070137
+  tmdb: 277306
 sources:
 - https://www.wikidata.org/wiki/Q1218518
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: spira-steffie
 studio:
 - defa
+poster_tmdb_path: /bnuAxPLQI51hR4k5MX00aMOBNoY.jpg
+backdrop_tmdb_path: /c4xLaJTAtNEOJlOmVf3RZDcItNT.jpg

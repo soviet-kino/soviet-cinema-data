@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740608
   imdb: tt0077814
+  tmdb: 38375
 sources:
 - https://www.wikidata.org/wiki/Q11740608
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: lyubich-lisovskiy-yuliush
 - person: lonch-marian
 poster_commons: Dobrzykowice dom Kargula.JPG
+poster_tmdb_path: /jlHmHT0lbrQk60tXnWfNAbXrqUR.jpg
+backdrop_tmdb_path: /t24S7W6VPqB99MIIxaBD5rt9kVq.jpg

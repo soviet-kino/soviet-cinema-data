@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4279630
   imdb: tt0829267
+  tmdb: 347076
 sources:
 - https://www.wikidata.org/wiki/Q4279630
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: sturnietse-ariya
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /4TGwPZbf1PTwB5h1DiZopFhbnVg.jpg
+backdrop_tmdb_path: /6VJPBIJAuwW5fZXHquGCeG7N3QA.jpg

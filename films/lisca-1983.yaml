@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44867679
   imdb: tt0264800
+  tmdb: 627538
 sources:
 - https://www.wikidata.org/wiki/Q44867679
 schema_version: 1
 director:
 - carmazan-ioan
+poster_tmdb_path: /fH0UgrMduCkwZ0nlIoGy2i7Xv3z.jpg

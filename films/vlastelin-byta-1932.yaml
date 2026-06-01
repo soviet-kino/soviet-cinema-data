@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q96250717
   imdb: tt0174324
+  tmdb: 469488
 sources:
 - https://www.wikidata.org/wiki/Q96250717
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - mosfilm
 - soyuzkino
 poster_commons: Властелин быта (1932).jpg
+poster_tmdb_path: /j2WIBFu6iWzZUjQsYY2tefP8obr.jpg
+backdrop_tmdb_path: /m2tI6nOs2J9OiKxQWO9HPFBSYGy.jpg

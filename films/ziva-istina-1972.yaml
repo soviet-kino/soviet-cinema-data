@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q8083702
   imdb: tt0069543
+  tmdb: 283501
 sources:
 - https://www.wikidata.org/wiki/Q8083702
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: frayt-bozhidarka
 studio:
 - radio-i-televidenie-khorvatii
+poster_tmdb_path: /l033v2g61JQVY2u1x6YeF1nzgF1.jpg
+backdrop_tmdb_path: /geE1nVJsXAWgAVciaedcrFayhxh.jpg

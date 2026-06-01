@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9283901
   imdb: tt0170209
+  tmdb: 439218
 sources:
 - https://www.wikidata.org/wiki/Q9283901
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - anagnosti-dimiter
 composer:
 - dizdari-limoz
+poster_tmdb_path: /nc4skhKCiHA6nzalkuJNmcfG6W0.jpg
+backdrop_tmdb_path: /eSe2HDI4ItEmsNYEQ4lbBaTQ5EZ.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q54967
   imdb: tt0074251
+  tmdb: 81223
 sources:
 - https://www.wikidata.org/wiki/Q54967
 schema_version: 1
@@ -66,3 +67,5 @@ cast:
 - person: q121427272
 studio:
 - pryzmat
+poster_tmdb_path: /elxvBSf3Vg5gvFxmQUgBCU2FNW9.jpg
+backdrop_tmdb_path: /w0KF71Bp6H2dBnOBpl4wqyo43On.jpg

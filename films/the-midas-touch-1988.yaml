@@ -25,6 +25,9 @@ runtime_min: 110
 external_ids:
   wikidata: Q51121
   imdb: tt0095086
+  tmdb: 131056
 sources:
 - https://www.wikidata.org/wiki/Q51121
 schema_version: 1
+poster_tmdb_path: /7hYxsSh4008qZmLZDJMx7fXCmji.jpg
+backdrop_tmdb_path: /U83yK37p0jwf0fF8rHqRCZrwUM.jpg

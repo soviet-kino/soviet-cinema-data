@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4440493
   imdb: tt0304750
   youtube: WgPmih-9C-Q
+  tmdb: 143069
 sources:
 - https://www.wikidata.org/wiki/Q4440493
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: vladimirov-igor-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /shxvKdz5JUQTXaT0GDDzReJ8Aqv.jpg
+backdrop_tmdb_path: /liWHAzFlRzbranH4imIOdzzJYgS.jpg

@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q12102814
   imdb: tt5276978
+  tmdb: 1103440
 sources:
 - https://www.wikidata.org/wiki/Q12102814
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: stepankov-konstantin-petrovich
 - person: miroshnichenko-viktor-nikolaevich
 - person: fushchich-vasiliy
+poster_tmdb_path: /1j6TpzRlauN0dz96feWngJK0Xpi.jpg

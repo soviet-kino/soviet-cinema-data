@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q98373180
   imdb: tt0131405
+  tmdb: 227395
 sources:
 - https://www.wikidata.org/wiki/Q98373180
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: merkulesku-adela
 - person: popesku-stela
 - person: voychu-yorzh
+poster_tmdb_path: /1HU9j2fOfgVhaYg0LTtl9PKkvH.jpg

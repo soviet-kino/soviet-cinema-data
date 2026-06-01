@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748844
   imdb: tt0421716
+  tmdb: 1644126
 sources:
 - https://www.wikidata.org/wiki/Q12748844
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: marjanovic-rade
 - person: stojiljkovic-vlastimir-uza
 - person: bukilic-goran
+poster_tmdb_path: /koY1F9U9cpxwhgbgiFc4hcTJJHv.jpg

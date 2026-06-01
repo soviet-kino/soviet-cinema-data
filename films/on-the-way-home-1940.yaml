@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q124030575
   imdb: tt0032573
+  tmdb: 1308150
 sources:
 - https://www.wikidata.org/wiki/Q124030575
 schema_version: 1
 director:
 - cserepy-arzen-von
+poster_tmdb_path: /6kJD9AEGsElO5VSEd6qw4bP249F.jpg

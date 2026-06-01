@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4468668
   imdb: tt0306165
+  tmdb: 1498131
 sources:
 - https://www.wikidata.org/wiki/Q4468668
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - lenfilm
 cast:
 - person: sedov-vladimir-alekseevich
+poster_tmdb_path: /ozgZrMG1V49SPGpwgtPtlYGNtBq.jpg
+backdrop_tmdb_path: /kv84LoOiQDkPmyitcrAPlN7PheL.jpg

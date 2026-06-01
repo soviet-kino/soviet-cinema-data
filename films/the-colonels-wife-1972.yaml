@@ -8,8 +8,11 @@ runtime_min: 81
 external_ids:
   wikidata: Q25461762
   imdb: tt0180941
+  tmdb: 460155
 sources:
 - https://www.wikidata.org/wiki/Q25461762
 schema_version: 1
 director:
 - kadijevic-or-e
+poster_tmdb_path: /dY0cAjEfWP8Xe7OriXAWaPlUfCH.jpg
+backdrop_tmdb_path: /k2iznWclKoNFKISxqzm6ZnHYZaF.jpg

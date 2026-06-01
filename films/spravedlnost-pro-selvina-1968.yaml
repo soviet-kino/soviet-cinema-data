@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q7580213
   imdb: tt0176172
+  tmdb: 871816
 sources:
 - https://www.wikidata.org/wiki/Q7580213
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: halek-jiri
 - person: myskova-alexandra
 - person: peyr-karel
+backdrop_tmdb_path: /u4yPRsjATkgtdHUAFdDC8SlQGmq.jpg

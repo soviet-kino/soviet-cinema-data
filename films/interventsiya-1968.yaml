@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4202017
   imdb: tt0142405
   youtube: -hOSFm_8nrc
+  tmdb: 67029
 sources:
 - https://www.wikidata.org/wiki/Q4202017
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: tolubeev-yuriy-vladimirovich
 - person: shtil-georgiy
 - person: pervushin-pavel-fyodorovich
+poster_tmdb_path: /t5ZsDq8DXN4SD5AEuEctuGyUsxT.jpg
+backdrop_tmdb_path: /17YG9uUjJcaFj2llkuXpuhiXjxI.jpg

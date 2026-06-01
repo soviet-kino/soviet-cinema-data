@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4146561
   imdb: tt1542808
+  tmdb: 531054
 sources:
 - https://www.wikidata.org/wiki/Q4146561
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: belokhvostik-valentin-sergeevich
 studio:
 - belarusfilm
+poster_tmdb_path: /4ypOXEbyLym5pwRQQTO4KSOat0v.jpg

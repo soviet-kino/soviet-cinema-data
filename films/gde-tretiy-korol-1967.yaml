@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4134606
   imdb: tt0061699
+  tmdb: 157037
 sources:
 - https://www.wikidata.org/wiki/Q4134606
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: zbignev-yuzefovich
 studio:
 - studio-kinostudiya
+poster_tmdb_path: /mojipcSslgTpYfWkJDMH1qTvv99.jpg
+backdrop_tmdb_path: /1DTIPd8YxWtL121PjUh6Ce6x0K.jpg

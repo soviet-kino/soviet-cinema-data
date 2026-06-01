@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q20814460
   imdb: tt0172571
+  tmdb: 652097
 sources:
 - https://www.wikidata.org/wiki/Q20814460
 schema_version: 1
@@ -59,3 +60,4 @@ cast:
 - person: mackova-blanka
 - person: mazac-jiri
 - person: mimra-jan
+poster_tmdb_path: /aGEs2NwRRMFVAjEKCIPTd1QMrFN.jpg

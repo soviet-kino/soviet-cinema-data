@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4449946
   imdb: tt0237798
   youtube: 3-RE0z_HD9E
+  tmdb: 355496
 sources:
 - https://www.wikidata.org/wiki/Q4449946
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: penkov-nikolay-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /sGSHSucppBpcep6uUaZATpii2Vi.jpg
+backdrop_tmdb_path: /752fzKbq3PG03FOPayXWdexlFiN.jpg

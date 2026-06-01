@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4086805
   imdb: tt23143190
+  tmdb: 91134
 sources:
 - https://www.wikidata.org/wiki/Q4086805
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - efremov-igor-leonidovich
 studio:
 - ekran
+poster_tmdb_path: /yFO8Ii1i81RZ2IAGwhWMKL0K9lW.jpg

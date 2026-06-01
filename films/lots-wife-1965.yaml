@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q42416786
   imdb: tt0059401
+  tmdb: 292677
 sources:
 - https://www.wikidata.org/wiki/Q42416786
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: piontek-klaus
 - person: greeze-volfgang
 - person: jopp-arthur
+poster_tmdb_path: /6Ol5moH7nVVrgrz3Eltj3x9AwpV.jpg
+backdrop_tmdb_path: /szZTBq5uqykBXPLpgh8nn5f1xuk.jpg

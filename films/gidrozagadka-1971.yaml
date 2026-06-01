@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q54972
   imdb: tt0172577
+  tmdb: 31856
 sources:
 - https://www.wikidata.org/wiki/Q54972
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: lasota-czes-aw
 - person: q111239853
 - person: zo-nierkiewicz-micha
+poster_tmdb_path: /w3HPTmugdZqdkDahImuHzjll6WX.jpg
+backdrop_tmdb_path: /pCQcd7Sfuq1HjQutNE17DqaEWK0.jpg

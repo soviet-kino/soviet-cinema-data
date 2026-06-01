@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q109428684
   imdb: tt0192763
+  tmdb: 810477
 sources:
 - https://www.wikidata.org/wiki/Q109428684
 schema_version: 1
 studio:
 - mosfilm
+poster_tmdb_path: /vXw8tHMaFJq424zsvYNQFTXz74h.jpg

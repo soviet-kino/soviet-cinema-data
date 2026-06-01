@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4460056
   imdb: tt2194701
   youtube: Vdx_GSeW1Cw
+  tmdb: 607321
 sources:
 - https://www.wikidata.org/wiki/Q4460056
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kolesnikov-sergey-valentinovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /qCPf3qnRsPPNDancrNKOprqOHc.jpg
+backdrop_tmdb_path: /vqC334wq5a3go73d6bGSp0p4a1f.jpg

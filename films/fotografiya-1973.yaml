@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1003197
   imdb: tt0068604
+  tmdb: 257807
 sources:
 - https://www.wikidata.org/wiki/Q1003197
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - sebo-ferenc
 cast:
 - person: iglodi-ishtvan
+poster_tmdb_path: /2Cf4H1fSIT7ewIxQxoNcXvHBeRF.jpg
+backdrop_tmdb_path: /8ta3nfuLfwFHhWXPM5GwojhFUw3.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q442853
   imdb: tt0170478
   youtube: cxfCGhUxMIE
+  tmdb: 306436
 sources:
 - https://www.wikidata.org/wiki/Q442853
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 studio:
 - mosfilm
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /cBTyfjOmm1v4wSFELPokF1ghh2j.jpg
+backdrop_tmdb_path: /yeMrcZ7oCAWQJ4pCyRtJouxbkIT.jpg

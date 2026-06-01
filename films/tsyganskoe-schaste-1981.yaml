@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q52560556
   imdb: tt0083235
   youtube: 7Xf37PYrV6Y
+  tmdb: 434730
 sources:
 - https://www.wikidata.org/wiki/Q52560556
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - martynov-vladimir-ivanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vX78sHzNJ3N0vl9aMGZdLhjhAW6.jpg

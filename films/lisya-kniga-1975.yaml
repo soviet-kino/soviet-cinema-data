@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21157425
   imdb: tt3274768
+  tmdb: 910831
 sources:
 - https://www.wikidata.org/wiki/Q21157425
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - azaryan-david
 studio:
 - armenfilm
+poster_tmdb_path: /45eDznDgjVgUIdd8GtMzv95dN9m.jpg

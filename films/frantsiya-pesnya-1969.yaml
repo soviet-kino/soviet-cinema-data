@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q121757379
   imdb: tt14471728
+  tmdb: 1652015
 sources:
 - https://www.wikidata.org/wiki/Q121757379
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - aldokhin-yuriy-nikolaevich
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /8LmkvA9WN9m1U3RecWFFy0UU4aA.jpg

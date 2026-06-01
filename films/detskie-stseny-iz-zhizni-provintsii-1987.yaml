@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q9334186
   imdb: tt0091900
+  tmdb: 374643
 sources:
 - https://www.wikidata.org/wiki/Q9334186
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shuman-robert
 cast:
 - person: syatkovskiy-dariush
+poster_tmdb_path: /nJYKnfKVx07nPa8G0jFkZOdCtyj.jpg

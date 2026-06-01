@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q56840165
   imdb: tt0427438
+  tmdb: 385767
 sources:
 - https://www.wikidata.org/wiki/Q56840165
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - illin-evzhen
 studio:
 - kinostudiya-gotvaldova
+poster_tmdb_path: /zMnHceWBpxZk9uBC9f1B5I4lLZ6.jpg
+backdrop_tmdb_path: /6HjmzEfM0jy7AsV05Aj1LuO0444.jpg

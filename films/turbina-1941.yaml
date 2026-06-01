@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3313956
   imdb: tt0166385
   youtube: D-YlUtMHD7o
+  tmdb: 611567
 sources:
 - https://www.wikidata.org/wiki/Q3313956
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 studio:
 - ente-nazionale-industrie-cinematografiche
 poster_commons: Höger Matulová Turbina 032.jpg
+backdrop_tmdb_path: /mAZkizVhA3JszMxdxmLsZZcJzQ2.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4279279
   imdb: tt0756316
   youtube: Xu5wor59YHc
+  tmdb: 77304
 sources:
 - https://www.wikidata.org/wiki/Q4279279
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Stamp of Russia 2012 No 1654 Lillebror and Karlsson.jpg
+poster_tmdb_path: /H4WHAm4yHcTUMvPgupZ5OcV4nc.jpg
+backdrop_tmdb_path: /5a48Bwi05yziOLhKNRiGUlmnw0g.jpg

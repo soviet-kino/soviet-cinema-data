@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4328834
   imdb: tt4675836
+  tmdb: 535668
 sources:
 - https://www.wikidata.org/wiki/Q4328834
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: slavina-zinaida-anatolevna
 studio:
 - mosfilm
+poster_tmdb_path: /3jg7qKnB8AuUVxAHNayJsSrZcBD.jpg

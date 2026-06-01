@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21148909
   imdb: tt2221747
+  tmdb: 1103996
 sources:
 - https://www.wikidata.org/wiki/Q21148909
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /e22BiMcvsmq7ndbaiuaZtlJZ9h9.jpg

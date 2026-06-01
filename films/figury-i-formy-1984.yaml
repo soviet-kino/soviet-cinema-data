@@ -8,6 +8,7 @@ runtime_min: 3
 external_ids:
   wikidata: Q59360408
   imdb: tt0370567
+  tmdb: 1323663
 sources:
 - https://www.wikidata.org/wiki/Q59360408
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - shomov-vladimir
 screenwriter:
 - angelov-boris
+poster_tmdb_path: /1U7Q1OeFc70zgFRVq2B5SeFcR3F.jpg

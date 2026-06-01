@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q65407744
   imdb: tt8259410
+  tmdb: 1084460
 sources:
 - https://www.wikidata.org/wiki/Q65407744
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 studio:
 - barrandov
 - mongolkino
+poster_tmdb_path: /33ODORDxW2ZqmfFcX1VeemR4TKg.jpg
+backdrop_tmdb_path: /n8yGGstEhx14B9FrWbqOuiP6kjB.jpg

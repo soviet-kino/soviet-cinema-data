@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q23781387
   imdb: tt0061146
+  tmdb: 204176
 sources:
 - https://www.wikidata.org/wiki/Q23781387
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: apor-noemi
 studio:
 - mafilm
+poster_tmdb_path: /yFbTil7gSUfueTbv3rjq9Hhigge.jpg
+backdrop_tmdb_path: /4hKdpMITfsz1iwVtAsiYQESaRDE.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4191124
   imdb: tt0267140
   youtube: frHNw6iYxHE
+  tmdb: 1439908
 sources:
 - https://www.wikidata.org/wiki/Q4191124
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: popova-elena-kimovna
 studio:
 - ekran
+poster_tmdb_path: /wmEnP93vFqWmBdQYBDP6FvwDVco.jpg
+backdrop_tmdb_path: /i4y24TTjoxC1SHCLC8n7pyuylxk.jpg

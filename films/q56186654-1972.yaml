@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q56186654
   imdb: tt10309230
+  tmdb: 601474
 sources:
 - https://www.wikidata.org/wiki/Q56186654
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kon-vossen-richard
 cinematographer:
 - lehmann-christian
+poster_tmdb_path: /85iYCl9xdwyWKKrpBIoBgcekm3u.jpg
+backdrop_tmdb_path: /fYqnutJQ5KXjjAiNECZf4rFFO80.jpg

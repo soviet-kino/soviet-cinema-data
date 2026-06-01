@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4331533
   imdb: tt0066175
   youtube: tLTGO4n4kco
+  tmdb: 49582
 sources:
 - https://www.wikidata.org/wiki/Q4331533
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: grinko-nikolai
 studio:
 - mosfilm
+poster_tmdb_path: /j0yhdAGSjBXCgShrJn9Rs8jnicM.jpg

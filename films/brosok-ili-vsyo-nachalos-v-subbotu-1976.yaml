@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q23900072
   imdb: tt5375068
+  tmdb: 706347
 sources:
 - https://www.wikidata.org/wiki/Q23900072
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: zhaysanbaev-esbolgan-botabaevich
 - person: zhaylibekov-tanat
 - person: shetenova-galina
+poster_tmdb_path: /stm7zGhu7rwEhMV0YtLpxh6f57M.jpg
+backdrop_tmdb_path: /nqPBSt2pCGEq79uGGfx1arYqFGr.jpg

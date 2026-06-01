@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4179509
   imdb: tt0062523
   youtube: zrAqnOkvAgk
+  tmdb: 89675
 sources:
 - https://www.wikidata.org/wiki/Q4179509
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kokshenov-mikhail
 - person: marton-nikolay-sergeevich
 - person: figlovskaya-galina-viktorovna
+poster_tmdb_path: /aJpofFPvw7fxp6axijwyUANCBbo.jpg
+backdrop_tmdb_path: /bcpkOgWVB8w179eMKxhvMRhJcHR.jpg

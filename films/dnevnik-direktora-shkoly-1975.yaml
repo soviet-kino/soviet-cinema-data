@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163082
   imdb: tt0072885
   youtube: XrGxdENdy1c
+  tmdb: 146414
 sources:
 - https://www.wikidata.org/wiki/Q4163082
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gurchenko-lyudmila
 - person: savvina-iya-sergeevna
 - person: borisov-oleg-ivanovich
+poster_tmdb_path: /isX9QZugUV0Nas9gujgKLJbXL75.jpg
+backdrop_tmdb_path: /k8CfZOrmDAY1CPRA2rC5tYl9iMK.jpg

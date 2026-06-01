@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q11816590
   imdb: tt0175037
+  tmdb: 360422
 sources:
 - https://www.wikidata.org/wiki/Q11816590
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - stachlewski-jacek
 cast:
 - person: dygat-stanislav
+poster_tmdb_path: /dWK1gIVC53RBmOxJjyKz2lTzyHl.jpg

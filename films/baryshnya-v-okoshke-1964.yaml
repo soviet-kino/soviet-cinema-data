@@ -8,6 +8,7 @@ runtime_min: 155
 external_ids:
   wikidata: Q4078890
   imdb: tt0058447
+  tmdb: 542731
 sources:
 - https://www.wikidata.org/wiki/Q4078890
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: olczyk-stanis-aw
 studio:
 - start-kinostudiya
+poster_tmdb_path: /ApERLEq9IdF0JK5WRHrgyNO53H5.jpg
+backdrop_tmdb_path: /wqIWvgP4csRomjfqthKJqCbAMid.jpg

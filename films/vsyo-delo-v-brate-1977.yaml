@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127754
   imdb: tt0337441
   youtube: gkzQyqfaQcg
+  tmdb: 402191
 sources:
 - https://www.wikidata.org/wiki/Q4127754
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - chekin-svyatoslav-igorevich
 cast:
 - person: madyanov-roman-sergeevich
+poster_tmdb_path: /mtqQukYD7MBj3FpRK0J4X2Gqm5w.jpg

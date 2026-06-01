@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9313040
   imdb: tt0066309
+  tmdb: 920186
 sources:
 - https://www.wikidata.org/wiki/Q9313040
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: lesnevskaya-malgozhata
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /477eGlrreqeBzeTPF6E6oMOtmr4.jpg

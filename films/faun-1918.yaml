@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5438184
   imdb: tt0007933
+  tmdb: 796685
 sources:
 - https://www.wikidata.org/wiki/Q5438184
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: hajdu-jozsef
 studio:
 - corvin-film-studio
+poster_tmdb_path: /q3V9bCSTTxIgaP3jYMxE0hKa79o.jpg

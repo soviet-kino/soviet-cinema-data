@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11159510
   imdb: tt0183680
+  tmdb: 477438
 sources:
 - https://www.wikidata.org/wiki/Q11159510
 schema_version: 1
 composer:
 - adamich-boyan
+poster_tmdb_path: /lof2AGpAH3g29kuhAycB7eck77B.jpg
+backdrop_tmdb_path: /98gOzn1zwlvjFPwAj73sa1WyR46.jpg

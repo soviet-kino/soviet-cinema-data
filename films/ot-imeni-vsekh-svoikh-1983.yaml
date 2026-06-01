@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q2870419
   imdb: tt0085190
+  tmdb: 74400
 sources:
 - https://www.wikidata.org/wiki/Q2870419
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: york-maykl
 - person: peno-zhak
 - person: buiz-zhan
+poster_tmdb_path: /oTZBWejO6HWrABAxTh8CYbWf3iW.jpg
+backdrop_tmdb_path: /7pRqxlVO15FlfIgDaP8pidn18gr.jpg

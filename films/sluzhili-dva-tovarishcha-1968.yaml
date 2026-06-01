@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424041
   imdb: tt0063615
   youtube: e7P3QbcI91U
+  tmdb: 49580
 sources:
 - https://www.wikidata.org/wiki/Q4424041
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: sperantova-valentina-aleksandrovna
 studio:
 - mosfilm
+poster_tmdb_path: /cmLEVBzEcRxxxAaboSa2x985MEF.jpg
+backdrop_tmdb_path: /3n3hBvNJgj5agNxYpbkdb4mToGc.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4776016
   imdb: tt0168465
+  tmdb: 253062
 sources:
 - https://www.wikidata.org/wiki/Q4776016
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: volny-antonin
 - person: riha-frantisek
 poster_commons: Anton Špelec ostrostřelec (Vlasta Burian, Růžena Šlemrová).jpg
+poster_tmdb_path: /k2Xb9TaKTejZuf9YvyPSUtMSyyE.jpg
+backdrop_tmdb_path: /o7dTicm5pEKTxFbrHBk612QZ7ZY.jpg

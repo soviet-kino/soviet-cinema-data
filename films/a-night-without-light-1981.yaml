@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3304295
   imdb: tt0295483
+  tmdb: 480859
 sources:
 - https://www.wikidata.org/wiki/Q3304295
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - erebara-gezim
 composer:
 - zaharian-hajg
+poster_tmdb_path: /5zpUkoDPfTr1l7YkQvwHGX24kp9.jpg
+backdrop_tmdb_path: /cRl8UDjHEZAV6bK2xpvXh0C7WBq.jpg

@@ -8,6 +8,7 @@ runtime_min: 53
 external_ids:
   wikidata: Q1217062
   imdb: tt0938810
+  tmdb: 462304
 sources:
 - https://www.wikidata.org/wiki/Q1217062
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: abart-boleslav
 - person: grzybowski-maciej
 - person: janowski-mieczys-aw
+poster_tmdb_path: /dzIKTfSz1hSEDZgkwezTGRXygbf.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4475507
   imdb: tt5214544
   youtube: 87_hZXB2Zhs
+  tmdb: 145808
 sources:
 - https://www.wikidata.org/wiki/Q4475507
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - krylatov-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7yeIrSOYpjPu3kgeBxBkrodPvwQ.jpg
+backdrop_tmdb_path: /xx2xA7vfaCHsTFhCHo44CP3In7z.jpg

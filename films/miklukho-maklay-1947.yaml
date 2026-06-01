@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4293071
   imdb: tt0040972
   youtube: ROmmeVdnCMc
+  tmdb: 430267
 sources:
 - https://www.wikidata.org/wiki/Q4293071
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: grigoreva-galina-konstantinovna
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /umPA5daIaqHP7oCVjCV6btfAPGn.jpg
+backdrop_tmdb_path: /ykyTaGjUZMu4aiDrvHe8p6NYfRJ.jpg

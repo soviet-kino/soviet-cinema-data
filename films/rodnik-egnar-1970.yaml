@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q16388304
   imdb: tt0414090
+  tmdb: 782915
 sources:
 - https://www.wikidata.org/wiki/Q16388304
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: novents-galya
 - person: arutyunyan-gegam
 - person: azizyan-yakov
+poster_tmdb_path: /W0b94YRoMFIlrpsuEewqdZrgE7.jpg
+backdrop_tmdb_path: /jwfQPdprQOlUkI6Oomky3rx6ZVv.jpg

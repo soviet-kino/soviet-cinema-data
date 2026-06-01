@@ -7,9 +7,12 @@ country:
 external_ids:
   wikidata: Q65200624
   imdb: tt0312343
+  tmdb: 530445
 sources:
 - https://www.wikidata.org/wiki/Q65200624
 schema_version: 1
 director:
 - chebotaryov-vladimir-aleksandrovich
 - bondaryov-oleg-aleksandrovich
+poster_tmdb_path: /yNY1zXbWcWBfmNSxPzL6aghh0Dy.jpg
+backdrop_tmdb_path: /af1hwsfTJuLOY8jYLkxrcUehygV.jpg

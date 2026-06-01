@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4180301
   imdb: tt0275098
+  tmdb: 262874
 sources:
 - https://www.wikidata.org/wiki/Q4180301
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: abdulov-vsevolod-osipovich
 - person: nosik-vladimir
 - person: polyak-mikhail-naumovich
+poster_tmdb_path: /sE86AIKd7jVoI12JhOBF3eNfIFp.jpg
+backdrop_tmdb_path: /f2yUezsV6ny5Pb2g1dxBtawl6Zg.jpg

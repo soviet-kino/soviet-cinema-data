@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130382340
   imdb: tt5372566
+  tmdb: 1603291
 sources:
 - https://www.wikidata.org/wiki/Q130382340
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: stepankov-konstantin-petrovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /iQkzdEdhel4j4b17Nzkw0VUpGgt.jpg
+backdrop_tmdb_path: /afTU7Uu9fMp7V40EhwdfUyOFMmQ.jpg

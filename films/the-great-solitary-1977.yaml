@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12734865
   imdb: tt0074866
+  tmdb: 542102
 sources:
 - https://www.wikidata.org/wiki/Q12734865
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: georgiu-petre
 - person: iekel-tatyana
 - person: skerletesku-florin
+poster_tmdb_path: /v6LK1RR4xMAyZqgmAFSNRfTbUXw.jpg

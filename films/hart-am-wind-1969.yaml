@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q5674274
   imdb: tt0231698
+  tmdb: 275047
 sources:
 - https://www.wikidata.org/wiki/Q5674274
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - anders-ervin
 composer:
 - nachinskiy-gerd
+poster_tmdb_path: /hYm5RmQqODwpfbnX9sAH4dqRC2W.jpg

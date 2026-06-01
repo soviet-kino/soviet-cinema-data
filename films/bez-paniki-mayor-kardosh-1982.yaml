@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q870309
   imdb: tt0083774
+  tmdb: 79241
 sources:
 - https://www.wikidata.org/wiki/Q870309
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kern-andrash
 studio:
 - lenfilm
+poster_tmdb_path: /k3DH3TwNzCMwvcMijaJIQUxfjsw.jpg
+backdrop_tmdb_path: /dCyxyBhrmO4Sf7aioHBF0OVrH7t.jpg

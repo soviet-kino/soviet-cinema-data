@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4230383
   imdb: tt0173964
+  tmdb: 284775
 sources:
 - https://www.wikidata.org/wiki/Q4230383
 schema_version: 1
@@ -29,3 +30,4 @@ studio:
 - mosfilm
 - lenfilm
 poster_commons: Плакат к фильму «Конвейер смерти».jpg
+poster_tmdb_path: /e33qcZnfGlL0WwWPy2aomLEonGF.jpg

@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q3701086
   imdb: tt0063832
+  tmdb: 166669
 sources:
 - https://www.wikidata.org/wiki/Q3701086
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - niedbalski-stanis-aw
 studio:
 - warsaw-documentary-film-studio
+poster_tmdb_path: /jsam2od31vB28NkHEfco54WYcoM.jpg

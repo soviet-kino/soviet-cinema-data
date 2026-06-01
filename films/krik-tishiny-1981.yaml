@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21640721
   imdb: tt0237388
   youtube: XE0GIwrLLhM
+  tmdb: 131206
 sources:
 - https://www.wikidata.org/wiki/Q21640721
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vampilov-buda-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /oGEAKM7RZGRNCa8mQlQg52iuOjL.jpg
+backdrop_tmdb_path: /px5ng5aSFb9tlCiRdtqiNYQApML.jpg

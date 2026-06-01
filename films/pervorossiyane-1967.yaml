@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20091222
   imdb: tt0347768
+  tmdb: 260593
 sources:
 - https://www.wikidata.org/wiki/Q20091222
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: chestnokov-vladimir-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /ulaaWyq8rYQugvygpT8AQ8Xvq7X.jpg
+backdrop_tmdb_path: /hLgmS3KhnujrPQQiNFq6TYuiRcR.jpg

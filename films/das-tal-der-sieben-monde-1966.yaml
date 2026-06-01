@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5226464
   imdb: tt0173307
+  tmdb: 441050
 sources:
 - https://www.wikidata.org/wiki/Q5226464
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - anders-ervin
 composer:
 - volgemut-gerkhard
+poster_tmdb_path: /2yHhBnKEF511tVQ9lc88onxxcWu.jpg

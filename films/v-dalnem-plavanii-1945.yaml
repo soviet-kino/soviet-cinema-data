@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4101682
   imdb: tt0306181
   youtube: RuBhwsG--lc
+  tmdb: 624617
 sources:
 - https://www.wikidata.org/wiki/Q4101682
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: buchma-amvrosiy-maksimilianovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9uvL9klmI4CvXHyRDGBmtiCCkQn.jpg
+backdrop_tmdb_path: /9wyqfpSg8a6GgUuXBKHh0DuJhBV.jpg

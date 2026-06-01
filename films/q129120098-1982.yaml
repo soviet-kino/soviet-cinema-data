@@ -8,8 +8,10 @@ runtime_min: 90
 external_ids:
   wikidata: Q129120098
   imdb: tt0125004
+  tmdb: 501162
 sources:
 - https://www.wikidata.org/wiki/Q129120098
 schema_version: 1
 screenwriter:
 - benzien-rudi
+poster_tmdb_path: /rmBBk9a0CKdnU8fTNjqQ3QR234l.jpg

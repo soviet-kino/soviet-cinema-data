@@ -8,6 +8,7 @@ runtime_min: 49
 external_ids:
   wikidata: Q29075573
   imdb: tt0019026
+  tmdb: 266729
 sources:
 - https://www.wikidata.org/wiki/Q29075573
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 studio:
 - sovkino
 poster_commons: The House in the Snow-Drifts, 1928, 1.jpg
+backdrop_tmdb_path: /gi4pmXO6Fi1LFndY4tsnYh4O3N9.jpg

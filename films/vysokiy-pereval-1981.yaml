@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4129321
   imdb: tt2912984
+  tmdb: 238112
 sources:
 - https://www.wikidata.org/wiki/Q4129321
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: naum-natalya-mikhaylovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bEEn2rjAartwAlHSMLnpgBDU6Ld.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4208899
   imdb: tt0230394
+  tmdb: 626951
 sources:
 - https://www.wikidata.org/wiki/Q4208899
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: tsyplakova-elena-oktyabrevna
 studio:
 - uzbekfilm
+poster_tmdb_path: /k5NSasxSKvK5R2NYluYvNjJrA7N.jpg

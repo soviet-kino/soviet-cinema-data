@@ -20,6 +20,8 @@ composer:
 external_ids:
   wikidata: Q79029553
   imdb: tt0230821
+  tmdb: 494440
 sources:
 - https://www.wikidata.org/wiki/Q79029553
 schema_version: 1
+poster_tmdb_path: /b6aduzlowFR1t4FLgJz8Ri2BuZy.jpg

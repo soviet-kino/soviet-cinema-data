@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4182254
   imdb: tt0170826
   youtube: Qf_zucaLZTI
+  tmdb: 484106
 sources:
 - https://www.wikidata.org/wiki/Q4182254
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: igor-yasulovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6vbksAQypIyExGBxJo7JHPZfSHO.jpg
+backdrop_tmdb_path: /5C2NO79gy5EjfmuqFuAK7teGAP.jpg

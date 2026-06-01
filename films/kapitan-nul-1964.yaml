@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q4212951
   imdb: tt0351163
+  tmdb: 239625
 sources:
 - https://www.wikidata.org/wiki/Q4212951
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: sebris-karlis
 - person: ziedone-kantane-ausma
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /w4NvopZsY3MsJkxLPzDpxBtsuE5.jpg
+backdrop_tmdb_path: /qwd2B38HB3m0NbtzvDosdJTF331.jpg

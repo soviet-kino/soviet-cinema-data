@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15271072
   imdb: tt0047619
+  tmdb: 553177
 sources:
 - https://www.wikidata.org/wiki/Q15271072
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: miletskiy-mechislav
 - person: kassowski-bronis-aw
 - person: solarski-eugeniusz-marian
+poster_tmdb_path: /hXRJ7U2i1LDYTCi8ZNawTHZBhVp.jpg

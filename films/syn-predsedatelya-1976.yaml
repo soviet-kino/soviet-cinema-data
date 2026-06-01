@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994170
   imdb: tt0075298
   youtube: IN6y9o_fyg8
+  tmdb: 1459279
 sources:
 - https://www.wikidata.org/wiki/Q84994170
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: samoylov-aleksandr-vladimirovich
 studio:
 - belarusfilm
+poster_tmdb_path: /dUGPA6naYEn2BXOHspLlimr6rdY.jpg
+backdrop_tmdb_path: /eBBL5Q0X9WjYuvFZlBzkpKIDPXS.jpg

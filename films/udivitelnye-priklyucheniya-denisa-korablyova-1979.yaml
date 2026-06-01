@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4469391
   imdb: tt1508359
   youtube: A8cVrV_OZ0k
+  tmdb: 221264
 sources:
 - https://www.wikidata.org/wiki/Q4469391
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: nosik-vladimir
 - person: sanko-yola-ivanovna
+poster_tmdb_path: /MfmpDoQekq2CKyu9tv1ZDWUlhB.jpg
+backdrop_tmdb_path: /3pUyqJbet9693KaBt6uBH5hyqay.jpg

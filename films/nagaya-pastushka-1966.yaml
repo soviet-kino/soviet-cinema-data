@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12040340
   imdb: tt0183561
+  tmdb: 432384
 sources:
 - https://www.wikidata.org/wiki/Q12040340
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: klumparova-katerina
 studio:
 - barrandov
+poster_tmdb_path: /slVmMSx47e6UdB3vkZ3XcTPPazy.jpg
+backdrop_tmdb_path: /tGv3L3PrdZLa3ADMA7bEmOCFJ64.jpg

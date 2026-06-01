@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q11877036
   imdb: tt0169341
   youtube: 0KSEpmdvZqI
+  tmdb: 270807
 sources:
 - https://www.wikidata.org/wiki/Q11877036
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: cechova-blazena
 - person: rozmarova-vlasa
 poster_commons: U snědeného krámu poster CS.jpg
+poster_tmdb_path: /TdyFndg6fI31UuFQ15vwSWiFc8.jpg
+backdrop_tmdb_path: /3v7W2w5SxqREJTZAzGKzI9ooxXR.jpg

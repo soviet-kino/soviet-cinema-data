@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q3507407
   imdb: tt0193044
+  tmdb: 284217
 sources:
 - https://www.wikidata.org/wiki/Q3507407
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - klobuchar-andzhelko
 cast:
 - person: nalis-antun
+poster_tmdb_path: /4zFOFxUQDZzRsQ7zUgtNdkSxK7S.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4761541
   imdb: tt0149669
+  tmdb: 36985
 sources:
 - https://www.wikidata.org/wiki/Q4761541
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: brauner-o
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
+poster_tmdb_path: /4UYvvO8BtZN1gSaJbrvpZkHZea2.jpg
+backdrop_tmdb_path: /oQbNKFrXIHvNEnVR2XboFWnQStZ.jpg

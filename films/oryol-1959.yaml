@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q1265529
   imdb: tt0053148
+  tmdb: 154416
 sources:
 - https://www.wikidata.org/wiki/Q1265529
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: waskowski-mieczys-aw
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /jZ4k0CPLjYwjVre5DJlwHzHLwuf.jpg
+backdrop_tmdb_path: /36yr47kAkpUdGu08n1gG57yH33f.jpg

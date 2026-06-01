@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q832184
   imdb: tt0050187
+  tmdb: 199193
 sources:
 - https://www.wikidata.org/wiki/Q832184
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: ulrikh-rudolf
 studio:
 - defa
+poster_tmdb_path: /jbua0ks4tSGcLBoA2joXgPHhgXg.jpg
+backdrop_tmdb_path: /3PdQrF6CoGlnVzLFF7l3Bz9YIz0.jpg

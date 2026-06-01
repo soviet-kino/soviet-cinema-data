@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3840681
   imdb: tt0271467
   youtube: MDlJs1Dtgys
+  tmdb: 146416
 sources:
 - https://www.wikidata.org/wiki/Q3840681
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: polbentseva-marina
 - person: tarasova-alla-konstantinovna
 - person: shtil-georgiy
+poster_tmdb_path: /kbSipumgAVgnUMD5AMHpQ6uEwIn.jpg
+backdrop_tmdb_path: /bCMgZdUd7HVxH7NPrecVFB631IM.jpg

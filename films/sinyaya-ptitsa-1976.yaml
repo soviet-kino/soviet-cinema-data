@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1198394
   imdb: tt0074225
+  tmdb: 100922
 sources:
 - https://www.wikidata.org/wiki/Q1198394
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 studio:
 - lenfilm
 - 20th-century-studios
+poster_tmdb_path: /5HDKFbFyOzXogMvYlI4fw5U19Es.jpg
+backdrop_tmdb_path: /qi0bu2QWCPl62nAtLlicfcJiCLk.jpg

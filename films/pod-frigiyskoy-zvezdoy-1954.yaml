@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q11820173
   imdb: tt0047357
+  tmdb: 274649
 sources:
 - https://www.wikidata.org/wiki/Q11820173
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: malawski-zygmunt
 - person: strakhotskiy-yanush
 - person: macheevskiy-machey
+poster_tmdb_path: /caSF8GBXJFRqEbZSxhp0RO5Nv4K.jpg
+backdrop_tmdb_path: /xmqgwzqLkwirGEJrIv8VaM9zRRL.jpg

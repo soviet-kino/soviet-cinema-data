@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q11813888
   imdb: tt0177099
+  tmdb: 264383
 sources:
 - https://www.wikidata.org/wiki/Q11813888
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - yakhoda-mechislav
 composer:
 - kozhinskiy-andzhey
+poster_tmdb_path: /7rlVxEFEWmfb5n9gwrGwCgLl2px.jpg
+backdrop_tmdb_path: /rBIEG6gKQlTtezNHHAAzHxiXXqD.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q15270708
   imdb: tt0037015
+  tmdb: 336781
 sources:
 - https://www.wikidata.org/wiki/Q15270708
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - tadzhikfilm
 - soyuzdetfilm
+poster_tmdb_path: /58FboxFm0KKEz3fmJd4rHwcpTIq.jpg
+backdrop_tmdb_path: /xWGgt7D2A3fYSSMW9f42sT9dUGk.jpg

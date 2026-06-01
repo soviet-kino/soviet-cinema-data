@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208812
   imdb: tt0034932
+  tmdb: 619377
 sources:
 - https://www.wikidata.org/wiki/Q4208812
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - shvarts-lev-oleksandrovich
 cast:
 - person: sagal-daniil-lvovich
+poster_tmdb_path: /ygVYzt4YSAXm7VYGW0I5lFniaZ3.jpg
+backdrop_tmdb_path: /lz03JQYVcaT3LIFk3ZV3bhAFBc3.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4845410
   imdb: tt0048375
+  tmdb: 381252
 sources:
 - https://www.wikidata.org/wiki/Q4845410
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: bashich-relya
 - person: gabrijelcic-metka
+poster_tmdb_path: /pNliQMxkwMvoIKVdOhR6DUnicJj.jpg

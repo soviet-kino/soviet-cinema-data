@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4114769
   imdb: tt9516312
+  tmdb: 1408436
 sources:
 - https://www.wikidata.org/wiki/Q4114769
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: khamraev-razzak-khamroboevich
 - person: shakirova-tamara-khalimovna
 - person: melikdzhanyan-ashot
+poster_tmdb_path: /dK6a97sV0py6dUST8n5w1hnFGTT.jpg
+backdrop_tmdb_path: /mljMmg3FyjNpcWvjezwzU0Hew7m.jpg

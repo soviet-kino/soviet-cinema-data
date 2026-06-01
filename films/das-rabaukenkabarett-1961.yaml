@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56849103
   imdb: tt0234557
+  tmdb: 441019
 sources:
 - https://www.wikidata.org/wiki/Q56849103
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: schulz-wittan-werner
 studio:
 - defa
+poster_tmdb_path: /zn4VcOhyGtwb9wAwcjZu2lppCyz.jpg

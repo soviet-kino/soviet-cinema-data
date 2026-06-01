@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q7077199
   imdb: tt0240773
+  tmdb: 295905
 sources:
 - https://www.wikidata.org/wiki/Q7077199
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: jiresova-alena
 - person: cervena-martina
 - person: kopriva-david
+poster_tmdb_path: /jdIRgVVv2jFBCUdGqTFGumLqDTj.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9284298
   imdb: tt0085598
+  tmdb: 899469
 sources:
 - https://www.wikidata.org/wiki/Q9284298
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - zdort-wies-aw
 composer:
 - khertel-petr
+poster_tmdb_path: /iBrOiiP9hpC4V5I6l1eyOE3n6pJ.jpg

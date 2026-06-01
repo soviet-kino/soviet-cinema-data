@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106755453
   imdb: tt11264450
   youtube: 9j1-CbsgDqI
+  tmdb: 888749
 sources:
 - https://www.wikidata.org/wiki/Q106755453
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - melikov-arif
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /oGGWKUxSr7hvHGJZ11AYoKLCWzb.jpg

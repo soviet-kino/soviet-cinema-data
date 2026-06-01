@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4080571
   imdb: tt0061393
   youtube: b94Jwe0Y7B4
+  tmdb: 142730
 sources:
 - https://www.wikidata.org/wiki/Q4080571
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: stratev-evstati
 - person: popiliev-vasil
 - person: matev-yordan
+poster_tmdb_path: /vMaVp3cQuhD0j6PhfahD3xv6HjO.jpg
+backdrop_tmdb_path: /yISck6RolqGc5sI1DCu6UGsuAC7.jpg

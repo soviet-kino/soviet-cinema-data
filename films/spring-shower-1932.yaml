@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q1317335
   imdb: tt0023190
+  tmdb: 133663
 sources:
 - https://www.wikidata.org/wiki/Q1317335
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: pekhes-sandor
 - person: gerey-stiven
 - person: dajbukat-ilona
+poster_tmdb_path: /nKcX154lIRNoihhLOi9L2X1JKuY.jpg
+backdrop_tmdb_path: /riYfsStiXYNv3C5vAI2uaLSMKv.jpg

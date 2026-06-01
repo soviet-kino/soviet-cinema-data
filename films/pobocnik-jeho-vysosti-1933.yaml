@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q7206224
   imdb: tt0169131
+  tmdb: 269333
 sources:
 - https://www.wikidata.org/wiki/Q7206224
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: truchly-vasil
 - person: cechova-blazena
 - person: roja-josef
+poster_tmdb_path: /mEHtRBuKg2A6P1OGeHLmNIIxQeC.jpg

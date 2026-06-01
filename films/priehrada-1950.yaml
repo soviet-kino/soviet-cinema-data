@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4766950
   imdb: tt0250669
+  tmdb: 712516
 sources:
 - https://www.wikidata.org/wiki/Q4766950
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: tihelka-antos
 - person: lucna-e
 - person: hurban-j
+poster_tmdb_path: /b8u4S3UnvDQNuS8TPu9n65M5Qlc.jpg

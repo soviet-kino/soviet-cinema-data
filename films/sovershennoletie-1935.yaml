@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56308437
   imdb: tt0024603
   youtube: P2TbaZ2OaGY
+  tmdb: 803967
 sources:
 - https://www.wikidata.org/wiki/Q56308437
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - shreyber-boris-iosifovich
 studio:
 - belarusfilm
+poster_tmdb_path: /3z0OdUGg1n2nfqvPHaCw9cCi5Q8.jpg
+backdrop_tmdb_path: /pmlPPX83bbeCGXdvdjfh28aK4gI.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q15709917
   imdb: tt0322046
+  tmdb: 1505384
 sources:
 - https://www.wikidata.org/wiki/Q15709917
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: lapeto-georgiy-dmitrievich
 - person: fusu-dumitru
 - person: kupcha-valeriu-pimenovich
+poster_tmdb_path: /43cv3x3DdY47BzPC9GRCfFODkB3.jpg
+backdrop_tmdb_path: /6Mhet3rYiQkrN7aYy9saWwZG0CT.jpg

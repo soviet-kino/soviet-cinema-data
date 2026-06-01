@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q122732251
   imdb: tt0055224
+  tmdb: 348043
 sources:
 - https://www.wikidata.org/wiki/Q122732251
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - keleti-marton
 screenwriter:
 - mariashshi-yudit
+poster_tmdb_path: /fmMToRwHcT2D5oqcKgjkPSGAphn.jpg

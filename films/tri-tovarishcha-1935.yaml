@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462907
   imdb: tt0129455
   youtube: FeS6yLFNw7U
+  tmdb: 143191
 sources:
 - https://www.wikidata.org/wiki/Q4462907
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: goryunov-anatoliy-iosifovich
 studio:
 - lenfilm
+poster_tmdb_path: /eUNTE1aIvEAZKrdiz862ckVZdpz.jpg

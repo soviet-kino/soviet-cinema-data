@@ -8,6 +8,7 @@ runtime_min: 4
 external_ids:
   wikidata: Q4220957
   imdb: tt1242750
+  tmdb: 197206
 sources:
 - https://www.wikidata.org/wiki/Q4220957
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Kinotsirk 1942.jpg
+backdrop_tmdb_path: /3GmZF6xRrxPytOaZxCXrJhOig9F.jpg

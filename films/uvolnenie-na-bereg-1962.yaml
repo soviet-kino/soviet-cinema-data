@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4468861
   imdb: tt0314826
   youtube: vm6tIhIat0g
+  tmdb: 440903
 sources:
 - https://www.wikidata.org/wiki/Q4468861
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: yudenich-gennadiy-ivanovich
 - person: bakhar-aleksey
 - person: konovalova-svetlana-sergeevna
+poster_tmdb_path: /9Wk6TIDKwOzvr3h8eNZ6vIw4Ubd.jpg
+backdrop_tmdb_path: /zYnv4Sjy7e9MF1AhvTauhvkF2RX.jpg

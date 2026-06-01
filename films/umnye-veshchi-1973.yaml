@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514688
   imdb: tt4818936
+  tmdb: 306737
 sources:
 - https://www.wikidata.org/wiki/Q16514688
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: vesnik-evgeniy-yakovlevich
 - person: bogunova-nataliya-vasilevna
 - person: parshin-sergey-ivanovich
+poster_tmdb_path: /c53jxx0vE1bSBzy6PGv9o9zHW7C.jpg
+backdrop_tmdb_path: /mui9uoUHVkIciBCVQzlCDoVV9Ee.jpg

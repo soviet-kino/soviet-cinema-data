@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761234
   imdb: tt0073563
+  tmdb: 489097
 sources:
 - https://www.wikidata.org/wiki/Q16761234
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: kralj-elvira
 - person: grbac-majda
 - person: kacjan-olga
+poster_tmdb_path: /2z0lTl1efNf9ohFjzlR0bNfBKyK.jpg
+backdrop_tmdb_path: /3ZYcSo7ou0MNODWNjWHH1qTpzhX.jpg

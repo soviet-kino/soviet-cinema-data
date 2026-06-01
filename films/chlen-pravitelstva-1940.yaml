@@ -24,6 +24,9 @@ external_ids:
   wikidata: Q4516921
   imdb: tt0032337
   youtube: KtF8qBL3-5M
+  tmdb: 414133
 sources:
 - https://www.wikidata.org/wiki/Q4516921
 schema_version: 1
+poster_tmdb_path: /2oYskH93inOLJ6jTO0KQBzPgXtd.jpg
+backdrop_tmdb_path: /mhS2w0jlpstWsy8of8vKRQZBdK.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q124328063
   imdb: tt0171454
+  tmdb: 832127
 sources:
 - https://www.wikidata.org/wiki/Q124328063
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - vildanov-rumil-dzhiangirovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /rL17JFnqsH8rcwWcuMJ7qDKmIAU.jpg

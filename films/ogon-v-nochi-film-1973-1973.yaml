@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q84994140
   imdb: tt0445773
+  tmdb: 638295
 sources:
 - https://www.wikidata.org/wiki/Q84994140
 schema_version: 1
 director:
 - khimbek-valdur
+poster_tmdb_path: /aPid9PHRS2PnL6aiREQY23rJNQ2.jpg
+backdrop_tmdb_path: /jiLZRid2TydWltSlvhhwFof45Xk.jpg

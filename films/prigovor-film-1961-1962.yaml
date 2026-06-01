@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9380083
   imdb: tt0056705
+  tmdb: 303034
 sources:
 - https://www.wikidata.org/wiki/Q9380083
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - komeda-kshishtof
 cast:
 - person: glinskiy-venchislav
+poster_tmdb_path: /cAbKxBleD50LgFXmxgK8EDi5vBd.jpg

@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q9390696
   imdb: tt0924318
+  tmdb: 420523
 sources:
 - https://www.wikidata.org/wiki/Q9390696
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: malitskaya-mariya
 poster_commons: Zew morza 1927.jpg
+poster_tmdb_path: /2OH6aSKKoAdQmRp3KFdvxKpfnbu.jpg
+backdrop_tmdb_path: /ozNCUSY4VtX70WQBEj2FSsAKNDp.jpg

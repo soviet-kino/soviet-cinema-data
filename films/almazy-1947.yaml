@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4062735
   imdb: tt1407931
   youtube: 1dOmzcFYP2s
+  tmdb: 738315
 sources:
 - https://www.wikidata.org/wiki/Q4062735
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: vanin-vasiliy-vasilevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /6bgMWF7H26YrnEhh5opu7AUw1nz.jpg
+backdrop_tmdb_path: /2XLbuCzjQrJd8p8yb3xaznkndtv.jpg

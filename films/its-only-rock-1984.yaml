@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9358929
   imdb: tt0088282
+  tmdb: 365950
 sources:
 - https://www.wikidata.org/wiki/Q9358929
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: yanda-kristina
 - person: trelya-grazhina
 - person: buchkovskiy-zbignev
+poster_tmdb_path: /8GaVfmAB7KtCRce0GVv28bjLZVF.jpg

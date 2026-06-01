@@ -8,6 +8,7 @@ runtime_min: 670
 external_ids:
   wikidata: Q335341
   imdb: tt8822366
+  tmdb: 519889
 sources:
 - https://www.wikidata.org/wiki/Q335341
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - nikolskiy-yuriy-sergeevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8BP4jYM63urMz6m8HV1vzwucBnK.jpg

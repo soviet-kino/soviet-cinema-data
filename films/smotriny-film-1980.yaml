@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q84994497
   imdb: tt0316633
+  tmdb: 544370
 sources:
 - https://www.wikidata.org/wiki/Q84994497
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - mayboroda-platon-illarionovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /7SK1g9xOitoJqNZ8UahMZvOLzDN.jpg

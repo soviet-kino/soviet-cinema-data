@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4380269
   imdb: tt12549870
+  tmdb: 1360601
 sources:
 - https://www.wikidata.org/wiki/Q4380269
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 studio:
 - uzbekfilm
 poster_commons: The lepers.jpg
+poster_tmdb_path: /5cwV5awBUqOB5C34xzsh7pjZ0b5.jpg
+backdrop_tmdb_path: /qg5zXmY5itUHcKo3nM39YqXqKuO.jpg

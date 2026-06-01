@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q4189985
   imdb: tt0070950
+  tmdb: 375396
 sources:
 - https://www.wikidata.org/wiki/Q4189985
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: velyaminov-pyotr-sergeevich
 studio:
 - lenfilm
+poster_tmdb_path: /gxAWZ1XG8vJluh6Eff4GDZn2bMq.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4404667
   imdb: tt0093905
+  tmdb: 541192
 sources:
 - https://www.wikidata.org/wiki/Q4404667
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: borisov-lev-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /zF5t7PnRvMxRMEXMDjstuhFAWMH.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q114663205
   imdb: tt0175066
+  tmdb: 208668
 sources:
 - https://www.wikidata.org/wiki/Q114663205
 schema_version: 1
@@ -65,3 +66,5 @@ cast:
 - person: krigl-vladimir
 - person: kohoutova-ondra
 - person: michalicka-rene
+poster_tmdb_path: /5mThr2odMaojExY7pL8RVJBYXER.jpg
+backdrop_tmdb_path: /yBljhJNWKA8YvLUVmMCYs7rLdBv.jpg

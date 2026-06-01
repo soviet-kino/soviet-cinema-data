@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11753676
   imdb: tt0067337
+  tmdb: 886890
 sources:
 - https://www.wikidata.org/wiki/Q11753676
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 studio:
 - mosfilm
 - wroclaw-feature-film-studio
+poster_tmdb_path: /wtV5tXx0K2GnfUBYYp5QLBtweCr.jpg

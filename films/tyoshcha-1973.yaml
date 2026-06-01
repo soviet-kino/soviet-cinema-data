@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4468193
   imdb: tt0314808
   youtube: UHxd75npTow
+  tmdb: 455294
 sources:
 - https://www.wikidata.org/wiki/Q4468193
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - belarusfilm
 cast:
 - person: karpova-tatyana-mikhaylovna
+poster_tmdb_path: /7e0xwRjH6e01wivE85y4ODSV9M3.jpg
+backdrop_tmdb_path: /t43cH76hzXdTGs0L5puh4ZYKADC.jpg

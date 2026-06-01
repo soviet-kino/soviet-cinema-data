@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q97305620
   imdb: tt0177890
+  tmdb: 1072617
 sources:
 - https://www.wikidata.org/wiki/Q97305620
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - karetnikov-nikolay-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /8qAg8EgdpXQYfOOezvL69oajYXm.jpg
+backdrop_tmdb_path: /n3aBUO8BKMDYPs1kU5iCmAFY4c6.jpg

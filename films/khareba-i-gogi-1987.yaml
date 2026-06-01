@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4495806
   imdb: tt0174816
+  tmdb: 148787
 sources:
 - https://www.wikidata.org/wiki/Q4495806
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - shengelaya-georgiy-nikolaevich
 cast:
 - person: lordkipanidze-guram
+poster_tmdb_path: /jCZjCTwJDcsoDWZeXhtaUpu005z.jpg
+backdrop_tmdb_path: /vcOBXvDKpv2nnfZMPjxbQAhUe9y.jpg

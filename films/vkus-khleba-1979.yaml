@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4112926
   imdb: tt0332493
+  tmdb: 346006
 sources:
 - https://www.wikidata.org/wiki/Q4112926
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: eryomenko-nikolay-nikolaevich
 - person: dyachkov-leonid
 - person: romanov-ernst-ivanovich
+poster_tmdb_path: /hfMHaAk7oNpJo5l4yojJLsaloSy.jpg
+backdrop_tmdb_path: /mGFhEA5ocvQMSn54cwlc9GMDF8q.jpg

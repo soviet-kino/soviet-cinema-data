@@ -8,6 +8,7 @@ runtime_min: 571
 external_ids:
   wikidata: Q111010104
   imdb: tt5523672
+  tmdb: 295857
 sources:
 - https://www.wikidata.org/wiki/Q111010104
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - feltsman-oskar-borisovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /fsvagu6NHhVQCLkfg3uBlyrkjJM.jpg
+backdrop_tmdb_path: /hvixQhlkInHGJq4zRmPVHs49MM2.jpg

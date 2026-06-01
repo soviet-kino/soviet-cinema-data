@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q3444677
   imdb: tt0066862
+  tmdb: 262220
 sources:
 - https://www.wikidata.org/wiki/Q3444677
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: erzhishnik-nela
 studio:
 - yadran-film
+poster_tmdb_path: /88EBbDZ2zZXXyXmncrOfrX5hVhT.jpg
+backdrop_tmdb_path: /xljurEs86rQlTZfRlHqh1aymFWg.jpg

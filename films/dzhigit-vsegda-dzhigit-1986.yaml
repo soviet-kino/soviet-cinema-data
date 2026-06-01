@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q113561544
   imdb: tt0266492
+  tmdb: 1401062
 sources:
 - https://www.wikidata.org/wiki/Q113561544
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - mazhukov-aleksey-sergeevich
 studio:
 - turkmenfilm
+poster_tmdb_path: /8NVavLhv7SY5q79CanYvq15qwPu.jpg
+backdrop_tmdb_path: /wBQLUahYDae8I4RnHEcnx4ay0DD.jpg

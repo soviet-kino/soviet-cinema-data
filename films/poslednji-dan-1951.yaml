@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11161822
   imdb: tt0174130
+  tmdb: 365367
 sources:
 - https://www.wikidata.org/wiki/Q11161822
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: tsrnobori-mariya
 - person: hlebs-sonja
 - person: aleksandr-stoykovich
+poster_tmdb_path: /hy6qtRFc2yKIN04O56QbnH03iHV.jpg

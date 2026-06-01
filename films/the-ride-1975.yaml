@@ -8,8 +8,11 @@ runtime_min: 95
 external_ids:
   wikidata: Q29581183
   imdb: tt0072838
+  tmdb: 337761
 sources:
 - https://www.wikidata.org/wiki/Q29581183
 schema_version: 1
 director:
 - danelyuk-mircha
+poster_tmdb_path: /5YvKnJzy32dW04AtGBJB5dOT2EX.jpg
+backdrop_tmdb_path: /biHULrapOE7ltt2rhNWep9UsitP.jpg

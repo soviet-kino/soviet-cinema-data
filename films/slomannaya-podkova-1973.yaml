@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4423913
   imdb: tt0298554
+  tmdb: 83470
 sources:
 - https://www.wikidata.org/wiki/Q4423913
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: paukshte-vitautas
 studio:
 - lenfilm
+poster_tmdb_path: /mNSN6qWeF2gPcnArRl1f7VNeiXs.jpg
+backdrop_tmdb_path: /wi3pJd8pg1Vskn3DYL0TWlj6Haa.jpg

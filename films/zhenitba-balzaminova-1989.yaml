@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4179357
   imdb: tt0098706
+  tmdb: 897096
 sources:
 - https://www.wikidata.org/wiki/Q4179357
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: kovmir-nikolay-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /oJONmucLFiHqWn3u84B0HGbQJ0Q.jpg

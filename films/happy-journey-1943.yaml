@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q18639707
   imdb: tt0176182
+  tmdb: 452524
 sources:
 - https://www.wikidata.org/wiki/Q18639707
 schema_version: 1
@@ -79,3 +80,4 @@ cast:
 - person: matasova-milada
 - person: kinsky-otto
 - person: dekoj-antonin
+poster_tmdb_path: /lMRO6dnWxuAwsxyq7ybTJLf410g.jpg

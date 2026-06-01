@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1490692
   imdb: tt0028542
+  tmdb: 370757
 sources:
 - https://www.wikidata.org/wiki/Q1490692
 schema_version: 1
@@ -22,3 +23,4 @@ cinematographer:
 composer:
 - abrakham-pal
 poster_commons: 3-1 a szerelem javára filmplakát.jpg
+poster_tmdb_path: /6HNFRMUz8weBNG0BHeqPQSBoibi.jpg

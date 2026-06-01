@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4335262
   imdb: tt0066752
+  tmdb: 155337
 sources:
 - https://www.wikidata.org/wiki/Q4335262
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: fogel-aleksander
 - person: kotsinyak-marian
 - person: krzyzewska-ewa
+poster_tmdb_path: /fu84rpAjZWJrHhazs9Cw50lydFi.jpg

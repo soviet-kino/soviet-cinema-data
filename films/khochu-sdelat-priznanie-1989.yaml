@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q84994683
   imdb: tt5756212
+  tmdb: 1302025
 sources:
 - https://www.wikidata.org/wiki/Q84994683
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: chernyavskiy-konstantin
 studio:
 - ukrtelefilm
+poster_tmdb_path: /7LnmFokuNsfyiN5dT7p1rOOoRwN.jpg

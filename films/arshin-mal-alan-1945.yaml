@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4071040
   imdb: tt0037520
   youtube: UQbjHlLeO_k
+  tmdb: 278886
 sources:
 - https://www.wikidata.org/wiki/Q4071040
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: melikova-rakhilya
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /hwIARgqrwJCVSJLBkiaugLJDNvO.jpg
+backdrop_tmdb_path: /8JG2MR6RBciCJsHGhD0ASY56qWl.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q12753013
   imdb: tt0179923
+  tmdb: 266406
 sources:
 - https://www.wikidata.org/wiki/Q12753013
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: bora-todorovich
 - person: mirich-voyya
 - person: uzunovic-tanasije
+poster_tmdb_path: /lnehyCxucim70m7O1NeklxU7r7O.jpg

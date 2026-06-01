@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q15270606
   imdb: tt1405766
+  tmdb: 274221
 sources:
 - https://www.wikidata.org/wiki/Q15270606
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - martynov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /g6wAcyn3mgvkJvjB4qGXWAhISKR.jpg
+backdrop_tmdb_path: /oSx6bI6RSMoADNbhu0C2djfUbw0.jpg

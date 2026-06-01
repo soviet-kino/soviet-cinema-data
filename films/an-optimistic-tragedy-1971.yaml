@@ -8,6 +8,7 @@ runtime_min: 167
 external_ids:
   wikidata: Q18396828
   imdb: tt2011171
+  tmdb: 283052
 sources:
 - https://www.wikidata.org/wiki/Q18396828
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: kalisch-peter
 - person: viehmann-franz
 - person: tsshekel-gyunter
+poster_tmdb_path: /oc8q804gqI05ZSAQWTRuLiNEcxJ.jpg

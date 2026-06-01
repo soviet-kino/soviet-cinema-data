@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q11772613
   imdb: tt0295508
+  tmdb: 478101
 sources:
 - https://www.wikidata.org/wiki/Q11772613
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - kondo-anastas
 composer:
 - laro-kujtim
+poster_tmdb_path: /4fB9LWkG11vFwPGQFRFH9RF9fM.jpg
+backdrop_tmdb_path: /rzb25UTC85J9GM3LgOONl8PWK5T.jpg

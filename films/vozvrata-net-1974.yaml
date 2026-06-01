@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q16514497
   imdb: tt0070892
+  tmdb: 287278
 sources:
 - https://www.wikidata.org/wiki/Q16514497
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - mosfilm
 cast:
 - person: mordyukova-nonna-viktorovna
+poster_tmdb_path: /hwibA94tzNpGVVJZ25Bw2wJvDCS.jpg
+backdrop_tmdb_path: /rfgs6dCovkwQbAVj55cFSQGII5E.jpg

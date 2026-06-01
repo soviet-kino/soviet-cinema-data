@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q674820
   imdb: tt0057098
+  tmdb: 84721
 sources:
 - https://www.wikidata.org/wiki/Q674820
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: amio-pol
 - person: desayle-per
 - person: lefevre-bel-rene
+poster_tmdb_path: /u2pOauU3gikXvm5exYKDd4cya7e.jpg
+backdrop_tmdb_path: /pThWCtI7LZdixE0KrS3mghrn4jv.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q126710296
   imdb: tt3322550
+  tmdb: 288817
 sources:
 - https://www.wikidata.org/wiki/Q126710296
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kuznetsov-anatoliy
 - person: luzhina-larisa-anatolevna
 - person: shutov-evgeniy-efimovich
+poster_tmdb_path: /DDphAo3tyvSHQs9X1zuAyqN6wZ.jpg

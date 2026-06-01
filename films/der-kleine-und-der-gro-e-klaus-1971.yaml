@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q1199293
   imdb: tt0068809
+  tmdb: 238258
 sources:
 - https://www.wikidata.org/wiki/Q1199293
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: fisher-khannes
 - person: pulman-marilu
 - person: kilian-zigfrid
+poster_tmdb_path: /wiTKI9U2ya7ooOE2DulF17bl7z6.jpg
+backdrop_tmdb_path: /p5CTwDlf1JwjrArSOQRxD1Y0uez.jpg

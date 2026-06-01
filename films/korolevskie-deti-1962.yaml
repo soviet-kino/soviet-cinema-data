@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1796408
   imdb: tt0056161
+  tmdb: 2215
 sources:
 - https://www.wikidata.org/wiki/Q1796408
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: lau-gerkhard
 studio:
 - defa
+poster_tmdb_path: /oR4ncrVdT90McPSNXMX8hS7vpZp.jpg
+backdrop_tmdb_path: /cumhG8mthpwoasDp7NBMSRJSI9g.jpg

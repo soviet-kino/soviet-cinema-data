@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11742466
   imdb: tt0050603
+  tmdb: 453110
 sources:
 - https://www.wikidata.org/wiki/Q11742466
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: zdzieszynska-ewa
 - person: kozakiewicz-jerzy
 - person: gorczynski-mariusz
+poster_tmdb_path: /bv7jE0Y3o9T0TCOLsHoq4NUZHW6.jpg
+backdrop_tmdb_path: /eejUstL2N7fHiX05PO63aTqUs3y.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q50926342
   imdb: tt1096852
+  tmdb: 1284276
 sources:
 - https://www.wikidata.org/wiki/Q50926342
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - vekvert-manfred
 composer:
 - khozalla-khans-diter
+poster_tmdb_path: /7VTlawg3LZF2ePFeF0JFWshiClg.jpg

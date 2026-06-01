@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4449974
   imdb: tt0138851
   youtube: KpnUPVF28L0
+  tmdb: 955415
 sources:
 - https://www.wikidata.org/wiki/Q4449974
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: medvedev-vadim-aleksandrovich
+poster_tmdb_path: /pgzwJJZ6cz9mQ6LF2J9MBExCPZs.jpg
+backdrop_tmdb_path: /4th1NsSnhgsjcNGNc3NImMFsfHR.jpg

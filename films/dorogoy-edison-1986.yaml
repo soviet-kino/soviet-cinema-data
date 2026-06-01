@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q56376290
   imdb: tt0090957
+  tmdb: 461069
 sources:
 - https://www.wikidata.org/wiki/Q56376290
 schema_version: 1
 director:
 - fridberg-isaak-shaevich
+poster_tmdb_path: /iDKEqaCGYTYlTawYXGXw4AglAPW.jpg
+backdrop_tmdb_path: /v2GrZKX09SO7Pml5Frw2dSdFgcf.jpg

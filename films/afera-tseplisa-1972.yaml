@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4072736
   imdb: tt1018881
+  tmdb: 247837
 sources:
 - https://www.wikidata.org/wiki/Q4072736
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: dantsberga-khelga
 - person: pavuls-eduard-karlovich
 - person: razuma-regina
+poster_tmdb_path: /jPtQ8Ix7PDv5WQFq6SlBXBsxJVe.jpg
+backdrop_tmdb_path: /nhUEjX2u3DHfNTavWdY4kNK69PI.jpg

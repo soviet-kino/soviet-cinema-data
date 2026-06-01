@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4159356
   imdb: tt0027516
   youtube: 9w9lXm6pj_o
+  tmdb: 243753
 sources:
 - https://www.wikidata.org/wiki/Q4159356
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: adelung-nikolay-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /91Kvy3D1vswyOlAQOPNCniVlO5m.jpg
+backdrop_tmdb_path: /d6iS4ahdo7S5JTnHKegmsLp6O8T.jpg

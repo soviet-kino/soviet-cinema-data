@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12761391
   imdb: tt0180182
+  tmdb: 409717
 sources:
 - https://www.wikidata.org/wiki/Q12761391
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: milivoe-zhivanovich
 - person: toma-kuruzovich
 - person: ulmanski-renata
+poster_tmdb_path: /wWEAkwKDVVuVEU8RzRSS1fsdagY.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816096
   imdb: tt0086092
+  tmdb: 955477
 sources:
 - https://www.wikidata.org/wiki/Q11816096
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kashitskiy-lyutsian
 cast:
 - person: pechka-frantishek
+poster_tmdb_path: /hRcxKQMYE1CebKr4mepEpP0cqQz.jpg

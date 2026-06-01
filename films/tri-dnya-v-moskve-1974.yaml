@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15545402
   imdb: tt2063845
   youtube: mmN7XnCw4mM
+  tmdb: 138851
 sources:
 - https://www.wikidata.org/wiki/Q15545402
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - mosfilm
 - tvorcheskoe-obedinenie-televizionnykh-filmov
+poster_tmdb_path: /y0VMfWp8RWehhRNWrF9gRzidx1G.jpg
+backdrop_tmdb_path: /8GGJ4vXT0tSAEgRpK5vov38qIvG.jpg

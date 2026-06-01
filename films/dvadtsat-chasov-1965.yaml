@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q3560175
   imdb: tt0058218
+  tmdb: 273840
 sources:
 - https://www.wikidata.org/wiki/Q3560175
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: keresh-emil
 - person: molnar-tibor
 - person: szirtes-adam
+poster_tmdb_path: /3UznWgd9vIlJ4zweZgLe3qHC9QA.jpg
+backdrop_tmdb_path: /byVeUpxSXMlzc3liVXwcZVauowH.jpg

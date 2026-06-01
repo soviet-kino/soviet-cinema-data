@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q12042352
   imdb: tt0166293
+  tmdb: 574383
 sources:
 - https://www.wikidata.org/wiki/Q12042352
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: pecian-vaclav
 - person: hofman-luigi
 - person: zichovsky-vaclav
+poster_tmdb_path: /4ZhpfxTXZuFrdptw7ePdFxToOMo.jpg
+backdrop_tmdb_path: /rmiKfcJaje3e8y3myCWnsAQYwU0.jpg

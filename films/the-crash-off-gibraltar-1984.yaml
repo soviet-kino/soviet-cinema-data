@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11737243
   imdb: tt0087542
+  tmdb: 159046
 sources:
 - https://www.wikidata.org/wiki/Q11737243
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: adamczewski-jerzy-sergiusz
 studio:
 - warsaw-documentary-film-studio
+poster_tmdb_path: /5Wp0ljoNk496YEg4ORnoYa8eW7K.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56356158
   imdb: tt9045084
   youtube: YG92SLQF-As
+  tmdb: 439782
 sources:
 - https://www.wikidata.org/wiki/Q56356158
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - prokofeva-sofya-leonidovna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /pbdHmztEuP7vdj7BoNRslDTcZfD.jpg

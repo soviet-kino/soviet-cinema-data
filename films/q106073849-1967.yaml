@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q106073849
   imdb: tt0060803
+  tmdb: 662101
 sources:
 - https://www.wikidata.org/wiki/Q106073849
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: szilagyi-tibor
 - person: zolnai-zhuzha
 - person: kemeny-laszlo
+poster_tmdb_path: /qghdBWGWI8ewSkHQBAhxJ61GiX4.jpg

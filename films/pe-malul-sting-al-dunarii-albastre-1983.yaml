@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12737703
   imdb: tt0131523
+  tmdb: 535933
 sources:
 - https://www.wikidata.org/wiki/Q12737703
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: alsek-zefi
 - person: popesku-stela
 - person: pepino-marius
+poster_tmdb_path: /36Vl19aizZy1YubOnAGSFqwbpZ5.jpg

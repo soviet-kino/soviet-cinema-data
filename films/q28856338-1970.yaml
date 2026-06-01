@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28856338
   imdb: tt0174928
+  tmdb: 1006495
 sources:
 - https://www.wikidata.org/wiki/Q28856338
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - khenrik-iren
 composer:
 - deak-tamash
+poster_tmdb_path: /uBMZxqVQN0ZoPbzJvbmrSxjrNuE.jpg

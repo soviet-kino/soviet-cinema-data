@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2496853
   imdb: tt0028012
   youtube: 9d7m7LLFz70
+  tmdb: 245874
 sources:
 - https://www.wikidata.org/wiki/Q2496853
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: sobolevskiy-pyotr-stanislavovich
 studio:
 - mosfilm
+poster_tmdb_path: /m41y2U23rXoXCuclxN2P88JdbKU.jpg
+backdrop_tmdb_path: /fMfGDQY2UShcbsiezylkXyfhFRc.jpg

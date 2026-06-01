@@ -8,8 +8,10 @@ runtime_min: 11
 external_ids:
   wikidata: Q135748889
   imdb: tt6305530
+  tmdb: 512083
 sources:
 - https://www.wikidata.org/wiki/Q135748889
 schema_version: 1
 director:
 - weiler-kurt
+poster_tmdb_path: /foQdB1eW335uZZLcEix0jDZ53BA.jpg

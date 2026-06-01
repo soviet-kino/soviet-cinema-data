@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28750064
   imdb: tt0180932
+  tmdb: 490144
 sources:
 - https://www.wikidata.org/wiki/Q28750064
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: benedicic-danilo
 - person: bogataj-mirko
 - person: avbelj-jozica
+poster_tmdb_path: /vtrHdZKZZM4rtMRliWfE7toabMF.jpg

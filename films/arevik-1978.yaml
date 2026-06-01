@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4068968
   imdb: tt0426912
   youtube: AAIzEJNG8mE
+  tmdb: 620071
 sources:
 - https://www.wikidata.org/wiki/Q4068968
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: abramyan-khoren
 - person: sherents-azat-armenakovich
 - person: dzhanibekyan-karen
+poster_tmdb_path: /moPGcqmPjJfqRy5WkAyuZ8ixGJL.jpg
+backdrop_tmdb_path: /qOzdxWGrqTy5eXeT9t53HTjjkyN.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4518775
   imdb: tt0066916
+  tmdb: 417151
 sources:
 - https://www.wikidata.org/wiki/Q4518775
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - studiya-khudozhestvennykh-filmov-defa
 cast:
 - person: kayurov-yuriy-ivanovich
+poster_tmdb_path: /hGFgMutLZLAvynPhrflMXReh74n.jpg
+backdrop_tmdb_path: /yhmfAu5UGxNKhy8SglPnEnfMAfI.jpg

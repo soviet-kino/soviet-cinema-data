@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31279928
   imdb: tt0447175
+  tmdb: 604158
 sources:
 - https://www.wikidata.org/wiki/Q31279928
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - ryaets-yaan
 studio:
 - tallinfilm
+poster_tmdb_path: /5MNnjJC3K5NW9Qc66vd6fFgII6z.jpg
+backdrop_tmdb_path: /88mvL0xnYdPOCekuwzusXC99d70.jpg

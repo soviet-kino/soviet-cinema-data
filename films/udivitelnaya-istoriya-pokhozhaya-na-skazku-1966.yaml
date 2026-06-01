@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17582670
   imdb: tt0197985
+  tmdb: 833226
 sources:
 - https://www.wikidata.org/wiki/Q17582670
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - tsentrnauchfilm
 cast:
 - person: zhakov-oleg-petrovich
+poster_tmdb_path: /zDy2m6o6j2qlJs5JkFntogTH0r7.jpg

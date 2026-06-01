@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q7943258
   imdb: tt0176303
+  tmdb: 711931
 sources:
 - https://www.wikidata.org/wiki/Q7943258
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: nemec-hynek
 - person: scharffova-tomanova-helena
 - person: havel-jindrich
+poster_tmdb_path: /njNfFeBOxjx5j2kjNUzSxBY3rBw.jpg

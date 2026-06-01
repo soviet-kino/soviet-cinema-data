@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9333075
   imdb: tt0059671
+  tmdb: 422564
 sources:
 - https://www.wikidata.org/wiki/Q9333075
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kotonskiy-vlodzimezh
 cast:
 - person: cybulski-zbigniew
+poster_tmdb_path: /ilZZT8EshkW5bSgzXc6vlk1SvQ3.jpg

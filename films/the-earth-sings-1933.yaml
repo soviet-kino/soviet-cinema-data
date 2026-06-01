@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q15652006
   imdb: tt0024799
+  tmdb: 266275
 sources:
 - https://www.wikidata.org/wiki/Q15652006
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 composer:
 - hoza-stefan
 - shkvor-frantishek
+poster_tmdb_path: /HAPYaz9atIY5DxZafHf20QrCjz.jpg
+backdrop_tmdb_path: /2VxtqWrJHDVtoEnGkdWh0mt0bcX.jpg

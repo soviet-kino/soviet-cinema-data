@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q12096060
   imdb: tt0170134
+  tmdb: 1505895
 sources:
 - https://www.wikidata.org/wiki/Q12096060
 schema_version: 1
+poster_tmdb_path: /9RMnEnMY4GdxGaGT58LcKaL7Nso.jpg
+backdrop_tmdb_path: /1wIzWBULlUj4ZEFfOKC7XgVZQda.jpg

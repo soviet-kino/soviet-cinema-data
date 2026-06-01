@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q15805248
   imdb: tt0230218
+  tmdb: 276656
 sources:
 - https://www.wikidata.org/wiki/Q15805248
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - gusko-erikh
 composer:
 - vagner-rikhard
+poster_tmdb_path: /ftUXnMQX5Ezpd9VAKhHP6UlQKpR.jpg
+backdrop_tmdb_path: /s2WjLAxVPs0Ss1LtIiqUme1unIK.jpg

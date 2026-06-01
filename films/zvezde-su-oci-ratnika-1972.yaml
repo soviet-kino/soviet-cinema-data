@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12751930
   imdb: tt0180333
+  tmdb: 508982
 sources:
 - https://www.wikidata.org/wiki/Q12751930
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: pendula-ljubomir-ubavkic
 - person: milenkovic-branislav
 - person: kandich-milosh
+poster_tmdb_path: /9TlkRYuVyxN83SH7JCOpliwW298.jpg
+backdrop_tmdb_path: /u28zSogvj8qp27cs4UK5jkQrPmc.jpg

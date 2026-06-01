@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12005872
   imdb: tt0223839
+  tmdb: 272317
 sources:
 - https://www.wikidata.org/wiki/Q12005872
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: folds-endryu
 - person: degi-gay
 - person: tadich-dushan
+poster_tmdb_path: /vOkw5Xyc8jT16amvmBVInUKkGKk.jpg

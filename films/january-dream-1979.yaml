@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876826
   imdb: tt0181886
+  tmdb: 620904
 sources:
 - https://www.wikidata.org/wiki/Q44876826
 schema_version: 1
 director:
 - opritescu-nicolae
+poster_tmdb_path: /szpU8693pbsmJyaERnouwhmZE0Q.jpg

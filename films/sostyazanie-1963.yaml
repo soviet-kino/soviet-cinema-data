@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4429801
   imdb: tt2371451
+  tmdb: 282491
 sources:
 - https://www.wikidata.org/wiki/Q4429801
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - narliev-khodzhakuli
 composer:
 - khalmamedov-nury-khalmamedovich
+poster_tmdb_path: /8SBvmtgj0jcvVzakyrCAPw5cpr3.jpg

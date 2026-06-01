@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9292963
   imdb: tt0054976
+  tmdb: 848283
 sources:
 - https://www.wikidata.org/wiki/Q9292963
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - stavinskiy-ezhi
 cast:
 - person: bartosik-tadeusz
+poster_tmdb_path: /8Utz9NKN42tRWfl1mnpT2QJT9R8.jpg

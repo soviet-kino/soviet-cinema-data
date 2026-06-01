@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17582646
   imdb: tt0166291
   youtube: _p7H3FSwqp0
+  tmdb: 254680
 sources:
 - https://www.wikidata.org/wiki/Q17582646
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - levitin-yuriy
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /q1988mvm69BBxSGX9XeXZekAhfo.jpg
+backdrop_tmdb_path: /8e1GtOFS8oLJKugocHRJlBWSivN.jpg

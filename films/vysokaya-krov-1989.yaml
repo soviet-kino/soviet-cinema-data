@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4129270
   imdb: tt0202670
+  tmdb: 959093
 sources:
 - https://www.wikidata.org/wiki/Q4129270
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: nevzorov-boris
 studio:
 - belarusfilm
+poster_tmdb_path: /bgCV4pviE5EgidfRheS6agr7TDQ.jpg

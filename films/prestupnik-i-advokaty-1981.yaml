@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q106774696
   imdb: tt2107760
+  tmdb: 1524034
 sources:
 - https://www.wikidata.org/wiki/Q106774696
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - shakhidi-tolibkhon-ziyadullaevich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /aAB7rFxg1WVpjq24t67d1ra7Li4.jpg

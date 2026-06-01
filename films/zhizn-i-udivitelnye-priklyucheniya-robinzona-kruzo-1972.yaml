@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4180234
   imdb: tt0069541
   youtube: OsRSZhQubHc
+  tmdb: 129540
 sources:
 - https://www.wikidata.org/wiki/Q4180234
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - odesskaya-kinostudiya
 cast:
 - person: kuravlyov-leonid-vyacheslavovich
+poster_tmdb_path: /eaIpD7SfvfBCkNzvACTFEGfir2J.jpg
+backdrop_tmdb_path: /glRfPDY6sATN7nb6MBZgGgyAero.jpg

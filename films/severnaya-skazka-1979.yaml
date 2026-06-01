@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4412136
   imdb: tt8178436
+  tmdb: 446244
 sources:
 - https://www.wikidata.org/wiki/Q4412136
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - chaykovskiy-boris-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /5VKWKrz5o19WsjW795TMevG1eUj.jpg

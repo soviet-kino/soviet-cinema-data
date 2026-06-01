@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12104204
   imdb: tt5735932
+  tmdb: 448264
 sources:
 - https://www.wikidata.org/wiki/Q12104204
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - osyka-leonid
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xCtpyePeA9gX5phHh1xgALne3S4.jpg
+backdrop_tmdb_path: /9y4vkFIJcERKRI9QJ4bg9c2rgDP.jpg

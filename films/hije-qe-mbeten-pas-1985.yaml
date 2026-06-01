@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q11690590
   imdb: tt0295993
+  tmdb: 501970
 sources:
 - https://www.wikidata.org/wiki/Q11690590
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 screenwriter:
 - chuli-diana
 - musliu-esat
+poster_tmdb_path: /Ajh3WlU1jkDwDMbMCSqeUfOcMTk.jpg
+backdrop_tmdb_path: /CfV1025eoRr2WmQkSKKTi5QwZj.jpg

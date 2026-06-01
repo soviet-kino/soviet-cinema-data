@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q29580896
   imdb: tt0062702
+  tmdb: 465591
 sources:
 - https://www.wikidata.org/wiki/Q29580896
 schema_version: 1
 director:
 - sayzesku-dzho
+poster_tmdb_path: /kt3eeplM8WBwxxeKNgMbfDwMiIj.jpg
+backdrop_tmdb_path: /xRIStRwtSxOtcseX2g33kqPoU8Y.jpg

@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q123508280
   imdb: tt0033569
+  tmdb: 661554
 sources:
 - https://www.wikidata.org/wiki/Q123508280
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: tashnadi-mariya-fon
 - person: yavor-pal
 - person: shomlai-artur
+poster_tmdb_path: /fxizXmpJQbfR1gnHLVk4gRkQSl4.jpg

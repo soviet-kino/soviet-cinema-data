@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116786288
   imdb: tt0275718
+  tmdb: 755326
 sources:
 - https://www.wikidata.org/wiki/Q116786288
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: kilgas-gunnar
 studio:
 - mosfilm
+poster_tmdb_path: /7zCtJhHuQzojmBBFqhNCMjdslbJ.jpg

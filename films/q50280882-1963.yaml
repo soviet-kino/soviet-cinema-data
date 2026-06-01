@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q50280882
   imdb: tt0176345
   youtube: vCR48m3hDSM
+  tmdb: 95475
 sources:
 - https://www.wikidata.org/wiki/Q50280882
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: belohoubek-jiri
 - person: nemecek-ivo
 - person: kos-karel
+poster_tmdb_path: /yCyU778PBXZyRZSXoobVtx7LgxK.jpg
+backdrop_tmdb_path: /jWd3Tm4bABCDFlxia95G3iXDzsZ.jpg

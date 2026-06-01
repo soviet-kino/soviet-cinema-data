@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11052141
   imdb: tt0353334
+  tmdb: 505980
 sources:
 - https://www.wikidata.org/wiki/Q11052141
 schema_version: 1
 director:
 - ibro-esat
+poster_tmdb_path: /o7oqjiTiSK8VwX8ooam5OOp976o.jpg
+backdrop_tmdb_path: /p5nDtvaDheLiZC6IKJKf5HRJPng.jpg

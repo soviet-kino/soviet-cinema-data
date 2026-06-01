@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q3157016
   imdb: tt0067259
+  tmdb: 19021
 sources:
 - https://www.wikidata.org/wiki/Q3157016
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - baromykin-boris
 composer:
 - lishka-zdenek
+poster_tmdb_path: /ccsqfFZmO75eLbXNs259JVLpDpf.jpg
+backdrop_tmdb_path: /3XKAUMgz3GyuLbxgY5y4AKNKAu1.jpg

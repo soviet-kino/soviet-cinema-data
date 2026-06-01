@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7096656
   imdb: tt0122643
+  tmdb: 1144333
 sources:
 - https://www.wikidata.org/wiki/Q7096656
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: trybova-helena
 - person: blazek-zdenek
 - person: kucharska-lenka
+poster_tmdb_path: /yU7Pn4oU66ClQU6Fpxt7ITt3cEt.jpg

@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q23564493
   imdb: tt0067298
+  tmdb: 416291
 sources:
 - https://www.wikidata.org/wiki/Q23564493
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - verion-rudi
 cast:
 - person: tsshekel-gyunter
+poster_tmdb_path: /3BsVSpVHNLi4TAGnIb8BSuEUf8o.jpg

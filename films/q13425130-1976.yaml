@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q13425130
   imdb: tt0175821
+  tmdb: 806213
 sources:
 - https://www.wikidata.org/wiki/Q13425130
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: prechovska-maria
 - person: khalamova-emiliya
 - person: grandtnerova-magda
+poster_tmdb_path: /pXHEvaTeCz2BkSauGlaevHqmPjl.jpg

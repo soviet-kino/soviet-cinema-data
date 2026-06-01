@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4096524
   imdb: tt0072740
+  tmdb: 147379
 sources:
 - https://www.wikidata.org/wiki/Q4096524
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ivashov-vladimir-sergeevich
 - person: masyulis-algimantas-ionovich
 - person: vasileva-ekaterina-sergeevna
+poster_tmdb_path: /fytS0rH5BBfsC1PEsaUGHAuepCm.jpg
+backdrop_tmdb_path: /1XEPC2KXF1hQaLAqsPN6T66viM3.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1211860
   imdb: tt0081588
+  tmdb: 424135
 sources:
 - https://www.wikidata.org/wiki/Q1211860
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: szajnert-feliks
 - person: biernacka-iwona
 - person: probosh-marek
+poster_tmdb_path: /gT7rGW294haKz2cNnT3JRKH7aeF.jpg

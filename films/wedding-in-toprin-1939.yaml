@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q113974736
   imdb: tt0138139
+  tmdb: 503426
 sources:
 - https://www.wikidata.org/wiki/Q113974736
 schema_version: 1
 director:
 - andre-de-tot
+poster_tmdb_path: /gHVQDMIuS40Ka7YbSaVC1b3cmWZ.jpg
+backdrop_tmdb_path: /9nDgzTTuxVGGgVKoaZqztii1m40.jpg

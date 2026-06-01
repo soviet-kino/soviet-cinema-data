@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q19277864
   imdb: tt0037850
+  tmdb: 296849
 sources:
 - https://www.wikidata.org/wiki/Q19277864
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: mayerkhofer-elfi
 studio:
 - tobis-film
+poster_tmdb_path: /7j5E7bFRRdxmfJOiVzu1ms7LVbS.jpg

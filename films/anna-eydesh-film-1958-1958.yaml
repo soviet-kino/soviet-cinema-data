@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q337806
   imdb: tt0052438
+  tmdb: 41193
 sources:
 - https://www.wikidata.org/wiki/Q337806
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: baro-anna
 - person: vandor-zhozef
 poster_commons: Törőcsik Mari az Édes Anna című filmben, 1958 (Fortepan, 117129).jpg
+poster_tmdb_path: /AgOovCsXpLmskbScn8NCBjWzaUl.jpg
+backdrop_tmdb_path: /1ltrkhnrOZVEj7c49nNmfToSN6z.jpg

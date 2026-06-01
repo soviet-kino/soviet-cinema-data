@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4141110
   imdb: tt0314108
   youtube: bnak80XAE58
+  tmdb: 361555
 sources:
 - https://www.wikidata.org/wiki/Q4141110
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: pugovkin-mikhail-ivanovich
 - person: perevalov-viktor-porfirovich
+poster_tmdb_path: /hsPi0LRcw0jeKwII8hn4hPzUeDb.jpg
+backdrop_tmdb_path: /vabLjdoPHsGWJ4ENUie27Ojf1gM.jpg

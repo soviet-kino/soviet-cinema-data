@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q12046475
   imdb: tt0138714
+  tmdb: 295514
 sources:
 - https://www.wikidata.org/wiki/Q12046475
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: oliva-petr
 - person: crha-jaromir
 - person: homola-miloslav
+poster_tmdb_path: /bnz9lmZHppsl4kl7XyyLyIhTlvf.jpg
+backdrop_tmdb_path: /wU8EYzMs5YdD6mciP77mayNRQ67.jpg

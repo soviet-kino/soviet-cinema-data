@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q4023727
   imdb: tt0063833
+  tmdb: 19009
 sources:
 - https://www.wikidata.org/wiki/Q4023727
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: borovicka-vaclav-pavel
 - person: husak-frantisek
 - person: halek-jiri
+poster_tmdb_path: /7GzRCwTD3hEhmEOkwi36fd1Vp4C.jpg
+backdrop_tmdb_path: /xc1ONc7Av5GjkLWOmElUnxfN6Ut.jpg

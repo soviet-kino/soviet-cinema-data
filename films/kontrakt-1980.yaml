@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q3221756
   imdb: tt0081011
+  tmdb: 204169
 sources:
 - https://www.wikidata.org/wiki/Q3221756
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: jarosz-magdalena
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /pJW1vsCZ1lxHedR1rgHg5TItwcu.jpg
+backdrop_tmdb_path: /bP2Yh2ImCqnJFeS9hwThTHy7Pn3.jpg

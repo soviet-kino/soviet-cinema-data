@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65250811
   imdb: tt2977364
   youtube: 9VBvh_mRzRI
+  tmdb: 346372
 sources:
 - https://www.wikidata.org/wiki/Q65250811
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: utekeshova-meruert-karataevna
 - person: moldabekov-anuarbek-abykhanovich
 - person: tastanbekov-kuman-nurmaganovich
+poster_tmdb_path: /oDkil9tZopEEeqCq8MUxccF7O0r.jpg

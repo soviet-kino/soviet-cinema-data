@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4446001
   imdb: tt2959282
+  tmdb: 342633
 sources:
 - https://www.wikidata.org/wiki/Q4446001
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: burkov-georgiy-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /9uDogimeZ6lHGT0cEFSd2MI1bI.jpg
+backdrop_tmdb_path: /k1VqNYG7KO2XU6cQgQewzGL4RK2.jpg

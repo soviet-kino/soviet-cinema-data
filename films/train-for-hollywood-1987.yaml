@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q11820026
   imdb: tt0093752
+  tmdb: 146718
 sources:
 - https://www.wikidata.org/wiki/Q11820026
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - matula-ezhi
 cast:
 - person: figura-katazhina
+poster_tmdb_path: /mLUxi14KnVQve30FvitSYChz5kr.jpg
+backdrop_tmdb_path: /sirxbkADe1QF1uxVTuZ0EGXNhKH.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q3444713
   imdb: tt0047155
+  tmdb: 283866
 sources:
 - https://www.wikidata.org/wiki/Q3444713
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: erzhishnik-nela
 - person: rogoz-zvonimir
 - person: spoljar-branko
+poster_tmdb_path: /3XzmbdspxqmRi0mtCZQ3HRUg6RA.jpg
+backdrop_tmdb_path: /huQUWuweOv3f8p8IQJGD61KzTwH.jpg

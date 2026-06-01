@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4303394
   imdb: tt6027678
   youtube: g42hdPRO3xk
+  tmdb: 63562
 sources:
 - https://www.wikidata.org/wiki/Q4303394
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 studio:
 - odesskaya-kinostudiya
 poster_commons: Кадр из фильма «Морской пост» (СССР, 1938).JPG
+poster_tmdb_path: /vGcrgFxUWKzoexyqrIyMlbaFv2L.jpg

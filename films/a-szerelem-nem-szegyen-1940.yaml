@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q471566
   imdb: tt0033125
+  tmdb: 41195
 sources:
 - https://www.wikidata.org/wiki/Q471566
 schema_version: 1
 director:
 - rathonyi-akos
+poster_tmdb_path: /xEe7MNhiDeAWWSSYsARVHKoxQXv.jpg

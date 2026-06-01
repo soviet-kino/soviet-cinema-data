@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q4339533
   imdb: tt0081270
+  tmdb: 923119
 sources:
 - https://www.wikidata.org/wiki/Q4339533
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: makhovskiy-ignatsy
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /2zUjiJugeaXGUNtuVGqckIcglBp.jpg

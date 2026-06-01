@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q112826792
   imdb: tt0335515
+  tmdb: 1239138
 sources:
 - https://www.wikidata.org/wiki/Q112826792
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - muravlyov-aleksey-alekseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zq8b6gyWgj5TiuxJ28JPjTwC6fR.jpg
+backdrop_tmdb_path: /8LaoDtraeW4kmvhPOSTRJqHMiDu.jpg

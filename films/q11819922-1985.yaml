@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11819922
   imdb: tt0089817
+  tmdb: 923113
 sources:
 - https://www.wikidata.org/wiki/Q11819922
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - budkiewicz-jan
 composer:
 - zarytskiy-andzhey
+poster_tmdb_path: /pn7sn4avHKJRhsGGttMqXGVhTQh.jpg

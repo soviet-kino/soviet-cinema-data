@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16874925
   imdb: tt0039670
   youtube: 2Tn5orz0Wlc
+  tmdb: 547448
 sources:
 - https://www.wikidata.org/wiki/Q16874925
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - belarusfilm
+poster_tmdb_path: /kB3HzI41Szx0ptwddfPDBjf72TA.jpg

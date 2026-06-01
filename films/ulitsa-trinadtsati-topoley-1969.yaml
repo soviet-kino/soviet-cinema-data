@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56364512
   imdb: tt5088860
+  tmdb: 886914
 sources:
 - https://www.wikidata.org/wiki/Q56364512
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - kholendro-dmitriy-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /vWD8wgXK7hYlZVceVCBL5zN6M8i.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4212925
   imdb: tt0070264
+  tmdb: 625874
 sources:
 - https://www.wikidata.org/wiki/Q4212925
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - shvarts-isaak-iosifovich
 studio:
 - lenfilm
+poster_tmdb_path: /2Fz9ajyQ2lXM5rCd9vpfRAb9rfz.jpg

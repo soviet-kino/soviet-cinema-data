@@ -8,8 +8,10 @@ runtime_min: 90
 external_ids:
   wikidata: Q44876106
   imdb: tt0170540
+  tmdb: 259472
 sources:
 - https://www.wikidata.org/wiki/Q44876106
 schema_version: 1
 director:
 - bostan-elizabeta
+poster_tmdb_path: /r4ZZk3eQNpHeMGwbSHIhSq70yOv.jpg

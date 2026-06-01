@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4205753
   imdb: tt0071670
   youtube: 6PqUQvimCvs
+  tmdb: 606606
 sources:
 - https://www.wikidata.org/wiki/Q4205753
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - mosfilm
 cast:
 - person: zhzhyonov-georgiy-stepanovich
+poster_tmdb_path: /5V1GXk1t9InMkzBjjSMIgZ4CpWN.jpg

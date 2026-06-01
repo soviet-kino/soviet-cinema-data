@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12132248
   imdb: tt12097146
+  tmdb: 818654
 sources:
 - https://www.wikidata.org/wiki/Q12132248
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - lisetskiy-sergey-afanasevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /1Klimtd7acFvKRAn4ST9BXWRiOR.jpg
+backdrop_tmdb_path: /vjbdsM5xHiv2KOCEQgMLUIEcMPg.jpg

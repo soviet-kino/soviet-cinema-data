@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q4386082
   imdb: tt0021277
+  tmdb: 235600
 sources:
 - https://www.wikidata.org/wiki/Q4386082
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: shagayda-stepan-vasilevich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /uN4H7Puy1cotZwS85Q1F5muiO4H.jpg

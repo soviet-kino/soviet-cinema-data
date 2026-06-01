@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3537862
   imdb: tt0056609
+  tmdb: 57913
 sources:
 - https://www.wikidata.org/wiki/Q3537862
 schema_version: 1
@@ -65,3 +66,5 @@ cast:
 - person: curik-alois
 - person: vondracek-vaclav-2
 - person: orion-maurice
+poster_tmdb_path: /uw5yq92gVZ5DSceWss3GSqJtF8f.jpg
+backdrop_tmdb_path: /vxx9zE9AFIbnYtJ4eYFi9xSjoAf.jpg

@@ -74,6 +74,9 @@ runtime_min: 83
 external_ids:
   wikidata: Q739698
   imdb: tt0076223
+  tmdb: 50774
 sources:
 - https://www.wikidata.org/wiki/Q739698
 schema_version: 1
+poster_tmdb_path: /hkRlXThlAbotzRm7mHszQ3pSE6y.jpg
+backdrop_tmdb_path: /nk5983uMdEyQuaTpojUiCymizhC.jpg

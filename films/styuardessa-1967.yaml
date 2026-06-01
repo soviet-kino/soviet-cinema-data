@@ -8,6 +8,7 @@ runtime_min: 36
 external_ids:
   wikidata: Q4444815
   imdb: tt11570714
+  tmdb: 547670
 sources:
 - https://www.wikidata.org/wiki/Q4444815
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: zhzhyonov-georgiy-stepanovich
 studio:
 - mosfilm
+poster_tmdb_path: /9iI1mtOx6psREe1qP2mQtySLdpP.jpg

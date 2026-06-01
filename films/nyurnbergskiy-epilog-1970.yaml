@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5383017
   imdb: tt0067054
+  tmdb: 624410
 sources:
 - https://www.wikidata.org/wiki/Q5383017
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: lyubenskaya-karolina
 - person: plyutsinskiy-mikhal
 - person: kanicki-ireneusz
+poster_tmdb_path: /w39xueQCeVOTdKcwb5yP46M8fxH.jpg

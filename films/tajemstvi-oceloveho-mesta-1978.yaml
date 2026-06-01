@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12058242
   imdb: tt0078357
   youtube: FdSxSv89PyY
+  tmdb: 72491
 sources:
 - https://www.wikidata.org/wiki/Q12058242
 schema_version: 1
@@ -105,3 +106,4 @@ cast:
 studio:
 - televidenie-v-chekhoslovakii
 - barrandov
+poster_tmdb_path: /dQUUAfJGFh6qFusOMIZB5Gi8Icq.jpg

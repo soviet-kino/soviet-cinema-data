@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4326512
   imdb: tt5340992
   youtube: eWycJkUubGo
+  tmdb: 258658
 sources:
 - https://www.wikidata.org/wiki/Q4326512
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: rutberg-ilya-grigorevich
 studio:
 - ekran
+poster_tmdb_path: /oxcNOXvENWrJirA1jTfrZrA5sqr.jpg
+backdrop_tmdb_path: /2dxDvZGrBchfjSmnWMp2I4GoNyC.jpg

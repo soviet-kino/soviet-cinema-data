@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131908409
   imdb: tt27430880
+  tmdb: 1109132
 sources:
 - https://www.wikidata.org/wiki/Q131908409
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: breskanu-vasile
 - person: tebyrtse-vasile
 - person: konstantinov-konstantin-timofeevich
+poster_tmdb_path: /6THGjkE8TjoNWB4NjL1rX1TnJgY.jpg

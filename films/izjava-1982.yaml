@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184304
   imdb: tt1159537
+  tmdb: 1641012
 sources:
 - https://www.wikidata.org/wiki/Q31184304
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kojadinovic-ugljesa
 - person: frayt-bozhidarka
 - person: biser-sabrija
+poster_tmdb_path: /wkyCZMauwztMdh9Tp76ya6VaFjV.jpg

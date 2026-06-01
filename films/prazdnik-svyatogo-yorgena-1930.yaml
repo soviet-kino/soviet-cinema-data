@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4376329
   imdb: tt0021268
   youtube: 04k-6aN73S8
+  tmdb: 166636
 sources:
 - https://www.wikidata.org/wiki/Q4376329
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mezhrabpomfilm
 poster_commons: Prazdnik Svyatogo Iorgena Scene 01.jpg
+poster_tmdb_path: /clzd4u3ZIyLbWrnu7kqlJnkGcUj.jpg
+backdrop_tmdb_path: /kPHD9w78KCeorRiOX73wa35Hgaw.jpg

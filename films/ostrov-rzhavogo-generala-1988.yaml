@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4338876
   imdb: tt0307295
+  tmdb: 169344
 sources:
 - https://www.wikidata.org/wiki/Q4338876
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: storozhik-valeriy-stepanovich
 studio:
 - ekran
+poster_tmdb_path: /5dgj1glEYawhc7H46MRGyPggRVS.jpg
+backdrop_tmdb_path: /9s9i1OcieHRQMuKFKByGhzACyGw.jpg

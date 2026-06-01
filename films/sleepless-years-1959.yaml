@@ -8,8 +8,11 @@ runtime_min: 107
 external_ids:
   wikidata: Q50280876
   imdb: tt0173511
+  tmdb: 320289
 sources:
 - https://www.wikidata.org/wiki/Q50280876
 schema_version: 1
 director:
 - mariashshi-feliks
+poster_tmdb_path: /8LNNfO43fBsE7hCerY2iECfdAOD.jpg
+backdrop_tmdb_path: /f8AyRlYOUIZFK9Ma1Ju8RsmITZM.jpg

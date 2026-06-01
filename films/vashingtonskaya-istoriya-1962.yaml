@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q30887788
   imdb: tt5858244
+  tmdb: 883633
 sources:
 - https://www.wikidata.org/wiki/Q30887788
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: podgornyy-nikita-vladimirovich
 - person: svetlovidov-nikolay-afanasevich
 - person: myakishev-konstantin-mikhaylovich
+poster_tmdb_path: /829Ekxye615c2uOGvZPXCIMsnqk.jpg

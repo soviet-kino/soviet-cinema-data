@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4447788
   imdb: tt0055498
+  tmdb: 802585
 sources:
 - https://www.wikidata.org/wiki/Q4447788
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: teresa-shmigelyuvna
 - person: strakhotskiy-yanush
 - person: lodynskiy-yuzef
+poster_tmdb_path: /3678kYmCGFxMppuvJVI4vItQyba.jpg
+backdrop_tmdb_path: /7QcG3kse6WmFfHBUyUZF4b8Up8n.jpg

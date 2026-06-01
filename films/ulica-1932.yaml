@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1214360
   imdb: tt0023127
+  tmdb: 607235
 sources:
 - https://www.wikidata.org/wiki/Q1214360
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: mirska-zofia
 - person: s-owinska-zofia
 poster_commons: Legion ulicy 2.jpg
+poster_tmdb_path: /1RAY80vacMtpAOKTnuajTBvhugM.jpg

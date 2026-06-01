@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4425258
   imdb: tt0131588
   youtube: S6kA38YLC4g
+  tmdb: 360178
 sources:
 - https://www.wikidata.org/wiki/Q4425258
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: serebryakov-aleksey-valerevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /b1L7Mog85Bhn8sc9JHQ7ezJTPWh.jpg

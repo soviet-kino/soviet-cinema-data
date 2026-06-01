@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12045554
   imdb: tt0151996
+  tmdb: 538655
 sources:
 - https://www.wikidata.org/wiki/Q12045554
 schema_version: 1
@@ -68,3 +69,5 @@ cast:
 - person: deriova-vlasta
 - person: stofl-josef
 poster_commons: Květa Fialová Jaroslav Marvan Plavecký mariáš.png
+poster_tmdb_path: /wi08hEBGPFQDmXwM7j3tUwvmW8j.jpg
+backdrop_tmdb_path: /6KWNqMf703ibCqtuYrWCyqWFZ0H.jpg

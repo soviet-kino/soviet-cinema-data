@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1307117
   imdb: tt0079096
+  tmdb: 278802
 sources:
 - https://www.wikidata.org/wiki/Q1307117
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: tilsner-klaus
 studio:
 - defa
+poster_tmdb_path: /1XS7QUg3DJzTRlnuJXsQT4RjFpd.jpg
+backdrop_tmdb_path: /2rDYR30gNjdPdka6VuMBpxO6Oo8.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q2492699
   imdb: tt0081680
+  tmdb: 283118
 sources:
 - https://www.wikidata.org/wiki/Q2492699
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: shryoter-karin
 - person: kipp-khaydi
 - person: bauze-peter
+poster_tmdb_path: /cHJ7ZFtSHnGjERG07KbmxSV8u6f.jpg
+backdrop_tmdb_path: /uJOdJOx6Lh9lYyEKJc60OOcBeAp.jpg

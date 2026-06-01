@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5383656
   imdb: tt0085498
+  tmdb: 156926
 sources:
 - https://www.wikidata.org/wiki/Q5383656
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - szostak-zdzis-aw
 cast:
 - person: zelnik-ezhi
+poster_tmdb_path: /GEFmcRpg5RxNZV6BEvYoXs1R4S.jpg
+backdrop_tmdb_path: /vlTAVwvTFgvbcciPePXc3sCZHUI.jpg

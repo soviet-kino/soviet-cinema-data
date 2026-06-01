@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16538406
   imdb: tt0173753
+  tmdb: 919647
 sources:
 - https://www.wikidata.org/wiki/Q16538406
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - petelskaya-eva
 cast:
 - person: khoravyanka-barbara
+poster_tmdb_path: /4nPGUIuZylYR8YFL7LFkt5eUaXN.jpg

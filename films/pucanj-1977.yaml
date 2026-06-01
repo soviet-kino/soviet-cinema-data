@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7258171
   imdb: tt0066255
+  tmdb: 503894
 sources:
 - https://www.wikidata.org/wiki/Q7258171
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: sovagovic-fabijan
 - person: kojadinovic-ugljesa
 - person: dzhuro-utzhesanovich
+poster_tmdb_path: /iDlrxSVsYHldWOc9ZV95PoIm0QC.jpg

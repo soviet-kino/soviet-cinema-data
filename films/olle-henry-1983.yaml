@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q28322554
   imdb: tt0086042
+  tmdb: 285637
 sources:
 - https://www.wikidata.org/wiki/Q28322554
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - dressel-roland
 composer:
 - rabenalt-peter
+poster_tmdb_path: /r7YLesDxCDXLrEPKCLYHnjJOR1U.jpg

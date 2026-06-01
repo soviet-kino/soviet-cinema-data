@@ -8,6 +8,7 @@ runtime_min: 239
 external_ids:
   wikidata: Q4142421
   imdb: tt4903362
+  tmdb: 890016
 sources:
 - https://www.wikidata.org/wiki/Q4142421
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: yankovskiy-igor-rostislavovich
 - person: ilina-nina-aleksandrovna
 - person: kharitonova-aleksandra-grigorevna
+poster_tmdb_path: /3NR03tpiZjt8ROd2WODFiDPSPDa.jpg
+backdrop_tmdb_path: /eV1ekGBnNRhz0ED1p3nxOYQ4EEc.jpg

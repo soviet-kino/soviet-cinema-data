@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4302250
   imdb: tt0093566
   youtube: CDFer1FaTNg
+  tmdb: 74045
 sources:
 - https://www.wikidata.org/wiki/Q4302250
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: karachentsov-nikolay
 studio:
 - lenfilm
+poster_tmdb_path: /5vsPTjjgu6h2zPd36PyND9jeQQg.jpg
+backdrop_tmdb_path: /xLsXvGtHY9sw47IxAEwTC9wfi1e.jpg

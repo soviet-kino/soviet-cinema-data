@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101822
   imdb: tt0166864
   youtube: z0XAbMPEjCM
+  tmdb: 441851
 sources:
 - https://www.wikidata.org/wiki/Q4101822
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - tsentralnoe-televidenie
 - ekran
+poster_tmdb_path: /nC2KT0XKYVO2zO4NXq6OlcpHqY4.jpg
+backdrop_tmdb_path: /3HAE45owWz4EuxXvCStsjqt5o8F.jpg

@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q23769824
   imdb: tt0038272
+  tmdb: 1455261
 sources:
 - https://www.wikidata.org/wiki/Q23769824
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: golubinskiy-dmitriy-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /zrlxYSC1cVylcTam9SBBbnGYJlw.jpg

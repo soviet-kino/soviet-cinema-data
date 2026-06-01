@@ -23,6 +23,8 @@ external_ids:
   wikidata: Q4449768
   imdb: tt0034260
   youtube: oQi2mRJ35zo
+  tmdb: 3590
 sources:
 - https://www.wikidata.org/wiki/Q4449768
 schema_version: 1
+poster_tmdb_path: /3mwfZaIdLzV2mCG1TbCPLTeoMhh.jpg

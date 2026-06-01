@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226056
   imdb: tt0077815
   youtube: ulPpiARmxjs
+  tmdb: 256520
 sources:
 - https://www.wikidata.org/wiki/Q4226056
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: akhedzhakova-liya-medzhidovna
 - person: efremov-mikhail-olegovich
 - person: ulyanova-inna-ivanovna
+poster_tmdb_path: /8uLKS4fkmBZcbjQOfDAbJLTLlKy.jpg
+backdrop_tmdb_path: /fFX8cwehr6206eNcPR430WoySIf.jpg

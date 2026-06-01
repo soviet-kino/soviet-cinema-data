@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1118677
   imdb: tt0082627
+  tmdb: 131034
 sources:
 - https://www.wikidata.org/wiki/Q1118677
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - khalas-mikhay
 composer:
 - poka-egon
+poster_tmdb_path: /vhYiRmylW0PO1lQjAx45e8H9BOJ.jpg
+backdrop_tmdb_path: /xLgn8lBV9UtiuzCVv148NDLDN5R.jpg

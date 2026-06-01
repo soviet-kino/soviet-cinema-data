@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q786472
   imdb: tt0075467
+  tmdb: 77660
 sources:
 - https://www.wikidata.org/wiki/Q786472
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: cherkhalmi-dyord
 - person: degi-ishtvan
 - person: markus-laslo
+poster_tmdb_path: /ukoDNNrNhwAva3PBdGmXe12kAaD.jpg
+backdrop_tmdb_path: /6Y2H39ntwoOROwpmecWpkcGp8qt.jpg

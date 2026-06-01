@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12001582
   imdb: tt0346978
   youtube: dIRrPUZT1P8
+  tmdb: 417897
 sources:
 - https://www.wikidata.org/wiki/Q12001582
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - ponc-miroslav
 studio:
 - filmove-ateliery-bata
+poster_tmdb_path: /89VDb90jHQ2yIvpHDVEmJ7gF5Hs.jpg

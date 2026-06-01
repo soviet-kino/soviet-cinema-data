@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q467365
   imdb: tt0885501
+  tmdb: 1174330
 sources:
 - https://www.wikidata.org/wiki/Q467365
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: simor-erzsi
 - person: shomlai-artur
 poster_commons: A kegyelmes úr rokona (1941).jpg
+poster_tmdb_path: /8BkJEWNqYEA8lmS787DbflKnfE8.jpg

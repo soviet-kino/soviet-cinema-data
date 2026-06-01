@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q110028684
   imdb: tt0218372
   youtube: gzl3MKSUK4k
+  tmdb: 454390
 sources:
 - https://www.wikidata.org/wiki/Q110028684
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - valutskiy-vladimir-ivanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /bi2pY6MidTDBamswi4pggrjfiuV.jpg
+backdrop_tmdb_path: /djqSxpCZMv1lNQsaZvRxYMYQiRb.jpg

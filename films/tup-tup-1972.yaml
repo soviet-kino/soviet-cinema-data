@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q1726441
   imdb: tt0069422
+  tmdb: 148037
 sources:
 - https://www.wikidata.org/wiki/Q1726441
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - dragich-nedelko
 screenwriter:
 - dragich-nedelko
+poster_tmdb_path: /fU7CpO5EzVduQHV1lFL5sqh1oD1.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q112977544
   imdb: tt0075800
+  tmdb: 267944
 sources:
 - https://www.wikidata.org/wiki/Q112977544
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: greeze-volfgang
 - person: winkler-sybille
 - person: penzold-frank
+poster_tmdb_path: /6C6gBPZCe5cF0GdzVcOPtmXA75g.jpg
+backdrop_tmdb_path: /4ZLrbofWFhANLDIEkBC7F1WTpXa.jpg

@@ -8,6 +8,7 @@ runtime_min: 124
 external_ids:
   wikidata: Q25457916
   imdb: tt0077115
+  tmdb: 89665
 sources:
 - https://www.wikidata.org/wiki/Q25457916
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tordi-geza
 - person: polgar-geza
 - person: ksikos-gabor
+poster_tmdb_path: /d4aBr2ygMM4JMCoV9nfh3hhbCF0.jpg
+backdrop_tmdb_path: /9LUTX001RfBjfYia0MwAl6oMrsW.jpg

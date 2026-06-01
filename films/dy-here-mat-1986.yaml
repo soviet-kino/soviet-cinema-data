@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11820770
   imdb: tt0297867
+  tmdb: 497822
 sources:
 - https://www.wikidata.org/wiki/Q11820770
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kapexhiu-bujar
 composer:
 - lalo-aleksander
+poster_tmdb_path: /dIXkvcU9iWw34I6w8BTu3WvrkSt.jpg
+backdrop_tmdb_path: /rmroL45I2y47qhfeOzxtrsMFTA3.jpg

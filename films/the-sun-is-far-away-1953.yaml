@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750622
   imdb: tt0179747
+  tmdb: 330322
 sources:
 - https://www.wikidata.org/wiki/Q12750622
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: felba-dragomir
 - person: marko-todorovich
 - person: plesha-branko
+poster_tmdb_path: /c3tqQGeGXkiyoSjSo1Iqc0nx72o.jpg
+backdrop_tmdb_path: /gk39myC01nRmAuPFP5H5Biw1XxK.jpg

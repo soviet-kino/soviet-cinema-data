@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1519753
   imdb: tt0076391
   youtube: P4k2LNPRV-0
+  tmdb: 27861
 sources:
 - https://www.wikidata.org/wiki/Q1519753
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: spiridonov-vadim-semyonovich
 studio:
 - mosfilm
+poster_tmdb_path: /61reasUU2uxRFQhxfKdvVHHMOsl.jpg
+backdrop_tmdb_path: /sk2vIjjqxr8aBeCGx1zSxpscvzF.jpg

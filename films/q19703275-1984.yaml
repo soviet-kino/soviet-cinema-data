@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q19703275
   imdb: tt0490862
+  tmdb: 422895
 sources:
 - https://www.wikidata.org/wiki/Q19703275
 schema_version: 1
+poster_tmdb_path: /pnW2gezkCFK6FF12GWB2t1naSpC.jpg
+backdrop_tmdb_path: /y3K9kaHR1fVxw6xrpn9m3nnieOv.jpg

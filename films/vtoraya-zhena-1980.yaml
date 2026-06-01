@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q731645
   imdb: tt0081821
+  tmdb: 198507
 sources:
 - https://www.wikidata.org/wiki/Q731645
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 - pannoniya
 - gaumont
 - hunnia-film-studio
+poster_tmdb_path: /uNLJRY9JKyj8h4i65dx88VatCdx.jpg
+backdrop_tmdb_path: /EuSbFhZYlwua6jYcAb6rGpAcZI.jpg

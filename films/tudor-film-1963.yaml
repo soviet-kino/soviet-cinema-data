@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12742610
   imdb: tt0056620
+  tmdb: 466233
 sources:
 - https://www.wikidata.org/wiki/Q12742610
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: petruts-emanoil
 - person: besoyu-yon
 - person: dikisyanu-ion
+poster_tmdb_path: /yJGZhaxhMN0hZ6MeXU5KtE5LiKN.jpg

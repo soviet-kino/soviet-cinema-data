@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12346998
   imdb: tt0050161
+  tmdb: 328513
 sources:
 - https://www.wikidata.org/wiki/Q12346998
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: pechi-shandor
 studio:
 - mafilm
+poster_tmdb_path: /caA2kbQINFrNmYUeeH5TpH3NocZ.jpg

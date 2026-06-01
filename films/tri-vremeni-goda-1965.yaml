@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116864892
   imdb: tt5224434
+  tmdb: 1521661
 sources:
 - https://www.wikidata.org/wiki/Q116864892
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - vasilkov-nikolay-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /fD1d7PNQJQcXcvTifnWXHbp8Kzi.jpg

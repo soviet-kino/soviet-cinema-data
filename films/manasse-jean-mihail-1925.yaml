@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q21140662
   imdb: tt0016084
+  tmdb: 716503
 sources:
 - https://www.wikidata.org/wiki/Q21140662
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - mikhail-zhan
 screenwriter:
 - mikhail-zhan
+poster_tmdb_path: /5wsYJWwzlkk3xcl2a24xCn3N20j.jpg

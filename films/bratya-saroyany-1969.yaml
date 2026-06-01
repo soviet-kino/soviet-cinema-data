@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4096064
   imdb: tt0146505
   youtube: XK2nrD3e-Xg
+  tmdb: 559627
 sources:
 - https://www.wikidata.org/wiki/Q4096064
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: dzhanibekyan-gurgen
 - person: egshatyan-vagram
 - person: ayvazyan-armen
+poster_tmdb_path: /n3HuT9as33OA2HvFDHjqsuF0pJB.jpg
+backdrop_tmdb_path: /c1IeUNJIGMREAeYevwTFsiyGnjR.jpg

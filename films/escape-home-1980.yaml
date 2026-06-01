@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109930997
   imdb: tt0081824
   youtube: oV_1eHWdJpo
+  tmdb: 434745
 sources:
 - https://www.wikidata.org/wiki/Q109930997
 schema_version: 1
@@ -80,3 +81,5 @@ cast:
 - person: stedronova-milada
 - person: jelinkova-hana
 - person: zahradka-jiri
+poster_tmdb_path: /uLU0f8HWzvWzvoiiyPkqTUUctF4.jpg
+backdrop_tmdb_path: /66rsYdaZh1bBh7oTAeEAvdylIs0.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9283125
   imdb: tt0354232
+  tmdb: 462871
 sources:
 - https://www.wikidata.org/wiki/Q9283125
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - zhabjaku-ismail
 composer:
 - zaharian-hajg
+poster_tmdb_path: /5VFe5YKQaeaif5RLbt6yhfdIkLK.jpg
+backdrop_tmdb_path: /eJsUB7oAsWxG8AuQAqyV4NqAc3B.jpg

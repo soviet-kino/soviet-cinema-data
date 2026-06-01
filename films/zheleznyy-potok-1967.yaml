@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4179045
   imdb: tt0207236
   youtube: 4qr0GQCL75A
+  tmdb: 389542
 sources:
 - https://www.wikidata.org/wiki/Q4179045
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: trofimov-nikolay-nikolaevich
 - person: frichinskiy-lev-mikhaylovich
 - person: samokhina-galina-mikhaylovna
+poster_tmdb_path: /spJdcP4xzg5oHvsPnihScypN01w.jpg
+backdrop_tmdb_path: /49mU5ZLihdzlyWcp6RoIDq8vszB.jpg

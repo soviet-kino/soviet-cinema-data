@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4336138
   imdb: tt7479860
   youtube: llEPTyVqkQA
+  tmdb: 448415
 sources:
 - https://www.wikidata.org/wiki/Q4336138
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: The Eagle and the Cat 1944 film.jpg
+poster_tmdb_path: /3GLFteEWeKq0dtvfOhDmkD9wMGc.jpg
+backdrop_tmdb_path: /lDMLjiSezMgbXCj703mc54TKNRe.jpg

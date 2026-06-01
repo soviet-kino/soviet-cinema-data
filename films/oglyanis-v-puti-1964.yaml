@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q25522230
   imdb: tt0445488
+  tmdb: 604162
 sources:
 - https://www.wikidata.org/wiki/Q25522230
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: tennosaar-sirje
 studio:
 - tallinfilm
+poster_tmdb_path: /78mm0TQu0snp7oVCpMt1bJSGCdu.jpg
+backdrop_tmdb_path: /mgtQoNYexcXtZ1mjwYFfGuG3d6I.jpg

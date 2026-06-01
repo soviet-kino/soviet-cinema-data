@@ -8,6 +8,7 @@ runtime_min: 160
 external_ids:
   wikidata: Q25394727
   imdb: tt6087340
+  tmdb: 675583
 sources:
 - https://www.wikidata.org/wiki/Q25394727
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: kalyagin-aleksandr-aleksandrovich
 - person: kozakov-mikhail-mikhaylovich
 - person: vasileva-tatyana-grigorevna
+poster_tmdb_path: /gBNCmg5S4OftD9OMkdhXI6L6zcn.jpg

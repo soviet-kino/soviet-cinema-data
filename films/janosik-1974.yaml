@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q11719975
   imdb: tt0071689
+  tmdb: 157646
 sources:
 - https://www.wikidata.org/wiki/Q11719975
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: lemanska-ewa
 - person: lonch-marian
 - person: gzhibovskiy-andzhey
+poster_tmdb_path: /hwrv8F84y24dsGmpPAEop8rOxaz.jpg
+backdrop_tmdb_path: /lyJ19HZotlRyPWvGDPsKpEDQkYc.jpg

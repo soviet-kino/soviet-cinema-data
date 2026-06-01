@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1496660
   imdb: tt0137007
+  tmdb: 45141
 sources:
 - https://www.wikidata.org/wiki/Q1496660
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - aszlanyi-karoly
 cinematographer:
 - becsi-jozsef
+poster_tmdb_path: /d1ZJ7kqlwwRhKJ7upG6YxtVGg9b.jpg

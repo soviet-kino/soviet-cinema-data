@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7762481
   imdb: tt0067635
+  tmdb: 266412
 sources:
 - https://www.wikidata.org/wiki/Q7762481
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: karich-ana
 studio:
 - yadran-film
+poster_tmdb_path: /pPRjAkaPEEboLkfazqIIKbpTWlO.jpg

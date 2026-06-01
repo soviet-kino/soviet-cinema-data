@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56650400
   imdb: tt0388173
+  tmdb: 425634
 sources:
 - https://www.wikidata.org/wiki/Q56650400
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: kuchenbuch-roland
 studio:
 - defa
+poster_tmdb_path: /upUxRfS41rXlOPBa10Bffm2wi2X.jpg

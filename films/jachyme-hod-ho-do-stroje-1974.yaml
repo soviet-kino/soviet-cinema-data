@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q11877890
   imdb: tt0071682
+  tmdb: 234426
 sources:
 - https://www.wikidata.org/wiki/Q11877890
 schema_version: 1
@@ -105,3 +106,5 @@ cast:
 - person: brozman-josef
 studio:
 - barrandov
+poster_tmdb_path: /iT3KLI8yn9S9KRC6XYZHxNZVX6n.jpg
+backdrop_tmdb_path: /9wN27MlPHhwAqVYfBVO9BoJHFyV.jpg

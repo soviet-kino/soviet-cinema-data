@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340785
   imdb: tt1522761
   youtube: ddwXVpJZCHI
+  tmdb: 143037
 sources:
 - https://www.wikidata.org/wiki/Q4340785
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: yatautis-valdas
 studio:
 - moldova-film
+poster_tmdb_path: /af8OlmbbyxDSOndDSsOmcnyOdTY.jpg
+backdrop_tmdb_path: /2C3BE9NBhEva9KyCHh5AEJy4MVR.jpg

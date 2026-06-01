@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q4479717
   imdb: tt0187569
+  tmdb: 74017
 sources:
 - https://www.wikidata.org/wiki/Q4479717
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - shelenkov-aleksandr-vladimirovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /6JeD6yilPKvQB0L583QoRO7V7w2.jpg

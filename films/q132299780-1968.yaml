@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q132299780
   imdb: tt0064851
+  tmdb: 662107
 sources:
 - https://www.wikidata.org/wiki/Q132299780
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: darvash-ivan
 - person: berek-katalin
 - person: khorvat-sandor
+poster_tmdb_path: /yZJgHs9DQHAnQHbSxAgr0tXy4rj.jpg

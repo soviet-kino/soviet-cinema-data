@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12031719
   imdb: tt0052978
+  tmdb: 366792
 sources:
 - https://www.wikidata.org/wiki/Q12031719
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: kahoun-miroslav
 - person: novak-leopold
 - person: indingerova-monika
+poster_tmdb_path: /rKArKALpiLHie7bD2UqlbHNJXus.jpg
+backdrop_tmdb_path: /13AwiRNnS2YOXvkdtjTDOWs4KlB.jpg

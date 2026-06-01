@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q106756024
   imdb: tt0415089
+  tmdb: 651191
 sources:
 - https://www.wikidata.org/wiki/Q106756024
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - saakyants-robert
 studio:
 - armenfilm
+poster_tmdb_path: /uP28RGzjtxThsWVgRq5YREXsIfJ.jpg

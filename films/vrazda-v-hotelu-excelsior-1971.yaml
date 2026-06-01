@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q11939295
   imdb: tt0138922
+  tmdb: 48460
 sources:
 - https://www.wikidata.org/wiki/Q11939295
 schema_version: 1
@@ -67,3 +68,4 @@ cast:
 - person: silhavy-ivan
 - person: rulik-frantisek
 - person: kochman-josef
+poster_tmdb_path: /6h1lEAPDGR8YxViWXQAzP2xNw0A.jpg

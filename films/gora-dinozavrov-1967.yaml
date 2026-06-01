@@ -8,6 +8,7 @@ runtime_min: 576
 external_ids:
   wikidata: Q62019631
   imdb: tt0487605
+  tmdb: 91179
 sources:
 - https://www.wikidata.org/wiki/Q62019631
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /fzOUTBA5oJ6iRWJGdnaAi6R2Uro.jpg
+backdrop_tmdb_path: /n5aa4p2tjANkcipCYuGE0G8hDvL.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84993105
   imdb: tt4711124
   youtube: w0dhmw-_kRU
+  tmdb: 641133
 sources:
 - https://www.wikidata.org/wiki/Q84993105
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - gevorgyan-evgeniy
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /gAnsVtHrqPKHNLtCjxHAH8APc0F.jpg

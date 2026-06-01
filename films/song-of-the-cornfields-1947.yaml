@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q7561155
   imdb: tt0040020
+  tmdb: 328265
 sources:
 - https://www.wikidata.org/wiki/Q7561155
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: bikhari-zhozef
 - person: simon-marcsa
 - person: szellay-alice
+poster_tmdb_path: /dOokZHUsg6mWomz22IcqKjcDmRz.jpg

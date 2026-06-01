@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4195089
   imdb: tt0082542
+  tmdb: 499294
 sources:
 - https://www.wikidata.org/wiki/Q4195089
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: ponomaryov-aleksandr
 studio:
 - ekran
+poster_tmdb_path: /28VKO55YsRqqsd78PNux04jv8DR.jpg

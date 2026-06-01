@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4077354
   imdb: tt0210563
+  tmdb: 337469
 sources:
 - https://www.wikidata.org/wiki/Q4077354
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - bardin-garri-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4xprCpQddP96VOLDsGnKqvP0irL.jpg
+backdrop_tmdb_path: /g73str6X5jFqOOAJFDt0tauC7j1.jpg

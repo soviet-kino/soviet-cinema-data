@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q106717067
   imdb: tt0074688
+  tmdb: 286390
 sources:
 - https://www.wikidata.org/wiki/Q106717067
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: kern-arnold
 - person: chalas-karl
 - person: englberger-mikhael
+poster_tmdb_path: /jESYsjZzsnEK09vrIiowUfQBKmp.jpg

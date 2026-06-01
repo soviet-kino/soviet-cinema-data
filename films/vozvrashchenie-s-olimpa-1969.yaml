@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4114684
   imdb: tt5059802
+  tmdb: 440629
 sources:
 - https://www.wikidata.org/wiki/Q4114684
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - geviksman-vitaliy-artemevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /r4A6FITWRZwZ40RihqLTq2U9ssg.jpg
+backdrop_tmdb_path: /xuCai7cf0by1WbvjVuD1LslSruz.jpg

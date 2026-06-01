@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q1198131
   imdb: tt0395757
+  tmdb: 259094
 sources:
 - https://www.wikidata.org/wiki/Q1198131
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ashrafi-mukhtar-ashrafovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /8vdv9nxGjl5DYg8uIhkDK2N7jB2.jpg

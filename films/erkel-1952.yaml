@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q95612658
   imdb: tt0044595
+  tmdb: 482869
 sources:
 - https://www.wikidata.org/wiki/Q95612658
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: pechi-shandor
 - person: radzhnay-gabor
 - person: uray-tivadar
+poster_tmdb_path: /svtokK0rJFyjdGTJbTrOJmDkkJS.jpg
+backdrop_tmdb_path: /hyPU4rmqqs7R7dakgCXWwoFjbEE.jpg

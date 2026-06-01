@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60851433
   imdb: tt0253423
+  tmdb: 1462323
 sources:
 - https://www.wikidata.org/wiki/Q60851433
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Остап Бандура.webp
+poster_tmdb_path: /jcMgw0NOSEwtohdnIp7bFalLWdX.jpg

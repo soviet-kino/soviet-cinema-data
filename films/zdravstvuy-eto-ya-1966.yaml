@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q13156666
   imdb: tt0059943
+  tmdb: 142833
 sources:
 - https://www.wikidata.org/wiki/Q13156666
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - armenfilm
 poster_commons: Hello, That's Me 2026 stampsheet of Armenia.jpg
+poster_tmdb_path: /oH3NkBOZaDg1RgbzG2K84ymWz5u.jpg
+backdrop_tmdb_path: /aiEMx02Wri9eAY1dJIOrTc61fQp.jpg

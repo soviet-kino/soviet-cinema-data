@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q692305
   imdb: tt0353225
+  tmdb: 505745
 sources:
 - https://www.wikidata.org/wiki/Q692305
 schema_version: 1
 director:
 - kurti-besim
+poster_tmdb_path: /8Xndlxppa1oeEG2zNMqcKQWcmEV.jpg

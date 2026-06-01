@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q9338638
   imdb: tt0423217
+  tmdb: 83157
 sources:
 - https://www.wikidata.org/wiki/Q9338638
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: buchkovskiy-zbignev
 studio:
 - iluzjon
+poster_tmdb_path: /1hcKzmQM4lpc7bwi2dqm2Ar7KHl.jpg
+backdrop_tmdb_path: /59vg3s9PCzDxtzUWOGIw8mtxmKZ.jpg

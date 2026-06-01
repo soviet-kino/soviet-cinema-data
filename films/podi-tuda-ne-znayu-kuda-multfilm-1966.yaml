@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q5574930
   imdb: tt2234345
+  tmdb: 90320
 sources:
 - https://www.wikidata.org/wiki/Q5574930
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - aleksandrov-anatoliy-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mjHax3Or1thoZgv5Y5K1WreFu5H.jpg

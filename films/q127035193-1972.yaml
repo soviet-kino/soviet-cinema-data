@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q127035193
   imdb: tt0068900
+  tmdb: 343463
 sources:
 - https://www.wikidata.org/wiki/Q127035193
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - reni-tamash
 cast:
 - person: juhasz-jacint
+poster_tmdb_path: /xJF0uaS9KCDf9PRUzrygckKtHPW.jpg

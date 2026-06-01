@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q104903262
   imdb: tt0069076
   youtube: Z7N4W0dvWOs
+  tmdb: 1106429
 sources:
 - https://www.wikidata.org/wiki/Q104903262
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - ekran
+poster_tmdb_path: /aHWJoYdhALCetB3exgO7zD5aGrT.jpg

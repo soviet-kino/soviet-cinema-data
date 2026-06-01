@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4526967
   imdb: tt0314669
   youtube: g0K3VfAacCM
+  tmdb: 361415
 sources:
 - https://www.wikidata.org/wiki/Q4526967
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: alyoshnikova-liliana-lazarevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /yV5PqhP94VYiV3vhoxC3mMghqKI.jpg
+backdrop_tmdb_path: /fJB8ojUiJQ6DG8EQOwHgFIDYtkb.jpg

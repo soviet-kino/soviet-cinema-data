@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q7281930
   imdb: tt0294500
   youtube: 9FEpv1mhGH8
+  tmdb: 312000
 sources:
 - https://www.wikidata.org/wiki/Q7281930
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 studio:
 - odesskaya-kinostudiya
 poster_commons: Даниил Галицкий.png
+poster_tmdb_path: /tvnFzDCk8yV1A7xdN5xIGxpAdAv.jpg

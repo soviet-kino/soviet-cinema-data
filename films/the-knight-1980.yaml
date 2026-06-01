@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q9324331
   imdb: tt0081446
+  tmdb: 246032
 sources:
 - https://www.wikidata.org/wiki/Q9324331
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: wieczorek-jozef
 - person: q112705110
 - person: q112705190
+poster_tmdb_path: /nOhmZyrunk5vOynuqmXVbXNgdw4.jpg
+backdrop_tmdb_path: /yHLPaHvESzO1BhCOmuZM5088Wa2.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750628
   imdb: tt0060610
+  tmdb: 781695
 sources:
 - https://www.wikidata.org/wiki/Q11750628
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: zbyszewska-maria
 - person: soko-owska-uszczewska-halina
 - person: q120690391
+poster_tmdb_path: /2oxpWCMRCUjABqKz4zqqjr586DK.jpg

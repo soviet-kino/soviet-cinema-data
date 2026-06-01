@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27304494
   imdb: tt0184796
+  tmdb: 365374
 sources:
 - https://www.wikidata.org/wiki/Q27304494
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 cast:
 - person: zhigon-stevo
 - person: yanketich-mikhaylo
+poster_tmdb_path: /wfcc1mzesz1McuDXqB9MendsAir.jpg
+backdrop_tmdb_path: /g28KqPaFBzs619H8lGZHVBgv8eN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q908750
   imdb: tt0083264
   youtube: qMvsqaUdTGM
+  tmdb: 66127
 sources:
 - https://www.wikidata.org/wiki/Q908750
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: obrda-jan
 - person: kykalova-ebrova-miloslava
 poster_commons: SkodaFerat.jpg
+poster_tmdb_path: /dM1rwbIvD8V8ghxy5zMbTHENlq0.jpg
+backdrop_tmdb_path: /vAcW6UNSPTTIzMwvXKE83hT3Cnw.jpg

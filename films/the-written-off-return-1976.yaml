@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11155190
   imdb: tt0075094
+  tmdb: 353784
 sources:
 - https://www.wikidata.org/wiki/Q11155190
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: kostich-plyaka-mikhaylo
 - person: bogatincevic-pavle
 - person: pantelich-vasa
+poster_tmdb_path: /q6BCbN7NVBfCL3rjHbsmbdSsPIP.jpg
+backdrop_tmdb_path: /bFScDzp95vkzMBolxQt1IGg4aIe.jpg

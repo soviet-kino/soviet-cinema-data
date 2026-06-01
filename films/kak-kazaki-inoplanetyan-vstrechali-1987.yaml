@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q12173429
   imdb: tt5939246
+  tmdb: 210159
 sources:
 - https://www.wikidata.org/wiki/Q12173429
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - guba-vladimir
 studio:
 - kievnauchfilm
+poster_tmdb_path: /gFmuMXC2gaMHU6WuuI7JEjDN9o1.jpg
+backdrop_tmdb_path: /gt6X9EjL1l8A7WYEox8FX17gHgT.jpg

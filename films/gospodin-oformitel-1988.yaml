@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4146403
   imdb: tt0157713
   youtube: gionjAiTmaY
+  tmdb: 274991
 sources:
 - https://www.wikidata.org/wiki/Q4146403
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: lukashov-konstantin-petrovich
 studio:
 - lenfilm
+poster_tmdb_path: /f6sUXxrClNb3txDuhBv2LjX8zfp.jpg
+backdrop_tmdb_path: /fAUqTcFUhP1QC7HxEfKhsxewswp.jpg

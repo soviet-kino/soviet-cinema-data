@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4154452
   imdb: tt6190266
+  tmdb: 627174
 sources:
 - https://www.wikidata.org/wiki/Q4154452
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: peterson-agnessa-oskarovna
 - person: osenev-vladimir-ivanovich
 - person: borisov-anatoliy-ivanovich
+poster_tmdb_path: /6vE75KUKLLFR7amIunD7K2jF6kP.jpg
+backdrop_tmdb_path: /tOTIdJp7fzm530S5bxQVWowZMtu.jpg

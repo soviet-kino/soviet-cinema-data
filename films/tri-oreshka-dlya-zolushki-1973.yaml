@@ -61,6 +61,9 @@ poster_commons: 2015-04-11 Moritzburg - Schuh des Aschenbrödels.jpg
 external_ids:
   wikidata: Q140447
   imdb: tt0070832
+  tmdb: 8703
 sources:
 - https://www.wikidata.org/wiki/Q140447
 schema_version: 1
+poster_tmdb_path: /q5n0Y6LOYRPvrA1MGgHbzOII8CD.jpg
+backdrop_tmdb_path: /r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg

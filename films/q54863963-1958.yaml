@@ -8,6 +8,7 @@ runtime_min: 125
 external_ids:
   wikidata: Q54863963
   imdb: tt0357249
+  tmdb: 738861
 sources:
 - https://www.wikidata.org/wiki/Q54863963
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ibrakhim-abdel-moneym
 - person: ahmed-doria
 - person: al-din-shafik-nur
+poster_tmdb_path: /5tRDAXBQlmabIR8Nnnybfy6NnFr.jpg
+backdrop_tmdb_path: /lZL7OSMx6w43kTi19G0UQ8OjuAy.jpg

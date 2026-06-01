@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q11786103
   imdb: tt0067447
+  tmdb: 875287
 sources:
 - https://www.wikidata.org/wiki/Q11786103
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: vodynskaya-danuta
 - person: kuzemskiy-eliash
 - person: janowski-mieczys-aw
+poster_tmdb_path: /4Vhi9G0HurzDQvjGUP27JoYSi2o.jpg
+backdrop_tmdb_path: /eetiWJEE3xIkEqL1MYZ7dmEe1qK.jpg

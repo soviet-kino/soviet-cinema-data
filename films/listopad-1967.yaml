@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1963971
   imdb: tt0171343
+  tmdb: 128412
 sources:
 - https://www.wikidata.org/wiki/Q1963971
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - chichinadze-amiran-valerianovich
 cast:
 - person: abashidze-david-ivanovich
+poster_tmdb_path: /A5kpUNPzkRmwcqjqNVnMZpG2udV.jpg
+backdrop_tmdb_path: /5XnrnSVK1pPNmZKEQ2CfGXsDJ41.jpg

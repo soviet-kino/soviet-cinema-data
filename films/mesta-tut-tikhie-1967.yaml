@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86669308
   imdb: tt5067384
   youtube: yjhbrGCexgQ
+  tmdb: 533933
 sources:
 - https://www.wikidata.org/wiki/Q86669308
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - ilich-rubin-vladimir
 studio:
 - mosfilm
+poster_tmdb_path: /rsXH7ppsAyemRzhDO8ZAQNURHhP.jpg

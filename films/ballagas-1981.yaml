@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q789460
   imdb: tt0080411
+  tmdb: 494498
 sources:
 - https://www.wikidata.org/wiki/Q789460
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: zubornyak-zoltan
 - person: zoltan-erika
 - person: cintula
+poster_tmdb_path: /vP5ZyNouIW6LbUJWq0TJ1A2CqDL.jpg

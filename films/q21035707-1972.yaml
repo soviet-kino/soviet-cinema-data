@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q21035707
   imdb: tt9077882
+  tmdb: 360840
 sources:
 - https://www.wikidata.org/wiki/Q21035707
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - ritter-claus
 cinematographer:
 - honicke-siegfried
+poster_tmdb_path: /vOqV9ajRpq2CgsBwXyRu4X3RB3K.jpg

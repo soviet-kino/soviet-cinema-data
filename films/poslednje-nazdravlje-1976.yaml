@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461984
   imdb: tt0199958
+  tmdb: 1620051
 sources:
 - https://www.wikidata.org/wiki/Q25461984
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: stol-arandzhelovich
 - person: tadich-lyuba
+poster_tmdb_path: /24VRPjq1isZjmuIS3jdwOB9fhMV.jpg

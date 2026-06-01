@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4378442
   imdb: tt0075102
+  tmdb: 469187
 sources:
 - https://www.wikidata.org/wiki/Q4378442
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: perevalov-viktor-porfirovich
 studio:
 - mosfilm
+poster_tmdb_path: /he4DQQ4bFZFCLODtVq09i2CF12t.jpg
+backdrop_tmdb_path: /tY4mKuonHO8hv2lMID4bZCnJfah.jpg

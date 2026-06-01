@@ -25,6 +25,9 @@ external_ids:
   wikidata: Q1213999
   imdb: tt0061876
   youtube: RoJIhadFY1Q
+  tmdb: 71336
 sources:
 - https://www.wikidata.org/wiki/Q1213999
 schema_version: 1
+poster_tmdb_path: /uUgKgcVgZsZy6hw4gaRsmfQWb6F.jpg
+backdrop_tmdb_path: /ncNNm6gbs833dnlU8nY1AZY1rhu.jpg

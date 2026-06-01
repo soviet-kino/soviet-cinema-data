@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q58354472
   imdb: tt0063708
+  tmdb: 286215
 sources:
 - https://www.wikidata.org/wiki/Q58354472
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - khaubold-gyunter
 composer:
 - volgemut-gerkhard
+poster_tmdb_path: /6Wf185RvdnQuyMskCsl6Teu3Pqn.jpg

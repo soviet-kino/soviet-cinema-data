@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3412861
   imdb: tt0073087
+  tmdb: 362992
 sources:
 - https://www.wikidata.org/wiki/Q3412861
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - kende-yanosh
 cast:
 - person: monori-lili
+poster_tmdb_path: /8wjzAnVaGbvPvr7ytayzhe0G9op.jpg

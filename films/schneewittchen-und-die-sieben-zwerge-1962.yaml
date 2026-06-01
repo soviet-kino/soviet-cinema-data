@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q2247474
   imdb: tt0173173
+  tmdb: 13308
 sources:
 - https://www.wikidata.org/wiki/Q2247474
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: yonishkan-khorst
 - person: schilling-marianne-christina
 - person: spira-steffie
+poster_tmdb_path: /qUbc9IiD2uzLXJ2C2ijlC09s3Bq.jpg
+backdrop_tmdb_path: /s3r43vx1N5km9o76UrCbwAi566X.jpg

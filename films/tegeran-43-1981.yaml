@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1125687
   imdb: tt0081609
   youtube: -TaOAwtzeGg
+  tmdb: 2371
 sources:
 - https://www.wikidata.org/wiki/Q1125687
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 studio:
 - mosfilm
 - mediterranee-cinema-productions
+poster_tmdb_path: /9VfFjJKNC1TmNn6uGF8bk6PQakG.jpg
+backdrop_tmdb_path: /8FwbWHi3qtD198kFVnZzUJ7SwlC.jpg

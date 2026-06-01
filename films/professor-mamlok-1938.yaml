@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q2905692
   imdb: tt0163797
+  tmdb: 186237
 sources:
 - https://www.wikidata.org/wiki/Q2905692
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: mezhinskiy-semyon-borisovich
 studio:
 - lenfilm
+poster_tmdb_path: /m0Xnffh0A9G51n5OtqOtSKWmY6i.jpg

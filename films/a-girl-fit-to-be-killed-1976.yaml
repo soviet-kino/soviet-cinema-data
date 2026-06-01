@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q128903657
   imdb: tt0123891
+  tmdb: 326544
 sources:
 - https://www.wikidata.org/wiki/Q128903657
 schema_version: 1
@@ -70,3 +71,5 @@ cast:
 - person: hrubesova-klara
 - person: maturova-jaroslava
 - person: hirsch-julius
+poster_tmdb_path: /f6CIrhz6FO3ep7TPELSFLdPQD5D.jpg
+backdrop_tmdb_path: /igAM5jmKlkq32QmGlLtehhnzUKm.jpg

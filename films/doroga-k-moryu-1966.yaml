@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97187072
   imdb: tt0380321
   youtube: eVeATgpIaxQ
+  tmdb: 570309
 sources:
 - https://www.wikidata.org/wiki/Q97187072
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - chaykovskiy-boris-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /ejQFap90DAOclVXdKILJ4FJE9AS.jpg
+backdrop_tmdb_path: /601B0MaYLEk0tCG2hyK8Koch65l.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4375374
   imdb: tt0127731
   youtube: YxzbI82zXqg
+  tmdb: 252179
 sources:
 - https://www.wikidata.org/wiki/Q4375374
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mironova-mariya-vladimirovna
 studio:
 - ekran
+poster_tmdb_path: /1cOElsfywDtkJhbzUFsdIWgwDBX.jpg
+backdrop_tmdb_path: /516TzxZH7qzYRk3dSv9Z10Gdwxn.jpg

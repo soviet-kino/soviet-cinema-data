@@ -79,6 +79,9 @@ topics:
 external_ids:
   wikidata: Q738526
   imdb: tt0060802
+  tmdb: 789
 sources:
 - https://www.wikidata.org/wiki/Q738526
 schema_version: 1
+poster_tmdb_path: /26lAYYdGpqfbbp5fQnuruKHTU91.jpg
+backdrop_tmdb_path: /pe2APM7NsJXfNRfq2cUWdc0dRbQ.jpg

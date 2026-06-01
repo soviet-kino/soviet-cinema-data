@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q4464319
   imdb: tt0125719
+  tmdb: 626011
 sources:
 - https://www.wikidata.org/wiki/Q4464319
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: maftey-ernest
 - person: chobanu-ilarion
 - person: etterle-fori
+poster_tmdb_path: /egpFpgvKgTwPTwOVJqLWaHqVo2A.jpg

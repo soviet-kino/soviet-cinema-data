@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4055402
   imdb: tt0096858
   youtube: M5xA3aT0Adc
+  tmdb: 208701
 sources:
 - https://www.wikidata.org/wiki/Q4055402
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: romanov-boris-leonidovich
 studio:
 - mosfilm
+poster_tmdb_path: /matQUPMpkFklwtjxEpXSmMfzlY2.jpg
+backdrop_tmdb_path: /dr40DJ4pjSlim5YI2vLqdUZ666Y.jpg

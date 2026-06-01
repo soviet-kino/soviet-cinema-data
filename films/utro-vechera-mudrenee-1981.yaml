@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65196696
   imdb: tt5578794
   youtube: 03ThL3EZ8UE
+  tmdb: 1307090
 sources:
 - https://www.wikidata.org/wiki/Q65196696
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - muratov-aleksandr-igorevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lpHyZOlVt7qg22bjcXr0KpARhnW.jpg
+backdrop_tmdb_path: /1sjpDqpZcsaPXcsNGOBWuPBTUhu.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4124376
   imdb: tt0334652
   youtube: UJdk9zxy4Do
+  tmdb: 80074
 sources:
 - https://www.wikidata.org/wiki/Q4124376
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - shvarts-lev-oleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /wxSu1Dl4nGGAS0aQe6tVkQbIDGS.jpg
+backdrop_tmdb_path: /xKsDzGAZ273GhpQ686noVdw40dL.jpg

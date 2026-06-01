@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q11863124
   imdb: tt0169760
   youtube: FN8Tbu0rmbU
+  tmdb: 467535
 sources:
 - https://www.wikidata.org/wiki/Q11863124
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: holanova-marie
 - person: bukovy-antonin
 - person: hallerova-marie
+poster_tmdb_path: /zg7B2GHdoavMEw58mmbdwcMmFmd.jpg

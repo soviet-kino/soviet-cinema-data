@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4167293
   imdb: tt0067013
   youtube: 3d_t7u_XKSY
+  tmdb: 65286
 sources:
 - https://www.wikidata.org/wiki/Q4167293
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 cast:
 - person: tabakov-oleg-pavlovich
 - person: mironov-andrey
+poster_tmdb_path: /8YCATNYlCVfbYX9xdGk8i3AVMsf.jpg
+backdrop_tmdb_path: /zCVKWzeAL4WVJPstxBFxD5s2jtl.jpg

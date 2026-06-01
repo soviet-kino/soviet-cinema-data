@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q552734
   imdb: tt0097292
   youtube: L1wFZY7c9Kw
+  tmdb: 64508
 sources:
 - https://www.wikidata.org/wiki/Q552734
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: gote-ann
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /dWGE56b8DOSZCzKLlslviB6GtJX.jpg
+backdrop_tmdb_path: /oDtrJiviv8Ef7iqGPfarLg9RHqQ.jpg

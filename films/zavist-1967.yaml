@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q135726755
   imdb: tt5876246
+  tmdb: 1238745
 sources:
 - https://www.wikidata.org/wiki/Q135726755
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: krasko-ivan-ivanovich
 - person: lisyanskaya-anna-grigorevna
 - person: trofimov-nikolay-nikolaevich
+poster_tmdb_path: /2bDFehxsUUWYwSe7akcDbRf5OFH.jpg

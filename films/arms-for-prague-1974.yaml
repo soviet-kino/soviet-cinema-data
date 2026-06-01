@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q10857365
   imdb: tt0261451
+  tmdb: 408408
 sources:
 - https://www.wikidata.org/wiki/Q10857365
 schema_version: 1
@@ -80,3 +81,4 @@ cast:
 - person: sedivy-vladimir
 - person: sgalitzer-gerhard
 - person: sulc-jiri
+poster_tmdb_path: /xIgR6SvzoUHu3mxX2jukGWzQ82x.jpg

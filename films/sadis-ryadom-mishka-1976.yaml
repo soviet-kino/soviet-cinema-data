@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56337637
   imdb: tt1519393
   youtube: wpp-XFiVEqI
+  tmdb: 470346
 sources:
 - https://www.wikidata.org/wiki/Q56337637
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - muravlyov-aleksey-alekseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /wjJViYaEkghw1gWu3TWQt6fNJSO.jpg
+backdrop_tmdb_path: /xqlSEBKEInpKX10evDmfb9sNWXe.jpg

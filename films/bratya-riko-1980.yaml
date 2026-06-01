@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q17043455
   imdb: tt3465286
   youtube: 7bMZyJhHjrs
+  tmdb: 1239137
 sources:
 - https://www.wikidata.org/wiki/Q17043455
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - artemyev-eduard
 studio:
 - belarusfilm
+poster_tmdb_path: /2EKb2mbIDWqRQDZgtQ4mDu2RwaW.jpg
+backdrop_tmdb_path: /1nko4LsnOmhfC2j3fmru1UOwMgY.jpg

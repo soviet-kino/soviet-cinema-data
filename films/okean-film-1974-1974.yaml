@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116864885
   imdb: tt0071937
+  tmdb: 287276
 sources:
 - https://www.wikidata.org/wiki/Q116864885
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: rechman-viktor-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /lHEvjugkip38IaQ0CDLpKsVeIJw.jpg
+backdrop_tmdb_path: /eTUNZGRiadONr2qpxKk7G9VDbvW.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q12750840
   imdb: tt0182037
+  tmdb: 284224
 sources:
 - https://www.wikidata.org/wiki/Q12750840
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dzhurich-slobodan
 - person: burdus-jovan-janicijevic
 - person: zorka-manoylovich
+poster_tmdb_path: /yDlQaBw5hdOh7NJITFlkJGvgeoZ.jpg

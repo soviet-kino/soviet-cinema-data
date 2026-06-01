@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4415698
   imdb: tt1525884
+  tmdb: 703748
 sources:
 - https://www.wikidata.org/wiki/Q4415698
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - nemen-cheslav
 cast:
 - person: kristina-senkevich
+poster_tmdb_path: /7SHnMq8eg2wnumIileN5gr4ecVi.jpg

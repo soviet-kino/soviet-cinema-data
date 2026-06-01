@@ -8,6 +8,7 @@ runtime_min: 578
 external_ids:
   wikidata: Q24930699
   imdb: tt6424342
+  tmdb: 440575
 sources:
 - https://www.wikidata.org/wiki/Q24930699
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - tukhmanov-david-fyodorovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7y1iRgoI5sdAC2FsOl5xrbP5MLW.jpg
+backdrop_tmdb_path: /t6oirTnFgvg95LzfMKvbYoNIcld.jpg

@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q109428510
   imdb: tt2938690
+  tmdb: 885883
 sources:
 - https://www.wikidata.org/wiki/Q109428510
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /u9YlJKaZQpLTQdPRh19HFuIODIO.jpg

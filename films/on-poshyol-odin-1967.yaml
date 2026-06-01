@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24955970
   imdb: tt0336379
+  tmdb: 493270
 sources:
 - https://www.wikidata.org/wiki/Q24955970
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - tyolke-verner
 cast:
 - person: tyolke-verner
+poster_tmdb_path: /l6YNz4tJKhcJNKBTeIMIeazWHDA.jpg

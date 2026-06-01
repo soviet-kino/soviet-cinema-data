@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4230756
   imdb: tt2076244
   youtube: CQo9KjWXTtw
+  tmdb: 892236
 sources:
 - https://www.wikidata.org/wiki/Q4230756
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /5izwQ55u2e57S6Cted6UitZy9OT.jpg
+backdrop_tmdb_path: /bOQw4CEVXvSJGQM651cvXBfIr62.jpg

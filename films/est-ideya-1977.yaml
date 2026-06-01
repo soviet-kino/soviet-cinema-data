@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4177245
   imdb: tt1718957
   youtube: 61r3hHkjiy4
+  tmdb: 889109
 sources:
 - https://www.wikidata.org/wiki/Q4177245
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: lebedev-evgeniy-alekseevich
+poster_tmdb_path: /lIszRt9SX2kl8wy2vjRQTJ7GWZC.jpg
+backdrop_tmdb_path: /hMOHDPIS1Z0pIM6Lva5a7lXrt1V.jpg

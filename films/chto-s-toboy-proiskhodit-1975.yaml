@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4517309
   imdb: tt0379596
   youtube: Axk0XmNlPgw
+  tmdb: 558041
 sources:
 - https://www.wikidata.org/wiki/Q4517309
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: baranov-vyacheslav-vasilevich
+poster_tmdb_path: /zcuKQ6ptDyDqFAAKXmM05QNESqR.jpg
+backdrop_tmdb_path: /f3qzTbejOptJQvKaMR9SL6mRTsW.jpg

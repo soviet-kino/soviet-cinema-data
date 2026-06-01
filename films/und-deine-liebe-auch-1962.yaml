@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q426374
   imdb: tt0055716
+  tmdb: 2217
 sources:
 - https://www.wikidata.org/wiki/Q426374
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: besendahl-maria
 - person: szekely-kati
 - person: lind-katarina
+poster_tmdb_path: /wRanyNLLR2d9j2KF9saKOnsIWcc.jpg

@@ -8,6 +8,7 @@ runtime_min: 636
 external_ids:
   wikidata: Q15271114
   imdb: tt2385029
+  tmdb: 219801
 sources:
 - https://www.wikidata.org/wiki/Q15271114
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - yurovskiy-vladimir-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8OXdjZdJBzpHbzR115bfDHB6int.jpg

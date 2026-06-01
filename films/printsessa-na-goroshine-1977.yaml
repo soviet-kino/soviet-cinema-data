@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q13360042
   imdb: tt0075104
   youtube: V1yhYqlWW7o
+  tmdb: 149832
 sources:
 - https://www.wikidata.org/wiki/Q13360042
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kvasha-igor-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /kV6SbOzBd9RzX35Sob44WZRbgcZ.jpg
+backdrop_tmdb_path: /lkqefMuiPaWtUosxxZEP46N8ihR.jpg

@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q7585767
   imdb: tt0055474
+  tmdb: 269036
 sources:
 - https://www.wikidata.org/wiki/Q7585767
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: dimitrijevic-mila
 - person: prosen-irena
 - person: krca-drago
+poster_tmdb_path: /bYv0RfUxaoj6fQqTmZpFTUaIvK1.jpg

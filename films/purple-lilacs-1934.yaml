@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1130087
   imdb: tt0025396
+  tmdb: 41013
 sources:
 - https://www.wikidata.org/wiki/Q1130087
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - sekeli-stiv
 screenwriter:
 - mikhali-ishtvan
+poster_tmdb_path: /mH6z8eC7lnumpitgaEjNdxx1flT.jpg

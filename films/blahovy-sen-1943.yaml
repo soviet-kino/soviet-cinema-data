@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q4930906
   imdb: tt0256655
+  tmdb: 512329
 sources:
 - https://www.wikidata.org/wiki/Q4930906
 schema_version: 1
@@ -81,3 +82,4 @@ cast:
 - person: vavrincova-tatana
 - person: krch-jiri
 - person: inglerova-cerna-kata
+poster_tmdb_path: /eRoK7hFqLmowraFedLbFYipvVZJ.jpg

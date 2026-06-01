@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4095614
   imdb: tt0049147
   youtube: JcbaZ9WMuD4
+  tmdb: 123513
 sources:
 - https://www.wikidata.org/wiki/Q4095614
 schema_version: 1
@@ -111,3 +112,5 @@ cast:
 - person: zak
 studio:
 - barrandov
+poster_tmdb_path: /p2yY9bvLb4MEyx54ZWa3z30fiV8.jpg
+backdrop_tmdb_path: /jQH5gsn4ElMKVhaDyilfI4QtV4P.jpg

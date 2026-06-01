@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q11836453
   imdb: tt0309540
+  tmdb: 46631
 sources:
 - https://www.wikidata.org/wiki/Q11836453
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - gurnik-ilya
 studio:
 - jiri-trnka-studio
+poster_tmdb_path: /vIa3GwsAW7T0syEK6jrideft0PS.jpg

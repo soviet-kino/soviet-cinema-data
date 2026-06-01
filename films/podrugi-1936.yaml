@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q949217
   imdb: tt0026874
+  tmdb: 306821
 sources:
 - https://www.wikidata.org/wiki/Q949217
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Кадр из фильма «Подруги» (СССР, 1935).jpg
+poster_tmdb_path: /gwqEv7GZyqH9KtLsHdneTcljda6.jpg
+backdrop_tmdb_path: /tgwcG9NwbQPFYvBIDZ4QmPwkfez.jpg

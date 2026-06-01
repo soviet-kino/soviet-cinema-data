@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7577106
   imdb: tt0051002
+  tmdb: 279855
 sources:
 - https://www.wikidata.org/wiki/Q7577106
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - khasler-yoakhim
 composer:
 - byottkher-martin
+poster_tmdb_path: /xPyMtRPqFFZDehoxaEckzXhmjCe.jpg
+backdrop_tmdb_path: /eixBCmtOOM4OHx4ATwh1MBKNWpA.jpg

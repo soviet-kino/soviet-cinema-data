@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4058728
   imdb: tt0060083
   youtube: ea1zhARC0rQ
+  tmdb: 63569
 sources:
 - https://www.wikidata.org/wiki/Q4058728
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: smirnov-aleksey-makarovich
 - person: knyazeva-lidiya-nikolaevna
 - person: vasilev-evgeniy-nikolaevich
+poster_tmdb_path: /bJqrD2ciw8XlARdkTLGl9zkaXrp.jpg
+backdrop_tmdb_path: /n1Lam8bwwdELlsAwaq05Y8Gb4SZ.jpg

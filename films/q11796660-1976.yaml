@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11796660
   imdb: tt0074999
+  tmdb: 933469
 sources:
 - https://www.wikidata.org/wiki/Q11796660
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: dykel-bozhena
+poster_tmdb_path: /bfiOCWzLhHYVnbIOVEUB9Rdmslx.jpg

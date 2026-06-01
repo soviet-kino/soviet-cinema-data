@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q130389798
   imdb: tt0337444
+  tmdb: 638171
 sources:
 - https://www.wikidata.org/wiki/Q130389798
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kazhlaev-murad-magomedovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /6lbkn6MGvNBX92Wq9gDF1AwSBSh.jpg

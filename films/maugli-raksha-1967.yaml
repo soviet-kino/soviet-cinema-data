@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q3852390
   imdb: tt1258203
+  tmdb: 194148
 sources:
 - https://www.wikidata.org/wiki/Q3852390
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - davydov-roman-vladimirovich
 cinematographer:
 - petrova-elena-nikolaevna
+poster_tmdb_path: /tpUzLw9kxGlDIWSY5irvQejE36e.jpg

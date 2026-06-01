@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q16516882
   imdb: tt0063768
+  tmdb: 219748
 sources:
 - https://www.wikidata.org/wiki/Q16516882
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - khildebrand-ishtvan
 composer:
 - dobosh-attila
+poster_tmdb_path: /3LgfvcGqDHhHk5E9eoDdFDb5shj.jpg
+backdrop_tmdb_path: /7gvn742WSW45kPzT2yM3Af2ziN3.jpg

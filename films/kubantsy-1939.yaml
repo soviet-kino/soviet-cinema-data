@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q116864918
   imdb: tt0351191
   youtube: BqwnJDoJ8LE
+  tmdb: 637138
 sources:
 - https://www.wikidata.org/wiki/Q116864918
 schema_version: 1
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gymjPCBp4xyXR5SyYIYt1Mfn5cF.jpg

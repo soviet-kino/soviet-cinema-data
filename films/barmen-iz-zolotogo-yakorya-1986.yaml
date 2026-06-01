@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4078366
   imdb: tt0090699
   youtube: bHQQpLa-Xlw
+  tmdb: 127588
 sources:
 - https://www.wikidata.org/wiki/Q4078366
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: gerasimov-evgeniy-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ea6SoBJkeQqBO2847ckNPDR6dW1.jpg
+backdrop_tmdb_path: /neC2Fx0D3nF8qYczPdSDq1kkBQo.jpg

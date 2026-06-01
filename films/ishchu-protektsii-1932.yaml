@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428739
   imdb: tt0254436
+  tmdb: 797604
 sources:
 - https://www.wikidata.org/wiki/Q109428739
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: zheymo-yanina-boleslavovna
 - person: kostrichkin-andrey-andreevich
 - person: pyryalova-evgeniya
+poster_tmdb_path: /yd3l5Czu0rOE5zLqYLQqyfkdwT4.jpg

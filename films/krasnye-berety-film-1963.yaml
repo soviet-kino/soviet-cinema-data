@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9198823
   imdb: tt0056971
+  tmdb: 582762
 sources:
 - https://www.wikidata.org/wiki/Q9198823
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: kotsinyak-marian
+poster_tmdb_path: /8effWj4Elf9c6HIRMUZK4JhASOl.jpg
+backdrop_tmdb_path: /dkpaNEBkgx89o0VSpGf0H4dkYez.jpg

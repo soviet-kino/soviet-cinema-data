@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q12761714
   imdb: tt0078729
+  tmdb: 47899
 sources:
 - https://www.wikidata.org/wiki/Q12761714
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: gabris-peter
 - person: bruchac-milan
 - person: lakatosova-anetka
+poster_tmdb_path: /un7w7qn6E9Uru7Wj4ijyshb41DF.jpg
+backdrop_tmdb_path: /2paqWsYmVAdECO4FAvhBH0Scf7K.jpg

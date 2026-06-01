@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q124830516
   imdb: tt1139667
+  tmdb: 1384268
 sources:
 - https://www.wikidata.org/wiki/Q124830516
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zoya-fyodorovna-barantsevich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /9iAMLEtZLbQJkX0M8ftuOZUGv6V.jpg

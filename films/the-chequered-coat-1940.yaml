@@ -8,8 +8,10 @@ runtime_min: 85
 external_ids:
   wikidata: Q124285720
   imdb: tt0138699
+  tmdb: 370352
 sources:
 - https://www.wikidata.org/wiki/Q124285720
 schema_version: 1
 director:
 - martonffy-emil
+poster_tmdb_path: /2obvvV6H1Ln6h8MJGmDvATQpfJn.jpg

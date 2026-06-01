@@ -8,6 +8,7 @@ runtime_min: 129
 external_ids:
   wikidata: Q113290719
   imdb: tt5902720
+  tmdb: 1315119
 sources:
 - https://www.wikidata.org/wiki/Q113290719
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: platov-vsevolod-nikolaevich
 - person: antonenko-lukonina-anna
 - person: serebrennikov-nikolay-nikolaevich
+poster_tmdb_path: /p0mbxYezXZ2RXrifmUICvTO1qKg.jpg

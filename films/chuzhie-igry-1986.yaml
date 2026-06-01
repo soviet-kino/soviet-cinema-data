@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16402375
   imdb: tt0275262
   youtube: CWd3SsM_vvY
+  tmdb: 1018679
 sources:
 - https://www.wikidata.org/wiki/Q16402375
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: manukyan-artsrun
 studio:
 - armenfilm
+poster_tmdb_path: /n5wDdSRc2TFiJzio2bq8eAj0i1g.jpg
+backdrop_tmdb_path: /4mV2HDCtLiUjlbkweTVUCRpEzw.jpg

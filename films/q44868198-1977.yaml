@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44868198
   imdb: tt0076434
+  tmdb: 621341
 sources:
 - https://www.wikidata.org/wiki/Q44868198
 schema_version: 1
 director:
 - veroyu-mircha
+poster_tmdb_path: /yPO6aHGkCV29CAkwqnN30XUFqBy.jpg

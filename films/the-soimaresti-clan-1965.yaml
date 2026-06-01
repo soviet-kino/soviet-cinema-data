@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q18544277
   imdb: tt0059500
+  tmdb: 316160
 sources:
 - https://www.wikidata.org/wiki/Q18544277
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: laptesh-titus
 - person: dimitriu-toma
 - person: chyubotarasu-shtefan
+poster_tmdb_path: /cuDbmh3Nqg6IPSL0y75VRkWt6vK.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q7862765
   imdb: tt0395793
+  tmdb: 66023
 sources:
 - https://www.wikidata.org/wiki/Q7862765
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: janat-frantisek
 - person: capek-bedrich
 - person: mach-petr
+poster_tmdb_path: /jl5IR9t3yYr13BMrI8qqJlkdJRl.jpg

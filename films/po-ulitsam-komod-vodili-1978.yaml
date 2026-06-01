@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366124
   imdb: tt0078094
   youtube: UgiqFskTrps
+  tmdb: 433896
 sources:
 - https://www.wikidata.org/wiki/Q4366124
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: seleznyova-natalya-igorevna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /gl4fvXGAj6hRmQvXbvpOMSWeX38.jpg
+backdrop_tmdb_path: /At9ZGmh28Qd2TKWJ6LHyicvxjNQ.jpg

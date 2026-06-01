@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1962773
   imdb: tt0057196
+  tmdb: 129659
 sources:
 - https://www.wikidata.org/wiki/Q1962773
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kalinovskiy-tadeush
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /fZq2sN8IEONLifbDdGMOKA4v5Gm.jpg
+backdrop_tmdb_path: /zY4tdPsfbXBWmKC65EYAe9m1w4T.jpg

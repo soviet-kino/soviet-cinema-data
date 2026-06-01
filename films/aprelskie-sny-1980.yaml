@@ -8,6 +8,7 @@ runtime_min: 127
 external_ids:
   wikidata: Q4068227
   imdb: tt1636728
+  tmdb: 401996
 sources:
 - https://www.wikidata.org/wiki/Q4068227
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: nikonenko-sergey
 studio:
 - tadzhikfilm
+poster_tmdb_path: /o2FZgTduevF3Q00fjVwDytJZCxj.jpg
+backdrop_tmdb_path: /joyp63NBHKzRZUP45rMGVfMzFzL.jpg

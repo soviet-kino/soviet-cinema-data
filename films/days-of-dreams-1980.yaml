@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5243369
   imdb: tt0204241
+  tmdb: 390026
 sources:
 - https://www.wikidata.org/wiki/Q5243369
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: komnenic-boris
 - person: kriticheski-liliana
 - person: vladitsa-miloslavovich
+poster_tmdb_path: /xj3mRbLTzmdTwsbqeuP86vLiYKj.jpg

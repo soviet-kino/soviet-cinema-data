@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12723049
   imdb: tt0121126
+  tmdb: 42281
 sources:
 - https://www.wikidata.org/wiki/Q12723049
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: mandache-rodika
 - person: rogin-virginia
 - person: miller-konstantin
+poster_tmdb_path: /vSDWfQjFz3u0m5wBwiAmN9XcBo6.jpg
+backdrop_tmdb_path: /noQWv5osZpzrcMgzEFNUMLqn6v9.jpg

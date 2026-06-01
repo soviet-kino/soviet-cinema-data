@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q112842800
   imdb: tt0097000
+  tmdb: 90270
 sources:
 - https://www.wikidata.org/wiki/Q112842800
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - les-productions-la-fete
 - q123900976
+poster_tmdb_path: /j1MVSUsNFgqo9cT6HcQexAoxtPV.jpg
+backdrop_tmdb_path: /zgcbZmSV7I69uJ9zGrKB5Wv0lhq.jpg

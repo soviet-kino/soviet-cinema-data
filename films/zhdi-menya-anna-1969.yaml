@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4178558
   imdb: tt0065244
   youtube: tee0gAL9SdI
+  tmdb: 531885
 sources:
 - https://www.wikidata.org/wiki/Q4178558
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: eremeev-mikhail-leonidovich
 studio:
 - belarusfilm
+poster_tmdb_path: /rYAPJAY22aAaS2Pw4NejzcXO1JP.jpg
+backdrop_tmdb_path: /jhGG5VRZyaj6l5brjL0LXz6ZST1.jpg

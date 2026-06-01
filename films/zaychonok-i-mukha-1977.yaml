@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4184546
   imdb: tt2315778
+  tmdb: 453587
 sources:
 - https://www.wikidata.org/wiki/Q4184546
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - yakushenko-igor
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /bRcgubODIeWzluYLZDaJJRnxK.jpg

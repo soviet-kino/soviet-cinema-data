@@ -8,6 +8,7 @@ runtime_min: 56
 external_ids:
   wikidata: Q11825944
   imdb: tt0170443
+  tmdb: 618576
 sources:
 - https://www.wikidata.org/wiki/Q11825944
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: aczynska-ludmi-a
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /hOpe4pe74jqyFKAuWooo8VDiWW3.jpg
+backdrop_tmdb_path: /qeRLV87rnH9CvRvKMypticX92GV.jpg

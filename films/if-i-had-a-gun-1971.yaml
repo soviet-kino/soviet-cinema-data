@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q17166543
   imdb: tt0175803
+  tmdb: 100590
 sources:
 - https://www.wikidata.org/wiki/Q17166543
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: koncek-michal
 - person: lackova-zlatica
 - person: mikulas-stefan
+poster_tmdb_path: /zjzD9Wm0cJctfrqe2cDRdUStr5S.jpg
+backdrop_tmdb_path: /t3YY8lhiWj48sDFeqYQYp3AjGR9.jpg

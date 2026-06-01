@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4156491
   imdb: tt1476975
+  tmdb: 885495
 sources:
 - https://www.wikidata.org/wiki/Q4156491
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - butsko-yuriy-markovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /iRZCInpzoEOZL3ZCGc1uaar3OXG.jpg

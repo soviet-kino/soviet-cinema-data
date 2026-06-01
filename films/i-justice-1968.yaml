@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q5967431
   imdb: tt0123933
+  tmdb: 344941
 sources:
 - https://www.wikidata.org/wiki/Q5967431
 schema_version: 1
@@ -77,3 +78,5 @@ cast:
 studio:
 - barrandov
 - defa
+poster_tmdb_path: /Ag7uU7dfGXQSJk9tha2Fzgvauug.jpg
+backdrop_tmdb_path: /u5WVoQMG7JOykO3mwevpHSe3eLv.jpg

@@ -8,8 +8,11 @@ runtime_min: 49
 external_ids:
   wikidata: Q25468245
   imdb: tt0490929
+  tmdb: 632388
 sources:
 - https://www.wikidata.org/wiki/Q25468245
 schema_version: 1
 director:
 - nemere-laszlo
+poster_tmdb_path: /qDJ65btjoILV630eDGuWHfk8emb.jpg
+backdrop_tmdb_path: /umLaZGlpfRG6SgZP1B52bijvFl3.jpg

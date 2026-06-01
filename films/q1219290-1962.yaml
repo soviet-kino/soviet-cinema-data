@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1219290
   imdb: tt0230742
+  tmdb: 281366
 sources:
 - https://www.wikidata.org/wiki/Q1219290
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: engelmann-harald
 - person: vyunsher-marianna
 - person: shelkher-raymund
+poster_tmdb_path: /ApNiiBtW98bnQYCwDAxKwpsGLhL.jpg

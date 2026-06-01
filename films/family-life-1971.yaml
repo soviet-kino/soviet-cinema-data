@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q928260
   imdb: tt0068021
+  tmdb: 245073
 sources:
 - https://www.wikidata.org/wiki/Q928260
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: braun-edvin
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /lbYXJBsFaDn2BHjM6AhTb88DHXM.jpg
+backdrop_tmdb_path: /iW0u8MSoDwsOiUs040H0r4E0gAL.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3510411
   imdb: tt0183565
+  tmdb: 476849
 sources:
 - https://www.wikidata.org/wiki/Q3510411
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - simatovic-sime
 screenwriter:
 - shibl-ivan
+poster_tmdb_path: /8VYeWkvWwVIQTcMNA8glHlz7pM9.jpg

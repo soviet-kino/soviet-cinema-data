@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1169933
   imdb: tt0166804
   youtube: _Ow0CyiHqrk
+  tmdb: 20946
 sources:
 - https://www.wikidata.org/wiki/Q1169933
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: morgunov-evgeniy-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /zWMzUJMItGu80kcwMO1Y5S2rJZT.jpg
+backdrop_tmdb_path: /mgHfKr8I5WxF7QZXtnhqzyFreqj.jpg

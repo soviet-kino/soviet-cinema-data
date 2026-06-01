@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q15270623
   imdb: tt0040014
+  tmdb: 780567
 sources:
 - https://www.wikidata.org/wiki/Q15270623
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: randviyr-aleksandr-augustovich
 studio:
 - lenfilm
+poster_tmdb_path: /xLOPpS48SnIbRcjcWpdLp5p5uzM.jpg
+backdrop_tmdb_path: /C4eqIR0b5HAMe9iUr5z5v2y1VQ.jpg

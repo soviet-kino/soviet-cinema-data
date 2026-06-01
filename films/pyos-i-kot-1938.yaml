@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4386166
   imdb: tt0360987
+  tmdb: 253770
 sources:
 - https://www.wikidata.org/wiki/Q4386166
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - atamanov-lev
 studio:
 - armenfilm
+poster_tmdb_path: /tA6Cn3lZhvRQP1ui6Co6gs0B5yl.jpg

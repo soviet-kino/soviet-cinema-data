@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q130389828
   imdb: tt0073186
+  tmdb: 1256485
 sources:
 - https://www.wikidata.org/wiki/Q130389828
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - lenfilm
 cast:
 - person: kharitonov-aleksandr-ivanovich
+poster_tmdb_path: /cqjh2HVWn48s6vZv5QLKTe65sbF.jpg

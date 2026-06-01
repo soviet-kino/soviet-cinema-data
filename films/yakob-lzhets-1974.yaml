@@ -58,6 +58,9 @@ runtime_min: 100
 external_ids:
   wikidata: Q656707
   imdb: tt0071688
+  tmdb: 2200
 sources:
 - https://www.wikidata.org/wiki/Q656707
 schema_version: 1
+poster_tmdb_path: /9MuBEitWMoLo7v9GjrFLJWaV0PM.jpg
+backdrop_tmdb_path: /sbq7q2PkYvzgbOlVAICmzXBldWu.jpg

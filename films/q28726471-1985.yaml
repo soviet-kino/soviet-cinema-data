@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726471
   imdb: tt0090387
+  tmdb: 623750
 sources:
 - https://www.wikidata.org/wiki/Q28726471
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - tatos-alexandru
 screenwriter:
 - selkudyanu-petre
+poster_tmdb_path: /tJ0ntpvdlaeNNB00jL35aG1QSl7.jpg

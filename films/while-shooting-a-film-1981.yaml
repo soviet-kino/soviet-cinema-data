@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q11738957
   imdb: tt0295382
+  tmdb: 480854
 sources:
 - https://www.wikidata.org/wiki/Q11738957
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - vreto-shpresa
 composer:
 - peci-aleksander
+poster_tmdb_path: /kGIOWpJxzep4nQ8Vp6eyIcVfN1i.jpg
+backdrop_tmdb_path: /oHIZhVSymDc3MJQ3GgTmJDPD7t6.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4155569
   imdb: tt0383326
+  tmdb: 530685
 sources:
 - https://www.wikidata.org/wiki/Q4155569
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: dolgorukova-lyudmila-nikolaevna
 - person: koretskiy-vladimir-ivanovich
+poster_tmdb_path: /uBX5IiZue1jwhBatX0bDIbqIEuI.jpg
+backdrop_tmdb_path: /1HfrZAdIOfHVGj47NM7EPytJyAy.jpg

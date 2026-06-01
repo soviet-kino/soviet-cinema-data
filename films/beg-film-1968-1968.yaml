@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748794
   imdb: tt0202177
+  tmdb: 1643379
 sources:
 - https://www.wikidata.org/wiki/Q12748794
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: saric-ratko
 - person: neda-spasoevich
 - person: jelisic-or-e
+poster_tmdb_path: /bh55jWMsJ5IRjgMhoYwJSYqP2K5.jpg

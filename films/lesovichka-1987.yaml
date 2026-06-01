@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97193116
   imdb: tt0137149
+  tmdb: 88845
 sources:
 - https://www.wikidata.org/wiki/Q97193116
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kherabor-manuela
 - person: badarau-den
 - person: chontya-ana
+poster_tmdb_path: /9xRMb8MKQBWKwJsyNMEjlagSZfS.jpg
+backdrop_tmdb_path: /2gDgR8B4TEhx3jyuyFXJstDxijH.jpg

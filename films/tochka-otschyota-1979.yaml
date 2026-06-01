@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25395158
   imdb: tt0314791
   youtube: _ffWCpDhlKA
+  tmdb: 641484
 sources:
 - https://www.wikidata.org/wiki/Q25395158
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - yanchenko-oleg-grigorevich
 studio:
 - belarusfilm
+poster_tmdb_path: /wTwC8cB1KPUX5CCebTRMMEhawYw.jpg
+backdrop_tmdb_path: /hTWvyRzCcKE3dh4mIOL7ef0fcNq.jpg

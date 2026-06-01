@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4230741
   imdb: tt0168029
   youtube: Q9N6YpbiIzM
+  tmdb: 138265
 sources:
 - https://www.wikidata.org/wiki/Q4230741
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - mosfilm
 cast:
 - person: volkov-mikhail-davidovich
+poster_tmdb_path: /iMyj6KWHDKSxpSFrt7etkyZURWE.jpg
+backdrop_tmdb_path: /sH006JwcWEceegoTKnqpl7XkSqH.jpg

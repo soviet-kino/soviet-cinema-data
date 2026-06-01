@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q425937
   imdb: tt0204526
+  tmdb: 46908
 sources:
 - https://www.wikidata.org/wiki/Q425937
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - lenfilm
 - tallinfilm
+poster_tmdb_path: /gWFvkx95eyF7BxfDloeb15WjwHe.jpg
+backdrop_tmdb_path: /9KEAFYTnVlEbiNtrbQN2tKD87PR.jpg

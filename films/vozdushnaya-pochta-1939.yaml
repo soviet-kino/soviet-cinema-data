@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q116811392
   imdb: tt15788094
+  tmdb: 1456098
 sources:
 - https://www.wikidata.org/wiki/Q116811392
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - poznanskiy-dmitriy-alekseevich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /xJoRAmc3Yzid2VPkE3V2oitTSRB.jpg
+backdrop_tmdb_path: /yGLumJPlyv1Y7FyLnaxWIX66R6i.jpg

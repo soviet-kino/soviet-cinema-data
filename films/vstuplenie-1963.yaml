@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3800802
   imdb: tt0175312
   youtube: qkurvKhe9ec
+  tmdb: 204188
 sources:
 - https://www.wikidata.org/wiki/Q3800802
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: burlakova-vera-nikolaevna
 - person: pavlycheva-antonina-pavlovna
 - person: tolbuzina-zoya-nikolaevna
+poster_tmdb_path: /7ZXNmQB8rXN6ug4AE9WXDgwYsO3.jpg
+backdrop_tmdb_path: /caZNbJrwDWvFqHVLk8QnJUqVARy.jpg

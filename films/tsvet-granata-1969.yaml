@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q2235380
   imdb: tt0063555
+  tmdb: 26302
 sources:
 - https://www.wikidata.org/wiki/Q2235380
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gegechkori-georgiy-vladimirovich
 - person: dzhaparidze-medeya-valerianovna
 - person: galstyan-vilen
+poster_tmdb_path: /qtdTymLfdKeeZZOolqbxr5vzzh0.jpg
+backdrop_tmdb_path: /xd4P9EIV3T2Keh3aGnuEVWt5lh4.jpg

@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q16514546
   imdb: tt8157048
+  tmdb: 533125
 sources:
 - https://www.wikidata.org/wiki/Q16514546
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: georgiu-georgiy-aleksandrovich
 - person: gribov-aleksey-nikolaevich
 - person: shpigel-grigoriy-oyzerovich
+poster_tmdb_path: /y3PrmWznJ8dKiIfF2ffhZkYTJkR.jpg

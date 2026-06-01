@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q925852
   imdb: tt0053987
   youtube: _7jiwaPYslA
+  tmdb: 38311
 sources:
 - https://www.wikidata.org/wiki/Q925852
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: maksimova-antonina-mikhaylovna
 - person: semyonova-lyudmila-nikolaevna
 - person: zamanskiy-vladimir-petrovich
+poster_tmdb_path: /6mfGWct3N9dmItujZBtCS5DJ63M.jpg
+backdrop_tmdb_path: /wVGDzQBuSMKdzX7BVffnA49izHg.jpg

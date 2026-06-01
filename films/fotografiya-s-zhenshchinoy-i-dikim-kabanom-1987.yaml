@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4492200
   imdb: tt0301307
   youtube: PGQakXCcZXo
+  tmdb: 206938
 sources:
 - https://www.wikidata.org/wiki/Q4492200
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: khermanis-alvis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /osTUz6wZ6XFNFKrFavvaKze626w.jpg
+backdrop_tmdb_path: /b8H7f1ZK14nfUYlYLd4oSlO3DoK.jpg

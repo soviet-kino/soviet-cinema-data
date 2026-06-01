@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56367143
   imdb: tt0045273
+  tmdb: 1132103
 sources:
 - https://www.wikidata.org/wiki/Q56367143
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: yakovchenko-nikolay-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /fIas2OsQnPsavKgKWju3jqExilr.jpg
+backdrop_tmdb_path: /gj75Au3iEjxzcWjj3vN9O9QJQ5K.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12375359
   imdb: tt14770628
+  tmdb: 1570470
 sources:
 - https://www.wikidata.org/wiki/Q12375359
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - simm-peeter
 cinematographer:
 - mutt-anton
+poster_tmdb_path: /FZwfrrq5SWDMNU1wUX2f6eeORI.jpg
+backdrop_tmdb_path: /rcqSOobeHTeTWKB9rIx4jKnbNSP.jpg

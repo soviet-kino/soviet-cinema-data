@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q9388713
   imdb: tt0057716
+  tmdb: 75737
 sources:
 - https://www.wikidata.org/wiki/Q9388713
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: bryl-krystyna
 studio:
 - studio-kinostudiya
+poster_tmdb_path: /7oxXBD3mNk63llZ9ZmHJ9SByDuZ.jpg
+backdrop_tmdb_path: /bUrxZSswkspEXyGdUBTTPZgHdiI.jpg

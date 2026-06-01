@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q12073971
   imdb: tt5299510
+  tmdb: 370359
 sources:
 - https://www.wikidata.org/wiki/Q12073971
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: starikov-igor-viktorovich
 - person: cherkashin-roman-alekseevich
 - person: voronin-vyacheslav-anatolevich
+poster_tmdb_path: /bIdcHHFeCpUMVN2IVKPIDx6mOJL.jpg
+backdrop_tmdb_path: /vEdmii8tDn8S98rdvWOHevYybg8.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1195467
   imdb: tt0050282
+  tmdb: 132133
 sources:
 - https://www.wikidata.org/wiki/Q1195467
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: szymanska-natalia
 - person: q117086613
 - person: marecki-stanis-aw
+poster_tmdb_path: /rkJqzbT8vCcputkk3Co9N6Y8HvF.jpg
+backdrop_tmdb_path: /74b6NjIGLhmevICj0gLMrk4m3th.jpg

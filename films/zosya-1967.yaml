@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25396953
   imdb: tt0131659
   youtube: lIw9zETM1SQ
+  tmdb: 71364
 sources:
 - https://www.wikidata.org/wiki/Q25396953
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kamornyy-yuriy-yurevich
 - person: merzlikin-nikolay-nikolaevich
 - person: korneva-lyubov-aleksandrovna
+poster_tmdb_path: /hxTQSzaH7MBlHGSXTPVhP36Oe3w.jpg
+backdrop_tmdb_path: /AiDrh0P5rRxxfhpI2dr4HKzdyGQ.jpg

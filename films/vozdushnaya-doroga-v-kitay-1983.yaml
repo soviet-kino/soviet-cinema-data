@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q1478341
   imdb: tt0085678
+  tmdb: 19606
 sources:
 - https://www.wikidata.org/wiki/Q1478341
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: uilyams-piter-llevelin
 studio:
 - orange-sky-golden-harvest
+poster_tmdb_path: /ts6Pykj9IuVm1eWwaWiVl8Gzxqt.jpg
+backdrop_tmdb_path: /qToL8r6czDJEZwSorQAMbcbkERJ.jpg

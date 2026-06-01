@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11710937
   imdb: tt0057170
+  tmdb: 643562
 sources:
 - https://www.wikidata.org/wiki/Q11710937
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: kherder-andzhey
 - person: zbignev-yuzefovich
 - person: kucowna-zofia
+poster_tmdb_path: /4FvqUsHRFreGebhTUa5BkNvcmUD.jpg

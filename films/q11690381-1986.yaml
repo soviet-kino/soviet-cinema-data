@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11690381
   imdb: tt0090841
+  tmdb: 923120
 sources:
 - https://www.wikidata.org/wiki/Q11690381
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: goraj-maciej
 - person: leszczynski-mariusz
 - person: janowski-mieczys-aw
+poster_tmdb_path: /tu3hptawjeeX2ijEHRQeZivcAUy.jpg

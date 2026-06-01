@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q46996295
   imdb: tt0452280
+  tmdb: 879782
 sources:
 - https://www.wikidata.org/wiki/Q46996295
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - tuganov-elbert-azgireevich
 - saar-ants
 - pars-kheyno
+poster_tmdb_path: /kB5CDlUFfKF1ZhRGruKsesMZ3h9.jpg

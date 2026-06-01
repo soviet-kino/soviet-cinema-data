@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q8027932
   imdb: tt0064546
   youtube: kG101cC2W-g
+  tmdb: 62843
 sources:
 - https://www.wikidata.org/wiki/Q8027932
 schema_version: 1
@@ -91,3 +92,5 @@ cast:
 - person: prochazkova-s
 - person: propperova-r
 - person: sindlerova-l
+poster_tmdb_path: /cgVNVFCnI91xCADnB366I2N95z3.jpg
+backdrop_tmdb_path: /t37NBV44eyILIqbgmI3umhPY0rV.jpg

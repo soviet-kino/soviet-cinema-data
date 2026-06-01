@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15041814
   imdb: tt0097719
   youtube: EQfsh8ixN1M
+  tmdb: 114349
 sources:
 - https://www.wikidata.org/wiki/Q15041814
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: karner-brigitta
 - person: szinetar-dora
 - person: temessy-hedi
+poster_tmdb_path: /deBdbDeB6dku2hd0DegjfFX5LZl.jpg
+backdrop_tmdb_path: /qLdAdhfzUix0kjgga0P5IaLeG7T.jpg

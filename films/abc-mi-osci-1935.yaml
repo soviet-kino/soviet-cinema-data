@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4650283
   imdb: tt0142064
+  tmdb: 155326
 sources:
 - https://www.wikidata.org/wiki/Q4650283
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: orvid-yuzef
 - person: wywerkowna-basia
 - person: zarembina-helena
+poster_tmdb_path: /ei1qatkJowm8inkDEBWxlg4xi8d.jpg
+backdrop_tmdb_path: /bdCHir0431qAd69M367HvmSrBUt.jpg

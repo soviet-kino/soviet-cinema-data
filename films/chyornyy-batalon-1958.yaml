@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q18199080
   imdb: tt0247242
+  tmdb: 270350
 sources:
 - https://www.wikidata.org/wiki/Q18199080
 schema_version: 1
@@ -67,3 +68,4 @@ cast:
 - person: bartfay-jan
 - person: boar-marcel
 - person: recansone-renato
+poster_tmdb_path: /3w6f03EITlF3vvKHtA5ETXTwOXf.jpg

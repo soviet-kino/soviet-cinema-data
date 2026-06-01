@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q139575528
   imdb: tt39384653
+  tmdb: 1616176
 sources:
 - https://www.wikidata.org/wiki/Q139575528
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: shagayda-stepan-vasilevich
 - person: kaniansky-pavol
 - person: terekhov-gavriil
+poster_tmdb_path: /5WhfPl7jnBf6zH5FxGk5jhKmJln.jpg
+backdrop_tmdb_path: /oQstv8HFT7Ek6V5HBxWzk3Cwm1Z.jpg

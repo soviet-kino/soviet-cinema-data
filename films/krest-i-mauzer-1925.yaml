@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q24041153
   imdb: tt0015998
+  tmdb: 543340
 sources:
 - https://www.wikidata.org/wiki/Q24041153
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gurnyak-karl-adamovich
 studio:
 - goskino
+poster_tmdb_path: /l8vrBEoYwp1gXgEERH4ddMzAvpw.jpg
+backdrop_tmdb_path: /xEEKsIoMZJpbIhP1EVRb3NhVg9I.jpg

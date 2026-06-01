@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q11812487
   imdb: tt0171232
+  tmdb: 457392
 sources:
 - https://www.wikidata.org/wiki/Q11812487
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: nedbal-milosh
 - person: tikha-yaroslava
 - person: sticha-stanislav
+poster_tmdb_path: /fKykHjktKjJf4mmxieH9D10q9uW.jpg

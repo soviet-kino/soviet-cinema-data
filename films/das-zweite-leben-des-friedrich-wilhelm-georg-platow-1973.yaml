@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q15804716
   imdb: tt0070955
+  tmdb: 276595
 sources:
 - https://www.wikidata.org/wiki/Q15804716
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - dressel-roland
 composer:
 - wenzel-hans-jurgen
+poster_tmdb_path: /hv7FCNR9abCT8w51xuS5NR74mF7.jpg

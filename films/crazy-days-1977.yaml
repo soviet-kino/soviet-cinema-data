@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q5183136
   imdb: tt0187254
+  tmdb: 279408
 sources:
 - https://www.wikidata.org/wiki/Q5183136
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - babic-nikola
 cast:
 - person: lepetich-zvonko
+poster_tmdb_path: /ub9iVEMZjZEJVJqugRxgfnbGy8c.jpg
+backdrop_tmdb_path: /s9cQVnSy6mjviySUKYVqvmgvz7x.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q5918429
   imdb: tt0082576
+  tmdb: 84045
 sources:
 - https://www.wikidata.org/wiki/Q5918429
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: jindrova-petra
 - person: rosolova-zdenka
 - person: kucerova-daniela
+poster_tmdb_path: /ceb0tvoLtmh3naW9gO70to7jaen.jpg

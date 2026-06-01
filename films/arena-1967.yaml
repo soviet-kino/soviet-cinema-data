@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4069001
   imdb: tt0174472
+  tmdb: 600041
 sources:
 - https://www.wikidata.org/wiki/Q4069001
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: volodina-margarita-vladimirovna
 - person: melderis-yanis
 - person: strizhenov-gleb-aleksandrovich
+poster_tmdb_path: /zBRFjW3xmSogUWfar9W7jti9Bwd.jpg
+backdrop_tmdb_path: /u0eDomIFlVTmdmfFuAN5C0yoHdh.jpg

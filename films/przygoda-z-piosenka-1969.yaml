@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7253610
   imdb: tt0064850
+  tmdb: 240830
 sources:
 - https://www.wikidata.org/wiki/Q7253610
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: nawrocki-ryszard
 - person: shevchik-irena
 - person: grzybowski-maciej
+poster_tmdb_path: /zYodXZxGRX6TTrpGp5JJ6wf9gK2.jpg
+backdrop_tmdb_path: /dDUdAGnOQkdnsG7uWij9vzcTc4z.jpg

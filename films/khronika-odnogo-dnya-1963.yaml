@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12677143
   imdb: tt0471965
+  tmdb: 390856
 sources:
 - https://www.wikidata.org/wiki/Q12677143
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - zhalakyavichyus-vitautas
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /jIAID4ey3RHTJXfIwYXfBFyGzBJ.jpg
+backdrop_tmdb_path: /sJfqcm405g9idQsKKmiai6OLwmw.jpg

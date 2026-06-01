@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q2561725
   imdb: tt0240464
+  tmdb: 436617
 sources:
 - https://www.wikidata.org/wiki/Q2561725
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ihasz-aladar
 - person: lux-margit
 poster_commons: Drakula halála.jpg
+poster_tmdb_path: /sHSg6sGDjTFshhNNDWAA1ovzIdB.jpg
+backdrop_tmdb_path: /do6rkaKadgwASeQpUgg6wRpusYS.jpg

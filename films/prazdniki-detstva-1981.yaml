@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q117209584
   imdb: tt0237603
+  tmdb: 457400
 sources:
 - https://www.wikidata.org/wiki/Q117209584
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 - puchkov-nikolay
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /4vhquf5hH8t3vxBY3nrkc22BcRH.jpg
+backdrop_tmdb_path: /uGw1pGpjsQYdTTFSyLnuoCguOlj.jpg

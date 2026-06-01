@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4113875
   imdb: tt0213309
   youtube: owzE3voBfsw
+  tmdb: 160046
 sources:
 - https://www.wikidata.org/wiki/Q4113875
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - yakushenko-igor
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /85j8tvZDQbew6D1qBrRcLj4FmO1.jpg
+backdrop_tmdb_path: /foBDJqJ2ccznRvQad1jjZvNtlVP.jpg

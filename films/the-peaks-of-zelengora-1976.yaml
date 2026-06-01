@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q13566359
   imdb: tt0075407
+  tmdb: 4573
 sources:
 - https://www.wikidata.org/wiki/Q13566359
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: q12747891
 - person: mandich-velko
 - person: uric-branko
+poster_tmdb_path: /bOQdVRaVPcohFokApgyjUUDtlwv.jpg
+backdrop_tmdb_path: /wXaruUXxdTUGWXFTFommiRt6cmS.jpg

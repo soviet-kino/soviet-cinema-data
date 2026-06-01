@@ -8,6 +8,7 @@ runtime_min: 127
 external_ids:
   wikidata: Q28706584
   imdb: tt0338063
+  tmdb: 557875
 sources:
 - https://www.wikidata.org/wiki/Q28706584
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: martynyuk-georgiy-yakovlevich
 - person: serdyuk-aleksandr-ivanovich
 - person: strzhelchik-vladislav-ignatevich
+poster_tmdb_path: /eo4dMlTStKZgQoRClqQz4by2DMj.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11789784
   imdb: tt0353821
+  tmdb: 478099
 sources:
 - https://www.wikidata.org/wiki/Q11789784
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - erebara-gezim
 composer:
 - lalo-aleksander
+poster_tmdb_path: /jLHdLNNCHUzdl9qRBNYaEONhpGU.jpg

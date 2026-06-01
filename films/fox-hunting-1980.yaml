@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876472
   imdb: tt0081734
+  tmdb: 365164
 sources:
 - https://www.wikidata.org/wiki/Q44876472
 schema_version: 1
 director:
 - danelyuk-mircha
+poster_tmdb_path: /ffD0elzAqtUbCdNInTUOuVKAYGY.jpg

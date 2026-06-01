@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q63026371
   imdb: tt0287084
+  tmdb: 626753
 sources:
 - https://www.wikidata.org/wiki/Q63026371
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: sergachyov-viktor-nikolaevich
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /qxUrZet5cbh0IOZPDPTMepME9kf.jpg
+backdrop_tmdb_path: /5ziIuky09GAtIptlFvHxGvE800O.jpg

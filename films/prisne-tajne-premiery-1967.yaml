@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q7265223
   imdb: tt0062154
+  tmdb: 824488
 sources:
 - https://www.wikidata.org/wiki/Q7265223
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: krahulik-frantisek
 - person: q101080493
 - person: dvorackova-dagmar
+poster_tmdb_path: /AeegIMYF6Vfn4qTOYSyjwuQD3IZ.jpg

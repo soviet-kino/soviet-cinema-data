@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462912
   imdb: tt0062393
   youtube: ZgeEWhifnMc
+  tmdb: 63293
 sources:
 - https://www.wikidata.org/wiki/Q4462912
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 poster_commons: Oleg Yefremov and Tatyana Doronina.jpg
+poster_tmdb_path: /cXoreU199k8Ou2OYPZchxpAZDfi.jpg
+backdrop_tmdb_path: /d0X1qEAQeVMLpB5TMfME2LSY2Ep.jpg

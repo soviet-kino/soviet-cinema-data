@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65250826
   imdb: tt0252067
   youtube: -SljBqxv9eY
+  tmdb: 1164193
 sources:
 - https://www.wikidata.org/wiki/Q65250826
 schema_version: 1
@@ -17,3 +18,4 @@ director:
 screenwriter:
 - dzhansugurov-ilyas
 - mansurov-bulat-bogautdinovich
+poster_tmdb_path: /87PovGkzumgIBMtIHPley9kTGEr.jpg

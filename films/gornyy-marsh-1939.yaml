@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q109428652
   imdb: tt0359595
+  tmdb: 1456162
 sources:
 - https://www.wikidata.org/wiki/Q109428652
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mushegyan-garri
 studio:
 - armenfilm
+poster_tmdb_path: /dSpAEIw5V5AqVS8tZxeeyl6WuWQ.jpg
+backdrop_tmdb_path: /10Kj0VwVQwMKPTu6cucx2Fb4e5.jpg

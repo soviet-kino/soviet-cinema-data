@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2003684
   imdb: tt0123186
   youtube: M6KxVntypo4
+  tmdb: 27922
 sources:
 - https://www.wikidata.org/wiki/Q2003684
 schema_version: 1
@@ -35,3 +36,5 @@ studio:
 - gruziya-film
 - mosfilm
 poster_commons: Stamps of Georgia, 2003-01.jpg
+poster_tmdb_path: /2IPcSewQCAZqrMoHPZX0NAaJGnK.jpg
+backdrop_tmdb_path: /wq3KK2qdlCEEscWyX2lFwRHqxCy.jpg

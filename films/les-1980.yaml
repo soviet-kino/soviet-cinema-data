@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4259314
   imdb: tt0172718
   youtube: m0wT2HESl3Y
+  tmdb: 728201
 sources:
 - https://www.wikidata.org/wiki/Q4259314
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: tselikovskaya-lyudmila-vasilevna
 studio:
 - lenfilm
+poster_tmdb_path: /otQcww0HCsdxFuoCoYXzr6tZcTo.jpg

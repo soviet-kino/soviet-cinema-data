@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4445585
   imdb: tt0078348
   youtube: 6ZFFdCxYavA
+  tmdb: 65716
 sources:
 - https://www.wikidata.org/wiki/Q4445585
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 studio:
 - mosfilm
+poster_tmdb_path: /pP8epMslX4wXq0FzHwMXP7EUZ0k.jpg
+backdrop_tmdb_path: /aIOJK74F3yIWg8yHkEC8omUvck9.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4279616
   imdb: tt2111358
+  tmdb: 463632
 sources:
 - https://www.wikidata.org/wiki/Q4279616
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - shakhmalieva-ayan
 studio:
 - lenfilm
+poster_tmdb_path: /wudYHPFEu59ayuuNsZjSED2nvSO.jpg
+backdrop_tmdb_path: /vkBfEKqEEOURKf2qpTUTLHQ2jG9.jpg

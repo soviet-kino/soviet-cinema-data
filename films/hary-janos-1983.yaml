@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q1057186
   imdb: tt2931968
+  tmdb: 256393
 sources:
 - https://www.wikidata.org/wiki/Q1057186
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - ferenchik-yanosh
 studio:
 - pannoniya
+poster_tmdb_path: /dM5JThsniTtm4mm85V4gUmYR2Mr.jpg
+backdrop_tmdb_path: /qRgxRp0k7XTc9ec5ltNTT6KphYN.jpg

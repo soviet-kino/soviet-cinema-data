@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16987913
   imdb: tt0041518
+  tmdb: 438317
 sources:
 - https://www.wikidata.org/wiki/Q16987913
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: mezey-mariya
 - person: radzhnay-gabor
 - person: sabo-shandor
+poster_tmdb_path: /eWwYxfHnhmhQjWOqQRQt7rxGpMo.jpg

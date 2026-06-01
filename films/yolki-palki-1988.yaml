@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4053734
   imdb: tt0096482
   youtube: C2ogerO2lpU
+  tmdb: 142830
 sources:
 - https://www.wikidata.org/wiki/Q4053734
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: nikonenko-sergey
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6SLL5X9nYR2M7wZbT1cP39ELbKO.jpg
+backdrop_tmdb_path: /eYjqLMtQTzj2bxFVdn5DB55wAcj.jpg

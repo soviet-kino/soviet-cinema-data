@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4087595
   imdb: tt0305295
+  tmdb: 786682
 sources:
 - https://www.wikidata.org/wiki/Q4087595
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - fialko-oleg-borisovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /uvL9ZkqdkFV8Mqlj0Cgw8IQi0os.jpg
+backdrop_tmdb_path: /iUcdCF8X3ucbteXwADE54rWW3zg.jpg

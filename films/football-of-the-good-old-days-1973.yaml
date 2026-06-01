@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1252796
   imdb: tt0070619
+  tmdb: 113680
 sources:
 - https://www.wikidata.org/wiki/Q1252796
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mayor-tamash
 - person: markus-laslo
 - person: temessy-hedi
+poster_tmdb_path: /huVc6xD2meve0bUXvygkBJsphnX.jpg
+backdrop_tmdb_path: /sYsCmMdkxlCXiOi8UVsazuQDzxv.jpg

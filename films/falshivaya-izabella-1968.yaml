@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q18616039
   imdb: tt0136982
+  tmdb: 343454
 sources:
 - https://www.wikidata.org/wiki/Q18616039
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ruttkai-eva
 - person: sendor-iza
 - person: szakatss-rozhi
+poster_tmdb_path: /xSaaVNj3rSMUy2anLYndfKs6bck.jpg
+backdrop_tmdb_path: /Wctx8wQukD7FmW2lKKLqIqB3AJ.jpg

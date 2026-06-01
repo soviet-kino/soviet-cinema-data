@@ -8,6 +8,7 @@ runtime_min: 234
 external_ids:
   wikidata: Q1962887
   imdb: tt0060847
+  tmdb: 149511
 sources:
 - https://www.wikidata.org/wiki/Q1962887
 schema_version: 1
@@ -65,3 +66,5 @@ cast:
 - person: vysotski-petr
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /t0ytkejwNei7UbArOj8nPs4wC8r.jpg
+backdrop_tmdb_path: /uP3nXeSH6ZD9L76ycGHH9JmUhIf.jpg

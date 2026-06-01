@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q111731484
   imdb: tt4335530
+  tmdb: 484492
 sources:
 - https://www.wikidata.org/wiki/Q111731484
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - lemke-vladimir-petrovich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /1cplB2Wfdgsbpcqqm1k6bA2PNHu.jpg

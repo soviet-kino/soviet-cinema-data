@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4242252
   imdb: tt0237390
   youtube: twJpAu8ROGc
+  tmdb: 470077
 sources:
 - https://www.wikidata.org/wiki/Q4242252
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: galoyan-misail
 studio:
 - armenfilm
+poster_tmdb_path: /d2PjsJWW5Tk2pDiorCEKJagC3fL.jpg
+backdrop_tmdb_path: /dbfo5R4hZuxsi2nhnI7DGyg8Eo5.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q11736599
   imdb: tt0089407
+  tmdb: 572995
 sources:
 - https://www.wikidata.org/wiki/Q11736599
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vechinskiy-rafal
 - person: kwasniewska-s-awa
 - person: kovalskiy-vladislav
+poster_tmdb_path: /wOKUF7Jsd37rdL9FmN7JnrbDq8r.jpg

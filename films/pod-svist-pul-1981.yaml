@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q130280289
   imdb: tt0237576
+  tmdb: 1442763
 sources:
 - https://www.wikidata.org/wiki/Q130280289
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - chulyukin-yuriy-stepanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /pbS9g6aqIDfsKlR9SlTn2XEfom1.jpg
+backdrop_tmdb_path: /i3VV9M5tpoK8xHiDaJXphPHkyqi.jpg

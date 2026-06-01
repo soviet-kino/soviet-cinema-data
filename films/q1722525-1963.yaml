@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1722525
   imdb: tt1309482
+  tmdb: 286275
 sources:
 - https://www.wikidata.org/wiki/Q1722525
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: rikhter-raynik-valter
 - person: kokh-khoge-vilgelm
 - person: noyenkhan-villi
+poster_tmdb_path: /xuHrgWZBIAYPGoot76C1HM53B8S.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25204019
   imdb: tt0019529
+  tmdb: 734545
 sources:
 - https://www.wikidata.org/wiki/Q25204019
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - sabinskiy-cheslav-genrikhovich
 studio:
 - sovkino
+poster_tmdb_path: /3ieJMXusAzo345Lv8YbFwQyqKhR.jpg

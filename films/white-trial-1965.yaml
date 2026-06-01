@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44872315
   imdb: tt0059615
+  tmdb: 439482
 sources:
 - https://www.wikidata.org/wiki/Q44872315
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: patriki-dzhina
 - person: gheorghiu-lica
 - person: buref-flaviya
+poster_tmdb_path: /kpl5N3oeDieiHplj4zj1kj2cWn8.jpg

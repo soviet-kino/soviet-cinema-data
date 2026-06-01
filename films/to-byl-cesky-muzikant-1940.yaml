@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q7811205
   imdb: tt0153128
+  tmdb: 653170
 sources:
 - https://www.wikidata.org/wiki/Q7811205
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: vildova-marie
 - person: nadenikova-bozena
 - person: jedlicka-vladimir-2
+poster_tmdb_path: /rPKSs5e9URk2wnC4c2v4Tf2gZT9.jpg

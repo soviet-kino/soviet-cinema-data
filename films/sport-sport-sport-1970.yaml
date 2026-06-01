@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4438037
   imdb: tt0066400
   youtube: FUTA12nJ7pY
+  tmdb: 67869
 sources:
 - https://www.wikidata.org/wiki/Q4438037
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: svetlani-georgiy
 studio:
 - mosfilm
+poster_tmdb_path: /cpTstaa5dOmGtVTJiFHesM0l1tc.jpg

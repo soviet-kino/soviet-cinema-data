@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q19599775
   imdb: tt0166830
+  tmdb: 316256
 sources:
 - https://www.wikidata.org/wiki/Q19599775
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 - person: havrankova-sylvie
 - person: haasova-bibi
 - person: blazek-eduard
+poster_tmdb_path: /mos8EBacjHMnnbq0PJRWynnW3nj.jpg

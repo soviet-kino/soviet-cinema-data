@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4110375
   imdb: tt0314862
   youtube: mWoY97sGGm4
+  tmdb: 619172
 sources:
 - https://www.wikidata.org/wiki/Q4110375
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: bortnikov-gennadiy-leonidovich
+poster_tmdb_path: /5INqVZAPgAss7QzxWFaZ0v22Q1N.jpg
+backdrop_tmdb_path: /x8wgCndxBrObHhzustxFFiQyXH8.jpg

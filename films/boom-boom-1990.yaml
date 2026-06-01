@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q67088609
   imdb: tt0099167
+  tmdb: 365476
 sources:
 - https://www.wikidata.org/wiki/Q67088609
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: petersen-enn
 - person: uerga-manuel
 - person: orella-franchesk
+poster_tmdb_path: /eSGbuuftkc2wCrwrq4eb8NnQpHf.jpg
+backdrop_tmdb_path: /wRpCnNXwA6w52M0GNZiR87BGqen.jpg

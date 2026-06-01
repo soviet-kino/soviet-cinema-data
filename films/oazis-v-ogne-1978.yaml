@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16414163
   imdb: tt1889420
+  tmdb: 530193
 sources:
 - https://www.wikidata.org/wiki/Q16414163
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ogly-rzaev-samandar-mansim
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /o3cY8DKYk91zDlMQliiXorHHPtP.jpg
+backdrop_tmdb_path: /gcnI8H1QHmKzrwvaGCPm42ZR7mX.jpg

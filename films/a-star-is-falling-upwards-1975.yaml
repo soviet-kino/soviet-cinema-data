@@ -8,6 +8,7 @@ runtime_min: 136
 external_ids:
   wikidata: Q110293300
   imdb: tt0138504
+  tmdb: 284974
 sources:
 - https://www.wikidata.org/wiki/Q110293300
 schema_version: 1
@@ -191,3 +192,5 @@ cast:
 - person: baumruk-jiri
 - person: mudrova-ivana
 - person: posledni-josef
+poster_tmdb_path: /ePaK5Sekc7c0mk0lIhx1jnkm9fN.jpg
+backdrop_tmdb_path: /o3Wxbi5j7XAv8My8WYbvcI75Wg.jpg

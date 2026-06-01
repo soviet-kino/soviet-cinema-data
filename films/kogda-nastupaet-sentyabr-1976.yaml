@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226047
   imdb: tt0073251
   youtube: aro62hcoiYE
+  tmdb: 396181
 sources:
 - https://www.wikidata.org/wiki/Q4226047
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: ushakova-valentina-alekseevna
 - person: elbakyan-edgar
 - person: yarenko-tamara-grigorevna
+poster_tmdb_path: /ryWENHAtHMYXMh2e2gcaYkq4BSG.jpg
+backdrop_tmdb_path: /1OviQQJNbDjWQcI54FWssolVCGC.jpg

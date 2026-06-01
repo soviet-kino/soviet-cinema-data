@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q9355209
   imdb: tt0896573
+  tmdb: 190036
 sources:
 - https://www.wikidata.org/wiki/Q9355209
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: bednarczyk-antoni
 - person: bellina-izabela
 poster_commons: Tajemnica starego rodu 1928.jpg
+poster_tmdb_path: /r5GECqQhhWm7dbAD49lZeHDFrrZ.jpg

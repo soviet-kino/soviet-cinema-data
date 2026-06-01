@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4517666
   imdb: tt4857224
+  tmdb: 448694
 sources:
 - https://www.wikidata.org/wiki/Q4517666
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - popatenko-tamara-aleksandrovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ouhb4CnyrjpJrCS1f1jVq7Y06H7.jpg

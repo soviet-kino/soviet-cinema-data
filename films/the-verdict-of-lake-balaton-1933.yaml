@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q1471526
   imdb: tt1601244
+  tmdb: 290928
 sources:
 - https://www.wikidata.org/wiki/Q1471526
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 cast:
 - person: pager-antal
 - person: chortos-gyula
+poster_tmdb_path: /kvItaqaTtEiLoFE6F9MlRsXO2J7.jpg

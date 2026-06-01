@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44872859
   imdb: tt0180952
+  tmdb: 425867
 sources:
 - https://www.wikidata.org/wiki/Q44872859
 schema_version: 1
 director:
 - nikolaesku-serdzhiu
+poster_tmdb_path: /y6GOpoKupsX9Dzw8gY45ntQs7rj.jpg

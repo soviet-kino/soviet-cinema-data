@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4177789
   imdb: tt0314947
+  tmdb: 198819
 sources:
 - https://www.wikidata.org/wiki/Q4177789
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: katlap-zhanis-mikelevich
 studio:
 - lenfilm
+poster_tmdb_path: /ijbdsqbeCusiiAstPNLmaDs0zpA.jpg
+backdrop_tmdb_path: /tVaxl1DVs6b0akYbJSp5KeQFuGh.jpg

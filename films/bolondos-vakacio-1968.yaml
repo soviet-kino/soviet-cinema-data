@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44865443
   imdb: tt0061416
+  tmdb: 286630
 sources:
 - https://www.wikidata.org/wiki/Q44865443
 schema_version: 1
 director:
 - makk-karoy
+poster_tmdb_path: /xNY3SB3vvqJDx5tjp8dZLxCWydi.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7958883
   imdb: tt0244880
+  tmdb: 748189
 sources:
 - https://www.wikidata.org/wiki/Q7958883
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: dymsha-adolf
 - person: andzheevskaya-yadviga
 - person: orvid-yuzef
+poster_tmdb_path: /90KKcKRKE4LBSt1AnEWbxwLoxf9.jpg

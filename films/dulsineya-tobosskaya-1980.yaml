@@ -8,6 +8,7 @@ runtime_min: 131
 external_ids:
   wikidata: Q4170522
   imdb: tt0080666
+  tmdb: 218132
 sources:
 - https://www.wikidata.org/wiki/Q4170522
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: nazarov-aleksandr-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /kOCNgbFXsIfDAzmu3zoHUfS2oD7.jpg
+backdrop_tmdb_path: /nuZrXfOYLcT59gb808V2sAUxvPc.jpg

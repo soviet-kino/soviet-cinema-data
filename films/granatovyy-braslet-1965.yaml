@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q15270573
   imdb: tt0060471
+  tmdb: 530663
 sources:
 - https://www.wikidata.org/wiki/Q15270573
 schema_version: 1
@@ -17,3 +18,5 @@ studio:
 - mosfilm
 cast:
 - person: ozerov-igor-vyacheslavovich
+poster_tmdb_path: /9pm2ssrmKYE075wuvGVgWYQPCRr.jpg
+backdrop_tmdb_path: /c5ICrAny4WcVqG0CK08HQBp0usj.jpg

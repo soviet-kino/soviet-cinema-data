@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q17057247
   imdb: tt0065108
+  tmdb: 457924
 sources:
 - https://www.wikidata.org/wiki/Q17057247
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: vorobey-vladimir-vatslavovich
 studio:
 - mosfilm
+poster_tmdb_path: /cN9KmujHhIBoLcBdbHyH1OcMLg9.jpg
+backdrop_tmdb_path: /v1HF9QGEfNpzeZvqfptQ9HIOIly.jpg

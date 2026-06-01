@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q84994650
   imdb: tt0090936
   youtube: Ba0YRj5apRg
+  tmdb: 351060
 sources:
 - https://www.wikidata.org/wiki/Q84994650
 schema_version: 1
 studio:
 - lenfilm
+poster_tmdb_path: /jKTF56qjgtxlKnhLVhv9Ysr8LGC.jpg

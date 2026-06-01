@@ -30,6 +30,9 @@ external_ids:
   wikidata: Q331960
   imdb: tt0086149
   youtube: hHi5p95Esnc
+  tmdb: 139169
 sources:
 - https://www.wikidata.org/wiki/Q331960
 schema_version: 1
+poster_tmdb_path: /bfLOR9yzRNYIMf4vKLBjAxP5ypO.jpg
+backdrop_tmdb_path: /1WQMmkAuXgYle2Bg0U9TbkYNj4Y.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4245194
   imdb: tt0077823
   youtube: QIHxgzMy4sw
+  tmdb: 431512
 sources:
 - https://www.wikidata.org/wiki/Q4245194
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - dmitriev-georgiy-petrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /n6K60ykbfcCxV3huQ7SQgNlFC85.jpg
+backdrop_tmdb_path: /2Khb7gDnzNvtov9WsBSfEHo19T8.jpg

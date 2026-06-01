@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4349908
   imdb: tt0184815
   youtube: yKTvf0PWsRA
+  tmdb: 263943
 sources:
 - https://www.wikidata.org/wiki/Q4349908
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - odesskaya-kinostudiya
+poster_tmdb_path: /6m9rHougLdk0JN4DndrRwzCqjk6.jpg
+backdrop_tmdb_path: /gYUd7doMEWP5WeK21FluJKMupvS.jpg

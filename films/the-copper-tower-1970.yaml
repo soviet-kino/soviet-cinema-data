@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12497715
   imdb: tt0171518
+  tmdb: 152139
 sources:
 - https://www.wikidata.org/wiki/Q12497715
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: st-jozef-simonovic
 - person: hentzova-otilia
 - person: skokanova-alena
+poster_tmdb_path: /qzElKuFL483tVgZQnIt6dD52JxP.jpg
+backdrop_tmdb_path: /mzXzM3HrHSrApUgoS9nUjoL9Cgr.jpg

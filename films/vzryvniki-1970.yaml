@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q65211515
   imdb: tt4665352
+  tmdb: 886898
 sources:
 - https://www.wikidata.org/wiki/Q65211515
 schema_version: 1
 director:
 - solovyov-yuriy-vasilevich
+poster_tmdb_path: /lhgMeHaMV22FQouflAydSZh8bXv.jpg
+backdrop_tmdb_path: /lioHt8XtIkYUFWVVnVNKm5qCVqz.jpg

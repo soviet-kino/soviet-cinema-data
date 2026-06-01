@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1213665
   imdb: tt0056114
+  tmdb: 288565
 sources:
 - https://www.wikidata.org/wiki/Q1213665
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: shelkher-raymund
 - person: kilian-zigfrid
 - person: lirk-verner
+poster_tmdb_path: /6m5fnALQf4QUhA9iGF5Zn2BqeMP.jpg

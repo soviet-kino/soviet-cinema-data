@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1713420
   imdb: tt0063166
+  tmdb: 282294
 sources:
 - https://www.wikidata.org/wiki/Q1713420
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: vyunsher-marianna
 - person: gabriel-monika
 - person: tsshekel-gyunter
+poster_tmdb_path: /3PTW3FzPNJdWk1qtxSlkbItzhXZ.jpg

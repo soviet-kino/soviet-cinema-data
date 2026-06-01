@@ -8,6 +8,7 @@ runtime_min: 21
 external_ids:
   wikidata: Q4456985
   imdb: tt0362235
+  tmdb: 290608
 sources:
 - https://www.wikidata.org/wiki/Q4456985
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ter-karapetyan-zarekh
 - person: aslanyan-gevork
 - person: stamboltsyan-gevorg
+poster_tmdb_path: /z3X6R41J58PI5pzyfOGF904gQ9Q.jpg
+backdrop_tmdb_path: /uzojLpqZhAZ3W4OCFhIrfDZDu72.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1198175
   imdb: tt2081359
+  tmdb: 173322
 sources:
 - https://www.wikidata.org/wiki/Q1198175
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: sheykhov-yusif
 - person: loginov-kolya
 - person: khatamova-solmaz
+poster_tmdb_path: /cBaWL0o3FmhyiOKWxOtT81ugTYY.jpg
+backdrop_tmdb_path: /5ik5mLny0vupNegJmMnUdYm91H3.jpg

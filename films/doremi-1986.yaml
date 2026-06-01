@@ -8,6 +8,7 @@ runtime_min: 568
 external_ids:
   wikidata: Q21148894
   imdb: tt2193280
+  tmdb: 139068
 sources:
 - https://www.wikidata.org/wiki/Q21148894
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - raskatov-aleksandr-mikhaylovich
 studio:
 - ekran
+poster_tmdb_path: /mQSTM93060iK9AGZRxclNdGqZsU.jpg

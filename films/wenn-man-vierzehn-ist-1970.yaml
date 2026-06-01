@@ -8,8 +8,10 @@ runtime_min: 36
 external_ids:
   wikidata: Q114093628
   imdb: tt0386115
+  tmdb: 409980
 sources:
 - https://www.wikidata.org/wiki/Q114093628
 schema_version: 1
 director:
 - yunge-vinfrid
+poster_tmdb_path: /7Aw1FEHeBQxNf3cEt9P0EOFUUgL.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4761564
   imdb: tt0309282
+  tmdb: 347717
 sources:
 - https://www.wikidata.org/wiki/Q4761564
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: ogly-balaev-rasim-akhmed
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /ohD3MA8T6m6rjTyjbfYrdrK9y1c.jpg
+backdrop_tmdb_path: /h2XCloqp2tsJE1Pj1XTN3673sFx.jpg

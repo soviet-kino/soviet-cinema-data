@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21643941
   imdb: tt0396813
+  tmdb: 292367
 sources:
 - https://www.wikidata.org/wiki/Q21643941
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - gusev-sergey-evteevich
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
+poster_tmdb_path: /qJ2hYVAoE85pMYDAoRfDs1SzH78.jpg

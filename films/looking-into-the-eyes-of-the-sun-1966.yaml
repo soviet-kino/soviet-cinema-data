@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4845412
   imdb: tt0060846
+  tmdb: 381995
 sources:
 - https://www.wikidata.org/wiki/Q4845412
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: milena-dravich
 - person: velimir-bata-zhivoinovich
 - person: begolli-faruk
+poster_tmdb_path: /aG6h9aD1B2fr1wUucm0BKWPyEeb.jpg
+backdrop_tmdb_path: /eP1fEZuGfnXMqWoDkQp70GEwpXe.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4331563
   imdb: tt0071936
+  tmdb: 524994
 sources:
 - https://www.wikidata.org/wiki/Q4331563
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Strimaitis odin.jpg
+poster_tmdb_path: /oSBum6dv8nxbytpOm38mvA9p7lh.jpg
+backdrop_tmdb_path: /cOmFva1Amr9xrvgeaYht3tYrQO9.jpg

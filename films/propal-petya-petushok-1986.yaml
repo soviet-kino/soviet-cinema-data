@@ -8,6 +8,7 @@ runtime_min: 577
 external_ids:
   wikidata: Q16514639
   imdb: tt7854208
+  tmdb: 454087
 sources:
 - https://www.wikidata.org/wiki/Q16514639
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - davydenko-vladimir-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4xY8AQsh6mGM5u09AlP1viZVGS3.jpg

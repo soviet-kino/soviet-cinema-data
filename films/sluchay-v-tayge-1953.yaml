@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424092
   imdb: tt0170599
   youtube: Na9ar5HYPrk
+  tmdb: 383675
 sources:
 - https://www.wikidata.org/wiki/Q4424092
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: shorokhova-rimma-ivanovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9BB774ra9MfykHIonUWf9fLazz4.jpg

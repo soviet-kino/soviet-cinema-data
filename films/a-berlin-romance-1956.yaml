@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4655428
   imdb: tt0048997
+  tmdb: 369401
 sources:
 - https://www.wikidata.org/wiki/Q4655428
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kube-khorst
 studio:
 - defa
+poster_tmdb_path: /t3WH1zHgHMMq8ZDiu23LXl275Co.jpg

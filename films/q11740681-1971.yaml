@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740681
   imdb: tt1735873
+  tmdb: 592444
 sources:
 - https://www.wikidata.org/wiki/Q11740681
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - kashitskiy-lyutsian
 cast:
 - person: gayos-yanush
+poster_tmdb_path: /bqomr9UHOQkq87UGRTHVUdIN94Z.jpg
+backdrop_tmdb_path: /dz4Yw0417lJT96ckReKGm532zL2.jpg

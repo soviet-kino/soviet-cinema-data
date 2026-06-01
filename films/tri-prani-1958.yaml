@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15731150
   imdb: tt0052317
   youtube: 2PRORboJ-IA
+  tmdb: 66132
 sources:
 - https://www.wikidata.org/wiki/Q15731150
 schema_version: 1
@@ -75,3 +76,4 @@ cast:
 - person: cernoch-karel
 - person: camrda-zdenek
 - person: zelenkova-yvonna
+poster_tmdb_path: /p1e07IrSI0IrpUVTV24sU8OxpXs.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q124556285
   imdb: tt0173330
+  tmdb: 599654
 sources:
 - https://www.wikidata.org/wiki/Q124556285
 schema_version: 1
 director:
 - mimitsa-vatroslav
+poster_tmdb_path: /vA6rzPxoX2OeSVNt3kzjlIRK03z.jpg
+backdrop_tmdb_path: /nfUAoESlbbAfjqjRF64nmovMyLx.jpg

@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q15260667
   imdb: tt0062632
+  tmdb: 286708
 sources:
 - https://www.wikidata.org/wiki/Q15260667
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - martsinkovskiy-gyunter
 composer:
 - dessau-paul
+poster_tmdb_path: /kCOIQdcj55uTs5dpc91eSfEfvH.jpg
+backdrop_tmdb_path: /19LLIJGdQSaLiCl5LpKCiwQMV2J.jpg

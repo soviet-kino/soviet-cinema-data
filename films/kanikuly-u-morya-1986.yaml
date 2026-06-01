@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20510145
   imdb: tt3800890
   youtube: lNXwv4Hg4zM
+  tmdb: 371821
 sources:
 - https://www.wikidata.org/wiki/Q20510145
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - zalotukha-valeriy-aleksandrovich
 studio:
 - armenfilm
+poster_tmdb_path: /2JOfl09XLnHZTth3cKNHFsCFSPM.jpg
+backdrop_tmdb_path: /fqYUf0OqdOJmZovDMlAPs7SSgzE.jpg

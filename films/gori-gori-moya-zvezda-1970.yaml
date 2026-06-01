@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1245367
   imdb: tt0064385
   youtube: Pu2O5YIwAug
+  tmdb: 67683
 sources:
 - https://www.wikidata.org/wiki/Q1245367
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: polyakov-lev-aleksandrovich
 - person: filippenko-aleksandr-georgievich
 - person: eliseev-anatoliy-mikhaylovich
+poster_tmdb_path: /4g3ndlKIh1eJo5OedszlUUP0apD.jpg
+backdrop_tmdb_path: /8gcuyCgnIMzNkZb12hR90VQhW6K.jpg

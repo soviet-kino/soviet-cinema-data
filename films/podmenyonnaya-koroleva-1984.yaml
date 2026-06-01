@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q1219759
   imdb: tt0088348
+  tmdb: 209471
 sources:
 - https://www.wikidata.org/wiki/Q1219759
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: byove-kurt
 - person: piontek-klaus
 - person: khebenshtrayt-pedro
+poster_tmdb_path: /zQafhsKyqECkrzB1lIi9rjCTl5F.jpg
+backdrop_tmdb_path: /bHerwmldTJZMTmTnJxE7KfvkHVG.jpg

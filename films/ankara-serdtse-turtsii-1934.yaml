@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q6101518
   imdb: tt0171070
+  tmdb: 169914
 sources:
 - https://www.wikidata.org/wiki/Q6101518
 schema_version: 1
 director:
 - yutkevich-sergey-iosifovich
+poster_tmdb_path: /naAoh9IvgrHjBbAIIcn269HBHwQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184274
   imdb: tt6386758
+  tmdb: 1641388
 sources:
 - https://www.wikidata.org/wiki/Q31184274
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: lyubitsa-yovich
 - person: pavle-bogdanovich
 - person: guberina-spiro
+poster_tmdb_path: /87wWqD7IRYkUtzenG7KhaB4jQQ0.jpg

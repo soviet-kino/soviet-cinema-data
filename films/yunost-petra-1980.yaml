@@ -39,6 +39,9 @@ external_ids:
   wikidata: Q4534637
   imdb: tt0171932
   youtube: Deoutei-Um8
+  tmdb: 150285
 sources:
 - https://www.wikidata.org/wiki/Q4534637
 schema_version: 1
+poster_tmdb_path: /mszrqmpjddM3r3VcfaGCUgFmx73.jpg
+backdrop_tmdb_path: /8SC2WB80RDXju7r8ftDZVAzRBTg.jpg

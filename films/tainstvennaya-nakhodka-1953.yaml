@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4449759
   imdb: tt0212545
   youtube: m1fmFnrIAUQ
+  tmdb: 472111
 sources:
 - https://www.wikidata.org/wiki/Q4449759
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: petrov-andrey-alekseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /u0Vusb5cbS3pbhhk0JgUlTTJZZW.jpg
+backdrop_tmdb_path: /7Su44V3XO3Tc0E5TKGERF9c5Khm.jpg

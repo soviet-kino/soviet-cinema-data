@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q4370284
   imdb: tt6141434
+  tmdb: 1261051
 sources:
 - https://www.wikidata.org/wiki/Q4370284
 schema_version: 1
 cast:
 - person: strzhelchik-vladislav-ignatevich
+poster_tmdb_path: /6PH56AEZgWHoUsgTJ9TE04oqE5U.jpg
+backdrop_tmdb_path: /z0mToAtMvOtC6asXL2YTubwjXKA.jpg

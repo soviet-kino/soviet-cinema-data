@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15806321
   imdb: tt0104657
+  tmdb: 197504
 sources:
 - https://www.wikidata.org/wiki/Q15806321
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - yancho-miklosh
 cinematographer:
 - kende-yanosh
+poster_tmdb_path: /ajwfm6F8MPoT5bwaJ18e3H2Lca7.jpg
+backdrop_tmdb_path: /kfp9VBvt3VT8L4CfE6DnmQ1s3ii.jpg

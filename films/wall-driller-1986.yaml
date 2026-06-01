@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q995786
   imdb: tt0089123
+  tmdb: 131053
 sources:
 - https://www.wikidata.org/wiki/Q995786
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ban-yanos
 - person: derzhi-yanosh
 - person: andorai-peter
+poster_tmdb_path: /tOaYjwr0ZtuxPxpHrURW6fOISeh.jpg
+backdrop_tmdb_path: /j1tFsZyPKQVOpILtl0V9tX4RvTH.jpg

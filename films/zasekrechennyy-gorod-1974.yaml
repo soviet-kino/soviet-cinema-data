@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4187846
   imdb: tt1934489
   youtube: A87o-4Wjiok
+  tmdb: 596915
 sources:
 - https://www.wikidata.org/wiki/Q4187846
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - yaltinskaya-kinostudiya
+poster_tmdb_path: /bT1e6r8i2xjrSpkcG018P969Lid.jpg

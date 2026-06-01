@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q714531
   imdb: tt0068161
   youtube: ESoJZ0CJosc
+  tmdb: 49106
 sources:
 - https://www.wikidata.org/wiki/Q714531
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: martynov-andrey-leonidovich
 - person: stolyarov-kirill-sergeevich
 - person: shevchuk-irina-borisovna
+poster_tmdb_path: /t6oPLZrUfnJupGjbArWq16QM23g.jpg
+backdrop_tmdb_path: /unPih308kkKcRrV4VvPF4GCFill.jpg

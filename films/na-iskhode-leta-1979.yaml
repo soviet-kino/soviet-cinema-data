@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4310961
   imdb: tt2050573
   youtube: k5PAxJY3KOk
+  tmdb: 484453
 sources:
 - https://www.wikidata.org/wiki/Q4310961
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: obolenskiy-leonid-leonidovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /4gO4o6Mt3fYSDDFpT673ZfchUfg.jpg

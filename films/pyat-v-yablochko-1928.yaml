@@ -8,6 +8,7 @@ runtime_min: 54
 external_ids:
   wikidata: Q4386069
   imdb: tt0410079
+  tmdb: 1424548
 sources:
 - https://www.wikidata.org/wiki/Q4386069
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: khachanyan-amvrosiy
 studio:
 - armenfilm
+poster_tmdb_path: /1Mlz1gtM7lwKxzxxTbyCaL85F8z.jpg

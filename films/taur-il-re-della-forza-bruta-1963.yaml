@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q2397240
   imdb: tt0054370
+  tmdb: 331003
 sources:
 - https://www.wikidata.org/wiki/Q2397240
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kortez-bella
 - person: spalla-erminio
 - person: torres-khoze
+poster_tmdb_path: /lfPhRck6frkcoGi2VeKdLMo1811.jpg
+backdrop_tmdb_path: /9tShJEJLQ8xXFF2z20U6kEWc3F3.jpg

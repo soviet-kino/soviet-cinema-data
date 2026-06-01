@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12756544
   imdb: tt0064766
+  tmdb: 466041
 sources:
 - https://www.wikidata.org/wiki/Q12756544
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: kseniya-yovanovich
 - person: tasovac-predrag
 - person: uzunovic-tanasije
+poster_tmdb_path: /7yW8pKOh2LutCNtH85Rd0Q2K2SA.jpg

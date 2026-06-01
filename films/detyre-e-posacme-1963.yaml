@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9385694
   imdb: tt0345126
+  tmdb: 455778
 sources:
 - https://www.wikidata.org/wiki/Q9385694
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - gjika-viktor
 composer:
 - gaci-pjeter
+poster_tmdb_path: /6TgvwdbEmdIDJnKv5qKmkeEjNXu.jpg
+backdrop_tmdb_path: /5jtD7uaW53XTt1hyRJrTlY2jhiZ.jpg

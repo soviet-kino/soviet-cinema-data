@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q7075631
   imdb: tt0175981
+  tmdb: 754364
 sources:
 - https://www.wikidata.org/wiki/Q7075631
 schema_version: 1
@@ -54,3 +55,4 @@ cast:
 - person: lada-jan
 studio:
 - barrandov
+poster_tmdb_path: /w2w6aQwJv0x8aI6CcEyYvGdMqMt.jpg

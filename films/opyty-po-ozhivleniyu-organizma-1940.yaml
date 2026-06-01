@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q605042
   imdb: tt0496948
   youtube: jrj6HCxq7OM
+  tmdb: 160105
 sources:
 - https://www.wikidata.org/wiki/Q605042
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 studio:
 - tsentrnauchfilm
 poster_commons: Experiment1940.jpg
+poster_tmdb_path: /c5hDHvclcG0Pd2woqzYIvvTEjyS.jpg

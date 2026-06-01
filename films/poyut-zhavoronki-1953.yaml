@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4375690
   imdb: tt5229498
   youtube: ThZvammzgck
+  tmdb: 805025
 sources:
 - https://www.wikidata.org/wiki/Q4375690
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: platonov-boris-viktorovich
 studio:
 - belarusfilm
+poster_tmdb_path: /fgfikIH5m6LGS8YSNddylmF8qL4.jpg

@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q3509223
   imdb: tt0171208
+  tmdb: 474842
 sources:
 - https://www.wikidata.org/wiki/Q3509223
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - tomislav-simovich
 cast:
 - person: tomich-milivo-e
+poster_tmdb_path: /1j66aMjrC5txkKrbk5mUp3M2T4U.jpg

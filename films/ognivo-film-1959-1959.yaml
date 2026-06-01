@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q1167846
   imdb: tt0051611
+  tmdb: 13100
 sources:
 - https://www.wikidata.org/wiki/Q1167846
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: defrank-rolf
 - person: bonacker-senta
 - person: spira-steffie
+poster_tmdb_path: /iiPibE35N67wPlpAagJ5yZ2Jxkg.jpg
+backdrop_tmdb_path: /ui8AHzqy3bT276Lr0FxH55IPqZk.jpg

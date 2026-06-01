@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12754156
   imdb: tt0171448
+  tmdb: 478057
 sources:
 - https://www.wikidata.org/wiki/Q12754156
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: angelovski-kole
 - person: sibina-miyatovich
 - person: kandich-milosh
+poster_tmdb_path: /dA3PV1UsLxoLFg9uRv5h7vNbOQp.jpg

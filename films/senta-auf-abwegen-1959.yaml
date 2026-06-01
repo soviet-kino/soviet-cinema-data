@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7451171
   imdb: tt0230754
+  tmdb: 439287
 sources:
 - https://www.wikidata.org/wiki/Q7451171
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: zimon-gyunter
 - person: kubichek-rut-mariya
 - person: klering-khans
+poster_tmdb_path: /feBODWQWUGLmthELPECWwREOa9u.jpg

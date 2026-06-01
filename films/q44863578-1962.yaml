@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q44863578
   imdb: tt0174597
+  tmdb: 1339941
 sources:
 - https://www.wikidata.org/wiki/Q44863578
 schema_version: 1
 director:
 - calarasu-andrei
+poster_tmdb_path: /1gFFEMIRL1KUf8qsKx2LtUH2wfP.jpg
+backdrop_tmdb_path: /nXIN9hPwuo1W7kSNoDYhYUu5Pf8.jpg

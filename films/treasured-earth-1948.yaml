@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3548777
   imdb: tt0040859
+  tmdb: 286633
 sources:
 - https://www.wikidata.org/wiki/Q3548777
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: mesarosh-agi
 - person: molnar-tibor
 - person: szirtes-adam
+poster_tmdb_path: /xZbXAsz6B9x0iJtzXQ5jzIunkdt.jpg

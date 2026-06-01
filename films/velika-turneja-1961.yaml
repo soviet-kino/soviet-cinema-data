@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461832
   imdb: tt0180279
+  tmdb: 364261
 sources:
 - https://www.wikidata.org/wiki/Q25461832
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: hlebs-sonja
 - person: simich-slavko
 - person: veselinovits-branka
+poster_tmdb_path: /2YPrJbBBzQ2KaAtgFshh42psci7.jpg

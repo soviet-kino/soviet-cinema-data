@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4080774
   imdb: tt0149854
   youtube: oKxPNdrVwM8
+  tmdb: 447260
 sources:
 - https://www.wikidata.org/wiki/Q4080774
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kramarov-saveliy-viktorovich
 - person: burlyaev-nikolai
 - person: ananina-valentina-georgievna
+poster_tmdb_path: /b4nBPQtB4MIAu9VFToeD358Sw4y.jpg
+backdrop_tmdb_path: /tp483B0RWCVVwSIxsjAtohcWVeV.jpg

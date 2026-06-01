@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7140162
   imdb: tt0170359
+  tmdb: 297935
 sources:
 - https://www.wikidata.org/wiki/Q7140162
 schema_version: 1
@@ -66,3 +67,4 @@ cast:
 - person: matyska-zdenek
 - person: vrabcova-stanislava
 - person: simon-ladislav-2
+poster_tmdb_path: /hd6vTyt0VrUTsnn40lW0tF3oSRr.jpg

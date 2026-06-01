@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3338654
   imdb: tt0169582
+  tmdb: 628557
 sources:
 - https://www.wikidata.org/wiki/Q3338654
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - ibrahimi-feim
 cast:
 - person: arbana-reshat
+poster_tmdb_path: /659rqIBieiBoxjOlnVGRr2kMUGq.jpg

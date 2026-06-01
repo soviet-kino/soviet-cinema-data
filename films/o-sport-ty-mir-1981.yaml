@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2690549
   imdb: tt0151789
   youtube: mZ1vnjFaCvM
+  tmdb: 335172
 sources:
 - https://www.wikidata.org/wiki/Q2690549
 schema_version: 1
@@ -33,3 +34,5 @@ composer:
 - pakhmutova-aleksandra-nikolaevna
 studio:
 - mosfilm
+poster_tmdb_path: /wak6MZxFQ53HH7QOgnOjK8tsSci.jpg
+backdrop_tmdb_path: /wU2QTeogl5xcwE6x1cPSspUf2hG.jpg

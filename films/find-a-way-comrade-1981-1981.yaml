@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q5449889
   imdb: tt0081531
+  tmdb: 504107
 sources:
 - https://www.wikidata.org/wiki/Q5449889
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: licina-jovan
 - person: serdar-ivo
 - person: zidarich-kreshimir
+poster_tmdb_path: /EnPmlCjrnAYdQ27cYf8xSsQcxn.jpg

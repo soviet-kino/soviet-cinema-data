@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q21884028
   imdb: tt0063336
+  tmdb: 573604
 sources:
 - https://www.wikidata.org/wiki/Q21884028
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: roubicek-josef
 - person: srbova-jarmila
 - person: houdkova-bohumila
+poster_tmdb_path: /aUOTvVXtAo1WWhwImbaCPyDzSYd.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4481111
   imdb: tt0165282
   youtube: kpOQuSqueZg
+  tmdb: 462219
 sources:
 - https://www.wikidata.org/wiki/Q4481111
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: korolyova-lidiya-georgievna
 - person: pankova-tatyana-petrovna
 - person: kharitonova-svetlana-nikolaevna
+poster_tmdb_path: /xDzVbB7KgBRbueeRt3VSKrasOWj.jpg
+backdrop_tmdb_path: /yvsWKWg1Ts2HbtWV90OZ8206czP.jpg

@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4167408
   imdb: tt0422104
+  tmdb: 625457
 sources:
 - https://www.wikidata.org/wiki/Q4167408
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - milyutin-yuriy-sergeevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /qneV3Lm90PGTksEvRTMQoCyuBjj.jpg
+backdrop_tmdb_path: /A5DQkJjDydgsbvhtYRBnGIplzhI.jpg

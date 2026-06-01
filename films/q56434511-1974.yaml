@@ -8,8 +8,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q56434511
   imdb: tt0171508
+  tmdb: 681718
 sources:
 - https://www.wikidata.org/wiki/Q56434511
 schema_version: 1
 director:
 - predrag-golubovich
+poster_tmdb_path: /79812d1rWD1aA4nkeY4NbhIV3cW.jpg
+backdrop_tmdb_path: /fCFuMnIAMXFAVE430sjqimmYbxZ.jpg

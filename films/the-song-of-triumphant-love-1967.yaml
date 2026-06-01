@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q11816960
   imdb: tt0177110
+  tmdb: 264384
 sources:
 - https://www.wikidata.org/wiki/Q11816960
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - zhulavskiy-andzhey
 cast:
 - person: beata-tyshkevich
+poster_tmdb_path: /lv6AZMZPS7G7dr0uCMj4Q2zh4Li.jpg
+backdrop_tmdb_path: /lPP0tEvCol4LVr8dJBJ73v3Fv44.jpg

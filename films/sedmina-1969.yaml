@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26220678
   imdb: tt0064835
+  tmdb: 357393
 sources:
 - https://www.wikidata.org/wiki/Q26220678
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: bashich-relya
 - person: milena-dravich
 - person: nikshich-snezhana
+poster_tmdb_path: /uxEYha6b1guUpFwF4K9O8VhN0tB.jpg
+backdrop_tmdb_path: /9IrHkbMyLwCrBMtdBDOouglSNnE.jpg

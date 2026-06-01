@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4228843
   imdb: tt0093450
+  tmdb: 715896
 sources:
 - https://www.wikidata.org/wiki/Q4228843
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - sevela-efraim
 composer:
 - praysner-zbignev
+poster_tmdb_path: /uRILy48YOfe6xFwTyVLJoiKxhhC.jpg
+backdrop_tmdb_path: /3DxJZ1iBIkNurI0WOwHkYAS0vei.jpg

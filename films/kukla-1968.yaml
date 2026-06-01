@@ -8,6 +8,7 @@ runtime_min: 151
 external_ids:
   wikidata: Q2069873
   imdb: tt0064570
+  tmdb: 81315
 sources:
 - https://www.wikidata.org/wiki/Q2069873
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - kamera-kinostudiya
 poster_commons: Beata Tyszkiewicz Polish actress.jpg
+poster_tmdb_path: /xIvdBu6kPme0i5nkTdE64U08Itq.jpg
+backdrop_tmdb_path: /lOMpACfNp04hIhpBdwSXiP4zbwC.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4498672
   imdb: tt0130059
   youtube: emR30_T-TN0
+  tmdb: 472931
 sources:
 - https://www.wikidata.org/wiki/Q4498672
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: belov-yuriy-andreevich
 - person: bulgakova-mayya
 - person: kochetkov-afanasiy-ivanovich
+poster_tmdb_path: /cR88QnW9h5MMxicbfVQuopt3Ws9.jpg
+backdrop_tmdb_path: /4pud1bbqdYxZXH9tYwSGSSE04pQ.jpg

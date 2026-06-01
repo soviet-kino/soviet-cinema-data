@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q12837093
   imdb: tt0267078
+  tmdb: 532853
 sources:
 - https://www.wikidata.org/wiki/Q12837093
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: oglu-sudzhaddinov-faik-mirfaik-miri
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /1uewEbQORjZgYPFcwaiagCwwl13.jpg
+backdrop_tmdb_path: /sKIY3139uPCgZJCzfkpO38oqeau.jpg

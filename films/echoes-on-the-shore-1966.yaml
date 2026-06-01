@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q9352401
   imdb: tt0353845
+  tmdb: 456270
 sources:
 - https://www.wikidata.org/wiki/Q9352401
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - milkani-piro
 composer:
 - zadeja-cesk
+poster_tmdb_path: /qrYACSKpNzPaivtl263uiOh6wEC.jpg
+backdrop_tmdb_path: /yiC9kAjNsHIDGxzQl0miIvtH3F2.jpg

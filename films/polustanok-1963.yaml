@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4371052
   imdb: tt0057418
+  tmdb: 257639
 sources:
 - https://www.wikidata.org/wiki/Q4371052
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: novikov-boris-kuzmich
 studio:
 - mosfilm
+poster_tmdb_path: /nATiqThKfOhj6E2OF45cweYj0ty.jpg
+backdrop_tmdb_path: /kLMkXr83z0wF3UCv1jnck52dLfy.jpg

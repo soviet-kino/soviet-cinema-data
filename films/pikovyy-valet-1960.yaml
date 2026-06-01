@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9370520
   imdb: tt0054456
+  tmdb: 454331
 sources:
 - https://www.wikidata.org/wiki/Q9370520
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: rajewski-wojciech
 studio:
 - start-kinostudiya
+poster_tmdb_path: /lgMMz7yGehcaBVAhOvghrTKWkuI.jpg
+backdrop_tmdb_path: /ftcDdnx3hXto1IxcVWjaMyInp4M.jpg

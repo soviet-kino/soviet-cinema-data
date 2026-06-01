@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4243394
   imdb: tt0178684
   youtube: SdoZTbD94U0
+  tmdb: 637133
 sources:
 - https://www.wikidata.org/wiki/Q4243394
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: solomin-vitaliy-mefodevich
 studio:
 - mosfilm
+poster_tmdb_path: /71Vb5po69dd1p0XN2QG49cslz04.jpg

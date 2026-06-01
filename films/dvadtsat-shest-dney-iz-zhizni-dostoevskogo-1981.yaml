@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2509532
   imdb: tt0132932
   youtube: XtThL_zMpYE
+  tmdb: 263568
 sources:
 - https://www.wikidata.org/wiki/Q2509532
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: solonitsyn-anatoly
 studio:
 - mosfilm
+poster_tmdb_path: /6bkG4qZBjJHM5ky11wtfsgasI8t.jpg
+backdrop_tmdb_path: /7Jho6eNyXlDS48D5xed0Rfiljxj.jpg

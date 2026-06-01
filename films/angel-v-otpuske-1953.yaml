@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q5302579
   imdb: tt0238949
+  tmdb: 132111
 sources:
 - https://www.wikidata.org/wiki/Q5302579
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: fajfrlikova-a
 studio:
 - q130332221
+poster_tmdb_path: /8k8RBlbxuFJep8hr0MTIaWkT1f8.jpg
+backdrop_tmdb_path: /oHTuTum5nLwtKxzQgRbiGHk8tXa.jpg

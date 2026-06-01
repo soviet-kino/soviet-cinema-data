@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3513787
   imdb: tt0174499
+  tmdb: 352820
 sources:
 - https://www.wikidata.org/wiki/Q3513787
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - mosfilm
 cast:
 - person: eglite-mayya
+poster_tmdb_path: /ysIxLuOE3R072PfUiiSyCIVEbNq.jpg
+backdrop_tmdb_path: /vHgWraYmrq45Zy9STKkrmX14gDO.jpg

@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q354525
   imdb: tt0075633
+  tmdb: 20087
 sources:
 - https://www.wikidata.org/wiki/Q354525
 schema_version: 1
@@ -175,3 +176,5 @@ cast:
 - person: krivacek-karel
 - person: novak-jiri
 - person: pavlicek-petr
+poster_tmdb_path: /pXy1htSQ3ue7RzE0hGK0U9Z18jv.jpg
+backdrop_tmdb_path: /c6S1CqSkfFZZB61sL1f0P0UG5pK.jpg

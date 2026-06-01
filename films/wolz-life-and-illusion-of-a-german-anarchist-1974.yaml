@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q15855095
   imdb: tt0072416
+  tmdb: 275050
 sources:
 - https://www.wikidata.org/wiki/Q15855095
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - brauer-yurgen
 composer:
 - zasse-karl-ernst
+poster_tmdb_path: /edvVc8JlkwwgdBEGZ5q3vcohuPr.jpg

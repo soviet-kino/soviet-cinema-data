@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q123587131
   imdb: tt0032087
+  tmdb: 822245
 sources:
 - https://www.wikidata.org/wiki/Q123587131
 schema_version: 1
 director:
 - balog-bela
 - pasztor-bela
+poster_tmdb_path: /mAd4mQ1WmqHUhXseO0Zep85fv1E.jpg

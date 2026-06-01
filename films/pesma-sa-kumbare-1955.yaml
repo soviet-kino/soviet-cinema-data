@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11159971
   imdb: tt0180050
+  tmdb: 359596
 sources:
 - https://www.wikidata.org/wiki/Q11159971
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: deba-miodrag-popovic
 - person: ulmanski-renata
 - person: pantelich-vasa
+poster_tmdb_path: /jeZzNPpbvW5T5AfyEdLwWnGjKKu.jpg
+backdrop_tmdb_path: /hFKY4nGViEA0IPAz1Q0vgfTuAPZ.jpg

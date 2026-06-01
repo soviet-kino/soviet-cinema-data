@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q359119
   imdb: tt0039132
   youtube: Afj4S5aPnx8
+  tmdb: 157962
 sources:
 - https://www.wikidata.org/wiki/Q359119
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: briling-nikolay-arkadevich
 studio:
 - mosfilm
+poster_tmdb_path: /agTe13FVAlKcd1Red36obW4td9O.jpg
+backdrop_tmdb_path: /4JPH7vdTXfR5zPv5FEEyBxcPkXR.jpg

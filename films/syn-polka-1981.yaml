@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4447956
   imdb: tt3001484
   youtube: F8aTBMZ5rd0
+  tmdb: 641138
 sources:
 - https://www.wikidata.org/wiki/Q4447956
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gusarov-nikolay-nikolaevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /zcOPr3F4zAPqs7gC8TFu6tW8kLv.jpg

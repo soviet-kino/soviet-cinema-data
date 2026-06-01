@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4193938
   imdb: tt0129289
   youtube: 7h5YFk9CHS0
+  tmdb: 453144
 sources:
 - https://www.wikidata.org/wiki/Q4193938
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: dorliak-dmitriy-lvovich
 studio:
 - mosfilm
+poster_tmdb_path: /kxRr4G1XDKZ2ZB2VQG6HqtqUBSU.jpg
+backdrop_tmdb_path: /74ExpoVlcOeIwHHA18hsTUn1qWy.jpg

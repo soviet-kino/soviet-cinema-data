@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q26720552
   imdb: tt0151098
+  tmdb: 212571
 sources:
 - https://www.wikidata.org/wiki/Q26720552
 schema_version: 1
@@ -67,3 +68,5 @@ cast:
 - person: batha-julius
 - person: ekl-gustav
 - person: q131868526
+poster_tmdb_path: /msBPXMq4UGcFHSYOVTBZgXCoK1p.jpg
+backdrop_tmdb_path: /w1lxGjp6S4m6td0s5UQeg5Bcouh.jpg

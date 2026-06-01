@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4145736
   imdb: tt0073063
   youtube: IaeJM8Vpug4
+  tmdb: 530654
 sources:
 - https://www.wikidata.org/wiki/Q4145736
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: khityaeva-lyudmila-ivanovna
 - person: chernov-yuriy-nikolaevich
 - person: yarmolnik-leonid-isaakovich
+poster_tmdb_path: /hnZ12ErXct4aAFezIcENmLY8u1.jpg
+backdrop_tmdb_path: /3G0ZbET5Hy6jaI7YLzINx5dV5ix.jpg

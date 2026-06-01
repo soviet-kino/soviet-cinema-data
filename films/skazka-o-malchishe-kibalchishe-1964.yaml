@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4421378
   imdb: tt1869672
   youtube: 6PR2THo59jg
+  tmdb: 471483
 sources:
 - https://www.wikidata.org/wiki/Q4421378
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: yurchenko-anatoliy-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /mRhjLjo1vsvOY7teumrCYiwf7Td.jpg
+backdrop_tmdb_path: /sOQkGvv3mIMJEXrgs7TEafpYnAR.jpg

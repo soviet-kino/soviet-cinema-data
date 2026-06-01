@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12027756
   imdb: tt0183331
   youtube: 4cuWoln9n7Y
+  tmdb: 345081
 sources:
 - https://www.wikidata.org/wiki/Q12027756
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: altmannova-jana
 - person: homolova-dana
 - person: houska-karel
+poster_tmdb_path: /eBRpgIGC6nVZ72fvxtTkQkv2Vil.jpg

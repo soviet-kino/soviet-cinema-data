@@ -8,6 +8,7 @@ runtime_min: 205
 external_ids:
   wikidata: Q1195218
   imdb: tt0375916
+  tmdb: 290275
 sources:
 - https://www.wikidata.org/wiki/Q1195218
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: ulrikh-rudolf
 - person: uider-teresiya
 - person: shrade-villi
+poster_tmdb_path: /ySoxlixCyZBFCNTzBruGichVcQT.jpg
+backdrop_tmdb_path: /8fsRY9r01ux7CmSzRu5TPhm5BaS.jpg

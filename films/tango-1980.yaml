@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q2392522
   imdb: tt0084764
+  tmdb: 48496
 sources:
 - https://www.wikidata.org/wiki/Q2392522
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - hajdun-janusz
 studio:
 - se-ma-for
+poster_tmdb_path: /haq47eEoNGhLjVEtiqxcH6MUpOK.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726468
   imdb: tt0073137
+  tmdb: 345303
 sources:
 - https://www.wikidata.org/wiki/Q28726468
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - veroyu-mircha
 screenwriter:
 - georgiu-mikhnya
+poster_tmdb_path: /4Xsu2AtV7xsj5gb2awA6lw25Yvv.jpg

@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q113335885
   imdb: tt0417199
+  tmdb: 456603
 sources:
 - https://www.wikidata.org/wiki/Q113335885
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - byotkher-yurgen
 cinematographer:
 - lehmann-christian
+poster_tmdb_path: /q4hLfhrMiv6ep0mUcQ2QYuA5z0C.jpg

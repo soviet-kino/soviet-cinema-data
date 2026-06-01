@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187246
   imdb: tt1373210
+  tmdb: 1009742
 sources:
 - https://www.wikidata.org/wiki/Q31187246
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kupusovic-sulejman
 cast:
 - person: kravljaca-uros
+poster_tmdb_path: /zmIvKp25OV8P9C1FXnduk8VZnfN.jpg

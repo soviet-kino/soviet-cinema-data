@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q529917
   imdb: tt0066770
+  tmdb: 280536
 sources:
 - https://www.wikidata.org/wiki/Q529917
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: noyenkhan-villi
 - person: shrade-villi
 - person: hoffmann-tim
+poster_tmdb_path: /ozpQ8aFZBqMnEqrwRrm5Ce8yarx.jpg
+backdrop_tmdb_path: /bnS3AZPQS7GuUxAIjUxruqQx1wF.jpg

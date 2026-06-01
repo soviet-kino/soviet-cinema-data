@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q1029347
   imdb: tt0166634
+  tmdb: 158734
 sources:
 - https://www.wikidata.org/wiki/Q1029347
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: szirtes-adam
 - person: sekkheli-yozhef
 - person: vass-gabor
+poster_tmdb_path: /sReDsrf39ZrQtiRQxTJ78Kca9Rj.jpg

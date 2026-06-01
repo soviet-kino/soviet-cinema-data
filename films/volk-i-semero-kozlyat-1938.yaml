@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111952432
   imdb: tt4869076
   youtube: ZCzT0-Hbllk
+  tmdb: 1127643
 sources:
 - https://www.wikidata.org/wiki/Q111952432
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 studio:
 - mosfilm
 poster_commons: Кадр из м-ф "Волк и семеро козлят".png
+poster_tmdb_path: /6iPgZ5QHjfzVjPkw53YNG2lLY8y.jpg

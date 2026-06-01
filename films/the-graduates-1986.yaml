@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18541326
   imdb: tt0134786
+  tmdb: 141331
 sources:
 - https://www.wikidata.org/wiki/Q18541326
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: konstantin-mikhay
 - person: columbeanu-mihnea-gheorghe
 - person: velnichuk-stefan
+poster_tmdb_path: /l6z4iUuJPWyAj5Wvyhjs3s76YBB.jpg
+backdrop_tmdb_path: /9IO3Ha7lptcCg31dFyWnXcBlEeh.jpg

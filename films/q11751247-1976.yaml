@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11751247
   imdb: tt0353637
+  tmdb: 1703275
 sources:
 - https://www.wikidata.org/wiki/Q11751247
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - shanaj-mevlan
 screenwriter:
 - kondo-anastas
+backdrop_tmdb_path: /nNPwuFHw3zcEbJk50QOhguus5kM.jpg

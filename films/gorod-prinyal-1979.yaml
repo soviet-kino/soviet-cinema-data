@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4144891
   imdb: tt0370609
   youtube: ZgvJwx8c-xw
+  tmdb: 319516
 sources:
 - https://www.wikidata.org/wiki/Q4144891
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: nikolaenko-georgiy-mikhaylovich
 - person: shulgin-viktor-sergeevich
 - person: chigaryov-mikhail-mikhaylovich
+poster_tmdb_path: /noHUYVRLiIZ1UCn1aDAyzF9QJ8t.jpg
+backdrop_tmdb_path: /sMJE6FURTAGB89iA9zKrajZXCgp.jpg

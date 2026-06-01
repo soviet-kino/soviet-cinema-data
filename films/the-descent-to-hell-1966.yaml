@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9389997
   imdb: tt0061214
+  tmdb: 407698
 sources:
 - https://www.wikidata.org/wiki/Q9389997
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: farr-yolanda
 - person: krzyzewska-ewa
 - person: benavides-miguel
+poster_tmdb_path: /x4co1feTCoBy0xyyH7ecFQXG712.jpg

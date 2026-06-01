@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q5788855
   imdb: tt0083153
+  tmdb: 215269
 sources:
 - https://www.wikidata.org/wiki/Q5788855
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 screenwriter:
 - balint-agnes
 - gyorgy-palasthy
+poster_tmdb_path: /gs7T1LGO1ZAVjIWlD59dSfI0tYg.jpg
+backdrop_tmdb_path: /1MeQDM017P7JtoNi8W1lGOFBVPu.jpg

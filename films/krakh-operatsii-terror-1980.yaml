@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4239906
   imdb: tt0081014
   youtube: maIJ1xn7R1s
+  tmdb: 484109
 sources:
 - https://www.wikidata.org/wiki/Q4239906
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 studio:
 - mosfilm
 - iluzjon
+poster_tmdb_path: /2JA6DB0OhwNGObQmx13pzwbzcMe.jpg

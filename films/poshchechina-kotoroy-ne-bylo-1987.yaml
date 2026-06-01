@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109428495
   imdb: tt0093762
   youtube: vcxANIKe2rA
+  tmdb: 896064
 sources:
 - https://www.wikidata.org/wiki/Q109428495
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - zhurbin-aleksandr-borisovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /fUwjsCfkksNEsSNU8XjCvsC3Obh.jpg

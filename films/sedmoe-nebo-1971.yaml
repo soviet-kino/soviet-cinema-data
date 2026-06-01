@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q55655777
   imdb: tt0067726
   youtube: HDwTiUluWbs
+  tmdb: 542024
 sources:
 - https://www.wikidata.org/wiki/Q55655777
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - eshpay-andrey
 studio:
 - mosfilm
+poster_tmdb_path: /uhdOs91zUrYnhjHbQOlNfNDjQQr.jpg
+backdrop_tmdb_path: /nPkrlhD8iWa8fvDAylrCCglmvYS.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3182520
   imdb: tt0236507
+  tmdb: 296004
 sources:
 - https://www.wikidata.org/wiki/Q3182520
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: venor-albert
 - person: kieper-herbert
 - person: dornbush-zigfrid
+poster_tmdb_path: /kMeKXeP8zO0uQmK6ThOT8cFgYNJ.jpg
+backdrop_tmdb_path: /w7zAbPjxY1tLyWqP8JI5aDTFWwh.jpg

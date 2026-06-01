@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q2501493
   imdb: tt0078448
+  tmdb: 260121
 sources:
 - https://www.wikidata.org/wiki/Q2501493
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: khench-yurgen
 - person: piontek-klaus
 - person: khess-uolter
+poster_tmdb_path: /wpZr9slStsmwth5Rc25TFSNmvPi.jpg
+backdrop_tmdb_path: /o8hE8LbCNY0wyoZqSOsCAEnQsJO.jpg

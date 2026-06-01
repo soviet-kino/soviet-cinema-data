@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4366078
   imdb: tt0347788
+  tmdb: 536433
 sources:
 - https://www.wikidata.org/wiki/Q4366078
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: filippov-roman-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /icBL3iiWrF2V0rZonvWgDB1Z95a.jpg

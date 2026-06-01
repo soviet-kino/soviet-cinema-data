@@ -63,6 +63,9 @@ external_ids:
   wikidata: Q18510273
   imdb: tt0058424
   youtube: 2ws660HfydU
+  tmdb: 270749
 sources:
 - https://www.wikidata.org/wiki/Q18510273
 schema_version: 1
+poster_tmdb_path: /6MgNgJDxvoibal4R67rxZ0rpXod.jpg
+backdrop_tmdb_path: /nh6mlhSNgRIeUvtlimBLvl600CT.jpg

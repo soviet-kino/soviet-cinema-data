@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4177653
   imdb: tt0485772
+  tmdb: 838251
 sources:
 - https://www.wikidata.org/wiki/Q4177653
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - lenfilm
 cast:
 - person: nigmatulin-talgat-kadyrovich
+poster_tmdb_path: /yFGERoq3Q3jJBtNVYpDdhC0A47u.jpg

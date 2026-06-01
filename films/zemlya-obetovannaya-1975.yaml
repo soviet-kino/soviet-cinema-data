@@ -8,6 +8,7 @@ runtime_min: 179
 external_ids:
   wikidata: Q1171197
   imdb: tt0072446
+  tmdb: 511
 sources:
 - https://www.wikidata.org/wiki/Q1171197
 schema_version: 1
@@ -76,3 +77,5 @@ cast:
 - person: oblamskiy-ezhi
 - person: grzegorczyk-janina
 poster_commons: Seweryn, Olbrychski, Pszoniak 2.jpg
+poster_tmdb_path: /uwMs9axSBS0opiO7Ih2J3AjUvMv.jpg
+backdrop_tmdb_path: /xQa198uEb8DLwQntDwO9jlilXcC.jpg

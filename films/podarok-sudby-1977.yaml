@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130600194
   imdb: tt4876918
+  tmdb: 888920
 sources:
 - https://www.wikidata.org/wiki/Q130600194
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: ignatusha-aleksandr
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /athCmHKYYUyTjH4w6v4kqCu6LMj.jpg

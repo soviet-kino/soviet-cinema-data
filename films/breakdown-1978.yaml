@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q16084427
   imdb: tt0173971
+  tmdb: 266049
 sources:
 - https://www.wikidata.org/wiki/Q16084427
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: q12959542
 - person: jelisic-or-e
 - person: vladan-zhivkovich
+poster_tmdb_path: /eygmnhmVDojG4qnvwuj8uTMTXPi.jpg

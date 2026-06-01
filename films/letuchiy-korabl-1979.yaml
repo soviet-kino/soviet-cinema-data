@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4260298
   imdb: tt0210804
   youtube: tBDS4l4SUFQ
+  tmdb: 72204
 sources:
 - https://www.wikidata.org/wiki/Q4260298
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - dunaevskiy-maksim-isaakovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8288F5qz16IoGz5O1RFH3onAMU.jpg
+backdrop_tmdb_path: /h0G9y4fwJ6r6k5x8Q3Xh4QsYBRc.jpg

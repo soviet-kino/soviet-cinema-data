@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109478
   imdb: tt0332812
   youtube: bLxqQRqveKo
+  tmdb: 329643
 sources:
 - https://www.wikidata.org/wiki/Q4109478
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: orlova-galina-petrovna
 studio:
 - belarusfilm
+poster_tmdb_path: /hnaLjo2sTf4KdqyRZlD7lHmN0h4.jpg
+backdrop_tmdb_path: /m1WQVyUMkLz8zLbgdkMC318C9hK.jpg

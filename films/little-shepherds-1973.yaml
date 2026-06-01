@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31185490
   imdb: tt0070517
+  tmdb: 438168
 sources:
 - https://www.wikidata.org/wiki/Q31185490
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - shtiglits-frantse
 cinematographer:
 - vaupotich-rudi
+poster_tmdb_path: /p6jk6TkTSaxgcrQElaMb0EDdvNC.jpg
+backdrop_tmdb_path: /zfAR9Sg3o9iEu0B7RURzK4kFrwc.jpg

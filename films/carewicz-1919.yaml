@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q25413741
   imdb: tt0136275
+  tmdb: 874392
 sources:
 - https://www.wikidata.org/wiki/Q25413741
 schema_version: 1
 director:
 - fuks-marian
+poster_tmdb_path: /likwbmdL13T8LvcAiJIfiJvk1lD.jpg

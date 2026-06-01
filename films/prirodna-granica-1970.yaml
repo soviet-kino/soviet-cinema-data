@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24038873
   imdb: tt0180935
+  tmdb: 464552
 sources:
 - https://www.wikidata.org/wiki/Q24038873
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: vrkhovets-yanez
 - person: dushan-yanichievich
 - person: drazenovic-ljerka
+poster_tmdb_path: /39ABlSENfPP9BKE2XxErOpS30yp.jpg

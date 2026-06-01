@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55587055
   imdb: tt6351462
+  tmdb: 454245
 sources:
 - https://www.wikidata.org/wiki/Q55587055
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 studio:
 - soyuzmultfilm
 - studiya-dlya-animatsionnykh-filmov-defa
+poster_tmdb_path: /tQKAw9pdlEtSVLj226Eh8lsB9pw.jpg

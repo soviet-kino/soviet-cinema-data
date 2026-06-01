@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q19599822
   imdb: tt0126090
+  tmdb: 848575
 sources:
 - https://www.wikidata.org/wiki/Q19599822
 schema_version: 1
@@ -108,3 +109,4 @@ cast:
 - person: mrazova-alexandra
 - person: kalna-helena
 - person: vesela-lenka
+poster_tmdb_path: /iCF4x6fmcI0p5Iiex5J4gKYmMRd.jpg

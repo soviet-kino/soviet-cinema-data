@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q7753545
   imdb: tt0042785
+  tmdb: 199525
 sources:
 - https://www.wikidata.org/wiki/Q7753545
 schema_version: 1
@@ -23,3 +24,4 @@ cinematographer:
 - blazhkov-nikolay-alekseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /A6lHGL7NW0NiCLHD0VLWIUAULWH.jpg

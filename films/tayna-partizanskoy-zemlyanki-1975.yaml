@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q130378689
   imdb: tt3127078
+  tmdb: 1498524
 sources:
 - https://www.wikidata.org/wiki/Q130378689
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - trushkovskiy-vasiliy-timofeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9lfW7PdU6ou2XklCrYJ5qvW9SDf.jpg
+backdrop_tmdb_path: /wOSrrxRZaRHqdiP1Tb6a3A5KLdT.jpg

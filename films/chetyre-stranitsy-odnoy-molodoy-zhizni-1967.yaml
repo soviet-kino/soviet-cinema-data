@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q16373715
   imdb: tt0346754
+  tmdb: 834299
 sources:
 - https://www.wikidata.org/wiki/Q16373715
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shvarts-isaak-iosifovich
 studio:
 - lenfilm
+poster_tmdb_path: /vm3m6tECAITj26oeN6d11I63wf8.jpg

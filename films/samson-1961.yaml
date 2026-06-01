@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q762455
   imdb: tt0055401
+  tmdb: 204196
 sources:
 - https://www.wikidata.org/wiki/Q762455
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: tsetserskiy-yan
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /xF4QU8J4UNFrUyeRi19t9KbkCVX.jpg

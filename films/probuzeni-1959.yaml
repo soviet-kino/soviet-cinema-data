@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q7247077
   imdb: tt0173057
+  tmdb: 655283
 sources:
 - https://www.wikidata.org/wiki/Q7247077
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: svec-vaclav
 - person: exner-karel
 - person: vavrincova-tatana
+poster_tmdb_path: /wk8WzD33QYqNA9IznjjetTEPwSI.jpg

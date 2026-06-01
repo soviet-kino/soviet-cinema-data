@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97279110
   imdb: tt0348341
+  tmdb: 294042
 sources:
 - https://www.wikidata.org/wiki/Q97279110
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: tsesarskaya-emma-vladimirovna
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /yDxtnlj8dGjpEizPZqNnXObKMul.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65200176
   imdb: tt0185563
   youtube: FSUrA5mUgZ0
+  tmdb: 700092
 sources:
 - https://www.wikidata.org/wiki/Q65200176
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - nikiforov-vyacheslav
 studio:
 - belarusfilm
+poster_tmdb_path: /iFioeoEmgaW2wBB0sCbLYUEDoDL.jpg
+backdrop_tmdb_path: /hvYKjwKSUUhe2N6ANlCGAi5D4MV.jpg

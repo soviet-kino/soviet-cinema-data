@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q12035125
   imdb: tt0261816
+  tmdb: 509758
 sources:
 - https://www.wikidata.org/wiki/Q12035125
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: kraus-josef
 - person: kolarik-miroslav
 - person: neubauerova-kamila
+poster_tmdb_path: /piYTS0TbUvdD90VO9742UJUdf8J.jpg
+backdrop_tmdb_path: /owPwkmfgyuO0IeObyANls1wjhFp.jpg

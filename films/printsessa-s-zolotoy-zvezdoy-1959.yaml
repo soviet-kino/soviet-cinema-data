@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q1146063
   imdb: tt0152073
+  tmdb: 51959
 sources:
 - https://www.wikidata.org/wiki/Q1146063
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: ouhela-jiri
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /v2KS2n4uqgBMUhfVl4SozRgerWN.jpg
+backdrop_tmdb_path: /58urVpxmJWN5Af3dTQ5DcrwZjK2.jpg

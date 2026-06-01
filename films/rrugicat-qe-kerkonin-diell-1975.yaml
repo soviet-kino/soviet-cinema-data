@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q3303791
   imdb: tt0295576
+  tmdb: 440008
 sources:
 - https://www.wikidata.org/wiki/Q3303791
 schema_version: 1
+poster_tmdb_path: /9mxBsWAfQ7ICX1TIpXzGlAs2mEg.jpg
+backdrop_tmdb_path: /7ssz0KYKOS5m6GUgQSnCRgifMXx.jpg

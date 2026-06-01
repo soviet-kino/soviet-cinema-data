@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27067648
   imdb: tt0297151
   youtube: I8__7quQqUI
+  tmdb: 603986
 sources:
 - https://www.wikidata.org/wiki/Q27067648
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - uzbekfilm
 cast:
 - person: annanov-baba
+poster_tmdb_path: /2aiYbKZYnLjFBWBsU1BpWutmLsi.jpg

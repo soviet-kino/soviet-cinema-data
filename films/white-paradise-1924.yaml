@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q85815385
   imdb: tt0165659
+  tmdb: 404224
 sources:
 - https://www.wikidata.org/wiki/Q85815385
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: vesela-marie
 - person: marsanova-lo
 - person: lamacova-karinska-anna
+poster_tmdb_path: /8Zmd8XMZxzpAVN3teD7Uqwdeqhk.jpg
+backdrop_tmdb_path: /rqv9HDQwuuUOoxO7fWTSvSZMhxz.jpg

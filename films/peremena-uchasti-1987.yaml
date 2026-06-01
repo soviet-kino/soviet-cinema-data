@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3868729
   imdb: tt0087900
   youtube: WyhgJcjqQj4
+  tmdb: 267532
 sources:
 - https://www.wikidata.org/wiki/Q3868729
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: shlykov-yuriy-veniaminovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /eGPB5KVBmXbbiNERp4NsbXj4uuz.jpg
+backdrop_tmdb_path: /oGvesq7vvtqqyNvgeucdnL7zcQD.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750625
   imdb: tt0296048
+  tmdb: 487566
 sources:
 - https://www.wikidata.org/wiki/Q11750625
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - prifti-naum
 composer:
 - peci-aleksander
+poster_tmdb_path: /yRFT27cz9xIcKfm9NrHsJpEzlKM.jpg
+backdrop_tmdb_path: /jS02ZyBG1E7KJla7OY3RTNmR1Wk.jpg

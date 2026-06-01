@@ -8,6 +8,7 @@ runtime_min: 166
 external_ids:
   wikidata: Q97199894
   imdb: tt0074522
+  tmdb: 164950
 sources:
 - https://www.wikidata.org/wiki/Q97199894
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: sabo-shandor
 studio:
 - mafilm
+poster_tmdb_path: /rI8PtmVBgjc9McAAfUBURPa3UR6.jpg
+backdrop_tmdb_path: /A3hrnzUE2i014O5phYxqGpuPG0l.jpg

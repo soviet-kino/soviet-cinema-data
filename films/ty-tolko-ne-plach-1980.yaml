@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q116811468
   imdb: tt0383022
+  tmdb: 1409135
 sources:
 - https://www.wikidata.org/wiki/Q116811468
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - zimovets-vitaliy-andreevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9LSnrSar3MPQ2PfzGKcjD8G6ics.jpg
+backdrop_tmdb_path: /pmEjqh7A6xt3CfL3aJAQWkqcZs2.jpg

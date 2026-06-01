@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1980367
   imdb: tt0469785
+  tmdb: 116432
 sources:
 - https://www.wikidata.org/wiki/Q1980367
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: ruzs-boleslavs
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /yEX65m3vhNHDgRizUtUjq2yV7sW.jpg
+backdrop_tmdb_path: /bojiphH8a8oS4VStjLZj7LLX4Qc.jpg

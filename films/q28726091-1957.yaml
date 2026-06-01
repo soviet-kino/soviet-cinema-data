@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q28726091
   imdb: tt0184275
+  tmdb: 629825
 sources:
 - https://www.wikidata.org/wiki/Q28726091
 schema_version: 1
 screenwriter:
 - urshianu-malvina
+poster_tmdb_path: /lNrFJRaBuhCxGJ2fr6fAuJY62h7.jpg

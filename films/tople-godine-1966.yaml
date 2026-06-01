@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461798
   imdb: tt0181067
+  tmdb: 265691
 sources:
 - https://www.wikidata.org/wiki/Q25461798
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: zegarats-dushitsa
 - person: elich-milan
 - person: milutin-butkovich
+poster_tmdb_path: /zXaY1wijK7twI3cjAdc71u8ppSu.jpg
+backdrop_tmdb_path: /7xoNMY0P9o4bcLBlvplmR1HFxlx.jpg

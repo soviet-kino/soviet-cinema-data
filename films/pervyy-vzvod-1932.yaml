@@ -34,6 +34,8 @@ external_ids:
   wikidata: Q10003077
   imdb: tt0024438
   youtube: 84eUUJIaf8o
+  tmdb: 881967
 sources:
 - https://www.wikidata.org/wiki/Q10003077
 schema_version: 1
+poster_tmdb_path: /8oOqOEq4sDnNW6ssbSqImyvt6kL.jpg

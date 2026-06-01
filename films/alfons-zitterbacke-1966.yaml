@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4721972
   imdb: tt0060087
+  tmdb: 204731
 sources:
 - https://www.wikidata.org/wiki/Q4721972
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bath-evamaria
 - person: rossmann-helmut
 - person: yonishkan-khorst
+poster_tmdb_path: /FuC0iuXoYqggGsg278QJS7KujZ.jpg
+backdrop_tmdb_path: /8vRx70XoDnoQsgFG8nUQpYqWMwS.jpg

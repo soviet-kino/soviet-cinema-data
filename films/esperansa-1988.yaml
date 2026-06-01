@@ -8,6 +8,7 @@ runtime_min: 138
 external_ids:
   wikidata: Q16482248
   imdb: tt0095114
+  tmdb: 363669
 sources:
 - https://www.wikidata.org/wiki/Q16482248
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: spivak-timofey-ivanovich
 studio:
 - instituto-mexicano-de-cinematografia
+poster_tmdb_path: /tRSttAomP5oa0Vb0chHBrmrhShK.jpg
+backdrop_tmdb_path: /tnYqyvYedaigXOtR7VPxKRATv8U.jpg

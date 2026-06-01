@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1965342
   imdb: tt0179925
   youtube: lEuaHYrLIIo
+  tmdb: 91276
 sources:
 - https://www.wikidata.org/wiki/Q1965342
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - mosfilm
 cast:
 - person: rumyantseva-nadezhda-vasilevna
+poster_tmdb_path: /ncN72zSYPNtlw3CaH5oidMnQxhf.jpg
+backdrop_tmdb_path: /vLT7VAJAVY03IEj2RVT2DHIJPPN.jpg

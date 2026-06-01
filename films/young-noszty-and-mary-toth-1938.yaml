@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23751155
   imdb: tt0030511
+  tmdb: 316421
 sources:
 - https://www.wikidata.org/wiki/Q23751155
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: gozon-gyula
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /xOIZHCkrdfa7QhBtHyVL3ud0XWS.jpg

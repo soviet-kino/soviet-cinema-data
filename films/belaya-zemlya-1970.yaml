@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4081660
   imdb: tt4663252
   youtube: VATJvpe0VwU
+  tmdb: 1242458
 sources:
 - https://www.wikidata.org/wiki/Q4081660
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: yankovsky-oleg
 - person: putsitis-uldis
 - person: paul-paulovich-butkevich
+poster_tmdb_path: /npRss6dRznpymYnEounCJHi09rc.jpg
+backdrop_tmdb_path: /oznRsHkvQ3VjuRb1kEWJZZ07ShN.jpg

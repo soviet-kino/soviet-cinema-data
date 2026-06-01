@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3506572
   imdb: tt0180729
+  tmdb: 503898
 sources:
 - https://www.wikidata.org/wiki/Q3506572
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: sokich-ruzhitsa
 - person: simich-slavko
 - person: khaytl-ivan
+poster_tmdb_path: /cCirlduIsqlPZQtGK5tXnR2ZL9c.jpg

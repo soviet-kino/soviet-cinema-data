@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q4468658
   imdb: tt0035485
+  tmdb: 291054
 sources:
 - https://www.wikidata.org/wiki/Q4468658
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 studio:
 - mosfilm
 - kazakhfilm
+poster_tmdb_path: /kJd312VTcuBKjmrJ1MvTNFsGkAP.jpg

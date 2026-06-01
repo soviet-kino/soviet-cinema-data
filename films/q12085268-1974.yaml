@@ -7,9 +7,12 @@ country:
 external_ids:
   wikidata: Q12085268
   imdb: tt0814608
+  tmdb: 1420160
 sources:
 - https://www.wikidata.org/wiki/Q12085268
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
 - andronikashvili-otar-konstantinovich
+poster_tmdb_path: /du0k7FrVjGwdRZFbI98fIN5t243.jpg
+backdrop_tmdb_path: /xpNJTKdla3yon6Jl9ZxYhobhU1W.jpg

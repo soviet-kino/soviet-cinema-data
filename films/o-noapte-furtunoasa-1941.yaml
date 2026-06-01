@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q12736976
   imdb: tt0036210
+  tmdb: 385924
 sources:
 - https://www.wikidata.org/wiki/Q12736976
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - dzhordzhesku-zhan
 screenwriter:
 - karadzhiale-ion-luka
+poster_tmdb_path: /mizQx5Ewl3PcJ2wI3LlWBHwniPq.jpg
+backdrop_tmdb_path: /4Tya6Hi8Z3FLVdItzmLAdBBsj8P.jpg

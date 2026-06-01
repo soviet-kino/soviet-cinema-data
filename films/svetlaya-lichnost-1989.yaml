@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4410314
   imdb: tt0096198
   youtube: pp_nswKaNiI
+  tmdb: 216468
 sources:
 - https://www.wikidata.org/wiki/Q4410314
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kryuchkova-svetlana
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /bg38bSOBfpuerAEk0sOCBmSa7Ep.jpg
+backdrop_tmdb_path: /xeSoEsn9GpucKx404zIDftKHHIj.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226052
   imdb: tt4667780
   youtube: rbByawZF5X8
+  tmdb: 637081
 sources:
 - https://www.wikidata.org/wiki/Q4226052
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: avdyushko-viktor-antonovich
 - person: khityaeva-lyudmila-ivanovna
+poster_tmdb_path: /aXMoqGiJGj8WBBI1aTzuVOreb5z.jpg
+backdrop_tmdb_path: /9T6N3hhg6uQHzBGdLNPCBVJtINm.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4466948
   imdb: tt0067894
   youtube: ZGoRM0xRPTQ
+  tmdb: 146428
 sources:
 - https://www.wikidata.org/wiki/Q4466948
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bondarchuk-natalya-sergeevna
 - person: demidova-alla-sergeevna
 - person: dyachkov-leonid
+poster_tmdb_path: /8DL9vfVyCZfz5uwTwk3ecpT4HL7.jpg
+backdrop_tmdb_path: /j1NS6Zf3aVXSqc7momNMXve4Fdq.jpg

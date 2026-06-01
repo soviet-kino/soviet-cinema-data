@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q57262800
   imdb: tt1006892
+  tmdb: 689938
 sources:
 - https://www.wikidata.org/wiki/Q57262800
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - fisher-yan
 studio:
 - televidenie-v-chekhoslovakii
+poster_tmdb_path: /39HKUEkJTkpfxkkHCeiMTMR5qP5.jpg
+backdrop_tmdb_path: /rciCxJawCzFfevVBWcX03iR5dWP.jpg

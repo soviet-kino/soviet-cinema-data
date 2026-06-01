@@ -15,6 +15,8 @@ cast:
 external_ids:
   wikidata: Q123114485
   imdb: tt0053743
+  tmdb: 423205
 sources:
 - https://www.wikidata.org/wiki/Q123114485
 schema_version: 1
+poster_tmdb_path: /jqXStM7WzFVwdHb6zHICo5GvsRz.jpg

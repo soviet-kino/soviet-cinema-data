@@ -19,6 +19,7 @@ soviet_release:
 external_ids:
   wikidata: Q818710
   imdb: tt0057831
+  tmdb: 10604
 sources:
 - https://www.wikidata.org/wiki/Q818710
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 studio:
 - 20th-century-studios
 poster_commons: AQ Zorba el Griego.jpg
+poster_tmdb_path: /eoaOAsgjP98i7x3Q91BJ7gzrzRI.jpg
+backdrop_tmdb_path: /fdKE05kO9lch613DR2rfIqbv7dN.jpg

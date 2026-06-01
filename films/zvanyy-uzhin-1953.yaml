@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270635
   imdb: tt0055911
   youtube: rhHGO9GVeVM
+  tmdb: 346629
 sources:
 - https://www.wikidata.org/wiki/Q15270635
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mamaeva-nina-vasilevna
 studio:
 - lenfilm
+poster_tmdb_path: /GvfKkppEzXrJwSnIsQGV8YOnS4.jpg
+backdrop_tmdb_path: /fqpQfU5Z8fpiBSZtMYllT2tdXj3.jpg

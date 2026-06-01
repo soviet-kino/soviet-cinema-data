@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16575661
   imdb: tt0930901
+  tmdb: 1007383
 sources:
 - https://www.wikidata.org/wiki/Q16575661
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - makarczynski-tadeusz
 screenwriter:
 - makarczynski-tadeusz
+poster_tmdb_path: /9gsqS3Tytd5LHHcJwLP5ex0UpV2.jpg

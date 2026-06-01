@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9350663
   imdb: tt1071962
+  tmdb: 642068
 sources:
 - https://www.wikidata.org/wiki/Q9350663
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - mierzejewski-jerzy
 cast:
 - person: lapitskiy-andzhey
+poster_tmdb_path: /klEWObgQTS6x9Cit8RusiUGAv19.jpg

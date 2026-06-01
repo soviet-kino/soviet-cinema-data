@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5243366
   imdb: tt0069982
   youtube: HnOG09U2wps
+  tmdb: 311003
 sources:
 - https://www.wikidata.org/wiki/Q5243366
 schema_version: 1
@@ -319,3 +320,5 @@ cast:
 - person: sebl-karel
 - person: cuska-michal
 - person: sedivy-stanislav
+poster_tmdb_path: /zRD2exymor70oDab5zSNnlfvVUZ.jpg
+backdrop_tmdb_path: /xNA2zvyTvQvLI68U09QSrxV78XR.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4373817
   imdb: tt0081362
+  tmdb: 457382
 sources:
 - https://www.wikidata.org/wiki/Q4373817
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: khanaeva-evgeniya
 studio:
 - lenfilm
+poster_tmdb_path: /guInDMhg59AdW67GNKHHzINdeeJ.jpg
+backdrop_tmdb_path: /6mPa7jwcLPffzJ8kmh7UPThaHkf.jpg

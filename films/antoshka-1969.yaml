@@ -8,6 +8,7 @@ runtime_min: 146
 external_ids:
   wikidata: Q7475124
   imdb: tt1075301
+  tmdb: 337389
 sources:
 - https://www.wikidata.org/wiki/Q7475124
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - soyuzmultfilm
 poster_commons: RR5015-0068R 25 рублей медно-никелевый сплав 2022 Российская мультипликация
   Весёлая карусель реверс.png
+poster_tmdb_path: /n4bAWSNzz4lTcqGL6PPalrT4vi8.jpg
+backdrop_tmdb_path: /whsCBuA3w6ZpIoe5Vzt51XxYg2p.jpg

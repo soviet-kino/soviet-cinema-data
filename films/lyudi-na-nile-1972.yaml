@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q20404230
   imdb: tt0063337
+  tmdb: 334359
 sources:
 - https://www.wikidata.org/wiki/Q20404230
 schema_version: 1
+poster_tmdb_path: /4C19Q1WEFPiL1XdE7YwRywphk79.jpg
+backdrop_tmdb_path: /gLxImdiKbowFhmjepNBMH7fIHki.jpg

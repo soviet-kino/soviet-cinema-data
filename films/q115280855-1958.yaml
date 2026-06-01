@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q115280855
   imdb: tt0355718
+  tmdb: 1202066
 sources:
 - https://www.wikidata.org/wiki/Q115280855
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: eddine-karim-diaa
 - person: ibrakhim-abdel-moneym
 - person: allam-ahmed
+poster_tmdb_path: /7zWcNzPPPlYLTfcSkf0lWEcP3U0.jpg

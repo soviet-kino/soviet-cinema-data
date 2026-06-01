@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131683055
   imdb: tt0061880
+  tmdb: 579619
 sources:
 - https://www.wikidata.org/wiki/Q131683055
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: englert-yan
 - person: mikolaevska-kristina
 - person: q124568882
+poster_tmdb_path: /de5Cz1RHx5WsXPJFzF3rR4sDSp2.jpg

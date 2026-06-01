@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4457763
   imdb: tt1721110
   youtube: P8xiluS4uuw
+  tmdb: 38353
 sources:
 - https://www.wikidata.org/wiki/Q4457763
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tretyakova-inga-alfredovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /8NcYJe17WZjb3R6MGepTxEGpsud.jpg
+backdrop_tmdb_path: /njLgYG7smSRSqfOyqsDCA5mPTlH.jpg

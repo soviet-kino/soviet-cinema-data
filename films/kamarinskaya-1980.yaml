@@ -8,6 +8,7 @@ runtime_min: 504
 external_ids:
   wikidata: Q16514547
   imdb: tt8187554
+  tmdb: 453678
 sources:
 - https://www.wikidata.org/wiki/Q16514547
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kovalevskaya-inessa-alekseevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3AdQvW6a69kQ850slNTyBWq9wml.jpg
+backdrop_tmdb_path: /f9NMh6S3WLFEBBN2PBqH4eKZ92W.jpg

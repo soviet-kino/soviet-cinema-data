@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q23788296
   imdb: tt0027710
+  tmdb: 81260
 sources:
 - https://www.wikidata.org/wiki/Q23788296
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: starshiy-pishtek-teodor
 - person: neyman-stanislav
 - person: valevskaja-zoja
+poster_tmdb_path: /i3pWg1A0oP2QmTjtGZMv6UCgg5S.jpg

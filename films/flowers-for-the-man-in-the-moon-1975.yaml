@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q886186
   imdb: tt0072716
+  tmdb: 278798
 sources:
 - https://www.wikidata.org/wiki/Q886186
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: wieland-werner
 - person: khilbrekht-yurgen
 - person: gerke-klaus
+poster_tmdb_path: /41Egwm2DHfyiguDMjjxq0iWuplF.jpg

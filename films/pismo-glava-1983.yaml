@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461558
   imdb: tt0123880
+  tmdb: 362160
 sources:
 - https://www.wikidata.org/wiki/Q25461558
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: lepetich-zvonko
 - person: muzaferiya-zaim
 - person: vladitsa-miloslavovich
+poster_tmdb_path: /jAc7XHLQQyRweOtD8FYIYpJlCk1.jpg

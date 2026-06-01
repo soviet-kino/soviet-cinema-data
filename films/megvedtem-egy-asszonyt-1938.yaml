@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1175492
   imdb: tt0030432
+  tmdb: 781403
 sources:
 - https://www.wikidata.org/wiki/Q1175492
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: gobbi-khilda
 - person: lazar-mariya
 - person: molnar-laslo-z
+poster_tmdb_path: /vCvI7PqIprRESLptzhZQdXMnKLd.jpg

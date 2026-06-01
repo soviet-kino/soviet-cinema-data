@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q11863123
   imdb: tt0166563
   youtube: xlNQmEVb7N0
+  tmdb: 574112
 sources:
 - https://www.wikidata.org/wiki/Q11863123
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: gollwellova-inka
 - person: zeniskova-julie
 - person: svanda-karel
+poster_tmdb_path: /tjacmOB8NVr6LbnoB5fGNiCZedE.jpg

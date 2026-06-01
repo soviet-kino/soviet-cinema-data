@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q11695354
   imdb: tt0051567
+  tmdb: 156587
 sources:
 - https://www.wikidata.org/wiki/Q11695354
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: skowronski-zbigniew
 - person: wolny-florian
 - person: q117088486
+poster_tmdb_path: /bCDz724KLVR1QN4GRTyTEFAwoLp.jpg

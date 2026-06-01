@@ -8,8 +8,10 @@ runtime_min: 84
 external_ids:
   wikidata: Q123514846
   imdb: tt0887903
+  tmdb: 315656
 sources:
 - https://www.wikidata.org/wiki/Q123514846
 schema_version: 1
 director:
 - bardos-artur
+poster_tmdb_path: /o87qLjmtP8SjbLysxWcPJWltRCR.jpg

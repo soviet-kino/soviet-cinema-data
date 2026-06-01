@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q106717141
   imdb: tt0080692
+  tmdb: 441320
 sources:
 - https://www.wikidata.org/wiki/Q106717141
 schema_version: 1
 director:
 - feyer-tamash
+poster_tmdb_path: /898BbNJmFB420eD5kve5UF4m5gQ.jpg
+backdrop_tmdb_path: /j7xxKSgVntFPmYzE84k4rBsTbVg.jpg

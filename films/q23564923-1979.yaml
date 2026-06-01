@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q23564923
   imdb: tt0124022
+  tmdb: 339278
 sources:
 - https://www.wikidata.org/wiki/Q23564923
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bergman-verner
 composer:
 - cibulka-kiril
+poster_tmdb_path: /kRbFnpCiAe3FUTnzjG9E6WTqBDh.jpg

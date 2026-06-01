@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4381512
   imdb: tt0023359
+  tmdb: 219057
 sources:
 - https://www.wikidata.org/wiki/Q4381512
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 - mezhrabpomfilm
 - kinostudiya-imeni-m-gorkogo
 poster_commons: Story about a simple case.png
+poster_tmdb_path: /wtQgfJsh37sIDclm0OAqutfNP4f.jpg
+backdrop_tmdb_path: /b3IgMJ9kQgomx7CwkFpBuzUiyXf.jpg

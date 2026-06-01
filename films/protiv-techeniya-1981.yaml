@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q21644102
   imdb: tt0237618
   youtube: FO25AG4IneU
+  tmdb: 1533320
 sources:
 - https://www.wikidata.org/wiki/Q21644102
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zaytsev-vladimir-ivanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /5jxp02VmtZC1TrZgORHj4qiet22.jpg

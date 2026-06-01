@@ -37,6 +37,9 @@ external_ids:
   wikidata: Q2368378
   imdb: tt0093543
   youtube: EfTmE0A-Mz8
+  tmdb: 14499
 sources:
 - https://www.wikidata.org/wiki/Q2368378
 schema_version: 1
+poster_tmdb_path: /1A5SDCwbx9diEkFxOksz6JG5RyP.jpg
+backdrop_tmdb_path: /aFHd6jI03L8EQP8qdhRkE2MUZ32.jpg

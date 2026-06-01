@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q18639610
   imdb: tt0175989
+  tmdb: 597809
 sources:
 - https://www.wikidata.org/wiki/Q18639610
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: subrt-milos
 - person: havrankova-sylvie
 - person: milan-jiri
+poster_tmdb_path: /u6R4ClTDm9qBUXovIrv7G3Sj0jM.jpg

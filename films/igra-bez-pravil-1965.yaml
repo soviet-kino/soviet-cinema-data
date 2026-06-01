@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106764922
   imdb: tt0314193
   youtube: KKcvBUBl67I
+  tmdb: 390748
 sources:
 - https://www.wikidata.org/wiki/Q106764922
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - afanasev-leonid
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /tiWhNqDZEs2FJPXvYdtVAlFZtLU.jpg

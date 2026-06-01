@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4279590
   imdb: tt0239585
   youtube: rRy9r0uI0Js
+  tmdb: 618494
 sources:
 - https://www.wikidata.org/wiki/Q4279590
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: samoylov-evgeniy-valerianovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /sI9ikhGgtB1cyWLhV3kiuT5X6F4.jpg

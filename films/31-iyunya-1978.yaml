@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4030858
   imdb: tt0077114
   youtube: am5LIBBsTVk
+  tmdb: 65089
 sources:
 - https://www.wikidata.org/wiki/Q4030858
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: etush-vladimir-abramovich
 - person: eryomenko-nikolay-nikolaevich
 - person: trubnikova-natalya-evgenevna
+poster_tmdb_path: /73GWpy6wyP2Nrda9VoOYuHmXhDI.jpg
+backdrop_tmdb_path: /mS4RIt45UVwyZbhzAFR4Zw7VJUM.jpg

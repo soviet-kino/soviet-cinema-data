@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q25668464
   imdb: tt5686692
   youtube: K3k0dw5cLuk
+  tmdb: 1151842
 sources:
 - https://www.wikidata.org/wiki/Q25668464
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: serdyuk-aleksandr-aleksandrovich
 studio:
 - ukrtelefilm
+poster_tmdb_path: /yApp3Zqa55bPdKn83Q5YkNm6tzR.jpg
+backdrop_tmdb_path: /lc2ODalG0htrGNcGlNT7KsYaktQ.jpg

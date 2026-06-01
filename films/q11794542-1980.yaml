@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11794542
   imdb: tt0171561
+  tmdb: 477839
 sources:
 - https://www.wikidata.org/wiki/Q11794542
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - gjika-viktor
 composer:
 - peci-aleksander
+poster_tmdb_path: /6DF8oNcqUntTi6h4L4X8HDjgsm0.jpg

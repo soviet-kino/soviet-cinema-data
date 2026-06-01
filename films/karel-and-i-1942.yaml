@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q18713084
   imdb: tt0215889
+  tmdb: 439996
 sources:
 - https://www.wikidata.org/wiki/Q18713084
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: orlicky-jaroslav
 - person: kucharova-eliska
 - person: blahovec-kamil
+poster_tmdb_path: /pJNwe22WKHUjlpeskJbRfGHflf0.jpg

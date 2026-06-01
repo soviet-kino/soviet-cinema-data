@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4441111
   imdb: tt0081557
   youtube: M7JCEQDunGo
+  tmdb: 65136
 sources:
 - https://www.wikidata.org/wiki/Q4441111
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: minina-kseniya-aleksandrovna
 studio:
 - mosfilm
+poster_tmdb_path: /wZGbiN8lsdScmDVZG6w7cTvEAnG.jpg
+backdrop_tmdb_path: /w0IM4UcydYa03Y9ex0nQK9WXI0k.jpg

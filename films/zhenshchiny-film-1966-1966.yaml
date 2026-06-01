@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4179491
   imdb: tt0166408
   youtube: FCRoiJNnZTQ
+  tmdb: 77770
 sources:
 - https://www.wikidata.org/wiki/Q4179491
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: makarova-inna-vladimirovna
 - person: sazonova-nina-afanasevna
 - person: yatskina-galina-ivanovna
+poster_tmdb_path: /cwn2WiGtrEZXHkry392l8PvtJg.jpg
+backdrop_tmdb_path: /cmg0etrkC2LnBRc2a1kfSUD6zPy.jpg

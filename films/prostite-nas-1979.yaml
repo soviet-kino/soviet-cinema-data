@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4381453
   imdb: tt1954760
   youtube: uwQYhEVoqQQ
+  tmdb: 532963
 sources:
 - https://www.wikidata.org/wiki/Q4381453
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: ogly-mamedov-gasan-agamamed
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /8YpSTUyVkdzmZpP4A9a83za0NP3.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31183812
   imdb: tt0183478
+  tmdb: 477441
 sources:
 - https://www.wikidata.org/wiki/Q31183812
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 cast:
 - person: vrkhovets-yanez
 - person: tanhofer-tomislav
+poster_tmdb_path: /pvNcnZMv1RGv2vBsUDNJ7OQnfce.jpg
+backdrop_tmdb_path: /C5t9riNFwyw9M01KE23vqIw6tl.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4394702
   imdb: tt2350964
   youtube: xxMvOqdK_AM
+  tmdb: 889770
 sources:
 - https://www.wikidata.org/wiki/Q4394702
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: polskikh-galina
 - person: porokhovshchikov-aleksandr-shalvovich
 - person: lebedev-evgeniy-alekseevich
+poster_tmdb_path: /uoGmPq7m3SeWh5d5mskJnVpKd1V.jpg

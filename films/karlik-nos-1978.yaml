@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q244022
   imdb: tt1027206
+  tmdb: 255694
 sources:
 - https://www.wikidata.org/wiki/Q244022
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: abesser-doris
 - person: monika-voytovich
 - person: bauze-peter
+poster_tmdb_path: /63UroaWl64RHjzPaP5cHxNgJz57.jpg
+backdrop_tmdb_path: /s1ediS78REivKyCnXsbOX46Y5nC.jpg

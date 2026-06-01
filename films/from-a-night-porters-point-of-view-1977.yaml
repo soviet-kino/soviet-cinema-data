@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q636911
   imdb: tt0078516
+  tmdb: 179851
 sources:
 - https://www.wikidata.org/wiki/Q636911
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: osuch-marian
+poster_tmdb_path: /95wHj5DC3QeimqkFniQQDZ9f1VL.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q105710552
   imdb: tt0041846
   youtube: M1S5vtErMDQ
+  tmdb: 458692
 sources:
 - https://www.wikidata.org/wiki/Q105710552
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - levitin-veniamin-faustovich
 studio:
 - lenfilm
+poster_tmdb_path: /1HqbeN9ig7Jav7NRnwnZu5qXlNm.jpg
+backdrop_tmdb_path: /3CrFewKYUWZE4qXPQ8srNsQaIRn.jpg

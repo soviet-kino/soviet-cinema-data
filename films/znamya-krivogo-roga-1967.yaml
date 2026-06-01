@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q1212293
   imdb: tt0061637
+  tmdb: 218863
 sources:
 - https://www.wikidata.org/wiki/Q1212293
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 studio:
 - defa
 poster_commons: Bundesarchiv Bild 183-17031-0001, Bergarbeiter, Ehrung.jpg
+poster_tmdb_path: /y2lTmogmyEP7hKhebUOaeXmQqul.jpg

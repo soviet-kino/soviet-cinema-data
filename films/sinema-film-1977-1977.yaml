@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q123123911
   imdb: tt0204631
+  tmdb: 463415
 sources:
 - https://www.wikidata.org/wiki/Q123123911
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: dzhinoriya-murman
 studio:
 - gruziya-film
+poster_tmdb_path: /q3eDBKUUM8ghiGO4pHiZLJJNNEv.jpg

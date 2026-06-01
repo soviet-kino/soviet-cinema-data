@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4162363
   imdb: tt0095035
+  tmdb: 1110577
 sources:
 - https://www.wikidata.org/wiki/Q4162363
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 studio:
 - moldova-film
 - sovinfilm
+poster_tmdb_path: /qqLrQYB13rm2mhy5TKCjSD733Cd.jpg

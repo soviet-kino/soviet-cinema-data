@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7081348
   imdb: tt0067572
   youtube: zQWHmbpqyvY
+  tmdb: 148758
 sources:
 - https://www.wikidata.org/wiki/Q7081348
 schema_version: 1
@@ -92,3 +93,5 @@ cast:
 - person: plhon-ales
 - person: kouklik-ladislav
 - person: koblitz-vincenc
+poster_tmdb_path: /16iqoY8gk8fwOQJKBObu2VUstnO.jpg
+backdrop_tmdb_path: /1QACyWzts6fEIkcrHnmxHjrgtjh.jpg

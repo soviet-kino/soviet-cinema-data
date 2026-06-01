@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q16392375
   imdb: tt0296596
+  tmdb: 1401045
 sources:
 - https://www.wikidata.org/wiki/Q16392375
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: gukasyan-anait
 studio:
 - armenfilm
+poster_tmdb_path: /5NtL8mZHQwBLULn8oeGJODmikxs.jpg
+backdrop_tmdb_path: /rtv00wXtLkzuBnSWgtJn7MN5YhZ.jpg

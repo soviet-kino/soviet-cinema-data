@@ -8,6 +8,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q36530326
   imdb: tt0062770
+  tmdb: 19006
 sources:
 - https://www.wikidata.org/wiki/Q36530326
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 cast:
 - person: gerts-yuray
 - person: kraus-ivan
+poster_tmdb_path: /lKGEzUH9UgWlGJaWQDRylfbijB6.jpg
+backdrop_tmdb_path: /mwBRs1zEshYQhld1sHpDzXyk7T1.jpg

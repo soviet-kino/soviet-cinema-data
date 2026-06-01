@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q9169799
   imdb: tt0080434
+  tmdb: 424137
 sources:
 - https://www.wikidata.org/wiki/Q9169799
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: straszewski-ryszard
 studio:
 - iluzjon-2
+poster_tmdb_path: /oBQyxDqPQ1XI530bXqRLf5AwgD3.jpg
+backdrop_tmdb_path: /1Xp81PC7NgKvnsHmev16tqUDAid.jpg

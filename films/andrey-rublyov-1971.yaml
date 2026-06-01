@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q503046
   imdb: tt0060107
   youtube: 4JpnrdEOAcM
+  tmdb: 895
 sources:
 - https://www.wikidata.org/wiki/Q503046
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: glazkov-nikolay-ivanovich
 - person: orlovskiy-dmitriy-dmitrievich
 - person: obukhov-anatoliy-matveevich
+poster_tmdb_path: /3aodTV8q8iIRtaw9dxeU8DuKlta.jpg
+backdrop_tmdb_path: /jqha8JCXm0aJ5SJ03Jd0JmGgWRs.jpg

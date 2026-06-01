@@ -8,6 +8,7 @@ runtime_min: 169
 external_ids:
   wikidata: Q4086839
   imdb: tt0096930
+  tmdb: 65097
 sources:
 - https://www.wikidata.org/wiki/Q4086839
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: leonidov-maksim
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /gEway57aoPAg5dl2fDR3U0g2XRi.jpg
+backdrop_tmdb_path: /7C3eDOknnw0EyfXGOmKysxOq7TE.jpg

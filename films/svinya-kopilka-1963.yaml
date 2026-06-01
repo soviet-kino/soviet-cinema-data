@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4410781
   imdb: tt6044652
+  tmdb: 90569
 sources:
 - https://www.wikidata.org/wiki/Q4410781
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - frenkel-yan-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /jUgTHIJlPk82UFYrMnqqK4H4oFm.jpg
+backdrop_tmdb_path: /95okYNR5f604kCVroTkBKeW0wAD.jpg

@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q561229
   imdb: tt0061359
+  tmdb: 147009
 sources:
 - https://www.wikidata.org/wiki/Q561229
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: yakovlev-yuriy-vasilevich
 - person: lanovoy-vasiliy-semyonovich
 - person: gritsenko-nikolay-olimpievich
+poster_tmdb_path: /zCmUz7HqoJoATp09suliP3GOrky.jpg
+backdrop_tmdb_path: /xQNzpe3jeHGvzTZZhpi4fQFNVfm.jpg

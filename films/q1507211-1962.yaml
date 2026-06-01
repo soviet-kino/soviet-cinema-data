@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q1507211
   imdb: tt0366837
+  tmdb: 335469
 sources:
 - https://www.wikidata.org/wiki/Q1507211
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gorges-ingolf
 - person: schroeder-karin
 - person: kherden-peter
+poster_tmdb_path: /tfpFsPyJm0lBPGozJwX8X5lZwRB.jpg

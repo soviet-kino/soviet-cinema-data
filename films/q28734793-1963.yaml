@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q28734793
   imdb: tt0056830
+  tmdb: 632606
 sources:
 - https://www.wikidata.org/wiki/Q28734793
 schema_version: 1
 director:
 - stiopul-savel
+poster_tmdb_path: /yAwd4fvBfcf3Nd7qnidpJep0Yu1.jpg
+backdrop_tmdb_path: /5hrnqawXSl3JQ5a1cr1SPI0cO7d.jpg

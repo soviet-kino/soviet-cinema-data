@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q378969
   imdb: tt0067789
   youtube: SkhN7hXWYGo
+  tmdb: 46010
 sources:
 - https://www.wikidata.org/wiki/Q378969
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: shirvindt-aleksandr-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /hCoon0OCV0eT3MKRrnEOkU4j0JH.jpg
+backdrop_tmdb_path: /5CueR93QvDAnIc9Hrme76GhZ3np.jpg

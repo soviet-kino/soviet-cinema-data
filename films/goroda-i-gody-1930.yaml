@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q21638184
   imdb: tt0020933
+  tmdb: 165972
 sources:
 - https://www.wikidata.org/wiki/Q21638184
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: chuvelyov-ivan-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /8sAuWHDvL8cOYv7kvptVkwzp71x.jpg

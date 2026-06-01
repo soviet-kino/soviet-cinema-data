@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q130640709
   imdb: tt21223362
+  tmdb: 1641585
 sources:
 - https://www.wikidata.org/wiki/Q130640709
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: budraytis-yuozas-stanislavas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /kpkdKFYsBE8hV6ua3f4TQzzrrg0.jpg
+backdrop_tmdb_path: /dGYgkLWvhHobTZimHsvPvBNZfaH.jpg

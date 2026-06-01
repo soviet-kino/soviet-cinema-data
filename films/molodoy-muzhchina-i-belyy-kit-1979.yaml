@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7776776
   imdb: tt0171535
+  tmdb: 728913
 sources:
 - https://www.wikidata.org/wiki/Q7776776
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: radimetskiy-yaroslav
 - person: blazek-zdenek
 - person: nebesky-jiri
+poster_tmdb_path: /ooKtCyyRTYXazLkIB0LZp0QDmrt.jpg
+backdrop_tmdb_path: /wqJzn3gJMMvJgrvKzNOeXZzn9qM.jpg

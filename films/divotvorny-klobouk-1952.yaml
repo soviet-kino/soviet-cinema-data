@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q5284683
   imdb: tt0150341
+  tmdb: 712133
 sources:
 - https://www.wikidata.org/wiki/Q5284683
 schema_version: 1
@@ -68,3 +69,4 @@ cast:
 - person: aisman-bohumil
 - person: mattausch-ludek
 - person: bezdeka-svatopluk
+poster_tmdb_path: /ladCORK1H7EHfSyvHIc1D3DBrTx.jpg

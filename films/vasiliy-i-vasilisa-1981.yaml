@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4104462
   imdb: tt0146339
   youtube: lKhDCvTriic
+  tmdb: 611794
 sources:
 - https://www.wikidata.org/wiki/Q4104462
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kononov-mikhail-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /aLxVr9riy5gGyzOKchbRoK6Fvy2.jpg
+backdrop_tmdb_path: /rG3fwuiFFxPGZyV32yFJIWT3Uhp.jpg

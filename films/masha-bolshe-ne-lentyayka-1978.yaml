@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4286064
   imdb: tt1373171
+  tmdb: 438882
 sources:
 - https://www.wikidata.org/wiki/Q4286064
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - frenkel-yan-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /iAMhApT1BP2keTaaYzQlGyQ9jrY.jpg
+backdrop_tmdb_path: /4aLuTMlthBWhkVbFSDKxGh9EIDc.jpg

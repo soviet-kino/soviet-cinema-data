@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4109683
   imdb: tt3098234
   youtube: QQMFPjNM3pU
+  tmdb: 415049
 sources:
 - https://www.wikidata.org/wiki/Q4109683
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - klimenko-stanislav-stepanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /evjB9KnE160yuaeVrkq4pcu4tB5.jpg
+backdrop_tmdb_path: /bNX59PvzbTjaThlGffxGzWq1kf9.jpg

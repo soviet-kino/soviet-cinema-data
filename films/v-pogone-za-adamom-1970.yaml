@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q11821065
   imdb: tt0066231
+  tmdb: 747412
 sources:
 - https://www.wikidata.org/wiki/Q11821065
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: raksa-polya
 studio:
 - iluzjon
+poster_tmdb_path: /lw25wSibQ0ns1kdYWILEIpAkaY1.jpg

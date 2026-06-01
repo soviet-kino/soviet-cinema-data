@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q55237869
   imdb: tt0065059
+  tmdb: 245656
 sources:
 - https://www.wikidata.org/wiki/Q55237869
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: chapo-yanosh
 studio:
 - mafilm
+poster_tmdb_path: /lyo0UrNpobfgg7mSPnsHSwicHJS.jpg
+backdrop_tmdb_path: /o8wiTzueG1SywoS3XA534LEZYv8.jpg

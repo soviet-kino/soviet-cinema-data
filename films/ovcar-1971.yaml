@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27342378
   imdb: tt0180031
+  tmdb: 386250
 sources:
 - https://www.wikidata.org/wiki/Q27342378
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: spoljar-branko
 - person: laurencic-toni
 - person: kandich-milosh
+poster_tmdb_path: /mHtXpRrqUFHqDRgJ5bVpYm6TEh5.jpg

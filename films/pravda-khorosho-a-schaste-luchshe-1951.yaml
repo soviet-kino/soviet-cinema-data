@@ -8,6 +8,7 @@ runtime_min: 139
 external_ids:
   wikidata: Q29020771
   imdb: tt0239829
+  tmdb: 691977
 sources:
 - https://www.wikidata.org/wiki/Q29020771
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: turchaninova-evdokiya-dmitrievna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /rUvt3tzsV6POIK0AXlnE1ZAZS6V.jpg

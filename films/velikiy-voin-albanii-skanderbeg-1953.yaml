@@ -23,6 +23,9 @@ runtime_min: 120
 external_ids:
   wikidata: Q2707305
   imdb: tt0046498
+  tmdb: 199460
 sources:
 - https://www.wikidata.org/wiki/Q2707305
 schema_version: 1
+poster_tmdb_path: /bn5lZ6JMMA28ApmV6sPqVwNNkRZ.jpg
+backdrop_tmdb_path: /rvNl108gQ44GMlRzwF9A1EDxqGj.jpg

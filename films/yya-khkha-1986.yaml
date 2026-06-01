@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4206058
   imdb: tt0092257
+  tmdb: 334426
 sources:
 - https://www.wikidata.org/wiki/Q4206058
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: naumenko-mayk
 studio:
 - vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova
+poster_tmdb_path: /fD2BuLlZFUnxnDo8baIPszSNxgR.jpg

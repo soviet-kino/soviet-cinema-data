@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11832245
   imdb: tt0072005
+  tmdb: 790907
 sources:
 - https://www.wikidata.org/wiki/Q11832245
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: os-awski-jozef
 - person: volleyko-magdalena
 - person: lesnyak-mikhal
+poster_tmdb_path: /mrwfkczlKaJPZAHTlAg3i7h2jdn.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17094128
   imdb: tt3054184
+  tmdb: 525582
 sources:
 - https://www.wikidata.org/wiki/Q17094128
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: romalio-tito
 - person: aren-reyno
 - person: firsova-dzhemma-sergeevna
+poster_tmdb_path: /q4qXeEbh3Owutw7vysxTFENsJCV.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q54971
   imdb: tt0051598
+  tmdb: 89900
 sources:
 - https://www.wikidata.org/wiki/Q54971
 schema_version: 1
@@ -65,3 +66,5 @@ cast:
 studio:
 - syrena-kinostudiya
 poster_commons: Hans Michel 1963, Eva will schlafen.jpg
+poster_tmdb_path: /2q8gQnl6lZdZDeI4tsMBsHnc011.jpg
+backdrop_tmdb_path: /mhJSO6BAmhWmLqUrh1ytMawsSYg.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4156462
   imdb: tt0237156
+  tmdb: 530700
 sources:
 - https://www.wikidata.org/wiki/Q4156462
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: dyuzheva-marina
 studio:
 - lenfilm
+poster_tmdb_path: /lSlB3XQcgwwfPbvjhE5c2u5UIg6.jpg
+backdrop_tmdb_path: /lHroH9bX6H75YO7GWuCqzhbBCs8.jpg

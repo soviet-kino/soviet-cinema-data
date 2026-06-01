@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4180265
   imdb: tt0080171
   youtube: hhwQ53tmafg
+  tmdb: 531979
 sources:
 - https://www.wikidata.org/wiki/Q4180265
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - ekran
 cast:
 - person: bykov-rolan-antonovich
+poster_tmdb_path: /nqfV5uoRCWfVo2dIrOfRpSslodh.jpg
+backdrop_tmdb_path: /x2tx5LP1aysBDCrDmgqdiJE1QwI.jpg

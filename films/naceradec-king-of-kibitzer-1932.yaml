@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q86354326
   imdb: tt0166726
+  tmdb: 447932
 sources:
 - https://www.wikidata.org/wiki/Q86354326
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: solc-antonin
 - person: adolf-jindrich
 - person: fric-antonin
+poster_tmdb_path: /3HGiFjJAhadQZWbu9QPzzg4SOq.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4083077
   imdb: tt0166520
+  tmdb: 63531
 sources:
 - https://www.wikidata.org/wiki/Q4083077
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: izmaylova-elena-davydovna
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /68kMKk2BnAV1R8v40m3mKnfKJJF.jpg
+backdrop_tmdb_path: /7GKDgXaLMVG7RkaDPhlEqQKmPQ1.jpg

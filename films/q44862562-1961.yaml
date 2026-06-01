@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44862562
   imdb: tt0155035
+  tmdb: 628183
 sources:
 - https://www.wikidata.org/wiki/Q44862562
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kelinesku-paul
 screenwriter:
 - botez-eudzhen
+poster_tmdb_path: /eFAlap6dQeMhoBD7Ye6M0ByyXQY.jpg

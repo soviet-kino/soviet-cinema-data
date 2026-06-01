@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4331120
   imdb: tt0052021
   youtube: 0hiFLXz6Ow0
+  tmdb: 339370
 sources:
 - https://www.wikidata.org/wiki/Q4331120
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: ogly-takhmasib-rza-abbas-kuli
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /wMnrqqYWo8hK9WUETzC1Df6Fb7H.jpg
+backdrop_tmdb_path: /6KVnGgbtwhMNQuzuu8MYGkgaExJ.jpg

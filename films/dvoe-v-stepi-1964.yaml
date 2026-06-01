@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q21638661
   imdb: tt0173783
+  tmdb: 262545
 sources:
 - https://www.wikidata.org/wiki/Q21638661
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - mosfilm
 cast:
 - person: babyatinskiy-valeriy-konstantinovich
+poster_tmdb_path: /qIik8U3cupoVKMyqhAOFh4XRPTl.jpg
+backdrop_tmdb_path: /oz4Jw2m2CPp5b9eFnf7tujeISEX.jpg

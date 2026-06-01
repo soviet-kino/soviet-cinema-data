@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q111341417
   imdb: tt0073253
+  tmdb: 386800
 sources:
 - https://www.wikidata.org/wiki/Q111341417
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: koronkiewicz-teofila
 - person: buchatskiy-emir
 - person: sikora-marek
+poster_tmdb_path: /tsAhDRyAvXnSIOMQM7xa0X3rdxg.jpg
+backdrop_tmdb_path: /8xqn2v68HRayMdpRcBSwdoZHjIJ.jpg

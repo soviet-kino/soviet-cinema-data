@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12749493
   imdb: tt0180587
+  tmdb: 338465
 sources:
 - https://www.wikidata.org/wiki/Q12749493
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: burdus-jovan-janicijevic
 - person: kandich-milosh
 - person: blaskovic-mirjana
+poster_tmdb_path: /5LNK5SEUSkyVVfTlnIOfPwumUq4.jpg
+backdrop_tmdb_path: /eGBEheDHs6jzlR1oEAfs4E5iSin.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q11235869
   imdb: tt0045575
+  tmdb: 341344
 sources:
 - https://www.wikidata.org/wiki/Q11235869
 schema_version: 1
@@ -107,3 +108,4 @@ cast:
 - person: marsalek-karel-majda
 - person: podhorska-eugenie
 - person: svec-josef-vladimir
+poster_tmdb_path: /hwc24rzh1eabTNI53a8pHAb7USm.jpg

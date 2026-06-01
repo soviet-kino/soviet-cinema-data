@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q19572221
   imdb: tt0041510
+  tmdb: 130261
 sources:
 - https://www.wikidata.org/wiki/Q19572221
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - gorak-antonin
 composer:
 - lishka-zdenek
+poster_tmdb_path: /3KnyxyFjAX6LtjwiLwtWmSbGKGL.jpg
+backdrop_tmdb_path: /c9Cx4vs9GKqxcPgREhdp5UmRzZH.jpg

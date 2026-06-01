@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q116864904
   imdb: tt0307068
+  tmdb: 637111
 sources:
 - https://www.wikidata.org/wiki/Q116864904
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: fandera-oksana-olegovna
 studio:
 - mosfilm
+poster_tmdb_path: /jxICnH5KYe189wPOjUkoKoV745p.jpg

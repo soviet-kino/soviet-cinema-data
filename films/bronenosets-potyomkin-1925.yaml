@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q152350
   imdb: tt0015648
   youtube: GmUef84ybXk
+  tmdb: 643
 sources:
 - https://www.wikidata.org/wiki/Q152350
 schema_version: 1
@@ -41,3 +42,5 @@ studio:
 - mosfilm
 - goskino
 poster_commons: Vintage Potemkin.jpg
+poster_tmdb_path: /zP52DTxAVgdc3q7pURqiNrvBfWK.jpg
+backdrop_tmdb_path: /3RH61Z7BP3f215936PJBEG2qQrT.jpg

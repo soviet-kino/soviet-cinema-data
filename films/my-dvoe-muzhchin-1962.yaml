@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4309241
   imdb: tt3855520
   youtube: pZM-zhLTsRk
+  tmdb: 99784
 sources:
 - https://www.wikidata.org/wiki/Q4309241
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: saburov-boris-aleksandrovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /4zAPKNV2wSfaNAfCI540SUWEsib.jpg
+backdrop_tmdb_path: /aMnPkMTC4R2RzB8yOXViHISN69R.jpg

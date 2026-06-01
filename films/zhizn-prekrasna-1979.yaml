@@ -28,6 +28,9 @@ external_ids:
   wikidata: Q2250632
   imdb: tt0080101
   youtube: SN4O08rfDEo
+  tmdb: 333270
 sources:
 - https://www.wikidata.org/wiki/Q2250632
 schema_version: 1
+poster_tmdb_path: /9zsMZzTHGXDtxgzdMTHrpoidqMB.jpg
+backdrop_tmdb_path: /yyZwQLeJWXQBeyZwFiCd17xnvlJ.jpg

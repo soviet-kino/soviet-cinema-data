@@ -8,6 +8,7 @@ runtime_min: 54
 external_ids:
   wikidata: Q1169931
   imdb: tt0055211
+  tmdb: 408224
 sources:
 - https://www.wikidata.org/wiki/Q1169931
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: piesick-peter
 - person: bosselmann-lutz
 - person: sharf-folker
+poster_tmdb_path: /zqFRq8eArsjvDTjsemnKaicU7Ar.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4243310
   imdb: tt3026202
+  tmdb: 389548
 sources:
 - https://www.wikidata.org/wiki/Q4243310
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: lyubshin-stanislav-andreevich
+poster_tmdb_path: /9mUl4KSrip4yUC1pjKmulw89l1s.jpg
+backdrop_tmdb_path: /wl5wOAwmZdYNnw4B4ZTZn5a4x1N.jpg

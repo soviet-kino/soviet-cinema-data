@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q9350746
   imdb: tt0170647
+  tmdb: 657761
 sources:
 - https://www.wikidata.org/wiki/Q9350746
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - wywerka-albert
 cast:
 - person: gaventskaya-irena
+poster_tmdb_path: /u4goWaVqweBbEDfij7p5aCOGFqn.jpg
+backdrop_tmdb_path: /iTtjv5UdMV5sSW2tsJQR0JSP4Jb.jpg

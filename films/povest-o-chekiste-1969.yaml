@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366418
   imdb: tt0314528
   youtube: GYNYGuUZydA
+  tmdb: 639249
 sources:
 - https://www.wikidata.org/wiki/Q4366418
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: noreyka-laymonas
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /3n22S76jZESZbQ6Ven6bcyqwtIc.jpg
+backdrop_tmdb_path: /8ez09UywF20PQ5aqpszGaiwD6oU.jpg

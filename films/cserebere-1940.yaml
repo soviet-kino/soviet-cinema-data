@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5191568
   imdb: tt0417557
+  tmdb: 822249
 sources:
 - https://www.wikidata.org/wiki/Q5191568
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 cast:
 - person: latabar-kalman
 - person: kishsh-mani
+poster_tmdb_path: /rJnO3LWWCGJCxsJhHMGUZGXKTRU.jpg

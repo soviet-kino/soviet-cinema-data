@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q23563725
   imdb: tt1814669
+  tmdb: 419218
 sources:
 - https://www.wikidata.org/wiki/Q23563725
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kramer-yuriy
 screenwriter:
 - leskien-jurgen
+backdrop_tmdb_path: /1zILPPUNjnDdxqJWZq5TBQkX1Lh.jpg

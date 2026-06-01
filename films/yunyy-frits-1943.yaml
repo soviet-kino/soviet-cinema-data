@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q4534697
   imdb: tt0319584
+  tmdb: 563973
 sources:
 - https://www.wikidata.org/wiki/Q4534697
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: astangov-mikhail-fyodorovich
 studio:
 - lenfilm
+poster_tmdb_path: /33oLBOvrLE1rdzHTlwh22qcQ0ZQ.jpg

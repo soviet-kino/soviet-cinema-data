@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q9195676
   imdb: tt0074340
+  tmdb: 79452
 sources:
 - https://www.wikidata.org/wiki/Q9195676
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - figel-petr
 studio:
 - pryzmat
+poster_tmdb_path: /kuJ6AoM4I0mqXcJXvCFQQ4T1Uiv.jpg
+backdrop_tmdb_path: /jek0hONe1qCBMuapwEsYtGJMb3A.jpg

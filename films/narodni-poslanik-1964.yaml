@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16295681
   imdb: tt0179998
+  tmdb: 502219
 sources:
 - https://www.wikidata.org/wiki/Q16295681
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: veselinovits-branka
 - person: kandich-milosh
 - person: gucevac-ranko
+poster_tmdb_path: /nHGzfObMDLcQpekvEgoilNx93Xt.jpg
+backdrop_tmdb_path: /kK0Q0SUf9YoLzkXEUAQkYMphYCM.jpg

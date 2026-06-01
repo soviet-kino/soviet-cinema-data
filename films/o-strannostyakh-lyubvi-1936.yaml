@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4328866
   imdb: tt0028050
+  tmdb: 361004
 sources:
 - https://www.wikidata.org/wiki/Q4328866
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: alisova-nina-ulyanovna
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /iGZ5tRNGUKRvxjgdeWgkRMiImgM.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2904496
   imdb: tt0075757
   youtube: V4JbcV1JacE
+  tmdb: 262800
 sources:
 - https://www.wikidata.org/wiki/Q2904496
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: mikhail-vasilevich-golubovich
+poster_tmdb_path: /eUc1Z0YMDtzFeZyYSxgQIH7xerV.jpg
+backdrop_tmdb_path: /1RFZnrNF7SI67Z28sv9GWw7bKPn.jpg

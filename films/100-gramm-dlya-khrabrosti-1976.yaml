@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3513611
   imdb: tt0254926
   youtube: 6p5_8kn88CQ
+  tmdb: 77720
 sources:
 - https://www.wikidata.org/wiki/Q3513611
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: grinko-nikolai
 - person: basov-vladimir-pavlovich
 - person: igor-yasulovich
+poster_tmdb_path: /iHydIJc7jHBSGiqOXHkkN6NAD6h.jpg
+backdrop_tmdb_path: /xxVWMSi4E3KfbTKLqrWIMJekJuj.jpg

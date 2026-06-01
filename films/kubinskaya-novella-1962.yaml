@@ -8,6 +8,7 @@ runtime_min: 49
 external_ids:
   wikidata: Q4243616
   imdb: tt6171310
+  tmdb: 883655
 sources:
 - https://www.wikidata.org/wiki/Q4243616
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kolosov-sergey-nikolaevich
 cast:
 - person: sverdlin-lev-naumovich
+poster_tmdb_path: /lzPq7sPtn6cwazq0af5TC9hx9XT.jpg

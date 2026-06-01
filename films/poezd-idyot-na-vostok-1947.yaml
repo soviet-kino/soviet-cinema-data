@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4368556
   imdb: tt0041755
   youtube: ZwyH5pEdtH4
+  tmdb: 409747
 sources:
 - https://www.wikidata.org/wiki/Q4368556
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: dranovskaya-lidiya-dmitrievna
 studio:
 - mosfilm
+poster_tmdb_path: /jZlHCUiCgHy8Oj9WDbHtQYuhQlS.jpg
+backdrop_tmdb_path: /A2Hj9TgYiCQ1e0Uwxy2CicOIC7C.jpg

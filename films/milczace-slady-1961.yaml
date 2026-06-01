@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11781182
   imdb: tt0055176
+  tmdb: 81319
 sources:
 - https://www.wikidata.org/wiki/Q11781182
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: fabisyak-kazimezh
 - person: dobzhinskiy-zbignev
 - person: voytsekhovskiy-lekh
+poster_tmdb_path: /2p9cVNq1IYxYbM4TWxPVBIo5iVC.jpg
+backdrop_tmdb_path: /6qLxTiyJYp4G3Xih5e2Uh6tTA0m.jpg

@@ -8,6 +8,7 @@ runtime_min: 146
 external_ids:
   wikidata: Q4141085
   imdb: tt0059235
+  tmdb: 636778
 sources:
 - https://www.wikidata.org/wiki/Q4141085
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: shpigel-grigoriy-oyzerovich
 - person: mirgorodskiy-dmitriy
 - person: obukhov-anatoliy-matveevich
+poster_tmdb_path: /gH7cMceUHMK6QPlGuxN8V06i6BG.jpg

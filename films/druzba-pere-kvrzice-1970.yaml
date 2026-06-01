@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q3506284
   imdb: tt0065666
+  tmdb: 221241
 sources:
 - https://www.wikidata.org/wiki/Q3506284
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: mato-ergovich
 studio:
 - kroatiya-film
+poster_tmdb_path: /yPUOnQWPDw8dk6GMxvagTfCYmwz.jpg
+backdrop_tmdb_path: /1E8eIvP5r6llHVR5oNgTHZHPhGm.jpg

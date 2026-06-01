@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q54990
   imdb: tt0062228
+  tmdb: 8211
 sources:
 - https://www.wikidata.org/wiki/Q54990
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - wroclaw-feature-film-studio
 poster_commons: POL Wacław Kowalski Władysław Hańcza.jpg
+poster_tmdb_path: /vcjxn35i1H88ZyhwwUePiz4o4US.jpg
+backdrop_tmdb_path: /z9Qw2zjI6GWqzYctpt2FwQblHFz.jpg

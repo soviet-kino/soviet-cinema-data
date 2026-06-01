@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6651056
   imdb: tt0070327
+  tmdb: 124122
 sources:
 - https://www.wikidata.org/wiki/Q6651056
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - dzhura-khans
 cast:
 - person: raukh-zigfrid
+poster_tmdb_path: /fpVl1yonjpOVlxWedbyO5Qm33Ns.jpg
+backdrop_tmdb_path: /7dIWRNUaoUkRIVnsEKoD3FtUDtW.jpg

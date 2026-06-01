@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12736983
   imdb: tt0046283
+  tmdb: 269652
 sources:
 - https://www.wikidata.org/wiki/Q12736983
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: godeanu-elvira
 - person: talianu-ion
 - person: finteshtyanu-ion
+poster_tmdb_path: /uSNG0WnAyKy3KY2g9UAaiMb9kIc.jpg

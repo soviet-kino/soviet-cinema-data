@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4244249
   imdb: tt0298984
   youtube: bSf4T_2ePw4
+  tmdb: 461870
 sources:
 - https://www.wikidata.org/wiki/Q4244249
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - khmelik-aleksandr-grigorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dXffs4MJj633RrxgpKvHD9fDHdB.jpg
+backdrop_tmdb_path: /uI5m2XnFenmr8QR7MDdr460t049.jpg

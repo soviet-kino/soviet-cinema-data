@@ -8,6 +8,7 @@ runtime_min: 586
 external_ids:
   wikidata: Q24935867
   imdb: tt5871812
+  tmdb: 597343
 sources:
 - https://www.wikidata.org/wiki/Q24935867
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - shnaper-boris
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /f8nR3PucAq0VTOkjwS7utXSqmCM.jpg

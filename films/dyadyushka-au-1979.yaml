@@ -8,9 +8,12 @@ external_ids:
   wikidata: Q56099827
   imdb: tt2387449
   youtube: SEKNFKFC8Vg
+  tmdb: 426479
 sources:
 - https://www.wikidata.org/wiki/Q56099827
 schema_version: 1
 director:
 - douksha-iosif-osipovich
 - buzinova-mayya-nikolaevna
+poster_tmdb_path: /8SRJS2UUxQ6HfP5Rlp7lhLDo9bp.jpg
+backdrop_tmdb_path: /jyIY6S6dWt7LBiVbv4XEOX9WaQi.jpg

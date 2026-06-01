@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q3442227
   imdb: tt0043311
+  tmdb: 364704
 sources:
 - https://www.wikidata.org/wiki/Q3442227
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ajvaz-milan
 - person: starcic-viktor
 - person: yakshich-ivo
+poster_tmdb_path: /16lbxDIgsfBB1Wl7z8aHqMBSaCk.jpg
+backdrop_tmdb_path: /cWsPB2MpyQjvOpBDtfxr57UaLD8.jpg

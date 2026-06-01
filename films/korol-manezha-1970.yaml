@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q116864913
   imdb: tt0213040
+  tmdb: 533506
 sources:
 - https://www.wikidata.org/wiki/Q116864913
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - lepin-anatoliy-yakovlevich
 studio:
 - mosfilm
+poster_tmdb_path: /sarKBLegNIWN34QSRyhi1L2FMWd.jpg
+backdrop_tmdb_path: /ApscPeKJU7k9imx0PCE0xJ8gxDP.jpg

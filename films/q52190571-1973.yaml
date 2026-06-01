@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52190571
   imdb: tt0260989
+  tmdb: 1438985
 sources:
 - https://www.wikidata.org/wiki/Q52190571
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - vajda-bela
 composer:
 - petkho-zholt
+poster_tmdb_path: /8wjTRm5V7OwOK7od1VQX5vx756Q.jpg

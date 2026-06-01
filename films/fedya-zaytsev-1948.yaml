@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4482346
   imdb: tt0211364
   youtube: 4sMXP3PrX_I
+  tmdb: 375011
 sources:
 - https://www.wikidata.org/wiki/Q4482346
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Fiedia Zajcew.jpg
+poster_tmdb_path: /dKv27LQvk5J7Lwk6ma2SCGi6RDn.jpg

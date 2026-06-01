@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9286723
   imdb: tt0063043
+  tmdb: 157280
 sources:
 - https://www.wikidata.org/wiki/Q9286723
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kazanetskiy-valdemar
 cast:
 - person: novak-yuzef
+poster_tmdb_path: /1dnGMQZuXYSubbiTGYT4So34Hva.jpg

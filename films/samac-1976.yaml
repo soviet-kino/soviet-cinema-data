@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187120
   imdb: tt1493149
+  tmdb: 1379455
 sources:
 - https://www.wikidata.org/wiki/Q31187120
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: buzanchich-boris
 - person: mustafa-nadarevich
 - person: madunich-zlatko
+poster_tmdb_path: /kA0XYu6W8Fk5IgFno6qtdGlA9qT.jpg

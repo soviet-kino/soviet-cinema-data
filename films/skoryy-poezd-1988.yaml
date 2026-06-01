@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4422409
   imdb: tt0178895
   youtube: 5R4Wx5uIivo
+  tmdb: 570550
 sources:
 - https://www.wikidata.org/wiki/Q4422409
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: mayorova-elena
 studio:
 - mosfilm
+poster_tmdb_path: /oQncZPe3uwKNF8ZYg2STX3sTxV3.jpg
+backdrop_tmdb_path: /jJFnEzXUgMBYv3pvBeFtl8riHCp.jpg

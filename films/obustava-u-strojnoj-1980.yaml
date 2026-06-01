@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184786
   imdb: tt1461257
+  tmdb: 1562142
 sources:
 - https://www.wikidata.org/wiki/Q31184786
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: levaj-otokar
 - person: zoricic-zvonimir
 - person: toryanach-zvonimir
+poster_tmdb_path: /bMNcU3oR8iiGwjXmvXaSsQalMej.jpg

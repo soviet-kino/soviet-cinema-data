@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q123741355
   imdb: tt0217129
+  tmdb: 539210
 sources:
 - https://www.wikidata.org/wiki/Q123741355
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: ralphy-robert
 - person: q95711393
 - person: bru-ghislaine
+poster_tmdb_path: /txGdmWEBfCHnCLfYEK8rqm9eBr8.jpg

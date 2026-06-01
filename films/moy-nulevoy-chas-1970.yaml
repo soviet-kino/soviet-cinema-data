@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1918019
   imdb: tt0066067
+  tmdb: 91302
 sources:
 - https://www.wikidata.org/wiki/Q1918019
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: shturm-karl
 - person: weisgerber-thomas
 - person: greeze-volfgang
+poster_tmdb_path: /z1UGF1c4q0eKpnBg8gGtKXMImhq.jpg

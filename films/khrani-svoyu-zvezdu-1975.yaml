@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65252858
   imdb: tt3803592
   youtube: ThUpKgjfGro
+  tmdb: 1029447
 sources:
 - https://www.wikidata.org/wiki/Q65252858
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - isabekov-dulat
 studio:
 - kazakhfilm
+poster_tmdb_path: /6U84B8KyWPnUhnF81xGx66esOSy.jpg

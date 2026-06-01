@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4461549
   imdb: tt0164204
   youtube: 9or1F07gh6Q
+  tmdb: 295139
 sources:
 - https://www.wikidata.org/wiki/Q4461549
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gerasimov-evgeniy-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /s1dVfnOqFeLz5MxhYCTRJwL6wJp.jpg
+backdrop_tmdb_path: /n0rw5uBZiia4dhllBbEdNlPgIJH.jpg

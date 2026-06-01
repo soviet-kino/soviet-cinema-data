@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11736869
   imdb: tt0067295
+  tmdb: 565001
 sources:
 - https://www.wikidata.org/wiki/Q11736869
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: grzmocinski-lech
 - person: levandovskiy-marek
 - person: luberadzki-euzebiusz
+poster_tmdb_path: /vWfi3OkFKu7semCIVkeBqCVUqgO.jpg
+backdrop_tmdb_path: /wmNagvju98Ap3FLkJYB4AG38aqD.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12747980
   imdb: tt0200597
+  tmdb: 465431
 sources:
 - https://www.wikidata.org/wiki/Q12747980
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: q12747891
 - person: saric-ratko
 - person: q16088547
+poster_tmdb_path: /9ewaRKFngWFIKWF6JBQEnIXa9K6.jpg

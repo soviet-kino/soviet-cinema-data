@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4166352
   imdb: tt0130630
+  tmdb: 319596
 sources:
 - https://www.wikidata.org/wiki/Q4166352
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: leonov-evgeniy-pavlovich
 - person: chursina-lyudmila-alekseevna
 - person: novikov-boris-kuzmich
+poster_tmdb_path: /eckHHFMtVaDyuYiAh7R056oVuYn.jpg
+backdrop_tmdb_path: /bLDwWay0xPlPMJAimL9XlBUWBsK.jpg

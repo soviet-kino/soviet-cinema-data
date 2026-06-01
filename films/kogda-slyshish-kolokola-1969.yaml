@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3506207
   imdb: tt0064529
+  tmdb: 364276
 sources:
 - https://www.wikidata.org/wiki/Q3506207
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: boman-mirko
 - person: spoljar-branko
 - person: hajdarhodzic-izet
+poster_tmdb_path: /1X8BBM8j0IhzAlY0rW9QRYvC9ca.jpg

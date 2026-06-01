@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12281488
   imdb: tt0171406
+  tmdb: 352910
 sources:
 - https://www.wikidata.org/wiki/Q12281488
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: yanketich-mikhaylo
 - person: siskov-risto
 - person: vidov-tomo
+poster_tmdb_path: /pauAjCABTtRrcLAIaNTO3bOBdw2.jpg

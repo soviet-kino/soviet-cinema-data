@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q102320490
   imdb: tt0174790
+  tmdb: 74862
 sources:
 - https://www.wikidata.org/wiki/Q102320490
 schema_version: 1
@@ -67,3 +68,5 @@ cast:
 - person: vojnar-miloslav
 - person: kotynek-otto
 - person: hluchy-karel
+poster_tmdb_path: /9yT333IoKJeUN6kNvmTT3EEOmIB.jpg
+backdrop_tmdb_path: /dKG4SRjLS0Du477Kvdy4wW30tu3.jpg

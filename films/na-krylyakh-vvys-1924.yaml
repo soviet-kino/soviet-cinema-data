@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q129432616
   imdb: tt0250605
+  tmdb: 931588
 sources:
 - https://www.wikidata.org/wiki/Q129432616
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - levitskiy-aleksandr-andreevich
 studio:
 - mosfilm
+poster_tmdb_path: /YTkoIHM0cbSymcQDwitGWTa3cL.jpg

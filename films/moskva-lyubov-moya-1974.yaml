@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1949295
   imdb: tt0071858
   youtube: SMkjDijxwq4
+  tmdb: 270246
 sources:
 - https://www.wikidata.org/wiki/Q1949295
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - mosfilm
 - toho
+poster_tmdb_path: /wK8cIuNv390tJjLx0zG0ThWvxu9.jpg
+backdrop_tmdb_path: /9tPXtgaEps7VRcGODMo3R3WEJcC.jpg

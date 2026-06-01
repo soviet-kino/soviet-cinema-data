@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750098
   imdb: tt0051830
+  tmdb: 497157
 sources:
 - https://www.wikidata.org/wiki/Q11750098
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - skrovachevskiy-stanislav
 cast:
 - person: wyrzykowski-juliusz
+poster_tmdb_path: /6V7u1ytWvEj91USa0SFPvlf88kt.jpg

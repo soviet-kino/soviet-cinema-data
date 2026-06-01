@@ -8,6 +8,7 @@ runtime_min: 56
 external_ids:
   wikidata: Q16083316
   imdb: tt0446145
+  tmdb: 716416
 sources:
 - https://www.wikidata.org/wiki/Q16083316
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: q30335979
 studio:
 - televizija-sarajevo
+poster_tmdb_path: /2MV768YadjGmkZF5saYR4qJXmoY.jpg

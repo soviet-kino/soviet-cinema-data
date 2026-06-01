@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q130495767
   imdb: tt0255588
+  tmdb: 542252
 sources:
 - https://www.wikidata.org/wiki/Q130495767
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - belarusfilm
+poster_tmdb_path: /kWweTF2zJ5n5FfbmDI9J7xGDlNQ.jpg
+backdrop_tmdb_path: /wdQXiXroN7pctvWcHOyUb3zeB3e.jpg

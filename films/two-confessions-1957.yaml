@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7858893
   imdb: tt0050615
+  tmdb: 199205
 sources:
 - https://www.wikidata.org/wiki/Q7858893
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: rayz-yanosh
 - person: uray-tivadar
 - person: somogyi-nusi
+poster_tmdb_path: /vXT3wV4leOW8lA1rSW44zjcjWKz.jpg

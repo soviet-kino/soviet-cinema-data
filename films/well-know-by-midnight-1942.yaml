@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20819883
   imdb: tt0132648
+  tmdb: 1609046
 sources:
 - https://www.wikidata.org/wiki/Q20819883
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - barnabash-khedi
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /sTM4TiLbMyhErGgsXH9iPHE1SuM.jpg

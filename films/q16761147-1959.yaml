@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q16761147
   imdb: tt0308483
+  tmdb: 510811
 sources:
 - https://www.wikidata.org/wiki/Q16761147
 schema_version: 1
 director:
 - babaya-ante
+poster_tmdb_path: /imV3vYnuyBx6nMJF84Et5ga4EHK.jpg

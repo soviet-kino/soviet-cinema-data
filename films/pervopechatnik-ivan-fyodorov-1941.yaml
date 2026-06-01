@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q4349569
   imdb: tt3882630
+  tmdb: 797128
 sources:
 - https://www.wikidata.org/wiki/Q4349569
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: dorokhin-nikolay-ivanovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /pR6BFWV7X7L34mBtD1co2mvdtlJ.jpg

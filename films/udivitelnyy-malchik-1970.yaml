@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4469398
   imdb: tt2118021
+  tmdb: 472589
 sources:
 - https://www.wikidata.org/wiki/Q4469398
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - ekran
 poster_commons: Удивительный мальчик.jpg
+poster_tmdb_path: /NqGnUpY8WEyglZPICf6gmkaaxy.jpg
+backdrop_tmdb_path: /4MHILWXVRO4tIX08dyOW1zVUCLN.jpg

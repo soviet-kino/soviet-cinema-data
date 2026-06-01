@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q1305364
   imdb: tt0932924
+  tmdb: 283411
 sources:
 - https://www.wikidata.org/wiki/Q1305364
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: dayss-viktor
 - person: lirk-verner
 - person: martin-valter
+poster_tmdb_path: /5WNF9mEYRZV1e1R5REVZuUc9Iw7.jpg

@@ -8,6 +8,7 @@ runtime_min: 197
 external_ids:
   wikidata: Q116608450
   imdb: tt0814406
+  tmdb: 283682
 sources:
 - https://www.wikidata.org/wiki/Q116608450
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - bakhor-firuz
 studio:
 - tadzhikfilm
+poster_tmdb_path: /jOvwilQYZEBPqQkjph06BZD9HMY.jpg

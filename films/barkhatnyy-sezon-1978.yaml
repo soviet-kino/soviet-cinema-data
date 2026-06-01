@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4078756
   imdb: tt0077208
   youtube: II-fjjXs1Xc
+  tmdb: 394497
 sources:
 - https://www.wikidata.org/wiki/Q4078756
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: budraytis-yuozas-stanislavas
 - person: sidorenko-tatyana-ivanovna
+poster_tmdb_path: /o9pPSlulvQDYrsZlqJU8nb55Mdi.jpg
+backdrop_tmdb_path: /greCbZG18ghhWBQuEIpIt8Z9hNt.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21148883
   imdb: tt4164606
+  tmdb: 446980
 sources:
 - https://www.wikidata.org/wiki/Q21148883
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - shemshurin-andrey
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /yt7ZnQrr2iZMGyrPAFk16KlbTTv.jpg

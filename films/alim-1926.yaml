@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20072675
   imdb: tt8785262
+  tmdb: 1048075
 sources:
 - https://www.wikidata.org/wiki/Q20072675
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: 1927. Алим.jpg
+poster_tmdb_path: /vTi9GMH9Y6QYxt0nplvfDBdAUmI.jpg
+backdrop_tmdb_path: /fU2K4Mhb38S7GXmEVqV6GJheOHQ.jpg

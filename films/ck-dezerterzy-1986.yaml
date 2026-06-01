@@ -8,6 +8,7 @@ runtime_min: 155
 external_ids:
   wikidata: Q9183734
   imdb: tt0092713
+  tmdb: 36264
 sources:
 - https://www.wikidata.org/wiki/Q9183734
 schema_version: 1
@@ -72,3 +73,5 @@ cast:
 - person: sas-uhrynowski-jacek
 - person: erdelyi-gabor
 - person: tomczak-krystian
+poster_tmdb_path: /tw2az3Z2Ti0i6oujWREyevANtQK.jpg
+backdrop_tmdb_path: /nJCJzBribIsi1l9wEHm38X1LQ0H.jpg

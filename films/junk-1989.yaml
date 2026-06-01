@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q117848559
   imdb: tt0097399
   youtube: FcoNr3AI4sA
+  tmdb: 600451
 sources:
 - https://www.wikidata.org/wiki/Q117848559
 schema_version: 1
@@ -15,3 +16,4 @@ cast:
 - person: polishchuk-lyubov
 studio:
 - lenfilm
+poster_tmdb_path: /mYtdcKFSNBUQfI0DQ88xILefAYy.jpg

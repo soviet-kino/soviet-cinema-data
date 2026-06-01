@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4423987
   imdb: tt0314684
   youtube: LKVZYbvTCqg
+  tmdb: 96353
 sources:
 - https://www.wikidata.org/wiki/Q4423987
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ekis-artur-berngardovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /ncJwbealfZjNvYubFJW6ShJ4dpN.jpg
+backdrop_tmdb_path: /ut4m2CMUsqVTscUuUqWLn8cq0DF.jpg

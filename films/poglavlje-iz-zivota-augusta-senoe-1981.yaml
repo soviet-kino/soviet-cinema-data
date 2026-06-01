@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184299
   imdb: tt0083363
+  tmdb: 1105375
 sources:
 - https://www.wikidata.org/wiki/Q31184299
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: lasta-sven
 - person: krca-drago
 - person: zidarich-kreshimir
+poster_tmdb_path: /AuyxhbUYLvPoJDPO17jQo4TuT77.jpg

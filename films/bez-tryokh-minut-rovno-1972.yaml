@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4080777
   imdb: tt0312472
+  tmdb: 404330
 sources:
 - https://www.wikidata.org/wiki/Q4080777
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - mosfilm
 cast:
 - person: igor-yasulovich
+poster_tmdb_path: /mwxXZWIcuYD4MWsbsZhwv7seuXm.jpg
+backdrop_tmdb_path: /1WCGrRFgXDD0EJtoMsG81PQ9f68.jpg

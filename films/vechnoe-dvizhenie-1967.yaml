@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q112663465
   imdb: tt35365095
   youtube: rnwwKIX-OSk
+  tmdb: 1501781
 sources:
 - https://www.wikidata.org/wiki/Q112663465
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - merkel-mayya-maksovna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /whYn5iF0YXp5btksdiQZZuTHFka.jpg

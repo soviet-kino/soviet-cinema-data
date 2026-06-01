@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q4101796
   imdb: tt0076866
+  tmdb: 499293
 sources:
 - https://www.wikidata.org/wiki/Q4101796
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kochetkov-afanasiy-ivanovich
 studio:
 - belarusfilm
+poster_tmdb_path: /qGwblyaRiZP6faorukomiz927Ea.jpg
+backdrop_tmdb_path: /z2Wriqhe2Iu3Ih5AKabenpUpNXs.jpg

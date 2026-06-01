@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q2484818
   imdb: tt0136478
+  tmdb: 147692
 sources:
 - https://www.wikidata.org/wiki/Q2484818
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: filip-tanya
 - person: galin-karmen
 - person: flonda-virgil
+poster_tmdb_path: /x2lO6sj56ePfRr3aFEi6gkAO21T.jpg

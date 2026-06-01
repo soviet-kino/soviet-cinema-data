@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7759571
   imdb: tt0050856
+  tmdb: 408226
 sources:
 - https://www.wikidata.org/wiki/Q7759571
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: g-owacki-roland
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /r7fovb0sOsU2Ri09r5VxvYYmoBG.jpg
+backdrop_tmdb_path: /1zARjrbQDU7Xc0Ueu7DE163qeT4.jpg

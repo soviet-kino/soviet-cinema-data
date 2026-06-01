@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17143074
   imdb: tt0068616
+  tmdb: 494516
 sources:
 - https://www.wikidata.org/wiki/Q17143074
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - khildebrand-ishtvan
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /d5v9N84QPTqxMhnaQhRJvEkikTN.jpg

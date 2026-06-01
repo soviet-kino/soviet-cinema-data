@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q9176510
   imdb: tt0090760
+  tmdb: 59442
 sources:
 - https://www.wikidata.org/wiki/Q9176510
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - wilczynski-marek
 studio:
 - studiya-risovannykh-filmov
+poster_tmdb_path: /uHLFu31fiFnso64rihV99OOMR2M.jpg
+backdrop_tmdb_path: /ziQyGwQnINgFatwa281SYJcIA5M.jpg

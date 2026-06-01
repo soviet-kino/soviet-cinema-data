@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q63165803
   imdb: tt0314112
+  tmdb: 601558
 sources:
 - https://www.wikidata.org/wiki/Q63165803
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: podgornyy-sergey-aleksandrovich
 - person: dolgozvyaga-galina-petrovna
 - person: voronin-vyacheslav-anatolevich
+poster_tmdb_path: /ghkKcMJ7EFpHfKwuCrzszmRgSSB.jpg
+backdrop_tmdb_path: /waLO5mwpLaoBR2ax1wCwzHTg7ji.jpg

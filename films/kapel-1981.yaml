@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4212861
   imdb: tt0237366
   youtube: ppU2rPk5Oxw
+  tmdb: 1530804
 sources:
 - https://www.wikidata.org/wiki/Q4212861
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: doronina-tatyana-vasilevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /hMYikCPvX2k2HOcU6mzuH0cAlIo.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4212713
   imdb: tt0152094
+  tmdb: 283352
 sources:
 - https://www.wikidata.org/wiki/Q4212713
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - strug-andzhey
 cast:
 - person: savan-zbignev
+poster_tmdb_path: /ge3K7sQft18by0f5FF0B1VsquQu.jpg
+backdrop_tmdb_path: /tfIDGXvXhjQMgAhhkl5sxV7u2t9.jpg

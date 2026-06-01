@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9292871
   imdb: tt0051728
+  tmdb: 157313
 sources:
 - https://www.wikidata.org/wiki/Q9292871
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - markovskiy-andzhey
 cast:
 - person: bilevskiy-bogush
+poster_tmdb_path: /gcTzy5s4d0R9Mq7PfEanXs28JM1.jpg
+backdrop_tmdb_path: /p9M7QmiiC7zg5toDcHnvcvSFlRH.jpg

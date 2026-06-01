@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q12844057
   imdb: tt3961692
   youtube: w_vislIBkzg
+  tmdb: 492409
 sources:
 - https://www.wikidata.org/wiki/Q12844057
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - ogly-mirishli-ramiz-agil
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /trgwho3nVI0rhhIWVGzkszAIigu.jpg
+backdrop_tmdb_path: /vRGbQZwL63rrvBrrXGp8Sk3B7rB.jpg

@@ -8,6 +8,7 @@ runtime_min: 142
 external_ids:
   wikidata: Q4421733
   imdb: tt0195306
+  tmdb: 89875
 sources:
 - https://www.wikidata.org/wiki/Q4421733
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: markova-rimma-vasilevna
 studio:
 - mosfilm
+poster_tmdb_path: /u5OGPv7ginPOtpyDbaBu46R3KX2.jpg
+backdrop_tmdb_path: /rfh3hN4B6SFIGqyApEFDT3aiyeb.jpg

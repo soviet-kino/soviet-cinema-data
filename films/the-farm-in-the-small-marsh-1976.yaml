@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16085720
   imdb: tt0075162
+  tmdb: 265443
 sources:
 - https://www.wikidata.org/wiki/Q16085720
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: miodrag-radovanovich
 - person: leso-miroljub
 - person: micovic-vojislav
+poster_tmdb_path: /2dGBXWNOHKIodEi1tVMO7OZYboR.jpg
+backdrop_tmdb_path: /x4sxBvWvM5dG39CPCvgaxmIYOUp.jpg

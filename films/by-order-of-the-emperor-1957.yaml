@@ -8,8 +8,10 @@ runtime_min: 96
 external_ids:
   wikidata: Q123943341
   imdb: tt0049112
+  tmdb: 661109
 sources:
 - https://www.wikidata.org/wiki/Q123943341
 schema_version: 1
 director:
 - ban-fridesh
+poster_tmdb_path: /c2iqsjz9Je2p1LaX17WBFiB3xkl.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12208045
   imdb: tt1673390
+  tmdb: 618961
 sources:
 - https://www.wikidata.org/wiki/Q12208045
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: al-kasbadzhi-riad
 - person: sabry-maha
 - person: ahmed-doria
+poster_tmdb_path: /pVCZ7f4rWGHqGZ4WZYLdTRX1OY6.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134100683
   imdb: tt0067889
+  tmdb: 498229
 sources:
 - https://www.wikidata.org/wiki/Q134100683
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: dudek-marek
 - person: korcharovskiy-eugeniush
 - person: nejman-jerzy
+poster_tmdb_path: /jJ7f4ZKuk8m1G4hlil04RP7Nsm9.jpg

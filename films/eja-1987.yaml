@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q9190167
   imdb: tt0172392
+  tmdb: 529379
 sources:
 - https://www.wikidata.org/wiki/Q9190167
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - milkani-piro
 composer:
 - gebrea-ardit
+poster_tmdb_path: /80QxPRS5pgTBUc4MoOvlJep51zW.jpg
+backdrop_tmdb_path: /pFVJutxVOQ4AmL3rjRjLv1gTOFP.jpg

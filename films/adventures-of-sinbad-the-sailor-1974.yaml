@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4686647
   imdb: tt0072004
+  tmdb: 46657
 sources:
 - https://www.wikidata.org/wiki/Q4686647
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - pikkhart-boguslav
 composer:
 - belfin-frantisek
+poster_tmdb_path: /9kwA0mlVi47VaKKREHS5I58emI6.jpg
+backdrop_tmdb_path: /nSIrVPrBszqAiAUgxXbUTqVn7WL.jpg

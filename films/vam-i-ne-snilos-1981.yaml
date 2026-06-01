@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4103178
   imdb: tt0153489
   youtube: K7nTbO8kMAo
+  tmdb: 64765
 sources:
 - https://www.wikidata.org/wiki/Q4103178
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mikhaylovskiy-nikita-viktorovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /wDBu7Bd0IFXupaxtLhHGuqDleoY.jpg
+backdrop_tmdb_path: /Zr6SIvP7yAgOBC5nsgRD8qAlnR.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q65250090
   imdb: tt0348498
+  tmdb: 833921
 sources:
 - https://www.wikidata.org/wiki/Q65250090
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - aranyshev-mikhail-fyodorovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /abCMnanPkPuUCKaH3197goLc2Lx.jpg

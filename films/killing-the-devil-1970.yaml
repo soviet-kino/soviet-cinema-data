@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111747692
   imdb: tt0066537
   youtube: pqrX9s0zVyA
+  tmdb: 266429
 sources:
 - https://www.wikidata.org/wiki/Q111747692
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: novotny-bretislav
 - person: pribyl-karel
 - person: sirc-jan
+poster_tmdb_path: /8Z8b07ySZvOq4MwT4cp4aag0Tf3.jpg
+backdrop_tmdb_path: /mJswy18Z9Qj4ljsasESpO4tcnF8.jpg

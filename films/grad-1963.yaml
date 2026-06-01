@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12750397
   imdb: tt0386494
+  tmdb: 265937
 sources:
 - https://www.wikidata.org/wiki/Q12750397
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: slyapich-liliana
 - person: lupa-peter
 - person: simich-slavko
+poster_tmdb_path: /vuJ37Bxws6dYZi4R8JU0Y9VO4ts.jpg
+backdrop_tmdb_path: /7FDKhJPNwhWt4KbyQv4lbrP497r.jpg

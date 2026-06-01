@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q4395390
   imdb: tt5034908
+  tmdb: 540193
 sources:
 - https://www.wikidata.org/wiki/Q4395390
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: khorkova-olga-mikhaylovna
 - person: kormunin-pavel-vasilevich
+poster_tmdb_path: /3JPLoCvdj8URahNu42VRrbjuTcT.jpg
+backdrop_tmdb_path: /hJ5DJalLMYyKFTXHL1nRXE66s7p.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4057252
   imdb: tt0080332
   youtube: 99PuVUrOPKs
+  tmdb: 336943
 sources:
 - https://www.wikidata.org/wiki/Q4057252
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: tsyplakova-elena-oktyabrevna
 studio:
 - ekran
+poster_tmdb_path: /acmq6UP5mvsBJP7jno7Ca3U1kH4.jpg
+backdrop_tmdb_path: /cuntMwf06KMFrMViVv3bkrEQmoJ.jpg

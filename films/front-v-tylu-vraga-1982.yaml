@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4493029
   imdb: tt0082421
   youtube: FY0fDSPW-fA
+  tmdb: 269413
 sources:
 - https://www.wikidata.org/wiki/Q4493029
 schema_version: 1
@@ -51,3 +52,5 @@ studio:
 - mosfilm
 - barrandov
 poster_commons: Съемка фильма Фронт в тылу врага.jpeg
+poster_tmdb_path: /ydx9hU8Dh5tAiOubZWzNRyv5h2y.jpg
+backdrop_tmdb_path: /h9T57RrYk1P6nJzE7WK03Gd6leL.jpg

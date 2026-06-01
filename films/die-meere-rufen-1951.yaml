@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5274407
   imdb: tt0236487
+  tmdb: 439253
 sources:
 - https://www.wikidata.org/wiki/Q5274407
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - shyuneman-emil
 cast:
 - person: klering-khans
+poster_tmdb_path: /jlZLsYZ1CCozF1c6Zu0HlOuhB65.jpg

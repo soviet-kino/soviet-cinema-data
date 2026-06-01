@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q112660547
   imdb: tt2381383
+  tmdb: 440408
 sources:
 - https://www.wikidata.org/wiki/Q112660547
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 studio:
 - sovkino
 poster_commons: Vintik-Shpintik 1927. 2.jpg
+poster_tmdb_path: /1XCNOiWTPqooXpW3xSHDx1LRckE.jpg
+backdrop_tmdb_path: /9kCnAcupO2Sp54YrLJFHumeVFNl.jpg

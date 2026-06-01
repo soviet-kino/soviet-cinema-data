@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4299867
   imdb: tt0081189
   youtube: GtXEWdRf2XA
+  tmdb: 534456
 sources:
 - https://www.wikidata.org/wiki/Q4299867
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: strzhelchik-vladislav-ignatevich
 studio:
 - lenfilm
+poster_tmdb_path: /zt3Dx9dfq8FzeYQsH3NSs47SFBp.jpg

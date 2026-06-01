@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4063918
   imdb: tt0031037
   youtube: 1z5SqcfgGb0
+  tmdb: 339376
 sources:
 - https://www.wikidata.org/wiki/Q4063918
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: umurzakov-elyubay
 studio:
 - lenfilm
+poster_tmdb_path: /2ETdIG1LN6VKkKqdll8kyUMHapm.jpg
+backdrop_tmdb_path: /xexp2Ye4t2eGcw0t8uPO5Wl1QAm.jpg

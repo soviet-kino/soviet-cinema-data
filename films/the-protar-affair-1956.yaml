@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7758612
   imdb: tt0048930
+  tmdb: 199216
 sources:
 - https://www.wikidata.org/wiki/Q7758612
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: talianu-ion
 - person: finteshtyanu-ion
 - person: iancovescu-ion
+poster_tmdb_path: /kK2HhfxyETsf1mfWP4nzJZpJAo8.jpg

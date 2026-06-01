@@ -8,6 +8,7 @@ runtime_min: 122
 external_ids:
   wikidata: Q590242
   imdb: tt0082374
+  tmdb: 220376
 sources:
 - https://www.wikidata.org/wiki/Q590242
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: lonch-marian
 - person: mikhal-yushchakevich
 - person: novish-pavel
+poster_tmdb_path: /c83ZrUTfbZBKMvXPTR8yejdJsbk.jpg
+backdrop_tmdb_path: /961BjiZqQRxtrcAodEF3kErHCfX.jpg

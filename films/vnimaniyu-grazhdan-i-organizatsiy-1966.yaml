@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q97171436
   imdb: tt3256294
+  tmdb: 831549
 sources:
 - https://www.wikidata.org/wiki/Q97171436
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - prokopenko-aleksey-efimovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /aNpaI13qV0YAf8BmpAbCAsKUfji.jpg

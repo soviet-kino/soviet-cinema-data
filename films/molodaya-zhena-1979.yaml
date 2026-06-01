@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4300557
   imdb: tt0179985
+  tmdb: 495652
 sources:
 - https://www.wikidata.org/wiki/Q4300557
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: prokhanov-sergey-borisovich
 studio:
 - lenfilm
+poster_tmdb_path: /xEaSt0FF2ytFr6mHIrmR0h7Fzpt.jpg
+backdrop_tmdb_path: /llIfAk5AplsUGr1BuGFH5RWnfmm.jpg

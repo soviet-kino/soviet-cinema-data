@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q1059786
   imdb: tt0097561
+  tmdb: 20847
 sources:
 - https://www.wikidata.org/wiki/Q1059786
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bashirov-aleksandr-nikolaevich
 studio:
 - kazakhfilm
+poster_tmdb_path: /4chl1lipiktJtK1mNm70eUeumuT.jpg
+backdrop_tmdb_path: /fqaLxiKNbTtAmDdXehp8yCpnegT.jpg

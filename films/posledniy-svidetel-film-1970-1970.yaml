@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q3819912
   imdb: tt0067538
+  tmdb: 295122
 sources:
 - https://www.wikidata.org/wiki/Q3819912
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - wroclaw-feature-film-studio
 poster_commons: Ostatni-swiadek-MagFilm1969.jpg
+poster_tmdb_path: /j1IQ0xG0RYm7J7MTcbkgkB6iPA.jpg
+backdrop_tmdb_path: /kzf7rzwxbBNtn1UtfFzgJl2b48Z.jpg

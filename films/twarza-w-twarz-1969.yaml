@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q9363179
   imdb: tt0177308
+  tmdb: 365058
 sources:
 - https://www.wikidata.org/wiki/Q9363179
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kala-izabela
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /b8WdEte1hvioqmCl1ZtJ4FDvOke.jpg

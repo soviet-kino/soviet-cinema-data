@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q7265221
   imdb: tt0167354
+  tmdb: 159366
 sources:
 - https://www.wikidata.org/wiki/Q7265221
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: cerna-tana
 - person: houska-josef
 - person: rott-frantisek
+poster_tmdb_path: /AoT6RMYUkLsNyqLrw74bLb73dH7.jpg

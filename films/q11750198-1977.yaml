@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750198
   imdb: tt0076284
+  tmdb: 748587
 sources:
 - https://www.wikidata.org/wiki/Q11750198
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: kowalik-tomira
 - person: sikora-marek
 - person: bajuk-zofia
+poster_tmdb_path: /uwHywT18q2DwFTdLER1RWvkyhiF.jpg

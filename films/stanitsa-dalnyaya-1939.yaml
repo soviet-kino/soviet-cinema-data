@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4439419
   imdb: tt0229743
+  tmdb: 544978
 sources:
 - https://www.wikidata.org/wiki/Q4439419
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: kryuchkov-nikolay-afanasevich
 studio:
 - lenfilm
+poster_tmdb_path: /3tgoVmHEnX8D8FUQjhdIwyhxK9O.jpg
+backdrop_tmdb_path: /asjXBmryL0ZMCOzjH6cRBKamsSm.jpg

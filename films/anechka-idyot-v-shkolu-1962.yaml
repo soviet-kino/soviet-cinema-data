@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q10825443
   imdb: tt0055751
+  tmdb: 373240
 sources:
 - https://www.wikidata.org/wiki/Q10825443
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: kvasnicka-m
 - person: martoni-liliana
 - person: nedvedova-eva
+poster_tmdb_path: /i5LmMFOhHGkyFhF7VF5fVG90qnP.jpg

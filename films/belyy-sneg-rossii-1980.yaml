@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4083157
   imdb: tt0193003
+  tmdb: 614216
 sources:
 - https://www.wikidata.org/wiki/Q4083157
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: galkin-boris-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /uIdXCSGRan7hhJ1PHfe80QiQ4qP.jpg
+backdrop_tmdb_path: /5XhoVwGmYzkK9TXalCvrBHXAx5k.jpg

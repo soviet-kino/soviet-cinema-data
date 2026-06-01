@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11920827
   imdb: tt0051170
+  tmdb: 204207
 sources:
 - https://www.wikidata.org/wiki/Q11920827
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: narenta-jindrich
 - person: kozak-josef
 - person: soukupova-anezka
+poster_tmdb_path: /y2WDFYLlcqBHCHRK5uH6uKeM9ds.jpg

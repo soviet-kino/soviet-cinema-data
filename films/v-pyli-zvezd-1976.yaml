@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1402083
   imdb: tt0074671
+  tmdb: 2909
 sources:
 - https://www.wikidata.org/wiki/Q1402083
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: andrey-violeta
 - person: beli-milan
 - person: mikheylesku-breila-shtefan
+poster_tmdb_path: /7YCRA46nxoVNiHWe2IO7m839CGr.jpg
+backdrop_tmdb_path: /sSAlRuK95Vf0EdVB9gcPw7L4tYn.jpg

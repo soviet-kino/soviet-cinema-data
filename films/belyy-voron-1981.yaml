@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4083111
   imdb: tt0082058
+  tmdb: 530506
 sources:
 - https://www.wikidata.org/wiki/Q4083111
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: gostyukhin-vladimir
 studio:
 - mosfilm
+poster_tmdb_path: /r78MmZ8wwyqJqJKe6ASeIxZ84h6.jpg
+backdrop_tmdb_path: /b657CkFs0za9WZt9zdX3t1OMOmS.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q123561834
   imdb: tt0051503
+  tmdb: 286613
 sources:
 - https://www.wikidata.org/wiki/Q123561834
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - vintsze-imre
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /6HFPmEcOur9cpIWw5WAIw4QRhUZ.jpg

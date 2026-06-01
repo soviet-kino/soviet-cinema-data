@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q6342472
   imdb: tt0080652
+  tmdb: 55113
 sources:
 - https://www.wikidata.org/wiki/Q6342472
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: lupa-peter
 - person: lilyana-yankovich
 - person: nadezhda-vukichevich
+poster_tmdb_path: /cmJr4oknReZKTVk05YpEVW84EPX.jpg
+backdrop_tmdb_path: /ntVqAeFfAIzgvecbJuSbrNjRFcn.jpg

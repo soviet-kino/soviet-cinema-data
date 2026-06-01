@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q1215672
   imdb: tt0075126
+  tmdb: 130708
 sources:
 - https://www.wikidata.org/wiki/Q1215672
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: khanish-khans-ioakhim
 - person: gorges-ingolf
 - person: brunecker-wolfgang
+poster_tmdb_path: /hT8i382YPGhyrIRp8tIsx5JPOGj.jpg
+backdrop_tmdb_path: /179inaNbrpVuR9cA5Zlz38uRKOg.jpg

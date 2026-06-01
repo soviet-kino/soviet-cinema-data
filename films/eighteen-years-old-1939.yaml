@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q18712929
   imdb: tt0170342
+  tmdb: 225218
 sources:
 - https://www.wikidata.org/wiki/Q18712929
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: vyhlidka-robert
 - person: lehovcova-dagmar
 - person: volny-antonin
+poster_tmdb_path: /1riS1UtL84PBPJb1futp0mar9Vr.jpg

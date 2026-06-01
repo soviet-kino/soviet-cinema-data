@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4412809
   imdb: tt0054835
+  tmdb: 543045
 sources:
 - https://www.wikidata.org/wiki/Q4412809
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: khobot-zhigmunt
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /9YZmOAoK8jNngLT6wMwhVhV0HPg.jpg

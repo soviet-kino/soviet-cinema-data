@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q136746921
   imdb: tt0064821
+  tmdb: 366526
 sources:
 - https://www.wikidata.org/wiki/Q136746921
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: vavra-vincenc
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /iPA3pfqmQCPAtKXF3ndA3KH830X.jpg
+backdrop_tmdb_path: /82NJCgBB9HclOBYCioU562HzCZw.jpg

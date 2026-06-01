@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44870783
   imdb: tt0265485
+  tmdb: 629520
 sources:
 - https://www.wikidata.org/wiki/Q44870783
 schema_version: 1
 director:
 - corjos-nicolae
+poster_tmdb_path: /a8X4EDoV3xteenkyeABmLr7t7rL.jpg

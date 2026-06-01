@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q9335056
   imdb: tt0035304
   youtube: gBezn81-XqM
+  tmdb: 426611
 sources:
 - https://www.wikidata.org/wiki/Q9335056
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: poslavskiy-boris-dmitrievich
 studio:
 - kazakhfilm
+poster_tmdb_path: /njN7FKvMaigzTKwhcmvnAxfsF3p.jpg
+backdrop_tmdb_path: /8BdPQ4u9vlbPlOvTJOocV9SfYHa.jpg

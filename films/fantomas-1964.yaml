@@ -23,6 +23,7 @@ soviet_release:
 external_ids:
   wikidata: Q996020
   imdb: tt0058089
+  tmdb: 1871
 sources:
 - https://www.wikidata.org/wiki/Q996020
 schema_version: 1
@@ -77,3 +78,5 @@ cast:
 - person: wanner-hugues
 studio:
 - gaumont
+poster_tmdb_path: /hEiwyBLa4G2hOXrOcyWPHZ6S9y8.jpg
+backdrop_tmdb_path: /pXYTP26ED7gAyyQ5QNrsGeieYbY.jpg

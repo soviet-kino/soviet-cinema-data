@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3490676
   imdb: tt0168720
   youtube: zfieWz0AGM4
+  tmdb: 260537
 sources:
 - https://www.wikidata.org/wiki/Q3490676
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: narkiewicz-kazimierz
 - person: hubert-karol
 poster_commons: Adolf Dymsza.jpg
+poster_tmdb_path: /8Bgxlc3uieCWjo3nP8UynsKiCYk.jpg

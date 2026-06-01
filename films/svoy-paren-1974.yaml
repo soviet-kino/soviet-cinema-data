@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q117451559
   imdb: tt0072232
   youtube: XtUC73hkC4g
+  tmdb: 541912
 sources:
 - https://www.wikidata.org/wiki/Q117451559
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - adler-efim-samuilovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2YepqcIAxX7uvGZYEKaEQUP1vCe.jpg
+backdrop_tmdb_path: /lINGIR2LRNKOBM2Dhi2FDhzJpPW.jpg

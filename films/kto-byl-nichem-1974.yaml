@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130613756
   imdb: tt1212104
+  tmdb: 619200
 sources:
 - https://www.wikidata.org/wiki/Q130613756
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: narliev-khodzhadurdy
 - person: byashimov-akmurad
 - person: abdullaeva-gulsara
+poster_tmdb_path: /eEg6inBJj0WqgB5J8nSZv3hIgQr.jpg

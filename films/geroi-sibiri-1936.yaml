@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4938013
   imdb: tt0027375
+  tmdb: 155533
 sources:
 - https://www.wikidata.org/wiki/Q4938013
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: yan-kurnakovich
 - person: yunosha-stempovskiy-kazimezh
 poster_commons: Hero of Siiberia.jpg
+poster_tmdb_path: /k2vuQT0RJJcJgd4jcOPOGitmbtV.jpg

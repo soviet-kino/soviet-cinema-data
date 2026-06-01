@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4533498
   imdb: tt0037477
   youtube: Z3s0EiClkjI
+  tmdb: 881991
 sources:
 - https://www.wikidata.org/wiki/Q4533498
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 studio:
 - mosfilm
 - belarusfilm
+poster_tmdb_path: /e86YnZex2lTnRM4zpI1KThgklxi.jpg

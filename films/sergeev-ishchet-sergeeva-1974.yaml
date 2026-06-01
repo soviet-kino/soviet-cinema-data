@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994369
   imdb: tt4837880
+  tmdb: 502760
 sources:
 - https://www.wikidata.org/wiki/Q84994369
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: naumkina-elena-alekseevna
 studio:
 - belarusfilm
+poster_tmdb_path: /pAnq1Et2fXikareJvlyZ6l9nVKq.jpg
+backdrop_tmdb_path: /1Od5b8zy4O7rO4PQPcoHy9G8XRr.jpg

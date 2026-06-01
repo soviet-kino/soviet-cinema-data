@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4380610
   imdb: tt0457106
   youtube: gc7_wRV7w9w
+  tmdb: 440635
 sources:
 - https://www.wikidata.org/wiki/Q4380610
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Титры мультфильма «Прометей» (СССР, 1974).jpg
+poster_tmdb_path: /4xXGpKSZAzlH3yE0ddiCcPkBDOZ.jpg
+backdrop_tmdb_path: /aStzEVuFlbw4TT1PMtH3U0PnDXR.jpg

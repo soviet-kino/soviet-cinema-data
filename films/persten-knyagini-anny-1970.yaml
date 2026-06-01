@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816798
   imdb: tt0067575
+  tmdb: 306693
 sources:
 - https://www.wikidata.org/wiki/Q11816798
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - antoni-voytovich
 composer:
 - kilyar-voytsekh
+poster_tmdb_path: /ePbSkLWIGZHzB0mPj11VZsakQTS.jpg
+backdrop_tmdb_path: /A94Y18Sgg5qQztgzpWX1H80boFN.jpg

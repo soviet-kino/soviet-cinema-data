@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16353733
   imdb: tt0311639
+  tmdb: 421100
 sources:
 - https://www.wikidata.org/wiki/Q16353733
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - brauns-martinsh
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /4bzgGayie7Zn9ZvlHQt5vow8pha.jpg
+backdrop_tmdb_path: /qQSDr4YctDL9bvb0E7DJ7v7yxzv.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16723458
   imdb: tt0184049
   youtube: IjUGo4tUwng
+  tmdb: 602713
 sources:
 - https://www.wikidata.org/wiki/Q16723458
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: matveev-evgeniy-semyonovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /aTVVmXcMfW3UABeZmIAScveGF9U.jpg

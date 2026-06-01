@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1308385
   imdb: tt0045723
+  tmdb: 264505
 sources:
 - https://www.wikidata.org/wiki/Q1308385
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: karlova-elma
 - person: ivan-petrovich
 - person: alexander-pero
+poster_tmdb_path: /auO1wiATAb0Wq7dvJ7ue8b81qu1.jpg

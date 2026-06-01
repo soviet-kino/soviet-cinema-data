@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q102291269
   imdb: tt5065344
   youtube: BTilRdsfSLk
+  tmdb: 833242
 sources:
 - https://www.wikidata.org/wiki/Q102291269
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - vagner-genrikh-matusovich
 studio:
 - belarusfilm
+poster_tmdb_path: /biNNh4EUnOGoZ7JG5FHyV1rue6w.jpg
+backdrop_tmdb_path: /1PF67lOojS4inKS7F4B6pHpiSZ1.jpg

@@ -8,6 +8,7 @@ runtime_min: 138
 external_ids:
   wikidata: Q17479335
   imdb: tt0141966
+  tmdb: 92096
 sources:
 - https://www.wikidata.org/wiki/Q17479335
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: dunareanu-radu
 studio:
 - casa-de-filme-5
+poster_tmdb_path: /yseuxcrMyT523a00mnv3mdioSTM.jpg
+backdrop_tmdb_path: /pdau8JG1KZfYM7PhK5otnwQR6dI.jpg

@@ -8,6 +8,7 @@ runtime_min: 123
 external_ids:
   wikidata: Q12778704
   imdb: tt0250814
+  tmdb: 79315
 sources:
 - https://www.wikidata.org/wiki/Q12778704
 schema_version: 1
@@ -74,3 +75,4 @@ cast:
 - person: jezo-alexander
 - person: belansky-ivan
 - person: krnac-matej
+poster_tmdb_path: /sHbpQL4DMQKkFWK2QF57ldolS6E.jpg

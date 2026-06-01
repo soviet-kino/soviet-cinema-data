@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1481691
   imdb: tt0053846
+  tmdb: 2216
 sources:
 - https://www.wikidata.org/wiki/Q1481691
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: papendiek-alexander
 studio:
 - defa
+poster_tmdb_path: /r5Z5Sy4c3qQ9J381k94yN5yriob.jpg

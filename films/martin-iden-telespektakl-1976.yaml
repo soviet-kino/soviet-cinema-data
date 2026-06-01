@@ -8,6 +8,7 @@ runtime_min: 196
 external_ids:
   wikidata: Q4282544
   imdb: tt6194624
+  tmdb: 693844
 sources:
 - https://www.wikidata.org/wiki/Q4282544
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - mazhukov-aleksey-sergeevich
 cast:
 - person: bogatyryov-yuriy-georgievich
+poster_tmdb_path: /6KRWqS0hIqQ8tXuEh18FBkxZcUg.jpg
+backdrop_tmdb_path: /phdNxnJB1LqsTI9V5k1jrv7bj0n.jpg

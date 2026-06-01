@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q2633827
   imdb: tt0174449
+  tmdb: 79857
 sources:
 - https://www.wikidata.org/wiki/Q2633827
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: veldre-erik
 studio:
 - defa
+poster_tmdb_path: /mzu8v3f7hu1MfkNTUI5h3pp5Vte.jpg

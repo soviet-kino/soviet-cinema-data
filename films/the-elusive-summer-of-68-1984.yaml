@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q213345
   imdb: tt0088338
+  tmdb: 148034
 sources:
 - https://www.wikidata.org/wiki/Q213345
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: milutin-butkovich
 studio:
 - centar-film
+poster_tmdb_path: /f9h6MIgZTPUzbwNLVTHgk57T3kT.jpg
+backdrop_tmdb_path: /gg0vsaBPFTcbPqkZgYc8tjT0g9s.jpg

@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q7252314
   imdb: tt0294856
+  tmdb: 269334
 sources:
 - https://www.wikidata.org/wiki/Q7252314
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: kupsovsky-bohuslav
 - person: romanova-jana
 - person: princ-rudolf
+poster_tmdb_path: /vslWMED3eQ0rsMwKumQ0hxGsCED.jpg

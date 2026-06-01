@@ -8,8 +8,11 @@ runtime_min: 91
 external_ids:
   wikidata: Q24529681
   imdb: tt0123195
+  tmdb: 225446
 sources:
 - https://www.wikidata.org/wiki/Q24529681
 schema_version: 1
 cast:
 - person: bushe-barbara
+poster_tmdb_path: /4e56NCuce11oFxTicodSsmBjhWa.jpg
+backdrop_tmdb_path: /7b2H5qRrNtHCWdwHVv71eHGEClB.jpg

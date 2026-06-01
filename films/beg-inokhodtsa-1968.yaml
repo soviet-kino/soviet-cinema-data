@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q43325516
   imdb: tt0228751
   youtube: XVfArrDM6eY
+  tmdb: 272643
 sources:
 - https://www.wikidata.org/wiki/Q43325516
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: sharipova-farida-sharipovna
 - person: zhumadylov-sovetbek
 - person: zhanturin-nurmukhan-seytakhmetovich
+poster_tmdb_path: /wZu0azU5tOVS4GDHZvjL6b8pajc.jpg
+backdrop_tmdb_path: /2zk7lJmc2cDTPKNJkpI1ZzA1rwZ.jpg

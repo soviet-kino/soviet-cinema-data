@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q10857196
   imdb: tt0172685
+  tmdb: 439224
 sources:
 - https://www.wikidata.org/wiki/Q10857196
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kondo-anastas
 composer:
 - ibrahimi-feim
+poster_tmdb_path: /16G48f9iScYrFjzuI5XsstG0QLP.jpg
+backdrop_tmdb_path: /3aqsiSBwDPQ6ITvFKkW3sry70PY.jpg

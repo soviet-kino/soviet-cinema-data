@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1669707
   imdb: tt0055600
+  tmdb: 335475
 sources:
 - https://www.wikidata.org/wiki/Q1669707
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: brendler-gertrud
 - person: kherden-peter
 - person: ryovekamp-verner
+poster_tmdb_path: /bIFpVRgeuN3AwR1JPymCimNfyqf.jpg

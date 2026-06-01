@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18634981
   imdb: tt0129658
   youtube: 3L7miNEFWpo
+  tmdb: 257789
 sources:
 - https://www.wikidata.org/wiki/Q18634981
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 - kyrgyzfilm
 cast:
 - person: shamshiev-bolotbek
+poster_tmdb_path: /2ewtMt72qAxOcs7LYYERUocpEYX.jpg
+backdrop_tmdb_path: /zfzPngq1xmOBeLdKJK6HALvBQhg.jpg

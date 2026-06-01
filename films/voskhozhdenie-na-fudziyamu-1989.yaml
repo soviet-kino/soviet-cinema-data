@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108800811
   imdb: tt0175309
   youtube: aG3q20CTntM
+  tmdb: 529516
 sources:
 - https://www.wikidata.org/wiki/Q108800811
 schema_version: 1
@@ -22,3 +23,4 @@ cinematographer:
 - aliev-murat-abduvalievich
 composer:
 - yanchenko-oleg-grigorevich
+poster_tmdb_path: /pE1QONuTGRBRsHTGa59jV1jpUZF.jpg

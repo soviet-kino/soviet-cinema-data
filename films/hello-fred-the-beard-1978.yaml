@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q9285531
   imdb: tt0077650
+  tmdb: 157259
 sources:
 - https://www.wikidata.org/wiki/Q9285531
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - starskiy-lyudvik
 cast:
 - person: fronchevskiy-pyotr
+poster_tmdb_path: /kdBJUrRUmbXyzYkGkO1mVmBAoMF.jpg
+backdrop_tmdb_path: /756aH6hllhrqyMuMkUIZaAGllH8.jpg

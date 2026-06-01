@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q8075641
   imdb: tt0051233
+  tmdb: 426396
 sources:
 - https://www.wikidata.org/wiki/Q8075641
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - merz-otto-2
 composer:
 - vertslau-yoakhim
+poster_tmdb_path: /dViy7vZH3xGskqDXU1oa4n2iSdi.jpg
+backdrop_tmdb_path: /t7WhvA5jwd9ki9YRFJHJUohEsy5.jpg

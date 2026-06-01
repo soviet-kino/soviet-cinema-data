@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q97198885
   imdb: tt0079407
+  tmdb: 290944
 sources:
 - https://www.wikidata.org/wiki/Q97198885
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - lendvai-kamillo
 studio:
 - mafilm
+poster_tmdb_path: /i5mb9yRvWChHTma1P8BrKArZ91t.jpg

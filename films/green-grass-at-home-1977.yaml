@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12730212
   imdb: tt0148322
+  tmdb: 465034
 sources:
 - https://www.wikidata.org/wiki/Q12730212
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: zammiresku-florin
 - person: nitulesku-vasil
 - person: paladescu-mihai
+poster_tmdb_path: /sUbDoTxAZNPZngSYkEoIbqOjGWc.jpg

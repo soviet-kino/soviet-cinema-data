@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q7755334
   imdb: tt0169359
+  tmdb: 128405
 sources:
 - https://www.wikidata.org/wiki/Q7755334
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: zahradka-otto
 - person: hausslerova-marie
 - person: kobik-josef
+poster_tmdb_path: /nG0giaFGd0jWtx16BkV58qiNYub.jpg
+backdrop_tmdb_path: /2pVrh9LKjMZyOckFijREZbETNpg.jpg

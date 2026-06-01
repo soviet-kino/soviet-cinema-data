@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q6711196
   imdb: tt0074790
+  tmdb: 58621
 sources:
 - https://www.wikidata.org/wiki/Q6711196
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: palacky-josef
 - person: homolkova-jana
 - person: homerova-renata
+poster_tmdb_path: /a4qyVhrjvSTzSywqeMNqxkpAy5l.jpg
+backdrop_tmdb_path: /qEun1KQbKoUVRZ6d0wLya7FcXhS.jpg

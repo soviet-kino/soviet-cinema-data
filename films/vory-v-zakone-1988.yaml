@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4126061
   imdb: tt0094280
   youtube: yfu9w-fD_cQ
+  tmdb: 142789
 sources:
 - https://www.wikidata.org/wiki/Q4126061
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: silkin-sergey-yurevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ewgFpHcPjd3ksi22R4Fw5mL2O47.jpg
+backdrop_tmdb_path: /lB0esTdmwbqbOCTFFQg62b4ztkA.jpg

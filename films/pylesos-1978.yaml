@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q138412255
   imdb: tt1075406
+  tmdb: 582725
 sources:
 - https://www.wikidata.org/wiki/Q138412255
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - aare-tynu
 studio:
 - tallinfilm
+poster_tmdb_path: /qMKd4mefMHrC2OGnys1mbV6Qr6G.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4179472
   imdb: tt0161117
+  tmdb: 629696
 sources:
 - https://www.wikidata.org/wiki/Q4179472
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: baykshtite-grazhina
 studio:
 - moldova-film
+poster_tmdb_path: /jZRxtvYSY2bRRoIZoL0COmcon3Q.jpg
+backdrop_tmdb_path: /pN3EKnDbFrem0OWjH5ohOhbekiA.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134540133
   imdb: tt11902640
+  tmdb: 332846
 sources:
 - https://www.wikidata.org/wiki/Q134540133
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - viskovskiy-vyacheslav-kazimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /sJk7FoTA3V8unjMRTxV0jbAGWTp.jpg
+backdrop_tmdb_path: /A93eUK6WUBf56yAVDYMJmYOR3GD.jpg

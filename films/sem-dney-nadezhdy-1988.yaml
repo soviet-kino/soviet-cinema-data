@@ -9,6 +9,8 @@ external_ids:
   wikidata: Q108611911
   imdb: tt5728484
   youtube: EPFUTEKKu7U
+  tmdb: 896674
 sources:
 - https://www.wikidata.org/wiki/Q108611911
 schema_version: 1
+poster_tmdb_path: /hhDCagPWozgnasFeUQDoeSrnLUx.jpg

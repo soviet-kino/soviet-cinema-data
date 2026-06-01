@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5963046
   imdb: tt0033735
+  tmdb: 661758
 sources:
 - https://www.wikidata.org/wiki/Q5963046
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: yukhas-zhozef
 - person: szoreghy-gyula
 - person: barczy-kato
+poster_tmdb_path: /tdnE9m9QhRrzdNQAHtHUTqa3Ug9.jpg

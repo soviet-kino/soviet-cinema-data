@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12742483
   imdb: tt0084818
+  tmdb: 315480
 sources:
 - https://www.wikidata.org/wiki/Q12742483
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: ianculescu-dinu
 - person: bogdan-stanoevich
 - person: stenesku-trayan
+poster_tmdb_path: /sMLRL4OwtE1Nl4hJ9wvoQwMoLwP.jpg

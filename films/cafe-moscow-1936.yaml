@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q17986196
   imdb: tt0027412
+  tmdb: 263778
 sources:
 - https://www.wikidata.org/wiki/Q17986196
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: tokes-anna
 - person: szoreghy-gyula
 - person: somogyi-nusi
+poster_tmdb_path: /sXoPxtnleL83Sx4mhkTmFhX7x5A.jpg

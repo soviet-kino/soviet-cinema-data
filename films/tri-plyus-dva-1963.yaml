@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1634934
   imdb: tt0131207
   youtube: fH7gtgeckWk
+  tmdb: 73267
 sources:
 - https://www.wikidata.org/wiki/Q1634934
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - rizhskaya-kinostudiya
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /fwroSKOlatkpbgi87YbnKGbSMek.jpg
+backdrop_tmdb_path: /ujGQ7SUN5ImxGeEjh7YuGvc4xaZ.jpg

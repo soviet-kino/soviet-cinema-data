@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12723390
   imdb: tt0069977
+  tmdb: 646874
 sources:
 - https://www.wikidata.org/wiki/Q12723390
 schema_version: 1
 director:
 - vitanidis-george
+poster_tmdb_path: /damRFEy3Tabx4Pk9HSK7OtbxABs.jpg

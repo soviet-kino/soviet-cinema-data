@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3540517
   imdb: tt0059861
   youtube: beo4SGNsZJs
+  tmdb: 458523
 sources:
 - https://www.wikidata.org/wiki/Q3540517
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: dorokhina-aleksandra-mitrofanovna
+poster_tmdb_path: /zHtEBMX4W5HolQylAhV7BL6cQww.jpg
+backdrop_tmdb_path: /mwW4YUsPH2tdBMstdCwxorjOzTz.jpg

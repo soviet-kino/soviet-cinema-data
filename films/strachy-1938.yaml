@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q9346392
   imdb: tt0286163
+  tmdb: 409746
 sources:
 - https://www.wikidata.org/wiki/Q9346392
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 cast:
 - person: karwowska-hanna
 poster_commons: Film nr 28 - Hanna Karwowska - 1947-11-01.JPG
+poster_tmdb_path: /7AWMwC2hVkVMhszYYjcY4qPLhBd.jpg

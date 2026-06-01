@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270980
   imdb: tt0347824
   youtube: X13NlT6f1UA
+  tmdb: 430211
 sources:
 - https://www.wikidata.org/wiki/Q15270980
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: nakhapetov-rodion-rafailovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /23B088TL5mlsqkshWHpHIogObG3.jpg

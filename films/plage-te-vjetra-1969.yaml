@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9344124
   imdb: tt0170408
+  tmdb: 460899
 sources:
 - https://www.wikidata.org/wiki/Q9344124
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - anagnosti-dimiter
 composer:
 - balla-ismail
+poster_tmdb_path: /aMFqVGwU8W1Ky2P6biuXqQGapq3.jpg
+backdrop_tmdb_path: /9vDobr0Ff4kTTnyY132Bsl3r3DC.jpg

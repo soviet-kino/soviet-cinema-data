@@ -8,8 +8,11 @@ runtime_min: 79
 external_ids:
   wikidata: Q113800697
   imdb: tt0031544
+  tmdb: 249619
 sources:
 - https://www.wikidata.org/wiki/Q113800697
 schema_version: 1
 director:
 - andre-de-tot
+poster_tmdb_path: /6CnK7qjwIgiAgpnv0GRLmz1BCiC.jpg
+backdrop_tmdb_path: /eJP4KPm0tV8YM2Y3G6qYTcqhGpz.jpg

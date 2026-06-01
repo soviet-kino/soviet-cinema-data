@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q3825168
   imdb: tt0367944
+  tmdb: 148661
 sources:
 - https://www.wikidata.org/wiki/Q3825168
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - nuzhinskiy-antoni
 composer:
 - kotonskiy-vlodzimezh
+backdrop_tmdb_path: /g2Gt5LuyNH1iNf4itsD08fGunws.jpg

@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q2399706
   imdb: tt0069353
+  tmdb: 122440
 sources:
 - https://www.wikidata.org/wiki/Q2399706
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: ulrikh-rudolf
 - person: klose-sepp
 - person: greeze-volfgang
+poster_tmdb_path: /iHXiRHGc7NOzCZ6oFj0zfdV5PUI.jpg
+backdrop_tmdb_path: /lezg31r2m4JYasGR5DY8K9HCkY6.jpg

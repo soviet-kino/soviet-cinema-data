@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1215066
   imdb: tt0079926
   youtube: orTX5AmbhQ8
+  tmdb: 501171
 sources:
 - https://www.wikidata.org/wiki/Q1215066
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: demyanenko-aleksandr-sergeevich
 studio:
 - lenfilm
+poster_tmdb_path: /lGUwboVVDammZjefP7nX05g3kdV.jpg
+backdrop_tmdb_path: /lloITZim5fyq0uWmVmdtfaxdh00.jpg

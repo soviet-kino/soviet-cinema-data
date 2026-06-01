@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q93767923
   imdb: tt0066750
+  tmdb: 270708
 sources:
 - https://www.wikidata.org/wiki/Q93767923
 schema_version: 1
 director:
 - magyar-dezho
+poster_tmdb_path: /inv1qQo5MzXPL6RLIVTuOYu2Tj5.jpg
+backdrop_tmdb_path: /wKlx2bc3OR1McHdajBr9pi0FglC.jpg

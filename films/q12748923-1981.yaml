@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748923
   imdb: tt0432745
+  tmdb: 1643238
 sources:
 - https://www.wikidata.org/wiki/Q12748923
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: nikolich-marko
 - person: jaksic-dusan
 - person: goritsa-popovich
+poster_tmdb_path: /xrU1HZ4poCuCzBUDO1AFrjgRbB8.jpg

@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q11738964
   imdb: tt0175810
+  tmdb: 576063
 sources:
 - https://www.wikidata.org/wiki/Q11738964
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - lipman-ezhi
 cast:
 - person: makhulskiy-yan
+poster_tmdb_path: /ijfiaXAt2VixvZUnjP0qbQMqdh4.jpg

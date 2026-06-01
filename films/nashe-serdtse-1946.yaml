@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q60851628
   imdb: tt0174964
   youtube: XnFQN0SKUTE
+  tmdb: 496152
 sources:
 - https://www.wikidata.org/wiki/Q60851628
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kuznetsov-mikhail-artemevich
 studio:
 - mosfilm
+poster_tmdb_path: /jo29p4kPE6k8iLR9l7KD1XQS0Aa.jpg
+backdrop_tmdb_path: /d7MMWEeU7K97OmhKz2BJpHIuQcX.jpg

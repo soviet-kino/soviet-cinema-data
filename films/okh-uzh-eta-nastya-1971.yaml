@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340348
   imdb: tt0067522
   youtube: hGeDc5KbNOI
+  tmdb: 298390
 sources:
 - https://www.wikidata.org/wiki/Q4340348
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: volkova-irina
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zspg3Q63h8LJldx0ZWmm7614xCh.jpg
+backdrop_tmdb_path: /acoSmw6ziFMxjhV9yDj5J2tCJ8K.jpg

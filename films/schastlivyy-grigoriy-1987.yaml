@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q55505685
   imdb: tt6480884
+  tmdb: 440572
 sources:
 - https://www.wikidata.org/wiki/Q55505685
 schema_version: 1
 director:
 - ufimtsev-ivan-vasilevich
+poster_tmdb_path: /g2T73cICVUz1fWx7FzimJctUmfo.jpg
+backdrop_tmdb_path: /7GdJwDMFaOMNISODwjbRrjnUIhs.jpg

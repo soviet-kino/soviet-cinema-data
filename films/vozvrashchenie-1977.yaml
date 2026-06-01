@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4114634
   imdb: tt0281759
+  tmdb: 1459059
 sources:
 - https://www.wikidata.org/wiki/Q4114634
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 cast:
 - person: kapianidze-zurab-vasilevich
 - person: berikashvili-givi-zakharevich
+poster_tmdb_path: /vhhlpYdAzOE0pQJy4e8Hwc3FjWc.jpg
+backdrop_tmdb_path: /dVCi0OdjqUMkUrMI3Gi5Z4A95fB.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44869153
   imdb: tt0174941
+  tmdb: 628343
 sources:
 - https://www.wikidata.org/wiki/Q44869153
 schema_version: 1
 director:
 - baleanu-andrei-catalin
+poster_tmdb_path: /p6Di7dboD4VcSBOXTcm1HpRK24J.jpg

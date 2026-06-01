@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4190645
   imdb: tt0062520
+  tmdb: 71363
 sources:
 - https://www.wikidata.org/wiki/Q4190645
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: chestnokov-vladimir-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /kcjOvV2ADQaUQFJlEvsIRgzcpYV.jpg

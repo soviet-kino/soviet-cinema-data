@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6672392
   imdb: tt0175809
   youtube: 1Rv6m9Qakvo
+  tmdb: 98252
 sources:
 - https://www.wikidata.org/wiki/Q6672392
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dal-oleg-ivanovich
 - person: vaynshteyn-lev-yakovlevich
 - person: sayfulin-gennadiy-rashidovich
+poster_tmdb_path: /epSoZyUtysEMCvrZGx1Gk3zynOx.jpg

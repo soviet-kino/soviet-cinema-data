@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28664518
   imdb: tt0059948
   youtube: mVqeao89Ek4
+  tmdb: 831601
 sources:
 - https://www.wikidata.org/wiki/Q28664518
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: burkova-larisa-matveevna
 - person: glazyrin-aleksey-aleksandrovich
 - person: urgant-nina-nikolaevna
+poster_tmdb_path: /n648WZBNEBKkExXF3eNMg2ZIicH.jpg

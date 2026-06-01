@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q125672
   imdb: tt1808482
   youtube: Z9VpT8AyYmY
+  tmdb: 321130
 sources:
 - https://www.wikidata.org/wiki/Q125672
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pilyus-antonina-ivanovna
 studio:
 - tsentralnoe-televidenie
+poster_tmdb_path: /v8RUUNC6zyPWgbru30tJVnsi2Q6.jpg
+backdrop_tmdb_path: /kr9d1AX9D82AjKMsW00t00FXFVn.jpg

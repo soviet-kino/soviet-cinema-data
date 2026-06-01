@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7179461
   imdb: tt0070527
+  tmdb: 198545
 sources:
 - https://www.wikidata.org/wiki/Q7179461
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 cast:
 - person: togai-kan
 - person: kovacs-mihaly
+poster_tmdb_path: /zcZobP29mdBDKtD50zxXyyneu3b.jpg
+backdrop_tmdb_path: /rFi4imzhDqsRJyLtrh1HYqUADEC.jpg

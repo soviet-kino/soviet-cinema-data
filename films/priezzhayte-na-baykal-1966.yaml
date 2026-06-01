@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116811437
   imdb: tt3033116
   youtube: Ex804jp36GY
+  tmdb: 537725
 sources:
 - https://www.wikidata.org/wiki/Q116811437
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - dorman-veniamin
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /q8Qm40E3v6xVTW0SDXGDzpsEgWY.jpg
+backdrop_tmdb_path: /3OLPiOAQq7B4F5XtnaITpWfyVWM.jpg

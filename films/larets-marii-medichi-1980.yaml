@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4254495
   imdb: tt0166684
   youtube: MXuO4Arq0ag
+  tmdb: 71337
 sources:
 - https://www.wikidata.org/wiki/Q4254495
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ryzhakov-valeriy-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /fAsRaoUtdEdlJgHujn6JS0PafEy.jpg
+backdrop_tmdb_path: /SyUdvbegf5jnmzHNbsLRJAjmrD.jpg

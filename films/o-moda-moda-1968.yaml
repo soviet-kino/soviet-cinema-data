@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4328848
   imdb: tt0794135
+  tmdb: 777222
 sources:
 - https://www.wikidata.org/wiki/Q4328848
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - benashvili-nina-ivanovna
 studio:
 - gruziya-film
+poster_tmdb_path: /xHgnMPYfhUrAWKxd9AgSWtlvsN7.jpg
+backdrop_tmdb_path: /6KeLWJV8PFZK65jahUaIsXNtvJq.jpg

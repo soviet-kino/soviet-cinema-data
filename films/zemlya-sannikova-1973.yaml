@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q261240
   imdb: tt0136624
   youtube: pYENPwgfJqE
+  tmdb: 57757
 sources:
 - https://www.wikidata.org/wiki/Q261240
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: gritsenko-nikolay-olimpievich
 studio:
 - mosfilm
+poster_tmdb_path: /hn7JabLcCvMIe9UQFbXljIa7ZHe.jpg
+backdrop_tmdb_path: /jD5N3nDyZ4LIEaaMSdyPMQaDGhk.jpg

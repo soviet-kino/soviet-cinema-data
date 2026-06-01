@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q7253800
   imdb: tt0237604
+  tmdb: 246029
 sources:
 - https://www.wikidata.org/wiki/Q7253800
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: heglas-jakub
 - person: bilek-jindrich
 - person: hola-marie
+poster_tmdb_path: /mEyiLTd8AclGKmmNUxtqesLWu0i.jpg
+backdrop_tmdb_path: /2yDx5GkCQMRLNp5hxqlToVskpjR.jpg

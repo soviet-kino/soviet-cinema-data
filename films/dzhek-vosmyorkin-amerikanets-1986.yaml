@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4160093
   imdb: tt0167910
   youtube: cSCpx1APWsk
+  tmdb: 92986
 sources:
 - https://www.wikidata.org/wiki/Q4160093
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: bokashevskaya-galina-anatolevna
 studio:
 - lenfilm
+poster_tmdb_path: /gDbURgK4QHrwsIYJgthFsyZEri9.jpg
+backdrop_tmdb_path: /dPHQ2rNl4VOoxDX2jNrhtiGKW25.jpg

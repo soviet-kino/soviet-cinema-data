@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116865207
   imdb: tt0466171
   youtube: ELP8iBozM0M
+  tmdb: 623843
 sources:
 - https://www.wikidata.org/wiki/Q116865207
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bogachyov-gennadiy-petrovich
 - person: nikitenko-valeriy-efremovich
 - person: romanov-ernst-ivanovich
+poster_tmdb_path: /tJUQ3tI0XrPdBMksipU8fWvG86k.jpg
+backdrop_tmdb_path: /7galFUZmsWRphhcJxkofZMNxtGt.jpg

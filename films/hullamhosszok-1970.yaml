@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q28792632
   imdb: tt3491418
+  tmdb: 486632
 sources:
 - https://www.wikidata.org/wiki/Q28792632
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kovasnai-dyord
 cinematographer:
 - nemenyi-maria
+poster_tmdb_path: /datyzu8zasiu4Qrlol0DOjlGNEZ.jpg
+backdrop_tmdb_path: /t2TiNZWuIr976cZ4Be9DVUDlPO2.jpg

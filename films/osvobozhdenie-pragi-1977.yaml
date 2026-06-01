@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q12043132
   imdb: tt0138683
+  tmdb: 311004
 sources:
 - https://www.wikidata.org/wiki/Q12043132
 schema_version: 1
@@ -298,3 +299,5 @@ cast:
 - person: pechanec-josef
 studio:
 - barrandov
+poster_tmdb_path: /2HWemMZR3WXDjpVDPQ8HoTMCsWv.jpg
+backdrop_tmdb_path: /bAfcVT97pcIhp03Vj4nVemtdLP6.jpg

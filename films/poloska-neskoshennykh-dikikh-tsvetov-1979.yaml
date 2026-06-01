@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q25435467
   imdb: tt0171640
+  tmdb: 299441
 sources:
 - https://www.wikidata.org/wiki/Q25435467
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - artemyev-eduard
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bLn6wgIdhe56BAUWq3q0TzJK5iA.jpg
+backdrop_tmdb_path: /yv8nQQ8h4Xu86JqQg386Mrei84r.jpg

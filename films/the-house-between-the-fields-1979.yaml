@@ -8,8 +8,10 @@ runtime_min: 86
 external_ids:
   wikidata: Q29581073
   imdb: tt0126231
+  tmdb: 440311
 sources:
 - https://www.wikidata.org/wiki/Q29581073
 schema_version: 1
 director:
 - tatos-alexandru
+poster_tmdb_path: /k4D6gB5SwrQzPfOfnYGdKceIaWp.jpg

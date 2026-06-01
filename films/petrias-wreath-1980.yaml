@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q7178780
   imdb: tt0081331
+  tmdb: 283124
 sources:
 - https://www.wikidata.org/wiki/Q7178780
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: q12959542
 studio:
 - centar-film
+poster_tmdb_path: /m3e5I9ViRatHO0LeCc6lJkXHALp.jpg
+backdrop_tmdb_path: /dqCPbla0FhhF8xtsEO3CS1m9GMb.jpg

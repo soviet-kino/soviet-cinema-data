@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q3108887
   imdb: tt0038566
+  tmdb: 78251
 sources:
 - https://www.wikidata.org/wiki/Q3108887
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: polovikova-klavdiya-mikhaylovna
 studio:
 - mosfilm
+poster_tmdb_path: /w5F6wfsAuaSe7rKCblDSbelgFDM.jpg
+backdrop_tmdb_path: /d7i75IdrBb2Roi6mAePi1az002.jpg

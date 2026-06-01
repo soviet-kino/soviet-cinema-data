@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4189379
   imdb: tt0195307
   youtube: 0bYJ3Bo2_AQ
+  tmdb: 158124
 sources:
 - https://www.wikidata.org/wiki/Q4189379
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: verbitskiy-anatoliy-vsevolodovich
 studio:
 - lenfilm
+poster_tmdb_path: /kwek4p39Qi3ARpyQ53DAzj7tYy8.jpg
+backdrop_tmdb_path: /a7GFulKOFcBBeviFVmQwjIKW1mR.jpg

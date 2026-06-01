@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4338871
   imdb: tt0270151
   youtube: PMFtNK3UTSM
+  tmdb: 238307
 sources:
 - https://www.wikidata.org/wiki/Q4338871
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: storpirshtis-arunas
 studio:
 - lenfilm
+poster_tmdb_path: /8IDLmeVXw7YEFtDUxUSkjME5fYb.jpg

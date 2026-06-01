@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4124331
   imdb: tt0063806
+  tmdb: 81322
 sources:
 - https://www.wikidata.org/wiki/Q4124331
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: stoor-mechislav
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /4lATE1jMXVSTVaPW7JKToWdFHJW.jpg
+backdrop_tmdb_path: /vn9b2NyjYL4CgF50cLfyAZUWapw.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1711299
   imdb: tt0199503
   youtube: QuhJDQ6O4b8
+  tmdb: 206424
 sources:
 - https://www.wikidata.org/wiki/Q1711299
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: budraytis-yuozas-stanislavas
 - person: miroshnichenko-irina-petrovna
 - person: nakhapetov-rodion-rafailovich
+poster_tmdb_path: /cpftGNlMYcC2sydq6TflcocItX9.jpg
+backdrop_tmdb_path: /cIT6iC6ac4pYtRcw2715kv8kdfo.jpg

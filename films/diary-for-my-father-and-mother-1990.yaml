@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q5271999
   imdb: tt0100223
+  tmdb: 283185
 sources:
 - https://www.wikidata.org/wiki/Q5271999
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: ferentsi-gabor
 - person: monori-lili
 - person: b-miklosh-szhekeli
+poster_tmdb_path: /7USEGuVvgC4yZTBukK6roS9rZgN.jpg
+backdrop_tmdb_path: /s1Uu8fvJphgIVX1FhDWtERVLWPp.jpg

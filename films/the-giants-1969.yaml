@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q123287436
   imdb: tt0206982
+  tmdb: 421575
 sources:
 - https://www.wikidata.org/wiki/Q123287436
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - deych-dzhin
 cinematographer:
 - hajdova-zdenka
+poster_tmdb_path: /uc84hCLsCDPLTpPFyBLuZUnVq6w.jpg

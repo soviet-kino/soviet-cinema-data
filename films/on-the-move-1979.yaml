@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11819876
   imdb: tt0080070
+  tmdb: 662327
 sources:
 - https://www.wikidata.org/wiki/Q11819876
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: seyrig-delfin
+poster_tmdb_path: /zq0nUKMNkFLxNF4P43KV3Yu0b6f.jpg

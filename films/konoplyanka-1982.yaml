@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9384432
   imdb: tt0085807
+  tmdb: 81231
 sources:
 - https://www.wikidata.org/wiki/Q9384432
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: dzhoanna-senkevich
 - person: kepinski-marek
 - person: siudim-marek
+poster_tmdb_path: /cOzGlHBlvmEfCbDWdyjNmlP6E9Q.jpg
+backdrop_tmdb_path: /1KPjTsAREBwmCXDbq2PdH8n5vjS.jpg

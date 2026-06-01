@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q1171629
   imdb: tt0183862
+  tmdb: 13102
 sources:
 - https://www.wikidata.org/wiki/Q1171629
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: shmidtchen-kurt
 - person: dommish-peter
 - person: riechers-helene
+poster_tmdb_path: /hUBtivrhyJbtujm4X03mWsA9LZn.jpg
+backdrop_tmdb_path: /cvhBBuACKSyPkEvIgoCxXT2VW01.jpg

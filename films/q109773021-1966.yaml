@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109773021
   imdb: tt2618440
+  tmdb: 542149
 sources:
 - https://www.wikidata.org/wiki/Q109773021
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: schellhorn-lothar
 - person: hansel-gerhard
 - person: adam-gertrud
+poster_tmdb_path: /9aRHVabFs09QvpL7yPxoQEoUhVN.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q12719716
   imdb: tt0182659
+  tmdb: 179378
 sources:
 - https://www.wikidata.org/wiki/Q12719716
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: nutsu-dan
 - person: popovichi-ilyana
 - person: dikisyanu-ion
+poster_tmdb_path: /muwV2lrNhnByc31R0mi6ZcqtZ3B.jpg
+backdrop_tmdb_path: /u6EFHxetpNcCWtLKtqaXvFaxaQd.jpg

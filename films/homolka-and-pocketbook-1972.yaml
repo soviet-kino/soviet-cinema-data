@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q19267975
   imdb: tt0167992
+  tmdb: 142726
 sources:
 - https://www.wikidata.org/wiki/Q19267975
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: fuka-jiri
 - person: ml-marta-srovnalova
 - person: kahovcova-helena
+poster_tmdb_path: /m18J21Fw9XvnehKa0rRKf7ilRjw.jpg
+backdrop_tmdb_path: /dJeJCkYyn0EFebU9yZuqzt15rTS.jpg

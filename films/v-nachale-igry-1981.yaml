@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4101742
   imdb: tt0232881
   youtube: yirO3E6stBI
+  tmdb: 377219
 sources:
 - https://www.wikidata.org/wiki/Q4101742
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: smolyakov-andrey-igorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dOqdvOUqeDBSk7f6TnmRs3GJ2gc.jpg

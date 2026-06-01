@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q2333181
   imdb: tt0079659
+  tmdb: 198509
 sources:
 - https://www.wikidata.org/wiki/Q2333181
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: tanya-boshkovich
 - person: shtrlich-milan
 - person: lepetich-zvonko
+poster_tmdb_path: /fJgBu6enCKpvD7ocHDFcOoKJMqd.jpg
+backdrop_tmdb_path: /mluCmgBrRW5iYH2642XSTqec1qM.jpg

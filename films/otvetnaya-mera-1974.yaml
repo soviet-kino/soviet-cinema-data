@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4339387
   imdb: tt0478220
+  tmdb: 1525408
 sources:
 - https://www.wikidata.org/wiki/Q4339387
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: fateeva-natalya-nikolaevna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /A50qiBWXOzj4jwra5gIYNYvVaW0.jpg

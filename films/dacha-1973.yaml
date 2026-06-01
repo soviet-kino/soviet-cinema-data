@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4155389
   imdb: tt0069939
+  tmdb: 530673
 sources:
 - https://www.wikidata.org/wiki/Q4155389
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: evstigneev-evgeniy-aleksandrovich
 - person: luchko-klara-stepanovna
 - person: basov-vladimir-pavlovich
+poster_tmdb_path: /qPel55z6ltlttZwgpEhbk85iy06.jpg
+backdrop_tmdb_path: /6jcqmjM8izR41CrX5g9J3buvAF0.jpg

@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q5310120
   imdb: tt0167128
+  tmdb: 322444
 sources:
 - https://www.wikidata.org/wiki/Q5310120
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - stanke-kurt
 composer:
 - dessau-paul
+poster_tmdb_path: /gnLaQJPE3gFRRfQlXCDX6mKGJtT.jpg

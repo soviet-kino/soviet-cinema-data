@@ -8,8 +8,10 @@ runtime_min: 79
 external_ids:
   wikidata: Q111523793
   imdb: tt0091784
+  tmdb: 469017
 sources:
 - https://www.wikidata.org/wiki/Q111523793
 schema_version: 1
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /nGVGeg95ejDY45rdU1oq34Js15L.jpg

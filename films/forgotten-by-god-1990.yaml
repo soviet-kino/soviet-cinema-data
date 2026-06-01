@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18547634
   imdb: tt0105218
+  tmdb: 624515
 sources:
 - https://www.wikidata.org/wiki/Q18547634
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: vizan-dorel
 - person: alexandru-george
 - person: catone-magda
+poster_tmdb_path: /n8bjCWH3iRTdzzjMUf18VHqhwZQ.jpg

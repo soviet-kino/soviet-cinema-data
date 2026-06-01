@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q4128479
   imdb: tt0337388
+  tmdb: 838195
 sources:
 - https://www.wikidata.org/wiki/Q4128479
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - mosfilm
 cast:
 - person: raykin-arkadiy-isaakovich
+poster_tmdb_path: /9ln90QClZBDLcGYS48mRD3UZ51S.jpg

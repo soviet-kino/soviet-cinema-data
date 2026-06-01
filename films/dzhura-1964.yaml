@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q30887635
   imdb: tt11527474
+  tmdb: 535040
 sources:
 - https://www.wikidata.org/wiki/Q30887635
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tursunbaev-nurkan
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /3625bxs3GZCb2Y18D6EgbTxj9UQ.jpg
+backdrop_tmdb_path: /siYum2AlmEZbvm2IvUWn6JUmFkc.jpg

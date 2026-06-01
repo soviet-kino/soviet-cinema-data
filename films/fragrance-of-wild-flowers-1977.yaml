@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q12755532
   imdb: tt0079171
+  tmdb: 46801
 sources:
 - https://www.wikidata.org/wiki/Q12755532
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: miodrag-radovanovich
 - person: petrovik-chedomir
 - person: blaskovic-mirjana
+poster_tmdb_path: /lhcUxOVDunNo08aIhXIrykuqxrj.jpg
+backdrop_tmdb_path: /dyTU01Duqza1BwawXSfRIuogGDf.jpg

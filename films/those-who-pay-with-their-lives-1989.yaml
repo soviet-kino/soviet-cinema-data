@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q21647201
   imdb: tt0101557
+  tmdb: 341266
 sources:
 - https://www.wikidata.org/wiki/Q21647201
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: pintea-adrian
 - person: yuresh-marchel
 - person: iordake-shtefan
+poster_tmdb_path: /cmJPCNfVJ8wmUiGJm1UtDK5pIRn.jpg

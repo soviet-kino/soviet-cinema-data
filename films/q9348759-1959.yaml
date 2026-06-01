@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9348759
   imdb: tt0053324
+  tmdb: 747624
 sources:
 - https://www.wikidata.org/wiki/Q9348759
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: teresa-shmigelyuvna
 - person: buyno-oza-halina
 - person: khronitskiy-adolf
+poster_tmdb_path: /ktibE2hauD7ZCfGFJottOm3MTRl.jpg

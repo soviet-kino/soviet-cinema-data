@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q973480
   imdb: tt0057525
+  tmdb: 69354
 sources:
 - https://www.wikidata.org/wiki/Q973480
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: gjurin-velemir
 - person: florjanc-blanka
 - person: mele-martin
+poster_tmdb_path: /hG0i1ZoxZ6nSxSlkSypFsbJOllL.jpg
+backdrop_tmdb_path: /mQz7gSihwf6tnwDSG7eOevU2dck.jpg

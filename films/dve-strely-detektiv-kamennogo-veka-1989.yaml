@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155647
   imdb: tt0097249
   youtube: fr-KJOymhAQ
+  tmdb: 221837
 sources:
 - https://www.wikidata.org/wiki/Q4155647
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: yarmolnik-leonid-isaakovich
 studio:
 - mosfilm
+poster_tmdb_path: /s4uUEQ60QcxLS2JwhSBB5wlmt1c.jpg
+backdrop_tmdb_path: /tWTlorIdi0FUr9O8H1hRMswXUYL.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q113130842
   imdb: tt0247808
+  tmdb: 270733
 sources:
 - https://www.wikidata.org/wiki/Q113130842
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 - person: ruzek-evzen
 studio:
 - barrandov
+poster_tmdb_path: /xSaSU1WY1cTrzMB98kn5ov0oXfz.jpg

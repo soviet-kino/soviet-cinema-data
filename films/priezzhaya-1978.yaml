@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378185
   imdb: tt0076568
   youtube: LDhszLF8pd8
+  tmdb: 409724
 sources:
 - https://www.wikidata.org/wiki/Q4378185
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: prokhorenko-zhanna-trofimovna
 studio:
 - mosfilm
+poster_tmdb_path: /wZwQ6rUofjduIdNLQdCC0CGcs2j.jpg
+backdrop_tmdb_path: /28nVqrzZP5V0McMkgIdlSu0F4OK.jpg

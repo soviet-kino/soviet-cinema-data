@@ -8,6 +8,7 @@ runtime_min: 154
 external_ids:
   wikidata: Q119873459
   imdb: tt0272714
+  tmdb: 611361
 sources:
 - https://www.wikidata.org/wiki/Q119873459
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: tenin-boris-mikhaylovich
 - person: trushina-tamara-vasilevna
 - person: fadeeva-elena-alekseevna
+poster_tmdb_path: /tkiCHpdgF52mCbcMGnngbOxU0TP.jpg
+backdrop_tmdb_path: /nBMUSmCZxHZtDkBQLuEw3JKT4bJ.jpg

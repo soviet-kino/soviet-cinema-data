@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q24041160
   imdb: tt0016570
+  tmdb: 363868
 sources:
 - https://www.wikidata.org/wiki/Q24041160
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - mikhin-boris-aleksandrovich
 studio:
 - goskino
+poster_tmdb_path: /v0PQjTX6BVFvQSwlx8aKicr1mzD.jpg

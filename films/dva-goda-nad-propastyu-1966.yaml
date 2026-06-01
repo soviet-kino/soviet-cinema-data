@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155572
   imdb: tt0172376
   youtube: 7h550pKxdLM
+  tmdb: 315353
 sources:
 - https://www.wikidata.org/wiki/Q4155572
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: krupennikova-ekaterina-evgenevna
 - person: sergeychikova-silviya
 - person: barmin-nikolay-mikhaylovich
+poster_tmdb_path: /nqYpg4tRUkc23Si3Usb7TKJMH3j.jpg
+backdrop_tmdb_path: /9l5lxpSl1q8FDoWZIlpJ9MywRWN.jpg

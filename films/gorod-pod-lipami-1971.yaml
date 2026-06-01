@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4144894
   imdb: tt0370608
+  tmdb: 636787
 sources:
 - https://www.wikidata.org/wiki/Q4144894
 schema_version: 1
@@ -17,3 +18,4 @@ studio:
 cast:
 - person: vyacheslav-anatolevich-shalevich
 - person: yakovlev-girt-aleksandrovich
+poster_tmdb_path: /h150i71JWTboJ8rieqmzB2wP8F9.jpg

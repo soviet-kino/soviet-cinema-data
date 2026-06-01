@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q29159013
   imdb: tt0037646
   youtube: d8LsF0-MRaI
+  tmdb: 409762
 sources:
 - https://www.wikidata.org/wiki/Q29159013
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: geraga-pavel-iosifovich
 studio:
 - mosfilm
+poster_tmdb_path: /v9a8GR7e7QfFJ29mcmaNevji4OP.jpg

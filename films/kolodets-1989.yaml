@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4228156
   imdb: tt0239302
+  tmdb: 728190
 sources:
 - https://www.wikidata.org/wiki/Q4228156
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - charkviani-pavle-konstantinovich
 screenwriter:
 - charkviani-pavle-konstantinovich
+poster_tmdb_path: /mUQ1dfR0jxLvZuYwbTG8hW1J9yR.jpg
+backdrop_tmdb_path: /95zcnTz9BPkfXHLRg8UGjMoVd0F.jpg

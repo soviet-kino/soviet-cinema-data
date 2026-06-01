@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q117213359
   imdb: tt0044805
+  tmdb: 1694698
 sources:
 - https://www.wikidata.org/wiki/Q117213359
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - ivanovskiy-aleksandr-viktorovich
 studio:
 - lenfilm
+poster_tmdb_path: /7NBHEGvV1bwQUAg3FFvlC06eeSF.jpg

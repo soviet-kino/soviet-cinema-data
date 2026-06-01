@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q169428
   imdb: tt0314950
+  tmdb: 532397
 sources:
 - https://www.wikidata.org/wiki/Q169428
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: blinnikov-sergey-kapitonovich
 - person: sokolov-stanislav-aleksandrovich
 - person: urgant-nina-nikolaevna
+poster_tmdb_path: /m3EQZSYwyzobIkHGK6L06RR8oi9.jpg

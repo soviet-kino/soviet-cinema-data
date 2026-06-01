@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9351227
   imdb: tt0209396
+  tmdb: 253519
 sources:
 - https://www.wikidata.org/wiki/Q9351227
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - starskiy-lyudvik
 composer:
 - petersburskiy-ezhi
+poster_tmdb_path: /xgWI50k5KZtwSSq0AWlwKezgC6c.jpg

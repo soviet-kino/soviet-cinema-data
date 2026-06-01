@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270456
   imdb: tt0147815
   youtube: QxCGJ-UfPJo
+  tmdb: 598687
 sources:
 - https://www.wikidata.org/wiki/Q15270456
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: merzlikin-nikolay-ivanovich
 - person: naum-natalya-mikhaylovna
 - person: shevchuk-irina-borisovna
+poster_tmdb_path: /dy4T0srYGkocTbG8zEvKjdDRtmm.jpg
+backdrop_tmdb_path: /y2rpHAeMbRxwIigTnoRdCB5g8f2.jpg

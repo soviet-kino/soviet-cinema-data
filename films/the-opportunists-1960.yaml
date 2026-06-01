@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q3212122
   imdb: tt0054410
+  tmdb: 286912
 sources:
 - https://www.wikidata.org/wiki/Q3212122
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: paskal-zhan-klod
 - person: robinson-madlen
 - person: gansar-klara
+poster_tmdb_path: /jjLwUmgvp1i5SBqeYx97vdo3HS1.jpg

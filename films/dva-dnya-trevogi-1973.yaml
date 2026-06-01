@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25395744
   imdb: tt0070010
+  tmdb: 636763
 sources:
 - https://www.wikidata.org/wiki/Q25395744
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - kataev-ilya-evgenevich
 studio:
 - mosfilm
+poster_tmdb_path: /fDbkg6IKYGuQeo2aEo8hBZTFvJM.jpg

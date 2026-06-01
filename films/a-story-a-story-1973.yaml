@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q123288911
   imdb: tt1353934
+  tmdb: 644944
 sources:
 - https://www.wikidata.org/wiki/Q123288911
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - strakon-emil
 composer:
 - kubitsa-vatslav
+poster_tmdb_path: /oS5felupqDsJK9MrNmekGZpxIlS.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55497476
   imdb: tt0452430
+  tmdb: 1420669
 sources:
 - https://www.wikidata.org/wiki/Q55497476
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - tuganov-elbert-azgireevich
 studio:
 - tallinfilm
+poster_tmdb_path: /lPC3riTL6bTuZyGSDxMSxbAaBd2.jpg
+backdrop_tmdb_path: /uaCUhu3nFnUpexbzqrPCycIfsU4.jpg

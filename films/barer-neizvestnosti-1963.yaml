@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q4078905
   imdb: tt0312428
+  tmdb: 344919
 sources:
 - https://www.wikidata.org/wiki/Q4078905
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - lenfilm
 cast:
 - person: vyacheslav-anatolevich-shalevich
+poster_tmdb_path: /p9Otmcuh6s2X1KOQvqBfoFgIYpJ.jpg
+backdrop_tmdb_path: /1FFPX6auLZbgcdbZwgOhcugt86M.jpg

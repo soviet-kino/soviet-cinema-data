@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q16039527
   imdb: tt0250247
+  tmdb: 368492
 sources:
 - https://www.wikidata.org/wiki/Q16039527
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: lazansky-hynek
 - person: tajcova-marie
 - person: ruzicka-rudolf
+poster_tmdb_path: /3DeV7iqfskQ97DQ3rsDZOTNWiDh.jpg
+backdrop_tmdb_path: /aKwu8ozo8ll1wPd7HgE1rZoD4BI.jpg

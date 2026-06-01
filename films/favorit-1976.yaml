@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4480388
   imdb: tt2064769
   youtube: -6Lce_k5Nu4
+  tmdb: 143103
 sources:
 - https://www.wikidata.org/wiki/Q4480388
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: karka-gediminas
 - person: litsitis-arnis
+poster_tmdb_path: /3EsPrpFh6x7wdQPRJBsbvhCkxCx.jpg

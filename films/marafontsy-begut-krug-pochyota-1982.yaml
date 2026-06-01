@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q432943
   imdb: tt0084302
+  tmdb: 29450
 sources:
 - https://www.wikidata.org/wiki/Q432943
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: mandich-velko
 - person: milosavljevic-dragoljub-gula
 - person: micovic-vojislav
+poster_tmdb_path: /areHIloTHM5Es8hD4DgQgsjRhr9.jpg
+backdrop_tmdb_path: /pxr3jWnyCkT1PbB1uHdCUxLYy6M.jpg

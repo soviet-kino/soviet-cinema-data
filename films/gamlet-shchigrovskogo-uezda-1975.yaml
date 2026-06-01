@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200690
   imdb: tt0073030
+  tmdb: 1485021
 sources:
 - https://www.wikidata.org/wiki/Q65200690
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - rubinchik-valeriy-davidovich
 studio:
 - belarusfilm
+poster_tmdb_path: /qQIbfMT9ThLuHOg9NJoHSJcByXQ.jpg
+backdrop_tmdb_path: /nGX1LnxhqcPfWz4V9vE52tn1nZR.jpg

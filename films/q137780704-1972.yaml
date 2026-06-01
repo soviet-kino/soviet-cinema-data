@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q137780704
   imdb: tt0260788
+  tmdb: 512226
 sources:
 - https://www.wikidata.org/wiki/Q137780704
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: buskova-olga
 - person: sladek-jiri
 - person: klimes-vladimir
+poster_tmdb_path: /nhPTZXIHQrYG9mr5gcGFg7ULysW.jpg

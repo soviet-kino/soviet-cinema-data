@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25395878
   imdb: tt3085970
+  tmdb: 817927
 sources:
 - https://www.wikidata.org/wiki/Q25395878
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: romashin-anatoliy-vladimirovich
 - person: smirnov-boris-aleksandrovich
 - person: sabirov-rafik-abdulvyadutovich
+poster_tmdb_path: /xZkxJyf1x5Vv38Ng7kV1YxKwgfn.jpg

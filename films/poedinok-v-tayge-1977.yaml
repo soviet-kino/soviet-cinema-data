@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16389832
   imdb: tt0076552
   youtube: fYM6AtHltC0
+  tmdb: 536540
 sources:
 - https://www.wikidata.org/wiki/Q16389832
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: gordeev-viktor-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /rAZsjJsZNDzy2SYI1EO2H5DICEq.jpg

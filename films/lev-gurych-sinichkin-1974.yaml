@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4256151
   imdb: tt0071749
   youtube: RlYDwoEb4PU
+  tmdb: 223213
 sources:
 - https://www.wikidata.org/wiki/Q4256151
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: trofimov-nikolay-nikolaevich
 studio:
 - ekran
+poster_tmdb_path: /mMqWAbED7bf99x1nprxVvT46nPt.jpg

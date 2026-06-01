@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q11816975
   imdb: tt0052071
+  tmdb: 285630
 sources:
 - https://www.wikidata.org/wiki/Q11816975
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: hrydzewicz-andrzej
 - person: adamczak-jerzy
 poster_commons: Barbara Modelska – Pigułki dla Aurelii 1959.jpg
+poster_tmdb_path: /xFT1hK3Kgcgs4G37HjtcUn5jLLw.jpg
+backdrop_tmdb_path: /u29tnr7Pg4sDatdN67suvJsDfhh.jpg

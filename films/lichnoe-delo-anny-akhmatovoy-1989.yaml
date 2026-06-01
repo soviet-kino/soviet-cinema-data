@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q20083395
   imdb: tt0097743
+  tmdb: 275252
 sources:
 - https://www.wikidata.org/wiki/Q20083395
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - myulgaut-valeriy-valentinovich
 studio:
 - lenfilm
+poster_tmdb_path: /wzRxUskS8pgqpsqPb0YXjsrJajd.jpg

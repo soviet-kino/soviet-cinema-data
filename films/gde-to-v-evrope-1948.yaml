@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q655099
   imdb: tt0039949
+  tmdb: 111650
 sources:
 - https://www.wikidata.org/wiki/Q655099
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: bardi-zhurzh
 - person: gabor-miklosh
 - person: shomlai-artur
+poster_tmdb_path: /jyIsZ01shi1GyqGld8O6p08TMRV.jpg
+backdrop_tmdb_path: /zN7hfVeKMHMk4IavPFmGilvaRv4.jpg

@@ -8,6 +8,7 @@ runtime_min: 5
 external_ids:
   wikidata: Q3997406
   imdb: tt0167464
+  tmdb: 49112
 sources:
 - https://www.wikidata.org/wiki/Q3997406
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: brashka-ezhi
 - person: q125295927
+poster_tmdb_path: /9iJkiJMeWizlIuRTk2UbsoblcaH.jpg
+backdrop_tmdb_path: /w3lWkOl59ybKRFjgzoX0eXGUYMK.jpg

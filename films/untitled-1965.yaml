@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q122661844
   imdb: tt2051828
+  tmdb: 154815
 sources:
 - https://www.wikidata.org/wiki/Q122661844
 schema_version: 1
 director:
 - borivoy-dovnikovich
+poster_tmdb_path: /c4ypI4ZST1k9DACuszVn5ct81NA.jpg

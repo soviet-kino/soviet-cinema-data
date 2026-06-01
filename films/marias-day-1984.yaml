@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1212206
   imdb: tt0085902
+  tmdb: 390010
 sources:
 - https://www.wikidata.org/wiki/Q1212206
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: kovach-layosh-nemsh
 - person: kovach-layosh
 - person: sabo-shandor
+poster_tmdb_path: /f5ES4Pg53l8G36RhQOG5jmOMEEd.jpg

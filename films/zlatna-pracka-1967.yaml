@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q207189
   imdb: tt0181185
+  tmdb: 385236
 sources:
 - https://www.wikidata.org/wiki/Q207189
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: milenkovic-zivojin
 - person: dobrichanin-dragutin
 - person: aleksandr-stoykovich
+poster_tmdb_path: /24VzUuHCAqek9QRm5Axjl2ZLJOA.jpg

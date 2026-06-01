@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q54989
   imdb: tt0064912
+  tmdb: 302209
 sources:
 - https://www.wikidata.org/wiki/Q54989
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 studio:
 - rytm-kinostudiya
 poster_commons: Aleksandra Zawieruszanka.JPG
+poster_tmdb_path: /10ToqzUyqrj0iu16YqSeBXKKEI9.jpg
+backdrop_tmdb_path: /eln7OT4eWsiQkKOIhBKLIQ9f2Id.jpg

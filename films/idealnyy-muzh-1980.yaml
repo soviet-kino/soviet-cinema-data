@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4197862
   imdb: tt0080912
   youtube: hCayZ7mCwfQ
+  tmdb: 311022
 sources:
 - https://www.wikidata.org/wiki/Q4197862
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: filozov-albert-leonidovich
 studio:
 - mosfilm
+poster_tmdb_path: /6Sm1iQboQ4mvFkTMg8mzE6xXaoy.jpg
+backdrop_tmdb_path: /xvt8r8ProOamWFHLr7jTFpoxpAW.jpg

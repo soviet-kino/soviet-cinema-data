@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q3566341
   imdb: tt0782135
+  tmdb: 131422
 sources:
 - https://www.wikidata.org/wiki/Q3566341
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: vostrchil-yan
 - person: dostalova-leopolda
 - person: rehakova-stepanka
+poster_tmdb_path: /kCUFgwAIO8PkRNtQXOG7DombHyK.jpg
+backdrop_tmdb_path: /2s3RI6sKh4QMdqxN3poeHjG96Ke.jpg

@@ -8,8 +8,10 @@ runtime_min: 10
 external_ids:
   wikidata: Q4339371
   imdb: tt0781052
+  tmdb: 90533
 sources:
 - https://www.wikidata.org/wiki/Q4339371
 schema_version: 1
 studio:
 - gruziya-film
+poster_tmdb_path: /mJUwdLWtCgwoFM8MU8hFdFyHRcg.jpg

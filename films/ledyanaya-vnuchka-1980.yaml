@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q282535
   imdb: tt0230453
   youtube: kuLboP_-QL8
+  tmdb: 14487
 sources:
 - https://www.wikidata.org/wiki/Q282535
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - chaykovskiy-pyotr-ilich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /8gkqKWndkSCoUbm4hjNm2HrHkVI.jpg
+backdrop_tmdb_path: /rCnaIwroDPwAH3g6vDXc0U4yHhz.jpg

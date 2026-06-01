@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4152000
   imdb: tt0235447
   youtube: cFA75y73bac
+  tmdb: 1226776
 sources:
 - https://www.wikidata.org/wiki/Q4152000
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: dolzhenkov-valeriy-mikhaylovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /xZ6ZIESqRlZ4Pvb6fBG7o10y6Vy.jpg
+backdrop_tmdb_path: /sFXnQvqEL51o0w3V43CgQqkhTm4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4192479
   imdb: tt0316624
   youtube: 5wD5peCQvis
+  tmdb: 148604
 sources:
 - https://www.wikidata.org/wiki/Q4192479
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 poster_commons: Der boese Geist vom Jambuj.jpeg
 cast:
 - person: zaborovskiy-yuriy-nikolaevich
+poster_tmdb_path: /9z7fGvuxjjfV75IFJ1ZcmZ3tach.jpg
+backdrop_tmdb_path: /kCRNYKpdKwnsvLED46Ypatv6Mhh.jpg

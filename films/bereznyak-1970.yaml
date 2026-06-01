@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q406290
   imdb: tt0068321
+  tmdb: 42539
 sources:
 - https://www.wikidata.org/wiki/Q406290
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: vodynskaya-danuta
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /nZWaiNDaY6fWUh8KE9nCKFQXQ00.jpg
+backdrop_tmdb_path: /m1IsEhhaG3mPPi2RHoLQ6avw90x.jpg

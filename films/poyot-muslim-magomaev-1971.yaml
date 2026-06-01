@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16414298
   imdb: tt6023952
+  tmdb: 713180
 sources:
 - https://www.wikidata.org/wiki/Q16414298
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: shikhlinskaya-leyla-farrukh-kyzy
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /33VH5QJAJ2mn9cwW9vlFTUqdHrW.jpg
+backdrop_tmdb_path: /f3mEUi4HhmS7nIUaMzaNomnT3Sx.jpg

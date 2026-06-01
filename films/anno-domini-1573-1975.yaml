@@ -8,6 +8,7 @@ runtime_min: 163
 external_ids:
   wikidata: Q3506242
   imdb: tt0070663
+  tmdb: 268122
 sources:
 - https://www.wikidata.org/wiki/Q3506242
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: rozman-loyze
 studio:
 - yadran-film
+poster_tmdb_path: /jNFTWDtuYof4KLLR1efqfXnfdHJ.jpg
+backdrop_tmdb_path: /f6c3KT0zBHS1inCOqDIwAJTi9Bk.jpg

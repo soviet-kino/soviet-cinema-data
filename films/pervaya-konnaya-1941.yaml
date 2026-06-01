@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4348933
   imdb: tt1605753
   youtube: jwaWE8NlV-I
+  tmdb: 69831
 sources:
 - https://www.wikidata.org/wiki/Q4348933
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - kryukov-nikolay-nikolaevich-2
 studio:
 - mosfilm
+poster_tmdb_path: /jTfoJuj9DVWHvBghK48zXNp3azl.jpg
+backdrop_tmdb_path: /iC1QGRtobZc9URBpNXtrX0gYVyQ.jpg

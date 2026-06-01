@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q535628
   imdb: tt0053250
+  tmdb: 17938
 sources:
 - https://www.wikidata.org/wiki/Q535628
 schema_version: 1
@@ -43,3 +44,5 @@ studio:
 - defa
 - iluzjon
 - zespo-y-filmowe
+poster_tmdb_path: /9qJDi7PCLlNJTeXUPa44Nc146OT.jpg
+backdrop_tmdb_path: /A1S23XMWNbDw8gjtGSPkipDjYml.jpg

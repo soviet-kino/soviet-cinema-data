@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4069628
   imdb: tt0312381
+  tmdb: 65667
 sources:
 - https://www.wikidata.org/wiki/Q4069628
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - rizhskaya-kinostudiya
 cast:
 - person: tsilinskiy-gunar-alfredovich
+poster_tmdb_path: /w7j6kOgDWLnk5ELKIlMVcJXZjYG.jpg
+backdrop_tmdb_path: /fcPsGROjqb9VQ2dDhDMB6LRO6fF.jpg

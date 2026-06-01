@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4503399
   imdb: tt12044328
   youtube: BPu3K23cJLY
+  tmdb: 581457
 sources:
 - https://www.wikidata.org/wiki/Q4503399
 schema_version: 1
@@ -19,3 +20,4 @@ studio:
 - ekran
 cast:
 - person: neyolova-marina-mstislavovna
+poster_tmdb_path: /deI3VLv4IW8s02XjD9oYIyO17M7.jpg

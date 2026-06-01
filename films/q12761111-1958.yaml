@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q12761111
   imdb: tt0051498
+  tmdb: 268495
 sources:
 - https://www.wikidata.org/wiki/Q12761111
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: viktorovic-mihajlo
 - person: ajvaz-milan
 - person: jelisic-or-e
+poster_tmdb_path: /5ksWmV0YL4VVRO3ezdVBmJwlrG6.jpg
+backdrop_tmdb_path: /bpzXq8EafgktZSmysrZifUx9Z99.jpg

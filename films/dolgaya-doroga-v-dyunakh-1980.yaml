@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4164437
   imdb: tt0174599
   youtube: 5M56g-QPZTI
+  tmdb: 285411
 sources:
 - https://www.wikidata.org/wiki/Q4164437
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: kalnynsh-khelmut
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /aI91wr6RWkcWJeHOgiCvsOtl0ig.jpg

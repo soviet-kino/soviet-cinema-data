@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18543828
   imdb: tt0155589
+  tmdb: 465052
 sources:
 - https://www.wikidata.org/wiki/Q18543828
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: kotesku-oktavian
 - person: lavric-paul
 - person: chuperchesku-kornel
+poster_tmdb_path: /jJzPdbTfySc4K8VAe2HWcd6Q3fl.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q11727091
   imdb: tt0080953
+  tmdb: 919596
 sources:
 - https://www.wikidata.org/wiki/Q11727091
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: lodynskiy-yuzef
 studio:
 - q110427551
+poster_tmdb_path: /CQaJWjaOppZAYAMdbDi6JqogGj.jpg

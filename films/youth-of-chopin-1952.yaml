@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q8059326
   imdb: tt0044911
+  tmdb: 204293
 sources:
 - https://www.wikidata.org/wiki/Q8059326
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: tsiprian-adam
 - person: burzynski-zenon
 - person: jamry-franciszek
+poster_tmdb_path: /osm8eLsylELI38n7aMZspUQrAYf.jpg
+backdrop_tmdb_path: /xtMHErNLOFAOpoytbBsoynIJIV6.jpg

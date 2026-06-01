@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q63027839
   imdb: tt0092649
   youtube: Q5oLN-l27jM
+  tmdb: 576414
 sources:
 - https://www.wikidata.org/wiki/Q63027839
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: steklov-vladimir-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /f5kAqXOuYdYCmkRsJf3lyW8rKMa.jpg
+backdrop_tmdb_path: /wQeWDGWLGvdvAuX3lp9qlzSBjuY.jpg

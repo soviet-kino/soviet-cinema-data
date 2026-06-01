@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q122661780
   imdb: tt0175339
+  tmdb: 148624
 sources:
 - https://www.wikidata.org/wiki/Q122661780
 schema_version: 1
 director:
 - shlesitskiy-vladislav
+poster_tmdb_path: /4Pe4Vwcph7jYb0Guc9bcNdQilFi.jpg
+backdrop_tmdb_path: /rrz8kZHwnltyKVgiONTa3B4bxx7.jpg

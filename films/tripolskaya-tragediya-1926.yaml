@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20203171
   imdb: tt13287988
+  tmdb: 1464411
 sources:
 - https://www.wikidata.org/wiki/Q20203171
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: bezgin-boris-afanasevich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /g85pudHbIcWja6kbEZyU1Zk6ZrZ.jpg

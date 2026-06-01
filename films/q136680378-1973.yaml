@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q136680378
   imdb: tt0403206
+  tmdb: 5597
 sources:
 - https://www.wikidata.org/wiki/Q136680378
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: tarelkin-lotar
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /l3fWUHHOc3xrNae3bx8jeBItcfL.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156476
   imdb: tt0027522
   youtube: G9JLPi974SM
+  tmdb: 601791
 sources:
 - https://www.wikidata.org/wiki/Q4156476
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - belarusfilm
 poster_commons: Ru-dev-podr-zheny.png
+poster_tmdb_path: /8SidJVkuHcx2QMVmwvgsfUwjkza.jpg
+backdrop_tmdb_path: /8He7HAZG2CwRuB8B0Bgm3ptccos.jpg

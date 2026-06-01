@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4129654
   imdb: tt0314861
   youtube: Nt227ingq8g
+  tmdb: 512938
 sources:
 - https://www.wikidata.org/wiki/Q4129654
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 - mosfilm
 cast:
 - person: pyreva-lionella-ivanovna
+poster_tmdb_path: /rGdSE6cik7SYGw7r8yuOFiIAtJE.jpg

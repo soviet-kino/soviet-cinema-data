@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q56840223
   imdb: tt0428025
+  tmdb: 152232
 sources:
 - https://www.wikidata.org/wiki/Q56840223
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - lishka-zdenek
 studio:
 - kinostudiya-gotvaldova
+poster_tmdb_path: /cBIoY9QXkEmplJKTMRPQJETAdOA.jpg

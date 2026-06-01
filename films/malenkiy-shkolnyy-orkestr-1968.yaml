@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q56364140
   imdb: tt5074714
+  tmdb: 836508
 sources:
 - https://www.wikidata.org/wiki/Q56364140
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - tariverdiev-mikael
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /yM7h9skL5UwCxkUlrLiWRA6OnAs.jpg
+backdrop_tmdb_path: /nAH3KVrD34hxQrPgfSDO1YY6TKB.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q21646196
   imdb: tt0104247
+  tmdb: 290902
 sources:
 - https://www.wikidata.org/wiki/Q21646196
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - rozha-yanush
 cast:
 - person: khaydu-sabolch
+poster_tmdb_path: /inr0oDF9DljnCxqgirqhJr2rD0z.jpg

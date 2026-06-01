@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4240259
   imdb: tt0168031
   youtube: bXTrmcgqWik
+  tmdb: 142883
 sources:
 - https://www.wikidata.org/wiki/Q4240259
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: leonov-evgeniy-pavlovich
 - person: syomina-tamara-petrovna
 - person: yurskiy-sergey-yurevich
+poster_tmdb_path: /8ZeTrL5lBGGrptnjMS7OSb7Kzph.jpg
+backdrop_tmdb_path: /ii3Gtrw9EfW03Q5flW3j4SwguEU.jpg

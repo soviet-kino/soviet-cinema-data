@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1305220
   imdb: tt0078297
+  tmdb: 289296
 sources:
 - https://www.wikidata.org/wiki/Q1305220
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: lyubosh-ute
 - person: shmitt-valfride
 - person: noyenkhan-villi
+poster_tmdb_path: /p3CCwWDxjnsB8mbSsX8fVpKSCie.jpg

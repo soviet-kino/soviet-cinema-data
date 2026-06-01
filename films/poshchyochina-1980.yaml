@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4375665
   imdb: tt0189940
   youtube: kViCr1b7XFg
+  tmdb: 453723
 sources:
 - https://www.wikidata.org/wiki/Q4375665
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: dzhagatspanyan-avetik
 studio:
 - armenfilm
+poster_tmdb_path: /nc21xCqJi6TxERua6I2X2LxK3Qh.jpg
+backdrop_tmdb_path: /hn4zttk9I2qPGFyQDURkScUZYj2.jpg

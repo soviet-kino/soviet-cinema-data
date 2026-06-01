@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4113048
   imdb: tt0042671
+  tmdb: 478718
 sources:
 - https://www.wikidata.org/wiki/Q4113048
 schema_version: 1
@@ -29,3 +30,4 @@ composer:
 - khachaturyan-aram
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
+poster_tmdb_path: /wVEQRqgRQL8nijFQKqkgDaKTnRx.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12728587
   imdb: tt0126310
+  tmdb: 1001231
 sources:
 - https://www.wikidata.org/wiki/Q12728587
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: bogdan-stanoevich
 - person: teodosiyu-valentin
 - person: velnichuk-stefan
+poster_tmdb_path: /nOIWo5XTZF4vcwez561q5NoEVlQ.jpg

@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q4204119
   imdb: tt6679578
+  tmdb: 530909
 sources:
 - https://www.wikidata.org/wiki/Q4204119
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 studio:
 - azerbaydzhanfilm
 poster_commons: Исмет.jpg
+poster_tmdb_path: /1N35v00VPfeJHulmxYg89kvRVIJ.jpg

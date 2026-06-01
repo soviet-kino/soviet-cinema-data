@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1000174
   imdb: tt0131068
+  tmdb: 372171
 sources:
 - https://www.wikidata.org/wiki/Q1000174
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: minetti-khans-peter
 - person: henker-paul-r
 - person: krasnodembskaya-eva
+poster_tmdb_path: /b8g57NkrXDMn6uev9jsyDRB5mx4.jpg

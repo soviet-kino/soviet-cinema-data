@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q18425937
   imdb: tt0130054
   youtube: 71l8KUoMYz0
+  tmdb: 646687
 sources:
 - https://www.wikidata.org/wiki/Q18425937
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 studio:
 - sovkino
 poster_commons: Плакат к фильму «Каин и Артём» (художник Воронов).jpg
+poster_tmdb_path: /4MUJVrcBVT64txe3pzJPqU9dQef.jpg
+backdrop_tmdb_path: /bvq4CvoBiisA1JfFSF1HYOTORme.jpg

@@ -8,6 +8,7 @@ runtime_min: 290
 external_ids:
   wikidata: Q15270966
   imdb: tt1332583
+  tmdb: 281643
 sources:
 - https://www.wikidata.org/wiki/Q15270966
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - petrov-anatoliy-alekseevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /wSZ3cJZ8wEQcMry57SPVJddRnPP.jpg

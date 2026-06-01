@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q123995859
   imdb: tt4719408
+  tmdb: 726680
 sources:
 - https://www.wikidata.org/wiki/Q123995859
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - lapinskiy-yakov-naumovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gXviepcdgfWw8ZOEenFft49hoOR.jpg
+backdrop_tmdb_path: /i8FGmulYkWFqGHc9Rd6UGiXrZGL.jpg

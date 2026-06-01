@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4201000
   imdb: tt0129166
   youtube: RTkICiusyRY
+  tmdb: 890455
 sources:
 - https://www.wikidata.org/wiki/Q4201000
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: perevalov-viktor-porfirovich
 - person: shuranova-antonina-nikolaevna
 - person: egorov-gennadiy
+poster_tmdb_path: /687XP9DzK3troDsIiS1LQufihfv.jpg

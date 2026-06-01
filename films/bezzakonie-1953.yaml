@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q97176463
   imdb: tt4164348
+  tmdb: 626075
 sources:
 - https://www.wikidata.org/wiki/Q97176463
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: yanshin-mikhail-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /jzkQ9DJ3tCSnEn2lXhpKTwy5bXY.jpg

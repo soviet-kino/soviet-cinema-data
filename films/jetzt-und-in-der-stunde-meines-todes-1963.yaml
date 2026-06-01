@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q23564453
   imdb: tt0057198
+  tmdb: 411247
 sources:
 - https://www.wikidata.org/wiki/Q23564453
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - honicke-siegfried
 composer:
 - hauk-gunter
+poster_tmdb_path: /zVlEKn626bpH8WSP4FDW4mBK7gy.jpg

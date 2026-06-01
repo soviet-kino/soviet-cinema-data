@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65203381
   imdb: tt0286456
   youtube: xl4a9LozJ8I
+  tmdb: 896092
 sources:
 - https://www.wikidata.org/wiki/Q65203381
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - shut-vladislav-alekseevich
 studio:
 - mosfilm
+poster_tmdb_path: /hga2Pt6jhojuo7k78xmYEoPvp5y.jpg

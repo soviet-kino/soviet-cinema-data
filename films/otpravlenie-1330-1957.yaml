@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12016700
   imdb: tt0050401
+  tmdb: 63592
 sources:
 - https://www.wikidata.org/wiki/Q12016700
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: filipova-pistekova-vera
 studio:
 - barrandov
+poster_tmdb_path: /ylBPiag5RZ1rp3Rm3At6qXnT1b2.jpg

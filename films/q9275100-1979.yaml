@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q9275100
   imdb: tt0295463
+  tmdb: 463121
 sources:
 - https://www.wikidata.org/wiki/Q9275100
 schema_version: 1
 director:
 - khakani-khisen
+poster_tmdb_path: /uEbPphat2phych6zh8q6Biep5zS.jpg
+backdrop_tmdb_path: /lXfbh1zmekWh76nb6RT0MZKJxeR.jpg

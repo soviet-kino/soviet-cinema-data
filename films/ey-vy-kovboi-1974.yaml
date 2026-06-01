@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131908563
   imdb: tt7238912
+  tmdb: 1493391
 sources:
 - https://www.wikidata.org/wiki/Q131908563
 schema_version: 1
@@ -19,3 +20,4 @@ studio:
 cast:
 - person: q12555522
 - person: bayseitov-kanabek
+poster_tmdb_path: /2tenvz8xwOkKVHaKvbhQ3Aov199.jpg

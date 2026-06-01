@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q122853376
   imdb: tt0144111
+  tmdb: 531453
 sources:
 - https://www.wikidata.org/wiki/Q122853376
 schema_version: 1
 director:
 - ershov-mikhail-ivanovich
+poster_tmdb_path: /r5eakyinkq7RKGHwsxJvyTmy7xB.jpg
+backdrop_tmdb_path: /lgQDzDEtb1yK1ML5jANQH1YM6Ti.jpg

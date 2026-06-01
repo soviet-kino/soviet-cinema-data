@@ -8,6 +8,7 @@ runtime_min: 648
 external_ids:
   wikidata: Q15545293
   imdb: tt2658200
+  tmdb: 432213
 sources:
 - https://www.wikidata.org/wiki/Q15545293
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - spadavekkia-antonio-emmanuilovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /paAKcQdxgTpJPGucvUrem3tNWpl.jpg

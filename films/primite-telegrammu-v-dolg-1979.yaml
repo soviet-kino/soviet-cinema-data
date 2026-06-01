@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378660
   imdb: tt0146055
   youtube: HmFoJ0BHZLU
+  tmdb: 469191
 sources:
 - https://www.wikidata.org/wiki/Q4378660
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: poplavskaya-yana-evgenevna
 studio:
 - belarusfilm
+poster_tmdb_path: /2S0A60HDlsBVst21fAw5kGN0V9E.jpg
+backdrop_tmdb_path: /kIrJRzJcgdBguPa1O3SRCFvgGwF.jpg

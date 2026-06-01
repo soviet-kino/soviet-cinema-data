@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4379300
   imdb: tt0130195
   youtube: MfhWlxWWDNM
+  tmdb: 63291
 sources:
 - https://www.wikidata.org/wiki/Q4379300
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: savinova-ekaterina-fyodorovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /pLhlcSjx6ortk4wgekGPzyjQLkn.jpg
+backdrop_tmdb_path: /rNKXb2cWe89klZZH9T7hXKKhl2g.jpg

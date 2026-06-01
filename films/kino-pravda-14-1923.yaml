@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134529245
   imdb: tt0953459
+  tmdb: 462750
 sources:
 - https://www.wikidata.org/wiki/Q134529245
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - vertov-dziga
 studio:
 - goskino
+poster_tmdb_path: /5uNcxru97kFVvp8qSAYKSAlplFc.jpg
+backdrop_tmdb_path: /6jkfJ8JWgLBFsh9ZfrrvnnG0CQg.jpg

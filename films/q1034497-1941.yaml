@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1034497
   imdb: tt0033695
+  tmdb: 432783
 sources:
 - https://www.wikidata.org/wiki/Q1034497
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - rathonyi-akos
 screenwriter:
 - rathonyi-akos
+poster_tmdb_path: /b3TGqGUOhdYD0wJP4EtdmXTx2la.jpg

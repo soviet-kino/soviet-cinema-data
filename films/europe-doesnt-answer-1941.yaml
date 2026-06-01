@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q26775807
   imdb: tt0033580
+  tmdb: 317004
 sources:
 - https://www.wikidata.org/wiki/Q26775807
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 cast:
 - person: tashnadi-mariya-fon
 poster_commons: Европа не одговарая tasnady 1941.jpg
+poster_tmdb_path: /qn03I0XT6xYbHJbNqoXe62LBXV7.jpg

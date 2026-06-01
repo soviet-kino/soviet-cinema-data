@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q97389835
   imdb: tt0247748
+  tmdb: 1008281
 sources:
 - https://www.wikidata.org/wiki/Q97389835
 schema_version: 1
@@ -74,3 +75,4 @@ cast:
 - person: mrkvicka-ladislav
 studio:
 - barrandov
+poster_tmdb_path: /6TPpUcxIflFHn6iXri1djsT9mNw.jpg

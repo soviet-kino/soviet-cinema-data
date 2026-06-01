@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4468268
   imdb: tt0174300
   youtube: 4qOu4a5ySc0
+  tmdb: 409896
 sources:
 - https://www.wikidata.org/wiki/Q4468268
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - mosfilm
 cast:
 - person: fedosova-nadezhda-kapitonovna
+poster_tmdb_path: /mFIFFDBf6YX15zMpUcPSQ9AGvfu.jpg
+backdrop_tmdb_path: /2ks10JIAB6u7oFHUT4LI3Yl2LRd.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12725769
   imdb: tt0126386
+  tmdb: 332752
 sources:
 - https://www.wikidata.org/wiki/Q12725769
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: flonda-virgil
 - person: neme-vlad
 - person: velnichuk-stefan
+poster_tmdb_path: /8lZhhdhd6D8s8FGLyHKclbHgfDa.jpg
+backdrop_tmdb_path: /97wTk7OpisxV1prg4Fe6vlCpBL0.jpg

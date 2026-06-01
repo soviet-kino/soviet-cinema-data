@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q136502711
   imdb: tt0240843
+  tmdb: 858002
 sources:
 - https://www.wikidata.org/wiki/Q136502711
 schema_version: 1
@@ -54,3 +55,4 @@ cast:
 - person: horak-rudolf
 - person: kofronova-dagmar
 - person: hubner-heinz
+poster_tmdb_path: /nkSKqpMmeGLEauKIuD4KhOFxmRM.jpg

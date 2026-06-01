@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q28705859
   imdb: tt5084498
   youtube: PdZW1XiNR5k
+  tmdb: 535870
 sources:
 - https://www.wikidata.org/wiki/Q28705859
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: leftiy-antonina-vladimirovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lN5y0Re3TYeNd0VFxzD4fkJiRaT.jpg

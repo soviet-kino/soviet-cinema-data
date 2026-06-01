@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q8079753
   imdb: tt0062786
   youtube: 16WyS5DnwuI
+  tmdb: 113891
 sources:
 - https://www.wikidata.org/wiki/Q8079753
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: vlasak-pavel
 - person: vlasakova
 - person: safranek-j
+poster_tmdb_path: /giBUcds5uc5kp8lCG3auDMXUMhz.jpg

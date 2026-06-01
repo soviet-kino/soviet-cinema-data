@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56260852
   imdb: tt0078433
+  tmdb: 399375
 sources:
 - https://www.wikidata.org/wiki/Q56260852
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - forgacs-otto
 composer:
 - lendvai-kamillo
+poster_tmdb_path: /kAtfYgIgExnMLFhcRtB3xVQFjzb.jpg
+backdrop_tmdb_path: /cH56nbelkfAOiwFL12aYuAHZyNr.jpg

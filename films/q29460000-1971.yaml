@@ -8,6 +8,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q29460000
   imdb: tt1528848
+  tmdb: 449290
 sources:
 - https://www.wikidata.org/wiki/Q29460000
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - dbomba-jorg
 composer:
 - german-peter
+poster_tmdb_path: /45nKPp9WR9ey58fA7rZBGNoCX9I.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q123290522
   imdb: tt7784840
+  tmdb: 1414460
 sources:
 - https://www.wikidata.org/wiki/Q123290522
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: yunusov-obidzhan
 studio:
 - uzbekfilm
+poster_tmdb_path: /8Fmn3muF4qJy3b8kWFmGMkiXSRz.jpg

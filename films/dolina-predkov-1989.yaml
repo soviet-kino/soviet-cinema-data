@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106737356
   imdb: tt0207416
   youtube: vZIi6AHMG_M
+  tmdb: 1302506
 sources:
 - https://www.wikidata.org/wiki/Q106737356
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: seydakmatova-dzhamal
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /Ar6y0HjqpIXSBhpvLEkQZl5CMDG.jpg

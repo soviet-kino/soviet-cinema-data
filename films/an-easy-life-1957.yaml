@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20058150
   imdb: tt1464777
   youtube: H5AvqTLoORo
+  tmdb: 856771
 sources:
 - https://www.wikidata.org/wiki/Q20058150
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: bartlova-buddeusova-gabriela
 - person: martinovska-alena
 - person: teuchnerova-frantiska
+poster_tmdb_path: /mm8e0kYWbnl4hT3cKWymhsuOSYd.jpg

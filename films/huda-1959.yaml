@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q101242799
   imdb: tt0359420
+  tmdb: 799145
 sources:
 - https://www.wikidata.org/wiki/Q101242799
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: riad-hussein
 - person: ibrakhim-abdel-moneym
 - person: al-khariri-omar
+poster_tmdb_path: /fMxFem3y6vHqmGiz0ycbuCqESRO.jpg
+backdrop_tmdb_path: /eZk60IopG2W1JaH18QJfchDdjSj.jpg

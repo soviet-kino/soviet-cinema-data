@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4240272
   imdb: tt0425176
+  tmdb: 533518
 sources:
 - https://www.wikidata.org/wiki/Q4240272
 schema_version: 1
@@ -16,3 +17,5 @@ studio:
 - moldova-film
 cast:
 - person: vitorgan-emmanuil-gedeonovich
+poster_tmdb_path: /8H1zlgU7mYJhRzk4iJtF3ftqrGx.jpg
+backdrop_tmdb_path: /tXNCuhcvKz3LZjnzF6x9fKTZjgO.jpg

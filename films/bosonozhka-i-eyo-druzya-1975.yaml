@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4095023
   imdb: tt10833588
+  tmdb: 361862
 sources:
 - https://www.wikidata.org/wiki/Q4095023
 schema_version: 1
@@ -14,3 +15,4 @@ composer:
 - khromushin-oleg-nikolaevich
 studio:
 - permtelefilm
+poster_tmdb_path: /azeWAo2ISTpS4XYgi6XueY5qJZe.jpg

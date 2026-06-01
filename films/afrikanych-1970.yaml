@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4072854
   imdb: tt2109083
   youtube: C0GDNmBtsM8
+  tmdb: 845725
 sources:
 - https://www.wikidata.org/wiki/Q4072854
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: bunina-irina-alekseevna
 - person: trofimov-nikolay-nikolaevich
+poster_tmdb_path: /1U0Qy2qecDFa3mNB5MxiNWLG9HE.jpg
+backdrop_tmdb_path: /wMuNRb53uhuOj7Cn4Lqpbm5o8St.jpg

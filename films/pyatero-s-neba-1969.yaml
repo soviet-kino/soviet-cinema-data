@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4385774
   imdb: tt0314549
+  tmdb: 539213
 sources:
 - https://www.wikidata.org/wiki/Q4385774
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: selyanin-gleb-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /y9G5gC4qD27yFlhMFxojIRtQKZq.jpg
+backdrop_tmdb_path: /2xfGtqPOu1zgFPYbtlcKDmvjrfE.jpg

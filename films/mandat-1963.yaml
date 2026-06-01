@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4280279
   imdb: tt0305800
+  tmdb: 817981
 sources:
 - https://www.wikidata.org/wiki/Q4280279
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - lenfilm
 cast:
 - person: bogolyubov-igor-pavlovich
+poster_tmdb_path: /wb3qL6SnovnSmduYeFOc7TTphwT.jpg

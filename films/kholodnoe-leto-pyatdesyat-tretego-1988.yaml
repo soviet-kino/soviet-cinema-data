@@ -25,6 +25,9 @@ external_ids:
   wikidata: Q1199188
   imdb: tt0095441
   youtube: pgCGGSKPia0
+  tmdb: 71393
 sources:
 - https://www.wikidata.org/wiki/Q1199188
 schema_version: 1
+poster_tmdb_path: /aVSvsoYiyyiHyn0o5KRbph7breW.jpg
+backdrop_tmdb_path: /9Jl0r5LUf0p0hX4yjGMBs7bcC1j.jpg

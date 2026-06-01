@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20072497
   imdb: tt5871956
+  tmdb: 91132
 sources:
 - https://www.wikidata.org/wiki/Q20072497
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kolodub-zhanna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /n5xlRoEkYGUxYQ4LilRaSqQVPKn.jpg

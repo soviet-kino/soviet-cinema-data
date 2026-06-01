@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q2033354
   imdb: tt0475747
+  tmdb: 221234
 sources:
 - https://www.wikidata.org/wiki/Q2033354
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - sumera-lepo
 studio:
 - tallinfilm
+poster_tmdb_path: /3sNX2MXIb4rzRXBLfokBqbI3Ls6.jpg
+backdrop_tmdb_path: /csTHBqZ8ESxhYuQeupcuUwuRIoY.jpg

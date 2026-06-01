@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111241110
   imdb: tt0172668
   youtube: KRWVZh6gsWU
+  tmdb: 598936
 sources:
 - https://www.wikidata.org/wiki/Q111241110
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - ilich-shlepyanov-aleksandr
 studio:
 - mosfilm
+poster_tmdb_path: /dPZmiIFzmDtg5LfxXcrg7EVKT3g.jpg

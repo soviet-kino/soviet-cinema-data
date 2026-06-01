@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q464430
   imdb: tt0072919
+  tmdb: 156627
 sources:
 - https://www.wikidata.org/wiki/Q464430
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: wiszniewski-bogdan
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /saR0s6QDeLFtjir3VsR7nMUydnT.jpg
+backdrop_tmdb_path: /oUM42l5TiotTtm6sXWJQWP2HbGm.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21498236
   imdb: tt0059528
+  tmdb: 945604
 sources:
 - https://www.wikidata.org/wiki/Q21498236
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 cast:
 - person: kopichinskiy-andzhey
 - person: fornal-adam
+poster_tmdb_path: /1KiBHsxicchIP7u2n5g7TFtUo31.jpg

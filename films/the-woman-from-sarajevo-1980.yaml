@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750366
   imdb: tt0171349
+  tmdb: 504100
 sources:
 - https://www.wikidata.org/wiki/Q12750366
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: sablich-seka
 - person: kuzmany-elfriede
 - person: dzhuro-utzhesanovich
+poster_tmdb_path: /o3toVJG6kn4cEvWZ8b1LkV1jNHU.jpg

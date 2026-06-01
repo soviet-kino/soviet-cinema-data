@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4217358
   imdb: tt2213622
   youtube: L3zpAigJMR8
+  tmdb: 203914
 sources:
 - https://www.wikidata.org/wiki/Q4217358
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /qNZODNOqzjJ8sHQlODns0kL2TMC.jpg
+backdrop_tmdb_path: /pr1PjriQw0iKEZpWfJuWoMUhgZF.jpg

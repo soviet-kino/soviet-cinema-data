@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2306068
   imdb: tt0066565
   youtube: GqnqFhc9aho
+  tmdb: 20848
 sources:
 - https://www.wikidata.org/wiki/Q2306068
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: dudaev-musa-abdievich
 - person: kurkina-raisa-semyonovna
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /slUxfkPILNh9iZPhuhMSf8C1TsR.jpg
+backdrop_tmdb_path: /wsl9ig1xEGX7q7SidK3gaOMmqY9.jpg

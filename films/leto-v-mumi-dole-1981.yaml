@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16514601
   imdb: tt3864820
   youtube: 0cKelmn6YFU
+  tmdb: 198936
 sources:
 - https://www.wikidata.org/wiki/Q16514601
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kobekin-vladimir-aleksandrovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /cUXNRTUoMw6kJEGJ3qjdbPFypoz.jpg

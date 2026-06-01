@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9351443
   imdb: tt0069339
+  tmdb: 900658
 sources:
 - https://www.wikidata.org/wiki/Q9351443
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: brun-pawe
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /7nry9wzsUjQ5D9u1rbaO2T1cgHI.jpg

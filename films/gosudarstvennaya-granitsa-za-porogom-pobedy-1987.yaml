@@ -8,6 +8,7 @@ runtime_min: 136
 external_ids:
   wikidata: Q4146555
   imdb: tt2693872
+  tmdb: 531049
 sources:
 - https://www.wikidata.org/wiki/Q4146555
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: bystrushkin-aleksandr-pavlovich
 studio:
 - belarusfilm
+poster_tmdb_path: /uC1pwOZtt1iyqf7eI3EgI20KkJ8.jpg

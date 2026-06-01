@@ -8,6 +8,7 @@ runtime_min: 32
 external_ids:
   wikidata: Q7429555
   imdb: tt0171719
+  tmdb: 119451
 sources:
 - https://www.wikidata.org/wiki/Q7429555
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: pokorna-vera
 studio:
 - barrandov
+poster_tmdb_path: /cf3G2Lijcc6ilMZWzQmQ9NcdV6f.jpg
+backdrop_tmdb_path: /v5yg6oSyn7FnKaPykclGVNlt7Na.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q55654237
   imdb: tt27393666
+  tmdb: 898846
 sources:
 - https://www.wikidata.org/wiki/Q55654237
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: shavrina-ekaterina
 studio:
 - mosfilm
+poster_tmdb_path: /vImjXKBlUCbOmwkZajUVKuGcqfZ.jpg

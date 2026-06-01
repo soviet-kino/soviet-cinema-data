@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q260138
   imdb: tt0073099
   youtube: 6jZ2G--y1hw
+  tmdb: 36129
 sources:
 - https://www.wikidata.org/wiki/Q260138
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: The Soviet Union 1988 CPA 5919 stamp (Hedgehog in the Fog).jpg
+poster_tmdb_path: /tfo5BSZG7YGiwsUXA3U3i7T7IqQ.jpg
+backdrop_tmdb_path: /xvk0mFGUojrTiiTo0iutGW5Xd1n.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4198246
   imdb: tt0080939
   youtube: uYw1w6OoV9k
+  tmdb: 81360
 sources:
 - https://www.wikidata.org/wiki/Q4198246
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: bolotova-zhanna-andreevna
 studio:
 - mosfilm
+poster_tmdb_path: /liBcDi3zSoeNb673gqJBS85K7R2.jpg
+backdrop_tmdb_path: /wMqSiq4nvacO7k6Lnr7iwiL0FTQ.jpg

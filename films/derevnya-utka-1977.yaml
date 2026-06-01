@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4158799
   imdb: tt0074396
+  tmdb: 150236
 sources:
 - https://www.wikidata.org/wiki/Q4158799
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: bykov-rolan-antonovich
+poster_tmdb_path: /ev5uPsf29gsXuo7zkqrsfPL9Rdw.jpg
+backdrop_tmdb_path: /i90TwvPXuEJHHBs1uny22m17xKB.jpg

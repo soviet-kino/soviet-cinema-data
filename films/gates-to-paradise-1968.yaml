@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q83005
   imdb: tt0062461
+  tmdb: 185050
 sources:
 - https://www.wikidata.org/wiki/Q83005
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: felba-dragomir
 - person: rivz-kinaston
 - person: fordays-dzhon
+poster_tmdb_path: /xZrIPA0BCC9bk8tbZVzYPHPrIEX.jpg
+backdrop_tmdb_path: /iDr0wAPyydrTXq8JcjdEpe6hIy8.jpg

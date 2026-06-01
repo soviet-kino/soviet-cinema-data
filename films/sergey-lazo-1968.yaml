@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q107099562
   imdb: tt0347976
+  tmdb: 255202
 sources:
 - https://www.wikidata.org/wiki/Q107099562
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: yakut-vsevolod-semyonovich
 studio:
 - moldova-film
+poster_tmdb_path: /35Ov4ljLfcmf0I8VwRkLNAUHGMf.jpg
+backdrop_tmdb_path: /smHPLEt5V4S1nshYXPCRWrjn056.jpg

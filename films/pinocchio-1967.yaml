@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q1737608
   imdb: tt0062400
+  tmdb: 371685
 sources:
 - https://www.wikidata.org/wiki/Q1737608
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: vyunsher-marianna
 - person: flyorkhinger-martin
 - person: khellberg-martin
+poster_tmdb_path: /xny6liol3vdItiNJJxZXb81uHs1.jpg

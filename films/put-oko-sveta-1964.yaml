@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757985
   imdb: tt0058502
+  tmdb: 266457
 sources:
 - https://www.wikidata.org/wiki/Q12757985
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: stojiljkovic-vlastimir-uza
 - person: q12750676
 - person: petrovik-chedomir
+poster_tmdb_path: /zG5WJbk8FqAmvyN8lHrBausFXyW.jpg
+backdrop_tmdb_path: /4lKJsfkkrlbOZuHYUiftlwEdqKX.jpg

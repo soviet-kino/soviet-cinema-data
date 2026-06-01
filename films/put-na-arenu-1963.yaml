@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q24957498
   imdb: tt0187433
   youtube: 2zM6xlYnpvs
+  tmdb: 538686
 sources:
 - https://www.wikidata.org/wiki/Q24957498
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: gen-gurgen
 studio:
 - armenfilm
+poster_tmdb_path: /5XpSuSEy7PEaRbwyHHoOoVIOyPX.jpg

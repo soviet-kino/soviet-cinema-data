@@ -8,6 +8,7 @@ runtime_min: 280
 external_ids:
   wikidata: Q4062710
   imdb: tt0312342
+  tmdb: 606282
 sources:
 - https://www.wikidata.org/wiki/Q4062710
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: polezhaev-sergey-aleksandrovich
 - person: ilina-nina-aleksandrovna
 - person: velichko-natalya-yakovlevna
+poster_tmdb_path: /ceu0lo8ZnIYtyKTCCS98GLsP5nj.jpg
+backdrop_tmdb_path: /zM9D37YbzW0FS8JN8fdiDBkyDio.jpg

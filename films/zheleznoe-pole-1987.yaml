@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q97169991
   imdb: tt0267144
   youtube: JCl1l5CWpQQ
+  tmdb: 484105
 sources:
 - https://www.wikidata.org/wiki/Q97169991
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: shutov-evgeniy-efimovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /wAYVJ8LZjag123RN2qZgka2fM1S.jpg
+backdrop_tmdb_path: /2r6D4fyPsSUpywSgJ9KqJDgrATm.jpg

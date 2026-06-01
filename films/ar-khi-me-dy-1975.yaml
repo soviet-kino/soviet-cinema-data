@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4068348
   imdb: tt0072655
   youtube: kYpxGoWzFr8
+  tmdb: 347957
 sources:
 - https://www.wikidata.org/wiki/Q4068348
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: maslyakov-aleksandr-vasilevich
 - person: ivanov-sergey-petrovich
+poster_tmdb_path: /iiRBT4WsftBJV4Qx4iGJdA6jpAl.jpg
+backdrop_tmdb_path: /ly8XS0ENHT7iuUWce63lYswEtHA.jpg

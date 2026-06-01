@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q63844302
   imdb: tt0090596
   youtube: Jz-h65_4yog
+  tmdb: 342631
 sources:
 - https://www.wikidata.org/wiki/Q63844302
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - yashin-boris-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /3WnuW04q9Mr1qTNDiAGyoj7mg1m.jpg
+backdrop_tmdb_path: /g07DGROxwUvnqzjJRnwNnjJSpnE.jpg

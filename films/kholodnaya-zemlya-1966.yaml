@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31279936
   imdb: tt0834179
+  tmdb: 329769
 sources:
 - https://www.wikidata.org/wiki/Q31279936
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - mutt-anton
 studio:
 - eesti-telefilm
+poster_tmdb_path: /nqeOYumHLMPhVmYGfVpJhqFO2iK.jpg
+backdrop_tmdb_path: /4gve74p7dSIkPmIAa6wC5alN8df.jpg

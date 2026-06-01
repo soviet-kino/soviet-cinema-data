@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q106765381
   imdb: tt0260120
+  tmdb: 592543
 sources:
 - https://www.wikidata.org/wiki/Q106765381
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - barskiy-vladimir-grigorevich
 studio:
 - gruziya-film
+poster_tmdb_path: /xKQEYkoYBfxIQJS6r9YAKQ9DOLh.jpg
+backdrop_tmdb_path: /2hGKkvZM0wvYQeOjm6tvhLemoK6.jpg

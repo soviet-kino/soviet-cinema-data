@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4492447
   imdb: tt0306827
+  tmdb: 428732
 sources:
 - https://www.wikidata.org/wiki/Q4492447
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: shakurov-sergey-kayumovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /3caKz02jvikwyIUUtWRDNHMCh96.jpg
+backdrop_tmdb_path: /cJaJlHfaiepAY9wzmZ8frs5mx7z.jpg

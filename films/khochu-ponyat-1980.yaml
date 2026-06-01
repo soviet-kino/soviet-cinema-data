@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q12835854
   imdb: tt2254019
+  tmdb: 532943
 sources:
 - https://www.wikidata.org/wiki/Q12835854
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ogly-turabov-gasan-sattar
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /Z253W7m85XOtN2hl8oYoKRRtQg.jpg
+backdrop_tmdb_path: /wxucz5KRykJbyyOu1TyKlo9w1vA.jpg

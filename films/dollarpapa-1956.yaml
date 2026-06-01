@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25474028
   imdb: tt0049151
+  tmdb: 219751
 sources:
 - https://www.wikidata.org/wiki/Q25474028
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: radai-imre
 - person: somogyi-erzsi
 - person: uray-tivadar
+poster_tmdb_path: /pfWUaspah026KioFwmNqEG5RWA4.jpg

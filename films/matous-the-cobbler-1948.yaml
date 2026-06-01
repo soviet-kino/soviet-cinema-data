@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7073388
   imdb: tt1399060
+  tmdb: 801659
 sources:
 - https://www.wikidata.org/wiki/Q7073388
 schema_version: 1
@@ -66,3 +67,4 @@ cast:
 - person: sara-yaroslav
 - person: pata-vaclav
 - person: krcka-otto
+poster_tmdb_path: /z7WK02SGbZlP3nC793vOIwrSWY7.jpg

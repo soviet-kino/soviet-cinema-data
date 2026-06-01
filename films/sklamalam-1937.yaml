@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q9338492
   imdb: tt0152461
+  tmdb: 443085
 sources:
 - https://www.wikidata.org/wiki/Q9338492
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: vesyolovskiy-tadeush
 - person: relewicz-ziembinska-pelagia
 - person: q116817957
+poster_tmdb_path: /vIiRPw5uG9IDhYoDH9xofpcaMF9.jpg

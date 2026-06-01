@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65212697
   imdb: tt0309286
+  tmdb: 1511757
 sources:
 - https://www.wikidata.org/wiki/Q65212697
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: guzeeva-larisa-andreevna
 - person: yunger-elena-vladimirovna
+poster_tmdb_path: /rT3ZDU5uFCetTwtuTxkWkiF8jzb.jpg

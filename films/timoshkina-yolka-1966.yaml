@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q16514680
   imdb: tt7446522
+  tmdb: 143303
 sources:
 - https://www.wikidata.org/wiki/Q16514680
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - khachaturyan-karen
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gT0KeQ0Gb93eJYZvjsmOPkP9Ias.jpg

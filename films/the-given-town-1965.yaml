@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q11775225
   imdb: tt2048806
+  tmdb: 467847
 sources:
 - https://www.wikidata.org/wiki/Q11775225
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: krasa-gans
 - person: sr-otakar-brousek
 - person: munzar-lyudek
+poster_tmdb_path: /pBYU4mPQpvjQYi8xRR84wltXM4y.jpg

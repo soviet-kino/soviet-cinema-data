@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q12750080
   imdb: tt0082441
+  tmdb: 605312
 sources:
 - https://www.wikidata.org/wiki/Q12750080
 schema_version: 1
+poster_tmdb_path: /mqztevvK9AYyTEb8l9EiM0j0TrW.jpg
+backdrop_tmdb_path: /3oTVUuQOZ74grgUg6WoOjqiNRMS.jpg

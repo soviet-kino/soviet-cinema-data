@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q59563227
   imdb: tt0496526
   youtube: Pt-c0OgYhgM
+  tmdb: 774871
 sources:
 - https://www.wikidata.org/wiki/Q59563227
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 cast:
 - person: szellay-alice
 - person: halasz-geza
+poster_tmdb_path: /4Lh3q3A8jDyX0pjUm4Lmwp8qNhK.jpg

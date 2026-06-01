@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4421386
   imdb: tt4265192
   youtube: 3-mPf1Vr6gs
+  tmdb: 90325
 sources:
 - https://www.wikidata.org/wiki/Q4421386
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - bykanov-anatoliy-dmitrievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1VA5V5cr4yxdgcOL636gZeerG2W.jpg
+backdrop_tmdb_path: /q3ViApXJHQNCIkLNdWCWoRpMDo1.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6454120
   imdb: tt0042660
+  tmdb: 199521
 sources:
 - https://www.wikidata.org/wiki/Q6454120
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: sabo-shandor
 - person: temessy-hedi
 - person: uray-tivadar
+poster_tmdb_path: /ojoKl9dUkIkZMwFNwJDKoJVLQL5.jpg
+backdrop_tmdb_path: /ojmph3EiYEPK2mgn3taI9No0vH5.jpg

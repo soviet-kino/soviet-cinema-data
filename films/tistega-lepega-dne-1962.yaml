@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q27113551
   imdb: tt0056591
+  tmdb: 287672
 sources:
 - https://www.wikidata.org/wiki/Q27113551
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: sotlar-bert
 - person: poskay-dusa
 - person: presetnik-france
+poster_tmdb_path: /yUsdhVj4uxvmYfuzFIRZ7x92JSj.jpg
+backdrop_tmdb_path: /gyFHrw0Ts4T8424zfiNHBT0RauU.jpg

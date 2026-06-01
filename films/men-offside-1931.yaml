@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3504377
   imdb: tt0166723
+  tmdb: 187306
 sources:
 - https://www.wikidata.org/wiki/Q3504377
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: riha-frantisek
 - person: holakovska-slavka
 - person: vlasak-v-a
+poster_tmdb_path: /bV8MOObIE4PBpJe81TXluwVzVMl.jpg
+backdrop_tmdb_path: /zVPixE9z5FvRpvi3R1tiXSHRPxa.jpg

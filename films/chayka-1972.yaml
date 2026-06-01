@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4506765
   imdb: tt0065533
   youtube: SaRhIQB7_wo
+  tmdb: 68262
 sources:
 - https://www.wikidata.org/wiki/Q4506765
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: pavlova-sofya-afinogenovna
 - person: plotnikov-nikolay-sergeevich
 - person: chetverikov-vladimir-anatolevich
+poster_tmdb_path: /rEDuoy45I0CvpV2ylBcQCQiTVWs.jpg
+backdrop_tmdb_path: /15UUk7z3VQ8wARrTszZj655DR7v.jpg

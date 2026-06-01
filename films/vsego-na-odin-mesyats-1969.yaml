@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q2888612
   imdb: tt0062641
+  tmdb: 341260
 sources:
 - https://www.wikidata.org/wiki/Q2888612
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: angel-yon
 - person: ogeshanu-virdzhil
 - person: sherban-zizi
+poster_tmdb_path: /bTYXHpWENGtQjP9D9RazGSQYZ7Z.jpg

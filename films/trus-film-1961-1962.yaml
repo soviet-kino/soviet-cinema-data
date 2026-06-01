@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q67586847
   imdb: tt0176338
+  tmdb: 355982
 sources:
 - https://www.wikidata.org/wiki/Q67586847
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: vorel-josef
 - person: kulhankova-gymerska-libusa
 - person: hecko-jan
+poster_tmdb_path: /gJCcz6oOS4ATa8NLGlEBd5bvbBW.jpg

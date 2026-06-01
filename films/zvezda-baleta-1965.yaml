@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q116811476
   imdb: tt0190891
+  tmdb: 731378
 sources:
 - https://www.wikidata.org/wiki/Q116811476
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: panarin-valeriy-fyodorovich
+poster_tmdb_path: /mHx2QO227qRyNI6ZZlP9B81rEXT.jpg

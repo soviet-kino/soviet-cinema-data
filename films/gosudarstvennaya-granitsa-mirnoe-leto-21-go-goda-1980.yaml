@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q4146558
   imdb: tt0877519
+  tmdb: 531039
 sources:
 - https://www.wikidata.org/wiki/Q4146558
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: rudakov-anatoliy-rodionovich
 studio:
 - belarusfilm
+poster_tmdb_path: /oN5NiwpzaiUvNw6pRcYe5dUDYqy.jpg

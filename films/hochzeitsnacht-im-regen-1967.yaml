@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q1262985
   imdb: tt0174743
+  tmdb: 282775
 sources:
 - https://www.wikidata.org/wiki/Q1262985
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: dommish-peter
 - person: kulikovski-traudl
 - person: shrade-villi
+poster_tmdb_path: /2g4a1dRvxDfXYOc941wMWUZK6sC.jpg
+backdrop_tmdb_path: /yC1BOgyJMucR9BvNHp59q4E03fW.jpg

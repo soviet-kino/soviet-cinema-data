@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4416677
   imdb: tt0175149
   youtube: a1kD-PKld0M
+  tmdb: 542673
 sources:
 - https://www.wikidata.org/wiki/Q4416677
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: teterin-evgeniy-efimovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /rsvWJc54fMehomdKU6jViMZ2KVc.jpg

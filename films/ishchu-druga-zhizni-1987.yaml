@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4205751
   imdb: tt0298377
   youtube: IlV1pgm04as
+  tmdb: 615683
 sources:
 - https://www.wikidata.org/wiki/Q4205751
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: astafev-yuriy-grigorevich
 studio:
 - lenfilm
+poster_tmdb_path: /ghZYPtYiEmfrs16iFAzPEZbWvCW.jpg

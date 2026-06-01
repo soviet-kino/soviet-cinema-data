@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q1651203
   imdb: tt0056452
+  tmdb: 5636
 sources:
 - https://www.wikidata.org/wiki/Q1651203
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: mamero-rolf
 - person: slobodan-dimitrievich
 - person: spoljar-branko
+poster_tmdb_path: /yxgWcXBdWvhtEsE37XVv9XAoWIJ.jpg
+backdrop_tmdb_path: /rNqagxqo0c4FF4no7mlArTKlf24.jpg

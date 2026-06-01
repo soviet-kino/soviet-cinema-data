@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q113086955
   imdb: tt0395962
+  tmdb: 1071849
 sources:
 - https://www.wikidata.org/wiki/Q113086955
 schema_version: 1
@@ -79,3 +80,4 @@ cast:
 - person: lonsky-miroslav
 studio:
 - barrandov
+poster_tmdb_path: /anBewAdKnEaYDAoPefKUi0HjIyE.jpg

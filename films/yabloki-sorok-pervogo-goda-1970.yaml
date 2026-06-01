@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q115515366
   imdb: tt0170069
+  tmdb: 886906
 sources:
 - https://www.wikidata.org/wiki/Q115515366
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 studio:
 - uzbekfilm
 - ekran
+poster_tmdb_path: /68HFknMqbHH2MzuY0kojbf5pE7A.jpg

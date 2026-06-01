@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q3506272
   imdb: tt0059064
+  tmdb: 360115
 sources:
 - https://www.wikidata.org/wiki/Q3506272
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: felba-dragomir
 - person: hlebs-sonja
 - person: angelovski-kole
+poster_tmdb_path: /kgEyR3yX70421NUhBfNzpRx0IJ5.jpg

@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q2839083
   imdb: tt0087855
+  tmdb: 74903
 sources:
 - https://www.wikidata.org/wiki/Q2839083
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: derzhi-yanosh
 - person: bodnar-erika
 - person: temessy-hedi
+poster_tmdb_path: /gK26PHdRKwWazRucea3GeERCJpu.jpg
+backdrop_tmdb_path: /micBq6IA8zfB7A3o7uT8ogcQr9W.jpg

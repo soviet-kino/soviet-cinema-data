@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15622839
   imdb: tt0058532
+  tmdb: 270991
 sources:
 - https://www.wikidata.org/wiki/Q15622839
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - petkho-zholt
 studio:
 - pannoniya
+poster_tmdb_path: /4IfJXXXBeZipNNzW1jPHuyNU125.jpg

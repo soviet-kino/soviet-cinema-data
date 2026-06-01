@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q6702900
   imdb: tt0240693
+  tmdb: 1549573
 sources:
 - https://www.wikidata.org/wiki/Q6702900
 schema_version: 1
+poster_tmdb_path: /sRAwRRZ669vjWf9phrrxVGvCq8s.jpg

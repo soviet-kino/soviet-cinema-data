@@ -8,8 +8,10 @@ runtime_min: 77
 external_ids:
   wikidata: Q129694939
   imdb: tt0275745
+  tmdb: 1400057
 sources:
 - https://www.wikidata.org/wiki/Q129694939
 schema_version: 1
 studio:
 - kazakhfilm
+poster_tmdb_path: /iBIHfVHLBKwd6INrM0Mb0ON8wtr.jpg

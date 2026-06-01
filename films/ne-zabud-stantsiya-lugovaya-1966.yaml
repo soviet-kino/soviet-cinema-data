@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4315405
   imdb: tt0060744
   youtube: 2-h4YZL_Co0
+  tmdb: 398752
 sources:
 - https://www.wikidata.org/wiki/Q4315405
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: chernova-alla-iosifovna
 studio:
 - lenfilm
+poster_tmdb_path: /nQr8FskcUpf0m1cwWm7uzyjraUO.jpg

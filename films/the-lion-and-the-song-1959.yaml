@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q30327188
   imdb: tt0244626
+  tmdb: 284957
 sources:
 - https://www.wikidata.org/wiki/Q30327188
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - bukovyy-vilyam
 studio:
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+poster_tmdb_path: /eoylJCP2fUQrFYlqVBkoN1HtL3g.jpg
+backdrop_tmdb_path: /74pV1Tf2RKc1Y4QDIgjBGyJDVi8.jpg

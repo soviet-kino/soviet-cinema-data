@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1614141
   imdb: tt0058190
+  tmdb: 265274
 sources:
 - https://www.wikidata.org/wiki/Q1614141
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: vuisich-pavle
 - person: morer-fridrikh
 - person: fiedler-gerlach
+poster_tmdb_path: /zpcvSlPu7KyL1oaRN1WljKS7chE.jpg
+backdrop_tmdb_path: /wgpVgQUFrxzDVDNKA122oSp7YIT.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4498872
   imdb: tt0065939
+  tmdb: 849189
 sources:
 - https://www.wikidata.org/wiki/Q4498872
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: vertinskaya-marianna-aleksandrovna
 - person: gvozdyov-evgeniy-aleksandrovich
 - person: kokshenov-mikhail
+poster_tmdb_path: /nkgoR4SdwYZ3MaXTITI3TNHAZfw.jpg

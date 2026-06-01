@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q97178450
   imdb: tt0182995
+  tmdb: 531283
 sources:
 - https://www.wikidata.org/wiki/Q97178450
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - schnittke-alfred
 studio:
 - mosfilm
+poster_tmdb_path: /sQmAQxeUod7tPYELA1oge9lsQG6.jpg

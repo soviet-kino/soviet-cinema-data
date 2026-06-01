@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q1217004
   imdb: tt0232870
+  tmdb: 282239
 sources:
 - https://www.wikidata.org/wiki/Q1217004
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: shvabe-villi
 - person: benekendorf-volf-fon
 - person: riechers-helene
+poster_tmdb_path: /nZNXJ546pq5biqAUCtknkWxEYWa.jpg
+backdrop_tmdb_path: /x3JJCOo9a0Y4ekgLMPF25hbZVru.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17043446
   imdb: tt0312432
   youtube: 2uAVproyaKc
+  tmdb: 484091
 sources:
 - https://www.wikidata.org/wiki/Q17043446
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: vladomirskiy-boris-vladimirovich
 - person: gorobets-yuriy
 - person: rumyantseva-lyubov-grigorevna
+poster_tmdb_path: /prJ6oVPKbo8mNqxWyoA91HTGHnC.jpg
+backdrop_tmdb_path: /7cT5Eq667G3y6eXbYNhaEiLhJRH.jpg

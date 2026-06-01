@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4382363
   imdb: tt0352748
   youtube: l7k_URTc9nY
+  tmdb: 469868
 sources:
 - https://www.wikidata.org/wiki/Q4382363
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: avdyushko-viktor-antonovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /95QM67crCMnlKHbXfCwd1dzl92q.jpg

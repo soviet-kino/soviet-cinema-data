@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4190049
   imdb: tt0056717
   youtube: 23SsoXaLGrE
+  tmdb: 453061
 sources:
 - https://www.wikidata.org/wiki/Q4190049
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: zharkov-aleksey-dmitrievich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /U83evTn6PcmWQimFHU6J2fJiDA.jpg
+backdrop_tmdb_path: /2kG0M7D2DYZExVFPcc9hnFPwL8x.jpg

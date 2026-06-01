@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q1402549
   imdb: tt0084388
+  tmdb: 84946
 sources:
 - https://www.wikidata.org/wiki/Q1402549
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: zhinkozhi-zhuzha
 - person: sabo-eva
 - person: zolnai-pal
+poster_tmdb_path: /cZHjEIYrhU7ctt1eagcX7n0YoDp.jpg
+backdrop_tmdb_path: /4poVDneChHbxPKTJAxAPKzsxiUw.jpg

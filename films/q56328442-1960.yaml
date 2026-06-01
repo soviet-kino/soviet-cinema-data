@@ -8,8 +8,10 @@ runtime_min: 94
 external_ids:
   wikidata: Q56328442
   imdb: tt0054361
+  tmdb: 945625
 sources:
 - https://www.wikidata.org/wiki/Q56328442
 schema_version: 1
 director:
 - komorovskiy-pavel
+poster_tmdb_path: /ek9DBNoZquzA8KvFC9j1TTkvsOV.jpg

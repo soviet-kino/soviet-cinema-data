@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q108806638
   imdb: tt8809896
   youtube: wmmFzJMQCHk
+  tmdb: 1455514
 sources:
 - https://www.wikidata.org/wiki/Q108806638
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - omurkulov-kadyrkul
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /As5oLx9j2WZqLWpjdztof5NMk3P.jpg
+backdrop_tmdb_path: /ebTteGz4EcfxUi0tnFyv26dPwBS.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1219444
   imdb: tt0040772
+  tmdb: 267867
 sources:
 - https://www.wikidata.org/wiki/Q1219444
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: lommel-ruth
 - person: tarrakh-valter
 - person: kukhne-volfgang
+poster_tmdb_path: /yTLZzIOnwLeMwHOrHukn8zA1EVN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340432
   imdb: tt0311597
   youtube: 6thi4e8Wl5U
+  tmdb: 63724
 sources:
 - https://www.wikidata.org/wiki/Q4340432
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: solovyov-viktor-yurevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /gDrexdiOWPsauasreK07X8XZ1C8.jpg
+backdrop_tmdb_path: /apEug1wGXtuaKGBLmCUzeQAZJSu.jpg

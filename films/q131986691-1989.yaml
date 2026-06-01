@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131986691
   imdb: tt0097595
+  tmdb: 410124
 sources:
 - https://www.wikidata.org/wiki/Q131986691
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: chakani-ester
 - person: b-miklosh-szhekeli
 - person: kisfalussy-balint
+poster_tmdb_path: /xqayuYjPib60phqzd6JcYrOlPye.jpg

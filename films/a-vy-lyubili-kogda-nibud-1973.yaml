@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4053878
   imdb: tt0147799
   youtube: SmtFy6pYdSk
+  tmdb: 529973
 sources:
 - https://www.wikidata.org/wiki/Q4053878
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: vitsin-georgiy-mikhaylovich
 - person: shagalova-lyudmila-aleksandrovna
 - person: filippov-sergey-nikolaevich
+poster_tmdb_path: /hCnrMsmB9JNaiivbsi2hM9Cs3Vb.jpg
+backdrop_tmdb_path: /5MzbdSMwdtTOtVkiWpK2HRlSU89.jpg

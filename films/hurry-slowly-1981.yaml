@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726097
   imdb: tt0235438
+  tmdb: 44039
 sources:
 - https://www.wikidata.org/wiki/Q28726097
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - bieshu-ion
 studio:
 - radef
+poster_tmdb_path: /sPHAa9lFGZ1LvRke0W9X5kAxff9.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758122
   imdb: tt0180076
+  tmdb: 476232
 sources:
 - https://www.wikidata.org/wiki/Q12758122
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: vukovic-gizela
 - person: zoran-milosavlevich
 - person: katalinich-blazhenka
+poster_tmdb_path: /jnlpLHrEKjgmUNdQ4tl7H3Af3c4.jpg
+backdrop_tmdb_path: /3glkmStfHL5Cca3YXexOyGaeruw.jpg

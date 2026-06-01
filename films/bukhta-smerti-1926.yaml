@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4100563
   imdb: tt0016696
+  tmdb: 128377
 sources:
 - https://www.wikidata.org/wiki/Q4100563
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - room-abram-matveevich
 cinematographer:
 - slavinskiy-evgeniy-iosifovich
+poster_tmdb_path: /nyJMVvzUV7sy1KkBPYPtxpOECvg.jpg
+backdrop_tmdb_path: /oAGlpydV6SRvwvakJQ8MpsSV4Zz.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q126676936
   imdb: tt0076258
+  tmdb: 1520745
 sources:
 - https://www.wikidata.org/wiki/Q126676936
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - khagagortyan-eduard
 studio:
 - mosfilm
+poster_tmdb_path: /zWb6oxGIAbLaExbfi1g1VDVmyee.jpg

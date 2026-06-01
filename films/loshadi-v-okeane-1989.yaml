@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19816638
   imdb: tt0311456
   youtube: ViSgXlsgrNw
+  tmdb: 505143
 sources:
 - https://www.wikidata.org/wiki/Q19816638
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - gusarov-nikolay-nikolaevich
 cast:
 - person: nazarov-yuriy-vladimirovich
+poster_tmdb_path: /xbic7Ak3KtMHd81NIFa8UgqVoZq.jpg

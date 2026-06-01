@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7220200
   imdb: tt0029065
+  tmdb: 285970
 sources:
 - https://www.wikidata.org/wiki/Q7220200
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: landau-samuel
 - person: turkov-zigmunt
 - person: kressyn-miriam
+poster_tmdb_path: /swudYEmkCy9vvL0LzQPYv1vAk1Y.jpg

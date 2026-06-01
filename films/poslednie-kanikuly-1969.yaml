@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4373756
   imdb: tt0064831
   youtube: 7MmI8l4VIQQ
+  tmdb: 485686
 sources:
 - https://www.wikidata.org/wiki/Q4373756
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: vdovin-aleksandr-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /qmxvcFgNaYzDxX7DTEz3rapNfUB.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12719822
   imdb: tt0101257
+  tmdb: 450970
 sources:
 - https://www.wikidata.org/wiki/Q12719822
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: uritesku-valentin
 - person: flonda-virgil
 - person: kotimanis-konstantin
+poster_tmdb_path: /9suYRH7lJ2qnJwFCCYeBvpx1Mgm.jpg

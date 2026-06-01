@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7560459
   imdb: tt0234771
+  tmdb: 288814
 sources:
 - https://www.wikidata.org/wiki/Q7560459
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - put-karl
 composer:
 - wehding-hans-hendrik
+poster_tmdb_path: /p0nhT5ZQKXTuJ9QXvJfvDsR83rV.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4413316
   imdb: tt2317100
   youtube: UOL842Notfg
+  tmdb: 314709
 sources:
 - https://www.wikidata.org/wiki/Q4413316
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: yurchenko-valeriy-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /akMCYDXf1OIxxM4EI6Dz6PMGdRH.jpg
+backdrop_tmdb_path: /5UqTzx7NXo8JeBmD0FHbs1bxDJb.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q2439309
   imdb: tt0920882
+  tmdb: 414002
 sources:
 - https://www.wikidata.org/wiki/Q2439309
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: schafer-gerd-e
 - person: rennhack-heinz
 - person: kherrikht-rolf
+poster_tmdb_path: /7i9AwtBowu3FqS64owFoggPyPPs.jpg

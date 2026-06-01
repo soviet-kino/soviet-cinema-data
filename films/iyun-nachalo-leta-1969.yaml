@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12651057
   imdb: tt3523088
+  tmdb: 392299
 sources:
 - https://www.wikidata.org/wiki/Q12651057
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - vabalas-raymondas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /zG7Y24hZ9MLhKBAp20Ox7rPqYBW.jpg
+backdrop_tmdb_path: /zksSWFAz0B9kzlCLEbwpWnjVHKl.jpg

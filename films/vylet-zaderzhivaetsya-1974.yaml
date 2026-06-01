@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4128992
   imdb: tt0072383
   youtube: RqJDq6e1l8w
+  tmdb: 371308
 sources:
 - https://www.wikidata.org/wiki/Q4128992
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: lavrova-tatyana-evgenevna
 - person: zamanskiy-vladimir-petrovich
+poster_tmdb_path: /31vyLPPBJvvVJu7K1o8BScZkEBR.jpg
+backdrop_tmdb_path: /nwISp1bYueFAYPqnjrimKhThIRs.jpg

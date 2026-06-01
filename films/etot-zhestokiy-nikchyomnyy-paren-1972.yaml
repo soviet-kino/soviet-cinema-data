@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q9356679
   imdb: tt0069356
+  tmdb: 920723
 sources:
 - https://www.wikidata.org/wiki/Q9356679
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: mosyor-roman
 studio:
 - iluzjon
+poster_tmdb_path: /ppFyn234Lloklz3pymLwRZxLiQc.jpg

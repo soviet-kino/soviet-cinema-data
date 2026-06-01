@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q95948531
   imdb: tt0043415
+  tmdb: 444382
 sources:
 - https://www.wikidata.org/wiki/Q95948531
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: rajczy-lajos
 studio:
 - mafilm
+poster_tmdb_path: /i0CHmGGXNYNn2kk0eLGilavPox1.jpg
+backdrop_tmdb_path: /qTqZxAY5AKP1dbttBmNvoJPDLBI.jpg

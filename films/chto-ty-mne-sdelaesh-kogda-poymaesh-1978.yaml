@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q54968
   imdb: tt0077350
+  tmdb: 52920
 sources:
 - https://www.wikidata.org/wiki/Q54968
 schema_version: 1
@@ -70,3 +71,5 @@ cast:
 studio:
 - pryzmat
 poster_commons: Co mi zrobisz jak mnie zlapiesz – poster (Polish film, 1978).png
+poster_tmdb_path: /f88wQblaJrFL37CHPRAevf2AInS.jpg
+backdrop_tmdb_path: /oKl2qVFihZj2ZXxBXRNCmPV0tFl.jpg

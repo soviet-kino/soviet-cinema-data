@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q9208810
   imdb: tt0085451
+  tmdb: 217247
 sources:
 - https://www.wikidata.org/wiki/Q9208810
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: shaflyarskaya-danuta
 - person: dymna-anna
 - person: dzevonskiy-edvard
+poster_tmdb_path: /h3SK7rwN8PfSTGuALMOP8WEec2e.jpg

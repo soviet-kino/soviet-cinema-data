@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340786
   imdb: tt0175993
   youtube: BdzxW1tLeEw
+  tmdb: 90078
 sources:
 - https://www.wikidata.org/wiki/Q4340786
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Oshibka inz1.jpg
+poster_tmdb_path: /nPJijzW7TFpKUJ24QsILRQ23IAM.jpg
+backdrop_tmdb_path: /qkbwPVrewktGlTHs6CbjR7zLU45.jpg

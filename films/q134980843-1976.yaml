@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134980843
   imdb: tt0252069
+  tmdb: 892655
 sources:
 - https://www.wikidata.org/wiki/Q134980843
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vysotski-petr
 - person: q125947783
 - person: q126035301
+poster_tmdb_path: /5F63eGXgofjKx5hSntbKvQbIvzn.jpg

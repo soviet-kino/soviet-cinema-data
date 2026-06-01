@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q106764385
   imdb: tt5303402
+  tmdb: 1427828
 sources:
 - https://www.wikidata.org/wiki/Q106764385
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - lazarev-eduard
 studio:
 - moldova-film
+poster_tmdb_path: /gPjU73tfjHxqh9RJbup9quVgWQO.jpg
+backdrop_tmdb_path: /yB6RAzYOKyMeFhrqnFzyTTniC1x.jpg

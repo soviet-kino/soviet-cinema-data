@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1297546
   imdb: tt0396886
+  tmdb: 568434
 sources:
 - https://www.wikidata.org/wiki/Q1297546
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - khalas-gabor
 composer:
 - fenyo-miklosh
+poster_tmdb_path: /wPbwPmtsGDhU1JMHzzt9ZeIzXpd.jpg
+backdrop_tmdb_path: /cEAVuB6wbuXA3GmNrjtzMT7aAWk.jpg

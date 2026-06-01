@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q9209514
   imdb: tt0309524
+  tmdb: 933480
 sources:
 - https://www.wikidata.org/wiki/Q9209514
 schema_version: 1
+backdrop_tmdb_path: /gE8z5fz8iQi9sK52WndhdNNdTTP.jpg

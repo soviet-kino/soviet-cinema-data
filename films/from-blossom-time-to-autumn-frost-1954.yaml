@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q15362068
   imdb: tt0136976
+  tmdb: 41008
 sources:
 - https://www.wikidata.org/wiki/Q15362068
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - khomoki-nad-ishtvan
 composer:
 - farkash-ferents
+poster_tmdb_path: /lA347YHMn17tBg6lc3tIntaVkFU.jpg
+backdrop_tmdb_path: /p1inHf0eoxMPua6V1i4k9uyM4Nb.jpg

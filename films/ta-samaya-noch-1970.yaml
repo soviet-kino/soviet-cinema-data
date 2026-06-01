@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116811478
   imdb: tt5279748
+  tmdb: 1441798
 sources:
 - https://www.wikidata.org/wiki/Q116811478
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: sergeychikova-silviya
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /Asr2i6DDZhd26PsYOi6SBWrsPTs.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4458020
   imdb: tt1240975
+  tmdb: 91668
 sources:
 - https://www.wikidata.org/wiki/Q4458020
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - rasulov-kabul-abdurakhmanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6zZt4fIYZHgmWwnsH7GNGGUney.jpg

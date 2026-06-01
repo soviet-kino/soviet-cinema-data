@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q20001124
   imdb: tt0058051
+  tmdb: 278907
 sources:
 - https://www.wikidata.org/wiki/Q20001124
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: szpunar-jerzy
 - person: umetskaya-yolanta
 - person: b-awut-jacek
+poster_tmdb_path: /2tdrjAGi6C7gc3A5JSvRzmuORpT.jpg
+backdrop_tmdb_path: /diMXfoQCZrZpXgmBYKuF1thazn9.jpg

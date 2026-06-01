@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q5025865
   imdb: tt0176281
+  tmdb: 282007
 sources:
 - https://www.wikidata.org/wiki/Q5025865
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: blazek-eduard
 - person: herbert-pavel
 poster_commons: Velbloud uchem jehly poster CS.jpg
+poster_tmdb_path: /dArdN9eBgpGaZbgr4nxyZ4zCim0.jpg

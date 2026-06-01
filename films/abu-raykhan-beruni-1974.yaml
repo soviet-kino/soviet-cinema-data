@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4055164
   imdb: tt0299445
   youtube: A5Zta6wt0jM
+  tmdb: 419510
 sources:
 - https://www.wikidata.org/wiki/Q4055164
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: khamraev-razzak-khamroboevich
 - person: saidkasymov-pulat
+poster_tmdb_path: /uoM82IbQHvbVBJj4Fy96hiwXKoJ.jpg
+backdrop_tmdb_path: /AdbiZTkTOlYuNcFMlp6QTXqfh2b.jpg

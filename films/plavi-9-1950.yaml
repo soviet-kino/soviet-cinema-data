@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1258000
   imdb: tt0042847
+  tmdb: 323654
 sources:
 - https://www.wikidata.org/wiki/Q1258000
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: nalis-antun
 - person: kolesar-irena
 - person: didik-lyubomir
+poster_tmdb_path: /aVGWPWx1JdctF8wV5hosg8UfPdq.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27918364
   imdb: tt0124111
+  tmdb: 361382
 sources:
 - https://www.wikidata.org/wiki/Q27918364
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: boyanich-dragomir
 - person: cheyvan-adem
 - person: muzaferiya-zaim
+poster_tmdb_path: /ehbmBgU2YOIJjK5cuDdknMxhxFj.jpg
+backdrop_tmdb_path: /cwaG0ODdP7VPohupklm5JMuyHxc.jpg

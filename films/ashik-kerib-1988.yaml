@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q2018550
   imdb: tt0094681
+  tmdb: 92663
 sources:
 - https://www.wikidata.org/wiki/Q2018550
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mgoyan-yuriy
 studio:
 - gruziya-film
+poster_tmdb_path: /y4FNJNmUIrFofbPBqffujeX8Sk7.jpg
+backdrop_tmdb_path: /rCvNZWomA7ySCPsvN7xn4375Gkc.jpg

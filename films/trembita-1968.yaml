@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462374
   imdb: tt0063717
   youtube: Dwyh7FTUGoY
+  tmdb: 245275
 sources:
 - https://www.wikidata.org/wiki/Q4462374
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: vesnik-evgeniy-yakovlevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /wiHqYr7QWMRUbdYMkcNCx9C0v3c.jpg
+backdrop_tmdb_path: /we8jCctj4tdBrxlNw1Cl13avAHi.jpg

@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q55426273
   imdb: tt5879848
+  tmdb: 198952
 sources:
 - https://www.wikidata.org/wiki/Q55426273
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kamenetskiy-mikhail-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8THh8SEwr2xXjvb1R2555WmWXV8.jpg
+backdrop_tmdb_path: /b8dOTguchtHyAsuSrBes3A9bRCS.jpg

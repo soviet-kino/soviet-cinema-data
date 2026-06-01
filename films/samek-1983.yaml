@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56524766
   imdb: tt0435351
+  tmdb: 1026583
 sources:
 - https://www.wikidata.org/wiki/Q56524766
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: boro-stepanovich
 - person: polich-ratko
 - person: alva-rudi
+poster_tmdb_path: /nU31cqCD02yKIUY8VOOY9yrvnNI.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7980187
   imdb: tt0230968
+  tmdb: 288830
 sources:
 - https://www.wikidata.org/wiki/Q7980187
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - braumann-wolfgang
 composer:
 - nef-vilgelm
+poster_tmdb_path: /7zhoG6CytfOXcHdpqy4Kv6STWEW.jpg

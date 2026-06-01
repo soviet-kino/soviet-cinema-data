@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16393369
   imdb: tt0037143
   youtube: tRTDK670jgo
+  tmdb: 199413
 sources:
 - https://www.wikidata.org/wiki/Q16393369
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: leonov-vitaliy-viktorovich
 studio:
 - armenfilm
+poster_tmdb_path: /oVOVgRlDBndqihAbVtcwSTASL3l.jpg
+backdrop_tmdb_path: /62OBuxgvcu9B5hq0h10tUMkvqQq.jpg

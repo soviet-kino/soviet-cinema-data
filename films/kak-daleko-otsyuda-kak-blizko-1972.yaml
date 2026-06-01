@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q11716237
   imdb: tt0068757
+  tmdb: 259645
 sources:
 - https://www.wikidata.org/wiki/Q11716237
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: komorovskaya-mayya
 - person: lapitskiy-andzhey
 - person: kholoubek-gustav
+poster_tmdb_path: /n2FpeMMbaYXX9OjFPXbZkDcxbzL.jpg
+backdrop_tmdb_path: /rXyUwqepUfEPf0KimN3mdAZOSu7.jpg

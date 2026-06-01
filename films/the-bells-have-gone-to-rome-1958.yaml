@@ -24,6 +24,8 @@ runtime_min: 93
 external_ids:
   wikidata: Q466334
   imdb: tt0051699
+  tmdb: 406039
 sources:
 - https://www.wikidata.org/wiki/Q466334
 schema_version: 1
+poster_tmdb_path: /lYCoNkbudyl2uowgwo3epYqfwto.jpg

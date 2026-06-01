@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q32859540
   imdb: tt0232206
+  tmdb: 467529
 sources:
 - https://www.wikidata.org/wiki/Q32859540
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: lateckova-rampakova-elena
 - person: jezny-peter
 - person: vicenik-karol
+poster_tmdb_path: /GOjkCvwDidwFIvHVmwu6pvm9Nc.jpg
+backdrop_tmdb_path: /mNqvnibENHf6fKMiuV2aHXqWQUw.jpg

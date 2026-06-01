@@ -8,6 +8,7 @@ runtime_min: 179
 external_ids:
   wikidata: Q27957979
   imdb: tt0045542
+  tmdb: 617725
 sources:
 - https://www.wikidata.org/wiki/Q27957979
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - lukov-leonid
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6jZUAmQPhUCo8l9487Qa309xrwv.jpg

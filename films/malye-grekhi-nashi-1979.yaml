@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12664911
   imdb: tt4919146
+  tmdb: 660112
 sources:
 - https://www.wikidata.org/wiki/Q12664911
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - shablyavichyus-khenrikas
 - lipskis-stasis
+poster_tmdb_path: /qu4THZamP5VxPfek4pJy6IrdmeM.jpg

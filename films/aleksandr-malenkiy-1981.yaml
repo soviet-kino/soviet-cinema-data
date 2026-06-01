@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4060939
   imdb: tt0081998
   youtube: ZEboWpjJORk
+  tmdb: 107695
 sources:
 - https://www.wikidata.org/wiki/Q4060939
 schema_version: 1
@@ -30,3 +31,5 @@ studio:
 - defa
 - kinostudiya-imeni-m-gorkogo
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /iMVq3al6EtIEtpnPHla2DPPPHlJ.jpg
+backdrop_tmdb_path: /pxJdwJx0Ocu9QKrKdGKcUv1o44P.jpg

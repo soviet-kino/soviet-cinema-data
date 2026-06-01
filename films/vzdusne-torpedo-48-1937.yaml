@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q19600333
   imdb: tt0170784
+  tmdb: 616810
 sources:
 - https://www.wikidata.org/wiki/Q19600333
 schema_version: 1
@@ -66,3 +67,4 @@ cast:
 - person: vaverka-antonin
 - person: vildova-marie
 - person: cesky-karel
+poster_tmdb_path: /nGiFdooXEvyKHVYhBiiwGx9jV1O.jpg

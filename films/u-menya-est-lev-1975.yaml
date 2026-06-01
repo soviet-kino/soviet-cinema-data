@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4468253
   imdb: tt0073833
+  tmdb: 1691152
 sources:
 - https://www.wikidata.org/wiki/Q4468253
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 cast:
 - person: vesnik-evgeniy-yakovlevich
 - person: adoskin-anatoliy-mikhaylovich
+poster_tmdb_path: /vmgv978m4WuMO9SaVt9Tz1ZtZwD.jpg

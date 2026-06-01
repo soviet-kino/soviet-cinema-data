@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q7215268
   imdb: tt0030407
+  tmdb: 263099
 sources:
 - https://www.wikidata.org/wiki/Q7215268
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pikon-molli
 - person: bozyk-max
 - person: oppenheim-menashe
+poster_tmdb_path: /wI5rQbUHLBvjtmbzYt0URosiBMt.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1196278
   imdb: tt0084535
+  tmdb: 250918
 sources:
 - https://www.wikidata.org/wiki/Q1196278
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: uider-teresiya
 - person: noyenkhan-villi
 - person: hoffmann-tim
+poster_tmdb_path: /bzjsUUhowqGPnVgxIvn41pWgdhj.jpg
+backdrop_tmdb_path: /u7LSpTr3zD9KZMLQCW9spsGI9B1.jpg

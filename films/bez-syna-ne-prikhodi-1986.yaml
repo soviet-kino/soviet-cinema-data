@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4080775
   imdb: tt0266322
+  tmdb: 404259
 sources:
 - https://www.wikidata.org/wiki/Q4080775
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: sayko-natalya-petrovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /hxElWEUoIwFsO80FtPtuyeQazLd.jpg
+backdrop_tmdb_path: /kvdb63gIc08P1FkSOHEn6BoWGil.jpg

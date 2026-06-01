@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q241726
   imdb: tt0062277
   youtube: Op0wuHguS4c
+  tmdb: 59088
 sources:
 - https://www.wikidata.org/wiki/Q241726
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: milenkovic-branislav
 - person: decermic-stojan
 - person: pura-or-e
+poster_tmdb_path: /dmJEXrWKLcSOccoBsM0cRXjncB3.jpg
+backdrop_tmdb_path: /AfjFIWJL3bOzuSwjPqRQ3KuMMC2.jpg

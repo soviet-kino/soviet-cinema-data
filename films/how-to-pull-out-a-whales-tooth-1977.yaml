@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q2515589
   imdb: tt0322811
+  tmdb: 36892
 sources:
 - https://www.wikidata.org/wiki/Q2515589
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: vrkhota-robert
 - person: hovorka-jaroslav
 - person: vydlak-miroslav
+poster_tmdb_path: /adaW5iSz5hftHF0g7UMATIpTEDV.jpg
+backdrop_tmdb_path: /4y62FRjDDpMYLRF1KYcwPO1hBC3.jpg

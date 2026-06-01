@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q6785108
   imdb: tt0008804
+  tmdb: 1549558
 sources:
 - https://www.wikidata.org/wiki/Q6785108
 schema_version: 1
 director:
 - kyortis-maykl
+poster_tmdb_path: /tuuBlkAIhr6azt7RSUAjtWbc9kf.jpg

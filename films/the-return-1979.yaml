@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7760368
   imdb: tt0079743
+  tmdb: 474455
 sources:
 - https://www.wikidata.org/wiki/Q7760368
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: zegarats-dushitsa
 - person: vinko-kralevich
 - person: despot-dragan
+poster_tmdb_path: /tIOY6z2pSypAVG3pcFFc2f8dOJZ.jpg
+backdrop_tmdb_path: /rEyl7SNvhE1gZgWYQWDEll23xZ8.jpg

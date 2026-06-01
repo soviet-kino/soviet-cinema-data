@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1032532
   imdb: tt0121339
+  tmdb: 169081
 sources:
 - https://www.wikidata.org/wiki/Q1032532
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - torok-sandor
 cinematographer:
 - forgacs-otto
+poster_tmdb_path: /iPyimijBAYCCJuYjK5m9SsFbRyo.jpg
+backdrop_tmdb_path: /3hB0t4Gopl4WaNZV94vkQjeHvaO.jpg

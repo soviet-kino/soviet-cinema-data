@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1655170
   imdb: tt0230894
+  tmdb: 372108
 sources:
 - https://www.wikidata.org/wiki/Q1655170
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: borges-manfred
 - person: henker-paul-r
 - person: moebius-rolf
+poster_tmdb_path: /t9OzXLjXIo3gEh2cZoUpnAdKnqe.jpg
+backdrop_tmdb_path: /c4BRgFdiihAQxNaqZG4zl07a53r.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2528155
   imdb: tt0076727
   youtube: etI0ld0QHIw
+  tmdb: 31139
 sources:
 - https://www.wikidata.org/wiki/Q2528155
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Office Romance crew 05.jpg
+poster_tmdb_path: /lGDNHpYsDf1fCwLYYAr2iYMewEB.jpg
+backdrop_tmdb_path: /qnALlAgoQu6rDVKsuFJ7WDvLQjm.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q531109
   imdb: tt0059776
+  tmdb: 94663
 sources:
 - https://www.wikidata.org/wiki/Q531109
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: molnar-tibor
 studio:
 - mafilm
+poster_tmdb_path: /5wZaLHNBfNWOx4dMaVOHlK63wMW.jpg
+backdrop_tmdb_path: /nzKVpW9wYxdsQZroLaOBxuQ9GoU.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11782141
   imdb: tt0933090
+  tmdb: 642062
 sources:
 - https://www.wikidata.org/wiki/Q11782141
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - novitskiy-marek
 cast:
 - person: lapitskiy-andzhey
+poster_tmdb_path: /cPSU2E0OHXtbi135JcOoF7FuuTA.jpg
+backdrop_tmdb_path: /cKJGeqONGbZWmtZZq1hDaYspasi.jpg

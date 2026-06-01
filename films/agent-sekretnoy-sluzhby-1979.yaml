@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q106729682
   imdb: tt0266233
+  tmdb: 957397
 sources:
 - https://www.wikidata.org/wiki/Q106729682
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: miroshnichenko-irina-petrovna
 - person: grigoriu-grigore-petru
 - person: karachobanu-dumitru-savelevich
+poster_tmdb_path: /2u9pVYZcUoiJyofx43dfQjlpayK.jpg
+backdrop_tmdb_path: /gtoOUVUBqbXZBmT7TjdvHoHsfwr.jpg

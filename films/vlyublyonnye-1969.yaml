@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4113654
   imdb: tt0334637
   youtube: _M4K9cVXMl4
+  tmdb: 351506
 sources:
 - https://www.wikidata.org/wiki/Q4113654
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - uzbekfilm
 cast:
 - person: vertinskaya-anastasiya-aleksandrovna
+poster_tmdb_path: /5otQMdQXLFgYZVyBqHS6LclDaaU.jpg
+backdrop_tmdb_path: /3FLA4oxQcPUjAJqc1hKgUaLkasp.jpg

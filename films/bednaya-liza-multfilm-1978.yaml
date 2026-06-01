@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270478
   imdb: tt2371462
+  tmdb: 412696
 sources:
 - https://www.wikidata.org/wiki/Q15270478
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - rybnikov-aleksey
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /phiz3nZbsIFgN52mjU63fNcFXWp.jpg
+backdrop_tmdb_path: /gltSv6fz90hXyGi1odbCPd7khix.jpg

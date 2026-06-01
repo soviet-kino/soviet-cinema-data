@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q16411640
   imdb: tt0431266
+  tmdb: 582712
 sources:
 - https://www.wikidata.org/wiki/Q16411640
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - tallinfilm
 cast:
 - person: yarvet-yuri-evgenevich
+poster_tmdb_path: /25imAFJQBxrYUjoA2OAIBx0fRuf.jpg

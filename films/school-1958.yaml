@@ -8,8 +8,10 @@ runtime_min: 7
 external_ids:
   wikidata: Q29157587
   imdb: tt0052437
+  tmdb: 291091
 sources:
 - https://www.wikidata.org/wiki/Q29157587
 schema_version: 1
 director:
 - borovchik-valerian
+poster_tmdb_path: /p1UuC1u76B3AeKX9rjTgT1xaFHD.jpg

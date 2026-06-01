@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12764175
   imdb: tt0247252
+  tmdb: 798615
 sources:
 - https://www.wikidata.org/wiki/Q12764175
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: brazdovic-vojtech
 - person: kurucova-jozefina
 - person: paldiova-ria
+poster_tmdb_path: /bydMiCXDgZDFhtNPXwgLaBtQTzi.jpg

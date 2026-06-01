@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q56391159
   imdb: tt0152793
+  tmdb: 506270
 sources:
 - https://www.wikidata.org/wiki/Q56391159
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - der-andrash
 cast:
 - person: molnar-chilli
+poster_tmdb_path: /GB6B61uSvNDa6fWWfAK2MikUSK.jpg
+backdrop_tmdb_path: /4z3QHW44TutsNIAM6XMK67slwLj.jpg

@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4127156
   imdb: tt0287108
+  tmdb: 1198531
 sources:
 - https://www.wikidata.org/wiki/Q4127156
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - tutberidze-zurab-levanovich
 studio:
 - gruziya-film
+poster_tmdb_path: /fJu8uaT68GP1JexTtiUZIF9WbW0.jpg
+backdrop_tmdb_path: /6bKjauk6w5w8oKW219J0vOPKzvl.jpg

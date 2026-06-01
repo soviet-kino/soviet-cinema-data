@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q106729773
   imdb: tt0170646
+  tmdb: 549418
 sources:
 - https://www.wikidata.org/wiki/Q106729773
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - rozhkov-nikolay-vasilevich
 studio:
 - uzbekfilm
+poster_tmdb_path: /syOyA7wTonQYdi5MizZMLy4HlMo.jpg
+backdrop_tmdb_path: /uNtAYAad2875OtpJ9LzhzEqnk5S.jpg

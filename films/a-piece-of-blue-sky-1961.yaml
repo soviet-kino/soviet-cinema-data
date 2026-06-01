@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757051
   imdb: tt0180040
+  tmdb: 502052
 sources:
 - https://www.wikidata.org/wiki/Q12757051
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: toma-kuruzovich
 - person: rancic-alenka
 - person: pantelich-vasa
+poster_tmdb_path: /jyNU5o6salY7FY7fbZnDNSoBONN.jpg

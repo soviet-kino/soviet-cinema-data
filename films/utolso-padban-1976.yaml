@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q1400272
   imdb: tt0929289
+  tmdb: 399599
 sources:
 - https://www.wikidata.org/wiki/Q1400272
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - halasi-maria
 cinematographer:
 - dobay-sandor
+poster_tmdb_path: /o6UNMjSpdIPACYjjPQLyInXinIL.jpg
+backdrop_tmdb_path: /jmsyN503uodtLrzlmLeE24gVcYF.jpg

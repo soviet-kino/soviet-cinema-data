@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q7746139
   imdb: tt0058486
+  tmdb: 18949
 sources:
 - https://www.wikidata.org/wiki/Q7746139
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 composer:
 - konicek-stepan
 - sikola-zdenek
+poster_tmdb_path: /fatPBJvczQOn0NosTMYTJZQ86qW.jpg
+backdrop_tmdb_path: /nzbFxfru7L8L135kxzglAGhW6PQ.jpg

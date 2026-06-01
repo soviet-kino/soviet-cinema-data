@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56307952
   imdb: tt0229866
+  tmdb: 284086
 sources:
 - https://www.wikidata.org/wiki/Q56307952
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - astradantsev-dmitriy-borisovich
 studio:
 - sovkino
+poster_tmdb_path: /n2yHAUO4OsBFqVSoIe3jFxGnCDH.jpg
+backdrop_tmdb_path: /iamnY8pDiEP7lkSjHreoZilaNYf.jpg

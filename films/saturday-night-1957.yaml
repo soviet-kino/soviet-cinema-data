@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q6599349
   imdb: tt0174251
+  tmdb: 265684
 sources:
 - https://www.wikidata.org/wiki/Q6599349
 schema_version: 1
 director:
 - pogachich-vladimir
+poster_tmdb_path: /bnAYBdjtD8v22A5rWRNl6EkWDmL.jpg
+backdrop_tmdb_path: /z6gNXZmXdgAfGzEU8RMqaY0mWHw.jpg

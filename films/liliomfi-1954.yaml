@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6547837
   imdb: tt0047180
+  tmdb: 191428
 sources:
 - https://www.wikidata.org/wiki/Q6547837
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pechi-shandor
 - person: radzhnay-gabor
 - person: szmere-vera
+poster_tmdb_path: /2U65Ji1XwsZvroA7NzuNcGsl1l5.jpg
+backdrop_tmdb_path: /2Uu7AA5Hio0bWHKWU4trkN1Jqxg.jpg

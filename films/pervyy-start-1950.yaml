@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q11816773
   imdb: tt0043921
+  tmdb: 712501
 sources:
 - https://www.wikidata.org/wiki/Q11816773
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mikhnikovskiy-veslav
 - person: mikhalskiy-stanislav
 - person: nevinovskiy-bogdan
+poster_tmdb_path: /8WnsIx2MhNFkeBlCK7EhmSZSPUP.jpg
+backdrop_tmdb_path: /zV8cY0SNsGPJUUuuyiUizQq1FLs.jpg

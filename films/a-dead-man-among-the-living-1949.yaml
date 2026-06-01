@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4656344
   imdb: tt0194183
+  tmdb: 583844
 sources:
 - https://www.wikidata.org/wiki/Q4656344
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: jarkovsky-ferdinand
 - person: hajek-milos
 - person: nikodem-radim
+poster_tmdb_path: /tT51AlLfy2DsppqAEHYJoMZ2H7s.jpg
+backdrop_tmdb_path: /fwsf3Pe5WYzoJ2gHWURDnOSYxCf.jpg

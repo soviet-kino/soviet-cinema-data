@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q4455587
   imdb: tt4849690
+  tmdb: 655340
 sources:
 - https://www.wikidata.org/wiki/Q4455587
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - biryukov-yuriy-sergeevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9QkA9UjcjQ9M9Dn1OCK2r9hLYnC.jpg

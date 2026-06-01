@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q55188
   imdb: tt0021571
   youtube: fInaSOtpqE0
+  tmdb: 46594
 sources:
 - https://www.wikidata.org/wiki/Q55188
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: 1996. Кадр из фильма Земля.jpg
+poster_tmdb_path: /bBbE0EbtbY2EYEWfKMlxZ9y36uP.jpg
+backdrop_tmdb_path: /5EHNInARZmBhOnwl3kiDfhCYTvC.jpg

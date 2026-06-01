@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q1056849
   imdb: tt0021985
+  tmdb: 41062
 sources:
 - https://www.wikidata.org/wiki/Q1056849
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: vandory-gusztav
 - person: goth-sandor
 poster_commons: Hyppolit, a lakáj.jpg
+poster_tmdb_path: /u9WM2SA84TNbCdVml7pJ8IJe6pM.jpg
+backdrop_tmdb_path: /bOQ44VeEO2v4BPExBGYl070zQBO.jpg

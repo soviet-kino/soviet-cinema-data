@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q84994429
   imdb: tt1456898
+  tmdb: 604087
 sources:
 - https://www.wikidata.org/wiki/Q84994429
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - saulskiy-yuriy
 studio:
 - mosfilm
+poster_tmdb_path: /wmJXKtPbSe66uhpyp6Iej4yzYQw.jpg
+backdrop_tmdb_path: /cy2042W71E2UsGFxouYPtEsy6vt.jpg

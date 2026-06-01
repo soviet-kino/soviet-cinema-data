@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q7262015
   imdb: tt0184840
+  tmdb: 363029
 sources:
 - https://www.wikidata.org/wiki/Q7262015
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: buzanchich-boris
 - person: karich-ana
 - person: kutijaro-emil
+poster_tmdb_path: /dJeHJGXledeeJcPV5Z22ltDxipE.jpg

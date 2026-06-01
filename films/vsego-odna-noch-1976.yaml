@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q30800711
   imdb: tt0337437
+  tmdb: 542823
 sources:
 - https://www.wikidata.org/wiki/Q30800711
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - shulman-iosif-abramovich
 studio:
 - belarusfilm
+poster_tmdb_path: /dmFz0vvKZpdlsI5u2qJ29a1syNF.jpg
+backdrop_tmdb_path: /xEj6D1Bzm95U3bA7nzqVZHm7Utl.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1366546
   imdb: tt0184316
+  tmdb: 49587
 sources:
 - https://www.wikidata.org/wiki/Q1366546
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: q131820295
 - person: bernatova-irena
 - person: kriz-zdenek
+poster_tmdb_path: /zFwdYowSp357ta9PhDXQ2tcPiMa.jpg
+backdrop_tmdb_path: /xJXoFAwKgsxXYXr9Psb2qUw0JLO.jpg

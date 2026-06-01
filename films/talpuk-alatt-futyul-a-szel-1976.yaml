@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q17143085
   imdb: tt0075305
+  tmdb: 115248
 sources:
 - https://www.wikidata.org/wiki/Q17143085
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: olga-beregszaszi
 studio:
 - mafilm
+poster_tmdb_path: /kCTcYxODxODol1v2TtI8APD86V0.jpg

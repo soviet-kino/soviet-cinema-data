@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4224361
   imdb: tt0230420
   youtube: Tk9i_hY9NxA
+  tmdb: 533485
 sources:
 - https://www.wikidata.org/wiki/Q4224361
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: izotov-vladimir
 studio:
 - ekran
+poster_tmdb_path: /g3if6rQgcb6fE9kT5HcQrRDSzJN.jpg
+backdrop_tmdb_path: /fgkxlH2yUdK8AZuHuEGskMj9XKf.jpg

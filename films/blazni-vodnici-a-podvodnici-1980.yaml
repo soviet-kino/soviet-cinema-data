@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4930908
   imdb: tt0138328
+  tmdb: 234395
 sources:
 - https://www.wikidata.org/wiki/Q4930908
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: q130545700
 - person: q131765966
 - person: kouba-frantisek
+poster_tmdb_path: /pEY7w9XCYs2DWr9yCpZ2WLPcBqR.jpg
+backdrop_tmdb_path: /kQuYxGzMCnt6atUSuCbtENsUMnO.jpg

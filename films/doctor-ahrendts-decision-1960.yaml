@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5287290
   imdb: tt0053797
+  tmdb: 439607
 sources:
 - https://www.wikidata.org/wiki/Q5287290
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: wei-siegfried
 studio:
 - defa
+poster_tmdb_path: /pSh4Ueu2YTXCCZJ48sdtUnL4AR1.jpg

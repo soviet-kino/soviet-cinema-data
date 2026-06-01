@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31092879
   imdb: tt0067339
+  tmdb: 610221
 sources:
 - https://www.wikidata.org/wiki/Q31092879
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: buytor-ishtvan
 - person: ronyecz-maria
 - person: timar-eva
+poster_tmdb_path: /ux7lWPpGeWyys57SVJKCrCD43nm.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q84994433
   imdb: tt0376096
+  tmdb: 1060214
 sources:
 - https://www.wikidata.org/wiki/Q84994433
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - shiryaev-evgeniy
 studio:
 - uzbekfilm
+poster_tmdb_path: /e2EbfFhzMrKrXGaoql95p5V7akG.jpg

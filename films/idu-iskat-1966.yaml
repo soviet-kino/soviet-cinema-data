@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4197977
   imdb: tt2256578
   youtube: UhcjXd6N9RU
+  tmdb: 532911
 sources:
 - https://www.wikidata.org/wiki/Q4197977
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - belarusfilm
 cast:
 - person: zhzhyonov-georgiy-stepanovich
+poster_tmdb_path: /1rfUImA3x4VokXEz71bEnxB7kEB.jpg
+backdrop_tmdb_path: /ow1VykaA8V3YuhopAM9I3C2Y41D.jpg

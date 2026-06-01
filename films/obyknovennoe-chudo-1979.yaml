@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1082153
   imdb: tt0186408
   youtube: gZiKrWSzNBo
+  tmdb: 27935
 sources:
 - https://www.wikidata.org/wiki/Q1082153
 schema_version: 1
@@ -34,3 +35,5 @@ studio:
 - mosfilm
 - ekran
 poster_commons: Yankovsky, Zakharov, Larionov.jpg
+poster_tmdb_path: /htvbPwc21Ey2yk4RDv69JM7ivRw.jpg
+backdrop_tmdb_path: /guxQXd9hoIImNJzDCezTzth4Oxv.jpg

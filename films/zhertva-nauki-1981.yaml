@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31272348
   imdb: tt0446481
+  tmdb: 1305370
 sources:
 - https://www.wikidata.org/wiki/Q31272348
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - hindpere-hans
 studio:
 - tallinfilm
+poster_tmdb_path: /pDTfkp4H7H54T2lKK07EwtId7XI.jpg

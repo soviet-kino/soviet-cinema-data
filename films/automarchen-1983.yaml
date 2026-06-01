@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q787950
   imdb: tt0085199
+  tmdb: 254013
 sources:
 - https://www.wikidata.org/wiki/Q787950
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - bergmann-khelmut
 composer:
 - zasse-karl-ernst
+poster_tmdb_path: /tjAicXK7Jt7CFlcxAEpeCBUZxqA.jpg
+backdrop_tmdb_path: /6YtGGnSKV5iKPa5WdLvWnoP2sIS.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65205807
   imdb: tt0335541
+  tmdb: 381365
 sources:
 - https://www.wikidata.org/wiki/Q65205807
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - manasarova-aida-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /pUjXpq5SNv9mhF2Wy0xOj2XMkiM.jpg
+backdrop_tmdb_path: /vPUP9LXO5GSihhyj2PGHHW7HLIX.jpg

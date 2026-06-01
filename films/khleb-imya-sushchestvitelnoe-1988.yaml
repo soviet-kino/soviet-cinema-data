@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4498020
   imdb: tt0270784
+  tmdb: 896818
 sources:
 - https://www.wikidata.org/wiki/Q4498020
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: lavrov-kirill-yurevich
 studio:
 - lenfilm
+poster_tmdb_path: /1AT1iBiAzuReVMQq4efWP8MvUyn.jpg

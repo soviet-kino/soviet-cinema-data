@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q521876
   imdb: tt0058751
+  tmdb: 3686
 sources:
 - https://www.wikidata.org/wiki/Q521876
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: nenadovic-or-e
 studio:
 - rialto-film
+poster_tmdb_path: /85fkkj5YpB1XCTb0HHt8w9UHZtV.jpg
+backdrop_tmdb_path: /8B6WE1x650vi2hgc9IKPZKnuXmW.jpg

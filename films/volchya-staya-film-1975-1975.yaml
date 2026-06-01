@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200657
   imdb: tt0140683
+  tmdb: 484094
 sources:
 - https://www.wikidata.org/wiki/Q65200657
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - smolskiy-dmitriy-bronislavovich
 studio:
 - belarusfilm
+poster_tmdb_path: /cOLddBjD6riwogpkohBzLOcL3O0.jpg
+backdrop_tmdb_path: /usfm6GxEgZlRL5EI1Wxbaq6cr8M.jpg

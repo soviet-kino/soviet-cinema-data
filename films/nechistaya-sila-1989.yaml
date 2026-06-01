@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q4318322
   imdb: tt0311573
+  tmdb: 498714
 sources:
 - https://www.wikidata.org/wiki/Q4318322
 schema_version: 1
+poster_tmdb_path: /vOlP8nMjhMb36f7KTvJ9X14zQrq.jpg
+backdrop_tmdb_path: /dfSDgp7tsO9mbGcYA36OVgUom0C.jpg

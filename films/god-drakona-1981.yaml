@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4141086
   imdb: tt0237275
   youtube: Ud_bookThbQ
+  tmdb: 1164203
 sources:
 - https://www.wikidata.org/wiki/Q4141086
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - vovnyanko-igor-aleksandrovich
 composer:
 - khagagortyan-eduard
+poster_tmdb_path: /wLubfwi1FUQdRte5aWOAtUc9mpW.jpg

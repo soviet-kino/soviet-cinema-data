@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4536318
   imdb: tt0027813
+  tmdb: 607236
 sources:
 - https://www.wikidata.org/wiki/Q4536318
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 cast:
 - person: smosarskaya-yadviga
 poster_commons: Jadzia 1936.jpg
+poster_tmdb_path: /k5TODihxWZy6CMepGpd4Uru2hgz.jpg
+backdrop_tmdb_path: /auJrHb8TTOLvqyqJ9AAVzp34NcW.jpg

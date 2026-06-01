@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4523411
   imdb: tt0173192
   youtube: LgB_xnOFUNo
+  tmdb: 391658
 sources:
 - https://www.wikidata.org/wiki/Q4523411
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: gorelov-vladimir-konstantinovich
 studio:
 - mosfilm
+poster_tmdb_path: /f6FsU0P8oo0ZwDryddQws12PpNM.jpg
+backdrop_tmdb_path: /cMacs0PEtf6Bpxb3uFX1TzUhpqI.jpg

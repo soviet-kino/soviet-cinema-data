@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4254610
   imdb: tt0081030
   youtube: FIlDHBZ_HkY
+  tmdb: 257788
 sources:
 - https://www.wikidata.org/wiki/Q4254610
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: shepitko-larisa
 studio:
 - mosfilm
+poster_tmdb_path: /gbb41PPM4o2TLCDqtj8tPWmCjj9.jpg
+backdrop_tmdb_path: /hsTPwhpBdirBKX1D8UKWPHhqajz.jpg

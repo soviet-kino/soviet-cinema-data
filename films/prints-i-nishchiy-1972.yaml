@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4378824
   imdb: tt0069122
+  tmdb: 576934
 sources:
 - https://www.wikidata.org/wiki/Q4378824
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: krasko-ivan-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /bEhoajpFeaeF1rdGXiMZD8hXtae.jpg
+backdrop_tmdb_path: /jRoZmzCCb5ooiFNBtv3cL3fYkzi.jpg

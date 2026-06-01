@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9339880
   imdb: tt0078304
+  tmdb: 920547
 sources:
 - https://www.wikidata.org/wiki/Q9339880
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - marchevskiy-petr
 cast:
 - person: olgerd-lukashevich
+poster_tmdb_path: /1arhIomBzgtNvoAAFbmKH3fCz82.jpg

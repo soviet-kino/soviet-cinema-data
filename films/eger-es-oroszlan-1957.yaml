@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q15621828
   imdb: tt3430528
+  tmdb: 571110
 sources:
 - https://www.wikidata.org/wiki/Q15621828
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - varnai-gyorgy
 studio:
 - pannoniya
+poster_tmdb_path: /jjAJEQXVCv5QwXIUDcLUh8h3PPY.jpg

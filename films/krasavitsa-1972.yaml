@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q12655879
   imdb: tt1272016
+  tmdb: 342898
 sources:
 - https://www.wikidata.org/wiki/Q12655879
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: q127271916
 - person: mitskis-vaydevutis
 - person: verbeyus-mantas
+poster_tmdb_path: /ddYVunfIXCP7qblQ2xf4rouvXlJ.jpg
+backdrop_tmdb_path: /6ozKo5Jeb2GDxM00cncUO3YHGRV.jpg

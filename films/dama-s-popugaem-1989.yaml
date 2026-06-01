@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4154361
   imdb: tt0305408
   youtube: ZnhTsstGi2o
+  tmdb: 398985
 sources:
 - https://www.wikidata.org/wiki/Q4154361
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: smirnova-svetlana-stanislavovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /l5cGkbKc25EB4kaB4LCmZWYKuLL.jpg
+backdrop_tmdb_path: /iU7F5RVBJba4mCDYc33Kp2PfwA0.jpg

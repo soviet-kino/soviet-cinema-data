@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3209033
   imdb: tt0102497
+  tmdb: 216046
 sources:
 - https://www.wikidata.org/wiki/Q3209033
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - shinarbaev-ermek
 screenwriter:
 - kim-anatoliy-andreevich
+poster_tmdb_path: /vD37eTUjLXhk3GGuBatAet8chWa.jpg
+backdrop_tmdb_path: /xLOWcPUXkKejSb9tJiB3pG6mjbx.jpg

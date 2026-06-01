@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4450745
   imdb: tt0073787
+  tmdb: 730495
 sources:
 - https://www.wikidata.org/wiki/Q4450745
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: bogatyryov-yuriy-georgievich
+poster_tmdb_path: /bNWfsMmNKWSgVQmkpLammFOHLMB.jpg
+backdrop_tmdb_path: /dJPPF1yocE4T3AKVf57rGHiu8Lk.jpg

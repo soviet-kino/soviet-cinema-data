@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16389836
   imdb: tt0177245
   youtube: SAKMCfUZ8Fk
+  tmdb: 570539
 sources:
 - https://www.wikidata.org/wiki/Q16389836
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: timofeeva-nina
 studio:
 - mosfilm
+poster_tmdb_path: /uwjiU5QlWznr6zQ1ydgnZqLFwKJ.jpg
+backdrop_tmdb_path: /kWTgKhayjpU4kWZ5mIi8nZTNPuD.jpg

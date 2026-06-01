@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q56356636
   imdb: tt3208002
+  tmdb: 1439892
 sources:
 - https://www.wikidata.org/wiki/Q56356636
 schema_version: 1
 director:
 - nitochkin-anatoliy-dmitrievich
+poster_tmdb_path: /lQir2A1v7k4Q6NziIgid0U52DWn.jpg
+backdrop_tmdb_path: /elEhkB6WwGcWVDqtkN18Zsk1tje.jpg

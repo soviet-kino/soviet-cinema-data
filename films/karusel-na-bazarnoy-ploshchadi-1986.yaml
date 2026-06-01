@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994642
   imdb: tt0266691
   youtube: DiAqh14oGLo
+  tmdb: 895233
 sources:
 - https://www.wikidata.org/wiki/Q84994642
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: dyomina-galina-yakovlevna
 studio:
 - mosfilm
+poster_tmdb_path: /6T0wripvXs1EHU4qJFLdLN5c7M2.jpg
+backdrop_tmdb_path: /52HLDhn9Zwp19jfuWWWW7aNhQn0.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4407201
   imdb: tt0195272
   youtube: haC-IVByUfU
+  tmdb: 541198
 sources:
 - https://www.wikidata.org/wiki/Q4407201
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kadochnikov-pavel-petrovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /z4CxlXOtlMXzeE0sY5JhPXKtBBr.jpg

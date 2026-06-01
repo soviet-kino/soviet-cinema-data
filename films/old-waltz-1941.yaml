@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123505033
   imdb: tt0034138
+  tmdb: 53855
 sources:
 - https://www.wikidata.org/wiki/Q123505033
 schema_version: 1
 director:
 - banky-viktor
+poster_tmdb_path: /4dBew7QBv5FDIY7PxKj7VdaHGe2.jpg

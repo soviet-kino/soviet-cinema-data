@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4350179
   imdb: tt0095848
   youtube: 3s97nQSeRiI
+  tmdb: 229546
 sources:
 - https://www.wikidata.org/wiki/Q4350179
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: mironov-evgeniy-vitalevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /724ITQ4pXrRqF5HrtGlarjWxCgD.jpg
+backdrop_tmdb_path: /uFhPF2bohlyU1PRNEKhGn0Dg1Ts.jpg

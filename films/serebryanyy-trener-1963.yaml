@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q109564549
   imdb: tt0314639
   youtube: dnghAtVQm6E
+  tmdb: 826834
 sources:
 - https://www.wikidata.org/wiki/Q109564549
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - filippenko-vitaliy-arkadevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /yDhWK7ai3uLBZn1pG1pVGaylvE3.jpg

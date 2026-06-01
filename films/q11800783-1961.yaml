@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11800783
   imdb: tt0055268
+  tmdb: 346063
 sources:
 - https://www.wikidata.org/wiki/Q11800783
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kashitskiy-lyutsian
 cast:
 - person: stempovskiy-yarema
+poster_tmdb_path: /lu4q7PpMr4c3LNt3CBjprg1B68s.jpg

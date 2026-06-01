@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4244330
   imdb: tt0237391
   youtube: YHA8RH_RAnw
+  tmdb: 520783
 sources:
 - https://www.wikidata.org/wiki/Q4244330
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: belyaeva-galina
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /jHTTX5JFwYCSaGLjvdE6gOXjvLA.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1171003
   imdb: tt0171121
+  tmdb: 5596
 sources:
 - https://www.wikidata.org/wiki/Q1171003
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: pulman-marilu
 - person: khebenshtrayt-pedro
 - person: schonitz-joachim
+poster_tmdb_path: /1N8XaWLjaaBL2CwVqOoFlFOnVKD.jpg
+backdrop_tmdb_path: /rbqML9JZbAinla2dYzzlEgedbmd.jpg

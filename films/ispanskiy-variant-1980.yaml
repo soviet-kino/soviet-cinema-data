@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4204158
   imdb: tt0230340
   youtube: 6yHa1tkCjF0
+  tmdb: 206948
 sources:
 - https://www.wikidata.org/wiki/Q4204158
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - pauls-raymond
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /zoS5K83KrpRq69JA39DvQkUyHgL.jpg
+backdrop_tmdb_path: /lSMjSVmhNbpMplfyKJjp399aUPW.jpg

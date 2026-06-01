@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12649760
   imdb: tt11574112
+  tmdb: 809826
 sources:
 - https://www.wikidata.org/wiki/Q12649760
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 studio:
 - lenfilm
 - litovskaya-kinostudiya
+poster_tmdb_path: /1Do05mgRlQgWzu6t0SvvbjaE57f.jpg
+backdrop_tmdb_path: /pR1zqZ6vn1ITP27H8eo9jex3oQj.jpg

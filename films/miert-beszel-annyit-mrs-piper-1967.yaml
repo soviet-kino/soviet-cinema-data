@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q47994469
   imdb: tt1504440
+  tmdb: 529620
 sources:
 - https://www.wikidata.org/wiki/Q47994469
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: sabo-gabor-madi
 - person: mate-erzhi
 - person: temessy-hedi
+poster_tmdb_path: /3iLBXvLTFrV1TuvAVDXSbbp5NeB.jpg
+backdrop_tmdb_path: /fAh95cX9ghTtPGHK1erWSylaIoG.jpg

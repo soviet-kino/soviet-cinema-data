@@ -24,6 +24,8 @@ cast:
 external_ids:
   wikidata: Q12845511
   imdb: tt5517320
+  tmdb: 890428
 sources:
 - https://www.wikidata.org/wiki/Q12845511
 schema_version: 1
+poster_tmdb_path: /tMOcOFtU8NUJJHnCVE1HabEyNcl.jpg

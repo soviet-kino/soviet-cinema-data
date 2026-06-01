@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4545144
   imdb: tt0077600
+  tmdb: 611237
 sources:
 - https://www.wikidata.org/wiki/Q4545144
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: grabovskiy-pyotr
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /eWyzww6PJSfO7B4MZCCjCsSYH7g.jpg
+backdrop_tmdb_path: /ftjnqKDuXOKF24wU5RyTpatoypA.jpg

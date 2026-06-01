@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3506235
   imdb: tt0171394
+  tmdb: 1021033
 sources:
 - https://www.wikidata.org/wiki/Q3506235
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: ivitsa-vidovich
 - person: milenkovic-branislav
 - person: dobrichanin-dragutin
+poster_tmdb_path: /enp2dgCipkDU2fV4q6kh9W7qYEo.jpg

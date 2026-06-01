@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4028658
   imdb: tt1663304
   youtube: xMwZNOCWDUs
+  tmdb: 696060
 sources:
 - https://www.wikidata.org/wiki/Q4028658
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: lyoskin-boris-vulfovich
 - person: devyatkin-mikhail-konstantinovich
 - person: sokolov-aleksandr-vasilevich
+poster_tmdb_path: /ylEuvsRgSK03WLS6iQUUR6ghRnP.jpg
+backdrop_tmdb_path: /6A4ghs5ILYtaFvE8gA7zkIaqszI.jpg

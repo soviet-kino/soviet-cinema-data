@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q25516786
   imdb: tt1921041
+  tmdb: 330320
 sources:
 - https://www.wikidata.org/wiki/Q25516786
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: korvemann-salme
 - person: kromanova-silvia
 - person: murk-urgo
+poster_tmdb_path: /xWSkKJkrYj8YzSzEcU2yliRqS51.jpg
+backdrop_tmdb_path: /wBS999vETXkbtv2cWwMStV3c2wn.jpg

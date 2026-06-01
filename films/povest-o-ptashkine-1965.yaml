@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q116811466
   imdb: tt4859994
+  tmdb: 1523899
 sources:
 - https://www.wikidata.org/wiki/Q116811466
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: antonov-vladimir-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /q6imX05AzD1QKamQCKZw5ASVMKj.jpg

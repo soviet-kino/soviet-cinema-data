@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748461
   imdb: tt0279656
+  tmdb: 460173
 sources:
 - https://www.wikidata.org/wiki/Q12748461
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: bikhali-melita
 studio:
 - radio-i-televidenie-serbii
+poster_tmdb_path: /gnp76kqeWFNpjkanJODZ9kD7C99.jpg

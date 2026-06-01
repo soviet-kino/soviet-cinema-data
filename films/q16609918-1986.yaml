@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16609918
   imdb: tt0092054
+  tmdb: 919629
 sources:
 - https://www.wikidata.org/wiki/Q16609918
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 cast:
 - person: pokora-voytsekh
 - person: glinka-marian
+poster_tmdb_path: /oCokU7ApcQiitqp7EQR6A5o9YDw.jpg

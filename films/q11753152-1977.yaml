@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q11753152
   imdb: tt3429174
+  tmdb: 686052
 sources:
 - https://www.wikidata.org/wiki/Q11753152
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: tolewska-krystyna
 studio:
 - q110427551
+poster_tmdb_path: /abtAaIDNMMlxFOoxzX4Y0cQM5HD.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q117816886
   imdb: tt0262399
+  tmdb: 484343
 sources:
 - https://www.wikidata.org/wiki/Q117816886
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 cinematographer:
 - khesh-eduard
 - eiben-istvan
+poster_tmdb_path: /mKdOfEB8kW8k5CaoWybIUrgfHON.jpg

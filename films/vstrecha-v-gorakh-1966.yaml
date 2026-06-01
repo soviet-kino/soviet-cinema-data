@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4127687
   imdb: tt0235087
+  tmdb: 262940
 sources:
 - https://www.wikidata.org/wiki/Q4127687
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: ebralidze-soso
 - person: meskhi-lali
 - person: ebralidze-amiran
+poster_tmdb_path: /1jPZul5dnRLX8Qq7dG93ybvneA1.jpg
+backdrop_tmdb_path: /9haKSJQ5RPHqgES7pL06P6GktoK.jpg

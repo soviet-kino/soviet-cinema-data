@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4057197
   imdb: tt0060833
+  tmdb: 439412
 sources:
 - https://www.wikidata.org/wiki/Q4057197
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: q116153253
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /qqHGApj1nHgIFJolQO2qFQrOBGx.jpg

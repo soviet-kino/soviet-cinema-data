@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q6672931
   imdb: tt0166492
+  tmdb: 187310
 sources:
 - https://www.wikidata.org/wiki/Q6672931
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: piskacek-vaclav
 - person: kocova-tana
 - person: budil-jaroslav
+poster_tmdb_path: /ta21xvXlkmdNp9LfBfZ5ArbAC49.jpg
+backdrop_tmdb_path: /jPvDLh8rWX2JDxPWcmStOofqPrD.jpg

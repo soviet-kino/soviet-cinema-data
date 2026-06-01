@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q3508978
   imdb: tt0060596
+  tmdb: 363027
 sources:
 - https://www.wikidata.org/wiki/Q3508978
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: lasta-sven
 studio:
 - yadran-film
+poster_tmdb_path: /oNg4ODXKCZGoiibAnyiSarSzsXR.jpg
+backdrop_tmdb_path: /ea3lGNpUVjZNpzziSnAz1gSNJ7G.jpg

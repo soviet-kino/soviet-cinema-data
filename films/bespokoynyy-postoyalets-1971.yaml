@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q11752155
   imdb: tt0067308
+  tmdb: 671028
 sources:
 - https://www.wikidata.org/wiki/Q11752155
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: peratskiy-yuzef
 - person: strasburger-karol
 - person: lonch-marian
+poster_tmdb_path: /hY9qRuOb0gA1XQtl22uwtC0ckjN.jpg
+backdrop_tmdb_path: /klQe2c7xgCzbcaWknWK5CkT0Vmk.jpg

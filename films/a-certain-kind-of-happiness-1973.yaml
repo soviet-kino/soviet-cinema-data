@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44863134
   imdb: tt0179763
+  tmdb: 628669
 sources:
 - https://www.wikidata.org/wiki/Q44863134
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - kiritse-konstantin
 cast:
 - person: abramovichi-trisi
+poster_tmdb_path: /2GjVIW6gcy4OeSPvVz0VwGBv2KB.jpg

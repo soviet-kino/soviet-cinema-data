@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q28359841
   imdb: tt0138954
+  tmdb: 429068
 sources:
 - https://www.wikidata.org/wiki/Q28359841
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: jiskrova-libuse
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /hW3vb2yF7ZsXEismS6ugGfzaNNm.jpg

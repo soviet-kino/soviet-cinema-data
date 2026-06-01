@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4279717
   imdb: tt1074985
   youtube: la7hwRw6SbY
+  tmdb: 273202
 sources:
 - https://www.wikidata.org/wiki/Q4279717
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - ekran
+poster_tmdb_path: /bnWtmvi2q4zw9mleKEJVdbdWIJZ.jpg
+backdrop_tmdb_path: /7tBjhKftMzO27vrpG9xF6NriRXM.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4257629
   imdb: tt0060623
+  tmdb: 101362
 sources:
 - https://www.wikidata.org/wiki/Q4257629
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - tshaskovskiy-andzhey
 cast:
 - person: endrusik-kalina
+poster_tmdb_path: /8W4AU7BiHImeBUWzXoNweUX3Ex8.jpg
+backdrop_tmdb_path: /hUYaqNTPWMuNUzl3GqLbcpgjsiq.jpg

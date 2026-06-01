@@ -8,6 +8,7 @@ runtime_min: 1
 external_ids:
   wikidata: Q15270947
   imdb: tt1329221
+  tmdb: 1653442
 sources:
 - https://www.wikidata.org/wiki/Q15270947
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - barinova-galina-sergeevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /t6Bhfk2fokzQLy826zFQrQYTjW5.jpg
+backdrop_tmdb_path: /7CLLduiGAOzUQbAEZTQV7fTknsw.jpg

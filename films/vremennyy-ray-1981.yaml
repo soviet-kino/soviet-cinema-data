@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7698966
   imdb: tt0082545
+  tmdb: 286458
 sources:
 - https://www.wikidata.org/wiki/Q7698966
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: dyussole-andre
 - person: soos-edit
 - person: banfalvi-agnes
+poster_tmdb_path: /i1085vDf0DWJdSTvDP0bTaTThmM.jpg

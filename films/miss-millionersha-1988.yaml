@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4296448
   imdb: tt0174924
+  tmdb: 71022
 sources:
 - https://www.wikidata.org/wiki/Q4296448
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: karachentsov-nikolay
 studio:
 - lenfilm
+poster_tmdb_path: /tQNZ4MyVOou7Fzja5vHfuFVFnNO.jpg
+backdrop_tmdb_path: /wKsbpmu3uv2rNFZ0JFhmvHTk0Vs.jpg

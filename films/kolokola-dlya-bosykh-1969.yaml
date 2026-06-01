@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q12780886
   imdb: tt0124222
+  tmdb: 46863
 sources:
 - https://www.wikidata.org/wiki/Q12780886
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: gervai-frantisek
 - person: tyoryok-frantishek
 - person: torok-frantisek
+poster_tmdb_path: /6Mm5qYIx7wJkZCgN9ujzTptT7tb.jpg
+backdrop_tmdb_path: /5BNG5k8YJEmxmVO24ufPIypAOqZ.jpg

@@ -8,6 +8,7 @@ runtime_min: 4
 external_ids:
   wikidata: Q30879492
   imdb: tt8142236
+  tmdb: 248992
 sources:
 - https://www.wikidata.org/wiki/Q30879492
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - yufit-evgeniy-georgievich
 screenwriter:
 - yufit-evgeniy-georgievich
+poster_tmdb_path: /bKu6qOuXpqa2cxkh6zsg5psq9K.jpg

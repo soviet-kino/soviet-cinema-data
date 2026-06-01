@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q25397136
   imdb: tt7295404
+  tmdb: 448197
 sources:
 - https://www.wikidata.org/wiki/Q25397136
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shvarts-lev-oleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /jpSKOOBuOFy10DUBa0WUBrYtTL3.jpg

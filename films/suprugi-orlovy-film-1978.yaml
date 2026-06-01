@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q99180774
   imdb: tt0078347
   youtube: ADDlwoINNoM
+  tmdb: 548465
 sources:
 - https://www.wikidata.org/wiki/Q99180774
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - khozak-rafail-matveevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6OQqo4RefQVn4spnmSSkyLtXZTC.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1963559
   imdb: tt0086863
   youtube: GFKrWgxYTvY
+  tmdb: 78359
 sources:
 - https://www.wikidata.org/wiki/Q1963559
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: zo-kowska-jolanta
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /tCUz58ZN1tHkK0fbubPh5osN64L.jpg
+backdrop_tmdb_path: /uTos3MyM8mgUkDx4GyjdnkmEFXa.jpg

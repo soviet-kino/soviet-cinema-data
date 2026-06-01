@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q63107732
   imdb: tt0026583
   youtube: oyNmdVR1wtw
+  tmdb: 266727
 sources:
 - https://www.wikidata.org/wiki/Q63107732
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - pushkov-venedikt-venediktovich
 studio:
 - lenfilm
+poster_tmdb_path: /7NMS84Qyomzz0Ow3VpLjRrhmm7j.jpg
+backdrop_tmdb_path: /88ZCQs5M6597jKC16Hb6JhNUupn.jpg

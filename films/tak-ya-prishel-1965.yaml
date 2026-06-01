@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q715142
   imdb: tt0058787
+  tmdb: 94664
 sources:
 - https://www.wikidata.org/wiki/Q715142
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gera-zoltan
 - person: nikonenko-sergey
 - person: khorvat-laslo
+poster_tmdb_path: /fXBITHNZq5Yvi48Dl3aGN5CoUmx.jpg
+backdrop_tmdb_path: /9iSvBCo7Nm5vdq7czts2RrIE4hT.jpg

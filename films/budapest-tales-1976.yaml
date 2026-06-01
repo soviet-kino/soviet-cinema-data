@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q609244
   imdb: tt0074253
+  tmdb: 129894
 sources:
 - https://www.wikidata.org/wiki/Q609244
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: mesarosh-agi
 - person: pechka-frantishek
 - person: szurmiej-szymon
+poster_tmdb_path: /rrGVgh7Htts54CAer8iZtm7wt9j.jpg
+backdrop_tmdb_path: /jT7hn7AlYdeEvsl7k1SKIlycjBX.jpg

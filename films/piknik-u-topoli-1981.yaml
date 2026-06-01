@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757274
   imdb: tt0188998
+  tmdb: 283875
 sources:
 - https://www.wikidata.org/wiki/Q12757274
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: dzhelika-sretenovich
 - person: predrag-lakovich
 - person: mile-stankovich
+poster_tmdb_path: /6iPiWR2hH9pcsJtjIpzkIyDUWCs.jpg

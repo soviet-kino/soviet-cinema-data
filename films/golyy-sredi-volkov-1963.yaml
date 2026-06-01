@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q326789
   imdb: tt0056271
+  tmdb: 2227
 sources:
 - https://www.wikidata.org/wiki/Q326789
 schema_version: 1
@@ -50,3 +51,5 @@ studio:
 - defa
 poster_commons: Bundesarchiv Bild 183-A0816-0001-001, Dreharbeiten "Nackt unter Wölfen",
   Beyer, Apitz, Köfer.jpg
+poster_tmdb_path: /wCHArrlr5YqORMttvSyVk7nPAsm.jpg
+backdrop_tmdb_path: /kAJcAsgfuXtnXbhwZLoxAum4PAU.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4210002
   imdb: tt0127617
+  tmdb: 836499
 sources:
 - https://www.wikidata.org/wiki/Q4210002
 schema_version: 1
@@ -19,3 +20,4 @@ studio:
 - ekran
 cast:
 - person: andreev-vladimir-alekseevich
+poster_tmdb_path: /my3ospns39sypcaoQkSbTgeCeKL.jpg

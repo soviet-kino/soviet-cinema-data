@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q1169840
   imdb: tt0062019
+  tmdb: 181800
 sources:
 - https://www.wikidata.org/wiki/Q1169840
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: kristian-norbert
 - person: beyer-regina
 - person: noyenkhan-villi
+poster_tmdb_path: /s61kC7bN0Yjg91XG6oZWu5LDCS0.jpg

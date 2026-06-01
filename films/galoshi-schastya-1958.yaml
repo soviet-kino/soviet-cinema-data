@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4132753
   imdb: tt0051809
+  tmdb: 592445
 sources:
 - https://www.wikidata.org/wiki/Q4132753
 schema_version: 1
@@ -66,3 +67,5 @@ cast:
 - person: castori-ludwika
 - person: olszyn-w-adys-aw
 - person: shishkovskiy-marek
+poster_tmdb_path: /rxnGOXAUpNe7UgB34opKP2bFgk.jpg
+backdrop_tmdb_path: /h8SoExToAAN261NtMIbmqya2WlP.jpg

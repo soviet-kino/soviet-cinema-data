@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q113099692
   imdb: tt0050852
+  tmdb: 379086
 sources:
 - https://www.wikidata.org/wiki/Q113099692
 schema_version: 1
@@ -66,3 +67,4 @@ cast:
 - person: poljacek-jozef
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
+poster_tmdb_path: /nezjs8oIiQkp8zo8krYW2cLKMXh.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q16948645
   imdb: tt0166647
+  tmdb: 392805
 sources:
 - https://www.wikidata.org/wiki/Q16948645
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: danielova-eva
 - person: kosi-gustav-a
 - person: fidlerova-eva
+poster_tmdb_path: /cMHP1wJMpUgT77Uz0YZMptEPVJa.jpg

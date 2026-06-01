@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q786374
   imdb: tt0034419
+  tmdb: 432553
 sources:
 - https://www.wikidata.org/wiki/Q786374
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - vasari-gabor-fon
 cinematographer:
 - barnabash-khedi
+poster_tmdb_path: /g6VBnb9lzaKefJpZ8uWnj8VNVtW.jpg

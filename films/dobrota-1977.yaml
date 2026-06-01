@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4163783
   imdb: tt0413954
   youtube: xDNfhOMmUdc
+  tmdb: 636618
 sources:
 - https://www.wikidata.org/wiki/Q4163783
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - basner-veniamin-efimovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2O7ngFIZBULhiHrVIOdCtDxjAe.jpg

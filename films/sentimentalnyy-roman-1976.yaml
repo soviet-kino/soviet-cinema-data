@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4416370
   imdb: tt0075190
   youtube: 5z__aCQLe7Y
+  tmdb: 263823
 sources:
 - https://www.wikidata.org/wiki/Q4416370
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: denisov-nikolay-vasilevich
 studio:
 - lenfilm
+poster_tmdb_path: /fL5z7JGs7YQCM6zxpWtKByaML2k.jpg

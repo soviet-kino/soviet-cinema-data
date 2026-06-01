@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q11699888
   imdb: tt0058143
+  tmdb: 81507
 sources:
 - https://www.wikidata.org/wiki/Q11699888
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: chizhevskaya-elzhbeta
+poster_tmdb_path: /io9kGMlM0yZZiuTGFwnTZFwglfh.jpg
+backdrop_tmdb_path: /5VvZdAAz6HIiOQ7HvPZvfQ86HTz.jpg

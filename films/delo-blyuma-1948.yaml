@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q382171
   imdb: tt0040079
+  tmdb: 197581
 sources:
 - https://www.wikidata.org/wiki/Q382171
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: delshaft-mali
 poster_commons: Bundesarchiv Bild 183-T1121-503, Berlin, Kino Babylon , Schlange für
   "Affaire Blum".jpg
+poster_tmdb_path: /q39uwNIDyGDfXBlLGQcvi41LEI5.jpg
+backdrop_tmdb_path: /dBFryHxqjQuntu0a8BlDrNgUQeK.jpg

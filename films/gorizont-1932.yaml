@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q4144145
   imdb: tt0021924
+  tmdb: 137214
 sources:
 - https://www.wikidata.org/wiki/Q4144145
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kuzmina-elena-aleksandrovna
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /5uAGXOCkz0Dn8sCjuzYhCt88Pg7.jpg
+backdrop_tmdb_path: /7hIMdyOGk8lwCsxeq7ln4BPF5WM.jpg

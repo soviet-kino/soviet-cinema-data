@@ -8,8 +8,10 @@ runtime_min: 8
 external_ids:
   wikidata: Q64878695
   imdb: tt8659628
+  tmdb: 400597
 sources:
 - https://www.wikidata.org/wiki/Q64878695
 schema_version: 1
 director:
 - gotovats-tomislav
+poster_tmdb_path: /fTczWD1brrl5loKG0F1VWbdLcF9.jpg

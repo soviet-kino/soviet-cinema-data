@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4134597
   imdb: tt0352364
   youtube: gHdp7oZmutE
+  tmdb: 614226
 sources:
 - https://www.wikidata.org/wiki/Q4134597
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - yaltinskaya-kinostudiya
 cast:
 - person: druzhinina-svetlana
+poster_tmdb_path: /flgttXdgldMHvbn2LEwmUUCYvBQ.jpg

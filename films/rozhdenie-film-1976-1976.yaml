@@ -8,6 +8,7 @@ runtime_min: 142
 external_ids:
   wikidata: Q20511041
   imdb: tt0414696
+  tmdb: 865729
 sources:
 - https://www.wikidata.org/wiki/Q20511041
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: akopyan-vrezh
 - person: nersesyan-levon
 - person: ayvazyan-armen
+poster_tmdb_path: /muNXUFaZWldlROImKd6JotyINFJ.jpg

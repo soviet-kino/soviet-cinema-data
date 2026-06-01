@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4420650
   imdb: tt0173202
   youtube: CJvYDkLkQpA
+  tmdb: 403243
 sources:
 - https://www.wikidata.org/wiki/Q4420650
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: palees-aleksandr-romanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qeEB8gG2bUsfnegNcI1mFjyEiPP.jpg

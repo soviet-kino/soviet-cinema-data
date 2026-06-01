@@ -8,6 +8,7 @@ runtime_min: 32
 external_ids:
   wikidata: Q4090101
   imdb: tt0033415
+  tmdb: 1247728
 sources:
 - https://www.wikidata.org/wiki/Q4090101
 schema_version: 1
@@ -31,3 +32,5 @@ studio:
 - mosfilm
 - lenfilm
 - soyuzdetfilm
+poster_tmdb_path: /9Tc8UHThJyxlB1pPLnLp9qTkTRl.jpg
+backdrop_tmdb_path: /1Uqe6LX6atk7yPoqnkJ25Ptyf4v.jpg

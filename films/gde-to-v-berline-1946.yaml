@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1672620
   imdb: tt0038646
+  tmdb: 139688
 sources:
 - https://www.wikidata.org/wiki/Q1672620
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: verkmeyster-lotta
 - person: lik-valter
 - person: bang-ellen
+poster_tmdb_path: /bUh48Pjngdeic3994gOGdvHChUM.jpg
+backdrop_tmdb_path: /h57JKGIMWl1ECcwwzxK711AyXG.jpg

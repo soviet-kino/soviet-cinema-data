@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12111622
   imdb: tt5335572
+  tmdb: 1084906
 sources:
 - https://www.wikidata.org/wiki/Q12111622
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - poklad-igor-dmitrievich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /iaMDumMY2PlUdEYUCr3cglrdpjb.jpg
+backdrop_tmdb_path: /ehuXNdZa3xQ8GCkrbp0z5TZlEQY.jpg

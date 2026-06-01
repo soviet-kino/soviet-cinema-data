@@ -8,6 +8,7 @@ runtime_min: 156
 external_ids:
   wikidata: Q16472848
   imdb: tt4972876
+  tmdb: 659771
 sources:
 - https://www.wikidata.org/wiki/Q16472848
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: shurna-antanas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /iaGuZaiDrti37GxbdFldJFjUinz.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q617191
   imdb: tt0069725
   youtube: eoFM4Dnj_8U
+  tmdb: 130964
 sources:
 - https://www.wikidata.org/wiki/Q617191
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: beli-milan
 - person: weisgerber-thomas
 - person: shrade-villi
+poster_tmdb_path: /kCufmWqhOYy0lsymDw8CfuhyH68.jpg
+backdrop_tmdb_path: /ty22qCHFhbMXJsqaSMP8qEnyRs7.jpg

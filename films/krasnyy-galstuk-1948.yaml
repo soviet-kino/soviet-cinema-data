@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4239677
   imdb: tt0238359
   youtube: QJaKDpAf8ms
+  tmdb: 87746
 sources:
 - https://www.wikidata.org/wiki/Q4239677
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: Красный галстук.JPG
+poster_tmdb_path: /gsQjP3g0zu4BfsMduWOpZnAdR0T.jpg
+backdrop_tmdb_path: /hti61d5PzFMlSaHx70gOYwmBmfQ.jpg

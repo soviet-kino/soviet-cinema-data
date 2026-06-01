@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q4202165
   imdb: tt0349625
+  tmdb: 564383
 sources:
 - https://www.wikidata.org/wiki/Q4202165
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: kulakov-viktor-ivanovich
 studio:
 - ukrainfilm
+poster_tmdb_path: /hJ5J5rKFNLthFCzNziAoLQSkhah.jpg

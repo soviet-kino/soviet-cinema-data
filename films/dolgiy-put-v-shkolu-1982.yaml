@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1199318
   imdb: tt0084232
+  tmdb: 140601
 sources:
 - https://www.wikidata.org/wiki/Q1199318
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: beer-khartmut
 - person: mankhen-klaus
 - person: piontek-klaus
+poster_tmdb_path: /qTilhb6VFuZ02LJflQIKWhRjBls.jpg
+backdrop_tmdb_path: /ugSGyE50uRf3nmqNcvTyR45nPTb.jpg

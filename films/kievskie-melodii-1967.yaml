@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4220184
   imdb: tt26746068
+  tmdb: 1087598
 sources:
 - https://www.wikidata.org/wiki/Q4220184
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: mikolaychuk-ivan-vasilevich
+poster_tmdb_path: /visK3D52F3H2gqFczX7dE25wGkj.jpg
+backdrop_tmdb_path: /2H3Ho201ZUZS5Fdwu2ihWOABGNh.jpg

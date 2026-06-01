@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3796030
   imdb: tt0056615
   youtube: X1awfyw9vIU
+  tmdb: 458510
 sources:
 - https://www.wikidata.org/wiki/Q3796030
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: metyolkin-aleksandr-viktorovich
 studio:
 - mosfilm
+poster_tmdb_path: /hqkRVs4yIjLqjlCXrKjJJj07V1B.jpg
+backdrop_tmdb_path: /yZaBfRGGCeOn1XVeFNgaEDWOJP3.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4302595
   imdb: tt0900960
+  tmdb: 849891
 sources:
 - https://www.wikidata.org/wiki/Q4302595
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - ter-tatevosyan-dzhon
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /taR3ibW7ayNxuXzmsWx18fIBTmQ.jpg

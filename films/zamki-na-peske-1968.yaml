@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q137289288
   imdb: tt0851490
+  tmdb: 469600
 sources:
 - https://www.wikidata.org/wiki/Q137289288
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - vidugiris-algimantas-stasevich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /2RTYZLOj1uhoMzsKmTUjGRcX2sw.jpg

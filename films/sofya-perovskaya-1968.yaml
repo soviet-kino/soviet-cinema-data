@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7553776
   imdb: tt0170606
   youtube: bZMg64wGOkY
+  tmdb: 528585
 sources:
 - https://www.wikidata.org/wiki/Q7553776
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: nazarova-aleksandra-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /tHiRDXNawNcn7YH7r0lglrevp2d.jpg
+backdrop_tmdb_path: /kQzSQi9SzIfpTvba73pMrgrJPEH.jpg

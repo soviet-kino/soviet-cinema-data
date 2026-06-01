@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q30559486
   imdb: tt0040839
   youtube: kWEEw8hpVvA
+  tmdb: 289986
 sources:
 - https://www.wikidata.org/wiki/Q30559486
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /5uEJcTewBtLXSZoPldrhcT6NoJK.jpg

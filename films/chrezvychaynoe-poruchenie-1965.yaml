@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20507115
   imdb: tt0313895
   youtube: yBKE-imTJMs
+  tmdb: 70936
 sources:
 - https://www.wikidata.org/wiki/Q20507115
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: anatoliy-falkovich
 - person: shatskaya-nina-sergeevna
 - person: dzhanibekyan-karen
+poster_tmdb_path: /ta7eCfHdAUPeJLZum1ksVOfOUVB.jpg

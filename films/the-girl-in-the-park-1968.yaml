@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q16086424
   imdb: tt0180287
+  tmdb: 282319
 sources:
 - https://www.wikidata.org/wiki/Q16086424
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: tomich-milivo-e
 - person: simich-slavko
 - person: pura-or-e
+poster_tmdb_path: /v9vxAIvjLxaTvHhREpNuajAxxjm.jpg

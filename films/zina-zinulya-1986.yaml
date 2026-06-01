@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q19799680
   imdb: tt0131147
+  tmdb: 361012
 sources:
 - https://www.wikidata.org/wiki/Q19799680
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: shutov-evgeniy-efimovich
 studio:
 - mosfilm
+poster_tmdb_path: /gqglLOFQFAMWPI4iAgXKAWTDkZW.jpg

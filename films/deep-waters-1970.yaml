@@ -8,6 +8,7 @@ runtime_min: 2
 external_ids:
   wikidata: Q28492342
   imdb: tt2955520
+  tmdb: 712339
 sources:
 - https://www.wikidata.org/wiki/Q28492342
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - martsel-yankovich
 cinematographer:
 - khenrik-iren
+poster_tmdb_path: /m7eJsqibdbqJeTGijOfcShmMrW6.jpg

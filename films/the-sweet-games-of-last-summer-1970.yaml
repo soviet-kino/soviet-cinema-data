@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q12054638
   imdb: tt0171747
+  tmdb: 149457
 sources:
 - https://www.wikidata.org/wiki/Q12054638
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: q112505242
 - person: senaj-eugen
 - person: vlcek-jan
+poster_tmdb_path: /ztbtT5SNrLJ0Zh0XbkZ9mYnWlsW.jpg
+backdrop_tmdb_path: /13iJptS3ja5uZgWjqVI6EXPJqbP.jpg

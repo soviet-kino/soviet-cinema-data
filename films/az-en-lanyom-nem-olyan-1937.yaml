@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q786104
   imdb: tt0029825
+  tmdb: 45140
 sources:
 - https://www.wikidata.org/wiki/Q786104
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - noti-karoli
 - csatho-kalman
 poster_commons: Ráday Imre és Tolnay Klári (Az én lányom nem olyan, 1937).jpg
+poster_tmdb_path: /5y5htQtod2UkCVl9H7U8OALMPBk.jpg

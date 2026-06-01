@@ -22,6 +22,9 @@ external_ids:
   wikidata: Q4114775
   imdb: tt0037353
   youtube: WUwmMD4wLP0
+  tmdb: 295788
 sources:
 - https://www.wikidata.org/wiki/Q4114775
 schema_version: 1
+poster_tmdb_path: /ibGQZMrJ7WLZfUw8lI6g96seNBl.jpg
+backdrop_tmdb_path: /2BIPws1XSNnspSP0bA4Wt67L5pa.jpg

@@ -8,6 +8,7 @@ runtime_min: 606
 external_ids:
   wikidata: Q55474652
   imdb: tt7502054
+  tmdb: 440535
 sources:
 - https://www.wikidata.org/wiki/Q55474652
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - krylatov-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ljCC221Tgjr5aVJZYD9ZfcTAHKT.jpg

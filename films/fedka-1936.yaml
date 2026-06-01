@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4482301
   imdb: tt0349438
+  tmdb: 641826
 sources:
 - https://www.wikidata.org/wiki/Q4482301
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - levin-doyvber
 studio:
 - lenfilm
+poster_tmdb_path: /voCJQ055GR66m29C28sbJ1m72Mb.jpg

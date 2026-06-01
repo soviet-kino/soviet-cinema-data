@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65252655
   imdb: tt0175314
   youtube: aPuuElmP_hE
+  tmdb: 381599
 sources:
 - https://www.wikidata.org/wiki/Q65252655
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: chokmorov-suymenkul
 - person: zhumadylov-sovetbek
 - person: ryskulov-muratbek-ryskulovich
+poster_tmdb_path: /aBdUOwWL3oAgdaOKgCiPA9c2HF1.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12750010
   imdb: tt0058730
+  tmdb: 386249
 sources:
 - https://www.wikidata.org/wiki/Q12750010
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: plesha-branko
 - person: vuysich-dushan
 - person: golumbovski-dusan
+poster_tmdb_path: /tw08GjMwmOEaLihLLUMYkGBpt9a.jpg
+backdrop_tmdb_path: /zOYk7MSZhY9RBuq1fvT8eL7UCLL.jpg

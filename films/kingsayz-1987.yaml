@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q54976
   imdb: tt0095452
+  tmdb: 36391
 sources:
 - https://www.wikidata.org/wiki/Q54976
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: so-tysik-andrzej
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /109diPSpMpqOs3AKJ0I1zO7xJEv.jpg
+backdrop_tmdb_path: /7tZUw8sD9VcYlO0GrNqhxWGFA6t.jpg

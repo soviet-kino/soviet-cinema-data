@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12132030
   imdb: tt0273541
+  tmdb: 1408623
 sources:
 - https://www.wikidata.org/wiki/Q12132030
 schema_version: 1
 director:
 - shengelaya-georgiy-nikolaevich
+poster_tmdb_path: /kThjcqgDNa2N0BWVU6f3UrxwOtP.jpg
+backdrop_tmdb_path: /oCO0Y1mMNv6R0R2CoVuajVcJYMA.jpg

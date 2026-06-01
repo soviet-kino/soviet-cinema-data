@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q15805822
   imdb: tt0230805
+  tmdb: 277759
 sources:
 - https://www.wikidata.org/wiki/Q15805822
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - lemann-frits
 composer:
 - roters-ernst
+poster_tmdb_path: /giK66CMRrTQvYM66INSVUEGiYZh.jpg

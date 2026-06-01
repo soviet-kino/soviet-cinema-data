@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24938235
   imdb: tt2371457
+  tmdb: 889631
 sources:
 - https://www.wikidata.org/wiki/Q24938235
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - abramyan-genri-artashesovich
 studio:
 - mosfilm
+poster_tmdb_path: /5lqn6AY9vPP7EXfEENO8P3neRkE.jpg

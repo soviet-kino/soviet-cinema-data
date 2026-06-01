@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270978
   imdb: tt0396825
   youtube: mN-JLmHzY9g
+  tmdb: 538806
 sources:
 - https://www.wikidata.org/wiki/Q15270978
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kramar-mikhail-polikarpovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /rF9Yu2VTVFuUV9UXDuFB5hKWFwf.jpg
+backdrop_tmdb_path: /8YHlcNyDReex0GjVwHNeZ9yTA53.jpg

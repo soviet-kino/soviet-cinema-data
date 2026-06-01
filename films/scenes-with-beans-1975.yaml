@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q59682762
   imdb: tt0263091
+  tmdb: 570968
 sources:
 - https://www.wikidata.org/wiki/Q59682762
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - nepp-yozhef
 studio:
 - pannoniya
+poster_tmdb_path: /bLSTqfKw3g0wykY1lhK3czrNm4r.jpg
+backdrop_tmdb_path: /syMizBvy5cjncvxdygZ1YtzIN33.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1169922
   imdb: tt0174207
   youtube: f0Sfwa9VqT8
+  tmdb: 14480
 sources:
 - https://www.wikidata.org/wiki/Q1169922
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: ryabinkina-kseniya-lvovna
 studio:
 - mosfilm
+poster_tmdb_path: /mCMqBGttv2nL6IEP1pSJd4VLoRR.jpg
+backdrop_tmdb_path: /bPjcm8T9yyjZrHtkTpuBhQfyiY4.jpg

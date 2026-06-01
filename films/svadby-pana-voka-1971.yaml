@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16516283
   imdb: tt0175215
   youtube: si303iC9oYI
+  tmdb: 65570
 sources:
 - https://www.wikidata.org/wiki/Q16516283
 schema_version: 1
@@ -102,3 +103,4 @@ cast:
 - person: bycek-jiri
 - person: pechova-jirina
 - person: sebesta-vladimir
+poster_tmdb_path: /r8FfewTMiOOXjtb5mR0J11PBnKS.jpg

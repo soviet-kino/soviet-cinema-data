@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994168
   imdb: tt2279322
   youtube: 0ilIHoW_Olw
+  tmdb: 574923
 sources:
 - https://www.wikidata.org/wiki/Q84994168
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - zhuravlyov-nikolay-viktorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /eglcTYPX5YzSaR4UoocjaVPqT5i.jpg
+backdrop_tmdb_path: /9fGRRmXJFgJSa8ICfC07UhYhlTG.jpg

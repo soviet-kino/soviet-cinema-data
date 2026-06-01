@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q110233079
   imdb: tt5665494
+  tmdb: 965831
 sources:
 - https://www.wikidata.org/wiki/Q110233079
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: salatska-eva
 - person: kijowska-elzbieta
 - person: goshtila-kshishtof
+poster_tmdb_path: /yLv2XgkUYBBdBX3cOWd76FQYJPx.jpg

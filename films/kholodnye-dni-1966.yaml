@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q3187120
   imdb: tt0060507
+  tmdb: 24588
 sources:
 - https://www.wikidata.org/wiki/Q3187120
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kovach-andrash
 screenwriter:
 - kovach-andrash
+poster_tmdb_path: /loO5F4izdviUle4985e78klktNZ.jpg
+backdrop_tmdb_path: /m8609hSjtK7AWFYX481J0ORxi1w.jpg

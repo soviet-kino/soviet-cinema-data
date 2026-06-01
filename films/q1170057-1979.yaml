@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q1170057
   imdb: tt0078082
+  tmdb: 315132
 sources:
 - https://www.wikidata.org/wiki/Q1170057
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: foygt-ilza
 - person: uinkler-volfgang
 - person: lotz-karl-heinz
+poster_tmdb_path: /rcuy54h1O6GKUDOlzbl5lW8qBVD.jpg
+backdrop_tmdb_path: /gUkxCyxitzsUwttbUSMsivHcW1d.jpg

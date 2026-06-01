@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11879095
   imdb: tt0282467
+  tmdb: 559098
 sources:
 - https://www.wikidata.org/wiki/Q11879095
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: zichovsky-vaclav
 - person: gotz-hans
 - person: wurtenberger-paul
+poster_tmdb_path: /yU5xLuugwyOtWDOcZOi2d9hkjG2.jpg

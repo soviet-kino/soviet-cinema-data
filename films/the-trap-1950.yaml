@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7769990
   imdb: tt0169118
+  tmdb: 199527
 sources:
 - https://www.wikidata.org/wiki/Q7769990
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: jencik-miloslav
 - person: tomasova-majka
 - person: jares-stanislav
+poster_tmdb_path: /zlJXqFHZla7Jxk8HwVDnHmv3sl.jpg
+backdrop_tmdb_path: /uLHOZkszqkEFCbwNDOExqacuMDR.jpg

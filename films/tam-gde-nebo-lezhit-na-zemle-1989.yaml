@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q20513157
   imdb: tt0240073
+  tmdb: 1144831
 sources:
 - https://www.wikidata.org/wiki/Q20513157
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: alaverdyan-genrikh
 studio:
 - armenfilm
+poster_tmdb_path: /tz9suy2k8ysEcrQfWLpe3Bncx44.jpg

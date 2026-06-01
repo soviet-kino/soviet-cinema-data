@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q8211889
   imdb: tt0346655
+  tmdb: 1663133
 sources:
 - https://www.wikidata.org/wiki/Q8211889
 schema_version: 1
 composer:
 - simaku-thomas
+poster_tmdb_path: /cTOpyxENyJUSuZyKm20syOCKBZQ.jpg
+backdrop_tmdb_path: /rl4y1xp6Uaf4HNr8nFR7bWBa6el.jpg

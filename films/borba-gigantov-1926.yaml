@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428715
   imdb: tt21830910
+  tmdb: 1174630
 sources:
 - https://www.wikidata.org/wiki/Q109428715
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - foreste-lui-petrovich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /9IYVcNwKFUcJ9JaidZayJgo4MsE.jpg
+backdrop_tmdb_path: /u8po2815tq14P3ExacCKV5FEc5t.jpg

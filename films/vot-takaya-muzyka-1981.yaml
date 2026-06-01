@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4126779
   imdb: tt0232910
   youtube: 0Ddm_R9fSc8
+  tmdb: 71355
 sources:
 - https://www.wikidata.org/wiki/Q4126779
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - portnov-georgiy-anatolevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /rXX66ZK5nUu9p42O2mMUl4r0zHE.jpg
+backdrop_tmdb_path: /aPCO0u7tdMFRcFl5xw77qH1SSKG.jpg

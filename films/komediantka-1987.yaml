@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q11741520
   imdb: tt0092387
+  tmdb: 611862
 sources:
 - https://www.wikidata.org/wiki/Q11741520
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: wakulinski-krzysztof
 - person: khvalibog-mariya
 - person: so-ubianka-monika
+poster_tmdb_path: /xU2Rz4JOEyh1Q2jCowh6lybnDRI.jpg
+backdrop_tmdb_path: /5rVLMN5YXZ6qE2iZBagwS8eHKU0.jpg

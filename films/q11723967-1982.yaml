@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11723967
   imdb: tt0084170
+  tmdb: 157714
 sources:
 - https://www.wikidata.org/wiki/Q11723967
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - wroblewski-jan
 cast:
 - person: pritulyak-malgozhata
+poster_tmdb_path: /v9vU5UAaWzFtyKe6dSnWk72F3zl.jpg

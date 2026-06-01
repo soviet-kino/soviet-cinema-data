@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7580774
   imdb: tt0008658
+  tmdb: 769367
 sources:
 - https://www.wikidata.org/wiki/Q7580774
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: paffi-charlz
 - person: lenkeffy-ica-von
+poster_tmdb_path: /49vh5TDrmY6q2Nn6uisYnxREIxT.jpg

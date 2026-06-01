@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q7093193
   imdb: tt0170074
+  tmdb: 341542
 sources:
 - https://www.wikidata.org/wiki/Q7093193
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: halasz-anton
 studio:
 - barrandov
+poster_tmdb_path: /1liKqy3lKeQZr1op6OFvOSEL2xT.jpg

@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q25435660
   imdb: tt0171474
+  tmdb: 254902
 sources:
 - https://www.wikidata.org/wiki/Q25435660
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: efimenko-lyudmila-filippovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /ebtkRK0AmRTsXrRFWwNNmlWGg8M.jpg
+backdrop_tmdb_path: /mrpDiYGabjuyABjFJM47cZG0qDL.jpg

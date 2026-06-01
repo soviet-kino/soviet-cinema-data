@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q103294343
   imdb: tt0068889
+  tmdb: 278242
 sources:
 - https://www.wikidata.org/wiki/Q103294343
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: kubalkova-dana
 - person: holeysovsky-jan
 - person: potzova-olga
+poster_tmdb_path: /3qXAJgzR2nUvIMpkc17XYwChFOw.jpg

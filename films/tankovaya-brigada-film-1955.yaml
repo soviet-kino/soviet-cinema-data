@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q7683464
   imdb: tt0261340
+  tmdb: 311000
 sources:
 - https://www.wikidata.org/wiki/Q7683464
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: rackova-olga
 - person: grossova-luisa
 - person: poloniova-sona
+poster_tmdb_path: /zLqbN0qSZ0yU7Y13r1GKUBaIEqr.jpg

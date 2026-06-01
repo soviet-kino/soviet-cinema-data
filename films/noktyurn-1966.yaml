@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4327143
   imdb: tt1957985
   youtube: 7HL_-g8r2Lw
+  tmdb: 239675
 sources:
 - https://www.wikidata.org/wiki/Q4327143
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: raksa-polya
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /cdP99vl2QFYvFxikrQGn5IOZkHf.jpg

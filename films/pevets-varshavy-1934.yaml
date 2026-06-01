@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4347735
   imdb: tt0208361
+  tmdb: 605128
 sources:
 - https://www.wikidata.org/wiki/Q4347735
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: fritsche-ludwik
 - person: znich-mikhal
 poster_commons: Pieśniarz Warszawy 1934.jpg
+poster_tmdb_path: /RCpukwUhbHKRl2s7ZJtJQrPmhB.jpg
+backdrop_tmdb_path: /sFa8Ms8oYj9VZCNSCB6t9ftXRfg.jpg

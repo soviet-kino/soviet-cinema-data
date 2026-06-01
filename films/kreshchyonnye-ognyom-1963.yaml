@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9338430
   imdb: tt0058593
+  tmdb: 311132
 sources:
 - https://www.wikidata.org/wiki/Q9338430
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: chervinskaya-zofya
 - person: ru-ka-marian
 - person: lonch-marian
+poster_tmdb_path: /q9eitQM21aP8j3H8mn3sYUoNLwh.jpg

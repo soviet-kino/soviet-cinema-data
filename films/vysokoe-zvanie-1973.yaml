@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4129461
   imdb: tt0072384
+  tmdb: 548109
 sources:
 - https://www.wikidata.org/wiki/Q4129461
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 - mosfilm
 cast:
 - person: matveev-evgeniy-semyonovich
+poster_tmdb_path: /5lF3U35HMMk5utZ7MewiV8svglf.jpg

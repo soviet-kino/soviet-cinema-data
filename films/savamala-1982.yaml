@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758484
   imdb: tt0173169
+  tmdb: 338867
 sources:
 - https://www.wikidata.org/wiki/Q12758484
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: chukich-vera
 - person: sokich-ruzhitsa
 - person: bjelica-gordana
+poster_tmdb_path: /5nxzivxpbO9WDKGDs6MODO4xHMt.jpg
+backdrop_tmdb_path: /77nBc4iwRjaDrRYZMv4iT4KLlhG.jpg

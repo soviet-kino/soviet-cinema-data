@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q68329122
   imdb: tt0176189
+  tmdb: 656352
 sources:
 - https://www.wikidata.org/wiki/Q68329122
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: kubanova-marta-kopanicka
 - person: dida-rene
 - person: lehoran-jozef
+poster_tmdb_path: /noXALYMWfXNIub3mEymn3t0QKeE.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4167404
   imdb: tt0313981
   youtube: 5E7eDiu84PA
+  tmdb: 621645
 sources:
 - https://www.wikidata.org/wiki/Q4167404
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - odesskaya-kinostudiya
 cast:
 - person: kryukov-nikolay-nikolaevich
+poster_tmdb_path: /5IZgZdK1bTToOTF7CNPKXVsEoSW.jpg
+backdrop_tmdb_path: /iHpbkUb0ZLo4nSmoT5jZXOz3zos.jpg

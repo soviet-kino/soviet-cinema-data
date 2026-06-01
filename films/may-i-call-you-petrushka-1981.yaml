@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q41675549
   imdb: tt0319252
+  tmdb: 441223
 sources:
 - https://www.wikidata.org/wiki/Q41675549
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: tsshekel-gyunter
 studio:
 - defa
+poster_tmdb_path: /3NDoZq93xm8eFd8cuMZ833lcdDo.jpg

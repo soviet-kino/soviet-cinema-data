@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q95613281
   imdb: tt0077718
+  tmdb: 441203
 sources:
 - https://www.wikidata.org/wiki/Q95613281
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bergmann-khelmut
 composer:
 - horig-gunter
+poster_tmdb_path: /7r2a1lRqFMs8c5LhpVSehN2XnUL.jpg

@@ -8,6 +8,7 @@ runtime_min: 44
 external_ids:
   wikidata: Q11734629
   imdb: tt0171423
+  tmdb: 685793
 sources:
 - https://www.wikidata.org/wiki/Q11734629
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: zelnik-ezhi
 - person: kondrat-tadeush
 - person: fievskiy-tadeush
+poster_tmdb_path: /6aU5pIwHsLX93MFiFHEdWk5HrHC.jpg
+backdrop_tmdb_path: /x4ziEDFEEvsVhBn8Yu3FqLwW6En.jpg

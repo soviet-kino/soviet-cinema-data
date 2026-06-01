@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4225019
   imdb: tt0029096
+  tmdb: 397737
 sources:
 - https://www.wikidata.org/wiki/Q4225019
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - gniazdowski-zbigniew
 cast:
 - person: lyubenskaya-karolina
+poster_tmdb_path: /deCoWj8a0o4A3rFTT7qpwWTbJ6m.jpg

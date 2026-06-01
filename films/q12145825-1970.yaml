@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12145825
   imdb: tt0170374
+  tmdb: 1505901
 sources:
 - https://www.wikidata.org/wiki/Q12145825
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
+poster_tmdb_path: /3jy8ObLT2fvs2yWOe9UyP0YC1d0.jpg
+backdrop_tmdb_path: /sOVprkVwf4flCJtFcdywHFwDzGx.jpg

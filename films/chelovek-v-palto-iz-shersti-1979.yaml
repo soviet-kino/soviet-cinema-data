@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q31838864
   imdb: tt0137137
+  tmdb: 35630
 sources:
 - https://www.wikidata.org/wiki/Q31838864
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 cast:
 - person: rebendzhyuk-viktor
 - person: moldovan-ovidiu-yuliu
+poster_tmdb_path: /xJcVciqIInfOsDmhuNHAfuRbR2y.jpg

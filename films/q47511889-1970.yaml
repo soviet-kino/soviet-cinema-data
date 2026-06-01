@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q47511889
   imdb: tt9304224
+  tmdb: 562969
 sources:
 - https://www.wikidata.org/wiki/Q47511889
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - offenbakh-zhak
 studio:
 - defa
+poster_tmdb_path: /vS8HwnMceEN2w0AyQ5RjFeeFucK.jpg
+backdrop_tmdb_path: /4Vuovm0JuKgiVn8Bj8jhJKj63ON.jpg

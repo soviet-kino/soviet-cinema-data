@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4127783
   imdb: tt0129564
+  tmdb: 889615
 sources:
 - https://www.wikidata.org/wiki/Q4127783
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: papanov-anatoliy-dmitrievich
 - person: demyanenko-aleksandr-sergeevich
 - person: belyaeva-galina
+poster_tmdb_path: /7abauR80CVm47rlvR5JGe9not61.jpg

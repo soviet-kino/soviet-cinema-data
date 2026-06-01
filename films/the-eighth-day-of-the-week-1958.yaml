@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1198252
   imdb: tt0052036
+  tmdb: 204204
 sources:
 - https://www.wikidata.org/wiki/Q1198252
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: lomnitskiy-tadeush
 - person: kryuger-bum
 - person: emil-karevich
+poster_tmdb_path: /liRt20GexZ6NH1kTXkPMCLZ0tFr.jpg
+backdrop_tmdb_path: /hqplIppxQVdcWXPtJBTsTWs3aWC.jpg

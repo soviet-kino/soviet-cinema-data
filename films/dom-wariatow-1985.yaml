@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q9209571
   imdb: tt0167125
+  tmdb: 280477
 sources:
 - https://www.wikidata.org/wiki/Q9209571
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: bielinski-witold
 - person: lata-o-ukasz
 - person: witt-w-odzimierz
+poster_tmdb_path: /1pgDR3LNpABVJ1GBuKY47mIWoG1.jpg
+backdrop_tmdb_path: /7GD594sFk2EcLHQ6M0r0TYKVUMZ.jpg

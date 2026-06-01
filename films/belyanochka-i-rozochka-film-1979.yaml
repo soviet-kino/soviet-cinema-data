@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q2247458
   imdb: tt0210964
+  tmdb: 13305
 sources:
 - https://www.wikidata.org/wiki/Q2247458
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: martin-katrin
 - person: khebenshtrayt-pedro
 - person: juristova-julie
+poster_tmdb_path: /sgbyTTrVX6ih0M3ukhKG3CLzRAt.jpg
+backdrop_tmdb_path: /6n5qMGW934yW4OrwCs2G17ACF7R.jpg

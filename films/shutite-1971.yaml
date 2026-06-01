@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4528059
   imdb: tt0329601
+  tmdb: 729261
 sources:
 - https://www.wikidata.org/wiki/Q4528059
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 studio:
 - lenfilm
 - vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova
+poster_tmdb_path: /eGmqRMyp8pwaatKKjdyRZzCshXn.jpg
+backdrop_tmdb_path: /3PM8CSPRnVWVWtqsLQSOmqRGrb7.jpg

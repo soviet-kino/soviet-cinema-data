@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4203007
   imdb: tt0401523
   youtube: yMbd1bI3Dqo
+  tmdb: 130038
 sources:
 - https://www.wikidata.org/wiki/Q4203007
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: zhakov-oleg-petrovich
 - person: khromushkin-valeriy-georgievich
+poster_tmdb_path: /4oNdWZVCaYbspwDQlWKkewErFI0.jpg
+backdrop_tmdb_path: /4AstOP0iv8Vwsom2b6uho0VqK7Q.jpg

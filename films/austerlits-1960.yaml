@@ -8,6 +8,7 @@ runtime_min: 166
 external_ids:
   wikidata: Q2567849
   imdb: tt0053638
+  tmdb: 50791
 sources:
 - https://www.wikidata.org/wiki/Q2567849
 schema_version: 1
@@ -83,3 +84,5 @@ cast:
 - person: marteville-pierre
 - person: dauerstaedt-davout
 - person: conty-claude
+poster_tmdb_path: /hxuHZCI41D0w3YxuBGo5TpqQ2C8.jpg
+backdrop_tmdb_path: /lr6gZEhtowJEz2KaEWVFsGf5LVN.jpg

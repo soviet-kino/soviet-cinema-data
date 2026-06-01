@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5261145
   imdb: tt0315577
+  tmdb: 381885
 sources:
 - https://www.wikidata.org/wiki/Q5261145
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kube-khorst
 - person: homeyer-margret
 - person: benekendorf-volf-fon
+poster_tmdb_path: /xiD8r4b8A40ZqFCaIEj5ZbfIntp.jpg

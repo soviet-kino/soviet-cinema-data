@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55784883
   imdb: tt0053847
+  tmdb: 286626
 sources:
 - https://www.wikidata.org/wiki/Q55784883
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - bacho-peter
 - sas-peter
+poster_tmdb_path: /sDYnWKCYiZdYWgocJf7logpgCK1.jpg

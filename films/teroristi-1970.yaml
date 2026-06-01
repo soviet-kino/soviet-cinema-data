@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27831784
   imdb: tt0276556
+  tmdb: 1253408
 sources:
 - https://www.wikidata.org/wiki/Q27831784
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - shkanata-krsto
 screenwriter:
 - shkanata-krsto
+poster_tmdb_path: /cWWyOA74ATPh1Pvj36h7sU6qpLC.jpg

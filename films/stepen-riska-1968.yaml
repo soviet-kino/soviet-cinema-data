@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4442050
   imdb: tt0063644
+  tmdb: 74543
 sources:
 - https://www.wikidata.org/wiki/Q4442050
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: livanov-boris-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /l97s6BjxLM8wevQcMPsKyMVLtHB.jpg

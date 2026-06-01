@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5304245
   imdb: tt0033556
+  tmdb: 645471
 sources:
 - https://www.wikidata.org/wiki/Q5304245
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: pazhtor-yanos
 - person: toth-julia
 poster_commons: Páger Antal (Film Színház Irodalom, 1942).jpg
+poster_tmdb_path: /lRWcaMiI6QCtAg6QipjnEAMGBCs.jpg

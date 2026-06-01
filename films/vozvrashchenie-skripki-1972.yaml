@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q12845783
   imdb: tt2236020
+  tmdb: 422177
 sources:
 - https://www.wikidata.org/wiki/Q12845783
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 cast:
 - person: kadochnikov-pavel-petrovich
 - person: eskola-olev
+poster_tmdb_path: /qAl5Kw8mNRP1Xu0LgnblVqK7ijf.jpg

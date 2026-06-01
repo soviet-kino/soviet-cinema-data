@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q12674332
   imdb: tt4741690
+  tmdb: 657570
 sources:
 - https://www.wikidata.org/wiki/Q12674332
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: nakas-napoleonas
 - person: pyatronaytis-stasis
 - person: yatautis-valdas
+poster_tmdb_path: /aHtQg2vdauZJYQfTNhbd9Wc3bWG.jpg
+backdrop_tmdb_path: /uBy68LgaT7VeEhEzS3sBoyoNW5p.jpg

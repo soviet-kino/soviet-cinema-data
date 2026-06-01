@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4109933
   imdb: tt0275524
+  tmdb: 783774
 sources:
 - https://www.wikidata.org/wiki/Q4109933
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - tsabadze-georgiy
 cast:
 - person: khvichia-ippolit-alekseevich
+poster_tmdb_path: /oG5GKr128JDB5cMN1yzEgtblA90.jpg
+backdrop_tmdb_path: /3lXOALMAg3yuPKiWhP9iPurc4dP.jpg

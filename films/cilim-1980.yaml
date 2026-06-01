@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187248
   imdb: tt0363520
+  tmdb: 1105371
 sources:
 - https://www.wikidata.org/wiki/Q31187248
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: alva-rudi
 - person: dzhurevska-nada
 - person: kravljaca-uros
+poster_tmdb_path: /aHMug8m3cf8UhfLInBsSqVFM7GQ.jpg

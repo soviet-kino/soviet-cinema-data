@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44871037
   imdb: tt0127080
+  tmdb: 627794
 sources:
 - https://www.wikidata.org/wiki/Q44871037
 schema_version: 1
 director:
 - mureshan-mircha
+poster_tmdb_path: /g5XzPwtcb1TZ9tUCahnIJUE8blW.jpg

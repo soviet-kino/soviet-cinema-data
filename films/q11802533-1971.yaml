@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11802533
   imdb: tt0067548
+  tmdb: 663972
 sources:
 - https://www.wikidata.org/wiki/Q11802533
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - maksymyuk-ezhi-yan
 cast:
 - person: dymsha-adolf
+poster_tmdb_path: /qeQGzBQ7BvpzbqUbVegIbejngsn.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101755
   imdb: tt0062428
   youtube: dxs-bJQ3Oyc
+  tmdb: 83444
 sources:
 - https://www.wikidata.org/wiki/Q4101755
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: churikova-inna
 studio:
 - lenfilm
+poster_tmdb_path: /u4LWrBF8IPfqejNv0IY7g3vCI6n.jpg
+backdrop_tmdb_path: /vHvITfQHHv6WA3NgkjftIC7mfHN.jpg

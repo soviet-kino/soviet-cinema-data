@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19704071
   imdb: tt1600534
+  tmdb: 281796
 sources:
 - https://www.wikidata.org/wiki/Q19704071
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - nemenyi-maria
 composer:
 - deak-tamash
+poster_tmdb_path: /iak6dTMHGwUm5rgtjIkKJVmmklv.jpg

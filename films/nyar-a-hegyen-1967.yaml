@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q96033230
   imdb: tt0062058
+  tmdb: 286759
 sources:
 - https://www.wikidata.org/wiki/Q96033230
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: tomanek-nandor
 - person: varhegyi-terez
 - person: pecsenke-jozsef
+poster_tmdb_path: /7stAQyB65IXKwmKHUAw9wnI2mOJ.jpg

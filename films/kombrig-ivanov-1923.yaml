@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24041164
   imdb: tt0014184
+  tmdb: 848130
 sources:
 - https://www.wikidata.org/wiki/Q24041164
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - razumnyy-aleksandr
 studio:
 - proletkino
+poster_tmdb_path: /qLVxU5ZIDK4BtiB3zMuQN6AxSfC.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4429093
   imdb: tt0017418
+  tmdb: 262806
 sources:
 - https://www.wikidata.org/wiki/Q4429093
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 studio:
 - mezhrabpomfilm
 - mezhrabpom-rus
+poster_tmdb_path: /zA5JEZ49UY2kOUf6Ejt0wndgU5Z.jpg
+backdrop_tmdb_path: /cExcM4sGwWMDMvRjQVc4055JfQ2.jpg

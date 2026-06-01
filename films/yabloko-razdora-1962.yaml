@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4535816
   imdb: tt0056706
+  tmdb: 642879
 sources:
 - https://www.wikidata.org/wiki/Q4535816
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: tenin-boris-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /mJavUxWSfaWZAUaPMrLO4xluGbW.jpg
+backdrop_tmdb_path: /3dbGEWrZ5qyGZ1I13QS8jtjJ0C5.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q11826654
   imdb: tt0173774
+  tmdb: 365463
 sources:
 - https://www.wikidata.org/wiki/Q11826654
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: kotynek-otto
 - person: stasikova-dagmar
 - person: tuik-frantisek
+poster_tmdb_path: /fNabLqtub5JZpDEaIWyFKtK4EcP.jpg
+backdrop_tmdb_path: /6DeMPz3XYy3T3iXdtiyQmkpc2XP.jpg

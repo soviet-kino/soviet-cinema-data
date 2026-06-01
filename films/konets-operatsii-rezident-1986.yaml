@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4230752
   imdb: tt0266702
   youtube: AzpWPVJV7BI
+  tmdb: 59460
 sources:
 - https://www.wikidata.org/wiki/Q4230752
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: zhzhyonov-georgiy-stepanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2TXJheZt9V342Uj3Jm6Yf2I2IFd.jpg
+backdrop_tmdb_path: /pdKe4fEFpsDxLEGXrRkoY6mUujH.jpg

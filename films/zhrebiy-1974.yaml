@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q114671766
   imdb: tt0127982
   youtube: f2nMIwNK2Es
+  tmdb: 396072
 sources:
 - https://www.wikidata.org/wiki/Q114671766
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - zarafyan-inna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /eYM07GZT953vx6SKM5kzVQSTzv0.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q28734817
   imdb: tt0179637
+  tmdb: 620925
 sources:
 - https://www.wikidata.org/wiki/Q28734817
 schema_version: 1
 director:
 - cornea-george
+poster_tmdb_path: /5TmIH8KHgJkwZrUZU9BdyXSYazP.jpg

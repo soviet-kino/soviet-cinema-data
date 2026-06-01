@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q132151062
   imdb: tt35304348
+  tmdb: 1431674
 sources:
 - https://www.wikidata.org/wiki/Q132151062
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - abrakham-piter
 cinematographer:
 - klyayst-vinfrid
+poster_tmdb_path: /hcEY3rzHqe2zov0CWaU9K2hOD9O.jpg
+backdrop_tmdb_path: /i9Hp6DbakfxieESLbt1kmy7uF0o.jpg

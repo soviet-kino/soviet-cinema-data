@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q7862766
   imdb: tt0396908
+  tmdb: 687103
 sources:
 - https://www.wikidata.org/wiki/Q7862766
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: kupsovsky-bohuslav
 - person: stallich-nora
 - person: millberg-e
+poster_tmdb_path: /tUVR3ItZk0kjNqqH9kpvLdVjj8u.jpg

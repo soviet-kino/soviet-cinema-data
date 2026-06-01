@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q4164280
   imdb: tt0031238
+  tmdb: 446995
 sources:
 - https://www.wikidata.org/wiki/Q4164280
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: arkadin-ivan-ivanovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /fcr1Q79CfAlz64QpYrtTwzgnOe0.jpg
+backdrop_tmdb_path: /cjCrpmoS9x8GsBnwzGcyN7YlB3a.jpg

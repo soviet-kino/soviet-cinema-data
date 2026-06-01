@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q118465160
   imdb: tt0057094
+  tmdb: 441302
 sources:
 - https://www.wikidata.org/wiki/Q118465160
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - menert-gyunter
 - gerike-gerd
+poster_tmdb_path: /kZX6f7FmFTVKYS8VJeWjJSLWCHm.jpg

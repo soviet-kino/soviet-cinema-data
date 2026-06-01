@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6827985
   imdb: tt0189731
+  tmdb: 439269
 sources:
 - https://www.wikidata.org/wiki/Q6827985
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - paryla-karl
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /nEliTmeqjqGVR3c3tCd78cEr3RT.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4516588
   imdb: tt0068431
+  tmdb: 199655
 sources:
 - https://www.wikidata.org/wiki/Q4516588
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ghiuta-monica
 - person: skerletesku-florin
 poster_commons: Cu mainile curate.jpg
+poster_tmdb_path: /8g6dr7mceyOlBJqfczivwTLDzvO.jpg
+backdrop_tmdb_path: /6ZAagZgkRlrceBEqnxSG5KpOjfw.jpg

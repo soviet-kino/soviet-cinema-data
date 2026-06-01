@@ -8,6 +8,7 @@ runtime_min: 152
 external_ids:
   wikidata: Q113572165
   imdb: tt0044948
+  tmdb: 615965
 sources:
 - https://www.wikidata.org/wiki/Q113572165
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: shevchenko-faina-vasilevna
 studio:
 - mosfilm
+poster_tmdb_path: /iYbbFLdIx88HCUrnipw8YQrAUgt.jpg

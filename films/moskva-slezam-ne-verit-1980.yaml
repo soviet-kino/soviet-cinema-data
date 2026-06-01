@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q53105
   imdb: tt0079579
   youtube: uUVd9j543s8
+  tmdb: 21028
 sources:
 - https://www.wikidata.org/wiki/Q53105
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: ryazanova-raisa-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /gt2un5LYmp7G3J3UZL43RqYEv4R.jpg
+backdrop_tmdb_path: /eVbDEVjNIj2fRBiWObMTcuI5bI3.jpg

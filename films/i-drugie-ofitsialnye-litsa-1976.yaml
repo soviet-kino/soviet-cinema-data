@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3472528
   imdb: tt0074081
   youtube: ytFv-si1X68
+  tmdb: 532580
 sources:
 - https://www.wikidata.org/wiki/Q3472528
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 cast:
 - person: tikhonov-vyacheslav-vasilevich
+poster_tmdb_path: /7Vrd1dDsOmqe4yy7Fdt4CPBi1Hx.jpg
+backdrop_tmdb_path: /y1A8Qy3eXdGNR4Rqc6C4BlMdcij.jpg

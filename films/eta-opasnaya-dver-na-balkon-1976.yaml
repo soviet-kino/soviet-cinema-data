@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4532926
   imdb: tt0353426
   youtube: FNH9hCgZmwM
+  tmdb: 572857
 sources:
 - https://www.wikidata.org/wiki/Q4532926
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - rizhskaya-kinostudiya
 cast:
 - person: vetra-varis
+poster_tmdb_path: /uiTzTsFXVVbpCDyjntBhPEXtfpI.jpg
+backdrop_tmdb_path: /wjsMuVY53BTTS0UW5lhkCutQHTk.jpg

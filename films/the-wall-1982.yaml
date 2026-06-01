@@ -8,6 +8,7 @@ runtime_min: 2
 external_ids:
   wikidata: Q123155513
   imdb: tt0084884
+  tmdb: 629990
 sources:
 - https://www.wikidata.org/wiki/Q123155513
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: aykkhorn-liza
 - person: gurni-govard
 - person: khayken-dzherald
+poster_tmdb_path: /2cXiQR6XoAo5DFz3VDEDPn35ixd.jpg
+backdrop_tmdb_path: /hIl0ZNIZSU1OqbYG2QMxxY7aKNq.jpg

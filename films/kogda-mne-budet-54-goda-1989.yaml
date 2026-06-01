@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q95096623
   imdb: tt0311405
   youtube: cwUVCtvD2ws
+  tmdb: 1231200
 sources:
 - https://www.wikidata.org/wiki/Q95096623
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: khochinskiy-aleksandr-yurevich
 - person: safonov-aleksey-vasilevich
 - person: dobrovolskaya-evgeniya-vladimirovna
+poster_tmdb_path: /6eZvCDQnusnU3cwDteru926dv9y.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4179351
   imdb: tt0076954
   youtube: ZeODYCWZ03g
+  tmdb: 194634
 sources:
 - https://www.wikidata.org/wiki/Q4179351
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: borisov-oleg-ivanovich
 - person: petrenko-aleksey-vasilevich
 - person: kryuchkova-svetlana
+poster_tmdb_path: /1qmR2zuG9ApTsT0s8PL9F7WEbJk.jpg
+backdrop_tmdb_path: /wF0rXRINPUPTvxjcD6rddPgU2O1.jpg

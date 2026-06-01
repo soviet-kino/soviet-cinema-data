@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q10707864
   imdb: tt0103093
+  tmdb: 484151
 sources:
 - https://www.wikidata.org/wiki/Q10707864
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: lyubomirov-nikola
 - person: rudarov-nikola
 - person: daskalov-tsvetan
+poster_tmdb_path: /s10fxV3PMiBHoNYhi5DCWomcKZv.jpg

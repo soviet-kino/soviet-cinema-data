@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q1097005
   imdb: tt0121403
+  tmdb: 63625
 sources:
 - https://www.wikidata.org/wiki/Q1097005
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 screenwriter:
 - rideg-sandor
 - schwajda-gyorgy
+poster_tmdb_path: /8IeFElRh4MjdFIqhwNWVQXnSycG.jpg
+backdrop_tmdb_path: /57cCXtmKTR9FnC3Eyqxkdg6vkW.jpg

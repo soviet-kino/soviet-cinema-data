@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16720039
   imdb: tt0062371
   youtube: DV5MU4bLm_Y
+  tmdb: 834289
 sources:
 - https://www.wikidata.org/wiki/Q16720039
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - isakov-valeriy-trofimovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /elxNsOcQs3I6DaCliHbBE63Dyuv.jpg

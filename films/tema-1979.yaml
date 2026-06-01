@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q734048
   imdb: tt0079999
   youtube: 4A1TBPJnFFo
+  tmdb: 131349
 sources:
 - https://www.wikidata.org/wiki/Q734048
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: vesnik-evgeniy-yakovlevich
 - person: seleznyova-natalya-igorevna
 - person: nikonenko-sergey
+poster_tmdb_path: /aUsB23s73SnA7RkesmtYaB3wXk9.jpg
+backdrop_tmdb_path: /4MOGyaG8ko2Mre5ezphG3H8ZUW3.jpg

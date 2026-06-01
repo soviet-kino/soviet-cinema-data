@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q11815444
   imdb: tt0078071
+  tmdb: 193493
 sources:
 - https://www.wikidata.org/wiki/Q11815444
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kopachevskiy-yaroslav
 cast:
 - person: hryniewicz-mieczys-aw
+poster_tmdb_path: /lwU7yWAKJHCrowRrFPKeCJdO8HY.jpg
+backdrop_tmdb_path: /5tNi8UTU1x8GQI0Si53EwR5eVea.jpg

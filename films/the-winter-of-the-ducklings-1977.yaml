@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12730219
   imdb: tt0121390
+  tmdb: 251642
 sources:
 - https://www.wikidata.org/wiki/Q12730219
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: galin-karmen
 - person: miller-konstantin
 - person: nitulesku-vasil
+poster_tmdb_path: /8fRwfw5exP2cdg11m25zFXLGToD.jpg

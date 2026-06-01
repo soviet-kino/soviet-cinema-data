@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4447979
   imdb: tt5088274
+  tmdb: 641160
 sources:
 - https://www.wikidata.org/wiki/Q4447979
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: churkin-stanislav-aleksandrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /cwMuyt6k6HFHz8BcLszPgfqcYgL.jpg
+backdrop_tmdb_path: /j5e5S7WT5BwE8C353TOPhzQtgBn.jpg

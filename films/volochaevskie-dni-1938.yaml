@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4124053
   imdb: tt0030949
   youtube: mY6fTzeI1Zk
+  tmdb: 557861
 sources:
 - https://www.wikidata.org/wiki/Q4124053
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: dorokhin-nikolay-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /nMbZ6QGiVvYqOd094HT4QK1KHTe.jpg
+backdrop_tmdb_path: /8vTdXpVYkefs19GSQ0XT4gABvN6.jpg

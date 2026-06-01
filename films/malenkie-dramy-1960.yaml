@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q16575762
   imdb: tt0054055
+  tmdb: 455587
 sources:
 - https://www.wikidata.org/wiki/Q16575762
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - nasfeter-yanush
 composer:
 - valyatsinskiy-adam
+poster_tmdb_path: /iDpkUmYtfWzF4xRY1pA6cLzjUEt.jpg

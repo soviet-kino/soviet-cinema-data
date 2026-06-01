@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3650585
   imdb: tt0175294
   youtube: eLOYeaX2Mic
+  tmdb: 149109
 sources:
 - https://www.wikidata.org/wiki/Q3650585
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: chiaureli-sofiko-mikhaylovna
 - person: abashidze-david-ivanovich
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /zgKEBznowaBM9kljIBglZw7tBPk.jpg
+backdrop_tmdb_path: /6NwfMhy82wSZu9BxWPpOdAYk6GI.jpg

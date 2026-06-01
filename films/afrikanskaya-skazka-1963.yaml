@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q48945078
   imdb: tt11593062
+  tmdb: 843731
 sources:
 - https://www.wikidata.org/wiki/Q48945078
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 - petrova-elena-nikolaevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /2oWTOMdrPlGofKV7xIu4I4tJs41.jpg
+backdrop_tmdb_path: /x6vlPzjuQz7zmkoxdPAkol2Lhba.jpg

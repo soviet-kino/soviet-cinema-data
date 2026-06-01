@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1218988
   imdb: tt0125365
+  tmdb: 289375
 sources:
 - https://www.wikidata.org/wiki/Q1218988
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: chazinskiy-frank
 - person: veldre-erik
 - person: tilsner-klaus
+poster_tmdb_path: /8o5aT6aymctDkTFumbCT4sJfZIU.jpg
+backdrop_tmdb_path: /eI6F9LuKVr9mKRpzg7KbECwzgC9.jpg

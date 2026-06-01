@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4232603
   imdb: tt0045973
   youtube: Z3p58Z2zqZo
+  tmdb: 207242
 sources:
 - https://www.wikidata.org/wiki/Q4232603
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: agurov-evgeniy-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /jlvbJVz7yQrAtuQqmA4h2AjLbOg.jpg
+backdrop_tmdb_path: /s7YHKAKjiTKI2QXhrwAdScv9VRu.jpg

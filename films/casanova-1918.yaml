@@ -20,6 +20,8 @@ cast:
 external_ids:
   wikidata: Q5048027
   imdb: tt0008952
+  tmdb: 648260
 sources:
 - https://www.wikidata.org/wiki/Q5048027
 schema_version: 1
+poster_tmdb_path: /9U7zmoiGEfBW9IT7PeiIt9VWWxw.jpg

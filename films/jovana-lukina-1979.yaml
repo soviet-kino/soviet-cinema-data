@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q16083226
   imdb: tt0173945
+  tmdb: 202832
 sources:
 - https://www.wikidata.org/wiki/Q16083226
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: boro-bregovich
 - person: kodzic-mirjana
 - person: neda-spasoevich
+poster_tmdb_path: /dvadQeG6nFyLCU03Rs3DXKhDAyJ.jpg
+backdrop_tmdb_path: /5qqqBfA9cQfYBzbW0tbm29E4jYv.jpg

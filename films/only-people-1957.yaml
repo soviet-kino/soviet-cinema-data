@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q3511691
   imdb: tt0050932
+  tmdb: 283122
 sources:
 - https://www.wikidata.org/wiki/Q3511691
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: olivera-markovich
 - person: toma-kuruzovich
 - person: dragoslav-popovich
+poster_tmdb_path: /wWhfaxXVcVDxHyW04AF95UWe6oL.jpg
+backdrop_tmdb_path: /p1pXIVNUrogULEjEbjlLbJ4VAj8.jpg

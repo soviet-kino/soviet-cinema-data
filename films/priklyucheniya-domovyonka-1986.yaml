@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21130207
   imdb: tt2327471
+  tmdb: 448879
 sources:
 - https://www.wikidata.org/wiki/Q21130207
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /dxIGIR0XoHCwqwZ12WBVwjlmgtE.jpg
+backdrop_tmdb_path: /8wCYzm07KQmHjkHV1ma8tngG0NW.jpg

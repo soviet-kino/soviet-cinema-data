@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4340501
   imdb: tt6071046
+  tmdb: 448498
 sources:
 - https://www.wikidata.org/wiki/Q4340501
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Hunting rifle (1948).jpg
+poster_tmdb_path: /mxKrDfjhg9X1tgsUeYUN2wzPX9M.jpg
+backdrop_tmdb_path: /qXCpCkjnKejX1ftNp4pM1YzIco7.jpg

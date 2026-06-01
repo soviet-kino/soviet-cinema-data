@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12760213
   imdb: tt0170712
+  tmdb: 354298
 sources:
 - https://www.wikidata.org/wiki/Q12760213
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: dushan-yanichievich
 - person: kon-mariya
 - person: vuysich-dushan
+poster_tmdb_path: /419ggWkEtv1hSLkXAlK8Evp77QG.jpg
+backdrop_tmdb_path: /lQzU5SGi4GzrSUM83GMPVOrdU5k.jpg

@@ -22,6 +22,9 @@ external_ids:
   wikidata: Q4090941
   imdb: tt0031172
   youtube: RJE_Qzio7yc
+  tmdb: 881682
 sources:
 - https://www.wikidata.org/wiki/Q4090941
 schema_version: 1
+poster_tmdb_path: /pAHBdol4JaZEbKrxLTBUOnxIuIG.jpg
+backdrop_tmdb_path: /nJw1xDVIrbNvqaHEzw4RLXThf6u.jpg

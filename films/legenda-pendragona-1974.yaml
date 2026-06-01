@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7756520
   imdb: tt0071981
+  tmdb: 318059
 sources:
 - https://www.wikidata.org/wiki/Q7756520
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kallai-ferents
 - person: mayor-tamash
 - person: simor-erzsi
+poster_tmdb_path: /yfetsJhlNvH1nYWVBq5nFjrrp3K.jpg
+backdrop_tmdb_path: /ggFncRMDjia5VwvtAdogI5qmOMD.jpg

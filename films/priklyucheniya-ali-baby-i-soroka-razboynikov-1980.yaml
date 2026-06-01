@@ -8,6 +8,7 @@ runtime_min: 153
 external_ids:
   wikidata: Q780428
   imdb: tt0079749
+  tmdb: 14478
 sources:
 - https://www.wikidata.org/wiki/Q780428
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: voinov-konstantin
 studio:
 - uzbekfilm
+poster_tmdb_path: /13HEkr3Pj0WU7BTgEiXAy1jCI12.jpg
+backdrop_tmdb_path: /75MVhvcv5l0Sh7TbmZLzAqxkAhC.jpg

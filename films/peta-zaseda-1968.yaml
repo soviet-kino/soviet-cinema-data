@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27307720
   imdb: tt0297334
+  tmdb: 489026
 sources:
 - https://www.wikidata.org/wiki/Q27307720
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: bitents-demetr
 - person: kavatstsa-boris
+poster_tmdb_path: /yfLE74t1q95AcyrUaP0OK1BvEP1.jpg

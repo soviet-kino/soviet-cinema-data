@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12841213
   imdb: tt0319639
+  tmdb: 331691
 sources:
 - https://www.wikidata.org/wiki/Q12841213
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: baykov-boris-pavlovich
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /hVW7J5X75sWIYjW8EsxhydkIoq8.jpg

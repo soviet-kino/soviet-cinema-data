@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4361804
   imdb: tt4624296
   youtube: SI400AVaRhI
+  tmdb: 364852
 sources:
 - https://www.wikidata.org/wiki/Q4361804
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - frenkel-yan-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /vaL3zyQ4oDPWxapPCfqYCorNkRa.jpg
+backdrop_tmdb_path: /sKJuHIK1on9IimsFiSY9CKO1u1Z.jpg

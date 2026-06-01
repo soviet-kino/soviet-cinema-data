@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116811364
   imdb: tt2549034
+  tmdb: 1238048
 sources:
 - https://www.wikidata.org/wiki/Q116811364
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: timofeeva-tamara
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /a3emfh3jOhOSo5NnSSiRMZgcgOY.jpg
+backdrop_tmdb_path: /oUr79YzcrYHKRoBii7axITZU0dj.jpg

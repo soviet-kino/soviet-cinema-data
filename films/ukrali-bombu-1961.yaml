@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4655543
   imdb: tt0131571
+  tmdb: 155820
 sources:
 - https://www.wikidata.org/wiki/Q4655543
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: caciulescu-horia
 - person: popa-tudorel
 - person: teodoresku-ovid
+poster_tmdb_path: /rDWNXbEMrGL8V81tUGw3UbdOi7N.jpg
+backdrop_tmdb_path: /gBZwcIlWcW8Hmc7ZDo7jxOwDkFa.jpg

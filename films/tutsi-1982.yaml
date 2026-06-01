@@ -17,6 +17,7 @@ soviet_release:
 external_ids:
   wikidata: Q221249
   imdb: tt0084805
+  tmdb: 9576
 sources:
 - https://www.wikidata.org/wiki/Q221249
 schema_version: 1
@@ -60,3 +61,5 @@ studio:
 - columbia-pictures
 - mirage-enterprises
 poster_commons: Tootsie - plakát Jan Sarkandr Tománek.jpg
+poster_tmdb_path: /mosJDzXTrtZfc4alYmCnVokRnOX.jpg
+backdrop_tmdb_path: /dGRGes6Yw0vK1IymLatHBXGvvpS.jpg

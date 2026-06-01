@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4337636
   imdb: tt0071951
   youtube: hwYIg2l71Nc
+  tmdb: 72629
 sources:
 - https://www.wikidata.org/wiki/Q4337636
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: rudnaya-natalya-vladimirovna
 studio:
 - mosfilm
+poster_tmdb_path: /9CMXKJ0AGuvOXbCuncKKLthU2eu.jpg
+backdrop_tmdb_path: /BoZjobyzal6bJkwLFLJg5shz8J.jpg

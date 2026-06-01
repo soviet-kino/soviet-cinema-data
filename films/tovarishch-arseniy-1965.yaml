@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4459190
   imdb: tt0320650
   youtube: hP2HkAjfxs4
+  tmdb: 830690
 sources:
 - https://www.wikidata.org/wiki/Q4459190
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: obukhov-anatoliy-matveevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9tnXB3orXTBSK7RqRlW4vobCwwd.jpg

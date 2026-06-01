@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12773121
   imdb: tt0171596
+  tmdb: 244800
 sources:
 - https://www.wikidata.org/wiki/Q12773121
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: misovic-stefan
 - person: raynyak-ivan
 - person: bakhlet-rudolf
+poster_tmdb_path: /umpgAlHM0gssgqG4cW2LVEeTIm8.jpg

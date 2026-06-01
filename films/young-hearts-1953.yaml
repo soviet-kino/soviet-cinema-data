@@ -8,6 +8,7 @@ runtime_min: 1
 external_ids:
   wikidata: Q16520672
   imdb: tt0172583
+  tmdb: 526110
 sources:
 - https://www.wikidata.org/wiki/Q16520672
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: varga-gyula
 - person: gonda-derd
 - person: kadar-flora
+poster_tmdb_path: /jEkaRUeOUSxYVbdvRzdwiWcZrYq.jpg

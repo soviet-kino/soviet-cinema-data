@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127777
   imdb: tt0083308
   youtube: 12WX72UehmU
+  tmdb: 417772
 sources:
 - https://www.wikidata.org/wiki/Q4127777
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: sorochinskaya-zinaida-sigizmundovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /5lRcUoCqlxNMixUTMwvaEDK1rSv.jpg
+backdrop_tmdb_path: /jwRSc7yRv2iHFj2Y2w9SeiCDjwY.jpg

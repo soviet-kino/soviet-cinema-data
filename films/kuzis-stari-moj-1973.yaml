@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3506257
   imdb: tt0180790
+  tmdb: 366094
 sources:
 - https://www.wikidata.org/wiki/Q3506257
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: ivitsa-vidovich
 - person: petrich-branka
 - person: milutin-butkovich
+backdrop_tmdb_path: /mdpkEJpvFB14IBMafNOO6IaCz71.jpg

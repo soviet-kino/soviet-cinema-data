@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4348410
   imdb: tt0079708
+  tmdb: 639206
 sources:
 - https://www.wikidata.org/wiki/Q4348410
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: steblov-evgeniy-yurevich
 studio:
 - mosfilm
+poster_tmdb_path: /xzA6jOpyN1crotqI8Sbo2vl1LPR.jpg
+backdrop_tmdb_path: /6XDNcLRQLB4064sSIYfE7pQTv8n.jpg

@@ -8,6 +8,8 @@ runtime_min: 2
 external_ids:
   wikidata: Q15270770
   imdb: tt1075363
+  tmdb: 211022
 sources:
 - https://www.wikidata.org/wiki/Q15270770
 schema_version: 1
+poster_tmdb_path: /9kC8CqZljxMNP95pWVD55tXU8C2.jpg

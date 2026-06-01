@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q30914726
   imdb: tt0892887
+  tmdb: 91658
 sources:
 - https://www.wikidata.org/wiki/Q30914726
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - ptichkin-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /xlziEfYgHFP6NuE2g86qTEym7p2.jpg

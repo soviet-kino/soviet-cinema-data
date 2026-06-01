@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q16086199
   imdb: tt0179833
+  tmdb: 268499
 sources:
 - https://www.wikidata.org/wiki/Q16086199
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: mitic-branka
 - person: milosavljevic-dragoljub-gula
 - person: kodzic-mirjana
+poster_tmdb_path: /ap7yTQUOnl4I57l9ehLwUegVUJp.jpg

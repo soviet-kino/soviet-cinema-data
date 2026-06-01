@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q9949953
   imdb: tt21835964
+  tmdb: 1095739
 sources:
 - https://www.wikidata.org/wiki/Q9949953
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 studio:
 - q107079016
 poster_commons: Афіша фільму „11 ліпеня“.png
+poster_tmdb_path: /aMaXoeIYgsPVDIkUG3rOdPmuyhS.jpg

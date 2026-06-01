@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q15807549
   imdb: tt0230272
+  tmdb: 297198
 sources:
 - https://www.wikidata.org/wiki/Q15807549
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - schneidereit-otto
 cinematographer:
 - khanish-otto
+poster_tmdb_path: /zSVtgopKIO5NfW04XBY3F9Rgt9Y.jpg

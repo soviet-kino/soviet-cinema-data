@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q12846221
   imdb: tt0303190
+  tmdb: 529954
 sources:
 - https://www.wikidata.org/wiki/Q12846221
 schema_version: 1
@@ -77,3 +78,4 @@ cast:
 studio:
 - barrandov
 - azerbaydzhanfilm
+poster_tmdb_path: /4R3UnOCQp6FKdr5X8T8ebfL7fiQ.jpg

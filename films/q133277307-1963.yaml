@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q133277307
   imdb: tt0431712
+  tmdb: 175902
 sources:
 - https://www.wikidata.org/wiki/Q133277307
 schema_version: 1
 director:
 - gersh-vitold
+poster_tmdb_path: /2B9Ws8Rj4S30bsBBOk4o4dqg3FG.jpg

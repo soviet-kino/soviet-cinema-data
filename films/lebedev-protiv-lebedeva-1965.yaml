@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4255823
   imdb: tt0177899
   youtube: Jx8p8RlM9V0
+  tmdb: 831604
 sources:
 - https://www.wikidata.org/wiki/Q4255823
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: retsepter-vladimir-emmanuilovich
 - person: eybozhenko-aleksey-sergeevich
+poster_tmdb_path: /sqEgN8X8OzW9R1CFxjI0k7ThQKF.jpg
+backdrop_tmdb_path: /nk2S0I8F1Sf17mKvoTaF2hT7vg8.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q29018753
   imdb: tt4859354
+  tmdb: 448493
 sources:
 - https://www.wikidata.org/wiki/Q29018753
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - mershin-pavel-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /O4Ep3enC4DlvYjWOLjsRfvThgB.jpg

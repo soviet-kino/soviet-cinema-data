@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4139218
   imdb: tt0340132
+  tmdb: 838198
 sources:
 - https://www.wikidata.org/wiki/Q4139218
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: sanaeva-elena-vsevolodovna
 - person: strizhenov-gleb-aleksandrovich
 - person: yurchenko-boris-aleksandrovich
+poster_tmdb_path: /xmQqggr1VWDj6OEpF5Kvw1twmBd.jpg

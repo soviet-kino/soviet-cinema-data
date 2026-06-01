@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q5683428
   imdb: tt0151191
+  tmdb: 159292
 sources:
 - https://www.wikidata.org/wiki/Q5683428
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: pata-vaclav
 - person: nohacova-vera
 - person: ulrych-bedrich
+poster_tmdb_path: /v98Rj0ZyIlqYZBPJHVVNMEOQJ9a.jpg

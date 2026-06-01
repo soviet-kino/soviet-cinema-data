@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q139378778
   imdb: tt1075415
+  tmdb: 414720
 sources:
 - https://www.wikidata.org/wiki/Q139378778
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - rannap-reyn
 studio:
 - tallinfilm
+poster_tmdb_path: /rPRF33QKD4zmS6z4XTrLp905hET.jpg
+backdrop_tmdb_path: /oKMYMdxm4UH98ubQtecuXynh1Uu.jpg

@@ -8,6 +8,7 @@ runtime_min: 616
 external_ids:
   wikidata: Q4123219
   imdb: tt0211111
+  tmdb: 160076
 sources:
 - https://www.wikidata.org/wiki/Q4123219
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - rybnikov-aleksey
 studio:
 - ekran
+poster_tmdb_path: /iGaBOK5VHVjYxYeIZrtcUj6uhTE.jpg

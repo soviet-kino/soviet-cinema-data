@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4053879
   imdb: tt0147806
   youtube: -2IhHYRXExU
+  tmdb: 63568
 sources:
 - https://www.wikidata.org/wiki/Q4053879
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: prokhorenko-zhanna-trofimovna
 - person: mironov-andrey
 - person: pushkaryov-igor-borisovich
+poster_tmdb_path: /d50ZMuM1NMPRJGz1KRDwAmcSvvm.jpg
+backdrop_tmdb_path: /yRn3ysq49A3JhmeXiXpjprC74VP.jpg
