@@ -4,10 +4,24 @@ title_original: Снегурочка
 year: 1952
 country:
 - SU
+studio:
+- soyuzmultfilm
+director:
+- ivanov-vano-ivan
+screenwriter:
+- ivanov-vano-ivan
+- snezhko-blotskaya-aleksandra-gavrilovna
+- leonidov-oleg-leonidovich
+cinematographer:
+- voinov-nikolay-vasilevich
+- petrova-elena-nikolaevna
+composer:
+- rimskiy-korsakov-nikolay-andreevich
 runtime_min: 65
 external_ids:
   wikidata: Q2033042
   imdb: tt0045160
+  youtube: 91Tpo3s96c0
 sources:
 - https://www.wikidata.org/wiki/Q2033042
 schema_version: 1

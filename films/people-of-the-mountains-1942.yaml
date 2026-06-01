@@ -4,6 +4,23 @@ title_original: People of the Mountains
 year: 1942
 country:
 - HU
+director:
+- szots-istvan
+screenwriter:
+- szots-istvan
+- nire-yozhef
+cinematographer:
+- fekete-ferents
+composer:
+- farkash-ferents
+cast:
+- person: gerbe-yanosh
+- person: bikhari-zhozef
+- person: szellay-alice
+- person: kurti-zhurzh
+- person: garday-lajos
+- person: borovszky-oszkar
+- person: maklari-yanos
 runtime_min: 89
 external_ids:
   wikidata: Q3233216

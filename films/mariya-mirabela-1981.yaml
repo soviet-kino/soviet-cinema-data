@@ -4,10 +4,33 @@ title_original: Мария, Мирабела
 year: 1981
 country:
 - SU
+studio:
+- soyuzmultfilm
+- buftea-studios
+- moldova-film
+- sovinfilm
+- casa-de-filme-5
+director:
+- popesku-gopo-ion
+- bodiul-natalia
+screenwriter:
+- popesku-gopo-ion
+cinematographer:
+- kotov-boris-stepanovich
+- popescu-alecu
+composer:
+- vieru-grigore-pavlovich
+- doga-evgeniy
+cast:
+- person: popesku-gopo-ion
+- person: marinesku-medeya
+- person: manolesku-dzhilda
+- person: celia-ingrid
 runtime_min: 69
 external_ids:
   wikidata: Q4281621
   imdb: tt0155858
+  youtube: lc3faWGVZ9U
 sources:
 - https://www.wikidata.org/wiki/Q4281621
 schema_version: 1

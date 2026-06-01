@@ -4,10 +4,17 @@ title_original: 'Кот Феликс: Кто сказал — мяу?'
 year: 1988
 country:
 - HU
+director:
+- hernadi-tibor
+screenwriter:
+- braun-pit
+cinematographer:
+- radocsay-laszlo
 runtime_min: 78
 external_ids:
   wikidata: Q2068444
   imdb: tt0259308
+  youtube: hNsOw8uIjXI
 sources:
 - https://www.wikidata.org/wiki/Q2068444
 schema_version: 1

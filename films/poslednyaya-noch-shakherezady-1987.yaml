@@ -4,6 +4,16 @@ title_original: Последняя ночь Шахерезады
 year: 1987
 country:
 - SU
+studio:
+- tadzhikfilm
+director:
+- sabirov-takhir-mukhtarovich
+screenwriter:
+- sabirov-takhir-mukhtarovich
+composer:
+- aleksandrov-gennadiy
+cast:
+- person: tonunts-elena-konstantinovna
 runtime_min: 88
 external_ids:
   wikidata: Q4373861

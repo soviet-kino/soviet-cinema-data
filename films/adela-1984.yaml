@@ -4,6 +4,12 @@ title_original: Адела
 year: 1984
 country:
 - RO
+studio:
+- radef
+director:
+- veroyu-mircha
+screenwriter:
+- ibreilyanu-garabet
 runtime_min: 80
 external_ids:
   wikidata: Q28726636

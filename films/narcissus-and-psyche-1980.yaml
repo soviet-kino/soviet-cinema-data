@@ -4,6 +4,24 @@ title_original: Narcissus and Psyche
 year: 1980
 country:
 - HU
+director:
+- body-gabor
+screenwriter:
+- body-gabor
+- csaplar-vilmos
+cinematographer:
+- khildebrand-ishtvan
+composer:
+- vidovski-laslo
+cast:
+- person: kaven-ingrid
+- person: kir-udo
+- person: gera-zoltan-2
+- person: pilinskiy-yanosh
+- person: cherkhalmi-dyord
+- person: erdely-miklos
+- person: hoppal-mihaly
+poster_commons: Narcissus and Psyche - Poster.jpg
 external_ids:
   wikidata: Q1965498
   imdb: tt0081254

@@ -4,10 +4,25 @@ title_original: Она защищает Родину
 year: 1943
 country:
 - SU
+studio:
+- kazakhfilm
+director:
+- ermler-fridrikh-markovich
+screenwriter:
+- kapler-aleksey-yakovlevich
+composer:
+- popov-gavriil-nikolaevich
+cast:
+- person: bogolyubov-nikolay-ivanovich
+- person: smirnova-lidiya-nikolaevna
+- person: maretskaya-vera-petrovna
+- person: fyodorova-inna-ivanovna
 runtime_min: 100
+poster_commons: Плакат к фильму «Она защищает Родину».jpg
 external_ids:
   wikidata: Q4334797
   imdb: tt0036236
+  youtube: fKY5N3usguc
 sources:
 - https://www.wikidata.org/wiki/Q4334797
 schema_version: 1

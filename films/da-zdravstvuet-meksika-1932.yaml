@@ -4,10 +4,22 @@ title_original: Да здравствует Мексика!
 year: 1932
 country:
 - SU
+director:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- aleksandrov-grigoriy-vasilevich
+cinematographer:
+- tisse-eduard-kazimirovich
+cast:
+- person: garsiya-sara
+- person: anda-raul-de
 runtime_min: 103
 external_ids:
   wikidata: Q2529345
   imdb: tt0022756
+  youtube: Pzki50KzRN0
 sources:
 - https://www.wikidata.org/wiki/Q2529345
 schema_version: 1

@@ -4,6 +4,31 @@ title_original: Удивительное воскресенье
 year: 1957
 country:
 - CS
+studio:
+- barrandov
+- kinostudiya-imeni-m-gorkogo
+director:
+- duba-chenek
+screenwriter:
+- khofman-ota
+cinematographer:
+- golpukh-yaromir
+composer:
+- lepin-anatoliy-yakovlevich
+cast:
+- person: bernes-mark-naumovich
+- person: izvitskaya-izolda-vasilevna
+- person: kryuchkov-nikolay-afanasevich
+- person: lezhdey-elza-ivanovna
+- person: sarantsev-yuriy-dmitrievich
+- person: yudina-liliya-vitalevna
+- person: ditetova-yana
+- person: gomola-miroslav
+- person: fisher-stanislav
+- person: sedlacek-tomas
+- person: silujanov-vladimir
+- person: tichomirovova-d
+- person: nesciplenko-vasilij
 runtime_min: 78
 external_ids:
   wikidata: Q48949151

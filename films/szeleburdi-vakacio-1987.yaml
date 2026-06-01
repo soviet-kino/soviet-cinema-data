@@ -4,6 +4,15 @@ title_original: Szeleburdi vakáció
 year: 1987
 country:
 - HU
+director:
+- gyorgy-palasthy
+screenwriter:
+- balint-agnes
+- gyorgy-palasthy
+cinematographer:
+- illesh-dyord
+composer:
+- berkes-gabor
 runtime_min: 73
 external_ids:
   wikidata: Q12816237

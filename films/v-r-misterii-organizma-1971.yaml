@@ -4,6 +4,23 @@ title_original: В. Р. Мистерии организма
 year: 1971
 country:
 - YU
+director:
+- makaveev-dushan
+screenwriter:
+- makaveev-dushan
+cinematographer:
+- predrag-popovich
+cast:
+- person: tszedun-mao
+- person: gelovani-mikhail-georgievich
+- person: milena-dravich
+- person: kaloper-jagoda
+- person: ivitsa-vidovich
+- person: kertis-dzheki
+- person: zoran-radmilovich
+- person: andric-miodrag
+- person: milic-nikola
+- person: matic-zivka
 runtime_min: 84
 external_ids:
   wikidata: Q2587098

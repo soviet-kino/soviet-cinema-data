@@ -4,10 +4,37 @@ title_original: Сельская учительница
 year: 1947
 country:
 - SU
+studio:
+- soyuzdetfilm
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- smirnova-mariya-nikolaevna
+cinematographer:
+- urusevskiy-sergey-pavlovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: maretskaya-vera-petrovna
+- person: gluzskiy-mikhail-andreevich
+- person: plyatt-rostislav-yanovich
+- person: olenev-pavel-alekseevich
+- person: belokurov-vladimir-vyacheslavovich
+- person: zhukov-aleksandr-ivanovich
+- person: konsovskiy-aleksey-anatolevich
+- person: lisyanskaya-anna-grigorevna
+- person: makagonova-roza-ivanovna
+- person: odinokov-fyodor-ivanovich
+- person: runge-boris-vasilevich
+- person: sagal-daniil-lvovich
+- person: susnin-aleksandr
+- person: khryashchikov-nikolay-prokhorovich
+- person: yureva-margarita-valentinovna
 runtime_min: 100
 external_ids:
   wikidata: Q3204993
   imdb: tt0039810
+  youtube: bbWE8qxTt5A
 sources:
 - https://www.wikidata.org/wiki/Q3204993
 schema_version: 1

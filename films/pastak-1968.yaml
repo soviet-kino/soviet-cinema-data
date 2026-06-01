@@ -4,14 +4,8 @@ title_original: Pasťák
 year: 1968
 country:
 - CS
-runtime_min: 91
-external_ids:
-  wikidata: Q7143176
-  imdb: tt0123217
-  youtube: MUNfyHxLjV4
-sources:
-- https://www.wikidata.org/wiki/Q7143176
-schema_version: 1
+studio:
+- barrandov
 director:
 - bocan-hynek
 screenwriter:
@@ -44,5 +38,11 @@ cast:
 - person: vognic-milos
 - person: q101081456
 - person: prokes-jan
-studio:
-- barrandov
+runtime_min: 91
+external_ids:
+  wikidata: Q7143176
+  imdb: tt0123217
+  youtube: MUNfyHxLjV4
+sources:
+- https://www.wikidata.org/wiki/Q7143176
+schema_version: 1

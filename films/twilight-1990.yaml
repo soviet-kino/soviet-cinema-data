@@ -4,6 +4,21 @@ title_original: Twilight
 year: 1990
 country:
 - HU
+studio:
+- magyar-televizio
+- q123900976
+director:
+- fekher-dyord
+screenwriter:
+- fekher-dyord
+cinematographer:
+- gurban-miklos
+composer:
+- vidovski-laslo
+cast:
+- person: derzhi-yanosh
+- person: khaumann-peter
+- person: pogany-judit
 runtime_min: 105
 external_ids:
   wikidata: Q77395310

@@ -4,6 +4,12 @@ title_original: Icarus
 year: 1975
 country:
 - DD
+director:
+- karov-khayner
+cinematographer:
+- brauer-yurgen
+composer:
+- gotkhardt-peter
 runtime_min: 91
 external_ids:
   wikidata: Q15819929

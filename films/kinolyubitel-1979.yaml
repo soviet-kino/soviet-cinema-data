@@ -4,6 +4,36 @@ title_original: Кинолюбитель
 year: 1979
 country:
 - PL
+studio:
+- tor-kinostudiya
+director:
+- keslyovskiy-kshishtof
+screenwriter:
+- keslyovskiy-kshishtof
+- shtur-ezhi
+cinematographer:
+- petritskiy-yatsek
+composer:
+- knittel-kshishtof
+cast:
+- person: zanussi-kshishtof
+- person: shtur-ezhi
+- person: teresa-shmigelyuvna
+- person: khuk-tadeush
+- person: novak-ezhi
+- person: kisielewska-aleksandra
+- person: alitsiya-benitsevich
+- person: sobchuk-boguslav
+- person: pokas-eva
+- person: bradetskiy-tadeush
+- person: maciudzinski-w-odzimierz
+- person: szajnert-feliks
+- person: litevka-marek
+- person: wierzbicki-krzysztof
+- person: chizevskiy-stefan
+- person: jurga-andrzej
+- person: zabkowska-ma-gorzata
+- person: q117309726
 runtime_min: 109
 external_ids:
   wikidata: Q2417978

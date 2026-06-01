@@ -4,6 +4,23 @@ title_original: Дирижёр
 year: 1980
 country:
 - PL
+director:
+- wajda-andrzej
+screenwriter:
+- kiyovskiy-andzhey
+cinematographer:
+- idzyak-slavomir
+composer:
+- betkhoven-lyudvig-van
+cast:
+- person: severin-mariya
+- person: gilgud-dzhon
+- person: yanda-kristina
+- person: ferreol-andrea
+- person: severin-andzhey
+- person: gayos-yanush
+- person: dombrovskiy-marek
+- person: tsetserskiy-yan
 runtime_min: 101
 external_ids:
   wikidata: Q833502

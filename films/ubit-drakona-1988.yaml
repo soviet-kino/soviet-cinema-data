@@ -4,10 +4,50 @@ title_original: Убить дракона
 year: 1988
 country:
 - SU
+studio:
+- zdf
+- mosfilm
+- bavaria-film
+- sovinfilm
+director:
+- zakharov-mark-anatolevich
+screenwriter:
+- zakharov-mark-anatolevich
+- gorin-grigoriy
+cinematographer:
+- nakhabtsev-vladimir
+composer:
+- gladkov-gennadiy
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: yankovsky-oleg
+- person: farada-semyon-lvovich
+- person: abdulov-aleksandr-gavrilovich
+- person: polunin-vyacheslav-ivanovich
+- person: leonov-evgeniy-pavlovich
+- person: tolubeev-andrey-yurevich
+- person: mut-frank
+- person: zbruev-aleksandr-viktorovich
+- person: agapov-ivan-valerevich
+- person: borisov-viktor-alekseevich
+- person: varganov-vitaliy-leonidovich
+- person: voynarovskiy-vyacheslav-igorevich
+- person: volkova-olga-vladimirovna
+- person: gromov-leonid
+- person: zakharova-aleksandra-markovna
+- person: nakhabtsev-vladimir
+- person: rakov-viktor
+- person: soshnikova-olga-ilinichna
+- person: filippenko-aleksandr-georgievich
+- person: frolovtseva-anna-vasilevna
+- person: chunaev-boris-nikolaevich
+- person: belyaeva-valentina-efimovna
+- person: fokin-igor-alekseevich
 runtime_min: 116
 external_ids:
   wikidata: Q4468674
   imdb: tt0096329
+  youtube: qGbN7cUgJlo
 sources:
 - https://www.wikidata.org/wiki/Q4468674
 schema_version: 1

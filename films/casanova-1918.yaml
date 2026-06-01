@@ -4,6 +4,19 @@ title_original: Casanova
 year: 1918
 country:
 - HU
+director:
+- dizi-alfred
+screenwriter:
+- bekeffi-laszlo
+- farago-jeno
+- pakots-jozsef
+cinematographer:
+- fass-karl
+cast:
+- person: lugoshi-bela
+- person: dizi-alfred
+- person: hollay-camilla-von
+- person: loth-ila
 external_ids:
   wikidata: Q5048027
   imdb: tt0008952

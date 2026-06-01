@@ -4,10 +4,17 @@ title_original: Хлеб (фильм)
 year: 1929
 country:
 - SU
+director:
+- shpikovskiy-nikolay-grigorevich
+screenwriter:
+- yaroshenko-vladimir-moiseevich
+cinematographer:
+- pankratev-aleksey-alekseevich
 runtime_min: 45
 external_ids:
   wikidata: Q16722084
   imdb: tt3511734
+  youtube: ptB4m9VedZA
 sources:
 - https://www.wikidata.org/wiki/Q16722084
 schema_version: 1

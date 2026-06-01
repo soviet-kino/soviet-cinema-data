@@ -4,6 +4,22 @@ title_original: Детство Горького
 year: 1938
 country:
 - SU
+studio:
+- soyuzdetfilm
+director:
+- donskoy-mark-semyonovich
+screenwriter:
+- gruzdev-ilya-aleksandrovich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: zhukov-aleksandr-dmitrievich
+- person: smirnov-igor-nikolaevich
+- person: pogodin-nikolay-fyodorovich
+- person: alekseeva-elizaveta-georgievna
+- person: lyarskiy-aleksey-petrovich
+- person: massalitinova-varvara-osipovna
+- person: troyanovskiy-mikhail-konstantinovich
 runtime_min: 98
 external_ids:
   wikidata: Q3202952

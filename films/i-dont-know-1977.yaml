@@ -4,6 +4,12 @@ title_original: I don’t know
 year: 1977
 country:
 - PL
+director:
+- keslyovskiy-kshishtof
+screenwriter:
+- keslyovskiy-kshishtof
+cinematographer:
+- petritskiy-yatsek
 runtime_min: 47
 external_ids:
   wikidata: Q23653989

@@ -4,6 +4,25 @@ title_original: Избавитель
 year: 1976
 country:
 - YU
+studio:
+- yadran-film
+director:
+- papich-krsto
+screenwriter:
+- breshan-ivo
+- papich-krsto
+cinematographer:
+- rajkovic-ivica
+composer:
+- zivkovic-brane
+cast:
+- person: bashich-relya
+- person: sovagovic-fabijan
+- person: ivitsa-vidovich
+- person: boman-mirko
+- person: ivezich-iliya
+- person: edo-perochevich
+- person: spoljar-branko
 runtime_min: 75
 external_ids:
   wikidata: Q1001102

@@ -4,6 +4,34 @@ title_original: Канал
 year: 1957
 country:
 - PL
+director:
+- wajda-andrzej
+screenwriter:
+- stavinskiy-ezhi
+cinematographer:
+- lipman-ezhi
+composer:
+- krents-yan
+cast:
+- person: polanski-roman
+- person: englert-yan
+- person: izhevskaya-teresa
+- person: yanchar-tadeush
+- person: glinskiy-venchislav
+- person: sheybal-vladek
+- person: vishnevskaya-eva
+- person: mikulskiy-stanislav
+- person: kutts-kazimezh-yulian
+- person: ronchevskiy-ryshard
+- person: emil-karevich
+- person: lesnyak-zdzislav
+- person: pavlikovskiy-adam
+- person: filipskiy-ryshard
+- person: lindorfowna-zofia
+- person: gvyazdovskiy-tadeush
+- person: kovalskiy-vladislav
+- person: dejunowicz-kazimierz
+- person: macheevskiy-machey
 runtime_min: 95
 external_ids:
   wikidata: Q94792

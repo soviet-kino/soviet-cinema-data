@@ -4,6 +4,33 @@ title_original: Партизанская эскадрилья
 year: 1979
 country:
 - YU
+studio:
+- yadran-film
+- kroatiya-film
+- centar-film
+director:
+- krvavats-khayrudin
+screenwriter:
+- smoje-miljenko
+- dzhordzhe-lebovich
+composer:
+- adamich-boyan
+cast:
+- person: karsten-peter
+- person: fekhmiyu-bekim
+- person: samardzhich-lyubisha
+- person: velimir-bata-zhivoinovich
+- person: tadich-lyuba
+- person: felba-dragomir
+- person: alesha-vuchkovich
+- person: krivokapic-miodrag
+- person: bayich-radosh
+- person: plesha-branko
+- person: zlata-petkovich
+- person: begolli-faruk
+- person: dragomir-stanoevich
+- person: uric-branko
+- person: sekic-ramiz
 runtime_min: 102
 external_ids:
   wikidata: Q11813123

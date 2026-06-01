@@ -4,6 +4,36 @@ title_original: Вероника возвращается
 year: 1973
 country:
 - RO
+studio:
+- casa-de-filme-trei
+director:
+- bostan-elizabeta
+screenwriter:
+- bostan-elizabeta
+- istrate-vasilika
+cinematographer:
+- drukkmann-yulyush
+composer:
+- popa-temistokle
+cast:
+- person: andrey-violeta
+- person: pitish-florian
+- person: redulesku-dem
+- person: mikhaitsa-dzhordzh
+- person: pyslaru-margareta
+- person: vilcu-adrian
+- person: iliescu-ileana
+- person: mihaescu-lulu
+- person: kherabor-manuela
+- person: moldovan-anzhela
+- person: tastaman-vasilika
+- person: nicolae-anton
+- person: stan-mikhay
+- person: q133863877
+- person: turi-shtefan
+- person: rush-radu
+- person: q133880985
+- person: q133881082
 runtime_min: 84
 external_ids:
   wikidata: Q7922480

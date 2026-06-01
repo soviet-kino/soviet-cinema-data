@@ -4,6 +4,23 @@ title_original: The Midas Touch
 year: 1988
 country:
 - HU
+studio:
+- hunnia-film-studio
+director:
+- beremeney-geza
+screenwriter:
+- beremeney-geza
+cinematographer:
+- kardos-shandor
+composer:
+- darvash-ferents
+cast:
+- person: eperjes-karoly
+- person: eseni-enikyo
+- person: andorai-peter
+- person: pogany-judit
+- person: tot-barnabash
+- person: papcsik-andras
 runtime_min: 110
 external_ids:
   wikidata: Q51121

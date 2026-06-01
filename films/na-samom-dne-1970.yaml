@@ -4,6 +4,36 @@ title_original: На самом дне
 year: 1970
 country:
 - PL
+director:
+- skolimovskiy-ezhi
+screenwriter:
+- skolimovskiy-ezhi
+- gruza-ezhi
+- sulik-boleslav
+cinematographer:
+- shtaynberger-charli
+composer:
+- stivens-ket
+cast:
+- person: skolimovskiy-ezhi
+- person: fogler-karl-mikhael
+- person: eppler-diter
+- person: linkers-eduard
+- person: beer-erika
+- person: danin-will
+- person: esher-dzheyn
+- person: dors-diana
+- person: lokhner-anita
+- person: kvuk-bert
+- person: martini-luiza
+- person: vakernagel-erika
+- person: molder-braun-dzhon
+- person: urtel-peter-martin
+- person: ritti-robert
+- person: kholl-sheril
+- person: paul-podlasky-christine
+- person: sendford-kristofer
+- person: lindt-karl-ludwig
 runtime_min: 90
 external_ids:
   wikidata: Q570929

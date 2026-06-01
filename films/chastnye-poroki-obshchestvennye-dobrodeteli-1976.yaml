@@ -4,6 +4,28 @@ title_original: Частные пороки, общественные добро
 year: 1976
 country:
 - YU
+studio:
+- yadran-film
+director:
+- yancho-miklosh
+screenwriter:
+- galyardo-dzhovanna
+cinematographer:
+- pinter-tomislav
+composer:
+- mazi-franchesko-de
+cast:
+- person: chichcholina
+- person: crnko-zvonimir
+- person: betti-laura
+- person: savoy-tereza-enn
+- person: balazhovits-layosh
+- person: bitents-demetr
+- person: yavikoli-suzanna
+- person: villorezi-pamela
+- person: brancharoli-franko
+- person: piedimonte-gloria
+- person: payer-ivitsa
 runtime_min: 104
 external_ids:
   wikidata: Q722967

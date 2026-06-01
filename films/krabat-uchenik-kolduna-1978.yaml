@@ -4,6 +4,15 @@ title_original: Крабат — ученик колдуна
 year: 1978
 country:
 - CS
+director:
+- zeman-karel
+screenwriter:
+- zeman-karel
+cinematographer:
+- pikkhart-boguslav
+- krupa-zdenek
+composer:
+- belfin-frantisek
 runtime_min: 80
 external_ids:
   wikidata: Q909740

@@ -4,6 +4,16 @@ title_original: Черноснежка
 year: 1983
 country:
 - HU
+studio:
+- pannoniya
+director:
+- nepp-yozhef
+screenwriter:
+- nepp-yozhef
+cinematographer:
+- khenrik-iren
+composer:
+- deak-tamash
 runtime_min: 90
 external_ids:
   wikidata: Q1057711

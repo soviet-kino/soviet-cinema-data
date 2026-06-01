@@ -4,7 +4,21 @@ title_original: Человек с ружьём
 year: 1938
 country:
 - SU
+studio:
+- lenfilm
+director:
+- yutkevich-sergey-iosifovich
+screenwriter:
+- pogodin-nikolay-fyodorovich
+cinematographer:
+- martov-zhozef-klimentevich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: shtraukh-maksim-maksimovich
+- person: tenin-boris-mikhaylovich
 runtime_min: 101
+poster_commons: Chelovek s ruzhyom-Bernes.jpg
 external_ids:
   wikidata: Q4508597
   imdb: tt0029986

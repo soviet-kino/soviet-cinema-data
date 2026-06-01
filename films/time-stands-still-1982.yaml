@@ -4,6 +4,16 @@ title_original: Time Stands Still
 year: 1982
 country:
 - HU
+director:
+- gotar-peter
+screenwriter:
+- beremeney-geza
+- gotar-peter
+cinematographer:
+- koltai-layosh
+cast:
+- person: eze-layosh
+- person: khonti-khanna
 runtime_min: 103
 external_ids:
   wikidata: Q7805109

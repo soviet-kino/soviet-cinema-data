@@ -4,6 +4,12 @@ title_original: Голубой экспресс
 year: 1929
 country:
 - SU
+studio:
+- goskino
+director:
+- trauberg-ilya-zakharovich
+composer:
+- mayzel-edmund
 runtime_min: 62
 external_ids:
   wikidata: Q9183691

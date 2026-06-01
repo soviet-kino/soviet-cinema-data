@@ -4,6 +4,28 @@ title_original: Цена риска
 year: 1983
 country:
 - YU
+director:
+- buasse-iv
+screenwriter:
+- buasse-iv
+cinematographer:
+- glenn-per-vilyam
+composer:
+- kosma-vladimir
+cast:
+- person: kremer-bruno
+- person: pize-mari-frans
+- person: pikkoli-mishel
+- person: ferreol-andrea
+- person: dreyfus-zhan-klod
+- person: lanven-zherar
+- person: lashans-katrin
+- person: lazyur-gabriel
+- person: yue-anri-zhak
+- person: shayyo-zhak
+- person: bago-zhan-per
+- person: ruzheri-zhan
+- person: kelfa-stiv
 runtime_min: 100
 external_ids:
   wikidata: Q693088

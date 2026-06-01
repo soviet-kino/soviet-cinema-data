@@ -4,6 +4,30 @@ title_original: О-би, о-ба. Конец цивилизации
 year: 1985
 country:
 - PL
+director:
+- shulkin-pyotr
+screenwriter:
+- shulkin-pyotr
+cinematographer:
+- sobotsinskiy-vitold
+composer:
+- satanovski-ezhi
+cast:
+- person: shtur-ezhi
+- person: yanda-kristina
+- person: endrusik-kalina
+- person: ferentsy-adam
+- person: novitskiy-yan
+- person: nemchik-leon
+- person: valchevskiy-marek
+- person: bista-khenrik
+- person: dmokhovskiy-mariush
+- person: benua-mariush
+- person: elzhbeta-zayontsuvna
+- person: musyal-vlodzimezh
+- person: maykhzhak-kshishtof
+- person: igar-stanislav
+- person: manturzewski-stanis-aw
 runtime_min: 85
 external_ids:
   wikidata: Q82297

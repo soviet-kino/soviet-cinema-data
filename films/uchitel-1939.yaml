@@ -4,7 +4,23 @@ title_original: Учитель
 year: 1939
 country:
 - SU
+studio:
+- lenfilm
+director:
+- gerasimov-sergey
+screenwriter:
+- gerasimov-sergey
+cinematographer:
+- yakovlev-vladimir-timofeevich
+composer:
+- pushkov-venedikt-venediktovich
+cast:
+- person: chirkov-boris-petrovich
+- person: makarova-tamara-fyodorovna
+- person: volkov-pavel-mikhaylovich
+- person: shabalina-lyudmila-vasilevna
 runtime_min: 102
+poster_commons: Tamara Makarova (actress).jpg
 external_ids:
   wikidata: Q17562506
   imdb: tt0032070

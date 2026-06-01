@@ -4,6 +4,17 @@ title_original: The Creation of the World
 year: 1957
 country:
 - CS
+studio:
+- studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+director:
+- khofman-eduard
+screenwriter:
+- khofman-eduard
+cinematographer:
+- hajdova-zdenka
+composer:
+- viner-zhan
+- rykhlik-yan
 runtime_min: 85
 external_ids:
   wikidata: Q508032

@@ -4,6 +4,18 @@ title_original: Бал-маскарад
 year: 1917
 country:
 - HU
+director:
+- dizi-alfred
+screenwriter:
+- skrib-ezhen
+- pyave-franchesko-mariya
+- somma-antonio
+cinematographer:
+- fass-karl
+cast:
+- person: lugoshi-bela
+- person: gellert-lajos
+poster_commons: Álarcosbál 1917.jpg
 external_ids:
   wikidata: Q6783405
   imdb: tt0009851

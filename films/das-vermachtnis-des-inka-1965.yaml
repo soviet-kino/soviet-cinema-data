@@ -4,6 +4,28 @@ title_original: Das Vermächtnis des Inka
 year: 1965
 country:
 - BG
+director:
+- marishka-georg
+screenwriter:
+- marishka-georg
+- marishka-frants
+cinematographer:
+- khold-zigfrid
+- marine-khuan
+composer:
+- lavanino-andzhelo
+cast:
+- person: erkhardt-geynts
+- person: giller-valter
+- person: schoner-ingeborg
+- person: rey-fernando
+- person: kalvo-khose
+- person: howland-chris
+- person: rabal-fransisko
+- person: battalya-rik
+- person: medison-gay
+- person: baldassarre-raf
+- person: tamberlani-karlo
 runtime_min: 100
 external_ids:
   wikidata: Q883985

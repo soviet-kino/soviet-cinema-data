@@ -4,14 +4,8 @@ title_original: Жизнь прекрасна
 year: 1979
 country:
 - SU
-runtime_min: 101
-external_ids:
-  wikidata: Q2250632
-  imdb: tt0080101
-  youtube: SN4O08rfDEo
-sources:
-- https://www.wikidata.org/wiki/Q2250632
-schema_version: 1
+studio:
+- mosfilm
 director:
 - chukhray-grigoriy-naumovich
 screenwriter:
@@ -20,8 +14,6 @@ cinematographer:
 - kuveyler-luidzhi
 composer:
 - trovayoli-armando
-studio:
-- mosfilm
 cast:
 - person: muti-ornella
 - person: dzhannini-dzhankarlo
@@ -31,3 +23,11 @@ cast:
 - person: budraytis-yuozas-stanislavas
 - person: montini-luidzhi
 - person: madia-stefano
+runtime_min: 101
+external_ids:
+  wikidata: Q2250632
+  imdb: tt0080101
+  youtube: SN4O08rfDEo
+sources:
+- https://www.wikidata.org/wiki/Q2250632
+schema_version: 1

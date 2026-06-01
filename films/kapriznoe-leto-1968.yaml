@@ -4,6 +4,38 @@ title_original: Капризное лето
 year: 1968
 country:
 - CS
+studio:
+- barrandov
+director:
+- menzel-jiri
+screenwriter:
+- menzel-jiri
+- nivlt-vatslav
+cinematographer:
+- shofr-yaromir
+composer:
+- shust-irzhi
+cast:
+- person: menzel-jiri
+- person: grushinskiy-rudolf
+- person: brodskiy-vlastimil
+- person: myslikova-mila
+- person: preyssova-yana
+- person: elinkova-vlasta
+- person: engel-karel
+- person: zagorskiy-boguslav
+- person: rekhak-frantishek
+- person: bosek-pavel
+- person: tomsa-yaroslav
+- person: preisslerova-ruzena
+- person: koska-bohumil
+- person: wolf-ludvik
+- person: st-karel-hovorka
+- person: vachek-alois
+- person: kasik-jiri
+- person: patek-vladimir
+- person: fenclova-jindra
+- person: prazak-antonin
 runtime_min: 74
 external_ids:
   wikidata: Q3491788

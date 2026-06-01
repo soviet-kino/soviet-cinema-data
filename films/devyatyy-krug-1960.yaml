@@ -4,7 +4,17 @@ title_original: Девятый круг
 year: 1960
 country:
 - YU
+director:
+- shtiglits-frantse
+screenwriter:
+- shtiglits-frantse
+cast:
+- person: lonchar-beba
+- person: dvornik-boris
+- person: zegarats-dushitsa
+- person: kostich-plyaka-mikhaylo
 runtime_min: 107
+poster_commons: Deveti krug VHS.jpg
 external_ids:
   wikidata: Q1632388
   imdb: tt0053764

@@ -4,7 +4,32 @@ title_original: Намус
 year: 1925
 country:
 - SU
+studio:
+- gruziya-film
+- armenfilm
+director:
+- bek-nazarov-amo
+screenwriter:
+- shirvanzade-aleksandr
+- bek-nazarov-amo
+cast:
+- person: avetisyan-avet
+- person: nersesyan-rachiya
+- person: abelyan-ovanes
+- person: asmik
+- person: gulakyan-armen
+- person: manucharyan-nina
+- person: martirosyan-amasiy
+- person: khachanyan-amvrosiy
+- person: shamirkhanyan-tigran-avakovich
+- person: muradyan-husik
+- person: melikyan-ripsime
+- person: garagash-mikayel
+- person: paare-gay
+- person: maysuryan-olga
+- person: mkrtchyan-samvel
 runtime_min: 62
+poster_commons: Namus film poster on a 2025 stamp of Armenia.jpg
 external_ids:
   wikidata: Q1971536
   imdb: tt0017195

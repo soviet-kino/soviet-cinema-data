@@ -1,10 +1,55 @@
 id: pepel-i-almaz-1958
 title_ru: Пепел и алмаз
-title_original: Пепел и алмаз
+title_original: Popiół i diament
+title_translit: Popiol i diament
+title_en: Ashes and Diamonds
 year: 1958
 country:
 - PL
-runtime_min: 97
+studio:
+- zespol-kadr
+- studio-filmowe-kadr
+director:
+- wajda-andrzej
+screenwriter:
+- andrzejewski-jerzy
+- wajda-andrzej
+cinematographer:
+- vuychik-ezhi
+cast:
+- person: cybulski-zbigniew
+  role: Мацек Хелмицкий
+- person: krzyzewska-ewa
+  role: Кристина
+- person: barbara-krafftuvna
+- person: kobelya-bogumil
+- person: milskiy-stanislav
+- person: makhovskiy-ignatsy
+- person: petruskiy-ryshard
+- person: chervinskaya-zofya
+- person: pavlikovskiy-adam
+- person: mlodnitskiy-artur
+- person: kvyatkovska-khalina
+- person: kalinovskiy-tadeush
+- person: grotowicz-wiktor
+- person: skowronski-zbigniew
+- person: khronitskiy-adolf
+- person: tsetserskiy-yan
+- person: peratskiy-yuzef
+- person: zastshezhinskiy-vatslav
+runtime_min: 103
+language:
+- pl
+genre:
+- drama
+- war
+- historical
+color: bw
+production_status: released
+censorship_status: released
+topics:
+- literary-adaptations
+poster_commons: Tomasz Wójcik - Ashes and Diamonds.jpg
 external_ids:
   wikidata: Q722281
   imdb: tt0052080

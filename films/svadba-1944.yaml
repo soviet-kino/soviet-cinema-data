@@ -4,10 +4,45 @@ title_original: Свадьба
 year: 1944
 country:
 - SU
+studio:
+- gruziya-film
+- mosfilm
+director:
+- annenskiy-isidor-markovich
+screenwriter:
+- annenskiy-isidor-markovich
+cinematographer:
+- ekelchik-yuriy-izrailevich
+composer:
+- zhelobinskiy-valeriy-viktorovich
+cast:
+- person: pelttser-tatyana-ivanovna
+- person: ranevskaya-faina-georgievna
+- person: maretskaya-vera-petrovna
+- person: pugovkin-mikhail-ivanovich
+- person: martinson-sergey-aleksandrovich
+- person: sverdlin-lev-naumovich
+- person: fyodorova-zoya-alekseevna
+- person: abdulov-osip-naumovich
+- person: konovalov-nikolay-leonidovich
+- person: blinnikov-sergey-kapitonovich
+- person: vladislavskiy-vladimir-aleksandrovich
+- person: garin-erast-pavlovich
+- person: gribov-aleksey-nikolaevich
+- person: danilova-aleksandra-sergeevna
+- person: kostomolotskiy-aleksandr-iosifovich
+- person: ilinichna-levitina-sofya
+- person: murzaeva-irina-vsevolodovna
+- person: plotnikov-nikolay-sergeevich
+- person: ponsova-elena-dmitrievna
+- person: shpringfeld-pavel-aleksandrovich
+- person: yanshin-mikhail-mikhaylovich
+- person: khodurskiy-antoniy-martselevich
 runtime_min: 64
 external_ids:
   wikidata: Q4409904
   imdb: tt0037332
+  youtube: dKgMpdCmmRk
 sources:
 - https://www.wikidata.org/wiki/Q4409904
 schema_version: 1

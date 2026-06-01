@@ -4,6 +4,24 @@ title_original: The Organ
 year: 1964
 country:
 - CS
+director:
+- uger-shtefan
+screenwriter:
+- bednar-alfonz
+cinematographer:
+- szomolanyi-stanislav
+composer:
+- tsimmer-yan
+cast:
+- person: matsiukhova-gana
+- person: hodorovsky-jozef
+- person: marek-kamil
+- person: grossova-luisa
+- person: bardyova-irma
+- person: brezina-alexander
+- person: bubik-frantisek
+- person: tobak-tomas
+- person: augustiny-albert
 runtime_min: 93
 external_ids:
   wikidata: Q12773104

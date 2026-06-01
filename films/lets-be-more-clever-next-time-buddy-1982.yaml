@@ -4,13 +4,8 @@ title_original: Lets Be More Clever Next Time, Buddy!
 year: 1982
 country:
 - CS
-runtime_min: 84
-external_ids:
-  wikidata: Q12048361
-  imdb: tt0175085
-sources:
-- https://www.wikidata.org/wiki/Q12048361
-schema_version: 1
+studio:
+- barrandov-film-studio
 director:
 - shulgoff-petr
 screenwriter:
@@ -56,5 +51,10 @@ cast:
 - person: vavrik-karel
 - person: q106118281
 - person: farkacova-aja
-studio:
-- barrandov-film-studio
+runtime_min: 84
+external_ids:
+  wikidata: Q12048361
+  imdb: tt0175085
+sources:
+- https://www.wikidata.org/wiki/Q12048361
+schema_version: 1

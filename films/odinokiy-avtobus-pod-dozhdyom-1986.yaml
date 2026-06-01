@@ -4,9 +4,18 @@ title_original: Одинокий автобус под дождём
 year: 1986
 country:
 - SU
+studio:
+- moldova-film
+director:
+- breskanu-vasile
+composer:
+- dynga-valentin-ivanovich
+cast:
+- person: guzeeva-larisa-andreevna
 external_ids:
   wikidata: Q4331569
   imdb: tt5671364
+  youtube: JaV1AJL6yoc
 sources:
 - https://www.wikidata.org/wiki/Q4331569
 schema_version: 1

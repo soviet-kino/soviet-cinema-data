@@ -4,6 +4,39 @@ title_original: Die Flucht
 year: 1977
 country:
 - DD
+studio:
+- defa
+director:
+- gref-roland
+screenwriter:
+- gref-roland
+- huttner-hannes
+cinematographer:
+- noymann-klaus
+composer:
+- fisher-gyunter
+cast:
+- person: khoppe-rolf
+- person: gryolman-yenni
+- person: shubert-gyunter
+- person: binert-gerkhard
+- person: myuller-shtal-armin
+- person: glattseder-vinfrid
+- person: choynski-carl-heinz
+- person: shellkhardt-gelmut
+- person: pelikovski-erika
+- person: stiska-erika
+- person: hupfer-heinz
+- person: bechmann-trude
+- person: lendrikh-valter
+- person: gregorek-karin
+- person: sukharzhipa-leosh
+- person: vyunsher-marianna
+- person: tsgliniki-simona-fon
+- person: uider-teresiya
+- person: klyaynert-folkmar
+- person: kokh-khoge-vilgelm
+- person: klas-ioganna
 runtime_min: 94
 external_ids:
   wikidata: Q1212474

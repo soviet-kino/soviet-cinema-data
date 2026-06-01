@@ -4,10 +4,26 @@ title_original: Жила-была девочка
 year: 1944
 country:
 - SU
+studio:
+- soyuzdetfilm
+director:
+- eysymont-viktor-vladislavovich
+screenwriter:
+- nedobrovo-vladimir-vladimirovich
+cast:
+- person: altayskaya-vera-vladimirovna
+- person: voytsik-ada-ignatevna
+- person: zashchipina-natalya-aleksandrovna
+- person: ivanova-nina-georgievna
+- person: korn-nikolay-pavlovich
+- person: larikov-aleksandr-iosifovich
+- person: shtykan-lidiya-petrovna
 runtime_min: 72
+poster_commons: Zaščipina C'era una volta una bimba.jpg
 external_ids:
   wikidata: Q4180271
   imdb: tt0037479
+  youtube: DXeFBLSkgWM
 sources:
 - https://www.wikidata.org/wiki/Q4180271
 schema_version: 1

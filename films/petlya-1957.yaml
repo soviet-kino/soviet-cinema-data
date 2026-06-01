@@ -4,6 +4,37 @@ title_original: Петля
 year: 1957
 country:
 - PL
+studio:
+- iluzjon
+director:
+- khas-voytsekh-ezhi
+screenwriter:
+- khlasko-marek
+- khas-voytsekh-ezhi
+cinematographer:
+- yakhoda-mechislav
+composer:
+- berd-tadeush
+cast:
+- person: makovskaya-elena
+- person: shlyonskaya-aleksandra
+- person: kholoubek-gustav
+- person: makhulskiy-yan
+- person: klosovskiy-roman
+- person: milskiy-stanislav
+- person: skochilyas-vlodzimezh
+- person: kovalskiy-vatslav
+- person: zintel-zygmunt
+- person: emil-karevich
+- person: makhovskiy-ignatsy
+- person: fievskiy-tadeush
+- person: teresa-shmigelyuvna
+- person: yulskiy-tsezary
+- person: gvyazdovskiy-tadeush
+- person: kalinovskiy-tadeush
+- person: dewoyno-w-adys-aw
+- person: khronitskiy-adolf
+- person: peratskiy-yuzef
 runtime_min: 96
 external_ids:
   wikidata: Q3225097

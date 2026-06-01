@@ -4,6 +4,22 @@ title_original: Three Nights of Love
 year: 1967
 country:
 - HU
+studio:
+- mafilm
+director:
+- reves-dyord
+screenwriter:
+- khubai-miklosh
+- vas-istvan
+cinematographer:
+- shomlo-tamash
+composer:
+- ranki-dyord
+cast:
+- person: zoltan-latinovich
+- person: darvash-ivan
+- person: ventsel-vera
+- person: imre-shinkovich
 runtime_min: 106
 external_ids:
   wikidata: Q23783416

@@ -4,6 +4,24 @@ title_original: The Road a Year Long
 year: 1958
 country:
 - YU
+director:
+- dzhuzeppe-de-santis
+screenwriter:
+- dzhuzeppe-de-santis
+- petri-elio
+- puchchini-dzhanni
+- guerra-tonino
+- sokrate-mario
+- ferrara-maurizio
+cinematographer:
+- skarpelli-marko
+cast:
+- person: pampanini-silvana
+- person: drago-eleonora-rossi
+- person: dzhirotti-massimo
+- person: vrdolyak-antun
+- person: milivoe-zhivanovich
+- person: payer-ivitsa
 runtime_min: 162
 external_ids:
   wikidata: Q1632165

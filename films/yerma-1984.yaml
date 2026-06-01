@@ -4,6 +4,15 @@ title_original: Yerma
 year: 1984
 country:
 - HU
+director:
+- kabai-barna
+- dendessi-imre
+cast:
+- person: karrer-matyo
+- person: landgrebe-gudrun
+- person: karer-mareike
+- person: suliok-mariya
+- person: temessy-hedi
 runtime_min: 107
 external_ids:
   wikidata: Q17102620
