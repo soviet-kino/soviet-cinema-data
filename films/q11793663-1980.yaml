@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11793663
   imdb: tt0351399
+  tmdb: 477834
 sources:
 - https://www.wikidata.org/wiki/Q11793663
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 screenwriter:
 - lera-nasi
+poster_tmdb_path: /ybE0nIbdCMEhTgGWBbb2Y6djHGw.jpg
+backdrop_tmdb_path: /jM9bJq70aPlAt82c1RoEEVlabC2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994469
   imdb: tt0078107
   youtube: Gr0n3d2BiEQ
+  tmdb: 377511
 sources:
 - https://www.wikidata.org/wiki/Q84994469
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - filippov-fedir-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /uxrHCsPrJO7lfLC9qmn2LAuxXqw.jpg
+backdrop_tmdb_path: /5AtTcHEOR4Kn44lEQT7Iog8o8Uf.jpg

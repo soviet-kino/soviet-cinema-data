@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4245815
   imdb: tt0095471
   youtube: -mcLhNOgrKg
+  tmdb: 254269
 sources:
 - https://www.wikidata.org/wiki/Q4245815
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: metlitskaya-irina-yurevna
 studio:
 - mosfilm
+poster_tmdb_path: /4Fmoh3I0CUQz0g0HWr5jHcSjjra.jpg
+backdrop_tmdb_path: /8FtuqcbbtbRQILXumd0JvrLXlcd.jpg

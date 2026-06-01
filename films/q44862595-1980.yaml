@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44862595
   imdb: tt0121645
+  tmdb: 623727
 sources:
 - https://www.wikidata.org/wiki/Q44862595
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - sayzesku-dzho
 screenwriter:
 - neagu-fanus
+poster_tmdb_path: /5mHPzCIsg9EMV38lO9NnRbdkIKv.jpg

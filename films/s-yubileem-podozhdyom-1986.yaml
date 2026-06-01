@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97007296
   imdb: tt0265678
   youtube: TuFtRnRCz5k
+  tmdb: 541190
 sources:
 - https://www.wikidata.org/wiki/Q97007296
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - doga-evgeniy
 studio:
 - belarusfilm
+poster_tmdb_path: /c71TA67bHADUhT7bnohmifMLeJS.jpg
+backdrop_tmdb_path: /gFyeatuhr4Yfbmw3ieyTyE921G9.jpg

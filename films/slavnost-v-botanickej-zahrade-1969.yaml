@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q12776353
   imdb: tt0292694
+  tmdb: 88307
 sources:
 - https://www.wikidata.org/wiki/Q12776353
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: gubala-jan
 - person: zemlova-margita
 - person: siazik-jan
+poster_tmdb_path: /tfMGyDRNBZLuGf4d9kyAJZGerJJ.jpg
+backdrop_tmdb_path: /bRiuaezzHCp0NqgFQF0IGSCB7iT.jpg

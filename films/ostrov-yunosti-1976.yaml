@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106764389
   imdb: tt5378166
   youtube: gG1VmwaGu7M
+  tmdb: 432513
 sources:
 - https://www.wikidata.org/wiki/Q106764389
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - karabits-ivan-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /kEosagWHRFkH1LwKhEiUqEI52gu.jpg
+backdrop_tmdb_path: /egmEWr1OJjRvEyxdLYBDqKknvhG.jpg

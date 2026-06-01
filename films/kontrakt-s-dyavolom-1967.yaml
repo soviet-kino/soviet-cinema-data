@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106960059
   imdb: tt0062525
   youtube: fScxB_majGo
+  tmdb: 46861
 sources:
 - https://www.wikidata.org/wiki/Q106960059
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: kauzlaric-ivan
 - person: suchanova-erna
 - person: ruskova-zuzana
+poster_tmdb_path: /2kqlzHZaihR8Z4frP4FLfxVcF87.jpg
+backdrop_tmdb_path: /1B2gYES3Ud2kL88Pwpu3WWoOclO.jpg

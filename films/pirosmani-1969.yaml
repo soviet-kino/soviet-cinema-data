@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3389184
   imdb: tt0064815
+  tmdb: 88302
 sources:
 - https://www.wikidata.org/wiki/Q3389184
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: varazi-avtandil
 studio:
 - gruziya-film
+poster_tmdb_path: /tBdKwYHl6S9sj7iSyQr24bQsK6l.jpg
+backdrop_tmdb_path: /2K7fr05VMRM20o6HsjxmUFZDcL3.jpg

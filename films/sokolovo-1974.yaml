@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12055283
   imdb: tt0176160
   youtube: Lv0JuM9jLiw
+  tmdb: 252126
 sources:
 - https://www.wikidata.org/wiki/Q12055283
 schema_version: 1
@@ -148,3 +149,5 @@ cast:
 - person: vostiar-petr
 studio:
 - mosfilm
+poster_tmdb_path: /5py10VzA6lBzaclUQ1lFAPYOvTj.jpg
+backdrop_tmdb_path: /wKihU0wmcpEt7iQi7mS2182jeO0.jpg

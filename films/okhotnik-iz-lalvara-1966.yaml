@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q20507392
   imdb: tt0414208
+  tmdb: 1416894
 sources:
 - https://www.wikidata.org/wiki/Q20507392
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: demuryan-tamara
 studio:
 - armenfilm
+poster_tmdb_path: /e5rSi1Hm9ybC9PPN4l27261PI8y.jpg
+backdrop_tmdb_path: /8Hy9711Xhn59SxkuWlmutOa4CHP.jpg

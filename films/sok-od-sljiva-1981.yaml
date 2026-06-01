@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12759020
   imdb: tt0083103
+  tmdb: 327740
 sources:
 - https://www.wikidata.org/wiki/Q12759020
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: vladitsa-miloslavovich
 - person: lilyana-yankovich
 - person: vladan-zhivkovich
+poster_tmdb_path: /zOoPcuLh9VEVpunqMykkC2YMXAN.jpg

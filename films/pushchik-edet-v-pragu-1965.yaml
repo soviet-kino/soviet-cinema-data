@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q17043604
   imdb: tt0307358
+  tmdb: 832036
 sources:
 - https://www.wikidata.org/wiki/Q17043604
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 studio:
 - barrandov
 - belarusfilm
+poster_tmdb_path: /4VjK1FBZ94bBn4bhNDsk4amH4tp.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q18712987
   imdb: tt0154020
+  tmdb: 580866
 sources:
 - https://www.wikidata.org/wiki/Q18712987
 schema_version: 1
@@ -67,3 +68,4 @@ cast:
 - person: proskova-bobina
 - person: posta-frantisek
 - person: jedlicka-vladimir-2
+poster_tmdb_path: /bLmO6SEUKLyn1hqQBj8L90P0XXY.jpg

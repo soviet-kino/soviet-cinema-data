@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3442300
   imdb: tt0075649
+  tmdb: 363037
 sources:
 - https://www.wikidata.org/wiki/Q3442300
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: lepetich-zvonko
 - person: maetich-frano
 - person: pipinic-hermina
+poster_tmdb_path: /mhRJuTt4aaNVo1EBXcgw2lPUlGT.jpg

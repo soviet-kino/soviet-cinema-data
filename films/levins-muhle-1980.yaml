@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q1821907
   imdb: tt0081045
+  tmdb: 259937
 sources:
 - https://www.wikidata.org/wiki/Q1821907
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: noyenkhan-villi
 - person: shrade-villi
 - person: greeze-volfgang
+poster_tmdb_path: /6K7BvnldxuOQEQPl7c3yYlHV9UL.jpg

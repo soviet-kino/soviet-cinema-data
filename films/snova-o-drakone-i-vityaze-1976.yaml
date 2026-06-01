@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4425621
   imdb: tt0814572
+  tmdb: 439320
 sources:
 - https://www.wikidata.org/wiki/Q4425621
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - saralidze-merab-grigorevich
 studio:
 - gruziya-film
+poster_tmdb_path: /6SBBUa1FYZEMyNLJbohiDCU0LD1.jpg

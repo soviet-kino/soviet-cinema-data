@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11829966
   imdb: tt0047373
+  tmdb: 553180
 sources:
 - https://www.wikidata.org/wiki/Q11829966
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: bojarska-wanda
 studio:
 - q9380470
+poster_tmdb_path: /uIeFs9CZcoqJH2jTadRA8t8T0AS.jpg
+backdrop_tmdb_path: /tpYnXaa55GatG0IBDG5EtkQsLSe.jpg

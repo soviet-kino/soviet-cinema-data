@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q44873284
   imdb: tt0173158
+  tmdb: 626700
 sources:
 - https://www.wikidata.org/wiki/Q44873284
 schema_version: 1
 director:
 - mikhelesh-aurel
+poster_tmdb_path: /krT9OwTPQvxOq8vrFDQzw3wqu33.jpg
+backdrop_tmdb_path: /p2o9DJDvGC1GlrOpSsLutNuwrC.jpg

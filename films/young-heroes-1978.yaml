@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q12727296
   imdb: tt0129898
+  tmdb: 32594
 sources:
 - https://www.wikidata.org/wiki/Q12727296
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: paca-teodor
 - person: rogin-virginia
 - person: cosma-vasile
+poster_tmdb_path: /9Lzly59UN8GV2HcS1m9Dw0QvfEf.jpg
+backdrop_tmdb_path: /auPt9wyt4Qj3Z2aZLQxceGNqDEe.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4512665
   imdb: tt0173726
   youtube: e2hq7IrF_LA
+  tmdb: 431429
 sources:
 - https://www.wikidata.org/wiki/Q4512665
 schema_version: 1
@@ -36,3 +37,4 @@ studio:
 - mosfilm
 - defa
 - mongolkino
+poster_tmdb_path: /whjKW1ImrlcdCqO4zktVQbJ1XoS.jpg

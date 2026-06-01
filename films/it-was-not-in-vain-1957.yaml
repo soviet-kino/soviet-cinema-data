@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q3510516
   imdb: tt0050768
+  tmdb: 269307
 sources:
 - https://www.wikidata.org/wiki/Q3510516
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: vrdolyak-antun
 - person: buzanchich-boris
 - person: rogoz-zvonimir
+poster_tmdb_path: /oFjzJL0YDogyGCHzDQ6Ua2rceOJ.jpg

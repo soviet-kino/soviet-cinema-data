@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12183312
   imdb: tt0355178
+  tmdb: 718425
 sources:
 - https://www.wikidata.org/wiki/Q12183312
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: rostom-khind
 - person: shawqi-farid
 - person: ramzi-akhmed
+poster_tmdb_path: /wT85Q9BUj2FB0Ya0JZKmVmpkh5I.jpg
+backdrop_tmdb_path: /fJhsGyW4ErE92TxfqMMzE0pKfF9.jpg

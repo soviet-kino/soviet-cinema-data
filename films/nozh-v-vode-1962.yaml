@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q663469
   imdb: tt0056291
+  tmdb: 11502
 sources:
 - https://www.wikidata.org/wiki/Q663469
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: umetskaya-yolanta
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /nI9UIinlmcLxZHxSEfZsB7LCXKW.jpg
+backdrop_tmdb_path: /hlS23ABq7d8BwAeB9LKfZ2Xum8L.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7754064
   imdb: tt1550321
   youtube: 7XshsRYxqO4
+  tmdb: 72210
 sources:
 - https://www.wikidata.org/wiki/Q7754064
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - rimskiy-korsakov-nikolay-andreevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3JclRvxO6u5kyJkpTi5GCGRYPOI.jpg
+backdrop_tmdb_path: /xETtYwGlDNEcZZbNvkl3BJPx41z.jpg

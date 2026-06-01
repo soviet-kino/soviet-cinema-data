@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11815551
   imdb: tt0087899
+  tmdb: 919753
 sources:
 - https://www.wikidata.org/wiki/Q11815551
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - vuychik-ezhi
 composer:
 - szostak-zdzis-aw
+poster_tmdb_path: /hUJigtYgvCQfN5E2bjkFtDCqcb9.jpg

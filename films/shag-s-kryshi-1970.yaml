@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4519268
   imdb: tt0382289
+  tmdb: 254341
 sources:
 - https://www.wikidata.org/wiki/Q4519268
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: nikolaev-dmitriy-aleksandrovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /j1R0UTEtV2FuGK2rnDOJPiJvxfP.jpg
+backdrop_tmdb_path: /fGqMTDbaii19eaqQzLwc2bc6fEM.jpg

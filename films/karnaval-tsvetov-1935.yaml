@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q111472431
   imdb: tt1926274
+  tmdb: 429365
 sources:
 - https://www.wikidata.org/wiki/Q111472431
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 studio:
 - mezhrabpomfilm
 poster_commons: Carnival of Colours title frame.jpg
+poster_tmdb_path: /o9sNZMxpErM5Kzl9kgrXX6kDkej.jpg

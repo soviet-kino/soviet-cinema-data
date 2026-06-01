@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q56677015
   imdb: tt0856023
+  tmdb: 800803
 sources:
 - https://www.wikidata.org/wiki/Q56677015
 schema_version: 1
 cast:
 - person: velkovska-kostadinka
 - person: dimitrov-bratislav
+poster_tmdb_path: /kWULiMrt3wg6zyvkbuZUTaenGCM.jpg

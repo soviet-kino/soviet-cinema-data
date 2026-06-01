@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q464530
   imdb: tt0068542
+  tmdb: 2893
 sources:
 - https://www.wikidata.org/wiki/Q464530
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: andonov-ivan-asenov
 - person: greeze-volfgang
 - person: sanaev-vsevolod-vasilevich
+poster_tmdb_path: /nxBigwnErupM6FMrGumFnXvLGje.jpg
+backdrop_tmdb_path: /55qVpsLv9K8grxsHnsrfgMfNB0H.jpg

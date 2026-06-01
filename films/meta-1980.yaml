@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q11777573
   imdb: tt0067423
+  tmdb: 439445
 sources:
 - https://www.wikidata.org/wiki/Q11777573
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: lamtyugina-asya
+poster_tmdb_path: /hfUMR3tQ3oNzyZRw5lJr9nxfmtS.jpg

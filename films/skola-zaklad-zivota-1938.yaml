@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q10405609
   imdb: tt0152462
+  tmdb: 130542
 sources:
 - https://www.wikidata.org/wiki/Q10405609
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: simon-frantisek
 - person: padrlik-antonin
 - person: cikan-vladimir
+poster_tmdb_path: /A89R1578mlyzBpuUgW57pnqg8SS.jpg
+backdrop_tmdb_path: /t1CrrZF1WUw6y2zOYNmtVeROFJW.jpg

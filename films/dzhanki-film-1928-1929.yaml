@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25541368
   imdb: tt0259980
+  tmdb: 904069
 sources:
 - https://www.wikidata.org/wiki/Q25541368
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 studio:
 - gruziya-film
 poster_commons: Мятеж в гурии.jpg
+poster_tmdb_path: /ij7xfv1cczRZ4EAiOCawJprPzMD.jpg
+backdrop_tmdb_path: /vdkUExOoa8b3Qi238k8wBByfjjA.jpg

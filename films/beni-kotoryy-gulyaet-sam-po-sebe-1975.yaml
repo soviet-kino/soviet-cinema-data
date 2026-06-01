@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q3302520
   imdb: tt0295187
+  tmdb: 391277
 sources:
 - https://www.wikidata.org/wiki/Q3302520
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 studio:
 - albfilm
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /plECdnmqDS7C8fa4X82QdbdlfzG.jpg

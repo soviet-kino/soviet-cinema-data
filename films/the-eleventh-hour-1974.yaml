@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9274172
   imdb: tt0071563
+  tmdb: 157065
 sources:
 - https://www.wikidata.org/wiki/Q9274172
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - ziminski-marian
 cast:
 - person: kherdegen-leshek
+poster_tmdb_path: /8lBvNJDEV2g48L4F0HzxyS3niGU.jpg

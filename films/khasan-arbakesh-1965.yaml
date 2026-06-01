@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q52560730
   imdb: tt2190311
+  tmdb: 269430
 sources:
 - https://www.wikidata.org/wiki/Q52560730
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: zavkibekov-gurmindzh
 - person: vakhidov-makhmudzhon
 - person: isaeva-maryam-sultanovna
+poster_tmdb_path: /hNZTpUtOH0YxLGSnbvqA1RXwzM7.jpg
+backdrop_tmdb_path: /kqzXtI1If45CxC2kCPhuiWu9b8L.jpg

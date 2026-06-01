@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q3563622
   imdb: tt0153286
+  tmdb: 264362
 sources:
 - https://www.wikidata.org/wiki/Q3563622
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: haller-frantisek
 - person: piskacek-vaclav
 - person: sevcik-eduard
+poster_tmdb_path: /ySMeCbfYB6Sfoq4bRGsIBDHaJ0K.jpg

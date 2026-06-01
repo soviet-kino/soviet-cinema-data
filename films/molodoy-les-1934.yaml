@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4300687
   imdb: tt0280954
+  tmdb: 265705
 sources:
 - https://www.wikidata.org/wiki/Q4300687
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: yunosha-stempovskiy-kazimezh
 - person: mariya-baltserkevich
 poster_commons: Mlody las 1934.jpg
+poster_tmdb_path: /snQTFnYbwguzHLhJeqq6o1bzBdO.jpg

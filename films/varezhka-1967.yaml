@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q1978122
   imdb: tt0393932
+  tmdb: 69899
 sources:
 - https://www.wikidata.org/wiki/Q1978122
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - gamaliya-vadim-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /v6iVEoZvBxrNHzHAA6ZMNiSzNLk.jpg
+backdrop_tmdb_path: /mO1TGEJLsLwsllPsnV1xCFQ5kkk.jpg

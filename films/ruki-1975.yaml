@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q131781743
   imdb: tt0814586
+  tmdb: 1307922
 sources:
 - https://www.wikidata.org/wiki/Q131781743
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - saralidze-merab-grigorevich
 studio:
 - gruziya-film
+poster_tmdb_path: /3z2BigaIwMprwpCLK5KZtKmXMzK.jpg

@@ -8,6 +8,7 @@ runtime_min: 260
 external_ids:
   wikidata: Q97171367
   imdb: tt5078024
+  tmdb: 1254570
 sources:
 - https://www.wikidata.org/wiki/Q97171367
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: pishvanov-nikolay
 - person: franko-dmitriy-vasilevich
 - person: chashchina-lidiya
+poster_tmdb_path: /2h0U7axlhMiMbS0E2SWL1LXXJCf.jpg

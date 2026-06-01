@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q25394032
   imdb: tt5944986
+  tmdb: 603090
 sources:
 - https://www.wikidata.org/wiki/Q25394032
 schema_version: 1
 studio:
 - ekran
+poster_tmdb_path: /uiwkD9KVpmvrhIWt5TgzIO62G9w.jpg
+backdrop_tmdb_path: /1gNz9gOl30OEjOj8EEbjIBC4ZCW.jpg

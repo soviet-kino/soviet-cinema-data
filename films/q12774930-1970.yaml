@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q12774930
   imdb: tt0175094
+  tmdb: 889182
 sources:
 - https://www.wikidata.org/wiki/Q12774930
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: rozsival-jaroslav
 - person: pappova-zvarikova-elena
 - person: koren-branislav
+poster_tmdb_path: /bJoB4UJvtJXo7OBOwueDFx8K4KO.jpg

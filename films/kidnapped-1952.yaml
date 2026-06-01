@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q65217859
   imdb: tt0045280
+  tmdb: 705097
 sources:
 - https://www.wikidata.org/wiki/Q65217859
 schema_version: 1
@@ -101,3 +102,4 @@ cast:
 - person: rabl-cenek
 - person: mcintyre-duncan
 - person: sourek-vladimir
+poster_tmdb_path: /tFFDMqTnuelUqtpM5rzPYfDYd7D.jpg

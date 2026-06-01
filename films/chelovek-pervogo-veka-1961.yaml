@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q6746353
   imdb: tt0056265
+  tmdb: 198864
 sources:
 - https://www.wikidata.org/wiki/Q6746353
 schema_version: 1
@@ -72,3 +73,4 @@ cast:
 - person: lichtenbergova-jana
 studio:
 - barrandov
+poster_tmdb_path: /lZCsF6jqE16LMX3MM5ufjLX5RLC.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q84994252
   imdb: tt0300535
+  tmdb: 1065814
 sources:
 - https://www.wikidata.org/wiki/Q84994252
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - babushkin-viktor-borisovich
 studio:
 - mosfilm
+poster_tmdb_path: /oIoNTHDPysvY1eNwHrlSluqd3BX.jpg

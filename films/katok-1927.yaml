@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q4217428
   imdb: tt2945748
+  tmdb: 287158
 sources:
 - https://www.wikidata.org/wiki/Q4217428
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - zhelyabuzhskiy-yuriy-andreevich
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /eKedCySIqMzFjGO2XzpNcYph3bT.jpg
+backdrop_tmdb_path: /nod3oDwbqsiU9P4NuKYmm2uX5lJ.jpg

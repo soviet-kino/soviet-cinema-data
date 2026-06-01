@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q4443601
   imdb: tt1794974
+  tmdb: 448601
 sources:
 - https://www.wikidata.org/wiki/Q4443601
 schema_version: 1
+poster_tmdb_path: /4yQa6hGN9BAENkzsK59PC7IErvp.jpg
+backdrop_tmdb_path: /lCJeAILgbArjTifO3NEi4z9Zgxo.jpg

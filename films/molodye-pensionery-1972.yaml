@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1996459
   imdb: tt0384381
+  tmdb: 68845
 sources:
 - https://www.wikidata.org/wiki/Q1996459
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: samusenko-marika
 studio:
 - eesti-telefilm
+poster_tmdb_path: /i6jfQFjkaPHh3ZbwVifRH5877hl.jpg
+backdrop_tmdb_path: /h1QIhXRx0w0FCRGM0jSjYF98wAi.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4402937
   imdb: tt0079835
   youtube: H-wPMK7Ns9w
+  tmdb: 265235
 sources:
 - https://www.wikidata.org/wiki/Q4402937
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: drebnyova-lyudmila
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /cKdTNJrwkGfT4UnERH3hTdixD5U.jpg
+backdrop_tmdb_path: /wHQRrXWlb8UKIH1rdxH4yxuFeTi.jpg

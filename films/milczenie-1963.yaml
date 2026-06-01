@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q11781176
   imdb: tt0057308
+  tmdb: 296625
 sources:
 - https://www.wikidata.org/wiki/Q11781176
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: fabisyak-kazimezh
+poster_tmdb_path: /j0gcAYTUZPkhD6g7Wi2KTdMKiro.jpg
+backdrop_tmdb_path: /fYFu6EUgaUBIIWxksBmmTgXtHd2.jpg

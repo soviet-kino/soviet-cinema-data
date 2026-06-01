@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4380930
   imdb: tt0091796
+  tmdb: 177965
 sources:
 - https://www.wikidata.org/wiki/Q4380930
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: demich-yuriy-aleksandrovich
 studio:
 - lenfilm
+poster_tmdb_path: /1ebMr6eXldCeota2Ct60ZOElzlO.jpg
+backdrop_tmdb_path: /ppZTi4zrz2vKnJluqJzy5wNcUbJ.jpg

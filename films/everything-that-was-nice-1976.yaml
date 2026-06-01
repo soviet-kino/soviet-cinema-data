@@ -8,8 +8,10 @@ runtime_min: 59
 external_ids:
   wikidata: Q31185592
   imdb: tt0175216
+  tmdb: 366310
 sources:
 - https://www.wikidata.org/wiki/Q31185592
 schema_version: 1
 director:
 - shiyan-slobodan
+poster_tmdb_path: /1wJxavAcJrIIWogcrpnW2XCOFLF.jpg

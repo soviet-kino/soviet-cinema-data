@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3601599
   imdb: tt0072208
   youtube: 0PGARFpoSuQ
+  tmdb: 48623
 sources:
 - https://www.wikidata.org/wiki/Q3601599
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tokarev-boris-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /1z3ZnRLsvkAjEjxPL70SPiCx3Qe.jpg
+backdrop_tmdb_path: /wjkD59xXm7fI4b46QDvM9G83neJ.jpg

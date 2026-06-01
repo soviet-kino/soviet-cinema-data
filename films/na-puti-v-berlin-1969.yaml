@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4311009
   imdb: tt2716766
+  tmdb: 535228
 sources:
 - https://www.wikidata.org/wiki/Q4311009
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: krasnov-vasiliy-georgievich
 studio:
 - lenfilm
+poster_tmdb_path: /vDx6jYKzk8gZEQAhoNbAaimlph4.jpg

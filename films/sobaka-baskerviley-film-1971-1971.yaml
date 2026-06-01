@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4425718
   imdb: tt2557098
   youtube: E9qRZuKzVis
+  tmdb: 471721
 sources:
 - https://www.wikidata.org/wiki/Q4425718
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: smelkova-valentina
 studio:
 - tsentralnoe-televidenie
+poster_tmdb_path: /9h0kJV6gGm7GIMWksTGkMnsAnXs.jpg
+backdrop_tmdb_path: /ug8EI3P6h6kDvsWCAPjFN5pi8XO.jpg

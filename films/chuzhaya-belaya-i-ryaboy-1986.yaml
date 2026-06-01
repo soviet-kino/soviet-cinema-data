@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q3793500
   imdb: tt0090845
+  tmdb: 143119
 sources:
 - https://www.wikidata.org/wiki/Q3793500
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: steklov-vladimir-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /2hYEwa8qnRtwvNiRlk5gvsd4z4y.jpg
+backdrop_tmdb_path: /y2PmqQ3zzQp6XPBwD7sn8LQemzE.jpg

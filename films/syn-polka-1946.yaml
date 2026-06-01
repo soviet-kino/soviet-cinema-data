@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4447955
   imdb: tt0039005
   youtube: l41lLZ5G-NQ
+  tmdb: 88275
 sources:
 - https://www.wikidata.org/wiki/Q4447955
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 studio:
 - soyuzdetfilm
 poster_commons: Grigory Pluzhnik (1946).jpg
+poster_tmdb_path: /hfqrCwafp4JcbZIvMGZHjGlqdg2.jpg
+backdrop_tmdb_path: /jbQBHmEne8YXJUGvZUexkkBiBxJ.jpg

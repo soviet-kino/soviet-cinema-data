@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1568479
   imdb: tt0174791
+  tmdb: 373103
 sources:
 - https://www.wikidata.org/wiki/Q1568479
 schema_version: 1
@@ -77,3 +78,5 @@ cast:
 - person: kohout-pavel
 - person: cadek-pavel-2
 - person: sedivy-jan
+poster_tmdb_path: /rXW45cQfbTA0LQBEAcgm3jTtVqY.jpg
+backdrop_tmdb_path: /d1WGZr2KEBBw6OYPNVFYRJQc5wX.jpg

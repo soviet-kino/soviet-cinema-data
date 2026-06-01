@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116811464
   imdb: tt3098232
+  tmdb: 328757
 sources:
 - https://www.wikidata.org/wiki/Q116811464
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - osyka-leonid
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /wX8nWG0eEF8LWdtDhVvDAvIhIKM.jpg
+backdrop_tmdb_path: /2ReKI5rDNhSvlh4AgzgR6hJO8S3.jpg

@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q47466537
   imdb: tt0055043
+  tmdb: 540738
 sources:
 - https://www.wikidata.org/wiki/Q47466537
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: szirtes-adam
 studio:
 - mafilm
+poster_tmdb_path: /mjrvX7IgEvmnZnJkkAZeBqWWQ9b.jpg
+backdrop_tmdb_path: /lMN3boctamTtz1nUDZwlPFCVx4.jpg

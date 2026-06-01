@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q97925315
   imdb: tt0043351
+  tmdb: 72617
 sources:
 - https://www.wikidata.org/wiki/Q97925315
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: zvezdina-mariya-nikolaevna
 studio:
 - mosfilm
+poster_tmdb_path: /zkmwjge1v83Ne3EZjDmSC9QlcRc.jpg

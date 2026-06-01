@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1194976
   imdb: tt0074161
   youtube: 6stQJpJzlWo
+  tmdb: 72614
 sources:
 - https://www.wikidata.org/wiki/Q1194976
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: konkin-vladimir-alekseevich
 - person: uralova-evgeniya
 - person: shanina-elena-yurevna
+poster_tmdb_path: /eoAYfzr0mZSdEC7HeIsCFQdAUMO.jpg
+backdrop_tmdb_path: /p0HbShOpP5nlGkdp1G4r8UepVnb.jpg

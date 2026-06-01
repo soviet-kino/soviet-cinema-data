@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15985059
   imdb: tt0403977
   youtube: 1MDt1oL2eHw
+  tmdb: 833623
 sources:
 - https://www.wikidata.org/wiki/Q15985059
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: morozenko-pavel-semyonovich
 - person: myshkova-ninel-konstantinovna
+poster_tmdb_path: /UjpTMK7IWffvVrlfHvRJdAygm.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q109083142
   imdb: tt4769102
+  tmdb: 1128956
 sources:
 - https://www.wikidata.org/wiki/Q109083142
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: molganov-stanislav-davydovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /phLwzFYGHXxkI4y0YC59ZQLGFUo.jpg

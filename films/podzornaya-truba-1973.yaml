@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q4367603
   imdb: tt2104966
+  tmdb: 1297066
 sources:
 - https://www.wikidata.org/wiki/Q4367603
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: basilashvili-oleg-valerianovich
 studio:
 - lenfilm
+poster_tmdb_path: /8MJ69tbfn7NAesE9pXRaqe7FF2B.jpg
+backdrop_tmdb_path: /tM4cCE7KY9NJsoWz8570cLEJ3G1.jpg

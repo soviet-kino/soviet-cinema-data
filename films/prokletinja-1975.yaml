@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184063
   imdb: tt0200981
+  tmdb: 266669
 sources:
 - https://www.wikidata.org/wiki/Q31184063
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: rade-markovich
 - person: plesha-branko
 - person: stankovic-vasja
+poster_tmdb_path: /vzVlZZx0LhJk5Jozvo1vccevUCA.jpg

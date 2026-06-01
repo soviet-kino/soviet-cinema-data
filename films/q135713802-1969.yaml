@@ -8,8 +8,10 @@ runtime_min: 28
 external_ids:
   wikidata: Q135713802
   imdb: tt0843593
+  tmdb: 371215
 sources:
 - https://www.wikidata.org/wiki/Q135713802
 schema_version: 1
 director:
 - pivovskiy-marek
+poster_tmdb_path: /oXmd9HI4Yj2DEhoeGZFZfv0udbH.jpg

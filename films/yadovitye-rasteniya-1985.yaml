@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q9323491
   imdb: tt0089936
+  tmdb: 587354
 sources:
 - https://www.wikidata.org/wiki/Q9323491
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: yankovskiy-yan
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /yNQwkEcEZiIZQMV3aQMRaTpQJpI.jpg
+backdrop_tmdb_path: /ueCGgbG0Zn0cxHBl9OiteJRfgYx.jpg

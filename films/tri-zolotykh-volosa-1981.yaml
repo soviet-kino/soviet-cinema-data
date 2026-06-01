@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1218128
   imdb: tt0176025
+  tmdb: 306278
 sources:
 - https://www.wikidata.org/wiki/Q1218128
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: kovac-juraj
 - person: biednikova-tatiana
 - person: adamec-dusan
+poster_tmdb_path: /zU8gi9syNWCRcj6rW7F2cNRoAZh.jpg
+backdrop_tmdb_path: /hf16FOxm35h7vLSgity12aCsABV.jpg

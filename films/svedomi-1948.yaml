@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q7652837
   imdb: tt0173280
+  tmdb: 596396
 sources:
 - https://www.wikidata.org/wiki/Q7652837
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: vild-bohumil
 - person: prokes-jan-2
 - person: schonbach-gustav
+poster_tmdb_path: /qTY3MiEOcJiyhO2eoPSETA0zh9N.jpg
+backdrop_tmdb_path: /2b8dHtfclYmMD3NMzn4btVYxOTF.jpg

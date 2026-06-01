@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q1538435
   imdb: tt0082003
+  tmdb: 220772
 sources:
 - https://www.wikidata.org/wiki/Q1538435
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: lyobinger-lotta
 - person: trettau-martin
 - person: grasse-gert
+poster_tmdb_path: /3yhuWixdc2oDPI4rFX8KVGYcNeY.jpg
+backdrop_tmdb_path: /nAVjKEYVNYJERS2eqbYch4y7WJb.jpg

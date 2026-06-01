@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q4421395
   imdb: tt6943726
+  tmdb: 1556962
 sources:
 - https://www.wikidata.org/wiki/Q4421395
 schema_version: 1
 studio:
 - permtelefilm
+poster_tmdb_path: /vBGeIgQLIABl2Ct17QaqMcRMtii.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11708240
   imdb: tt0059233
+  tmdb: 581690
 sources:
 - https://www.wikidata.org/wiki/Q11708240
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: dembinski-ryszard
 - person: przyby-a-czes-aw
 - person: korcharovskiy-eugeniush
+poster_tmdb_path: /xuKKtCBs6ae0vEz02od5zMVxjQd.jpg

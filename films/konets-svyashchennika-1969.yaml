@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q5375857
   imdb: tt0064316
+  tmdb: 136464
 sources:
 - https://www.wikidata.org/wiki/Q5375857
 schema_version: 1
@@ -77,3 +78,4 @@ cast:
 - person: celakovsky
 - person: kropacek
 - person: sulc
+poster_tmdb_path: /1tFUGdMEsF584uVHbAgdp0TwMxE.jpg

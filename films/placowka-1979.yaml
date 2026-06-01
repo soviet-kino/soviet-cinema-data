@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q7200434
   imdb: tt0079721
+  tmdb: 299778
 sources:
 - https://www.wikidata.org/wiki/Q7200434
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: grochoczynski-tomasz
 studio:
 - q110427551
+poster_tmdb_path: /gXeyb0eO9RiMxRhPhCMD0yVpBJQ.jpg
+backdrop_tmdb_path: /8nriQ3AIWFinlQCviUT7eY1iuND.jpg

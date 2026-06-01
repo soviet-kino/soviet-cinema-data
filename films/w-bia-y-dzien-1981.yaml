@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7958520
   imdb: tt0083309
+  tmdb: 325158
 sources:
 - https://www.wikidata.org/wiki/Q7958520
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: dietl-jozef
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /nx16ssSHrryi4MjI5guGO9mjJm9.jpg
+backdrop_tmdb_path: /dgCGumjk5fU0LIpUA37ZYpjKZ64.jpg

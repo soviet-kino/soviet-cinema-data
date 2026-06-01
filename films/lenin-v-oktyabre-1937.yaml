@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3270392
   imdb: tt0029132
   youtube: WKY6wOqh6rk
+  tmdb: 204802
 sources:
 - https://www.wikidata.org/wiki/Q3270392
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Lenin in October movie, 1937 final.jpg
+poster_tmdb_path: /f2dhjxyARdCbWljyINIrdwKthrA.jpg
+backdrop_tmdb_path: /dj06NROputHBOdEnmd27R4sVdv5.jpg

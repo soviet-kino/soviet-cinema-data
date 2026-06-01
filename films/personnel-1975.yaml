@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q7170679
   imdb: tt0073532
+  tmdb: 91881
 sources:
 - https://www.wikidata.org/wiki/Q7170679
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - tor-kinostudiya
 - zespol-filmowy-x
+poster_tmdb_path: /7oBBOJn2BvjUZsD835dPjxwr80Y.jpg
+backdrop_tmdb_path: /21WA3JS2YXU4rFLVlUP6JYzKkgM.jpg

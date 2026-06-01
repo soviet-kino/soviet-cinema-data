@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2266394
   imdb: tt0064269
   youtube: uDk_TOzgAg4
+  tmdb: 148430
 sources:
 - https://www.wikidata.org/wiki/Q2266394
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mosfilm
 - kyrgyzfilm
+poster_tmdb_path: /t9hj3I3dKmEFUdblUOjSsKsaLIO.jpg
+backdrop_tmdb_path: /m1AuFl77UO929pSVtzzIEnRcYP4.jpg

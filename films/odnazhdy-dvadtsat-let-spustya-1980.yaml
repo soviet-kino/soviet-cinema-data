@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4331664
   imdb: tt0081262
   youtube: 2lvgauEmdMg
+  tmdb: 65264
 sources:
 - https://www.wikidata.org/wiki/Q4331664
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: proskurin-viktor-alekseevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /kRGOpteHwof74IGrsI82UL2Lew1.jpg
+backdrop_tmdb_path: /nESFtQIobHHPPyL9BO0dqg5amSW.jpg

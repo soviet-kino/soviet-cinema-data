@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4053648
   imdb: tt0230519
   youtube: y9tI2_ZxVzk
+  tmdb: 230339
 sources:
 - https://www.wikidata.org/wiki/Q4053648
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: yushko-german-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /94urqzwqkHTF3d7V66WFuPoKc6B.jpg
+backdrop_tmdb_path: /neV4Xmt29ua6wwd5yG19UZJuswc.jpg

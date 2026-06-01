@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11800592
   imdb: tt0057392
+  tmdb: 601890
 sources:
 - https://www.wikidata.org/wiki/Q11800592
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: rylskaya-barbara
 - person: khronitskiy-adolf
 - person: kobylinski-anatol
+poster_tmdb_path: /puJZVp2bTs9s3a04W9ALI6ZxTLa.jpg
+backdrop_tmdb_path: /vHnxIbFkgEXwAxKTjQ252MsGKqq.jpg

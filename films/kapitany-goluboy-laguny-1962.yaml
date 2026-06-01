@@ -8,9 +8,12 @@ external_ids:
   wikidata: Q107350855
   imdb: tt3800896
   youtube: 0kUfaTTEW7Y
+  tmdb: 461207
 sources:
 - https://www.wikidata.org/wiki/Q107350855
 schema_version: 1
 director:
 - tolbuzin-arkadiy-nikolaevich
 - kurochkin-aleksandr-dmitrievich
+poster_tmdb_path: /wotb9cuWgy3kLdOfuFTsl1bHgC7.jpg
+backdrop_tmdb_path: /2xQsTSsqyhdokth3JzB7W8IO8B5.jpg

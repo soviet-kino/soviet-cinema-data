@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q51836415
   imdb: tt0294526
+  tmdb: 1297379
 sources:
 - https://www.wikidata.org/wiki/Q51836415
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: gradov-andrey-petrovich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /3prjtlAvlhxsAAxVdUGsoKrGd4J.jpg

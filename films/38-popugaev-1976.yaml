@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q137342319
   imdb: tt0211896
+  tmdb: 79853
 sources:
 - https://www.wikidata.org/wiki/Q137342319
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5AfVNefcgTXddc9PocfylYlbxCK.jpg
+backdrop_tmdb_path: /pm0QmXsLKeib8aTXqybQzA66jaq.jpg

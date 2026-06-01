@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4112927
   imdb: tt0073872
   youtube: WhmWWWEF0ms
+  tmdb: 67066
 sources:
 - https://www.wikidata.org/wiki/Q4112927
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 - yaltinskaya-kinostudiya
 cast:
 - person: dzhigarkhanyan-armen-borisovich
+poster_tmdb_path: /a4DSgV9ZSv11PWD36o1byOeHXV6.jpg
+backdrop_tmdb_path: /d6PVXRMGqcMmWmsUbXYFB5J4eCs.jpg

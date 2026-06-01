@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11799415
   imdb: tt0073493
+  tmdb: 791225
 sources:
 - https://www.wikidata.org/wiki/Q11799415
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - bronis-awski-jerzy
 composer:
 - maleki-matsey
+poster_tmdb_path: /c2R7vwxkwy13tflCUifvVQ6elHj.jpg
+backdrop_tmdb_path: /fUFFQjh3uVDg5PW1pfpYUxHEKw0.jpg

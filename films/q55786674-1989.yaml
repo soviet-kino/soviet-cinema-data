@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55786674
   imdb: tt1104811
+  tmdb: 1067550
 sources:
 - https://www.wikidata.org/wiki/Q55786674
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - hajdufy-miklos
 screenwriter:
 - ungvari-tamas
+poster_tmdb_path: /wRI1OZlMIAlnwNhcPt9l2pVLW2s.jpg
+backdrop_tmdb_path: /aWzYBzeydOELyUyKfBt2X6DdJR2.jpg

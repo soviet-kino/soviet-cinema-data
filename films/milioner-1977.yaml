@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11781247
   imdb: tt0077931
+  tmdb: 463604
 sources:
 - https://www.wikidata.org/wiki/Q11781247
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - khertel-petr
 cast:
 - person: gayos-yanush
+poster_tmdb_path: /4jAxe0hqGU3b3WcPGeKQYdaGqX2.jpg
+backdrop_tmdb_path: /23Kt0SEuksaonUB6GE0OZFhVBxh.jpg

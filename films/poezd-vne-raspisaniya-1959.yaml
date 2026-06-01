@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q3507366
   imdb: tt0170774
+  tmdb: 109641
 sources:
 - https://www.wikidata.org/wiki/Q3507366
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: zlatko-tsrnkovich
 - person: rogoz-zvonimir
 - person: boman-mirko
+poster_tmdb_path: /jSuj6clN2RMV5R0Z5DWH6GpaiRj.jpg
+backdrop_tmdb_path: /5Y1DIkMjF9AtVmqm60VrxQabMzt.jpg

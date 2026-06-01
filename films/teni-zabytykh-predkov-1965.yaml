@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1409627
   imdb: tt0058642
+  tmdb: 26782
 sources:
 - https://www.wikidata.org/wiki/Q1409627
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: alisova-nina-ulyanovna
 - person: bestaeva-tatyana
 - person: kadochnikova-larisa-valentinovna
+poster_tmdb_path: /iUZMsGuxq6QkSabTqfgC66EMqxx.jpg
+backdrop_tmdb_path: /xfyeTs7VOnbcNjrjp6STuWWrRd5.jpg

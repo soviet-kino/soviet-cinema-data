@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q23035842
   imdb: tt0024974
+  tmdb: 1384525
 sources:
 - https://www.wikidata.org/wiki/Q23035842
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: abrikosov-andrey-lvovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /dhGuWtYCt66FRUXvnZmnJkpd1rP.jpg
+backdrop_tmdb_path: /4Hd1HEP6WyJDaBhsUvTIZDRVgQP.jpg

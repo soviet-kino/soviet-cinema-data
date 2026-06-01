@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q2815369
   imdb: tt0169889
+  tmdb: 276569
 sources:
 - https://www.wikidata.org/wiki/Q2815369
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: pledat-verner
 studio:
 - defa
+poster_tmdb_path: /ySfOuzHR5Y8z9fNRt6b8mnSiclO.jpg

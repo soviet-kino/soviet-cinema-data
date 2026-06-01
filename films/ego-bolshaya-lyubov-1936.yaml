@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4173635
   imdb: tt0026545
+  tmdb: 748577
 sources:
 - https://www.wikidata.org/wiki/Q4173635
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: bukojemska-jadwiga
 - person: gorska-lala
 poster_commons: Jego wielka milosc 1936.jpg
+poster_tmdb_path: /aCV6lxOh6b5PD5wapXRMafv5wMv.jpg

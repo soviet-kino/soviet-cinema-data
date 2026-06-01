@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12020694
   imdb: tt0479680
+  tmdb: 280458
 sources:
 - https://www.wikidata.org/wiki/Q12020694
 schema_version: 1
@@ -67,3 +68,5 @@ cast:
 - person: stal-rudolf-2
 - person: volny-antonin
 - person: piskacek-vaclav
+poster_tmdb_path: /hhUKX0wDnvk9qHGudllRvjo5XCN.jpg
+backdrop_tmdb_path: /bIsDjEmf5orNRfvFpb7mkBRkU6d.jpg

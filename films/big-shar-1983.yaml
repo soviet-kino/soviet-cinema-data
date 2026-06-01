@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q9372977
   imdb: tt0084901
+  tmdb: 81208
 sources:
 - https://www.wikidata.org/wiki/Q9372977
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: skorulski-tadeusz
 - person: baranowicz-roman
 - person: q112718394
+poster_tmdb_path: /yHZkZyPAF5YuOSu0vD9oGgcrgQK.jpg
+backdrop_tmdb_path: /gTjgPphxhZBWR5OHMnUIaxdmxPZ.jpg

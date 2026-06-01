@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4102599
   imdb: tt0083273
+  tmdb: 618007
 sources:
 - https://www.wikidata.org/wiki/Q4102599
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: yakovleva-marina-aleksandrovna
 studio:
 - mosfilm
+poster_tmdb_path: /6d1EyqdUqNucmrPQPTryer0rPrx.jpg
+backdrop_tmdb_path: /wqU2B2DewhagQi3S9ZVitn7xeqv.jpg

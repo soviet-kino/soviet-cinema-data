@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q124041479
   imdb: tt5358856
+  tmdb: 1009370
 sources:
 - https://www.wikidata.org/wiki/Q124041479
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ogly-polad-byulbyul
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mm7lfkG3p9Z7jynXoqCfqdqvMAM.jpg

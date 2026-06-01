@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q11753122
   imdb: tt0091389
+  tmdb: 580466
 sources:
 - https://www.wikidata.org/wiki/Q11753122
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: skawina-katarzyna
 studio:
 - perspektywa-film-studio
+poster_tmdb_path: /keWW9GHF01t4nmO4UddOiVYoC0F.jpg
+backdrop_tmdb_path: /3flD8SCX7yavft73hdpHJCp8b7z.jpg

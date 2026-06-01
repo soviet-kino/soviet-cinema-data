@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4166762
   imdb: tt0127522
+  tmdb: 636623
 sources:
 - https://www.wikidata.org/wiki/Q4166762
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: rumyantseva-lyubov-grigorevna
 - person: korolyova-elena-georgievna
 - person: chetverikova-natalya-anatolevna
+poster_tmdb_path: /zNOVMYnXrmQdK8YR90T3N2Ivmi5.jpg

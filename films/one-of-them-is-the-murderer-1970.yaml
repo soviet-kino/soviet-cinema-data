@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q110403394
   imdb: tt0138532
+  tmdb: 399608
 sources:
 - https://www.wikidata.org/wiki/Q110403394
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: q100977063
 - person: richterova-marta
 - person: skalicky-zdenek
+poster_tmdb_path: /18Y4IfLsgEMNreRfkj6bs797kp6.jpg

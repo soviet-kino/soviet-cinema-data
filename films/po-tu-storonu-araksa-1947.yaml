@@ -8,6 +8,7 @@ runtime_min: 53
 external_ids:
   wikidata: Q12835969
   imdb: tt2709756
+  tmdb: 1107871
 sources:
 - https://www.wikidata.org/wiki/Q12835969
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - ogly-tagizade-gadzhibekov-niyazi-zulfugar
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /fw8VOFuIpWuVXaWgtidzbFNXc0m.jpg
+backdrop_tmdb_path: /dsZgSTURo33cWk28OuPOH0HZhX3.jpg

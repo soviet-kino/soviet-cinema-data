@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4507693
   imdb: tt0231016
   youtube: ZfL10ebcFu0
+  tmdb: 392138
 sources:
 - https://www.wikidata.org/wiki/Q4507693
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tokarev-boris-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /qyf3B30vwpLoSUg6FbyiMJLVImH.jpg
+backdrop_tmdb_path: /m35UTSy6GrilzYsycRWxj3or6w6.jpg

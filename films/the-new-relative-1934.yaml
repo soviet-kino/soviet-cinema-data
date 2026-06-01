@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q786492
   imdb: tt0032174
+  tmdb: 41192
 sources:
 - https://www.wikidata.org/wiki/Q786492
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: gozon-gyula
 - person: pertsel-zita
 poster_commons: Az új rokon (1934).jpg
+poster_tmdb_path: /5kwFPRXpiBBxxzSLleCHnGiffHB.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q372238
   imdb: tt0234025
+  tmdb: 282237
 sources:
 - https://www.wikidata.org/wiki/Q372238
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: henker-paul-r
 - person: byorg-ursula
 - person: shvabe-villi
+poster_tmdb_path: /7S8ZPXJqSYyfx14K4CiIUA1MvCy.jpg

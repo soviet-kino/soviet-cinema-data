@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q46996322
   imdb: tt0064221
   youtube: grdTDT2JkEg
+  tmdb: 530702
 sources:
 - https://www.wikidata.org/wiki/Q46996322
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: frolov-gennadiy-alekseevich
 - person: kharitonova-svetlana-nikolaevna
 - person: chernov-aleksey-petrovich
+poster_tmdb_path: /fwu6RUt02ZkCs1MbNvHaGNqpc6e.jpg

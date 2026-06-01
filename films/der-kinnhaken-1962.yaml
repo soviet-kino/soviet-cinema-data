@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1194800
   imdb: tt0056143
+  tmdb: 292663
 sources:
 - https://www.wikidata.org/wiki/Q1194800
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: legal-marga
 - person: troegner-werner
 - person: zahn-albert
+poster_tmdb_path: /pOhGsKx2I2PS38cq7juPFU9NfGU.jpg

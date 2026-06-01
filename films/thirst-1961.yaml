@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7785138
   imdb: tt0054294
+  tmdb: 550874
 sources:
 - https://www.wikidata.org/wiki/Q7785138
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: chobanu-ilarion
 - person: besoyu-yon
 - person: kazaban-zhyul
+poster_tmdb_path: /sCNIFd89F9I5AzKQHnq0QHjAiUb.jpg
+backdrop_tmdb_path: /cXIi7K7HePatMawHTxXmi3u3VAw.jpg

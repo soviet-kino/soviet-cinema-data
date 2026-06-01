@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q122400211
   imdb: tt4971300
   youtube: wJCvhzeg6sA
+  tmdb: 1698597
 sources:
 - https://www.wikidata.org/wiki/Q122400211
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: matveev-ivan
 studio:
 - belarusfilm
+poster_tmdb_path: /r2Wvc0vXxwEt0yi2HyiOPwyMFiC.jpg
+backdrop_tmdb_path: /lWPDG0QCOeG5vE0ntUIb383aO07.jpg

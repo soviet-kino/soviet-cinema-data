@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q12842385
   imdb: tt8237804
+  tmdb: 534027
 sources:
 - https://www.wikidata.org/wiki/Q12842385
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: pirogov-leonid
 - person: salaev-fazil
 - person: kafarova-tamilla
+poster_tmdb_path: /aw21HHQW8EIZ2dITEB9SD3reW8P.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9285914
   imdb: tt0405003
+  tmdb: 157260
 sources:
 - https://www.wikidata.org/wiki/Q9285914
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - vol-stanislav
 screenwriter:
 - khen-yozef
+backdrop_tmdb_path: /r88DVCoEq7ccAh8BLJDdAJNVzxq.jpg

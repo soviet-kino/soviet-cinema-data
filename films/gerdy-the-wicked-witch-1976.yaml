@@ -8,8 +8,10 @@ runtime_min: 10
 external_ids:
   wikidata: Q64879235
   imdb: tt12626016
+  tmdb: 334804
 sources:
 - https://www.wikidata.org/wiki/Q64879235
 schema_version: 1
 director:
 - simunic-ljubomir
+poster_tmdb_path: /8eFoRSjYklTLuiOB9x35hxmWfZx.jpg

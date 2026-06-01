@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q119959331
   imdb: tt12758480
+  tmdb: 1080149
 sources:
 - https://www.wikidata.org/wiki/Q119959331
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: douskova-bohumila
 - person: kautska-marie
 - person: fulinova-katerina
+backdrop_tmdb_path: /6GdlSAlAYdBfcP2SKCdb7hqqXGO.jpg

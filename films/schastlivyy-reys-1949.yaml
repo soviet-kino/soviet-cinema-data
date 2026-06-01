@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4447797
   imdb: tt0382276
   youtube: t4LYy2VVeVA
+  tmdb: 306744
 sources:
 - https://www.wikidata.org/wiki/Q4447797
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: orlova-vera-markovna
 studio:
 - mosfilm
+poster_tmdb_path: /fTCCExKqOAwIh04jhIQDwTk6VIs.jpg
+backdrop_tmdb_path: /ojbG5ORmL3JNo7AP7y437eEpBvT.jpg

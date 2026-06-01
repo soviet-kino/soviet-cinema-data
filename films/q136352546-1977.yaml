@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q136352546
   imdb: tt0810409
+  tmdb: 487581
 sources:
 - https://www.wikidata.org/wiki/Q136352546
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: wawszczyk-maria
 - person: alwasiak-monika
 - person: q136352554
+poster_tmdb_path: /jmzEYeJ1VWzia6S6k12WcA37vM4.jpg

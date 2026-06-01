@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q820640
   imdb: tt0048970
+  tmdb: 257184
 sources:
 - https://www.wikidata.org/wiki/Q820640
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: brenvil-iv
 - person: lacroix-evelyne
 - person: davrey-dzho
+poster_tmdb_path: /zKg4pNihFM1LBGE2E8kbQbJUzrX.jpg

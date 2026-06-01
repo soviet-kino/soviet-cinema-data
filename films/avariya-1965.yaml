@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4055391
   imdb: tt0147861
+  tmdb: 127589
 sources:
 - https://www.wikidata.org/wiki/Q4055391
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kashpur-vladimir-terentevich
 - person: nikitich-ratomskiy-vladimir
 - person: tolubeev-yuriy-vladimirovich
+poster_tmdb_path: /3KhimS7HJHRLFfCIL86SXDRTpzd.jpg
+backdrop_tmdb_path: /9iQ1TUWhuZElagJ8kAo1zBhMJ4Z.jpg

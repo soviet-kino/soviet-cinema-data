@@ -8,6 +8,7 @@ runtime_min: 40
 external_ids:
   wikidata: Q4380861
   imdb: tt4577886
+  tmdb: 540260
 sources:
 - https://www.wikidata.org/wiki/Q4380861
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: bobrov-ivan-vasilevich
 studio:
 - uzbekfilm
+poster_tmdb_path: /lvDdtn9ojaX8gAULxf8gXVc3nWk.jpg

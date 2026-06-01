@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28465041
   imdb: tt4854050
   youtube: nmr10hXHO_c
+  tmdb: 425051
 sources:
 - https://www.wikidata.org/wiki/Q28465041
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - khodataeva-olga
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /i0P9pVUxvmcbPg69rePJlKO8GUq.jpg

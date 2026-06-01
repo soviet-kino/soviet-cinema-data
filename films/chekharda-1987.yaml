@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994075
   imdb: tt1503099
+  tmdb: 1662879
 sources:
 - https://www.wikidata.org/wiki/Q84994075
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kraynev-vladimir-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /nSOn4IcwRQIlLVlVMJIF266XnL5.jpg
+backdrop_tmdb_path: /8JmIKoaeiGgH90MLMdIKgAAA696.jpg

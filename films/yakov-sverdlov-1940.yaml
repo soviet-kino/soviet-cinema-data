@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4536759
   imdb: tt0033277
   youtube: oMs6JxW6apc
+  tmdb: 566310
 sources:
 - https://www.wikidata.org/wiki/Q4536759
 schema_version: 1
@@ -37,3 +38,5 @@ studio:
 - soyuzdetfilm
 poster_commons: A screenshot of Sverdlov movie, 1940. Yakov Sverdlov (Leonid Lyubashevsky)
   with gun.jpg
+poster_tmdb_path: /y35f1dZE4ywGcIP9iXhwB4RGar2.jpg
+backdrop_tmdb_path: /wCiur6TSmpA2hZdDiFR8vuQ9fm2.jpg

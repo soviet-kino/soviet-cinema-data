@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1963916
   imdb: tt0055400
   youtube: hdK6cQi9YNs
+  tmdb: 42279
 sources:
 - https://www.wikidata.org/wiki/Q1963916
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: pitsek-vladimir-kondratevich
 studio:
 - mosfilm
+poster_tmdb_path: /fZi6LHEs2BmuthHs5IyWYWj2DA5.jpg
+backdrop_tmdb_path: /b0hQsgbKY61xWgxChPR8EG9Terf.jpg

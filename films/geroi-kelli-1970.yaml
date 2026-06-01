@@ -8,6 +8,7 @@ runtime_min: 144
 external_ids:
   wikidata: Q756920
   imdb: tt0065938
+  tmdb: 11589
 sources:
 - https://www.wikidata.org/wiki/Q756920
 schema_version: 1
@@ -45,3 +46,5 @@ studio:
 - metro-goldwyn-mayer
 - avala-film
 - katzka-loeb
+poster_tmdb_path: /w2Az1d8SgPcL1WTupOogr4g2bk4.jpg
+backdrop_tmdb_path: /3vpmrYWaJyXb0PvVSO9wNvGvK5C.jpg

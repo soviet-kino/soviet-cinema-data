@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4113745
   imdb: tt0066533
   youtube: FFOr6AmoiGY
+  tmdb: 141066
 sources:
 - https://www.wikidata.org/wiki/Q4113745
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bykov-rolan-antonovich
 - person: zelyonaya-rina
 - person: azer-irina
+poster_tmdb_path: /eQ5H20a3Zo3ns9HGRLMQWbLSyb5.jpg
+backdrop_tmdb_path: /mvVV0MciiJ50VZsIZnzkI4ydtIf.jpg

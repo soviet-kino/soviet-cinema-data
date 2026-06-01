@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q12870434
   imdb: tt0276175
+  tmdb: 733510
 sources:
 - https://www.wikidata.org/wiki/Q12870434
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - gruziya-film
 cast:
 - person: berikashvili-givi-zakharevich
+poster_tmdb_path: /t4NMZBw8Dei5BFGMzZN1PnHVa3h.jpg
+backdrop_tmdb_path: /rLBGem0MjdqPccia1RrcfIsrHen.jpg

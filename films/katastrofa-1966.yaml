@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11737136
   imdb: tt0060582
+  tmdb: 945602
 sources:
 - https://www.wikidata.org/wiki/Q11737136
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: peratskiy-yuzef
 - person: khmelevska-kristina
 - person: dobzhinskiy-zbignev
+poster_tmdb_path: /aMuQJFBTXHOQUFx0atcis80YKa3.jpg

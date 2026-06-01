@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q4096047
   imdb: tt2407346
+  tmdb: 248396
 sources:
 - https://www.wikidata.org/wiki/Q4096047
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - korchmaryov-klimentiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mXc7qcFkom3ZFqCvOUX5xQjCkNo.jpg

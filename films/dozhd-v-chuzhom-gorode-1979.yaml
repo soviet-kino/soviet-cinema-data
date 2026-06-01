@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65199230
   imdb: tt0413972
   youtube: crJoqzXA1nQ
+  tmdb: 636762
 sources:
 - https://www.wikidata.org/wiki/Q65199230
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - tariverdiev-mikael
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /wjsAJYnA6OKFX86igXxZk96vWIN.jpg
+backdrop_tmdb_path: /jRjHhM1KWG9YSVPCrKD9AEztd0V.jpg

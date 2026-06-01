@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4514789
   imdb: tt0057939
+  tmdb: 178974
 sources:
 - https://www.wikidata.org/wiki/Q4514789
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: zabotkina-olga-leonidovna
+poster_tmdb_path: /p9kh52sNpg6d99ATIfYDG46ZDRW.jpg
+backdrop_tmdb_path: /hHIzkYit5wMKycSSNv6gywH1phk.jpg

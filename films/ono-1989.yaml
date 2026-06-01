@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q575697
   imdb: tt0098030
+  tmdb: 413806
 sources:
 - https://www.wikidata.org/wiki/Q575697
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: kryuchkova-svetlana
 studio:
 - lenfilm
+poster_tmdb_path: /7EVGJJX3XZfS9oOFF8SxBGv1BBQ.jpg

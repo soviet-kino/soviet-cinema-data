@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3109631
   imdb: tt0164612
+  tmdb: 617741
 sources:
 - https://www.wikidata.org/wiki/Q3109631
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: shatov-aleksandr-pavlovich
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /jPdwxk5Bk6d7NgRwnYvaHbWVTE9.jpg

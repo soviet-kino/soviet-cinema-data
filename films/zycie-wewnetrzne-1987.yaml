@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q9397713
   imdb: tt0094393
+  tmdb: 373932
 sources:
 - https://www.wikidata.org/wiki/Q9397713
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: probosh-marek
 - person: wieszczycka-wanda
 - person: worytkiewicz-ewa
+poster_tmdb_path: /vzE2DqzW5xiBZthp2Jo3MC0pNjv.jpg
+backdrop_tmdb_path: /z8lUj0bxMYTubzi5dpZR3WWS5n7.jpg

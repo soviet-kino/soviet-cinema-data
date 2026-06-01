@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q61127892
   imdb: tt0067230
+  tmdb: 48860
 sources:
 - https://www.wikidata.org/wiki/Q61127892
 schema_version: 1
@@ -23,3 +24,5 @@ director:
 cast:
 - person: kheni-sonya
 - person: ruvel-katrin
+poster_tmdb_path: /1rMhhefXgm8oSY1aV1iL4eh9izA.jpg
+backdrop_tmdb_path: /krZXt7dDdb31o28rs30ZqvAGXmc.jpg

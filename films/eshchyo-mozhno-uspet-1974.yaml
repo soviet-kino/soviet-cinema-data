@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q109428484
   imdb: tt4823064
+  tmdb: 888359
 sources:
 - https://www.wikidata.org/wiki/Q109428484
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tolubeev-andrey-yurevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qpxcxVHSqJ53VSeJ7ppquGDF7KL.jpg
+backdrop_tmdb_path: /zrsHD9aqN2q3tKuYFmK4phgqZGb.jpg

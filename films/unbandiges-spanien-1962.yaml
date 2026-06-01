@@ -8,9 +8,11 @@ runtime_min: 87
 external_ids:
   wikidata: Q132643309
   imdb: tt1462666
+  tmdb: 621169
 sources:
 - https://www.wikidata.org/wiki/Q132643309
 schema_version: 1
 director:
 - shtern-kurt
 - shtern-zhanna
+poster_tmdb_path: /8FtPI3Vw2hLekOks5larw6HaHV7.jpg

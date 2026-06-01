@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q86675801
   imdb: tt0261923
+  tmdb: 778424
 sources:
 - https://www.wikidata.org/wiki/Q86675801
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - rayskaya-elena
 studio:
 - mosfilm
+poster_tmdb_path: /eEhSOD9jcRRIQdwzBMMw7fiPnuy.jpg
+backdrop_tmdb_path: /9ZSMs6WCG6l793N24bG8urPYJAA.jpg

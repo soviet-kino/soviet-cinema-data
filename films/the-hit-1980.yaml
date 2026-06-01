@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12059641
   imdb: tt0081655
+  tmdb: 59721
 sources:
 - https://www.wikidata.org/wiki/Q12059641
 schema_version: 1
@@ -112,3 +113,5 @@ cast:
 - person: smok-pavel
 - person: novotny-petr
 - person: svoboda-petr
+poster_tmdb_path: /29ttNTJzgxzBizrzgDXhADzWOBV.jpg
+backdrop_tmdb_path: /bbHp3djRbAzinvZHBC3cjMzI8T3.jpg

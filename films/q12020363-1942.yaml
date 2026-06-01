@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12020363
   imdb: tt0281918
+  tmdb: 592591
 sources:
 - https://www.wikidata.org/wiki/Q12020363
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: kautska-marie
 - person: duskova-jitka
 - person: borovcova-mareckova-lida
+poster_tmdb_path: /j1ifNOlzvVPIrfS968d18kIbgo6.jpg

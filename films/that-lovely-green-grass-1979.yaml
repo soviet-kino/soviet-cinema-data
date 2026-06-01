@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1470578
   imdb: tt0121929
+  tmdb: 158795
 sources:
 - https://www.wikidata.org/wiki/Q1470578
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: rayz-yanosh
 - person: ujlaki-denes
 - person: ulmann-monika
+poster_tmdb_path: /rKArcl4X1QtcxRt4ygIFLJrDINz.jpg
+backdrop_tmdb_path: /41RAetj4ME7DYWfJg50yP0K8o4A.jpg

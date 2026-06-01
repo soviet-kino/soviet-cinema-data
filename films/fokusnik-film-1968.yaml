@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4491373
   imdb: tt0175616
   youtube: 6LN5sn8ktqE
+  tmdb: 458041
 sources:
 - https://www.wikidata.org/wiki/Q4491373
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: gobzeva-olga-frolovna
 - person: dyachkov-leonid
 - person: larionova-alla-dmitrievna
+poster_tmdb_path: /tAku5ofgYAYsN68Meut77cGitqC.jpg
+backdrop_tmdb_path: /5IjHTkTX8Wfg1LatdOAcjij6PHe.jpg

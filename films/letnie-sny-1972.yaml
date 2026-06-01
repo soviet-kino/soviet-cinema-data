@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4260109
   imdb: tt4697148
+  tmdb: 889696
 sources:
 - https://www.wikidata.org/wiki/Q4260109
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: gerasimov-evgeniy-vladimirovich
 - person: trofimov-nikolay-nikolaevich
 - person: fateeva-natalya-nikolaevna
+poster_tmdb_path: /hR1wHTcj2Lh73LPCR1JRmUjNNO1.jpg

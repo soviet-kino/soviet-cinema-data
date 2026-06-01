@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270636
   imdb: tt0059952
   youtube: A_qBi8GjeOY
+  tmdb: 152355
 sources:
 - https://www.wikidata.org/wiki/Q15270636
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - mosfilm
 cast:
 - person: proklova-elena-igorevna
+poster_tmdb_path: /oGwsfHCfW9lWDQJnHm4pCPtIYxc.jpg
+backdrop_tmdb_path: /2NI0DwzEFcBkeqC6iu5i84UbwYV.jpg

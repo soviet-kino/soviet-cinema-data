@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q12034855
   imdb: tt0166258
+  tmdb: 418862
 sources:
 - https://www.wikidata.org/wiki/Q12034855
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: paul-ladislav
 studio:
 - universum-film-ag
+poster_tmdb_path: /3rx50WjC7bnCX4ZIPY9VlFElf59.jpg

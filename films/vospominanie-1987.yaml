@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q130292804
   imdb: tt29194260
+  tmdb: 1521753
 sources:
 - https://www.wikidata.org/wiki/Q130292804
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - savelev-vladimir-alekseevich
 composer:
 - vigners-ivars
+poster_tmdb_path: /dp3zfZuyPZCxo6NYy7UXCrVOY2L.jpg

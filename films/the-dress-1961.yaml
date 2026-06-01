@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q519439
   imdb: tt0055050
+  tmdb: 565997
 sources:
 - https://www.wikidata.org/wiki/Q519439
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: fu-walter-e
 - person: kube-khorst
 - person: lirk-verner
+poster_tmdb_path: /tAN37XOfVStwKcS6vL0y0lK930y.jpg
+backdrop_tmdb_path: /8SAxawBLrGaT2qGZh0QhcAkD5Nk.jpg

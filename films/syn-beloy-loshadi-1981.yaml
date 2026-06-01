@@ -17,6 +17,9 @@ runtime_min: 90
 external_ids:
   wikidata: Q371490
   imdb: tt0083931
+  tmdb: 41077
 sources:
 - https://www.wikidata.org/wiki/Q371490
 schema_version: 1
+poster_tmdb_path: /yD3FuHodgpiezmybXv0mNHjhze8.jpg
+backdrop_tmdb_path: /nV5bIMguQKNVmuO9NGvZcInjcul.jpg

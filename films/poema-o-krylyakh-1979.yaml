@@ -8,6 +8,7 @@ runtime_min: 161
 external_ids:
   wikidata: Q4375674
   imdb: tt0079730
+  tmdb: 419601
 sources:
 - https://www.wikidata.org/wiki/Q4375674
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: strzhelchik-vladislav-ignatevich
 studio:
 - mosfilm
+poster_tmdb_path: /eANg1pobI3tVKqsfFkkVPHwduhf.jpg

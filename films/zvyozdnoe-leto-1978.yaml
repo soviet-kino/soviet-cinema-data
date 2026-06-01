@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q20513805
   imdb: tt0442744
+  tmdb: 1421154
 sources:
 - https://www.wikidata.org/wiki/Q20513805
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: sarkisov-leonard-sarkisovich
 - person: nazaretyan-khachik
 - person: ayvazyan-armen
+poster_tmdb_path: /slEqCOAILoDmZ81JTPSmDdibCyI.jpg
+backdrop_tmdb_path: /1q6ScPuLU5XWPhMsSdJW1dNLTja.jpg

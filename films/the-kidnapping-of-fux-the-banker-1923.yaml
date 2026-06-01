@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q15124334
   imdb: tt0165523
+  tmdb: 723289
 sources:
 - https://www.wikidata.org/wiki/Q15124334
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: svarcova-anna
 - person: volman-josef
 - person: poiret-leon
+poster_tmdb_path: /1SVLIUvNARTOW5rxGdM0CSgUwje.jpg

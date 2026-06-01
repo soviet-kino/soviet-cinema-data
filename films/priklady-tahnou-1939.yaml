@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q19581003
   imdb: tt0170470
+  tmdb: 538841
 sources:
 - https://www.wikidata.org/wiki/Q19581003
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: helclova-bozena
 - person: suldovsky-vaclav
 - person: sent-waldemar
+poster_tmdb_path: /pS9lcyl8wrZNeUHHVh4Dier4tB9.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4463348
   imdb: tt0230898
   youtube: GocUKRAU-CU
+  tmdb: 65123
 sources:
 - https://www.wikidata.org/wiki/Q4463348
 schema_version: 1
@@ -28,3 +29,5 @@ studio:
 - lenfilm
 - ekran
 - tvorcheskoe-obedinenie-televizionnykh-filmov
+poster_tmdb_path: /bd3QZKoEOxMB3SZRbInAA4sN6vG.jpg
+backdrop_tmdb_path: /oHO6CZJhCeZCVaPGdPIyzizWX5n.jpg

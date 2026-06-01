@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q29018752
   imdb: tt0347715
   youtube: J4jZH7GF0Jk
+  tmdb: 338447
 sources:
 - https://www.wikidata.org/wiki/Q29018752
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: grishmanovskiy-yuriy-sergeevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /bIzvaY3kD46JyOlYBe4lFLfdb1g.jpg
+backdrop_tmdb_path: /q51ufpykHYK49plqKsQtBDeFejb.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788482
   imdb: tt0172865
+  tmdb: 477840
 sources:
 - https://www.wikidata.org/wiki/Q11788482
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - milkani-piro
 composer:
 - zadeja-cesk
+poster_tmdb_path: /1znpay7FduYM7OQV1UUI4aAuydA.jpg
+backdrop_tmdb_path: /bt3XdkggkdC1bV8gVLQTdphm9yG.jpg

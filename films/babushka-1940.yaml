@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q10859625
   imdb: tt0032230
+  tmdb: 276613
 sources:
 - https://www.wikidata.org/wiki/Q10859625
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: liska-jaroslav
 - person: krchnavy-jan
 - person: sula-josef
+poster_tmdb_path: /2MKWXaeZNPTl5CvGmsJkIBEnIhu.jpg
+backdrop_tmdb_path: /bGh8IKBRq7N0zvLajvLVUi2PJJI.jpg

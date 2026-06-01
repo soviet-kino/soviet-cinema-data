@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12724364
   imdb: tt0088938
+  tmdb: 315450
 sources:
 - https://www.wikidata.org/wiki/Q12724364
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: chekh-sabolch
 - person: stenesku-trayan
 - person: teodosiyu-valentin
+poster_tmdb_path: /y3BHdLbSkELkcE23e1BaD3bwHp5.jpg

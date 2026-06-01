@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1176116
   imdb: tt0027958
+  tmdb: 41079
 sources:
 - https://www.wikidata.org/wiki/Q1176116
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: gozon-gyula
 - person: pertsel-zita
 - person: torzs-jeno
+poster_tmdb_path: /ivKHrpOqhuvSnebQ7QO0Chb6nlF.jpg
+backdrop_tmdb_path: /vHw45oR6FgZJSA28RB5rz3MfLOo.jpg

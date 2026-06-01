@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q1262481
   imdb: tt0067020
+  tmdb: 284145
 sources:
 - https://www.wikidata.org/wiki/Q1262481
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: reinhardt-peter
 - person: gaysler-renata
 - person: grasse-gert
+poster_tmdb_path: /d0XNUoNPY8wKhg002sOwboL3YyJ.jpg
+backdrop_tmdb_path: /uPv8hH4SAbliUI2ATYiEAukmYfA.jpg

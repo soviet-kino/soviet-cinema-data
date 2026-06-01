@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4183491
   imdb: tt0059938
   youtube: E_R0x9KGoOQ
+  tmdb: 239727
 sources:
 - https://www.wikidata.org/wiki/Q4183491
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: dumpis-uldis
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /pU8qf4RiwGRRYXVA5O8OHR334EP.jpg

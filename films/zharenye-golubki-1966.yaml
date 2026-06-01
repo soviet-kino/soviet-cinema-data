@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q54985
   imdb: tt0060832
+  tmdb: 256704
 sources:
 - https://www.wikidata.org/wiki/Q54985
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: kobylinski-anatol
 studio:
 - start-kinostudiya
+poster_tmdb_path: /3Ui8vve0HrNnzNHzKdYNtEbpJAB.jpg
+backdrop_tmdb_path: /oXR2NraIOfnMAHzqUTEKTZrl88i.jpg

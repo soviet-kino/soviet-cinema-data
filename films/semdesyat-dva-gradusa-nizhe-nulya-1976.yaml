@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q4415681
   imdb: tt0312316
+  tmdb: 358976
 sources:
 - https://www.wikidata.org/wiki/Q4415681
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: korchikov-oleg-glebovich
 studio:
 - lenfilm
+poster_tmdb_path: /zLAfQpVckUPoCb5vKslARh9mWtZ.jpg

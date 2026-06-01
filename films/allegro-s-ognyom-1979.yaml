@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4062572
   imdb: tt0312341
   youtube: KPvS0xWnJHo
+  tmdb: 312218
 sources:
 - https://www.wikidata.org/wiki/Q4062572
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - odesskaya-kinostudiya
 cast:
 - person: zamanskiy-vladimir-petrovich
+poster_tmdb_path: /hDhIRRWW1u8ZupagoFHx26KFv3F.jpg
+backdrop_tmdb_path: /kGwb1FffjZ57KGjQVwhC8JaakPS.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q7945001
   imdb: tt0048784
+  tmdb: 301819
 sources:
 - https://www.wikidata.org/wiki/Q7945001
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: q101080945
 - person: kocourek-karel
 - person: linka-vladimir
+poster_tmdb_path: /gSM0C7lfpvvS3o6edil9dbDTeBk.jpg

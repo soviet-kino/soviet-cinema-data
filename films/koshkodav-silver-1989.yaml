@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4237104
   imdb: tt5253182
+  tmdb: 468949
 sources:
 - https://www.wikidata.org/wiki/Q4237104
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: budraytis-yuozas-stanislavas
 studio:
 - belarusfilm
+poster_tmdb_path: /2U42z6cMTtelqThoHeNz9ypWFVl.jpg

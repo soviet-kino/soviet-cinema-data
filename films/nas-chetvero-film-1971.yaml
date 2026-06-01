@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q65250163
   imdb: tt3256396
+  tmdb: 1166209
 sources:
 - https://www.wikidata.org/wiki/Q65250163
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - mlodik-arkadiy-markovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /oMpPPgPQoC7Imxwtn3QIjQ09gIc.jpg

@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q18121774
   imdb: tt0080480
+  tmdb: 316167
 sources:
 - https://www.wikidata.org/wiki/Q18121774
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: nitulesku-vasil
 - person: iliescu-nicolae
 - person: szonyi-anca
+poster_tmdb_path: /1MfKQzuTn3VnubyopkZ3iZv0THi.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131005225
   imdb: tt5343206
+  tmdb: 1524948
 sources:
 - https://www.wikidata.org/wiki/Q131005225
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: shakirova-tamara-khalimovna
 studio:
 - uzbekfilm
+poster_tmdb_path: /74CsNvbxsDXc7zoghIL90YD74SJ.jpg

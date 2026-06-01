@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12727741
   imdb: tt0050360
+  tmdb: 500739
 sources:
 - https://www.wikidata.org/wiki/Q12727741
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - chuley-liviu
 cast:
 - person: kristian-eva
+poster_tmdb_path: /j8ov3djc09d7CDiJrZMj8qvTR8u.jpg

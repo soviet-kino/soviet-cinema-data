@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163332
   imdb: tt2395309
   youtube: aVxUnudbDNE
+  tmdb: 430296
 sources:
 - https://www.wikidata.org/wiki/Q4163332
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - pauls-raymond
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /uChob8WtDEAxIZ4o996Sqd05gxb.jpg
+backdrop_tmdb_path: /1dVG2kkAj81PGwDJQ2xcDcqkjan.jpg

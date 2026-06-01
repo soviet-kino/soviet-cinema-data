@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208802
   imdb: tt0188734
+  tmdb: 453666
 sources:
 - https://www.wikidata.org/wiki/Q4208802
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - kotov-boris-stepanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /jv6i2jShaibrNObLZMdO6fzKkD8.jpg

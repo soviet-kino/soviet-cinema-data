@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q821352
   imdb: tt0058965
+  tmdb: 279470
 sources:
 - https://www.wikidata.org/wiki/Q821352
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: eykhel-kaspar
 - person: gabriel-monika
 - person: ulrikh-rudolf
+poster_tmdb_path: /uGG3PQPaabsUpnt6XGDtfJB3oJe.jpg
+backdrop_tmdb_path: /qMVE7qylG4nNYeCquWD9uJ70Ejs.jpg

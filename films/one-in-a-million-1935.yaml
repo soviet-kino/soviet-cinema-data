@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q25713036
   imdb: tt0248116
+  tmdb: 584084
 sources:
 - https://www.wikidata.org/wiki/Q25713036
 schema_version: 1
@@ -78,3 +79,4 @@ cast:
 - person: tajcova-marie
 - person: marek-v-a
 - person: nadenikova-bozena
+poster_tmdb_path: /olK7ki8At9OHABNahpUZVaOrjeL.jpg

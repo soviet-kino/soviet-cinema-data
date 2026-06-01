@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4421389
   imdb: tt2595916
+  tmdb: 472071
 sources:
 - https://www.wikidata.org/wiki/Q4421389
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - nikitin-sergey-yakovlevich
 studio:
 - ekran
+poster_tmdb_path: /u1HjBaKcl3Z1GYKrobe85Kyfvdg.jpg
+backdrop_tmdb_path: /8O8yNHCfmDeWt0e3yJ8YAiNn3Vj.jpg

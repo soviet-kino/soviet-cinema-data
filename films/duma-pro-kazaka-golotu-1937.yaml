@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4170556
   imdb: tt0128953
+  tmdb: 72923
 sources:
 - https://www.wikidata.org/wiki/Q4170556
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: sokolov-nikolay-alekseevich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /3j0yY8vghTeh8sA6h09Xf68dEie.jpg
+backdrop_tmdb_path: /pwKN2pS631sLbP1NBWQLiNIKq0E.jpg

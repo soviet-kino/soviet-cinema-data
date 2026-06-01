@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q42719984
   imdb: tt0398369
+  tmdb: 1127005
 sources:
 - https://www.wikidata.org/wiki/Q42719984
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - khaynovskiy-valter
 composer:
 - menukhin-iegudi
+poster_tmdb_path: /933xJLD3hCCklZ5CMFMQIGEZAEc.jpg

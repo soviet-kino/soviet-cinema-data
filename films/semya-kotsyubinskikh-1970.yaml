@@ -8,6 +8,7 @@ runtime_min: 166
 external_ids:
   wikidata: Q4415694
   imdb: tt0173183
+  tmdb: 753682
 sources:
 - https://www.wikidata.org/wiki/Q4415694
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: tatosov-vladimir-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gjAUjSVTR6otsj6SOTUdEwaiGUn.jpg
+backdrop_tmdb_path: /c3mlFZ6SjMM3weePsGosaGeO4fc.jpg

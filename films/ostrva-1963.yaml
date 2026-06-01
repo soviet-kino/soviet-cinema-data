@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q7107725
   imdb: tt0057644
+  tmdb: 311113
 sources:
 - https://www.wikidata.org/wiki/Q7107725
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - avala-film
 - alfa-film-gmbh
 - interfilm-la
+poster_tmdb_path: /rRFRVWzO4dfgpaSkyoGK6KBH1tj.jpg
+backdrop_tmdb_path: /buEiiWyQOR4CwajWN5SkLQW3cjB.jpg

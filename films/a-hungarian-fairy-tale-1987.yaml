@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4657454
   imdb: tt0093199
+  tmdb: 42005
 sources:
 - https://www.wikidata.org/wiki/Q4657454
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: chakani-ester
 - person: husak-frantisek
 - person: varga-mariya
+poster_tmdb_path: /h4OS61Kpd52ZqfvMIMGNdwiC2uB.jpg

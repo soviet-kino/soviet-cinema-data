@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25545333
   imdb: tt1542730
   youtube: 7LMUtLMX3l8
+  tmdb: 530301
 sources:
 - https://www.wikidata.org/wiki/Q25545333
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: miroshnichenko-irina-petrovna
 - person: ogly-turabov-gasan-sattar
 - person: grigoriu-grigore-petru
+poster_tmdb_path: /pr21fadNAn1wKhOUiawSFlMUWwE.jpg

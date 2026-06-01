@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11162723
   imdb: tt0049633
+  tmdb: 245078
 sources:
 - https://www.wikidata.org/wiki/Q11162723
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - skrygin-zhorzh
 cast:
 - person: vuisich-pavle
+poster_tmdb_path: /vIBBIYwsvaPpFuFu7pgWa9QIrBN.jpg
+backdrop_tmdb_path: /3JkPZYCKIUL6bGalk3IZGZjDg4k.jpg

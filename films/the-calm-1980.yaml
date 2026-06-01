@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q7721042
   imdb: tt0075256
+  tmdb: 108733
 sources:
 - https://www.wikidata.org/wiki/Q7721042
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: olshevskaya-izabella
 - person: zarnecki-micha
 - person: wierzbicki-krzysztof
+poster_tmdb_path: /1C2Xhht3g1xoMnDsmdfxSNJ5p5b.jpg
+backdrop_tmdb_path: /9SgUUgf2CZQfvKgGm3zbVqT6aP9.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116811443
   imdb: tt0100736
   youtube: bBFziEyGY8E
+  tmdb: 1231991
 sources:
 - https://www.wikidata.org/wiki/Q116811443
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - mikhaylovskiy-valeriy-isaevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /m5UZKWOFK6TVXNCG6ETDCcm39Ci.jpg
+backdrop_tmdb_path: /drr29tnoXMWyBrwOXD5MbDbSp8k.jpg

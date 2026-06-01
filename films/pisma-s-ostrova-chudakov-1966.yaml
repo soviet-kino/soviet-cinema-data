@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q19999829
   imdb: tt0445501
+  tmdb: 638290
 sources:
 - https://www.wikidata.org/wiki/Q19999829
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: mihkelson-arvo
 studio:
 - tallinfilm
+poster_tmdb_path: /6ON65XC1h2Q7LszEj0bjhgBjMn6.jpg
+backdrop_tmdb_path: /vLiNTDSvPcd6NaxM5bdXBEyLqar.jpg

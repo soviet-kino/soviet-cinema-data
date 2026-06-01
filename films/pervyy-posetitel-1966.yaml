@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q106774783
   imdb: tt0059584
+  tmdb: 832033
 sources:
 - https://www.wikidata.org/wiki/Q106774783
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - solovyov-sedoy-vasiliy-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /zP0A6GJ3d4DCQjgpgtgEnAFOpez.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4349909
   imdb: tt6016586
+  tmdb: 295863
 sources:
 - https://www.wikidata.org/wiki/Q4349909
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: First lesson 1948.jpg
+poster_tmdb_path: /tTemQwl2LmHoyKXieOSzeZmoSpU.jpg
+backdrop_tmdb_path: /aoA9bd3CKnPmSRUcYINB8v1aJKg.jpg

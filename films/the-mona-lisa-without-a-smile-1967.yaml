@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44865609
   imdb: tt0061707
+  tmdb: 665521
 sources:
 - https://www.wikidata.org/wiki/Q44865609
 schema_version: 1
 director:
 - urshianu-malvina
+poster_tmdb_path: /gzkSVr4cyuMIVXsKJhUvgQ6FxKF.jpg

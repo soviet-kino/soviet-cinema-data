@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q52442
   imdb: tt0024402
   youtube: 8m-cByC8sPg
+  tmdb: 94638
 sources:
 - https://www.wikidata.org/wiki/Q52442
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: komarov-sergey-petrovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /wtQ0HhPXW7jfNMueqLC2rJqBfbP.jpg
+backdrop_tmdb_path: /3yAckThEiCiMa1E5fVaUgRjpQeX.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4295944
   imdb: tt0296757
+  tmdb: 427886
 sources:
 - https://www.wikidata.org/wiki/Q4295944
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: rumyantseva-lyubov-grigorevna
 studio:
 - belarusfilm
+poster_tmdb_path: /lSAyHCZEH6yc6GPduYo8zQLrbko.jpg
+backdrop_tmdb_path: /pj9CZewqCiNAhYzbmKOpaUt1AXa.jpg

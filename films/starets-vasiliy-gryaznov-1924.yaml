@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q86724002
   imdb: tt0230816
+  tmdb: 1062777
 sources:
 - https://www.wikidata.org/wiki/Q86724002
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 studio:
 - mosfilm
 - goskino
+poster_tmdb_path: /tiUTZVsjdY5Gle5uQGIKHsfeNVP.jpg

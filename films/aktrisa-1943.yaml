@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4060139
   imdb: tt0035620
   youtube: N5cvEAN0xfA
+  tmdb: 394959
 sources:
 - https://www.wikidata.org/wiki/Q4060139
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gribkov-vladimir-vasilevich
 - person: morskaya-zinaida-ignatevna
 - person: sorokin-konstantin-nikolaevich
+poster_tmdb_path: /65d4LmvyQsLoeBXLc0EQ4hBVGcp.jpg
+backdrop_tmdb_path: /c1BG6mGuYwX0KmfiOpwA4ETiVbq.jpg

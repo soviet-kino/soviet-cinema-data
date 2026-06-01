@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4242487
   imdb: tt4968574
+  tmdb: 890262
 sources:
 - https://www.wikidata.org/wiki/Q4242487
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: shutov-evgeniy-efimovich
 - person: lyubeshkin-pyotr-vladimirovich
 - person: franko-dmitriy-vasilevich
+poster_tmdb_path: /sauf620F0QGfdsJnXxni5GT4kk6.jpg

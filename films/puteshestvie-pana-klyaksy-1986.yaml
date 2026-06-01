@@ -8,6 +8,7 @@ runtime_min: 164
 external_ids:
   wikidata: Q4384276
   imdb: tt0091772
+  tmdb: 78360
 sources:
 - https://www.wikidata.org/wiki/Q4384276
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: grabovskiy-pyotr
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /nriKXD8Cd8tZOpmCYYdPSeJpMkA.jpg
+backdrop_tmdb_path: /bTc7B3gkruOrpnV54gwn3zBD4Gh.jpg

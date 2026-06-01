@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q11246138
   imdb: tt0978575
+  tmdb: 658036
 sources:
 - https://www.wikidata.org/wiki/Q11246138
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: habetinova-olga
 - person: ctverak-petr
 - person: klosova-ela
+poster_tmdb_path: /mRU40VQqSHF3MnP1kqEGSy1XafZ.jpg

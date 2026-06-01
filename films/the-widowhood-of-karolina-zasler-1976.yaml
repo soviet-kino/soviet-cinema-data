@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q7774782
   imdb: tt0075380
+  tmdb: 263824
 sources:
 - https://www.wikidata.org/wiki/Q7774782
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: bibich-polde
 - person: sugman-zlatko
 - person: zupanchich-milena
+poster_tmdb_path: /wS4hdewBHMuugqqtZU4WP7i8338.jpg
+backdrop_tmdb_path: /aubrVaBSV60wqJX7dO8aAZqg1Lb.jpg

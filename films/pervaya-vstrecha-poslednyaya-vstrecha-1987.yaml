@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4348919
   imdb: tt0093728
   youtube: tPzm_ndNa6o
+  tmdb: 71047
 sources:
 - https://www.wikidata.org/wiki/Q4348919
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: plotnikov-boris
 studio:
 - lenfilm
+poster_tmdb_path: /jcMUSFWrGLPjk0sS37BkkTsc9Ct.jpg
+backdrop_tmdb_path: /jzQ1a5WXIWWJ6UkLsGWT7IV53AT.jpg

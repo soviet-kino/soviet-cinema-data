@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4224473
   imdb: tt2395363
   youtube: yRdWYt5Bu04
+  tmdb: 206944
 sources:
 - https://www.wikidata.org/wiki/Q4224473
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: putsitis-uldis
 - person: dumpis-uldis
+poster_tmdb_path: /edHJsGqhki4ZpXn6yCq9Ix7WVJA.jpg
+backdrop_tmdb_path: /m0XS2hI2ix3cepvxGPhSrXYL2Ex.jpg

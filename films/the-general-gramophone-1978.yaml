@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q9266848
   imdb: tt0171346
+  tmdb: 462129
 sources:
 - https://www.wikidata.org/wiki/Q9266848
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: roshi-kadri
 - person: pitarka-suleyman
 - person: lako-buyar
+poster_tmdb_path: /sf9XhFfzWUR6Jv9Wf9iFjAn5uem.jpg
+backdrop_tmdb_path: /rsdcJj9rGZxT8JFfO7LNavoDamd.jpg

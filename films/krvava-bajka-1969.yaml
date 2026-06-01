@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12754197
   imdb: tt0179927
+  tmdb: 284116
 sources:
 - https://www.wikidata.org/wiki/Q12754197
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: lyubisha-yovanovich
 - person: pantelich-vasa
 - person: pendula-ljubomir-ubavkic
+poster_tmdb_path: /qsubbGP7gGfLpZLnNA2CUCUQv4p.jpg
+backdrop_tmdb_path: /ynur53AEYWxTl1Qu1lgJUAfFlgL.jpg

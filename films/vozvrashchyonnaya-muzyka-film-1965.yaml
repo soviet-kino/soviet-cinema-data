@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q97187576
   imdb: tt0332496
+  tmdb: 829526
 sources:
 - https://www.wikidata.org/wiki/Q97187576
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - chistyakov-vladlen
 studio:
 - lenfilm
+poster_tmdb_path: /rW4qaxcmSzdyqpe62eBMvQ7fI7W.jpg

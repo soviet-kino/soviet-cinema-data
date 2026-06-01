@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1965438
   imdb: tt0057232
   youtube: 7jA15rKF2tk
+  tmdb: 20977
 sources:
 - https://www.wikidata.org/wiki/Q1965438
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: belov-yuriy-andreevich
 - person: kozhevnikov-aleksey-aleksandrovich
 - person: sova-andrey-korneevich
+poster_tmdb_path: /78rI3uNkQEn9mumzGNCarGF16HV.jpg
+backdrop_tmdb_path: /6ZXE5YXHuwvBAmPTxzy7RIFmtnU.jpg

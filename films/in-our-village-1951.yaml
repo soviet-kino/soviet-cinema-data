@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25894477
   imdb: tt0044227
+  tmdb: 628780
 sources:
 - https://www.wikidata.org/wiki/Q25894477
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - dumitresku-yon
 cast:
 - person: chuley-liviu
+poster_tmdb_path: /l0X7VQBQcQMpwy0LJRFfQIFm9Es.jpg

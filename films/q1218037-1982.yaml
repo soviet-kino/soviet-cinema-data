@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q1218037
   imdb: tt0083830
+  tmdb: 140588
 sources:
 - https://www.wikidata.org/wiki/Q1218037
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: sarge-carmen
 - person: yungkhans-gyunter
 - person: mattukat-jana
+poster_tmdb_path: /7tbLlSlNwYRWln4D3PXYuAZUgbf.jpg
+backdrop_tmdb_path: /uzOj9J2PqNiUQkN7jvDip76n037.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4498878
   imdb: tt0063180
   youtube: lQdfSGj6PQY
+  tmdb: 76248
 sources:
 - https://www.wikidata.org/wiki/Q4498878
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: vysotskiy-vladimir
 - person: zolotukhin-valeriy
+poster_tmdb_path: /cvkTk8GkF0ejLGZhFleDzIkT9Qz.jpg
+backdrop_tmdb_path: /bkK5Y8mlIywxzMUofD1I5p7jal4.jpg

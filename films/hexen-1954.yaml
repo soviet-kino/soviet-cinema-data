@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1616710
   imdb: tt0230289
+  tmdb: 292237
 sources:
 - https://www.wikidata.org/wiki/Q1616710
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: maack-alfred
 - person: borges-manfred
 - person: riechers-helene
+poster_tmdb_path: /fj851hIKAFyQ8WRDpafa4zSOh4p.jpg
+backdrop_tmdb_path: /yKfRstAN18oRgNmugdg2WbOTm5a.jpg

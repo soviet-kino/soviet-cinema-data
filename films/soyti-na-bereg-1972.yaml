@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20530580
   imdb: tt0070349
+  tmdb: 638297
 sources:
 - https://www.wikidata.org/wiki/Q20530580
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: merzin-leonkhard-rikhardovich
 - person: putsitis-uldis
 - person: saalik-leyla
+poster_tmdb_path: /c0yJPm4FfXy38JBtACDAv0Ax2Cl.jpg
+backdrop_tmdb_path: /3u6J4YwoQOejJDre6Ktbeg92Y7N.jpg

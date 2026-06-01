@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q11035920
   imdb: tt0305212
+  tmdb: 1048362
 sources:
 - https://www.wikidata.org/wiki/Q11035920
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: isaakyan-bella
 studio:
 - armenfilm
+poster_tmdb_path: /7KuXSndjBuGwBxmKwXnhZalGTxT.jpg

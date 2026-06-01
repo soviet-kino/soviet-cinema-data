@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q17124729
   imdb: tt0071826
+  tmdb: 418461
 sources:
 - https://www.wikidata.org/wiki/Q17124729
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - borkmann-eberkhard
 composer:
 - schonfeld-friedhelm
+poster_tmdb_path: /i4qnBmSL3kVladRfruobSCUG1P0.jpg

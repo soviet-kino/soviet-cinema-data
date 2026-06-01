@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q9386977
   imdb: tt1947990
+  tmdb: 160087
 sources:
 - https://www.wikidata.org/wiki/Q9386977
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: voganka-irzhi
 - person: kalena-josef
 - person: douskova-bohumila
+poster_tmdb_path: /gPQi5JBbmgHtMKdxn4Jjn4IrCAg.jpg
+backdrop_tmdb_path: /aBHAAc1Lj48eNVYfZ7Nu9pLA9IZ.jpg

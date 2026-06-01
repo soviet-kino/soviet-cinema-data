@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q61977656
   imdb: tt1772818
+  tmdb: 512780
 sources:
 - https://www.wikidata.org/wiki/Q61977656
 schema_version: 1
 director:
 - leng-aleksandr
+poster_tmdb_path: /xack5RBMQSKw0JZgFvzxNZU38Ok.jpg

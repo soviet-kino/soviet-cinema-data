@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q704456
   imdb: tt0019649
   youtube: iIq0UDHvqic
+  tmdb: 85715
 sources:
 - https://www.wikidata.org/wiki/Q704456
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 cast:
 - person: svashenko-semyon-andreevich
 poster_commons: 1929. Семен Свашенко в фильме Арсенал.jpg
+poster_tmdb_path: /uKFpCZSNwOPyz28uOcAuHisolVA.jpg
+backdrop_tmdb_path: /qyku09NoSXE3DRUmOCW2UDYI539.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16082657
   imdb: tt0181634
+  tmdb: 391792
 sources:
 - https://www.wikidata.org/wiki/Q16082657
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: q12959542
 - person: pura-or-e
 - person: jovanovic-or-e
+poster_tmdb_path: /8yecIOoPyIDq7xgRLYJTY8muWyg.jpg

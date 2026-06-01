@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12285537
   imdb: tt0252672
+  tmdb: 1123198
 sources:
 - https://www.wikidata.org/wiki/Q12285537
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: rusalieva-mariya
 - person: valchinov-nikolay
 - person: trifonov-filip
+poster_tmdb_path: /swAsR2zsUdJE80QOU81id5pE02q.jpg

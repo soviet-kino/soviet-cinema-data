@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15260485
   imdb: tt0054040
+  tmdb: 213508
 sources:
 - https://www.wikidata.org/wiki/Q15260485
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 composer:
 - servanski-endre
 poster_commons: Légy jó mindhalálig.jpg
+poster_tmdb_path: /bPD059QoO4F7D3DyJioNiGG927H.jpg
+backdrop_tmdb_path: /aPWjc5abSoukB3h6tQ4WdSlJkSo.jpg

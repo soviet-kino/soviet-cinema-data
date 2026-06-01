@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q4165536
   imdb: tt0018841
+  tmdb: 128090
 sources:
 - https://www.wikidata.org/wiki/Q4165536
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - mezhrabpom-rus
 poster_commons: Неизвестный художник. Плакат к фильму «Дом на Трубной».jpg
+poster_tmdb_path: /89UgyzPI2Hw07gKcCovAS4E2kkH.jpg
+backdrop_tmdb_path: /UEIG2mL8gb59SuuWg6Nq7aMiRh.jpg

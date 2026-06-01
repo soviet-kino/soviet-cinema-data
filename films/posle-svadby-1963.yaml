@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4373711
   imdb: tt5016520
+  tmdb: 814688
 sources:
 - https://www.wikidata.org/wiki/Q4373711
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: khitrov-stanislav-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /9bBxU9l7QADYGWbJDUjm0bXTXNq.jpg

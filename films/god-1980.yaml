@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187042
   imdb: tt1786501
+  tmdb: 1642657
 sources:
 - https://www.wikidata.org/wiki/Q31187042
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: rogoz-zvonimir
 - person: maetich-frano
 - person: pipinic-hermina
+poster_tmdb_path: /9A7exY55p9uolf9WCgm6enYyCTy.jpg

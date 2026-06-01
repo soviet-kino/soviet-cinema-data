@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q130953638
   imdb: tt0305432
+  tmdb: 1153014
 sources:
 - https://www.wikidata.org/wiki/Q130953638
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - doga-evgeniy
 studio:
 - uzbekfilm
+poster_tmdb_path: /lmhi2gusxdXBbwW39wRTAq5l511.jpg

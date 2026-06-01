@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23900002
   imdb: tt2017040
+  tmdb: 90550
 sources:
 - https://www.wikidata.org/wiki/Q23900002
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - krivitskiy-david-isaakovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /iZvTPFxCBtUrtVd0px7n3Rn31qI.jpg

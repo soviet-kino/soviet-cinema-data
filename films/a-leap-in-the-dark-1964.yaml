@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q23759497
   imdb: tt1478285
   youtube: 8qd-O_D6t7I
+  tmdb: 831269
 sources:
 - https://www.wikidata.org/wiki/Q23759497
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 - person: kaderavek-emil
 - person: plzak-karel
 - person: sochor-otakar
+poster_tmdb_path: /8tECzsq5drgxQOWQoUC4DX3Nk3h.jpg

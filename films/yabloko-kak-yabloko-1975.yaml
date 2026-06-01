@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48904
   imdb: tt4270810
+  tmdb: 524302
 sources:
 - https://www.wikidata.org/wiki/Q48904
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ogly-sadygov-guseynaga-alesker
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /1F1902yAUhBrb9mNpBOMMJCamt8.jpg
+backdrop_tmdb_path: /nREYiNky2GfkAjy0lQhgAVFCZPd.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4423290
   imdb: tt4839860
   youtube: 2rFEt1Y3Tb4
+  tmdb: 543098
 sources:
 - https://www.wikidata.org/wiki/Q4423290
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: yushko-german-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /e83zv9L1afGykpmZPURahRc4VUn.jpg

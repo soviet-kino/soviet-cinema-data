@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q116811402
   imdb: tt0265715
+  tmdb: 1401707
 sources:
 - https://www.wikidata.org/wiki/Q116811402
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: yusufov-farkhad
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /gbMCGLRRbY2HYTJSqFNLbOkwbaH.jpg
+backdrop_tmdb_path: /6u2SGVqMeCU5Rj8BkdAGBMxSHOO.jpg

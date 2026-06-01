@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q10983030
   imdb: tt0181188
+  tmdb: 271675
 sources:
 - https://www.wikidata.org/wiki/Q10983030
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: milenkovic-zivojin
 - person: lupa-peter
 - person: sokich-ruzhitsa
+poster_tmdb_path: /jnoUpnbE3rzSHX6pPtsZvZfdTkV.jpg

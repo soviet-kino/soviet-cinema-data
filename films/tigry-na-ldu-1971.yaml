@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q116865203
   imdb: tt1721108
   youtube: 2Gqb5MhkoQ0
+  tmdb: 157710
 sources:
 - https://www.wikidata.org/wiki/Q116865203
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - samoylov-mark-samoylovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /51BMM6EdIo6FYNQxs3lRqyq8Bbt.jpg
+backdrop_tmdb_path: /zenUaQjEDC0ok9wBrqLIQZHU7r0.jpg

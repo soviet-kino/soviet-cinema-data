@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48941345
   imdb: tt12048024
+  tmdb: 1018730
 sources:
 - https://www.wikidata.org/wiki/Q48941345
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Film HAMBURG. 1926. Poster.png
+poster_tmdb_path: /xaFFc6boy9bFrJqsbZvA405NRZH.jpg

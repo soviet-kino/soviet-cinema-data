@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q4349968
   imdb: tt0259499
+  tmdb: 95814
 sources:
 - https://www.wikidata.org/wiki/Q4349968
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - gradskiy-aleksandr
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pePmkhUX4VsyKA6hRJaBCniA9Wr.jpg
+backdrop_tmdb_path: /yBGPjtW33t3LKShtVrSPCZFhtXd.jpg

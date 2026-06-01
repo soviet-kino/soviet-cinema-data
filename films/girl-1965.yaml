@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16083122
   imdb: tt0130617
+  tmdb: 267211
 sources:
 - https://www.wikidata.org/wiki/Q16083122
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: fekhmiyu-bekim
 - person: samardzhich-lyubisha
 - person: milena-dravich
+poster_tmdb_path: /cqDvR213bAtHFaUPvjIHrlIYJ3D.jpg
+backdrop_tmdb_path: /lz9kn9vVvWSptixkRhugkmyJDHv.jpg

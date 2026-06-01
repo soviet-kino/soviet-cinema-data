@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11837188
   imdb: tt0153280
+  tmdb: 768212
 sources:
 - https://www.wikidata.org/wiki/Q11837188
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - galewski-jozef
 cinematographer:
 - gniazdowski-zbigniew
+poster_tmdb_path: /hh9M2az88IKeb9AdtuIm0oGFj3b.jpg

@@ -8,8 +8,10 @@ runtime_min: 66
 external_ids:
   wikidata: Q12845417
   imdb: tt1204328
+  tmdb: 530496
 sources:
 - https://www.wikidata.org/wiki/Q12845417
 schema_version: 1
 director:
 - alakbarov-shakhmar
+poster_tmdb_path: /3E5wC2E2DGGftZfBrNM9lpUaWun.jpg

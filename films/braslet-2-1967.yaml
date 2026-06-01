@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4095854
   imdb: tt0321522
+  tmdb: 80058
 sources:
 - https://www.wikidata.org/wiki/Q4095854
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: zhakov-oleg-petrovich
+poster_tmdb_path: /79JEt9GrNJ8JQbQeUZuU98ceP2l.jpg
+backdrop_tmdb_path: /kNtyThAHBrDqlcv0RxRsZlWC7V6.jpg

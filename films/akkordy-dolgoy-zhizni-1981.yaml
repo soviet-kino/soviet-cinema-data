@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12848786
   imdb: tt1198151
+  tmdb: 525586
 sources:
 - https://www.wikidata.org/wiki/Q12848786
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ogly-kuliev-ramiz-eyyub
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /fWqrgZKTxaS56KgCUa319PYYlWJ.jpg
+backdrop_tmdb_path: /vboCvyPMtT3C5UZIQbRyF8it1cA.jpg

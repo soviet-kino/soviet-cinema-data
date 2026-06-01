@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q65199248
   imdb: tt0830206
+  tmdb: 915394
 sources:
 - https://www.wikidata.org/wiki/Q65199248
 schema_version: 1
 director:
 - martynyuk-leonid-vladimirovich
+poster_tmdb_path: /qSjQwcXQIxyNDa2QC3Z9rZidsqy.jpg
+backdrop_tmdb_path: /3xP6OGG1FwgngEl82wQCUCiUFDp.jpg

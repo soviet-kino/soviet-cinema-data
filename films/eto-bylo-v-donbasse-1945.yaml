@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6091806
   imdb: tt0037684
   youtube: JEJcoFoq00Q
+  tmdb: 483373
 sources:
 - https://www.wikidata.org/wiki/Q6091806
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: tyapkina-elena-alekseevna
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /9JxxGwbGhx6MejLBjkEU3i8SR6u.jpg
+backdrop_tmdb_path: /k1T694VHsmI1yDQ9e3RwfkcsH6D.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q2257299
   imdb: tt0187488
+  tmdb: 69543
 sources:
 - https://www.wikidata.org/wiki/Q2257299
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: rikhter-raynik-valter
 - person: shrade-villi
 - person: knayp-khilde
+poster_tmdb_path: /7UZvtqoicf8cjavKXClEdhsbER7.jpg

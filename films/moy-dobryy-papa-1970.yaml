@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4299826
   imdb: tt1673626
   youtube: 5aXFNmIajHI
+  tmdb: 545890
 sources:
 - https://www.wikidata.org/wiki/Q4299826
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - petrov-andrey-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /cZOcjgBC647j0gTRkGXDMQ8v32H.jpg

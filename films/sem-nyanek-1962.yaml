@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4415660
   imdb: tt0056466
   youtube: Wq9q89MKheQ
+  tmdb: 69837
 sources:
 - https://www.wikidata.org/wiki/Q4415660
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nadezhdina-tatyana-dmitrievna
 studio:
 - mosfilm
+poster_tmdb_path: /pvv7sYFkaAmnPLBVTmxzngBzQod.jpg
+backdrop_tmdb_path: /zR7ZapDVRKEE98GiJQIGTW9XXlH.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4156477
   imdb: tt0175167
+  tmdb: 148628
 sources:
 - https://www.wikidata.org/wiki/Q4156477
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - bardanashvili-iosif-yuzovich
 cast:
 - person: berikashvili-givi-zakharevich
+poster_tmdb_path: /iiUMUtrY3F1KEije7jnNULMhxRE.jpg
+backdrop_tmdb_path: /yB5yCPqLK9XS9lCUfpCsVOm3OPN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86675085
   imdb: tt0174828
   youtube: 6pkNzhILKRI
+  tmdb: 886579
 sources:
 - https://www.wikidata.org/wiki/Q86675085
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - glebov-evgeniy-aleksandrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /iaEQnzqC6CFolAhn4A2CtYIzcn9.jpg

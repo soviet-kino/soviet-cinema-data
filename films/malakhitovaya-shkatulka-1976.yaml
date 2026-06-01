@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21393902
   imdb: tt0949886
   youtube: 1aZsbz_00I0
+  tmdb: 399844
 sources:
 - https://www.wikidata.org/wiki/Q21393902
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - timofeevskiy-aleksandr-pavlovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /keMgJhw6laFs5wn8LfYgvFYZVx0.jpg

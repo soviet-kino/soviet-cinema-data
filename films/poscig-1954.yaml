@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q116291605
   imdb: tt0047360
+  tmdb: 725202
 sources:
 - https://www.wikidata.org/wiki/Q116291605
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: zachik-stanislav
 - person: marszel-barbara
 - person: olszyn-w-adys-aw
+poster_tmdb_path: /nxsQaR2NBJSBPRKEWEm9oMQQiOp.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4240049
   imdb: tt0093370
   youtube: Lglkp7Ba-Rg
+  tmdb: 326833
 sources:
 - https://www.wikidata.org/wiki/Q4240049
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: yankovsky-oleg
 studio:
 - mosfilm
+poster_tmdb_path: /lYQsQz19jrKYgoGk9Kwv2LP0mOd.jpg
+backdrop_tmdb_path: /hlqiU80a6PV4PryRs5pbATmnDjg.jpg

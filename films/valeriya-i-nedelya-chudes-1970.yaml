@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q1765158
   imdb: tt0066516
+  tmdb: 46315
 sources:
 - https://www.wikidata.org/wiki/Q1765158
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: berka-jan
 studio:
 - barrandov
+poster_tmdb_path: /46OUJDeOEbRkQoWiK7gWLMax5xb.jpg
+backdrop_tmdb_path: /cygF3MFce4MDpvyqDQXNvZiytc4.jpg

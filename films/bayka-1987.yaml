@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4075508
   imdb: tt0286479
   youtube: iqs5YEuA5bw
+  tmdb: 536155
 sources:
 - https://www.wikidata.org/wiki/Q4075508
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: usatova-nina-nikolaevna
 studio:
 - mosfilm
+poster_tmdb_path: /d9UOgc9P5YXlSpwQzSwhKMh97gq.jpg
+backdrop_tmdb_path: /n0lbX1Ff4fZrBqQLVXbp4El2Lz3.jpg

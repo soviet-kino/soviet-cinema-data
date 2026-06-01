@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q913426
   imdb: tt0073179
   youtube: 1HYMMF-9NlI
+  tmdb: 43430
 sources:
 - https://www.wikidata.org/wiki/Q913426
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: naumenko-olga-nikolaevna
 - person: roninson-gotlib
 - person: shirvindt-aleksandr-anatolevich
+poster_tmdb_path: /oqAwCig5JzaX896QImeVZCXXcpG.jpg
+backdrop_tmdb_path: /1kShjfoNZe0wTF16jvPaX8OOel1.jpg

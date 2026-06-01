@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q464771
   imdb: tt0026250
+  tmdb: 40548
 sources:
 - https://www.wikidata.org/wiki/Q464771
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - vadnay-laszlo
 - gaal-bela
+poster_tmdb_path: /1uBhv7CYO0XO2oLr5Lr6dqcKnJZ.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163098
   imdb: tt0127518
   youtube: 3SKEiXJkQoY
+  tmdb: 77071
 sources:
 - https://www.wikidata.org/wiki/Q4163098
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: terekhova-margarita
 - person: gaft-valentin-iosifovich
 - person: bykova-rimma-aleksandrovna
+poster_tmdb_path: /ekrFqZ5y8CMurZABut34o1PDaZC.jpg
+backdrop_tmdb_path: /cOXPtXglemFwjspcbeaGOhBA7Cj.jpg

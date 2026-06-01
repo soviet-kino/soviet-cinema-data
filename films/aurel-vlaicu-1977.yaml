@@ -8,8 +8,10 @@ runtime_min: 97
 external_ids:
   wikidata: Q28726466
   imdb: tt0075707
+  tmdb: 315930
 sources:
 - https://www.wikidata.org/wiki/Q28726466
 schema_version: 1
 director:
 - dregan-mircha
+poster_tmdb_path: /krJSF27AMlIi06lQ8XiRlcJWYJF.jpg

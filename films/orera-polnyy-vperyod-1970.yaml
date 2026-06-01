@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4337298
   imdb: tt0277936
+  tmdb: 379999
 sources:
 - https://www.wikidata.org/wiki/Q4337298
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - bardzimashvili-robert
 cast:
 - person: bregvadze-nani
+poster_tmdb_path: /8Dja2Lg18qO0PK7c20ZoiW2RZVQ.jpg
+backdrop_tmdb_path: /iPqsiPIq3WkmHk1CqmqP27O7ZNn.jpg

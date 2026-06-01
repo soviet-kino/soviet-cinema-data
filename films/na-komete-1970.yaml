@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q1849367
   imdb: tt0066121
+  tmdb: 60948
 sources:
 - https://www.wikidata.org/wiki/Q1849367
 schema_version: 1
@@ -86,3 +87,5 @@ cast:
 studio:
 - kinostudiya-gotvaldova
 poster_commons: ستاره دنباله‌دار (۱۳۴۹) (پوستر).jpg
+poster_tmdb_path: /bVEDY1NMXltYnZoF0yfemDO3Qgk.jpg
+backdrop_tmdb_path: /qd2pkieicwMlk2ZPxGszz5R2hOw.jpg

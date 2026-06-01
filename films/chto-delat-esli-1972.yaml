@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q56884163
   imdb: tt0263218
+  tmdb: 352071
 sources:
 - https://www.wikidata.org/wiki/Q56884163
 schema_version: 1
@@ -26,3 +27,4 @@ composer:
 - sikola-zdenek
 studio:
 - jiri-trnka-a-bratri-v-triku
+poster_tmdb_path: /4XIuABsx0tkslewCj8ftZGODsUN.jpg

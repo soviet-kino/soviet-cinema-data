@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4451600
   imdb: tt0044107
   youtube: spp7UWrzGXo
+  tmdb: 230746
 sources:
 - https://www.wikidata.org/wiki/Q4451600
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pereverzev-ivan-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xPCFuaQBbFuOwHMXtA6iMvP4UxN.jpg
+backdrop_tmdb_path: /dks2HUnVUmUrDdWXafvLyHO1Tsk.jpg

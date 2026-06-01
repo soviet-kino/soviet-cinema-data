@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q76400421
   imdb: tt0306204
   youtube: 6M0wyCghMtQ
+  tmdb: 343500
 sources:
 - https://www.wikidata.org/wiki/Q76400421
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - temenov-talgat-dosymgalievich
 studio:
 - mosfilm
+poster_tmdb_path: /re8rNYWRReFWsFHiAgS0670XRYR.jpg

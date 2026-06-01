@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28750138
   imdb: tt0249105
+  tmdb: 490834
 sources:
 - https://www.wikidata.org/wiki/Q28750138
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: avbelj-jozica
 - person: battelino-milos
 - person: barisic-ivo
+poster_tmdb_path: /fzKpVFJvHl0tJpIUW3EK6S2Cwjw.jpg

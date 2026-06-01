@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4146917
   imdb: tt0166629
   youtube: TI3olxqC98Q
+  tmdb: 219591
 sources:
 - https://www.wikidata.org/wiki/Q4146917
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: pokrovskaya-alina-stanislavovna
 - person: lukyanov-sergey-vladimirovich
 - person: pavlycheva-antonina-pavlovna
+poster_tmdb_path: /7to1mDEM7ZaUaueQsmHZThG854Y.jpg
+backdrop_tmdb_path: /uieMxwIfXc4hmgPH7jgMCyyV8qh.jpg

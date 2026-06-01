@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4192468
   imdb: tt0092292
   youtube: 51MaocBXgbY
+  tmdb: 388613
 sources:
 - https://www.wikidata.org/wiki/Q4192468
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2OhwAc0mL7u8CRDirmV1QSb9IIx.jpg
+backdrop_tmdb_path: /i6FL5IyWYjMyeVwI042EIFqydeH.jpg

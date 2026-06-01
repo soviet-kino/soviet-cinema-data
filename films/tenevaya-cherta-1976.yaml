@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q667503
   imdb: tt0075238
+  tmdb: 270731
 sources:
 - https://www.wikidata.org/wiki/Q667503
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: kumor-krzysztof
 studio:
 - zespol-filmowy-x
+poster_tmdb_path: /yXuYwp9PNnXrERmk7Wlm1oilNcY.jpg
+backdrop_tmdb_path: /wDsvG01uEaWi90DLda9UGJ4fPYk.jpg

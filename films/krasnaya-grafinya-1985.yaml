@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7759853
   imdb: tt0088371
+  tmdb: 286461
 sources:
 - https://www.wikidata.org/wiki/Q7759853
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: tot-laslo-takhi
 - person: temessy-hedi
 - person: tordi-geza
+poster_tmdb_path: /tSlqTtrkEcMZSS8Q9syVHScGil4.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4837943
   imdb: tt0138310
+  tmdb: 239302
 sources:
 - https://www.wikidata.org/wiki/Q4837943
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: dittman-lubos
 - person: francova-dana
 - person: moucka-jaroslav
+poster_tmdb_path: /5BQWQaRUzsCy6UySyUXJGaWfspO.jpg
+backdrop_tmdb_path: /gLIjCL52IGcKnyCq0rMFigf3nq.jpg

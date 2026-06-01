@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q109428646
   imdb: tt0034201
+  tmdb: 543105
 sources:
 - https://www.wikidata.org/wiki/Q109428646
 schema_version: 1
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /dYQC8VIsFieiOWZMUJx7nJz6gz1.jpg

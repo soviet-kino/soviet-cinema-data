@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q782262
   imdb: tt0079907
   youtube: 6P5Nf7xzXS0
+  tmdb: 68553
 sources:
 - https://www.wikidata.org/wiki/Q782262
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: adabashyan-aleksandr
 studio:
 - mosfilm
+poster_tmdb_path: /dxoZnyaqg3TBJhy4VbUkTXLcuyq.jpg
+backdrop_tmdb_path: /h8v2UpOaLGJZD62X3lPoVnPd233.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q65200633
   imdb: tt0268183
+  tmdb: 887399
 sources:
 - https://www.wikidata.org/wiki/Q65200633
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nosova-tamara-makarovna
 - person: ruslanova-nina-ivanovna
 - person: shapovalov-vitaliy-vladimirovich
+poster_tmdb_path: /oYE5UKt7YbUZh0L3fz2dHcHuTC4.jpg
+backdrop_tmdb_path: /bDBdBfcY8gTi4FN4Pj5iR0fVsjI.jpg

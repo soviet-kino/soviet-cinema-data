@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4114638
   imdb: tt0314858
   youtube: BEexS6oTdhQ
+  tmdb: 92527
 sources:
 - https://www.wikidata.org/wiki/Q4114638
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: basilashvili-oleg-valerianovich
 - person: vasileva-ekaterina-sergeevna
 - person: sanaev-vsevolod-vasilevich
+poster_tmdb_path: /hcvM1mY32p6Jse6U9c1TmYOo3GO.jpg
+backdrop_tmdb_path: /ftEfzv2RSZyMQQF6s60gadBkLld.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q12752223
   imdb: tt0199640
+  tmdb: 284471
 sources:
 - https://www.wikidata.org/wiki/Q12752223
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: mikhaylo-bata-paskalevich
 - person: saric-ratko
 - person: dzhurich-slobodan
+poster_tmdb_path: /ztXWram3Qa4hkxEVKZGg73d1qIa.jpg
+backdrop_tmdb_path: /wqOTPqbj6t1aOs2D763u0b3NQ3k.jpg

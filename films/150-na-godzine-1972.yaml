@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q9129074
   imdb: tt0068155
+  tmdb: 155321
 sources:
 - https://www.wikidata.org/wiki/Q9129074
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: s-awinski-marcin
 - person: fornal-adam
+poster_tmdb_path: /lodpTI0qrgMq9LIMAdcIRE5H7lQ.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5923598
   imdb: tt0170017
   youtube: HZrVCrEc0YM
+  tmdb: 264196
 sources:
 - https://www.wikidata.org/wiki/Q5923598
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: scharffova-tomanova-helena
 - person: mottl-bohumil
 - person: q131824951
+poster_tmdb_path: /kn6qHxwBRa5NNySgchWjrGjfrlb.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q3808245
   imdb: tt0091290
+  tmdb: 158326
 sources:
 - https://www.wikidata.org/wiki/Q3808245
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: pakulnis-mariya
 - person: novish-pavel
 - person: sas-uhrynowski-jacek
+poster_tmdb_path: /7AJHECjga8RjS2EEbndN84CDIOp.jpg
+backdrop_tmdb_path: /ggjOh74QfwE7CcaehwBVD69Wbj5.jpg

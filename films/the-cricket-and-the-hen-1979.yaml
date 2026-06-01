@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q57268259
   imdb: tt0372843
   youtube: HrHO8AIoKi8
+  tmdb: 1046249
 sources:
 - https://www.wikidata.org/wiki/Q57268259
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - vdr
 - kratky-film-praha
+poster_tmdb_path: /aOARC3bg3UenIqzQr7uHoEcNUfG.jpg

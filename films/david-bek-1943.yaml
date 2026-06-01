@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4153578
   imdb: tt0036747
+  tmdb: 283012
 sources:
 - https://www.wikidata.org/wiki/Q4153578
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: pogosyan-david
 studio:
 - armenfilm
+poster_tmdb_path: /zADWR7X81LtdYkX5eKMJlePVOkA.jpg

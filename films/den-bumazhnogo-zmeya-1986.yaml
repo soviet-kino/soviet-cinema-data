@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q20514089
   imdb: tt0307060
+  tmdb: 450229
 sources:
 - https://www.wikidata.org/wiki/Q20514089
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: markosyan-karl
 studio:
 - armenfilm
+poster_tmdb_path: /o2Rz1uS99Nq9LHugMND4OvsZony.jpg
+backdrop_tmdb_path: /dBmpsOBhtxjPOBcIA3kIVn9bUCa.jpg

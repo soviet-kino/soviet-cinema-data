@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q112835320
   imdb: tt0079741
+  tmdb: 395884
 sources:
 - https://www.wikidata.org/wiki/Q112835320
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: bogatyryov-yuriy-georgievich
 studio:
 - lenfilm
+poster_tmdb_path: /m0X9A5Qbnbd4JKOwIX1NrrlirJa.jpg

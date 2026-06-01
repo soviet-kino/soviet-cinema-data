@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108678483
   imdb: tt0091586
   youtube: QGfphRdnF5s
+  tmdb: 259271
 sources:
 - https://www.wikidata.org/wiki/Q108678483
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - surin-aleksandr-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /u3tQvNv5gs6Ls1YmnhVBMFVc1Rv.jpg
+backdrop_tmdb_path: /aTdYFLFBsyVblipmHrJdPtinvma.jpg

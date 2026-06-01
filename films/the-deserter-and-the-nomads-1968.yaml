@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q12779318
   imdb: tt0171940
+  tmdb: 149898
 sources:
 - https://www.wikidata.org/wiki/Q12779318
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: krepela-josef
 - person: sedlak-gejza
 poster_commons: Zbehovia a putnici poster.jpg
+poster_tmdb_path: /lazHDlPTxOFMxSmlT8r880mThdH.jpg
+backdrop_tmdb_path: /dzf3zvoDEAWz1QX2jHt1WmrqZXs.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12676731
   imdb: tt0251799
+  tmdb: 386026
 sources:
 - https://www.wikidata.org/wiki/Q12676731
 schema_version: 1
 director:
 - luksas-gytis
+poster_tmdb_path: /hz7Ksq8HqNrENoXFOshgOUhM8oS.jpg
+backdrop_tmdb_path: /gRvk4ybv6UUzmoDfoGx6copvaVU.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q15808640
   imdb: tt1356903
+  tmdb: 292675
 sources:
 - https://www.wikidata.org/wiki/Q15808640
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - khyorike-lotar
 composer:
 - khoenzee-volfgang
+poster_tmdb_path: /go9xhyRYwfaaWfbvl1LvJjoDJNw.jpg

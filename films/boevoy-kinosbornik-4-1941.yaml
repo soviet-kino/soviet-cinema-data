@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4090107
   imdb: tt0033418
+  tmdb: 1698304
 sources:
 - https://www.wikidata.org/wiki/Q4090107
 schema_version: 1
@@ -27,3 +28,4 @@ composer:
 - muradeli-vano-ilich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /t4BcqhE0aV04Ai5DJss4Nt1lJY5.jpg

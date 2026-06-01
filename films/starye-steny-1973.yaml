@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4440999
   imdb: tt0070729
+  tmdb: 474588
 sources:
 - https://www.wikidata.org/wiki/Q4440999
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: dzhigarkhanyan-armen-borisovich
 studio:
 - lenfilm
+poster_tmdb_path: /tzZbDCe3wLpl0lYOoewOeaJtFKE.jpg
+backdrop_tmdb_path: /vahhY2ZGwjqJZjguV0oZZyPPILA.jpg

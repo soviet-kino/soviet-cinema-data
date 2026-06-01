@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q11722516
   imdb: tt0032785
+  tmdb: 159111
 sources:
 - https://www.wikidata.org/wiki/Q11722516
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: vetesnikova-elsa
 - person: volny-antonin
 - person: kraus-josef-2
+poster_tmdb_path: /l4OWxiATy8lf5gBhjezxpgQfd8B.jpg
+backdrop_tmdb_path: /2OUuldsObZHORJjwhBSSOTW2GNm.jpg

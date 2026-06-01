@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60837778
   imdb: tt0151263
+  tmdb: 444587
 sources:
 - https://www.wikidata.org/wiki/Q60837778
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - shredel-vladimir-markovich
 studio:
 - lenfilm
+poster_tmdb_path: /oEkKQPz9IzlETec6Yr5JVYw7pOk.jpg
+backdrop_tmdb_path: /uuLfPKElJfjqZHiMNpYOhbosqxc.jpg

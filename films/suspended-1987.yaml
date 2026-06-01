@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9369580
   imdb: tt0094283
+  tmdb: 347524
 sources:
 - https://www.wikidata.org/wiki/Q9369580
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: ostrowicz-kazimierz
 - person: janowski-mieczys-aw
 - person: milviv-marlena
+poster_tmdb_path: /eLi9oVKljXDN7KoHWTVKsg9kZzg.jpg

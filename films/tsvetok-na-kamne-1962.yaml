@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1113313
   imdb: tt0056619
   youtube: 2wJ9MVvjuA0
+  tmdb: 150678
 sources:
 - https://www.wikidata.org/wiki/Q1113313
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: burduchenko-inna-georgievna
 - person: dmokhovskiy-boris-mikhaylovich
+poster_tmdb_path: /am9Hmi6WINF7630XQQ9TeyPermD.jpg
+backdrop_tmdb_path: /hft1AyIiZ8bpRYfBnFpZQbmCiRy.jpg

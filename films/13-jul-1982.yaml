@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q12744395
   imdb: tt0083507
+  tmdb: 371122
 sources:
 - https://www.wikidata.org/wiki/Q12744395
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: bacovic-marko
 - person: milo-miranovich
 - person: jaukovic-sonja
+poster_tmdb_path: /64dQbVvZltTSwcWhDIQuZv0lQxA.jpg
+backdrop_tmdb_path: /pEtkXVmy2dX6CTRfhKrZxubGhL5.jpg

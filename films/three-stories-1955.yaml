@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26239582
   imdb: tt0296250
+  tmdb: 476852
 sources:
 - https://www.wikidata.org/wiki/Q26239582
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: potokar-loyze
 - person: sever-stane
 - person: sotlar-bert
+poster_tmdb_path: /rrZYppxTJxS243YtxIFVipvJcRR.jpg

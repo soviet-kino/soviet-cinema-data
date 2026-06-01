@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791690
   imdb: tt0353726
+  tmdb: 501982
 sources:
 - https://www.wikidata.org/wiki/Q11791690
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - hoshafi-fehmi
 composer:
 - hoshafi-tasim
+poster_tmdb_path: /vJNUfyDC33FwoPDU4y8E9tQ0sr0.jpg
+backdrop_tmdb_path: /e9NMKd5EoiiwXe8fVlmrYxQc1A2.jpg

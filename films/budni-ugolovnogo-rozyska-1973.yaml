@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4098143
   imdb: tt0313322
   youtube: 3YyBI3oSpYE
+  tmdb: 127977
 sources:
 - https://www.wikidata.org/wiki/Q4098143
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: zaydenberg-boris-ilich
 - person: lebedev-nikolay-sergeevich
+poster_tmdb_path: /lFZkv9o9E3ShMxp4vDc5Mxx9Qo1.jpg
+backdrop_tmdb_path: /aLJRT9wEA15mCMY2LIy6ij2DTxs.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q97176681
   imdb: tt0208186
+  tmdb: 394719
 sources:
 - https://www.wikidata.org/wiki/Q97176681
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - yurizditskiy-sergey-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /jxOsl5MRLfwyZbAcQG2gitjHSFH.jpg

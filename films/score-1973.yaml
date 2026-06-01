@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q7435316
   imdb: tt0069236
+  tmdb: 53897
 sources:
 - https://www.wikidata.org/wiki/Q7435316
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kalver-kelvin
 - person: lauri-linn
 - person: wilbur-claire
+poster_tmdb_path: /nMBUxDaZ1xyhv8i53AKRXGLifCS.jpg
+backdrop_tmdb_path: /mpcFHHbocf66CodOmdHP3XhACnA.jpg

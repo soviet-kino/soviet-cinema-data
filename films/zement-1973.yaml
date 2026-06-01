@@ -8,6 +8,7 @@ runtime_min: 200
 external_ids:
   wikidata: Q26972888
   imdb: tt0495644
+  tmdb: 354600
 sources:
 - https://www.wikidata.org/wiki/Q26972888
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - dressel-roland
 composer:
 - fisher-gyunter
+poster_tmdb_path: /7Nf6MXDB6OjbTL2Kw6lYhbdT2go.jpg

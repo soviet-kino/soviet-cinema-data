@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q130747513
   imdb: tt0396249
+  tmdb: 939863
 sources:
 - https://www.wikidata.org/wiki/Q130747513
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: zapotocky-ladislav
 - person: ml-karel-sott
 - person: zatloukalova-yana
+poster_tmdb_path: /ocACnzk32nSSKnphw8wktHmQrvQ.jpg

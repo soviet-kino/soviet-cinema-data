@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q60218730
   imdb: tt0205374
+  tmdb: 1034424
 sources:
 - https://www.wikidata.org/wiki/Q60218730
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: passyor-rene
 studio:
 - gaumont
+poster_tmdb_path: /psmhU9suLH3Glo10MeQ0HCi5xhQ.jpg

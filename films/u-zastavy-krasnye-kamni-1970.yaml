@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65250670
   imdb: tt3324562
+  tmdb: 838893
 sources:
 - https://www.wikidata.org/wiki/Q65250670
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - zatsepin-aleksandr
 studio:
 - kazakhfilm
+poster_tmdb_path: /sDaGRijSXxxRrtD4EzeKQHvdPqh.jpg

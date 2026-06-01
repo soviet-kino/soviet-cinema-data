@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12744131
   imdb: tt0094406
+  tmdb: 624110
 sources:
 - https://www.wikidata.org/wiki/Q12744131
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: karanfil-nae
 - person: maresh-teodora
 - person: popesku-stela
+poster_tmdb_path: /pUf3qPgVYVl9Trxty3Fp8ayE9HP.jpg

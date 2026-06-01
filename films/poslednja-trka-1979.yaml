@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757644
   imdb: tt0180923
+  tmdb: 283441
 sources:
 - https://www.wikidata.org/wiki/Q12757644
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: babic-mirko
 - person: vladan-zhivkovich
 - person: nadezhda-vukichevich
+poster_tmdb_path: /kExpTNGwmglpVvIet3304GANeHu.jpg
+backdrop_tmdb_path: /7qVqNr1tbJ0EfkmgaSGSjSc84Jl.jpg

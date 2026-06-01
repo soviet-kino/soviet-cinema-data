@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123570868
   imdb: tt0034696
+  tmdb: 688332
 sources:
 - https://www.wikidata.org/wiki/Q123570868
 schema_version: 1
 director:
 - kelmar-laslo
+poster_tmdb_path: /5HRiKg9UKDob5YxIsfY6DmfTcap.jpg

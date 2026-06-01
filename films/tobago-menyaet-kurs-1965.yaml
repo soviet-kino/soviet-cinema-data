@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3817474
   imdb: tt0218668
+  tmdb: 239731
 sources:
 - https://www.wikidata.org/wiki/Q3817474
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: sebris-karlis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /9QQ2COM0Tnen0vczsRgVWCpeVe9.jpg

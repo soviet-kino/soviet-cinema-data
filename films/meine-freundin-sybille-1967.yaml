@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q592328
   imdb: tt0061964
+  tmdb: 276743
 sources:
 - https://www.wikidata.org/wiki/Q592328
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: lirk-verner
 - person: luderer-wolfgang
 - person: riger-khanna
+poster_tmdb_path: /hxrOeJyAODa9oQyRwyBXIjqYrev.jpg

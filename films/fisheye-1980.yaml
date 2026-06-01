@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q104835642
   imdb: tt0262732
+  tmdb: 282391
 sources:
 - https://www.wikidata.org/wiki/Q104835642
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - tomislav-simovich
 studio:
 - zagreb-film
+poster_tmdb_path: /e5z20ARlsR6twqYrDeZH78UCnkD.jpg
+backdrop_tmdb_path: /3C55tD7mhojozawtuwXObZCJGTf.jpg

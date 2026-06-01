@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q6796500
   imdb: tt0150008
+  tmdb: 690012
 sources:
 - https://www.wikidata.org/wiki/Q6796500
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: kemlinkova-milada
 - person: nikodem-radim
 - person: dvorsky-vladimir
+poster_tmdb_path: /tkXqmVP5Ohj7f8pF8kdfj51JKUS.jpg

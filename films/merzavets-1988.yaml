@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2079913
   imdb: tt0307152
   youtube: zkfAy7DUT3o
+  tmdb: 279397
 sources:
 - https://www.wikidata.org/wiki/Q2079913
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: borodina-larisa-mikhaylovna
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /q3zgzqxnFch9Ajw7jLc722wDM74.jpg
+backdrop_tmdb_path: /z51RQhrz3efPHzn0mkjTWnB9xsS.jpg

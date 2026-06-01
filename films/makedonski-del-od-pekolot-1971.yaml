@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12285669
   imdb: tt0172762
+  tmdb: 352785
 sources:
 - https://www.wikidata.org/wiki/Q12285669
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: vuisich-pavle
 - person: prlichko-petr
 - person: angelovski-kole
+poster_tmdb_path: /21m8OBIfWqFiE6F39coCLr5aC4C.jpg
+backdrop_tmdb_path: /73iWfr7J4zzkWVSS6ioOVOrgzsS.jpg

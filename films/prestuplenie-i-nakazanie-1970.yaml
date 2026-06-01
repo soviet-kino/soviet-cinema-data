@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1978763
   imdb: tt0064839
   youtube: gntg3oEx5ks
+  tmdb: 69631
 sources:
 - https://www.wikidata.org/wiki/Q1978763
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: taratorkin-georgiy-georgievich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9OD1NNGIKQQpmuwW6djr2WIW5bO.jpg
+backdrop_tmdb_path: /bOSnj6nVi8E1629IUEoC6sJbCQK.jpg

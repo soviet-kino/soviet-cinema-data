@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q110457431
   imdb: tt0170714
+  tmdb: 618661
 sources:
 - https://www.wikidata.org/wiki/Q110457431
 schema_version: 1
@@ -86,3 +87,4 @@ cast:
 - person: vondracek-ladislav
 - person: smejkal-frantisek
 - person: kysilka-jiri
+poster_tmdb_path: /oZJ5f03MQ8Z5DvElG0EDWcNEE3O.jpg

@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q12039064
   imdb: tt0204492
+  tmdb: 392640
 sources:
 - https://www.wikidata.org/wiki/Q12039064
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: prokopova-dagmar
 - person: matejkova-eva
 - person: farkas-andre
+poster_tmdb_path: /bF9mZbTUkiUZveDVUfuAFRZaVvZ.jpg

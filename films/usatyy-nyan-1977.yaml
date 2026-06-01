@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4477617
   imdb: tt0171869
   youtube: NYNWqVtnZH8
+  tmdb: 63584
 sources:
 - https://www.wikidata.org/wiki/Q4477617
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: shagalova-lyudmila-aleksandrovna
 - person: prokhanov-sergey-borisovich
 - person: uvarova-elizaveta
+poster_tmdb_path: /uvYYYn556KE97zu088Ysqrd6ugm.jpg
+backdrop_tmdb_path: /4BaVxutazPYto0uPMyfOdUBZDgX.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q7257472
   imdb: tt0169200
+  tmdb: 591651
 sources:
 - https://www.wikidata.org/wiki/Q7257472
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: hofman-luigi
 - person: holakovska-slavka
 - person: ferry-nora
+poster_tmdb_path: /wi1r2x1LZNX0VH16BU2lDcNnjKL.jpg

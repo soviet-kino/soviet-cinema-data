@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q24945294
   imdb: tt2614420
+  tmdb: 489884
 sources:
 - https://www.wikidata.org/wiki/Q24945294
 schema_version: 1
 director:
 - gantkowski-romuald
+poster_tmdb_path: /2RygbWE8uENbxxpwyJe7CHYl9Rk.jpg

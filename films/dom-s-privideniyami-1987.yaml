@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4165584
   imdb: tt0296595
   youtube: 1irI40e9FoM
+  tmdb: 864775
 sources:
 - https://www.wikidata.org/wiki/Q4165584
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - berinskiy-sergey-samuilovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mPvAHARd3ePjC6eEQKPmRtmQEKm.jpg
+backdrop_tmdb_path: /2efkebWMaf9jgzUqqDW0PK8gUPj.jpg

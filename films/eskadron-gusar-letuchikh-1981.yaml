@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4532706
   imdb: tt0174627
   youtube: QvVikiCPVAw
+  tmdb: 86362
 sources:
 - https://www.wikidata.org/wiki/Q4532706
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: krasko-ivan-ivanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mLG9ig3Xg7190Poa0Q6wRtadfS6.jpg
+backdrop_tmdb_path: /iYfCrUhenLApEHv6hipP9CRvZCH.jpg

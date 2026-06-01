@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9353968
   imdb: tt0096210
+  tmdb: 463332
 sources:
 - https://www.wikidata.org/wiki/Q9353968
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: merle-zofya
 - person: macha-a-krzeminska-bernadetta
 - person: goshtila-kshishtof
+poster_tmdb_path: /fsolesCIorqErtz4usNLo5PDILs.jpg
+backdrop_tmdb_path: /dFzXUygkd9gWI4MGO9KLGnBsA3b.jpg

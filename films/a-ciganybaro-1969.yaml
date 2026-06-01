@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q112633641
   imdb: tt5672158
+  tmdb: 469929
 sources:
 - https://www.wikidata.org/wiki/Q112633641
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - miko-andras
 studio:
 - vengerskoe-televidenie
+poster_tmdb_path: /4WWbe90pSYM2a8bBpibAcFMVPrE.jpg

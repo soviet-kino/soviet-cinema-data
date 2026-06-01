@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20091840
   imdb: tt9272834
+  tmdb: 439709
 sources:
 - https://www.wikidata.org/wiki/Q20091840
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - goncharov-vladimir-maksimovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /km3fI7t866txrLuf8aa1IM9w3gY.jpg

@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q97197876
   imdb: tt0164044
+  tmdb: 762121
 sources:
 - https://www.wikidata.org/wiki/Q97197876
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: antoniu-kristashe
 - person: dugan-iva
 - person: giurescu-sultana
+poster_tmdb_path: /jh8osltkeZ5Tk88jyUghVMwAl9C.jpg

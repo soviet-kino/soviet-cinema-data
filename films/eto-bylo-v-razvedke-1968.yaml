@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4533087
   imdb: tt0314036
   youtube: Uxat6DraqZI
+  tmdb: 642614
 sources:
 - https://www.wikidata.org/wiki/Q4533087
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: grammatikov-vladimir-aleksandrovich
+poster_tmdb_path: /virWbmEluIcNwqFWiZKoIcqdPlJ.jpg

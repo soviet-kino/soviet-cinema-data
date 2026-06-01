@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12112168
   imdb: tt0174823
+  tmdb: 390807
 sources:
 - https://www.wikidata.org/wiki/Q12112168
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - karabits-ivan-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /5E1chuPygWbNzOPlQcqKqffKvuR.jpg
+backdrop_tmdb_path: /ue36oN8ABUtwDA7SHbihVeGoc62.jpg

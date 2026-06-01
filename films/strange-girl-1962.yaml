@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q12761246
   imdb: tt0176626
+  tmdb: 265549
 sources:
 - https://www.wikidata.org/wiki/Q12761246
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: mirich-voyya
 - person: branimir-tori-yankovich
 - person: vuysich-dushan
+poster_tmdb_path: /4J81bhikogGQdIBiEuAm9VbAWbS.jpg
+backdrop_tmdb_path: /6gxXx1IGJ184ZOZllDBJY3Xu3kE.jpg

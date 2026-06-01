@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q3944265
   imdb: tt0064908
+  tmdb: 389185
 sources:
 - https://www.wikidata.org/wiki/Q3944265
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ezhi-matushkevich
 cast:
 - person: valchevskiy-marek
+poster_tmdb_path: /aKqExhSaKP0ijtFzUf0LdymuFCC.jpg

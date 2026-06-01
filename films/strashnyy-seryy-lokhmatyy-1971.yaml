@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16514674
   imdb: tt9120684
   youtube: 3oc-H6Com_o
+  tmdb: 343586
 sources:
 - https://www.wikidata.org/wiki/Q16514674
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - buevskiy-boris-nikolaevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /cDgGy6WjIOegsI2jD9aNlZf8Cc6.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12036487
   imdb: tt0067424
+  tmdb: 245214
 sources:
 - https://www.wikidata.org/wiki/Q12036487
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: jurasova-alena
 - person: nocarova-marie
 - person: chlupova-marcela
+poster_tmdb_path: /oIscJMnZIjeNfHx4Hw8YKgDkxR7.jpg
+backdrop_tmdb_path: /6Llsk2UjFBlGoIKNXP3fSfPqZ5k.jpg

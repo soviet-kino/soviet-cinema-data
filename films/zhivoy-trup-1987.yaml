@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4179882
   imdb: tt5289800
+  tmdb: 1573959
 sources:
 - https://www.wikidata.org/wiki/Q4179882
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: kartasheva-irina-pavlovna
 - person: markov-leonid-vasilevich
 - person: taratorkin-georgiy-georgievich
+poster_tmdb_path: /kZIRcouagBBR1YItqNABWYgwhfs.jpg

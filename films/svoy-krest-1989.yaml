@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84157925
   imdb: tt5746352
   youtube: hcCYuECrvEE
+  tmdb: 579525
 sources:
 - https://www.wikidata.org/wiki/Q84157925
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - mosfilm
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /udfvoFJibFeCgxaee1a79CixnWL.jpg
+backdrop_tmdb_path: /6HuwKZDTfK7DHz4t0bokxnXaHYC.jpg

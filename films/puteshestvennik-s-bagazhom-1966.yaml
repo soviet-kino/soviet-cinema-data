@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4384244
   imdb: tt0170477
   youtube: JjM5XGRKtQo
+  tmdb: 587524
 sources:
 - https://www.wikidata.org/wiki/Q4384244
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: khityaeva-lyudmila-ivanovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /iRNHhBzuaBS8hzlgAtAj6ksyhM3.jpg

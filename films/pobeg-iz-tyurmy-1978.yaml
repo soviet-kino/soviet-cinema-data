@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q85864690
   imdb: tt4876746
   youtube: f5lyRSFVNPw
+  tmdb: 536463
 sources:
 - https://www.wikidata.org/wiki/Q85864690
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kataev-ilya-evgenevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /uPsmdD8ZkkJRKvd0bs5pIaOgdy2.jpg

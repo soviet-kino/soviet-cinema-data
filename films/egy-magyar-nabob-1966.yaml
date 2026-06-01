@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q987995
   imdb: tt0060652
+  tmdb: 79261
 sources:
 - https://www.wikidata.org/wiki/Q987995
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - khildebrand-ishtvan
 composer:
 - farkash-ferents
+poster_tmdb_path: /IILj5RbNNR7cQwpg368Tola4hK.jpg
+backdrop_tmdb_path: /IXa0xE9B8GOyGrYs5nXs5OB13y.jpg

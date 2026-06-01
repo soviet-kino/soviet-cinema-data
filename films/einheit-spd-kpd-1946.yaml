@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q5349752
   imdb: tt0447012
+  tmdb: 439105
 sources:
 - https://www.wikidata.org/wiki/Q5349752
 schema_version: 1
@@ -24,3 +25,5 @@ cinematographer:
 - huisken-joop
 - schlawe-curt
 - bremer-garri
+poster_tmdb_path: /bZfKIj1HtBcLmNLk0Zwd1IXP7K5.jpg
+backdrop_tmdb_path: /pWcyNXybdnUL0WIF3Xcpc8C8T3O.jpg

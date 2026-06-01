@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11838482
   imdb: tt0055642
+  tmdb: 703730
 sources:
 - https://www.wikidata.org/wiki/Q11838482
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - tshaskovskiy-andzhey
 cast:
 - person: krzyzewska-ewa
+poster_tmdb_path: /2vKwjBGC0UK4zYkaUrGs6OYFlb2.jpg

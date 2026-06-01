@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q119957670
   imdb: tt0231058
+  tmdb: 399563
 sources:
 - https://www.wikidata.org/wiki/Q119957670
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: bysicka-sylva
 - person: cech-jan
 - person: wurser-pavel
+poster_tmdb_path: /5uK6g75ahKmrUN4tSg6yrnKooxo.jpg

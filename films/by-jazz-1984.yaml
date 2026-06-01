@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9182848
   imdb: tt0082124
+  tmdb: 455882
 sources:
 - https://www.wikidata.org/wiki/Q9182848
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - sobotsinskiy-vitold
 cast:
 - person: adamek-bozhena
+poster_tmdb_path: /yIQk8D4tAcatZLUflaOVl0lvv5T.jpg

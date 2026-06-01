@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9335074
   imdb: tt0069244
+  tmdb: 871914
 sources:
 - https://www.wikidata.org/wiki/Q9335074
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - stsibor-rylskiy-aleksandr
 composer:
 - radvan-stanislav
+poster_tmdb_path: /8f2KSu5lj4aJVOwLHAbSVhrW1c4.jpg

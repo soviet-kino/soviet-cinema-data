@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12761236
   imdb: tt0181420
+  tmdb: 330319
 sources:
 - https://www.wikidata.org/wiki/Q12761236
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: ceramilac-predrag
 - person: tomich-milivo-e
 - person: pavicevic-bozidar
+poster_tmdb_path: /aadCSXPUjKD19o3gH9y90Nuycmo.jpg
+backdrop_tmdb_path: /xD7HH17h2B1rAmHowDuCaloqpiT.jpg

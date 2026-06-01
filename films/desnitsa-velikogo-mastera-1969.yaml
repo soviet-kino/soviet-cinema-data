@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4159206
   imdb: tt0274463
+  tmdb: 1202016
 sources:
 - https://www.wikidata.org/wiki/Q4159206
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: megvinetukhutsesi-otar-vakhtangovich
 - person: takaishvili-sesil
 - person: tokhadze-givi-maksimovich
+poster_tmdb_path: /iEo06prxKyqGjfzLK8BIzExonfB.jpg
+backdrop_tmdb_path: /vLnpWnDrL7Rgd5Lr9HuiNbZ0bVA.jpg

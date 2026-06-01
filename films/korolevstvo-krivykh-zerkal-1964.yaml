@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q194941
   imdb: tt0145033
   youtube: bWvdNYJfxHM
+  tmdb: 20891
 sources:
 - https://www.wikidata.org/wiki/Q194941
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: nosova-tamara-makarovna
 - person: khvylya-aleksandr-leopoldovich
 - person: yukiny-syostry
+poster_tmdb_path: /pMgXSlo6zXWN5S9JO12w7iBbUC5.jpg
+backdrop_tmdb_path: /b17zzeUVfAXav3izCTAWYvki0Z.jpg

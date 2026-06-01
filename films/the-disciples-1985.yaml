@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21831168
   imdb: tt0090128
+  tmdb: 343456
 sources:
 - https://www.wikidata.org/wiki/Q21831168
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - kardos-shandor
 composer:
 - darvash-ferents
+poster_tmdb_path: /i6717Y7nJqowcOEkCkUHk1q8myf.jpg

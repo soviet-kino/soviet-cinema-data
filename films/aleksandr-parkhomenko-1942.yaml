@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4060950
   imdb: tt0034443
   youtube: SrwI0_TZkio
+  tmdb: 278308
 sources:
 - https://www.wikidata.org/wiki/Q4060950
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 - uzbekfilm
+poster_tmdb_path: /iOi6Xa568Ab2YaGlHhZYczy4fNh.jpg
+backdrop_tmdb_path: /mbulsvjfsFfbSnaAQyMW7wCv4Hp.jpg

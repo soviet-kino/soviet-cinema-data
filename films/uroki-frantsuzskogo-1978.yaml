@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4477241
   imdb: tt0175286
   youtube: GMlQpHDfp-Y
+  tmdb: 87643
 sources:
 - https://www.wikidata.org/wiki/Q4477241
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: talyzina-valentina
 - person: tashkova-tatyana-aleksandrovna
 - person: yatskina-galina-ivanovna
+poster_tmdb_path: /7kM91HpEDm6fgh4otYfeRfGFOqy.jpg
+backdrop_tmdb_path: /cYezKNmQPqAXczUWoAbMtNiK5mS.jpg

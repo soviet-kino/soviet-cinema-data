@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4462824
   imdb: tt1714911
   youtube: 4JKrTShoVbo
+  tmdb: 279883
 sources:
 - https://www.wikidata.org/wiki/Q4462824
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: papanova-elena-anatolevna
 studio:
 - belarusfilm
+poster_tmdb_path: /gSrXenxCUYQvzswJ9gDYndbnBSe.jpg
+backdrop_tmdb_path: /sHbb41ZjV1gQphGmrTcGiCaJi3y.jpg

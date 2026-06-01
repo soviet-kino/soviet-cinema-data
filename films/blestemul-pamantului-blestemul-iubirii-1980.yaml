@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12730776
   imdb: tt0078876
+  tmdb: 51805
 sources:
 - https://www.wikidata.org/wiki/Q12730776
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: ionesku-serban
 - person: krachinesku-ioana
+poster_tmdb_path: /vq2h74z1HUZKSJLJojv4lnc7KYx.jpg
+backdrop_tmdb_path: /2r4qNWLuSk0NxkwObkcdErtQpvt.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7214870
   imdb: tt0969283
+  tmdb: 284792
 sources:
 - https://www.wikidata.org/wiki/Q7214870
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 cast:
 - person: gotlib-khelena
 poster_commons: Jonas Turkow 4.jpg
+poster_tmdb_path: /ArcSMtSTLn9THprCZYcLCazKerC.jpg

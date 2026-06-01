@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12752185
   imdb: tt0084115
+  tmdb: 387642
 sources:
 - https://www.wikidata.org/wiki/Q12752185
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: bikhali-melita
 - person: milo-miranovich
 - person: jaukovic-sonja
+poster_tmdb_path: /qQk7UxeR4bYFZbYQirVWpULtcth.jpg
+backdrop_tmdb_path: /sA2acrMj6YqEMaY38uWVMGS5jnX.jpg

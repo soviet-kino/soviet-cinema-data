@@ -8,6 +8,7 @@ runtime_min: 209
 external_ids:
   wikidata: Q4458827
   imdb: tt0058665
+  tmdb: 641316
 sources:
 - https://www.wikidata.org/wiki/Q4458827
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: konyaev-vitaliy-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /3pe1qWFEHZpGhhRNtEqRAElKjIL.jpg
+backdrop_tmdb_path: /KsJQ6NBrENNIGWXQIrDYBnNzYQ.jpg

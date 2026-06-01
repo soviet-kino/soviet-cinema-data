@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4202341
   imdb: tt0170487
+  tmdb: 399759
 sources:
 - https://www.wikidata.org/wiki/Q4202341
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: shengelaya-georgiy-nikolaevich
 - person: khorava-akakiy-alekseevich
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /5wqjqmTk5LVGSpIwvfnRU2kfJt2.jpg
+backdrop_tmdb_path: /fpRirL5ulpDXKE7R5UU9AxUu1Yo.jpg

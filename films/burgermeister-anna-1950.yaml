@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q388521
   imdb: tt0042292
+  tmdb: 288723
 sources:
 - https://www.wikidata.org/wiki/Q388521
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pyuttyer-gustav
 - person: moyk-luts
 - person: spira-steffie
+poster_tmdb_path: /eupyCGlUXh49URGD8eFDxslIlnJ.jpg

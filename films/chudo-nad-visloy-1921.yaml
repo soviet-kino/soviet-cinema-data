@@ -8,6 +8,7 @@ runtime_min: 51
 external_ids:
   wikidata: Q11691715
   imdb: tt0924216
+  tmdb: 155867
 sources:
 - https://www.wikidata.org/wiki/Q11691715
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - gniazdowski-zbigniew
 cast:
 - person: smosarskaya-yadviga
+poster_tmdb_path: /qDHeJyWQbbx5UFRXR5Yf1KoowpZ.jpg

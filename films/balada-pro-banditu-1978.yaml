@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4849774
   imdb: tt0077203
+  tmdb: 75521
 sources:
 - https://www.wikidata.org/wiki/Q4849774
 schema_version: 1
@@ -84,3 +85,5 @@ cast:
 - person: schonova-pavla
 - person: karasova-blazena
 - person: zajic-vaclav
+poster_tmdb_path: /dqw3j4auSfeNCu1Zz7CO4r51ACo.jpg
+backdrop_tmdb_path: /mnn1eAhXVerbt5iyMGefcqr7Zb1.jpg

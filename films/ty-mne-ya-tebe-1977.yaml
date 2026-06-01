@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4466964
   imdb: tt0075360
   youtube: GpRwjWEvizQ
+  tmdb: 279539
 sources:
 - https://www.wikidata.org/wiki/Q4466964
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: nosik-valeriy-benediktovich
 - person: rutberg-ilya-grigorevich
 - person: shutov-evgeniy-efimovich
+poster_tmdb_path: /xy1PkmBpbEqL9vWTRfbLpqqmHy1.jpg
+backdrop_tmdb_path: /waQd7UDDjgdHbqhU8zLGd7FK5th.jpg

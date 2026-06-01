@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44869857
   imdb: tt0125960
+  tmdb: 542301
 sources:
 - https://www.wikidata.org/wiki/Q44869857
 schema_version: 1
 director:
 - markus-manole
+poster_tmdb_path: /nooG4e44TCq1ctThGzbsJxblEcF.jpg

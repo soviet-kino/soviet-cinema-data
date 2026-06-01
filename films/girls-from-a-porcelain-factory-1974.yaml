@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q110229295
   imdb: tt0167195
+  tmdb: 247076
 sources:
 - https://www.wikidata.org/wiki/Q110229295
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: sebestova-juklova-jelena
 - person: dindelova-edita
 - person: svoboda-ludek
+poster_tmdb_path: /7Wgq1sisoggazuoGtUCa89MLTY8.jpg
+backdrop_tmdb_path: /yzQA7TqtjL3UbmKJWyXFQyANbeD.jpg

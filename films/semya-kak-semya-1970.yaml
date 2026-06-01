@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q123997664
   imdb: tt5947606
   youtube: yRg_fSFhu5g
+  tmdb: 923374
 sources:
 - https://www.wikidata.org/wiki/Q123997664
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - agafonnikov-vladislav-germanovich
 studio:
 - ekran
+poster_tmdb_path: /n2H9qanPWPlScDvxhBRFDOXpLYm.jpg
+backdrop_tmdb_path: /71jvU8Qg8RM1irqyN4Fi1z3QoIb.jpg

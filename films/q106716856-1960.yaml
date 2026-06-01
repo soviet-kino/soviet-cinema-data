@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q106716856
   imdb: tt0054336
+  tmdb: 411321
 sources:
 - https://www.wikidata.org/wiki/Q106716856
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - kirsten-ralf
 cinematographer:
 - veber-kurt
+poster_tmdb_path: /96DVQWvWVqinGn0tZKXxliitpZB.jpg

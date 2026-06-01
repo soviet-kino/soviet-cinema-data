@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4426635
   imdb: tt0123277
   youtube: wlzUJVMvnuQ
+  tmdb: 27923
 sources:
 - https://www.wikidata.org/wiki/Q4426635
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: basov-vladimir-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /sGgBJacXv23HucoY75p4rjq7Dwm.jpg
+backdrop_tmdb_path: /gtcPJvYKZaEGjSgbsmBewzYhz6s.jpg

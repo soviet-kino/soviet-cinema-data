@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4228995
   imdb: tt0237381
+  tmdb: 396932
 sources:
 - https://www.wikidata.org/wiki/Q4228995
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: korolkov-gennadiy-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /qgyGedRzFmgT0RyfrXwUDBS5KmJ.jpg
+backdrop_tmdb_path: /dYAry27IHhWCcD7rCUJR1kmQpc1.jpg

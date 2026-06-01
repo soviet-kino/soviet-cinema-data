@@ -8,6 +8,7 @@ runtime_min: 122
 external_ids:
   wikidata: Q3204769
   imdb: tt0083151
+  tmdb: 128043
 sources:
 - https://www.wikidata.org/wiki/Q3204769
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - tarr-bela
 screenwriter:
 - tarr-bela
+poster_tmdb_path: /4yPL3DostbA2GLrUvOyqPEL9jv4.jpg
+backdrop_tmdb_path: /8gYmBywTjen4W4lKGAlFe3YaZjL.jpg

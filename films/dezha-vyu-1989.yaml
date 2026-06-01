@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1972779
   imdb: tt0097253
   youtube: wTCEvkrJpx8
+  tmdb: 72955
 sources:
 - https://www.wikidata.org/wiki/Q1972779
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: aleksandrov-vadim-aleksandrovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /4w8GF9DGYQDGFUzgjtyMnubNnhi.jpg
+backdrop_tmdb_path: /rSK9U2acisLsqMpiabzZspcH93D.jpg

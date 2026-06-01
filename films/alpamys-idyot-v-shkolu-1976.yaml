@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3513704
   imdb: tt0318976
   youtube: TWQfr3h9cLo
+  tmdb: 400546
 sources:
 - https://www.wikidata.org/wiki/Q3513704
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - tlendiev-nurgisa-atabaevich
 studio:
 - kazakhfilm
+poster_tmdb_path: /qLxu5Lx5MNWSgZJFMLImX2e3hdJ.jpg
+backdrop_tmdb_path: /bmwfwOEhxT5sPYA5DF8p1LuFYws.jpg

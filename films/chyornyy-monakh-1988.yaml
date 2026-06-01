@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q28054400
   imdb: tt0092754
+  tmdb: 204108
 sources:
 - https://www.wikidata.org/wiki/Q28054400
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: fomenko-pyotr-naumovich
 studio:
 - mosfilm
+poster_tmdb_path: /vkbIs7VRnykfwChzYMnptnz4nYQ.jpg
+backdrop_tmdb_path: /eFLR5pNUeBfaZkC6I3MIV9GnKwo.jpg

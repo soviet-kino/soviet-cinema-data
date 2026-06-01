@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4088134
   imdb: tt0315843
   youtube: MLvB2aSseVk
+  tmdb: 677645
 sources:
 - https://www.wikidata.org/wiki/Q4088134
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kashpur-vladimir-terentevich
 - person: smolyakov-andrey-igorevich
 - person: savkin-ivan-ivanovich
+poster_tmdb_path: /g9O0YvF3wNeUxlhWhjjWRJGJoqI.jpg
+backdrop_tmdb_path: /grtUf7XFpiDrfgKSanlpsYdP447.jpg

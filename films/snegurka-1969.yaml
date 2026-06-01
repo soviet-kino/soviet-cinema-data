@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q21394051
   imdb: tt5898006
+  tmdb: 144603
 sources:
 - https://www.wikidata.org/wiki/Q21394051
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - agafonnikov-vladislav-germanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /tJwWgLjG3jIImYFIdXjfSmVBEmo.jpg
+backdrop_tmdb_path: /dgi69Ktf0JsiKX4lHtT3uQ4Q5sC.jpg

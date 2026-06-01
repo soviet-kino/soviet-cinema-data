@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q5261179
   imdb: tt0172738
+  tmdb: 310939
 sources:
 - https://www.wikidata.org/wiki/Q5261179
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - azriel-andre
 cast:
 - person: geshonnek-ervin
+poster_tmdb_path: /dir0vfSpDla0edbJ97iBpIPhblp.jpg

@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q4074601
   imdb: tt0265059
+  tmdb: 506256
 sources:
 - https://www.wikidata.org/wiki/Q4074601
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: tarasova-alla-konstantinovna
 studio:
 - mosfilm
+poster_tmdb_path: /7FfBJs5uzety1dz8Zg1oUE0vo2T.jpg
+backdrop_tmdb_path: /3gdnEhyKstgKD8PCQIKwR0o8iIp.jpg

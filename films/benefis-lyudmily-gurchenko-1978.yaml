@@ -8,6 +8,7 @@ runtime_min: 147
 external_ids:
   wikidata: Q4083768
   imdb: tt8228384
+  tmdb: 511489
 sources:
 - https://www.wikidata.org/wiki/Q4083768
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: dzhigarkhanyan-armen-borisovich
 - person: liepa-maris-rudolf-eduardovich
 - person: shirvindt-aleksandr-anatolevich
+poster_tmdb_path: /904lSDCe1pUAX5mtrnTL1JRSKDV.jpg

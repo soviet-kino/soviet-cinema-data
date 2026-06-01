@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7732399
   imdb: tt0231598
+  tmdb: 441049
 sources:
 - https://www.wikidata.org/wiki/Q7732399
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: zonnenberg-gyunter
 studio:
 - defa
+poster_tmdb_path: /zL5M3lNaoysbIsIoVttT3ZLRheE.jpg

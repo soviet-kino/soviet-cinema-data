@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4331015
   imdb: tt0081267
   youtube: 4gb8JjPfMLE
+  tmdb: 254309
 sources:
 - https://www.wikidata.org/wiki/Q4331015
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: lanovoy-vasiliy-semyonovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /pMSwGAjw0jg5gdNVcNHpdSwCPhB.jpg
+backdrop_tmdb_path: /k0svrQpXVWrkOWEEzZtsQfHKB0O.jpg

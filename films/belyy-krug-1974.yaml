@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q116864920
   imdb: tt4820794
+  tmdb: 1128937
 sources:
 - https://www.wikidata.org/wiki/Q116864920
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: molganov-stanislav-davydovich
 - person: shakalo-vladimir-petrovich
 - person: yaremchuk-lidiya-grigorevna
+poster_tmdb_path: /jdelhjngm5vf1Vz9xNMUjjCAFFJ.jpg

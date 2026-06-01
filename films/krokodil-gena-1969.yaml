@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q1965370
   imdb: tt0146970
+  tmdb: 79701
 sources:
 - https://www.wikidata.org/wiki/Q1965370
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - soyuzmultfilm
 poster_commons: The Soviet Union 1988 CPA 5917 stamp (Gena the Crocodile. Cheburashka.
   Shapoklyak).jpg
+poster_tmdb_path: /kw6UmmvqYnaPIdw24WoD83Akfod.jpg
+backdrop_tmdb_path: /dcSX8eyKOnT3PUDi3tZFHejZmtr.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5005551
   imdb: tt0027340
+  tmdb: 748181
 sources:
 - https://www.wikidata.org/wiki/Q5005551
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: zhabchinskiy-aleksandr-bozhidar
 - person: wajda-kazimierz
 poster_commons: Wajda, Sielański, Vogelfanger.jpg
+poster_tmdb_path: /azmMFMquVMrCWVU46bGi3KlKOyX.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q18713029
   imdb: tt0166587
+  tmdb: 571148
 sources:
 - https://www.wikidata.org/wiki/Q18713029
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: rosenkranzova-kamila
 - person: sirotek-miroslav
 - person: benes-rudolf
+poster_tmdb_path: /g2wDf2z74xQy38IXUhhv3b7hX6Z.jpg
+backdrop_tmdb_path: /yZdslSYwGlg2dkoB4jxEdZE6Mph.jpg

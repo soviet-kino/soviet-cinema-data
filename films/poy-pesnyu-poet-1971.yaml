@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21148917
   imdb: tt0194382
   youtube: 1Nm1fawwV4s
+  tmdb: 272647
 sources:
 - https://www.wikidata.org/wiki/Q21148917
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nikonenko-sergey
 studio:
 - mosfilm
+poster_tmdb_path: /wNVZeIFDKkEzp2Wmzk5co24RJ8D.jpg
+backdrop_tmdb_path: /rxx7gOgaue8E6vxW8Xsw9mUATYB.jpg

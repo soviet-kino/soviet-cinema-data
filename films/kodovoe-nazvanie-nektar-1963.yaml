@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q11748574
   imdb: tt0057234
+  tmdb: 691688
 sources:
 - https://www.wikidata.org/wiki/Q11748574
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: kobelya-bogumil
+poster_tmdb_path: /lUJrTh7RmtNq8anE5kpEdRCRpiz.jpg
+backdrop_tmdb_path: /3IlkYwqIdinidYuz8tCoa3KrYLQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4449771
   imdb: tt0262032
+  tmdb: 689605
 sources:
 - https://www.wikidata.org/wiki/Q4449771
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: lazarev-aleksandr-sergeevich
 studio:
 - moldova-film
+poster_tmdb_path: /yjm35c5nbGYcs7GkOX1iDUzI0c3.jpg
+backdrop_tmdb_path: /qndJVeHg35PYm0kIBedUtupZEy1.jpg

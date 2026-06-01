@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12057687
   imdb: tt0892364
+  tmdb: 592118
 sources:
 - https://www.wikidata.org/wiki/Q12057687
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: ruzicka-vladimir
 - person: haller-frantisek
 - person: vildova-marie
+poster_tmdb_path: /w2mXWpEsEPrLKLYoBktJWZtEwww.jpg

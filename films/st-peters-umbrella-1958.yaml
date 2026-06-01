@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1296680
   imdb: tt0052263
+  tmdb: 164953
 sources:
 - https://www.wikidata.org/wiki/Q1296680
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: q132051815
 - person: zemlova-margita
 - person: marakyova-norika
+poster_tmdb_path: /wJYJM3m4C5LNP3fdRQA5a1olnuN.jpg

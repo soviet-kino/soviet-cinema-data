@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q16400677
   imdb: tt0273990
+  tmdb: 1111372
 sources:
 - https://www.wikidata.org/wiki/Q16400677
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: dzhandzhugazyan-karine
 studio:
 - armenfilm
+poster_tmdb_path: /dvmSePzc2LhsdvXp2PSvyBZcBNH.jpg

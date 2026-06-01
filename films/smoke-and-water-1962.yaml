@@ -8,8 +8,10 @@ runtime_min: 12
 external_ids:
   wikidata: Q64878732
   imdb: tt0285521
+  tmdb: 285152
 sources:
 - https://www.wikidata.org/wiki/Q64878732
 schema_version: 1
 director:
 - lezik-dragoslav
+poster_tmdb_path: /bXgRkFrWw9lMIWZpsu1em0taiKg.jpg

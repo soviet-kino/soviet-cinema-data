@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q59790813
   imdb: tt0375813
+  tmdb: 284221
 sources:
 - https://www.wikidata.org/wiki/Q59790813
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: krzaczkowski-kazimierz
 - person: mellin-andzhey
 - person: gorzycka-elzbieta
+poster_tmdb_path: /A3S5fJVS2sIF78qn2FicNuiZOvK.jpg

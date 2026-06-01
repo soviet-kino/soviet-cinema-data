@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q132463965
   imdb: tt0452280
+  tmdb: 879782
 sources:
 - https://www.wikidata.org/wiki/Q132463965
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 - pars-kheyno
 cinematographer:
 - pars-kheyno
+poster_tmdb_path: /kB5CDlUFfKF1ZhRGruKsesMZ3h9.jpg

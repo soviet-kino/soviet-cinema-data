@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1967124
   imdb: tt0022289
   youtube: cPG1IXZ8NLQ
+  tmdb: 156316
 sources:
 - https://www.wikidata.org/wiki/Q1967124
 schema_version: 1
@@ -30,3 +31,5 @@ studio:
 - mezhrabpomfilm
 - kinostudiya-imeni-m-gorkogo
 poster_commons: Putevka v zhisn poster.jpg
+poster_tmdb_path: /liWglXCrtP6GUsbDQYfvuFg58mW.jpg
+backdrop_tmdb_path: /vi5aUUh8h9rDjCCx8E7hzRtyyaZ.jpg

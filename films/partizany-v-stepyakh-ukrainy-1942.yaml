@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q28664539
   imdb: tt1346998
   youtube: sqoGy5jfPMU
+  tmdb: 536310
 sources:
 - https://www.wikidata.org/wiki/Q28664539
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 - turkmenfilm
+poster_tmdb_path: /jZ3TcoYYejvoRWjczxb0DFrJTSV.jpg

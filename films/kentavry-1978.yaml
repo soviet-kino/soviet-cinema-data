@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4219425
   imdb: tt0080994
+  tmdb: 192853
 sources:
 - https://www.wikidata.org/wiki/Q4219425
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: anisimov-valerij
 - person: ivockina-jelena
 - person: kvirikasvili-avtandil
+poster_tmdb_path: /oIhbtSv5OgcS549k7CFXZXLwAtW.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q60851342
   imdb: tt0232970
+  tmdb: 701612
 sources:
 - https://www.wikidata.org/wiki/Q60851342
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: sayko-natalya-petrovna
 studio:
 - lenfilm
+poster_tmdb_path: /skAZRcSVMKhBIECYrLXWCJxcPf9.jpg
+backdrop_tmdb_path: /vlXQaiMOM5GPOBnhsMzOGZgbbsH.jpg

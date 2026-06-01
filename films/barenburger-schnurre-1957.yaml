@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1019086
   imdb: tt0050220
+  tmdb: 288816
 sources:
 - https://www.wikidata.org/wiki/Q1019086
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: turoff-niko
 - person: fu-walter-e
 - person: khindemit-kharri
+poster_tmdb_path: /seV5mpeir8GgXEx1sptQtjjc8K2.jpg

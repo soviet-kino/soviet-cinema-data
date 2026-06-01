@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12046648
   imdb: tt0082937
   youtube: EGYunpJDRBw
+  tmdb: 195160
 sources:
 - https://www.wikidata.org/wiki/Q12046648
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: polivka-jan
 - person: holendrova-magdalena
 - person: q126884701
+poster_tmdb_path: /9dX8Cmm7Qd3sUJHF8WdjmI0WDpj.jpg
+backdrop_tmdb_path: /aRGZKkax8Yyb3jxhVL1Jp4WWpqU.jpg

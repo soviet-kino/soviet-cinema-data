@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424908
   imdb: tt0195279
   youtube: OCd9Jnuvd9I
+  tmdb: 297896
 sources:
 - https://www.wikidata.org/wiki/Q4424908
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: girdvaynis-gediminas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /wzP6LTeXaQoG4tVxx9vVwE0BjOo.jpg

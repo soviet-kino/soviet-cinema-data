@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q106755377
   imdb: tt0032103
   youtube: qTNPu-qn8Uc
+  tmdb: 374641
 sources:
 - https://www.wikidata.org/wiki/Q106755377
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 poster_commons: 1939Всадники.jpg
+poster_tmdb_path: /kz3F7Rni6URT0D4O0rVR6YLAPd8.jpg
+backdrop_tmdb_path: /dfgCemmwkeBl5MxwusaHBHi0Qt4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97171530
   imdb: tt0065053
   youtube: 7jUMFX_hIo8
+  tmdb: 541907
 sources:
 - https://www.wikidata.org/wiki/Q97171530
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - ziv-mikhail-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /hU8shak2BjeT5Ds5Yv1oHWfyxre.jpg

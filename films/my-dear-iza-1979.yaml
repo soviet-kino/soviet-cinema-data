@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28750049
   imdb: tt0077471
+  tmdb: 490137
 sources:
 - https://www.wikidata.org/wiki/Q28750049
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: juh-boris
 - person: drolts-shtefka
 - person: hribar-zvone
+poster_tmdb_path: /u98v5MMZlmSyYjNYQgmXb05vdUQ.jpg

@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q1249713
   imdb: tt0130222
+  tmdb: 144623
 sources:
 - https://www.wikidata.org/wiki/Q1249713
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - ksantush-yanos
 cinematographer:
 - klopfler-tibor
+poster_tmdb_path: /jqmuSkaneIP7m3e9amYJgY3FtKR.jpg

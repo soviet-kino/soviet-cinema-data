@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366390
   imdb: tt0189942
   youtube: pTXw74c6TM8
+  tmdb: 626384
 sources:
 - https://www.wikidata.org/wiki/Q4366390
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: babochkin-boris-andreevich
 studio:
 - mosfilm
+poster_tmdb_path: /fzcImEHs5tTlVnCYtcueOM2d0sK.jpg

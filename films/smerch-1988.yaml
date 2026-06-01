@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q14948527
   imdb: tt0096124
+  tmdb: 389894
 sources:
 - https://www.wikidata.org/wiki/Q14948527
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - sadykov-bako-kadyrovich
 cast:
 - person: msryan-vladimir-ivanovich
+poster_tmdb_path: /ln9JVHMYVImdqYdpDwpPa7gbYii.jpg
+backdrop_tmdb_path: /xB1urJTAGZWVlbLKYNzBroQHM2p.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4091833
   imdb: tt0056881
+  tmdb: 489788
 sources:
 - https://www.wikidata.org/wiki/Q4091833
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: khanus-frantishek
 - person: glinomaz-yozef
 - person: effa-karel
+poster_tmdb_path: /2V2p7MTub642npxat4BGLG9Ymsp.jpg
+backdrop_tmdb_path: /vBmEpRnTVn61EKoYNfS4U2DOGsL.jpg

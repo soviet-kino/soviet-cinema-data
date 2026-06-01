@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740638
   imdb: tt0151235
+  tmdb: 1164202
 sources:
 - https://www.wikidata.org/wiki/Q11740638
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - shtaynvurtsel-severin
 cast:
 - person: makovskaya-elena
+poster_tmdb_path: /KfU5x0z0WtPgEfr0eoCpjFtU6p.jpg

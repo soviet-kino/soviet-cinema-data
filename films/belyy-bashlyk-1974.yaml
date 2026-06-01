@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q55793908
   imdb: tt0312452
+  tmdb: 932416
 sources:
 - https://www.wikidata.org/wiki/Q55793908
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - guba-vladimir
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /byva6yDBDX8odb8CmCKTxAmbpd3.jpg
+backdrop_tmdb_path: /r3dswWOxjhsEPTNPZy01HgZwKzF.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q221760
   imdb: tt0058361
   youtube: bFmPXhadAHk
+  tmdb: 148782
 sources:
 - https://www.wikidata.org/wiki/Q221760
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: lyubshin-stanislav-andreevich
 - person: gubenko-nikolay-nikolaevich
 - person: popov-valentin-vasilevich
+poster_tmdb_path: /bSIdWdiHYhUsmEgSNdCdKmsGS6z.jpg
+backdrop_tmdb_path: /5oMDcgFJW75JU4aI4caZbViPjbm.jpg

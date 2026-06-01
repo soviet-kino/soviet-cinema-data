@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q15131922
   imdb: tt5069134
+  tmdb: 636767
 sources:
 - https://www.wikidata.org/wiki/Q15131922
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: azamatova-stalina-azimovna
 - person: safar-ogly-bashir
+poster_tmdb_path: /9ypMoXWbxbRkP1ayXkv8k3gI7nB.jpg
+backdrop_tmdb_path: /8tW8MIZv1S3Z4ZqbND9EFV0JRtc.jpg

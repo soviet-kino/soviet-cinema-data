@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q29581126
   imdb: tt0125698
+  tmdb: 225946
 sources:
 - https://www.wikidata.org/wiki/Q29581126
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - markus-manole
 cast:
 - person: arghir-olimpia
+poster_tmdb_path: /eR8yw0zBmp8LBSNol0bl1bkgJXX.jpg

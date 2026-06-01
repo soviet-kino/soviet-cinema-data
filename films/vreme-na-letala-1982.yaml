@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q43093328
   imdb: tt0425631
+  tmdb: 871292
 sources:
 - https://www.wikidata.org/wiki/Q43093328
 schema_version: 1
@@ -15,3 +16,4 @@ cast:
 - person: kyortoshev-kiril
 - person: svetolik-nikachevich
 - person: disljenkovic-predrag
+poster_tmdb_path: /2kMK7yIFveCwjzPKsXxFj9LKrDL.jpg

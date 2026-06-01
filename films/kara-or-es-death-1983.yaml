@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12752586
   imdb: tt0085772
+  tmdb: 460175
 sources:
 - https://www.wikidata.org/wiki/Q12752586
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: kandich-milosh
 - person: vladan-zhivkovich
 - person: sekic-ramiz
+poster_tmdb_path: /tco39Mn1eSmKxfo7ZiE7o0Hgz9p.jpg

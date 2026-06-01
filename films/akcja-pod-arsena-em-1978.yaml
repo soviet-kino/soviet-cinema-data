@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4700522
   imdb: tt0077134
+  tmdb: 155356
 sources:
 - https://www.wikidata.org/wiki/Q4700522
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 cast:
 - person: konarowski-miros-aw
 poster_commons: Zdjęcie z planu filmu Akcja pod Arsenałem.jpg
+poster_tmdb_path: /jM31MnuGVJPBhPvNqBiRXPGZAQm.jpg
+backdrop_tmdb_path: /zpiMP4nOE3ABooGnz8NjvcMxZUo.jpg

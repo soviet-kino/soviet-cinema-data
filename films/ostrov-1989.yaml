@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4338788
   imdb: tt1553138
+  tmdb: 897157
 sources:
 - https://www.wikidata.org/wiki/Q4338788
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - zatsepin-aleksandr
 studio:
 - mosfilm
+poster_tmdb_path: /9Gio3AcB5OS0a6x3X8prJAWpi7j.jpg

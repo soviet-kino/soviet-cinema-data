@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q107282243
   imdb: tt0305222
+  tmdb: 577626
 sources:
 - https://www.wikidata.org/wiki/Q107282243
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - kruze-gans-yurgen
 composer:
 - pich-volfgang
+poster_tmdb_path: /ncu96eagvlent1QrjMcXtoJsmPS.jpg

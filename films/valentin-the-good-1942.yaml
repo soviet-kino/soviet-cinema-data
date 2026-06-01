@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q7910840
   imdb: tt0153484
+  tmdb: 280470
 sources:
 - https://www.wikidata.org/wiki/Q7910840
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: karlovsky-ada
 - person: cikan-josef
 - person: subrt-milos
+poster_tmdb_path: /xzFStopfNUK5F6A3oIRx3fFy6rN.jpg
+backdrop_tmdb_path: /wKA9g9yt21hHVUTBkl0Vx1gfAZ4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4504414
   imdb: tt0175259
   youtube: j8XERvgVSbw
+  tmdb: 472950
 sources:
 - https://www.wikidata.org/wiki/Q4504414
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: kretov-sergey-ivanovich
 - person: suvorkina-lyudmila-anatolevna
+poster_tmdb_path: /7fBuzDDsv4D3ReourIGF0YY9MzG.jpg
+backdrop_tmdb_path: /7n2aqnJBercfaj4M4q86dCsHtUT.jpg

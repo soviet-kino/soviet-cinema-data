@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757906
   imdb: tt0084544
+  tmdb: 475248
 sources:
 - https://www.wikidata.org/wiki/Q12757906
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: q16081966
 - person: kandich-milosh
 - person: nadezhda-vukichevich
+poster_tmdb_path: /9R5JIz6eXr5pdT6XZ8WXhadnwPa.jpg

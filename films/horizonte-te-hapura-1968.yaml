@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11801158
   imdb: tt0171377
+  tmdb: 354558
 sources:
 - https://www.wikidata.org/wiki/Q11801158
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - gjika-viktor
 composer:
 - dizdari-limoz
+poster_tmdb_path: /1f2zitGBy0LMZDRNOJy05gYNzQK.jpg
+backdrop_tmdb_path: /r9D02LGFsbkt31W7ntMLwVXYnOx.jpg

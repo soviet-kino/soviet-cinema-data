@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q19267467
   imdb: tt0061436
+  tmdb: 372008
 sources:
 - https://www.wikidata.org/wiki/Q19267467
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: kossowicz-andrzej
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /2AQXSBWvWz5v4hXItCP4AbkZzR3.jpg
+backdrop_tmdb_path: /Abh3v92D4OQGC6vZbnpe0dLyBec.jpg

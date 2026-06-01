@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127864
   imdb: tt0080111
   youtube: TuJS6N-gtM0
+  tmdb: 529676
 sources:
 - https://www.wikidata.org/wiki/Q4127864
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 cast:
 - person: kuznetsov-anatoliy
 - person: egorova-nataliya
+poster_tmdb_path: /jvpGelbyCgd6P7Z3hPtKL85scdw.jpg
+backdrop_tmdb_path: /ko2E1hyPst6GJKZDgV56Vc0ICYA.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q109428508
   imdb: tt0352879
+  tmdb: 1520019
 sources:
 - https://www.wikidata.org/wiki/Q109428508
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - tabachnikov-modest-efimovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bCkKeZYiU6wKdy5NyQNp6V1gLJO.jpg

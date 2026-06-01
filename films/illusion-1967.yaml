@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q3506712
   imdb: tt0061804
+  tmdb: 361753
 sources:
 - https://www.wikidata.org/wiki/Q3506712
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: sovagovic-fabijan
 - person: drech-vanya
 - person: slobodan-dimitrievich
+poster_tmdb_path: /a7YK9p2TbGFmr6zgUM1L40Hn3Ag.jpg

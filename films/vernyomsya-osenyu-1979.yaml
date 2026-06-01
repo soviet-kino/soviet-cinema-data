@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q18634933
   imdb: tt0332482
   youtube: 0akeGFek2vg
+  tmdb: 1036645
 sources:
 - https://www.wikidata.org/wiki/Q18634933
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: drozd-georgiy-ivanovich
+poster_tmdb_path: /ayXmzJZvEuDQ8blWxcc8bU0cZPd.jpg
+backdrop_tmdb_path: /8EojutVzRSHiDenRMvCKlKn86XU.jpg

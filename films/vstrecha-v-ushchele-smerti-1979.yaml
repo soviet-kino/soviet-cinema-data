@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q124758324
   imdb: tt0309053
+  tmdb: 1530801
 sources:
 - https://www.wikidata.org/wiki/Q124758324
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: sabirov-takhir-mukhtarovich
 - person: kalinovskaya-irina
 - person: sabzalieva-savriniso
+poster_tmdb_path: /4WrD9pWeXkObzSkJjWAJ36JukHk.jpg

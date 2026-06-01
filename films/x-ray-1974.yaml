@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q66124266
   imdb: tt0072043
+  tmdb: 49105
 sources:
 - https://www.wikidata.org/wiki/Q66124266
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - keslyovskiy-kshishtof
 cinematographer:
 - petritskiy-yatsek
+poster_tmdb_path: /8cCq11LhtyOoANWzGTJpFlSqr3U.jpg

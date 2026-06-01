@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q65197528
   imdb: tt0237514
+  tmdb: 1107915
 sources:
 - https://www.wikidata.org/wiki/Q65197528
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: smolyakov-andrey-igorevich
 studio:
 - ekran
+poster_tmdb_path: /skBqBRsSbxkUNMjc5MgIL0pRxpR.jpg

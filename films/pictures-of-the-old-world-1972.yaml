@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q12772849
   imdb: tt0171587
+  tmdb: 124414
 sources:
 - https://www.wikidata.org/wiki/Q12772849
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - malovets-yozef
 cast:
 - person: khudik-ladislav
+poster_tmdb_path: /wSxn9I1c2HpCJZYwktiG2TfOtjP.jpg
+backdrop_tmdb_path: /aEWucQ8q47ovStDV5tCXs2HdQNu.jpg

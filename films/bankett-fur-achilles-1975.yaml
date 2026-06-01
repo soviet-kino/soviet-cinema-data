@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q806744
   imdb: tt0072682
+  tmdb: 278801
 sources:
 - https://www.wikidata.org/wiki/Q806744
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - lents-yurgen
 composer:
 - rozenfeld-gerkhard
+poster_tmdb_path: /bPK3RH659URPcXZqppTXaXDgqgV.jpg

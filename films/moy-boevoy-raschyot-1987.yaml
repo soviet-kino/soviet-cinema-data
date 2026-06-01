@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4299817
   imdb: tt0093576
+  tmdb: 67779
 sources:
 - https://www.wikidata.org/wiki/Q4299817
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: priyomykhov-valeriy
 studio:
 - lenfilm
+poster_tmdb_path: /vp18KH90PPEkqvHygfN09nKKrdp.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1177977
   imdb: tt0058360
+  tmdb: 286629
 sources:
 - https://www.wikidata.org/wiki/Q1177977
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - illesh-dyord
 composer:
 - emil-petrovich
+poster_tmdb_path: /iYH3dlwqnCxD2H7RjhEt0FMOsGI.jpg

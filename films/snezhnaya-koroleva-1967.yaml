@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q935893
   imdb: tt0254782
   youtube: _XiBoSZwKUw
+  tmdb: 14493
 sources:
 - https://www.wikidata.org/wiki/Q935893
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tsyupa-vyacheslav-olegovich
 studio:
 - lenfilm
+poster_tmdb_path: /gURrHZxyQSOhiXWKWLlsbJHxlNq.jpg
+backdrop_tmdb_path: /k9vtETucWGVl0xsTlstNSBo6jkD.jpg

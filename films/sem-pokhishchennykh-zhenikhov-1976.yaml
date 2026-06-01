@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q116273894
   imdb: tt5396392
+  tmdb: 1505324
 sources:
 - https://www.wikidata.org/wiki/Q116273894
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - artemyev-eduard
 studio:
 - tadzhikfilm
+poster_tmdb_path: /vZ3kORb6mpJQoMFZdVjWPU2agrB.jpg
+backdrop_tmdb_path: /3ezxdmH0awcYpZQf0XodDMDzp8C.jpg

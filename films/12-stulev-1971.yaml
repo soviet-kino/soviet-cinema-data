@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2371262
   imdb: tt0065670
   youtube: P8t2dbJ7YXY
+  tmdb: 31648
 sources:
 - https://www.wikidata.org/wiki/Q2371262
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: khvylya-aleksandr-leopoldovich
 - person: shpigel-grigoriy-oyzerovich
 - person: igor-yasulovich
+poster_tmdb_path: /fVzfgLPgrEOti2svUqwyLCtIeML.jpg
+backdrop_tmdb_path: /5dXXVM9Ell8pqlfKhHPymc1j5Hy.jpg

@@ -8,6 +8,7 @@ runtime_min: 150
 external_ids:
   wikidata: Q4154340
   imdb: tt6315308
+  tmdb: 373802
 sources:
 - https://www.wikidata.org/wiki/Q4154340
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: muravyova-irina-vadimovna
 - person: plyatt-rostislav-yanovich
 - person: ivanov-boris-vladimirovich
+poster_tmdb_path: /kl01ArGuWwlZsL6ECrSF8UCun8K.jpg
+backdrop_tmdb_path: /tasMOLddopfsH8KZ764bi8I3x2j.jpg

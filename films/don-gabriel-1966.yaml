@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9209971
   imdb: tt0060327
+  tmdb: 578083
 sources:
 - https://www.wikidata.org/wiki/Q9209971
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: hanin-ryszarda
 - person: siedlecki-andrzej
 - person: wojtczak-marian
+poster_tmdb_path: /egPRetwyye5eDFKRNmc6LbeAWPZ.jpg
+backdrop_tmdb_path: /5o5EQdy5Naenw76IWQEPp0ojwZH.jpg

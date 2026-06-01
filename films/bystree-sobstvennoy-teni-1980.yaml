@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101103
   imdb: tt0080483
   youtube: zVXy3Ov-MzE
+  tmdb: 582980
 sources:
 - https://www.wikidata.org/wiki/Q4101103
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: tsyplakova-elena-oktyabrevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /3taM6CGXpJqvStbrMfPKn847a7V.jpg
+backdrop_tmdb_path: /d6cOt76oRap22ieRq8B8qTSmZ6k.jpg

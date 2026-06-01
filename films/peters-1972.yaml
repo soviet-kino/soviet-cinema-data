@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4360260
   imdb: tt2395371
+  tmdb: 536421
 sources:
 - https://www.wikidata.org/wiki/Q4360260
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: yakovlev-girt-aleksandrovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /oP0O2AR2SevU5EpWpGLn6awxVia.jpg

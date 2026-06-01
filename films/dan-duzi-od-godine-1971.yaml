@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184831
   imdb: tt0179748
+  tmdb: 327178
 sources:
 - https://www.wikidata.org/wiki/Q31184831
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: muzaferiya-zaim
 - person: kandich-milosh
 - person: tadic-rastko
+poster_tmdb_path: /tkLbhJTUPkbIQ2hsaxjRsRSt0uw.jpg

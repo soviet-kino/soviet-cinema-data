@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5222350
   imdb: tt0054786
+  tmdb: 198874
 sources:
 - https://www.wikidata.org/wiki/Q5222350
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: popovichi-eudzheniya
 - person: dikisyanu-ion
 - person: manu-yon
+poster_tmdb_path: /mPDthen9FQ5rcj2oT8KRR9kCcKr.jpg
+backdrop_tmdb_path: /70WF3aJ7sbfpC4DNj5DutvMok5F.jpg

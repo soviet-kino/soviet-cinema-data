@@ -8,6 +8,7 @@ runtime_min: 162
 external_ids:
   wikidata: Q614960
   imdb: tt0063278
+  tmdb: 25904
 sources:
 - https://www.wikidata.org/wiki/Q614960
 schema_version: 1
@@ -87,3 +88,5 @@ cast:
 - person: pokrovskij-george
 studio:
 - barrandov
+poster_tmdb_path: /iAD1q8GOO1q1h6hRCXgslAxDHBY.jpg
+backdrop_tmdb_path: /1Vbd0TVNZXlzTlyLkYnOMzpq1eH.jpg

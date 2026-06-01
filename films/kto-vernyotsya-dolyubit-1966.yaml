@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q18117348
   imdb: tt0347362
+  tmdb: 367945
 sources:
 - https://www.wikidata.org/wiki/Q18117348
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: bessarab-valeriy-aleksandrovich
 - person: gurova-liliya-ivanovna
 - person: leftiy-antonina-vladimirovna
+poster_tmdb_path: /4w92rLUy50ylBjekaqpNgCbx8fF.jpg
+backdrop_tmdb_path: /q79W91aVES4D0zRm0YvtKj30lZM.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4338885
   imdb: tt0167326
   youtube: SJFWzHcSnwQ
+  tmdb: 135710
 sources:
 - https://www.wikidata.org/wiki/Q4338885
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: tomkus-vitautas-romualdas
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /fh2dJZZ6DdKR2knII138D6TujG4.jpg
+backdrop_tmdb_path: /hzIpwvcc0tDyxRTNgafmEwq1pWO.jpg

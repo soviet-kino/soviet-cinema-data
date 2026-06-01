@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q677628
   imdb: tt0028436
+  tmdb: 110733
 sources:
 - https://www.wikidata.org/wiki/Q677628
 schema_version: 1
@@ -31,3 +32,5 @@ studio:
 - mezhrabpomfilm
 - azerbaydzhanfilm
 poster_commons: Near most blue sea.png
+poster_tmdb_path: /vz7YyAD4Sn53CqP6CyOXskbHdjY.jpg
+backdrop_tmdb_path: /aX3GHHv1y1DkwBOzuea7pRCyE49.jpg

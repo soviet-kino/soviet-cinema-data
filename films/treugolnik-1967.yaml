@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462739
   imdb: tt0062392
   youtube: M6OdiXLk5w0
+  tmdb: 290891
 sources:
 - https://www.wikidata.org/wiki/Q4462739
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ilinichna-alabina-inna
 studio:
 - armenfilm
+poster_tmdb_path: /t6JKH2JPu3WsYpS8EvaqsfbL8tm.jpg
+backdrop_tmdb_path: /w0uA8EQ2OTRquZl51y0F3bioqkc.jpg

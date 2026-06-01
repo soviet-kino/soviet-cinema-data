@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q15270746
   imdb: tt0314369
+  tmdb: 593135
 sources:
 - https://www.wikidata.org/wiki/Q15270746
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: zbruev-aleksandr-viktorovich
 - person: demich-yuriy-aleksandrovich
 - person: ponarovskaya-irina
+poster_tmdb_path: /f2IhGQ0f9Nysk9pX9AmUYfVDSVX.jpg
+backdrop_tmdb_path: /ukPsqCFTTS0IDLQTepFbBYptMcG.jpg

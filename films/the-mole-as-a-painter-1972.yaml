@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q56887251
   imdb: tt0244614
+  tmdb: 1153459
 sources:
 - https://www.wikidata.org/wiki/Q56887251
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - vatsek-milosh
 studio:
 - jiri-trnka-a-bratri-v-triku
+poster_tmdb_path: /zITDqXgsLP3JOUJy46yNvzVpc7W.jpg

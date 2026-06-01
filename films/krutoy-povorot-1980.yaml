@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4242512
   imdb: tt0230428
   youtube: P93l5CwFpHI
+  tmdb: 1232274
 sources:
 - https://www.wikidata.org/wiki/Q4242512
 schema_version: 1
@@ -15,3 +16,4 @@ screenwriter:
 - vysotskiy-sergey-aleksandrovich
 composer:
 - sevastyanov-valeriy-nikolaevich
+poster_tmdb_path: /BiIqpp0Z53bqVuYoZjYTlRbGvA.jpg

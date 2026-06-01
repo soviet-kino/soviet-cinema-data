@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9274683
   imdb: tt0169790
+  tmdb: 485202
 sources:
 - https://www.wikidata.org/wiki/Q9274683
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - cashku-kujtim
 composer:
 - zaharian-hajg
+poster_tmdb_path: /eNO3vn8gESlVME6eCJ0dzuZy688.jpg
+backdrop_tmdb_path: /2kIdEAb8Lz8WIoZPOd8cLYRe8gj.jpg

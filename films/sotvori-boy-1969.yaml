@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4429831
   imdb: tt0437483
+  tmdb: 838886
 sources:
 - https://www.wikidata.org/wiki/Q4429831
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: sayfulin-gennadiy-rashidovich
 studio:
 - belarusfilm
+poster_tmdb_path: /mRuaI556UjBvcTZehbS5i3yMEMT.jpg
+backdrop_tmdb_path: /dBmFfYeTbNS5iQHSryqQzb7CQpa.jpg

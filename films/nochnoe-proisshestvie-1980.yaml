@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4327766
   imdb: tt0081244
   youtube: oSRrwpnpJfY
+  tmdb: 101368
 sources:
 - https://www.wikidata.org/wiki/Q4327766
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: velyaminov-pyotr-sergeevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /kHhA9sNda6NhxVQyyA6qWaZ7dXR.jpg
+backdrop_tmdb_path: /2fM6rm3fkyprv2EwAIJEOCvZyRo.jpg

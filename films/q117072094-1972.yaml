@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q117072094
   imdb: tt0175595
+  tmdb: 441065
 sources:
 - https://www.wikidata.org/wiki/Q117072094
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - varneke-lotar
 cinematographer:
 - noymann-klaus
+poster_tmdb_path: /xWdJKuzGo4L9rdgUVs2W4ALNTAC.jpg

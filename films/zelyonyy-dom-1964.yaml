@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97187150
   imdb: tt5031848
   youtube: 5a9YyAKfw8E
+  tmdb: 829717
 sources:
 - https://www.wikidata.org/wiki/Q97187150
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: seleznyov-vladimir-prokhorovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /inUtVpA2YXN588sVcnFcv4acGo0.jpg

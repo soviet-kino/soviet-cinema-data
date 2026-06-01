@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5909182
   imdb: tt0085688
+  tmdb: 159811
 sources:
 - https://www.wikidata.org/wiki/Q5909182
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: usztics-matyas
 - person: reno-kelli
 - person: khorvat-laslo
+poster_tmdb_path: /6P5jhNuYUtfwyvwofgW4xsx21yT.jpg
+backdrop_tmdb_path: /1ImoMBJtHqn9TP8j0A2mhQKxLtz.jpg

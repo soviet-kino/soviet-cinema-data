@@ -8,9 +8,11 @@ runtime_min: 12
 external_ids:
   wikidata: Q108643579
   imdb: tt5178274
+  tmdb: 283494
 sources:
 - https://www.wikidata.org/wiki/Q108643579
 schema_version: 1
 director:
 - themerson-stefan
 - themerson-franciszka
+poster_tmdb_path: /1A61od4ulBsoJKasp2wFiuxZOxy.jpg

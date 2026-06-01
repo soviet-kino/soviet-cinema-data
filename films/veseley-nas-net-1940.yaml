@@ -8,6 +8,9 @@ external_ids:
   wikidata: Q109428638
   imdb: tt0334612
   youtube: DutPDPac6yM
+  tmdb: 966353
 sources:
 - https://www.wikidata.org/wiki/Q109428638
 schema_version: 1
+poster_tmdb_path: /fXUfIAStkVWNRtn5hsBJnAkp02U.jpg
+backdrop_tmdb_path: /prfPKJV9KHSHxrIRbMvFcRlcG8y.jpg

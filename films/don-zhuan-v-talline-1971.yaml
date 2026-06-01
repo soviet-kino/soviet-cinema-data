@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4166016
   imdb: tt0298307
+  tmdb: 68749
 sources:
 - https://www.wikidata.org/wiki/Q4166016
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: rulli-siym
 - person: virkava-gunta
 - person: sooaar-sophie
+poster_tmdb_path: /vIJKetc5xl2aAvHiuPtpg2nWqGc.jpg
+backdrop_tmdb_path: /j1uhxEmta3WTzTRD64FV6qKJi96.jpg

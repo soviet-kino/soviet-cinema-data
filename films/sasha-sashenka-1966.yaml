@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4409597
   imdb: tt5052948
   youtube: c8S3K5Mcwo8
+  tmdb: 493191
 sources:
 - https://www.wikidata.org/wiki/Q4409597
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: prygunov-lev-georgievich
 studio:
 - belarusfilm
+poster_tmdb_path: /1wiy3TiZCNFATgp6RKIwap5DZXa.jpg
+backdrop_tmdb_path: /fUAMb5bVyWVdVNvBzNKkgF8fNSi.jpg

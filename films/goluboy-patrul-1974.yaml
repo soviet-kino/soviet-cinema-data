@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4142570
   imdb: tt1714844
   youtube: bbL_nvcKSEs
+  tmdb: 1058432
 sources:
 - https://www.wikidata.org/wiki/Q4142570
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: mirgorodskiy-dmitriy
 - person: polishchuk-viktor-petrovich
 - person: muravitskiy-yuriy-adolfovich
+poster_tmdb_path: /aiWlBsWFd5QQQyiWpxmT7hGVq76.jpg

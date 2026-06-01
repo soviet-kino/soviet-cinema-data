@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9248636
   imdb: tt0287994
+  tmdb: 920266
 sources:
 - https://www.wikidata.org/wiki/Q9248636
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kondratskiy-mikhail
 cast:
 - person: vishnevskaya-tamara
+poster_tmdb_path: /2bZx7Cs0YZI6X38rNAvevJvNYW2.jpg

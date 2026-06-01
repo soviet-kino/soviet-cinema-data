@@ -8,6 +8,7 @@ runtime_min: 612
 external_ids:
   wikidata: Q2897247
   imdb: tt0803764
+  tmdb: 90008
 sources:
 - https://www.wikidata.org/wiki/Q2897247
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - rota-nino
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /lVcuvpMy4HnYZEUdjH0eelM3iy3.jpg
+backdrop_tmdb_path: /y0W7t8AlrLZKJufSctiaZvAwT3V.jpg

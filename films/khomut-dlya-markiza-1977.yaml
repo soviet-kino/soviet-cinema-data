@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4499643
   imdb: tt0170010
   youtube: 9m_3M1tu_g8
+  tmdb: 298381
 sources:
 - https://www.wikidata.org/wiki/Q4499643
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ostroumova-olga-mikhaylovna
 - person: kuznetsov-anatoliy
 - person: zamulin-dmitriy-nikolaevich
+poster_tmdb_path: /1ZcDefTmg0l1RvHG83pazsMQAEB.jpg
+backdrop_tmdb_path: /e6oKH667mTX2B0rbezcqPUCt3pr.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q107227349
   imdb: tt0074911
+  tmdb: 791226
 sources:
 - https://www.wikidata.org/wiki/Q107227349
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 studio:
 - iluzjon
 - film-polski
+poster_tmdb_path: /oSCcHuTCx2uJlhTUwlnhnoGnD69.jpg

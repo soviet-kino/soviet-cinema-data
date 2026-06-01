@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156469
   imdb: tt0275810
   youtube: Qi_X07HSkNE
+  tmdb: 1215235
 sources:
 - https://www.wikidata.org/wiki/Q4156469
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - gruziya-film
 cast:
 - person: romashin-anatoliy-vladimirovich
+poster_tmdb_path: /5wrWyHTFFNwsJHJK5FDnuMt9dBQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16088343
   imdb: tt0071371
+  tmdb: 465157
 sources:
 - https://www.wikidata.org/wiki/Q16088343
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kontic-ljiljana
 - person: babic-mirko
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /aQs3nldrpuKabyy723vn6wxACzX.jpg
+backdrop_tmdb_path: /zQvLcZUdqUS1cmLr35EebZvcjTP.jpg

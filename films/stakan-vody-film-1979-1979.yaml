@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4439180
   imdb: tt0173242
+  tmdb: 143066
 sources:
 - https://www.wikidata.org/wiki/Q4439180
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mosfilm
 - ekran
+poster_tmdb_path: /3GB4oPJa2KR1lIPawB4NyHxPhVf.jpg
+backdrop_tmdb_path: /3zCbv8raE6tP9WsTx7xlYgAzxLh.jpg

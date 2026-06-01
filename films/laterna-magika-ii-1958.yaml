@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16028621
   imdb: tt0170143
+  tmdb: 1034840
 sources:
 - https://www.wikidata.org/wiki/Q16028621
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: panyrkova-jaroslava
 - person: danickova-sylvie
 - person: stankova-maruska
+poster_tmdb_path: /dNt7WHJLgAn4jDQVeKTQwRt9PqY.jpg

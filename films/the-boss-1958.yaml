@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q100265390
   imdb: tt0356895
+  tmdb: 727641
 sources:
 - https://www.wikidata.org/wiki/Q100265390
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: karioka-takhya
 - person: shakhin-yakhya
 - person: al-khariri-omar
+poster_tmdb_path: /nVXiVABj0ZwIhZwLA2uf6HhYy07.jpg

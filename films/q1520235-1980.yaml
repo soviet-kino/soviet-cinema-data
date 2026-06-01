@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q1520235
   imdb: tt0080786
+  tmdb: 217429
 sources:
 - https://www.wikidata.org/wiki/Q1520235
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kilian-zigfrid
 - person: staack-ursula
 - person: klyaynert-folkmar
+poster_tmdb_path: /hpQ422QOA99Aol2E1SBYErMGMI1.jpg
+backdrop_tmdb_path: /rYqlH9SujGvNrsDkY4t7JbtJNOq.jpg

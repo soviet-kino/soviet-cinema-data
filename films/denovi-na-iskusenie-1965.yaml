@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12278851
   imdb: tt0171220
+  tmdb: 352505
 sources:
 - https://www.wikidata.org/wiki/Q12278851
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: mirich-voyya
 - person: ceramilac-predrag
 - person: uricin-rada
+poster_tmdb_path: /iLJxNkDt675QDOyPZepRxFeUil6.jpg

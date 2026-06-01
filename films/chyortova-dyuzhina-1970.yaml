@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16723496
   imdb: tt0321688
   youtube: H_-6AHYlNl8
+  tmdb: 257806
 sources:
 - https://www.wikidata.org/wiki/Q16723496
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: yachminskiy-vladimir-dmitrievich
 - person: lastivka-pyotr-petrovich
 - person: zharikov-vyacheslav-nikiforovich
+poster_tmdb_path: /vC7bksDz25fZFDIicQ0rhDRyAtF.jpg
+backdrop_tmdb_path: /n0TrVvrTfM2eg47qm1sipgC9ZgB.jpg

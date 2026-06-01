@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4491944
   imdb: tt0060422
   youtube: 2OpqruF1yUw
+  tmdb: 143112
 sources:
 - https://www.wikidata.org/wiki/Q4491944
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: nedashkovskaya-raisa-stepanovna
 - person: fedortsov-nikolay-pavlovich
+poster_tmdb_path: /rkcYkWcxcW77yOZevFMgXeQ4rAZ.jpg

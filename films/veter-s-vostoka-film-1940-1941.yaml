@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q20001866
   imdb: tt2016333
+  tmdb: 334156
 sources:
 - https://www.wikidata.org/wiki/Q20001866
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - popov-gavriil-nikolaevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /dHQste4X8lez1x8wNt4thVhLKZ7.jpg
+backdrop_tmdb_path: /rrXqbnoxFCKYX7tRI5g8yRF4TZm.jpg

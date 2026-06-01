@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4378405
   imdb: tt3148554
+  tmdb: 839506
 sources:
 - https://www.wikidata.org/wiki/Q4378405
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - stepchuk-yuriy-stepanovich
 composer:
 - zatsepin-aleksandr
+poster_tmdb_path: /gQvP3BrkHuB2FD53a70FvUqJRbu.jpg
+backdrop_tmdb_path: /rXMnj49oQQCROb9lRt8d9aFuRj6.jpg

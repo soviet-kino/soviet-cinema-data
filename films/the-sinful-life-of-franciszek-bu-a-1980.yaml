@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9282246
   imdb: tt0080821
+  tmdb: 611235
 sources:
 - https://www.wikidata.org/wiki/Q9282246
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - zgraja-zygmunt
 cast:
 - person: grabarchik-andzhey
+poster_tmdb_path: /tkYkeNYDriK7auMX4D2Rok3AJz0.jpg
+backdrop_tmdb_path: /e0DcUP1EsCZlnDRssI9Wa9BFsqF.jpg

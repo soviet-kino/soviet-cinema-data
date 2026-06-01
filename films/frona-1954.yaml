@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q5505751
   imdb: tt0172472
+  tmdb: 605752
 sources:
 - https://www.wikidata.org/wiki/Q5505751
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: martinkova-martsela
 - person: kabrhel-frantisek
 - person: paska-peter
+poster_tmdb_path: /9tOjjhmS3KS1b02igZXRM8DMgtP.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q16653479
   imdb: tt0282873
+  tmdb: 392774
 sources:
 - https://www.wikidata.org/wiki/Q16653479
 schema_version: 1
@@ -98,3 +99,5 @@ cast:
 - person: mysliveckova-zora
 - person: jager-frantisek
 - person: kandert-rudolf
+poster_tmdb_path: /gcocGN02OBj2liGLEMjaVZN89P8.jpg
+backdrop_tmdb_path: /lxFffOCJ2TD08sfLuVhOYynMQBS.jpg

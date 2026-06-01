@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27049557
   imdb: tt0045627
   youtube: NlQf-CzWD6M
+  tmdb: 148412
 sources:
 - https://www.wikidata.org/wiki/Q27049557
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pavlov-dmitriy-sergeevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zeLKU0rA3GMF1F7VmCKYolc79p3.jpg
+backdrop_tmdb_path: /vljixfFmF4EOGj0raD0AJhP5lXg.jpg

@@ -8,6 +8,7 @@ runtime_min: 138
 external_ids:
   wikidata: Q11742465
   imdb: tt0058274
+  tmdb: 559079
 sources:
 - https://www.wikidata.org/wiki/Q11742465
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: glombik-vladislav
 studio:
 - start-kinostudiya
+poster_tmdb_path: /lRCcuqsf8Aa1lEJud6zJusrSFar.jpg

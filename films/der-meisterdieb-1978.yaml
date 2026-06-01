@@ -8,6 +8,7 @@ runtime_min: 62
 external_ids:
   wikidata: Q28153451
   imdb: tt0376754
+  tmdb: 256329
 sources:
 - https://www.wikidata.org/wiki/Q28153451
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - zyuring-peter
 composer:
 - fisher-gyunter
+poster_tmdb_path: /i5119c7KFUm5MzPxQED87SlQjxe.jpg

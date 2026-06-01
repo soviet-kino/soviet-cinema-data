@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4481105
   imdb: tt0169892
   youtube: rIxNB5d1PnQ
+  tmdb: 83448
 sources:
 - https://www.wikidata.org/wiki/Q4481105
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: neyolova-marina-mstislavovna
 - person: durova-ekaterina-lvovna
 - person: sharko-zinaida-maksimovna
+poster_tmdb_path: /v45HpT95aESiC5VWkuQWTE7KsMH.jpg
+backdrop_tmdb_path: /9wV0C5eO2LnWRJnHEwcTWKTrmEq.jpg

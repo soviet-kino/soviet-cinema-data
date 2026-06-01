@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4329652
   imdb: tt0035142
+  tmdb: 285537
 sources:
 - https://www.wikidata.org/wiki/Q4329652
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - lenfilm
 - kazakhfilm
+poster_tmdb_path: /uei1xvWra9tduWLkIibyni9wBNS.jpg
+backdrop_tmdb_path: /3j3nBzhZKhIZwtn14D3yEgoK8Gt.jpg

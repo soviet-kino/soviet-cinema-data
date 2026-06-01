@@ -13,6 +13,8 @@ composer:
 external_ids:
   wikidata: Q19703350
   imdb: tt0154051
+  tmdb: 957472
 sources:
 - https://www.wikidata.org/wiki/Q19703350
 schema_version: 1
+poster_tmdb_path: /7FnUtZzbAwDh6FtIRKDukXhF503.jpg

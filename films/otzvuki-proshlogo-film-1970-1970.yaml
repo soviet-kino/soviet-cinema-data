@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q20513465
   imdb: tt0410409
+  tmdb: 1520011
 sources:
 - https://www.wikidata.org/wiki/Q20513465
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: zaryan-hanri
 studio:
 - armenfilm
+poster_tmdb_path: /d6FZASd0ICsrgInQ3EosYOyCvkt.jpg

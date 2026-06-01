@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16514669
   imdb: tt0062294
   youtube: 2CFU38duF48
+  tmdb: 832477
 sources:
 - https://www.wikidata.org/wiki/Q16514669
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: shirvindt-aleksandr-anatolevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /hLE0aDW4FFiSNWRrB8Doo5NdCIb.jpg

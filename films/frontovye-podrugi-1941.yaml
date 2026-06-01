@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19804434
   imdb: tt0033637
   youtube: uE7hXqPlQms
+  tmdb: 284683
 sources:
 - https://www.wikidata.org/wiki/Q19804434
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: tolubeev-yuriy-vladimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /ahHowrP9ARUAoeFaitA1iDXWUPF.jpg

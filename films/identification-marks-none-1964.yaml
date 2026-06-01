@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q3483691
   imdb: tt0059668
+  tmdb: 133373
 sources:
 - https://www.wikidata.org/wiki/Q3483691
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 cast:
 - person: skolimovskiy-ezhi
 - person: chizhevskaya-elzhbeta
+poster_tmdb_path: /9zXuPkxRMo8eGOkBVVdrLEYfj18.jpg
+backdrop_tmdb_path: /y779SkJmcXWv1xzpCLnFOThud9w.jpg

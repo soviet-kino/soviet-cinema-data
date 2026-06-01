@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q57019434
   imdb: tt0426145
+  tmdb: 1188872
 sources:
 - https://www.wikidata.org/wiki/Q57019434
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - sluka-lubos
 studio:
 - kratky-film-praha
+poster_tmdb_path: /dzw3iLmwuNSWOP5qzBOacMTblvW.jpg

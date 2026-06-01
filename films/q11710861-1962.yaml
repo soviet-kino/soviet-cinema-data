@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11710861
   imdb: tt0056090
+  tmdb: 945616
 sources:
 - https://www.wikidata.org/wiki/Q11710861
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: may-andrzej
 - person: shchepkovskiy-andzhey
 - person: krajewska-stepien-miros-awa
+poster_tmdb_path: /2ch6wmoCaGy1Ban3xPlZMVrUKd.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q11082617
   imdb: tt0167514
+  tmdb: 125392
 sources:
 - https://www.wikidata.org/wiki/Q11082617
 schema_version: 1
@@ -72,3 +73,5 @@ cast:
 - person: cermak-miroslav-2
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /2Mcxs6rJeGUCBHTEoy8HSN2wIBS.jpg
+backdrop_tmdb_path: /7mDeeJ7QOs1XBi9yMQaNyua97hp.jpg

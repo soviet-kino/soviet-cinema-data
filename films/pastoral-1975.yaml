@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3368495
   imdb: tt0124046
+  tmdb: 168179
 sources:
 - https://www.wikidata.org/wiki/Q3368495
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: ioseliani-nana-mikhaylovna
 studio:
 - gruziya-film
+poster_tmdb_path: /A7uFlRu6NcKiP6Eucp7CPL6wZQr.jpg
+backdrop_tmdb_path: /iawc08VOMQ9v3SgmGaDQgYsqDtt.jpg

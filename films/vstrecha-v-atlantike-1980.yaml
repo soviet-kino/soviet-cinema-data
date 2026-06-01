@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q9340497
   imdb: tt0081550
+  tmdb: 895726
 sources:
 - https://www.wikidata.org/wiki/Q9340497
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: levandovskiy-marek
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /ekLCKscxbMDZ7VPabuzvEjysTEH.jpg
+backdrop_tmdb_path: /7CNrWo6ebZFFjRa4kE9Whu1ojcr.jpg

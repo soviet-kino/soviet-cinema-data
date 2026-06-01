@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q3507824
   imdb: tt0179788
+  tmdb: 385460
 sources:
 - https://www.wikidata.org/wiki/Q3507824
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: vuisich-pavle
 - person: bijelic-severin
 - person: kandich-milosh
+poster_tmdb_path: /mqJwVIcc2sSr6pdsPzugmO0ulyG.jpg
+backdrop_tmdb_path: /i1RRRxS0jq5jCzS7nz8v1fg374f.jpg

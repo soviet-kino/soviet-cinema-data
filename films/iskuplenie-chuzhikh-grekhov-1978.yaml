@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200540
   imdb: tt5460352
+  tmdb: 988536
 sources:
 - https://www.wikidata.org/wiki/Q65200540
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - grabovskiy-leonid-aleksandrovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xvMf5O2Uu8CsTNiZu0e5Sz6yI03.jpg

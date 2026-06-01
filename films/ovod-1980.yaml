@@ -8,6 +8,7 @@ runtime_min: 210
 external_ids:
   wikidata: Q4330735
   imdb: tt0230602
+  tmdb: 314610
 sources:
 - https://www.wikidata.org/wiki/Q4330735
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kharitonov-andrey-igorevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xb91o9RdENWttf1u0ONSf2SiKD1.jpg
+backdrop_tmdb_path: /mqjTzAapuRzqn1sTNqyVqZxAS38.jpg

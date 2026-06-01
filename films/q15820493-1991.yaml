@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15820493
   imdb: tt0102132
+  tmdb: 634455
 sources:
 - https://www.wikidata.org/wiki/Q15820493
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - shomlo-tamash-2
 composer:
 - des-laslo
+poster_tmdb_path: /2hDrYwCd1U1rh4CUsVnYzVtvbZH.jpg

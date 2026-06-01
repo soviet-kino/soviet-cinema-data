@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19999888
   imdb: tt0203719
+  tmdb: 351713
 sources:
 - https://www.wikidata.org/wiki/Q19999888
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - panso-voldemar-khansovich
 cast:
 - person: yarvet-yuri-evgenevich
+poster_tmdb_path: /omXYVFDFgFQudTz7iae70GNK8mC.jpg
+backdrop_tmdb_path: /1k97AxBAouhLqsDnIyqH5E7ehFc.jpg

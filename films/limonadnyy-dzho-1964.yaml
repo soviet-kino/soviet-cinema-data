@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1791872
   imdb: tt0058275
+  tmdb: 20629
 sources:
 - https://www.wikidata.org/wiki/Q1791872
 schema_version: 1
@@ -79,3 +80,5 @@ cast:
 studio:
 - barrandov
 poster_commons: Limonádový Joe - plakát - Jan Sarkandr Tománek.jpg
+poster_tmdb_path: /cOOOjMGCfBjY5tLyBEK8hYFpwCw.jpg
+backdrop_tmdb_path: /qJDyJI9CxkTrHqvfxyxTlHl6sNJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 2
 external_ids:
   wikidata: Q4464939
   imdb: tt6052726
+  tmdb: 448866
 sources:
 - https://www.wikidata.org/wiki/Q4464939
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - chernavskiy-yuriy-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /m8fucoSuzPIkXczRt41hSJu4xrr.jpg

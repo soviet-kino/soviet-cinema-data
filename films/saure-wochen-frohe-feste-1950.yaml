@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7427545
   imdb: tt0230738
+  tmdb: 439249
 sources:
 - https://www.wikidata.org/wiki/Q7427545
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - fidler-i-u
 composer:
 - vertslau-yoakhim
+poster_tmdb_path: /6ugsZg9B6aZRHiInNNZW3aMwu84.jpg

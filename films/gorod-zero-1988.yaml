@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3678422
   imdb: tt0095244
   youtube: 12WwlJYarow
+  tmdb: 74711
 sources:
 - https://www.wikidata.org/wiki/Q3678422
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: shcherbakov-pyotr-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /yVnplas1E7E3JxbPvcLvKSxYhFc.jpg
+backdrop_tmdb_path: /ejFYAet054QRRgyhHjkRz0HkV6a.jpg

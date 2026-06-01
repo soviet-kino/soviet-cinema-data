@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q7758559
   imdb: tt0180633
+  tmdb: 33243
 sources:
 - https://www.wikidata.org/wiki/Q7758559
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: milo-miranovich
 - person: lupa-peter
 - person: arsic-tihomir
+poster_tmdb_path: /bhVnqJQWL8zU8AL40a81P67tIbu.jpg
+backdrop_tmdb_path: /ffR5kTg4PCdbdE8C8LEwLWqTM2Y.jpg

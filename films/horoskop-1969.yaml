@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12760908
   imdb: tt0123107
+  tmdb: 298466
 sources:
 - https://www.wikidata.org/wiki/Q12760908
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mandich-velko
 - person: simich-slavko
 - person: kandich-milosh
+poster_tmdb_path: /cRNAao7b40vkZoGXCeTzKrCMxOX.jpg
+backdrop_tmdb_path: /mMDhsKfcoAx0PkTCCN22cI3Diid.jpg

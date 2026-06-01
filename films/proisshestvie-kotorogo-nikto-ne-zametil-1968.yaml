@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4380259
   imdb: tt0299100
+  tmdb: 334066
 sources:
 - https://www.wikidata.org/wiki/Q4380259
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: titova-vera-alekseevna
 studio:
 - lenfilm
+poster_tmdb_path: /vut9XdO5uOiCijjUbl5ChlqM8MG.jpg
+backdrop_tmdb_path: /uhWVQ4dHjEGPFJwiggF9KJgETr8.jpg

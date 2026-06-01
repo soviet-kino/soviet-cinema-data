@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11785093
   imdb: tt0172816
+  tmdb: 456394
 sources:
 - https://www.wikidata.org/wiki/Q11785093
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: utrata-kazimera
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /4P5GwZinh3wbDyGrKe776tyzA7i.jpg
+backdrop_tmdb_path: /sb619x180JFlbEMEuumza7VATzr.jpg

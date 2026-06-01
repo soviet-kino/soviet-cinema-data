@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q9274173
   imdb: tt0058148
+  tmdb: 157062
 sources:
 - https://www.wikidata.org/wiki/Q9274173
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - turskiy-zbignev
 cast:
 - person: chizhevskaya-elzhbeta
+poster_tmdb_path: /yaPeP02wc68iLKDXSaCkNuDxAzd.jpg

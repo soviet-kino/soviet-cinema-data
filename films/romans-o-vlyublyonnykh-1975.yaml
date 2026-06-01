@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4397389
   imdb: tt0072096
   youtube: Mu0vgl7IXZQ
+  tmdb: 195823
 sources:
 - https://www.wikidata.org/wiki/Q4397389
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: ryzhov-ivan-petrovich
 - person: samoylov-aleksandr-vladimirovich
 - person: solodova-elizaveta-mikhaylovna
+poster_tmdb_path: /3W6OdOs5gamPcYeOdFfZsVUTF2u.jpg
+backdrop_tmdb_path: /scXVzYC3Q1XnDlXIhUX1KcXEWBT.jpg

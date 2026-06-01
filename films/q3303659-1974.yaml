@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q3303659
   imdb: tt0173193
+  tmdb: 393153
 sources:
 - https://www.wikidata.org/wiki/Q3303659
 schema_version: 1
+poster_tmdb_path: /Bfj1x1R2ncSTmMnbcCW24NgEMG.jpg
+backdrop_tmdb_path: /lm3n7RzUmHnOUzrxNnLOPrxPrOF.jpg

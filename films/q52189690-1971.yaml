@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52189690
   imdb: tt1589489
+  tmdb: 1440614
 sources:
 - https://www.wikidata.org/wiki/Q52189690
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - martsel-yankovich
 - nepp-yozhef
+poster_tmdb_path: /rgBYLFremlqr4GnIZ4ePMn3QHfY.jpg

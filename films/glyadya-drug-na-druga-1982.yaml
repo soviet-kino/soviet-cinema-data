@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q1475218
   imdb: tt0083872
+  tmdb: 100215
 sources:
 - https://www.wikidata.org/wiki/Q1475218
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yankovskaya-tseslyak-yadviga
 - person: andorai-peter
 - person: khernadi-yudit
+poster_tmdb_path: /5pAhdDMbrPAhP8WWkvhprUxZB4T.jpg
+backdrop_tmdb_path: /jDiv0GWoulxwDCTfO0ErA2VpjEX.jpg

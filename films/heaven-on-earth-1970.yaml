@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9303287
   imdb: tt0066282
+  tmdb: 577861
 sources:
 - https://www.wikidata.org/wiki/Q9303287
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: zat-oka-stanis-aw
 - person: zaorski-andrzej
 - person: litvin-kshishtof
+poster_tmdb_path: /k3wEMpyHzjWvPIPLxgVjYh7hAiT.jpg
+backdrop_tmdb_path: /gowkaBjMNV3iLxw2eZXVQ7bIZNr.jpg

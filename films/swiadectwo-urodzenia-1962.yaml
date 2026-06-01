@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q11838608
   imdb: tt0055492
+  tmdb: 217411
 sources:
 - https://www.wikidata.org/wiki/Q11838608
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: hryniewicz-henryk
 - person: teryks-jozef
 - person: barszczewska-beata
+poster_tmdb_path: /sBnX1rHg7KTJQdMXxTCK2hK9Lav.jpg
+backdrop_tmdb_path: /cjDYon5hKwXsrGL9Fel7WgivRPP.jpg

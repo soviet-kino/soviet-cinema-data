@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1475762
   imdb: tt0033829
+  tmdb: 1246118
 sources:
 - https://www.wikidata.org/wiki/Q1475762
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: szoreghy-gyula
 studio:
 - mafilm
+poster_tmdb_path: /96KfswMunK24l3RiDAxJP4syoWl.jpg

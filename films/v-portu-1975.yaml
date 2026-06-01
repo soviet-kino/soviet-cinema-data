@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q4101793
   imdb: tt3463276
+  tmdb: 219022
 sources:
 - https://www.wikidata.org/wiki/Q4101793
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - minkov-mark-anatolevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zNTkQKY0Yfmtq0en8fsj3bSNsE9.jpg
+backdrop_tmdb_path: /s4WPjVrQT8CyHf0I1WAHE5y157j.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20001724
   imdb: tt1883379
+  tmdb: 198873
 sources:
 - https://www.wikidata.org/wiki/Q20001724
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - sazonov-panteleymon-petrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /j8xDYHAnymSlszLRi47sPdTJLa4.jpg
+backdrop_tmdb_path: /dez1faZ3ULJHfnBltmkEq1x8ulk.jpg

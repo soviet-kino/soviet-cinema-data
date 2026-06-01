@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16355048
   imdb: tt0266491
   youtube: 4fvTYykV1js
+  tmdb: 143822
 sources:
 - https://www.wikidata.org/wiki/Q16355048
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - brauns-martinsh
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /twSHGinKjiPtLty2oGmO8D22TRT.jpg
+backdrop_tmdb_path: /zZb3ldB4FU8uUnJvjxGCy3tlgKn.jpg

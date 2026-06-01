@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876433
   imdb: tt0141977
+  tmdb: 936682
 sources:
 - https://www.wikidata.org/wiki/Q44876433
 schema_version: 1
 director:
 - belasha-sabin
+poster_tmdb_path: /3d09yVDs55sRSjjJUn2srmqYPSv.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4514934
   imdb: tt0229298
   youtube: LhfklcluLSw
+  tmdb: 642285
 sources:
 - https://www.wikidata.org/wiki/Q4514934
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: glazunov-osvald-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /vgJC2KzBvixidWaXo8wUtmVFKY4.jpg

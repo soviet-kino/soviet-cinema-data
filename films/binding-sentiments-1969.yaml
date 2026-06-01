@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q114676714
   imdb: tt0063075
+  tmdb: 343450
 sources:
 - https://www.wikidata.org/wiki/Q114676714
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - mesarosh-marta
 screenwriter:
 - mesarosh-marta
+poster_tmdb_path: /rSLG3RwBCI6ar36ROhjNAts0iET.jpg
+backdrop_tmdb_path: /sESihFuxmXfz7pB6F6vP4btyYP5.jpg

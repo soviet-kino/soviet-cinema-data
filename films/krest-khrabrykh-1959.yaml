@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q11750019
   imdb: tt0052980
+  tmdb: 81209
 sources:
 - https://www.wikidata.org/wiki/Q11750019
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: khronitskiy-adolf
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /6Vprr29kRS84Y4io47Q1oNd6tDI.jpg
+backdrop_tmdb_path: /hegmMJL2bmzl2ArPXjsKa4MJUeu.jpg

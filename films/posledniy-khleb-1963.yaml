@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17043440
   imdb: tt5019796
   youtube: LGXoAS3JJOg
+  tmdb: 689371
 sources:
 - https://www.wikidata.org/wiki/Q17043440
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - fradkin-mark
 studio:
 - belarusfilm
+poster_tmdb_path: /h1nGyTc0Dj7Sp1sQ70lQA6ZPXGE.jpg
+backdrop_tmdb_path: /i7k5mZyoz41Pq2h5Y7TLpogQgol.jpg

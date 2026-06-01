@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q1247991
   imdb: tt0051693
+  tmdb: 163774
 sources:
 - https://www.wikidata.org/wiki/Q1247991
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kvrgic-pero
 - person: kon-mariya
 - person: ivezic-ur-a
+poster_tmdb_path: /aySEEht5iqeFLv0moKMG5aWeRLe.jpg
+backdrop_tmdb_path: /3LAxBL5g2An5W33eyqaRPN6OxJH.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9335829
   imdb: tt0091930
+  tmdb: 574850
 sources:
 - https://www.wikidata.org/wiki/Q9335829
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: kopachevskiy-yaroslav
 - person: mulyarchuk-irzhi
 - person: strasburger-karol
+poster_tmdb_path: /Av8h2iY50u6iawbOOgmdkBhFycd.jpg

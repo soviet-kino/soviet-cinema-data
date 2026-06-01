@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7766821
   imdb: tt0059033
+  tmdb: 2257
 sources:
 - https://www.wikidata.org/wiki/Q7766821
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: flyorkhinger-martin
 - person: shvabe-villi
 - person: wei-siegfried
+poster_tmdb_path: /7sg9GAE8olW4bOLDc5PLkefKH4s.jpg

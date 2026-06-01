@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q18180843
   imdb: tt0088926
+  tmdb: 316491
 sources:
 - https://www.wikidata.org/wiki/Q18180843
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ritsyu-ion
 - person: marinescu-gilda
 - person: komanichi-viorel
+poster_tmdb_path: /z8uy0cqTfrjVN3T0IV9dBAI5gwn.jpg
+backdrop_tmdb_path: /2BpcuwN74vjH8nbPeCDACxnclnc.jpg

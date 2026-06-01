@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3509295
   imdb: tt0076443
+  tmdb: 287205
 sources:
 - https://www.wikidata.org/wiki/Q3509295
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 studio:
 - yadran-film
 - kroatiya-film
+poster_tmdb_path: /px6lgYpUzBATwYeqpkrEE7ubt1P.jpg
+backdrop_tmdb_path: /hXd7leMccE9VgoPCAEUwCvPnSl8.jpg

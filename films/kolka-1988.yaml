@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q112270534
   imdb: tt0148384
   youtube: BXRuhFi9J5E
+  tmdb: 447297
 sources:
 - https://www.wikidata.org/wiki/Q112270534
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - erkenov-khuseyn-salavatovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /CMq7TjlBnARd1f79bm6dAq48HE.jpg

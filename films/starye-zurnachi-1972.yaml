@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4440992
   imdb: tt0826518
+  tmdb: 1415606
 sources:
 - https://www.wikidata.org/wiki/Q4440992
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - eliozishvili-merab-abelovich
 composer:
 - kancheli-giya-aleksandrovich
+poster_tmdb_path: /jPCJoTh6nzF9HEAoMZobhnzfnGO.jpg

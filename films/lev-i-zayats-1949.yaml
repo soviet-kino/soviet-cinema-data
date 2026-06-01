@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4256174
   imdb: tt6253442
+  tmdb: 448047
 sources:
 - https://www.wikidata.org/wiki/Q4256174
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - levitin-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /eLaxQlupl9sc1hepbUTVaaKiypS.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12100601
   imdb: tt5665560
+  tmdb: 636773
 sources:
 - https://www.wikidata.org/wiki/Q12100601
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - voytetskiy-artur-iosifovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lIxcY3AJ8bfHribsaMdF2IIXQup.jpg

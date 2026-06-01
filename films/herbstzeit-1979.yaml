@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q1609548
   imdb: tt0123884
+  tmdb: 420173
 sources:
 - https://www.wikidata.org/wiki/Q1609548
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: gohler-sigrid
 - person: kamenik-werner
 - person: brunecker-wolfgang
+poster_tmdb_path: /zTLm49IfjHJZuILm8dhsNcU7yQh.jpg

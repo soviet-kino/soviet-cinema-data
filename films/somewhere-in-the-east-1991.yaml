@@ -8,8 +8,10 @@ runtime_min: 84
 external_ids:
   wikidata: Q44876227
   imdb: tt0103165
+  tmdb: 248210
 sources:
 - https://www.wikidata.org/wiki/Q44876227
 schema_version: 1
 director:
 - merdzhinyanu-nikolae
+poster_tmdb_path: /qMicAF1MrlpT1KDYqX6HSeB8QdF.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187345
   imdb: tt1418213
+  tmdb: 1642694
 sources:
 - https://www.wikidata.org/wiki/Q31187345
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: pritsa-alma
 - person: muzaferiya-zaim
 - person: alich-bozhidar
+poster_tmdb_path: /sEA3bxliq4ks9KV6pUrbiAdzhFo.jpg

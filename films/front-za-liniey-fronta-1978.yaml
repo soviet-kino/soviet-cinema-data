@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4493031
   imdb: tt0076056
   youtube: _aRPv9rjABQ
+  tmdb: 269409
 sources:
 - https://www.wikidata.org/wiki/Q4493031
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: polskikh-galina
 - person: lapikov-ivan-gerasimovich
 - person: matveev-evgeniy-semyonovich
+poster_tmdb_path: /u5qIyxUfjvWEueXtE5qMJuv9D12.jpg
+backdrop_tmdb_path: /ljL6K2LdhjTGqGHmaDFS8DjOjiW.jpg

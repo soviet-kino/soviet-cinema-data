@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97832626
   imdb: tt5503064
   youtube: q3vIr5gpmKY
+  tmdb: 396943
 sources:
 - https://www.wikidata.org/wiki/Q97832626
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: prozorovskiy-nikolay-petrovich
 studio:
 - sovkino
+poster_tmdb_path: /oL8uDSSfx4J9s4VKrLMNPTnkVOp.jpg

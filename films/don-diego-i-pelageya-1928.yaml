@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q24041152
   imdb: tt0018844
+  tmdb: 189917
 sources:
 - https://www.wikidata.org/wiki/Q24041152
 schema_version: 1
@@ -25,3 +26,4 @@ studio:
 - mezhrabpomfilm
 - mezhrabpom-rus
 poster_commons: Плакат фильма «Дон Диего и Пелагея».jpg
+poster_tmdb_path: /ngxOds5gEuOMPPjmFRrahWwyoA7.jpg

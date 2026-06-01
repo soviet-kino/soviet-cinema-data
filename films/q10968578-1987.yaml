@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q10968578
   imdb: tt0298180
+  tmdb: 846539
 sources:
 - https://www.wikidata.org/wiki/Q10968578
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - lera-nasi
 composer:
 - simaku-thomas
+poster_tmdb_path: /j8gqnZUxoFCrGv20XqWGrbtNfDo.jpg
+backdrop_tmdb_path: /4PxwiMEer3l2cO8AYRijRPkXnYB.jpg

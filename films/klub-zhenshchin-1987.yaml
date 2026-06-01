@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4224173
   imdb: tt0298957
   youtube: 4W36PLsyI_E
+  tmdb: 895740
 sources:
 - https://www.wikidata.org/wiki/Q4224173
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: mitrushina-tatyana
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /rwvabsGtiBkyTYbtLtCCb8mCJWX.jpg

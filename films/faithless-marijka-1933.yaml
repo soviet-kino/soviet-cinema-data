@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q12121665
   imdb: tt0187269
+  tmdb: 258699
 sources:
 - https://www.wikidata.org/wiki/Q12121665
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: bircakova-olena
 - person: gluckova-ester
 - person: herskovic-slojm
+poster_tmdb_path: /i0Si7ACvcTvp5Q2JDLQDOVSJOfP.jpg

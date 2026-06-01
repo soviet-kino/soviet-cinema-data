@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q5326745
   imdb: tt0177158
+  tmdb: 504513
 sources:
 - https://www.wikidata.org/wiki/Q5326745
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: vuisich-pavle
 - person: nardelli-vjera-zagar
 - person: iva-maryanovich
+poster_tmdb_path: /dpIOZgcoQXO1VHfW0sVjUplqjaM.jpg

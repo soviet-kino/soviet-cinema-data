@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4285433
   imdb: tt0129227
   youtube: RHItvldqbJU
+  tmdb: 533921
 sources:
 - https://www.wikidata.org/wiki/Q4285433
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: papanov-anatoliy-dmitrievich
 - person: matveev-evgeniy-semyonovich
+poster_tmdb_path: /hXrXyClFBQANO9wYGUtMy5kDIZc.jpg
+backdrop_tmdb_path: /sVhehA3uhRwoMs3AU6Vp1mDx5K.jpg

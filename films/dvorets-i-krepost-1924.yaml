@@ -8,6 +8,7 @@ runtime_min: 58
 external_ids:
   wikidata: Q24041172
   imdb: tt0014009
+  tmdb: 799405
 sources:
 - https://www.wikidata.org/wiki/Q24041172
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - lenfilm
 - sovkino
 poster_commons: Dvorec I krepost.jpg
+poster_tmdb_path: /wtyPbn80O8vnu3oXRdjFAMQKQR1.jpg

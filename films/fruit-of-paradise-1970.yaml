@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q5506404
   imdb: tt0064781
+  tmdb: 80080
 sources:
 - https://www.wikidata.org/wiki/Q5506404
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: albert-julius
 - person: auspergerova-alice
 - person: huskova-blanka
+poster_tmdb_path: /gIHVHcX4AF8PQCcIYc0IJe9SQas.jpg
+backdrop_tmdb_path: /dZpyZxO0y9UwuiAXssGK0nUwGX3.jpg

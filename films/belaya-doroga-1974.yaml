@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200643
   imdb: tt5356016
+  tmdb: 1530545
 sources:
 - https://www.wikidata.org/wiki/Q65200643
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - krylatov-evgeniy
 studio:
 - tadzhikfilm
+poster_tmdb_path: /hhAk35O7FmC07jKFGDBvdx7xNAI.jpg

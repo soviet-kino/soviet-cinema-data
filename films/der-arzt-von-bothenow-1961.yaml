@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5261128
   imdb: tt0230007
+  tmdb: 441020
 sources:
 - https://www.wikidata.org/wiki/Q5261128
 schema_version: 1
 director:
 - knittel-yokhannes
+poster_tmdb_path: /mShAS4Lx2XVNHoZFs13cc1tCBhE.jpg

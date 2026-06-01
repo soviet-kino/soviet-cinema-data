@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7046288
   imdb: tt0062048
+  tmdb: 269589
 sources:
 - https://www.wikidata.org/wiki/Q7046288
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: dykova-eva
 - person: maskova-marie
 - person: ocenasek-vladimir
+poster_tmdb_path: /pHtUVROi1JizYoClbjs8YWJ7m7D.jpg
+backdrop_tmdb_path: /6zgS2wiNjhWkfBLzKmXbRdXWfsI.jpg

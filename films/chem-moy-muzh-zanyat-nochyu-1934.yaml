@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5137566
   imdb: tt0150156
+  tmdb: 155860
 sources:
 - https://www.wikidata.org/wiki/Q5137566
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: jarosy-fryderyk
 - person: q108669293
 poster_commons: Co mój mąż robi w nocy 1934.jpg
+poster_tmdb_path: /sGEdYKDt4w1Ec6ZIKY73MvOmDsG.jpg

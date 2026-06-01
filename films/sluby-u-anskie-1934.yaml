@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9395451
   imdb: tt0025802
+  tmdb: 856010
 sources:
 - https://www.wikidata.org/wiki/Q9395451
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: zhabchinskiy-aleksandr-bozhidar
 - person: modzelevskaya-mariya
 - person: q61944455
+poster_tmdb_path: /dbMNc4mEb8XrLZYkOGUQjW4BEgT.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156435
   imdb: tt0291130
   youtube: twsdRAcsar8
+  tmdb: 438214
 sources:
 - https://www.wikidata.org/wiki/Q4156435
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: georgiu-georgiy-aleksandrovich
 - person: kravchenko-galina-sergeevna
 - person: murzaeva-irina-vsevolodovna
+poster_tmdb_path: /7IVJbZKDI2HfrvD8TNs3gIulhF7.jpg
+backdrop_tmdb_path: /7QmOAFtQERoQXNpR2dauvjeAnXx.jpg

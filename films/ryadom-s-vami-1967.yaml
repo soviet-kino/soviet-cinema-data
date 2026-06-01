@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q113579032
   imdb: tt5071512
   youtube: ttBBeTlmzCA
+  tmdb: 540671
 sources:
 - https://www.wikidata.org/wiki/Q113579032
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - kaplinskaya-elena-sergeevna
 studio:
 - belarusfilm
+poster_tmdb_path: /kWowIv3EY30Jw8YReFHdyIb5UnY.jpg
+backdrop_tmdb_path: /5KhQjyGfsnLP9txYl6ADguQOYcO.jpg

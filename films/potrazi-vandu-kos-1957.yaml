@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757662
   imdb: tt0173028
+  tmdb: 284824
 sources:
 - https://www.wikidata.org/wiki/Q12757662
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: spiridonovic-olga
 - person: starcic-viktor
 - person: zarko-mitrovich
+poster_tmdb_path: /czFet0U7jbRrm3V625H5aNM5GcN.jpg
+backdrop_tmdb_path: /6IWhSza4NVPBLHMT5fHBTcZOX15.jpg

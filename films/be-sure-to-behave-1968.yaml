@@ -8,6 +8,7 @@ runtime_min: 22
 external_ids:
   wikidata: Q122661815
   imdb: tt0361279
+  tmdb: 466627
 sources:
 - https://www.wikidata.org/wiki/Q122661815
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: dvorska-milena
 - person: petrenko-martin
 - person: dobrovoda-lubomir
+poster_tmdb_path: /362srwok1cixaYKHe10dWNzcAMa.jpg

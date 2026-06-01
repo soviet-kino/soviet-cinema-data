@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q116865045
   imdb: tt12210678
+  tmdb: 1521367
 sources:
 - https://www.wikidata.org/wiki/Q116865045
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - zhubanova-gaziza-akhmetovna
 studio:
 - kazakhfilm
+poster_tmdb_path: /6tEFdoMNbmrTSBgbpYiV11MB06U.jpg

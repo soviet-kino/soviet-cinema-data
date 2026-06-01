@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q12763919
   imdb: tt0243170
+  tmdb: 1039120
 sources:
 - https://www.wikidata.org/wiki/Q12763919
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: kovacikova-hana
 - person: kakosova-dana
 - person: matousek-frantisek
+poster_tmdb_path: /h3ei72LnuDS0jgzcKoIeAFTqQVi.jpg

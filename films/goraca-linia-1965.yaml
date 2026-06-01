@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9274684
   imdb: tt0059239
+  tmdb: 945599
 sources:
 - https://www.wikidata.org/wiki/Q9274684
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: koecher-jan
 - person: shcherbits-ioanna
 - person: skolimowski-lech
+poster_tmdb_path: /auP3ifszBQsLqWZnCzmyjNLLIeo.jpg

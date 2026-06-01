@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2513681
   imdb: tt0059550
   youtube: xJ5iHFSdAU4
+  tmdb: 20875
 sources:
 - https://www.wikidata.org/wiki/Q2513681
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Arkhangelskoye Vadim Zadorozhnys Vehicle Museum S-3A IMG 9619 2150.jpg
+poster_tmdb_path: /UObZrxhJklRmaOepUS9iTs9x4f.jpg
+backdrop_tmdb_path: /k9r86oHFo06ZC21zw2FkRD9wcJX.jpg

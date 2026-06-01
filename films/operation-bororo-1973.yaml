@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q10727897
   imdb: tt0182686
+  tmdb: 47323
 sources:
 - https://www.wikidata.org/wiki/Q10727897
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: veles-luis
 - person: zatkova-libuse
 - person: morales-jose-luis
+poster_tmdb_path: /iIznZ0b9uXy9SNc5FF7k3Vyu4L2.jpg
+backdrop_tmdb_path: /lRhyayaLtee2gh9i3n6eAgaTv14.jpg

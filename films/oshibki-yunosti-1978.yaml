@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q5395734
   imdb: tt0078041
+  tmdb: 76256
 sources:
 - https://www.wikidata.org/wiki/Q5395734
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: arkhipova-nina
 studio:
 - lenfilm
+poster_tmdb_path: /lIxiiMd7XoRYDc3g1EuP3jacugo.jpg
+backdrop_tmdb_path: /ri0Hm6E5mWKPhaKMgU29XyrUeCY.jpg

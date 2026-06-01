@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4338620
   imdb: tt0237528
   youtube: tJhqJWDUvqU
+  tmdb: 694576
 sources:
 - https://www.wikidata.org/wiki/Q4338620
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: grachyov-anatoliy-dmitrievich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /x7EiKToutx8ZTK16mqAeKg6VEYQ.jpg
+backdrop_tmdb_path: /hnhduSTdybx2JQ2U8FRVlnthwnx.jpg

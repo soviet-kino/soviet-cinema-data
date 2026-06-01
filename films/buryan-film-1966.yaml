@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12085674
   imdb: tt0290492
+  tmdb: 254604
 sources:
 - https://www.wikidata.org/wiki/Q12085674
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: brondukov-borislav-nikolaevich
 - person: mikolaychuk-ivan-vasilevich
 - person: ilchenko-daniil-ivanovich
+poster_tmdb_path: /mAFQswc1SNJPI5BVzx3YUBzCkOO.jpg
+backdrop_tmdb_path: /1walhuwzwGSI6Eq5rMN5lt2LdFF.jpg

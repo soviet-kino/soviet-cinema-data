@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4226051
   imdb: tt0056147
+  tmdb: 533490
 sources:
 - https://www.wikidata.org/wiki/Q4226051
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - lenfilm
 cast:
 - person: emelyanov-vladimir-nikolaevich
+poster_tmdb_path: /xv5IIikfgpzM4bFnjMkb0jG47HO.jpg
+backdrop_tmdb_path: /ktuwzk7c306bpPqsysTVPxw0ZrH.jpg

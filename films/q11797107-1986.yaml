@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11797107
   imdb: tt0091675
+  tmdb: 899010
 sources:
 - https://www.wikidata.org/wiki/Q11797107
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: grushnits-iolanta
 - person: charewicz-leon
 - person: siudim-marek
+poster_tmdb_path: /urvIZiBHWzB4gv7ETsd2Gr7rIqL.jpg
+backdrop_tmdb_path: /AqQyzFCR3srufyepNG912RDLXef.jpg

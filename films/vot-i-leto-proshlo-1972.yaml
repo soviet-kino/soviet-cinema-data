@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84994330
   imdb: tt1718952
   youtube: WwY0BKJsYgk
+  tmdb: 422197
 sources:
 - https://www.wikidata.org/wiki/Q84994330
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - inin-arkadiy
 studio:
 - belarusfilm
+poster_tmdb_path: /pmPEpZvj813kapbWadELsxtB0Ev.jpg

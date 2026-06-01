@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1976498
   imdb: tt0040601
   youtube: 4obe6uyD_eY
+  tmdb: 106248
 sources:
 - https://www.wikidata.org/wiki/Q1976498
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 poster_commons: Кадр из фильма Молодая гвардия.jpg
+poster_tmdb_path: /rwp44V30Bx49fLFMkwyf6QhuCYw.jpg
+backdrop_tmdb_path: /8lj2S7Mf9pEOVDBNg2WTJpIBPXp.jpg

@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q4452967
   imdb: tt0316730
+  tmdb: 262991
 sources:
 - https://www.wikidata.org/wiki/Q4452967
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - uzbekfilm
 cast:
 - person: vorobey-vladimir-vatslavovich
+poster_tmdb_path: /mwyx1HGCexxiXv8pMv974IUgVjl.jpg
+backdrop_tmdb_path: /5vbcfKedS4IYPnHCI4HkX2FrnsI.jpg

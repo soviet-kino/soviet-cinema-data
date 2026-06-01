@@ -8,6 +8,7 @@ runtime_min: 134
 external_ids:
   wikidata: Q11011015
   imdb: tt0086531
+  tmdb: 341201
 sources:
 - https://www.wikidata.org/wiki/Q11011015
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: lepetich-zvonko
 - person: arsic-tihomir
 - person: q16081966
+poster_tmdb_path: /AksnqJT4KMG1p0k8YRJDdS1qT1v.jpg
+backdrop_tmdb_path: /k8BdOrDAcGdfN2y12IRAb8GSIII.jpg

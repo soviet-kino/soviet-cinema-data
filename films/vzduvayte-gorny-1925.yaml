@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q109428720
   imdb: tt0334678
+  tmdb: 793390
 sources:
 - https://www.wikidata.org/wiki/Q109428720
 schema_version: 1
 studio:
 - goskino
+poster_tmdb_path: /1DN6UE5JqfuudoVdQZU2m4uDb5t.jpg

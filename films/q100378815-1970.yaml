@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q100378815
   imdb: tt1404015
+  tmdb: 604409
 sources:
 - https://www.wikidata.org/wiki/Q100378815
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: mann-diter
 studio:
 - defa
+poster_tmdb_path: /rXuej8UivP5S1jS3tB4vE5XMJAO.jpg

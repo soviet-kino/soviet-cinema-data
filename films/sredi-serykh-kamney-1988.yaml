@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q1571265
   imdb: tt0173240
+  tmdb: 196146
 sources:
 - https://www.wikidata.org/wiki/Q1571265
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ruslanova-nina-ivanovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /p1BHZATAXE3SsTOGGAUg6Ebjotc.jpg
+backdrop_tmdb_path: /jtDSuTCJQoqmrtNW4EToUTMdfuh.jpg

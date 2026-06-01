@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4259969
   imdb: tt0097730
   youtube: cr-WmROmts8
+  tmdb: 70969
 sources:
 - https://www.wikidata.org/wiki/Q4259969
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: menshikov-oleg-evgenevich
 studio:
 - mosfilm
+poster_tmdb_path: /wOn2k1uQNus95HKYO3YxFekEX7r.jpg
+backdrop_tmdb_path: /ePNqSuv1Gz19VWzlwLxUxUS8Obu.jpg

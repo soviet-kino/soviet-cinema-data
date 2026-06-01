@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12028988
   imdb: tt0041538
+  tmdb: 266868
 sources:
 - https://www.wikidata.org/wiki/Q12028988
 schema_version: 1
@@ -66,3 +67,5 @@ cast:
 - person: st-gaspar-arbet
 - person: sandor-jozef
 - person: pavlicek-rudolf
+poster_tmdb_path: /oZhAc0N4TzfmV2SnUm7zXT07FM0.jpg
+backdrop_tmdb_path: /hgcINKimBWpwtr4rMdYb7D7eVA1.jpg

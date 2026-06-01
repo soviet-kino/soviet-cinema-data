@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q254892
   imdb: tt0074784
+  tmdb: 11809
 sources:
 - https://www.wikidata.org/wiki/Q254892
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - mosfilm
 cast:
 - person: ulfsak-lembit-yukhanovich
+poster_tmdb_path: /mV3AHyHkU6xL5IIGUcfIKIGZ4Mf.jpg
+backdrop_tmdb_path: /uaicrVUgVxHGS8SZppAacdv0Wm9.jpg

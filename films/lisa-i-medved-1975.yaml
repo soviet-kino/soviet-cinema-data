@@ -8,6 +8,7 @@ runtime_min: 539
 external_ids:
   wikidata: Q16514576
   imdb: tt3256478
+  tmdb: 1437772
 sources:
 - https://www.wikidata.org/wiki/Q16514576
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - savelev-boris
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /k4imfcFxOxXXwixyGh5BFN0Rz3J.jpg
+backdrop_tmdb_path: /e6NuWOO0OpkGJo9AeIc3ZkG35sI.jpg

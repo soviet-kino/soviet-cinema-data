@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9174718
   imdb: tt0169632
+  tmdb: 590383
 sources:
 - https://www.wikidata.org/wiki/Q9174718
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 studio:
 - polskoe-televidenie
 - iluzjon
+poster_tmdb_path: /atV8RIDimNEQbFbRHs87gfcAGji.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131908458
   imdb: tt0352303
+  tmdb: 1367484
 sources:
 - https://www.wikidata.org/wiki/Q131908458
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: toma-svetlana
 - person: gritsevskiy-vladimir-vladimirovich
+poster_tmdb_path: /jwSK8yxJG59aZEkQNF2ySIyY9VX.jpg

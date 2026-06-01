@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4264426
   imdb: tt0170162
   youtube: 6i8aTPJo83o
+  tmdb: 63576
 sources:
 - https://www.wikidata.org/wiki/Q4264426
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: gundareva-natalya-georgievna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /tGc8ozUU83bkY9I7jDoV5mjCmGN.jpg
+backdrop_tmdb_path: /2VrD9XDj5giup1ezgj6zpDNdvfi.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65198931
   imdb: tt0081786
+  tmdb: 531462
 sources:
 - https://www.wikidata.org/wiki/Q65198931
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - mkrtchyan-albert
 studio:
 - mosfilm
+poster_tmdb_path: /w37aL3PUYhlyaiiPdJdFmKQWA89.jpg
+backdrop_tmdb_path: /5WW4ZVPhIP4cXuM2KuUCCufyTcv.jpg

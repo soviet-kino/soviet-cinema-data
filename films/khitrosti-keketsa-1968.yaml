@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q1730981
   imdb: tt0063177
+  tmdb: 69355
 sources:
 - https://www.wikidata.org/wiki/Q1730981
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: zupan-khose
 - person: vidmajer-jasna
 poster_commons: Kekčeve ukane 1969.jpg
+poster_tmdb_path: /qxhJNKy9WBCnr20cH3gmDTyPDpB.jpg
+backdrop_tmdb_path: /bMqkDcUhDWIvOCtcDKLY0DB66AP.jpg

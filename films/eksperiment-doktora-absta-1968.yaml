@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4530568
   imdb: tt0062928
   youtube: X6knCrOYczA
+  tmdb: 409865
 sources:
 - https://www.wikidata.org/wiki/Q4530568
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: noreyka-laymonas
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /jizbonKPRmASvnUbIUXcwLdGws7.jpg
+backdrop_tmdb_path: /cIF0q1ms2gk8o5txhKMjpJTdWgj.jpg

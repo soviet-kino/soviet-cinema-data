@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q15270922
   imdb: tt0476585
+  tmdb: 381434
 sources:
 - https://www.wikidata.org/wiki/Q15270922
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nosik-vladimir
 studio:
 - mosfilm
+poster_tmdb_path: /5HN1kWhtUqEg3M4B9N48M40V4Ma.jpg
+backdrop_tmdb_path: /yDXymyOMUAvdFwXSvnoxZQOqjyR.jpg

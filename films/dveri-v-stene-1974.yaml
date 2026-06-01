@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q9212633
   imdb: tt0071443
+  tmdb: 156702
 sources:
 - https://www.wikidata.org/wiki/Q9212633
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: noymann-vanda
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /vgS59b9ClGjbrHYuYTAC8aMPM1E.jpg

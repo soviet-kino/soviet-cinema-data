@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11788517
   imdb: tt0071888
+  tmdb: 91536
 sources:
 - https://www.wikidata.org/wiki/Q11788517
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - parzynski-waldemar
 cast:
 - person: fronchevskiy-pyotr
+poster_tmdb_path: /z6eCrN5DmGKK7rztuvXQ9jEdeRn.jpg
+backdrop_tmdb_path: /1BY0hz74PEPIf0Zwx9BbPEPiUmU.jpg

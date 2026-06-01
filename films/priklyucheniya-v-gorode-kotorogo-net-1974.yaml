@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378452
   imdb: tt1673658
   youtube: De_Qo2T6nCc
+  tmdb: 347963
 sources:
 - https://www.wikidata.org/wiki/Q4378452
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nosik-valeriy-benediktovich
 studio:
 - belarusfilm
+poster_tmdb_path: /3akovSa0ZMcCjNPbAfjcqIxWFyJ.jpg
+backdrop_tmdb_path: /irjEf0df2GBQPHdvBGWZ2tVIWg4.jpg

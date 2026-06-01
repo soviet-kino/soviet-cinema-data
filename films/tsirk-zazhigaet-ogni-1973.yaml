@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q84994130
   imdb: tt0274172
   youtube: AEAhBUme5HE
+  tmdb: 605492
 sources:
 - https://www.wikidata.org/wiki/Q84994130
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: orlova-galina-petrovna
 - person: sanko-yola-ivanovna
 - person: shashkova-eleonora-petrovna
+poster_tmdb_path: /bR0J6S15nzxVBVi2m3ekPRKRtJU.jpg
+backdrop_tmdb_path: /udgNnBopUWC2lzIumKm3FpKfPAw.jpg

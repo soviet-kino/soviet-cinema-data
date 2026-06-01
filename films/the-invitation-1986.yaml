@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9387029
   imdb: tt0092281
+  tmdb: 572997
 sources:
 - https://www.wikidata.org/wiki/Q9387029
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - kiyovskiy-matsey
 composer:
 - marchevskiy-petr
+poster_tmdb_path: /zWOoJagc3FvGJZdXdzhQf56gFsv.jpg

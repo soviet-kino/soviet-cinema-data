@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20096023
   imdb: tt6295348
+  tmdb: 439627
 sources:
 - https://www.wikidata.org/wiki/Q20096023
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - karabits-ivan-fyodorovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /mToBokPQ5MEjJ8FQtl74YJ48Zxo.jpg

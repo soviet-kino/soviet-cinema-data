@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q7362416
   imdb: tt0025295
+  tmdb: 53848
 sources:
 - https://www.wikidata.org/wiki/Q7362416
 schema_version: 1
+poster_tmdb_path: /4VankL1HXGsRfLO8AIiHgTAawL4.jpg

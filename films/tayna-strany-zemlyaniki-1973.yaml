@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4449959
   imdb: tt6206356
+  tmdb: 343588
 sources:
 - https://www.wikidata.org/wiki/Q4449959
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - verbitskiy-leonid-lazarevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /kBwklZuYZ4zkHjdYTeuDpx67YoO.jpg

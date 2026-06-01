@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9255122
   imdb: tt0353425
+  tmdb: 456272
 sources:
 - https://www.wikidata.org/wiki/Q9255122
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: cobani-melpomeni
 studio:
 - albfilm
+poster_tmdb_path: /bMJYCg5l69dPo9Z3P1mKjKSltjH.jpg
+backdrop_tmdb_path: /fytOykrTrPwCct1186ItNeX5mla.jpg

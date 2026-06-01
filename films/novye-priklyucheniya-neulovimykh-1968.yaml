@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1982098
   imdb: tt0063369
   youtube: Lm6VVVkPm2s
+  tmdb: 65591
 sources:
 - https://www.wikidata.org/wiki/Q1982098
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: fedortsov-nikolay-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /vktr1YnxjGhYVfc7sc1Ci6qHgTf.jpg
+backdrop_tmdb_path: /bXkZI1GTPdI1huSjH7853GrKkeY.jpg

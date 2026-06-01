@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270516
   imdb: tt0351946
   youtube: qUkeJ_2bRuc
+  tmdb: 564398
 sources:
 - https://www.wikidata.org/wiki/Q15270516
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: Весенний поток (фильм).jpg
+poster_tmdb_path: /6Ka76sdCIxUpccP6DZwNd6CoJom.jpg
+backdrop_tmdb_path: /f6ietbPSRHAFILt42HZf0NhURdu.jpg

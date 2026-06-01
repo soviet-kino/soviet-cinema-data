@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q107587463
   imdb: tt0286318
+  tmdb: 423274
 sources:
 - https://www.wikidata.org/wiki/Q107587463
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: damentskiy-dobeslav
 - person: kunina-ewa
 poster_commons: Ewa Kunina i Jadwiga Andrzejewska.jpg
+poster_tmdb_path: /m2kNxKBqyLQlLjWTqe3VVhRddss.jpg

@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q29957234
   imdb: tt2789840
+  tmdb: 399841
 sources:
 - https://www.wikidata.org/wiki/Q29957234
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - bykanov-anatoliy-dmitrievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /aboNhkf9gywOQ3RF507O98qrs2n.jpg
+backdrop_tmdb_path: /uNrd72MYAwnA2yO5OdKEvC5ZhBh.jpg

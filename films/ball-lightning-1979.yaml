@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4851207
   imdb: tt0077821
+  tmdb: 36414
 sources:
 - https://www.wikidata.org/wiki/Q4851207
 schema_version: 1
@@ -81,3 +82,5 @@ cast:
 - person: jirkova-hana-2
 studio:
 - barrandov
+poster_tmdb_path: /amPAKx2nQ1Q4uTG7BDnMWFW9WhR.jpg
+backdrop_tmdb_path: /mQbtkbU5qiOuT33FaTEFrGYlfo4.jpg

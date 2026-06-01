@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q55002
   imdb: tt0084923
+  tmdb: 38869
 sources:
 - https://www.wikidata.org/wiki/Q55002
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: dykel-bozhena
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /nApikEIFRqnRgEDEWwipFHsG8Dj.jpg
+backdrop_tmdb_path: /kXoHXII5X4xf8tJrRABDee97YMS.jpg

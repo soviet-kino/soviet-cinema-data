@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11789295
   imdb: tt0295548
+  tmdb: 263011
 sources:
 - https://www.wikidata.org/wiki/Q11789295
 schema_version: 1
 director:
 - keko-dzhanfise
+poster_tmdb_path: /qNcLje29tdqjKtdZbYBdi8OtxIV.jpg
+backdrop_tmdb_path: /5WQWqdJAPrJ9QWOHIwLTn4OHkhd.jpg

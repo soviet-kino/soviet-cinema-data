@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q9353504
   imdb: tt0069283
+  tmdb: 389008
 sources:
 - https://www.wikidata.org/wiki/Q9353504
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - konechnyy-zygmunt
 cast:
 - person: pechka-frantishek
+poster_tmdb_path: /x14cMsODm9lrPjWITyOt8kUYlv1.jpg
+backdrop_tmdb_path: /jfFDEuExOPksNhBYNLN6y5P6h7R.jpg

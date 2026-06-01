@@ -8,6 +8,9 @@ runtime_min: 94
 external_ids:
   wikidata: Q54980
   imdb: tt0055158
+  tmdb: 240834
 sources:
 - https://www.wikidata.org/wiki/Q54980
 schema_version: 1
+poster_tmdb_path: /1D97I9gav0cMe66xQN0yARKJNbk.jpg
+backdrop_tmdb_path: /zrnUFXmQcLslC5Bcw9vSSp0oIvG.jpg

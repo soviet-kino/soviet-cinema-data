@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12837455
   imdb: tt1889369
+  tmdb: 526111
 sources:
 - https://www.wikidata.org/wiki/Q12837455
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - sabitoglu-emin
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /tZo8ftExf8AsQXHo2lsrKYDfpVi.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5287362
   imdb: tt0208912
+  tmdb: 320908
 sources:
 - https://www.wikidata.org/wiki/Q5287362
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: yunosha-stempovskiy-kazimezh
 - person: dardzinski-bronis-aw
 - person: ney-nora-2
+poster_tmdb_path: /iSdBE7MkOEvqs7fvBiX9R7f2DRK.jpg

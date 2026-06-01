@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1218426
   imdb: tt0172504
+  tmdb: 13298
 sources:
 - https://www.wikidata.org/wiki/Q1218426
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - defa
 - mongolkino
+poster_tmdb_path: /1KzGdsFQJ5VsuusS1rkbB8zveWe.jpg
+backdrop_tmdb_path: /uQGd6nn8ZdCXax4GIEgJM3vPLz8.jpg

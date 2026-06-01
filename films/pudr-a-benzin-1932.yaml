@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7258361
   imdb: tt0129326
+  tmdb: 246251
 sources:
 - https://www.wikidata.org/wiki/Q7258361
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: kobik-josef
 - person: mathar-battling
 poster_commons: Pudr a benzín (scéna z filmu).jpg
+poster_tmdb_path: /iwF6QXDc1yHDNMlc7EjdLdw3W4c.jpg

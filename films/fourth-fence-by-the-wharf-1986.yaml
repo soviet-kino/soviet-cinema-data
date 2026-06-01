@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726425
   imdb: tt0150620
+  tmdb: 627047
 sources:
 - https://www.wikidata.org/wiki/Q28726425
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - nicolae-cristiana
 studio:
 - radef
+poster_tmdb_path: /r1GRS4W9EKdV0xuoKgw71WDFOL9.jpg

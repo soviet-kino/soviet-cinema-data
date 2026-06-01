@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q570320
   imdb: tt0027231
+  tmdb: 201787
 sources:
 - https://www.wikidata.org/wiki/Q570320
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: bozyk-max
 - person: landau-samuel
 poster_commons: Yiddlemitnfid.jpg
+poster_tmdb_path: /hm2UvL7fC3u04GJ7ODCsax7Cbcn.jpg

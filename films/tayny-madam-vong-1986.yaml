@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4450012
   imdb: tt0090121
   youtube: xomXEU88h3U
+  tmdb: 264176
 sources:
 - https://www.wikidata.org/wiki/Q4450012
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - kazakhfilm
 - sovinfilm
+poster_tmdb_path: /rK4tcofWWsUvNYizxYMSiG9bII1.jpg
+backdrop_tmdb_path: /uPiUwmwk7qPcUr9szKrbGX0qijV.jpg

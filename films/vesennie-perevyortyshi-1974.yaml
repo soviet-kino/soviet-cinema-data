@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4109453
   imdb: tt0332811
+  tmdb: 422176
 sources:
 - https://www.wikidata.org/wiki/Q4109453
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: madyanov-roman-sergeevich
 studio:
 - lenfilm
+poster_tmdb_path: /9dv14dm5u2IE5OIaQkMOr2UBXCt.jpg

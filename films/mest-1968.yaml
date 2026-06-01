@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q86675990
   imdb: tt4338826
+  tmdb: 521566
 sources:
 - https://www.wikidata.org/wiki/Q86675990
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - masnik-ivan
 composer:
 - klusak-yan
+poster_tmdb_path: /ebKNGj05Vpx2WVKqHca64dLsZxl.jpg

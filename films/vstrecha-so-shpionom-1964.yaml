@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4127697
   imdb: tt0058608
+  tmdb: 393011
 sources:
 - https://www.wikidata.org/wiki/Q4127697
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: szymanska-natalia
 studio:
 - syrena-kinostudiya
+poster_tmdb_path: /91CWrsApykFGafd8MZLXlYUUvbS.jpg
+backdrop_tmdb_path: /h5NybB2Ssi5EsDWHr0nynqPvJ2g.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1555721
   imdb: tt0077676
+  tmdb: 289369
 sources:
 - https://www.wikidata.org/wiki/Q1555721
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: khaynrikh-yurgen
 - person: lirk-madlen
 - person: beyer-regina
+poster_tmdb_path: /og12yXY4xo0IXHVHzj60jLOcCCe.jpg

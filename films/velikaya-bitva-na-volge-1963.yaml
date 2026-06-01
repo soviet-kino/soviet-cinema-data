@@ -8,8 +8,10 @@ runtime_min: 75
 external_ids:
   wikidata: Q22583567
   imdb: tt0196182
+  tmdb: 271235
 sources:
 - https://www.wikidata.org/wiki/Q22583567
 schema_version: 1
 director:
 - slavinskaya-mariya-evgenevna
+poster_tmdb_path: /dTWXNmSmMxXcHXas0qJBxgQ3luR.jpg

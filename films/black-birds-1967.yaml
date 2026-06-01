@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3506739
   imdb: tt0061530
+  tmdb: 364273
 sources:
 - https://www.wikidata.org/wiki/Q3506739
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: mirich-voyya
 - person: serdar-ivo
 - person: kojadinovic-ugljesa
+poster_tmdb_path: /bXi07kDvNkoHxavcSw5grHDdbUn.jpg
+backdrop_tmdb_path: /o08FW8Z96I4kDX5dMwm54buDLjk.jpg

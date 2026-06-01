@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q19573395
   imdb: tt0170436
+  tmdb: 551279
 sources:
 - https://www.wikidata.org/wiki/Q19573395
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: surovi-uolter
 - person: wunsche-marion
 - person: wolf-elisabeth
+poster_tmdb_path: /cZTkpK1InvAUqy26C4LTBPW4Pda.jpg

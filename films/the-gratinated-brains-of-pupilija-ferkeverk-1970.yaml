@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q64877969
   imdb: tt0241497
+  tmdb: 260679
 sources:
 - https://www.wikidata.org/wiki/Q64877969
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - achimovich-godina-karpo
 screenwriter:
 - achimovich-godina-karpo
+poster_tmdb_path: /6EF1VYe9gRwLHc90J8DF4iweUL.jpg
+backdrop_tmdb_path: /k1RRZg8f3HE8lJ7G6Skx6o6LSVA.jpg

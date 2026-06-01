@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6150472
   imdb: tt0048223
   youtube: xOpIj2BTe9E
+  tmdb: 143829
 sources:
 - https://www.wikidata.org/wiki/Q6150472
 schema_version: 1
@@ -92,3 +93,4 @@ cast:
 - person: orlicky-jaroslav
 - person: q108147534
 - person: kleinhamplova-vera
+poster_tmdb_path: /bJb3ER8T5uqlHQqDkz719F8h71I.jpg

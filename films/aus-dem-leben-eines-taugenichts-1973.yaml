@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q777644
   imdb: tt0069743
+  tmdb: 275049
 sources:
 - https://www.wikidata.org/wiki/Q777644
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: bilenshtayn-monika
 studio:
 - defa
+poster_tmdb_path: /9EioEi9E3NZ1GyltqBc0cEKoe7s.jpg

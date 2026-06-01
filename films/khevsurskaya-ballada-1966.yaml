@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4497042
   imdb: tt0165813
+  tmdb: 295548
 sources:
 - https://www.wikidata.org/wiki/Q4497042
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: archvadze-tengiz-grigorevich
 - person: daushvili-kote
 - person: pilpani-levan-galaktionovich
+poster_tmdb_path: /lelIpoBGxPVVKrVELB36O8vrOeP.jpg
+backdrop_tmdb_path: /kpGtRTp3mqlGQRBNuhFIawYeGpl.jpg

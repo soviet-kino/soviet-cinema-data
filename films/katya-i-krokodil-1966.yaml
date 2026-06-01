@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q113087088
   imdb: tt0059350
+  tmdb: 471912
 sources:
 - https://www.wikidata.org/wiki/Q113087088
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: kucera-jaroslav-2
 studio:
 - barrandov
+poster_tmdb_path: /8mR51MOTUIuQGyMIwdbRNu7bsH2.jpg
+backdrop_tmdb_path: /a9eNiS9ZEhlK8VLN0lwNoajGipu.jpg

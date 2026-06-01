@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q1161607
   imdb: tt0029186
+  tmdb: 45028
 sources:
 - https://www.wikidata.org/wiki/Q1161607
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 screenwriter:
 - noti-karoli
 - gaal-bela
+poster_tmdb_path: /cS4hGZQu2nTkZ96uQAAgegktHxX.jpg

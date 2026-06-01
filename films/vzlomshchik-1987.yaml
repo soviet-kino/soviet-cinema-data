@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4110364
   imdb: tt0092186
   youtube: I2pkbSRbg30
+  tmdb: 142779
 sources:
 - https://www.wikidata.org/wiki/Q4110364
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: kinchev-konstantin-evgenevich
 studio:
 - lenfilm
+poster_tmdb_path: /AlVJjlbj0pu0BoPmatMTmrczFZB.jpg
+backdrop_tmdb_path: /8Fh24xhxPxSi6jIhy9go6rqeycr.jpg

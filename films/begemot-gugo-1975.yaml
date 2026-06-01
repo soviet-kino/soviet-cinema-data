@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q564513
   imdb: tt0074657
+  tmdb: 85955
 sources:
 - https://www.wikidata.org/wiki/Q564513
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - feigenbaum-bill
 composer:
 - keyes-bert
+poster_tmdb_path: /qnowVmCXv2mZ9PcZHz5truzB1RJ.jpg
+backdrop_tmdb_path: /noS9iJjkDnlkfocAnfBIXyYOeCD.jpg

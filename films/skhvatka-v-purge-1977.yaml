@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4447669
   imdb: tt0128518
   youtube: ElwHTyrgIt8
+  tmdb: 570560
 sources:
 - https://www.wikidata.org/wiki/Q4447669
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: markov-leonid-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /dmQf1FiMtXjCrfeOzRRpEBWrzmi.jpg

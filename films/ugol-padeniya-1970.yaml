@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65205999
   imdb: tt0272907
+  tmdb: 849041
 sources:
 - https://www.wikidata.org/wiki/Q65205999
 schema_version: 1
 director:
 - kazanskiy-gennadiy-sergeevich
+poster_tmdb_path: /hFFkVLMrETObZyftRacomxftCnO.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q2837853
   imdb: tt0220390
+  tmdb: 402375
 sources:
 - https://www.wikidata.org/wiki/Q2837853
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: buyens-frans
 studio:
 - defa
+poster_tmdb_path: /dYSc1UtLFpB9afpSxRCNLygjlgY.jpg
+backdrop_tmdb_path: /wfKfNBqSLmakmXSRv2zsv4BJRj4.jpg

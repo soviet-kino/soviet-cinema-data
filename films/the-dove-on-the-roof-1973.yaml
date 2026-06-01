@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1216667
   imdb: tt0425525
+  tmdb: 282937
 sources:
 - https://www.wikidata.org/wiki/Q1216667
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: bauman-khilmar
 - person: lyobinger-lotta
 - person: greeze-volfgang
+poster_tmdb_path: /aBUOzsSXR8gHkU8wIy4Wcr3lCwR.jpg
+backdrop_tmdb_path: /v6kAUIqAG0qZMFyON3mtQSW7xVE.jpg

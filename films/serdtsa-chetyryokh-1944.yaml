@@ -20,6 +20,9 @@ external_ids:
   wikidata: Q4417231
   imdb: tt0038533
   youtube: yVSZ42kfrbg
+  tmdb: 101846
 sources:
 - https://www.wikidata.org/wiki/Q4417231
 schema_version: 1
+poster_tmdb_path: /8ZZpfE3g2haJUl1UZxKEfYdMnDG.jpg
+backdrop_tmdb_path: /hVo2x88BKsgSjtOdrV31JQyWrmO.jpg

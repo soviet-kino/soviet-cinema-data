@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q12677845
   imdb: tt4282664
+  tmdb: 1243286
 sources:
 - https://www.wikidata.org/wiki/Q12677845
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 cast:
 - person: budraytis-yuozas-stanislavas
 - person: pyaulokas-pranas
+poster_tmdb_path: /16hJa2mcJjDEQCeQ7xdEaeSAfpG.jpg

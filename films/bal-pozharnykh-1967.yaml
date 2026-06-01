@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q1193389
   imdb: tt0061781
+  tmdb: 38442
 sources:
 - https://www.wikidata.org/wiki/Q1193389
 schema_version: 1
@@ -62,3 +63,5 @@ cast:
 - person: mejsnarova-m
 studio:
 - barrandov
+poster_tmdb_path: /vJWevnJfqBQscGY1ROBUv1pzk08.jpg
+backdrop_tmdb_path: /7ncgCjyUgL9EsRfbHVjl25jDHQa.jpg

@@ -8,6 +8,7 @@ runtime_min: 21
 external_ids:
   wikidata: Q1324732
   imdb: tt0052838
+  tmdb: 150630
 sources:
 - https://www.wikidata.org/wiki/Q1324732
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kondratiuk-andrzej
 - person: kostenko-andzhey
 - person: filipskiy-ryshard
+poster_tmdb_path: /96Hm3VQVdHgSsfy6Kx6MNE6e3qF.jpg
+backdrop_tmdb_path: /hIHWCTcSet1stTLvJDlTHqvzUlM.jpg

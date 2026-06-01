@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q122661833
   imdb: tt2040425
+  tmdb: 147562
 sources:
 - https://www.wikidata.org/wiki/Q122661833
 schema_version: 1
 director:
 - szczechura-daniel
+poster_tmdb_path: /zjrIE909eG78HpsyaqGXtFj4IFq.jpg

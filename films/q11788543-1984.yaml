@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788543
   imdb: tt0085988
+  tmdb: 919600
 sources:
 - https://www.wikidata.org/wiki/Q11788543
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kuznyak-khenrik
 cast:
 - person: bilevskiy-bogush
+poster_tmdb_path: /bxWEN5t3e8ZN2vh8WZA0BIM6CYs.jpg

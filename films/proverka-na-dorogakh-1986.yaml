@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3213961
   imdb: tt0067625
   youtube: 476-3_hAJOs
+  tmdb: 71762
 sources:
 - https://www.wikidata.org/wiki/Q3213961
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: zaytse-anda
 studio:
 - lenfilm
+poster_tmdb_path: /14ruue8ry27J5bAvScMibPkBwYk.jpg
+backdrop_tmdb_path: /vtt6JlYWZam5O3qPQX9hBTI0xHq.jpg

@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q83436613
   imdb: tt0313979
+  tmdb: 370468
 sources:
 - https://www.wikidata.org/wiki/Q83436613
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: dekhtyaryova-zinaida-nikolaevna
 - person: zaklunnaya-valeriya-gavriilovna
 - person: shcherbakov-viktor-gennadevich
+poster_tmdb_path: /1CbcXFTk1xINVJeyNiatklg4u1H.jpg

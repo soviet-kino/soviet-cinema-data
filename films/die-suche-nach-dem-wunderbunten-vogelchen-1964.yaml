@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q1216589
   imdb: tt0058624
+  tmdb: 250920
 sources:
 - https://www.wikidata.org/wiki/Q1216589
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: lozanski-rolf
 - person: mende-ulrich
 - person: shrade-villi
+poster_tmdb_path: /x8UVQkHgsLCxfda7vleJw1v16vB.jpg
+backdrop_tmdb_path: /nqP3P7sRRtHODB4o9Wv2n2dMwME.jpg

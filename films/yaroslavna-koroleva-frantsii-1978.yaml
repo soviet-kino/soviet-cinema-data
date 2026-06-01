@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4538809
   imdb: tt0078514
   youtube: XOKEwvdrqCQ
+  tmdb: 464377
 sources:
 - https://www.wikidata.org/wiki/Q4538809
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 studio:
 - lenfilm
 - studio-filmowe-kadr
+poster_tmdb_path: /18kxyD5jRQLslo4DKx9lmMwUCtj.jpg
+backdrop_tmdb_path: /550seETJ27gJMADK0y4wu5RYzrw.jpg

@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q7829590
   imdb: tt0175761
+  tmdb: 329698
 sources:
 - https://www.wikidata.org/wiki/Q7829590
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - stefan-matyyashkevich
 cast:
 - person: dunikovskiy-ksaveriy
+poster_tmdb_path: /k3za4fxf2OClaKpphVBQLv7pkrJ.jpg

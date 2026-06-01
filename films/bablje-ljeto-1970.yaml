@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q3515759
   imdb: tt0179659
+  tmdb: 409739
 sources:
 - https://www.wikidata.org/wiki/Q3515759
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: rade-markovich
 - person: vuisich-pavle
 - person: milya-vuyanovich
+poster_tmdb_path: /vIoGhK1yifBVAz4zQLEVWWI8Jpn.jpg

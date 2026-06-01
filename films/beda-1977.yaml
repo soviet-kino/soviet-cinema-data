@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4080577
   imdb: tt0169597
   youtube: sY1bkHv95Dc
+  tmdb: 458216
 sources:
 - https://www.wikidata.org/wiki/Q4080577
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kuzmina-elena-aleksandrovna
 - person: petrenko-aleksey-vasilevich
 - person: fedoseeva-shukshina-lidiya-nikolaevna
+poster_tmdb_path: /qhKQHwtFikskbD1qVyDMYf8T62u.jpg
+backdrop_tmdb_path: /gUMyfRbNyRIW6fBjIKXVKAoMj7w.jpg

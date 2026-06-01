@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4374946
   imdb: tt0242790
+  tmdb: 469028
 sources:
 - https://www.wikidata.org/wiki/Q4374946
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: evstigneev-evgeniy-aleksandrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /sRwb1xfRfExDy1gcQq8H1DblZ3f.jpg
+backdrop_tmdb_path: /znLHGpu5DmJxgjdQWsbCQKY1Jwq.jpg

@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q3979227
   imdb: tt0088217
+  tmdb: 263403
 sources:
 - https://www.wikidata.org/wiki/Q3979227
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: cherkhalmi-dyord
 - person: kristof-tibor
 - person: usztics-matyas
+poster_tmdb_path: /gqEjGiCcV3XCbIjMItbzJdukKrj.jpg

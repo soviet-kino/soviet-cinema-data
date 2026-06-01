@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462834
   imdb: tt0153037
   youtube: EelDYhV4bTw
+  tmdb: 458211
 sources:
 - https://www.wikidata.org/wiki/Q4462834
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: korolkov-gennadiy-anatolevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /aszR7BiZhrV2ALhmacCyq8U8pdD.jpg
+backdrop_tmdb_path: /92e1f4hS5l4Cyyz7xrkpKh1gbXh.jpg

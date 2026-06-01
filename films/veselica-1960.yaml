@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16083816
   imdb: tt0054439
+  tmdb: 363210
 sources:
 - https://www.wikidata.org/wiki/Q16083816
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: rozman-loyze
 poster_commons: Veselica 1959.jpg
+poster_tmdb_path: /sQfnIWZ1la5dk68u64guxe3FeKp.jpg

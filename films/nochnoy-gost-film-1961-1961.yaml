@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86010198
   imdb: tt0055238
   youtube: pOdXLsp-pBs
+  tmdb: 281841
 sources:
 - https://www.wikidata.org/wiki/Q86010198
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: stibr-jiri
 - person: st-karel-hovorka
 - person: q112444439
+poster_tmdb_path: /eFxhIeP3nCHccYJyjhu6SIFTIva.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4126285
   imdb: tt0094577
   youtube: mKaDQEA4jiM
+  tmdb: 323137
 sources:
 - https://www.wikidata.org/wiki/Q4126285
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: ilin-vladimir-lvovich
 studio:
 - ekran
+poster_tmdb_path: /lIzSHlF4LsAsMi4YVi5SBZtw13G.jpg
+backdrop_tmdb_path: /3lumdKQcBn1bmq6pgs5Ioitbw8m.jpg

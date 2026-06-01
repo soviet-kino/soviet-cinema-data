@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1176468
   imdb: tt0125403
+  tmdb: 297240
 sources:
 - https://www.wikidata.org/wiki/Q1176468
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - gyorgy-palasthy
 cinematographer:
 - gertsenik-miklosh
+poster_tmdb_path: /tHFjwK2ka5714pwBAJFHl6JiVza.jpg
+backdrop_tmdb_path: /bMgXTQK3aypSV6Vq59nIZRx2xh0.jpg

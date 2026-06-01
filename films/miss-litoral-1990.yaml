@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12735752
   imdb: tt0127022
+  tmdb: 536452
 sources:
 - https://www.wikidata.org/wiki/Q12735752
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: shtefenesku-eusebiu
 - person: muresan-rodica
 - person: muraru-vasile
+poster_tmdb_path: /1hCcftwOKwrskHgOlhKM6bfakO6.jpg

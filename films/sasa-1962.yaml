@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758596
   imdb: tt0056446
+  tmdb: 324777
 sources:
 - https://www.wikidata.org/wiki/Q12758596
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: angelovski-kole
 - person: aleksandr-stoykovich
 - person: vojnovic-branko
+poster_tmdb_path: /5v160aT1MmofYUwJfATs8h6anqN.jpg

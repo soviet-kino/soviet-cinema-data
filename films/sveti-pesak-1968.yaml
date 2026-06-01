@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q23034800
   imdb: tt0222410
+  tmdb: 152096
 sources:
 - https://www.wikidata.org/wiki/Q23034800
 schema_version: 1
 director:
 - antich-miroslav
+poster_tmdb_path: /hFH5ckyDuUdKq8YggzQ2SccEuwR.jpg
+backdrop_tmdb_path: /dTUzL0R3QtWdpv0AredskXksfGK.jpg

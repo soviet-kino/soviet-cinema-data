@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1795366
   imdb: tt0027388
+  tmdb: 427859
 sources:
 - https://www.wikidata.org/wiki/Q1795366
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: arendt-kurt
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /1AAWJSjPMDayq8bKMiHQjGQeikq.jpg

@@ -36,6 +36,8 @@ cast:
 external_ids:
   wikidata: Q16651648
   imdb: tt0051607
+  tmdb: 561967
 sources:
 - https://www.wikidata.org/wiki/Q16651648
 schema_version: 1
+poster_tmdb_path: /1brXyK0DIvAmCcwpu2gvYuCzxRg.jpg

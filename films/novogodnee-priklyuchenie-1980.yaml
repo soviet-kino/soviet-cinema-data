@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16514613
   imdb: tt4577142
   youtube: NF-wvGoYlNg
+  tmdb: 144598
 sources:
 - https://www.wikidata.org/wiki/Q16514613
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - flyarkovskiy-aleksandr-georgievich
 studio:
 - ekran
+poster_tmdb_path: /fyOCENCF3B5vAv2HZE6boyDeGSc.jpg

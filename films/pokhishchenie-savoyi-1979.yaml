@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4375062
   imdb: tt0133154
   youtube: QJlbrn-ROU4
+  tmdb: 149845
 sources:
 - https://www.wikidata.org/wiki/Q4375062
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: stoyanov-luchezar
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /nQBtNY3NNwMCOeX5RLxjraBlvPo.jpg
+backdrop_tmdb_path: /dGcOYKrePMoJ0yHxJwd4Pb4zUZy.jpg

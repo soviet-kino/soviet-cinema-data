@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12768004
   imdb: tt0322835
+  tmdb: 898014
 sources:
 - https://www.wikidata.org/wiki/Q12768004
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: vajsova-viera
 - person: riha-zdenek
 - person: kauzlaric-ivan
+poster_tmdb_path: /bIDHTvxWYtPEDzUtVJlOVd3GTtA.jpg

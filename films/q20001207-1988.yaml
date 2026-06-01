@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q20001207
   imdb: tt0173038
+  tmdb: 696969
 sources:
 - https://www.wikidata.org/wiki/Q20001207
 schema_version: 1
+poster_tmdb_path: /q5OWIfYveuEJ5n9ITIDVzKWT7Y9.jpg
+backdrop_tmdb_path: /1AuAlwuYzOiFPRCbOleKFs0xpkQ.jpg

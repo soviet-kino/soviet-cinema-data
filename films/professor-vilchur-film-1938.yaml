@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7247910
   imdb: tt0152086
+  tmdb: 68795
 sources:
 - https://www.wikidata.org/wiki/Q7247910
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: yunosha-stempovskiy-kazimezh
 - person: overllo-pavel
 poster_commons: Profesor Wilczur - program filmowy.jpg
+poster_tmdb_path: /mXDh2Fk9RMvBp7zv4mzoKd3fJiQ.jpg

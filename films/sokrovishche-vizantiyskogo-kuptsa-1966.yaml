@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7208675
   imdb: tt0329503
+  tmdb: 392841
 sources:
 - https://www.wikidata.org/wiki/Q7208675
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: polak-jiri
 - person: strouhal-emil
 - person: sieber-stanislav
+poster_tmdb_path: /k8zzejjahhw83o02m5vfAWyHOQo.jpg
+backdrop_tmdb_path: /tWw2eopFWxOxVgMx8Nf8240m4pz.jpg

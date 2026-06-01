@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12719955
   imdb: tt0077120
+  tmdb: 622134
 sources:
 - https://www.wikidata.org/wiki/Q12719955
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: roman-vistrian
 - person: dafinesku-chezara
 - person: dikisyanu-ion
+poster_tmdb_path: /lhzBuC2dwIqKqJ0Xgul2AM0Lzjv.jpg

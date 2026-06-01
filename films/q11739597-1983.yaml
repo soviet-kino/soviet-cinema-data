@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11739597
   imdb: tt0085799
+  tmdb: 748591
 sources:
 - https://www.wikidata.org/wiki/Q11739597
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: lozinska-susanna
 - person: borkovski-yatsek
 - person: darnton-nina
+poster_tmdb_path: /yeeL2jWiJjbjuNDyNjJp1z7aHqC.jpg

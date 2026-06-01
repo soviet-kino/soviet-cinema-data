@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4345726
   imdb: tt3440260
+  tmdb: 321096
 sources:
 - https://www.wikidata.org/wiki/Q4345726
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - yurovskiy-vladimir-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /kpSC2UmuYUqMyWxDFr9JQLQplpe.jpg
+backdrop_tmdb_path: /8pRi87qgoZNngDmlTDatOhdpxgU.jpg

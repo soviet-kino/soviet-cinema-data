@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q2712854
   imdb: tt0065782
+  tmdb: 1863
 sources:
 - https://www.wikidata.org/wiki/Q2712854
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Sophia-Loren-in-the-movie-Sunflower-391853241311.jpg
+poster_tmdb_path: /1V4a7nvp0hZ5xbxkZcWVIZAQBS9.jpg
+backdrop_tmdb_path: /qdsZrnGu2YQSIJIaCHt88ASMHVh.jpg

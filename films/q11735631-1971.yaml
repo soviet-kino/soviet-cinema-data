@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11735631
   imdb: tt0067293
+  tmdb: 158502
 sources:
 - https://www.wikidata.org/wiki/Q11735631
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: borovskiy-tadeush
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /iyhWKvgHSJq8RNksiorbFgWsIzM.jpg

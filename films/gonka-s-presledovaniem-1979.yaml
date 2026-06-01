@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4143087
   imdb: tt0361662
   youtube: eooExDDLNSM
+  tmdb: 70952
 sources:
 - https://www.wikidata.org/wiki/Q4143087
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: svetlani-georgiy
 - person: mikhail-vasilevich-golubovich
 - person: penkov-nikolay-vasilevich
+poster_tmdb_path: /yj9JmkqS5tbWixMxdp3NTbaP43z.jpg

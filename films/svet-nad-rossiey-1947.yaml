@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21148923
   imdb: tt4729670
   youtube: qQ9d43z8Ymk
+  tmdb: 470825
 sources:
 - https://www.wikidata.org/wiki/Q21148923
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: kolesnikov-nikolay-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /fxf6xnMVVouSiXJrtZrefCbb6sT.jpg
+backdrop_tmdb_path: /52lPiM5BFhagoQqREmzB5Dvuwe4.jpg

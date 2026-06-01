@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4532597
   imdb: tt0050359
+  tmdb: 117767
 sources:
 - https://www.wikidata.org/wiki/Q4532597
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: hubczenko-roman
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /uWiEsDfapHS1F3gLh6VUUywo0q.jpg
+backdrop_tmdb_path: /pkSTm0EmVHNwSmzP8JodHCRE7AM.jpg

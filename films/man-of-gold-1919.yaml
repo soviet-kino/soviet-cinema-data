@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q29016673
   imdb: tt0008843
+  tmdb: 174953
 sources:
 - https://www.wikidata.org/wiki/Q29016673
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: beregi-oskar
 studio:
 - corvin-film-studio
+poster_tmdb_path: /7Z8CakydMh60uaREYpzXRkckib7.jpg

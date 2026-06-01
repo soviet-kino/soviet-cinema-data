@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4096981
   imdb: tt0281423
   youtube: E36xn4umhng
+  tmdb: 77052
 sources:
 - https://www.wikidata.org/wiki/Q4096981
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: dichkovskiy-vladimir-semyonovich
 - person: shevkunenko-sergey-yurevich
 - person: shulzhenko-igor
+poster_tmdb_path: /rAiZ3vxngyQdBE0HFt28llZe4Or.jpg
+backdrop_tmdb_path: /1kSdaku8sOxGDuXKfBp44uZwU39.jpg

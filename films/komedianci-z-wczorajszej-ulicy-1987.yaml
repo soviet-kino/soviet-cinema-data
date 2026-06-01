@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11741519
   imdb: tt0093362
+  tmdb: 919705
 sources:
 - https://www.wikidata.org/wiki/Q11741519
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: straszna-marta
 studio:
 - iluzjon
+poster_tmdb_path: /14f1xwkL1v13D3YQDjnwGuwxqWq.jpg

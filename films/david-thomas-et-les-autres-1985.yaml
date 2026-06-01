@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3017307
   imdb: tt0088154
+  tmdb: 327473
 sources:
 - https://www.wikidata.org/wiki/Q3017307
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: buytor-ishtvan
 - person: kallai-ferents
 - person: monori-lili
+poster_tmdb_path: /9xTkEzI88x3xiw9Ks76nOip7ZJ8.jpg
+backdrop_tmdb_path: /4cAqGbsJQFWwZLMLWONoqrbLpTb.jpg

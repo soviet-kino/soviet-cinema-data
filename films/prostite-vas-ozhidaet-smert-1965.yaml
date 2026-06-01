@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16366296
   imdb: tt0274388
+  tmdb: 948565
 sources:
 - https://www.wikidata.org/wiki/Q16366296
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: tokhadze-givi-maksimovich
 - person: mandzhgaladze-erosi-akakievich
 - person: kipshidze-elena
+poster_tmdb_path: /zV5kEcmOHtHrr8kl8MmaWX0pHji.jpg
+backdrop_tmdb_path: /2Nkc7CXAsSRO52lheHEbqT2vo4v.jpg

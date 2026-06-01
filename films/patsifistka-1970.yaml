@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q470628
   imdb: tt0067544
   youtube: n_3KwHOlTkY
+  tmdb: 144428
 sources:
 - https://www.wikidata.org/wiki/Q470628
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: olbrykhskiy-daniel
 - person: klemanti-per
 - person: pomryol-daniel
+poster_tmdb_path: /2SgmvFdVJZcKYixPqfj5GiMPL66.jpg
+backdrop_tmdb_path: /4YhKvk2OcYVur8EEz3EWl6RomPz.jpg

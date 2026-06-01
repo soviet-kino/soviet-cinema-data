@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11735545
   imdb: tt0084194
+  tmdb: 158496
 sources:
 - https://www.wikidata.org/wiki/Q11735545
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: grabovskiy-pyotr
 - person: braun-monika
 - person: pak-stanis-aw
+poster_tmdb_path: /ihRhu4R3SYbz2lTNdaRWk6KjiFZ.jpg
+backdrop_tmdb_path: /kcgjdjppPyPGuGvdQR0QlzolPvE.jpg

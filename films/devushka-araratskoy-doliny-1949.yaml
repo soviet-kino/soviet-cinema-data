@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4156458
   imdb: tt0360375
+  tmdb: 1531379
 sources:
 - https://www.wikidata.org/wiki/Q4156458
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: gen-gurgen
 studio:
 - armenfilm
+poster_tmdb_path: /uD9zhUnvZqBytq3UAO7PaVIALD0.jpg

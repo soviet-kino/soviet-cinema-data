@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4448341
   imdb: tt0166833
   youtube: fsTNYuSnmWs
+  tmdb: 72607
 sources:
 - https://www.wikidata.org/wiki/Q4448341
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: khimichev-boris-petrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /nnvAUrNz21dVvIiGcWhl1N1YezS.jpg
+backdrop_tmdb_path: /aS9COwGKqzLKixkpSs6ZBkRoCaE.jpg

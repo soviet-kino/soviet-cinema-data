@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4500370
   imdb: tt0058261
   youtube: 22PQmEeEiYY
+  tmdb: 830695
 sources:
 - https://www.wikidata.org/wiki/Q4500370
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: adoskin-anatoliy-mikhaylovich
+poster_tmdb_path: /e0uI56JqZIKIpdTUpPbHHJk4420.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11734354
   imdb: tt0295982
+  tmdb: 501967
 sources:
 - https://www.wikidata.org/wiki/Q11734354
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - anagnosti-dimiter
 composer:
 - laro-kujtim
+poster_tmdb_path: /pulEQGXXAzdfdok2Yb2XPvHAWUL.jpg
+backdrop_tmdb_path: /bHa1d8eLAPuq7ELY1sCEP0QGJvc.jpg

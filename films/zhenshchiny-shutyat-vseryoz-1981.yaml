@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12104932
   imdb: tt0237940
+  tmdb: 603648
 sources:
 - https://www.wikidata.org/wiki/Q12104932
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: melnik-irina-vasilevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /xSh3DBvifmunCrQEJGEKVfQGVSk.jpg
+backdrop_tmdb_path: /7Gwh0IAWbWfYgI6InG67J0YbVxL.jpg

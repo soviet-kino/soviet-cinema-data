@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7812220
   imdb: tt0168670
   youtube: khEc-PlWmC8
+  tmdb: 607657
 sources:
 - https://www.wikidata.org/wiki/Q7812220
 schema_version: 1
@@ -58,3 +59,4 @@ cast:
 - person: holat-roman
 - person: vostrzhak-zbinek
 - person: rehor-zdenek
+poster_tmdb_path: /pcXzT6jZH0XQttmQ4puWhdGH6lt.jpg

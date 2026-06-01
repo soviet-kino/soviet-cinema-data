@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4231308
   imdb: tt0041560
   youtube: WaT_06DYPrk
+  tmdb: 342630
 sources:
 - https://www.wikidata.org/wiki/Q4231308
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: marev-vladimir-timofeevich
 studio:
 - belarusfilm
+poster_tmdb_path: /9wn8JY6woVYPmVBJRnAQgk4dk8b.jpg
+backdrop_tmdb_path: /mtgxfvMDclCDnIWtSG0GoWQoczE.jpg

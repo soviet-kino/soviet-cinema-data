@@ -8,6 +8,7 @@ runtime_min: 50
 external_ids:
   wikidata: Q15060360
   imdb: tt0924506
+  tmdb: 83068
 sources:
 - https://www.wikidata.org/wiki/Q15060360
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: haukvic-josef
 - person: cherny-vitezslav
 - person: hamouzova-slavka
+poster_tmdb_path: /iUhRcazRpijF2CHjmIJqzkrNb5g.jpg
+backdrop_tmdb_path: /co5QNdmMUtMlUUHs56KmK8B9tw2.jpg

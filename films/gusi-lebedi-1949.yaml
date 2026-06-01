@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4152807
   imdb: tt1070792
+  tmdb: 72202
 sources:
 - https://www.wikidata.org/wiki/Q4152807
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Gęsi Baby-Jagi (1949).jpg
+poster_tmdb_path: /peffLTs3s0R8Xaz1Nf0c0F07KBi.jpg

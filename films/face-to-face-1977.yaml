@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9333073
   imdb: tt0076655
+  tmdb: 348708
 sources:
 - https://www.wikidata.org/wiki/Q9333073
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - nagorny-vlodzimezh
 cast:
 - person: yankovskaya-tseslyak-yadviga
+poster_tmdb_path: /eEz09aDQGV3XFNaUX9Vt7H0qVJB.jpg

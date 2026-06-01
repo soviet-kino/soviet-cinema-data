@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750063
   imdb: tt0295255
+  tmdb: 440429
 sources:
 - https://www.wikidata.org/wiki/Q11750063
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 screenwriter:
 - tozaj-neshat
+poster_tmdb_path: /aSD5Spn87jxY36BXKA4M3k0bSf7.jpg
+backdrop_tmdb_path: /cwrepdRPvSPVCRbU6azie81NiN1.jpg

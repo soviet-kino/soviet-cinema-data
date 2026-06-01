@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q12039551
   imdb: tt0256950
+  tmdb: 653193
 sources:
 - https://www.wikidata.org/wiki/Q12039551
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: baptista-libor
 - person: myska-vaclav
 - person: kollinger-jiri
+poster_tmdb_path: /6j3jeDjmaux6ywen5pttJOw0mtb.jpg

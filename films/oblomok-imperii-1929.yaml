@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4329347
   imdb: tt0020232
   youtube: dSpoc-3-0NU
+  tmdb: 167354
 sources:
 - https://www.wikidata.org/wiki/Q4329347
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 - lenfilm
 - sovkino
 poster_commons: Плакат к фильму «Обломок империи» (Воронов).jpg
+poster_tmdb_path: /zPMLYYl4gBZpsi0fe9AoK7C0gBf.jpg
+backdrop_tmdb_path: /hZBi5HUaeEDPe40Wk6mMaeXz14L.jpg

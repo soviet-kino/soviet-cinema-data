@@ -8,6 +8,7 @@ runtime_min: 34
 external_ids:
   wikidata: Q29169067
   imdb: tt0399005
+  tmdb: 424286
 sources:
 - https://www.wikidata.org/wiki/Q29169067
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 - kyukhenmayster-vera
 cinematographer:
 - lehmann-christian
+poster_tmdb_path: /kHtyJwbozvVBJuwQbfNjSZ59T45.jpg

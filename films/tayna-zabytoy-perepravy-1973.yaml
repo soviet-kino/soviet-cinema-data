@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52567385
   imdb: tt5352982
+  tmdb: 890906
 sources:
 - https://www.wikidata.org/wiki/Q52567385
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: beyshenaliev-bolot
 - person: zhzhyonov-georgiy-stepanovich
 - person: dzhallyev-artyk
+poster_tmdb_path: /cpJyHOUkmnrEcsqII67at2veg15.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16084952
   imdb: tt0200790
+  tmdb: 1301848
 sources:
 - https://www.wikidata.org/wiki/Q16084952
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: zhutich-milosh
 studio:
 - radio-i-televidenie-serbii
+poster_tmdb_path: /pG1YNaiYKLKEmadwdoESxF7WDis.jpg

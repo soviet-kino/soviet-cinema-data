@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q5530064
   imdb: tt0045806
+  tmdb: 405912
 sources:
 - https://www.wikidata.org/wiki/Q5530064
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: tayn-ulrikh
 - person: marenbach-leny
 - person: shelkher-raymund
+poster_tmdb_path: /dqjZZxcOHNKIRnfWeKFVpbt7tyu.jpg

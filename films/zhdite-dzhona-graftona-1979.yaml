@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q4178568
   imdb: tt2395225
+  tmdb: 248121
 sources:
 - https://www.wikidata.org/wiki/Q4178568
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: paukshtello-yanis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /pIEpihRPxbOl1tKXXkbMWcJhHJP.jpg

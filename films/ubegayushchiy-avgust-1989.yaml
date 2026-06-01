@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65211216
   imdb: tt0098547
+  tmdb: 897178
 sources:
 - https://www.wikidata.org/wiki/Q65211216
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: osipchuk-vladimir
 studio:
 - lenfilm
+poster_tmdb_path: /g5TuSI9UTAFMReUYZbfKwxEP6iQ.jpg
+backdrop_tmdb_path: /3LpQVhqSA1T6Kgpp4boq51UPzUp.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4328844
   imdb: tt0066170
   youtube: jai2ubfGoiU
+  tmdb: 79848
 sources:
 - https://www.wikidata.org/wiki/Q4328844
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: fyodorova-viktoriya-yakovlevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /icqJi5116ddDP9CGYxhySsL9QQo.jpg
+backdrop_tmdb_path: /1LIRjgpET491pKZe6FBcO4RBp3x.jpg

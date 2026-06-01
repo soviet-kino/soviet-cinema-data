@@ -8,6 +8,7 @@ runtime_min: 157
 external_ids:
   wikidata: Q106729795
   imdb: tt0127696
+  tmdb: 429936
 sources:
 - https://www.wikidata.org/wiki/Q106729795
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - ledenyov-roman-semyonovich
 studio:
 - mosfilm
+poster_tmdb_path: /1tqGrdtlqmFA7yUrEVgt9bVAbVi.jpg
+backdrop_tmdb_path: /cCSoMKYMiDhY1EQQJ4wJrgPc3Q8.jpg

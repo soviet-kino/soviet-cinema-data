@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4166208
   imdb: tt0042407
   youtube: b17BOBe1mAk
+  tmdb: 72621
 sources:
 - https://www.wikidata.org/wiki/Q4166208
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: aleynikov-pyotr-martynovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /wV5BMCKEHPbBSNZuQsrRxEAUd2q.jpg
+backdrop_tmdb_path: /2DfQD5phxLUsupJy0N1I3b5rHCb.jpg

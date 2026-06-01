@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q36196916
   imdb: tt0184832
+  tmdb: 353272
 sources:
 - https://www.wikidata.org/wiki/Q36196916
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: yovanovski-meto
 - person: chevrevski-yordanko
 - person: stojanovski-nenad
+poster_tmdb_path: /lygjjDi6AE9mFWh6CWW90a9uWox.jpg

@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q16704558
   imdb: tt0035245
+  tmdb: 641214
 sources:
 - https://www.wikidata.org/wiki/Q16704558
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - lenfilm
 poster_commons: Tankers.png
+poster_tmdb_path: /i3bpsZCvIUUwilz4urRZrEWix09.jpg

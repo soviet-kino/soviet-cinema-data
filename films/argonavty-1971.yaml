@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4068830
   imdb: tt0369245
+  tmdb: 462948
 sources:
 - https://www.wikidata.org/wiki/Q4068830
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - geviksman-vitaliy-artemevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mzX4Kt0n4lWlPplud3mGT9fOkop.jpg
+backdrop_tmdb_path: /5GSrycKEIErJiVmyXHpND0wKpD0.jpg

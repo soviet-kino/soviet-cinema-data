@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q11819885
   imdb: tt0347746
+  tmdb: 559504
 sources:
 - https://www.wikidata.org/wiki/Q11819885
 schema_version: 1
 director:
 - hoshafi-fehmi
+poster_tmdb_path: /9JkEV3CHMSTbOuYtvQdgczKfKua.jpg

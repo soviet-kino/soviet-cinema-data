@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1895210
   imdb: tt0056352
   youtube: So9NcB8crtc
+  tmdb: 49164
 sources:
 - https://www.wikidata.org/wiki/Q1895210
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: prutkovskiy-boris-aleksandrovich
 studio:
 - lennauchfilm
+poster_tmdb_path: /5GjUVE9cx4sMWhue4LQXuWwAghf.jpg
+backdrop_tmdb_path: /4ZmW76nrYZ0e9VF1tnMVroWFSuf.jpg

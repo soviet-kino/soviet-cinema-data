@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4109473
   imdb: tt0334615
   youtube: sDZRoFAx4Ec
+  tmdb: 890528
 sources:
 - https://www.wikidata.org/wiki/Q4109473
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - magiton-isaak-semyonovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /qjuQuYAeQvwdTQmWmC4dDKUDuN6.jpg
+backdrop_tmdb_path: /uxtBUy1bZ8E0SGsOY6y0kYU7d1L.jpg

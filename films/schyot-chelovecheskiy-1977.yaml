@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q126677339
   imdb: tt0076673
+  tmdb: 1040217
 sources:
 - https://www.wikidata.org/wiki/Q126677339
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: korolkov-gennadiy-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /z4mFYwElu8Iu3GAmb1O7RqMDy98.jpg

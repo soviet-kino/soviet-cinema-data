@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q12283145
   imdb: tt0300080
+  tmdb: 341569
 sources:
 - https://www.wikidata.org/wiki/Q12283145
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kovachev-boyan
 - person: chatalov-lyuben
 - person: mutafov-mikhail
+poster_tmdb_path: /6zdrLPgaTgWryPXn3pX1iEoSXX3.jpg

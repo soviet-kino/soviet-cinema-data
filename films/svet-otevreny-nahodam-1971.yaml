@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q19599778
   imdb: tt0175217
+  tmdb: 1019305
 sources:
 - https://www.wikidata.org/wiki/Q19599778
 schema_version: 1
@@ -91,3 +92,4 @@ cast:
 - person: munzar-zdenek
 - person: hrabal-jiri
 - person: dudesek-jiri
+poster_tmdb_path: /4JkLaVTp2HjjxmMchT8rJaTmD3Z.jpg

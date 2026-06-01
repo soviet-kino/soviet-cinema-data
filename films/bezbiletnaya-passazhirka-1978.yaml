@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4080790
   imdb: tt0211947
   youtube: ETJPHBUJTEg
+  tmdb: 429428
 sources:
 - https://www.wikidata.org/wiki/Q4080790
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: dogileva-tatyana-anatolevna
+poster_tmdb_path: /4SHm31ygEaAQxgYAe4R3uBcD29q.jpg
+backdrop_tmdb_path: /qEz7hVIwiQCfyKnhAnQlDRwPV3P.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q925962
   imdb: tt0169403
   youtube: _zxifDC92yc
+  tmdb: 64270
 sources:
 - https://www.wikidata.org/wiki/Q925962
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: budnitskaya-alla-zinovevna
 - person: volkov-nikolay-nikolaevich
 - person: khochinskiy-aleksandr-yurevich
+poster_tmdb_path: /cyKSWiUJmLzqgLtGHxbbRVuYnGV.jpg
+backdrop_tmdb_path: /aP3L08iZQanLpAdL4nXAuq29wJW.jpg

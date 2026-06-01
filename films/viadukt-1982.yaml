@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16523703
   imdb: tt0083916
+  tmdb: 141969
 sources:
 - https://www.wikidata.org/wiki/Q16523703
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: mezei-layosh
 - person: shutts-ila
 - person: ditl-robert
+poster_tmdb_path: /iSMMN5uv8O9a3n5tXLgqHwSMjyT.jpg
+backdrop_tmdb_path: /eGgb8aUj4lIrK2bePDbyfKOVzRE.jpg

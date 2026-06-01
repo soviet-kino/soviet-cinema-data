@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208822
   imdb: tt1234937
+  tmdb: 210152
 sources:
 - https://www.wikidata.org/wiki/Q4208822
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - dakhno-vladimir-avksentevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /bw4PRpjJUM3caQISXyXYN7FV4mk.jpg
+backdrop_tmdb_path: /49nXSOFCPwsEaKOLrq8G3YgIfbF.jpg

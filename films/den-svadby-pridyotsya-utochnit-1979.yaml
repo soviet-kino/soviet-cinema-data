@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4158417
   imdb: tt0403971
   youtube: dSaEbMZXKUo
+  tmdb: 388431
 sources:
 - https://www.wikidata.org/wiki/Q4158417
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: simonova-evgeniya-pavlovna
 - person: shcherbakov-boris-vasilevich
+poster_tmdb_path: /uDwKtwrZ07tWrIqA8VWnPIvQXH3.jpg
+backdrop_tmdb_path: /z6yJ00gzWqrgKzSV6UyhIbvniut.jpg

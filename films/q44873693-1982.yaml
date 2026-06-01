@@ -8,8 +8,10 @@ runtime_min: 82
 external_ids:
   wikidata: Q44873693
   imdb: tt0084665
+  tmdb: 632537
 sources:
 - https://www.wikidata.org/wiki/Q44873693
 schema_version: 1
 director:
 - veroyu-mircha
+poster_tmdb_path: /8rFOJpfIYDySwRcq21p1f58zbpc.jpg

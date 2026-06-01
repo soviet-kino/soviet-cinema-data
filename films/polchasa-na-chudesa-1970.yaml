@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4371122
   imdb: tt2270438
   youtube: cDpqERxCqKk
+  tmdb: 640031
 sources:
 - https://www.wikidata.org/wiki/Q4371122
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: mikalyunas-evaldas
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /s4lQ159pSRnm1YmLCjTIwXFmnkm.jpg

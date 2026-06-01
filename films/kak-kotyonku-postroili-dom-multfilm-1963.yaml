@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q15270656
   imdb: tt2197272
+  tmdb: 295877
 sources:
 - https://www.wikidata.org/wiki/Q15270656
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - ziv-mikhail-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /xryV05byVVLH3zgT0qfffETMYcj.jpg

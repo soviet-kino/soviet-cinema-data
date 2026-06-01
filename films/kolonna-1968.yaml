@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q3821840
   imdb: tt0062814
+  tmdb: 262984
 sources:
 - https://www.wikidata.org/wiki/Q3821840
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: sireteanu-nicolae
 - person: moldovan-ovidiu
 - person: chyubotarasu-shtefan
+poster_tmdb_path: /vr1PUrTPmgI0LeEU7Ks1NlkaImS.jpg
+backdrop_tmdb_path: /dfilGDHSCAVYKVpdhGPaoAuPVwj.jpg

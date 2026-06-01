@@ -28,6 +28,9 @@ external_ids:
   wikidata: Q4060953
   imdb: tt0041105
   youtube: OuXeksv95rk
+  tmdb: 620858
 sources:
 - https://www.wikidata.org/wiki/Q4060953
 schema_version: 1
+poster_tmdb_path: /tvd2ljk7K2mxOihhvQLPPhCPBJi.jpg
+backdrop_tmdb_path: /LXkidmyAvZYt6GsArqKdB455lg.jpg

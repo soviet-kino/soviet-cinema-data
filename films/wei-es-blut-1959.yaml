@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7980457
   imdb: tt0173447
+  tmdb: 371469
 sources:
 - https://www.wikidata.org/wiki/Q7980457
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 screenwriter:
 - koldits-gotfrid
 - hauser-harald
+poster_tmdb_path: /tKA3yeowZnbNiiN9Kbe2wJYVO3O.jpg

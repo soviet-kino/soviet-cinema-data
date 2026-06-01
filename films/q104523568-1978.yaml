@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q104523568
   imdb: tt1027705
+  tmdb: 378531
 sources:
 - https://www.wikidata.org/wiki/Q104523568
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - krattsert-khans
 screenwriter:
 - abrakham-piter
+poster_tmdb_path: /ebXKKWPxhHyhpvTRsPWYRtw9xey.jpg
+backdrop_tmdb_path: /ljRfrnT26WjAuoMaMyiYKh4jwHT.jpg

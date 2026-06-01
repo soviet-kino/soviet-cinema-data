@@ -8,6 +8,7 @@ runtime_min: 705
 external_ids:
   wikidata: Q28468496
   imdb: tt6623244
+  tmdb: 453765
 sources:
 - https://www.wikidata.org/wiki/Q28468496
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - viktor-viktorovich-kuprevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /v3OkowkqGTl1X9mKQ97ERALXalD.jpg

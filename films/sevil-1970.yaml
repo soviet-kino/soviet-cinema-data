@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q12845643
   imdb: tt1927125
+  tmdb: 529648
 sources:
 - https://www.wikidata.org/wiki/Q12845643
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ismailova-zemfira
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /7OFvojhU4SpzdxIQbn2IgYiA7eV.jpg
+backdrop_tmdb_path: /wrwAZvElssTISwhCF99lvBDIvEL.jpg

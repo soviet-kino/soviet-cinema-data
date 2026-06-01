@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116864990
   imdb: tt3141338
+  tmdb: 640113
 sources:
 - https://www.wikidata.org/wiki/Q116864990
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: belov-oleg-aleksandrovich
 - person: kondrateva-inna-mikhaylovna
 - person: obolenskiy-leonid-leonidovich
+poster_tmdb_path: /cfgDVlKGaLK7gZva2VidGtDWVfe.jpg
+backdrop_tmdb_path: /3MBAA7AoCHm4qvMYLYjoALXdoZI.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4142155
   imdb: tt0056030
+  tmdb: 374794
 sources:
 - https://www.wikidata.org/wiki/Q4142155
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: chekhovskaya-tatyana
 - person: khomerskaya-mariya
 - person: osterwa-elzbieta
+poster_tmdb_path: /aOuJDqTVuSS4Sia8o3w72nj9Qf.jpg
+backdrop_tmdb_path: /6AnG2rg9AHKoXrCn2gR7mVorOCp.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27070693
   imdb: tt0056520
+  tmdb: 474553
 sources:
 - https://www.wikidata.org/wiki/Q27070693
 schema_version: 1

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4103812
   imdb: tt0072578
   youtube: F14wFTeAF2E
+  tmdb: 386039
 sources:
 - https://www.wikidata.org/wiki/Q4103812
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 cast:
 - person: dal-oleg-ivanovich
 - person: vasilev-igor-alekseevich
+poster_tmdb_path: /x9T9q0n4I5YfdzQQbDvDEtOlDso.jpg

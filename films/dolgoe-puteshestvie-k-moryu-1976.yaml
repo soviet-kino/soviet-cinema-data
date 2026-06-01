@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q12656647
   imdb: tt1519326
+  tmdb: 923256
 sources:
 - https://www.wikidata.org/wiki/Q12656647
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - fridberg-isaak-shaevich
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /beMPlhbvngCA0xEbSEX67qSkn7O.jpg

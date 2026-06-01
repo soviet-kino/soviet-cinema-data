@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q112128240
   imdb: tt14296156
+  tmdb: 808951
 sources:
 - https://www.wikidata.org/wiki/Q112128240
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - turskiy-zbignev
 studio:
 - se-ma-for
+poster_tmdb_path: /bcbT5u59cVGez6d2sXVuVu5XHzC.jpg

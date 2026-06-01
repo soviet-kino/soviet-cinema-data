@@ -8,6 +8,7 @@ runtime_min: 545
 external_ids:
   wikidata: Q20073399
   imdb: tt2393866
+  tmdb: 1426424
 sources:
 - https://www.wikidata.org/wiki/Q20073399
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 studio:
 - kievnauchfilm
 poster_commons: Stamp of Ukraine s356.jpg
+poster_tmdb_path: /uonwuejiJ2ar1ymLnB8AC9tozFG.jpg
+backdrop_tmdb_path: /bgaJgojPnSaThAJHeyKBejHYPso.jpg

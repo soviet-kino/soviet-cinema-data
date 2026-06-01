@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q10857213
   imdb: tt0176337
   youtube: BnCn_oX5_0w
+  tmdb: 80092
 sources:
 - https://www.wikidata.org/wiki/Q10857213
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: kovac-juraj
 - person: turna-stefan
 - person: cisarova-daniela
+poster_tmdb_path: /W1kahSkr2UoIopqrPjlMBupsBV.jpg

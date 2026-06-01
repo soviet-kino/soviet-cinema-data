@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12087230
   imdb: tt5286168
+  tmdb: 1529330
 sources:
 - https://www.wikidata.org/wiki/Q12087230
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: rogovtseva-ada-nikolaevna
 - person: naum-natalya-mikhaylovna
 - person: noreyka-laymonas
+poster_tmdb_path: /tU1pVaoJpAyG53kIeqBjoT3yOWE.jpg

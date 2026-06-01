@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q130782291
   imdb: tt0167154
+  tmdb: 422845
 sources:
 - https://www.wikidata.org/wiki/Q130782291
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: q101249108
 - person: brych-antonin
 - person: haller-frantisek
+poster_tmdb_path: /A3R0L65jBZEdpdYd1RDxaxcCx00.jpg

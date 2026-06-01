@@ -8,8 +8,10 @@ runtime_min: 81
 external_ids:
   wikidata: Q7253223
   imdb: tt0187428
+  tmdb: 409885
 sources:
 - https://www.wikidata.org/wiki/Q7253223
 schema_version: 1
 director:
 - bercic-vojdrag
+poster_tmdb_path: /4Jv0R32yTM2DVCf4wlSRcYBPxX1.jpg

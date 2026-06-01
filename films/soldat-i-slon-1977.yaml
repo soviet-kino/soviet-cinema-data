@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4427587
   imdb: tt0410942
   youtube: ezEwpN-KaZY
+  tmdb: 395905
 sources:
 - https://www.wikidata.org/wiki/Q4427587
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: rango
 studio:
 - armenfilm
+poster_tmdb_path: /npLdkJI39nUJ46j8eQE8I7MqLva.jpg

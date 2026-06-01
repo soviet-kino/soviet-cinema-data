@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3917397
   imdb: tt0314520
   youtube: pe6Vo6hAo6M
+  tmdb: 333379
 sources:
 - https://www.wikidata.org/wiki/Q3917397
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kormunin-pavel-vasilevich
 studio:
 - belarusfilm
+poster_tmdb_path: /qIivuTrMd5ysYw1RW4fKNRn4fox.jpg
+backdrop_tmdb_path: /8igCkqPfG6Ov8F9le9jE2hpAJfj.jpg

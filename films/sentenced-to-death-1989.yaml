@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q7451203
   imdb: tt0097475
+  tmdb: 263350
 sources:
 - https://www.wikidata.org/wiki/Q7451203
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - kertesz-akos
 cinematographer:
 - sabo-gabor
+poster_tmdb_path: /wK6Mo53GCl2I1AbvTIW0PD42Qqc.jpg

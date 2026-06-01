@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4164467
   imdb: tt0092905
   youtube: KxNiyctaYRQ
+  tmdb: 148822
 sources:
 - https://www.wikidata.org/wiki/Q4164467
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: sharko-zinaida-maksimovna
 - person: kabanova-svetlana
 - person: mychko-tatyana
+poster_tmdb_path: /6UCoQCjcfxTibikrNLV1rJlKQ4a.jpg
+backdrop_tmdb_path: /sxLGIJmQgqqbknXJVR7boa4uG4F.jpg

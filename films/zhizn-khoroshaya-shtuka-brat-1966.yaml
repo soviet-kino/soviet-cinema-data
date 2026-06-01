@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q12847892
   imdb: tt6413390
+  tmdb: 535433
 sources:
 - https://www.wikidata.org/wiki/Q12847892
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: safar-ogly-bashir
 - person: khabalov-oleg-timofeevich
 - person: koval-vladimir-nikolaevich
+poster_tmdb_path: /bnGGcgPsZ1xHc05TSafDoJ0kpX7.jpg

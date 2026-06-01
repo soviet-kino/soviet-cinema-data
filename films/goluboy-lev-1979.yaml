@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q20511019
   imdb: tt5489938
+  tmdb: 395886
 sources:
 - https://www.wikidata.org/wiki/Q20511019
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: varderesyan-vardui
 - person: kaplandjyan-alis
 - person: aslanyan-gevork
+poster_tmdb_path: /gildB0s0eYLneYNtMIa5pamgLYd.jpg
+backdrop_tmdb_path: /ki0DuYmFXE52pyg5yPfFRAmcCEW.jpg

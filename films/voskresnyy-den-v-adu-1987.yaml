@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12672544
   imdb: tt0287104
+  tmdb: 165379
 sources:
 - https://www.wikidata.org/wiki/Q12672544
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - zhalakyavichyus-vitautas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /6nYvOPlwry0KxyyTcLGnrcPbBEx.jpg
+backdrop_tmdb_path: /aPYlnjoaCj311iJiVCsThJfDBwU.jpg

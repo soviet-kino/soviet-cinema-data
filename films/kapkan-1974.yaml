@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4213029
   imdb: tt0145690
+  tmdb: 445379
 sources:
 - https://www.wikidata.org/wiki/Q4213029
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - stan-niku
 cast:
 - person: chobanu-ilarion
+poster_tmdb_path: /dk6YfpXCFujZiAWNc1e6za9s3Um.jpg

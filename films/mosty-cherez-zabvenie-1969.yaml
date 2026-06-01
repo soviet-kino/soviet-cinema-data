@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q20510267
   imdb: tt0410152
+  tmdb: 1428126
 sources:
 - https://www.wikidata.org/wiki/Q20510267
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: chekan-stanislav-yulianovich
 studio:
 - armenfilm
+poster_tmdb_path: /AkQdSqxIsrf42m8ePpuYotwCH6R.jpg
+backdrop_tmdb_path: /7RzwPoAovJE4l5F9yQvmfM8qHfB.jpg

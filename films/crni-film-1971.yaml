@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q16086062
   imdb: tt0176625
+  tmdb: 341026
 sources:
 - https://www.wikidata.org/wiki/Q16086062
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - zhilnik-zhelimir
 screenwriter:
 - zhilnik-zhelimir
+poster_tmdb_path: /i9bnEqO2yUljfguHID1OOPNhrN3.jpg
+backdrop_tmdb_path: /nqWSd7Oox5M6AibBiObq18jwx7n.jpg

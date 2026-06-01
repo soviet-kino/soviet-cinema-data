@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4153584
   imdb: tt0236138
+  tmdb: 1036872
 sources:
 - https://www.wikidata.org/wiki/Q4153584
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: malyutin-yakov-osipovich
 studio:
 - gruziya-film
+poster_tmdb_path: /4gH3tGwW8fMdeddolvZXM4YkUhu.jpg

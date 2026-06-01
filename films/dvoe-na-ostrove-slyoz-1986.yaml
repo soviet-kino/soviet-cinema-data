@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q98109447
   imdb: tt0294546
   youtube: qPXnik3fskg
+  tmdb: 786038
 sources:
 - https://www.wikidata.org/wiki/Q98109447
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: ryabova-svetlana-leonidovna
 studio:
 - belarusfilm
+poster_tmdb_path: /vDlLm2QxNtzIjeVhc6mLnfpyn1q.jpg
+backdrop_tmdb_path: /x0jjBj1iFcr3viQCtikj9SFsPc.jpg

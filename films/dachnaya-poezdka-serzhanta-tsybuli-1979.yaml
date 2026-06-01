@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155423
   imdb: tt0079021
   youtube: xEB-GcImxx0
+  tmdb: 397326
 sources:
 - https://www.wikidata.org/wiki/Q4155423
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: ivanov-sergey-petrovich
+poster_tmdb_path: /lZzDz5BezH1p8InnFI9DGNQNdLo.jpg
+backdrop_tmdb_path: /pZYIRr6PHdOy4yxlD5hayaSyZJW.jpg

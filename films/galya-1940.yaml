@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4132931
   imdb: tt0336486
   youtube: o6bJWklTbok
+  tmdb: 779381
 sources:
 - https://www.wikidata.org/wiki/Q4132931
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kuznetsov-anatoliy-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /lmaXurdtFh0GRK2ZeLFasaNrARO.jpg

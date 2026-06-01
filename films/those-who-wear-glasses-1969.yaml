@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1296037
   imdb: tt0065058
+  tmdb: 343466
 sources:
 - https://www.wikidata.org/wiki/Q1296037
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: keresh-emil
 - person: mayor-tamash
 - person: molnar-tibor
+poster_tmdb_path: /AiGWXkdI8ELPTYJp4tlb9FXiUQv.jpg
+backdrop_tmdb_path: /rFbJrLjQOQHCpPMp87vBwiOtCKE.jpg

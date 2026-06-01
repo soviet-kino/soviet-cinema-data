@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4532705
   imdb: tt0175596
+  tmdb: 642609
 sources:
 - https://www.wikidata.org/wiki/Q4532705
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - prut-iosif-leonidovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /yEv5YC4AEBfDK4M8c01p3EvoYNO.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7737702
   imdb: tt0030928
   youtube: BDpBJniWnr4
+  tmdb: 339368
 sources:
 - https://www.wikidata.org/wiki/Q7737702
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: myufke-konstantin
 studio:
 - gruziya-film
+poster_tmdb_path: /f2e6csZPCfo2ZG6DPfLYOIDqk3f.jpg
+backdrop_tmdb_path: /duUek6oU8mlBz7x1aqqYEBNGbnA.jpg

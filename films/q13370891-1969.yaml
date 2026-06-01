@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q13370891
   imdb: tt0249444
+  tmdb: 994349
 sources:
 - https://www.wikidata.org/wiki/Q13370891
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: riggova-maria-de
 - person: minarova-stefania
 - person: kristofovic-milan
+poster_tmdb_path: /vF9YfHvGqUThrPXl8KrKhyeOkDQ.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4240472
   imdb: tt4844700
   youtube: MZcwzPoLkaE
+  tmdb: 888292
 sources:
 - https://www.wikidata.org/wiki/Q4240472
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: durov-lev-konstantinovich
 - person: markov-leonid-vasilevich
 - person: sherstnyov-yuriy-borisovich
+poster_tmdb_path: /1xA0ikrG0rLWvK9tNcpDzLFJyc9.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18713123
   imdb: tt0052973
   youtube: s9B6ftPAUqE
+  tmdb: 439971
 sources:
 - https://www.wikidata.org/wiki/Q18713123
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 - person: st-karel-hovorka
 - person: q101210302
 - person: nemec-hynek
+poster_tmdb_path: /c9e2RVjQBWUFPR7TRTaWDFLAQ27.jpg

@@ -8,6 +8,7 @@ runtime_min: 136
 external_ids:
   wikidata: Q4373649
   imdb: tt0173024
+  tmdb: 73922
 sources:
 - https://www.wikidata.org/wiki/Q4373649
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - zdf
 - lenfilm
 - goskino
+poster_tmdb_path: /3lilHSgFYCZ8kvULFJvwsuBHOjJ.jpg
+backdrop_tmdb_path: /lpQk54TiMJPF6uXlsLVKIDjAB36.jpg

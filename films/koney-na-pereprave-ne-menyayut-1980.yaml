@@ -8,6 +8,7 @@ runtime_min: 134
 external_ids:
   wikidata: Q4230721
   imdb: tt0081009
+  tmdb: 569999
 sources:
 - https://www.wikidata.org/wiki/Q4230721
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: chepchyan-georgiy-avetisovich
 studio:
 - mosfilm
+poster_tmdb_path: /fvQLhTJfCfP7JnigR6V68vvYUYd.jpg
+backdrop_tmdb_path: /kBMkKm3xW00YYK5X0isaJcmrUgl.jpg

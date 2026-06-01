@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366413
   imdb: tt0040707
   youtube: _Lu0l6HxWps
+  tmdb: 254332
 sources:
 - https://www.wikidata.org/wiki/Q4366413
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kadochnikov-pavel-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /3pjdzV8peaf2PpGxcAAhUMV6wcb.jpg
+backdrop_tmdb_path: /1xnH35dj08X48Jq7YNJMx6fUMk7.jpg

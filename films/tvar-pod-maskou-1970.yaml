@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q7857386
   imdb: tt0065990
+  tmdb: 800745
 sources:
 - https://www.wikidata.org/wiki/Q7857386
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: karen-otakar-jan
 - person: voves-ales
 - person: pondelickova-eva
+poster_tmdb_path: /d1rsmoKWThw0YW0exTW9dw9diFv.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4189439
   imdb: tt5668120
   youtube: MeKISvjx-0E
+  tmdb: 895432
 sources:
 - https://www.wikidata.org/wiki/Q4189439
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: matveeva-albina-borisovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /xVWgtIrQQ7ktn3ap0kJvwyMb34S.jpg

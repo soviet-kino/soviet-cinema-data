@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19843975
   imdb: tt0127706
   youtube: 5-dPE7LCU2M
+  tmdb: 597191
 sources:
 - https://www.wikidata.org/wiki/Q19843975
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: ilinichna-eliseeva-irina
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /iA4notR9pGLO91yXtGCowpv76qe.jpg

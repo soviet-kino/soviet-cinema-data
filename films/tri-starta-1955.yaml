@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q4462898
   imdb: tt0048751
+  tmdb: 636794
 sources:
 - https://www.wikidata.org/wiki/Q4462898
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: tsiprian-adam
 studio:
 - q9380470
+poster_tmdb_path: /g2DwQMNgVRDm5El35fCS1PqNBol.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4360957
   imdb: tt0081332
   youtube: WtoDVcSMk-A
+  tmdb: 254311
 sources:
 - https://www.wikidata.org/wiki/Q4360957
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: zhigalov-mikhail-vasilevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /1JohKnK5vUHYFcPo2WZ5CLdRRfc.jpg
+backdrop_tmdb_path: /hd8whsDfZ1lvC6Otu0Rb8QEcKwv.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q11695907
   imdb: tt0295727
+  tmdb: 440426
 sources:
 - https://www.wikidata.org/wiki/Q11695907
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - topi-flamur
 composer:
 - daiya-tish
+poster_tmdb_path: /xWL0J1CsgGexTlfOt6kk6mMG3Mk.jpg
+backdrop_tmdb_path: /6svkiLhAvyoTnR3ne5tVlJ6VqH0.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q101122268
   imdb: tt0174525
   youtube: cbVIN2WraXQ
+  tmdb: 268665
 sources:
 - https://www.wikidata.org/wiki/Q101122268
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
 - ukrainskaya-studiya-khronikalno-dokumentalnykh-filmov
+poster_tmdb_path: /m4ni7zdlBOY3nr2SjLVcnVY34Lc.jpg
+backdrop_tmdb_path: /yaa6mRPO8KCSQfNuWyKeH2xrwia.jpg

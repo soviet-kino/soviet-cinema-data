@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q655028
   imdb: tt0093579
+  tmdb: 612970
 sources:
 - https://www.wikidata.org/wiki/Q655028
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: temessy-hedi
 - person: barberini-urbano
 - person: rocchietta-matteo
+poster_tmdb_path: /7vhqDX8AeRtITkXhbHXa1k6Yvbn.jpg
+backdrop_tmdb_path: /vGLk8CH32YHh7z5OinjD8d6G7oS.jpg

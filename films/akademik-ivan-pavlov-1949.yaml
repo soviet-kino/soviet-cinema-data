@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4059120
   imdb: tt0041101
   youtube: ub4ImG2NCyU
+  tmdb: 375002
 sources:
 - https://www.wikidata.org/wiki/Q4059120
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Borisov Ivan Pavlov.jpg
+poster_tmdb_path: /l6xdwSUa06u14GqN5VNUIMFkDbf.jpg
+backdrop_tmdb_path: /yjNu2tiK39EQQDxLT4CcULgBmc0.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5423315
   imdb: tt0175602
   youtube: X2POIfKPmWE
+  tmdb: 585160
 sources:
 - https://www.wikidata.org/wiki/Q5423315
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: bozinov-atanas
 - person: radivenski-boris
 - person: atanasov-d
+poster_tmdb_path: /zH1XNEfxqXRb8zUrB1K6QTYvpES.jpg

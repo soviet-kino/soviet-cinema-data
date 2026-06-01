@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q3202256
   imdb: tt0309297
+  tmdb: 92823
 sources:
 - https://www.wikidata.org/wiki/Q3202256
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 studio:
 - jiri-trnka-studio
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+poster_tmdb_path: /pzUqJyvdEBnkKzQTlG3DESCirQd.jpg

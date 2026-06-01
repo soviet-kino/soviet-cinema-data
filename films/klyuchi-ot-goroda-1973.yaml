@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16349265
   imdb: tt2395379
+  tmdb: 866365
 sources:
 - https://www.wikidata.org/wiki/Q16349265
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - krenbergs-imants
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /kRzLtfbW52IWQiHJ3IsXb1YDOm6.jpg

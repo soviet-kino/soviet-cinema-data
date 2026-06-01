@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4379480
   imdb: tt1873599
   youtube: Fy4a8raNmWM
+  tmdb: 640490
 sources:
 - https://www.wikidata.org/wiki/Q4379480
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: adoskin-anatoliy-mikhaylovich
 studio:
 - belarusfilm
+poster_tmdb_path: /jbYJwl9xrERx6hx3aDqRp3DTDZp.jpg
+backdrop_tmdb_path: /uUVdbgkLBuuRnN1vPdczZLn6VKy.jpg

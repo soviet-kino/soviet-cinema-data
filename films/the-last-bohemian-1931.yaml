@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q85847712
   imdb: tt0327098
+  tmdb: 620978
 sources:
 - https://www.wikidata.org/wiki/Q85847712
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: rensky-radola
 - person: beztahovsky-vladimir
 - person: hochman-ladislav
+backdrop_tmdb_path: /o0Fo6akJ762a9rewtoMqnmdeEfz.jpg

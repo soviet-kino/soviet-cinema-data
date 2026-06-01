@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4331651
   imdb: tt0175606
+  tmdb: 529570
 sources:
 - https://www.wikidata.org/wiki/Q4331651
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: filippova-antonina-mikhaylovna
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /bPaLkY0aJ9CQ1s8epzeG1tgErlt.jpg

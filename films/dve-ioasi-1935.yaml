@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q4155627
   imdb: tt0027971
+  tmdb: 487394
 sources:
 - https://www.wikidata.org/wiki/Q4155627
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: borkowski-zbigniew
 - person: doree-halina
 poster_commons: Dwie Joasie 1935.jpg
+poster_tmdb_path: /rgI3szZorlfD6tlQsL6CRNsESAe.jpg
+backdrop_tmdb_path: /vgVPitGgPLNw220jEfBwyvoYtQu.jpg

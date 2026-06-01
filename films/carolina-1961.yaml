@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761138
   imdb: tt0173952
+  tmdb: 502051
 sources:
 - https://www.wikidata.org/wiki/Q16761138
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: nalis-antun
 - person: bulic-karlo
 - person: deba-miodrag-popovic
+poster_tmdb_path: /4xnRove87CfTlKo8i4xBkWSO17V.jpg

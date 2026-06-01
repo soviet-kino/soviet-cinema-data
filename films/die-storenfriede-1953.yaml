@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1216582
   imdb: tt0236771
+  tmdb: 288810
 sources:
 - https://www.wikidata.org/wiki/Q1216582
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: albrecht-elisabeth
 poster_commons: Fotothek df roe-neg 0006440 2 036 Drei Pioniere während des Lesens
   des Filmprosp.jpg
+poster_tmdb_path: /qZbH7BIAMMG4e1Raud8TIgHPbcw.jpg
+backdrop_tmdb_path: /kZHh4fo8tdPypwPwfFrolC1R2Bg.jpg

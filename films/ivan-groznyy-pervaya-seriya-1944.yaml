@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1542476
   imdb: tt0037824
   youtube: jJmsV10MTJE
+  tmdb: 9797
 sources:
 - https://www.wikidata.org/wiki/Q1542476
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: birman-serafima-germanovna
 - person: stolyarov-sergey-dmitrievich
 - person: timoshenko-semyon-alekseevich
+poster_tmdb_path: /adJFgZkdW9QKMXYo6sjWHLHhW1V.jpg
+backdrop_tmdb_path: /ohn9zA2dUbVuo4ajx32Em97qvMr.jpg

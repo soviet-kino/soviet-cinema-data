@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4230744
   imdb: tt0067312
+  tmdb: 637107
 sources:
 - https://www.wikidata.org/wiki/Q4230744
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - mosfilm
 cast:
 - person: vertinskaya-marianna-aleksandrovna
+poster_tmdb_path: /aXW1RBKG5E7QYXf1fNxpwioXTKo.jpg

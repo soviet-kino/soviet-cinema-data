@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4463661
   imdb: tt0314802
+  tmdb: 484140
 sources:
 - https://www.wikidata.org/wiki/Q4463661
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: chekmaryov-viktor-konstantinovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /iPGdyMsYQrfCqImsiUs8ow0boxn.jpg
+backdrop_tmdb_path: /tmGrk4Qfp3auDgWpHrseEMr5Cv7.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q126540044
   imdb: tt0306650
+  tmdb: 1398954
 sources:
 - https://www.wikidata.org/wiki/Q126540044
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - yanov-yanovskiy-feliks-markovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /eARI8d9D2crRXtkaQ6rSMwyEZJk.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4195096
   imdb: tt3069800
   youtube: u-P5F-mS_gk
+  tmdb: 532667
 sources:
 - https://www.wikidata.org/wiki/Q4195096
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - sverdlovskaya-kinostudiya
 cast:
 - person: porokhovshchikov-aleksandr-shalvovich
+poster_tmdb_path: /c99aEuzxr5o2hHV3OetFzvS4DsP.jpg
+backdrop_tmdb_path: /ugcn9uwsNst1OJO5TVrUYVqzy1s.jpg

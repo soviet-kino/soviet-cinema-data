@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q18639482
   imdb: tt0169589
+  tmdb: 315924
 sources:
 - https://www.wikidata.org/wiki/Q18639482
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: popelkova-marie
 - person: strnad-antonin
 - person: nemec-karel
+poster_tmdb_path: /ouLzkTkYhJqTdDoNjdpIIdb8wAW.jpg

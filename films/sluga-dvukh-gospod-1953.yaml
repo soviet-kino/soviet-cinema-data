@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20093114
   imdb: tt0240001
+  tmdb: 446662
 sources:
 - https://www.wikidata.org/wiki/Q20093114
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - bergunker-adolf-solomonovich
 studio:
 - lenfilm
+poster_tmdb_path: /x3TfCroZHcroXCYEByGoI9krwv.jpg
+backdrop_tmdb_path: /kgLhw2wGCXlxTxMsfK5YOFYhhyL.jpg

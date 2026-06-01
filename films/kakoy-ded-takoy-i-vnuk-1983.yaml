@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12752483
   imdb: tt0085768
+  tmdb: 55116
 sources:
 - https://www.wikidata.org/wiki/Q12752483
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: vojinovic-nada
 - person: lilyana-yankovich
 - person: q16088547
+poster_tmdb_path: /da7EDUgr54KFNHOWSSGMrJ6eVOu.jpg
+backdrop_tmdb_path: /6CTerHk4vbEkHbxeRptxrPG8wZ5.jpg

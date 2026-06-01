@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1307037
   imdb: tt0077487
+  tmdb: 372103
 sources:
 - https://www.wikidata.org/wiki/Q1307037
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: schroeder-karin
 - person: pulman-marilu
 - person: kommerell-ruth
+poster_tmdb_path: /x9TgtXCZ9S7S2d8IlHvmxeQEnvp.jpg
+backdrop_tmdb_path: /g37Lyk0YNh2LJ9iDZjslySklCVU.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q11829382
   imdb: tt1042357
+  tmdb: 748497
 sources:
 - https://www.wikidata.org/wiki/Q11829382
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - sten-jerzy
 composer:
 - vikhler-zygmunt
+poster_tmdb_path: /5wIqCqPR9QRy7wPiJkhRW0OLk5H.jpg

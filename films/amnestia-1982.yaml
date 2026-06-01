@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9150097
   imdb: tt0083551
+  tmdb: 155416
 sources:
 - https://www.wikidata.org/wiki/Q9150097
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: lyamzha-ioakhim
 - person: saniternik-mariush
 - person: mikhal-yushchakevich
+poster_tmdb_path: /oNoyhyWXDOP0Tke55PukPkBlBpm.jpg

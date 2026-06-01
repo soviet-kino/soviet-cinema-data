@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q2654897
   imdb: tt0187001
+  tmdb: 281359
 sources:
 - https://www.wikidata.org/wiki/Q2654897
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: proysker-khorst
 - person: shelkher-raymund
 - person: shall-teo
+poster_tmdb_path: /cgX8r2snX3SS3xZIsi6yu0ZYn3S.jpg
+backdrop_tmdb_path: /3hjOvrlWXFjNMjD0okmsBVdaeXu.jpg

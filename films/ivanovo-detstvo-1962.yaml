@@ -45,8 +45,11 @@ external_ids:
   wikidata: Q147878
   imdb: tt0056111
   youtube: aRkPoF7iVGc
+  tmdb: 31442
 sources:
 - https://www.wikidata.org/wiki/Q147878
 schema_version: 1
 topics:
 - literary-adaptations
+poster_tmdb_path: /l1cCt7kGXKuboZwiJYPW8AQoVX3.jpg
+backdrop_tmdb_path: /jOulpNwtoJP5fF1LJX1ojw6BxBq.jpg

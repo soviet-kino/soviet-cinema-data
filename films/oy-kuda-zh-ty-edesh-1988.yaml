@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97185938
   imdb: tt6323640
+  tmdb: 910418
 sources:
 - https://www.wikidata.org/wiki/Q97185938
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - ivanitskaya-tamara-fyodorovna
 composer:
 - bystryakov-vladimir-yurevich
+poster_tmdb_path: /aQNlfFKB8z2UI3QjhUZ1DtgFsmN.jpg

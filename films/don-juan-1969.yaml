@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5292862
   imdb: tt0065654
   youtube: L14f3dYuGQQ
+  tmdb: 19019
 sources:
 - https://www.wikidata.org/wiki/Q5292862
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - lishka-zdenek
 cast:
 - person: filipovskiy-frantishek
+poster_tmdb_path: /10FPKjxCaKzhBCAclsii9hSaC2R.jpg
+backdrop_tmdb_path: /g2vMTm2rnCMcf5byV6jSpbvSlti.jpg

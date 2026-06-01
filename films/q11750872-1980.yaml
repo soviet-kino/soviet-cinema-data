@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750872
   imdb: tt0353888
+  tmdb: 484763
 sources:
 - https://www.wikidata.org/wiki/Q11750872
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - hoxha-bashkim
 composer:
 - dizdari-limoz
+poster_tmdb_path: /pszfUncCv9dXKPjRFslPJzOpGHB.jpg
+backdrop_tmdb_path: /9oLSyG2rXSHFvYPWXJFMyYdUHE7.jpg

@@ -8,8 +8,10 @@ runtime_min: 5
 external_ids:
   wikidata: Q64878708
   imdb: tt2364660
+  tmdb: 897720
 sources:
 - https://www.wikidata.org/wiki/Q64878708
 schema_version: 1
 director:
 - martinac-ivan
+poster_tmdb_path: /oh4SmVLQMjUM30lUsGfJ16NcRqL.jpg

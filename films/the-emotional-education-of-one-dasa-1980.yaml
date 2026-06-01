@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12764144
   imdb: tt0156406
+  tmdb: 912122
 sources:
 - https://www.wikidata.org/wiki/Q12764144
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: pavlendova-katarina
 - person: frlajs-tibor
 - person: jariabka-lubos
+poster_tmdb_path: /3AP4qapMkYuwOqtwwBX9QlzT319.jpg

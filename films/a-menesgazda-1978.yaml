@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q3223470
   imdb: tt0077969
+  tmdb: 130328
 sources:
 - https://www.wikidata.org/wiki/Q3223470
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: madarash-yozhef
 - person: moor-marianna
+poster_tmdb_path: /dB99keJkLjeuTG69m6wmqeeCn5W.jpg
+backdrop_tmdb_path: /wttjpT9c9Hwi9PhBKETUVxLO8Qy.jpg

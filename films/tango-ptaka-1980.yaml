@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q9355488
   imdb: tt0081598
+  tmdb: 920524
 sources:
 - https://www.wikidata.org/wiki/Q9355488
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - andzhey-yaroshevich
 cast:
 - person: alitsiya-benitsevich
+poster_tmdb_path: /bNCUtRd1Cjzo2wkoATcbGR6k0QM.jpg

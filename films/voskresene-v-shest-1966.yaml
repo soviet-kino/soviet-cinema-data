@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q26224913
   imdb: tt0059137
+  tmdb: 226136
 sources:
 - https://www.wikidata.org/wiki/Q26224913
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - pintilie-luchian
 cinematographer:
 - huzum-sergiu
+poster_tmdb_path: /eSdaOkp46qLfEs7RAAuRYfdhZQc.jpg
+backdrop_tmdb_path: /rQ7fmY8dewbLgtE6fFNqDAFBtpO.jpg

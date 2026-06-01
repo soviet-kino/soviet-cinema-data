@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11756881
   imdb: tt0084253
+  tmdb: 388686
 sources:
 - https://www.wikidata.org/wiki/Q11756881
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: bayor-pyotr
 - person: komasa-wies-aw
 - person: strzemzalski-jacek
+poster_tmdb_path: /gAO7QvrRdVID4NzW6X6OrCwjBZ5.jpg
+backdrop_tmdb_path: /lf3rDpqQnDZ4kv3cHt7BxglQPI8.jpg

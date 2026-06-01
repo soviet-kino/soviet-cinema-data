@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q104441693
   imdb: tt0401292
+  tmdb: 817161
 sources:
 - https://www.wikidata.org/wiki/Q104441693
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: vajsova-viera
 - person: q112513814
 - person: veskrna-jaroslav
+poster_tmdb_path: /cLOqyejRTjj7vOoHcOLLOdrCw8j.jpg

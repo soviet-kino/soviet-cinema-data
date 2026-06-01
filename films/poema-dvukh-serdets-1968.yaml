@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q131399484
   imdb: tt0347790
+  tmdb: 604046
 sources:
 - https://www.wikidata.org/wiki/Q131399484
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - akbarov-ikram-ilkhamovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /lsY7r6WVGXqjZNvUrv9nbp41eW.jpg
+backdrop_tmdb_path: /gl60Pc0uz1pqgh5zJAHdaSAAkcC.jpg

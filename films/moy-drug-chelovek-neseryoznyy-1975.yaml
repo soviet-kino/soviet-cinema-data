@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4299834
   imdb: tt1808286
+  tmdb: 239672
 sources:
 - https://www.wikidata.org/wiki/Q4299834
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: paukshtello-yanis
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /wI3SxR3QSXK0Bo8XgX88J00MF1s.jpg
+backdrop_tmdb_path: /yrABLSCrO1H7iMhTVhNm6gODQHC.jpg

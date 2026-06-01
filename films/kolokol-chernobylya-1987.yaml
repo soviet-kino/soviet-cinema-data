@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q21647104
   imdb: tt0319700
+  tmdb: 822090
 sources:
 - https://www.wikidata.org/wiki/Q21647104
 schema_version: 1
 director:
 - sinelnikov-vladimir-lvovich
 - sergienko-rollan-petrovich
+poster_tmdb_path: /k8ygtgTI81ASOyP9EaZHj6kg42c.jpg

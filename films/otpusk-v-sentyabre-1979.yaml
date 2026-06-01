@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4339912
   imdb: tt0142745
   youtube: 9pbIJnNi6Iw
+  tmdb: 72949
 sources:
 - https://www.wikidata.org/wiki/Q4339912
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: dal-oleg-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /saAKh7D3mjHl2qPvx4ERjK7SGTn.jpg
+backdrop_tmdb_path: /uSBLWfOixe3uGhPxqdV1UG8tdXX.jpg

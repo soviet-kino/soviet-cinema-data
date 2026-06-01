@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q9143666
   imdb: tt0080342
+  tmdb: 114171
 sources:
 - https://www.wikidata.org/wiki/Q9143666
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: jarnuszkiewicz-marcin
 - person: kassowski-bronis-aw
 - person: wasiuczynski-jerzy
+poster_tmdb_path: /kP0Li1FKGiSTW6geHcDWw4Gb1I2.jpg
+backdrop_tmdb_path: /rjXSTabGLRXGrZI99jtXpp5tgT0.jpg

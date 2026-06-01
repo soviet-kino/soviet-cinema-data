@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12769766
   imdb: tt0184653
+  tmdb: 155372
 sources:
 - https://www.wikidata.org/wiki/Q12769766
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - lexmann-juraj
 studio:
 - bratislava-film-studios
+poster_tmdb_path: /4SpWmvTiCWWkD6AIHKXAeiddtHO.jpg
+backdrop_tmdb_path: /jtYVZIWWWLpP1CeReQdU2z8bWQo.jpg

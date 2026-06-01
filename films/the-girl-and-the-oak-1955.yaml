@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q3442312
   imdb: tt0048000
+  tmdb: 267214
 sources:
 - https://www.wikidata.org/wiki/Q3442312
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: tadich-lyuba
 studio:
 - yadran-film
+poster_tmdb_path: /bjRnp8r3LOIDVI8ZB2BY1BTEv03.jpg
+backdrop_tmdb_path: /149XgfePLrOlvgZFsVBEI7yzSat.jpg

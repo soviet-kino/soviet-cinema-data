@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4195538
   imdb: tt0023071
   youtube: moujoz-fA_0
+  tmdb: 156354
 sources:
 - https://www.wikidata.org/wiki/Q4195538
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: khvylya-aleksandr-leopoldovich
 - person: shagayda-stepan-vasilevich
 - person: shkurat-stepan-iosifovich
+poster_tmdb_path: /vejDwXEQqFgOeR4Tpug0kFRqJTe.jpg
+backdrop_tmdb_path: /6tN736cgC3VZhQkeLhxR9SyrilA.jpg

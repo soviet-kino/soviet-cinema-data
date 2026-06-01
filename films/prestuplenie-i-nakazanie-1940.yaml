@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27049553
   imdb: tt0278645
   youtube: bzPeDLer4ck
+  tmdb: 728221
 sources:
 - https://www.wikidata.org/wiki/Q27049553
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: ilinskiy-igor-vladimirovich
 - person: lepko-vladimir-alekseevich
 - person: mironova-mariya-vladimirovna
+poster_tmdb_path: /6pizfF3nV1H3GbHCeNxAfQYgYS2.jpg

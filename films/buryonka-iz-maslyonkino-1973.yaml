@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4100066
   imdb: tt2382905
   youtube: -PRyn3cX3BE
+  tmdb: 438378
 sources:
 - https://www.wikidata.org/wiki/Q4100066
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - abramova-natalya
 composer:
 - dvoskin-aleksandr
+poster_tmdb_path: /8KJPFJjSMUyoexx6ShSyXKvrvEd.jpg
+backdrop_tmdb_path: /3NWV8q5LECThrkBNYlF2Xt5H9qP.jpg

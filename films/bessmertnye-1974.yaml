@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q4085822
   imdb: tt0071899
+  tmdb: 112675
 sources:
 - https://www.wikidata.org/wiki/Q4085822
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kostiniu-dzheo
 studio:
 - defa
+poster_tmdb_path: /wozllCgY7Vff0BZ8IcpzyATIz0Z.jpg
+backdrop_tmdb_path: /eApdk1FZEYv0fugrFu1ghPNFqAU.jpg

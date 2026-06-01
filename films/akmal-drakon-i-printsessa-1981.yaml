@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4059664
   imdb: tt1718717
   youtube: VTFh4OGcqT0
+  tmdb: 195329
 sources:
 - https://www.wikidata.org/wiki/Q4059664
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: alieva-iroda-mirzakhonovna
 studio:
 - uzbekfilm
+poster_tmdb_path: /aj9yyLjSs2lBXKPvOtPksGoftjm.jpg
+backdrop_tmdb_path: /uNXhouk7b5DReuyRz2zELewwpmg.jpg

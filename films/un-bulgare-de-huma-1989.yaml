@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q28726058
   imdb: tt0237059
+  tmdb: 435153
 sources:
 - https://www.wikidata.org/wiki/Q28726058
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - merdzhinyanu-nikolae
 screenwriter:
 - iacoban-mircea-radu
+poster_tmdb_path: /grVWTbT5C2lznKF8IIcQJrq8MZ6.jpg
+backdrop_tmdb_path: /aB2JiwG8PmWgga5OXLvlc4zvcqK.jpg

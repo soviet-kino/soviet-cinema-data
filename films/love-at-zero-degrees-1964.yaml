@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12727015
   imdb: tt0165717
+  tmdb: 500455
 sources:
 - https://www.wikidata.org/wiki/Q12727015
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: mosora-florentina
 - person: andronesku-koka
 - person: petresku-mariella
+poster_tmdb_path: /hMPI8KmYS8PCKqk1oAmawQggU4W.jpg
+backdrop_tmdb_path: /g2za2PIuoXkSzXpqV7h4wuj95Uq.jpg

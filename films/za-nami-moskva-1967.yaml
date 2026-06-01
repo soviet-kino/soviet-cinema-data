@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4182247
   imdb: tt0348483
   youtube: R49WEZcyGbE
+  tmdb: 638308
 sources:
 - https://www.wikidata.org/wiki/Q4182247
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - khagagortyan-eduard
 cast:
 - person: sanaev-vsevolod-vasilevich
+poster_tmdb_path: /muFXiDZoMf43rkqhHlQlgjTL5i8.jpg
+backdrop_tmdb_path: /jd4YI5HVGzTQybTUXSeqPK0hTGu.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11816525
   imdb: tt0065607
+  tmdb: 212869
 sources:
 - https://www.wikidata.org/wiki/Q11816525
 schema_version: 1
@@ -85,3 +86,4 @@ cast:
 - person: leskovjanova-z
 - person: jelinek-k
 - person: maresova-jarmila
+poster_tmdb_path: /zNjbuJihxp2Rur0vDYubDu9zjiv.jpg

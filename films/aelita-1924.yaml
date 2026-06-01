@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q380803
   imdb: tt0014646
+  tmdb: 2973
 sources:
 - https://www.wikidata.org/wiki/Q380803
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kuindzhi-valentina-efimovna
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /fw5zx3SuFF56MnFgWlAKvMMzc4a.jpg
+backdrop_tmdb_path: /wkDZ7F7Fy2z7T4SIEMlDh0r2lyH.jpg

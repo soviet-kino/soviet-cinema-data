@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q84994464
   imdb: tt0077972
+  tmdb: 1365126
 sources:
 - https://www.wikidata.org/wiki/Q84994464
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shainskiy-vladimir-yakovlevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /71u8VWC7VJWMNeubKIQfJLpcVFc.jpg

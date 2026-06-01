@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3499588
   imdb: tt0077202
   youtube: 30Vz8-gMcEc
+  tmdb: 56406
 sources:
 - https://www.wikidata.org/wiki/Q3499588
 schema_version: 1
@@ -89,3 +90,5 @@ cast:
 - person: macasova-michaela
 - person: cabalka-vladimir
 - person: q134506557
+poster_tmdb_path: /vbAm0OTnagkjSxRNehVdCtPaQ8G.jpg
+backdrop_tmdb_path: /cVrJwwrAHmuFXEKUl6iDKaQmYqP.jpg

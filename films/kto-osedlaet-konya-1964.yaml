@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97305667
   imdb: tt0271252
+  tmdb: 1499280
 sources:
 - https://www.wikidata.org/wiki/Q97305667
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: gogichayshvili-iosif
 - person: neparidze-venera
 - person: ninidze-viktor
+poster_tmdb_path: /Arzf8FnVqH6hBtuMc3ef6hPcASd.jpg
+backdrop_tmdb_path: /on8gsNV2MLC7jkNo62c5WxVE7kz.jpg

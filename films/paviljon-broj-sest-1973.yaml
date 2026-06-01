@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q46598621
   imdb: tt0181757
+  tmdb: 264571
 sources:
 - https://www.wikidata.org/wiki/Q46598621
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: zhigon-stevo
 - person: slobodan-perovich
 - person: simich-slavko
+poster_tmdb_path: /anJIJKZXPkiYZPEmeqwmioLdkTB.jpg
+backdrop_tmdb_path: /oHTxaWh9XmaqiNlBQvu1z8TOmbQ.jpg

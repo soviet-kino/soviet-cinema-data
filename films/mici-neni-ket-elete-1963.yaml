@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q12344928
   imdb: tt0056238
+  tmdb: 294193
 sources:
 - https://www.wikidata.org/wiki/Q12344928
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - barnabash-khedi
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /w6md2NKuZalWvjiLaww13NFhR9f.jpg
+backdrop_tmdb_path: /5vBwHJMegS9QHZmYT4D2aUYX721.jpg

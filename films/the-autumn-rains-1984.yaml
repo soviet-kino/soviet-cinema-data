@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q11725813
   imdb: tt0296199
+  tmdb: 473037
 sources:
 - https://www.wikidata.org/wiki/Q11725813
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: caushi-kastriot
 studio:
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /pn9f01LsGbHZu1mYdGIOOcxzDUp.jpg
+backdrop_tmdb_path: /pdQEIXRhU1E7tCY5WS9ILOOEpfj.jpg

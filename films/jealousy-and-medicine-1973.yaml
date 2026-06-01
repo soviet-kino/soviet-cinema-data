@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q9387652
   imdb: tt0070949
+  tmdb: 341660
 sources:
 - https://www.wikidata.org/wiki/Q9387652
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kilyar-voytsekh
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /5WwWPlvzeoFKforWrj7vyvBnxRi.jpg
+backdrop_tmdb_path: /ra0XcJQUfMNO2YolzSml6f2oNcH.jpg

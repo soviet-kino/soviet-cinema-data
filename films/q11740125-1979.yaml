@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740125
   imdb: tt0081003
+  tmdb: 424134
 sources:
 - https://www.wikidata.org/wiki/Q11740125
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: szymaniak-zbigniew
 - person: komuda-antoni
 - person: q120483133
+poster_tmdb_path: /gVWcQRAvn8AkPlNN3eKXqSJuKnQ.jpg
+backdrop_tmdb_path: /vz2WHkE6mtQywlggSLuoANvESUN.jpg

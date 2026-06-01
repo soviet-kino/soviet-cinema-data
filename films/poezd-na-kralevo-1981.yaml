@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16085865
   imdb: tt0180788
+  tmdb: 367562
 sources:
 - https://www.wikidata.org/wiki/Q16085865
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: ciganovic-nenad
 - person: todorovic-predrag
 - person: milutin-butkovich
+poster_tmdb_path: /oPNuC9lUZZu9DEvxpMzfMBvlQdg.jpg
+backdrop_tmdb_path: /7QHvjnMdvREc03b8SN5JBmER4OO.jpg

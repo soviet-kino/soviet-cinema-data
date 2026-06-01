@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q116779413
   imdb: tt0174463
+  tmdb: 309764
 sources:
 - https://www.wikidata.org/wiki/Q116779413
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 studio:
 - lendok
 poster_commons: Viola Sonata title card.png
+poster_tmdb_path: /nslHVJyoYBsv2N0ntF2RFVcMf0R.jpg
+backdrop_tmdb_path: /xDpahNuWlAalvQYNVLO6RpP1gjm.jpg

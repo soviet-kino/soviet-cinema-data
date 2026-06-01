@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788993
   imdb: tt0055213
+  tmdb: 747645
 sources:
 - https://www.wikidata.org/wiki/Q11788993
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - valyatsinskiy-adam
 cast:
 - person: yanchar-tadeush
+poster_tmdb_path: /coiCVn8Hl5RZPIxtCNE8NpP6dix.jpg

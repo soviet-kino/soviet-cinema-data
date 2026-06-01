@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4093002
   imdb: tt1389744
   youtube: _g1FwHitO_I
+  tmdb: 248394
 sources:
 - https://www.wikidata.org/wiki/Q4093002
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - nikitin-sergey-yakovlevich
 studio:
 - ekran
+poster_tmdb_path: /3d7zYkMenZ8DKjvxT0AUr1vrzwv.jpg

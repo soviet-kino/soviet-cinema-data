@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4142564
   imdb: tt1075320
   youtube: m_uO2IBXE30
+  tmdb: 997758
 sources:
 - https://www.wikidata.org/wiki/Q4142564
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /xNcUL6UP65fmBfcoDskR7Hyao1s.jpg
+backdrop_tmdb_path: /p3wNGJ25BG7j54JrbuxcHyYsJgI.jpg

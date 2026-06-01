@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131822756
   imdb: tt0440849
+  tmdb: 1293093
 sources:
 - https://www.wikidata.org/wiki/Q131822756
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: rudolf-peter
 - person: rajhona-adam
 - person: bata-janos
+poster_tmdb_path: /hKfEIqaAkfjCMorHj9zp9BJiRrF.jpg

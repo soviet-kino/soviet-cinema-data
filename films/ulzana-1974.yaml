@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q963162
   imdb: tt0072336
+  tmdb: 197401
 sources:
 - https://www.wikidata.org/wiki/Q963162
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 studio:
 - mosfilm
 - defa
+poster_tmdb_path: /5hhzbeAeefLJieOcPSgyTszZnit.jpg
+backdrop_tmdb_path: /h2jZ3GOTcarTtik7doqf5ZmIYpf.jpg

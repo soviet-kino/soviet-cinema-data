@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q18537403
   imdb: tt0166482
+  tmdb: 586404
 sources:
 - https://www.wikidata.org/wiki/Q18537403
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - bratu-luchian
 cast:
 - person: lazer-dorina
+poster_tmdb_path: /SFTpPyWk3XpifG0oS1QPvnymB5.jpg
+backdrop_tmdb_path: /1zX2Qbdo00XlEimq3es6bZFRSDj.jpg

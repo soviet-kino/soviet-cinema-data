@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4069546
   imdb: tt0312380
+  tmdb: 798456
 sources:
 - https://www.wikidata.org/wiki/Q4069546
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: izvitskaya-izolda-vasilevna
 - person: masokha-lavrentiy-emelyanovich
 - person: tumanishvili-mikhail-iosifovich
+poster_tmdb_path: /z1eAX53ur7LLZmXr0rD8qIdxYvG.jpg

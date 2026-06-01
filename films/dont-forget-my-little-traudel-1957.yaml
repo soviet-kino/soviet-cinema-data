@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q2515772
   imdb: tt0051158
+  tmdb: 288820
 sources:
 - https://www.wikidata.org/wiki/Q2515772
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: borges-manfred
 - person: henker-paul-r
 - person: shrade-villi
+poster_tmdb_path: /dgKEz5nqRPNjyvSGZgi30erKKRu.jpg
+backdrop_tmdb_path: /5zynR47GrhnQ9GQggR5lnSyzQh6.jpg

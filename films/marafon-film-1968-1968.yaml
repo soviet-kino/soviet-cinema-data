@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6755067
   imdb: tt0063274
   youtube: Lq9DjlAARJU
+  tmdb: 498614
 sources:
 - https://www.wikidata.org/wiki/Q6755067
 schema_version: 1
@@ -143,3 +144,4 @@ cast:
 - person: jandackova-eva
 - person: novakova-ivona
 - person: cermak-ladislav
+poster_tmdb_path: /uftCPTZdT0vGwuTUWuaOXHEkXaa.jpg

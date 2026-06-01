@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4415686
   imdb: tt15452166
+  tmdb: 594225
 sources:
 - https://www.wikidata.org/wiki/Q4415686
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - pryadkin-leonid-fyodorovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /dgVDcFrjIz6XOASHRy7vOyOz3IE.jpg
+backdrop_tmdb_path: /hcEJnhDuhtDZDELy4GzBFUZOFla.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4171737
   imdb: tt1296154
+  tmdb: 248113
 sources:
 - https://www.wikidata.org/wiki/Q4171737
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kuple-dina
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /7egQ3IDQRGDcrgaJgLrJIdRQN2K.jpg
+backdrop_tmdb_path: /4vNQA6iVXVUSs1e64CuiyDeiOjF.jpg

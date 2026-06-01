@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16357085
   imdb: tt2396779
+  tmdb: 206961
 sources:
 - https://www.wikidata.org/wiki/Q16357085
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: zarinsh-yanis-2
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /aGXLgchMLOo4y9bTzN467TH1mRA.jpg

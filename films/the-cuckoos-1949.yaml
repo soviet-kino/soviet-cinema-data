@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q1214108
   imdb: tt0041564
+  tmdb: 439246
 sources:
 - https://www.wikidata.org/wiki/Q1214108
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: mahlau-nils-peter
 studio:
 - defa
+poster_tmdb_path: /mZIICVeTVXRoox4e9oSJKqGwHGb.jpg

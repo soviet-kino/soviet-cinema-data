@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9338620
   imdb: tt0057512
+  tmdb: 337091
 sources:
 - https://www.wikidata.org/wiki/Q9338620
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - komeda-kshishtof
 cast:
 - person: prutsnal-anna
+poster_tmdb_path: /1jqirONhIkiBzAs01Zwh3cIWBtx.jpg

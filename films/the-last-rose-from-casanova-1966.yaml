@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q131322893
   imdb: tt0173026
+  tmdb: 834277
 sources:
 - https://www.wikidata.org/wiki/Q131322893
 schema_version: 1
@@ -84,3 +85,4 @@ cast:
 - person: lajka-karel
 - person: kutova-ladislava
 - person: jandackova-eva
+poster_tmdb_path: /8vUZ2Uyjf5K7n9gICkGMHMkGihc.jpg

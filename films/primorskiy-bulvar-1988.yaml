@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4378713
   imdb: tt0152071
   youtube: WRCW78142ag
+  tmdb: 315317
 sources:
 - https://www.wikidata.org/wiki/Q4378713
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - odesskaya-kinostudiya
 - tvorcheskoe-obedinenie-televizionnykh-filmov
+poster_tmdb_path: /7UfBnmF9KrUiJ2WGfFZyzq0fXz8.jpg
+backdrop_tmdb_path: /qYEg9OWGJasGmO8ZoY05S8ulOXP.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20077360
   imdb: tt6416654
+  tmdb: 903363
 sources:
 - https://www.wikidata.org/wiki/Q20077360
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kanershteyn-aleksandr-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /fDsWdge4i2TzwiYlqymQz6KI4A5.jpg
+backdrop_tmdb_path: /mndUD4SLoNoRCIfeeHNvt5niN6d.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4484461
   imdb: tt0093024
   youtube: pso4muxLMUc
+  tmdb: 359328
 sources:
 - https://www.wikidata.org/wiki/Q4484461
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: gorbunov-aleksey-sergeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /hoRpErHkVvZ6eB7XDLt4W0ovR90.jpg

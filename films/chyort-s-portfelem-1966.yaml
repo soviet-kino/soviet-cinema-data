@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4518942
   imdb: tt0235294
   youtube: mUitg5TBzS0
+  tmdb: 149496
 sources:
 - https://www.wikidata.org/wiki/Q4518942
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: rumyantseva-nadezhda-vasilevna
 - person: volkov-nikolay-nikolaevich
 - person: medvedev-yuriy-nikolaevich
+poster_tmdb_path: /3moTmHd44WB1FWucPkSzy2pit34.jpg

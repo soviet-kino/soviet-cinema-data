@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5666166
   imdb: tt0008047
+  tmdb: 415664
 sources:
 - https://www.wikidata.org/wiki/Q5666166
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: somogyi-nusi
 studio:
 - corvin-film-studio
+poster_tmdb_path: /4xLocDN2JM7DAQAzy77hYltoahP.jpg

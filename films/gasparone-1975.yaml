@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25395690
   imdb: tt6146982
+  tmdb: 1485976
 sources:
 - https://www.wikidata.org/wiki/Q25395690
 schema_version: 1
@@ -14,3 +15,5 @@ composer:
 - millyoker-karl
 cast:
 - person: terenteva-nonna-nikolaevna
+poster_tmdb_path: /vnqnKI9SuAPTpbCzNFsbTgv3Tlr.jpg
+backdrop_tmdb_path: /fjk7DwL0VUCEUm88S2jYtAi7IHI.jpg

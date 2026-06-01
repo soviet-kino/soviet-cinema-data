@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q125542097
   imdb: tt3785136
+  tmdb: 273998
 sources:
 - https://www.wikidata.org/wiki/Q125542097
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mitrushina-tatyana
 studio:
 - ukrtelefilm
+poster_tmdb_path: /bY3YWe2kqMVFmXTNFs53atKcTWG.jpg
+backdrop_tmdb_path: /qwqF2jAOnCVLtvseTlAACWhbmDM.jpg

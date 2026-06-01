@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3553801
   imdb: tt0096841
   youtube: YDb76aekGBY
+  tmdb: 97039
 sources:
 - https://www.wikidata.org/wiki/Q3553801
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: semyonov-nikolay
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /moBGrR1YAX77AAceXrrDKSxRzRl.jpg
+backdrop_tmdb_path: /r0Hee2zRc9glDDOHapwfbjH5aG2.jpg

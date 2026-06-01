@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4179350
   imdb: tt0028530
+  tmdb: 1036710
 sources:
 - https://www.wikidata.org/wiki/Q4179350
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: garin-erast-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /yUysdqLFd88kUEmkYSr6JwPdrOU.jpg

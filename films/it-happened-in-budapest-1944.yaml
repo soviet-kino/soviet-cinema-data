@@ -8,8 +8,10 @@ runtime_min: 95
 external_ids:
   wikidata: Q994305
   imdb: tt0035851
+  tmdb: 348048
 sources:
 - https://www.wikidata.org/wiki/Q994305
 schema_version: 1
 director:
 - hamza-dezso-akos
+poster_tmdb_path: /7UpVP7lTv5QLyhbzlt1xyeO4V2C.jpg

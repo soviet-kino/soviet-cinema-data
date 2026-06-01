@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65200462
   imdb: tt4914616
+  tmdb: 889682
 sources:
 - https://www.wikidata.org/wiki/Q65200462
 schema_version: 1
 director:
 - bondaryov-oleg-aleksandrovich
+poster_tmdb_path: /uqFvzr1aM0aet53qc00bhnrKQiO.jpg

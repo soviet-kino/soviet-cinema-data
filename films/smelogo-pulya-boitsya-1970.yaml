@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4424248
   imdb: tt0324001
   youtube: ErKc33sgBf4
+  tmdb: 640822
 sources:
 - https://www.wikidata.org/wiki/Q4424248
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: netrebin-daniil-matveevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /4AOVBWKCM49QQpVHBCGpBo1odvv.jpg
+backdrop_tmdb_path: /vaurmsVn8t9hjrYxl8hYoTCN4l7.jpg

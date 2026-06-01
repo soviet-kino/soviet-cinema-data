@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q9189325
   imdb: tt0172236
+  tmdb: 657747
 sources:
 - https://www.wikidata.org/wiki/Q9189325
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: maklakiewicz-zdzis-aw
 - person: pavlikovskiy-adam
 - person: gogolevskiy-ignatsy
+poster_tmdb_path: /9puH9at2vtWeIsQXsi5drZj2Ry6.jpg
+backdrop_tmdb_path: /m9r4KsxWFvGNgaBaT62yyA9akq0.jpg

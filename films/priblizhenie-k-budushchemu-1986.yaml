@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q126285585
   imdb: tt0274737
+  tmdb: 851118
 sources:
 - https://www.wikidata.org/wiki/Q126285585
 schema_version: 1
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /6nxGN50Zc0wU6YuPK41YvkDYg4K.jpg

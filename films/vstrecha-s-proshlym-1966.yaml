@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3651207
   imdb: tt0274836
+  tmdb: 885893
 sources:
 - https://www.wikidata.org/wiki/Q3651207
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: abashidze-leyla-mikhaylovna
 - person: andzhaparidze-veriko-ivlianovna
 - person: zakariadze-sergo-aleksandrovich
+poster_tmdb_path: /m3zcjPk6aG6zTxgL4fM4cYo7mf5.jpg

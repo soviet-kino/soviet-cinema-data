@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2622313
   imdb: tt0030947
   youtube: wUnZqtcrOlI
+  tmdb: 37133
 sources:
 - https://www.wikidata.org/wiki/Q2622313
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Volga-volga.jpg
+poster_tmdb_path: /yDunXhmYjX7yjG4q3exMewj6zZw.jpg
+backdrop_tmdb_path: /o78Cb9l44stZFgumspQx6MF0KBL.jpg

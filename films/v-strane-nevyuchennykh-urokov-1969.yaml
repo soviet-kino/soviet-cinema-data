@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4101811
   imdb: tt0218696
+  tmdb: 273953
 sources:
 - https://www.wikidata.org/wiki/Q4101811
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - chargeyshvili-nektarios
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /o1M425lDBF2NRIsKGzoQfdP1j7K.jpg

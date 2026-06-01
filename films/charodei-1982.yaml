@@ -20,6 +20,7 @@ external_ids:
   wikidata: Q4507452
   youtube: AlhOm9EooZg
   imdb: tt0083730
+  tmdb: 41977
 sources:
 - https://www.wikidata.org/wiki/Q4507452
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: svetin-mikhail-semyonovich
 - person: filippov-roman-sergeevich
 - person: pevitsa-yakovleva-aleksandra-evgenevna
+poster_tmdb_path: /1wC5WNWYKxosp9jcKPZvk9Q8HiW.jpg
+backdrop_tmdb_path: /a7sOwNj0uXTPE8PY2seDlsT41LN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163902
   imdb: tt0148076
   youtube: OgEvZh3cMsg
+  tmdb: 306739
 sources:
 - https://www.wikidata.org/wiki/Q4163902
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: sharlakhov-viktor-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /oN3VNoF961XazVTWdDyIi6n1ACa.jpg
+backdrop_tmdb_path: /nOxIcs9P0X2pWNqaRd9V842o5Bf.jpg

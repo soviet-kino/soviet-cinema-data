@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q829250
   imdb: tt0019760
   youtube: DdbU-4tPq5o
+  tmdb: 26317
 sources:
 - https://www.wikidata.org/wiki/Q829250
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Man with a movie camera 1929 2.png
+poster_tmdb_path: /3iXQrMNuIWfBpd02ri842AHTKsF.jpg
+backdrop_tmdb_path: /byRNEm1QwfQC1Mn0K4gLM2fIfWO.jpg

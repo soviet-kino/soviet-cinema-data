@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q36169
   imdb: tt0314941
   youtube: 5pz30s2CSIA
+  tmdb: 431908
 sources:
 - https://www.wikidata.org/wiki/Q36169
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: strizhenov-oleg-aleksandrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /itOOhzx5TQCvGqCVU4J7Jny6MkD.jpg
+backdrop_tmdb_path: /6DOcrilErXEdYqF89Qk7NO8o7dC.jpg

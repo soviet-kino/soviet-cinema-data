@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12030021
   imdb: tt0061879
+  tmdb: 86451
 sources:
 - https://www.wikidata.org/wiki/Q12030021
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: lzicarova-irena
 - person: horejsi-jitka
 - person: lippertova-alena
+poster_tmdb_path: /vNpwRPISAhtp8NrU1ARF97sBLBC.jpg
+backdrop_tmdb_path: /9DJKO9cyWbZxS7kA3RZYOFZOqO7.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1252554
   imdb: tt0024513
+  tmdb: 1246702
 sources:
 - https://www.wikidata.org/wiki/Q1252554
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: khalmay-tibor
 - person: paffi-charlz
 - person: frank-ellen
+poster_tmdb_path: /iEUj28O4CruytdGLaoMjpwE0q7F.jpg

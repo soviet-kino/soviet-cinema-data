@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4640226
   imdb: tt0229940
+  tmdb: 439267
 sources:
 - https://www.wikidata.org/wiki/Q4640226
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: lyobinger-lotta
 studio:
 - defa
+poster_tmdb_path: /sMe2LSOl7lNvGkz2e4jC9wKN07J.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28465045
   imdb: tt0174321
+  tmdb: 836342
 sources:
 - https://www.wikidata.org/wiki/Q28465045
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - milyutin-yuriy-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /ah07FjmEQerWRXpKZoYtqWyod7B.jpg

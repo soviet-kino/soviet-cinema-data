@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4522740
   imdb: tt0067745
   youtube: 1O_uyntOEFw
+  tmdb: 361491
 sources:
 - https://www.wikidata.org/wiki/Q4522740
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: korneva-lyubov-aleksandrovna
 studio:
 - lenfilm
+poster_tmdb_path: /kPJV9Q3qxAh98f9nxqEAu8hrSVx.jpg
+backdrop_tmdb_path: /cR3KHQW7igCdV3NaAuVlclQeZVq.jpg

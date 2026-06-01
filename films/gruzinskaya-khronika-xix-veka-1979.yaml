@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q12861258
   imdb: tt0079244
+  tmdb: 147002
 sources:
 - https://www.wikidata.org/wiki/Q12861258
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - gruziya-film
 cast:
 - person: chkhikvadze-ramaz-grigorevich
+poster_tmdb_path: /yTih4uAMpRiOeMoWm9WAR1YGVmG.jpg
+backdrop_tmdb_path: /cPd56bXUaFYN6XMzDN65l1HHPPr.jpg

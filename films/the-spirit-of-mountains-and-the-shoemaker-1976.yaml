@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q57315709
   imdb: tt1430095
+  tmdb: 372192
 sources:
 - https://www.wikidata.org/wiki/Q57315709
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 - kratky-film-praha
 - studiya-dlya-animatsionnykh-filmov-defa
 - jiri-trnka-studio
+poster_tmdb_path: /ehGj0Ky8LHbzBXuOZBPby2AcH1P.jpg

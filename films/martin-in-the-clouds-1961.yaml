@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q383719
   imdb: tt0055148
+  tmdb: 267241
 sources:
 - https://www.wikidata.org/wiki/Q383719
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: dvornik-boris
 studio:
 - yadran-film
+poster_tmdb_path: /ou7RJ9nh5SdVimQ5tzdsLVy84lv.jpg
+backdrop_tmdb_path: /aqXGO8IPU0Q7mDqlsW60QEtCtGW.jpg

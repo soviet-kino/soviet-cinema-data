@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1033386
   imdb: tt0101995
+  tmdb: 107675
 sources:
 - https://www.wikidata.org/wiki/Q1033386
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - buytor-ishtvan
 screenwriter:
 - buytor-ishtvan
+poster_tmdb_path: /hnG3qIeXYPVAfmNo8dJCtYSOpGe.jpg
+backdrop_tmdb_path: /dnYL0G1R6XxSZ1X0JCpPMCg0XIv.jpg

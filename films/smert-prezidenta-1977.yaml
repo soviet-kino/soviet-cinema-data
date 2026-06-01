@@ -8,6 +8,7 @@ runtime_min: 144
 external_ids:
   wikidata: Q5247582
   imdb: tt0078283
+  tmdb: 263811
 sources:
 - https://www.wikidata.org/wiki/Q5247582
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: gzhibovskiy-andzhey
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /2dSULavzotVBAVQ4h3QjOzKz5UN.jpg
+backdrop_tmdb_path: /sCOMV2NZPhHfkGE7mAbrTtAwpFz.jpg

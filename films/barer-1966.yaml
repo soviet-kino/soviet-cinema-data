@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q3206464
   imdb: tt0060150
+  tmdb: 121942
 sources:
 - https://www.wikidata.org/wiki/Q3206464
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 studio:
 - kamera-kinostudiya
 poster_commons: Barrier 1966 poster (ALT).jpg
+poster_tmdb_path: /t4Hc5y7T8yLkLp6RZYnuzlkzFsc.jpg
+backdrop_tmdb_path: /pBw0tfdVot0vTlETRSKCcOzwxpW.jpg

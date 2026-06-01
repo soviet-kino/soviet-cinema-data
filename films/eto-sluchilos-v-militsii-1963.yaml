@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4533101
   imdb: tt0057046
+  tmdb: 92683
 sources:
 - https://www.wikidata.org/wiki/Q4533101
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: nevinnyy-vyacheslav-mikhaylovich
 - person: belyavskiy-aleksandr-borisovich
 - person: sanaev-vsevolod-vasilevich
+poster_tmdb_path: /eFNeLD02w7cfuXpUFEHx5Ay6I7b.jpg

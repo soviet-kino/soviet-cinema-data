@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q124652052
   imdb: tt0158155
+  tmdb: 874488
 sources:
 - https://www.wikidata.org/wiki/Q124652052
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bukojemski-micha
 studio:
 - warsaw-documentary-film-studio
+poster_tmdb_path: /w8FhSi3Z0R6J7kij4eCYsSnC7gb.jpg

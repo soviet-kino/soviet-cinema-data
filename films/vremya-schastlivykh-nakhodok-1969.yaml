@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4127169
   imdb: tt0337433
+  tmdb: 838192
 sources:
 - https://www.wikidata.org/wiki/Q4127169
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - iskander-fazil-abdulovich
 studio:
 - mosfilm
+poster_tmdb_path: /uIYjuXiZTRJipEsL3oxBJNp4hHN.jpg

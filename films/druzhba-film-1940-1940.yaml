@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12102522
   imdb: tt0262611
+  tmdb: 1382415
 sources:
 - https://www.wikidata.org/wiki/Q12102522
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kiladze-grigoriy-varfolomeevich
 studio:
 - gruziya-film
+poster_tmdb_path: /x6XY9xObCWtBOl1aZZKDvHr4WmZ.jpg

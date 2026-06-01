@@ -8,8 +8,10 @@ runtime_min: 14
 external_ids:
   wikidata: Q135927317
   imdb: tt1452516
+  tmdb: 630740
 sources:
 - https://www.wikidata.org/wiki/Q135927317
 schema_version: 1
 director:
 - dammbeck-lutz
+poster_tmdb_path: /vkWWg1mz2vLGDlqZUJqEv0Yp2Dv.jpg

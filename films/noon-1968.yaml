@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757434
   imdb: tt0063444
+  tmdb: 284155
 sources:
 - https://www.wikidata.org/wiki/Q12757434
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: begolli-faruk
 - person: cumic-dragomir
 - person: nikola-yovanovich
+poster_tmdb_path: /olDzjXZgIjvTl1Rg3Gf1htn3o7x.jpg
+backdrop_tmdb_path: /u7VHwjfJEwMQy7BJRWCQ2kgJVY1.jpg

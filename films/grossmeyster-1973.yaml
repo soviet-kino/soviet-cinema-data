@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q15985056
   imdb: tt0382724
+  tmdb: 887868
 sources:
 - https://www.wikidata.org/wiki/Q15985056
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: sovchi-tamara
 - person: tatosov-vladimir-mikhaylovich
 - person: filippov-roman-sergeevich
+poster_tmdb_path: /5BOzZBZPXQ8fwwJ28nf3kUtNbHe.jpg
+backdrop_tmdb_path: /7hpHaMdhai53iZcdLiZF21yhnGE.jpg

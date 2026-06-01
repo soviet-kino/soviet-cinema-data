@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4131330
   imdb: tt0175649
   youtube: 4M8GYqsRPt8
+  tmdb: 437615
 sources:
 - https://www.wikidata.org/wiki/Q4131330
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Nikolaj Smorčkov Gavroche.jpg
+poster_tmdb_path: /847rDraSwGOSXQOP4TynY3X9cmo.jpg
+backdrop_tmdb_path: /m9C9PP5bol81jdtTOp68u7I0CHF.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20506876
   imdb: tt0427373
+  tmdb: 716400
 sources:
 - https://www.wikidata.org/wiki/Q20506876
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - babadzhanyan-arno
 studio:
 - armenfilm
+poster_tmdb_path: /7gF49WUvUtw5lWKAVv47x6CLW25.jpg
+backdrop_tmdb_path: /hHCZYKGYdX1fEcMvKCRJLFdpYUu.jpg

@@ -9,8 +9,11 @@ external_ids:
   wikidata: Q58215923
   imdb: tt5300260
   youtube: PqJEMXbRgdw
+  tmdb: 425350
 sources:
 - https://www.wikidata.org/wiki/Q58215923
 schema_version: 1
 director:
 - ozerov-yuriy-nikolaevich
+poster_tmdb_path: /7jG2dIlE4mwE5Gq98Kwc7Zki8uB.jpg
+backdrop_tmdb_path: /fMn26gKobNFRlVGFjhnMOr9FNpQ.jpg

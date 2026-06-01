@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12747961
   imdb: tt0212050
+  tmdb: 1643296
 sources:
 - https://www.wikidata.org/wiki/Q12747961
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: sablich-seka
 - person: stojiljkovic-vlastimir-uza
 - person: miodrag-radovanovich
+poster_tmdb_path: /zCor9HyMraoPUISaA4SzQPGjLpo.jpg

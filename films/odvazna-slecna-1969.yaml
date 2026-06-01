@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q7078385
   imdb: tt0064751
+  tmdb: 830347
 sources:
 - https://www.wikidata.org/wiki/Q7078385
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: dohnal-zdenek
 - person: sramek-vaclav
 - person: minar-ivan
+poster_tmdb_path: /2zQpgsSEgicYbPMXgUeFFedEwr2.jpg

@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q4425797
   imdb: tt0094001
+  tmdb: 460074
 sources:
 - https://www.wikidata.org/wiki/Q4425797
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - vorontsov-yuriy-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /1drJuFZtmmsREF2gZu9ryFcCoXJ.jpg

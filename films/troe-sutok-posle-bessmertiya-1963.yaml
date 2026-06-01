@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q28664725
   imdb: tt0057605
+  tmdb: 641524
 sources:
 - https://www.wikidata.org/wiki/Q28664725
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: zamanskiy-vladimir-petrovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /jZeJ4vZuXSBAIv9DR7qTGWHZ2A3.jpg

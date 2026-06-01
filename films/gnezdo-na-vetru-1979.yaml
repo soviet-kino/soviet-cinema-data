@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20001357
   imdb: tt0347089
+  tmdb: 528414
 sources:
 - https://www.wikidata.org/wiki/Q20001357
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: ikho-arvo
 - person: allabert-rudolf
 - person: maasik-anne
+poster_tmdb_path: /1DzrK2YFnbDGQ1PhkGbquz1TVzN.jpg

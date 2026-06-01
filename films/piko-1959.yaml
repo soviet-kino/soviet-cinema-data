@@ -7,9 +7,11 @@ country:
 external_ids:
   wikidata: Q20310330
   imdb: tt0194245
+  tmdb: 479077
 sources:
 - https://www.wikidata.org/wiki/Q20310330
 schema_version: 1
 cast:
 - person: kon-mariya
 - person: pipinic-hermina
+poster_tmdb_path: /pT8IeB56YzmGjRtgSg8tyfeg4fC.jpg

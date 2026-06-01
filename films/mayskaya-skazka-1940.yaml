@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12046083
   imdb: tt0152013
   youtube: 2u2ECbm2KDc
+  tmdb: 280013
 sources:
 - https://www.wikidata.org/wiki/Q12046083
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: subrt-milos
 - person: adolf-jindrich
 - person: ulrych-bedrich
+poster_tmdb_path: /82l91cA59e1FI3Rt6ckJPF95ZEJ.jpg

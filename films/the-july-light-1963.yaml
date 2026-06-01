@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44867962
   imdb: tt0057265
+  tmdb: 1269885
 sources:
 - https://www.wikidata.org/wiki/Q44867962
 schema_version: 1
 director:
 - nagi-george
+poster_tmdb_path: /o4N190Zd5QQa2X8JnCoOggiK9sa.jpg

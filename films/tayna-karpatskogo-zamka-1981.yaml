@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3564069
   imdb: tt0083162
   youtube: 8u0eIM-tz5Y
+  tmdb: 54755
 sources:
 - https://www.wikidata.org/wiki/Q3564069
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: lipsky-vilem
 studio:
 - barrandov
+poster_tmdb_path: /wRbNGo0DLAXl5sjJvsZBXQwozaB.jpg
+backdrop_tmdb_path: /oRGJpLt01YzGPbHiDtbB4OQ1rzs.jpg

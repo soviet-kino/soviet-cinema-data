@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q125576302
   imdb: tt10787516
+  tmdb: 553230
 sources:
 - https://www.wikidata.org/wiki/Q125576302
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - kochetkov-aleksandr-stepanovich
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
+poster_tmdb_path: /bQpebLVRpvGss2KV5Tg0G6vsOJU.jpg
+backdrop_tmdb_path: /kL18x6SyJ4loPFPqEw49LOI0is.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1526076
   imdb: tt0061756
+  tmdb: 933
 sources:
 - https://www.wikidata.org/wiki/Q1526076
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: vyunsher-marianna
 - person: albrekht-regina
 - person: lirk-verner
+poster_tmdb_path: /6yNh51Ayu6v4VfXDPNzRJCSXMaQ.jpg
+backdrop_tmdb_path: /qvXK2TVO2cbWi7I8VfJhvVRw0Nt.jpg

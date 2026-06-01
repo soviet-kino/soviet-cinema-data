@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60835234
   imdb: tt30101576
+  tmdb: 1219243
 sources:
 - https://www.wikidata.org/wiki/Q60835234
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 studio:
 - kazakhfilm
 - yaltinskaya-kinostudiya
+poster_tmdb_path: /h5gr2ey9697bUKJ7X6oRW12XooD.jpg

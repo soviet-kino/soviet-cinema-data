@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3506596
   imdb: tt0176637
+  tmdb: 325227
 sources:
 - https://www.wikidata.org/wiki/Q3506596
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: sovagovic-fabijan
 - person: lepetich-zvonko
+poster_tmdb_path: /dIDrdCiNFXx5QrEbcJsn0wkBSqx.jpg

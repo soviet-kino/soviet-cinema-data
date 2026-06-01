@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12740656
   imdb: tt0131585
+  tmdb: 394146
 sources:
 - https://www.wikidata.org/wiki/Q12740656
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: marinescu-gilda
 - person: cocea-tanti
 - person: paladescu-mihai
+poster_tmdb_path: /sGHLfFoqeQzrG4nc2aIfcVgFOJT.jpg

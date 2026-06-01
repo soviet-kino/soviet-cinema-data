@@ -8,6 +8,7 @@ runtime_min: 163
 external_ids:
   wikidata: Q4212977
   imdb: tt6318628
+  tmdb: 583000
 sources:
 - https://www.wikidata.org/wiki/Q4212977
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: proklova-elena-igorevna
 - person: durov-lev-konstantinovich
 - person: samoylov-vladimir-yakovlevich
+poster_tmdb_path: /rr4gvyyZyFfDQrdaQ8gbJv5nUb3.jpg

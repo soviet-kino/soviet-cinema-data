@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2082902
   imdb: tt0122591
   youtube: 5LODsZRKXNs
+  tmdb: 178907
 sources:
 - https://www.wikidata.org/wiki/Q2082902
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: yakovleva-lyudmila-alekseevna
 studio:
 - lenfilm
+poster_tmdb_path: /daUy4ZaI6yM7OQY8IkvScfDx15S.jpg
+backdrop_tmdb_path: /qPoeu99QMZQNqnd9gUxQHwNHFZT.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60850258
   imdb: tt27766332
+  tmdb: 275111
 sources:
 - https://www.wikidata.org/wiki/Q60850258
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - verbitskiy-leonid-lazarevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /oYeBADwxYfEa1EUqYybZ80cRK5J.jpg
+backdrop_tmdb_path: /1KOfECa1qDwO6vSgf82x83XppKG.jpg

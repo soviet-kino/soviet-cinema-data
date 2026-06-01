@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4057192
   imdb: tt0149585
+  tmdb: 516832
 sources:
 - https://www.wikidata.org/wiki/Q4057192
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 studio:
 - lenfilm
 - ekran
+poster_tmdb_path: /e54Uvr6dUdHJBeEj1Uw8VzHiqsL.jpg
+backdrop_tmdb_path: /ta7NFeCfuKQUDaEVH3PsL9EJJG6.jpg

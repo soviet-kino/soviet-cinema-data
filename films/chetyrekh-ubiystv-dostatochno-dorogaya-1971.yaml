@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q5475391
   imdb: tt0065600
+  tmdb: 51545
 sources:
 - https://www.wikidata.org/wiki/Q5475391
 schema_version: 1
@@ -77,3 +78,5 @@ cast:
 - person: tokar-karel
 - person: peticky-aladar
 - person: vitek-jan
+poster_tmdb_path: /ssMMH8sqRmp2Bjj6uBTgmE7Szkc.jpg
+backdrop_tmdb_path: /smnVY76mrz6mgIXUUCSQHNMN9eO.jpg

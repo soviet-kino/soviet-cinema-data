@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65199013
   imdb: tt0283379
   youtube: m98F9hL2Z-c
+  tmdb: 581130
 sources:
 - https://www.wikidata.org/wiki/Q65199013
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - rytsarev-boris-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /103pSq92u0zjydglzp1waakLRXz.jpg

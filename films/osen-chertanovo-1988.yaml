@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4337629
   imdb: tt0095795
+  tmdb: 69830
 sources:
 - https://www.wikidata.org/wiki/Q4337629
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: vilskiy-vadim-konstantinovich
 studio:
 - mosfilm
+poster_tmdb_path: /A0aQzy4Se19uiGyCUMNVep7mF6a.jpg

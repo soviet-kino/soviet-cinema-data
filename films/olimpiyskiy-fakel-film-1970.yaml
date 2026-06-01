@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9391653
   imdb: tt0066606
+  tmdb: 899128
 sources:
 - https://www.wikidata.org/wiki/Q9391653
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kazanetskiy-valdemar
 cast:
 - person: kalinovskiy-tadeush
+poster_tmdb_path: /idMuVkgGJYyAyETQ4NSdLWALEeR.jpg
+backdrop_tmdb_path: /x6DSGC4FcqJ5d9euS7c267HJ7nN.jpg

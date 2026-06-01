@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q42888790
   imdb: tt2978552
+  tmdb: 254076
 sources:
 - https://www.wikidata.org/wiki/Q42888790
 schema_version: 1
 director:
 - meri-lennart
+poster_tmdb_path: /5l8hCgE2RGe4zzqN32ZJkir3G3e.jpg

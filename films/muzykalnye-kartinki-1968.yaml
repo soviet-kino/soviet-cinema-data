@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q20082506
   imdb: tt6369640
+  tmdb: 904736
 sources:
 - https://www.wikidata.org/wiki/Q20082506
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - vasilenko-nina-konstantinovna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /ih7zhtcFd620oVOWwSxujfsoBMn.jpg
+backdrop_tmdb_path: /reeFRsLrcD2TdxoB8lr1VnvZIC6.jpg

@@ -8,6 +8,7 @@ runtime_min: 576
 external_ids:
   wikidata: Q112656278
   imdb: tt9013438
+  tmdb: 440569
 sources:
 - https://www.wikidata.org/wiki/Q112656278
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - garanyan-georgiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mnefmf6rjlgUwBV9zAHTwz5Rbe3.jpg
+backdrop_tmdb_path: /4dlkwrR1MOAMy3HN39MtRcurvG0.jpg

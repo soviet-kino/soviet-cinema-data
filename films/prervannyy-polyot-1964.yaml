@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q11829121
   imdb: tt0058498
+  tmdb: 337088
 sources:
 - https://www.wikidata.org/wiki/Q11829121
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: belyavskiy-aleksandr-borisovich
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /lv3Pj3J4eAONTZ2emfmJ10Z7nOb.jpg

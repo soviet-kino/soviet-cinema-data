@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1604818
   imdb: tt0066549
   youtube: 1gqq2nvrYHM
+  tmdb: 33157
 sources:
 - https://www.wikidata.org/wiki/Q1604818
 schema_version: 1
@@ -66,3 +67,5 @@ cast:
 - person: laurentiis-veronika-de
 - person: chekkarelli-petro
 - person: davies-peter
+poster_tmdb_path: /z6RLzp1KaD75Y5RBm1D9gl8Ccwq.jpg
+backdrop_tmdb_path: /yvUkDp3uWj8SpeHQVpmLpnMW3Vc.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12742439
   imdb: tt0237839
+  tmdb: 315487
 sources:
 - https://www.wikidata.org/wiki/Q12742439
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kodresku-konstantin
 - person: motoy-dzhordzhe
 - person: chekh-sabolch
+poster_tmdb_path: /1Mz4t89DCe6mjhFlpbzK2TzuYlu.jpg

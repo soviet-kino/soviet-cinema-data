@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q4066532
   imdb: tt0166082
+  tmdb: 380370
 sources:
 - https://www.wikidata.org/wiki/Q4066532
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: godunov-aleksandr-borisovich
 - person: plisetskaya-mayya
+poster_tmdb_path: /nRFPxIr3saNCUpEkBEoQb9aeC4M.jpg
+backdrop_tmdb_path: /wSSMVmRrPdSRyhhsch3mKtCJ6H9.jpg

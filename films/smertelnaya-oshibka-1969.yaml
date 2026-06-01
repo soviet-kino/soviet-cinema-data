@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q2463970
   imdb: tt0066496
+  tmdb: 149968
 sources:
 - https://www.wikidata.org/wiki/Q2463970
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: popovich-mavid-milivoye
 - person: ryovekamp-verner
 - person: oya-bruno-vernerovich
+poster_tmdb_path: /puIqpjM9K4vMn5ZBPb0B5ViQkVY.jpg
+backdrop_tmdb_path: /qL69M95mEqXArrGfxsFyIyjUU0l.jpg

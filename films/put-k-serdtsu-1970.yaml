@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65206128
   imdb: tt4676080
+  tmdb: 539135
 sources:
 - https://www.wikidata.org/wiki/Q65206128
 schema_version: 1
 director:
 - ivchenko-viktor-illarionovich
+poster_tmdb_path: /jW5ann1ebVdANKNS577xHpyWp8m.jpg

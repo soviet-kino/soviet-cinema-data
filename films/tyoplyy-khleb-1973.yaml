@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4468148
   imdb: tt6369648
+  tmdb: 439809
 sources:
 - https://www.wikidata.org/wiki/Q4468148
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - gavrilov-anatoliy
 studio:
 - kievnauchfilm
+poster_tmdb_path: /ewLywzhPRmbBlwsSUGcesfEMZiI.jpg
+backdrop_tmdb_path: /1gYFlaOXWrUzRK4U9jjmFe9VSSc.jpg

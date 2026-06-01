@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31183780
   imdb: tt0040634
+  tmdb: 191085
 sources:
 - https://www.wikidata.org/wiki/Q31183780
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 cast:
 - person: sever-stane
 - person: sesek-boris
+poster_tmdb_path: /bfTqfg1wLq8fmYT6LpP16uscfit.jpg
+backdrop_tmdb_path: /zjdUZQC5rxlXXyLVE62n5JFR5g.jpg

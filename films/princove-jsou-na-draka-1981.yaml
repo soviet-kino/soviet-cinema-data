@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q12047027
   imdb: tt1151388
+  tmdb: 55938
 sources:
 - https://www.wikidata.org/wiki/Q12047027
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: nalepkova-svetlana
 - person: vetlinska-anna
 - person: kanera-jan
+poster_tmdb_path: /3oP3RNignxn6YmWLpBW2BRECJdA.jpg
+backdrop_tmdb_path: /61GC138nADmjZmO3Teen2qDHbR2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4310988
   imdb: tt0059493
   youtube: uIAxvJ5QRvI
+  tmdb: 535212
 sources:
 - https://www.wikidata.org/wiki/Q4310988
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: balmusov-yulen-sergeevich
 studio:
 - lenfilm
+poster_tmdb_path: /qMOcZoe1x5kYhfw4sm5y4gYQYMa.jpg

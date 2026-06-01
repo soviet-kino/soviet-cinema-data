@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q4660415
   imdb: tt0075996
+  tmdb: 131012
 sources:
 - https://www.wikidata.org/wiki/Q4660415
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: kiss-mari
 - person: taryan-dzhordzhiana
 - person: romanelli-karla
+poster_tmdb_path: /Aw1nToBG5Du67LPJ7snwB59Rixq.jpg

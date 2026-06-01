@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7723403
   imdb: tt0181028
+  tmdb: 265064
 sources:
 - https://www.wikidata.org/wiki/Q7723403
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: tasovac-predrag
 - person: poskay-dusa
 - person: peshich-stanislava
+poster_tmdb_path: /hgPEvGg0MBbNLRmlJxm9JXN6Ije.jpg
+backdrop_tmdb_path: /AufuBJbvWhmoaUZq3Kfp213Oa2A.jpg

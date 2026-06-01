@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q1601971
   imdb: tt0063567
+  tmdb: 278793
 sources:
 - https://www.wikidata.org/wiki/Q1601971
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: weisgerber-thomas
 - person: kulikovski-traudl
 - person: lirk-verner
+poster_tmdb_path: /9deQPJukWGxU2Iuth4n6BhvF7zq.jpg

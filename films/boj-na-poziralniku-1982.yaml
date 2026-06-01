@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q28750101
   imdb: tt0083674
+  tmdb: 239697
 sources:
 - https://www.wikidata.org/wiki/Q28750101
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: bibich-polde
 - person: sotlar-bert
 - person: mrzel-jerica
+poster_tmdb_path: /rem7sFHemkt7ly2eSso5e2x4B89.jpg
+backdrop_tmdb_path: /9StcpDzWQrp6NpYf8I16mTDerSK.jpg

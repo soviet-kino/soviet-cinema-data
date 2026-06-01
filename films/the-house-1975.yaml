@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q3506348
   imdb: tt0073255
+  tmdb: 325228
 sources:
 - https://www.wikidata.org/wiki/Q3506348
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: karich-ana
 studio:
 - kroatiya-film
+poster_tmdb_path: /yvZ91gYyqtz76t7uwwHGUYtJLn0.jpg

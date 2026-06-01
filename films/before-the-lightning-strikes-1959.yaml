@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q731646
   imdb: tt0052622
+  tmdb: 279720
 sources:
 - https://www.wikidata.org/wiki/Q731646
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: benekendorf-volf-fon
 studio:
 - defa
+poster_tmdb_path: /n6l72umAn7ihoo92uPRoLN4ngnD.jpg

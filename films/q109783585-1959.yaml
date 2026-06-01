@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109783585
   imdb: tt12678590
+  tmdb: 1036170
 sources:
 - https://www.wikidata.org/wiki/Q109783585
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: kaesler-oskar
 - person: rogge-hans
 - person: schlichting-august
+poster_tmdb_path: /ah25anUjdYTWV09KnHUN5eDo9Jm.jpg

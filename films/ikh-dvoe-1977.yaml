@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3051450
   imdb: tt0076968
+  tmdb: 256595
 sources:
 - https://www.wikidata.org/wiki/Q3051450
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: novitskiy-yan
 - person: zhinkozhi-zhuzha
 - person: monori-lili
+poster_tmdb_path: /mUFFuz7lskxlnUNPlhU8GmHqC6V.jpg
+backdrop_tmdb_path: /8LfY5ujm1an5cyL1XAdKccPBXZD.jpg

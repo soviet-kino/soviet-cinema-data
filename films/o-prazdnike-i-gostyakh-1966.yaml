@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4659196
   imdb: tt0063371
+  tmdb: 105348
 sources:
 - https://www.wikidata.org/wiki/Q4659196
 schema_version: 1
@@ -87,3 +88,5 @@ cast:
 - person: vyskocilova-zuzana
 studio:
 - barrandov
+poster_tmdb_path: /eZMcMkpRTm7n8heLtAA4JNtq7nc.jpg
+backdrop_tmdb_path: /mqJKvdiMW8t50WOl9NUiTwC3Df7.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11833251
   imdb: tt0058509
+  tmdb: 945606
 sources:
 - https://www.wikidata.org/wiki/Q11833251
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - dziedzina-julian
 composer:
 - bakh-iogann-sebastyan
+poster_tmdb_path: /8BZNY9EaqT0g59XuJqxpqucvqpR.jpg

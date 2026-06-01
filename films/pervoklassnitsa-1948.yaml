@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4349258
   imdb: tt0040689
   youtube: nkbFf8bTPI0
+  tmdb: 63583
 sources:
 - https://www.wikidata.org/wiki/Q4349258
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: zashchipina-natalya-aleksandrovna
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /5nY6BnfmgmPu6yEaoSWoW4lHpZs.jpg
+backdrop_tmdb_path: /97CtEBsEgU6Dilr4CST2qnLAjnL.jpg

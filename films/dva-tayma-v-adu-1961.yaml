@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q1437026
   imdb: tt0056160
+  tmdb: 163363
 sources:
 - https://www.wikidata.org/wiki/Q1437026
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: vegvari-tamas
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /odH0bGpi3nhI4wCFUV7BUhFEg7r.jpg
+backdrop_tmdb_path: /nmdsYZvgqxwLkcgWCYCXQEcDxW.jpg

@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q4124364
   imdb: tt0334650
+  tmdb: 396477
 sources:
 - https://www.wikidata.org/wiki/Q4124364
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: urgant-nina-nikolaevna
 - person: mazovetskaya-svetlana-isaakovna
 - person: bogdanov-igor
+poster_tmdb_path: /m7kipN1Oe6NwwzSKzAeBABaprWa.jpg
+backdrop_tmdb_path: /jEsA7tGBSlsqcosQQuJUgBBw4Lv.jpg

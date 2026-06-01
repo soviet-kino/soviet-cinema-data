@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q110586403
   imdb: tt0317956
+  tmdb: 596916
 sources:
 - https://www.wikidata.org/wiki/Q110586403
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: mesko-viliam
 - person: onufrak-mikulas
 - person: zabrodska-nikola
+poster_tmdb_path: /vVR16KPm1ZWkK7c8Gz4B99XzWje.jpg

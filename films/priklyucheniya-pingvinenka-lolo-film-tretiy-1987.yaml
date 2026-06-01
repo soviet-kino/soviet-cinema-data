@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q138617004
   imdb: tt8519056
+  tmdb: 463498
 sources:
 - https://www.wikidata.org/wiki/Q138617004
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - soyuzmultfilm
 - sovinfilm
 - layfvok
+poster_tmdb_path: /47SdYn0OMdGZvHfs1eDeKOsE0xY.jpg

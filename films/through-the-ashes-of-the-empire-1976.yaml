@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q12738524
   imdb: tt0073572
+  tmdb: 421485
 sources:
 - https://www.wikidata.org/wiki/Q12738524
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: cherchel-florina
 - person: peunesku-niku
 - person: sileanu-shtefan
+poster_tmdb_path: /zcVNl2cqmonbQwOjzO9nnKjFRgy.jpg

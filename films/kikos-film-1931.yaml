@@ -8,6 +8,7 @@ runtime_min: 53
 external_ids:
   wikidata: Q16385703
   imdb: tt0359555
+  tmdb: 1372268
 sources:
 - https://www.wikidata.org/wiki/Q16385703
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: chakhiryan-grigoriy
 studio:
 - armenfilm
+poster_tmdb_path: /faDpLOeOLnHDr23ZF3oqpnA1vEs.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q113126491
   imdb: tt5048540
   youtube: y2V7dC-pz7o
+  tmdb: 599627
 sources:
 - https://www.wikidata.org/wiki/Q113126491
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - zheleznyakov-valentin-mikolayovich
 studio:
 - mosfilm
+poster_tmdb_path: /rLFBdlyZxe3CBjCM5B1PFcMTBhs.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q12756126
   imdb: tt0180005
+  tmdb: 267172
 sources:
 - https://www.wikidata.org/wiki/Q12756126
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: vuisich-pavle
 - person: mirich-voyya
 - person: krasojevic-ana
+poster_tmdb_path: /cVekESmprIEPXlzc8L653Kj6k0I.jpg
+backdrop_tmdb_path: /365VwwLO3Xeh5R4AaT1mGNU6CmR.jpg

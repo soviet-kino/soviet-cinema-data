@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16082504
   imdb: tt0200573
+  tmdb: 269185
 sources:
 - https://www.wikidata.org/wiki/Q16082504
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: toma-kuruzovich
 - person: yagodich-ivan
 - person: sultanovic-goran
+poster_tmdb_path: /rvIQm48fyqZATIpMicXzt7DvSBx.jpg
+backdrop_tmdb_path: /oz39RSm2MDyavMLx8WL3w9basBJ.jpg

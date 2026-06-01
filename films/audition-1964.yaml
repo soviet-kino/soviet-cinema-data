@@ -8,6 +8,7 @@ runtime_min: 47
 external_ids:
   wikidata: Q2565826
   imdb: tt0057230
+  tmdb: 48599
 sources:
 - https://www.wikidata.org/wiki/Q2565826
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: palecek-bohumil
 - person: sladka-bohunka
 - person: zahalkova-zorka
+poster_tmdb_path: /7n3cW1HZzkpIlSjtSPKq5jFiVtW.jpg
+backdrop_tmdb_path: /yhkN6N3lLVhFoO12zAle3B9wriM.jpg

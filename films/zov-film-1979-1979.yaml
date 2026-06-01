@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q12870989
   imdb: tt0281828
+  tmdb: 1209399
 sources:
 - https://www.wikidata.org/wiki/Q12870989
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: chiaureli-sofiko-mikhaylovna
 - person: takaishvili-sesil
 - person: mgeladze-giorgi
+poster_tmdb_path: /oqyBFDTicRHseGoluUkQ9rcWsE4.jpg

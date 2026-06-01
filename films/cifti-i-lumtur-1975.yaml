@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q9351226
   imdb: tt0172243
+  tmdb: 440006
 sources:
 - https://www.wikidata.org/wiki/Q9351226
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - milkani-piro
 composer:
 - krajka-agim
+poster_tmdb_path: /9KQb2wDOPHXcpRizSIr71dTwaUA.jpg
+backdrop_tmdb_path: /u4odf657RdwdUruDahKBIOrbAQ7.jpg

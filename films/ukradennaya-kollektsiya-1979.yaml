@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4470381
   imdb: tt0079914
+  tmdb: 911189
 sources:
 - https://www.wikidata.org/wiki/Q4470381
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: starostetskaya-elzhbeta
 studio:
 - iluzjon
+poster_tmdb_path: /lZmvgb6JY25yd57IVYN0kjbIP9Q.jpg

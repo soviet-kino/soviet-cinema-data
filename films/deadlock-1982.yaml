@@ -8,6 +8,7 @@ runtime_min: 3
 external_ids:
   wikidata: Q28861844
   imdb: tt3140422
+  tmdb: 393393
 sources:
 - https://www.wikidata.org/wiki/Q28861844
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - rofusz-ferenc
 cinematographer:
 - bacho-zoltan
+poster_tmdb_path: /lVPv3YQqmG8UDBZrOkP9fqnJgN0.jpg
+backdrop_tmdb_path: /oA97wTgVP5FRaGq89HkxZaYy2XP.jpg

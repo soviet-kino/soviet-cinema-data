@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q16471078
   imdb: tt0165904
+  tmdb: 171174
 sources:
 - https://www.wikidata.org/wiki/Q16471078
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - litovskaya-kinostudiya
 poster_commons: Riešutų duona.png
+poster_tmdb_path: /dt2KnhjQYlq9iqdLJ2KBin8lYyh.jpg
+backdrop_tmdb_path: /371aZ4I14MbMhS0XnACJTpfc8U1.jpg

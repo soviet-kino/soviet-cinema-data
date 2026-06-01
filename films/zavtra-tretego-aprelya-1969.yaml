@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4183311
   imdb: tt0065237
+  tmdb: 450989
 sources:
 - https://www.wikidata.org/wiki/Q4183311
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - lenfilm
 cast:
 - person: danilova-natalya-yurevna
+poster_tmdb_path: /9PL4uZ8BmMISThb9jaXCWGgYKEI.jpg
+backdrop_tmdb_path: /xQHviWQYBGXEmZ3Cs5IX3f5NyyO.jpg

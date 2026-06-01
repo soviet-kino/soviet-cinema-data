@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4193204
   imdb: tt0145799
   youtube: F2_tOdhMWNs
+  tmdb: 203046
 sources:
 - https://www.wikidata.org/wiki/Q4193204
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - yurovskiy-vladimir-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /afImFjO6uyEA6y4zgzpwZOlGiic.jpg
+backdrop_tmdb_path: /3ZmvB4iYSNf6Ajk26daNdJLWGs4.jpg

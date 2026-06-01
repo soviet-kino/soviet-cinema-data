@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q16761180
   imdb: tt0174975
+  tmdb: 360250
 sources:
 - https://www.wikidata.org/wiki/Q16761180
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: mirich-voyya
 - person: predrag-milinkovich
 - person: leso-miroljub
+poster_tmdb_path: /lnpjcD7fWMqN5ApTDUYW9yfPAjv.jpg
+backdrop_tmdb_path: /kvdE9f7ziTSj6mpHUsnScZKQdIB.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4108100
   imdb: tt0314841
   youtube: Suu04WUYoA8
+  tmdb: 92531
 sources:
 - https://www.wikidata.org/wiki/Q4108100
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tikhonov-vladimir-vyacheslavovich
 studio:
 - mosfilm
+poster_tmdb_path: /f9NTClevHJCoozLHMfM788OXuWQ.jpg
+backdrop_tmdb_path: /sJ6nhm1LUmLgYfga1DlBOPUW1NQ.jpg

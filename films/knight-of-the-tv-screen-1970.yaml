@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17163415
   imdb: tt0065807
+  tmdb: 197253
 sources:
 - https://www.wikidata.org/wiki/Q17163415
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 cast:
 - person: konts-gabor
 - person: ferencz-laszlo
+poster_tmdb_path: /wShlHuddhoACqUZmC8lu9lPVSDs.jpg
+backdrop_tmdb_path: /8lbAjpMOqUZlLBvW1MQqpi7ryLH.jpg

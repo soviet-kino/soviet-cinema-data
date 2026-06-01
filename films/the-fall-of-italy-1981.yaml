@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q3506774
   imdb: tt0082876
+  tmdb: 204415
 sources:
 - https://www.wikidata.org/wiki/Q3506774
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: gucevac-ranko
 studio:
 - yadran-film
+poster_tmdb_path: /nKTgzrydHPNkadZZgsD67fRbLBH.jpg
+backdrop_tmdb_path: /rH1iIRMIVPuC4IaZ6YZNb3tEBOJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4208861
   imdb: tt8837252
+  tmdb: 769066
 sources:
 - https://www.wikidata.org/wiki/Q4208861
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - stiebra-roze
 screenwriter:
 - stiebra-roze
+poster_tmdb_path: /8DVP2gxHCAL9weJvwa5Y1ipXTol.jpg

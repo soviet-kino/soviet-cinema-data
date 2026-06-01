@@ -20,6 +20,7 @@ external_ids:
   wikidata: Q1415194
   imdb: tt0091449
   youtube: EYHv8eJrW2Y
+  tmdb: 64022
 sources:
 - https://www.wikidata.org/wiki/Q1415194
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: yakovlev-yuriy-vasilevich
 - person: gabriadze-levan
 - person: garo-nikolay-mikhaylovich
+poster_tmdb_path: /mSwR8C9UMQ0EkFFirad9ePWDUxq.jpg
+backdrop_tmdb_path: /sXYnCnB33rfBPMxgS7fq4mkflF9.jpg

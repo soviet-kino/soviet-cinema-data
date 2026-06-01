@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q84994475
   imdb: tt4919936
+  tmdb: 889678
 sources:
 - https://www.wikidata.org/wiki/Q84994475
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: ivashov-vladimir-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /lP8zGRZaeTjoSld4a8tbDU20dTR.jpg
+backdrop_tmdb_path: /qcq9Y69vXdprjrIzjgkEbqTbgYE.jpg

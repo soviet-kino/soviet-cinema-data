@@ -40,6 +40,9 @@ external_ids:
   wikidata: Q2368529
   imdb: tt0076340
   youtube: 7_3XBQTNsdc
+  tmdb: 38323
 sources:
 - https://www.wikidata.org/wiki/Q2368529
 schema_version: 1
+poster_tmdb_path: /8nj8b9hLMZp8LwrSQEKmLVKX5MY.jpg
+backdrop_tmdb_path: /kfpsgsV5EMFSze5rml35CTVEWvB.jpg

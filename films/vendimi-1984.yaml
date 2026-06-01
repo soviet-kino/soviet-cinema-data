@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11693187
   imdb: tt0296267
+  tmdb: 501520
 sources:
 - https://www.wikidata.org/wiki/Q11693187
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - tozaj-neshat
 composer:
 - laro-kujtim
+poster_tmdb_path: /9VVzAPlGe3NPmY0Ypn07nm6ufcq.jpg
+backdrop_tmdb_path: /fdYa7dXwEG7XiFE6WDscoaFzkG7.jpg

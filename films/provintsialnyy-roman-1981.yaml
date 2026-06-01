@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q107031067
   imdb: tt2403937
   youtube: iBxJSg5qkzg
+  tmdb: 718188
 sources:
 - https://www.wikidata.org/wiki/Q107031067
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: zhanturin-nurmukhan-seytakhmetovich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /rupN4DEa3Z4Ft5qjrsdvHL8aZlP.jpg

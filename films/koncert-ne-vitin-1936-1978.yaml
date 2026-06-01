@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q11742268
   imdb: tt0295379
+  tmdb: 462172
 sources:
 - https://www.wikidata.org/wiki/Q11742268
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: q85966472
 studio:
 - albfilm
+poster_tmdb_path: /tcMFdrtBHceMSEEH5L8TJ15NE7o.jpg
+backdrop_tmdb_path: /le2aLSYq1pWJ8liBr9HnDQkqvsy.jpg

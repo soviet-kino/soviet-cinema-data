@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4126934
   imdb: tt0171902
   youtube: fFlCuz4Fvks
+  tmdb: 195514
 sources:
 - https://www.wikidata.org/wiki/Q4126934
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: telichkina-valentina
 studio:
 - lenfilm
+poster_tmdb_path: /my1YD68gWaU2atqmXKDGpjPLRkd.jpg
+backdrop_tmdb_path: /rAbW15IraY9Ze8zYUGtFKCscVH2.jpg

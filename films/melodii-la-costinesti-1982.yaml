@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12735285
   imdb: tt0264869
+  tmdb: 651379
 sources:
 - https://www.wikidata.org/wiki/Q12735285
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: muraru-vasile
 - person: bogdan-stanoevich
 - person: voychu-yorzh
+poster_tmdb_path: /dWzR9d6JhmayFX1JpbYJTRuD9vz.jpg

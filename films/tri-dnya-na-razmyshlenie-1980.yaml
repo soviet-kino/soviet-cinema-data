@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4462848
   imdb: tt4944818
   youtube: SvDmsICQOBo
+  tmdb: 248349
 sources:
 - https://www.wikidata.org/wiki/Q4462848
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: tomkus-vitautas-romualdas
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /kuBPD1fANfsOTsM24niSokQsoRv.jpg
+backdrop_tmdb_path: /t8V4DDvNfhO9mEwqN1GbMKghaL0.jpg

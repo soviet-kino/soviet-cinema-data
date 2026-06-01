@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q7852439
   imdb: tt0153329
+  tmdb: 316908
 sources:
 - https://www.wikidata.org/wiki/Q7852439
 schema_version: 1
@@ -69,3 +70,4 @@ cast:
 - person: cikan-josef
 - person: prcek-josef
 - person: tousova-eva
+poster_tmdb_path: /fNzZWpVdFJJLfa4c2f6oHz2f64n.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4137470
   imdb: tt0174680
   youtube: P6StSovHMsk
+  tmdb: 445223
 sources:
 - https://www.wikidata.org/wiki/Q4137470
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: berova-silviya-leonidovna
 - person: pilyavskaya-sofya-stanislavovna
 - person: chernov-aleksey-petrovich
+poster_tmdb_path: /bbEFVCvYqsmibRWvYVtfimCpedX.jpg
+backdrop_tmdb_path: /tjeF96CJy0P7DmdUn2XWEJ26C9A.jpg

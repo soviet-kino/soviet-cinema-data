@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3389429
   imdb: tt0071770
+  tmdb: 444248
 sources:
 - https://www.wikidata.org/wiki/Q3389429
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: krekel-lotti
 - person: uedzhuort-enn
 - person: brandon-peter
+poster_tmdb_path: /mF0TVj242Tei6SNmjx6LqCwX98c.jpg
+backdrop_tmdb_path: /hFWgyLr1HY36navBlOQWo86Ovfb.jpg

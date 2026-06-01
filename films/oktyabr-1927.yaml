@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1156836
   imdb: tt0018217
   youtube: qzGWtXFa018
+  tmdb: 697
 sources:
 - https://www.wikidata.org/wiki/Q1156836
 schema_version: 1
@@ -31,3 +32,5 @@ studio:
 - mosfilm
 - sovkino
 poster_commons: Movie poster October (1927).jpg
+poster_tmdb_path: /4HTqU5e3gQbiZwyXIa1ywb6aNlH.jpg
+backdrop_tmdb_path: /lcFVMnRPEVpvRDpXlxGfpuz0ik3.jpg

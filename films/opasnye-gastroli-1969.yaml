@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4335137
   imdb: tt0064765
   youtube: StKp_ygGrJ4
+  tmdb: 76254
 sources:
 - https://www.wikidata.org/wiki/Q4335137
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: grinko-nikolai
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /tlwlQuFQorG6glqupkb3UVlYkcl.jpg
+backdrop_tmdb_path: /1D9INDzlHfrA7DBeI0sSZimffdW.jpg

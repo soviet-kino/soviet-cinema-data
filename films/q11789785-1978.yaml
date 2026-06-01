@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11789785
   imdb: tt0295489
+  tmdb: 462306
 sources:
 - https://www.wikidata.org/wiki/Q11789785
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kadare-khelena
 composer:
 - laro-kujtim
+poster_tmdb_path: /qxRI2rGPn2OgU8WboUYYJFuUjkB.jpg
+backdrop_tmdb_path: /wgQnbEGmTI7UhgsjdfViKOjO2zm.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q24930998
   imdb: tt0232915
   youtube: srcQAW6HXZw
+  tmdb: 85374
 sources:
 - https://www.wikidata.org/wiki/Q24930998
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: solovey-elena-yakovlevna
 studio:
 - ekran
+poster_tmdb_path: /lDZS33ve55sFn3RyzxfNmhLqRGh.jpg
+backdrop_tmdb_path: /fC1Yca4JVF8PzWrBRtuUsxDnOwT.jpg

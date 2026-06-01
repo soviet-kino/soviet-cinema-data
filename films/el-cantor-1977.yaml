@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1323920
   imdb: tt0075978
+  tmdb: 498612
 sources:
 - https://www.wikidata.org/wiki/Q1323920
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: sense-traute
 - person: noyenkhan-villi
 - person: shrade-villi
+poster_tmdb_path: /nLu00EuqpYyaQSpwgdY8fZSuJQF.jpg
+backdrop_tmdb_path: /8J9aoXr1odef8Vr5sQYYeODLFxG.jpg

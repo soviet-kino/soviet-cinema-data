@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q116864991
   imdb: tt0306076
+  tmdb: 889544
 sources:
 - https://www.wikidata.org/wiki/Q116864991
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - knayfel-aleksandr-aronovich
 studio:
 - lenfilm
+poster_tmdb_path: /iUHWYtTE8zIlU6i9QVtoRlzIE9.jpg
+backdrop_tmdb_path: /zwCkz0ht73EIVzUE0Nx2Tjh1nEV.jpg

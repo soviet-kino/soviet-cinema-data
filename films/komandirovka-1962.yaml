@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4229153
   imdb: tt0055056
   youtube: hwCEetViBZE
+  tmdb: 532388
 sources:
 - https://www.wikidata.org/wiki/Q4229153
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: uralskiy-viktor-vladimirovich
 - person: frolov-gennadiy-alekseevich
 - person: geller-emmanuil-savelevich
+poster_tmdb_path: /x74fon0ttC1vFCVFnqNL16vK7MQ.jpg
+backdrop_tmdb_path: /v8ey3wjOWQdnfjJftjc45qWmRdn.jpg

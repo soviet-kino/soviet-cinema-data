@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4424372
   imdb: tt0173218
+  tmdb: 544172
 sources:
 - https://www.wikidata.org/wiki/Q4424372
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: konovalova-svetlana-igorevna
 studio:
 - mosfilm
+poster_tmdb_path: /9Ch7Lrk1aHhAWbVErQVlO5yx312.jpg
+backdrop_tmdb_path: /kOQJollworCxzGQ5uGe07balpwE.jpg

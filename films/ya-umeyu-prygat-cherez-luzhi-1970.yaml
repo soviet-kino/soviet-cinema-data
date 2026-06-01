@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1876507
   imdb: tt0066515
   youtube: e4UV66cazbY
+  tmdb: 285974
 sources:
 - https://www.wikidata.org/wiki/Q1876507
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: lacha-martin
 studio:
 - barrandov
+poster_tmdb_path: /viF3PqH7jT33XUXZ8BhF3A7RujW.jpg
+backdrop_tmdb_path: /nGSMTFSjEPHsEU8EBwbqcCs0XwR.jpg

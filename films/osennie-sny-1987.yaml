@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q68638839
   imdb: tt0300307
+  tmdb: 535864
 sources:
 - https://www.wikidata.org/wiki/Q68638839
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - petrov-andrey-pavlovich
 studio:
 - belarusfilm
+poster_tmdb_path: /aZhkBuNp1GqeuRtS0NOEELdd04y.jpg
+backdrop_tmdb_path: /yMeqK4Zr6gfZJEg5N1BaaZ3VPYt.jpg

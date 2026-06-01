@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3225856
   imdb: tt0018269
   youtube: 01QqXM9ru9g
+  tmdb: 234271
 sources:
 - https://www.wikidata.org/wiki/Q3225856
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - sovkino
 poster_commons: Поэт и царь (1927) poster.jpg
+poster_tmdb_path: /sckgm0p1lQ9kbWGHKugHo4WC972.jpg
+backdrop_tmdb_path: /jUhIQ1HP4TEGoZOKfEhEWCREeIN.jpg

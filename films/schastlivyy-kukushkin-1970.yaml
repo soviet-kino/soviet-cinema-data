@@ -8,6 +8,7 @@ runtime_min: 28
 external_ids:
   wikidata: Q109428586
   imdb: tt6525526
+  tmdb: 549182
 sources:
 - https://www.wikidata.org/wiki/Q109428586
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - pavlovskiy-aleksandr-ilich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /9kldIupjFYp1H9KwfLryVHXCMKe.jpg
+backdrop_tmdb_path: /qbwinMzta44enX4MdmepAU3w1MM.jpg

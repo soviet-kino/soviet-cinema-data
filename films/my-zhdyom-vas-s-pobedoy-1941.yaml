@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56627582
   imdb: tt0234292
   youtube: xJhiBDT2zJA
+  tmdb: 428774
 sources:
 - https://www.wikidata.org/wiki/Q56627582
 schema_version: 1
@@ -17,3 +18,4 @@ director:
 studio:
 - mosfilm
 poster_commons: '"Мы ждём Вас с победой!", кадр с названием фильма.jpg'
+poster_tmdb_path: /kCaYBKtYlG4vkH7jxkJiSWHBpF4.jpg

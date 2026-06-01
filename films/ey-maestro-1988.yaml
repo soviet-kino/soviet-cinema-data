@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12864070
   imdb: tt0279856
+  tmdb: 1065129
 sources:
 - https://www.wikidata.org/wiki/Q12864070
 schema_version: 1
 studio:
 - gruziya-film
+poster_tmdb_path: /5P7Gb72YVAD4DzAoWCXAHx16Tcr.jpg

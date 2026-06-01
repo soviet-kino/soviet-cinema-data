@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3236064
   imdb: tt0240034
+  tmdb: 257098
 sources:
 - https://www.wikidata.org/wiki/Q3236064
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 - franek-emanuel
 composer:
 - troyan-vatslav
+poster_tmdb_path: /ndY6drkD2uauSEnMXiEexGYORyG.jpg
+backdrop_tmdb_path: /aEwHGaWSVjEVAdH6cflpcIHi25K.jpg

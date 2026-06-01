@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q15270485
   imdb: tt0315848
+  tmdb: 696321
 sources:
 - https://www.wikidata.org/wiki/Q15270485
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kuberskaya-irina-yurevna
 - person: shtil-georgiy
 - person: sysoev-geliy-borisovich
+poster_tmdb_path: /pOEinKjUYYZ91mYmZcems2KmGOj.jpg
+backdrop_tmdb_path: /8rYvIKh9mgEKPCgz9m91qUeIIl2.jpg

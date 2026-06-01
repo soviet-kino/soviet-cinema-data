@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q24041150
   imdb: tt0018533
   youtube: r9Md9v--kKs
+  tmdb: 189716
 sources:
 - https://www.wikidata.org/wiki/Q24041150
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: khokhlova-aleksandra-sergeevna
 studio:
 - sovkino
+poster_tmdb_path: /q2TX2V7wxlh1rFEawQtwRjwuS7O.jpg
+backdrop_tmdb_path: /nYfZ2zIo62xp6dJNdgPuh6UElDv.jpg

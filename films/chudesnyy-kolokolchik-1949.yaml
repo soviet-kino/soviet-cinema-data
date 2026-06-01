@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4517622
   imdb: tt2482108
   youtube: 2Jc03tzYXFk
+  tmdb: 448692
 sources:
 - https://www.wikidata.org/wiki/Q4517622
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - oranskiy-viktor-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /VxrJ1lNp9ITDKczv6Sz3I0BRKG.jpg
+backdrop_tmdb_path: /nXvHYTZp5QIDUEQckGMEoxc7hJn.jpg

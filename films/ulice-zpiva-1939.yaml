@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q10935148
   imdb: tt0346076
+  tmdb: 269337
 sources:
 - https://www.wikidata.org/wiki/Q10935148
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: venclu-josef
 - person: matouskova-eva
 - person: hruby-vaclav
+poster_tmdb_path: /9Nx6mPxdut90M6YIrK7AUv4PK3m.jpg

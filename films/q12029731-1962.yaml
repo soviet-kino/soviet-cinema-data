@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12029731
   imdb: tt0247459
+  tmdb: 423513
 sources:
 - https://www.wikidata.org/wiki/Q12029731
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: reis-j
 - person: lhotak-josef
 - person: jelen-zdenek
+poster_tmdb_path: /y6SPqMoUas3BNBSeCcjyP7ijPS6.jpg

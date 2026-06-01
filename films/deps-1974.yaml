@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3506299
   imdb: tt0181468
+  tmdb: 364439
 sources:
 - https://www.wikidata.org/wiki/Q3506299
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: bashich-relya
 - person: milena-dravich
 - person: sovagovic-fabijan
+poster_tmdb_path: /ggCfc3UNDfcQhfnD1NBMuTB8yBZ.jpg

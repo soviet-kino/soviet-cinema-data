@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3739484
   imdb: tt0073570
   youtube: A7t-ngwpiHY
+  tmdb: 20899
 sources:
 - https://www.wikidata.org/wiki/Q3739484
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: tsuladze-baadur-sokratovich
 studio:
 - belarusfilm
+poster_tmdb_path: /mQa6Trm7n5vDF5kNwRqCCAT8Vgz.jpg
+backdrop_tmdb_path: /7uGFsvSLAv9ZngnTonkguBIcN0b.jpg

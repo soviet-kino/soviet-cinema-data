@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q66611079
   imdb: tt4825520
   youtube: 5MTTlefLTEs
+  tmdb: 888363
 sources:
 - https://www.wikidata.org/wiki/Q66611079
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: saburov-boris-aleksandrovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /8b29ZB64UtpS6FHh8Uhru7x9PF0.jpg

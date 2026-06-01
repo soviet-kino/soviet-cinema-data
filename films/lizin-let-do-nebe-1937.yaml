@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q6711297
   imdb: tt0151370
+  tmdb: 376656
 sources:
 - https://www.wikidata.org/wiki/Q6711297
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: kafkova-lilian
 - person: ruzicka-vladimir
 - person: venclu-josef
+poster_tmdb_path: /5Jdq5TUeAccLPqeaf2QVE4m1kDc.jpg

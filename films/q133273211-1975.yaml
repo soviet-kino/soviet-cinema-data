@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q133273211
   imdb: tt31462107
+  tmdb: 1020009
 sources:
 - https://www.wikidata.org/wiki/Q133273211
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: garder-karin
 - person: mandmets-reet
 - person: rips-elga
+poster_tmdb_path: /mYamUxL9hs3BQUu4A9VBBfVbi76.jpg
+backdrop_tmdb_path: /sOs6lto7YIGnUjUA3bT60k1WR7u.jpg

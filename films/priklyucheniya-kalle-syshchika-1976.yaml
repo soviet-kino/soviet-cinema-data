@@ -8,6 +8,7 @@ runtime_min: 125
 external_ids:
   wikidata: Q4378419
   imdb: tt1480293
+  tmdb: 335011
 sources:
 - https://www.wikidata.org/wiki/Q4378419
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gaydis-povilas
 - person: yukna-styapas-kazio
 - person: maynelite-vayva-vida
+poster_tmdb_path: /9EXZteZq6IJZylxJPqzEL3Hr7Lc.jpg
+backdrop_tmdb_path: /bhMyCMTQOx7EwaIbuUdwDHlUhFN.jpg

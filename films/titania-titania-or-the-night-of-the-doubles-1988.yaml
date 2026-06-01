@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q38721369
   imdb: tt0096277
+  tmdb: 131062
 sources:
 - https://www.wikidata.org/wiki/Q38721369
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: bodrogi-gyula
 - person: gellei-kornel
 - person: igo-eva
+poster_tmdb_path: /6J4jOjIK1BUrNcTEUwZSfgcuhVV.jpg

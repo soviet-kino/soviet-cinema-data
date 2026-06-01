@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q23900031
   imdb: tt5036458
+  tmdb: 832052
 sources:
 - https://www.wikidata.org/wiki/Q23900031
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: lezhdey-elza-ivanovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /2m8THbmJ6cRs4WoapK4rdl3q6Tk.jpg

@@ -21,6 +21,7 @@ soviet_release:
 external_ids:
   wikidata: Q489615
   imdb: tt0076101
+  tmdb: 38362
 sources:
 - https://www.wikidata.org/wiki/Q489615
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: otstsano-rentso
 - person: bolonya-ugo
 - person: noks-mikki
+poster_tmdb_path: /ycdl1lio0ltPPS7GQGYSP27M4YS.jpg
+backdrop_tmdb_path: /fVyZzDlAV8EUpEN5a2k5165Lzda.jpg

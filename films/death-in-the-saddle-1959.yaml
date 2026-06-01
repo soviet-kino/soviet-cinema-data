@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1197464
   imdb: tt0240907
+  tmdb: 251647
 sources:
 - https://www.wikidata.org/wiki/Q1197464
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: kaiser-jan
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /eJvFUUuJMlJP3XS2HtVc10lOq32.jpg

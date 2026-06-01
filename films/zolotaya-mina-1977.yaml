@@ -8,6 +8,7 @@ runtime_min: 139
 external_ids:
   wikidata: Q4193271
   imdb: tt0076958
+  tmdb: 306684
 sources:
 - https://www.wikidata.org/wiki/Q4193271
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: dal-oleg-ivanovich
 - person: efimov-igor-konstantinovich
 - person: kindinov-evgeniy-arsenevich
+poster_tmdb_path: /r05FlFB2rnSxKXeEuFNmSrIlQ4V.jpg
+backdrop_tmdb_path: /mp5kiMxHOjdCuwf7Ikelafm608B.jpg

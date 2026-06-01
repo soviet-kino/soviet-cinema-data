@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q94408437
   imdb: tt0125107
+  tmdb: 259760
 sources:
 - https://www.wikidata.org/wiki/Q94408437
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - pitsh-volfgang
 composer:
 - oleak-rainer
+poster_tmdb_path: /u1upxW69Sveibh8C2h51aqgcrDi.jpg

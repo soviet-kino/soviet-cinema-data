@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q43371117
   imdb: tt0081535
   youtube: lu0CsPlVhN4
+  tmdb: 411991
 sources:
 - https://www.wikidata.org/wiki/Q43371117
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: kroupova-zuzana
 studio:
 - kinostudiya-gotvaldova
+poster_tmdb_path: /vwuT6v38K2akPLY2YFmSOH7TBk3.jpg
+backdrop_tmdb_path: /3GfPnu0M9DKWufFsZ2trsBgMb1C.jpg

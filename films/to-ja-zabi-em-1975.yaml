@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9358905
   imdb: tt0073809
+  tmdb: 375596
 sources:
 - https://www.wikidata.org/wiki/Q9358905
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kozhinskiy-andzhey
 cast:
 - person: bukovski-yanush
+poster_tmdb_path: /rMSHIKPl297KawN2z10NFObib9u.jpg

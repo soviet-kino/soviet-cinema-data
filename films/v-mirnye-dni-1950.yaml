@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101737
   imdb: tt0043095
   youtube: arANuLuPRc4
+  tmdb: 183195
 sources:
 - https://www.wikidata.org/wiki/Q4101737
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: gurzo-sergey-safonovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /mi3619VjiIYk7PKL9iYbwNIAOUa.jpg
+backdrop_tmdb_path: /z5fIkBOKXMPQcYgLTtnTL7pOrgt.jpg

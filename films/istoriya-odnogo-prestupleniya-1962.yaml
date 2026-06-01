@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q404298
   imdb: tt0487622
   youtube: 1qprut1rkFY
+  tmdb: 90021
 sources:
 - https://www.wikidata.org/wiki/Q404298
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - babaev-andrey
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /eaxSdSzznJO9m4aH7MCXy6WMN2O.jpg
+backdrop_tmdb_path: /w67l09vzzCcTSYezz5s2HG0qGEr.jpg

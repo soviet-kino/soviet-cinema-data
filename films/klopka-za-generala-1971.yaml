@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q12752838
   imdb: tt0174819
+  tmdb: 389251
 sources:
 - https://www.wikidata.org/wiki/Q12752838
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: rancic-alenka
 - person: starcic-viktor
 - person: slyapich-liliana
+poster_tmdb_path: /93pdgRMFhNUrTA0DsznELi6Jm48.jpg
+backdrop_tmdb_path: /dndgh7ekC2J7tdZyVs0P82r3XjT.jpg

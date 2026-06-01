@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11829012
   imdb: tt0210927
+  tmdb: 581674
 sources:
 - https://www.wikidata.org/wiki/Q11829012
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - marchevskiy-petr
 cast:
 - person: lyamzha-ioakhim
+backdrop_tmdb_path: /xQBDrVoxS2iG9tupmT1Ra3DlZfm.jpg

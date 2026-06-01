@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3324046
   imdb: tt0124012
+  tmdb: 53186
 sources:
 - https://www.wikidata.org/wiki/Q3324046
 schema_version: 1
@@ -66,3 +67,5 @@ cast:
 - person: fencl-frantisek
 - person: kulhanek-jaroslav
 - person: hubacek-radomir
+poster_tmdb_path: /yfza3vt4fjSOVJKuoDQnKNwDZKC.jpg
+backdrop_tmdb_path: /3sB8Vg4BZmb7vir5L3F4aYowkwN.jpg

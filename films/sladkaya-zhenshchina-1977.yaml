@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4423109
   imdb: tt0170592
   youtube: EaRRC-OLTUU
+  tmdb: 168816
 sources:
 - https://www.wikidata.org/wiki/Q4423109
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Natalya Gundareva 1976.jpg
+poster_tmdb_path: /4LgQ5SZLj2UK6m0ealZS59yDqXa.jpg
+backdrop_tmdb_path: /5iJvCqqVWAljEb4h2677NKuqt7Z.jpg

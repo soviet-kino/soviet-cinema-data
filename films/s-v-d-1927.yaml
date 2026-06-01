@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q3460236
   imdb: tt0020353
+  tmdb: 189675
 sources:
 - https://www.wikidata.org/wiki/Q3460236
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: khokhlov-konstantin-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /hLlWKmfdv0nJymV1hOtVA9vjY0u.jpg
+backdrop_tmdb_path: /9Zgen66OfleSp5RIBuXPTMYTuwO.jpg

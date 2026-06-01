@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16349201
   imdb: tt0308754
+  tmdb: 239711
 sources:
 - https://www.wikidata.org/wiki/Q16349201
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - goryaev-rostislav-arkadevich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /tcKxqSx2WIhaCg1ceJwiA7M0ihv.jpg

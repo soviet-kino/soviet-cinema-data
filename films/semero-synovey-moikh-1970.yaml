@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q8051068
   imdb: tt2158877
   youtube: NI9D6hvuOGE
+  tmdb: 508650
 sources:
 - https://www.wikidata.org/wiki/Q8051068
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ismailova-zemfira
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /aaHonzUYPi4vNwC9qo7T4yn2h4d.jpg
+backdrop_tmdb_path: /rTwCcAbdPj5VTIkNo6HDqAYQJQz.jpg

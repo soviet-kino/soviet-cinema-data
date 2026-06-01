@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97185547
   imdb: tt8024724
+  tmdb: 904172
 sources:
 - https://www.wikidata.org/wiki/Q97185547
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kutsenko-svetlana-yakovlevna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /vlQuNpRUYfLLKS5urmMY76Ug1Zu.jpg
+backdrop_tmdb_path: /8fyuBNk3IyWvypGxanwD4BKfr6O.jpg

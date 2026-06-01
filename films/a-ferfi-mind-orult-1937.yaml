@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q465827
   imdb: tt0028912
+  tmdb: 1175530
 sources:
 - https://www.wikidata.org/wiki/Q465827
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 composer:
 - markus-alfred
 poster_commons: Lázár Mária és Jávor Pál (Színházi Élet, 1937).jpg
+poster_tmdb_path: /qb8BVyRiLZpJ4HxaPkbdK1qQ7v0.jpg

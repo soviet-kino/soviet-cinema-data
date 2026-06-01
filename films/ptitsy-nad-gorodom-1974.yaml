@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q50488498
   imdb: tt0174144
   youtube: 6wBYKhvenII
+  tmdb: 460750
 sources:
 - https://www.wikidata.org/wiki/Q50488498
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: merkulov-igor-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vXWAeNVTmHiFIB4rIMKGvinwP5w.jpg

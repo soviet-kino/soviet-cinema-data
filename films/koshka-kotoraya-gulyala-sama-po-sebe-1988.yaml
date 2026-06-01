@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q7721660
   imdb: tt0997248
+  tmdb: 279598
 sources:
 - https://www.wikidata.org/wiki/Q7721660
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - gubaydulina-sofiya-asgatovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1i7A8bkYcshwttukrsSyD6zMpjX.jpg
+backdrop_tmdb_path: /aQHfAURo4pBso1uWyTytkFJc56x.jpg

@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q31280327
   imdb: tt0452276
+  tmdb: 272765
 sources:
 - https://www.wikidata.org/wiki/Q31280327
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - vinter-yulo
 studio:
 - tallinfilm
+poster_tmdb_path: /n2DdlC7BAKfnfJUv2amihvXFHT4.jpg

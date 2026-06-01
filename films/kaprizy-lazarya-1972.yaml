@@ -8,6 +8,7 @@ runtime_min: 46
 external_ids:
   wikidata: Q4213214
   imdb: tt0176878
+  tmdb: 579725
 sources:
 - https://www.wikidata.org/wiki/Q4213214
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: rogalski-ezhi
 studio:
 - pryzmat
+poster_tmdb_path: /qpqRtLC3VcqOwFUcRMxRzUWciD0.jpg

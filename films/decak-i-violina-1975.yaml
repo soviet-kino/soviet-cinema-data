@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750845
   imdb: tt0072859
+  tmdb: 502728
 sources:
 - https://www.wikidata.org/wiki/Q12750845
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: rancic-alenka
 - person: gonchich-svetislav
 - person: vladan-zhivkovich
+poster_tmdb_path: /s1Huw26oggK9nswIdNxSSeeQErs.jpg

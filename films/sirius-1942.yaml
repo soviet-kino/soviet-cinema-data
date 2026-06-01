@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q1303422
   imdb: tt0035410
+  tmdb: 317018
 sources:
 - https://www.wikidata.org/wiki/Q1303422
 schema_version: 1
+poster_tmdb_path: /e81feNb5WjK7C4BcMfJfunGLrIV.jpg
+backdrop_tmdb_path: /iIAuZxlnDTwnwX60Zq3pQubFWvP.jpg

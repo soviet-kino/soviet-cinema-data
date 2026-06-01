@@ -8,6 +8,7 @@ runtime_min: 35
 external_ids:
   wikidata: Q4274136
   imdb: tt0063468
+  tmdb: 189214
 sources:
 - https://www.wikidata.org/wiki/Q4274136
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: q130457936
 studio:
 - polskoe-televidenie
+poster_tmdb_path: /n4oecK4rVnnXxCgfuqLMTcNLWDy.jpg
+backdrop_tmdb_path: /nOzNHS4yBRAAHWFdZ3VorAEhBoC.jpg

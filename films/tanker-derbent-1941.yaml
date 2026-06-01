@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4451190
   imdb: tt6680502
   youtube: 4DAJsBNrok0
+  tmdb: 625278
 sources:
 - https://www.wikidata.org/wiki/Q4451190
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: goryunov-anatoliy-iosifovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /2LY8shZ0WemSdCFlZsKPEUy4oq0.jpg

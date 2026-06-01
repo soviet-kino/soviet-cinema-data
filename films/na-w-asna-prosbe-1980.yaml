@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788552
   imdb: tt0081215
+  tmdb: 926431
 sources:
 - https://www.wikidata.org/wiki/Q11788552
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: lyubich-lisovskiy-yuliush
 - person: grabovskiy-pyotr
 - person: ysak-piotr
+poster_tmdb_path: /wzpm0VNy8D3qosm59WhOHbymGny.jpg

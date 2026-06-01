@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4310918
   imdb: tt0198798
   youtube: iO1LdMSu0Ps
+  tmdb: 534720
 sources:
 - https://www.wikidata.org/wiki/Q4310918
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: eybozhenko-aleksey-sergeevich
 studio:
 - pyatyy-kanal
+poster_tmdb_path: /1m0fJRB6vOW1QqLndCdqahNne1H.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4407207
   imdb: tt0070627
   youtube: -xqQWoOkkUA
+  tmdb: 609172
 sources:
 - https://www.wikidata.org/wiki/Q4407207
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: merzlikin-nikolay-nikolaevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /hwRSO6lPCQm1qy6nE3wFoMWvcto.jpg
+backdrop_tmdb_path: /rsZ4mAoUmomH8xOl7h32YjTcFCL.jpg

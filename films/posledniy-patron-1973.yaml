@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4373819
   imdb: tt0070851
+  tmdb: 224084
 sources:
 - https://www.wikidata.org/wiki/Q4373819
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: skerletesku-florin
 studio:
 - buftea-studios
+poster_tmdb_path: /vfjAKjoGXi5PhgAyQoS1Ncvz48F.jpg
+backdrop_tmdb_path: /aB4GwaM2erTbjkNr1EGtqNE0xEr.jpg

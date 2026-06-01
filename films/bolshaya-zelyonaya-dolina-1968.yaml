@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4091344
   imdb: tt0274462
+  tmdb: 256743
 sources:
 - https://www.wikidata.org/wiki/Q4091344
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - mamisashvili-nodar
 cast:
 - person: abashidze-david-ivanovich
+poster_tmdb_path: /jq9kcrgxH6YFLSB9PUQC9RpiCGR.jpg
+backdrop_tmdb_path: /owx65vtWOCZebhK20uC2nfz33am.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6470510
   imdb: tt0043776
+  tmdb: 365587
 sources:
 - https://www.wikidata.org/wiki/Q6470510
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: felba-dragomir
 studio:
 - bosna-film
+poster_tmdb_path: /cb7BYGHjyk50jBdnE9vDI2ESuo5.jpg

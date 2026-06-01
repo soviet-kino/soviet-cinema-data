@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3282912
   imdb: tt0170771
+  tmdb: 373873
 sources:
 - https://www.wikidata.org/wiki/Q3282912
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: eydus-predrag
 - person: vejnovic-sanja
 - person: shtrlich-milan
+poster_tmdb_path: /hbp3nx2adgeiy5gd5CDOZ7dGTaj.jpg

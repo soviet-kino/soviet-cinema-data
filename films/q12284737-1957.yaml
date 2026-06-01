@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12284737
   imdb: tt0172713
+  tmdb: 261605
 sources:
 - https://www.wikidata.org/wiki/Q12284737
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: milkovski-alexandr
 - person: kofronova-dagmar
 - person: bonev-velicko
+poster_tmdb_path: /12luVjHlW1wK4jXkrfrXBhAkMg5.jpg

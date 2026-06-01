@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q7021695
   imdb: tt0086004
+  tmdb: 262463
 sources:
 - https://www.wikidata.org/wiki/Q7021695
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: zorka-manoylovich
 studio:
 - centar-film
+poster_tmdb_path: /oq2GIVnzhDkduZKZbZtw4WElb8E.jpg
+backdrop_tmdb_path: /pjZtRbmp28Modo3oT7iPZG9yZjG.jpg

@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q3287432
   imdb: tt0297808
+  tmdb: 391437
 sources:
 - https://www.wikidata.org/wiki/Q3287432
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - damo-kristach
 composer:
 - peci-aleksander
+poster_tmdb_path: /kf2dUGG1m22myOE6VRd0NPUDR6A.jpg
+backdrop_tmdb_path: /qirKJCN8hPzgdQiRwGHwBR78uZD.jpg

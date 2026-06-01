@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12749157
   imdb: tt0179687
+  tmdb: 502477
 sources:
 - https://www.wikidata.org/wiki/Q12749157
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: plesha-branko
 - person: uricin-rada
 - person: tadich-dushan
+poster_tmdb_path: /wacUBVt2lkXbveLgkm1gBdaRHe5.jpg
+backdrop_tmdb_path: /zXqmiHz0gwgwIDLzATM0jPCqHw3.jpg

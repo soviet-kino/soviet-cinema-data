@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q4400248
   imdb: tt0218563
+  tmdb: 90277
 sources:
 - https://www.wikidata.org/wiki/Q4400248
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - lokshin-aleksandr-lazarevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uG7wWSmdEssgYZxXB0L7mFJE929.jpg
+backdrop_tmdb_path: /cXFcHGVzpAF7v96cxdUq8uBsAKf.jpg

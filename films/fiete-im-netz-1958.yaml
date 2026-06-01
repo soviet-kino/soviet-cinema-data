@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5447346
   imdb: tt0315591
+  tmdb: 439278
 sources:
 - https://www.wikidata.org/wiki/Q5447346
 schema_version: 1
 director:
 - khartman-zigfrid
+poster_tmdb_path: /k7MMJXWKaDqWVwjnmj00grm1Pqi.jpg

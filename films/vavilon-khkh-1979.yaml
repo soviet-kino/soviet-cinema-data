@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4102146
   imdb: tt0080083
+  tmdb: 248921
 sources:
 - https://www.wikidata.org/wiki/Q4102146
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 poster_commons: Чернівецький обласний краєзнавчий музей 58.jpg
 cast:
 - person: polishchuk-lyubov
+poster_tmdb_path: /tlCgD5fZhv6uCUZczqU1fpktgIV.jpg
+backdrop_tmdb_path: /6iVrri4Kntio1teApdurnix90FK.jpg

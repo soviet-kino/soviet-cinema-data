@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1248067
   imdb: tt0123286
+  tmdb: 266685
 sources:
 - https://www.wikidata.org/wiki/Q1248067
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - lkhotka-fran
 cast:
 - person: sovagovic-fabijan
+poster_tmdb_path: /wZrq5xL2nSIBECotWIJgQjskonV.jpg
+backdrop_tmdb_path: /d5hxTk5cjWx0u20Yb7ZrvH9EYbA.jpg

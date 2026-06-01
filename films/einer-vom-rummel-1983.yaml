@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q106717224
   imdb: tt0085480
+  tmdb: 441232
 sources:
 - https://www.wikidata.org/wiki/Q106717224
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 cast:
 - person: kryosner-renate
 - person: navroki-dirk
+poster_tmdb_path: /1fzLzmqGaIytEOvcWzEeyphIaPw.jpg

@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q12046452
   imdb: tt0173023
+  tmdb: 806945
 sources:
 - https://www.wikidata.org/wiki/Q12046452
 schema_version: 1
@@ -77,3 +78,4 @@ cast:
 - person: rosenbergova-slavka
 - person: helclova-bozena
 - person: matejova-vera
+poster_tmdb_path: /8uhT465JnjlcaZlTIIkUHEEYY8R.jpg

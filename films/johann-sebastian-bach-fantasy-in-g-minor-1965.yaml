@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q20757862
   imdb: tt0059335
+  tmdb: 18952
 sources:
 - https://www.wikidata.org/wiki/Q20757862
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - shvankmayer-yan
 cinematographer:
 - maly-svatopluk
+poster_tmdb_path: /wSkYunozRFCGu2x5657scKAx4NL.jpg
+backdrop_tmdb_path: /hselWMU4O9401dv6YfAORLz96S2.jpg

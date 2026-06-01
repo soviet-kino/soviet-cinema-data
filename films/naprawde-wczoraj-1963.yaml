@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q11789569
   imdb: tt0057355
+  tmdb: 439410
 sources:
 - https://www.wikidata.org/wiki/Q11789569
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - tyrmand-leopold
 cast:
 - person: lapitskiy-andzhey
+poster_tmdb_path: /rYktqP6z3SbBHNY2MZeZKXosMtH.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4439538
   imdb: tt0069309
   youtube: X89ezeVDV44
+  tmdb: 143068
 sources:
 - https://www.wikidata.org/wiki/Q4439538
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kushnerova-marianna-alekseevna
 studio:
 - mosfilm
+poster_tmdb_path: /rSb4keeXeirGoDKPbhBPCSRgi8L.jpg
+backdrop_tmdb_path: /whsJOUBmnA13K5NdyqwGUbpbtdH.jpg

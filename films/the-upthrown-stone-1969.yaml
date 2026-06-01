@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3211637
   imdb: tt0062963
+  tmdb: 198769
 sources:
 - https://www.wikidata.org/wiki/Q3211637
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: balazhovits-layosh
 - person: berek-katalin
 - person: molnar-tibor
+poster_tmdb_path: /bsiLjXk9SEwrFPh2ujNGcZr8MnJ.jpg

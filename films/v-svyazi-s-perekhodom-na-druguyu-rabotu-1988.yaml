@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q124483564
   imdb: tt5692418
   youtube: OLe3h4UYZIY
+  tmdb: 637742
 sources:
 - https://www.wikidata.org/wiki/Q124483564
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - linkov-sergey-yakovlevich
 studio:
 - mosfilm
+poster_tmdb_path: /qsk2cxfQat3cGrtIdP1hkMGRYyL.jpg

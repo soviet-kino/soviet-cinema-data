@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16514530
   imdb: tt5892150
+  tmdb: 835768
 sources:
 - https://www.wikidata.org/wiki/Q16514530
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - simonyan-nadezhda
 cast:
 - person: lebedev-evgeniy-alekseevich
+poster_tmdb_path: /3k83O4aq6wFOzguFbw2YhPBNRxA.jpg

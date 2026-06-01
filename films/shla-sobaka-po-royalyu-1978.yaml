@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4525375
   imdb: tt0078257
   youtube: dgxR5UN0YQk
+  tmdb: 148436
 sources:
 - https://www.wikidata.org/wiki/Q4525375
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kishchik-elena-vyacheslavovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vCklfdAFK1MoXuTuipOVc1S6n9G.jpg
+backdrop_tmdb_path: /67C17wdPHdaFsEL8TcECBQGXVN5.jpg

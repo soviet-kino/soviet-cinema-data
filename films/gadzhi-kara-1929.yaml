@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q16417033
   imdb: tt0499490
+  tmdb: 533745
 sources:
 - https://www.wikidata.org/wiki/Q16417033
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - azerbaydzhanfilm
 poster_commons: Film Haji Qara.jpg
+poster_tmdb_path: /7X94OwwprmOIGYe9R2XzPUXrucf.jpg

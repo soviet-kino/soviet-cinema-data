@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4205745
   imdb: tt0165834
   youtube: CcGkN3zKPjA
+  tmdb: 532937
 sources:
 - https://www.wikidata.org/wiki/Q4205745
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - sverdlovskaya-kinostudiya
 cast:
 - person: grigorev-konstantin-konstantinovich
+poster_tmdb_path: /j9moNyfPNI2nWB9XRnVk3I5fSdw.jpg
+backdrop_tmdb_path: /zm0QejfzsZxEtx41KmbBd36UKwS.jpg

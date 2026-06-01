@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q109428492
   imdb: tt0076680
   youtube: sr_ouEO78M4
+  tmdb: 1568137
 sources:
 - https://www.wikidata.org/wiki/Q109428492
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: yushkov-vitaliy-leonidovich
 studio:
 - ekran
+poster_tmdb_path: /7KmeNU0E5K9AVnIpGkvTzkZxK6i.jpg

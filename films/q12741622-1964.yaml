@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12741622
   imdb: tt0058619
+  tmdb: 582614
 sources:
 - https://www.wikidata.org/wiki/Q12741622
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: peunesku-niku
 - person: chyubotarasu-shtefan
 - person: demetru-dzhordzhe
+poster_tmdb_path: /wq0PJgkSiEyz3iskysZa3xG1Fw9.jpg

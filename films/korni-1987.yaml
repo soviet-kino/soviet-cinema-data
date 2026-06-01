@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4233321
   imdb: tt0281063
+  tmdb: 614832
 sources:
 - https://www.wikidata.org/wiki/Q4233321
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - mgeladze-karaman-georgievich
 screenwriter:
 - ilich-zhgenti-suliko
+poster_tmdb_path: /eDDCEan0ZOqyUZbwXlh9d5Gp8k9.jpg
+backdrop_tmdb_path: /zglG9M5qWus9Td3SnEQlOSAG9JI.jpg

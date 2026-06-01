@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16374871
   imdb: tt0154855
   youtube: 5nObXp69HX4
+  tmdb: 289652
 sources:
 - https://www.wikidata.org/wiki/Q16374871
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 composer:
 - kancheli-giya-aleksandrovich
 - kakhidze-dzhansug-ivanovich
+poster_tmdb_path: /mZPWPaJKin5lhyfGegfTafcfAg5.jpg
+backdrop_tmdb_path: /dZXCSszxgmap3o6fV0wA2uOHoC9.jpg

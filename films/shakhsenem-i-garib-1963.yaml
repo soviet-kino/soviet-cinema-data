@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116865001
   imdb: tt1212147
+  tmdb: 1490128
 sources:
 - https://www.wikidata.org/wiki/Q116865001
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: ataeva-sabira
 studio:
 - turkmenfilm
+poster_tmdb_path: /dFH3t1m2h1GLR1G9BN8pbN63kZj.jpg

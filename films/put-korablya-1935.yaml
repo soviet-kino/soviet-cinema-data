@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4384435
   imdb: tt0239852
+  tmdb: 69833
 sources:
 - https://www.wikidata.org/wiki/Q4384435
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - belarusfilm
 poster_commons: Put' Korablya -- Way of the Ship (Victor Yablonsky as Petrov).JpEg
+poster_tmdb_path: /hjM5uvDRWWKygADubwS2GP8t5Gu.jpg

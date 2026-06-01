@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q21869293
   imdb: tt0321940
+  tmdb: 665739
 sources:
 - https://www.wikidata.org/wiki/Q21869293
 schema_version: 1
 director:
 - grzhich-zlatko
+poster_tmdb_path: /qfs28bsrPp9DrJx74IiBs2iDezP.jpg

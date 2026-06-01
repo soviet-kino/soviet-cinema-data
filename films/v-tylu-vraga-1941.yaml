@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q4101829
   imdb: tt0329722
+  tmdb: 884734
 sources:
 - https://www.wikidata.org/wiki/Q4101829
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: In the Rear of the Enemy (1941, film still).jpg
+poster_tmdb_path: /fnJRPpnLUawDYr64a23oiNuDdQw.jpg

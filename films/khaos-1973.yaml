@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q16401618
   imdb: tt0363736
+  tmdb: 1534310
 sources:
 - https://www.wikidata.org/wiki/Q16401618
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: kazaryan-shaum
 - person: vartanyan-laura
 - person: shairyan-naira
+poster_tmdb_path: /5JGKYPKFTtyznU7K738c9ELpWIj.jpg

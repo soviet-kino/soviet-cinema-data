@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q3504190
   imdb: tt0166891
+  tmdb: 187308
 sources:
 - https://www.wikidata.org/wiki/Q3504190
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: smidova-jarmila
 - person: cesky-karel
 - person: cech-gustav
+poster_tmdb_path: /ijPlN35bLfwEbse4Gk3o5QQf36N.jpg

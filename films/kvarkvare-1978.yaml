@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4218515
   imdb: tt0282670
+  tmdb: 922650
 sources:
 - https://www.wikidata.org/wiki/Q4218515
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: loriya-abessalom
 - person: pirtskhalava-guram-nikolaevich
 - person: tsuladze-baadur-sokratovich
+poster_tmdb_path: /eSWuvkpHt94QJbbgePIyl4wj1HG.jpg
+backdrop_tmdb_path: /cy1pe72OKkiZLov8TWCZlZkDX6d.jpg

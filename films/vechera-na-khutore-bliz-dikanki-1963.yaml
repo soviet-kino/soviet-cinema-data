@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4110177
   imdb: tt0057637
   youtube: 3yPFlJzib3k
+  tmdb: 83429
 sources:
 - https://www.wikidata.org/wiki/Q4110177
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: yakovchenko-nikolay-fyodorovich
 - person: tavrov-yuriy-petrovich
 - person: myznikova-lyudmila-nikolaevna
+poster_tmdb_path: /yBzyHEDJyA0BwTUd2kSo8TnNLIt.jpg
+backdrop_tmdb_path: /w6uWNB1xOGSzULlGKemnFOKJcpu.jpg

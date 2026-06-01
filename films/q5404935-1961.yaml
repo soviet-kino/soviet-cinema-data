@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q5404935
   imdb: tt0055480
+  tmdb: 296005
 sources:
 - https://www.wikidata.org/wiki/Q5404935
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: schafer-gerd-e
 - person: gyunter-manfred
 - person: noyenkhan-villi
+poster_tmdb_path: /5Z5x3cNp43TKfvB1OXEccLhhWw0.jpg

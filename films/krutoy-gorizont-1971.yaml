@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q122502543
   imdb: tt5288680
+  tmdb: 1524364
 sources:
 - https://www.wikidata.org/wiki/Q122502543
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: konyukhova-tatyana
 - person: kuznetsov-aleksey-glebovich
 - person: timofeev-nikolay-dmitrievich
+poster_tmdb_path: /k7KzLsQVC0g5uOGfFBH91w0ikEG.jpg

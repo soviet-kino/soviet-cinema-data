@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20436170
   imdb: tt0132911
+  tmdb: 287615
 sources:
 - https://www.wikidata.org/wiki/Q20436170
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - eiben-istvan
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /9jiKqW1xN95VGNZuMrlwlnVra5D.jpg
+backdrop_tmdb_path: /o2JbISDaZMpnT8U0jvMoGBkVpIn.jpg

@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q57314315
   imdb: tt0244598
+  tmdb: 881218
 sources:
 - https://www.wikidata.org/wiki/Q57314315
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - petrov-vadim
 studio:
 - jiri-trnka-a-bratri-v-triku
+poster_tmdb_path: /sUgdiCNa5PLQWkSiOw7FYM7avq5.jpg

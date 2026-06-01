@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q1199292
   imdb: tt0076274
+  tmdb: 286220
 sources:
 - https://www.wikidata.org/wiki/Q1199292
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: behrens-heinz
 - person: khaynrikh-yurgen
 - person: schroeder-karin
+poster_tmdb_path: /jLXy4voC0WI5yekeBZ223yOVfRc.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q649610
   imdb: tt0252087
+  tmdb: 1135361
 sources:
 - https://www.wikidata.org/wiki/Q649610
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - maksimov-koshkinskiy-ioakim-stepanovich
 studio:
 - lenfilm
+poster_tmdb_path: /78Aezyqy969RUUi8xFEzziqaTsj.jpg

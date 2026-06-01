@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4085715
   imdb: tt0038350
   youtube: kHaWiPyxyJw
+  tmdb: 297945
 sources:
 - https://www.wikidata.org/wiki/Q4085715
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: tselikovskaya-lyudmila-vasilevna
 studio:
 - mosfilm
+poster_tmdb_path: /v4vtz3OAvGMXZQoIoM708XKBJw5.jpg
+backdrop_tmdb_path: /9KFbvroSctkRJdNp2bgjU8g1hsG.jpg

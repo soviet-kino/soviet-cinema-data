@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4310990
   imdb: tt0272205
+  tmdb: 627974
 sources:
 - https://www.wikidata.org/wiki/Q4310990
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - dunaevskiy-maksim-isaakovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /bgu5kWUjRSgh9lIqoelwQZPPu6i.jpg
+backdrop_tmdb_path: /xk9fWV5oSPjpTg8LLG4pAk8tLfr.jpg

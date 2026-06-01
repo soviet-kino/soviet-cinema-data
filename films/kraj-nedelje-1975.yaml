@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16084741
   imdb: tt0200786
+  tmdb: 1642367
 sources:
 - https://www.wikidata.org/wiki/Q16084741
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: sekic-ramiz
 studio:
 - radio-i-televidenie-serbii
+poster_tmdb_path: /75JnCOqlerw9GbCwqMt1DXRUZUT.jpg

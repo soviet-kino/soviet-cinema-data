@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q123582157
   imdb: tt0171254
+  tmdb: 355830
 sources:
 - https://www.wikidata.org/wiki/Q123582157
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 cast:
 - person: darvash-ivan
 - person: benko-gyula
+poster_tmdb_path: /oPKHCIVXwSGc8FxLEtTPI4YGxyD.jpg

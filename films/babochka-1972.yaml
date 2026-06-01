@@ -8,6 +8,7 @@ runtime_min: 588
 external_ids:
   wikidata: Q25394322
   imdb: tt0820033
+  tmdb: 269569
 sources:
 - https://www.wikidata.org/wiki/Q25394322
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - schnittke-alfred
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /bn8VMBo1utpG41EQHssvS2Y4q9u.jpg
+backdrop_tmdb_path: /8sHjKPm653ZALJNqDWJY65APP0Y.jpg

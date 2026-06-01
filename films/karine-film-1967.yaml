@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q20510797
   imdb: tt0361794
+  tmdb: 631041
 sources:
 - https://www.wikidata.org/wiki/Q20510797
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: levonyan-tigran
 - person: gen-gurgen
 - person: kadzhvoryan-ashot
+poster_tmdb_path: /hbDwbbgjtlESN6MCKGraLx0kZFI.jpg

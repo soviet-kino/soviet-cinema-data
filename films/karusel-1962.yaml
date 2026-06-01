@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q53468075
   imdb: tt0247237
+  tmdb: 305997
 sources:
 - https://www.wikidata.org/wiki/Q53468075
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kobakhidze-mikhail-germanovich
 screenwriter:
 - kobakhidze-mikhail-germanovich
+poster_tmdb_path: /zd4vBBFn32iX5a3c086q4Zc3Ru7.jpg

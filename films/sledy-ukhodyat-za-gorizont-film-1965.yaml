@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q116865046
   imdb: tt0232655
+  tmdb: 830684
 sources:
 - https://www.wikidata.org/wiki/Q116865046
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: sharipova-farida-sharipovna
 studio:
 - kazakhfilm
+poster_tmdb_path: /eiZatoAsl8JilfVBeGQnn8ij21A.jpg

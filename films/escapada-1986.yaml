@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44864432
   imdb: tt0150482
+  tmdb: 633911
 sources:
 - https://www.wikidata.org/wiki/Q44864432
 schema_version: 1
 director:
 - dyakonu-kornel
+poster_tmdb_path: /2S6zUnzugwFbNeP5tEnJ1uoXYqQ.jpg

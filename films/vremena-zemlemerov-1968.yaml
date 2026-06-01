@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4127075
   imdb: tt2395333
   youtube: Hblz5rHNcLc
+  tmdb: 580300
 sources:
 - https://www.wikidata.org/wiki/Q4127075
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: yaunushans-alfreds
 - person: klints-anta
 - person: sausne-alfreds
+poster_tmdb_path: /iP2UnrKWBwbCw3sNHFBRl4pZI9A.jpg
+backdrop_tmdb_path: /nqDVo42nlb2qlrHakZyTC3AOTzD.jpg

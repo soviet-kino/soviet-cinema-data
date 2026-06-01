@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2563648
   imdb: tt0265577
   youtube: JhlQx7Cwl_g
+  tmdb: 248114
 sources:
 - https://www.wikidata.org/wiki/Q2563648
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 studio:
 - rizhskaya-kinostudiya
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /vVRNORYKTjQG9s6JgcHOiS8io7I.jpg
+backdrop_tmdb_path: /cjY3Sw3iqE0qny0USjG1Qvdrvr9.jpg

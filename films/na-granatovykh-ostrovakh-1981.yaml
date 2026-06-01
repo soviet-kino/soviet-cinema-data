@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q4310886
   imdb: tt0237482
+  tmdb: 484113
 sources:
 - https://www.wikidata.org/wiki/Q4310886
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: lavrov-kirill-yurevich
 studio:
 - mosfilm
+poster_tmdb_path: /hE7IwvdCpOv1J28XgT5VYEnDYGu.jpg

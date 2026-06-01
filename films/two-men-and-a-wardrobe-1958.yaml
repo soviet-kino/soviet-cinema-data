@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q232095
   imdb: tt0051566
+  tmdb: 49340
 sources:
 - https://www.wikidata.org/wiki/Q232095
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kvyatkovskaya-lass-barbara
 - person: kondratiuk-andrzej
 - person: mikhalskiy-stanislav
+poster_tmdb_path: /961At3kP1oOmtGGmU6ZFmjzwSFt.jpg
+backdrop_tmdb_path: /ndSpiDuJHlHGN6cF6R4oeHPPBTB.jpg

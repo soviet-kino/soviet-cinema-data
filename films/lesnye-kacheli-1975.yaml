@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4259774
   imdb: tt3172248
   youtube: JsWfr9tf00U
+  tmdb: 637167
 sources:
 - https://www.wikidata.org/wiki/Q4259774
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - belarusfilm
 cast:
 - person: efremov-oleg-nikolaevich
+poster_tmdb_path: /mpIhA1fbgHIizX7aDzUo6KDHhBh.jpg
+backdrop_tmdb_path: /ghGgytdaC1KETUpGLOhq1wOF5Qu.jpg

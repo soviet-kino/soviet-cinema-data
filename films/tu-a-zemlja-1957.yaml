@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31183793
   imdb: tt0181869
+  tmdb: 477442
 sources:
 - https://www.wikidata.org/wiki/Q31183793
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: rade-markovich
 - person: dzhuvalekovski-iliya
 - person: stojiljkovic-vlastimir-uza
+poster_tmdb_path: /5TWWjcRmGRMSml1BEuG2CYmT5M8.jpg

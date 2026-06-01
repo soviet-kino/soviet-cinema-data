@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4201357
   imdb: tt3171718
   youtube: 82i4oYAVJF0
+  tmdb: 383036
 sources:
 - https://www.wikidata.org/wiki/Q4201357
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - ekran
 cast:
 - person: budraytis-yuozas-stanislavas
+poster_tmdb_path: /46wB376utONt8GyXQ4hZ6dbMWqh.jpg
+backdrop_tmdb_path: /9Pt69wFaET2FrMRJWeWp7ptZnlu.jpg

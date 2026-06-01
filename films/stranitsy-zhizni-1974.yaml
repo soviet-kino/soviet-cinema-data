@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16377072
   imdb: tt8370838
+  tmdb: 713641
 sources:
 - https://www.wikidata.org/wiki/Q16377072
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: mukhtarov-yusif-mekhti-ogly
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /eGyOx97J00bwqnxXml6wm9HQIyg.jpg

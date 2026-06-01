@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4163076
   imdb: tt5377526
+  tmdb: 1447719
 sources:
 - https://www.wikidata.org/wiki/Q4163076
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - rybnikov-aleksey
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /igVMnV6K32Y7h38m6Zldt2agLet.jpg
+backdrop_tmdb_path: /4sDzLjIcJBatOKHlcJv8eHIshrC.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12779422
   imdb: tt0176344
+  tmdb: 434943
 sources:
 - https://www.wikidata.org/wiki/Q12779422
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: q101066153
 - person: vrabec-jan
 - person: gabris-peter
+poster_tmdb_path: /ApPHSccYiIdNGokEkDdRBWK3ehO.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q690072
   imdb: tt0057717
   youtube: sE5MDJ9RCUk
+  tmdb: 49578
 sources:
 - https://www.wikidata.org/wiki/Q690072
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: lavrov-kirill-yurevich
 - person: marenkov-vladimir-petrovich
 - person: pavlova-sofya-afinogenovna
+poster_tmdb_path: /3XmMSG5xMdyu8awWzBIY0aAbFj8.jpg
+backdrop_tmdb_path: /sqy9jbjjFxHvs48A3v8kSMCAW1o.jpg

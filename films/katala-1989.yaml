@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4217081
   imdb: tt0097651
   youtube: XZybF8ywsz8
+  tmdb: 223176
 sources:
 - https://www.wikidata.org/wiki/Q4217081
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: garkalin-valeriy-borisovich
 studio:
 - mosfilm
+poster_tmdb_path: /xFT6z28WwHF57jxOzUhD62xSYfy.jpg
+backdrop_tmdb_path: /r7MSWAbPkCGVuUn3yHcaaHcxrdM.jpg

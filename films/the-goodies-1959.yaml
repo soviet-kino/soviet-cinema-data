@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q937390
   imdb: tt0230550
+  tmdb: 290144
 sources:
 - https://www.wikidata.org/wiki/Q937390
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: henker-paul-r
 - person: kherrikht-rolf
 - person: lirk-verner
+poster_tmdb_path: /bymfUoGigljjrmNy3I34b43yuTf.jpg

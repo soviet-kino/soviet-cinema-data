@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q114710612
   imdb: tt0320088
+  tmdb: 228137
 sources:
 - https://www.wikidata.org/wiki/Q114710612
 schema_version: 1
@@ -74,3 +75,5 @@ cast:
 - person: valentova-lenka
 studio:
 - barrandov
+poster_tmdb_path: /vaCWR8letn8Vsl1hr5mlblVznZD.jpg
+backdrop_tmdb_path: /6hsvw8LnVuJwElgdyvcSjmKnGsW.jpg

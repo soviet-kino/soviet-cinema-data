@@ -8,6 +8,7 @@ runtime_min: 22
 external_ids:
   wikidata: Q16401067
   imdb: tt0362228
+  tmdb: 279204
 sources:
 - https://www.wikidata.org/wiki/Q16401067
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: khostikyan-armen-isaakovich
 - person: saryan-faddey
 - person: amamdzhyan-meline
+poster_tmdb_path: /e9OtcvDXEtRpA4W51rZYHwuAd4G.jpg
+backdrop_tmdb_path: /mRBOJXjvlDvXcz98vWFGcqRcYMc.jpg

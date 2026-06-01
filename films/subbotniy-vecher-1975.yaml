@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4444992
   imdb: tt0279442
+  tmdb: 557998
 sources:
 - https://www.wikidata.org/wiki/Q4444992
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kavsadze-kakhi-davidovich
 studio:
 - gruziya-film
+poster_tmdb_path: /xaUrOaY1A4LS151MFjtm3xAWjMe.jpg
+backdrop_tmdb_path: /wXcgS1nqfU2nhJWmBcnNuaIxTJj.jpg

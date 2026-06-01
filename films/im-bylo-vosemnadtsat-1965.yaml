@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12370048
   imdb: tt0447283
+  tmdb: 68960
 sources:
 - https://www.wikidata.org/wiki/Q12370048
 schema_version: 1
 director:
 - kiysk-kalyo-karlovich
+poster_tmdb_path: /3s7DK69Z0soLQS21pKKQsDwBAph.jpg
+backdrop_tmdb_path: /2UboIzvQwpHuIlbK3Y3sO9DHiW8.jpg

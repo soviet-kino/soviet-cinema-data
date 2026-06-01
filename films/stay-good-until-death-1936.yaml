@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15260490
   imdb: tt0027920
+  tmdb: 444050
 sources:
 - https://www.wikidata.org/wiki/Q15260490
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - sekeli-stiv
 cinematographer:
 - eiben-istvan
+poster_tmdb_path: /zLVPpOoR4NBDcd0yLLaw5p1fCQw.jpg

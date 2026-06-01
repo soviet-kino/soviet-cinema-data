@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4517754
   imdb: tt0072784
   youtube: rksMK481KE0
+  tmdb: 74500
 sources:
 - https://www.wikidata.org/wiki/Q4517754
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yankovsky-oleg
 - person: kupchenko-irina-petrovna
 - person: bortnik-ivan-sergeevich
+poster_tmdb_path: /c1tOY6qxU1gcstpy1yhzviuRttc.jpg
+backdrop_tmdb_path: /5740u3yPrL6nIKekh9IGY7SqIIK.jpg

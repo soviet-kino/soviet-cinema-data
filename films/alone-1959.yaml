@@ -23,6 +23,8 @@ runtime_min: 94
 external_ids:
   wikidata: Q20310423
   imdb: tt0053239
+  tmdb: 432448
 sources:
 - https://www.wikidata.org/wiki/Q20310423
 schema_version: 1
+poster_tmdb_path: /b1hLtXWatISJaQocO0oGFrqjb0N.jpg

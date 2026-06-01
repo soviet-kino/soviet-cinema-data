@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q108524525
   imdb: tt0255150
+  tmdb: 896360
 sources:
 - https://www.wikidata.org/wiki/Q108524525
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 studio:
 - lenfilm
 - litovskaya-kinostudiya
+poster_tmdb_path: /7pUuXC7bRLUSQ7DHzcfKkTeXrTS.jpg

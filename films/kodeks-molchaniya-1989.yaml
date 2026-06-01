@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226146
   imdb: tt0099946
   youtube: 3ToX2kv2qiE
+  tmdb: 769113
 sources:
 - https://www.wikidata.org/wiki/Q4226146
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: shevchuk-irina-borisovna
 studio:
 - uzbekfilm
+poster_tmdb_path: /w584btrO9vVodGV81X2Kj35h65T.jpg
+backdrop_tmdb_path: /cw1OLMXlYyOfrhBsXduYEJKufkM.jpg

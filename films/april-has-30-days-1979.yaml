@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q106717125
   imdb: tt0305238
+  tmdb: 441205
 sources:
 - https://www.wikidata.org/wiki/Q106717125
 schema_version: 1
 director:
 - sholts-gyunter
+poster_tmdb_path: /gFuN0UihlPhe3Yg1WuBsfPJQHXd.jpg

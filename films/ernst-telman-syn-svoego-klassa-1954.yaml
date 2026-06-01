@@ -37,6 +37,9 @@ poster_commons: Fotothek df roe-neg 0006580 014 Bild Litfaßsäule mit Filmplaka
 external_ids:
   wikidata: Q835295
   imdb: tt0046958
+  tmdb: 174054
 sources:
 - https://www.wikidata.org/wiki/Q835295
 schema_version: 1
+poster_tmdb_path: /maAqNzJk9nkajZqrQNNVqjaC9Uq.jpg
+backdrop_tmdb_path: /5gi5DRuJnsga39aZfGP8uyX4eU6.jpg

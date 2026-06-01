@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q16352387
   imdb: tt0275702
+  tmdb: 247826
 sources:
 - https://www.wikidata.org/wiki/Q16352387
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: brakovskis-ivars
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /qoEDDtM3zef9RAOvYmRHZXNObbP.jpg

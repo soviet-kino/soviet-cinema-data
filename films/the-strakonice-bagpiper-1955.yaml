@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q19364305
   imdb: tt0048664
+  tmdb: 392687
 sources:
 - https://www.wikidata.org/wiki/Q19364305
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: plecity-i
 - person: skalickova-z
 - person: matl
+poster_tmdb_path: /801RghHrXhm8EBfGuZ49OcWrl40.jpg

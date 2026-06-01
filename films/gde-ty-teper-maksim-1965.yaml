@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q97187052
   imdb: tt0172485
+  tmdb: 437624
 sources:
 - https://www.wikidata.org/wiki/Q97187052
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - ter-tatevosyan-dzhon
 studio:
 - mosfilm
+poster_tmdb_path: /q7GsVOUqPkP5LfZFMNGgUk2Frtk.jpg
+backdrop_tmdb_path: /aUieh6r3XChtUzWUS3QPmBerFKT.jpg

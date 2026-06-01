@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4147000
   imdb: tt0021925
+  tmdb: 1027373
 sources:
 - https://www.wikidata.org/wiki/Q4147000
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - pyrev-ivan-aleksandrovich
 cast:
 - person: shtraukh-maksim-maksimovich
+poster_tmdb_path: /kV1dOQ6ANh6eiq1V7ewPrX24Jsj.jpg

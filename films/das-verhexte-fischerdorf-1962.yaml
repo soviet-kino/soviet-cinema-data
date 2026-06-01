@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q1171673
   imdb: tt0234979
+  tmdb: 276742
 sources:
 - https://www.wikidata.org/wiki/Q1171673
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: danegger-matilda
 - person: lirk-verner
 - person: noyenkhan-villi
+poster_tmdb_path: /e9FnwfrMRxu8BbpmgW49RHnrRu3.jpg

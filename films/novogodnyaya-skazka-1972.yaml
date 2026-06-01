@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16514614
   imdb: tt4577456
   youtube: inCgZ1njVRU
+  tmdb: 440515
 sources:
 - https://www.wikidata.org/wiki/Q16514614
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - feltsman-oskar-borisovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /qZoUOix065sDx59yFAXauLZk3MM.jpg
+backdrop_tmdb_path: /97TYTWQvlIa2zA5S4cN83vIZway.jpg

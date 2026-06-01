@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65250421
   imdb: tt0346891
   youtube: ijCoVN0FgIU
+  tmdb: 835765
 sources:
 - https://www.wikidata.org/wiki/Q65250421
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: sanbaev-satimzhan-kamzievich
 - person: ryskulov-muratbek-ryskulovich
 - person: zhanturin-nurmukhan-seytakhmetovich
+poster_tmdb_path: /Afd4BgiSw3xGongVJasp5mLfa2s.jpg

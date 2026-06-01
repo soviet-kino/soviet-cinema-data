@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q52573326
   imdb: tt2933478
   youtube: fSQjLXVfygY
+  tmdb: 1143961
 sources:
 - https://www.wikidata.org/wiki/Q52573326
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kuznetsov-aleksandr-vsevolodovich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /2ijVOrphR06vDHZTJqSJrg14xuo.jpg

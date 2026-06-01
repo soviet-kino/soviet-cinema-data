@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q12057440
   imdb: tt0295646
+  tmdb: 559736
 sources:
 - https://www.wikidata.org/wiki/Q12057440
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 - person: dostalova-ludmila
 - person: guerin-catelain-raymond
 - person: reti-naja
+backdrop_tmdb_path: /p8aVNsJ8a2y8kFqlo1ydL2Xrx85.jpg

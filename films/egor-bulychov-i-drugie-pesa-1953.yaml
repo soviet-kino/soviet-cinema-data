@@ -8,6 +8,7 @@ runtime_min: 150
 external_ids:
   wikidata: Q4173657
   imdb: tt0045721
+  tmdb: 654459
 sources:
 - https://www.wikidata.org/wiki/Q4173657
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - solntseva-yuliya-ippolitovna
 screenwriter:
 - gorkiy-maksim
+poster_tmdb_path: /rl9CmjhDkpHWJlDLwbr0QFyzFrR.jpg

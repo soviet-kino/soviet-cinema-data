@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q948023
   imdb: tt0071411
   youtube: bp2ihvch45k
+  tmdb: 9764
 sources:
 - https://www.wikidata.org/wiki/Q948023
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: solomin-yuriy-mefodevich
 - person: danilchenko-svetlana-fyodorovna
 - person: kremena-vladimir-ivanovich
+poster_tmdb_path: /6PQfrrYyYbzVvntpHQk7yg4UMaQ.jpg
+backdrop_tmdb_path: /gLA1cUHcGGDO8pXYxhSljLId5wq.jpg

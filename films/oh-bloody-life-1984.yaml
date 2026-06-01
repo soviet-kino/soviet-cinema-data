@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q3119252
   imdb: tt0086421
+  tmdb: 45144
 sources:
 - https://www.wikidata.org/wiki/Q3119252
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: gati-jozsef
 - person: satmari-ishtvan
 - person: p-zoltan-nagy
+poster_tmdb_path: /y5xtrYrhV52H31PdrmPySHtfLDM.jpg

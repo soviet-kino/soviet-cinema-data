@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1303924
   imdb: tt0094094
+  tmdb: 204113
 sources:
 - https://www.wikidata.org/wiki/Q1303924
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: balazhovits-layosh
 - person: cherkhalmi-dyord
 - person: kallai-ferents
+poster_tmdb_path: /9g7BMA1EFxSCl0aIrgAQEm8VD6q.jpg
+backdrop_tmdb_path: /6SLlgsDI70PcRxcdNXK1TLtnFQT.jpg

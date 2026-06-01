@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q12149913
   imdb: tt0020354
+  tmdb: 315419
 sources:
 - https://www.wikidata.org/wiki/Q12149913
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - arustanov-grigoriy-davidovich
 - ilich-alkhazishvili-shalva
 - aravskiy-arsen-arsenovich
+poster_tmdb_path: /nEE9MWVbaBr7GZ43Pk8y3G2QLXK.jpg
+backdrop_tmdb_path: /xd0xJDnqQZXzZSJgLryxOjCNBkd.jpg

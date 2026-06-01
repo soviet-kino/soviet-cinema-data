@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q63145769
   imdb: tt0035373
+  tmdb: 1111967
 sources:
 - https://www.wikidata.org/wiki/Q63145769
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: korevi-antonio
 - person: lyuka-dino-di
 - person: mauri-miretta
+poster_tmdb_path: /JDduVRMRJJdhO1c4Nzoe4Ll6fb.jpg

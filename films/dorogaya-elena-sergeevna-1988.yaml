@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1823717
   imdb: tt0095055
+  tmdb: 73281
 sources:
 - https://www.wikidata.org/wiki/Q1823717
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: shchukina-natalya-yurevna
 studio:
 - mosfilm
+poster_tmdb_path: /on32q6VHz188yBBYY6hKQVRBDdJ.jpg
+backdrop_tmdb_path: /eQqrhPZw9GONF0vc2cWkUDhdM7R.jpg

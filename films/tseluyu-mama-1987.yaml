@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q876159
   imdb: tt0090892
+  tmdb: 337871
 sources:
 - https://www.wikidata.org/wiki/Q876159
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: andorai-peter
 - person: udvarosh-dorottya
 - person: hollosi-frigyes
+poster_tmdb_path: /w3jv3ECgFWFvk6UR5ofSxdWWo7j.jpg

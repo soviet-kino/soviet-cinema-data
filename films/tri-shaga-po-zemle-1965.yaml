@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7797845
   imdb: tt0059834
+  tmdb: 901400
 sources:
 - https://www.wikidata.org/wiki/Q7797845
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: rudzkiy-kazimezh
 - person: fievskiy-tadeush
 - person: mikhnikovskiy-veslav
+poster_tmdb_path: /2iOiYg14z2C7RkZcOmspuZbZFnL.jpg

@@ -8,6 +8,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q30327322
   imdb: tt0207118
+  tmdb: 333460
 sources:
 - https://www.wikidata.org/wiki/Q30327322
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - jiri-trnka-a-bratri-v-triku
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+poster_tmdb_path: /9T2TMpGcRGHo1bxTeAKGcKHCD5y.jpg
+backdrop_tmdb_path: /aAotDhj5Ogk9otHTrHOa1oLalvj.jpg

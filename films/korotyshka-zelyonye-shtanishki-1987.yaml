@@ -8,6 +8,7 @@ runtime_min: 580
 external_ids:
   wikidata: Q65157069
   imdb: tt7776964
+  tmdb: 453688
 sources:
 - https://www.wikidata.org/wiki/Q65157069
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - sidorov-vladimir-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /12Isl3mIkKKSXxn6Bt5ZDJ0PJdE.jpg

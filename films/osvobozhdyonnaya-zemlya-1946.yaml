@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17512767
   imdb: tt0038811
   youtube: x7teeZ5YlS0
+  tmdb: 428530
 sources:
 - https://www.wikidata.org/wiki/Q17512767
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: tsesarskaya-emma-vladimirovna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /rs3VUpPMsbBIQaTwR7CLFXkPi8z.jpg

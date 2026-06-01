@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4198244
   imdb: tt0097602
   youtube: dtJWkPqF_qw
+  tmdb: 557693
 sources:
 - https://www.wikidata.org/wiki/Q4198244
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: susnin-aleksandr
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /xhVtApbOnfzYExZiyAIqP25mXne.jpg
+backdrop_tmdb_path: /o4ZwCcWFjyRtL0fOBiwAhoZBi2D.jpg

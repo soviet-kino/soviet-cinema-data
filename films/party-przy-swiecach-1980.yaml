@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11813109
   imdb: tt0172950
+  tmdb: 578078
 sources:
 - https://www.wikidata.org/wiki/Q11813109
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kobek-mieczys-aw
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /hEGbzjEN8cAPj37iommuOndykAy.jpg
+backdrop_tmdb_path: /3V3mK0SD2x3y4Rtjwrnnx6Huonu.jpg

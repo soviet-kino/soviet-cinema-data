@@ -8,8 +8,10 @@ runtime_min: 60
 external_ids:
   wikidata: Q23899987
   imdb: tt0170233
+  tmdb: 392607
 sources:
 - https://www.wikidata.org/wiki/Q23899987
 schema_version: 1
 director:
 - elek-judit
+poster_tmdb_path: /nARq1bqKiLV2NtVLbB2LVL1dE6z.jpg

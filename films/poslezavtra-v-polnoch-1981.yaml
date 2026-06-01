@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4373898
   imdb: tt0353898
+  tmdb: 532970
 sources:
 - https://www.wikidata.org/wiki/Q4373898
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: tsakhilova-zemfira-avramovna
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /2iRF24dOp15JFad6Ivyt82Bm5vI.jpg
+backdrop_tmdb_path: /gFOtqP3q3Rv6cNLDuGlxtw52R54.jpg

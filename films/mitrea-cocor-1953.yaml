@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25894504
   imdb: tt0044910
+  tmdb: 259221
 sources:
 - https://www.wikidata.org/wiki/Q25894504
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - sadovyanu-mikhail
 cast:
 - person: talianu-ion
+poster_tmdb_path: /wKU5mmRb69Xb6g1nE6XuqpXdaHr.jpg

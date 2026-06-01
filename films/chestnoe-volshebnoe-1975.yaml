@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4514925
   imdb: tt0185987
   youtube: 0hQba14xTKs
+  tmdb: 461039
 sources:
 - https://www.wikidata.org/wiki/Q4514925
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vertogradov-andrey-arkadevich
 - person: zharova-margarita-vasilevna
 - person: sanaeva-elena-vsevolodovna
+poster_tmdb_path: /wABToHQiUNzNK4X45rZCZtvzM7g.jpg
+backdrop_tmdb_path: /uwmB6Kem2CRllkNIgMRXxA3j3ev.jpg

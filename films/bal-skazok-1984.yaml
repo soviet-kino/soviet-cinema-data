@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q113565491
   imdb: tt0085268
+  tmdb: 661082
 sources:
 - https://www.wikidata.org/wiki/Q113565491
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: kamondy-imre
 studio:
 - mokep
+poster_tmdb_path: /4caH02mnDnWbK9xEbQmkyupDXRX.jpg

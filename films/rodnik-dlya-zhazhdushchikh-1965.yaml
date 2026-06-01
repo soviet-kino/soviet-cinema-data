@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q3549792
   imdb: tt0059655
+  tmdb: 149455
 sources:
 - https://www.wikidata.org/wiki/Q3549792
 schema_version: 1
@@ -17,3 +18,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: firsova-dzhemma-sergeevna
+poster_tmdb_path: /owibseHbs1hrXS9ftlc2gof4LW4.jpg
+backdrop_tmdb_path: /6VgxH6O0Sk1xvxwh9kSNLIZ8idR.jpg

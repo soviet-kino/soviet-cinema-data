@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q5115934
   imdb: tt0168583
+  tmdb: 482092
 sources:
 - https://www.wikidata.org/wiki/Q5115934
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: fingerova-marie
 - person: hausslerova-marie
 - person: schneider-jozka
+poster_tmdb_path: /yRqN86xkmw6iA4n85JdEKIX80SF.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16415448
   imdb: tt0314531
+  tmdb: 525595
 sources:
 - https://www.wikidata.org/wiki/Q16415448
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: alakbarov-shakhmar
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /kPVPEtle4RZSQOlsbITdtKYcwdl.jpg
+backdrop_tmdb_path: /k9WEnROMLuUk88v5t838ZT7em08.jpg

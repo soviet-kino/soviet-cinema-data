@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q4277678
   imdb: tt5958980
+  tmdb: 1454887
 sources:
 - https://www.wikidata.org/wiki/Q4277678
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: marton-nikolay-sergeevich
 studio:
 - ekran
+poster_tmdb_path: /smLX4DvLIaGjSEgEWNxKQeUjnni.jpg

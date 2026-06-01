@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q20611176
   imdb: tt0028335
+  tmdb: 682013
 sources:
 - https://www.wikidata.org/wiki/Q20611176
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: tsegmid-nyamyn
 studio:
 - lenfilm
+poster_tmdb_path: /esmCDnYViT6oRezvyxPEzyNb8Eg.jpg
+backdrop_tmdb_path: /4pq5yzKy7vwNTalBZPPrboZ79gY.jpg

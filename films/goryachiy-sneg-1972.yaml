@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4146327
   imdb: tt0212194
   youtube: Ay-vJ4OUDjM
+  tmdb: 63716
 sources:
 - https://www.wikidata.org/wiki/Q4146327
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: shveyts-khariy-arvidovich
 - person: strelkov-mikhail-aleksandrovich
 - person: babadzhanyan-ara
+poster_tmdb_path: /wBweGUHDuutVpClBht3skwXmXFb.jpg
+backdrop_tmdb_path: /8IGNuivnjMyt1oDFPuWDjbaRiKX.jpg

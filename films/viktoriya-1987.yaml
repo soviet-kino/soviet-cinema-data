@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q63166312
   imdb: tt0334622
+  tmdb: 1399441
 sources:
 - https://www.wikidata.org/wiki/Q63166312
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: baykshtite-grazhina
 studio:
 - lenfilm
+poster_tmdb_path: /wajMykq95Bfx5UO7pAJKYUN8vqT.jpg
+backdrop_tmdb_path: /mWGDRbKWpj5o65PrEvjkRFS9Xmc.jpg

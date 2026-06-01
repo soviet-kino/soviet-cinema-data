@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q12726689
   imdb: tt0060312
+  tmdb: 452880
 sources:
 - https://www.wikidata.org/wiki/Q12726689
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: galin-karmen
 - person: bogitse-vasile
 - person: teyka-aristid
+poster_tmdb_path: /40L9hYTnEsYLMwICCeKHfkjuBfi.jpg

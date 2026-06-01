@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7775416
   imdb: tt0006666
+  tmdb: 945930
 sources:
 - https://www.wikidata.org/wiki/Q7775416
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - vayda-ladislaus
 cast:
 - person: varkoni-viktor
+poster_tmdb_path: /zGqBrMZz935ZtxOUvAB2Mqk5SIK.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q136747054
   imdb: tt0931283
+  tmdb: 511907
 sources:
 - https://www.wikidata.org/wiki/Q136747054
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - krahnert-helmut
 composer:
 - schlotter-gert
+poster_tmdb_path: /jXSOTtzjxgYRZfSx0hDTYO2sV11.jpg
+backdrop_tmdb_path: /vcWs825wp02nf0ur2m2PcnspQ9x.jpg

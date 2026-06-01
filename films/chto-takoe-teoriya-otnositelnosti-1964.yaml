@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4517324
   imdb: tt8157292
+  tmdb: 539194
 sources:
 - https://www.wikidata.org/wiki/Q4517324
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: vitsin-georgiy-mikhaylovich
 - person: gribov-aleksey-nikolaevich
 - person: polevoy-aleksey-leonidovich
+poster_tmdb_path: /re9aocrPvX9wHxXfHkdiKOnJy32.jpg

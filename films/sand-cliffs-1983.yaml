@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q5431867
   imdb: tt0085522
+  tmdb: 76509
 sources:
 - https://www.wikidata.org/wiki/Q5431867
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: vasilesku-rezvan
 - person: uritesku-valentin
 - person: vishu-george
+poster_tmdb_path: /tWThs5hei17jFMd8dbsvwX4SB7T.jpg
+backdrop_tmdb_path: /qYNiSLG3WGtDPElLV08lsW21yBB.jpg

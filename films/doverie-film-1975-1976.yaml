@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q13553645
   imdb: tt0133072
   youtube: OBsWRz8RCdc
+  tmdb: 572056
 sources:
 - https://www.wikidata.org/wiki/Q13553645
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: niemi-raymo-o
 - person: panula-terhi
 - person: uusimaki-veikko
+poster_tmdb_path: /bJb9rZ2UzyasGg9oanwlIa0vm7d.jpg

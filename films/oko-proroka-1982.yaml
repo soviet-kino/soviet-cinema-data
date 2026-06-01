@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7082462
   imdb: tt1499286
+  tmdb: 766817
 sources:
 - https://www.wikidata.org/wiki/Q7082462
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - kshishtof-vinevich
 composer:
 - kozhinskiy-andzhey
+poster_tmdb_path: /2B7QRScC8wa7MV6mBWEWiYdGkTf.jpg

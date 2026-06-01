@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4410244
   imdb: tt0447516
   youtube: fV0vGtigXTs
+  tmdb: 544960
 sources:
 - https://www.wikidata.org/wiki/Q4410244
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - lenfilm
 - tallinfilm
+poster_tmdb_path: /n9VRiYE2tfoGonr1ialzvXJ5wjp.jpg
+backdrop_tmdb_path: /gu3JQIsX5WO7y0F58sTnbLd6mgr.jpg

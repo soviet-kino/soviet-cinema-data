@@ -8,6 +8,7 @@ runtime_min: 24
 external_ids:
   wikidata: Q6429065
   imdb: tt0237383
+  tmdb: 443492
 sources:
 - https://www.wikidata.org/wiki/Q6429065
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: bryg-lubomir
 - person: kminkova-dagmar
 - person: zaveta-frantisek
+poster_tmdb_path: /7p00B1lOgrVRdwT3gc9LknJbPlZ.jpg

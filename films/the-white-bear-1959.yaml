@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9170674
   imdb: tt0052625
+  tmdb: 503097
 sources:
 - https://www.wikidata.org/wiki/Q9170674
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: mlodnitskiy-artur
 - person: tushinskaya-tereza
 - person: grotowicz-wiktor
+poster_tmdb_path: /r433sOHc3u8aKb2saS4S8n5m12A.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200413
   imdb: tt4911764
+  tmdb: 532072
 sources:
 - https://www.wikidata.org/wiki/Q65200413
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: safonov-vsevolod-dmitrievich
 - person: demertash-viktor-konstantinovich
 - person: chinshevaya-lyudmila-petrovna
+poster_tmdb_path: /jAe6cAQlodKQ5XfpuKzTsovfBNl.jpg

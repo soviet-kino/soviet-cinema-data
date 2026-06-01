@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q2981699
   imdb: tt0129831
+  tmdb: 198835
 sources:
 - https://www.wikidata.org/wiki/Q2981699
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: sarfati-moris
 - person: borzho-nelli
 - person: fotino-misu
+poster_tmdb_path: /o4uCSH90j1Gkt0CpUDbHSHFcB3K.jpg

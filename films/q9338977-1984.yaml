@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9338977
   imdb: tt0086329
+  tmdb: 745252
 sources:
 - https://www.wikidata.org/wiki/Q9338977
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: so-uba-lech
 - person: lenartowicz-stepkowska-anna
 - person: q118154137
+poster_tmdb_path: /t7zhDfSI5QSBUUb03tMwvxsRCrn.jpg
+backdrop_tmdb_path: /icMNItYKlRmTiuCQZdSEuRRwzHK.jpg

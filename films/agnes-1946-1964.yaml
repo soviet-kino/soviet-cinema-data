@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9142200
   imdb: tt0057825
+  tmdb: 155333
 sources:
 - https://www.wikidata.org/wiki/Q9142200
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: loza-mechislav
 - person: b-awut-jacek
 - person: guttner-yanush
+poster_tmdb_path: /q9ZI4GCsEexRdEp5Y2ghvJuGfNa.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4127695
   imdb: tt0309052
+  tmdb: 213477
 sources:
 - https://www.wikidata.org/wiki/Q4127695
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - artemyev-eduard
 cast:
 - person: narliev-khodzhadurdy
+poster_tmdb_path: /dWuFPuub4M5BnIg1chZRfry3XM6.jpg
+backdrop_tmdb_path: /gcjUZuQ8n0QtLJWi7atyLQRnxli.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28734856
   imdb: tt0053605
+  tmdb: 627852
 sources:
 - https://www.wikidata.org/wiki/Q28734856
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: tastaman-vasilika
 - person: praida-nicolae
 - person: q139821830
+poster_tmdb_path: /dgzkeX3tqVDq0qx9RbiVLDDyHPY.jpg
+backdrop_tmdb_path: /vfKMB0pYpTuEut4QJVmlsknJJXI.jpg

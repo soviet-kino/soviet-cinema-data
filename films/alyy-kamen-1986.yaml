@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4063267
   imdb: tt0090620
   youtube: hrYDkZDPPXs
+  tmdb: 626675
 sources:
 - https://www.wikidata.org/wiki/Q4063267
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: rozanova-irina
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /swKO8SYdy5FfWpKVdndZqIQDHTI.jpg
+backdrop_tmdb_path: /eNQf1zMlYqW4Rz9A3XkI9fyqUdR.jpg

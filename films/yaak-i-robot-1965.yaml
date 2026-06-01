@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48950699
   imdb: tt0452264
+  tmdb: 826849
 sources:
 - https://www.wikidata.org/wiki/Q48950699
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - raud-eno
 studio:
 - tallinfilm
+poster_tmdb_path: /eUNUqORZz0Z2JBgVPJizXNGxECy.jpg

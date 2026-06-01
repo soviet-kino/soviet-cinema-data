@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4134602
   imdb: tt4258424
+  tmdb: 524200
 sources:
 - https://www.wikidata.org/wiki/Q4134602
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kasimov-elkhan
 - person: akhundov-novruz
 - person: azimova-tokhfe
+poster_tmdb_path: /krraHOkeb981FFFeKoaSlEQ3kZL.jpg
+backdrop_tmdb_path: /47Zi20uVM3JkMR8IDwVBTrQMd2G.jpg

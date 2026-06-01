@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q259739
   imdb: tt0437300
+  tmdb: 72205
 sources:
 - https://www.wikidata.org/wiki/Q259739
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /dzajMiBdmJHBoJVugzZ91T6Vwry.jpg
+backdrop_tmdb_path: /dNSPamIQY843TCtFKl5GmJ2YPeC.jpg

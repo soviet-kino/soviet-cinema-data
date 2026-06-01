@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q9340599
   imdb: tt0430622
+  tmdb: 405963
 sources:
 - https://www.wikidata.org/wiki/Q9340599
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kidawa-janusz
 cast:
 - person: pechka-frantishek
+poster_tmdb_path: /eW3jNVgdSRnEti17FAp4A4szdlD.jpg
+backdrop_tmdb_path: /nVj6SdXvjZlebyzKl449qcK09tw.jpg

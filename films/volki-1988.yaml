@@ -8,8 +8,10 @@ runtime_min: 50
 external_ids:
   wikidata: Q115431986
   imdb: tt4187688
+  tmdb: 1125762
 sources:
 - https://www.wikidata.org/wiki/Q115431986
 schema_version: 1
 studio:
 - uzbekfilm
+poster_tmdb_path: /4uskLLS8k2QrckPI28JPtdgbnen.jpg

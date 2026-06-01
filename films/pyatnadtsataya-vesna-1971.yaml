@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270988
   imdb: tt0192484
   youtube: iU71CgsNBDk
+  tmdb: 456944
 sources:
 - https://www.wikidata.org/wiki/Q15270988
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kalyagin-aleksandr-aleksandrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /hGmxKP9GdlMlVG2tefJ1dLaGlF7.jpg
+backdrop_tmdb_path: /mO4BUdhm4g3LBbV31Rs36vQh7Lj.jpg

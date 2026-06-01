@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q119873975
   imdb: tt4725978
+  tmdb: 611346
 sources:
 - https://www.wikidata.org/wiki/Q119873975
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: tenin-boris-mikhaylovich
 - person: urusova-evdokiya-yurevna
 - person: lakirev-viktor-nikolaevich
+poster_tmdb_path: /zKQIJ1pEu090kVg5YNKWR1qUiUw.jpg
+backdrop_tmdb_path: /69PWnRcryWX6C1fK02XBnd2ZUjK.jpg

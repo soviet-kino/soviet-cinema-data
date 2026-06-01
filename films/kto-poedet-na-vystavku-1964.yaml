@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55595154
   imdb: tt8157150
+  tmdb: 440492
 sources:
 - https://www.wikidata.org/wiki/Q55595154
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - degtyaryov-vladimir-dmitrievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /94fQ9age4hulXaB7Lhu0NfIp08g.jpg

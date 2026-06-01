@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4127103
   imdb: tt0059888
   youtube: eUCGrydNZHo
+  tmdb: 263048
 sources:
 - https://www.wikidata.org/wiki/Q4127103
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 - person: yurskiy-sergey-yurevich
 - person: gulaya-inna-iosifovna
+poster_tmdb_path: /sbYkx5DtudMXgeH4zrYqq4khVjw.jpg
+backdrop_tmdb_path: /rTJoqxZkQzbG26nZnD5HgZLovA2.jpg

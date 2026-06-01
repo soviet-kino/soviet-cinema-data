@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q4491749
   imdb: tt0095167
+  tmdb: 75298
 sources:
 - https://www.wikidata.org/wiki/Q4491749
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kalmykov-anatoliy-egorovich
 studio:
 - lenfilm
+poster_tmdb_path: /r3SacrlnC4c6jxCEmz3MuJc3dcd.jpg
+backdrop_tmdb_path: /fumcF0dovdUfyZ5JjJfTJtwuK56.jpg

@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q1214365
   imdb: tt0074786
+  tmdb: 244003
 sources:
 - https://www.wikidata.org/wiki/Q1214365
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: wolf-hans-jurgen
 studio:
 - defa
+poster_tmdb_path: /esUrOnYZUvSuWVUj1EN2aMH61Ej.jpg
+backdrop_tmdb_path: /Af7J31uglrL3mVg40mK45EKUSAU.jpg

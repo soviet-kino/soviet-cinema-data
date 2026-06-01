@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12741750
   imdb: tt0088209
+  tmdb: 636149
 sources:
 - https://www.wikidata.org/wiki/Q12741750
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: tudorake-olga
 - person: predescu-ileana
 - person: stenesku-trayan
+poster_tmdb_path: /g0TcSH06wldoPIayi4GVVhg6bKe.jpg

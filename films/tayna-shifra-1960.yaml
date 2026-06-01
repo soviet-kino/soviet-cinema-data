@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18547803
   imdb: tt0136524
+  tmdb: 619532
 sources:
 - https://www.wikidata.org/wiki/Q18547803
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: redulesku-dem
 - person: mereutse-mikhay
 - person: chiuaru-angela
+poster_tmdb_path: /reR6N0bZdZyqHLAKlQKHtYZbYCN.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4163300
   imdb: tt0375714
+  tmdb: 530840
 sources:
 - https://www.wikidata.org/wiki/Q4163300
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: olyalin-nikolay-vladimirovich
+poster_tmdb_path: /k9JEJgRxGkjjyeLWd8TEcpnmTfC.jpg
+backdrop_tmdb_path: /nXIFWtBUZYKr2p00HOikx92UJZt.jpg

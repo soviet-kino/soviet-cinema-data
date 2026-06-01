@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4380922
   imdb: tt0078119
+  tmdb: 147683
 sources:
 - https://www.wikidata.org/wiki/Q4380922
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: nitulesku-vasil
 - person: teyka-aristid
 - person: vishu-george
+poster_tmdb_path: /ljRaN6wAAZFeTAnDSOk8918XAv6.jpg

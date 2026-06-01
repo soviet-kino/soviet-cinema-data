@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4229683
   imdb: tt0077817
+  tmdb: 533503
 sources:
 - https://www.wikidata.org/wiki/Q4229683
 schema_version: 1
@@ -18,3 +19,4 @@ studio:
 - lenfilm
 cast:
 - person: efremov-oleg-nikolaevich
+poster_tmdb_path: /bYfXLuWiXy96KEMDAN0w9mnV9GT.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15271110
   imdb: tt0173734
   youtube: hJAkp32sDwo
+  tmdb: 642391
 sources:
 - https://www.wikidata.org/wiki/Q15271110
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - mosfilm
 cast:
 - person: doronina-tatyana-vasilevna
+poster_tmdb_path: /xbWjmYxmbN5Pum6CGzIdxOSGQHf.jpg

@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4127013
   imdb: tt0028473
+  tmdb: 376652
 sources:
 - https://www.wikidata.org/wiki/Q4127013
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: solovtsov-valeriy-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /10IVb27gBV5m7IUQtTJAI01jKGM.jpg
+backdrop_tmdb_path: /zMbA7l08OtrVUnWTiHTN2NnLvRc.jpg

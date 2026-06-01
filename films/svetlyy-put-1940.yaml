@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3456197
   imdb: tt0033119
   youtube: AfKlQpNeI4U
+  tmdb: 333138
 sources:
 - https://www.wikidata.org/wiki/Q3456197
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: samoylov-evgeniy-valerianovich
 studio:
 - mosfilm
+poster_tmdb_path: /xOk8qINtrD3J2cICI4MvK49MkVS.jpg
+backdrop_tmdb_path: /yLUobNSaIR1NZw5bwq5AQdlKrgz.jpg

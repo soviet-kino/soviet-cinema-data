@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4423858
   imdb: tt0170598
+  tmdb: 435528
 sources:
 - https://www.wikidata.org/wiki/Q4423858
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: yatskina-galina-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /vWlKut94rLsPSenBx1ehvSQrtqA.jpg

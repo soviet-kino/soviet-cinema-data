@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q5262153
   imdb: tt0068016
+  tmdb: 577836
 sources:
 - https://www.wikidata.org/wiki/Q5262153
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: kuzemskiy-eliash
 - person: blok-ezhi
 - person: janowski-mieczys-aw
+poster_tmdb_path: /bO2cJJWrwGZHdIbhml5Vlwy95zL.jpg

@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q1451468
   imdb: tt0172467
+  tmdb: 13103
 sources:
 - https://www.wikidata.org/wiki/Q1451468
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: porschmann-jurgen
 - person: lind-katarina
 - person: danegger-matilda
+poster_tmdb_path: /2tNUt9I5tdge7pIzODSwyhz4xLQ.jpg
+backdrop_tmdb_path: /qzsXnthKKPTxaf3BzSRkuX1hXDv.jpg

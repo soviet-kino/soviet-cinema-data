@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16521576
   imdb: tt0041608
+  tmdb: 151236
 sources:
 - https://www.wikidata.org/wiki/Q16521576
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: balazs-samu
 - person: shomlai-artur
 - person: szakats-miklos
+poster_tmdb_path: /la7e104NiGzwJGld1OetSwAK3uD.jpg

@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q2966781
   imdb: tt0091358
+  tmdb: 270735
 sources:
 - https://www.wikidata.org/wiki/Q2966781
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: vuytsik-magdalena
 - person: m-ynarska-moritz-paulina
 - person: wawrzynczak-piotr
+poster_tmdb_path: /kuF4e5ttk1YHyzbvpSlZETeHkFu.jpg
+backdrop_tmdb_path: /3LrUc3J5pie1NnRjXCzMv56Lwwd.jpg

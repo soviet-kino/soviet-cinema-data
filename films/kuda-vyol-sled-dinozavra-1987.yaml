@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4244327
   imdb: tt1512846
+  tmdb: 891485
 sources:
 - https://www.wikidata.org/wiki/Q4244327
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kasymova-margarita-naimovna
 composer:
 - bakhor-firuz
+poster_tmdb_path: /y69S8jwUjM2cFtt529DgT24NYvi.jpg
+backdrop_tmdb_path: /tfjunE4qXCaLwUOQQVER1y46TBS.jpg

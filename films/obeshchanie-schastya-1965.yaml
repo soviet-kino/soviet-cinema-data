@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q4329197
   imdb: tt5865448
+  tmdb: 1265991
 sources:
 - https://www.wikidata.org/wiki/Q4329197
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: doronina-tatyana-vasilevna
 studio:
 - pyatyy-kanal
+poster_tmdb_path: /cflYKmGRBc5ibB7hcOnjfl4h1XE.jpg

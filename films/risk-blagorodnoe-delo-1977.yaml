@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4394796
   imdb: tt0128893
   youtube: QHGwIPZUyeQ
+  tmdb: 71345
 sources:
 - https://www.wikidata.org/wiki/Q4394796
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - mosfilm
 cast:
 - person: mikhaylov-aleksandr-yakovlevich
+poster_tmdb_path: /5ZwXnKSxpr7oT01ZDaS2OaIsAsb.jpg

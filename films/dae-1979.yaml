@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q5208137
   imdb: tt0079022
+  tmdb: 244358
 sources:
 - https://www.wikidata.org/wiki/Q5208137
 schema_version: 1
 director:
 - popov-stole
+poster_tmdb_path: /rWHssiBwCs78n28rE91wgodCZUd.jpg
+backdrop_tmdb_path: /rR3funcO32VeLdVtK8OqNEoTbRD.jpg

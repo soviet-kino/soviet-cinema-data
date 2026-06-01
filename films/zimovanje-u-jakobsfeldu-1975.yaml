@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q12751992
   imdb: tt0170841
+  tmdb: 335889
 sources:
 - https://www.wikidata.org/wiki/Q12751992
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: leso-miroljub
 - person: gonchich-svetislav
 - person: sultanovic-goran
+poster_tmdb_path: /xoKuBCJdarsQLu7EXSHPDdAOGvN.jpg
+backdrop_tmdb_path: /bgQKKVrg2LwEvexZUYoplkTXB1D.jpg

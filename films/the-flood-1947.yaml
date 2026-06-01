@@ -8,9 +8,12 @@ runtime_min: 13
 external_ids:
   wikidata: Q3151462
   imdb: tt1072716
+  tmdb: 393948
 sources:
 - https://www.wikidata.org/wiki/Q3151462
 schema_version: 1
 director:
 - bossak-ezhi
 - kazmerchak-vatslav
+poster_tmdb_path: /qCiQYKEXamkh58IFF1soQltA9is.jpg
+backdrop_tmdb_path: /qIytEgaxTUgSN2Sm1VyTzcWBDAt.jpg

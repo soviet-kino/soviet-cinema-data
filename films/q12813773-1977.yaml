@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12813773
   imdb: tt0361371
+  tmdb: 869142
 sources:
 - https://www.wikidata.org/wiki/Q12813773
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - mestyan-tibor
 composer:
 - victor-mate
+poster_tmdb_path: /cO8RfzzSEXfaLOQA3tJn4T0Z8YQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55651254
   imdb: tt6379660
+  tmdb: 440292
 sources:
 - https://www.wikidata.org/wiki/Q55651254
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - artemyev-eduard
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /2KXnZXxohIIKCn0iMUnvoKc2TpJ.jpg

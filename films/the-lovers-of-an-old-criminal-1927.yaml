@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12037390
   imdb: tt0279959
   youtube: oidRgnsRt_8
+  tmdb: 189700
 sources:
 - https://www.wikidata.org/wiki/Q12037390
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: stal-rudolf-2
 - person: hlavata-vera
 - person: suva-rudolf
+poster_tmdb_path: /6qa8NTkak0WvrluGfbBIsYBcwcH.jpg
+backdrop_tmdb_path: /4BfueaJnaTZ1C9QdbHWcCdUDNqR.jpg

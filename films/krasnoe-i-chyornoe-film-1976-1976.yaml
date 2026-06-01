@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4238708
   imdb: tt0074762
   youtube: g6jFuvugivg
+  tmdb: 359873
 sources:
 - https://www.wikidata.org/wiki/Q4238708
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: parkina-tatyana-alekseevna
 - person: strizhenov-gleb-aleksandrovich
 - person: filippov-mikhail-ivanovich
+poster_tmdb_path: /8IjL8cUj6ocrGMZh1f3fKxfI3cM.jpg
+backdrop_tmdb_path: /uJRAAZ0pg6lC19FjoUqycp9Mf1K.jpg

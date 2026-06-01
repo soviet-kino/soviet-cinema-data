@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q16687812
   imdb: tt4699776
+  tmdb: 537083
 sources:
 - https://www.wikidata.org/wiki/Q16687812
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: martynov-aleksandr-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /kfd0aEjOVyhGHaRU5Sl4zblG5kZ.jpg

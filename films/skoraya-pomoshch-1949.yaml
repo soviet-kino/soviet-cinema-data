@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21644419
   imdb: tt6052526
   youtube: uW549lsMeNw
+  tmdb: 448587
 sources:
 - https://www.wikidata.org/wiki/Q21644419
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Emergency services (1949).jpg
+poster_tmdb_path: /fMlBZdSefThj1lqQFddyeeqKGPZ.jpg

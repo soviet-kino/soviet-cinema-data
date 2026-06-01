@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q120721794
   imdb: tt1068783
+  tmdb: 414714
 sources:
 - https://www.wikidata.org/wiki/Q120721794
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: sagan-ezhi
 studio:
 - q110427551
+poster_tmdb_path: /gaj3PyNMqzFasAbnaonIZYq9riZ.jpg
+backdrop_tmdb_path: /bzn3nftCG8z3wE5FDrAO0fWuebv.jpg

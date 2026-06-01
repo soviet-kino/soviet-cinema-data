@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q625110
   imdb: tt0068519
   youtube: 8tJPKSz6Gaw
+  tmdb: 20871
 sources:
 - https://www.wikidata.org/wiki/Q625110
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: muratov-radner-zinyatovich
 studio:
 - mosfilm
+poster_tmdb_path: /shWmp0lLdEuiTL8TVRBdtXYuCOX.jpg
+backdrop_tmdb_path: /be2iIuvq58JDlaVyzHCRbc3Escq.jpg

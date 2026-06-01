@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q7745896
   imdb: tt0075091
+  tmdb: 266238
 sources:
 - https://www.wikidata.org/wiki/Q7745896
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: predrag-manoylovich
 - person: kaloper-jagoda
 - person: vuisich-pavle
+poster_tmdb_path: /jH90uRA35dO3bzOPrzaam6paDU0.jpg

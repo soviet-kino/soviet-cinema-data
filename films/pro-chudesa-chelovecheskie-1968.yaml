@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q86683227
   imdb: tt0347816
+  tmdb: 1530348
 sources:
 - https://www.wikidata.org/wiki/Q86683227
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - muravlyov-aleksey-alekseevich
 studio:
 - mosfilm
+poster_tmdb_path: /eqeLRo59IYX6f5rIXUj8m0LIXWc.jpg

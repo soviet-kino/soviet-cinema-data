@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65199224
   imdb: tt2294650
+  tmdb: 767789
 sources:
 - https://www.wikidata.org/wiki/Q65199224
 schema_version: 1
 director:
 - dubrovin-yuriy-nikolaevich
+poster_tmdb_path: /7Nuu2tuy1k9UiLw9bgyCTkCedJL.jpg

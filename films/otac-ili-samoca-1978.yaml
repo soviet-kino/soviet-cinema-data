@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60715437
   imdb: tt0199918
+  tmdb: 1105395
 sources:
 - https://www.wikidata.org/wiki/Q60715437
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: stol-arandzhelovich
 - person: ras-eva
 - person: danika-maksimovich
+poster_tmdb_path: /3vksdbs23ilO9Qc8OWYDPCud1rv.jpg

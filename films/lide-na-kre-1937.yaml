@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q6543769
   imdb: tt0168955
+  tmdb: 315923
 sources:
 - https://www.wikidata.org/wiki/Q6543769
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: stahlova-pavla
 - person: haller-frantisek
 - person: blazek-eduard
+poster_tmdb_path: /k8Oo0CMF6fN80UMUwH4v4bsyByk.jpg

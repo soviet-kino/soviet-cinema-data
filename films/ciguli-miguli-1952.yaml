@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q3442973
   imdb: tt0044499
+  tmdb: 325013
 sources:
 - https://www.wikidata.org/wiki/Q3442973
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: didik-lyubomir
 studio:
 - yadran-film
+poster_tmdb_path: /chlsrZDB605cg7o5ES73bCUNvPP.jpg

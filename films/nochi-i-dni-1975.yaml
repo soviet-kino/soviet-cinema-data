@@ -8,6 +8,7 @@ runtime_min: 632
 external_ids:
   wikidata: Q1634780
   imdb: tt0073460
+  tmdb: 110369
 sources:
 - https://www.wikidata.org/wiki/Q1634780
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: volleyko-magdalena
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /g6VkoEYSSNwSqVMyfskAB1K4ndW.jpg
+backdrop_tmdb_path: /52iisOEhfwyMdEZwh9T3eoyLwQQ.jpg

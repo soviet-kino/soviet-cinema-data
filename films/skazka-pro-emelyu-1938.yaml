@@ -8,6 +8,7 @@ runtime_min: 641
 external_ids:
   wikidata: Q28465072
   imdb: tt6944202
+  tmdb: 448585
 sources:
 - https://www.wikidata.org/wiki/Q28465072
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - sazonov-panteleymon-petrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5FPeXQWxP5Lbkjy4SrleoBs1vB3.jpg
+backdrop_tmdb_path: /3mDko840u5l0dALt8PBU0Wm6Dgm.jpg

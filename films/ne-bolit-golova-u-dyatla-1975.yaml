@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4315360
   imdb: tt0156836
   youtube: eBoVqmlmABo
+  tmdb: 266892
 sources:
 - https://www.wikidata.org/wiki/Q4315360
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: tsyplakova-elena-oktyabrevna
 studio:
 - lenfilm
+poster_tmdb_path: /wZ5KljtTXm0tdKXm7wTp9iLhSED.jpg
+backdrop_tmdb_path: /y2zTIbJlCcidl6mYCm9TQKN6Kxj.jpg

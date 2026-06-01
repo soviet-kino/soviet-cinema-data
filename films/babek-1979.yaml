@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4074268
   imdb: tt0078816
+  tmdb: 524750
 sources:
 - https://www.wikidata.org/wiki/Q4074268
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: ogly-rzaev-samandar-mansim
 - person: alakbarov-shakhmar
 - person: azaev-khamid-khadidovich
+poster_tmdb_path: /54ew6IOIhEXQ44YqdPm0DCl4lXQ.jpg
+backdrop_tmdb_path: /jbyplO7w6HioxogM6p6wSPLUkJb.jpg

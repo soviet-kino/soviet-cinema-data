@@ -8,6 +8,7 @@ runtime_min: 142
 external_ids:
   wikidata: Q4208851
   imdb: tt0091319
+  tmdb: 606263
 sources:
 - https://www.wikidata.org/wiki/Q4208851
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: leonidov-maksim
 studio:
 - lenfilm
+poster_tmdb_path: /11xZ1YOks9ekkYORpSjsWL6QkFZ.jpg
+backdrop_tmdb_path: /40RAz4xVyxdIyL7Hf6hzmAtcYHo.jpg

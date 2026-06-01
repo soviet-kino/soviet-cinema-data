@@ -64,6 +64,9 @@ runtime_min: 86
 external_ids:
   wikidata: Q723239
   imdb: tt0122111
+  tmdb: 19757
 sources:
 - https://www.wikidata.org/wiki/Q723239
 schema_version: 1
+poster_tmdb_path: /n2qOMpqgXhj4A8SKhuLMDAUXd0x.jpg
+backdrop_tmdb_path: /tAcQVoPh5OV6aX5CDlHSyBiUDwo.jpg

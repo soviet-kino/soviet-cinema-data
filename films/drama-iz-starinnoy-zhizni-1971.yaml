@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4167646
   imdb: tt0123047
   youtube: DRcU-VrLivs
+  tmdb: 611737
 sources:
 - https://www.wikidata.org/wiki/Q4167646
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: solovey-elena-yakovlevna
 - person: aktyor-egorov-anatoliy-ivanovich
 - person: perov-evgeniy-vladimirovich
+poster_tmdb_path: /aej6M9DzmWp7wXN0grTahr3zIRq.jpg
+backdrop_tmdb_path: /x4r9xcWvTA5pfgaSHzaaE468EKD.jpg

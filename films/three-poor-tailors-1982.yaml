@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q54261787
   imdb: tt0174760
+  tmdb: 386753
 sources:
 - https://www.wikidata.org/wiki/Q54261787
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 studio:
 - vengerskoe-televidenie
 - mafilm
+poster_tmdb_path: /imJcqN8UdfZW1fpJyo71AMkYPlk.jpg
+backdrop_tmdb_path: /6XIOpDW8uMFsyK2IdpAFOq7ZBnA.jpg

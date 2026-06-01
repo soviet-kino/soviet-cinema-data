@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q16414245
   imdb: tt2081180
+  tmdb: 533026
 sources:
 - https://www.wikidata.org/wiki/Q16414245
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: kuliev-aga-rza
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /oqBidSp3ZDbAIh7XtSp8B5rzufP.jpg

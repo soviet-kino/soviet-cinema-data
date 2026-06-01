@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q5924070
   imdb: tt0277022
+  tmdb: 652834
 sources:
 - https://www.wikidata.org/wiki/Q5924070
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: novak-miloslav-2
 - person: hrabetova-eva
 - person: baliova-miluska
+poster_tmdb_path: /cDCLcICCyUgzG1qMYTW5MCM5VfD.jpg

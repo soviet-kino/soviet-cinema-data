@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5261169
   imdb: tt0236355
+  tmdb: 439248
 sources:
 - https://www.wikidata.org/wiki/Q5261169
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: delshaft-mali
 studio:
 - defa
+poster_tmdb_path: /3Ix0HX5QfFcxcjBmnn8gUTL3eB6.jpg

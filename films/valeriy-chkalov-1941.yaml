@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4102841
   imdb: tt0034353
   youtube: -D6iEZoxu58
+  tmdb: 322840
 sources:
 - https://www.wikidata.org/wiki/Q4102841
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: kalatozov-mikhail-konstantinovich
 studio:
 - lenfilm
+poster_tmdb_path: /cCYrAiDESmt91dnWghaL13edcyg.jpg
+backdrop_tmdb_path: /yXSo2ZDT026Y0nBrDW5eXJ4LSHR.jpg

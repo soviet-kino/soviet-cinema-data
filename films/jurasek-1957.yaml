@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q27995907
   imdb: tt0231842
+  tmdb: 753222
 sources:
 - https://www.wikidata.org/wiki/Q27995907
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: pucalkova-erna
 - person: svatonova-milena
 - person: jakubec-jan
+poster_tmdb_path: /9WdDcy7WqpoEfxin7R1v8TFGNuW.jpg

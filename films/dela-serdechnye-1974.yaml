@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4157010
   imdb: tt0129029
+  tmdb: 319567
 sources:
 - https://www.wikidata.org/wiki/Q4157010
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: papanov-anatoliy-dmitrievich
 - person: taratorkin-georgiy-georgievich
 - person: samokhina-galina-mikhaylovna
+poster_tmdb_path: /9RcB7xyRPZDnROnudofBYnKjVur.jpg
+backdrop_tmdb_path: /2LYqU9msk4S4egVdx70biaqsFRN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2373306
   imdb: tt0134614
   youtube: 8CYY8EM5xYE
+  tmdb: 20975
 sources:
 - https://www.wikidata.org/wiki/Q2373306
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: khitrov-stanislav-nikolaevich
 - person: kiryutkin-pyotr-ivanovich
 - person: krychenkov-aleksey-fyodorovich
+poster_tmdb_path: /ieyhTC0FZ5LtoJajpyTQQzcheHM.jpg
+backdrop_tmdb_path: /yOISfUtekI6bbkyGv25JQmUR8oh.jpg

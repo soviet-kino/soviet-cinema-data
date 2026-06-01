@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q9369564
   imdb: tt0088372
+  tmdb: 280440
 sources:
 - https://www.wikidata.org/wiki/Q9369564
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - radzh-zbignev
 cast:
 - person: beata-tyshkevich
+poster_tmdb_path: /m5YEAHp4QzXJtznjCVldv5ym5zk.jpg
+backdrop_tmdb_path: /sRruQPphz3Lb38NAan59pg5QXC5.jpg

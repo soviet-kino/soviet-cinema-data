@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7564797
   imdb: tt0022947
+  tmdb: 397677
 sources:
 - https://www.wikidata.org/wiki/Q7564797
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: overllo-pavel
 - person: ney-nora-2
 poster_commons: Glos pustyni 1932.jpg
+poster_tmdb_path: /qaKIS500ZWQmLtXmbMbEUQNpwTi.jpg

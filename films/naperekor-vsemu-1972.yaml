@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q12132343
   imdb: tt0171556
+  tmdb: 249454
 sources:
 - https://www.wikidata.org/wiki/Q12132343
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 - zeta-film
+poster_tmdb_path: /uGQ2fpefKjsWFGzpjvdyVbrTpsI.jpg
+backdrop_tmdb_path: /uOH9uZcYqJSoHTCSj18cjy5J4qn.jpg

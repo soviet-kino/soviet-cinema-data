@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q5124197
   imdb: tt0154341
+  tmdb: 199182
 sources:
 - https://www.wikidata.org/wiki/Q5124197
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bertola-klodi
 - person: ramadan-constantin
 - person: vladesku-ana
+poster_tmdb_path: /35ANNQgPj9QFF9JymO5qbXYG2ot.jpg

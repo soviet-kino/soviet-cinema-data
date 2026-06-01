@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4229505
   imdb: tt0170117
+  tmdb: 491455
 sources:
 - https://www.wikidata.org/wiki/Q4229505
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kononov-mikhail-ivanovich
 - person: kozakov-mikhail-mikhaylovich
 - person: antonova-olga-sergeevna
+poster_tmdb_path: /1lOTovIMSVJEYgJobpTKwgPUBvQ.jpg

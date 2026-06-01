@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4312954
   imdb: tt28697022
   youtube: 6zcJMY3C0eU
+  tmdb: 572831
 sources:
 - https://www.wikidata.org/wiki/Q4312954
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: yakovlev-girt-aleksandrovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /qkRsfam9a0to5dS38r4wpVIjBYj.jpg
+backdrop_tmdb_path: /nLNtWdxbrod3m79JUAki4HbswQA.jpg

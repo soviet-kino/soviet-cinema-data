@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4366959
   imdb: tt21955578
+  tmdb: 532211
 sources:
 - https://www.wikidata.org/wiki/Q4366959
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: kalnynsh-ivar
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /9cmAIrkgL8ulIObugs8wCrP4pl1.jpg

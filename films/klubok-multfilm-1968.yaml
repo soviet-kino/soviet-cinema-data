@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4851268
   imdb: tt0480418
+  tmdb: 341889
 sources:
 - https://www.wikidata.org/wiki/Q4851268
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - artemyev-eduard
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9sEDw6rfzH2aQ24jXKWA1MyOS80.jpg
+backdrop_tmdb_path: /9ybbKCLle7vqlS9Zx9uG0lgueYG.jpg

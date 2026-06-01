@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7942437
   imdb: tt0124191
+  tmdb: 286594
 sources:
 - https://www.wikidata.org/wiki/Q7942437
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 cast:
 - person: moor-marianna
 - person: banshagi-ildiko
+poster_tmdb_path: /fdkcuHKx8SThbyZ9K3HjThkDDWL.jpg

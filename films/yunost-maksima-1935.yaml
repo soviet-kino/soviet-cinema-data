@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q388339
   imdb: tt0027235
   youtube: LdIFUJ_AuQQ
+  tmdb: 173995
 sources:
 - https://www.wikidata.org/wiki/Q388339
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kayukov-stepan-yakovlevich
 studio:
 - lenfilm
+poster_tmdb_path: /u6CtXq8Hb3acOnk0r309xDgpK19.jpg
+backdrop_tmdb_path: /ljwFovolNeBcZcf99bnJL9OrFHK.jpg

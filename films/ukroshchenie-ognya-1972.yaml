@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1018998
   imdb: tt0069434
   youtube: -Y8CkWvICQU
+  tmdb: 126523
 sources:
 - https://www.wikidata.org/wiki/Q1018998
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: matveev-evgeniy-semyonovich
 - person: popov-andrey-alekseevich
 - person: safonov-vsevolod-dmitrievich
+poster_tmdb_path: /mlqTUDwORxbuQyH5bADr7dWyE2U.jpg
+backdrop_tmdb_path: /yLe0HwAIpdO9fl9TLvIV8rt42Ia.jpg

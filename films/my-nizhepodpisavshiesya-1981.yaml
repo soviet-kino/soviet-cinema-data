@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4309242
   imdb: tt0082785
   youtube: 6r8uSBDqQno
+  tmdb: 159996
 sources:
 - https://www.wikidata.org/wiki/Q4309242
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 studio:
 - ekran
+poster_tmdb_path: /5Nbk4KNqscNm4bNo0F0yd4wzatR.jpg
+backdrop_tmdb_path: /6u2utc6uurrwLPLMsvDBsh43Bd0.jpg

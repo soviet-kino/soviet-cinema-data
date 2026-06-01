@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q49615014
   imdb: tt1298766
+  tmdb: 501037
 sources:
 - https://www.wikidata.org/wiki/Q49615014
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - lents-yurgen
 composer:
 - fisher-gyunter
+poster_tmdb_path: /qe6k8XQVwR9ZSiymsMXuWMI7eKd.jpg

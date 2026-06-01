@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461559
   imdb: tt0078518
+  tmdb: 503924
 sources:
 - https://www.wikidata.org/wiki/Q25461559
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - dragovan-yovanovich
 cast:
 - person: aleksander-czajczynski
+poster_tmdb_path: /tnjkzwW8cqBdxAv7nFbaG3Hf7bt.jpg

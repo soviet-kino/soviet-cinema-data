@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2597421
   imdb: tt0017007
   youtube: KqTZ3xxNZhQ
+  tmdb: 189512
 sources:
 - https://www.wikidata.org/wiki/Q2597421
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Ягідки кохання, афіша.jpg
+poster_tmdb_path: /vdrpEgofKuuwLckcXyqmY85UEPU.jpg
+backdrop_tmdb_path: /6XFYf2BqI8pe2rt29otNBSCbdW1.jpg

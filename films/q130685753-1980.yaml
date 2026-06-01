@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q130685753
   imdb: tt0183870
+  tmdb: 432324
 sources:
 - https://www.wikidata.org/wiki/Q130685753
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: pribil-jindrich
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /5h2eI23h8nXYIxCBwzucGAaQx7T.jpg
+backdrop_tmdb_path: /9rWQ0cgB8P6XjFTtgxtl1hhFG8v.jpg

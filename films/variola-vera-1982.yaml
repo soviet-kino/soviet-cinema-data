@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q7915927
   imdb: tt0083275
+  tmdb: 129828
 sources:
 - https://www.wikidata.org/wiki/Q7915927
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 studio:
 - kroatiya-film
 - art-film-80
+poster_tmdb_path: /s2Ju2jDTIxO8ya83EWsTiuVm5uI.jpg
+backdrop_tmdb_path: /yFlCLzoNVQouBCMb6cesGDcsuDa.jpg

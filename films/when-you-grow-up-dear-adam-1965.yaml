@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q2559549
   imdb: tt0059900
+  tmdb: 292473
 sources:
 - https://www.wikidata.org/wiki/Q2559549
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: perten-khans-anselm
 - person: danegger-matilda
 - person: greeze-volfgang
+poster_tmdb_path: /nrVv0B2idMRwzQFlERPZspBFwZA.jpg
+backdrop_tmdb_path: /m49APjZ8m8CgQoYlTccZSODLbLj.jpg

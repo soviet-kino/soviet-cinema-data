@@ -8,9 +8,11 @@ runtime_min: 66
 external_ids:
   wikidata: Q6004815
   imdb: tt0322726
+  tmdb: 450390
 sources:
 - https://www.wikidata.org/wiki/Q6004815
 schema_version: 1
 director:
 - mettsig-kurt
 - pappe-feodor
+poster_tmdb_path: /A6mMa3ZA3IcjHX03viv9LLs9dEt.jpg

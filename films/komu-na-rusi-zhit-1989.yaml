@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4230309
   imdb: tt0311409
   youtube: AR_OxJwoDy4
+  tmdb: 621143
 sources:
 - https://www.wikidata.org/wiki/Q4230309
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: ekaterinichev-ivan-fyodorovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /5ODQQGAGWBHAv5a2ygyTDfKxmeK.jpg
+backdrop_tmdb_path: /uWwBqSR2mKP4gmGPAvviWjm1ufp.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q921494
   imdb: tt0062995
+  tmdb: 157964
 sources:
 - https://www.wikidata.org/wiki/Q921494
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kozak-andrash
 - person: balint-andrash
 - person: balazhovits-layosh
+poster_tmdb_path: /70j0eVfsCoQrieKDJQwMXsjVYXk.jpg
+backdrop_tmdb_path: /3VwxL9O2VEhg3ybZNcwmxgiUyFT.jpg

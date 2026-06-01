@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21639048
   imdb: tt0095056
+  tmdb: 896680
 sources:
 - https://www.wikidata.org/wiki/Q21639048
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: migitsko-sergey
 studio:
 - mosfilm
+poster_tmdb_path: /jKx3grYdTih6QnglKU5BYS59UlF.jpg

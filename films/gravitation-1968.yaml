@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q3506332
   imdb: tt0183135
+  tmdb: 283435
 sources:
 - https://www.wikidata.org/wiki/Q3506332
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: sherbedzhiya-rade
 - person: sovagovic-fabijan
 - person: mustafa-nadarevich
+poster_tmdb_path: /eAhvkdrTKabh2rGmP65sKVwWT8R.jpg

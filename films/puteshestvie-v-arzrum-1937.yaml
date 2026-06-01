@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q16689633
   imdb: tt0163792
+  tmdb: 1071293
 sources:
 - https://www.wikidata.org/wiki/Q16689633
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: zhuravlyov-dmitriy-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /zY1SSQjW3weAzUNuil1a4keGm4R.jpg
+backdrop_tmdb_path: /azDdeXUSfSvZc5JxUbXgMv2NOvk.jpg

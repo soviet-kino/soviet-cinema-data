@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4345765
   imdb: tt0062097
   youtube: 0rk-W_Sigdo
+  tmdb: 536164
 sources:
 - https://www.wikidata.org/wiki/Q4345765
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nakhapetov-rodion-rafailovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /3Zz4ygVe71echo854vm8AX6AXmK.jpg
+backdrop_tmdb_path: /m0PT3G3SbIhEEc4EjZHpW4MFgwz.jpg

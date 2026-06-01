@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12173964
   imdb: tt0201345
   youtube: KQI9wgDj_eY
+  tmdb: 448050
 sources:
 - https://www.wikidata.org/wiki/Q12173964
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - mosfilm
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /pLcUzjKeEyH9ROyqG14ViqQCaD3.jpg
+backdrop_tmdb_path: /wBrrpG55kbmzml9AeK8ItuZsSJC.jpg

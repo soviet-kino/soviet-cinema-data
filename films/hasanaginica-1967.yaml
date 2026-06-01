@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q16761364
   imdb: tt0181572
+  tmdb: 502307
 sources:
 - https://www.wikidata.org/wiki/Q16761364
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: rade-markovich
 - person: bashich-relya
 - person: milena-dravich
+poster_tmdb_path: /qhL38JK5oqY0rJ0wd51jjnHzVdg.jpg
+backdrop_tmdb_path: /pqLiVk91HllnmuPy4MIqbqyc4xU.jpg

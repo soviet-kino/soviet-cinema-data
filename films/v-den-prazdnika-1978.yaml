@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4101686
   imdb: tt0176277
+  tmdb: 628778
 sources:
 - https://www.wikidata.org/wiki/Q4101686
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: sadalskiy-stanislav-yurevich
 - person: pastukhov-nikolay-isaakovich
+poster_tmdb_path: /5A5rHkLBykkcBqkqhTOUVZXl7Wc.jpg
+backdrop_tmdb_path: /p6IhRHvTqUmjTnpAL3BCtSDqvlF.jpg

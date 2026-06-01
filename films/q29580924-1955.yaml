@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q29580924
   imdb: tt0264431
+  tmdb: 435093
 sources:
 - https://www.wikidata.org/wiki/Q29580924
 schema_version: 1
 director:
 - yakob-mikhay
+poster_tmdb_path: /z06vPXg0N3BOrQBuF1UwEnDVnxD.jpg

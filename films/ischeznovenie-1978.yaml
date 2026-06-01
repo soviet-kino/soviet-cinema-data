@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4205181
   imdb: tt0370785
   youtube: WhkGBwlv7as
+  tmdb: 131189
 sources:
 - https://www.wikidata.org/wiki/Q4205181
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: saveleva-lyudmila-mikhaylovna
+poster_tmdb_path: /P82wh9oDwFToPW5ZTGoUl3K4sP.jpg

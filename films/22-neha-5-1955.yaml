@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q55740026
   imdb: tt0047158
+  tmdb: 333143
 sources:
 - https://www.wikidata.org/wiki/Q55740026
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: zarey-marta
 - person: gyurkovics-zsuzsa
 - person: holl-istvan
+poster_tmdb_path: /cRCnzgMoZXmfHr43XtGxu1RINzb.jpg
+backdrop_tmdb_path: /peNEfuT7wa5fNOmk4LdCnlZ7MU5.jpg

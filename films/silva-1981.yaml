@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q4419339
   imdb: tt0237742
+  tmdb: 245277
 sources:
 - https://www.wikidata.org/wiki/Q4419339
 schema_version: 1
+poster_tmdb_path: /hIKVyd0irm9Ipd0vufsH4PzHhcs.jpg
+backdrop_tmdb_path: /uuVU3CwKkbJQJA0pHVTjyN3tkwA.jpg

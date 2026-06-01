@@ -8,6 +8,7 @@ runtime_min: 36
 external_ids:
   wikidata: Q4497894
   imdb: tt6620158
+  tmdb: 312164
 sources:
 - https://www.wikidata.org/wiki/Q4497894
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: telegina-valentina-petrovna
 studio:
 - lenfilm
+poster_tmdb_path: /s7W8otTQp27SLV33XTawEOYOLvH.jpg

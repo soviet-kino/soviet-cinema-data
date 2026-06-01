@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750765
   imdb: tt0179760
+  tmdb: 359953
 sources:
 - https://www.wikidata.org/wiki/Q12750765
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: lupa-peter
 - person: burdus-jovan-janicijevic
 - person: nadezhda-vukichevich
+poster_tmdb_path: /pkRTOn0oYLbTYA84mSWTVfQVj58.jpg

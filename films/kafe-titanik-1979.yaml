@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q2414765
   imdb: tt0135804
+  tmdb: 49129
 sources:
 - https://www.wikidata.org/wiki/Q2414765
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: diklich-bogdan
 - person: boro-stepanovich
 - person: gucevac-ranko
+poster_tmdb_path: /yIdsVT5NlH9avuAecwxemwDIOp5.jpg

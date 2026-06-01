@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q9261073
   imdb: tt0347007
+  tmdb: 587555
 sources:
 - https://www.wikidata.org/wiki/Q9261073
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: dzhuvani-luiza
 - person: ksepa-ndrikim
 - person: arbana-reshat
+poster_tmdb_path: /jFEJoGi0KbgpUddVmuQ3lsHLFLN.jpg
+backdrop_tmdb_path: /l8ZCUn2Pk2vz4Zw1dBpJl5LmmIY.jpg

@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q1215057
   imdb: tt0290247
+  tmdb: 298515
 sources:
 - https://www.wikidata.org/wiki/Q1215057
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: ulrikh-rudolf
 - person: lirk-verner
 - person: klas-ioganna
+poster_tmdb_path: /fm6qHpkv3QJtiN04yqcESV0jPJv.jpg

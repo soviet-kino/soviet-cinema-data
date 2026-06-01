@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q1183259
   imdb: tt0082254
+  tmdb: 283043
 sources:
 - https://www.wikidata.org/wiki/Q1183259
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: yellinek-uve
 - person: dayss-viktor
 - person: gottschalk-joachim
+poster_tmdb_path: /7S9bBQX3gm4WqVEz8XBDaoxgOr6.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4410888
   imdb: tt1718910
   youtube: mRqx9bal2eI
+  tmdb: 471137
 sources:
 - https://www.wikidata.org/wiki/Q4410888
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - zatsepin-aleksandr
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mbEwlQKfPcSDqlAJ1QJYi3UIdGT.jpg
+backdrop_tmdb_path: /euwJgnMFs55x5rk1XAMJrA5RnGO.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q38805384
   imdb: tt0074448
+  tmdb: 247112
 sources:
 - https://www.wikidata.org/wiki/Q38805384
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: pavlicek-eduard
 - person: q131918294
 - person: niubo-claudi
+poster_tmdb_path: /i8AKcuhnSzXvoKwRdbntMTYJPEN.jpg
+backdrop_tmdb_path: /fIEDeXQn2541tjkxvIZn58FIJZP.jpg

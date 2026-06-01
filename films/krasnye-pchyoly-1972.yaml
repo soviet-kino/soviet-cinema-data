@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q28016446
   imdb: tt1673596
+  tmdb: 889740
 sources:
 - https://www.wikidata.org/wiki/Q28016446
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: fedortsov-nikolay-pavlovich
 - person: shtil-georgiy
 - person: devyatkin-mikhail-konstantinovich
+poster_tmdb_path: /jkvbQECN9gSFuRIwGPAUFMdxTkY.jpg
+backdrop_tmdb_path: /nM5W0nUCNbIOZ20LdqbYK1oYt4H.jpg

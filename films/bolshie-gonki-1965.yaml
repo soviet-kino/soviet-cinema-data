@@ -17,6 +17,7 @@ soviet_release:
 external_ids:
   wikidata: Q304366
   imdb: tt0059243
+  tmdb: 11575
 sources:
 - https://www.wikidata.org/wiki/Q304366
 schema_version: 1
@@ -53,3 +54,5 @@ studio:
 - warner-bros
 - q65557474
 poster_commons: Natalie Wood The Great Race 1966 Paris.jpg
+poster_tmdb_path: /j8WbYcSvJo9E7PAyWBstjuzIRtR.jpg
+backdrop_tmdb_path: /vga7453tBLXDqxeTV2IGUpVgIgk.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q2813396
   imdb: tt0185134
+  tmdb: 82528
 sources:
 - https://www.wikidata.org/wiki/Q2813396
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: gensbur-serzh
 - person: birkin-dzheyn
 - person: rozin-shpela
+poster_tmdb_path: /yj33yBGh60EJmTTdHibU522kytX.jpg
+backdrop_tmdb_path: /lCc4xIvWbBU0q8Ewghyi5cF42gi.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q6591617
   imdb: tt0174067
+  tmdb: 199477
 sources:
 - https://www.wikidata.org/wiki/Q6591617
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: ajvaz-milan
 - person: tsrnobori-mariya
 - person: starcic-viktor
+poster_tmdb_path: /1Syn0AgoLMnUVbsWCYHurBNgj5v.jpg

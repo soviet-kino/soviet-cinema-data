@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q9355884
   imdb: tt0296233
+  tmdb: 478890
 sources:
 - https://www.wikidata.org/wiki/Q9355884
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: mujo-yllka
 - person: zhusti-viktor
 - person: kokona-donald
+poster_tmdb_path: /zdaFDtFaWTDss5pXjatJiANXVMZ.jpg
+backdrop_tmdb_path: /1yfXwPcNuBJJjQqpk77JVNBplSk.jpg

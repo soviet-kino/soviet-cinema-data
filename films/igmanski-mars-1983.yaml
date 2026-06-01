@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q3442965
   imdb: tt0085713
+  tmdb: 183078
 sources:
 - https://www.wikidata.org/wiki/Q3442965
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: miodrag-krstovich
 - person: arsic-tihomir
 - person: ivkovic-lepomir
+poster_tmdb_path: /w6U9pa9kV8fdZTu08AVW2nsDjPm.jpg

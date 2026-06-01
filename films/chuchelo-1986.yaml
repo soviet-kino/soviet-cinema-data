@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2530123
   imdb: tt0085335
   youtube: eHExiCW1mLc
+  tmdb: 63573
 sources:
 - https://www.wikidata.org/wiki/Q2530123
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kryuchkova-svetlana
 studio:
 - mosfilm
+poster_tmdb_path: /9fo2ajqRQw227TWKFWccsTLdSxr.jpg
+backdrop_tmdb_path: /kQsyZobiWJUmGv4Mu6bpsWC5SAO.jpg

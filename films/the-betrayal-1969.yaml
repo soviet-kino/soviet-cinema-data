@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q5506648
   imdb: tt0064350
+  tmdb: 85617
 sources:
 - https://www.wikidata.org/wiki/Q5506648
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: bizakko-roberto
 - person: elich-milan
 - person: novelli-mario
+poster_tmdb_path: /9WnXPJzedNcIeoLMtovpJBRHf9z.jpg
+backdrop_tmdb_path: /pLg1W0Lg9hsBSOJ6izT7DV0r1iY.jpg

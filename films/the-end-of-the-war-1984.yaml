@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q12754178
   imdb: tt0126283
+  tmdb: 259009
 sources:
 - https://www.wikidata.org/wiki/Q12754178
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: zvonce-slavoljub-plavsic
 - person: kandich-milosh
 - person: vladan-zhivkovich
+poster_tmdb_path: /vO2hhz1Hbacyd557F9BmqUjj7hH.jpg
+backdrop_tmdb_path: /3lRnZW4zO3TIo6cfbJCofO3aiYy.jpg

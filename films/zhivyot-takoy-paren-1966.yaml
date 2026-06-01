@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3540877
   imdb: tt0058771
   youtube: -YV-Q8FkFPo
+  tmdb: 91282
 sources:
 - https://www.wikidata.org/wiki/Q3540877
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: trusov-arkadiy-vasilevich
 - person: fedortsov-nikolay-pavlovich
 - person: teterin-evgeniy-efimovich
+poster_tmdb_path: /a10TjgBIcVcTq6njSg5ipLjnvrO.jpg
+backdrop_tmdb_path: /7Imfkt1HjIaKod8kcjjqLfmwgt.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3204601
   imdb: tt0056721
+  tmdb: 259077
 sources:
 - https://www.wikidata.org/wiki/Q3204601
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: kalinovskiy-tadeush
 - person: kovalskiy-vladislav
 - person: litvin-kshishtof
+poster_tmdb_path: /xsj2m1ecQbiYzN1c1qL3xjnwJtV.jpg
+backdrop_tmdb_path: /u3pWKT2Eu3WykeUNTkfilW5B23B.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q11783678
   imdb: tt0057306
+  tmdb: 919690
 sources:
 - https://www.wikidata.org/wiki/Q11783678
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: fabisyak-kazimezh
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /ocJyFoyADYrKURymuDZdpV9AQbb.jpg

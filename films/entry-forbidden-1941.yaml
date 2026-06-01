@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q123367964
   imdb: tt0123445
+  tmdb: 551087
 sources:
 - https://www.wikidata.org/wiki/Q123367964
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 cast:
 - person: latabar-kalman
 - person: simor-erzsi
+poster_tmdb_path: /bzqfJLXfUvJCaZ9LipwJFal9WBG.jpg

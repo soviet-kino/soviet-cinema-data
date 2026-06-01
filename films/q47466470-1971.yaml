@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q47466470
   imdb: tt0065945
+  tmdb: 286763
 sources:
 - https://www.wikidata.org/wiki/Q47466470
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: oszter-sandor
 - person: lendvai-katalin
+poster_tmdb_path: /jHZNbnoHYxtZgxOWrYqVIGzoKeD.jpg

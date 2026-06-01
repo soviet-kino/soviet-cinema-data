@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4310917
   imdb: tt0063333
   youtube: nw37cxYdrek
+  tmdb: 89226
 sources:
 - https://www.wikidata.org/wiki/Q4310917
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kononov-mikhail-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /qt5TOE4V0xil0fu7YpMXjz05Vqs.jpg
+backdrop_tmdb_path: /lpUJ3KcNRjqJWwTzvyGbI5t4dRn.jpg

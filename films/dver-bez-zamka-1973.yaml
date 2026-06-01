@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4155687
   imdb: tt0383332
+  tmdb: 617698
 sources:
 - https://www.wikidata.org/wiki/Q4155687
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: gurchenko-lyudmila
 - person: prokhorenko-zhanna-trofimovna
 - person: kamornyy-yuriy-yurevich
+poster_tmdb_path: /9ZB4zwMmQH7WeuBzxplcUYYGYJe.jpg

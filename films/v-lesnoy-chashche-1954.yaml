@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4101721
   imdb: tt4338874
+  tmdb: 431886
 sources:
 - https://www.wikidata.org/wiki/Q4101721
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - voinov-nikolay-vasilevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /r4wd79e9BSloLff1TBbIov6G6Qy.jpg
+backdrop_tmdb_path: /8DgwVJzCDM8M8qvzFZIE8EZWG7N.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q42342986
   imdb: tt0360213
+  tmdb: 671521
 sources:
 - https://www.wikidata.org/wiki/Q42342986
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: fayek-hassan
 - person: taher-laila
 - person: din-mohammed-dia-al
+poster_tmdb_path: /87R3NqKZSSW6fSFpyp5wtrVtBg1.jpg

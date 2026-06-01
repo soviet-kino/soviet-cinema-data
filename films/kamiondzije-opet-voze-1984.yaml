@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q12752538
   imdb: tt0179918
+  tmdb: 263964
 sources:
 - https://www.wikidata.org/wiki/Q12752538
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: burdus-jovan-janicijevic
 - person: jovanovic-borivoje
 - person: puzich-milan
+poster_tmdb_path: /oRHUMAXuVFofLLHKQvFuN5UVgWY.jpg

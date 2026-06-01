@@ -8,6 +8,7 @@ runtime_min: 160
 external_ids:
   wikidata: Q4189412
   imdb: tt0073933
+  tmdb: 73546
 sources:
 - https://www.wikidata.org/wiki/Q4189412
 schema_version: 1
@@ -71,3 +72,5 @@ cast:
 - person: matveev-ivan
 - person: timofeeva-tamara
 - person: bessonov-dmitriy-sergeevich
+poster_tmdb_path: /blaaVo0iqSSyrnzeonmcHJxmjPz.jpg
+backdrop_tmdb_path: /2bXRugVnQsAvyD7iiNe0B3BGkU0.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21498245
   imdb: tt0076577
+  tmdb: 792469
 sources:
 - https://www.wikidata.org/wiki/Q21498245
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - pindelski-stefan
 composer:
 - kilyar-voytsekh
+poster_tmdb_path: /zeVI9NqYAAfZzhzmTSBNMoNuLta.jpg

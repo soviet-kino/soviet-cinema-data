@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4535740
   imdb: tt4000992
+  tmdb: 999200
 sources:
 - https://www.wikidata.org/wiki/Q4535740
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: shakurov-sergey-kayumovich
 - person: zubkov-valentin-ivanovich
 - person: grammatikov-vladimir-aleksandrovich
+poster_tmdb_path: /tFGQ1tM8jnPQhH5qsCltaIry1mq.jpg

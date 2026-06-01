@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2369847
   imdb: tt0056045
   youtube: 929O4WzLRDg
+  tmdb: 63304
 sources:
 - https://www.wikidata.org/wiki/Q2369847
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: yavorskiy-feliks-leonidovich
 - person: khodurskiy-antoniy-martselevich
 - person: koltsov-viktor-grigorevich
+poster_tmdb_path: /4Bzy43hgPcFKF4OYH5ih3Jrzadn.jpg
+backdrop_tmdb_path: /1eA14ee9HceViYc2vHe5e7T8HAK.jpg

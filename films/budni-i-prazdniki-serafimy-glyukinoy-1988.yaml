@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4098141
   imdb: tt1407957
   youtube: gQzar0zXFlM
+  tmdb: 663842
 sources:
 - https://www.wikidata.org/wiki/Q4098141
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: freyndlikh-alisa
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /uLpN1ph0LYkKsswBCv8CYL0XFUC.jpg
+backdrop_tmdb_path: /gce9VjMKtCj5zrKkapgNqX837uU.jpg

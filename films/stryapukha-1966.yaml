@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4444445
   imdb: tt0059762
   youtube: RLwSgGffn4w
+  tmdb: 143073
 sources:
 - https://www.wikidata.org/wiki/Q4444445
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: sorokin-konstantin-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /swn1d0rn3rQqVUbxz7ke33qvTw1.jpg
+backdrop_tmdb_path: /fBYQCnAsPFPWSxlUmrfLJ8wDe3V.jpg

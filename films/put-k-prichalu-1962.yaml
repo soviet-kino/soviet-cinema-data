@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4251681
   imdb: tt0123232
   youtube: HhIco19wK4g
+  tmdb: 27921
 sources:
 - https://www.wikidata.org/wiki/Q4251681
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: zhakov-oleg-petrovich
 studio:
 - mosfilm
+poster_tmdb_path: /wdBkqr7DMHy6bHhrchTdKx7IPC0.jpg
+backdrop_tmdb_path: /yUGWKrYd9S9ZOZHZGTQG5iOgfbx.jpg

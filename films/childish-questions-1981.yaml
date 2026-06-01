@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9248338
   imdb: tt0082304
+  tmdb: 156611
 sources:
 - https://www.wikidata.org/wiki/Q9248338
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: tronski-marcin
 - person: konarowski-miros-aw
 - person: q119882583
+poster_tmdb_path: /xQuxVGwWiFlKSkDsvuzRepNPBg8.jpg
+backdrop_tmdb_path: /1Oub2DD8EupOJ7S5rYeRdwgWILQ.jpg

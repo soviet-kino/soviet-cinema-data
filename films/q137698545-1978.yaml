@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q137698545
   imdb: tt0076690
+  tmdb: 279542
 sources:
 - https://www.wikidata.org/wiki/Q137698545
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: kazdova-hana
 - person: vnukova-milada
 - person: bauerova-renata
+poster_tmdb_path: /u5FUQYb6oJeYwEwjO8Ohojh8oMe.jpg
+backdrop_tmdb_path: /fMReiEqeDTsMEX3GdRkWMAnRzUE.jpg

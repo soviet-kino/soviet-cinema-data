@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4373858
   imdb: tt0028131
   youtube: vOGcZEMxoHw
+  tmdb: 262881
 sources:
 - https://www.wikidata.org/wiki/Q4373858
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Кадр из фильма «Последняя ночь» (СССР, 1936).jpg
+poster_tmdb_path: /7r42jCzJ0D78YI1kldv59QKxjyX.jpg
+backdrop_tmdb_path: /mHGvfh3HXJ8OXY3FPcryLtItbxw.jpg

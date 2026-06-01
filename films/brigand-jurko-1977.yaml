@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q12779322
   imdb: tt1408117
+  tmdb: 481312
 sources:
 - https://www.wikidata.org/wiki/Q12779322
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kubal-viktor
 composer:
 - lexmann-juraj
+poster_tmdb_path: /7xitXMQRuHF03snLTNQ7astdwun.jpg
+backdrop_tmdb_path: /1hcLRXREVJBu47tTWSaiNln40ut.jpg

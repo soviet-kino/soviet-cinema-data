@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1198562
   imdb: tt0059593
+  tmdb: 198822
 sources:
 - https://www.wikidata.org/wiki/Q1198562
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: lubelski-zdzis-aw
 - person: shimanskiy-zdzislav
 - person: shimborskiy-zdzislav
+poster_tmdb_path: /28403GuYnjG3YnRyKp4QF1UcfAv.jpg
+backdrop_tmdb_path: /h1AlbU2fDC9cHFkjSa05eJLvWpf.jpg

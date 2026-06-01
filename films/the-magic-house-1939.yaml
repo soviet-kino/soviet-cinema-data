@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q19364270
   imdb: tt0175825
+  tmdb: 281846
 sources:
 - https://www.wikidata.org/wiki/Q19364270
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: tryzna-jaroslav
 - person: vasatkova-asa
 - person: suldovsky-vaclav
+poster_tmdb_path: /dxOGIrM3tGHAGWREbKVw8LfCGCS.jpg

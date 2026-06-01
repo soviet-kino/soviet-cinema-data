@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4031556
   imdb: tt0166942
   youtube: FTQvPceTO5A
+  tmdb: 1010338
 sources:
 - https://www.wikidata.org/wiki/Q4031556
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: netrebin-daniil-matveevich
 - person: filippov-roman-sergeevich
 - person: filippov-viktor-sergeevich
+poster_tmdb_path: /uzfzI5I7CbgQxRS9I7EBdChnHG4.jpg
+backdrop_tmdb_path: /8ICk7slBcDJ8JiGd7xgW5BqzcEZ.jpg

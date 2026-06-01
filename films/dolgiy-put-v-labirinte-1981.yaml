@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4164505
   imdb: tt5545572
   youtube: Dk4FW8rYsrU
+  tmdb: 634420
 sources:
 - https://www.wikidata.org/wiki/Q4164505
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: mirgorodskiy-dmitriy
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /d6F4aqMzXojr2dhLa9aaizngsa0.jpg
+backdrop_tmdb_path: /mznY2OhE9EIuNoRSZirpunhFLcr.jpg

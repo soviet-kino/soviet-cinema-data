@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4158158
   imdb: tt0391920
+  tmdb: 554684
 sources:
 - https://www.wikidata.org/wiki/Q4158158
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: khomyatov-roman-zakharevich
 - person: gnepovskaya-neonila-fyodorovna
 - person: vasilev-mikhail-pavlovich
+poster_tmdb_path: /9GRwCpd5rS48z6q687FwqxUcP4Y.jpg
+backdrop_tmdb_path: /vX1CEIOCUc02cBwLysIWiPZqq2u.jpg

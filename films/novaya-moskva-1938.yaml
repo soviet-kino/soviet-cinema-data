@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4322201
   imdb: tt0174990
   youtube: zwd6kERtmFA
+  tmdb: 262882
 sources:
 - https://www.wikidata.org/wiki/Q4322201
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: New Moscow.jpg
+poster_tmdb_path: /10u8JrSuhmuuR5mgrNDgQhoSYhN.jpg
+backdrop_tmdb_path: /1a73oSJRnMONOKO9aJUOzXJbRFt.jpg

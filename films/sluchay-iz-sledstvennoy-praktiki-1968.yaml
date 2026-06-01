@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86673571
   imdb: tt5077564
   youtube: 9wctn5SqRDI
+  tmdb: 397200
 sources:
 - https://www.wikidata.org/wiki/Q86673571
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kovalyov-aleksey-leonidovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /fgu3f8zONndPyMUBKkBHoSuEYtg.jpg

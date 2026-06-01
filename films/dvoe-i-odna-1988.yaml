@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155790
   imdb: tt0305503
   youtube: AOP1Mcew7qg
+  tmdb: 554682
 sources:
 - https://www.wikidata.org/wiki/Q4155790
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - shcherbakova-galina-nikolaevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zv8km5WKZXOrBrZim7SjP78Pnzq.jpg
+backdrop_tmdb_path: /pOccg57gcKMd2R3ocdCl5FEKaI6.jpg

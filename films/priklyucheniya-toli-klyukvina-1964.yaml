@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378438
   imdb: tt0058491
   youtube: qnHgN6msIR8
+  tmdb: 303175
 sources:
 - https://www.wikidata.org/wiki/Q4378438
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: grebeshkova-nina
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /tLfPAUQnTa6JHmOJlPyiPRdCKDY.jpg
+backdrop_tmdb_path: /lEdsQlnPlFl73tfGPzvytnJgrg8.jpg

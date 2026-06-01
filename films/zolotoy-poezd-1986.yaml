@@ -8,6 +8,7 @@ runtime_min: 146
 external_ids:
   wikidata: Q4193541
   imdb: tt0094381
+  tmdb: 419431
 sources:
 - https://www.wikidata.org/wiki/Q4193541
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: danilesku-konstantin
 - person: flonda-virgil
 - person: teodosiyu-valentin
+poster_tmdb_path: /sJzqNF08bJb741sWA2j1wNqLIXT.jpg
+backdrop_tmdb_path: /xnEfLgOxIHK7NQ5sYa2ddRp6j1q.jpg

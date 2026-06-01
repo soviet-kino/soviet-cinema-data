@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q620231
   imdb: tt0168269
   youtube: iZ1m1nxLGbs
+  tmdb: 42651
 sources:
 - https://www.wikidata.org/wiki/Q620231
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Yanina Zheymo Zolushka.JPG
+poster_tmdb_path: /ygRrn9QEgH0XlhjGaSUUuH0l8lN.jpg
+backdrop_tmdb_path: /zM0bkuDgERSRkbbnVC8HLnM9vRV.jpg

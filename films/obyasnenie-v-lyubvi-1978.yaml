@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17431067
   imdb: tt0076483
   youtube: u5LA-NlOAMw
+  tmdb: 94700
 sources:
 - https://www.wikidata.org/wiki/Q17431067
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: shikulskaya-eva
 studio:
 - lenfilm
+poster_tmdb_path: /zlTmq9D9nfmxgi5pYLb1l2ljrv6.jpg
+backdrop_tmdb_path: /yjCmjqYGo0gUp9IWzX4CLHbJMOD.jpg

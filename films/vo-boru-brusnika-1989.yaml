@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65208270
   imdb: tt3003670
   youtube: 5CfXPCqAq8I
+  tmdb: 1231357
 sources:
 - https://www.wikidata.org/wiki/Q65208270
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 studio:
 - sverdlovskaya-kinostudiya
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /saQeM4lo28160FRbhTlAgtKLZoG.jpg
+backdrop_tmdb_path: /bSZ9hsLk913Ay4022NmpIpZolw2.jpg

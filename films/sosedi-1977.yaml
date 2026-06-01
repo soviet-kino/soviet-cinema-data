@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55518132
   imdb: tt0814599
+  tmdb: 1427000
 sources:
 - https://www.wikidata.org/wiki/Q55518132
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - lavrelashvili-gavriil-davidovich
 studio:
 - gruziya-film
+poster_tmdb_path: /8RJTmP3jyba1glGboWjnRvvo8ht.jpg
+backdrop_tmdb_path: /3YDdkMYqMnjEGRQHxYOaBEDK9qV.jpg

@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q31184401
   imdb: tt2952098
+  tmdb: 1199093
 sources:
 - https://www.wikidata.org/wiki/Q31184401
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: bonacci-branko
 studio:
 - radio-i-televidenie-khorvatii
+poster_tmdb_path: /rYRGQIzxd5LwfvVzMqi7vvFWjUC.jpg

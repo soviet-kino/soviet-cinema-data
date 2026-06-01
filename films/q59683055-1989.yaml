@@ -8,8 +8,10 @@ runtime_min: 94
 external_ids:
   wikidata: Q59683055
   imdb: tt0097494
+  tmdb: 661762
 sources:
 - https://www.wikidata.org/wiki/Q59683055
 schema_version: 1
 director:
 - gardosh-peter
+poster_tmdb_path: /64shSyvJS9biGhTN4LTeMbRm8EU.jpg

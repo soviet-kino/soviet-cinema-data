@@ -8,6 +8,7 @@ runtime_min: 147
 external_ids:
   wikidata: Q10548680
   imdb: tt0059884
+  tmdb: 147371
 sources:
 - https://www.wikidata.org/wiki/Q10548680
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: gubanova-irina-igorevna
 - person: smirnov-boris-aleksandrovich
 - person: firsova-dzhemma-sergeevna
+poster_tmdb_path: /bDmHZhKzmMGZZmfLm1BxiTEyAvo.jpg
+backdrop_tmdb_path: /xPW7hyo8L42cXuooxoyhEbvjW1U.jpg

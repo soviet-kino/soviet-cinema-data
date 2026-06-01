@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4279618
   imdb: tt2395317
+  tmdb: 463653
 sources:
 - https://www.wikidata.org/wiki/Q4279618
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - pauls-raymond
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /kqlqX4M0HfQcOXeLkNWUG2NCG3D.jpg
+backdrop_tmdb_path: /nRYl2RlL58QgeIfRwFhsgIcYpX7.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4381447
   imdb: tt0095919
   youtube: fP5JHKz4KRs
+  tmdb: 1440259
 sources:
 - https://www.wikidata.org/wiki/Q4381447
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - sidelnikov-nikolay-nikolaevich
 studio:
 - ekran
+poster_tmdb_path: /hHzyLAzLNNYO2sWYwVDy5zuqjS9.jpg
+backdrop_tmdb_path: /OLP8xY4QjuUjpu4nDg58EWcKcD.jpg

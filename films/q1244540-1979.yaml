@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q1244540
   imdb: tt0396831
+  tmdb: 692728
 sources:
 - https://www.wikidata.org/wiki/Q1244540
 schema_version: 1
 director:
 - markos-miklos
+poster_tmdb_path: /oznTzFXzKSjueRSGTq1QM4gSm58.jpg

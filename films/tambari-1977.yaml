@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1663547
   imdb: tt0076795
+  tmdb: 412039
 sources:
 - https://www.wikidata.org/wiki/Q1663547
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: markvardt-frits
 - person: byove-kurt
 - person: dommish-peter
+poster_tmdb_path: /yZplxNwekdZw0ao2bzBBwTqps0u.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q116865202
   imdb: tt0307061
   youtube: _2ngbiI--KI
+  tmdb: 533483
 sources:
 - https://www.wikidata.org/wiki/Q116865202
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - ekran
+poster_tmdb_path: /zgm0Wspsyp7XCHYkErecil2btIv.jpg
+backdrop_tmdb_path: /qfAuPOTbVjCFLA75tLGBS1Gajen.jpg

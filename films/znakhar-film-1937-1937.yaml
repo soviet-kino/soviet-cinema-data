@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q8073125
   imdb: tt0031008
+  tmdb: 293920
 sources:
 - https://www.wikidata.org/wiki/Q8073125
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: bridzinskiy-voytsekh
 - person: vengzhin-yuzef
 poster_commons: Фильм Знахарь 1937.jpg
+poster_tmdb_path: /in2xvmjkevPEA97SM05VLVo9RbT.jpg

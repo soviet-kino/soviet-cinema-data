@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q4367108
   imdb: tt0190639
+  tmdb: 536471
 sources:
 - https://www.wikidata.org/wiki/Q4367108
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: khamraev-dzhavlon-razzakovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /dz7T4jRRaEP5KvN17lvMHi43MTu.jpg

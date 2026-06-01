@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q12748893
   imdb: tt0173671
+  tmdb: 270723
 sources:
 - https://www.wikidata.org/wiki/Q12748893
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kontic-ljiljana
 - person: pekanats-vesna
 - person: kodzic-mirjana
+poster_tmdb_path: /h6FeXNxgmzjUugosKN6VuDjBqNg.jpg
+backdrop_tmdb_path: /qEVDeCYzToJhPyI09Zf727uRJCV.jpg

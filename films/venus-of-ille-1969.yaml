@@ -8,6 +8,7 @@ runtime_min: 26
 external_ids:
   wikidata: Q9372008
   imdb: tt0933219
+  tmdb: 633803
 sources:
 - https://www.wikidata.org/wiki/Q9372008
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - maevskiy-yanush
 screenwriter:
 - maevskiy-yanush
+poster_tmdb_path: /yJY04Z4DoXoDlXco7TsNCkjwLi7.jpg

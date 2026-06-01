@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1212842
   imdb: tt0079193
   youtube: Xqsa4u00GXM
+  tmdb: 56547
 sources:
 - https://www.wikidata.org/wiki/Q1212842
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Semyon Farada 1979.jpg
+poster_tmdb_path: /6RnHUa3h5Dfe1fRXjdvsJFDaWSO.jpg
+backdrop_tmdb_path: /frnkWiz4yfkQrm4CplhpFSNg2OQ.jpg

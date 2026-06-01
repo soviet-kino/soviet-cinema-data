@@ -8,6 +8,7 @@ runtime_min: 55
 external_ids:
   wikidata: Q4155553
   imdb: tt0019842
+  tmdb: 235590
 sources:
 - https://www.wikidata.org/wiki/Q4155553
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: q135617495
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /40sXDoG0WsryZgBPSYDlLWXBeFx.jpg
+backdrop_tmdb_path: /p0pBC1WgtPsD57SGja4q1PXsRcP.jpg

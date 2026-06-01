@@ -8,8 +8,10 @@ runtime_min: 95
 external_ids:
   wikidata: Q12730216
   imdb: tt0130022
+  tmdb: 465033
 sources:
 - https://www.wikidata.org/wiki/Q12730216
 schema_version: 1
 director:
 - kocha-dinu
+poster_tmdb_path: /hDaSIaK5i3KMu6WZp7ZHsqsWfaL.jpg

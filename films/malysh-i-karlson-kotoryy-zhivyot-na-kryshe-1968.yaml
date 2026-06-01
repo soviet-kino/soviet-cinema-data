@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16673929
   imdb: tt1718829
   youtube: wOFzMaHu5nA
+  tmdb: 417924
 sources:
 - https://www.wikidata.org/wiki/Q16673929
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: radchenko-vladimir-vladimirovich
 studio:
 - teatr-satiry-moskva
+poster_tmdb_path: /l7B4iSWAWhCLAO8fwxmp8YOZE1V.jpg
+backdrop_tmdb_path: /tY4LJF3cT25SONplERK871h9rui.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1520720
   imdb: tt0081142
+  tmdb: 278808
 sources:
 - https://www.wikidata.org/wiki/Q1520720
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: martin-katrin
 - person: uider-teresiya
 - person: greeze-volfgang
+poster_tmdb_path: /7gksMu47FTEtjUFon2Q2rIqLEfp.jpg
+backdrop_tmdb_path: /wyIWLGonXK2wpnA5YGDWkfejkdu.jpg

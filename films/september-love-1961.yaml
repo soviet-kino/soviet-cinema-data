@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17032216
   imdb: tt0054291
+  tmdb: 288826
 sources:
 - https://www.wikidata.org/wiki/Q17032216
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: byurger-annekatrin
 - person: tayn-ulrikh
+poster_tmdb_path: /bi25bRzIu0FnNm3jZ5n7zbc8qxU.jpg

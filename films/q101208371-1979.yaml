@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q101208371
   imdb: tt0297485
+  tmdb: 416613
 sources:
 - https://www.wikidata.org/wiki/Q101208371
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: woldag-roland
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /5FtNAF4doOcmtdlTfmfHXrdQVRP.jpg
+backdrop_tmdb_path: /bgFauo6at6zQYzXUx3Y1QpN6xp5.jpg

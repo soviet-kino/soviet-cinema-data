@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q65200846
   imdb: tt0066303
+  tmdb: 540178
 sources:
 - https://www.wikidata.org/wiki/Q65200846
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - zagorskiy-vasiliy-georgievich
 studio:
 - moldova-film
+poster_tmdb_path: /p53dOXUx3CGk6fKrq3yvTNkNsmK.jpg

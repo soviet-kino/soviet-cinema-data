@@ -16,6 +16,8 @@ external_ids:
   wikidata: Q108759298
   imdb: tt0175288
   youtube: 8ir5T8E0Wo8
+  tmdb: 881692
 sources:
 - https://www.wikidata.org/wiki/Q108759298
 schema_version: 1
+poster_tmdb_path: /pSRFsBJxMmpELHmatG85PlHSbAp.jpg

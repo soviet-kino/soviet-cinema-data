@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q54927752
   imdb: tt0075894
+  tmdb: 691553
 sources:
 - https://www.wikidata.org/wiki/Q54927752
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: oszter-sandor
 - person: molnar-tibor
 - person: telessy-gyorgyi
+poster_tmdb_path: /cXBBQbN1UKQtbCyZzqkFqDQ4JtF.jpg
+backdrop_tmdb_path: /xB9jSRUKR6L4WYIv6OGsnHvs5yB.jpg

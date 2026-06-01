@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q15121173
   imdb: tt0057127
+  tmdb: 294188
 sources:
 - https://www.wikidata.org/wiki/Q15121173
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - pazhtor-ishtvan
 composer:
 - ranki-dyord
+poster_tmdb_path: /aCNnlwjFKCo1G9xle6KgeYNWmJL.jpg

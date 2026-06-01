@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3234385
   imdb: tt0075079
   youtube: PJqpJ0XA_cM
+  tmdb: 48882
 sources:
 - https://www.wikidata.org/wiki/Q3234385
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: volkov-nikolay-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /esWEZreDzIFxOasX1RLPUnI3wfj.jpg
+backdrop_tmdb_path: /o3blKFzFWOZpTkY6MWNTZhjfkcu.jpg

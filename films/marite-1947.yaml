@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q16464062
   imdb: tt0039610
+  tmdb: 943990
 sources:
 - https://www.wikidata.org/wiki/Q16464062
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - dvarionas-balis
 studio:
 - mosfilm
+poster_tmdb_path: /b4QBQs1la7JzAno9Qgq5qaHzyzm.jpg

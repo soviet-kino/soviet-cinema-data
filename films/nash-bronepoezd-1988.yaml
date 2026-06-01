@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16679971
   imdb: tt0126492
+  tmdb: 495169
 sources:
 - https://www.wikidata.org/wiki/Q16679971
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: filippenko-aleksandr-georgievich
 studio:
 - belarusfilm
+poster_tmdb_path: /i1ccqRqLlQEDZiD5iUXN98UNo0.jpg
+backdrop_tmdb_path: /eJWdvBzNT8jUJLh10Lbnil8gf6y.jpg

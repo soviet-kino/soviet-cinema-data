@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2635696
   imdb: tt0060549
   youtube: O6Ab-0yNmYQ
+  tmdb: 91261
 sources:
 - https://www.wikidata.org/wiki/Q2635696
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: savvina-iya-sergeevna
 - person: surin-aleksandr-vladimirovich
+poster_tmdb_path: /lSD150yCfGzXywF7KKqRK7LIKTC.jpg
+backdrop_tmdb_path: /lTN3LGGj5VUEFpruVLHMhXmesyU.jpg

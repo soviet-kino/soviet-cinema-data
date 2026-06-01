@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4166536
   imdb: tt0079067
+  tmdb: 450405
 sources:
 - https://www.wikidata.org/wiki/Q4166536
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mamedova-shafiga-gashim-kyzy
 - person: prudnikova-elena-iosifovna
 - person: ogly-turabov-gasan-sattar
+poster_tmdb_path: /zFuhqwbYOBb7PdT6wepGTKJ235S.jpg
+backdrop_tmdb_path: /9nVZYJqjbsHgdxfDF0yG7ZI7iPf.jpg

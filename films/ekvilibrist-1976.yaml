@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65205821
   imdb: tt2807914
+  tmdb: 1214135
 sources:
 - https://www.wikidata.org/wiki/Q65205821
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - nechaev-leonid-alekseevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /918AJZZeuLtb9guY3C8SiZX0aAM.jpg
+backdrop_tmdb_path: /wPXVVyA2ZfziH4MVbRbOjv9Vh0d.jpg

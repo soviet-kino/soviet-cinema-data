@@ -8,8 +8,10 @@ runtime_min: 101
 external_ids:
   wikidata: Q56399583
   imdb: tt0155296
+  tmdb: 442583
 sources:
 - https://www.wikidata.org/wiki/Q56399583
 schema_version: 1
 director:
 - zhomboyai-yanosh
+poster_tmdb_path: /Afr4gEjRLvSSDJnewUYxohBBP4K.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1964256
   imdb: tt0086089
   youtube: 96b5ljgTsSw
+  tmdb: 265095
 sources:
 - https://www.wikidata.org/wiki/Q1964256
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: grigoriu-grigore-petru
 studio:
 - mosfilm
+poster_tmdb_path: /Agc5JiKMTZBKCIMFqtEFE5snLcR.jpg
+backdrop_tmdb_path: /fofhDhWZfaKTGNqscYeaIiquVTp.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116865019
   imdb: tt0314282
+  tmdb: 1489309
 sources:
 - https://www.wikidata.org/wiki/Q116865019
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - lebedev-aleksandr
 studio:
 - moldova-film
+poster_tmdb_path: /2kSxCHzlBxO2zvSk2sSbbgIVs6z.jpg

@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q111512941
   imdb: tt0275867
+  tmdb: 1215928
 sources:
 - https://www.wikidata.org/wiki/Q111512941
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - nasidze-sulkhan
 studio:
 - gruziya-film
+poster_tmdb_path: /hWmRXhfROrqiEqij1u3e7xZjJaO.jpg
+backdrop_tmdb_path: /6e39SpnRnGywGPzsRuAyokC1MSh.jpg

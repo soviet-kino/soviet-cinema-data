@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q9341385
   imdb: tt0040833
+  tmdb: 713433
 sources:
 - https://www.wikidata.org/wiki/Q9341385
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: buchinskaya-khelena
 - person: vikhnyazh-kazimezh
 poster_commons: Film nr 35 - Irena Laskowska - 1948-02-15.JPG
+poster_tmdb_path: /qwmMaupyBaYpKvRW2j0MzZ3MwSn.jpg
+backdrop_tmdb_path: /4D39wVMYHGLBK1DT1EKKGutotyP.jpg

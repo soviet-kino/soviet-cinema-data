@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1963253
   imdb: tt0151035
+  tmdb: 83235
 sources:
 - https://www.wikidata.org/wiki/Q1963253
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - ioseliani-otar-davidovich
 cast:
 - person: kandelaki-gela
+poster_tmdb_path: /62mjiYyHo7k5Sf8U4OxVLBrGZjz.jpg
+backdrop_tmdb_path: /3e7gmIqphokqp0lagkKEpDybSFX.jpg

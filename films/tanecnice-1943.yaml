@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q106690637
   imdb: tt0170657
+  tmdb: 586616
 sources:
 - https://www.wikidata.org/wiki/Q106690637
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: smolova-helena
 studio:
 - lucernafilm
+poster_tmdb_path: /ab9xkcTMrex2RCv9rDTc5JSRrZA.jpg

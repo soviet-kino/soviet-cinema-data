@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7278565
   imdb: tt2396569
+  tmdb: 1531389
 sources:
 - https://www.wikidata.org/wiki/Q7278565
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: sergeev-nikolay-vasilevich
 - person: popova-varvara-aleksandrovna
 - person: laur-khugo
+poster_tmdb_path: /90D5XQtw7TbS18D9lOxsqkXB8Kj.jpg

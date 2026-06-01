@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4144889
   imdb: tt4000906
+  tmdb: 636786
 sources:
 - https://www.wikidata.org/wiki/Q4144889
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: galkin-boris-sergeevich
 - person: gvozdikova-natalya-fyodorovna
 - person: egorova-nataliya
+poster_tmdb_path: /5tbhH4At8CXWJuawk491lLGu7B9.jpg

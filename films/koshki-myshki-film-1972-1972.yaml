@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1475436
   imdb: tt0068891
+  tmdb: 42485
 sources:
 - https://www.wikidata.org/wiki/Q1475436
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: dayka-margit
 - person: makai-margit
 - person: szilagyi-tibor
+poster_tmdb_path: /j9f8Oz2Gwsi7VvioRcaLiGpcEcB.jpg

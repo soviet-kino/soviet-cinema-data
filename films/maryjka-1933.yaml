@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q118215344
   imdb: tt0025476
+  tmdb: 738268
 sources:
 - https://www.wikidata.org/wiki/Q118215344
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: nowakowska-boryta-jadwiga
 - person: staniewicz-zbigniew
 - person: gielba-eugeniusz
+poster_tmdb_path: /tzXB3I2jV12lyT2Mp89kSGdTqxx.jpg

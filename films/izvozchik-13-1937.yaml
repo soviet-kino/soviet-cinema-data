@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9210281
   imdb: tt0208106
+  tmdb: 748179
 sources:
 - https://www.wikidata.org/wiki/Q9210281
 schema_version: 1
@@ -14,3 +15,4 @@ cinematographer:
 - wywerka-albert
 cast:
 - person: selyanskiy-stanislav
+poster_tmdb_path: /aALYRFPDcjjVNqZkzVrkbTb7z6V.jpg

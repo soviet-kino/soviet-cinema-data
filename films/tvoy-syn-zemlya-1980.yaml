@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27049540
   imdb: tt0170265
+  tmdb: 1198537
 sources:
 - https://www.wikidata.org/wiki/Q27049540
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kancheli-giya-aleksandrovich
 cast:
 - person: chkheidze-temur-nodarovich
+poster_tmdb_path: /qHi0j8QHi6zRcsZHjzhPxNbUUgw.jpg
+backdrop_tmdb_path: /x5UeZ9BYpBEogheogERb14jTqGv.jpg

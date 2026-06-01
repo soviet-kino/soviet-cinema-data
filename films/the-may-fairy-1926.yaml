@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q30633346
   imdb: tt1092403
+  tmdb: 727448
 sources:
 - https://www.wikidata.org/wiki/Q30633346
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: reifova-berta
 - person: fiser-frantisek
 - person: vyskoc-vena
+poster_tmdb_path: /bZKYXrMdUVyQCjKKdEaCJkMEulV.jpg

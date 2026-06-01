@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q56364459
   imdb: tt4859374
   youtube: HCglvnxD7UE
+  tmdb: 1459740
 sources:
 - https://www.wikidata.org/wiki/Q56364459
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - sherstobitov-evgeniy-firsovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /l1FXf8oOS0f39PxdQLw2Dorqefh.jpg
+backdrop_tmdb_path: /2rXDwBipdRbm2CkZlAbI0iWltVz.jpg

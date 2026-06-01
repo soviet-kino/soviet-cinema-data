@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12740244
   imdb: tt0063490
+  tmdb: 373996
 sources:
 - https://www.wikidata.org/wiki/Q12740244
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: tudorake-olga
 - person: paladescu-mihai
 - person: skerletesku-florin
+poster_tmdb_path: /bFnuRYtttPQ9IKjqfh1hYy3rXCE.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4735692
   imdb: tt0008826
+  tmdb: 2967
 sources:
 - https://www.wikidata.org/wiki/Q4735692
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: torzs-jeno
 - person: lux-margit
+poster_tmdb_path: /sxbM6fUqHBKbcWCId6ypFAfZmtG.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1219608
   imdb: tt0160801
   youtube: 66jbU-UisBo
+  tmdb: 215478
 sources:
 - https://www.wikidata.org/wiki/Q1219608
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: gaydardzhiev-ivan
 - person: iliev-stefan
 - person: peychev-stefan
+poster_tmdb_path: /ePjh9sY0eN2W7c1YYsVR3wDkA3B.jpg
+backdrop_tmdb_path: /i8dWxOTaDnxFYRf6fKGXxVNpB25.jpg

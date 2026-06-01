@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1586341
   imdb: tt0076882
+  tmdb: 69548
 sources:
 - https://www.wikidata.org/wiki/Q1586341
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: michalke-reinhard
 - person: uider-teresiya
 - person: knothe-gosta
+poster_tmdb_path: /acI3r7XZSSv0J8mjvJSvbOVTAnk.jpg

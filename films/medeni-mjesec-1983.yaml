@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q6805266
   imdb: tt0085922
+  tmdb: 267180
 sources:
 - https://www.wikidata.org/wiki/Q6805266
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: samardzhich-lyubisha
 - person: sovagovic-fabijan
 - person: vuisich-pavle
+poster_tmdb_path: /7HPBARHihDWYk2A8RDMTMzeg0vv.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4186631
   imdb: tt4871236
   youtube: Kgmru894wnM
+  tmdb: 532238
 sources:
 - https://www.wikidata.org/wiki/Q4186631
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: rostotskiy-andrey-stanislavovich
+poster_tmdb_path: /j2KU7kw8e9ulHP0zOKm4f7RKv1C.jpg
+backdrop_tmdb_path: /ddti8nKIkoaRXp2kfASus4Ye3Mj.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17749070
   imdb: tt5749098
   youtube: Avy4deOv6S0
+  tmdb: 472047
 sources:
 - https://www.wikidata.org/wiki/Q17749070
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: shuvalov-boris-igorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vsjIjK7NORlXu45DsyrETPUeKbk.jpg
+backdrop_tmdb_path: /ccNZ0FKrmeQMoc7ywQxuVr3Un6d.jpg

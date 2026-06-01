@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65198655
   imdb: tt5498152
+  tmdb: 1650958
 sources:
 - https://www.wikidata.org/wiki/Q65198655
 schema_version: 1
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /25kKukJIODRrPbaHyxp8tjk33Vo.jpg

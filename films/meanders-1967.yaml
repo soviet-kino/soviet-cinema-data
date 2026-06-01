@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q85974536
   imdb: tt0136393
+  tmdb: 179370
 sources:
 - https://www.wikidata.org/wiki/Q85974536
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: dunareanu-radu
 studio:
 - buftea-studios
+poster_tmdb_path: /5A95za9ktJ37mjxnr1TThOsANBd.jpg
+backdrop_tmdb_path: /jEzT7DriDxHaSH3eVKZA4GtK04S.jpg

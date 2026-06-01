@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q11691726
   imdb: tt0092807
+  tmdb: 155915
 sources:
 - https://www.wikidata.org/wiki/Q11691726
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: konarowski-miros-aw
 studio:
 - zespo-y-filmowe
+poster_tmdb_path: /gSTbrufluc68V8MKmBMgun4Sq0v.jpg

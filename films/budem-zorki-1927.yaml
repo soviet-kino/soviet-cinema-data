@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65658669
   imdb: tt1238102
+  tmdb: 185340
 sources:
 - https://www.wikidata.org/wiki/Q65658669
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 studio:
 - mezhrabpomfilm
 - mezhrabpom-rus
+poster_tmdb_path: /wEkb4ZtxJCsYza4QLIOeQoJmwy8.jpg
+backdrop_tmdb_path: /zW35sK8djWr9X2oCCklHhCYlE9H.jpg

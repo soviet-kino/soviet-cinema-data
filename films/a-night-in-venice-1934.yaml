@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1475658
   imdb: tt0025550
+  tmdb: 427356
 sources:
 - https://www.wikidata.org/wiki/Q1475658
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: shtyossel-lyudvig
 - person: zima-oskar
 - person: pattiera-tino
+poster_tmdb_path: /khmyQqatvP6VamOoNHuqMFF4h62.jpg

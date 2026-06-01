@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208926
   imdb: tt0314249
+  tmdb: 454403
 sources:
 - https://www.wikidata.org/wiki/Q4208926
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - eshpay-andrey
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /aOEycYmdCKsBg02mROTPa4GNvOY.jpg
+backdrop_tmdb_path: /c7PH72XSFTaaOxaZp1Kh2qT39wC.jpg

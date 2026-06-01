@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16416710
   imdb: tt0326342
   youtube: GoWzcSjPDkE
+  tmdb: 1247542
 sources:
 - https://www.wikidata.org/wiki/Q16416710
 schema_version: 1
@@ -23,3 +24,5 @@ cinematographer:
 - askerov-fikret
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /gWNNQF1EbRE9m6KOq18kcVtI5Hl.jpg
+backdrop_tmdb_path: /aX7l0WezokMm9RFqsfa7B3PAXPt.jpg

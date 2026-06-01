@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q5532850
   imdb: tt0049255
+  tmdb: 439268
 sources:
 - https://www.wikidata.org/wiki/Q5532850
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bergman-verner
 composer:
 - vertslau-yoakhim
+poster_tmdb_path: /ewOfGe0PGChZHTAyOfHwEnoWXpR.jpg

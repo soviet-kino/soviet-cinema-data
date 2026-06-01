@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4241071
   imdb: tt5031934
+  tmdb: 829734
 sources:
 - https://www.wikidata.org/wiki/Q4241071
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - belarusfilm
 cast:
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /jAoOpskH8RNyjEGDAtvK0iP3Jmy.jpg
+backdrop_tmdb_path: /uOhNv4qp2EdiK8pJXbTRP7xJJ5g.jpg

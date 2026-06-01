@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123588527
   imdb: tt0045552
+  tmdb: 391077
 sources:
 - https://www.wikidata.org/wiki/Q123588527
 schema_version: 1
 director:
 - keleti-marton
+poster_tmdb_path: /3C5KLmkE25vIlbsSGm9Ytt4wzZC.jpg

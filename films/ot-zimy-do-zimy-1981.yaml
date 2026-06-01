@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4339313
   imdb: tt0082860
   youtube: kA8OlD44_GQ
+  tmdb: 484118
 sources:
 - https://www.wikidata.org/wiki/Q4339313
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: larionov-vsevolod-dmitrievich
 studio:
 - mosfilm
+poster_tmdb_path: /y61BdQMC9SydiWU22uuCpsUPokZ.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44867886
   imdb: tt0135530
+  tmdb: 751036
 sources:
 - https://www.wikidata.org/wiki/Q44867886
 schema_version: 1
 director:
 - damian-iosif
+poster_tmdb_path: /y9Fk2Vq8vf7Baof8teCMWuKrMbR.jpg

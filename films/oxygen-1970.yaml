@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24038835
   imdb: tt0172934
+  tmdb: 269212
 sources:
 - https://www.wikidata.org/wiki/Q24038835
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 cast:
 - person: zhigon-stevo
 - person: zegarats-dushitsa
+poster_tmdb_path: /9jd2pa3pJd2npthwLHTP5nw7i3R.jpg

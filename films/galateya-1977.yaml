@@ -8,6 +8,7 @@ runtime_min: 55
 external_ids:
   wikidata: Q4132261
   imdb: tt0076063
+  tmdb: 628795
 sources:
 - https://www.wikidata.org/wiki/Q4132261
 schema_version: 1
@@ -24,3 +25,4 @@ studio:
 cast:
 - person: maksimova-ekaterina-sergeevna
 - person: liepa-maris-rudolf-eduardovich
+poster_tmdb_path: /mc5hg0az1ikqj5hiWIzb97XxWqa.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q832698
   imdb: tt0033410
+  tmdb: 570244
 sources:
 - https://www.wikidata.org/wiki/Q832698
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - eiben-istvan
 composer:
 - khuska-yenyo
+poster_tmdb_path: /vn9W0Fcw33RGm34VGjmTFYcde1M.jpg

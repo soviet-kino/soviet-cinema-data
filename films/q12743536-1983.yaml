@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12743536
   imdb: tt0139724
+  tmdb: 629690
 sources:
 - https://www.wikidata.org/wiki/Q12743536
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: lazaresku-nae
 - person: muraru-vasile
 - person: alsek-zefi
+poster_tmdb_path: /8ZJrVU7sF2k0aw7PujeTw2edgU2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q68606958
   imdb: tt0065117
   youtube: pnrdML5eO-w
+  tmdb: 125672
 sources:
 - https://www.wikidata.org/wiki/Q68606958
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: teslikova-dana
 - person: tomanova-natalia
 - person: jankova-maria
+poster_tmdb_path: /xHrtUHn1UCAYsRTw8yP9VhlI4xE.jpg
+backdrop_tmdb_path: /5ed4RRXTqI7L0EJNujsbb3vDEF5.jpg

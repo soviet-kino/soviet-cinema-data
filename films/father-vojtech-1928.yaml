@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q5437664
   imdb: tt0169154
+  tmdb: 343436
 sources:
 - https://www.wikidata.org/wiki/Q5437664
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: kobik-josef
 - person: opplova-anna
 - person: mecera-otto
+poster_tmdb_path: /ip8WDHQ5GV6tx6QpiJeQse1PXYr.jpg
+backdrop_tmdb_path: /hJ2NbCMI1lIPjUV8Uph2c7BVfIl.jpg

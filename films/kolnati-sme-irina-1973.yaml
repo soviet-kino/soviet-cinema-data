@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12760338
   imdb: tt0181872
+  tmdb: 337987
 sources:
 - https://www.wikidata.org/wiki/Q12760338
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: arnerich-neda
 - person: velimir-bata-zhivoinovich
+poster_tmdb_path: /9roN7uXSC1oT5kx0JlOm8gkv1DY.jpg
+backdrop_tmdb_path: /qw2MvxSq9jyLzJ7k1CHaL9VOCPb.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5503270
   imdb: tt0044636
+  tmdb: 719136
 sources:
 - https://www.wikidata.org/wiki/Q5503270
 schema_version: 1
 director:
 - ivens-yoris
+poster_tmdb_path: /zTFB20M3J6IOCiA8o3txRM1qxwB.jpg

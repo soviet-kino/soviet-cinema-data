@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q28723033
   imdb: tt0131043
+  tmdb: 348051
 sources:
 - https://www.wikidata.org/wiki/Q28723033
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: khorvat-teri
 - person: mensharosh-laslo
 - person: nemenyi-maria-2
+poster_tmdb_path: /912t9faSKN6fFOjvMRav83fyeSw.jpg

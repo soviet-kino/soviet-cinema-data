@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16676644
   imdb: tt5289042
   youtube: 9rm0Ep8HgGA
+  tmdb: 887007
 sources:
 - https://www.wikidata.org/wiki/Q16676644
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: lavrov-yuriy-sergeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /hb3K4Qc6TNxQBVGMUiswecvJDxh.jpg

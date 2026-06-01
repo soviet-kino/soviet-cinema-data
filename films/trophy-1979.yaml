@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12760244
   imdb: tt0181084
+  tmdb: 291055
 sources:
 - https://www.wikidata.org/wiki/Q12760244
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: zhutich-milosh
 - person: tomich-milivo-e
 - person: jelisic-or-e
+poster_tmdb_path: /iGQLvlHqDq2PbQYTws2qxCcx4rB.jpg

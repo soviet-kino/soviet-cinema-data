@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q5503570
   imdb: tt0169923
+  tmdb: 1216042
 sources:
 - https://www.wikidata.org/wiki/Q5503570
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - gusko-erikh
 composer:
 - wehding-hans-hendrik
+poster_tmdb_path: /g3uEXcOEUT2sKxMzOfSkG5ge1TV.jpg
+backdrop_tmdb_path: /1RWgPSuiJSsrzNE6t0vCRcGmeq4.jpg

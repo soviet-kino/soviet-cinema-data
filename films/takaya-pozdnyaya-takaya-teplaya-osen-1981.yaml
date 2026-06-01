@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1448505
   imdb: tt0237799
+  tmdb: 124028
 sources:
 - https://www.wikidata.org/wiki/Q1448505
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - garmash-yuriy-timofeevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /8DyDjhR313fdaHuTODh1vf4kkbD.jpg
+backdrop_tmdb_path: /hmMMtWr7BYl5DblWdvrb7ZMYeeb.jpg

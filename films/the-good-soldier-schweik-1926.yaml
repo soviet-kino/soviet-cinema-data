@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q15050577
   imdb: tt0168671
+  tmdb: 649495
 sources:
 - https://www.wikidata.org/wiki/Q15050577
 schema_version: 1
@@ -65,3 +66,4 @@ cast:
 - person: desensky-ladislav
 - person: mencik-jaroslav
 - person: ludvik-augustin-vilem
+poster_tmdb_path: /1UeNOkh66sB1LoTgr3xhqxUvofM.jpg

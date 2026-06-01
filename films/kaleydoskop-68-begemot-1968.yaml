@@ -8,6 +8,7 @@ runtime_min: 3
 external_ids:
   wikidata: Q52568583
   imdb: tt0480473
+  tmdb: 450168
 sources:
 - https://www.wikidata.org/wiki/Q52568583
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - petrov-anatoliy-alekseevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ncBX8rm3qODJQL2rC98k2YlYuwy.jpg
+backdrop_tmdb_path: /xFBBlhL5Hw1oUZnrBVG8rYJg6BW.jpg

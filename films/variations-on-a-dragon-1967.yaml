@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q15624036
   imdb: tt4178672
+  tmdb: 454237
 sources:
 - https://www.wikidata.org/wiki/Q15624036
 schema_version: 1
 director:
 - dargai-attila
+poster_tmdb_path: /ro96o6EPFF4O5mUH8jLsusiewfE.jpg

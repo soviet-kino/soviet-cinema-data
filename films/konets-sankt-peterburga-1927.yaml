@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2198716
   imdb: tt0018066
   youtube: Osw0h6S_7k8
+  tmdb: 106254
 sources:
 - https://www.wikidata.org/wiki/Q2198716
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - mezhrabpom-rus
 poster_commons: The End of St. Petersburg, poster.jpg
+poster_tmdb_path: /dILDTasB6ET7VPNm0cY7SM4SLHA.jpg
+backdrop_tmdb_path: /1M70yrB2iYd14FjjNX3fV0gSyBm.jpg

@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4444867
   imdb: tt5026916
+  tmdb: 641123
 sources:
 - https://www.wikidata.org/wiki/Q4444867
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: borisov-oleg-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /kczZvSDCHqRazQKtwETXzsOXsfn.jpg
+backdrop_tmdb_path: /r8av9rQ5Fey5wbKrne76mkYzY8Q.jpg

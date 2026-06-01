@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q17385395
   imdb: tt0026300
+  tmdb: 881976
 sources:
 - https://www.wikidata.org/wiki/Q17385395
 schema_version: 1
 director:
 - dubson-mikhail-iosifovich
+poster_tmdb_path: /AnAD0ciD8VXvnis0eZUUl1xubVj.jpg
+backdrop_tmdb_path: /3Q3BBXeZLJUSNR3bblML7byVb0q.jpg

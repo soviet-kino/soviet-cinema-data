@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q948469
   imdb: tt0057394
+  tmdb: 198833
 sources:
 - https://www.wikidata.org/wiki/Q948469
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: tolnai-klari
 - person: gobbi-khilda
 - person: gozon-gyula
+poster_tmdb_path: /7lGzWLpDFpehwSgugHQ8t0zPDsZ.jpg

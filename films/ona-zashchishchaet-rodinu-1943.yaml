@@ -23,6 +23,9 @@ external_ids:
   wikidata: Q4334797
   imdb: tt0036236
   youtube: fKY5N3usguc
+  tmdb: 260450
 sources:
 - https://www.wikidata.org/wiki/Q4334797
 schema_version: 1
+poster_tmdb_path: /pwgVBriXpw2rONtL67Mr2ilIPvC.jpg
+backdrop_tmdb_path: /fCvh24qI1Ikse7FhvlJJgbpmqbV.jpg

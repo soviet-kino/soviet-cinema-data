@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q7546555
   imdb: tt0138820
+  tmdb: 303553
 sources:
 - https://www.wikidata.org/wiki/Q7546555
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: svejdarova-olga
 - person: poupe-frantisek
 - person: brynda-antonin
+poster_tmdb_path: /1Oon8xTzptKUTIMc0f64ZjesCCQ.jpg
+backdrop_tmdb_path: /dtFCfVp4PxgOoSq2FZLOu1M15BJ.jpg

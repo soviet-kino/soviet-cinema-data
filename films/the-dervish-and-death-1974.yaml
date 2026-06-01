@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q217152
   imdb: tt0175560
+  tmdb: 267250
 sources:
 - https://www.wikidata.org/wiki/Q217152
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: mandich-velko
 - person: usniya-redzhepova
 - person: gucevac-ranko
+poster_tmdb_path: /yBbKHsRpYIqNtsYMa7SjDpZD1Bp.jpg
+backdrop_tmdb_path: /uuXDABuBRdGj2lFh8TeulgHLA0Q.jpg

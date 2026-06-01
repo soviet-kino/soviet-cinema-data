@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9362145
   imdb: tt0069416
+  tmdb: 81216
 sources:
 - https://www.wikidata.org/wiki/Q9362145
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: dembitskiy-vitold
 - person: kovalskiy-vladislav
 - person: zydkiewicz-jerzy
+poster_tmdb_path: /9cDH3NHbx3Pyh4954dvreoywHiF.jpg
+backdrop_tmdb_path: /eZD1he5dvkR1GcqsXlikH7hWUvF.jpg

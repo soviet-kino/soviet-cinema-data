@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4155464
   imdb: tt0212900
   youtube: O7YZNNvdsTE
+  tmdb: 530011
 sources:
 - https://www.wikidata.org/wiki/Q4155464
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - azerbaydzhanfilm
 cast:
 - person: kvasha-igor-vladimirovich
+poster_tmdb_path: /d4mvw17h84kUyTBphEfTjcz8GqG.jpg
+backdrop_tmdb_path: /1O6vpk3VqYmab62mzFKvkGdIoNs.jpg

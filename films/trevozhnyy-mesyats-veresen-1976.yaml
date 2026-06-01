@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4462295
   imdb: tt0175255
   youtube: jSsLlZEsUo8
+  tmdb: 383923
 sources:
 - https://www.wikidata.org/wiki/Q4462295
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: fokin-viktor-grigorevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /vx3MateUHLXH3xozn6ktGeUm0SL.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q11687952
   imdb: tt0031096
+  tmdb: 919638
 sources:
 - https://www.wikidata.org/wiki/Q11687952
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: pikhelskiy-ezhi
 - person: orvid-barbara
 - person: vishnevskaya-tamara
+poster_tmdb_path: /iKtVxOLNWDrRPH7g615q8CbG7Le.jpg

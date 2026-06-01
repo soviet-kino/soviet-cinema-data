@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q1234483
   imdb: tt0052961
+  tmdb: 45884
 sources:
 - https://www.wikidata.org/wiki/Q1234483
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: shipioni-bruno
 studio:
 - vides-cinematografica
+poster_tmdb_path: /bzdaTo5CJYKePSnKy2a368v0AIq.jpg
+backdrop_tmdb_path: /b0JdDWFV5q797ptrZpVscKN46Ub.jpg

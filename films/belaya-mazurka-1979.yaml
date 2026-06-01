@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4902910
   imdb: tt0078859
+  tmdb: 603647
 sources:
 - https://www.wikidata.org/wiki/Q4902910
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - rudzinskiy-vitold
 cast:
 - person: grochoczynski-tomasz
+poster_tmdb_path: /jOHtMFk8TsLBqkozdDNtHunijgA.jpg

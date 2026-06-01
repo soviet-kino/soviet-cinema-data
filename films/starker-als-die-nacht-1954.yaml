@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q2360259
   imdb: tt0047539
+  tmdb: 279011
 sources:
 - https://www.wikidata.org/wiki/Q2360259
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: khyubner-volfgang
 studio:
 - defa
+poster_tmdb_path: /vmnJmNemkvewGW9VLpdmQAtxhBE.jpg

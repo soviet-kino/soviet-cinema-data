@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q116865112
   imdb: tt0266070
+  tmdb: 1428361
 sources:
 - https://www.wikidata.org/wiki/Q116865112
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - aleksandrov-gennadiy
 studio:
 - tadzhikfilm
+poster_tmdb_path: /ysY9E826ggL1SBtCXbCKenVtRWz.jpg

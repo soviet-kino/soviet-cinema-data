@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4440845
   imdb: tt0061028
   youtube: TRq3fSvQOfE
+  tmdb: 279543
 sources:
 - https://www.wikidata.org/wiki/Q4440845
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tenyakova-natalya-maksimovna
 studio:
 - mosfilm
+poster_tmdb_path: /ucs147Yshu9o8cZmCtp35LB5A2w.jpg
+backdrop_tmdb_path: /mb3diYplUOYOGdLF2k07Ca4EsZD.jpg

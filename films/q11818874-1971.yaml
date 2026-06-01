@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11818874
   imdb: tt0067574
+  tmdb: 793756
 sources:
 - https://www.wikidata.org/wiki/Q11818874
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - zdort-wies-aw
 composer:
 - loranc-juliusz
+poster_tmdb_path: /nW6ZxIydnxuq8UfPanTgfDAvVH2.jpg

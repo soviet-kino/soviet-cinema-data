@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q4507752
   imdb: tt0346732
+  tmdb: 319519
 sources:
 - https://www.wikidata.org/wiki/Q4507752
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: leymane-ninutse
 - person: veze-rasma
 - person: kleimane-antonija
+poster_tmdb_path: /wC0rGbRgKyNdpIP6Zzug9ss1nc.jpg
+backdrop_tmdb_path: /zpWxTUIdvfmrF4usKecDuQgGJ9G.jpg

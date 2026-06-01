@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q12047846
   imdb: tt0066208
+  tmdb: 48513
 sources:
 - https://www.wikidata.org/wiki/Q12047846
 schema_version: 1
@@ -69,3 +70,4 @@ cast:
 - person: malina-miroslav
 - person: medek-vladimir
 - person: janu-antonin
+poster_tmdb_path: /678IFcS1SCBh6y3DZkf037xxLfn.jpg

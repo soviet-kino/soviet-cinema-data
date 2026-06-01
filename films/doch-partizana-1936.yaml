@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q24938140
   imdb: tt0128993
   youtube: IAbDmUvqe80
+  tmdb: 1440729
 sources:
 - https://www.wikidata.org/wiki/Q24938140
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - maslyukov-aleksey-semyonovich
 composer:
 - kozitskiy-filipp-emelyanovich
+poster_tmdb_path: /cK8VyT0wvNsAlEQWIMGnqzoJlxS.jpg
+backdrop_tmdb_path: /49wTDZepE1VUAsYOA69iIGSc81B.jpg

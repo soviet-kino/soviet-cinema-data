@@ -8,6 +8,7 @@ runtime_min: 166
 external_ids:
   wikidata: Q4376658
   imdb: tt0058489
+  tmdb: 152839
 sources:
 - https://www.wikidata.org/wiki/Q4376658
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: lapikov-ivan-gerasimovich
 studio:
 - mosfilm
+poster_tmdb_path: /ymYQv9PiZb5R79ekIzSzFllyLaQ.jpg
+backdrop_tmdb_path: /7FERIBlOvzYqZXUbmdMMcT5BQwG.jpg

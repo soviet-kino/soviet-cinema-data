@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4767417
   imdb: tt0149675
   youtube: ajKP_W120xA
+  tmdb: 391647
 sources:
 - https://www.wikidata.org/wiki/Q4767417
 schema_version: 1
@@ -141,3 +142,4 @@ cast:
 - person: konecny-karel
 - person: prihoda-vaclav
 - person: brabec-karel
+poster_tmdb_path: /ddOcatIAUuIrfY2hsrtsnHjAmRn.jpg

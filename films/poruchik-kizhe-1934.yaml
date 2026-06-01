@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1112886
   imdb: tt0025671
   youtube: 6ob0aqkAFi8
+  tmdb: 122154
 sources:
 - https://www.wikidata.org/wiki/Q1112886
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - belarusfilm
 poster_commons: Плакат к фильму «Поручик Киже».jpg
+poster_tmdb_path: /pYH3qpQwpImlypYrQTywaNk0G44.jpg
+backdrop_tmdb_path: /dpL1l1ax0BTW7zIIa4gQ55IGHL1.jpg

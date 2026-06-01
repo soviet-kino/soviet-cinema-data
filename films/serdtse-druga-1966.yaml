@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16697159
   imdb: tt5052990
   youtube: 9-YL9Y3AEEU
+  tmdb: 833220
 sources:
 - https://www.wikidata.org/wiki/Q16697159
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - grigoreva-renita-andreevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /4S6qimrNvdfZuOeE3jopoJ674SD.jpg

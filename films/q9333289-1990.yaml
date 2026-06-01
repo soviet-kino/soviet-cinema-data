@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9333289
   imdb: tt0348312
+  tmdb: 1688176
 sources:
 - https://www.wikidata.org/wiki/Q9333289
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - zaharian-hajg
 cast:
 - person: anagnosti-roza
+poster_tmdb_path: /3wHSHqLEW7hL6QoXnrXE1wPkula.jpg
+backdrop_tmdb_path: /saNCXAnc2B5TsdGWb0pVa25MfXE.jpg

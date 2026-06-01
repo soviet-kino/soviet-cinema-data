@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1472240
   imdb: tt0036569
+  tmdb: 615836
 sources:
 - https://www.wikidata.org/wiki/Q1472240
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - hamza-dezso-akos
 cinematographer:
 - fekete-ferents
+poster_tmdb_path: /kVQ9tAxQv7lxAT9KYDFN1fEdQJc.jpg

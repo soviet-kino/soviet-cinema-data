@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4529818
   imdb: tt0165278
+  tmdb: 207282
 sources:
 - https://www.wikidata.org/wiki/Q4529818
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: verdins-martins
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /d4iYyn7uvlJd3cNWkS2nVVhQgUy.jpg
+backdrop_tmdb_path: /n2gaOQITHGvJBA6Eq5bKAgfyCJ1.jpg

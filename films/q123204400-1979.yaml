@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q123204400
   imdb: tt0313292
+  tmdb: 421690
 sources:
 - https://www.wikidata.org/wiki/Q123204400
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - gyorlikh-gyunter
 cinematographer:
 - borkmann-eberkhard
+poster_tmdb_path: /rqZqUl02sTKmDZhnP8WdewSr2zg.jpg

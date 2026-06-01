@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1170581
   imdb: tt0230892
+  tmdb: 371466
 sources:
 - https://www.wikidata.org/wiki/Q1170581
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: frants-erikh
 - person: dunkelmann-kurt
 - person: bergen-monika
+poster_tmdb_path: /c1Tm9XTH3KLzcIVwLXVupjW7IyX.jpg

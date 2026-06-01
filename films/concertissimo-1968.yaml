@@ -8,6 +8,7 @@ runtime_min: 3
 external_ids:
   wikidata: Q23895054
   imdb: tt0262344
+  tmdb: 270949
 sources:
 - https://www.wikidata.org/wiki/Q23895054
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - gemesh-yozhef
 screenwriter:
 - belai-istvan
+poster_tmdb_path: /nibKvMe2iOdrpQ2tX0Uku8D1l18.jpg

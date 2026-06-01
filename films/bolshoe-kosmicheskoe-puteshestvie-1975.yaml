@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4092492
   imdb: tt0321492
   youtube: X3NcXbWR8F8
+  tmdb: 163843
 sources:
 - https://www.wikidata.org/wiki/Q4092492
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: sakharov-igor-evgenevich
 topics:
 - cosmonautics
+poster_tmdb_path: /8UU6NDgTAcN3To9xQY1P9DTNmd9.jpg
+backdrop_tmdb_path: /wKMRqdFuXHvorjLjXg6PpfycJ2u.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65209518
   imdb: tt4683814
+  tmdb: 1549498
 sources:
 - https://www.wikidata.org/wiki/Q65209518
 schema_version: 1
 director:
 - muradyan-ruben
+poster_tmdb_path: /fdsvfDMeIahRV90O0JYas8syA4A.jpg

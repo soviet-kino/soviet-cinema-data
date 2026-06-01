@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q84994453
   imdb: tt4883222
+  tmdb: 547566
 sources:
 - https://www.wikidata.org/wiki/Q84994453
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pustokhin-anatoliy-feofanovich
 studio:
 - lenfilm
+poster_tmdb_path: /xHyPDcb5JQBbTMjbAsSGerR5PRu.jpg
+backdrop_tmdb_path: /lHyiHcA811hF8scnPJzydrmy9VR.jpg

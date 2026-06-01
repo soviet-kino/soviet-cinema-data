@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q25861025
   imdb: tt0230173
+  tmdb: 372578
 sources:
 - https://www.wikidata.org/wiki/Q25861025
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: kiuitt-piter
 studio:
 - defa
+poster_tmdb_path: /3ATi1kvYtOhbOFgK8n7UbSzkiht.jpg

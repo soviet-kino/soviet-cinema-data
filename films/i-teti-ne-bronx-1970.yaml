@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q11823919
   imdb: tt0171391
+  tmdb: 393136
 sources:
 - https://www.wikidata.org/wiki/Q11823919
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - gjika-viktor
 composer:
 - laro-kujtim
+poster_tmdb_path: /ndq43pAFMCSN3MkGs7pu9pNgs7P.jpg
+backdrop_tmdb_path: /r1CWAuinVwOxR7LxNcX0TEO7ueY.jpg

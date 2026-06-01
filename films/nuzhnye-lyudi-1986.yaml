@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4327944
   imdb: tt0091659
   youtube: HXcrGKerCZQ
+  tmdb: 246905
 sources:
 - https://www.wikidata.org/wiki/Q4327944
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: vesyolkin-aleksey-alekseevich
 studio:
 - ekran
+poster_tmdb_path: /kPnYxWPg9D8HpNzY4d0qKj0cK74.jpg
+backdrop_tmdb_path: /2GGo1cmFrx0nRpgNzayuk5bSG9Q.jpg

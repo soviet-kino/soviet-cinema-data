@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9276527
   imdb: tt0044674
+  tmdb: 429842
 sources:
 - https://www.wikidata.org/wiki/Q9276527
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: podgorski-karol
 - person: dejunowicz-kazimierz
 - person: cebulski-marian
+poster_tmdb_path: /yW3rq0GBaY6VT4OIXcMh7cSthWK.jpg
+backdrop_tmdb_path: /h6MBpGCse26jBb6yjhe3x5gm192.jpg

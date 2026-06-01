@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6517941
   imdb: tt0173645
+  tmdb: 359106
 sources:
 - https://www.wikidata.org/wiki/Q6517941
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: zarko-mitrovich
 studio:
 - avala-film
+poster_tmdb_path: /7WTKaB5M0RClDpiEA9ntD56EYUz.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11734481
   imdb: tt0297930
+  tmdb: 519696
 sources:
 - https://www.wikidata.org/wiki/Q11734481
 schema_version: 1
 director:
 - topallaj-mark
+poster_tmdb_path: /cl2NBaatWfkjawuQGIhmyXZ7MDl.jpg
+backdrop_tmdb_path: /jRKzbBs8bx4RamkjI0QCZrD4uVR.jpg

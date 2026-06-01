@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4299827
   imdb: tt0166712
+  tmdb: 888296
 sources:
 - https://www.wikidata.org/wiki/Q4299827
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: voinov-konstantin
 studio:
 - mosfilm
+poster_tmdb_path: /wT1ooOY6h6acg91YsNUUPNkNw8m.jpg
+backdrop_tmdb_path: /1BAyqJ4IwfN83SCwfHzCi6h0jw7.jpg

@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q7581155
   imdb: tt0239854
+  tmdb: 203102
 sources:
 - https://www.wikidata.org/wiki/Q7581155
 schema_version: 1
@@ -19,3 +20,5 @@ screenwriter:
 - brdechka-irzhi
 composer:
 - rykhlik-yan
+poster_tmdb_path: /83NYaaLSw6TFPQwh8K81HPyzd33.jpg
+backdrop_tmdb_path: /k0SFNR4oS4FZkD7omnv5aZHlsPA.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12752204
   imdb: tt0217575
+  tmdb: 476229
 sources:
 - https://www.wikidata.org/wiki/Q12752204
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: khaytl-ivan
 - person: sokica-dobrila
 - person: jovanovic-toma
+poster_tmdb_path: /t1ryVFcCLHCL0trbdLmCFXmd8Hw.jpg

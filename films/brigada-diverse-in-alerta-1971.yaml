@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q12722960
   imdb: tt0123390
+  tmdb: 159237
 sources:
 - https://www.wikidata.org/wiki/Q12722960
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: dafinesku-chezara
 - person: tastaman-vasilika
 - person: voychu-yorzh
+poster_tmdb_path: /3JthQ09Sf1B2BG2hhGPxWNUJl0Y.jpg
+backdrop_tmdb_path: /poDiq5bSxAHAnnRomHFTm0MO8cW.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5003830
   imdb: tt0089848
+  tmdb: 773393
 sources:
 - https://www.wikidata.org/wiki/Q5003830
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: savitskaya-tereza
 - person: chyunelis-mariya
 - person: rechek-milogost
+poster_tmdb_path: /72Qhq4LeJi9Vh5EjSLSUdz6rBdP.jpg

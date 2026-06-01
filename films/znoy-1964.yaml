@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9366886
   imdb: tt0058711
+  tmdb: 245076
 sources:
 - https://www.wikidata.org/wiki/Q9366886
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - zdort-wies-aw
 composer:
 - vasovskiy-ezhi
+poster_tmdb_path: /dpzDLnHDLr1ZWjRj00NNVY24lgq.jpg
+backdrop_tmdb_path: /dyMmJxubtXM7uBKzt0CsrnPg1FD.jpg

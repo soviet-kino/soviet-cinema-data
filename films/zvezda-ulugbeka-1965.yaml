@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q117859972
   imdb: tt0170848
   youtube: ruqAxGuIxqA
+  tmdb: 884981
 sources:
 - https://www.wikidata.org/wiki/Q117859972
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - pann-aleksandr
 studio:
 - uzbekfilm
+poster_tmdb_path: /xy3VtdlgM5eIdeFyF4somy63EWF.jpg

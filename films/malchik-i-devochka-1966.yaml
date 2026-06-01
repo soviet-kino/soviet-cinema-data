@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q4279581
   imdb: tt2543120
+  tmdb: 415400
 sources:
 - https://www.wikidata.org/wiki/Q4279581
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bogunova-nataliya-vasilevna
 studio:
 - lenfilm
+poster_tmdb_path: /r4JmHM382zxa69DnWQeqtd9wWP0.jpg

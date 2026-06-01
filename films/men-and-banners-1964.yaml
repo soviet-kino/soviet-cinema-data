@@ -86,6 +86,9 @@ runtime_min: 158
 external_ids:
   wikidata: Q468331
   imdb: tt0059373
+  tmdb: 40997
 sources:
 - https://www.wikidata.org/wiki/Q468331
 schema_version: 1
+poster_tmdb_path: /9eXlN9Yw7tDGF2fu2O17d5gjXum.jpg
+backdrop_tmdb_path: /7OTGg5ouwCKaxKAWXPNaoXslCPC.jpg

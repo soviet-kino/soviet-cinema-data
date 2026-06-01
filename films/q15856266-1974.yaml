@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q15856266
   imdb: tt0071078
+  tmdb: 275051
 sources:
 - https://www.wikidata.org/wiki/Q15856266
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - zyuring-peter
 composer:
 - gotkhardt-peter
+poster_tmdb_path: /qUGiU4MszT5Z5h5QlMFPIat0TG1.jpg
+backdrop_tmdb_path: /zQBXcPnMFoxMTlUMolOzMgzjEhM.jpg

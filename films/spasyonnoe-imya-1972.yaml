@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q4430982
   imdb: tt5332260
+  tmdb: 1470665
 sources:
 - https://www.wikidata.org/wiki/Q4430982
 schema_version: 1
 studio:
 - moldova-film
+poster_tmdb_path: /yp20zCVjrn8lJ35bOYb6TDCqKKj.jpg
+backdrop_tmdb_path: /sJyfyBy3rOFZvZqlEQMkeUNhn5j.jpg

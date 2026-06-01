@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q12643862
   imdb: tt0084823
+  tmdb: 265854
 sources:
 - https://www.wikidata.org/wiki/Q12643862
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - pavlichich-pavao
 cast:
 - person: alich-bozhidar
+poster_tmdb_path: /dJk1EyXtQq1UjDsU9mQ6lSPxXHF.jpg
+backdrop_tmdb_path: /3JG3G7kADeuUy90fHehw8mU36o8.jpg

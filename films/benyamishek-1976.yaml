@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9168835
   imdb: tt0468298
+  tmdb: 791829
 sources:
 - https://www.wikidata.org/wiki/Q9168835
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - marchevskiy-petr
 cast:
 - person: bilevskiy-bogush
+poster_tmdb_path: /8YbrGD7UeYd2FA23IviVoKjmpoo.jpg

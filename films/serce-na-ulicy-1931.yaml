@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9335426
   imdb: tt0949525
+  tmdb: 709618
 sources:
 - https://www.wikidata.org/wiki/Q9335426
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 cast:
 - person: ney-nora-2
 poster_commons: Serce na ulicy 1931.jpg
+poster_tmdb_path: /zhSCgpJArUjWupLYNBu4pXRVPUi.jpg

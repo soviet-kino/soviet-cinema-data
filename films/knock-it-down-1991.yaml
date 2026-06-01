@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16518588
   imdb: tt0101632
+  tmdb: 41055
 sources:
 - https://www.wikidata.org/wiki/Q16518588
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: tyoryochik-mari
 - person: eperjes-karoly
 - person: hollosi-frigyes
+poster_tmdb_path: /gDD2IjujcnsvQasouRftrW5xnld.jpg
+backdrop_tmdb_path: /xVUdQA5KNUUV61cySRfI1jcZZWg.jpg

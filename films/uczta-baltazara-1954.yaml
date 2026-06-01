@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9364418
   imdb: tt0047627
+  tmdb: 577640
 sources:
 - https://www.wikidata.org/wiki/Q9364418
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - lyambakh-boguslav
 composer:
 - sygetynskiy-tadeush
+poster_tmdb_path: /qLPMHkyP7YKDoMsTHidZatIKpDP.jpg
+backdrop_tmdb_path: /ehgBpPRwNPQuvqkYxErtOqyntt7.jpg

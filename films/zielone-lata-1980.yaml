@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q9391003
   imdb: tt0081805
+  tmdb: 919635
 sources:
 - https://www.wikidata.org/wiki/Q9391003
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: bauman-adam
 - person: lasota-czes-aw
 - person: piskorz-leszek
+poster_tmdb_path: /rJfbUxP0iHmxSrkhdNbyQTrdML.jpg

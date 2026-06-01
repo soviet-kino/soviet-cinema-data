@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q20091240
   imdb: tt0030011
   youtube: -Y8JXjl9QZA
+  tmdb: 139468
 sources:
 - https://www.wikidata.org/wiki/Q20091240
 schema_version: 1
@@ -19,3 +20,5 @@ screenwriter:
 - petrov-vladimir-mikhaylovich
 cinematographer:
 - gordanov-vyacheslav-vyacheslavovich
+poster_tmdb_path: /cnX0EqeVcUvPD0iCDbbATT1GUSo.jpg
+backdrop_tmdb_path: /pMXTh4cIqTbLz3hLEpn4mQctDmv.jpg

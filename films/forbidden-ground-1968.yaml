@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5467344
   imdb: tt0063697
+  tmdb: 662319
 sources:
 - https://www.wikidata.org/wiki/Q5467344
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kharshani-gabor
 - person: dayka-margit
 - person: mezey-mariya
+poster_tmdb_path: /b8DQEfSak2LMVL8zYyNLRGDMNIx.jpg

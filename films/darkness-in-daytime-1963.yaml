@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84718181
   imdb: tt0057354
+  tmdb: 286469
 sources:
 - https://www.wikidata.org/wiki/Q84718181
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: beresh-ilona
 - person: kollar-bela
 - person: szoo-gyorgy
+poster_tmdb_path: /oHe2cj80GjkYkhfSO5GnNmDooZv.jpg

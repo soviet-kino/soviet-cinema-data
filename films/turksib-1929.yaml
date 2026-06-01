@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q4466186
   imdb: tt0020523
+  tmdb: 136141
 sources:
 - https://www.wikidata.org/wiki/Q4466186
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - shebalin-vissarion-yakovlevich
 studio:
 - vostokkino
+poster_tmdb_path: /gNUIyNrL6sQ4dJkbIH9q6l1idDa.jpg

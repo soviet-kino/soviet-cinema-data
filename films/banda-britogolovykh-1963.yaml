@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q1213053
   imdb: tt0163646
+  tmdb: 111640
 sources:
 - https://www.wikidata.org/wiki/Q1213053
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: weisgerber-thomas
 - person: knyotssh-khans
 - person: rothert-jurgen
+poster_tmdb_path: /12YAGQdYtzWT8l2T305W7IaRngo.jpg

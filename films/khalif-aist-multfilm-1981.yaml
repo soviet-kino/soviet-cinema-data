@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q4495086
   imdb: tt0879824
+  tmdb: 90265
 sources:
 - https://www.wikidata.org/wiki/Q4495086
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - artyomov-vyacheslav-petrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9oOFqWZvyBjqIMZRiitc8tGqWjA.jpg
+backdrop_tmdb_path: /AlN29h5ZXrDwzmPg7KfYqwEyz1Q.jpg

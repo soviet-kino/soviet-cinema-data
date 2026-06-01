@@ -8,6 +8,7 @@ runtime_min: 127
 external_ids:
   wikidata: Q4124383
   imdb: tt0403655
+  tmdb: 42312
 sources:
 - https://www.wikidata.org/wiki/Q4124383
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: krupenikov-sergey-ivanovich
 - person: perfilov-lev-alekseevich
 - person: khanaeva-evgeniya
+poster_tmdb_path: /qSOO33AJaNnmhQqKUcITxYhuz81.jpg
+backdrop_tmdb_path: /ydkFcJtEbvn4vtZ2wsnG4VSKrTx.jpg

@@ -8,6 +8,7 @@ runtime_min: 175
 external_ids:
   wikidata: Q510641
   imdb: tt0064091
+  tmdb: 34449
 sources:
 - https://www.wikidata.org/wiki/Q510641
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: sibina-miyatovich
 - person: gucevac-ranko
 poster_commons: Battle of Neretva Picasso poster (red version).jpg
+poster_tmdb_path: /wNgBGWnlfkXHAH06dcTCW5QVxm6.jpg
+backdrop_tmdb_path: /3tFBMBgzMXQDBrxnhfK6UBLMZNq.jpg

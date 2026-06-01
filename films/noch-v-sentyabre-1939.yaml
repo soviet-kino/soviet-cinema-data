@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q86665014
   imdb: tt0031728
+  tmdb: 401233
 sources:
 - https://www.wikidata.org/wiki/Q86665014
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: apkhaidze-emmanuil-eliseevich
 studio:
 - mosfilm
+poster_tmdb_path: /18peVbXmDP8C3nvWv8h2Fi8ah4E.jpg
+backdrop_tmdb_path: /gmD4rl8S6HgT0vrFHBgiac37ph4.jpg

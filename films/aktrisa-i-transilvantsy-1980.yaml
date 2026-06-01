@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q7712323
   imdb: tt0078799
+  tmdb: 144089
 sources:
 - https://www.wikidata.org/wiki/Q7712323
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: costea-traian
 - person: alsek-zefi
 - person: krachinesku-ioana
+poster_tmdb_path: /2zPH7Ce4DxTPRguBGsFVMruREcE.jpg

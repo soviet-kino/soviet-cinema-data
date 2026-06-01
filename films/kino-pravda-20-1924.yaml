@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134540104
   imdb: tt0949740
+  tmdb: 176710
 sources:
 - https://www.wikidata.org/wiki/Q134540104
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - kaufman-mikhail-abramovich
 studio:
 - goskino
+poster_tmdb_path: /yH4D6bnDBoHIZeqErJK9yNhgYHo.jpg
+backdrop_tmdb_path: /3AA7jgTPf1S15sL3NR0UZq88kgq.jpg

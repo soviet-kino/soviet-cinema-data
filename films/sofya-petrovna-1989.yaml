@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q3963932
   imdb: tt5748962
+  tmdb: 897175
 sources:
 - https://www.wikidata.org/wiki/Q3963932
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: zemskiy-aleksey-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /8aIelW85leBkqr2Fkt8xYDPV88I.jpg

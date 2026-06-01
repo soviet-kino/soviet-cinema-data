@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q109428663
   imdb: tt0424056
   youtube: MudpDHW5IVA
+  tmdb: 881954
 sources:
 - https://www.wikidata.org/wiki/Q109428663
 schema_version: 1
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /vKdaCb13wgSenlzjSLAea9PJSOL.jpg

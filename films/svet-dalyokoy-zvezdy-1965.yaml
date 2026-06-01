@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q4410248
   imdb: tt0058628
+  tmdb: 541653
 sources:
 - https://www.wikidata.org/wiki/Q4410248
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: alekseev-nikolay
 studio:
 - mosfilm
+poster_tmdb_path: /efSEK7Z9CR5wo2n1NtGzpZRkyeM.jpg
+backdrop_tmdb_path: /ku5eP1SrAl42QaZhExkkjMR0lMr.jpg

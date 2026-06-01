@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4071867
   imdb: tt0122969
   youtube: VC0XE42p5gU
+  tmdb: 142694
 sources:
 - https://www.wikidata.org/wiki/Q4071867
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: stovesand-hermann
 - person: riger-khanna
 - person: shmidt-bodo
+poster_tmdb_path: /cgNo1LeqF5KzxUcg54vknXOibPu.jpg
+backdrop_tmdb_path: /gjyMdws0FfAeaK6oUI4c2f8Pxbo.jpg

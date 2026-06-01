@@ -8,8 +8,11 @@ runtime_min: 101
 external_ids:
   wikidata: Q12959943
   imdb: tt0081549
+  tmdb: 281364
 sources:
 - https://www.wikidata.org/wiki/Q12959943
 schema_version: 1
 director:
 - achimovich-godina-karpo
+poster_tmdb_path: /xiuaom8bH4nvjP2kykdIYuWSJ0y.jpg
+backdrop_tmdb_path: /sLQwlQoqr5RiuWwxfVAbJJFv53L.jpg

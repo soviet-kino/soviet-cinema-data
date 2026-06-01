@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4243400
   imdb: tt1871304
   youtube: h04-opu8geM
+  tmdb: 533520
 sources:
 - https://www.wikidata.org/wiki/Q4243400
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: terekhova-margarita
 - person: grinko-nikolai
 - person: kaidanovsky-aleksandr
+poster_tmdb_path: /7eHQmR2fizFp22I4bXgxAANA3oS.jpg
+backdrop_tmdb_path: /rEVUC94mvbwHS1ZiZSwsZ6Qbfbk.jpg

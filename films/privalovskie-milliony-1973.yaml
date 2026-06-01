@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4377786
   imdb: tt0314536
   youtube: DsBcvpvbUEU
+  tmdb: 537722
 sources:
 - https://www.wikidata.org/wiki/Q4377786
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: strzhelchik-vladislav-ignatevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /hu7nWXeFHrtHC6WK0yIdJfD3CvN.jpg

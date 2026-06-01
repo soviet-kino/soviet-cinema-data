@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4173640
   imdb: tt0017844
+  tmdb: 313072
 sources:
 - https://www.wikidata.org/wiki/Q4173640
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: cherkasov-nikolay-konstantinovich
 studio:
 - belarusfilm
+poster_tmdb_path: /cLcrbRuCaeRnPrpqoqNML1syW4i.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123561832
   imdb: tt0051069
+  tmdb: 287608
 sources:
 - https://www.wikidata.org/wiki/Q123561832
 schema_version: 1
 director:
 - ranodi-laslo
+poster_tmdb_path: /qtejAnWClQLQweJSMVDtYm4VNxF.jpg

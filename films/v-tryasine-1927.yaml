@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q24041184
   imdb: tt0260041
+  tmdb: 1250160
 sources:
 - https://www.wikidata.org/wiki/Q24041184
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 studio:
 - gruziya-film
 poster_commons: Плакат к фильму «В трясине».jpg
+poster_tmdb_path: /rLQr1IWo6bUndcGUb6aOcRROERB.jpg
+backdrop_tmdb_path: /x5HeXVCOFph1VvvVKfyw10Rn7gR.jpg

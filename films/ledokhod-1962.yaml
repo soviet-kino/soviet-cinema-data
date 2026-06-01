@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31279927
   imdb: tt0445489
+  tmdb: 528408
 sources:
 - https://www.wikidata.org/wiki/Q31279927
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: peep-khelend
 - person: laur-khugo
 - person: karm-kaarel
+poster_tmdb_path: /7666pO9f9tiLLDWYwfCcemjuzzA.jpg
+backdrop_tmdb_path: /zQt7AuacRoeTtN2cHxHeejxYj7s.jpg

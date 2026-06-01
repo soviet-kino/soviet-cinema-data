@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11693249
   imdb: tt1735857
+  tmdb: 656129
 sources:
 - https://www.wikidata.org/wiki/Q11693249
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: trybala-mazhena
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /yVYgCajIWUfnt393SSq1s4Xdyer.jpg
+backdrop_tmdb_path: /hCO8QAuPWmIWgoSjEczLnvvC9SO.jpg

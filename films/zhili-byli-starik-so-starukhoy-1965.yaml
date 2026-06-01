@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q3148599
   imdb: tt0059946
+  tmdb: 198816
 sources:
 - https://www.wikidata.org/wiki/Q3148599
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: maksakova-lyudmila-vasilevna
 - person: marin-ivan-nikitovich
 - person: khlibko-nikolay
+poster_tmdb_path: /fy5In6LufW78a1JaYkyV1ZzCXgZ.jpg
+backdrop_tmdb_path: /egkeZIVSndB8ORoAcKuNx54aUSk.jpg

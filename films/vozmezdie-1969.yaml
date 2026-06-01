@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1888529
   imdb: tt0129562
   youtube: ICim4u2kRF0
+  tmdb: 203720
 sources:
 - https://www.wikidata.org/wiki/Q1888529
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: matveev-mikhail-mikhaylovich
 - person: khmara-leonid-ivanovich
 - person: plotnikov-aleksandr-konstantinovich
+poster_tmdb_path: /sDjBjjIbzfSt3TVecm8QsRLUh4L.jpg
+backdrop_tmdb_path: /rJBxDVWbiLQOqFlRfcdl5KWOLJF.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q42847581
   imdb: tt0072636
+  tmdb: 258158
 sources:
 - https://www.wikidata.org/wiki/Q42847581
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - lugossy-istvan
 studio:
 - balazs-bela-studio
+poster_tmdb_path: /rICVlwcEQHVLfSY6UnBP8wvdQwl.jpg
+backdrop_tmdb_path: /p6pqKWEN4ycN0PPmvmR3aCZ6thA.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q3506746
   imdb: tt0182479
+  tmdb: 377385
 sources:
 - https://www.wikidata.org/wiki/Q3506746
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 studio:
 - kroatiya-film
 - kinostudiya-gotvaldova
+poster_tmdb_path: /53ArKfYHGJJXrPj73iEBLiE3k1V.jpg
+backdrop_tmdb_path: /zocGLYMV6qnYCBiAaSCZPnxnw1M.jpg

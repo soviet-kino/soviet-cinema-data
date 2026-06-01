@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q16698709
   imdb: tt5332718
+  tmdb: 947138
 sources:
 - https://www.wikidata.org/wiki/Q16698709
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: sperantova-valentina-aleksandrovna
 - person: yakovchenko-nikolay-fyodorovich
 - person: leftiy-antonina-vladimirovna
+poster_tmdb_path: /fV2s6CC35Fd65SXElzlPc1Nis7E.jpg
+backdrop_tmdb_path: /2QanjdWWrVcjle3fExql0Bc1sDo.jpg

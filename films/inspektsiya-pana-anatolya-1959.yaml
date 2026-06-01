@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4201369
   imdb: tt0052928
+  tmdb: 157388
 sources:
 - https://www.wikidata.org/wiki/Q4201369
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: lombardo-miroslava
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /tOmJlNZyqScxbaY9UVzVRVhsLDl.jpg
+backdrop_tmdb_path: /4vHYmEi6BEfVKYm6czXinvUlvHz.jpg

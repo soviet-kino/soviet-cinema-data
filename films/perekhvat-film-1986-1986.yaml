@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4351195
   imdb: tt0091745
   youtube: ZNBEu74iiY8
+  tmdb: 262359
 sources:
 - https://www.wikidata.org/wiki/Q4351195
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: shveyts-khariy-arvidovich
 studio:
 - mosfilm
+poster_tmdb_path: /kgDBwPtTkESnbV12x8134dqlPpD.jpg
+backdrop_tmdb_path: /A8fldU6gDfs5Y8KVBSuvV6IYInC.jpg

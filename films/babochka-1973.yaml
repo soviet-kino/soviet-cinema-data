@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q11786172
   imdb: tt0374884
+  tmdb: 230151
 sources:
 - https://www.wikidata.org/wiki/Q11786172
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: fedorchik-bozhena
 studio:
 - iluzjon
+poster_tmdb_path: /A8h43kvb7KhKdmDW54wEdAO94n2.jpg

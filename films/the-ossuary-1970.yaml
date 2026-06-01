@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q112869500
   imdb: tt0065947
+  tmdb: 19020
 sources:
 - https://www.wikidata.org/wiki/Q112869500
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: adamira-irzhi
 studio:
 - kratky-film-praha
+poster_tmdb_path: /e6zAwLsO0h3Nn2XpCguGB9Bsd3F.jpg
+backdrop_tmdb_path: /7KUU6kHqz3fDNZGS7vl4bYcGu4P.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44877059
   imdb: tt0094396
+  tmdb: 466239
 sources:
 - https://www.wikidata.org/wiki/Q44877059
 schema_version: 1
 director:
 - bostan-elizabeta
+poster_tmdb_path: /a1GmEZmb67d3BeLsBV1qAQJ1nv1.jpg

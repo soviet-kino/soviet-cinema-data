@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q123483278
   imdb: tt0093751
+  tmdb: 1208716
 sources:
 - https://www.wikidata.org/wiki/Q123483278
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: yanvaryov-aleksandr-ivanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /gZXZ1hFTsc57JVhjo83p0HxCsgD.jpg

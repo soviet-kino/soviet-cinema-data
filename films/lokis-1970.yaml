@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q6668689
   imdb: tt0065994
+  tmdb: 83193
 sources:
 - https://www.wikidata.org/wiki/Q6668689
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: gustav-lyutkevich
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /5eUBLTVgqZCAsuqiLVMUbXb5aNd.jpg
+backdrop_tmdb_path: /ksI6YmzoIa2THVYkQJhcbWG5wMh.jpg

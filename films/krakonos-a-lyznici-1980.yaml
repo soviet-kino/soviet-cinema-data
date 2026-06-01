@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q6435943
   imdb: tt0174827
+  tmdb: 160091
 sources:
 - https://www.wikidata.org/wiki/Q6435943
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: krnanska-vanda
 - person: hlousek-lubos
 - person: martan-rene
+poster_tmdb_path: /xGtToHVgmupkZO5sA0hDtX357AS.jpg
+backdrop_tmdb_path: /4n3tTJ1lxllX4JAoRC61MtYIG9h.jpg

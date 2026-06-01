@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q3785886
   imdb: tt0061766
+  tmdb: 19001
 sources:
 - https://www.wikidata.org/wiki/Q3785886
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - sibrava-zdenek
 composer:
 - lishka-zdenek
+poster_tmdb_path: /l5lvjMSYujaQ9hWEHT1FTQsUlyo.jpg
+backdrop_tmdb_path: /tGaTzDPlzsUbrttv0s3FzEyO7Vo.jpg

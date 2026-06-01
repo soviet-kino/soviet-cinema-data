@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21635459
   imdb: tt0174464
   youtube: FZdToi1-eVY
+  tmdb: 327785
 sources:
 - https://www.wikidata.org/wiki/Q21635459
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: zhumadylov-sovetbek
 - person: dzhangorozova-aliman-dzhanovna
 - person: temirova-ayturgan
+poster_tmdb_path: /jgULb0Sfqa90OD0QAmNXXNY1LIG.jpg
+backdrop_tmdb_path: /5BcrbDiLSCcnhmEgkgTdIVdSezi.jpg

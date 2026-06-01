@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12031173
   imdb: tt0470408
+  tmdb: 657448
 sources:
 - https://www.wikidata.org/wiki/Q12031173
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: krshka-vladimir
 - person: patera-petr
 - person: matuska-miroslav
+poster_tmdb_path: /uSyyLHNWtlzpiv0nTqGXrorhqZb.jpg
+backdrop_tmdb_path: /rjzccJN7TWtkue2toHMSrPEudt2.jpg

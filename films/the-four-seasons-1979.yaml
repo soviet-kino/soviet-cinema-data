@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q3506199
   imdb: tt0079216
+  tmdb: 504067
 sources:
 - https://www.wikidata.org/wiki/Q3506199
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - dedich-arsen
 cast:
 - person: shtimats-slavko
+poster_tmdb_path: /xeCPryeOBwmVY0PUrMHj7jiEWkE.jpg
+backdrop_tmdb_path: /seRcPupUaddW99xsw2qAiiT2CZA.jpg

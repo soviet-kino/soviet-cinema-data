@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1409466
   imdb: tt0065180
+  tmdb: 47150
 sources:
 - https://www.wikidata.org/wiki/Q1409466
 schema_version: 1
@@ -64,3 +65,5 @@ cast:
 - person: leomar-paul
 studio:
 - tallinfilm
+poster_tmdb_path: /9TH0ZjjMxcVg1zEern4zR7lUCgr.jpg
+backdrop_tmdb_path: /7ORlIcSqTrVFPTmOliBIU6K63nC.jpg

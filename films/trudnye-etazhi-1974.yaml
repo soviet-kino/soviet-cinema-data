@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12087235
   imdb: tt4840146
+  tmdb: 1443116
 sources:
 - https://www.wikidata.org/wiki/Q12087235
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - stsenarist-leontev-aleksey-nikolaevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /zVCtCl3hw6uw9LOhqQUB2U7tNGr.jpg
+backdrop_tmdb_path: /xm1Q6cc3MlvBOutOBDQl2h6J7FU.jpg

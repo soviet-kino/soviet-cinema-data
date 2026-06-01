@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12957807
   imdb: tt0048241
+  tmdb: 388772
 sources:
 - https://www.wikidata.org/wiki/Q12957807
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: zhigon-stevo
 - person: potokar-loyze
 poster_commons: Kala 1958.jpg
+poster_tmdb_path: /1Tp4dk3ik388uTDrtJNPnj5qu5f.jpg
+backdrop_tmdb_path: /7cLsfU1enFSRcidtzSep5QNu5uQ.jpg

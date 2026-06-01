@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9363425
   imdb: tt0153388
+  tmdb: 955022
 sources:
 - https://www.wikidata.org/wiki/Q9363425
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - yan-adam-maklyakevich
 cast:
 - person: tsibulskiy-mechislav
+poster_tmdb_path: /jkqwYj0gjpSYask9FykaFM1Neue.jpg
+backdrop_tmdb_path: /5ckAMJB7dKCkUITV19h3H5sHzdj.jpg

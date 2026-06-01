@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16389834
   imdb: tt0314679
   youtube: sLSfXmbKQFQ
+  tmdb: 524924
 sources:
 - https://www.wikidata.org/wiki/Q16389834
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - azerbaydzhanfilm
+poster_tmdb_path: /3HboqW3bNC4lSTwAFBc2sskXw6d.jpg

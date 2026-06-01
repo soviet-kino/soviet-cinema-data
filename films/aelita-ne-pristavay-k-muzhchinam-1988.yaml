@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4073634
   imdb: tt0126775
   youtube: QZNBUKzsPLE
+  tmdb: 74009
 sources:
 - https://www.wikidata.org/wiki/Q4073634
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: gundareva-natalya-georgievna
 studio:
 - mosfilm
+poster_tmdb_path: /bxRvDpKiE1jBGEozzVrLGnnhUpb.jpg
+backdrop_tmdb_path: /7FIyinkakOOLjNoEOkuLbrIrV0q.jpg

@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q54984
   imdb: tt0053154
+  tmdb: 577960
 sources:
 - https://www.wikidata.org/wiki/Q54984
 schema_version: 1
+poster_tmdb_path: /bIA2kZZawm8AejoAUm89LshytXy.jpg
+backdrop_tmdb_path: /5sfcnkvHZiPIeV6veHRpmnkH1N2.jpg

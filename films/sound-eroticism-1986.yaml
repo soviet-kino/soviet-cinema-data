@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q988391
   imdb: tt0089074
+  tmdb: 41060
 sources:
 - https://www.wikidata.org/wiki/Q988391
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - timar-peter
 cast:
 - person: rajhona-adam
+poster_tmdb_path: /fKUm6jignIJascGYgXyLrxkD5rI.jpg
+backdrop_tmdb_path: /fBlNEdSBOPYCbX6IsTR4mJc4z3B.jpg

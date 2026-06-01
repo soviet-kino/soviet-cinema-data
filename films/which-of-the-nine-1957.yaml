@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q59644269
   imdb: tt0360789
   youtube: T3WJAzQRCY8
+  tmdb: 760356
 sources:
 - https://www.wikidata.org/wiki/Q59644269
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: suto-iren
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /r8u9YPIRUNHRRw8ZaKwAWj35bd0.jpg

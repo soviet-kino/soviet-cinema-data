@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q54993
   imdb: tt0083271
+  tmdb: 22257
 sources:
 - https://www.wikidata.org/wiki/Q54993
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 studio:
 - studio-filmowe-kadr
 poster_commons: Henryk Kwinto mural, Vabank, Piramowicza 6, Łódź, 2023-03-18, 03.jpg
+poster_tmdb_path: /9jPrC8vIqGVx07eNRBwtatZe5Nr.jpg
+backdrop_tmdb_path: /y4tFR7iZTPJ2pREvDTlTkauvWZ5.jpg

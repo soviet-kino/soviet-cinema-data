@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9372609
   imdb: tt0088399
+  tmdb: 141757
 sources:
 - https://www.wikidata.org/wiki/Q9372609
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kvyatkovska-dorota
 - person: pracz-ryszard
 - person: ka-ucki-jacek
+poster_tmdb_path: /3ngnSPXvecAmQtrbf4VS7L0GEm4.jpg
+backdrop_tmdb_path: /g8YtzYLPFbLpTOoPbJwqRXHcWjO.jpg

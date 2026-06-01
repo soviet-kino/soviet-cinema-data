@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4442535
   imdb: tt0301896
   youtube: prU_T0koU4o
+  tmdb: 206838
 sources:
 - https://www.wikidata.org/wiki/Q4442535
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: dapkunayte-ingeborga
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /5QcIrBJsONNm9OzY20HTsQrJb15.jpg

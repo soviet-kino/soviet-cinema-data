@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q25894610
   imdb: tt0137159
+  tmdb: 630030
 sources:
 - https://www.wikidata.org/wiki/Q25894610
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: anghelescu-marcel
 - person: antoniu-kostake
 - person: etterle-fori
+poster_tmdb_path: /e8r0EVRKsvz9vns84720bAkf2Bn.jpg

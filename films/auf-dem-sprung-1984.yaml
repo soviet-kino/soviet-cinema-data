@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q106717249
   imdb: tt0305254
+  tmdb: 441243
 sources:
 - https://www.wikidata.org/wiki/Q106717249
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - shmidt-evelin
 cinematographer:
 - brand-peter
+poster_tmdb_path: /9BjIXGzuJWbygvOROtMjp19lFeO.jpg

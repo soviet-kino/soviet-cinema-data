@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20513569
   imdb: tt0413693
   youtube: oLFc9UMAprA
+  tmdb: 804415
 sources:
 - https://www.wikidata.org/wiki/Q20513569
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: egiazaryan-feliks
 - person: galoyan-hovak
 - person: nersisyan-ashot
+poster_tmdb_path: /8XAzVaLm9lYSujfXxKOBLvojlwq.jpg

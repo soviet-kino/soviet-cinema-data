@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q968386
   imdb: tt0088152
+  tmdb: 259627
 sources:
 - https://www.wikidata.org/wiki/Q968386
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - plenert-tomas
 composer:
 - ecke-jurgen
+backdrop_tmdb_path: /W1jT9rgNR95VIkCXP2fGeFRYcm.jpg

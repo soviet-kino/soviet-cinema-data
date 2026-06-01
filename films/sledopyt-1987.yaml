@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1196191
   imdb: tt0093992
   youtube: YQP5lY25x5s
+  tmdb: 379974
 sources:
 - https://www.wikidata.org/wiki/Q1196191
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: nemolyaeva-anastasiya-nikolaevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /uWe3mducv2jLOFmhkRb4rIy0HkO.jpg
+backdrop_tmdb_path: /9OAAa3KKgr1tT02epxksRlw9TH0.jpg

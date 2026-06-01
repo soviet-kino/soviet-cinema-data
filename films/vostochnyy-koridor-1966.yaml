@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4126626
   imdb: tt0348327
   youtube: CcGAHT9NhP4
+  tmdb: 160303
 sources:
 - https://www.wikidata.org/wiki/Q4126626
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - tariverdiev-mikael
 studio:
 - belarusfilm
+poster_tmdb_path: /myJF2J6knZGBREyJaOW2zNUI6HD.jpg
+backdrop_tmdb_path: /xot22HYH1hy9lxRYDHxyHA6DurW.jpg

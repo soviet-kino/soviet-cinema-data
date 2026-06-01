@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q7265201
   imdb: tt0152058
+  tmdb: 65915
 sources:
 - https://www.wikidata.org/wiki/Q7265201
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: borovcova-mareckova-lida
 - person: hradcansky-bohumil
 - person: ml-zdenek-martinek
+poster_tmdb_path: /59WbbLrvsYgx86aKmOeuEsFC9Gk.jpg
+backdrop_tmdb_path: /5zoPNTsv4YhFjrrlj7ZxeVfhLpm.jpg

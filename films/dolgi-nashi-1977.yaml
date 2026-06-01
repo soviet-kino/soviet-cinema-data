@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4164456
   imdb: tt0166579
+  tmdb: 626657
 sources:
 - https://www.wikidata.org/wiki/Q4164456
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - mosfilm
 cast:
 - person: markov-leonid-vasilevich
+poster_tmdb_path: /mqWnfu5yDELPfWRYPK75sCcgC26.jpg

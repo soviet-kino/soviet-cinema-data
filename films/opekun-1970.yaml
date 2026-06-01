@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4335161
   imdb: tt0314465
   youtube: KxJeEctWvxc
+  tmdb: 265099
 sources:
 - https://www.wikidata.org/wiki/Q4335161
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: luchko-klara-stepanovna
 studio:
 - mosfilm
+poster_tmdb_path: /Aih0CnYYSyJ36uNKmdAGLyy4QKJ.jpg
+backdrop_tmdb_path: /hmviBijotWCkAJhbLD6WKBplpBw.jpg

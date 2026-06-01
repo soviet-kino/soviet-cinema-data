@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q9158115
   imdb: tt0077171
+  tmdb: 245664
 sources:
 - https://www.wikidata.org/wiki/Q9158115
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - shopen-frederik
 cast:
 - person: mokicz-leonard
+poster_tmdb_path: /x4EVu8m4QyWGjNEe3dFxU2jTN5H.jpg
+backdrop_tmdb_path: /6G2M75DEdVtAWooQzxPAFtpvyuA.jpg

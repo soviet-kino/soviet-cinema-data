@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4455922
   imdb: tt0283045
+  tmdb: 558001
 sources:
 - https://www.wikidata.org/wiki/Q4455922
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: berikashvili-givi-zakharevich
 - person: tsuladze-baadur-sokratovich
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /7YOjWcdaMHqcq3gpEs3Da2RSHkm.jpg
+backdrop_tmdb_path: /zMeTi09AADrNE62DgA54PjBDfcj.jpg

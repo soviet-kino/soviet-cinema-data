@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q26809713
   imdb: tt1516048
+  tmdb: 947464
 sources:
 - https://www.wikidata.org/wiki/Q26809713
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - til-khaynts
 cinematographer:
 - hardt-horst
+poster_tmdb_path: /5rlGC9blFzWmKzpLqkZ8lAPUfKL.jpg

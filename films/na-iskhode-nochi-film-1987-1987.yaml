@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q131908243
   imdb: tt0093592
+  tmdb: 535179
 sources:
 - https://www.wikidata.org/wiki/Q131908243
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 studio:
 - mosfilm
 - defa
+poster_tmdb_path: /zhtz7a9Z4eX1rNZIDBJvbzrlsLc.jpg

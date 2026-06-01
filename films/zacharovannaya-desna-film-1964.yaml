@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7731993
   imdb: tt0175345
   youtube: 2Zi71IvGuPw
+  tmdb: 283454
 sources:
 - https://www.wikidata.org/wiki/Q7731993
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kirienko-zinaida-mikhaylovna
 - person: goncharov-vladimir-maksimovich
 - person: voronin-vyacheslav-anatolevich
+poster_tmdb_path: /hoGe2p0BuQ4yJSU7eRdCYuQ17eo.jpg
+backdrop_tmdb_path: /201jn08f3woneYhIgSyD9FlSIlk.jpg

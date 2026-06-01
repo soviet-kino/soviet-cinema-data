@@ -8,8 +8,10 @@ runtime_min: 161
 external_ids:
   wikidata: Q44864726
   imdb: tt0157611
+  tmdb: 388681
 sources:
 - https://www.wikidata.org/wiki/Q44864726
 schema_version: 1
 director:
 - stiopul-savel
+poster_tmdb_path: /tUwt4dfO3FMmQoIezDwZG20KzRz.jpg

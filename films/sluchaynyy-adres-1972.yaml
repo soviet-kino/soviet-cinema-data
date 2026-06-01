@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q12089458
   imdb: tt4701804
   youtube: -pMRgU_BavY
+  tmdb: 1487546
 sources:
 - https://www.wikidata.org/wiki/Q12089458
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - vetrov-igor
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /AqTYO4PnBOT9hG370flrS2TsMbj.jpg

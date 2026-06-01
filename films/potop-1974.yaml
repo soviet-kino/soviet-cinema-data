@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q960920
   imdb: tt0072021
   youtube: 42OfrVVLwMk
+  tmdb: 36627
 sources:
 - https://www.wikidata.org/wiki/Q960920
 schema_version: 1
@@ -46,3 +47,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 - belarusfilm
 - zespo-y-filmowe
+poster_tmdb_path: /i6IDD8dKjRQseoReG3z8nOrCoVQ.jpg
+backdrop_tmdb_path: /s89eDfWVe1Jlb8WSNpwAhvQWaNM.jpg

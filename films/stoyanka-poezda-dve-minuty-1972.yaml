@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4443231
   imdb: tt0069317
   youtube: OVn2u1L6zkM
+  tmdb: 80604
 sources:
 - https://www.wikidata.org/wiki/Q4443231
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: telichkina-valentina
 studio:
 - ekran
+poster_tmdb_path: /uOp7TrOTxIk2rsSYBqF7VP83ZP.jpg
+backdrop_tmdb_path: /hj2m9wH3NTkzyyL04L8LKO5f0gU.jpg

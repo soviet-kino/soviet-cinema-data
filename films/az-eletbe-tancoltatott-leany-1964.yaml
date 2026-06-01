@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4831990
   imdb: tt0058786
+  tmdb: 198812
 sources:
 - https://www.wikidata.org/wiki/Q4831990
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: bardi-zhurzh
 - person: gobbi-khilda
 - person: mayor-tamash
+poster_tmdb_path: /bA8JkN6fMlIQAMhaVW3eF8uM6jN.jpg
+backdrop_tmdb_path: /opoCrRrlUtjnOtwq5DZHovZ90VS.jpg

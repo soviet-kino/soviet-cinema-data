@@ -8,6 +8,7 @@ runtime_min: 364
 external_ids:
   wikidata: Q4457141
   imdb: tt5898016
+  tmdb: 439810
 sources:
 - https://www.wikidata.org/wiki/Q4457141
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - verbitskiy-leonid-lazarevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /66FiR27y8mm4sLbMd5rLGfFx0oJ.jpg

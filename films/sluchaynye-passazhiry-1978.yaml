@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q113653485
   imdb: tt0195273
+  tmdb: 85360
 sources:
 - https://www.wikidata.org/wiki/Q113653485
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - bibergan-vadim-davidovich
 studio:
 - lenfilm
+poster_tmdb_path: /daVmCSjtDeOqBYoc8nbO6sgiOR8.jpg

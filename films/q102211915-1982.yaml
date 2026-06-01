@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q102211915
   imdb: tt0084378
+  tmdb: 378547
 sources:
 - https://www.wikidata.org/wiki/Q102211915
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: kading-birgit
 studio:
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /5RbxzDNCRsCjJj1AFt3W2lZsbVZ.jpg
+backdrop_tmdb_path: /szgqlKumUAZB3FxeqTeyOQDyAm3.jpg

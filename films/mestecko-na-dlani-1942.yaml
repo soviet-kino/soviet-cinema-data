@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q6950926
   imdb: tt0199765
+  tmdb: 582800
 sources:
 - https://www.wikidata.org/wiki/Q6950926
 schema_version: 1
@@ -79,3 +80,4 @@ cast:
 - person: vavrova-karolina
 - person: sanda-karel
 - person: pleskot-josef
+poster_tmdb_path: /9kUkhN6n2B3Z6BDEKHCDHbVRjvX.jpg

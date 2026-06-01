@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4303530
   imdb: tt0033713
   youtube: W5krXYhdMoM
+  tmdb: 534246
 sources:
 - https://www.wikidata.org/wiki/Q4303530
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: osvetsimskiy-vladimir-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /gFMTCvAtzjMivO7zGMTRfxx2NBY.jpg
+backdrop_tmdb_path: /vlCpAibYk4J3jkye8NF0ppLY3ss.jpg

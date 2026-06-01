@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12781415
   imdb: tt0241660
+  tmdb: 46215
 sources:
 - https://www.wikidata.org/wiki/Q12781415
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: belan-jozef
 - person: tomascik-emil
 - person: siazik-jan
+poster_tmdb_path: /xSPr5uK1HrmOjR5cRBYvAAYybJF.jpg

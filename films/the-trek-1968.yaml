@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12757666
   imdb: tt0180056
+  tmdb: 367519
 sources:
 - https://www.wikidata.org/wiki/Q12757666
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: drazenovic-ljerka
 - person: dzhuritsko-tomaniya
 - person: djuric-dusan
+poster_tmdb_path: /gozi29QDMbzJvv7wNd5eZSoYdA7.jpg
+backdrop_tmdb_path: /rEsIxqANWHgSDT86Ht1RxHlFBB8.jpg

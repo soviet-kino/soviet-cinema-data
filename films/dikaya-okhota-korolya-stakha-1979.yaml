@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q1339331
   imdb: tt0128164
+  tmdb: 149843
 sources:
 - https://www.wikidata.org/wiki/Q1339331
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: klass-igor
 - person: plotnikov-boris
 - person: kharitonov-aleksandr-ivanovich
+poster_tmdb_path: /n7lxXORUu5z38qHRwPesXM16bFJ.jpg
+backdrop_tmdb_path: /jxZ45aD3S1YyHef9QBGjxHTSmZk.jpg

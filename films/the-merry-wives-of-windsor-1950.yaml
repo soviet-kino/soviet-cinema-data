@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q1219023
   imdb: tt0042695
+  tmdb: 303338
 sources:
 - https://www.wikidata.org/wiki/Q1219023
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: halley-ina
 studio:
 - defa
+poster_tmdb_path: /ddn394x0lMsRFp9gzME3l98juFL.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109324361
   imdb: tt0355236
+  tmdb: 1170720
 sources:
 - https://www.wikidata.org/wiki/Q109324361
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: sabry-maha
 - person: ayub-samiha
 - person: q109256210
+poster_tmdb_path: /axTT1WMhwFGww8wOfiQnoROoSRX.jpg
+backdrop_tmdb_path: /9KCpCJDm6FnILspQjulCVapgwhn.jpg

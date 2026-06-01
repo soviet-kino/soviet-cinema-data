@@ -8,6 +8,7 @@ runtime_min: 26
 external_ids:
   wikidata: Q30904144
   imdb: tt0177292
+  tmdb: 935053
 sources:
 - https://www.wikidata.org/wiki/Q30904144
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - ezhi-matushkevich
 cast:
 - person: shaflyarskaya-danuta
+poster_tmdb_path: /9eKIjkZwj7I6XlcHhx1mtQPUPZp.jpg

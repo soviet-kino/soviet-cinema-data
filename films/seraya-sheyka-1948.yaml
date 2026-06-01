@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4416678
   imdb: tt1794948
+  tmdb: 306042
 sources:
 - https://www.wikidata.org/wiki/Q4416678
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Szara szyjka (1948).jpg
+poster_tmdb_path: /nt5VLvcpRg5BFlU4lQWULWtTgzd.jpg
+backdrop_tmdb_path: /lfnSISITqB11fOvTHNs1wRvUFvW.jpg

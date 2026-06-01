@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q4422207
   imdb: tt0124127
+  tmdb: 157751
 sources:
 - https://www.wikidata.org/wiki/Q4422207
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: chkhikvadze-ramaz-grigorevich
 studio:
 - lenfilm
+poster_tmdb_path: /v7v5xSNMmiG9lZ0ruzqXkp77hxg.jpg
+backdrop_tmdb_path: /jvG90OfaJY7QzUQPHNyTa5tQbnB.jpg

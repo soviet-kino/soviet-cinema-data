@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3510400
   imdb: tt0040015
+  tmdb: 383443
 sources:
 - https://www.wikidata.org/wiki/Q3510400
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: ilic-ukic-vera
 - person: jasnic-milutin
 - person: aleksandr-stoykovich
+poster_tmdb_path: /g0Tm9VRNBq0lpidQySy5d0qAl26.jpg
+backdrop_tmdb_path: /iOKO3iu2bzjfLM1YDFUNLtHBQjz.jpg

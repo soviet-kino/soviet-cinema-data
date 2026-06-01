@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q1451856
   imdb: tt0044635
+  tmdb: 139687
 sources:
 - https://www.wikidata.org/wiki/Q1451856
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: delshaft-mali
 - person: byorg-ursula
 - person: medding-irene
+poster_tmdb_path: /d4G80CaVQ74OhQXUc5VGMTqw3HW.jpg

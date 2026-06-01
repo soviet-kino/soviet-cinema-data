@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378266
   imdb: tt0230662
   youtube: mTHwAdNp4x0
+  tmdb: 285957
 sources:
 - https://www.wikidata.org/wiki/Q4378266
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: zoya-fyodorovna-barantsevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9Nvm8Ys5Z05s1iJ7DDx5Jx7UCA0.jpg

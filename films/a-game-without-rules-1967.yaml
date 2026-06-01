@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q39047111
   imdb: tt0240590
+  tmdb: 392847
 sources:
 - https://www.wikidata.org/wiki/Q39047111
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: st-karel-hovorka
 - person: jandackova-eva
 - person: chlouba-vladimir
+poster_tmdb_path: /lX1b4kzNWJ7YVCFyVvOrQOxXmat.jpg
+backdrop_tmdb_path: /nbSut2GtdkylUtxl6QYuBLTdpzP.jpg

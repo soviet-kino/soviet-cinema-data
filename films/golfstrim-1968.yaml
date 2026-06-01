@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q93959878
   imdb: tt5228924
+  tmdb: 1604392
 sources:
 - https://www.wikidata.org/wiki/Q93959878
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: burlyaev-nikolai
+poster_tmdb_path: /mfQEbfToK7E9H36DFmmXXOEz2du.jpg
+backdrop_tmdb_path: /qA4FVtOw4gnMhnIRFiC9HPoH2ls.jpg

@@ -8,6 +8,7 @@ runtime_min: 22
 external_ids:
   wikidata: Q27997001
   imdb: tt0172817
+  tmdb: 655498
 sources:
 - https://www.wikidata.org/wiki/Q27997001
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - komeda-kshishtof
 cast:
 - person: zo-nierkiewicz-micha
+poster_tmdb_path: /44Lk6VrfHjR58Ow5iZyTqXCbOO5.jpg

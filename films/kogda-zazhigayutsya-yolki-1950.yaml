@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226033
   imdb: tt0211466
   youtube: 2YpQMvH8kXY
+  tmdb: 144441
 sources:
 - https://www.wikidata.org/wiki/Q4226033
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - khachaturyan-karen
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zgFOe1yOdoCAbQqI8BGgPClXX7C.jpg
+backdrop_tmdb_path: /iH26IdRXXqFQpV6vkN1KWJ4TBzl.jpg

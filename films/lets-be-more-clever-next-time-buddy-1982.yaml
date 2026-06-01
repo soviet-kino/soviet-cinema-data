@@ -55,6 +55,9 @@ runtime_min: 84
 external_ids:
   wikidata: Q12048361
   imdb: tt0175085
+  tmdb: 250469
 sources:
 - https://www.wikidata.org/wiki/Q12048361
 schema_version: 1
+poster_tmdb_path: /oTvjigCDXxWOhktDJqGncjgs0E5.jpg
+backdrop_tmdb_path: /yqyd4oF2hCCkZSy29GvoWfnWg9d.jpg

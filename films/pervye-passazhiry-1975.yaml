@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q126539592
   imdb: tt5370138
+  tmdb: 1414484
 sources:
 - https://www.wikidata.org/wiki/Q126539592
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: ganiev-otabek
 studio:
 - uzbekfilm
+poster_tmdb_path: /nNQVsZ1GSbSM0F17Q6svcqAgnID.jpg

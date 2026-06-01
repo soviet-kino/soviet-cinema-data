@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4516425
   imdb: tt0072780
   youtube: qHnoXKOTEh0
+  tmdb: 121270
 sources:
 - https://www.wikidata.org/wiki/Q4516425
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ivanov-boris-vladimirovich
 - person: pleshkite-eugeniya
 - person: taratorkin-georgiy-georgievich
+poster_tmdb_path: /x0oo9FuvD6jWy4Oygb6BPWGMqyC.jpg
+backdrop_tmdb_path: /fNv7FoRnoCj2QRM2Qq7a3cid6ep.jpg

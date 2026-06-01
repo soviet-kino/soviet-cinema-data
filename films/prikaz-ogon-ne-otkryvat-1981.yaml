@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4378328
   imdb: tt0237608
   youtube: 608wOWuitds
+  tmdb: 213122
 sources:
 - https://www.wikidata.org/wiki/Q4378328
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: biryukov-vladlen-egorovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /jPrnh3JTmop9mCPzf4XM0R0c8OE.jpg
+backdrop_tmdb_path: /6EgPS4aNqsHJ6HZKT3MJxhqYQPP.jpg

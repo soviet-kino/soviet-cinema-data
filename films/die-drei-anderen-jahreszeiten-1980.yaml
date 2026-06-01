@@ -8,6 +8,7 @@ runtime_min: 36
 external_ids:
   wikidata: Q100420941
   imdb: tt14510732
+  tmdb: 694225
 sources:
 - https://www.wikidata.org/wiki/Q100420941
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - tetzlaff-kurt
 composer:
 - fisher-gyunter
+poster_tmdb_path: /qcbYVDdTzCgdwY89b3HmXM2fCi6.jpg

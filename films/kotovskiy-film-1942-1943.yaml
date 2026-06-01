@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4236251
   imdb: tt0036083
   youtube: u6P8YwOqRqA
+  tmdb: 337672
 sources:
 - https://www.wikidata.org/wiki/Q4236251
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - kazakhfilm
+poster_tmdb_path: /ewLsMdyP912jR7GbKNenltfSlFJ.jpg
+backdrop_tmdb_path: /mMC51sipc2BPRjrtZlLRpzFOrDf.jpg

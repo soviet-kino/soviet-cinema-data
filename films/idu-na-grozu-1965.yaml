@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4197983
   imdb: tt0129152
+  tmdb: 447934
 sources:
 - https://www.wikidata.org/wiki/Q4197983
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: astangov-mikhail-fyodorovich
 - person: lanovoy-vasiliy-semyonovich
 - person: plyatt-rostislav-yanovich
+poster_tmdb_path: /f57tMTWblkCIhc9DNXrQV9ZyhP.jpg
+backdrop_tmdb_path: /fYLbwI9vqrzZ8t4ShlfxQCNUICa.jpg

@@ -8,6 +8,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q48948142
   imdb: tt0140566
+  tmdb: 176407
 sources:
 - https://www.wikidata.org/wiki/Q48948142
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - vertov-dziga
 studio:
 - goskino
+poster_tmdb_path: /bp7MjOHlaf2mVtr6t5Rb3hzvKAj.jpg
+backdrop_tmdb_path: /p80muL70BvHqkD08mpp8ssEgzOh.jpg

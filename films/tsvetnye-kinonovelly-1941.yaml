@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q18279716
   imdb: tt0250788
   youtube: BEcdRKyvYCM
+  tmdb: 1154119
 sources:
 - https://www.wikidata.org/wiki/Q18279716
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: shpigel-grigoriy-oyzerovich
 studio:
 - mosfilm
+poster_tmdb_path: /o4OFUFzLy20dMDw7sKCyP7YImIL.jpg

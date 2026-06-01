@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q40663820
   imdb: tt0393453
+  tmdb: 465866
 sources:
 - https://www.wikidata.org/wiki/Q40663820
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - bellag-lotar
 composer:
 - vefelmeyer-bernd
+poster_tmdb_path: /hOcTQqGE6dL418ekQDZ38SwKRDU.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44867284
   imdb: tt0174845
+  tmdb: 626587
 sources:
 - https://www.wikidata.org/wiki/Q44867284
 schema_version: 1
 director:
 - moldovan-mircha
+poster_tmdb_path: /wjUL5uplxLddmduaLJeD6e2v6Dw.jpg

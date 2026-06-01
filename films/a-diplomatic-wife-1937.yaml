@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16203509
   imdb: tt0030094
+  tmdb: 945643
 sources:
 - https://www.wikidata.org/wiki/Q16203509
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: khelena-grossuvna
 - person: znich-mikhal
 - person: zhabchinskiy-aleksandr-bozhidar
+poster_tmdb_path: /xskWHd0iGGuY9kLycAU2Urahi3P.jpg

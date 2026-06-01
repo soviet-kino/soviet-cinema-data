@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3040350
   imdb: tt0058259
   youtube: X6BZp4JLvxM
+  tmdb: 173873
 sources:
 - https://www.wikidata.org/wiki/Q3040350
 schema_version: 1
@@ -56,3 +57,5 @@ cast:
 - person: pav-pavel
 - person: kment-zdenek
 - person: vitak-jaroslav
+poster_tmdb_path: /neMXFwIEMB6Sj8LJA6LltaF4IXK.jpg
+backdrop_tmdb_path: /uUNsFOguDYxQzEcOkZU4CDnw73W.jpg

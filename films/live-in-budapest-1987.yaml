@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q558808
   imdb: tt0093427
+  tmdb: 142773
 sources:
 - https://www.wikidata.org/wiki/Q558808
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: mey-brayan
 - person: teylor-rodzher
 - person: dikon-dzhon
+poster_tmdb_path: /5FF36kmINY9n2FFmprw0DBQRNgY.jpg
+backdrop_tmdb_path: /xgCiNONSVdeqraxWxD67wJpZt34.jpg

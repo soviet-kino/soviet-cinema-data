@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q472230
   imdb: tt0059812
+  tmdb: 158713
 sources:
 - https://www.wikidata.org/wiki/Q472230
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: mayor-tamash
 - person: imre-shinkovich
+poster_tmdb_path: /7A7RWHC6ggtKtEpbKfa8E1UI253.jpg
+backdrop_tmdb_path: /3vjLwvGF0Mp8GkqFdQOZJBpHMmE.jpg

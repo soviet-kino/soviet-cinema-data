@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q1212145
   imdb: tt0070025
+  tmdb: 259449
 sources:
 - https://www.wikidata.org/wiki/Q1212145
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 studio:
 - defa
 - barrandov-film-studio
+poster_tmdb_path: /5AKp49dZDsgA9Gqy5aPMGdpMs52.jpg

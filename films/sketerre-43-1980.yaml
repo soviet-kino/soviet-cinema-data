@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816547
   imdb: tt0354026
+  tmdb: 479030
 sources:
 - https://www.wikidata.org/wiki/Q11816547
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - ljarja-rikard
 composer:
 - coba-zef
+poster_tmdb_path: /uEhu97xJo9GP9VO1wzQ6OS9C6BT.jpg
+backdrop_tmdb_path: /223kr8myXyLjG2HWTvZ6RKf96cw.jpg

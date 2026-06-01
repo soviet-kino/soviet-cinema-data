@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q15852447
   imdb: tt0447517
+  tmdb: 421722
 sources:
 - https://www.wikidata.org/wiki/Q15852447
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - nayssoo-uno
 cast:
 - person: kiysk-kalyo-karlovich
+poster_tmdb_path: /4JCy7vXGXLzcB9reTc57BrXlt0C.jpg
+backdrop_tmdb_path: /aEZRcIZf22coI4N0gLoHm3OGlZk.jpg

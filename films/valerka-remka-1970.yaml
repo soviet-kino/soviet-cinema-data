@@ -8,6 +8,7 @@ runtime_min: 29
 external_ids:
   wikidata: Q4102850
   imdb: tt1873631
+  tmdb: 404466
 sources:
 - https://www.wikidata.org/wiki/Q4102850
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: gromov-andrey-yurevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /pJS6Jb49MHFBFlriRgyg4tvzLg4.jpg
+backdrop_tmdb_path: /dz0x3AZjvVFqzr1NQ5ZbAA2xdHn.jpg

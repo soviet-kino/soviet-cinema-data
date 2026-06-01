@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7730911
   imdb: tt0060932
+  tmdb: 268856
 sources:
 - https://www.wikidata.org/wiki/Q7730911
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: vuysich-dushan
 - person: golumbovski-dusan
 - person: aleksandr-stoykovich
+poster_tmdb_path: /rfQ3hkGWfmyduORVGiBVCUAHCYm.jpg
+backdrop_tmdb_path: /tNuFTTiAAAurUz0huVN6RlEW5tG.jpg

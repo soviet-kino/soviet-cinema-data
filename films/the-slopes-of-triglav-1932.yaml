@@ -8,8 +8,10 @@ runtime_min: 82
 external_ids:
   wikidata: Q20521068
   imdb: tt0324328
+  tmdb: 269048
 sources:
 - https://www.wikidata.org/wiki/Q20521068
 schema_version: 1
 director:
 - delak-ferdo
+poster_tmdb_path: /5eCUVgxMqEYYGsC7DuqGA23a5ew.jpg

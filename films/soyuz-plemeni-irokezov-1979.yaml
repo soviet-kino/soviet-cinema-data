@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q883105
   imdb: tt0078874
+  tmdb: 208359
 sources:
 - https://www.wikidata.org/wiki/Q883105
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: khofman-yutta
 - person: byove-kurt
 - person: shpitser-yan
+poster_tmdb_path: /j0VVmuATfz6HENYrYPkxQ1te45j.jpg
+backdrop_tmdb_path: /wJCveOFfvpgTTXRpE2hVyb2Oo9m.jpg

@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q18713017
   imdb: tt0240040
+  tmdb: 607353
 sources:
 - https://www.wikidata.org/wiki/Q18713017
 schema_version: 1
@@ -52,3 +53,4 @@ cast:
 - person: kupsovsky-bohuslav
 - person: vandasova-eva
 - person: mottlova-madlena
+poster_tmdb_path: /wwpgxBKwMwKNl3qVYz1scSMnOiU.jpg

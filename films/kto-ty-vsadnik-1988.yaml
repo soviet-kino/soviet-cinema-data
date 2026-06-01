@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q129771594
   imdb: tt0298979
+  tmdb: 1164272
 sources:
 - https://www.wikidata.org/wiki/Q129771594
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - khasangaliev-eskendir-utegenovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /5qoe51PYym6fbdXcGuLXsQjrs3Z.jpg

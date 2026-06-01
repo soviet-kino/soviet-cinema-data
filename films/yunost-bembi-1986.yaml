@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q12173005
   imdb: tt0092275
+  tmdb: 64757
 sources:
 - https://www.wikidata.org/wiki/Q12173005
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: belyaeva-galina
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /A3I3TOw1qcLA7Jxl6y5wvJFidg5.jpg
+backdrop_tmdb_path: /jiVpkDIZ7VHAZT4L2tDi7MDL3lB.jpg

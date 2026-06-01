@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q19600331
   imdb: tt0076899
+  tmdb: 808931
 sources:
 - https://www.wikidata.org/wiki/Q19600331
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: doubkova-zora
 - person: jassikova-anita
 - person: mikulinova-dagmar
+poster_tmdb_path: /m0P1xUkimMyExJEmY5ZJ2YjRjmN.jpg

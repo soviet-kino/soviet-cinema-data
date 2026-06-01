@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44874101
   imdb: tt0182450
+  tmdb: 991496
 sources:
 - https://www.wikidata.org/wiki/Q44874101
 schema_version: 1
 director:
 - nicolae-cristiana
+poster_tmdb_path: /a0SyJS17a7fur9GeKFexDQCWrcM.jpg

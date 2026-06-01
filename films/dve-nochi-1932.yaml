@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q20511027
   imdb: tt0267054
+  tmdb: 1162596
 sources:
 - https://www.wikidata.org/wiki/Q20511027
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: buniatyan-ori
 - person: dzhanan-mkrtich
 - person: samvelyan-aram
+poster_tmdb_path: /744V0PFUw7Iiv3up3onQikQYODH.jpg

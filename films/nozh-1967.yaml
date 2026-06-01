@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12756341
   imdb: tt0062054
+  tmdb: 266510
 sources:
 - https://www.wikidata.org/wiki/Q12756341
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: zoran-milosavlevich
 - person: tasovac-predrag
 - person: slovenski-petr
+poster_tmdb_path: /rq7ICVvHuZD1Xfm6jbDVeUeVQr1.jpg
+backdrop_tmdb_path: /aij4xjBl6nYNIfH1g8pk1exhlZ2.jpg

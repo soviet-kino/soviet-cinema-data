@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q11740643
   imdb: tt0060598
+  tmdb: 553442
 sources:
 - https://www.wikidata.org/wiki/Q11740643
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - mundkowski-andrzej
 cast:
 - person: khoravyanka-barbara
+poster_tmdb_path: /oJpRSWC2ivQDzKWuHGZbGTBG59E.jpg

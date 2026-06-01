@@ -8,6 +8,7 @@ runtime_min: 161
 external_ids:
   wikidata: Q4080538
   imdb: tt0072690
+  tmdb: 344798
 sources:
 - https://www.wikidata.org/wiki/Q4080538
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kuravlyov-leonid-vyacheslavovich
 - person: fayt-andrey-andreevich
 - person: bolotova-zhanna-andreevna
+poster_tmdb_path: /zTlZ7gkD4H9C3XGcP7upq8PAx8n.jpg
+backdrop_tmdb_path: /4AFFbGpGsN2AHfEpfSvelasPJAx.jpg

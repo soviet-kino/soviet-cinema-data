@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7755945
   imdb: tt0081087
+  tmdb: 440073
 sources:
 - https://www.wikidata.org/wiki/Q7755945
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: andrey-violeta
 - person: sayzesku-dzho
+poster_tmdb_path: /4Q9C3AIro6BGa0lwOzzTNTFeKNR.jpg

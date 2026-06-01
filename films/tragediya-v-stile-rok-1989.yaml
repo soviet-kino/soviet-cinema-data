@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4461745
   imdb: tt0096296
   youtube: E8tcVsK7ja4
+  tmdb: 391444
 sources:
 - https://www.wikidata.org/wiki/Q4461745
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - kuryokhin-sergey-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /2BXOMMLfok92EcKDaLu17vOpFCA.jpg
+backdrop_tmdb_path: /uBq24Av6I5kJDgW6D8l0hwc7v00.jpg

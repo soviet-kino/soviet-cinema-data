@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q102047192
   imdb: tt0380831
+  tmdb: 275079
 sources:
 - https://www.wikidata.org/wiki/Q102047192
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - stube-gerhard
 cinematographer:
 - zore-rolf
+poster_tmdb_path: /2ZIAySQENKb9e9NRPYqza1f6Pur.jpg

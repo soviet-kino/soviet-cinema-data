@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q4406667
   imdb: tt2111403
+  tmdb: 91180
 sources:
 - https://www.wikidata.org/wiki/Q4406667
 schema_version: 1
@@ -26,3 +27,4 @@ composer:
 studio:
 - sovkino
 poster_commons: Самоедский мальчик.jpg
+poster_tmdb_path: /mpM7Fxi34ukZp4NIT2gUiux3qsN.jpg

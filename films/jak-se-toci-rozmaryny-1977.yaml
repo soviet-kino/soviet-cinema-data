@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q110255088
   imdb: tt0174787
+  tmdb: 418505
 sources:
 - https://www.wikidata.org/wiki/Q110255088
 schema_version: 1
@@ -79,3 +80,5 @@ cast:
 - person: pouzar-michal
 - person: kulisek-vlastimil
 - person: q134506557
+poster_tmdb_path: /aQhmoPGwGfvmfCpNJNNPypLOQUl.jpg
+backdrop_tmdb_path: /1HUOHvLK8ZPRSUhECbKKlnvsAgL.jpg

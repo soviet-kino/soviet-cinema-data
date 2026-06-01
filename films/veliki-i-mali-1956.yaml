@@ -8,8 +8,11 @@ runtime_min: 83
 external_ids:
   wikidata: Q11230487
   imdb: tt0174320
+  tmdb: 284156
 sources:
 - https://www.wikidata.org/wiki/Q11230487
 schema_version: 1
 director:
 - pogachich-vladimir
+poster_tmdb_path: /fhCbGE8VUMfJitYUCpS8i2tFaPK.jpg
+backdrop_tmdb_path: /tGS0Db26USckzUla2gypjnkzUSA.jpg

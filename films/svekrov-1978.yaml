@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4410065
   imdb: tt1411769
+  tmdb: 524162
 sources:
 - https://www.wikidata.org/wiki/Q4410065
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: ogly-akhmedov-ilkham-namig-kyamal
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /2W5wWYoUBNEA4BfGwxPfxztse2Y.jpg
+backdrop_tmdb_path: /beGWaTcQ13ghbq179OuMXpWW9lw.jpg

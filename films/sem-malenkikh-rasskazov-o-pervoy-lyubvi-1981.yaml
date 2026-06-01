@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q119293674
   imdb: tt0826626
+  tmdb: 206644
 sources:
 - https://www.wikidata.org/wiki/Q119293674
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - mataradze-georgiy-vakhtangovich
 studio:
 - gruziya-film
+poster_tmdb_path: /6H4PSKjWhwYENtEfyBSSKWnSPLq.jpg

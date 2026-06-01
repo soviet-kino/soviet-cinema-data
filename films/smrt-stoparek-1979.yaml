@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12055069
   imdb: tt0240906
+  tmdb: 260259
 sources:
 - https://www.wikidata.org/wiki/Q12055069
 schema_version: 1
@@ -84,3 +85,5 @@ cast:
 - person: janousek-josef
 - person: reichert-jiri
 - person: hurych-vratislav
+poster_tmdb_path: /syPxMPinBLU2eVP9NdUmxRs6L6y.jpg
+backdrop_tmdb_path: /aW9SAgquFPHrjQSASh6vwssGVcE.jpg

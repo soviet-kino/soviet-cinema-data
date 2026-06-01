@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q319155
   imdb: tt0050093
+  tmdb: 408918
 sources:
 - https://www.wikidata.org/wiki/Q319155
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - martsinkovskiy-gyunter
 cast:
 - person: wolf-gunter
+poster_tmdb_path: /6oPLzGFh0vJXDL7i9Ulni6zO39K.jpg

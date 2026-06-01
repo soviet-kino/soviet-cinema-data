@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4453397
   imdb: tt0276550
   youtube: jhnQMkIsXTM
+  tmdb: 352290
 sources:
 - https://www.wikidata.org/wiki/Q4453397
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: tsilinskiy-gunar-alfredovich
 - person: kalnynsh-ivar
 - person: amerika-lilija
+poster_tmdb_path: /pgCC0goEDYFKYhAROEjNRqrZ3q6.jpg
+backdrop_tmdb_path: /fstC8xUNVkRBU36irOtNcnD6hT3.jpg

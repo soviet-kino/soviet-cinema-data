@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q248145
   imdb: tt0078542
+  tmdb: 295325
 sources:
 - https://www.wikidata.org/wiki/Q248145
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: scholz-willi
 - person: martin-katrin
 - person: brash-klaus
+poster_tmdb_path: /rwNo9S9Zx0DaxFWZmnynE29H1lh.jpg
+backdrop_tmdb_path: /uReFSZW6NRbACEYmjCQFgKFQE4V.jpg

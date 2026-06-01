@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5306885
   imdb: tt0171244
+  tmdb: 371570
 sources:
 - https://www.wikidata.org/wiki/Q5306885
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: lyuitt-pol
 - person: prill-alice
 - person: hoffmann-gabriele
+poster_tmdb_path: /2VoYbg3HD89AwTkl3kXCKrTF1FQ.jpg

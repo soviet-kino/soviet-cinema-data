@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3651131
   imdb: tt0261637
+  tmdb: 1209047
 sources:
 - https://www.wikidata.org/wiki/Q3651131
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - tuskiya-iona-iraklievich
 cast:
 - person: tsitsishvili-tamara-iosifovna
+poster_tmdb_path: /6V5FnM69zDJOnCHRfmPGPTMdjRS.jpg
+backdrop_tmdb_path: /u5xCHtcsvtfJLXTxFHPcFqJPotd.jpg

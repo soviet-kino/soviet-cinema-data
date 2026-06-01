@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q11057596
   imdb: tt0295934
+  tmdb: 486163
 sources:
 - https://www.wikidata.org/wiki/Q11057596
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: koka-nertila
 studio:
 - albfilm
+poster_tmdb_path: /s2MMKNH1Gxe6qMzflixU5siv8TF.jpg
+backdrop_tmdb_path: /7l1uvqrYOvIEMP0nRaCioQEcQh2.jpg

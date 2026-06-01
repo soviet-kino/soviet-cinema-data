@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q32686
   imdb: tt0171334
   youtube: Q4vASrxgOwU
+  tmdb: 828175
 sources:
 - https://www.wikidata.org/wiki/Q32686
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: agzamov-gani
 - person: khodzhaev-saib-khodzhaevich
 - person: umarov-khamza
+poster_tmdb_path: /rRKdxmZsmfN9sCpTjNnOerqn9n4.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4168576
   imdb: tt0058195
+  tmdb: 286384
 sources:
 - https://www.wikidata.org/wiki/Q4168576
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: perten-khans-anselm
 - person: khindemit-kharri
 - person: kommerell-ruth
+poster_tmdb_path: /3a75aZYBZIWY4k9AjJKIFpbwo4D.jpg

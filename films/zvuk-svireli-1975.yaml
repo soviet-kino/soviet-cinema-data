@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q12846807
   imdb: tt0174363
+  tmdb: 524720
 sources:
 - https://www.wikidata.org/wiki/Q12846807
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: kyzy-yusupova-shukyufa-mukheddin
 - person: magerramov-akif
 - person: sadykhova-zemfira
+poster_tmdb_path: /8EXp0H8NhShReRExZ7fO4xBjzax.jpg
+backdrop_tmdb_path: /pwuSJEE8DIIw6zuEC7u44F9nrYo.jpg

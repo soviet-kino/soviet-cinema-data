@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q60971434
   imdb: tt7665722
+  tmdb: 885254
 sources:
 - https://www.wikidata.org/wiki/Q60971434
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - tomilin-viktor-konstantinovich
 studio:
 - lenfilm
+poster_tmdb_path: /2juYJnkPGUBVTBW9DPSCEcd0719.jpg

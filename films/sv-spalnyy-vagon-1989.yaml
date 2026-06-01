@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97169434
   imdb: tt0098242
   youtube: MKin_qYf6O0
+  tmdb: 470804
 sources:
 - https://www.wikidata.org/wiki/Q97169434
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: aktyor-smirnov-viktor-fyodorovich
 - person: stepanov-viktor-fyodorovich
 - person: kryuchkova-svetlana
+poster_tmdb_path: /ktJvXY8lbcklgdeYvhXVlpgIeTI.jpg
+backdrop_tmdb_path: /4ipvDgzrKpGKUJrPOXG65qxxSrJ.jpg

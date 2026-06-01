@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1453820
   imdb: tt0056919
+  tmdb: 46982
 sources:
 - https://www.wikidata.org/wiki/Q1453820
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: bendl-jaroslav-2
 - person: prazak-frantisek
 - person: urbankova-dana
+poster_tmdb_path: /9lnTQs4Nml5DGTJBh51LTwxOj6m.jpg
+backdrop_tmdb_path: /jWUjXdQF7b3L6kRGfoCZLjSBbDg.jpg

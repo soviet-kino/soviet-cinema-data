@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q110060887
   imdb: tt1260576
+  tmdb: 1050492
 sources:
 - https://www.wikidata.org/wiki/Q110060887
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: blazek-ladislav
 - person: danda-josef
 - person: stanek-vladimir
+poster_tmdb_path: /mILR614LjE5vuiEE1Pkt9XCreDu.jpg

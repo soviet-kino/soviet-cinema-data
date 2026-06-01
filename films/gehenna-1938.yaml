@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5530070
   imdb: tt0281879
+  tmdb: 607449
 sources:
 - https://www.wikidata.org/wiki/Q5530070
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: fertner-antoni
 - person: vysotskaya-stanislava
 poster_commons: Zdjęcie z planu filmu Gehenna, 1938.jpg
+poster_tmdb_path: /8HYdeikT1RIMj32IBwOxqUi1hP5.jpg

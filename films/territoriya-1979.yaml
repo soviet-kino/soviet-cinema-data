@@ -22,6 +22,9 @@ external_ids:
   wikidata: Q4456212
   imdb: tt0407250
   youtube: NbqJt-1-4cU
+  tmdb: 467235
 sources:
 - https://www.wikidata.org/wiki/Q4456212
 schema_version: 1
+poster_tmdb_path: /se20z7X5Z2hcaWUTs9oERy8zQV6.jpg
+backdrop_tmdb_path: /ljwdVnMDdDO2mOqhUD5N9wvylS2.jpg

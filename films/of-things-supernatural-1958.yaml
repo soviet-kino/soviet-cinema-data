@@ -89,6 +89,8 @@ runtime_min: 104
 external_ids:
   wikidata: Q7073384
   imdb: tt0052018
+  tmdb: 245604
 sources:
 - https://www.wikidata.org/wiki/Q7073384
 schema_version: 1
+poster_tmdb_path: /pht3WkvKX8kyAO0jHKPtghjaznB.jpg

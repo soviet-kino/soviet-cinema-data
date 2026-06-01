@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4241006
   imdb: tt0091357
+  tmdb: 344804
 sources:
 - https://www.wikidata.org/wiki/Q4241006
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: kalnynsh-ivar
 studio:
 - mosfilm
+poster_tmdb_path: /1MVpKv6aiP3EIvxcosTo9Oossbd.jpg
+backdrop_tmdb_path: /hVLz7dYReP3RBXZcRUNlYRbnI8M.jpg

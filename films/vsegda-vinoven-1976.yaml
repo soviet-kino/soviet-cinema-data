@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q621357
   imdb: tt0075024
+  tmdb: 341261
 sources:
 - https://www.wikidata.org/wiki/Q621357
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pavelesku-yoana
 - person: mereutse-mikhay
 - person: nitulesku-vasil
+poster_tmdb_path: /5aDXoMlYL5JJRfrvFTwNNX3gsnP.jpg
+backdrop_tmdb_path: /7O1RDiGy8GPPQMSnwQbQGt9qDMO.jpg

@@ -55,6 +55,9 @@ poster_commons: Bundesarchiv Bild 183-D0204-0021-001, Berlin, Kino "Kosmos", Nac
 external_ids:
   wikidata: Q827960
   imdb: tt0057816
+  tmdb: 2250
 sources:
 - https://www.wikidata.org/wiki/Q827960
 schema_version: 1
+poster_tmdb_path: /lD9NNJfYwo3aDYa4qvOYBv87ydd.jpg
+backdrop_tmdb_path: /kW36IpKwWobbOzrNRcNjN9JsSvz.jpg

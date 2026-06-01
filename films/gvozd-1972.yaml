@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q46995753
   imdb: tt0452340
+  tmdb: 766703
 sources:
 - https://www.wikidata.org/wiki/Q46995753
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - nuut-arvo
 studio:
 - tallinfilm
+poster_tmdb_path: /5wCSf4BXPXuCEwH3Umnx0mpnBSx.jpg

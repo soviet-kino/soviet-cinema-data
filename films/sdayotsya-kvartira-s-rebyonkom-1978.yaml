@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4411773
   imdb: tt0397623
+  tmdb: 889632
 sources:
 - https://www.wikidata.org/wiki/Q4411773
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - akopov-eduard-tigranovich
 studio:
 - mosfilm
+poster_tmdb_path: /p8XqR2olxZevBg2zco7zreHhcCA.jpg

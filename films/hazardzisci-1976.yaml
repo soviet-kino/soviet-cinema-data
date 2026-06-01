@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q9286835
   imdb: tt0074616
+  tmdb: 157297
 sources:
 - https://www.wikidata.org/wiki/Q9286835
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - waskowski-mieczys-aw
 composer:
 - kozhinskiy-andzhey
+poster_tmdb_path: /wyRbwOVCysVIDZIp29CrOLMAyK9.jpg
+backdrop_tmdb_path: /pva4dstnSnxjXGMVqFEItCpG0z6.jpg

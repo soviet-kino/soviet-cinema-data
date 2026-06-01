@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q23302076
   imdb: tt0068844
+  tmdb: 19031
 sources:
 - https://www.wikidata.org/wiki/Q23302076
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - safar-jiri
 composer:
 - lishka-zdenek
+poster_tmdb_path: /kNTVzM0JFcxZefDyxfReEz6SAwB.jpg
+backdrop_tmdb_path: /dtQeSFEoEL8Ei8GDv0UkOEfGPRZ.jpg

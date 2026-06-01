@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q16411530
   imdb: tt0339544
+  tmdb: 409511
 sources:
 - https://www.wikidata.org/wiki/Q16411530
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: salulaht-elmar
 studio:
 - tallinfilm
+poster_tmdb_path: /A91OIR5lkU42STnNGjZ3jUUwBHP.jpg
+backdrop_tmdb_path: /5bI9jNAYuus4joOA9SrBzo5bsv0.jpg

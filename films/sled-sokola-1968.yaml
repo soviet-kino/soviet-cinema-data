@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q825439
   imdb: tt0063638
+  tmdb: 3545
 sources:
 - https://www.wikidata.org/wiki/Q825439
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: malikh-kholger
 - person: kube-khorst
 poster_commons: شاهین صحرا (پوستر).jpeg
+poster_tmdb_path: /r4np6VnmdVl4ZHtWvvGPwy64jml.jpg
+backdrop_tmdb_path: /2HdW1qCiTH2VVdgpLOOSCs02WOG.jpg

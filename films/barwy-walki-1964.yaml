@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q9166459
   imdb: tt0058945
+  tmdb: 335208
 sources:
 - https://www.wikidata.org/wiki/Q9166459
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: ko-odziejczyk-krystyna
 - person: lonch-marian
 - person: kaczmarek-jerzy
+poster_tmdb_path: /vJKPD9DvCJPVBNbzY73MECMTxs7.jpg

@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q23566158
   imdb: tt1399228
+  tmdb: 441301
 sources:
 - https://www.wikidata.org/wiki/Q23566158
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - gerber-lotar
 composer:
 - shvaen-kurt
+poster_tmdb_path: /7hCuDWSXkZ73mLEddfnHYXccDBl.jpg

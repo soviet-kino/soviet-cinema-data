@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12759018
   imdb: tt0174223
+  tmdb: 266653
 sources:
 - https://www.wikidata.org/wiki/Q12759018
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: miodrag-krstovich
 - person: leso-miroljub
 - person: erak-milan
+poster_tmdb_path: /9M8SGhr7a98dwTf9wZZoLvK8OMd.jpg

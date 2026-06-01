@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4310940
   imdb: tt5038504
+  tmdb: 535163
 sources:
 - https://www.wikidata.org/wiki/Q4310940
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: samoylov-vladimir-yakovlevich
 studio:
 - mosfilm
+poster_tmdb_path: /rS9sGJ64baDFNCK4pFFwkrgxbLx.jpg
+backdrop_tmdb_path: /oHsgulAei3672gnwXvvpUfbiDAr.jpg

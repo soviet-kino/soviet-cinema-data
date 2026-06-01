@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4379608
   imdb: tt0176058
   youtube: byHtH3zoOIc
+  tmdb: 369219
 sources:
 - https://www.wikidata.org/wiki/Q4379608
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 - lovcen-film
+poster_tmdb_path: /kZ2HlzHNtURRWfw5YSwnausT3x7.jpg
+backdrop_tmdb_path: /9EIYCZTFkoiMGq5u5Eq69mKAbWl.jpg

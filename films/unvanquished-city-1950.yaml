@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q7897799
   imdb: tt0042731
+  tmdb: 199528
 sources:
 - https://www.wikidata.org/wiki/Q7897799
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: melina-micha
 - person: rakowiecki-jerzy
 - person: dytrych-lucjan
+poster_tmdb_path: /54TnsCHRYUNxaROQbIj0acWUbEw.jpg
+backdrop_tmdb_path: /uWOSqFEou7QYPteK9n0SdXQyGgm.jpg

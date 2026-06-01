@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3811631
   imdb: tt0061854
+  tmdb: 204175
 sources:
 - https://www.wikidata.org/wiki/Q3811631
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: starcic-viktor
 - person: gorich-voyo
 - person: neda-spasoevich
+poster_tmdb_path: /nFW5mCf4vGhTxuY9ODYYlFvogGJ.jpg
+backdrop_tmdb_path: /yTFAKZeishETdSL8j0U9BLEOEyM.jpg

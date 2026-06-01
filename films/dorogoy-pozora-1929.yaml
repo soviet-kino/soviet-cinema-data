@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q576566
   imdb: tt0949549
+  tmdb: 879180
 sources:
 - https://www.wikidata.org/wiki/Q576566
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - wywerka-albert
 cast:
 - person: malitskaya-mariya
+poster_tmdb_path: /A5N8nbJVnxIvh4yb8j7ksCDzkRx.jpg

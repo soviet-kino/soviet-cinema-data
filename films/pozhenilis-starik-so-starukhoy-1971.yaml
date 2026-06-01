@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q4368716
   imdb: tt2395141
+  tmdb: 858206
 sources:
 - https://www.wikidata.org/wiki/Q4368716
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: gribov-aleksey-nikolaevich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /mIZvxsnVvjUJ3hJxcCyy6X1da53.jpg

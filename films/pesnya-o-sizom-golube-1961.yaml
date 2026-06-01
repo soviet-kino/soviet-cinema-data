@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12773853
   imdb: tt0232416
+  tmdb: 198897
 sources:
 - https://www.wikidata.org/wiki/Q12773853
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: mattos-pavol
 - person: kollarik-peter
 - person: polacek-pavol
+poster_tmdb_path: /aQJ6WzQycE1DSF0dX0aIdhnXE6A.jpg
+backdrop_tmdb_path: /pfvHrmJefG3sZJcJ1yKZSTQV9ba.jpg

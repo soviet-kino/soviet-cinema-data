@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q33320493
   imdb: tt0067816
+  tmdb: 336095
 sources:
 - https://www.wikidata.org/wiki/Q33320493
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - andor-tamash
 composer:
 - illesh-layosh
+poster_tmdb_path: /WBxJsYTFawKiIpABhHMVhuoD3t.jpg
+backdrop_tmdb_path: /aC5pwdAMFUsD0cyPfG0w0ukHt2.jpg

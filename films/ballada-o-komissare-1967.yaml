@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4076711
   imdb: tt0306508
+  tmdb: 833622
 sources:
 - https://www.wikidata.org/wiki/Q4076711
 schema_version: 1
@@ -16,3 +17,4 @@ studio:
 - mosfilm
 cast:
 - person: nazarov-yuriy-vladimirovich
+poster_tmdb_path: /ru0Ecvszf4Rjkuinu7j1vlOrNfU.jpg

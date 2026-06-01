@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876046
   imdb: tt0141674
+  tmdb: 654146
 sources:
 - https://www.wikidata.org/wiki/Q44876046
 schema_version: 1
 director:
 - constantinescu-mihai
+poster_tmdb_path: /e0J5cawTfH6kmteD4HaXQ2gr6mM.jpg

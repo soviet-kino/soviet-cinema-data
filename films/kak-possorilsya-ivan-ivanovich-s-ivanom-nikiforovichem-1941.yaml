@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4208840
   imdb: tt0252583
   youtube: w-KqEkbNAtU
+  tmdb: 611466
 sources:
 - https://www.wikidata.org/wiki/Q4208840
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: popov-vladimir-aleksandrovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /rzQRtcFgBMORSrcha9FiyXhMNzP.jpg
+backdrop_tmdb_path: /80Ba7AzTIa3msx088py5Ec0N7ra.jpg

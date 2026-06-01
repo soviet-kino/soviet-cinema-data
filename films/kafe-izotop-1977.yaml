@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65200426
   imdb: tt4873150
+  tmdb: 1520709
 sources:
 - https://www.wikidata.org/wiki/Q65200426
 schema_version: 1
 director:
 - kalatozishvili-georgiy-mikhaylovich
+poster_tmdb_path: /czD75qiKI6LAslS79RwMc8SbVbY.jpg

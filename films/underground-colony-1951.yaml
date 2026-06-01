@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q85980839
   imdb: tt0043610
+  tmdb: 385466
 sources:
 - https://www.wikidata.org/wiki/Q85980839
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: halassy-mariska
 - person: foldenyi-laszlo
 - person: rajczy-lajos
+poster_tmdb_path: /9MGuIUWEIXLUbu9RMWAGP0GxJhI.jpg
+backdrop_tmdb_path: /91WZzqDUgGSsBjfwEYXCKQNTP6U.jpg

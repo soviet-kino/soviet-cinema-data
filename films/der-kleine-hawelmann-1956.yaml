@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q5261260
   imdb: tt0415100
+  tmdb: 1197851
 sources:
 - https://www.wikidata.org/wiki/Q5261260
 schema_version: 1
 director:
 - cichon-rolf
+poster_tmdb_path: /6W2RsPX0ySUyuQwTTUrWwHsNsMy.jpg

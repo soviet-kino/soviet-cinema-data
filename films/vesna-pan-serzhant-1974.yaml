@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9375310
   imdb: tt0072412
+  tmdb: 340395
 sources:
 - https://www.wikidata.org/wiki/Q9375310
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: markovskiy-ryshard
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /wzhuEPBfoYC7zwkeylAOCDxA1wE.jpg
+backdrop_tmdb_path: /kI7qIxvBx2QXNbjzgV7V9y4Indm.jpg

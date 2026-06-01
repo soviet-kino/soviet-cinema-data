@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27887256
   imdb: tt0139878
+  tmdb: 597141
 sources:
 - https://www.wikidata.org/wiki/Q27887256
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bla-hermann
 - person: denes-oszkar
 - person: stettner-willy
+poster_tmdb_path: /r5grfDdtgFLkjNyQNB3TOIPEQcV.jpg
+backdrop_tmdb_path: /2oBgcnX6SSCx5fhlJC9DVbJVq8O.jpg

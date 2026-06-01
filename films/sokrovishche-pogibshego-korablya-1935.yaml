@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4427534
   imdb: tt0195283
+  tmdb: 709449
 sources:
 - https://www.wikidata.org/wiki/Q4427534
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: batalov-nikolay-petrovich
 studio:
 - lenfilm
+poster_tmdb_path: /iYOz1AwaqklmotW6yKXKrL7UEwW.jpg
+backdrop_tmdb_path: /At4mR10JRB3ev8QGYJEmPTrK9yO.jpg

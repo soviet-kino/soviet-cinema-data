@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q9391663
   imdb: tt0073929
+  tmdb: 577829
 sources:
 - https://www.wikidata.org/wiki/Q9391663
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: zelnik-ezhi
+poster_tmdb_path: /ysKg1PFsVQsErcIcuHI8Z1JQ5On.jpg

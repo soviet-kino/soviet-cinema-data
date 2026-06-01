@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q914140
   imdb: tt0069240
+  tmdb: 13091
 sources:
 - https://www.wikidata.org/wiki/Q914140
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: kholts-yurgen
 - person: bendokat-margit
 - person: kherden-peter
+poster_tmdb_path: /s0QjzAk4Af7qlWEyGh9Fxm9vAij.jpg
+backdrop_tmdb_path: /pyx0u1sLNKUENAUOHpzekCPhasJ.jpg

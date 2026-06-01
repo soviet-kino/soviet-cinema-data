@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q119956006
   imdb: tt0173378
+  tmdb: 692347
 sources:
 - https://www.wikidata.org/wiki/Q119956006
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: q108147534
 - person: romanova-jana
 - person: matejickova-zdena
+poster_tmdb_path: /o3ELr0RczNaAu2Q9JHEkr55a2e3.jpg

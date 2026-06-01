@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q9372996
   imdb: tt0083330
+  tmdb: 409733
 sources:
 - https://www.wikidata.org/wiki/Q9372996
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: pechinskiy-kshishtof
 - person: janowski-mieczys-aw
 - person: skorulski-tadeusz
+poster_tmdb_path: /6GpxVECgl17wFReRRSEJ91Thiuq.jpg
+backdrop_tmdb_path: /dWzw0YtSkRPnwCw5yw0MtQswopX.jpg

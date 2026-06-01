@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1976506
   imdb: tt0151987
   youtube: LTht9XAB7b4
+  tmdb: 140966
 sources:
 - https://www.wikidata.org/wiki/Q1976506
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 studio:
 - kinostudiya-imeni-m-gorkogo
 - yaltinskaya-kinostudiya
+poster_tmdb_path: /yXhou3BnWvZHEmGImz0vaoh98FZ.jpg
+backdrop_tmdb_path: /wDNP1uJXvnRgebWqB0wAMQwB8g1.jpg

@@ -8,6 +8,7 @@ runtime_min: 60
 external_ids:
   wikidata: Q60852005
   imdb: tt3324564
+  tmdb: 881743
 sources:
 - https://www.wikidata.org/wiki/Q60852005
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: volovik-lazar-osipovich
 studio:
 - ukrainfilm
+poster_tmdb_path: /lB2FEkB4FfnVas4AOONDOgLhdMa.jpg

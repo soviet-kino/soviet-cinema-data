@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4173638
   imdb: tt0062508
+  tmdb: 247976
 sources:
 - https://www.wikidata.org/wiki/Q4173638
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: vertinskaya-marianna-aleksandrovna
 studio:
 - lenfilm
+poster_tmdb_path: /oYwxYxyi7EOFLgRjIiAkBRXpayC.jpg
+backdrop_tmdb_path: /wm6EmOjTLGWVfRkbmrijZWGXWZs.jpg

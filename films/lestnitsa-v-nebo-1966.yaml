@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q12662332
   imdb: tt0415925
+  tmdb: 268286
 sources:
 - https://www.wikidata.org/wiki/Q12662332
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - barkauskas-vitautas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /geiDuSN1UXHfhbtCR3qnbLtShhl.jpg
+backdrop_tmdb_path: /vu6chvHrN3xONsnML8HhVa85pr1.jpg

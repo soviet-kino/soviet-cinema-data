@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q84994621
   imdb: tt1503091
   youtube: FXoqQGMghvA
+  tmdb: 895394
 sources:
 - https://www.wikidata.org/wiki/Q84994621
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: starikova-svetlana-ivanovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /8suKBJQKYMCJ8mihQlcVIityaKe.jpg
+backdrop_tmdb_path: /4kTSCIQFKycTdwWvgXvfQsizkuk.jpg

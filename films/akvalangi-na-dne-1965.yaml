@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4059405
   imdb: tt0312336
   youtube: IJ_oukS5p0M
+  tmdb: 63570
 sources:
 - https://www.wikidata.org/wiki/Q4059405
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: klyueva-tatyana-nikolaevna
 - person: barsov-aleksandr-nikolaevich
 - person: sabirov-rafik-abdulvyadutovich
+poster_tmdb_path: /nFmmBsfXimLqGyNTtzhljbrpOVz.jpg
+backdrop_tmdb_path: /8zWPPqFtFoy0FCszIzJO4gnsgqh.jpg

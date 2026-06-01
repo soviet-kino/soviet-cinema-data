@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q29347502
   imdb: tt0170361
+  tmdb: 502063
 sources:
 - https://www.wikidata.org/wiki/Q29347502
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: tadich-lyuba
 - person: begolli-faruk
 - person: dzhurich-slobodan
+poster_tmdb_path: /k2CT8Ze6VfJg4QMlCTCZzNwFdbQ.jpg
+backdrop_tmdb_path: /k6KNXscBhH5iFNSOdIMbUW5cIqD.jpg

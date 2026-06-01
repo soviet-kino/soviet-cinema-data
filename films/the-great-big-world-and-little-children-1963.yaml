@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q9372765
   imdb: tt0057684
+  tmdb: 264684
 sources:
 - https://www.wikidata.org/wiki/Q9372765
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - ezhi-broshkevich
 composer:
 - markovskiy-andzhey
+poster_tmdb_path: /AhhhhunItc61IJyFjv5usnozcQy.jpg

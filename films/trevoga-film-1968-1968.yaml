@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q111461076
   imdb: tt0274516
+  tmdb: 1203606
 sources:
 - https://www.wikidata.org/wiki/Q111461076
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - ilich-lagidze-revaz
 studio:
 - gruziya-film
+poster_tmdb_path: /vR5xLVrpGH3y7Fq9531BWUCUVRR.jpg
+backdrop_tmdb_path: /5UTnZmCRQyM7M6qPMbD5SAKgUxi.jpg

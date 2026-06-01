@@ -8,8 +8,10 @@ runtime_min: 8
 external_ids:
   wikidata: Q30328547
   imdb: tt0475640
+  tmdb: 340276
 sources:
 - https://www.wikidata.org/wiki/Q30328547
 schema_version: 1
 director:
 - dragich-nedelko
+poster_tmdb_path: /2qOpx14DIbxViyKtWxdfVKwMS4w.jpg

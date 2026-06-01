@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428502
   imdb: tt0090051
+  tmdb: 640898
 sources:
 - https://www.wikidata.org/wiki/Q109428502
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: khermakyula-evald
 studio:
 - mosfilm
+poster_tmdb_path: /g7l6jHHxqj9LWkPAK5ZWJgp3Km0.jpg
+backdrop_tmdb_path: /m7C8tKmegYCtg8VvZNuG0m50zIe.jpg

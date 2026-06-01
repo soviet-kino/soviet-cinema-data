@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4299868
   imdb: tt0064702
   youtube: QwJrumTPgb4
+  tmdb: 638580
 sources:
 - https://www.wikidata.org/wiki/Q4299868
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - krylatov-evgeniy
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /jWGU9JyWSmiD6KNJncxLQ5KmC2X.jpg

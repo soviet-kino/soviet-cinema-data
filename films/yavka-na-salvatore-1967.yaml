@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9341312
   imdb: tt0062302
+  tmdb: 737800
 sources:
 - https://www.wikidata.org/wiki/Q9341312
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - zdort-wies-aw
 composer:
 - kilyar-voytsekh
+poster_tmdb_path: /8B4KL228CjEoFtcD7cgPlCmjdeE.jpg
+backdrop_tmdb_path: /4qi6yyFfEDjC7mR3TiZAr5kr7NQ.jpg

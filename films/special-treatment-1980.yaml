@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q3909379
   imdb: tt0081546
+  tmdb: 76711
 sources:
 - https://www.wikidata.org/wiki/Q3909379
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: zegarats-dushitsa
 - person: kral-petar
 - person: q12959542
+poster_tmdb_path: /mrre1UwGF1gEfVglpEkUf5XJD8A.jpg
+backdrop_tmdb_path: /anvpc5ZLJR2XdRKr9MDKrrS0PLS.jpg

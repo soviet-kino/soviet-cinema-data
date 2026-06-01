@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7712699
   imdb: tt0175955
+  tmdb: 189187
 sources:
 - https://www.wikidata.org/wiki/Q7712699
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: gruss-yozef
 - person: vashova-mariya
 - person: pachova-mariya
+poster_tmdb_path: /xSrpV0dTCOdw6Js7zd8B6N4cN0R.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11686690
   imdb: tt0080381
+  tmdb: 409699
 sources:
 - https://www.wikidata.org/wiki/Q11686690
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: lesnyak-mikhal
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /vP0NCydwXBOFFLq6SQr2AGAhjFF.jpg
+backdrop_tmdb_path: /lDWl09ryVcqu9WkA8tPn9gxwAbC.jpg

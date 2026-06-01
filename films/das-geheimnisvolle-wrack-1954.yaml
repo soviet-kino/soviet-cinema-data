@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1171179
   imdb: tt0236250
+  tmdb: 166582
 sources:
 - https://www.wikidata.org/wiki/Q1171179
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: degenhardt-jurgen
 - person: maack-alfred
 - person: ortmann-wilfried
+poster_tmdb_path: /wtHdkgMOFOYPZlWkBaEI8qp1Vlo.jpg

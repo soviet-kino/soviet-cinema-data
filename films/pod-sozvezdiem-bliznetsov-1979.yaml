@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4366972
   imdb: tt0189014
+  tmdb: 345122
 sources:
 - https://www.wikidata.org/wiki/Q4366972
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: mikolaychuk-ivan-vasilevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lb22ReOlafpwItsDb7sr4alb8I1.jpg
+backdrop_tmdb_path: /1XSAmVCQK5MRmnRVzyOxrbBI4go.jpg

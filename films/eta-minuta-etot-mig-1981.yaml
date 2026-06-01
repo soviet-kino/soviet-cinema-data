@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q7672791
   imdb: tt0175225
+  tmdb: 434404
 sources:
 - https://www.wikidata.org/wiki/Q7672791
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: juricka-tomas
 - person: urbanek-karel
 - person: q131910121
+poster_tmdb_path: /M7BFtwJ01xIZi8MJkjzGQeXOyd.jpg

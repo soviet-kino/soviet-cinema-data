@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q7267252
   imdb: tt0018607
+  tmdb: 160673
 sources:
 - https://www.wikidata.org/wiki/Q7267252
 schema_version: 1
@@ -27,3 +28,5 @@ studio:
 - mezhrabpomfilm
 - mezhrabpom-rus
 poster_commons: Zemlya-v-plenu-1927.jpg
+poster_tmdb_path: /iHIpNV1LBXbn10yAw6AbSHdSnzm.jpg
+backdrop_tmdb_path: /yvir9ScUCsJ5JJpqP3D2klsWnsQ.jpg

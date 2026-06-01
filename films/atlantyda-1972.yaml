@@ -8,8 +8,11 @@ runtime_min: 8
 external_ids:
   wikidata: Q9161669
   imdb: tt0266280
+  tmdb: 933482
 sources:
 - https://www.wikidata.org/wiki/Q9161669
 schema_version: 1
 cinematographer:
 - tkaczyk-jan
+poster_tmdb_path: /6atWPG0p7EM6AREGelZk0ktpx9k.jpg
+backdrop_tmdb_path: /vi7laiQR6BQrS6Bk96E672MBRdf.jpg

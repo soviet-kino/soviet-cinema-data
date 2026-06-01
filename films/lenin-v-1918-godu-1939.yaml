@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2471725
   imdb: tt0031564
   youtube: h9DuoJ6Tcrk
+  tmdb: 337711
 sources:
 - https://www.wikidata.org/wiki/Q2471725
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: shatov-aleksandr-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /ioQzm3m2d94y9c65sRO0GCnJG7P.jpg
+backdrop_tmdb_path: /w03XlhXbItvZYyfvKKnnGB9s9aZ.jpg

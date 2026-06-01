@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1169667
   imdb: tt0058293
+  tmdb: 164179
 sources:
 - https://www.wikidata.org/wiki/Q1169667
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: greeze-volfgang
 - person: zahn-albert
 - person: veldre-erik
+poster_tmdb_path: /qfAR8fj485t31rkoSZX2peaeuoz.jpg

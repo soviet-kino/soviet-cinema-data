@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4341411
   imdb: tt1794902
+  tmdb: 90642
 sources:
 - https://www.wikidata.org/wiki/Q4341411
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: The peacock's tail (1946).jpg
+poster_tmdb_path: /eZOgOEUZSxs4Gzyx6ah8BN4Jwhz.jpg
+backdrop_tmdb_path: /yXZ65pb707RDHDZGvM3RPUeycwV.jpg

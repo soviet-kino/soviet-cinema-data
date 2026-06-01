@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q3601494
   imdb: tt0089855
+  tmdb: 148786
 sources:
 - https://www.wikidata.org/wiki/Q3601494
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: abashidze-leyla-mikhaylovna
 - person: kipshidze-zurab-vasilevich
 - person: mikaberidze-ruslan-grigorevich
+poster_tmdb_path: /sJqNgoMSWGrOdCdlDk7C30HPEBv.jpg
+backdrop_tmdb_path: /rkvE0Ks0jtuxQMUgRunJhMsYK07.jpg

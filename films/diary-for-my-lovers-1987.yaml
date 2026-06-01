@@ -8,6 +8,7 @@ runtime_min: 141
 external_ids:
   wikidata: Q5271998
   imdb: tt0093599
+  tmdb: 131339
 sources:
 - https://www.wikidata.org/wiki/Q5271998
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: zolnai-pal
 - person: binchitskiy-ezhi
 - person: tot-tamash
+poster_tmdb_path: /40aBut049LWHhpUzq9eiJk0pYeI.jpg
+backdrop_tmdb_path: /24alCo9hYwb6iqvRgmcHyVJP5Mp.jpg

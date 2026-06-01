@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q56439220
   imdb: tt0196130
+  tmdb: 285055
 sources:
 - https://www.wikidata.org/wiki/Q56439220
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kobakhidze-mikhail-germanovich
 cast:
 - person: kavtaradze-georgiy-georgievich
+poster_tmdb_path: /1WKwfXC4aV3AN72vTRiPl4iQsFA.jpg
+backdrop_tmdb_path: /ah75rjRLZITNnLo8Jh8q605MfFQ.jpg

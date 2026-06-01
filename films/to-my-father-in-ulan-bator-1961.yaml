@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20612003
   imdb: tt0381674
+  tmdb: 879841
 sources:
 - https://www.wikidata.org/wiki/Q20612003
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - zhigzhid-dezhidiyn
 studio:
 - mongolkino
+poster_tmdb_path: /h2pX5BrwRqzZ8fpIdbfg9dWVmLV.jpg
+backdrop_tmdb_path: /ixlva5UwN3GClvOJ7uGMdf9B4X.jpg

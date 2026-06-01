@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184393
   imdb: tt0264486
+  tmdb: 1322851
 sources:
 - https://www.wikidata.org/wiki/Q31184393
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: shtefanchich-vlado
 - person: khershak-zdenka
 - person: dulcic-ante
+poster_tmdb_path: /ueOhUaXz6mMCRY0sIG3NDzhB2bE.jpg
+backdrop_tmdb_path: /cE31MERVoiyDTzkpMDNi5JN04t.jpg

@@ -7,9 +7,12 @@ country:
 external_ids:
   wikidata: Q7941369
   imdb: tt0412040
+  tmdb: 1038021
 sources:
 - https://www.wikidata.org/wiki/Q7941369
 schema_version: 1
 director:
 - georgi-klaus
 - georgi-katja
+poster_tmdb_path: /lyRvd5mE8s8ue0JoG26GD5B59tD.jpg
+backdrop_tmdb_path: /jTpa02nfDiLXPotEkuMf68pSNOP.jpg

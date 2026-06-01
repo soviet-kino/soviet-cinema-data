@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q24041166
   imdb: tt0017810
+  tmdb: 284075
 sources:
 - https://www.wikidata.org/wiki/Q24041166
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 studio:
 - sovkino
 poster_commons: Роза Свердлова Девушка с далекой реки.jpg
+poster_tmdb_path: /qHDK0AoONLrbC0LlHgbCLIITVlN.jpg
+backdrop_tmdb_path: /37CilKwP8Dvo3h264uI8QCGW7wN.jpg

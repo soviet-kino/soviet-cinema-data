@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q8075022
   imdb: tt0235101
+  tmdb: 282773
 sources:
 - https://www.wikidata.org/wiki/Q8075022
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - fridl-frants-r
 cast:
 - person: kholm-klaus
+poster_tmdb_path: /dasMdpH9MTOzXLYElbUit23jTef.jpg
+backdrop_tmdb_path: /koSM5IG7CbVxlOFOdvGbDiSJpJz.jpg

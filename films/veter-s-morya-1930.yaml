@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4109965
   imdb: tt0989100
+  tmdb: 605122
 sources:
 - https://www.wikidata.org/wiki/Q4109965
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: brodzish-adam
 - person: bodo-evgeniush
 poster_commons: Wiatr od morza.jpg
+poster_tmdb_path: /mjaFvCEI9DRRCU2JsbpVr2jZM3s.jpg

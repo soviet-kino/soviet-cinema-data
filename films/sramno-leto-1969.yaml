@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27334153
   imdb: tt0186571
+  tmdb: 502484
 sources:
 - https://www.wikidata.org/wiki/Q27334153
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: vladimir-popovich
 - person: burdus-jovan-janicijevic
 - person: neda-spasoevich
+poster_tmdb_path: /3LZjqf13FI7v0KraXEXiRmCXO39.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270942
   imdb: tt0072015
+  tmdb: 1326624
 sources:
 - https://www.wikidata.org/wiki/Q15270942
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: durov-lev-konstantinovich
 studio:
 - lenfilm
+poster_tmdb_path: /e86plRfXyHZ6Zc1hAwzz7VhqbQD.jpg

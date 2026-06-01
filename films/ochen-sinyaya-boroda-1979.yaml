@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4340670
   imdb: tt1459049
   youtube: hAxfE6b_mDk
+  tmdb: 399772
 sources:
 - https://www.wikidata.org/wiki/Q4340670
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - gladkov-gennadiy
 studio:
 - ekran
+poster_tmdb_path: /iwkL3FvuPLaHNzVpXprNa42J5ZP.jpg

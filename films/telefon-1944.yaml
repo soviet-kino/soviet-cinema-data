@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4454135
   imdb: tt5197834
   youtube: QKBIlpcf7_0
+  tmdb: 448609
 sources:
 - https://www.wikidata.org/wiki/Q4454135
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: chukovskiy-korney-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4Y4Enx43ayMr8r7IC3pHy9fVeOX.jpg
+backdrop_tmdb_path: /fWhXE7cH47uxcAdT5hcYnPKJH8Y.jpg

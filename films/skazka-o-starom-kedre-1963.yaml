@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48941905
   imdb: tt8157066
+  tmdb: 440562
 sources:
 - https://www.wikidata.org/wiki/Q48941905
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - nazarova-tatyana-borisovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5YYnHVcWSjeqTFLoGWfiCJ3ztcy.jpg

@@ -8,6 +8,7 @@ runtime_min: 5
 external_ids:
   wikidata: Q16630484
   imdb: tt4131060
+  tmdb: 273956
 sources:
 - https://www.wikidata.org/wiki/Q16630484
 schema_version: 1
@@ -15,3 +16,4 @@ composer:
 - klevitskiy-aleksandr-leonidovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pV3whfrqEPh8XM3qeSm2ZjoQr0j.jpg

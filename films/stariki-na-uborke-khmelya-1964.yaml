@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q12056087
   imdb: tt0124888
+  tmdb: 65890
 sources:
 - https://www.wikidata.org/wiki/Q12056087
 schema_version: 1
@@ -87,3 +88,5 @@ cast:
 - person: stachova-hana
 - person: sindelar-jiri-2
 - person: zakova-alena
+poster_tmdb_path: /k0AnCR0ZRHb4jSWsAe8QaFOWTNa.jpg
+backdrop_tmdb_path: /t2rkDCQ9MKeMg9NCOub2h3VNRim.jpg

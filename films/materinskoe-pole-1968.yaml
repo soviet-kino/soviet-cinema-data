@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108800953
   imdb: tt0347513
   youtube: t4-XlgV3-Jc
+  tmdb: 327968
 sources:
 - https://www.wikidata.org/wiki/Q108800953
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 cast:
 - person: beyshenaliev-bolot
 - person: kydykeeva-baken
+poster_tmdb_path: /aruoMHy8pjRdzh3kBeNO9fQhdQL.jpg
+backdrop_tmdb_path: /nwGZ6FaCN9lwBdBfisc8OMlfuGI.jpg

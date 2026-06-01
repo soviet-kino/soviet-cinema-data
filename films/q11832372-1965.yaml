@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11832372
   imdb: tt0062147
+  tmdb: 747329
 sources:
 - https://www.wikidata.org/wiki/Q11832372
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: luchitskaya-vanda
+poster_tmdb_path: /3ArjKsdzk4RNYv9Wz9WHsaoFBd.jpg

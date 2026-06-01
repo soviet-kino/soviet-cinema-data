@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q134698412
   imdb: tt8193436
+  tmdb: 610580
 sources:
 - https://www.wikidata.org/wiki/Q134698412
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - veselovskiy-viktor-vasilevich
 studio:
 - ekran
+poster_tmdb_path: /4x2p4Yf4Vwm5xezH5CPNFUiP28f.jpg

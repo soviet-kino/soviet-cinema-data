@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q95613102
   imdb: tt0042373
+  tmdb: 348038
 sources:
 - https://www.wikidata.org/wiki/Q95613102
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - barnabash-khedi
 composer:
 - polgar-tibor
+poster_tmdb_path: /og1fKiVpuGmPplizkPArNvR4D6C.jpg
+backdrop_tmdb_path: /vUtA9a9m0m5Rz9AUJnRUgDMToNH.jpg

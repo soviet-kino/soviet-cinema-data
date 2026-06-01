@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q109375602
   imdb: tt0355629
+  tmdb: 497454
 sources:
 - https://www.wikidata.org/wiki/Q109375602
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: assar-abdel-varess
 - person: hilmi-azizah
 - person: aziz-sabry-abdel
+poster_tmdb_path: /6MypEd1ona3Lg9NBE4YBRFZzklw.jpg

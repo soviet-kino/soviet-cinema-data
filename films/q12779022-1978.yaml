@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q12779022
   imdb: tt0176311
+  tmdb: 47116
 sources:
 - https://www.wikidata.org/wiki/Q12779022
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: tomsa-yaroslav
 - person: uzelatsova-vera
 - person: maraky-gejza
+poster_tmdb_path: /y7zujrBi9YXuksyNn86luXm0Q9K.jpg

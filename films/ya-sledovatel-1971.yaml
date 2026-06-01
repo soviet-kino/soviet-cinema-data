@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4535647
   imdb: tt0275509
   youtube: Op5P87vF6s8
+  tmdb: 123976
 sources:
 - https://www.wikidata.org/wiki/Q4535647
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: kikabidze-vakhtang
 - person: andrinya-ingrida
 - person: tsuladze-baadur-sokratovich
+poster_tmdb_path: /8sjAb8U8DfBbFEfVB34LBOSq0r5.jpg
+backdrop_tmdb_path: /rFFqxJZMjlhR6Yb8xF7YSBqiLpX.jpg

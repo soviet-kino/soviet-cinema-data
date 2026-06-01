@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q18537603
   imdb: tt0157336
+  tmdb: 630088
 sources:
 - https://www.wikidata.org/wiki/Q18537603
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - stiopul-savel
 screenwriter:
 - popesku-tudor
+poster_tmdb_path: /je1YF2VBv6Uoh2GinLK1TGy09U9.jpg

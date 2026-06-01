@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q3441004
   imdb: tt0021312
+  tmdb: 125660
 sources:
 - https://www.wikidata.org/wiki/Q3441004
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - tisse-eduard-kazimirovich
 cast:
 - person: gri-mara
+poster_tmdb_path: /wYjyt5rileczG5boRSqFsxLpPfM.jpg

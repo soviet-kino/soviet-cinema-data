@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9248852
   imdb: tt0353361
+  tmdb: 480833
 sources:
 - https://www.wikidata.org/wiki/Q9248852
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - ljarja-rikard
 composer:
 - radoja-robert
+poster_tmdb_path: /jQ4hnPWiRZAoh7iQ4ATikqpnl68.jpg
+backdrop_tmdb_path: /75eYX7zLFtfz8C9Yw2mXNbj58t2.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1171762
   imdb: tt0056727
+  tmdb: 72789
 sources:
 - https://www.wikidata.org/wiki/Q1171762
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: rikhter-raynik-valter
 - person: khetterle-albert
 - person: klas-ioganna
+poster_tmdb_path: /pAkl3e2hvBnAF2wVoUU2TgMEZYz.jpg
+backdrop_tmdb_path: /taMbsDDrevN7GtSwD7RO9TVE1oy.jpg

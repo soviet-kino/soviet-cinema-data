@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q56162168
   imdb: tt0171398
+  tmdb: 853008
 sources:
 - https://www.wikidata.org/wiki/Q56162168
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: forster-lotar
 studio:
 - defa
+poster_tmdb_path: /uvXum3dDIEmVJAoLLATfa0Yeinh.jpg

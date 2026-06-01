@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7995344
   imdb: tt0010116
+  tmdb: 465479
 sources:
 - https://www.wikidata.org/wiki/Q7995344
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: somogyi-nusi
 studio:
 - vengerskaya-sovetskaya-respublika
+poster_tmdb_path: /wcOsmusY9Ud7MUMFjMgnK40YTNa.jpg

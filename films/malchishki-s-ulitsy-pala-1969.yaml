@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q1475800
   imdb: tt0062164
+  tmdb: 41064
 sources:
 - https://www.wikidata.org/wiki/Q1475800
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kolleano-mark
 studio:
 - mafilm
+poster_tmdb_path: /qzpvdFomGIRxt3M327URRrSRpy5.jpg
+backdrop_tmdb_path: /3lBAZqT1GDqWUW7yxhiCPPCqKAn.jpg

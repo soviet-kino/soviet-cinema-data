@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4533500
   imdb: tt0283271
+  tmdb: 1426995
 sources:
 - https://www.wikidata.org/wiki/Q4533500
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - gabuniya-nodar-kalistratovich
 studio:
 - gruziya-film
+poster_tmdb_path: /akLfiXBSiQaDSi0rFIMON2yMIcS.jpg
+backdrop_tmdb_path: /hX0LGQyzSArmWabas4BnOyZ1xNk.jpg

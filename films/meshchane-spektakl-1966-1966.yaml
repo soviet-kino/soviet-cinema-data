@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4292514
   imdb: tt0201770
   youtube: _gt2TSpf5V4
+  tmdb: 887395
 sources:
 - https://www.wikidata.org/wiki/Q4292514
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 studio:
 - lenfilm
 - bolshoy-dramaticheskiy-teatr-imeni-g-a-tovstonogova
+poster_tmdb_path: /jovfunoCHUTj7J2vGByK8V9tVEl.jpg

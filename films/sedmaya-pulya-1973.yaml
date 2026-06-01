@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4412989
   imdb: tt0171726
   youtube: DjMCwXbfbRw
+  tmdb: 260817
 sources:
 - https://www.wikidata.org/wiki/Q4412989
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: umarov-khamza
 studio:
 - uzbekfilm
+poster_tmdb_path: /qTSHOrjaLSOiDOrWELPRumnMy4f.jpg
+backdrop_tmdb_path: /pOaTuqMyYDP7g6j3dou5nk8iOFo.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q5623600
   imdb: tt0169982
+  tmdb: 987746
 sources:
 - https://www.wikidata.org/wiki/Q5623600
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - wawrzyniak-antoni
 cast:
 - person: orvid-barbara
+poster_tmdb_path: /sBzAzHBCnHEvlIMh7T0jO59vpeI.jpg

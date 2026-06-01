@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q7729562
   imdb: tt0171491
+  tmdb: 373870
 sources:
 - https://www.wikidata.org/wiki/Q7729562
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: serdar-ivo
 studio:
 - film-authors-studio
+poster_tmdb_path: /g5NiI0QZSAntIVxP3uTKfxqIuEW.jpg

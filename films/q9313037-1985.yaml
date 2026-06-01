@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9313037
   imdb: tt0088012
+  tmdb: 899034
 sources:
 - https://www.wikidata.org/wiki/Q9313037
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: miko-ajczak-aleksander
 - person: meres-kazimierz
 - person: pavlak-katazhina
+poster_tmdb_path: /wBPETHuc7rprdOPE3Rq3qCb9aBg.jpg
+backdrop_tmdb_path: /gHw6lsmEDT2he1dX0mt042aYzRO.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q116864905
   imdb: tt0264853
+  tmdb: 1507224
 sources:
 - https://www.wikidata.org/wiki/Q116864905
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 studio:
 - mosfilm
 poster_commons: Matveeva radost 1985 poster.jpg
+poster_tmdb_path: /74bdFwYZcL11fGY6k1GLdDfE0ty.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q8052972
   imdb: tt0053338
+  tmdb: 287612
 sources:
 - https://www.wikidata.org/wiki/Q8052972
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: sabo-dyula
 - person: gobbi-khilda
 - person: pechi-shandor
+poster_tmdb_path: /i5IhbIH8YNw0jUV5Y1VBESKJIgi.jpg

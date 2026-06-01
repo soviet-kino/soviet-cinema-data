@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20513765
   imdb: tt0419025
   youtube: 86bSvRdhPJk
+  tmdb: 737710
 sources:
 - https://www.wikidata.org/wiki/Q20513765
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: azaryan-albert
 - person: abramyan-khoren
 - person: amerikyan-tsolak
+poster_tmdb_path: /x167T03veLkNEnRicLsGrZk3VmI.jpg

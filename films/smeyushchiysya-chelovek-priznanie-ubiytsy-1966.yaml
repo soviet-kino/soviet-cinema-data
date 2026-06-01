@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q1199308
   imdb: tt0165853
+  tmdb: 49224
 sources:
 - https://www.wikidata.org/wiki/Q1199308
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: myuller-zigfrid
 studio:
 - defa
+poster_tmdb_path: /xFmMdXTfJSe1rDIwm7VZzSMvgx5.jpg

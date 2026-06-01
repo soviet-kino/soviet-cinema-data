@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52562688
   imdb: tt1212096
+  tmdb: 833952
 sources:
 - https://www.wikidata.org/wiki/Q52562688
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - sabirov-takhir-mukhtarovich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /bdkN0yDi6R2D4nktnFXEoNXqFh.jpg

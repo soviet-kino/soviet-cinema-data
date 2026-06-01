@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q2364032
   imdb: tt0065057
+  tmdb: 382582
 sources:
 - https://www.wikidata.org/wiki/Q2364032
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: kuznetsov-aleksandr-vsevolodovich
 studio:
 - mosfilm
+poster_tmdb_path: /xHOBcpoAfBLdy9nWci201ZS5iUA.jpg
+backdrop_tmdb_path: /kf8Be9laaeB9V2PZthQGStRBjyt.jpg

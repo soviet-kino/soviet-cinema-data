@@ -8,6 +8,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q18409084
   imdb: tt2137702
+  tmdb: 154653
 sources:
 - https://www.wikidata.org/wiki/Q18409084
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - paradzhanov-sergey
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /lnb90s6I4WPGfXKIOppqB7BTsNK.jpg
+backdrop_tmdb_path: /jH1Gwy6sIxQJW3SWAiyDuuzPzrT.jpg

@@ -25,6 +25,9 @@ runtime_min: 90
 external_ids:
   wikidata: Q747369
   imdb: tt0048275
+  tmdb: 131586
 sources:
 - https://www.wikidata.org/wiki/Q747369
 schema_version: 1
+poster_tmdb_path: /6AkMfmWuh8GxK2YDw1NQX2UbQrW.jpg
+backdrop_tmdb_path: /tm2ZIN0hG6mw5TnTN49a50X3n4u.jpg

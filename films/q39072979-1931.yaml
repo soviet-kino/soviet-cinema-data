@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q39072979
   imdb: tt0192329
+  tmdb: 556753
 sources:
 - https://www.wikidata.org/wiki/Q39072979
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: orbal-gaston
 - person: robert-elen
 - person: marthes-paul
+poster_tmdb_path: /yRiV9vHYv0sJTy1AeaMFhLrH2Tq.jpg

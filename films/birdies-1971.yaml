@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q104546295
   imdb: tt0067379
+  tmdb: 384413
 sources:
 - https://www.wikidata.org/wiki/Q104546295
 schema_version: 1
 director:
 - boszormenyi-geza
+poster_tmdb_path: /3RsOE7JCeUlmxOhbc07fLpE16Gr.jpg

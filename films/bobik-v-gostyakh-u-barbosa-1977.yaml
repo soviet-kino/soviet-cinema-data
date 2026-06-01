@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4088544
   imdb: tt1070753
+  tmdb: 72199
 sources:
 - https://www.wikidata.org/wiki/Q4088544
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - komarov-vladimir-konstantinovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mYwsnHZnQuM4D1qCeRwYUgJMp8Y.jpg
+backdrop_tmdb_path: /bbc4Kv8UqzfgXHYizG20Fvd7RgI.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q17090509
   imdb: tt0154890
+  tmdb: 87934
 sources:
 - https://www.wikidata.org/wiki/Q17090509
 schema_version: 1
 director:
 - dzhordzhesku-zhan
+poster_tmdb_path: /p7Hv0D9YeMaD8wzvLhg0DRhv37l.jpg

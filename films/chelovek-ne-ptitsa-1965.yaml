@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q2330695
   imdb: tt0059063
+  tmdb: 71725
 sources:
 - https://www.wikidata.org/wiki/Q2330695
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: blaskovic-mirjana
 studio:
 - avala-film
+poster_tmdb_path: /2wCvYIXq7QuqQntP1v2bDhkdKpZ.jpg
+backdrop_tmdb_path: /9kvBCSrvG9qwF4nnzIEAlulSFKx.jpg

@@ -8,6 +8,7 @@ runtime_min: 143
 external_ids:
   wikidata: Q818014
   imdb: tt0256643
+  tmdb: 421153
 sources:
 - https://www.wikidata.org/wiki/Q818014
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - zore-rolf
 composer:
 - nir-gelmut
+poster_tmdb_path: /fvZGEf1VXm1Mc0pEliU714LwWbc.jpg
+backdrop_tmdb_path: /7W8HKSUtI4lAscqhFmR65dfLK8W.jpg

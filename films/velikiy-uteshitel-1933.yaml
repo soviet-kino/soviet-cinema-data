@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4106591
   imdb: tt0024728
   youtube: Th8CPiTheCA
+  tmdb: 148630
 sources:
 - https://www.wikidata.org/wiki/Q4106591
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: khokhlov-konstantin-pavlovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /z2H9Sm6FFLEowIiqF3OWmrE034y.jpg
+backdrop_tmdb_path: /enlAC3RY7r7kPAJRUBYPzyDSuwa.jpg

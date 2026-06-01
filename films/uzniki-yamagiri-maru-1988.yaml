@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q4469886
   imdb: tt3512100
+  tmdb: 446396
 sources:
 - https://www.wikidata.org/wiki/Q4469886
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - zhurbin-aleksandr-borisovich
 studio:
 - ekran
+poster_tmdb_path: /jhdfp2BpNOu9iRTFCxmEfVrzd2S.jpg

@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12057783
   imdb: tt0065052
+  tmdb: 50788
 sources:
 - https://www.wikidata.org/wiki/Q12057783
 schema_version: 1
@@ -72,3 +73,5 @@ cast:
 - person: borovian-josef
 - person: brezina-o
 - person: konvicka-bohuslav
+poster_tmdb_path: /yAg2Ea4klZ3I6wVfJLcNpNFFtqG.jpg
+backdrop_tmdb_path: /pz2dkbvyqRS4A8iJKQPbnyAHfV.jpg

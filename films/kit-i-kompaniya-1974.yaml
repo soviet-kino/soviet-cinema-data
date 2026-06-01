@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1743811
   imdb: tt0071720
+  tmdb: 2231
 sources:
 - https://www.wikidata.org/wiki/Q1743811
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: bettner-ralf
 - person: kilian-zigfrid
 - person: mor-frits
+poster_tmdb_path: /4V24EFeg1rhZ99KKvIsj4nJeCqx.jpg

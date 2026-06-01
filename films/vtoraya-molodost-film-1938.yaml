@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7443667
   imdb: tt0031251
+  tmdb: 945639
 sources:
 - https://www.wikidata.org/wiki/Q7443667
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: yunosha-stempovskiy-kazimezh
 - person: overllo-pavel
 - person: vysotskaya-stanislava
+poster_tmdb_path: /oZm0KonwYSz0QEs4dWwiYxvhKu9.jpg

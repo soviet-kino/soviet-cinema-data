@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q1937868
   imdb: tt0058354
+  tmdb: 171325
 sources:
 - https://www.wikidata.org/wiki/Q1937868
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: ulrich-hans-jurgen
 - person: braunbok-karola
 - person: krug-manfred
+poster_tmdb_path: /3mRyflNcANQoYyyL7nTjLebR5ea.jpg
+backdrop_tmdb_path: /yRszmoZdcEbaqQ4JCQwWqjLGXAp.jpg

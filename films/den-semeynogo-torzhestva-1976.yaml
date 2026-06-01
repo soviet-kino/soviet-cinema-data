@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q21638753
   imdb: tt0403970
   youtube: Ll_ruUzQAhs
+  tmdb: 1529324
 sources:
 - https://www.wikidata.org/wiki/Q21638753
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - sverdlovskaya-kinostudiya
 cast:
 - person: ledogorov-igor-vadimovich
+poster_tmdb_path: /1hj9zvVEpniRcdzrWEOw1Tb7naa.jpg

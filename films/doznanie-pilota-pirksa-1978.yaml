@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q2369914
   imdb: tt0080010
+  tmdb: 67102
 sources:
 - https://www.wikidata.org/wiki/Q2369914
 schema_version: 1
@@ -27,3 +28,5 @@ studio:
 cast:
 - person: kaidanovsky-aleksandr
 - person: saar-tynu
+poster_tmdb_path: /aw6fx7RB5ZrxwNZICg0B7Xghjas.jpg
+backdrop_tmdb_path: /s5jMh0685C29owUrj9NHRVkq9co.jpg

@@ -8,8 +8,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q12756105
   imdb: tt0177042
+  tmdb: 341021
 sources:
 - https://www.wikidata.org/wiki/Q12756105
 schema_version: 1
 director:
 - zhilnik-zhelimir
+poster_tmdb_path: /gTCDGvgZblAsmI1t3eB3NXPYU0X.jpg
+backdrop_tmdb_path: /rLZR44iwAJTDtbgQx10EyCo21vx.jpg

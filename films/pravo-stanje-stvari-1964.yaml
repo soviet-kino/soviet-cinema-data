@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7238885
   imdb: tt0183669
+  tmdb: 389347
 sources:
 - https://www.wikidata.org/wiki/Q7238885
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: zhutich-milosh
 - person: peshich-stanislava
 - person: ocokoljic-dragan
+poster_tmdb_path: /kkJxwKTSkkZgcQKUrpxar8WHFE0.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4208805
   imdb: tt0298951
   youtube: sE-yF7_khRc
+  tmdb: 412468
 sources:
 - https://www.wikidata.org/wiki/Q4208805
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: ninidze-iya
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /8mfEK4h25P74j3TaCyagN95LkEk.jpg
+backdrop_tmdb_path: /e5SNV4GGbefVFG2es8EcXVmln6n.jpg

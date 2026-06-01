@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q4224570
   imdb: tt0038673
+  tmdb: 459322
 sources:
 - https://www.wikidata.org/wiki/Q4224570
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - gruziya-film
 poster_commons: Zacharčenko Makarova Il giuramento.jpg
+poster_tmdb_path: /3FDPiEtn4IcNDgaw9o2tGfkST05.jpg
+backdrop_tmdb_path: /2kyAa2wAMvEX0hQKK45jPBO8lGP.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26261024
   imdb: tt0444982
+  tmdb: 767810
 sources:
 - https://www.wikidata.org/wiki/Q26261024
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: getsov-stefan
 - person: peev-stoyko
 - person: mazgalov-stoycho
+poster_tmdb_path: /a9EyJrSdmxgXeWZvZqj5hg7bm9U.jpg

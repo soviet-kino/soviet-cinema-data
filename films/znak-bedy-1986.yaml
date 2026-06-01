@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4192670
   imdb: tt0092293
   youtube: miMkxXR5dDc
+  tmdb: 373989
 sources:
 - https://www.wikidata.org/wiki/Q4192670
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: ruslanova-nina-ivanovna
 studio:
 - belarusfilm
+poster_tmdb_path: /1tqu958Xb3R2LsIhU9y0szXqgBP.jpg
+backdrop_tmdb_path: /e9RkwPjOlgycJ4qaYpvVottaVCJ.jpg

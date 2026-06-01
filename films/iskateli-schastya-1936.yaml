@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4203833
   imdb: tt0026119
+  tmdb: 210621
 sources:
 - https://www.wikidata.org/wiki/Q4203833
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: blyumental-tamarina-mariya
 studio:
 - belarusfilm
+poster_tmdb_path: /3z6qBZM6L7bDGlOmwtWpMsMBs3J.jpg
+backdrop_tmdb_path: /uaopRAglO5ogjnBwm6v9fL3eH1K.jpg

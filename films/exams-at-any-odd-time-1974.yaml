@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12281481
   imdb: tt0255265
+  tmdb: 266945
 sources:
 - https://www.wikidata.org/wiki/Q12281481
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bakalova-ani
 - person: todorov-voytsekh
 - person: ganev-dimitr
+poster_tmdb_path: /ienPawrNz7r7kDkTiWqiGAc00kT.jpg
+backdrop_tmdb_path: /kR1kpystHMiB7Rvk4tWuH8rH9LJ.jpg

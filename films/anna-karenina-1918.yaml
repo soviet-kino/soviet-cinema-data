@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q771020
   imdb: tt0008836
+  tmdb: 227710
 sources:
 - https://www.wikidata.org/wiki/Q771020
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: fenveshshi-emil
 - person: varshani-iren
 - person: kertes-dezho
+poster_tmdb_path: /aGsldIJs9YwSk1LLS4ue2bQ5dE8.jpg

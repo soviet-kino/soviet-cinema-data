@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4359764
   imdb: tt2115375
+  tmdb: 202343
 sources:
 - https://www.wikidata.org/wiki/Q4359764
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - petrova-elena-nikolaevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1yYKlYpGK4mg5AxS8nAYkg6umy7.jpg
+backdrop_tmdb_path: /8BwHLkhyFlQGOCaDjpt3PSOFySY.jpg

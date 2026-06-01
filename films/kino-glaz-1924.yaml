@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4220870
   imdb: tt0015039
+  tmdb: 144611
 sources:
 - https://www.wikidata.org/wiki/Q4220870
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - kaufman-mikhail-abramovich
 studio:
 - goskino
+poster_tmdb_path: /zct6jOiUwJcJ8FD321pgdwKVXha.jpg
+backdrop_tmdb_path: /ztmcKGbJzPr3rbuBENhrR0FURby.jpg

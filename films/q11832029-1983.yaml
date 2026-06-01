@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11832029
   imdb: tt0353510
+  tmdb: 486084
 sources:
 - https://www.wikidata.org/wiki/Q11832029
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kumbaro-saimir
 composer:
 - radoja-robert
+poster_tmdb_path: /cEnA56r1VoXifOIlQs2unb43JC4.jpg
+backdrop_tmdb_path: /5ne2X2OKz7LUPyOtHWslH2RL2MD.jpg

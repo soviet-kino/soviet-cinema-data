@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q11740523
   imdb: tt0089433
+  tmdb: 405476
 sources:
 - https://www.wikidata.org/wiki/Q11740523
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: yankovskiy-yan
 - person: goraj-maciej
 - person: mikhalak-magdalena
+poster_tmdb_path: /7xvFCIGsAXttMflXJACPU5X63Zv.jpg
+backdrop_tmdb_path: /me0t0vGwBjxVgUIukuv8rPLbDVo.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20088974
   imdb: tt0140133
+  tmdb: 141707
 sources:
 - https://www.wikidata.org/wiki/Q20088974
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - khomoki-nad-ishtvan
 cinematographer:
 - khomoki-nad-ishtvan
+poster_tmdb_path: /vLLZ8KzM2rFXgeHpaWUzmor1NUL.jpg

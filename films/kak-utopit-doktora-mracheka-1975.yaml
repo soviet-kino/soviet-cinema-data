@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q1431184
   imdb: tt0071687
+  tmdb: 8704
 sources:
 - https://www.wikidata.org/wiki/Q1431184
 schema_version: 1
@@ -91,3 +92,5 @@ cast:
 - person: lastovka-jaromir
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /AsOA5Yg1w30w9oESp8Lcr7RRK4I.jpg
+backdrop_tmdb_path: /6LNvwNeEIaEl6L4ui1Hso3cVlh7.jpg

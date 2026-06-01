@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4373810
   imdb: tt3983680
+  tmdb: 290106
 sources:
 - https://www.wikidata.org/wiki/Q4373810
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - gladkov-gennadiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /dRRmOMYHlEGlJxkIJY9mJ8buQKo.jpg
+backdrop_tmdb_path: /9yJElFlwxFBW5CabFPfknmneeo9.jpg

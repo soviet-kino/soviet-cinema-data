@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9386067
   imdb: tt0059939
+  tmdb: 747341
 sources:
 - https://www.wikidata.org/wiki/Q9386067
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - pa-asz-edward
 cast:
 - person: kalczynski-krzysztof
+poster_tmdb_path: /73RxSM9jbWyAryYnImVzZkfWnIz.jpg
+backdrop_tmdb_path: /hVHOpWU2dc0zkVur0XeLkPq588A.jpg

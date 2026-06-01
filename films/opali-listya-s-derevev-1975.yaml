@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11798437
   imdb: tt0073489
+  tmdb: 735974
 sources:
 - https://www.wikidata.org/wiki/Q11798437
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: chislak-petr
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /ncz5rRS9awZUELk9Q5zp7eUWsty.jpg

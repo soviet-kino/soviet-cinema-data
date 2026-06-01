@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4386164
   imdb: tt0218534
   youtube: rz0upt_pfKo
+  tmdb: 91653
 sources:
 - https://www.wikidata.org/wiki/Q4386164
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - oppengeym-boris-rafailovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /AaTHlIXGKjJACYms9PlsyT7F6sG.jpg
+backdrop_tmdb_path: /43VLOBKEC2vCK0jsGmEQhBR66Cp.jpg

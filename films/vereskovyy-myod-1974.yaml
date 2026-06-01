@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20074468
   imdb: tt6493386
+  tmdb: 493496
 sources:
 - https://www.wikidata.org/wiki/Q20074468
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - gurvich-irina-borisovna
 screenwriter:
 - pavlenko-tadeush
+poster_tmdb_path: /e1gwOSy5LgEpV1APxXiEgMjntQN.jpg

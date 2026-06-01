@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23900092
   imdb: tt6372492
+  tmdb: 454171
 sources:
 - https://www.wikidata.org/wiki/Q23900092
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kazenin-vladislav-igorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zbB1zga0RwHgYsH6AAw5PQzgXyO.jpg
+backdrop_tmdb_path: /7KzaDsphAVMZmcqU4GiYSkRPrRH.jpg

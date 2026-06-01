@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q5367785
   imdb: tt0089083
+  tmdb: 263379
 sources:
 - https://www.wikidata.org/wiki/Q5367785
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: benko-gyula
 - person: bezeredi-zoltan
 - person: markus-laslo
+poster_tmdb_path: /sASZ7WzNdRKcFoDrFYHGZM9rlG7.jpg

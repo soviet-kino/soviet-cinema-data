@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7651661
   imdb: tt0180224
+  tmdb: 354249
 sources:
 - https://www.wikidata.org/wiki/Q7651661
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dvornik-boris
 - person: vuisich-pavle
 - person: serment-mladen
+poster_tmdb_path: /7Cz1nPPF1SlDnYImBJraPGgGJw7.jpg

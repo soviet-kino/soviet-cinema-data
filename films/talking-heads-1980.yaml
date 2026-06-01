@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q9265236
   imdb: tt0080770
+  tmdb: 49098
 sources:
 - https://www.wikidata.org/wiki/Q9265236
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - petritskiy-yatsek
 studio:
 - warsaw-documentary-film-studio
+poster_tmdb_path: /mZRbYbqvXkapwQhlYLlHUr6acg0.jpg
+backdrop_tmdb_path: /scZBeeFLt5hluwmQaQthKTxyHW5.jpg

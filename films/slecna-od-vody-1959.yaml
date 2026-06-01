@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7540204
   imdb: tt0053284
   youtube: kLN62bdMerA
+  tmdb: 676165
 sources:
 - https://www.wikidata.org/wiki/Q7540204
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: doubravska-dagmar
 - person: jiskrova-libuse
 - person: novak-jaroslav
+poster_tmdb_path: /9y6xClLyt3MLXSJ5jdmndacTncy.jpg

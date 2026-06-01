@@ -8,6 +8,7 @@ runtime_min: 44
 external_ids:
   wikidata: Q4101808
   imdb: tt0328600
+  tmdb: 881709
 sources:
 - https://www.wikidata.org/wiki/Q4101808
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: zashchipina-natalya-aleksandrovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /fZ705H6z554Ln7MSF0YFIUg6h8i.jpg

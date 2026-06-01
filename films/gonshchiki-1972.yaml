@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4143312
   imdb: tt0068647
+  tmdb: 239412
 sources:
 - https://www.wikidata.org/wiki/Q4143312
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: chiginskaya-galina-evgenevna
 - person: ilina-nina-aleksandrovna
 - person: vasilev-mikhail-pavlovich
+poster_tmdb_path: /nZUDUsBA3SV7ozWmiiHRTHQ0otY.jpg
+backdrop_tmdb_path: /kgkve7AjpjFBiogBOufLq6OOfeV.jpg

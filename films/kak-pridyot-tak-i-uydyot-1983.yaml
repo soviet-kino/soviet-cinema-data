@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12752196
   imdb: tt0085712
+  tmdb: 55117
 sources:
 - https://www.wikidata.org/wiki/Q12752196
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: boris-milivoevich
 - person: q16088547
 - person: blaskovic-mirjana
+poster_tmdb_path: /ic1fLAZFdtkbg0iUiu0BTq2NKpv.jpg
+backdrop_tmdb_path: /pX9RPF035L3Ca2BabDLiIz6UiRR.jpg

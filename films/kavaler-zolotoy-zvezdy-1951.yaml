@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4206790
   imdb: tt0043701
   youtube: uPro3_GnOfM
+  tmdb: 199519
 sources:
 - https://www.wikidata.org/wiki/Q4206790
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: chemodurov-anatoliy-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /xRwrfN4ZkNlNN1n3dIatAoS77hq.jpg

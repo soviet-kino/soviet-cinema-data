@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16613902
   imdb: tt0075408
+  tmdb: 897121
 sources:
 - https://www.wikidata.org/wiki/Q16613902
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - kuznyak-khenrik
 cast:
 - person: budzish-kshizhanovska-tereza
+poster_tmdb_path: /2TEsPFa1GTeETwuuCPWPAm33j20.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1134771
   imdb: tt0197218
   youtube: 3o4dUoXGVeU
+  tmdb: 193323
 sources:
 - https://www.wikidata.org/wiki/Q1134771
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: poloskov-german-evgenevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zWEm5WiDJbaR3A27OOCNHub5X0n.jpg
+backdrop_tmdb_path: /h8CpgY8oweJFdkyFaeiGmRXf2mc.jpg

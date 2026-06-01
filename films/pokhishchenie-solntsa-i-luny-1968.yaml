@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20439412
   imdb: tt1255484
+  tmdb: 90919
 sources:
 - https://www.wikidata.org/wiki/Q20439412
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - reisenbuchler-sandor
 composer:
 - orf-karl
+poster_tmdb_path: /ulczVFAbmfVaTyNA3qjF1a0qdRI.jpg
+backdrop_tmdb_path: /14O4P3UdpEnax6M4HuiZh35cWHp.jpg

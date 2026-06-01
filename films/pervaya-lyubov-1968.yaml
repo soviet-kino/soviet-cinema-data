@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270906
   imdb: tt0063424
   youtube: uV9htJOBTgM
+  tmdb: 837724
 sources:
 - https://www.wikidata.org/wiki/Q15270906
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: smoktunovskiy-innokentiy-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /l6zKbSTQIw02vOFhocxvn8CpwHH.jpg

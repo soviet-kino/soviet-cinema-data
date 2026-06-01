@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3549652
   imdb: tt0064279
+  tmdb: 355858
 sources:
 - https://www.wikidata.org/wiki/Q3549652
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: beata-tyshkevich
 - person: tyoryochik-mari
 - person: kallai-ferents
+poster_tmdb_path: /gExlqabKbMMXtgzQ0TsUm2Z2pIB.jpg

@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4846697
   imdb: tt0046504
+  tmdb: 70525
 sources:
 - https://www.wikidata.org/wiki/Q4846697
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: sever-stane
 - person: cuk-janez
 - person: trefalt-franek
+poster_tmdb_path: /54dgsAjhtph9BBFOrrsgr8vpbxg.jpg
+backdrop_tmdb_path: /2QaPHqk1amA5IieBYIShONvLskR.jpg

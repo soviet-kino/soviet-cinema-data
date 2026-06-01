@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q85975761
   imdb: tt4822996
+  tmdb: 1039125
 sources:
 - https://www.wikidata.org/wiki/Q85975761
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: orlova-galina-petrovna
 - person: safonov-vsevolod-dmitrievich
 - person: sagaydak-mariya-ivanovna
+poster_tmdb_path: /wwWH55ivMRpXODZBxZzxeJdArUK.jpg
+backdrop_tmdb_path: /opWhewvlY1JDc6tEq1xmvS1uKvt.jpg

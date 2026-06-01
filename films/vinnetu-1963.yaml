@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q564124
   imdb: tt0057687
+  tmdb: 3685
 sources:
 - https://www.wikidata.org/wiki/Q564124
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: barns-uolter
 - person: popovich-mavid-milivoye
 - person: spoljar-branko
+poster_tmdb_path: /xOMhQgYHSAfuYRWmFpfb70P1yHP.jpg
+backdrop_tmdb_path: /1f9kaPcMAHGZmy3F81Z0d041UXX.jpg

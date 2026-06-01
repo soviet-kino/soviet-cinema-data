@@ -8,8 +8,10 @@ runtime_min: 4
 external_ids:
   wikidata: Q104834263
   imdb: tt0943262
+  tmdb: 281679
 sources:
 - https://www.wikidata.org/wiki/Q104834263
 schema_version: 1
 director:
 - borivoy-dovnikovich
+poster_tmdb_path: /xTFNjpEi9XJVwTCoPYZw6KIPU8q.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q130292819
   imdb: tt11885878
+  tmdb: 1448487
 sources:
 - https://www.wikidata.org/wiki/Q130292819
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - yakovlev-vladimir-timofeevich
 studio:
 - lenfilm
+poster_tmdb_path: /iA5Id5KykwMJtYFnjHVXJ5f9ayc.jpg
+backdrop_tmdb_path: /vz2eZ8jxBhlX1bI3YfPrsijtr9t.jpg

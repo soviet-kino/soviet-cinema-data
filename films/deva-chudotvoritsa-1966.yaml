@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q12773364
   imdb: tt0133142
+  tmdb: 47062
 sources:
 - https://www.wikidata.org/wiki/Q12773364
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: cabala-michal
 - person: jakubisova-angela
 - person: kmunickova-marta
+poster_tmdb_path: /mWuDpUcDSNdGW2kU77JmnjVu3um.jpg
+backdrop_tmdb_path: /kK0Pqzkw9wRmSXj70sbSjztOwPI.jpg

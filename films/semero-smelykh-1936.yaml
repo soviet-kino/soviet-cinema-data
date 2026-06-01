@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4415401
   imdb: tt0028237
+  tmdb: 158725
 sources:
 - https://www.wikidata.org/wiki/Q4415401
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Novosel'cev Sette coraggiosi.jpg
+poster_tmdb_path: /rtPwiAicRk3kH1qnrF1sI9wGKUM.jpg
+backdrop_tmdb_path: /lVHmQfjFuHDRB6LonMHl6BMnQLt.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4301700
   imdb: tt0170257
+  tmdb: 206526
 sources:
 - https://www.wikidata.org/wiki/Q4301700
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: strizhenov-gleb-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /ylGdp6T58H4yO8ORcEI1ybiSWBk.jpg

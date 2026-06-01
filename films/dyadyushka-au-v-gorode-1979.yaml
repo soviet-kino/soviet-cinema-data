@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q56099834
   imdb: tt0218952
   youtube: K0UfzfGTG0g
+  tmdb: 526354
 sources:
 - https://www.wikidata.org/wiki/Q56099834
 schema_version: 1
 director:
 - muat-mariya-andreevna
+poster_tmdb_path: /hgYa3qXNgSPLEh3GFujqypX7OBm.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q11798753
   imdb: tt0048450
+  tmdb: 553178
 sources:
 - https://www.wikidata.org/wiki/Q11798753
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: damentski-demien
 studio:
 - q9380470
+poster_tmdb_path: /3I8ewnuMXnpBU6bZEf1pqtIlxHe.jpg

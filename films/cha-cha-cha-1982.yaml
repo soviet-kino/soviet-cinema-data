@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q859862
   imdb: tt0143171
+  tmdb: 267033
 sources:
 - https://www.wikidata.org/wiki/Q859862
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kovacsi-janos
 screenwriter:
 - kovacsi-janos
+poster_tmdb_path: /qj1F2S5SAKw7gbNA0BI4mStlKTn.jpg
+backdrop_tmdb_path: /pNUxll1gJwGIM8quPtBZuyTorVX.jpg

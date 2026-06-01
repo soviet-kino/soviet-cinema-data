@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q132182404
   imdb: tt0152381
+  tmdb: 509312
 sources:
 - https://www.wikidata.org/wiki/Q132182404
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: smidova-jarmila
 - person: ondrova-lida
 - person: scheinerova-jaroslava
+poster_tmdb_path: /zj7sELoV09ZPYhmSN2c2k1EeB3y.jpg

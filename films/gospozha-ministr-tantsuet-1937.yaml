@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11802636
   imdb: tt0029371
+  tmdb: 244102
 sources:
 - https://www.wikidata.org/wiki/Q11802636
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 cast:
 - person: tolya-mankevichuvna
 poster_commons: Pani minister tanczy 1937.jpg
+poster_tmdb_path: /tytG6ebwxQR7C2jrub4NXjTobNt.jpg
+backdrop_tmdb_path: /9Jg3QJJGDNPiduFeHcmHkd4icGp.jpg

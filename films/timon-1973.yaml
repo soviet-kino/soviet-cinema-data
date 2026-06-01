@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7806927
   imdb: tt0070807
+  tmdb: 502827
 sources:
 - https://www.wikidata.org/wiki/Q7806927
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - boshko-petrovich
 cast:
 - person: buzanchich-boris
+poster_tmdb_path: /dkp60HauyUVCO7KYoVZ6eSIuw5b.jpg

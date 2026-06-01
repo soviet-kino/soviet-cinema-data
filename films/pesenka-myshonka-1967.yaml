@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4359597
   imdb: tt5498142
+  tmdb: 389751
 sources:
 - https://www.wikidata.org/wiki/Q4359597
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - flyarkovskiy-aleksandr-georgievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /l5NvEPYv5aBeJnxczTvWGdCGo0v.jpg
+backdrop_tmdb_path: /eci8i9SdTM9GjUa8jj6DtcaTqZg.jpg

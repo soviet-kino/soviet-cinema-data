@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q136758980
   imdb: tt0318350
+  tmdb: 561991
 sources:
 - https://www.wikidata.org/wiki/Q136758980
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: kommerel-blansh
 - person: koster-erhard
 - person: minetti-khans-peter
+poster_tmdb_path: /zfXhEVdMb52Rb0V6zJyftPL1flB.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97965620
   imdb: tt0383298
+  tmdb: 1452380
 sources:
 - https://www.wikidata.org/wiki/Q97965620
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: burkhanov-shukur
 - person: puzyryov-yuriy-nikolaevich
 - person: saidkasymov-pulat
+poster_tmdb_path: /7eTBlhCrxjn1OLsuhQjHdrIBxw5.jpg
+backdrop_tmdb_path: /tfOGz4WOgGXOIeyeMEgPvWQl9B3.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q54265434
   imdb: tt0362003
+  tmdb: 430871
 sources:
 - https://www.wikidata.org/wiki/Q54265434
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: gurnik-ilona
 - person: guyfri-zhurzh
 - person: khorvat-gyula
+poster_tmdb_path: /wsVpg4dtjQXNVHFkgZOcOzpQrUY.jpg

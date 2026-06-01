@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q3913067
   imdb: tt0077879
+  tmdb: 55111
 sources:
 - https://www.wikidata.org/wiki/Q3913067
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: gonchich-svetislav
 - person: vladan-zhivkovich
 - person: ranko-kovachevich
+poster_tmdb_path: /bw6ov1RZGevj4CLO58ww3ZVQ5b1.jpg
+backdrop_tmdb_path: /aZ6u2xJGZYBqgsqDqfUttlEne5W.jpg

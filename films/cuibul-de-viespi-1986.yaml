@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25894414
   imdb: tt0264507
+  tmdb: 34416
 sources:
 - https://www.wikidata.org/wiki/Q25894414
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: buchuchanu-botez-tamara
 - person: ploae-mariya
 - person: danetti-theodor
+poster_tmdb_path: /3PDpuRuFauCTIAKhYB3qyRwlkba.jpg
+backdrop_tmdb_path: /kNgYuhLOzdvtM61oanJRB6gfWqP.jpg

@@ -8,6 +8,7 @@ runtime_min: 55
 external_ids:
   wikidata: Q9370023
   imdb: tt0083311
+  tmdb: 341667
 sources:
 - https://www.wikidata.org/wiki/Q9370023
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: stalinska-dorota
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /aB6jZl6JBNISQBhDUGwbUudXMvX.jpg
+backdrop_tmdb_path: /b5zo5KVzQhePKXNyt8C8ImpIoPN.jpg

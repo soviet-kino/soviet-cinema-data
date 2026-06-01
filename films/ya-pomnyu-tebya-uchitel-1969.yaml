@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q251974
   imdb: tt4263882
+  tmdb: 387360
 sources:
 - https://www.wikidata.org/wiki/Q251974
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: ibragimova-safura-agababa-kyzy
 - person: morsinina-svetlana
 - person: ogly-aleskerov-suleyman-agababa
+poster_tmdb_path: /z1JLF2DKtjblc09OYbkHFm1JH1k.jpg
+backdrop_tmdb_path: /6N9TYaYSxo3YvKvwlqEdJiATUgL.jpg

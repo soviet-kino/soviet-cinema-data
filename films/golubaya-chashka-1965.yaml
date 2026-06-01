@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4142289
   imdb: tt0175678
+  tmdb: 437643
 sources:
 - https://www.wikidata.org/wiki/Q4142289
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kalmykov-vladimir-alekseevich
 - person: murzaeva-irina-vsevolodovna
 - person: kharitonova-svetlana-nikolaevna
+poster_tmdb_path: /oBKl2Td1InOdUjCsoN6b6netjmW.jpg
+backdrop_tmdb_path: /iGN3qkiL3JpyKrgZ8vQcU00O5mF.jpg

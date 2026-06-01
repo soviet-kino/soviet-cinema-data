@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q119438901
   imdb: tt21292662
+  tmdb: 1552829
 sources:
 - https://www.wikidata.org/wiki/Q119438901
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zaychikov-vasiliy-fyodorovich
 studio:
 - goskino
+poster_tmdb_path: /a7WtIk0pqZjmj3cYbXTL5DShNCP.jpg

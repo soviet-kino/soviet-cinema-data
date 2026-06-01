@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4156427
   imdb: tt2578320
+  tmdb: 446991
 sources:
 - https://www.wikidata.org/wiki/Q4156427
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - oranskiy-viktor-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6u1rfvm86fuKKpQ6QbsudosjFBS.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4260208
   imdb: tt0075292
+  tmdb: 146030
 sources:
 - https://www.wikidata.org/wiki/Q4260208
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: aedma-reyn
 - person: ani-endel
 - person: ruuven-kalju
+poster_tmdb_path: /bB4335Pdmm8JZvWczBkMPVq11Gy.jpg
+backdrop_tmdb_path: /sbkxxLK7msUO6UWnlTAi8KkjSy0.jpg

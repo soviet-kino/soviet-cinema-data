@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q3022274
   imdb: tt0074393
+  tmdb: 263818
 sources:
 - https://www.wikidata.org/wiki/Q3022274
 schema_version: 1
@@ -91,3 +92,5 @@ cast:
 - person: fleischerova-olga
 - person: khainova-dagmar
 - person: rybar-karel
+poster_tmdb_path: /4vJjmZqCp3ytDoHmzWUPzUYf5Fq.jpg
+backdrop_tmdb_path: /lz3Nck7atD3uic7Wo48nMOII4aI.jpg

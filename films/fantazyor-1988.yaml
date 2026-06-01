@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q121084553
   imdb: tt0175607
   youtube: rRB9lCdBBMo
+  tmdb: 1154065
 sources:
 - https://www.wikidata.org/wiki/Q121084553
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - rayskiy-yuriy-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /vfmlF3TcgCUDjNjn7Rr69Oya4Be.jpg

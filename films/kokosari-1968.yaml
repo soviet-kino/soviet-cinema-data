@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16084474
   imdb: tt1106804
+  tmdb: 1375283
 sources:
 - https://www.wikidata.org/wiki/Q16084474
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: dragan-milivoevich
 - person: pavle-bogdanovich
 - person: subic-ivan
+poster_tmdb_path: /sKmVsUg0wulg0Qd7GlQ9txQ120t.jpg

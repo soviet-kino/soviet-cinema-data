@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4131578
   imdb: tt0174675
   youtube: 3PnGb4SZAIs
+  tmdb: 530636
 sources:
 - https://www.wikidata.org/wiki/Q4131578
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: ponsova-elena-dmitrievna
 - person: shvidler-malvina-zinovevna
 - person: fushchich-vasiliy
+poster_tmdb_path: /hQJ4O3zpehe38uDByYDK8t1h6cu.jpg

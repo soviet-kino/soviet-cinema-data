@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11791375
   imdb: tt0297893
+  tmdb: 519687
 sources:
 - https://www.wikidata.org/wiki/Q11791375
 schema_version: 1
 director:
 - pecani-spartak
+poster_tmdb_path: /nNVIrEnJ7gCumjNRr2vUT0QXMi2.jpg
+backdrop_tmdb_path: /htVHLSdOVqTGOpwn9pIBzgS7AKk.jpg

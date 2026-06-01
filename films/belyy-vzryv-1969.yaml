@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4083112
   imdb: tt0064079
   youtube: KWClfeiep5k
+  tmdb: 142741
 sources:
 - https://www.wikidata.org/wiki/Q4083112
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: gurchenko-lyudmila
 - person: dzhigarkhanyan-armen-borisovich
 - person: nikonenko-sergey
+poster_tmdb_path: /6nKFPXhIl3RmhBORrpVGPnhwY19.jpg
+backdrop_tmdb_path: /yzkUKgPapqJ9fB5z5q7fJ8bA9V5.jpg

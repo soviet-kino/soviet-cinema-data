@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791910
   imdb: tt0170665
+  tmdb: 503263
 sources:
 - https://www.wikidata.org/wiki/Q11791910
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 composer:
 - ibrahimi-feim
 poster_commons: Piro Qirjo in Të paftuarit.jpg
+poster_tmdb_path: /gg4ymuo2fJXx4oNmnxwpS28QpmA.jpg
+backdrop_tmdb_path: /xdVZxKddo7FYJtCfs3jSeQHtHl9.jpg

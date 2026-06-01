@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3230315
   imdb: tt0023971
+  tmdb: 425237
 sources:
 - https://www.wikidata.org/wiki/Q3230315
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - azerbaydzhanfilm
 poster_commons: 26 комиссаров.jpg
+poster_tmdb_path: /id7K3sLAcrdt1ldlEnqYKs53z49.jpg
+backdrop_tmdb_path: /v6XEojavPUkHGXOKZdLp2TzvTff.jpg

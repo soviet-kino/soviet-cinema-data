@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q21148926
   imdb: tt0183915
+  tmdb: 889537
 sources:
 - https://www.wikidata.org/wiki/Q21148926
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 studio:
 - lenfilm
 - barrandov
+poster_tmdb_path: /mJ2p06nEXQlxkeKkAIdF5vXooah.jpg

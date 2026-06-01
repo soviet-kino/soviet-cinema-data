@@ -8,6 +8,7 @@ runtime_min: 37
 external_ids:
   wikidata: Q4155789
   imdb: tt0374631
+  tmdb: 239618
 sources:
 - https://www.wikidata.org/wiki/Q4155789
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: zakharov-vyacheslav-grigorevich
 - person: fyodorova-viktoriya-yakovlevna
 - person: shmits-luys
+poster_tmdb_path: /6BpbC70IcqCIg93lrsi8a1O3HWV.jpg
+backdrop_tmdb_path: /tcDYddT0mbePnHGNxqNDG8xyIfZ.jpg

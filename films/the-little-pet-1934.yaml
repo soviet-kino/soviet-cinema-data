@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q7747686
   imdb: tt0169004
+  tmdb: 571436
 sources:
 - https://www.wikidata.org/wiki/Q7747686
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: zak-rudolf-2
 - person: vaverka-antonin
 - person: fleischman-frantisek
+poster_tmdb_path: /wBzmiHBUQSMGAQJg6bDW9HFyd4A.jpg

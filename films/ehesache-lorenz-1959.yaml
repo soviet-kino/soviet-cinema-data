@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q19278893
   imdb: tt0137484
+  tmdb: 286272
 sources:
 - https://www.wikidata.org/wiki/Q19278893
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - martsinkovskiy-gyunter
 composer:
 - azriel-andre
+poster_tmdb_path: /sh6A3AwynuYDeGALJginHgal0Fz.jpg

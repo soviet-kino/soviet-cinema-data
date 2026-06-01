@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q4171422
   imdb: tt5048460
+  tmdb: 354198
 sources:
 - https://www.wikidata.org/wiki/Q4171422
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: bykov-rolan-antonovich
 - person: tkachuk-roman-denisovich
 - person: kasatkina-lyudmila-ivanovna
+poster_tmdb_path: /28xZSlkuXsRIvLlm8DXep2T9OpY.jpg

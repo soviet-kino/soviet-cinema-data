@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1329415
   imdb: tt0070847
+  tmdb: 42467
 sources:
 - https://www.wikidata.org/wiki/Q1329415
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - tamashi-zdenko
 cast:
 - person: zelk-zoltan
+poster_tmdb_path: /lfosGhDuTIE4aaUJjfQD2EXuYug.jpg

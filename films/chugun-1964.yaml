@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12169034
   imdb: tt0171852
+  tmdb: 216731
 sources:
 - https://www.wikidata.org/wiki/Q12169034
 schema_version: 1
 director:
 - ioseliani-otar-davidovich
+poster_tmdb_path: /A28NCy5vWB1jFUUtrZLRUXwjoiM.jpg
+backdrop_tmdb_path: /tjqZb7nM8ofyBNbgpKJiQuN9oR4.jpg

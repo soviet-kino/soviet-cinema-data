@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q1103493
   imdb: tt0243563
+  tmdb: 713090
 sources:
 - https://www.wikidata.org/wiki/Q1103493
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: safarka-jozef
 - person: casnochova-viera
 - person: minarova-stefania
+poster_tmdb_path: /q4IyWiwl9Ys4OEynb9NufZeQbHr.jpg

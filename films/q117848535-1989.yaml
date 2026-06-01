@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q117848535
   imdb: tt0329727
+  tmdb: 617701
 sources:
 - https://www.wikidata.org/wiki/Q117848535
 schema_version: 1
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mVh2Ogqa5s0kIQDOtwHCYnaVEXC.jpg
+backdrop_tmdb_path: /iiWNpEorwcxgsNOUufcqFQUz0e6.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q124393928
   imdb: tt0249587
+  tmdb: 814810
 sources:
 - https://www.wikidata.org/wiki/Q124393928
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: q131862960
 - person: waldmann-jan
 - person: hubner-zdenek
+poster_tmdb_path: /lYHLBwtaTxekXG45rtAfZKLenBa.jpg

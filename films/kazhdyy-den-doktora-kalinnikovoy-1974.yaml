@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108593856
   imdb: tt0302686
   youtube: weGUbmwC-r0
+  tmdb: 533352
 sources:
 - https://www.wikidata.org/wiki/Q108593856
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - gubaydulina-sofiya-asgatovna
 studio:
 - mosfilm
+poster_tmdb_path: /yWo5m8iMvwCP3i7NsJoboYeYnun.jpg

@@ -8,6 +8,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q11612766
   imdb: tt0056068
+  tmdb: 223019
 sources:
 - https://www.wikidata.org/wiki/Q11612766
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 studio:
 - rembrandt-films
 poster_commons: High Steaks title card.png
+poster_tmdb_path: /hLg590tjnJ3neik2ZlAlEVpdXbE.jpg
+backdrop_tmdb_path: /lofK6YeGGVrvvmxTvRn4UAp1kKs.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20076781
   imdb: tt0045350
+  tmdb: 690398
 sources:
 - https://www.wikidata.org/wiki/Q20076781
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: inyutina-galina-konstantinovna
 studio:
 - lenfilm
+poster_tmdb_path: /cekojXAUm9mMniz5de86dwOCAvw.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12270461
   imdb: tt0297689
+  tmdb: 493497
 sources:
 - https://www.wikidata.org/wiki/Q12270461
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: dzhambazov-ivan
 - person: dadov-nikola
 - person: mavrodiev-stefan
+poster_tmdb_path: /aWwCmoW9yk9oeWwSp0lgXdLWixG.jpg

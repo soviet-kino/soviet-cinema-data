@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3066535
   imdb: tt0401005
   youtube: ws99cVDHp1I
+  tmdb: 472596
 sources:
 - https://www.wikidata.org/wiki/Q3066535
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: grinko-nikolai
 - person: lebedev-evgeniy-alekseevich
+poster_tmdb_path: /8RTzMqlnqdth4eTHTnSpTivKswd.jpg
+backdrop_tmdb_path: /aU18iztaALg7A6INgwbPokACQS9.jpg

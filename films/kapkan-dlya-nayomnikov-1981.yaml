@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q4213041
   imdb: tt0080494
+  tmdb: 315059
 sources:
 - https://www.wikidata.org/wiki/Q4213041
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: enaceanu-mimi
 - person: costea-traian
 - person: popovichi-ilyana
+poster_tmdb_path: /uf7ttO7S3wk2PfwzLVBAUYgUlsC.jpg
+backdrop_tmdb_path: /r7W1tIwJ11UG6nSnOzvfTzwotEg.jpg

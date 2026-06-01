@@ -8,8 +8,11 @@ runtime_min: 107
 external_ids:
   wikidata: Q84528542
   imdb: tt0046971
+  tmdb: 471709
 sources:
 - https://www.wikidata.org/wiki/Q84528542
 schema_version: 1
 director:
 - keleti-marton
+poster_tmdb_path: /9iN3FsYkhVrM7DV4LIJxbjfXqYj.jpg
+backdrop_tmdb_path: /zaIGyJjFU5vYhXvIxb9cb92QWFt.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270492
   imdb: tt0321491
   youtube: _5Jy2aYi8yA
+  tmdb: 69815
 sources:
 - https://www.wikidata.org/wiki/Q15270492
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - belarusfilm
 cast:
 - person: vitorgan-emmanuil-gedeonovich
+poster_tmdb_path: /wZFE48DCG10gGnAp2UiTkyvIGrU.jpg
+backdrop_tmdb_path: /v6lmIU166QmrKRbFqTIaFVjmBru.jpg

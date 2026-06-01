@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12720539
   imdb: tt0057841
+  tmdb: 315860
 sources:
 - https://www.wikidata.org/wiki/Q12720539
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - bostan-elizabeta
 screenwriter:
 - kryange-ion
+poster_tmdb_path: /44szeJINnLQ4DByIhR9snNWTJio.jpg
+backdrop_tmdb_path: /uAJ1dhUZAVmSaUGq1jbItbT0Da5.jpg

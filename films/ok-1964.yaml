@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q122661793
   imdb: tt1051912
+  tmdb: 410048
 sources:
 - https://www.wikidata.org/wiki/Q122661793
 schema_version: 1
 director:
 - khaynovskiy-valter
+poster_tmdb_path: /tdYpVWQPslXokKTwFvELqrCVpRu.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4376031
   imdb: tt0237602
   youtube: 1ke62Fa_9TI
+  tmdb: 256251
 sources:
 - https://www.wikidata.org/wiki/Q4376031
 schema_version: 1
@@ -17,3 +18,5 @@ cast:
 - person: ivashov-vladimir-sergeevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /grjgIM01XkkPTDyK6cM7ebi8scB.jpg
+backdrop_tmdb_path: /aKfqOlx5uJrFgysE8dAWyKJGmnI.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q25204247
   imdb: tt0019051
+  tmdb: 371843
 sources:
 - https://www.wikidata.org/wiki/Q25204247
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - evgeniy-iosifovich-gabrilovich
 studio:
 - gosvoenkino
+poster_tmdb_path: /4RvdXKxn9nT4w1Dy8wtcYXhrX42.jpg

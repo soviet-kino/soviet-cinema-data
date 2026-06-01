@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9089259
   imdb: tt0170258
+  tmdb: 462009
 sources:
 - https://www.wikidata.org/wiki/Q9089259
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - anagnosti-dimiter
 composer:
 - peci-aleksander
+poster_tmdb_path: /cwrFxeLaGcoWsQtJrxkdRLEXWji.jpg
+backdrop_tmdb_path: /k1ETNiZMEEfht73gkrL3kIm99vw.jpg

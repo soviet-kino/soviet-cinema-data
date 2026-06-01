@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1998914
   imdb: tt1316626
   youtube: 8rF6qVNtiS8
+  tmdb: 324084
 sources:
 - https://www.wikidata.org/wiki/Q1998914
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kuznetsov-yuriy-aleksandrovich
 studio:
 - studiya-panorama
+poster_tmdb_path: /Aqr9oEfxQ2A4V1rbnfVu1IuKhic.jpg
+backdrop_tmdb_path: /g8AnSSOiyH7mtYpNTFAY4IHewXc.jpg

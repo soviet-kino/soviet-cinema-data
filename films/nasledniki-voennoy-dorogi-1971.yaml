@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4313928
   imdb: tt2395279
+  tmdb: 1167312
 sources:
 - https://www.wikidata.org/wiki/Q4313928
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: tsilinskiy-gunar-alfredovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /20QgKqzaSKKubGj21dxG3axzAw5.jpg
+backdrop_tmdb_path: /7KdP9zF3NeNobjtPjF0YKWw3Y29.jpg

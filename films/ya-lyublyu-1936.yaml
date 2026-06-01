@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q117306028
   imdb: tt0173470
   youtube: uB2XfcIrn7g
+  tmdb: 810340
 sources:
 - https://www.wikidata.org/wiki/Q117306028
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 cast:
 - person: chuvelyov-ivan-pavlovich
 - person: chistyakov-aleksandr-petrovich
+poster_tmdb_path: /5wEZlI7JxoUJz0rS02xvSXkYJsC.jpg
+backdrop_tmdb_path: /c1l47bxJcjUYzPen2krK8Bm0FIy.jpg

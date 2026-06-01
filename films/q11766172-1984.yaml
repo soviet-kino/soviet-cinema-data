@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11766172
   imdb: tt0085885
+  tmdb: 923036
 sources:
 - https://www.wikidata.org/wiki/Q11766172
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - gurny-zbignev
 cast:
 - person: adamski-w-odzimierz
+poster_tmdb_path: /hDg7Lm4dVRfpgnu8zmIf1fSSEVA.jpg

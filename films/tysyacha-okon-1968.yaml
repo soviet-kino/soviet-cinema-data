@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q97276825
   imdb: tt0348265
+  tmdb: 396001
 sources:
 - https://www.wikidata.org/wiki/Q97276825
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bulinskiy-andrey-aleksandrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /enwnAatE70txrO1drqIxTVdhKhS.jpg

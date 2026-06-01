@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4339280
   imdb: tt1373196
   youtube: Y0rbT1uWOr8
+  tmdb: 399776
 sources:
 - https://www.wikidata.org/wiki/Q4339280
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - efremov-igor-leonidovich
 studio:
 - ekran
+poster_tmdb_path: /t3YOw25s58jAzwPPMcxIYsgP83E.jpg

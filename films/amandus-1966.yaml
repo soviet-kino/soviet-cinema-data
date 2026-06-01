@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4739830
   imdb: tt0060096
+  tmdb: 477056
 sources:
 - https://www.wikidata.org/wiki/Q4739830
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: balokh-mikha
 poster_commons: Amandus Brochure 1966 1.jpg
+poster_tmdb_path: /jDkd32RbjuHlLozycNovWrtsmrO.jpg

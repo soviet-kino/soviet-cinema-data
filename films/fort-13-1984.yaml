@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9261557
   imdb: tt0087283
+  tmdb: 156987
 sources:
 - https://www.wikidata.org/wiki/Q9261557
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kuznyak-khenrik
 cast:
 - person: nemchik-leon
+poster_tmdb_path: /8r58fA2X46PDulHcMwabvE6AmNk.jpg
+backdrop_tmdb_path: /w4vhlOvfNzNJOIq0hP4Ur3XnzbV.jpg

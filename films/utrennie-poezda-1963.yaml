@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4478957
   imdb: tt0414640
   youtube: xR8aCpBbAjI
+  tmdb: 570713
 sources:
 - https://www.wikidata.org/wiki/Q4478957
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - afanasev-leonid
 studio:
 - mosfilm
+poster_tmdb_path: /ee49PGQofgpkuvAjz9etjeANLM5.jpg
+backdrop_tmdb_path: /1QvCxrWU1gXa9HO4g4xCqxPcnKx.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q54439094
   imdb: tt0233958
+  tmdb: 290145
 sources:
 - https://www.wikidata.org/wiki/Q54439094
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: lyudvig-rolf
 - person: leydyu-klod
 - person: edenharter-otto-erich
+poster_tmdb_path: /hP0DL1I951YD4kt6XnlMVLEu8tF.jpg

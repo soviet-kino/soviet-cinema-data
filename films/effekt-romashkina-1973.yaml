@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q25438275
   imdb: tt0170857
   youtube: 1LzZZ0bGBAM
+  tmdb: 67019
 sources:
 - https://www.wikidata.org/wiki/Q25438275
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - likhodeev-leonid-izrailevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /9ofKh4Evqt2HxkOfJvdxQYAFUbX.jpg
+backdrop_tmdb_path: /fbZsQqrbsMGrgf0IeDx4Vr0yjpd.jpg

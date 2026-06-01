@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q5109245
   imdb: tt0167242
+  tmdb: 50795
 sources:
 - https://www.wikidata.org/wiki/Q5109245
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: filipovskiy-frantishek
 studio:
 - lucernafilm
+poster_tmdb_path: /yRc2Bi66Hjtz3izaHq3SCtR2OhE.jpg
+backdrop_tmdb_path: /oxB251S8P48oXm1zTW54tMYdi7u.jpg

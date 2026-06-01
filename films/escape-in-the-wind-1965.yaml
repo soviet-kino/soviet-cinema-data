@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q20898632
   imdb: tt0208542
+  tmdb: 961375
 sources:
 - https://www.wikidata.org/wiki/Q20898632
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: hustakova-kveta
 - person: cadil-miroslav
 - person: sobotka-petr
+poster_tmdb_path: /daQneYdWDRM0vja0epp6lbZDZ3F.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q123358699
   imdb: tt0170836
+  tmdb: 753221
 sources:
 - https://www.wikidata.org/wiki/Q123358699
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: ganiev-otabek
 studio:
 - uzbekfilm
+poster_tmdb_path: /pOCR5c34CLp3dGnAEPZ90kKtnxc.jpg

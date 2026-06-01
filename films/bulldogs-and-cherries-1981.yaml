@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q11364520
   imdb: tt0082113
+  tmdb: 410468
 sources:
 - https://www.wikidata.org/wiki/Q11364520
 schema_version: 1
@@ -74,3 +75,5 @@ cast:
 - person: kovarik-vaclav
 - person: q131828124
 - person: obrda-jan
+poster_tmdb_path: /cZ6DVEggKtRbkzVTzgiTUAzwtZq.jpg
+backdrop_tmdb_path: /oDtlP6O5rbvNqj4XV9upfrupmhH.jpg

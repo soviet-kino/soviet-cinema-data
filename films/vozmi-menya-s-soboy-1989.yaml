@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65211417
   imdb: tt0153606
+  tmdb: 897189
 sources:
 - https://www.wikidata.org/wiki/Q65211417
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - polynnikov-aleksandr
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /tm3It6t6uKrKhjXTm16TSN5no1X.jpg
+backdrop_tmdb_path: /zaxthdWFABWW1xm4glU9SItIaDr.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5501430
   imdb: tt0230223
+  tmdb: 441024
 sources:
 - https://www.wikidata.org/wiki/Q5501430
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - khaubold-gyunter
 composer:
 - lesser-volfgang
+poster_tmdb_path: /3IwBJSd43Elv5OgrQmhmC0Ru8Kz.jpg

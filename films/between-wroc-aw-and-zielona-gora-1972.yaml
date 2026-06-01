@@ -8,8 +8,10 @@ runtime_min: 11
 external_ids:
   wikidata: Q66123801
   imdb: tt0068943
+  tmdb: 363562
 sources:
 - https://www.wikidata.org/wiki/Q66123801
 schema_version: 1
 director:
 - keslyovskiy-kshishtof
+poster_tmdb_path: /7HP2SpS6nTuwQGeZwIQp1B56zyS.jpg

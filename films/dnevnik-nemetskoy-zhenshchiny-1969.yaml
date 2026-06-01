@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5310106
   imdb: tt0381151
+  tmdb: 472989
 sources:
 - https://www.wikidata.org/wiki/Q5310106
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - torndayk-anneli
 screenwriter:
 - torndayk-anneli
+poster_tmdb_path: /reieuqcgyahV0Udov7jK9rQoMrD.jpg

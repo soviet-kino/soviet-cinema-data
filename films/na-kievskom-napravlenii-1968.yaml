@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12131880
   imdb: tt0347602
   youtube: u1GCyqEnkcI
+  tmdb: 535182
 sources:
 - https://www.wikidata.org/wiki/Q12131880
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: rozstalnyy-vitaliy-grigorevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /5q6bQ6GH6hRrpLBxtRBnXWKxJVa.jpg
+backdrop_tmdb_path: /mLzDToaDnksW21sU3tYoBdSIkpf.jpg

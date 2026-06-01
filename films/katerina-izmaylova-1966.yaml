@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4217296
   imdb: tt0122128
   youtube: YjWtkGC3_iY
+  tmdb: 198786
 sources:
 - https://www.wikidata.org/wiki/Q4217296
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - lenfilm
 cast:
 - person: vishnevskaya-galina-pavlovna
+poster_tmdb_path: /aXeYZRsfOd1S4fQM1Vc6JhpXYFV.jpg
+backdrop_tmdb_path: /jFSctwwrqAmM3SsDqHFvNWH2zSO.jpg

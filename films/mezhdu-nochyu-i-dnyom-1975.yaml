@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4899070
   imdb: tt0182546
+  tmdb: 441198
 sources:
 - https://www.wikidata.org/wiki/Q4899070
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - defa
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /4xF0IDGd6PBlVLkxy9B2IXMWQeG.jpg

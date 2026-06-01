@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q102161077
   imdb: tt0479541
+  tmdb: 333242
 sources:
 - https://www.wikidata.org/wiki/Q102161077
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: noyenkhan-villi
 - person: scheuner-christa
 - person: berlin-gabriele
+poster_tmdb_path: /jXuWp1I9VvPuhpDi06Whb2zHMX6.jpg
+backdrop_tmdb_path: /lFCpveC2Y2CpUipqDd1gFxNnndu.jpg

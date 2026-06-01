@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11825945
   imdb: tt0054201
+  tmdb: 856709
 sources:
 - https://www.wikidata.org/wiki/Q11825945
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kurylewicz-andrzej
 cast:
 - person: lapitskiy-andzhey
+poster_tmdb_path: /Ap7jA5mKU2TEQE7vukFwT6SGQqu.jpg

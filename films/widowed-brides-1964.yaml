@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18921752
   imdb: tt0058788
+  tmdb: 571305
 sources:
 - https://www.wikidata.org/wiki/Q18921752
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: mate-erzhi
 - person: pechi-shandor
 - person: suto-iren
+poster_tmdb_path: /cSy5Lf0OuQVbxXBiiiPqPKiCyM8.jpg
+backdrop_tmdb_path: /5Iz92a7LFBjLA9xIdeMkgiSo9FG.jpg

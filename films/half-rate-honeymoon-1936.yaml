@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q514429
   imdb: tt0028049
+  tmdb: 195735
 sources:
 - https://www.wikidata.org/wiki/Q514429
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: agay-iren
 studio:
 - lux-film
+poster_tmdb_path: /7eQVK4ZDwWyxcSe6DjFVxU0HYZE.jpg

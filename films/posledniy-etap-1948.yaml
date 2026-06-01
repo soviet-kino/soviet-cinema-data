@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q322105
   imdb: tt0040674
+  tmdb: 121141
 sources:
 - https://www.wikidata.org/wiki/Q322105
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: smyalovskiy-igor
 - person: bartosik-tadeusz
 poster_commons: Tadeusz Trepkowski Ostatni etap.jpg
+poster_tmdb_path: /swromcGry9Vb40cAUZZ2lrt76YZ.jpg
+backdrop_tmdb_path: /6Z6telDoUjTwozYqMBRD0FrJFkw.jpg

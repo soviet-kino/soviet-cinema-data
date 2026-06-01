@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4163099
   imdb: tt0060316
   youtube: 8UBTiiSAiLE
+  tmdb: 570306
 sources:
 - https://www.wikidata.org/wiki/Q4163099
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: lennikova-tatyana-ivanovna
 - person: koltsov-viktor-grigorevich
 - person: ignatev-anatoliy-vasilevich
+poster_tmdb_path: /cYT0s2bwQ6ABo8xrp0ki2KWJJd8.jpg
+backdrop_tmdb_path: /mEDOscL59BYuMxhQfDoRReZksfU.jpg

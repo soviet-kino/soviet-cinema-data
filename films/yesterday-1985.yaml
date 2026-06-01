@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q2159458
   imdb: tt0090352
+  tmdb: 273611
 sources:
 - https://www.wikidata.org/wiki/Q2159458
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: maykhzhak-kshishtof
 - person: zelinskiy-andzhey
 - person: pyotr-sivkevich
+poster_tmdb_path: /7lZY0Cfl9V63phrfFT5d0yjRYAE.jpg
+backdrop_tmdb_path: /skXulSorpJgesVJd7UaPftupZlg.jpg

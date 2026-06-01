@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q20646604
   imdb: tt0351406
+  tmdb: 832055
 sources:
 - https://www.wikidata.org/wiki/Q20646604
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: andreev-boris-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /rkU4qSRPeKLc6Gel9HIUzhqx2P3.jpg
+backdrop_tmdb_path: /yEtwZl7cEcSjeMOKA3XwKDJ9jJa.jpg

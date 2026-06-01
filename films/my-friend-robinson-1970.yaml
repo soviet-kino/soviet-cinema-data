@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q15834754
   imdb: tt0067416
+  tmdb: 259951
 sources:
 - https://www.wikidata.org/wiki/Q15834754
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - rozenfeld-gerkhard
 cast:
 - person: berezka-yan
+poster_tmdb_path: /lq5dMW0Brr2I4uq5gVoTTpT7BWH.jpg
+backdrop_tmdb_path: /7pAivP2MLyBYote8whUYf2haklQ.jpg

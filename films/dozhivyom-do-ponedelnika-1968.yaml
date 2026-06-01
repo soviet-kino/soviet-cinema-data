@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1284566
   imdb: tt0062907
   youtube: TpTCCF9sEFA
+  tmdb: 109774
 sources:
 - https://www.wikidata.org/wiki/Q1284566
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: zubarev-valeriy
 - person: pechernikova-irina-viktorovna
 - person: shcherbakov-dalvin-aleksandrovich
+poster_tmdb_path: /1WGU1qEbLcKbRNis8U6tpHJfsNG.jpg
+backdrop_tmdb_path: /tRqbUkRSDpb7oKj1MWpWSQqzkSF.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q16457513
   imdb: tt29119277
+  tmdb: 1177877
 sources:
 - https://www.wikidata.org/wiki/Q16457513
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - bayoras-feliksas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /lLr7LzRV432nVSyshnlVu5BDLG1.jpg

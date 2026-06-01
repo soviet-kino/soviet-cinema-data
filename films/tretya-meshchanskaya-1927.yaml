@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1977969
   imdb: tt0018505
   youtube: mrG3FA2lmiI
+  tmdb: 98200
 sources:
 - https://www.wikidata.org/wiki/Q1977969
 schema_version: 1
@@ -27,3 +28,5 @@ studio:
 - mosfilm
 - sovkino
 poster_commons: Scene from Bed and Sofa.jpg
+poster_tmdb_path: /eHq6lswz6sk6d4eqw2gGDH5oq63.jpg
+backdrop_tmdb_path: /5VL3Rh6jW7lNQH5ZBUqA01XNacy.jpg

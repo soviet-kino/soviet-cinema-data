@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340308
   imdb: tt0067517
   youtube: 98sces0TCAQ
+  tmdb: 65386
 sources:
 - https://www.wikidata.org/wiki/Q4340308
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: rychagova-natalya-sergeevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ig4COIGS7WE3AR2YoJyRso6NYt8.jpg
+backdrop_tmdb_path: /4aFaG4VbWOHOCoOvZs3I5VjRpYE.jpg

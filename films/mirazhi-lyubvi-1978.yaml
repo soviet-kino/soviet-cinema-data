@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106765274
   imdb: tt0174026
   youtube: B8-z1um3V1k
+  tmdb: 813779
 sources:
 - https://www.wikidata.org/wiki/Q106765274
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 studio:
 - kyrgyzfilm
 - tadzhikfilm
+poster_tmdb_path: /zfuxRFSP9WVw3hTNswhZWF7E9Jq.jpg

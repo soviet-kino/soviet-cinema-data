@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q106716868
   imdb: tt1315980
+  tmdb: 558700
 sources:
 - https://www.wikidata.org/wiki/Q106716868
 schema_version: 1
 director:
 - hempel-jan
+poster_tmdb_path: /xTmffTZvJBPPVj9RIMCJSUIrmqe.jpg

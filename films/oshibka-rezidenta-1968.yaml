@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340787
   imdb: tt0314471
   youtube: dzzjGsA3U70
+  tmdb: 59431
 sources:
 - https://www.wikidata.org/wiki/Q4340787
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: nozhkin-mikhail-ivanovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /xkw3l0RbWU6usgIKscfp05AB56L.jpg
+backdrop_tmdb_path: /jr8xhHZ12EeVTHKzkRRs1spzYza.jpg

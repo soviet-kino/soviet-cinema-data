@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4150644
   imdb: tt0027703
   youtube: Sga8r5uMfTs
+  tmdb: 563569
 sources:
 - https://www.wikidata.org/wiki/Q4150644
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: maksimova-elena
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /dsN7ZKgiRc0abvF57kh9g6tBbU5.jpg
+backdrop_tmdb_path: /s7CLvqow4XG3iyQpCjZTZeKEnPe.jpg

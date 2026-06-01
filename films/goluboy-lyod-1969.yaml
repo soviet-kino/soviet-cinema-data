@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4142562
   imdb: tt0285583
   youtube: hJFFRnvderc
+  tmdb: 359674
 sources:
 - https://www.wikidata.org/wiki/Q4142562
 schema_version: 1
@@ -26,3 +27,4 @@ studio:
 cast:
 - person: sedykh-natalya-evgenevna
 - person: gorelik-aleksandr
+poster_tmdb_path: /28HhB8eUvJUfTattVBVZTmC4ovX.jpg

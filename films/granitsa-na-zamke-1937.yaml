@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106640408
   imdb: tt6629904
   youtube: VFnmKhkHn8A
+  tmdb: 72625
 sources:
 - https://www.wikidata.org/wiki/Q106640408
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: Кадр Граница на замке 1937.jpg
+poster_tmdb_path: /kp3xvrcTNJcrOFrcW4OTut5xRXV.jpg

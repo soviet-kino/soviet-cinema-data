@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q848825
   imdb: tt0079679
   youtube: deEuVTAAzbg
+  tmdb: 27924
 sources:
 - https://www.wikidata.org/wiki/Q848825
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: volchek-galina-borisovna
 studio:
 - mosfilm
+poster_tmdb_path: /vuvDijb0g4nzj3TdP9ugeIKgIK3.jpg
+backdrop_tmdb_path: /mN1D5xvoTQtK6bBNNAUybZdvBjj.jpg

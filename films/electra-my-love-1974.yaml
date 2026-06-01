@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q5357217
   imdb: tt0072241
+  tmdb: 46772
 sources:
 - https://www.wikidata.org/wiki/Q5357217
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: veletskiy-frantishek
 studio:
 - mafilm
+poster_tmdb_path: /xU3rzyP6cfEgq7fQbK3rGGhQddN.jpg
+backdrop_tmdb_path: /xqu5wQKQZ6YVfpDuR7jKnaLURE9.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4197990
   imdb: tt4621800
   youtube: sZzkYVGBfUE
+  tmdb: 532914
 sources:
 - https://www.wikidata.org/wiki/Q4197990
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 - belarusfilm
 cast:
 - person: gavrilyuk-ivan-yaroslavovich
+poster_tmdb_path: /cxV3BAG0zQEdPFH7OgUolKJSJXp.jpg

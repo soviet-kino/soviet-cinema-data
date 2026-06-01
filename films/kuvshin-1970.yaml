@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q3652476
   imdb: tt0067262
+  tmdb: 284554
 sources:
 - https://www.wikidata.org/wiki/Q3652476
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: berikashvili-givi-zakharevich
 - person: zakariadze-bukhuti
+poster_tmdb_path: /dgXc3FwAXU7TkESg4nrQyd2yP0i.jpg
+backdrop_tmdb_path: /cChSthKVsd7Ig9gszfCtakcn9LE.jpg

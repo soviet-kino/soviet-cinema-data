@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4290683
   imdb: tt0095622
   youtube: W8T0ocyAgPA
+  tmdb: 222736
 sources:
 - https://www.wikidata.org/wiki/Q4290683
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: fomin-oleg
 studio:
 - belarusfilm
+poster_tmdb_path: /ddxts5olJpG1cxPfCKSequSUYHD.jpg
+backdrop_tmdb_path: /v7aFtKgb2J35IvGkT0veGfuxCRt.jpg

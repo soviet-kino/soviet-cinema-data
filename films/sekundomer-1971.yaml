@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4413413
   imdb: tt0794180
+  tmdb: 640788
 sources:
 - https://www.wikidata.org/wiki/Q4413413
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: olyalin-nikolay-vladimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /anczz7S62tXjJjvnee5alBsmDqF.jpg

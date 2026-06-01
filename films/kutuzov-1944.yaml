@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4249628
   imdb: tt0036572
   youtube: YQR6eIQRx7Y
+  tmdb: 280999
 sources:
 - https://www.wikidata.org/wiki/Q4249628
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Aleksej Dikij Kutuzov.jpg
+poster_tmdb_path: /2MhLv3AE6KRlU73O4iaqsem8DPK.jpg
+backdrop_tmdb_path: /meLD7hs0OWAavkwd4h6SJlERkQv.jpg

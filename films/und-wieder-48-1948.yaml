@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q2492744
   imdb: tt0040914
+  tmdb: 281251
 sources:
 - https://www.wikidata.org/wiki/Q2492744
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: lyobinger-lotta
 - person: tarrakh-valter
 - person: roze-villi
+poster_tmdb_path: /fHef07AAU7uB4lcRUEm587kiN7.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4532933
   imdb: tt0030586
+  tmdb: 344129
 sources:
 - https://www.wikidata.org/wiki/Q4532933
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 cast:
 - person: bodo-evgeniush
 poster_commons: Eugeniusz Bodo Mae West.jpg
+poster_tmdb_path: /tfqRi3gfqR7uyeWSjGoh0rP1DJY.jpg
+backdrop_tmdb_path: /iOEh9idILIsl3jRKRSfu4Sibcrz.jpg

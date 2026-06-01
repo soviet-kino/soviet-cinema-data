@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q4317171
   imdb: tt11179032
+  tmdb: 289500
 sources:
 - https://www.wikidata.org/wiki/Q4317171
 schema_version: 1
+poster_tmdb_path: /1ju1YnFeNTlzz8qCuzRN5rqupvN.jpg
+backdrop_tmdb_path: /iv21Vr78iqx8U375qM17D03lavE.jpg

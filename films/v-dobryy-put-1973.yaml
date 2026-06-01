@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q111459344
   imdb: tt0275839
+  tmdb: 955069
 sources:
 - https://www.wikidata.org/wiki/Q111459344
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - erkomaishvili-anzor-davidovich
 studio:
 - gruziya-film
+poster_tmdb_path: /1jkNO83WAec4dlYm3N5vFutTstS.jpg
+backdrop_tmdb_path: /3siW8QogxW4UPvoi73AXfY7w2Hp.jpg

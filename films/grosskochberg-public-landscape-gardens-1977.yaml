@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q28861796
   imdb: tt0416789
+  tmdb: 457043
 sources:
 - https://www.wikidata.org/wiki/Q28861796
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - kohlert-werner
 composer:
 - paiziello-dzhovanni
+poster_tmdb_path: /ieUTR60sWhztxk4HJeosaazn0il.jpg

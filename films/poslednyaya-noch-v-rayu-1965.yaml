@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q129433082
   imdb: tt14690332
+  tmdb: 1525491
 sources:
 - https://www.wikidata.org/wiki/Q129433082
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - styrcha-aleksey-georgievich
 studio:
 - moldova-film
+poster_tmdb_path: /n1JdXoPMtD8hf9KgAUil5jE1NRJ.jpg

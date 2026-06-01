@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226034
   imdb: tt0055051
   youtube: sGc5m5wM15Y
+  tmdb: 83437
 sources:
 - https://www.wikidata.org/wiki/Q4226034
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: chursina-lyudmila-alekseevna
 - person: gulaya-inna-iosifovna
 - person: mazurova-ekaterina-yakovlevna
+poster_tmdb_path: /Ak6ZCMP4WYuZTqT5P5lnYScYHqa.jpg
+backdrop_tmdb_path: /eaRBI0ClhRBilSjmYyouFoZCV53.jpg

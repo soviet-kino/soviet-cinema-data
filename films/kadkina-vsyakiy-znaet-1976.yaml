@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4207286
   imdb: tt3124020
+  tmdb: 659702
 sources:
 - https://www.wikidata.org/wiki/Q4207286
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bulgakova-mayya
 - person: zaytseva-lyudmila-vasilevna
 - person: novikov-boris-kuzmich
+poster_tmdb_path: /bmSt0mXtYelRuDiWFTXad6YNhhn.jpg
+backdrop_tmdb_path: /ulhmuWczPDPtYjC2RQPTv7wgIXQ.jpg

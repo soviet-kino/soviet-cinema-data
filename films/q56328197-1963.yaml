@@ -8,8 +8,10 @@ runtime_min: 72
 external_ids:
   wikidata: Q56328197
   imdb: tt0057432
+  tmdb: 377684
 sources:
 - https://www.wikidata.org/wiki/Q56328197
 schema_version: 1
 director:
 - vol-stanislav
+poster_tmdb_path: /2ljbMIUGMnS0lbQlMBPhc7jfPVu.jpg

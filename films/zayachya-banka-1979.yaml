@@ -8,6 +8,7 @@ runtime_min: 446
 external_ids:
   wikidata: Q28465052
   imdb: tt4687324
+  tmdb: 769069
 sources:
 - https://www.wikidata.org/wiki/Q28465052
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kalnynsh-imants
 studio:
 - latviyskoe-televidenie
+poster_tmdb_path: /5hEyhvapz3tCN0tZRFUU2YPMzVP.jpg
+backdrop_tmdb_path: /qj5fOdpMPm1jFAGHlLks01Kyjfx.jpg

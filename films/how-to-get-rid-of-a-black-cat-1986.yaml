@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11716260
   imdb: tt8546282
+  tmdb: 157588
 sources:
 - https://www.wikidata.org/wiki/Q11716260
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: janowski-mieczys-aw
 - person: buda-pod
 - person: kobek-mieczys-aw
+poster_tmdb_path: /kZZpO25bvh1U5tHs7PF9YwboeZm.jpg
+backdrop_tmdb_path: /plPG7QTP7DINPukxapFFZzCjRIs.jpg

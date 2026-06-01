@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q3506589
   imdb: tt0086883
+  tmdb: 478056
 sources:
 - https://www.wikidata.org/wiki/Q3506589
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: voislav-brayovich
 - person: sovagovic-fabijan
 - person: miodrag-radovanovich
+poster_tmdb_path: /1Sulk2Ac0Kx4TcuISblqvz2o3Bv.jpg

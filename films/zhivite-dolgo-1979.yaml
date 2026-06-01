@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q16369327
   imdb: tt0259750
+  tmdb: 1085097
 sources:
 - https://www.wikidata.org/wiki/Q16369327
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: gevorkyan-violetta-georgievna
 - person: oganesyan-tamara
 - person: vanyan-ovik
+poster_tmdb_path: /vZTWKgRUwgSmYHuwWTHQ2zqzavQ.jpg

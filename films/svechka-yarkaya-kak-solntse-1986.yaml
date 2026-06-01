@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4410604
   imdb: tt1869687
+  tmdb: 470839
 sources:
 - https://www.wikidata.org/wiki/Q4410604
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: bumbiere-bayba
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /pyDFNjJun9AYkQX6jnmgrKv7CGP.jpg
+backdrop_tmdb_path: /eOrUujC0flr7m2I7T6bECtbAJwn.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12747897
   imdb: tt0180802
+  tmdb: 33603
 sources:
 - https://www.wikidata.org/wiki/Q12747897
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: marichich-andrey
 - person: mesic-cvijeta
 - person: stojnic-dobrila
+poster_tmdb_path: /gFPXoB9UiqTedQEFFcx5K6Je3uH.jpg
+backdrop_tmdb_path: /35YGZy5QPqwOazBwfbrFa1KvUqA.jpg

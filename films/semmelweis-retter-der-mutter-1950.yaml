@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q2269377
   imdb: tt0042942
+  tmdb: 267868
 sources:
 - https://www.wikidata.org/wiki/Q2269377
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - trantow-herbert
 cast:
 - person: paryla-karl
+poster_tmdb_path: /gv0jsTMRLp9EJbCcqrQn1dBR7e.jpg

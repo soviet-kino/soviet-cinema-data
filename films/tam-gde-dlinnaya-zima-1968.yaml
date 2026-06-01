@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q129432516
   imdb: tt0348179
+  tmdb: 596141
 sources:
 - https://www.wikidata.org/wiki/Q129432516
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - afanasev-leonid
 studio:
 - mosfilm
+poster_tmdb_path: /5aABqX96nuBrRauE0VHXsPu5MoF.jpg

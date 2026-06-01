@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q108828238
   imdb: tt0235091
+  tmdb: 217436
 sources:
 - https://www.wikidata.org/wiki/Q108828238
 schema_version: 1
 director:
 - blayvayss-tselino
+poster_tmdb_path: /oc07xcFYZ1DGEJb1rlZsCau7NHy.jpg
+backdrop_tmdb_path: /n88x0WseRVLJ5HN9fEVOspOzcDu.jpg

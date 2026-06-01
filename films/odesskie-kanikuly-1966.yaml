@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q97279167
   imdb: tt5038596
+  tmdb: 831960
 sources:
 - https://www.wikidata.org/wiki/Q97279167
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - lazarev-eduard
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /9SlnSqG5ydfnP1yJhuBiUatnweC.jpg

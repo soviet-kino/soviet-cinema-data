@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4166026
   imdb: tt0309526
   youtube: SxmQj1oX_DU
+  tmdb: 63720
 sources:
 - https://www.wikidata.org/wiki/Q4166026
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: orlov-german
 studio:
 - lenfilm
+poster_tmdb_path: /yUlNFJO0hVGE4Wa5VCqqei4nXVA.jpg
+backdrop_tmdb_path: /7KbAj84BSCOYXE3X34613KGOkuA.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q5457214
   imdb: tt0150577
+  tmdb: 163614
 sources:
 - https://www.wikidata.org/wiki/Q5457214
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: catone-magda
 - person: uritesku-valentin
 - person: merdzhinyanu-remus
+poster_tmdb_path: /nozumXdmwGBjrL3s4IbF1SDSkIL.jpg

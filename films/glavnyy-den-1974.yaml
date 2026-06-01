@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q130428107
   imdb: tt0386490
+  tmdb: 934783
 sources:
 - https://www.wikidata.org/wiki/Q130428107
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - uzbekfilm
 cast:
 - person: kuzmenkov-yuriy-aleksandrovich
+poster_tmdb_path: /8MEG0O40jzhNn8yR6cu52S5OzCb.jpg
+backdrop_tmdb_path: /2ZVnXNjgSNKsHe37xlTxLbo2p2s.jpg

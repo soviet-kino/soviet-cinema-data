@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7751945
   imdb: tt0078979
+  tmdb: 629376
 sources:
 - https://www.wikidata.org/wiki/Q7751945
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: popesku-mitike
 - person: belenutse-leopoldina
 - person: kozorich-george
+poster_tmdb_path: /9WPlOhTUIm59GwFf6MmjrFqtH4S.jpg

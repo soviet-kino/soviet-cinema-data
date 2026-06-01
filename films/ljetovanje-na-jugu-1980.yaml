@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q57610254
   imdb: tt0345570
+  tmdb: 1026639
 sources:
 - https://www.wikidata.org/wiki/Q57610254
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: buzanchich-boris
 - person: zhigon-stevo
 - person: svetlana-boykovich
+poster_tmdb_path: /fys6US3ys4zR518XFqlPg3v52MI.jpg

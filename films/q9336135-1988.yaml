@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9336135
   imdb: tt0348012
+  tmdb: 1665395
 sources:
 - https://www.wikidata.org/wiki/Q9336135
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: pelingu-drita
 - person: makri-eduart
 - person: makochi-matilda
+poster_tmdb_path: /w3KLviNVUBRGxBsd7cPb3GiT8SR.jpg
+backdrop_tmdb_path: /xFJ6xiYy2KpGyFRIFjvaQSWI2B3.jpg

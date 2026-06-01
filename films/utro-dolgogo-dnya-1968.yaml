@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q16357954
   imdb: tt2396523
+  tmdb: 1520653
 sources:
 - https://www.wikidata.org/wiki/Q16357954
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: khristoforova-natalya-innokentevna
 - person: lobinsh-voldemar
 - person: anufriev-konstantin-timofeevich
+poster_tmdb_path: /nGyWPNkJ237GmoqdnH5KuZ0SwGJ.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q95600677
   imdb: tt0062647
+  tmdb: 495859
 sources:
 - https://www.wikidata.org/wiki/Q95600677
 schema_version: 1
 director:
 - mamcherov-fridesh
+poster_tmdb_path: /2DAEsFNNlaDH2nDscIionKwKKHi.jpg

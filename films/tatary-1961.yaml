@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q7768139
   imdb: tt0056558
+  tmdb: 207790
 sources:
 - https://www.wikidata.org/wiki/Q7768139
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 studio:
 - metro-goldwyn-mayer
 - lux-film
+poster_tmdb_path: /tM2DhNJ3XsEsvLoAy0VWHHHstks.jpg
+backdrop_tmdb_path: /kICozB5A7MSiVUuSemHACDfkOpr.jpg

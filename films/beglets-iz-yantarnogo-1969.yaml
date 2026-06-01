@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q100452108
   imdb: tt0306533
+  tmdb: 1518553
 sources:
 - https://www.wikidata.org/wiki/Q100452108
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bryunchugin-evgeniy-vasilevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /A272cwptYyGPNMFF4Yn6cQHvqHt.jpg

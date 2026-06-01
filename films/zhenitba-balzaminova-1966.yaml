@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1963018
   imdb: tt0058770
   youtube: PYdfEMNkVwI
+  tmdb: 76277
 sources:
 - https://www.wikidata.org/wiki/Q1963018
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: vitsin-georgiy-mikhaylovich
 - person: shagalova-lyudmila-aleksandrovna
 - person: rumyantseva-nadezhda-vasilevna
+poster_tmdb_path: /ueENoMrWYpx0Xx7tkEFNDhshn4S.jpg
+backdrop_tmdb_path: /eMfQcoIgIh3nLSxEPydcycmN827.jpg

@@ -8,8 +8,11 @@ runtime_min: 73
 external_ids:
   wikidata: Q12757340
   imdb: tt0067585
+  tmdb: 251241
 sources:
 - https://www.wikidata.org/wiki/Q12757340
 schema_version: 1
 director:
 - stojanovic-lazar
+poster_tmdb_path: /24oy1Uzxbrj0FoovlpMKrLPx2XW.jpg
+backdrop_tmdb_path: /f1GYiaAjy4sQWSt915x9ksSAEAL.jpg

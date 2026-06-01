@@ -8,6 +8,7 @@ runtime_min: 124
 external_ids:
   wikidata: Q6435211
   imdb: tt0055059
+  tmdb: 73059
 sources:
 - https://www.wikidata.org/wiki/Q6435211
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: felba-dragomir
 - person: kostich-plyaka-mikhaylo
 - person: kandich-milosh
+poster_tmdb_path: /c8ZS0F5QdhwCyBCNKbGyogsOAF5.jpg
+backdrop_tmdb_path: /91kyfBfuPHCcifeuk0UohSLaEHr.jpg

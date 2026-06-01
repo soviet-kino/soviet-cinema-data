@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109864
   imdb: tt0129527
   youtube: PUCRoCnO3m8
+  tmdb: 520977
 sources:
 - https://www.wikidata.org/wiki/Q4109864
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kharitonova-svetlana-nikolaevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /hPZ4SqOVsMJNAM7KBAuoqol1KkI.jpg
+backdrop_tmdb_path: /gfya2dBMXRRrEAQVTy7CB39YXTx.jpg

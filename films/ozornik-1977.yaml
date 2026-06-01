@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q3999925
   imdb: tt0386703
+  tmdb: 619566
 sources:
 - https://www.wikidata.org/wiki/Q3999925
 schema_version: 1
+poster_tmdb_path: /sooJLXgLreKv5f0XNBA2e49O3Hj.jpg

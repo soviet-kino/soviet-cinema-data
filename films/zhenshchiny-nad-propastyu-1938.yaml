@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6424422
   imdb: tt0030330
+  tmdb: 748495
 sources:
 - https://www.wikidata.org/wiki/Q6424422
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: ney-nora-2
 studio:
 - q19722177
+poster_tmdb_path: /41pO2NDRxFvdI5hDhCcq5KwO2WV.jpg

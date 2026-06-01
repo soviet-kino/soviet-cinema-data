@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4518908
   imdb: tt0313899
   youtube: aF_JGW8moxc
+  tmdb: 92529
 sources:
 - https://www.wikidata.org/wiki/Q4518908
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: gritsenko-nikolay-olimpievich
 - person: kurkina-raisa-semyonovna
 - person: nosik-vladimir
+poster_tmdb_path: /xZZAXorFkmnXqCjovEDdTLSxmuc.jpg
+backdrop_tmdb_path: /crBVTMDhfAbtWk8mNR4QdzS24F0.jpg

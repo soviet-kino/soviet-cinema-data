@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4516777
   imdb: tt0090826
   youtube: HH11DPc_oc4
+  tmdb: 642382
 sources:
 - https://www.wikidata.org/wiki/Q4516777
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: simonov-ruben-evgenevich
 studio:
 - mosfilm
+poster_tmdb_path: /etfpMfWaYnG38Na2Vd2gNTh7s6B.jpg

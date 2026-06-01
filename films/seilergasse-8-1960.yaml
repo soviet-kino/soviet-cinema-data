@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q2266790
   imdb: tt0138086
+  tmdb: 275034
 sources:
 - https://www.wikidata.org/wiki/Q2266790
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: kherrikht-rolf
 - person: ulrikh-rudolf
 - person: lirk-verner
+poster_tmdb_path: /hLhQUwfYhrEsDJ4eSHM4rXU8r8A.jpg

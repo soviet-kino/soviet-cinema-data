@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q92441787
   imdb: tt0037937
   youtube: gN-pVjYaoUs
+  tmdb: 469572
 sources:
 - https://www.wikidata.org/wiki/Q92441787
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 studio:
 - mosfilm
 - kazakhfilm
+poster_tmdb_path: /2hmbePJUfY2A8B0yiFUUYCNDu0e.jpg
+backdrop_tmdb_path: /stOwz3XM5mwzo4ErI8IqCrx42QE.jpg

@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q1361732
   imdb: tt0087214
+  tmdb: 131961
 sources:
 - https://www.wikidata.org/wiki/Q1361732
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: tempelkhof-lissi
 - person: tsgliniki-simona-fon
 - person: khandzhor-vivian
+poster_tmdb_path: /9b4OTjneSWajEpgmlLHFdwvumBD.jpg
+backdrop_tmdb_path: /gHsUEfod22T7UgNUIFP0yJenZWy.jpg

@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q106207088
   imdb: tt0080586
+  tmdb: 441214
 sources:
 - https://www.wikidata.org/wiki/Q106207088
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - shtrobel-khartvig
 composer:
 - henkler-klaus-dieter
+poster_tmdb_path: /zQ0aBOKY5nr9pRDjvDNEPX5wWg7.jpg

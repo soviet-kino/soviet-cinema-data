@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4279617
   imdb: tt1538505
+  tmdb: 1429407
 sources:
 - https://www.wikidata.org/wiki/Q4279617
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - stikhin-evgeniy-mikhaylovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /hS3Ri23hHhTPkyWMcCyMpItuyeu.jpg
+backdrop_tmdb_path: /3ETkD5Uwi0PzpUuZgWOFo8ccUNA.jpg

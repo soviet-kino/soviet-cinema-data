@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q7247579
   imdb: tt0368934
+  tmdb: 1052461
 sources:
 - https://www.wikidata.org/wiki/Q7247579
 schema_version: 1
@@ -58,3 +59,4 @@ cast:
 - person: pomezna-zuzana
 - person: kroupa-jaromir
 - person: pour-rajmund
+poster_tmdb_path: /wFLrw9oCx7lHJJjexNw3ZhN35FW.jpg

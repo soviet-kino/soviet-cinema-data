@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20096219
   imdb: tt2841788
+  tmdb: 439568
 sources:
 - https://www.wikidata.org/wiki/Q20096219
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - skorik-miroslav-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /f0lV0S5VqvPz0gCtTDiqZMfBvCB.jpg

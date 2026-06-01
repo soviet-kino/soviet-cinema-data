@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4189830
   imdb: tt0209514
   youtube: UmqKgekUjDg
+  tmdb: 344799
 sources:
 - https://www.wikidata.org/wiki/Q4189830
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: spivak-timofey-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /gHgCM0Ju4f3KveLQXhs6U1Xo6cy.jpg
+backdrop_tmdb_path: /xbro7Svj6a7URgP9wXdId8ZTpbS.jpg

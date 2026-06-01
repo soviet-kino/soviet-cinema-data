@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q4508557
   imdb: tt7417122
+  tmdb: 757872
 sources:
 - https://www.wikidata.org/wiki/Q4508557
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - gavrilov-anatoliy
 studio:
 - kievnauchfilm
+poster_tmdb_path: /9qE98GJxY6vX3O7iJBnP48YQD0X.jpg
+backdrop_tmdb_path: /9bzWQFrZ6Xt346AD3v5YgAfEjoO.jpg

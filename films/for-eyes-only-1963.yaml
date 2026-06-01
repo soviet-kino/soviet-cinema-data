@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q1436522
   imdb: tt0054887
+  tmdb: 74089
 sources:
 - https://www.wikidata.org/wiki/Q1436522
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: lirk-verner
 studio:
 - defa
+poster_tmdb_path: /505UyTCGzAOOFgmCG6GmrdV2YUb.jpg

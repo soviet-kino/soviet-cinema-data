@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q15632956
   imdb: tt0062017
+  tmdb: 834274
 sources:
 - https://www.wikidata.org/wiki/Q15632956
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: nevinnyy-vyacheslav-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /vU0uYzSlrXZCCtniOZhIuDKiF12.jpg

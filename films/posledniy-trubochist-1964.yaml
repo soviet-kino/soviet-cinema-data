@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q48948962
   imdb: tt0452527
+  tmdb: 728409
 sources:
 - https://www.wikidata.org/wiki/Q48948962
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - kross-yaan
 studio:
 - tallinfilm
+poster_tmdb_path: /6dInVh9er6PrI1VOq4sDRXCICPB.jpg

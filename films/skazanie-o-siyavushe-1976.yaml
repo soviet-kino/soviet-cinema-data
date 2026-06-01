@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4421348
   imdb: tt2262103
   youtube: _Pdj_8WEd1A
+  tmdb: 449102
 sources:
 - https://www.wikidata.org/wiki/Q4421348
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: vataev-bimbolat-zaurbekovich
 studio:
 - tadzhikfilm
+poster_tmdb_path: /cpGq4KFJuVSxVdby7Py06kCu8qR.jpg
+backdrop_tmdb_path: /dHxfodGks8UUF7af8pUHMFQaVoL.jpg

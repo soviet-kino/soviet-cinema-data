@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4074493
   imdb: tt0282365
+  tmdb: 558018
 sources:
 - https://www.wikidata.org/wiki/Q4074493
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kavzharadze-lika-vissarionovna
 - person: tsuladze-baadur-sokratovich
 - person: kavsadze-kakhi-davidovich
+poster_tmdb_path: /uZEPeHxSKeJDmtEoGfBBUyZsqNG.jpg
+backdrop_tmdb_path: /211BkiYE51tDI5WMdAbRqkI5CZ9.jpg

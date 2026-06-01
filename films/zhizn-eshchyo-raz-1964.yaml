@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9397709
   imdb: tt0059953
+  tmdb: 422560
 sources:
 - https://www.wikidata.org/wiki/Q9397709
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - vuychik-ezhi
 cast:
 - person: lapitskiy-andzhey
+poster_tmdb_path: /bTjhW5kr4WoHEySozkXZoEF0sCc.jpg
+backdrop_tmdb_path: /3mf0G5IsdyCnkCYsNZsXWDrVpdP.jpg

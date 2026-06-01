@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4181853
   imdb: tt0063838
+  tmdb: 210031
 sources:
 - https://www.wikidata.org/wiki/Q4181853
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pelttser-tatyana-ivanovna
 - person: chursina-lyudmila-alekseevna
 - person: markova-rimma-vasilevna
+poster_tmdb_path: /y3oqCQgVysDBlEdSsKyDiGCZHtM.jpg
+backdrop_tmdb_path: /p9GVyoUQojqyOFE7UVtLg9XoEML.jpg

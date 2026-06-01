@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4351203
   imdb: tt11980074
   youtube: emh6weeC_BE
+  tmdb: 793292
 sources:
 - https://www.wikidata.org/wiki/Q4351203
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: predtechenskaya-yuliya-nikolaevna
 studio:
 - lenfilm
+poster_tmdb_path: /5qEBTrqtcXDnveUrJ0rPsiQWbK7.jpg

@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q12379456
   imdb: tt0447572
+  tmdb: 683176
 sources:
 - https://www.wikidata.org/wiki/Q12379456
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 cast:
 - person: khermakyula-evald
 - person: mikhelson-kaye
+poster_tmdb_path: /7ssvLUjElhkDL9hTOxJNhlGiOiE.jpg

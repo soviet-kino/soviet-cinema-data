@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4189193
   imdb: tt0032050
   youtube: z7LglSy4B3w
+  tmdb: 292656
 sources:
 - https://www.wikidata.org/wiki/Q4189193
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Traktoristy Kult 23 05.jpg
+poster_tmdb_path: /9Lqut7Lg73LsdSMRkzcuPwDslF6.jpg
+backdrop_tmdb_path: /29ywaMga6khlXjMgxwEVmeLaoDo.jpg

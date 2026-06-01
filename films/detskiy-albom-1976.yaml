@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q16514512
   imdb: tt6206352
+  tmdb: 484103
 sources:
 - https://www.wikidata.org/wiki/Q16514512
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - kovalevskaya-inessa-alekseevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /l4dSnoVMMibxUKhRHV15CdtTJVZ.jpg
+backdrop_tmdb_path: /mcN1jIhxnj5R4Evd0zsm56PZxwj.jpg

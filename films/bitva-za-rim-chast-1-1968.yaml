@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q442459
   imdb: tt0063174
+  tmdb: 217497
 sources:
 - https://www.wikidata.org/wiki/Q442459
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: dikisyanu-ion
 studio:
 - ccc-film
+poster_tmdb_path: /lSyHOJhUmPURWZ9UWQFE2K4dhiH.jpg
+backdrop_tmdb_path: /caHAJjW1F46YeNdULKjsw6g92cU.jpg

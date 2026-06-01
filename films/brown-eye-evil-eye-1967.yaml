@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4976136
   imdb: tt0222853
+  tmdb: 502535
 sources:
 - https://www.wikidata.org/wiki/Q4976136
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: tompson-ron
 - person: starcic-viktor
 - person: veselinovits-branka
+poster_tmdb_path: /bv32lPMukDiyVnqhVyAexZKjEhm.jpg

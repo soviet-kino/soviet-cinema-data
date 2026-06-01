@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7222736
   imdb: tt0212374
+  tmdb: 433162
 sources:
 - https://www.wikidata.org/wiki/Q7222736
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /xaZi5kuJyJyUyZZfbK81ppUU676.jpg
+backdrop_tmdb_path: /lksOWGR6llTf6wglj3OL96UEJ5D.jpg

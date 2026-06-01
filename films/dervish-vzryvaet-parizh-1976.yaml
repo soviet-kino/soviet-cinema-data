@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4158709
   imdb: tt0321983
+  tmdb: 524190
 sources:
 - https://www.wikidata.org/wiki/Q4158709
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: ibragimova-safura-agababa-kyzy
 - person: ogly-gasanov-enver-dzhafar
 - person: kurbanova-memunat
+poster_tmdb_path: /m9JZvJRKDYrqpoWxkiXwCVXyZD3.jpg
+backdrop_tmdb_path: /2z5bPMlOhLjALcCAKdrYmS6T84W.jpg

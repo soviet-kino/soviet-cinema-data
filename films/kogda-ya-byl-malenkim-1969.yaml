@@ -8,8 +8,11 @@ runtime_min: 70
 external_ids:
   wikidata: Q12659159
   imdb: tt1519331
+  tmdb: 659801
 sources:
 - https://www.wikidata.org/wiki/Q12659159
 schema_version: 1
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /pk8dYqF8JPwd5bJAtozzLXhqPMl.jpg
+backdrop_tmdb_path: /33OVAiPJfggaYc8HKA7JYBzvIIn.jpg

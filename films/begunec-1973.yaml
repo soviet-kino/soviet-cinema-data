@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27658216
   imdb: tt0204161
+  tmdb: 387401
 sources:
 - https://www.wikidata.org/wiki/Q27658216
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: sherbedzhiya-rade
 - person: kavatstsa-boris
 - person: lojk-marija
+poster_tmdb_path: /eayCY8MRCOzo4cMjOdJ88NHbCbA.jpg

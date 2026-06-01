@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4092224
   imdb: tt3211276
   youtube: lUVVA1E0hGw
+  tmdb: 849315
 sources:
 - https://www.wikidata.org/wiki/Q4092224
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: kryuchkov-nikolay-afanasevich
 - person: merzlikin-nikolay-nikolaevich
 - person: nikolaev-yuriy-aleksandrovich
+poster_tmdb_path: /AeXmGryr45oDlRcDsCqOVTA6Qey.jpg
+backdrop_tmdb_path: /98Kv6Pa63PsVI1MjQijh10Rpdi9.jpg

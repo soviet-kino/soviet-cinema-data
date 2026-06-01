@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27308850
   imdb: tt0179984
+  tmdb: 292634
 sources:
 - https://www.wikidata.org/wiki/Q27308850
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: zaric-dragan
 - person: begolli-faruk
 - person: hajdarhodzic-izet
+poster_tmdb_path: /8sfIeUzQ4tInE1cynbLNBfs0pvP.jpg

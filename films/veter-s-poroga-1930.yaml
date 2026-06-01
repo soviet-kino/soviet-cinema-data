@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q42303992
   imdb: tt11885946
   youtube: rQitOEm1FzI
+  tmdb: 745486
 sources:
 - https://www.wikidata.org/wiki/Q42303992
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: kononenko-kozelskiy-ivan-vladimirovich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /rro7fS5yk7oml8kRV86g4OZaz9n.jpg
+backdrop_tmdb_path: /kfKPHoncM0hRtRTMbKYHFb1fMuV.jpg

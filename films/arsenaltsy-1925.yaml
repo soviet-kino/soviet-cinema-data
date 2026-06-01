@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q42494567
   imdb: tt21913792
+  tmdb: 1462520
 sources:
 - https://www.wikidata.org/wiki/Q42494567
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 studio:
 - odesskaya-kinostudiya
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /qWtP4sTIAPXOakOoJs0ZLDKL7OV.jpg

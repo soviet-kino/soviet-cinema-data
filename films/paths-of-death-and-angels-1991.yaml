@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7144854
   imdb: tt0101993
+  tmdb: 389770
 sources:
 - https://www.wikidata.org/wiki/Q7144854
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: hollosi-frigyes
 - person: chakani-ester
 - person: degi-ishtvan
+poster_tmdb_path: /jNDCB7jX0LsTsK0qHVW93p2SZfg.jpg
+backdrop_tmdb_path: /iLykNsTVIIrsBya4OCYiP7w3qM6.jpg

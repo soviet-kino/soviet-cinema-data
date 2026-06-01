@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q2033106
   imdb: tt0070493
+  tmdb: 197397
 sources:
 - https://www.wikidata.org/wiki/Q2033106
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: shultse-khorst
 - person: kanits-verner
 - person: greeze-volfgang
+poster_tmdb_path: /619qm4RL1JWBTAVsHHJ2KoWlfed.jpg
+backdrop_tmdb_path: /ciFrZn7327UYdGgrYPRBrKhZK4j.jpg

@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q28665833
   imdb: tt0062399
+  tmdb: 153843
 sources:
 - https://www.wikidata.org/wiki/Q28665833
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - buftea-studios
 cast:
 - person: loktev-aleksey-vasilevich
+poster_tmdb_path: /uSvWcW0sh0aTVzSflFoXX4azMlk.jpg
+backdrop_tmdb_path: /6pg7Augd0o5iKZ1tgn3AIgMbqrv.jpg

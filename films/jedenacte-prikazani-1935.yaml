@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q6172740
   imdb: tt0168902
+  tmdb: 187312
 sources:
 - https://www.wikidata.org/wiki/Q6172740
 schema_version: 1
@@ -57,3 +58,4 @@ cast:
 - person: adolf-jindrich
 - person: vasutova-ruzena
 - person: riha-frantisek
+poster_tmdb_path: /ocpUsjAXEfKB7KiIzjCswAGlclc.jpg

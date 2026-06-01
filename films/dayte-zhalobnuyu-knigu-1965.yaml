@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q400218
   imdb: tt0057991
   youtube: immo4JI8CP0
+  tmdb: 66078
 sources:
 - https://www.wikidata.org/wiki/Q400218
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: dolinskiy-vladimir-abramovich
 - person: drozdovskaya-mikaela-mikhaylovna
 - person: popova-varvara-aleksandrovna
+poster_tmdb_path: /knX4pYN6nCiVD2IL7vsJHWOrI2i.jpg
+backdrop_tmdb_path: /2R6znEQJE9qIjfOfh516gLIrVwO.jpg

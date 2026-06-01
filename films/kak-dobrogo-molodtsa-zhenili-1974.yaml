@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208801
   imdb: tt0276230
+  tmdb: 1168850
 sources:
 - https://www.wikidata.org/wiki/Q4208801
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 cast:
 - person: kapianidze-zurab-vasilevich
 - person: loriya-abessalom
+poster_tmdb_path: /5lQ133JjlKUzKfkTpQ05gjLvGrJ.jpg
+backdrop_tmdb_path: /4UUZLRwtAgxWKjQBP1eSPXSClRD.jpg

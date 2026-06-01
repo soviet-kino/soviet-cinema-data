@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q57549437
   imdb: tt1156484
+  tmdb: 1642618
 sources:
 - https://www.wikidata.org/wiki/Q57549437
 schema_version: 1
@@ -14,3 +15,4 @@ cast:
 - person: miralem-zupchevich
 - person: frayt-bozhidarka
 - person: muzaferiya-zaim
+poster_tmdb_path: /2SnGFkLuUsBtwGn7PEUyM0l1nXl.jpg

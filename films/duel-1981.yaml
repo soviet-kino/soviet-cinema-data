@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4171450
   imdb: tt0082300
+  tmdb: 224063
 sources:
 - https://www.wikidata.org/wiki/Q4171450
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: kantunyari-ioana
 - person: ritsyu-ion
 - person: teyka-aristid
+poster_tmdb_path: /ozBUbZWp72wxEW24t7LHDoaukgm.jpg
+backdrop_tmdb_path: /avMIOjFzQelh986n6UXE9jz6fq5.jpg

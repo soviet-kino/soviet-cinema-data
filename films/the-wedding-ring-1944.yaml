@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7774065
   imdb: tt0169149
+  tmdb: 436655
 sources:
 - https://www.wikidata.org/wiki/Q7774065
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: subrt-milos
 - person: sklenickova-ludmila
 - person: paleckova-maschova-zdenka
+poster_tmdb_path: /aUcQl4xkoRtlRwyDDTnsBRPjmnx.jpg

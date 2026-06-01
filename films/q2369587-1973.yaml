@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q2369587
   imdb: tt0070757
+  tmdb: 371675
 sources:
 - https://www.wikidata.org/wiki/Q2369587
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: tile-klaus-peter
 - person: brunner-angela
 - person: mayer-tomas
+poster_tmdb_path: /aOXFVqcxrFzdMl6FWWxMyEJePIz.jpg
+backdrop_tmdb_path: /5RZSaLbQzP34IG2yrdRH9o9Lc0w.jpg

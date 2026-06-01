@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q20510914
   imdb: tt0359543
+  tmdb: 782211
 sources:
 - https://www.wikidata.org/wiki/Q20510914
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: gabrielyan-gurgen
 - person: mkrtchyan-samvel
 - person: akopyan-moko
+poster_tmdb_path: /7UM2yLQeOPxienXuIiazxug8yn7.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4415136
   imdb: tt0165465
   youtube: ogBnLln9HhA
+  tmdb: 295882
 sources:
 - https://www.wikidata.org/wiki/Q4415136
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vasileva-ekaterina-sergeevna
 studio:
 - mosfilm
+poster_tmdb_path: /xZwRjma9IuiMlJ6FAI0eAcggRHC.jpg

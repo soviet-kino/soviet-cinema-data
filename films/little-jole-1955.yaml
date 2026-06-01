@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20526442
   imdb: tt0333858
+  tmdb: 504070
 sources:
 - https://www.wikidata.org/wiki/Q20526442
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: bilus-dujam
 studio:
 - yadran-film
+poster_tmdb_path: /sYJTYgZT4mlANLtMF1Km8zUtLPH.jpg

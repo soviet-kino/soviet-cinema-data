@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q586960
   imdb: tt0042008
+  tmdb: 276554
 sources:
 - https://www.wikidata.org/wiki/Q586960
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: schneider-siegmar
 - person: baltkhoff-alfred
 poster_commons: Unser taeglich Brot 1949 Logo 001.svg
+poster_tmdb_path: /adH7Lzbggjjc69U31u4MqWodcjb.jpg

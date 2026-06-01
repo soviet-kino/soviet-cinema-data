@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4515024
   imdb: tt0799979
   youtube: YSvEdJTGsIM
+  tmdb: 450448
 sources:
 - https://www.wikidata.org/wiki/Q4515024
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: sergeecheva-margarita-vladimirovna
 - person: frolov-gennadiy-alekseevich
 - person: sherstnyov-yuriy-borisovich
+poster_tmdb_path: /wN6I0IYbJi64vuLAR057LsmdDW5.jpg
+backdrop_tmdb_path: /mDwUjg1lMq3eLB8GyOyJEHgeTpK.jpg

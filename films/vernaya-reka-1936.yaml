@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q7999181
   imdb: tt0027600
+  tmdb: 856022
 sources:
 - https://www.wikidata.org/wiki/Q7999181
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: orvid-yuzef
 - person: yunosha-stempovskiy-kazimezh
 - person: orvid-barbara
+poster_tmdb_path: /6uJa92Qu2I6ft8Q9c1Lf3PXdkJ1.jpg

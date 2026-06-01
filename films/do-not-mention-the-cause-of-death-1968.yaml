@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12760337
   imdb: tt0177326
+  tmdb: 336305
 sources:
 - https://www.wikidata.org/wiki/Q12760337
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: branko-milichevich
 - person: vuisich-pavle
 - person: lupa-peter
+poster_tmdb_path: /fba4PDJFqdwcDm1V8jfzJJFn2LH.jpg

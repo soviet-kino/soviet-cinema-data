@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1192291
   imdb: tt0025953
+  tmdb: 286171
 sources:
 - https://www.wikidata.org/wiki/Q1192291
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: martinson-sergey-aleksandrovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /Agt9n7EjXnKz3ggzo1YZz7RvbBd.jpg
+backdrop_tmdb_path: /zZEIwgq0y5dNrSON764jIurJwBw.jpg

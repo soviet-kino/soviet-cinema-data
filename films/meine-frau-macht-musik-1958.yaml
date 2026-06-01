@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1368194
   imdb: tt0051919
+  tmdb: 310938
 sources:
 - https://www.wikidata.org/wiki/Q1368194
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: kommerell-ruth
 - person: lirk-verner
 - person: hegarth-alexander
+poster_tmdb_path: /m6eKpjSuYhVfb0IQ1sRqOsF4TCI.jpg
+backdrop_tmdb_path: /d6HzACcQGQpejM2gCr9p24iUAum.jpg

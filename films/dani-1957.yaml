@@ -8,8 +8,10 @@ runtime_min: 85
 external_ids:
   wikidata: Q123680746
   imdb: tt0050289
+  tmdb: 442513
 sources:
 - https://www.wikidata.org/wiki/Q123680746
 schema_version: 1
 director:
 - semes-mikhali
+poster_tmdb_path: /5XBqm0FEyDWyt1h4azPxScjUCqs.jpg

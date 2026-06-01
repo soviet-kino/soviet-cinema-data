@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q65210998
   imdb: tt0337436
+  tmdb: 624634
 sources:
 - https://www.wikidata.org/wiki/Q65210998
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: strzhelchik-vladislav-ignatevich
+poster_tmdb_path: /ytiitcdrGe2HzCK4vgh9oj1A0jy.jpg
+backdrop_tmdb_path: /iD62yuigtoeejF6cl5JFs5Kwqbh.jpg

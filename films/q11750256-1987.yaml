@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q11750256
   imdb: tt0298133
+  tmdb: 729904
 sources:
 - https://www.wikidata.org/wiki/Q11750256
 schema_version: 1
 director:
 - musliu-esat
+poster_tmdb_path: /5GZ2Y8MRpxFnpo5keDIZsxDfyLe.jpg
+backdrop_tmdb_path: /13m6DR64SMkHbN5uQ5MHtao7NPO.jpg

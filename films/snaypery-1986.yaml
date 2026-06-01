@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q100148111
   imdb: tt0175183
   youtube: T2LG_jU4Kqc
+  tmdb: 456927
 sources:
 - https://www.wikidata.org/wiki/Q100148111
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - lebedev-viktor-mikhaylovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /dkxo8Q19fdYaPUWjV2l6hIISrby.jpg

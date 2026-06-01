@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q9380338
   imdb: tt0059922
+  tmdb: 450232
 sources:
 - https://www.wikidata.org/wiki/Q9380338
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kilyar-voytsekh
 cast:
 - person: makhulskiy-yan
+poster_tmdb_path: /4ZutTkBrnOPBaiSWEbtFKnsx3g3.jpg
+backdrop_tmdb_path: /yHhGgmMYONfQXHw7iEhVRY2OSiY.jpg

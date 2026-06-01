@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4366412
   imdb: tt0127738
+  tmdb: 279272
 sources:
 - https://www.wikidata.org/wiki/Q4366412
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: evstigneev-evgeniy-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /fxac1dNsjNeuXnOnfHCDpRPBlsW.jpg
+backdrop_tmdb_path: /fljGVg3Dygw1JrogtwODv0Zmy8g.jpg

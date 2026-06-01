@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q43303148
   imdb: tt0090362
+  tmdb: 288153
 sources:
 - https://www.wikidata.org/wiki/Q43303148
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - gzhegozh-krulikevich
 cinematographer:
 - ptak-kshishtof
+poster_tmdb_path: /aB0ebVKbrf0mZwOgKEC1bMb8MeT.jpg
+backdrop_tmdb_path: /3fiXp7tPJ8HnFXfDC8IOvzRIh52.jpg

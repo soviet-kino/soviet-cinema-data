@@ -8,6 +8,7 @@ runtime_min: 27
 external_ids:
   wikidata: Q4158167
   imdb: tt2396449
+  tmdb: 1238441
 sources:
 - https://www.wikidata.org/wiki/Q4158167
 schema_version: 1
@@ -17,3 +18,4 @@ studio:
 - rizhskaya-kinostudiya
 cast:
 - person: gobzeva-olga-frolovna
+poster_tmdb_path: /wUpmPyKKJXU51uFIKj3XjBwcJ47.jpg

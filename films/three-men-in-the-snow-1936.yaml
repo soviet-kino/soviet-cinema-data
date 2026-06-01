@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12060384
   imdb: tt0153285
+  tmdb: 394460
 sources:
 - https://www.wikidata.org/wiki/Q12060384
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: vodickova-wanda
 - person: haller-frantisek
 - person: pochmanova-ela
+poster_tmdb_path: /fgTvouFgYUUmHWAKbE5bpF0pYW0.jpg

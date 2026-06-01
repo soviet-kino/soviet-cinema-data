@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q9170956
   imdb: tt0061399
+  tmdb: 577668
 sources:
 - https://www.wikidata.org/wiki/Q9170956
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: q116842578
 studio:
 - start-kinostudiya
+poster_tmdb_path: /rIzjig9b11xFRfDHTOLlwDhrcxc.jpg
+backdrop_tmdb_path: /6TR2ENMgujpIohhAFS76Dcf2Mko.jpg

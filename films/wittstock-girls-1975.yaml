@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q65575608
   imdb: tt0076428
+  tmdb: 240626
 sources:
 - https://www.wikidata.org/wiki/Q65575608
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - kepp-folker
 composer:
 - korner-konrad
+poster_tmdb_path: /9lyQAjBCHsEoIiBCHxMhTwXPCFF.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q22328890
   imdb: tt0062026
   youtube: 3yAWXXqWVdg
+  tmdb: 146521
 sources:
 - https://www.wikidata.org/wiki/Q22328890
 schema_version: 1
@@ -37,3 +38,5 @@ studio:
 - mosfilm
 - lenfilm
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /oWD3cIyqRUkJw6xJz7YazqJnOX4.jpg
+backdrop_tmdb_path: /diwiy9QIidKloFfKGlWlh24RwzX.jpg

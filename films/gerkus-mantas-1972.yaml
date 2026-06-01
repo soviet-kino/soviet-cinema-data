@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q4137207
   imdb: tt0204344
+  tmdb: 386025
 sources:
 - https://www.wikidata.org/wiki/Q4137207
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: shurna-antanas
 - person: pyaulokas-pranas
 - person: pyatronaytis-stasis
+poster_tmdb_path: /m7IR8eWPfq2msyEU3NoQZCPiRqQ.jpg
+backdrop_tmdb_path: /zjetFUsI9f0nFP5YHpvqB1sQsHX.jpg

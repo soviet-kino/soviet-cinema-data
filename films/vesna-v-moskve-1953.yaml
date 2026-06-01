@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109510
   imdb: tt0171886
   youtube: kIFNKTXIxIc
+  tmdb: 804073
 sources:
 - https://www.wikidata.org/wiki/Q4109510
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: korotkevich-galina-petrovna
 studio:
 - lenfilm
+poster_tmdb_path: /uZSF3MtfNpRbf2J8tdnQHj2FMnu.jpg
+backdrop_tmdb_path: /t0qM7COA0eWrqDu4e2K52NfnX2i.jpg

@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q5005113
   imdb: tt0149880
+  tmdb: 661720
 sources:
 - https://www.wikidata.org/wiki/Q5005113
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: zezulka-josef
 - person: langer-bohumil
 - person: svobodova-marie
+poster_tmdb_path: /95WCTMQATDjvVshVRF7hof1V7PP.jpg

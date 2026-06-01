@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4080752
   imdb: tt0305291
+  tmdb: 896495
 sources:
 - https://www.wikidata.org/wiki/Q4080752
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: proskurin-viktor-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /3xkSnorvd8HrPsqNAtRWNyU3rjq.jpg
+backdrop_tmdb_path: /lEFlIihBEfFQoLp0OgdppiQkpsn.jpg

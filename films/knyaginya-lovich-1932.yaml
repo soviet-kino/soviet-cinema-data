@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6440860
   imdb: tt0024390
+  tmdb: 209358
 sources:
 - https://www.wikidata.org/wiki/Q6440860
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: aleksandr-zelverovich
 - person: yarach-stefan
 poster_commons: Stefan Jaracz - Film nr 03 - 1946-09-01.JPG
+poster_tmdb_path: /nlvdSTQ0C7GAZw5yzibfZC7TAG.jpg

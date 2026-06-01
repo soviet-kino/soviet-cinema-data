@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q17582674
   imdb: tt0322198
+  tmdb: 438310
 sources:
 - https://www.wikidata.org/wiki/Q17582674
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - ekran
 cast:
 - person: ilinskiy-igor-vladimirovich
+poster_tmdb_path: /8xgNprCIcHqWpBWzdGXqdvIbYFa.jpg
+backdrop_tmdb_path: /pq5aUtMHoYONo158trUJMh4hgO2.jpg

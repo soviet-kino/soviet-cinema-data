@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11784166
   imdb: tt0349822
+  tmdb: 627710
 sources:
 - https://www.wikidata.org/wiki/Q11784166
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: zawadka-krzysztof
 - person: ciempiel-marcin
 - person: koganianu-mikhal
+poster_tmdb_path: /qKx2nOro8GOWoLWGgRyKVf4KZyT.jpg
+backdrop_tmdb_path: /AmbmPPtUHHPbucgyLveDMHpGlZL.jpg

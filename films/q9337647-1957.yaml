@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9337647
   imdb: tt0050979
+  tmdb: 578021
 sources:
 - https://www.wikidata.org/wiki/Q9337647
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: polomskaya-barbara
 - person: fabisyak-kazimezh
 - person: shevchik-mikhal
+poster_tmdb_path: /1KoBCuAPblaSfwRDaDMbyI3F3dj.jpg

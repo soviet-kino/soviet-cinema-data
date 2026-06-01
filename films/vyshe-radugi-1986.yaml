@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4129960
   imdb: tt0367210
   youtube: yLTbRo9WPFs
+  tmdb: 64763
 sources:
 - https://www.wikidata.org/wiki/Q4129960
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mashnaya-olga
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /9oLaeFlDp6EIyj4uvQ0xkN8hFy7.jpg
+backdrop_tmdb_path: /a4yKixCdxNoCevWgeQxAndS4EPr.jpg

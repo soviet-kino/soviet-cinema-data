@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4413295
   imdb: tt0175148
   youtube: O6tcm9ejFgE
+  tmdb: 274835
 sources:
 - https://www.wikidata.org/wiki/Q4413295
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: rybnikov-nikolay-nikolaevich-2
 studio:
 - mosfilm
+poster_tmdb_path: /xkvqhjdUoUeN5KJTHqR8vIPhB1z.jpg
+backdrop_tmdb_path: /wylBeya1AJPRCaKdENVcY9idYqb.jpg

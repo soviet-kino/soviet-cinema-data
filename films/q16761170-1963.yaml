@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16761170
   imdb: tt0057337
+  tmdb: 285256
 sources:
 - https://www.wikidata.org/wiki/Q16761170
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: velimir-bata-zhivoinovich
 - person: mincic-pavle
 - person: slobodan-perovich
+poster_tmdb_path: /r7vIkOmSnVr3H73uPELB8KOIcOT.jpg
+backdrop_tmdb_path: /pXYVH15hrrxbhP0TBv68LNtQiBr.jpg

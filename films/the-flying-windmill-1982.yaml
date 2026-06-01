@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1218241
   imdb: tt0162327
   youtube: KbyQUdNkcsE
+  tmdb: 69540
 sources:
 - https://www.wikidata.org/wiki/Q1218241
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - ratz-gunter
 composer:
 - bauze-arndt
+poster_tmdb_path: /ahCqx6KG2vv8I3rxynUxTt3yfsX.jpg
+backdrop_tmdb_path: /n8MCXkn7CVq3AvYuSCIZlNkozZz.jpg

@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q64148
   imdb: tt0067885
+  tmdb: 46799
 sources:
 - https://www.wikidata.org/wiki/Q64148
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: teleshinskiy-leshek
 - person: alitsiya-yakhevich
 - person: barshchevskaya-grazhina
+poster_tmdb_path: /cRHc7JFmWjCtXz3rOfk07zuCyW9.jpg
+backdrop_tmdb_path: /y9NXfEz8p1IiR8Ug4vpa3MiI8lJ.jpg

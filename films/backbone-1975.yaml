@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4839573
   imdb: tt0074741
+  tmdb: 198516
 sources:
 - https://www.wikidata.org/wiki/Q4839573
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: neda-spasoevich
 - person: jelisic-or-e
 - person: milutin-butkovich
+poster_tmdb_path: /f87Kgbd2MY9MXa3SUfy7hQxO6he.jpg
+backdrop_tmdb_path: /bPJD8eYYnF32LIES7LTfS2FXj32.jpg

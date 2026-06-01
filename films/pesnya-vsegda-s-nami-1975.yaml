@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4359800
   imdb: tt7102412
+  tmdb: 1152356
 sources:
 - https://www.wikidata.org/wiki/Q4359800
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: rotaru-sofiya
 studio:
 - ukrtelefilm
+poster_tmdb_path: /cPzoO19LHNclF9p7o7gzht4b7Pd.jpg

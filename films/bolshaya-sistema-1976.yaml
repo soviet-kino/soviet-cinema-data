@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4274051
   imdb: tt0075428
+  tmdb: 933475
 sources:
 - https://www.wikidata.org/wiki/Q4274051
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: kussyk-cezary
 studio:
 - pryzmat
+poster_tmdb_path: /xKGg7eNOGSHZkiAcKz8SBABFlhA.jpg

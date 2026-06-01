@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4062447
   imdb: tt0041110
   youtube: IwcIbG1xJt0
+  tmdb: 272641
 sources:
 - https://www.wikidata.org/wiki/Q4062447
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: abrikosov-andrey-lvovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /z0ROHzJKgl8jcor2SvyHNWXNIqv.jpg
+backdrop_tmdb_path: /vVpCiPa8CAaBDzQsuYh26okkRto.jpg

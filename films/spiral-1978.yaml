@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q7577719
   imdb: tt0078310
+  tmdb: 198515
 sources:
 - https://www.wikidata.org/wiki/Q7577719
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: dzhoanna-senkevich
 - person: bigelmayer-kristina
 - person: mrowiec-andrzej
+poster_tmdb_path: /3M6e4p7nVHKchg45ERwPZyv9XaK.jpg
+backdrop_tmdb_path: /vgBLvXywfewVvEMRbXmOoKW1sB2.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1305549
   imdb: tt0076209
+  tmdb: 376963
 sources:
 - https://www.wikidata.org/wiki/Q1305549
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: staack-ursula
 - person: noyman-tomas
 - person: hoffmann-tim
+poster_tmdb_path: /nWUlrxUNqcTPUpWRRt3IPZVMvgD.jpg
+backdrop_tmdb_path: /jK1qjJLqLF3UvDqoUMRvJ3p18x1.jpg

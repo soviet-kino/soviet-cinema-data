@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3023178
   imdb: tt0076465
   youtube: _CcGGBPFh1I
+  tmdb: 263186
 sources:
 - https://www.wikidata.org/wiki/Q3023178
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: kaziev-islam-amashevich
 studio:
 - mosfilm
+poster_tmdb_path: /k7MvwdljO6qNKVLCOV1klfhgagX.jpg
+backdrop_tmdb_path: /ifzabNcHAXkta9OBcR5dcqbnuc2.jpg

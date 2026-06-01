@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11826279
   imdb: tt0067597
+  tmdb: 577656
 sources:
 - https://www.wikidata.org/wiki/Q11826279
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - novitskiy-marek
 composer:
 - gartner-katarzyna
+poster_tmdb_path: /zJShB2sLUAjRodLw1wmvrjNhmBO.jpg

@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q30889891
   imdb: tt0230521
+  tmdb: 176408
 sources:
 - https://www.wikidata.org/wiki/Q30889891
 schema_version: 1
@@ -22,3 +23,5 @@ screenwriter:
 studio:
 - vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova
 - mezhrabpom-rus
+poster_tmdb_path: /h3rXINQoNYgZCR3Ar5wQvmJ45Au.jpg
+backdrop_tmdb_path: /uefozGm2cSUD2m6Er6hqInIJjp2.jpg

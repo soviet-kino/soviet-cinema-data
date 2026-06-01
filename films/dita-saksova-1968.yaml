@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q95389032
   imdb: tt0061579
+  tmdb: 269998
 sources:
 - https://www.wikidata.org/wiki/Q95389032
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: sixtova-noemi
 studio:
 - barrandov
+poster_tmdb_path: /e0FPJhEQCZw6pSbYzQffTl3fQgg.jpg
+backdrop_tmdb_path: /gs5lHG9dwzLbtlxufwg5Up7PPxX.jpg

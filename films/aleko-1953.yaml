@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q4060819
   imdb: tt0046694
+  tmdb: 518961
 sources:
 - https://www.wikidata.org/wiki/Q4060819
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ognivtsev-aleksandr-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /snIwvZcFDgZ0o5s72mFafw8JRXw.jpg
+backdrop_tmdb_path: /4nQCx5mTmReoZcbCigjakxwT4De.jpg

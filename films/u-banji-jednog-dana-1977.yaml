@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461624
   imdb: tt0214214
+  tmdb: 1642381
 sources:
 - https://www.wikidata.org/wiki/Q25461624
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: zhigon-ivana
 - person: kadrich-rialda
 - person: neda-spasoevich
+poster_tmdb_path: /kQ0JhLfncrLTmXMQbvbA5xKMdmr.jpg

@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q106625466
   imdb: tt0076898
+  tmdb: 626954
 sources:
 - https://www.wikidata.org/wiki/Q106625466
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shvarts-isaak-iosifovich
 studio:
 - mosfilm
+poster_tmdb_path: /vr2cnqD5vZnBfBLJ4rs7fcGEg59.jpg

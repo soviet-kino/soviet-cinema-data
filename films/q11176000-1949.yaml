@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q11176000
   imdb: tt0277620
+  tmdb: 651558
 sources:
 - https://www.wikidata.org/wiki/Q11176000
 schema_version: 1
@@ -71,3 +72,4 @@ cast:
 - person: zarek-emil
 - person: wurserova-albina
 - person: kastner-karel
+poster_tmdb_path: /pGer2LXQUPWreft6nPvZ9KD1UKd.jpg

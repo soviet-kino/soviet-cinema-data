@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4085745
   imdb: tt0286502
   youtube: 4lqRM_daZdQ
+  tmdb: 75649
 sources:
 - https://www.wikidata.org/wiki/Q4085745
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: idrisov-nail
 studio:
 - mosfilm
+poster_tmdb_path: /oYsupL4A2mVtUR45O7Ji6bEj0Ev.jpg
+backdrop_tmdb_path: /hSo67l9PUIb3qW1xzeButdNLumq.jpg

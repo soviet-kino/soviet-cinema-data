@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q7247348
   imdb: tt0055301
+  tmdb: 799235
 sources:
 - https://www.wikidata.org/wiki/Q7247348
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: martinkova-martsela
 - person: kozak-josef
 - person: burianova-helena
+poster_tmdb_path: /A7v1yrcr2wYvSmTAGmMYteP4Kvj.jpg

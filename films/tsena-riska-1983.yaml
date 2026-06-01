@@ -30,6 +30,9 @@ runtime_min: 100
 external_ids:
   wikidata: Q693088
   imdb: tt0084540
+  tmdb: 51259
 sources:
 - https://www.wikidata.org/wiki/Q693088
 schema_version: 1
+poster_tmdb_path: /7PVt3ZCFmhUewPDu6AUI2bBF5Bx.jpg
+backdrop_tmdb_path: /y9u7s3463LUy1K0Fz6WIl7r9nzx.jpg

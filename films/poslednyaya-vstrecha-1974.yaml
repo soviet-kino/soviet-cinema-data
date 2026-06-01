@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q16687364
   imdb: tt0072016
+  tmdb: 856445
 sources:
 - https://www.wikidata.org/wiki/Q16687364
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: menshov-vladimir-valentinovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /zf9r8ZeAPfopQFKerAXhnvJ262R.jpg

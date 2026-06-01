@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4083899
   imdb: tt0182781
+  tmdb: 189555
 sources:
 - https://www.wikidata.org/wiki/Q4083899
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 studio:
 - vseukrainskoe-fotokinoupravlenie
 poster_commons: Benya Krik poster.jpg
+poster_tmdb_path: /erP422aI0ZvxnROIzvduJAXlzdx.jpg
+backdrop_tmdb_path: /7tORxYCiLE5ToEK0axbHuQoQEx0.jpg

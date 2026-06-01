@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q12727786
   imdb: tt0121253
+  tmdb: 264987
 sources:
 - https://www.wikidata.org/wiki/Q12727786
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: moldovan-victor
 - person: tastaman-vasilika
 - person: bogdan-stanoevich
+poster_tmdb_path: /wDu4gxRKha8DoYLMOqp5mbMlj3i.jpg

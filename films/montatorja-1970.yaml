@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11785347
   imdb: tt0271646
+  tmdb: 461309
 sources:
 - https://www.wikidata.org/wiki/Q11785347
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - xhuvani-dhimiter
 composer:
 - dizdari-limoz
+poster_tmdb_path: /wLCyDptQenVVwoQVzxsbg8I0T7A.jpg
+backdrop_tmdb_path: /qLI1K9ZLf1JP4s5Lb8drAu5bSY4.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q15703275
   imdb: tt0175581
+  tmdb: 46212
 sources:
 - https://www.wikidata.org/wiki/Q15703275
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: pelech-jan
 - person: chrobak-pavol
 - person: torok-frantisek
+poster_tmdb_path: /l26arGfahgc63JkYaUngQAbBOc1.jpg
+backdrop_tmdb_path: /t17cJDxpoJHUt7VhDwn9ljeNin4.jpg

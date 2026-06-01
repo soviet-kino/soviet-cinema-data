@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1730067
   imdb: tt0043703
+  tmdb: 57122
 sources:
 - https://www.wikidata.org/wiki/Q1730067
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: barl-matija
 - person: milcinski-frane
 poster_commons: Plakat za film Kekec.jpg
+poster_tmdb_path: /x1DtmNz3PvYqC8ew1M1wgFpzqGH.jpg
+backdrop_tmdb_path: /1Fl4ZgOhYHN1gPEH7oiFaMC4a7c.jpg

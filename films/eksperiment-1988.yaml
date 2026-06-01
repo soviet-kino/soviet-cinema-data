@@ -8,6 +8,7 @@ runtime_min: 465
 external_ids:
   wikidata: Q4530563
   imdb: tt8779016
+  tmdb: 1423672
 sources:
 - https://www.wikidata.org/wiki/Q4530563
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ovsyannikov-pavel
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /fhr8Z05cAEyFwKRIS9hUCyqtB2h.jpg

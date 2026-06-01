@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q3793201
   imdb: tt0019609
+  tmdb: 190231
 sources:
 - https://www.wikidata.org/wiki/Q3793201
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - prometheus-film
 poster_commons: Scheurich, Der lebende Leichnam (Das Ehegesetz), 1929.jpg
+poster_tmdb_path: /5O6hY1XR37Z9ioCgn2LBhouvY1r.jpg
+backdrop_tmdb_path: /76HVQNOu9LqSxXrwEIxGtyqS9Ub.jpg

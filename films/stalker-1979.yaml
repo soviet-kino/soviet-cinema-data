@@ -41,6 +41,7 @@ external_ids:
   wikidata: Q200437
   imdb: tt0079944
   youtube: Q3hBLv-HLEc
+  tmdb: 1398
 sources:
 - https://www.wikidata.org/wiki/Q200437
 schema_version: 1
@@ -51,3 +52,5 @@ cinematographer:
 topics:
 - literary-adaptations
 - science-fiction
+poster_tmdb_path: /mzJxTxIODATNaYUwyJ2C2XPkhXW.jpg
+backdrop_tmdb_path: /6yrbWzzrPp7pwz6zHdifspJk8t3.jpg

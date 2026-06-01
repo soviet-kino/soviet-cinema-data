@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4224366
   imdb: tt0170114
   youtube: AV_gcUzk2Pc
+  tmdb: 158133
 sources:
 - https://www.wikidata.org/wiki/Q4224366
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 cast:
 - person: proklova-elena-igorevna
+poster_tmdb_path: /ssCPshnLmNRXwTSnn5MtoUGp3mn.jpg
+backdrop_tmdb_path: /rVbdlM51A3PfFr83xhAQMEOQ8oH.jpg

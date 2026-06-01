@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1451496
   imdb: tt0061685
+  tmdb: 283109
 sources:
 - https://www.wikidata.org/wiki/Q1451496
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: papke-horst
 - person: noyenkhan-villi
 - person: greeze-volfgang
+poster_tmdb_path: /qHBUVLGOeepAKo2FC6oFtEb4aGc.jpg

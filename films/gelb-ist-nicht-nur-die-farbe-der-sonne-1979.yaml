@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1499219
   imdb: tt0079199
+  tmdb: 463213
 sources:
 - https://www.wikidata.org/wiki/Q1499219
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: tietze-werner
 - person: drinda-khorst
 - person: spira-steffie
+poster_tmdb_path: /rGVSff29cFIG5OQYcWlWZDFOcqL.jpg
+backdrop_tmdb_path: /nQz5Qq0CB8JYR4jqss5G6kw5Z8U.jpg

@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q438033
   imdb: tt0048941
+  tmdb: 408520
 sources:
 - https://www.wikidata.org/wiki/Q438033
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: shmidtchen-kurt
 studio:
 - defa
+poster_tmdb_path: /cnh6OVt3XoocOtQQNNqKtRuszsT.jpg
+backdrop_tmdb_path: /kX1DjDZVQNQwtAYkG3Esf4EmQXD.jpg

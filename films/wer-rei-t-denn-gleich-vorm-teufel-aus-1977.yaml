@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1727322
   imdb: tt0230969
+  tmdb: 13307
 sources:
 - https://www.wikidata.org/wiki/Q1727322
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: martin-katrin
 - person: dommish-peter
 - person: greeze-volfgang
+poster_tmdb_path: /oFDRfzUGg3Iozf3VYLoYcEQBx83.jpg
+backdrop_tmdb_path: /eFpJbpSm8a2vssK3xZXVuqjx91y.jpg

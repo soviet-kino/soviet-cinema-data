@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q9182862
   imdb: tt0169571
+  tmdb: 461887
 sources:
 - https://www.wikidata.org/wiki/Q9182862
 schema_version: 1
 director:
 - cashku-kujtim
+poster_tmdb_path: /30C90xP9lkrv2wNlEsrnk3X5lY6.jpg
+backdrop_tmdb_path: /dSNFG4R04eD1x8H8XCin1Uo2zVa.jpg

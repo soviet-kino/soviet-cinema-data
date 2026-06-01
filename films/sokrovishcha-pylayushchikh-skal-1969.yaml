@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q49508709
   imdb: tt1804636
+  tmdb: 458670
 sources:
 - https://www.wikidata.org/wiki/Q49508709
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - klyucharyov-igor-vladimirovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /kduJzy1Ip29p11B0dsZFMpSQ5wu.jpg
+backdrop_tmdb_path: /kwbPjcGNov7ylSvcrS61qRwJe4m.jpg

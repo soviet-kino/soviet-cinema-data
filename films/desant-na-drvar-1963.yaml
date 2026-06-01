@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q6591997
   imdb: tt0056987
+  tmdb: 423814
 sources:
 - https://www.wikidata.org/wiki/Q6591997
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: mata-miloshevich
 - person: ranko-kovachevich
 - person: yakshich-ivo
+poster_tmdb_path: /wdFlaBENeBHeEdRRw7cE40rDEXR.jpg
+backdrop_tmdb_path: /u4Ha4lqMtFVd5wQRyAf532C0a3o.jpg

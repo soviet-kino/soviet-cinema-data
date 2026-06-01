@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12738462
   imdb: tt0179427
+  tmdb: 385943
 sources:
 - https://www.wikidata.org/wiki/Q12738462
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: cara-helene
 - person: galin-karmen
 - person: tastaman-vasilika
+poster_tmdb_path: /zIIRj2JZ569KI3REEk1XtZcIAfs.jpg

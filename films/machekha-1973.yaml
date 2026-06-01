@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4286007
   imdb: tt0175875
   youtube: M2v970u8TCI
+  tmdb: 67687
 sources:
 - https://www.wikidata.org/wiki/Q4286007
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nevedomskiy-leonid
 studio:
 - mosfilm
+poster_tmdb_path: /n9KxXLNZHvpUKTlRGaQqiyCVzQ5.jpg
+backdrop_tmdb_path: /jsLktlQRQmZpeXlLmhYk7JHckgc.jpg

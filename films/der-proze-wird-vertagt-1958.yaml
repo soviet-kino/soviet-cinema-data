@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q5261196
   imdb: tt0230665
+  tmdb: 279718
 sources:
 - https://www.wikidata.org/wiki/Q5261196
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - fidler-i-u
 composer:
 - forest-zhan-kurt
+poster_tmdb_path: /8EHUiVWqP867WA9TORQx1gGycNZ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4379465
   imdb: tt0191375
+  tmdb: 72631
 sources:
 - https://www.wikidata.org/wiki/Q4379465
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - kazenin-vladislav-igorevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /6ED9XqnX1xsPERPtExSpfsQDIW2.jpg
+backdrop_tmdb_path: /b5QjmBgq3obAZfBNQmsfLmU12G.jpg

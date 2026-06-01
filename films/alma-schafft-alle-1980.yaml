@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q2649589
   imdb: tt0080356
+  tmdb: 69545
 sources:
 - https://www.wikidata.org/wiki/Q2649589
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: kostelka-lyubomir
 - person: khebenshtrayt-pedro
 - person: shrade-villi
+poster_tmdb_path: /x5r5Q0nt7GZi0A5fB5wrDBr6Uu8.jpg
+backdrop_tmdb_path: /gAmk7EMRMzpjNPtQ0szVQrXTo37.jpg

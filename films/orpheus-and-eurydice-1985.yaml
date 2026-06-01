@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3356660
   imdb: tt0089738
+  tmdb: 287627
 sources:
 - https://www.wikidata.org/wiki/Q3356660
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - gaal-ishtvan
 screenwriter:
 - gaal-ishtvan
+poster_tmdb_path: /8MK81ouysco8fe8wY1ekOF2jM9M.jpg
+backdrop_tmdb_path: /v0STaTA66oGKyOEI4MMbsWWiZf4.jpg

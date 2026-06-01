@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1001819
   imdb: tt0028877
+  tmdb: 215618
 sources:
 - https://www.wikidata.org/wiki/Q1001819
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - noti-karoli
 - rathonyi-akos
 - emod-tamas
+poster_tmdb_path: /qHixICOzbITQwmYaP5vfoGmyDoT.jpg

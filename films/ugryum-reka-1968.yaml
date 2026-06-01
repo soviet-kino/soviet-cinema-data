@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4469194
   imdb: tt0063963
   youtube: 4Gn-Y8L09Gw
+  tmdb: 324534
 sources:
 - https://www.wikidata.org/wiki/Q4469194
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: epifantsev-georgiy-semyonovich
 - person: kochetkov-afanasiy-ivanovich
 - person: chekmaryov-viktor-konstantinovich
+poster_tmdb_path: /sWvXs8RFCq12F23TiqzIvccZkVx.jpg
+backdrop_tmdb_path: /xog1I00vseom6DVZdvgu8PkUzXP.jpg

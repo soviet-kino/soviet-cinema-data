@@ -8,6 +8,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q18176910
   imdb: tt1182876
+  tmdb: 236892
 sources:
 - https://www.wikidata.org/wiki/Q18176910
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - khusarik-zoltan
 screenwriter:
 - khusarik-zoltan
+poster_tmdb_path: /9gtLCkyB9mQdTst8Ul2mpjQiRLV.jpg
+backdrop_tmdb_path: /rhU45ZrOtDvs6QviglJty9vDaVD.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4426789
   imdb: tt4785644
+  tmdb: 544452
 sources:
 - https://www.wikidata.org/wiki/Q4426789
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: ilin-andrey-epifanovich
 studio:
 - mosfilm
+poster_tmdb_path: /22nvY1AD5h0cXu7IZCBGeppHF1b.jpg
+backdrop_tmdb_path: /3HfvkDGjrbK4v7577VPsEiRTrEH.jpg

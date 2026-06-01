@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21148898
   imdb: tt0241077
+  tmdb: 453574
 sources:
 - https://www.wikidata.org/wiki/Q21148898
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - prytkov-yuriy-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /kmoOfOtAlZ7HIXs15pbVtY55wwo.jpg

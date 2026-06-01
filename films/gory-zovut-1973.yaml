@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q131419853
   imdb: tt0308327
+  tmdb: 1296766
 sources:
 - https://www.wikidata.org/wiki/Q131419853
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - mazhukov-aleksey-sergeevich
 studio:
 - uzbekfilm
+poster_tmdb_path: /j9hstc6IW51lUaM5dQj5SPDcRDL.jpg

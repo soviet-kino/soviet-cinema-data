@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q6702834
   imdb: tt0029089
+  tmdb: 185938
 sources:
 - https://www.wikidata.org/wiki/Q6702834
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - pokrass-daniil-yakovlevich
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
+poster_tmdb_path: /AksHNyieid6DdwzLxqNQHH9XyeC.jpg

@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q65212698
   imdb: tt0309338
+  tmdb: 627150
 sources:
 - https://www.wikidata.org/wiki/Q65212698
 schema_version: 1
@@ -15,3 +16,4 @@ composer:
 - babushkin-viktor-borisovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /f1G59dEnJ6NNE0kibsKJcJBMeta.jpg

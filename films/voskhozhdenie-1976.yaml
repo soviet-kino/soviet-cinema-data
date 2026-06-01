@@ -37,6 +37,7 @@ external_ids:
   wikidata: Q760053
   imdb: tt0075404
   youtube: VteY61FDhc8
+  tmdb: 50183
 sources:
 - https://www.wikidata.org/wiki/Q760053
 schema_version: 1
@@ -45,3 +46,5 @@ cinematographer:
 - chukhnov-vladimir
 topics:
 - literary-adaptations
+poster_tmdb_path: /lWioTDPDhz0KHlm83FJnv0MIrok.jpg
+backdrop_tmdb_path: /w0DMXZTLGFPvpl1SY3p7H6dOx34.jpg

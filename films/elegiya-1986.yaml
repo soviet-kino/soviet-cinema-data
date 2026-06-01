@@ -8,8 +8,10 @@ runtime_min: 30
 external_ids:
   wikidata: Q32859550
   imdb: tt0174617
+  tmdb: 198294
 sources:
 - https://www.wikidata.org/wiki/Q32859550
 schema_version: 1
 director:
 - sokurov-aleksandr
+poster_tmdb_path: /sXpoxpMF1zqj8ooMZhIUbVLyKwI.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55020
   imdb: tt0151923
+  tmdb: 393083
 sources:
 - https://www.wikidata.org/wiki/Q55020
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: khelena-grossuvna
 - person: orvid-yuzef
 - person: fievskiy-tadeush
+poster_tmdb_path: /yOAnnhTN1A19bb8NYpH7Ewt5YHL.jpg
+backdrop_tmdb_path: /zbHJXiAfeUxGX6yeHe5ku466Q2f.jpg

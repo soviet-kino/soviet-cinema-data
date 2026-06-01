@@ -8,6 +8,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q16388956
   imdb: tt0468725
+  tmdb: 582620
 sources:
 - https://www.wikidata.org/wiki/Q16388956
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: galoyan-hovak
 - person: nersisyan-ashot
 - person: grigoryan-mayranush
+poster_tmdb_path: /uTnQTDqsemKNeJ18gquBKEg5XeN.jpg

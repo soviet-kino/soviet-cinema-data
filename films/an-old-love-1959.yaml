@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4750181
   imdb: tt0052552
+  tmdb: 426399
 sources:
 - https://www.wikidata.org/wiki/Q4750181
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: shturm-peter
 studio:
 - defa
+poster_tmdb_path: /6iHpqoHVtYbwlNufPaY8qbpSnab.jpg

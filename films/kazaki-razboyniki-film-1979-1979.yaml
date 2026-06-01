@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q16514543
   imdb: tt0403193
+  tmdb: 447296
 sources:
 - https://www.wikidata.org/wiki/Q16514543
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: drozd-georgiy-ivanovich
 - person: korolyova-lidiya-georgievna
 - person: korchikov-oleg-glebovich
+poster_tmdb_path: /w5KPnmBkvUHnONKSObL224oF5tQ.jpg
+backdrop_tmdb_path: /o9VEwdh8EuLycSa6eFXtNG7fbkH.jpg

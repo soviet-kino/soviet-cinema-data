@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q9366521
   imdb: tt0176266
+  tmdb: 420934
 sources:
 - https://www.wikidata.org/wiki/Q9366521
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - wajda-andrzej
 cinematographer:
 - klosinskiy-edvard
+poster_tmdb_path: /nR8zUOtpU9i02hNgaKFPzZuKauX.jpg
+backdrop_tmdb_path: /dvtkXHjQPFmeXKbjckkCbMY7Ct6.jpg

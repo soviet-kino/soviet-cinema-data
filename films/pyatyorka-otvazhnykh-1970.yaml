@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4386121
   imdb: tt1802511
   youtube: vRKsdtgvf30
+  tmdb: 470039
 sources:
 - https://www.wikidata.org/wiki/Q4386121
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - abeliovich-lev-moiseevich
 studio:
 - belarusfilm
+poster_tmdb_path: /tzp9VoCCadBujG6zrUUPv4mlTZk.jpg
+backdrop_tmdb_path: /944y5gD5Z6Je8AgLJCJysz2rmhM.jpg

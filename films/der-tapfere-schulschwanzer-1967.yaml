@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q1199657
   imdb: tt0257217
+  tmdb: 85248
 sources:
 - https://www.wikidata.org/wiki/Q1199657
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ramayk-dzhessi
 studio:
 - defa
+poster_tmdb_path: /ogYL6PltaWUpy6sIylxdvMc2a5F.jpg
+backdrop_tmdb_path: /ur60gXbJmsoTx16OkVp6QTnf8cm.jpg

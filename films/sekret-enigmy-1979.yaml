@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3468024
   imdb: tt0079878
+  tmdb: 46250
 sources:
 - https://www.wikidata.org/wiki/Q3468024
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: matuszczak-leopold
 - person: kepinski-marek
 - person: mrowiec-andrzej
+poster_tmdb_path: /riJRvSpwSU2aqRZhwX18M4oap7K.jpg
+backdrop_tmdb_path: /iPq6NmOTHDh9kvDe4zWfnZABGuM.jpg

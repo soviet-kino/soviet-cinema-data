@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4462817
   imdb: tt4883540
+  tmdb: 396114
 sources:
 - https://www.wikidata.org/wiki/Q4462817
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - krivtsov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /bi5UPyPZY61Uyo1KOv9DzBs5RjQ.jpg

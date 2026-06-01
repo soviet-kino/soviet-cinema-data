@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12742798
   imdb: tt0139680
+  tmdb: 403674
 sources:
 - https://www.wikidata.org/wiki/Q12742798
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: peunesku-niku
 - person: komanichi-viorel
 - person: teyka-aristid
+poster_tmdb_path: /hWIWhWNwauxRRqyS7cx2xSNaw1z.jpg
+backdrop_tmdb_path: /xWKMPHWPPd0k5i4wZiVs0JhjxN6.jpg

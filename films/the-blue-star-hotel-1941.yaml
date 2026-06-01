@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7718846
   imdb: tt0150969
+  tmdb: 176493
 sources:
 - https://www.wikidata.org/wiki/Q7718846
 schema_version: 1
@@ -67,3 +68,5 @@ cast:
 - person: q131824951
 - person: haller-frantisek
 - person: strnadova-jarkova-nina
+poster_tmdb_path: /jxpGrWO95BpcnRgboQqI9Vm4NGo.jpg
+backdrop_tmdb_path: /zg5M8zV42WxcUJnTAITMe4eToih.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1198723
   imdb: tt0059529
   youtube: vIAFJ7QIU7k
+  tmdb: 53194
 sources:
 - https://www.wikidata.org/wiki/Q1198723
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: romm-mikhail-ilich
 studio:
 - mosfilm
+poster_tmdb_path: /gb16emau72f1xMfinHpzqixcQYp.jpg
+backdrop_tmdb_path: /8om2YlmUXDPwbyw2p7lU11CRN38.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q23672491
   imdb: tt0097875
+  tmdb: 337002
 sources:
 - https://www.wikidata.org/wiki/Q23672491
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: varga-zoltan
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /oubOjDkUJrVCfwk1dOahOp1UNTG.jpg
+backdrop_tmdb_path: /p3rU3IGrpNhS6uql7WIfHjkavah.jpg

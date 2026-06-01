@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65199227
   imdb: tt0080112
+  tmdb: 638201
 sources:
 - https://www.wikidata.org/wiki/Q65199227
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - pankratov-chyornyy-aleksandr-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /2KX7cK39pt1eUs7jkwBgGhYWjM4.jpg
+backdrop_tmdb_path: /1WZxg4S1rme8HinScMmhVUDUA1V.jpg

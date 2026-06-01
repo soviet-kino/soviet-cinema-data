@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q3299283
   imdb: tt0271814
+  tmdb: 385478
 sources:
 - https://www.wikidata.org/wiki/Q3299283
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: raidhi-pandi
 studio:
 - albfilm
+poster_tmdb_path: /zo3Jq9VMcF8cLWg83TkflEsaIU.jpg
+backdrop_tmdb_path: /65weJpChNbMgAT9aVVHVQYNDGhh.jpg

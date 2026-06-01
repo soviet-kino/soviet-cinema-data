@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4063262
   imdb: tt1508236
   youtube: x4G7UJK0YDQ
+  tmdb: 64754
 sources:
 - https://www.wikidata.org/wiki/Q4063262
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kuznetsov-mikhail-artemevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /tYOqgG1n3dSAR6he2BTwkUTcRXK.jpg
+backdrop_tmdb_path: /9gtfr2nP9BT64PqwJ8RHMBgb6zZ.jpg

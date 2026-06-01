@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4396717
   imdb: tt0075155
   youtube: aq1HEZThTvk
+  tmdb: 133700
 sources:
 - https://www.wikidata.org/wiki/Q4396717
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: vavilova-natalya-dmitrievna
 - person: gusev-andrey-fyodorovich
 - person: khanaeva-evgeniya
+poster_tmdb_path: /e4MhYHIuXb2hygQqSsPjeDPT8jI.jpg
+backdrop_tmdb_path: /xLB82dMAid5AFU7HoC1SZGQr9Bb.jpg

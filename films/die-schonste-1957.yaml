@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q683446
   imdb: tt0323904
+  tmdb: 290037
 sources:
 - https://www.wikidata.org/wiki/Q683446
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: pape-uwe-jens
 - person: ksirova-jarmila
 - person: hoffmann-gabriele
+poster_tmdb_path: /p3BprmeM2qwx3gfbP0DA58zvb3y.jpg

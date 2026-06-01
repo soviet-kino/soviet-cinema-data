@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q123328717
   imdb: tt0061673
+  tmdb: 290907
 sources:
 - https://www.wikidata.org/wiki/Q123328717
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: darvash-ivan
 - person: aktyor-ishtvan-kovach
 - person: margitay-agi
+poster_tmdb_path: /q9EVwbjSV1MpDBxGF84WEL7O2at.jpg

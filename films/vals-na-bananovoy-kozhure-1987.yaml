@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q20722214
   imdb: tt0090697
+  tmdb: 133394
 sources:
 - https://www.wikidata.org/wiki/Q20722214
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kovach-layosh
 - person: satmari-ishtvan
 - person: vegvari-tamas
+poster_tmdb_path: /lbEn9T5uudfu5GwOLqS7Y2PGwaj.jpg

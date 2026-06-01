@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q57268255
   imdb: tt4411790
+  tmdb: 964013
 sources:
 - https://www.wikidata.org/wiki/Q57268255
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - fisher-lyubosh
 studio:
 - jiri-trnka-studio
+poster_tmdb_path: /qPwvBkf9I2TMDQE25HpwRcmtsu1.jpg
+backdrop_tmdb_path: /ArSW42mBFSq4289wkp3N382SqJD.jpg

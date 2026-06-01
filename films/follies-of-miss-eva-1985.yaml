@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9350749
   imdb: tt0088215
+  tmdb: 737770
 sources:
 - https://www.wikidata.org/wiki/Q9350749
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kazanetskiy-valdemar
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /udSDlZgHbAT9Z5BWK5VuCxYSw8J.jpg

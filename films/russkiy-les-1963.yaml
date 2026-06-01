@@ -8,6 +8,7 @@ runtime_min: 172
 external_ids:
   wikidata: Q48944962
   imdb: tt0174175
+  tmdb: 540598
 sources:
 - https://www.wikidata.org/wiki/Q48944962
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: fadeeva-elena-alekseevna
 - person: buzhinskaya-veronika-stanislavovna
 - person: platov-vsevolod-nikolaevich
+poster_tmdb_path: /zRaIl7PWVJGFqO3OWzi4ODdUAO6.jpg
+backdrop_tmdb_path: /kYB9Ir2OpaZsBrGNwQDQVRhZJva.jpg

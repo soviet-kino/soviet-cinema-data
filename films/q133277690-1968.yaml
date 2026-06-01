@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q133277690
   imdb: tt1131695
+  tmdb: 301767
 sources:
 - https://www.wikidata.org/wiki/Q133277690
 schema_version: 1
 director:
 - schabenbeck-stefan
+poster_tmdb_path: /2K8F8pFQRcgL318st5nkEndanyo.jpg

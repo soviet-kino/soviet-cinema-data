@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200837
   imdb: tt1726721
+  tmdb: 536652
 sources:
 - https://www.wikidata.org/wiki/Q65200837
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - ershov-konstantin-vladimirovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /8i4uRC4Wr0OenP1DnQP7enxZpo5.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q86753468
   imdb: tt0165415
   youtube: -A1EbDE9lCE
+  tmdb: 344935
 sources:
 - https://www.wikidata.org/wiki/Q86753468
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: lamacova-karinska-anna
 - person: prazsky-vaclav
 - person: janderova-jirina
+poster_tmdb_path: /tRIHKBWKoIADAgALPT2Qu6CYVZF.jpg

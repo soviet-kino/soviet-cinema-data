@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q18589821
   imdb: tt1930550
+  tmdb: 392778
 sources:
 - https://www.wikidata.org/wiki/Q18589821
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 - person: horka-bobina
 - person: fleischman-gustav
 - person: kucera-karel
+poster_tmdb_path: /vJ6A0AjtmxNZArcNEn3BZwxKb4F.jpg

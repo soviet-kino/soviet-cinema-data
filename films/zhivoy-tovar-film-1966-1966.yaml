@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q21141536
   imdb: tt0230451
+  tmdb: 347571
 sources:
 - https://www.wikidata.org/wiki/Q21141536
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - khaynrikh-gans
 composer:
 - lesser-volfgang
+poster_tmdb_path: /bwB8zceD7a24Hn35BryhzgJBTc4.jpg
+backdrop_tmdb_path: /t7fAUQKfng1Ibd5821m2L6W8Tm9.jpg

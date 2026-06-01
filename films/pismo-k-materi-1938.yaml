@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q2892543
   imdb: tt0029946
+  tmdb: 281889
 sources:
 - https://www.wikidata.org/wiki/Q2892543
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - rotmil-yatsek
 cinematographer:
 - shtaynvurtsel-severin
+poster_tmdb_path: /pBPDSAbaArV0lasCJKmrE7A369v.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12837622
   imdb: tt4263876
+  tmdb: 329260
 sources:
 - https://www.wikidata.org/wiki/Q12837622
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: ogly-zeynalov-eldeniz-mamed
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /iT6Gz4NUOwUX0e4xLrcMOYkSN9B.jpg
+backdrop_tmdb_path: /502X3EV3WCTX2pfWPnBarl5KaQt.jpg

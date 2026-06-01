@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q60642799
   imdb: tt0264070
+  tmdb: 189764
 sources:
 - https://www.wikidata.org/wiki/Q60642799
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: richter-jan
 - person: renee-renati
 - person: hom-josef
+poster_tmdb_path: /p2QlJCAZY4HOnxez7RFoc5ODY2N.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65200412
   imdb: tt0076956
   youtube: FLm2Aok4VM0
+  tmdb: 403421
 sources:
 - https://www.wikidata.org/wiki/Q65200412
 schema_version: 1
@@ -17,3 +18,5 @@ director:
 - sirenko-arkadiy-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /3wtXIpYgIFw5mp4Rqfzj8pPtYdF.jpg
+backdrop_tmdb_path: /uBLyFJzz3xmfFqc1pjafVrBWBbD.jpg

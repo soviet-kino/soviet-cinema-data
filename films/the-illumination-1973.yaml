@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q762466
   imdb: tt0070217
+  tmdb: 154575
 sources:
 - https://www.wikidata.org/wiki/Q762466
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: mielnik-bogdan
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /xZ1MLeAzl7Dh204dGlwzpjMcj50.jpg
+backdrop_tmdb_path: /46SDQjPr2aQXuf5EPSjjLH7TVkK.jpg

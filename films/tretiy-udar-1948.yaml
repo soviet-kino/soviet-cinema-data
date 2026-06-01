@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7768777
   imdb: tt0040900
   youtube: 8yL9CCROAws
+  tmdb: 356556
 sources:
 - https://www.wikidata.org/wiki/Q7768777
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: astangov-mikhail-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /czBi2dieSSTHe1QTkxCj4qo4CH0.jpg
+backdrop_tmdb_path: /diEJ9tPLhiLF3rv8cR1yjt7QZ7X.jpg

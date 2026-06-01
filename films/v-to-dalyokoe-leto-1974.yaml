@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16628782
   imdb: tt0329721
+  tmdb: 1285355
 sources:
 - https://www.wikidata.org/wiki/Q16628782
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - maklakov-vladimir-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /iwUnSJNO3YhdNbVy5Hmo5Hk4Lz7.jpg
+backdrop_tmdb_path: /vxwKTT1JaFyVDQBcsv0lAMvr90l.jpg

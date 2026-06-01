@@ -8,6 +8,7 @@ runtime_min: 346
 external_ids:
   wikidata: Q4080463
   imdb: tt1318828
+  tmdb: 193209
 sources:
 - https://www.wikidata.org/wiki/Q4080463
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - yanchenko-oleg-grigorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uE9h4wAeKLK8W4KCmft4aEyIGB5.jpg
+backdrop_tmdb_path: /fS4YY732453ZvZKs5e7jXyetx1o.jpg

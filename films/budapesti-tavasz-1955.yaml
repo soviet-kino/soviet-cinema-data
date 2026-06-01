@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q97199227
   imdb: tt0047903
+  tmdb: 286610
 sources:
 - https://www.wikidata.org/wiki/Q97199227
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: molnar-tibor
 - person: radzhnay-gabor
 - person: tarshoy-elemer
+poster_tmdb_path: /3N5KvvZ2YDJk0xxDYfaQMuasTly.jpg
+backdrop_tmdb_path: /qcsijzNr757FJDc9mNyOYe6J6xO.jpg

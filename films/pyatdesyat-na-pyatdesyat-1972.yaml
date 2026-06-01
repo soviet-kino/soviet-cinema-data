@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4386107
   imdb: tt0314548
+  tmdb: 262452
 sources:
 - https://www.wikidata.org/wiki/Q4386107
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: osenev-vladimir-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /q66QZIybSABxDoK0TzVr2J8OH3s.jpg
+backdrop_tmdb_path: /xQg4jUiGBE1LHntavQbtWwqHtSV.jpg

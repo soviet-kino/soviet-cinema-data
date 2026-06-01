@@ -8,6 +8,7 @@ runtime_min: 173
 external_ids:
   wikidata: Q1395178
   imdb: tt0083918
+  tmdb: 259631
 sources:
 - https://www.wikidata.org/wiki/Q1395178
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: vyunsher-marianna
 - person: velts-peter
 - person: vangenkhaym-renata-fon
+poster_tmdb_path: /2USeONexycF9VxZ3yf1iActP6ro.jpg

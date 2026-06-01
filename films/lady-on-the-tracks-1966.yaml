@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q115769702
   imdb: tt0060279
   youtube: 3LPgoqFh7t8
+  tmdb: 382643
 sources:
 - https://www.wikidata.org/wiki/Q115769702
 schema_version: 1
@@ -210,3 +211,5 @@ cast:
 - person: novotny-vlastimil
 - person: svehla-jan
 - person: lobl-miroslav
+poster_tmdb_path: /Apqsg0Ilz2NdCP45KQOuBMfy9LG.jpg
+backdrop_tmdb_path: /rS9l3XXgsra2ksYXFwQFkUVVs8Y.jpg

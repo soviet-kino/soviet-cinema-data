@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4812283
   imdb: tt0055748
+  tmdb: 2234
 sources:
 - https://www.wikidata.org/wiki/Q4812283
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: khasse-khanno
 - person: domryoze-angelika
 - person: vytsnevskiy-arno
+poster_tmdb_path: /tEOa58AuOfFIsk171J8sLsevOhU.jpg

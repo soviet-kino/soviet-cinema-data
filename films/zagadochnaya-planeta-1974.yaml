@@ -8,6 +8,7 @@ runtime_min: 762
 external_ids:
   wikidata: Q131863015
   imdb: tt6270586
+  tmdb: 441230
 sources:
 - https://www.wikidata.org/wiki/Q131863015
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kataev-ilya-evgenevich
 studio:
 - ekran
+poster_tmdb_path: /Au3r4BhyNL3R9fpqeycTd9V9uRE.jpg
+backdrop_tmdb_path: /rHAHkBnLkCPF9Y3YWtzP1GbqACu.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q16379268
   imdb: tt0273710
+  tmdb: 1062959
 sources:
 - https://www.wikidata.org/wiki/Q16379268
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - vysotskiy-feliks-mikhaylovich
 studio:
 - gruziya-film
+poster_tmdb_path: /mOr9DezBoBpJ7nk5oKk9bavYFqk.jpg
+backdrop_tmdb_path: /jiMAUqiQn3yymRCEwrGGUqAJsie.jpg

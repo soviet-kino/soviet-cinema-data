@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q77961929
   imdb: tt0217790
+  tmdb: 441208
 sources:
 - https://www.wikidata.org/wiki/Q77961929
 schema_version: 1
+poster_tmdb_path: /rCoyDfGy6aYijTF0IuM0cyBOX4J.jpg
+backdrop_tmdb_path: /lRRi0dtxriEoJwCwSCgll5UFrGD.jpg

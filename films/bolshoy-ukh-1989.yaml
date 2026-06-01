@@ -8,6 +8,7 @@ runtime_min: 597
 external_ids:
   wikidata: Q4092912
   imdb: tt1796414
+  tmdb: 218556
 sources:
 - https://www.wikidata.org/wiki/Q4092912
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - gabeli-irakliy-revazovich
 studio:
 - ekran
+poster_tmdb_path: /1Y3QKEDSicfPzZHHcly9G775Is8.jpg
+backdrop_tmdb_path: /f3qbiZcNnwvnr41hQB9leYEI79k.jpg

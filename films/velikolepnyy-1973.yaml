@@ -18,6 +18,7 @@ soviet_release:
 external_ids:
   wikidata: Q2401518
   imdb: tt0070354
+  tmdb: 19562
 sources:
 - https://www.wikidata.org/wiki/Q2401518
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: flosh-sebasten
 - person: myuni-rozhe
 - person: fryuzhes-tali
+poster_tmdb_path: /eAQvH2zjT8vwq3rnQqlFIMmTZyt.jpg
+backdrop_tmdb_path: /9VIir77wPGtyVvB4Oq5t7md9DpX.jpg

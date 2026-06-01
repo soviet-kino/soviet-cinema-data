@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1659475
   imdb: tt0233919
+  tmdb: 409456
 sources:
 - https://www.wikidata.org/wiki/Q1659475
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 - person: zahn-albert
 studio:
 - defa
+poster_tmdb_path: /HEWADunVo3inxZkdhNHBf5BBHI.jpg

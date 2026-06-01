@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270700
   imdb: tt0063216
+  tmdb: 835322
 sources:
 - https://www.wikidata.org/wiki/Q15270700
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - lenfilm
 cast:
 - person: evteeva-elena-viktorovna
+poster_tmdb_path: /p54YFX8h07Mpj38KbCnYL1y5Kou.jpg

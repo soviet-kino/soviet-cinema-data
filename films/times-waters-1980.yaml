@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12905661
   imdb: tt0083306
+  tmdb: 356820
 sources:
 - https://www.wikidata.org/wiki/Q12905661
 schema_version: 1
 director:
 - gapo-branko
+poster_tmdb_path: /o0KqKySNmXTAikTKNSWpcK01ebK.jpg

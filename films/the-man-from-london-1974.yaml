@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q124428777
   imdb: tt0170269
+  tmdb: 394816
 sources:
 - https://www.wikidata.org/wiki/Q124428777
 schema_version: 1
@@ -68,3 +69,4 @@ cast:
 - person: cech-miloslav
 - person: ticha-irena
 - person: plachy-jiri
+poster_tmdb_path: /p8bO4lFNvYH4bO9bqzoWhot7bDx.jpg

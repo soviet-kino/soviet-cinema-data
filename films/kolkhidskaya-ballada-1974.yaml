@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q124313529
   imdb: tt0826564
+  tmdb: 1515054
 sources:
 - https://www.wikidata.org/wiki/Q124313529
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: bagashvili-spartak-levanovich
 - person: pirtskhalava-guram-nikolaevich
 - person: kherkheulidze-shalva-georgievich
+poster_tmdb_path: /3m4QrnomyiHKi1F9FiXwLGBiKbm.jpg
+backdrop_tmdb_path: /uM0pMSQ121iQGIpjFFJn3XPfBwC.jpg

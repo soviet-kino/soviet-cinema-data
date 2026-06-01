@@ -20,6 +20,7 @@ external_ids:
   wikidata: Q777739
   imdb: tt0070233
   youtube: 4enQp6CDiO8
+  tmdb: 20803
 sources:
 - https://www.wikidata.org/wiki/Q777739
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: seleznyova-natalya-igorevna
 - person: etush-vladimir-abramovich
 - person: filippov-sergey-nikolaevich
+poster_tmdb_path: /bSbkw1HDPRfk4w5bdajsZvBhVzr.jpg
+backdrop_tmdb_path: /z8125Gm4hadwQZOcFiZ7uor77E4.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q8874195
   imdb: tt0169406
+  tmdb: 273649
 sources:
 - https://www.wikidata.org/wiki/Q8874195
 schema_version: 1
@@ -49,3 +50,4 @@ cast:
 - person: krch-milan
 studio:
 - barrandov
+poster_tmdb_path: /arfozbia7eZk2upOc5C7VTuW9bc.jpg

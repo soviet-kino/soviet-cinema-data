@@ -8,6 +8,7 @@ runtime_min: 158
 external_ids:
   wikidata: Q2085964
   imdb: tt0058439
+  tmdb: 118487
 sources:
 - https://www.wikidata.org/wiki/Q2085964
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: patriki-dzhina
 - person: mereutse-mikhay
 - person: chyubotarasu-shtefan
+poster_tmdb_path: /pRFflpigFD9vSoPCcESjwGg4cjz.jpg
+backdrop_tmdb_path: /e9OTOWpj5d8S2x2yTJqrsE1YIxF.jpg

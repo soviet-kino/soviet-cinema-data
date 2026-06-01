@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4367638
   imdb: tt0184823
   youtube: 7RdWPQ28nzI
+  tmdb: 83435
 sources:
 - https://www.wikidata.org/wiki/Q4367638
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Кадр из фильма Подкидыш, 1939 год.jpg
+poster_tmdb_path: /vT6DuStaqPvEYIn6gmjyO2lEevT.jpg
+backdrop_tmdb_path: /gzGLHFrZ3BFY4FSEKAOMyjiXqSp.jpg

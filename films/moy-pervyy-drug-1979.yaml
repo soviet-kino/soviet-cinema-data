@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q114710661
   imdb: tt1803742
   youtube: 9azqlcnA8No
+  tmdb: 67781
 sources:
 - https://www.wikidata.org/wiki/Q114710661
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - bazelyan-yakov
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /160yGv6y40slX6dN9jDbI61VjmU.jpg

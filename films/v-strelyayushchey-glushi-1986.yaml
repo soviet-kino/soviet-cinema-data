@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101812
   imdb: tt0267077
   youtube: NfCCwNP3SsQ
+  tmdb: 508429
 sources:
 - https://www.wikidata.org/wiki/Q4101812
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: aktyor-smirnov-viktor-fyodorovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /bQSntr2B4wVuwtaoVuTVGkY9q03.jpg
+backdrop_tmdb_path: /AiHYfI6mS0ZaVeYKUgzFvvjkfG.jpg

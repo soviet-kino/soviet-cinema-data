@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q36385863
   imdb: tt0164163
+  tmdb: 385766
 sources:
 - https://www.wikidata.org/wiki/Q36385863
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - sokurov-aleksandr
 cinematographer:
 - burov-aleksandr-vasilevich
+poster_tmdb_path: /nYBR0KDWvYBMyM3W6IvqJVcXotu.jpg

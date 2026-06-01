@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q4177194
   imdb: tt8237918
+  tmdb: 533553
 sources:
 - https://www.wikidata.org/wiki/Q4177194
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: n-c-fov-qriqori
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /kOgVQzTqdmbXAvIuQg9WwhB4x7J.jpg
+backdrop_tmdb_path: /8hYoEV1IqXOCwl6ovOw3U5YYrdq.jpg

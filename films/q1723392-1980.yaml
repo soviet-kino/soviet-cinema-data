@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1723392
   imdb: tt0398147
+  tmdb: 636636
 sources:
 - https://www.wikidata.org/wiki/Q1723392
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - khaynovskiy-valter
 composer:
 - bredemayer-rayner
+poster_tmdb_path: /nOakpfaCpIK5FyUjYlyStNFbZlb.jpg

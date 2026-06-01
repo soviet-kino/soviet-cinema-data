@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18424068
   imdb: tt4162812
+  tmdb: 446979
 sources:
 - https://www.wikidata.org/wiki/Q18424068
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - khachaturyan-karen
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /36FyiH1KNlzhPwIF8OUVua92dO5.jpg
+backdrop_tmdb_path: /kLA4XM81u8Pp5cByuTPuTJvRO27.jpg

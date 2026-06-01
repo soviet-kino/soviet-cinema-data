@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q136932080
   imdb: tt0150427
+  tmdb: 159940
 sources:
 - https://www.wikidata.org/wiki/Q136932080
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: drazil-vaclav
 - person: vosykova-lida
 - person: nova-alice
+poster_tmdb_path: /lG73XNnu4KPPwDA6IBgsbU9SPMH.jpg

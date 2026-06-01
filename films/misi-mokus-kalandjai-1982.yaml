@@ -14,6 +14,8 @@ runtime_min: 80
 external_ids:
   wikidata: Q28092613
   imdb: tt0151590
+  tmdb: 423216
 sources:
 - https://www.wikidata.org/wiki/Q28092613
 schema_version: 1
+poster_tmdb_path: /rmCHNhJwAUZnUTdF7Ccb0F1WLub.jpg

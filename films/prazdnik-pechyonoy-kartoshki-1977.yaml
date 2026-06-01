@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q18635108
   imdb: tt0171653
+  tmdb: 437854
 sources:
 - https://www.wikidata.org/wiki/Q18635108
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yanovskiy-leonid-fyodorovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /bnysAgwmtdjYZ5k2uKO4AiyX5oM.jpg
+backdrop_tmdb_path: /mN8n2MFujQsWFPk2hwyJb5pWTKD.jpg

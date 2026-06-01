@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4501232
   imdb: tt0091335
   youtube: vaN3OOGCHdk
+  tmdb: 241605
 sources:
 - https://www.wikidata.org/wiki/Q4501232
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: adabashyan-aleksandr
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /o4gbQ5dxI1ufV52LRAqCa658VFZ.jpg
+backdrop_tmdb_path: /fiLOKF8o0LCgqipfdJNpBq2LgWo.jpg

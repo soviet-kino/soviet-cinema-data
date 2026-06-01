@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28465017
   imdb: tt5946218
+  tmdb: 453809
 sources:
 - https://www.wikidata.org/wiki/Q28465017
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zRQwcPdL9534o90jhtUV24rXLyY.jpg
+backdrop_tmdb_path: /lZUqRbkCB8EWLBlEoQrk4k9Dps5.jpg

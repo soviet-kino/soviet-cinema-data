@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4227944
   imdb: tt0141521
   youtube: mncZ5A4aZBk
+  tmdb: 142879
 sources:
 - https://www.wikidata.org/wiki/Q4227944
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 cast:
 - person: livanov-vasiliy
 - person: syomina-tamara-petrovna
+poster_tmdb_path: /h2PC5O5aXzKVBC8TS8wj8Co4VTL.jpg
+backdrop_tmdb_path: /qlSvCJWvDInmQwoNuzn2JOH37Lk.jpg

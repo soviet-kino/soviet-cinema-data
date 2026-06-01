@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q16220845
   imdb: tt0476193
+  tmdb: 306292
 sources:
 - https://www.wikidata.org/wiki/Q16220845
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - saakyants-robert
 studio:
 - armenfilm
+poster_tmdb_path: /kzxgx3MvWr28GRj78HRrSn0rQOa.jpg
+backdrop_tmdb_path: /5y5XqGKLZYcYa1Ts4WkSSYE6BFq.jpg

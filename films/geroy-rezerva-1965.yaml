@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1196482
   imdb: tt0058519
+  tmdb: 172314
 sources:
 - https://www.wikidata.org/wiki/Q1196482
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: dommish-peter
 - person: kherrikht-rolf
 - person: ryovekamp-verner
+poster_tmdb_path: /2sya6of9MUloxm1MnrrLRIyRjF3.jpg

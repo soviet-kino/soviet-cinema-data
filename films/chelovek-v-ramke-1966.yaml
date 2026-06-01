@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4508539
   imdb: tt0487563
+  tmdb: 90014
 sources:
 - https://www.wikidata.org/wiki/Q4508539
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - shnaper-boris
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /h5QnpVXb9AumxVwieGERDd5pVDk.jpg
+backdrop_tmdb_path: /heRy0M8So4JCx4EuANDizcjeOjr.jpg

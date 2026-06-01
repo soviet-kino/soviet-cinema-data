@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q9209401
   imdb: tt0087161
+  tmdb: 156550
 sources:
 - https://www.wikidata.org/wiki/Q9209401
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: kujawski-eugeniusz
 - person: balinskaya-khanna
 - person: kravchik-miroslav
+poster_tmdb_path: /hzBO9HK9WTKyu3Jm8j3GqbUfinY.jpg

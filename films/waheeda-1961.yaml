@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q99929828
   imdb: tt0367213
+  tmdb: 1151681
 sources:
 - https://www.wikidata.org/wiki/Q99929828
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 cast:
 - person: al-din-mariam-fakhr
 - person: zulfikar-salakh
+poster_tmdb_path: /3a81ejX9Eh9nES1CLLk4P0Zm0EO.jpg

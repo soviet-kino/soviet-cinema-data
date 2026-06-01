@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4445997
   imdb: tt5035726
   youtube: jChFyLHiWro
+  tmdb: 547676
 sources:
 - https://www.wikidata.org/wiki/Q4445997
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: giatsintova-sofya-vladimirovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /dTUitPb4jfdtWEAmVa8tr9rybxU.jpg

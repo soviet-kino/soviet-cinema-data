@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q19600135
   imdb: tt0216309
+  tmdb: 506628
 sources:
 - https://www.wikidata.org/wiki/Q19600135
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: romanova-jana
 - person: kreutzerova-ema
 - person: sipova-eva
+poster_tmdb_path: /gqun6RwMStTOewUriPlFsBn8CBh.jpg

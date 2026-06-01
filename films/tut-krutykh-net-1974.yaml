@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791180
   imdb: tt0071907
+  tmdb: 38374
 sources:
 - https://www.wikidata.org/wiki/Q11791180
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kusmerskaya-ilona
 - person: yanechek-ezhi
 poster_commons: Dobrzykowice dom Pawlaka.JPG
+poster_tmdb_path: /uKL4eeMadyxI3mu7ZEWqXDtWvZP.jpg
+backdrop_tmdb_path: /kntOvP2Di1Y5WCwf3EEEkzLqwSL.jpg

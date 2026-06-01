@@ -8,6 +8,7 @@ runtime_min: 56
 external_ids:
   wikidata: Q114679706
   imdb: tt0301383
+  tmdb: 359720
 sources:
 - https://www.wikidata.org/wiki/Q114679706
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - khayze-tomas
 cinematographer:
 - bedel-piter
+poster_tmdb_path: /58YPUqRNhFCAxUWYAR4QROMMwWV.jpg

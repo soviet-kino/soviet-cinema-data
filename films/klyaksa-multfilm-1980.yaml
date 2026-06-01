@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q4224545
   imdb: tt11714604
+  tmdb: 604818
 sources:
 - https://www.wikidata.org/wiki/Q4224545
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - gaman-ernst-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /fh30L7o3K5sF04mnacgk6IBr4Rt.jpg

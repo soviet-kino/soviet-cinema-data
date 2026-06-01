@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q12040708
   imdb: tt0174978
+  tmdb: 653768
 sources:
 - https://www.wikidata.org/wiki/Q12040708
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: tyapak-martin
 - person: nedbal-milosh
 - person: spal-jaromir
+poster_tmdb_path: /ex6dDk2Ade96PqRrZxKGfU4fe8S.jpg

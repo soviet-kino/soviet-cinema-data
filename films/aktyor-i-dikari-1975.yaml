@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7712315
   imdb: tt0071101
+  tmdb: 379118
 sources:
 - https://www.wikidata.org/wiki/Q7712315
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: danilesku-konstantin
 - person: abramovichi-trisi
 - person: petresku-karmen
+poster_tmdb_path: /7UqmdXHC3zaIyMJxToXeLZkIDgC.jpg
+backdrop_tmdb_path: /7RgkumtlOarzJWuBfxPQfcnyd9l.jpg

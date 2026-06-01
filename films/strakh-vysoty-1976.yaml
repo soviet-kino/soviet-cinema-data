@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65144331
   imdb: tt0130288
   youtube: Iyc3ykRRmV4
+  tmdb: 388538
 sources:
 - https://www.wikidata.org/wiki/Q65144331
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: reznikova-irina-vasilevna
 studio:
 - mosfilm
+poster_tmdb_path: /niAVkNfnLDA5hLuFVyQkzIaHqjU.jpg
+backdrop_tmdb_path: /7eYIxNDOTY8qbzCXTuBK0DqCqSu.jpg

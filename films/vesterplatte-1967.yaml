@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4109584
   imdb: tt0062485
+  tmdb: 207903
 sources:
 - https://www.wikidata.org/wiki/Q4109584
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: bilevskiy-bogush
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /kR67hd8RVmFIUUgDzlPT9GiuNLd.jpg
+backdrop_tmdb_path: /1z7JiPvkEKhQEoT6sqzwfWihWjY.jpg

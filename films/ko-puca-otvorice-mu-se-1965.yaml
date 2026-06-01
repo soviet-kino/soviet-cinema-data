@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12752847
   imdb: tt0184646
+  tmdb: 336302
 sources:
 - https://www.wikidata.org/wiki/Q12752847
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: kostich-plyaka-mikhaylo
 - person: chukich-vera
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /8iKlGCia4u6LeNs6oxbmk3GyT2t.jpg
+backdrop_tmdb_path: /sWaIZuzxIhB0zO5iKUiMbyYOHsR.jpg

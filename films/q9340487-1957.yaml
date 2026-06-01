@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9340487
   imdb: tt0051006
+  tmdb: 787387
 sources:
 - https://www.wikidata.org/wiki/Q9340487
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - stanislav-lenartovich
 screenwriter:
 - stanislav-lenartovich
+poster_tmdb_path: /bKAmYJ4sypMS51pivxR7YmVF1HJ.jpg

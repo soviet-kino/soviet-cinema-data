@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q27049545
   imdb: tt0305344
+  tmdb: 831545
 sources:
 - https://www.wikidata.org/wiki/Q27049545
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: akhmetov-ruslan-yusupdzhanovich
 - person: bakirov-abbas
 - person: burkhanov-shukur
+poster_tmdb_path: /9ZRC3eDNqQi4Z1NKyZy8lPQ5Jvr.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44876885
   imdb: tt0155361
+  tmdb: 1468843
 sources:
 - https://www.wikidata.org/wiki/Q44876885
 schema_version: 1
 director:
 - dzhordzhesku-zhan
+poster_tmdb_path: /su09a8YW2AUkFnVeT9OKBOsCzIS.jpg

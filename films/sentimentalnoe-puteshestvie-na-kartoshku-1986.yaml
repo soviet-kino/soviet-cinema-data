@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27049563
   imdb: tt0275666
   youtube: 0-OXYKKR_wo
+  tmdb: 542667
 sources:
 - https://www.wikidata.org/wiki/Q27049563
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: yankovskiy-filipp-olegovich
 studio:
 - lenfilm
+poster_tmdb_path: /zto8NhIWDUrT05x3GlVjjjB1NAR.jpg
+backdrop_tmdb_path: /4hBlOJIhxRFllfgguYItI0yzgbB.jpg

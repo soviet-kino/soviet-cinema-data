@@ -20,6 +20,9 @@ external_ids:
   wikidata: Q2529345
   imdb: tt0022756
   youtube: Pzki50KzRN0
+  tmdb: 616038
 sources:
 - https://www.wikidata.org/wiki/Q2529345
 schema_version: 1
+poster_tmdb_path: /dNfI9Jiv8TyYuGi3wFqVAgiIshu.jpg
+backdrop_tmdb_path: /uZOVjF5GTJe388BUPfz0VwJEaUa.jpg

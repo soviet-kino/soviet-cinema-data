@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q1482356
   imdb: tt0079189
+  tmdb: 282778
 sources:
 - https://www.wikidata.org/wiki/Q1482356
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: ulrikh-rudolf
 - person: uider-teresiya
 - person: lirk-verner
+poster_tmdb_path: /gllcDAvbgs5vj1HOrKUItjvw3Yy.jpg
+backdrop_tmdb_path: /kGb36SjVr1nQgZvjjSD432gSQV2.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q20561960
   imdb: tt0297473
+  tmdb: 254550
 sources:
 - https://www.wikidata.org/wiki/Q20561960
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - kalnynsh-imants
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /pWqq63iCnsgWELHq1Jxwz8JKYUd.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16085748
   imdb: tt0180413
+  tmdb: 503922
 sources:
 - https://www.wikidata.org/wiki/Q16085748
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: q12959542
 - person: vladan-zhivkovich
 - person: stanisic-momcilo
+poster_tmdb_path: /jssVkTlsdRmbKcD6ZWGAYqSgkN5.jpg

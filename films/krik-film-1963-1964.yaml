@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q7728299
   imdb: tt0122574
   youtube: QPL6SoxnjrY
+  tmdb: 115243
 sources:
 - https://www.wikidata.org/wiki/Q7728299
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: ossei-tutu
 studio:
 - barrandov
+poster_tmdb_path: /tMgK4EuYvJM3B0BRB8y6N5xs1cq.jpg
+backdrop_tmdb_path: /id0gCbEij0NItwKpoEhL2TR0KT6.jpg

@@ -8,6 +8,7 @@ runtime_min: 32
 external_ids:
   wikidata: Q4279589
   imdb: tt1619850
+  tmdb: 403236
 sources:
 - https://www.wikidata.org/wiki/Q4279589
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: krymov-panteleymon-aleksandrovich
 studio:
 - lenfilm
+poster_tmdb_path: /nYvw6DfL91wkOiIvHTrpB4X39Mu.jpg
+backdrop_tmdb_path: /uMt7bCXX9AHSvQvCjeArOejPNd5.jpg

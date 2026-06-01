@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4660696
   imdb: tt0072701
+  tmdb: 259468
 sources:
 - https://www.wikidata.org/wiki/Q4660696
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: kepinski-marek
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /oCjUhgvOBl4zg4JRDSGx4r3XVhR.jpg
+backdrop_tmdb_path: /rOCqi4Eo9tl0zWgukbd0T7euRHz.jpg

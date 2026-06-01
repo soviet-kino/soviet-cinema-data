@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q925401
   imdb: tt0064825
+  tmdb: 198669
 sources:
 - https://www.wikidata.org/wiki/Q925401
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: kholts-vitold
 studio:
 - zespo-y-filmowe
+poster_tmdb_path: /3PHJj56FnuMvhTg0L1dAMUFqwCC.jpg
+backdrop_tmdb_path: /bGreAeXgzRSqNnbclynL6spZorB.jpg

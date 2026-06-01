@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97291433
   imdb: tt5447734
   youtube: T1FOdv-sXT0
+  tmdb: 524507
 sources:
 - https://www.wikidata.org/wiki/Q97291433
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 - muratbekov-sain
 studio:
 - kazakhfilm
+poster_tmdb_path: /ofoFy3FRjJiiJ7tXRTp8mFBCo1s.jpg

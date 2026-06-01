@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4339601
   imdb: tt0170345
+  tmdb: 535956
 sources:
 - https://www.wikidata.org/wiki/Q4339601
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - solovyov-sedoy-vasiliy-pavlovich
 studio:
 - lenfilm
+poster_tmdb_path: /sRv1LAP8BpSQ5B5rmgrZWvqjZvp.jpg

@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q7141518
   imdb: tt0089778
+  tmdb: 222897
 sources:
 - https://www.wikidata.org/wiki/Q7141518
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: bleonts-klaudiu
 - person: nazare-ecaterina
+poster_tmdb_path: /bBrFwKjeJ7soRGjBtD8PSiU13OV.jpg
+backdrop_tmdb_path: /6EeXywW38uXQBUPLNALeCVoLScV.jpg

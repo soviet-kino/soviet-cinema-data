@@ -8,6 +8,7 @@ runtime_min: 161
 external_ids:
   wikidata: Q4053871
   imdb: tt0147805
+  tmdb: 211460
 sources:
 - https://www.wikidata.org/wiki/Q4053871
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: sokolov-boris
 studio:
 - mosfilm
+poster_tmdb_path: /vNpJwN8SqOy6JuV1DG66vf1Ldei.jpg
+backdrop_tmdb_path: /clJOTSn3VbhTXcvfQS7na18GqTj.jpg

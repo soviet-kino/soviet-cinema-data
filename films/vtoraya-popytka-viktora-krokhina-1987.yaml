@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4127946
   imdb: tt0076900
+  tmdb: 638159
 sources:
 - https://www.wikidata.org/wiki/Q4127946
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: rybnikov-nikolay-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /uwD8mZxGn6Lu7CJ6yIlOKFTZjWx.jpg
+backdrop_tmdb_path: /xKvJU9VWitU6cJ9V6GZVuFWZzpr.jpg

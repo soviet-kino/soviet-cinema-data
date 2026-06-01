@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1953944
   imdb: tt0060584
   youtube: P2_sjEURwgo
+  tmdb: 20878
 sources:
 - https://www.wikidata.org/wiki/Q1953944
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: dovlatov-leonid-arkadevich
 - person: mkrtchyan-donara
 - person: repnin-pyotr-petrovich
+poster_tmdb_path: /dUqunn6LphHIjU5UiECLVfDRGPn.jpg
+backdrop_tmdb_path: /uAvOQFEUYdYEM9J29EKIywRU9kB.jpg

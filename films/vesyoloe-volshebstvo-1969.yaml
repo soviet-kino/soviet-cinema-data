@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4109846
   imdb: tt0283582
+  tmdb: 549262
 sources:
 - https://www.wikidata.org/wiki/Q4109846
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - ragozin-lev
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /3nge9iKKMGZzRksVWZgNqgz6Cvb.jpg
+backdrop_tmdb_path: /6qDX82wPJnFZb9nW9HyirpOqUCW.jpg

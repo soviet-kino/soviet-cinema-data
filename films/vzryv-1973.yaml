@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q2512509
   imdb: tt0123829
+  tmdb: 95865
 sources:
 - https://www.wikidata.org/wiki/Q2512509
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: motoy-dzhordzhe
 - person: iekel-tatyana
 - person: dimitriu-toma
+poster_tmdb_path: /el3TcxYp6JK8PzSt4Ye5SWA0P2h.jpg
+backdrop_tmdb_path: /6CobiSKTxzdznqkjH5MxU1Nwu29.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4195628
   imdb: tt0036963
+  tmdb: 437750
 sources:
 - https://www.wikidata.org/wiki/Q4195628
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: garin-erast-pavlovich
 studio:
 - mosfilm
+poster_tmdb_path: /c0Qo8PhKd6SzzNumQ8a7JRX78Ph.jpg
+backdrop_tmdb_path: /36KW2jeBl9tdCHnkYIDWZgI1P9c.jpg

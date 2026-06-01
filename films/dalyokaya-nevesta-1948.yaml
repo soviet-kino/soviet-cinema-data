@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q61086358
   imdb: tt0040264
   youtube: evm73zrC7g0
+  tmdb: 1147267
 sources:
 - https://www.wikidata.org/wiki/Q61086358
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - bulinskiy-andrey-aleksandrovich
 studio:
 - turkmenfilm
+poster_tmdb_path: /9szbJAbuf58Pq3vKLgSnEWISDFD.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q151177
   imdb: tt0015361
   youtube: 74ke_-BnkvE
+  tmdb: 44967
 sources:
 - https://www.wikidata.org/wiki/Q151177
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: aleksandrov-grigoriy-vasilevich
 - person: shtraukh-maksim-maksimovich
 poster_commons: Sergei Eisensteins 'Streik'. Filmplakat von Mihály Bíró.jpg
+poster_tmdb_path: /rX9irxP5sVYxYFSa1MymRRNWaj8.jpg
+backdrop_tmdb_path: /bMvuciIEQKzgz0Xt7cwm2oR3nVR.jpg

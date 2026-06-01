@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q21646413
   imdb: tt0231405
+  tmdb: 409524
 sources:
 - https://www.wikidata.org/wiki/Q21646413
 schema_version: 1
@@ -55,3 +56,4 @@ cast:
 - person: hradecka-helena
 - person: vildova-marie
 - person: truchly-vasil
+poster_tmdb_path: /31i0mDDKBZWniAGEP0SiXXa9c2L.jpg

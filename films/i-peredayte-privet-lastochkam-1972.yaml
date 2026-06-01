@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q28649273
   imdb: tt0122844
+  tmdb: 208531
 sources:
 - https://www.wikidata.org/wiki/Q28649273
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: lenz-emil
 - person: mottl-alois
 - person: rott-jan
+poster_tmdb_path: /pDyO4cblACmAr4knleDwfwSxpym.jpg
+backdrop_tmdb_path: /hgU4ZUNt0hjQPSFVjYMHSM7A0wk.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4177197
   imdb: tt0169872
   youtube: 1846p_88x9Y
+  tmdb: 425105
 sources:
 - https://www.wikidata.org/wiki/Q4177197
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: lyubshin-stanislav-andreevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /czVe6dNFKm2SszJDb4YlZv1zrJL.jpg

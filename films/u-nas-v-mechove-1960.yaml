@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q7876269
   imdb: tt0054421
+  tmdb: 56407
 sources:
 - https://www.wikidata.org/wiki/Q7876269
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: krizek-bohumil
 - person: fabianova-irena
 - person: novakova-ladislava
+poster_tmdb_path: /1giMFPe1VEiGG5M4Ep0ofy3GH5o.jpg

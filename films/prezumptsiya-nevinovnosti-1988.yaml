@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q4376857
   imdb: tt0095899
+  tmdb: 537572
 sources:
 - https://www.wikidata.org/wiki/Q4376857
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: funtikov-vasiliy-vladimirovich
 studio:
 - lenfilm
+poster_tmdb_path: /13NgLBQsydVuLj56tyMwcHi3ohv.jpg
+backdrop_tmdb_path: /7k7a4YEtwWdE2wibfitU0ljlVOa.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q29581002
   imdb: tt0141975
+  tmdb: 904052
 sources:
 - https://www.wikidata.org/wiki/Q29581002
 schema_version: 1
 director:
 - kryange-sherban
+poster_tmdb_path: /w6JUK4o0Vm76PG0iOMUMXaLzoxo.jpg

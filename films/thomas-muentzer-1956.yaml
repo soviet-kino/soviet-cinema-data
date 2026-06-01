@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q2426236
   imdb: tt0230875
+  tmdb: 279854
 sources:
 - https://www.wikidata.org/wiki/Q2426236
 schema_version: 1
@@ -74,3 +75,5 @@ cast:
 - person: renn-rudiger
 studio:
 - defa
+poster_tmdb_path: /t4qkBRukbV8wwEMjvkVJ4CJxZv7.jpg
+backdrop_tmdb_path: /m4z6hUSXhyCGfZ176OvW6mppXPQ.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q20435232
   imdb: tt0055750
+  tmdb: 318055
 sources:
 - https://www.wikidata.org/wiki/Q20435232
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - secheni-ferents
 composer:
 - mikhay-andrash
+poster_tmdb_path: /94dfmaWY3qFp3ko3903tOUwVNaV.jpg

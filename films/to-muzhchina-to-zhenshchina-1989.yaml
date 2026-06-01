@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q84158672
   imdb: tt5755862
   youtube: d3SNQB9q4JI
+  tmdb: 1454974
 sources:
 - https://www.wikidata.org/wiki/Q84158672
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: timofeeva-tamara
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /lXWqAehKbJ1fFT3OursmqCvEQSX.jpg

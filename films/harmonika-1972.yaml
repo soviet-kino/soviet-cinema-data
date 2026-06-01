@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187012
   imdb: tt0339104
+  tmdb: 514250
 sources:
 - https://www.wikidata.org/wiki/Q31187012
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bulyan-khelena
 - person: dzhuro-utzhesanovich
 - person: rupchich-mile
+poster_tmdb_path: /ju00QElbgjkstQZeIeIJL6kYBzx.jpg

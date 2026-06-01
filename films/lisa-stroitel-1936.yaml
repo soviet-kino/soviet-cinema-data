@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16671509
   imdb: tt8372518
+  tmdb: 1303591
 sources:
 - https://www.wikidata.org/wiki/Q16671509
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - dvinskiy-emmanuil-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3M1jcpgCdpy8cEiZk0y7AvgIs08.jpg

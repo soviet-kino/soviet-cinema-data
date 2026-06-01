@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25461628
   imdb: tt0200988
+  tmdb: 1642984
 sources:
 - https://www.wikidata.org/wiki/Q25461628
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: zegarats-dushitsa
 - person: shtrlich-milan
 - person: cheyvan-adem
+poster_tmdb_path: /4Lw4IvGsQBuCOqdVWE5kqMlFftG.jpg

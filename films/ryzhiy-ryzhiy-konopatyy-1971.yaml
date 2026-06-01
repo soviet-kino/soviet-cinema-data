@@ -8,6 +8,7 @@ runtime_min: 214
 external_ids:
   wikidata: Q13224613
   imdb: tt1075390
+  tmdb: 419927
 sources:
 - https://www.wikidata.org/wiki/Q13224613
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - botyarov-evgeniy-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /u4gRHZmVgDWX40eE7zBotCxQ1J2.jpg
+backdrop_tmdb_path: /l8o7hAIvrZ32LaQ8KkbdF5c7Bth.jpg

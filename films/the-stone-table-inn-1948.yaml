@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q61054289
   imdb: tt0239051
+  tmdb: 320694
 sources:
 - https://www.wikidata.org/wiki/Q61054289
 schema_version: 1
@@ -58,3 +59,4 @@ cast:
 - person: marek-frantisek
 - person: q131784486
 - person: novak-stanislav
+poster_tmdb_path: /4W7nyhmpLMaJ03h134Cna5UiVP2.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4289677
   imdb: tt0230515
   youtube: FgPTVl_5UqE
+  tmdb: 921273
 sources:
 - https://www.wikidata.org/wiki/Q4289677
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nilskaya-lyudmila-valeryanovna
 studio:
 - ekran
+poster_tmdb_path: /AcxOu7N3CwbRQvE5ZBWJ68ibXjg.jpg
+backdrop_tmdb_path: /kOrl6WQ7bQRTfgRtPwINItDvgBd.jpg

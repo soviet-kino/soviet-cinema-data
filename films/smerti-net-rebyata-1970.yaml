@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q52574861
   imdb: tt0376197
+  tmdb: 640826
 sources:
 - https://www.wikidata.org/wiki/Q52574861
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - turkmenfilm
+poster_tmdb_path: /bfMoZjq7jvUXs99gE5oXGd5b7KC.jpg

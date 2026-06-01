@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4292280
   imdb: tt0314365
   youtube: H_hrMFsc_zg
+  tmdb: 64395
 sources:
 - https://www.wikidata.org/wiki/Q4292280
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 cast:
 - person: zhzhyonov-georgiy-stepanovich
+poster_tmdb_path: /1jdEQYCNgbarTNPHNIR34sOKi6p.jpg
+backdrop_tmdb_path: /Alug46l4zSQY24jEaPwtIiiyeqI.jpg

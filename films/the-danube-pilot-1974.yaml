@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q47537767
   imdb: tt0071447
+  tmdb: 41191
 sources:
 - https://www.wikidata.org/wiki/Q47537767
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: buytor-ishtvan
 - person: kallai-ferents
 - person: kovacs-janos
+poster_tmdb_path: /hnkE8LGyRpGjYzek2CXoNAYrztv.jpg

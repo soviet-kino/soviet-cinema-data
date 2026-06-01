@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20508179
   imdb: tt0421018
   youtube: ulfX-7tvysw
+  tmdb: 532135
 sources:
 - https://www.wikidata.org/wiki/Q20508179
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: kharchenko-sergey-vasilevich
 studio:
 - armenfilm
+poster_tmdb_path: /ng6u49Dh6nQq9PDb0jVJSgDGuGs.jpg

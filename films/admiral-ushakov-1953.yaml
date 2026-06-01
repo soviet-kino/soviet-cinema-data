@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4057877
   imdb: tt0045473
   youtube: DOIDQBSuCXA
+  tmdb: 207238
 sources:
 - https://www.wikidata.org/wiki/Q4057877
 schema_version: 1
@@ -59,3 +60,5 @@ cast:
 - person: frolova-galina-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /n90vG5W1ac93mQwtMIByQUEuuL5.jpg
+backdrop_tmdb_path: /gy6opYZdV9Cv5AlZPLjlA0nuVtT.jpg

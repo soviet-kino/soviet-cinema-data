@@ -8,6 +8,7 @@ runtime_min: 37
 external_ids:
   wikidata: Q23564854
   imdb: tt0385097
+  tmdb: 410642
 sources:
 - https://www.wikidata.org/wiki/Q23564854
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - bergman-verner
 composer:
 - zasse-karl-ernst
+poster_tmdb_path: /625F0PdPHpCLV10QcN1dpOlSDIq.jpg

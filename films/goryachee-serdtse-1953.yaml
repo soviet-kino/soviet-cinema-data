@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27957972
   imdb: tt0045833
+  tmdb: 383667
 sources:
 - https://www.wikidata.org/wiki/Q27957972
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: michurin-gennadiy-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /b44GSjtatzd2hlvxUgsR4AiBao1.jpg
+backdrop_tmdb_path: /t7qBqthJAsjdKfH7OMqhOSYH2GW.jpg

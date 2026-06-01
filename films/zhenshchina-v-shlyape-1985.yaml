@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4356256
   imdb: tt0089432
+  tmdb: 76712
 sources:
 - https://www.wikidata.org/wiki/Q4356256
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: mikhal-yushchakevich
 - person: grombka-mechislav
 - person: wawrzecki-pawe
+poster_tmdb_path: /vqn8rjWtV1Hohr71VGsOfrCukIN.jpg
+backdrop_tmdb_path: /gsgQMl1sjVrey24anfcDqe0Z9Xq.jpg

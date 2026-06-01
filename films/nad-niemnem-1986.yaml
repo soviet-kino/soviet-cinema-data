@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11788716
   imdb: tt0093595
+  tmdb: 176491
 sources:
 - https://www.wikidata.org/wiki/Q11788716
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: wa-aszek-eugeniusz
 - person: pavlak-ivona
 - person: sholl-magdalena
+poster_tmdb_path: /gyI0qYDLP8buWaHpVF0A2Gr0LbX.jpg
+backdrop_tmdb_path: /6ea7oXTlXnfxeyU0tv6NwWg3R5Z.jpg

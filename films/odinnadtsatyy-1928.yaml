@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q88220751
   imdb: tt0019225
+  tmdb: 153845
 sources:
 - https://www.wikidata.org/wiki/Q88220751
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - vertov-dziga
 cinematographer:
 - kaufman-mikhail-abramovich
+poster_tmdb_path: /nPhguHwpZrU3MIKN5a4YiH73yTH.jpg
+backdrop_tmdb_path: /9fpqKxai7nWk3jCI29osC9ldtn7.jpg

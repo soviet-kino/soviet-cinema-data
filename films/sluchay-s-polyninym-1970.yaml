@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424096
   imdb: tt0066386
   youtube: Ooxkt_qTgdk
+  tmdb: 320047
 sources:
 - https://www.wikidata.org/wiki/Q4424096
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: efremov-oleg-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /cwBwAVDaTy6hhzzWb1z9wCEjlsW.jpg
+backdrop_tmdb_path: /qyPAIGllGLhZgWEP7ZDT22sipM6.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q12020520
   imdb: tt0074652
+  tmdb: 80094
 sources:
 - https://www.wikidata.org/wiki/Q12020520
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 studio:
 - barrandov
 - kratky-film-praha
+poster_tmdb_path: /2ITr17lH8Cl9Y1G7RJwe8Js8syz.jpg
+backdrop_tmdb_path: /tr8araiwuZbsBVfgI60kPkFLd8r.jpg

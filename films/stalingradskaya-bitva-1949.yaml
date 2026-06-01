@@ -8,6 +8,7 @@ runtime_min: 174
 external_ids:
   wikidata: Q4439207
   imdb: tt0041916
+  tmdb: 167884
 sources:
 - https://www.wikidata.org/wiki/Q4439207
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Tadeusz Trepkowski Bitwa Stalingradzka.jpg
+poster_tmdb_path: /vh5OsZ1ls10fGgsHbeUdJWL8tbR.jpg
+backdrop_tmdb_path: /g6K97LEDb7B2IH92FPp7thU9OQO.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q21504152
   imdb: tt0087603
+  tmdb: 191855
 sources:
 - https://www.wikidata.org/wiki/Q21504152
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - lehmann-christian
 composer:
 - bohm-rainer
+poster_tmdb_path: /yt8DOjgm54hkn6Q7SvQiSUdxGQJ.jpg
+backdrop_tmdb_path: /nnQdoJyMpD2vgP3V6sm3d97busO.jpg

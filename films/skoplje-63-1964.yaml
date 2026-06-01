@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q7536298
   imdb: tt0326165
+  tmdb: 341198
 sources:
 - https://www.wikidata.org/wiki/Q7536298
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bulayich-velko
 studio:
 - yadran-film
+poster_tmdb_path: /fGLH0UC6G2uOXyZLjydFDcsbuwC.jpg

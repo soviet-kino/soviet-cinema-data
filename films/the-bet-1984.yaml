@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q18547340
   imdb: tt0244161
+  tmdb: 265029
 sources:
 - https://www.wikidata.org/wiki/Q18547340
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: mirea-virginia
 - person: gheorghe-radu
 - person: voychu-yorzh
+poster_tmdb_path: /grw6YdICGqMvLx3Q438tPGxYWbd.jpg

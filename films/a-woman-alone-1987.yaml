@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740515
   imdb: tt0082625
+  tmdb: 42983
 sources:
 - https://www.wikidata.org/wiki/Q11740515
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: karpinskiy-machey
 - person: khvalibog-mariya
 - person: koz-owski-jerzy
+poster_tmdb_path: /glUZ8nlsL1rKU8q81sVGSVprpIi.jpg
+backdrop_tmdb_path: /fBE8jN0CuG3TgX4kgpDcXtZwemb.jpg

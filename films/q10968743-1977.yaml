@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q10968743
   imdb: tt0351785
+  tmdb: 462116
 sources:
 - https://www.wikidata.org/wiki/Q10968743
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - pecani-spartak
 screenwriter:
 - lako-teodor
+poster_tmdb_path: /zkYs3W9O8bjVlvAe1MpO4ZfjNiW.jpg
+backdrop_tmdb_path: /461PCdLrxJWWVvlhNUtBMSX8oPB.jpg

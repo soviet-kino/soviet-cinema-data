@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q1485448
   imdb: tt0159229
+  tmdb: 195733
 sources:
 - https://www.wikidata.org/wiki/Q1485448
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: basti-layosh
 - person: mikhayfi-bela
 poster_commons: Básti Lajos és Muráti Lili (120-as tempó, 1937).jpg
+poster_tmdb_path: /89QBb61rZg6ZhsxdrS2rL6IMHb0.jpg

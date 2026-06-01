@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4074558
   imdb: tt0078817
+  tmdb: 617931
 sources:
 - https://www.wikidata.org/wiki/Q4074558
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - ekran
 cast:
 - person: vladimirov-boris-pavlovich
+poster_tmdb_path: /tOFYVSbhmh7QV2wy3eCrWEjA8qk.jpg
+backdrop_tmdb_path: /4Y5kWw64U1AvJeJMQfOnJ98c7HC.jpg

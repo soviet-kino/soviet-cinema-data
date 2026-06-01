@@ -7,6 +7,9 @@ country:
 external_ids:
   wikidata: Q7624670
   imdb: tt0061724
+  tmdb: 269259
 sources:
 - https://www.wikidata.org/wiki/Q7624670
 schema_version: 1
+poster_tmdb_path: /ettUIsrMmX5b6N9IS96dt8JI0vg.jpg
+backdrop_tmdb_path: /amiDovgfyNocllqNyXbjJSGcsw0.jpg

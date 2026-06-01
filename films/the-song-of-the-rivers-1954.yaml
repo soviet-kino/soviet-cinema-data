@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q1169655
   imdb: tt0047177
+  tmdb: 272375
 sources:
 - https://www.wikidata.org/wiki/Q1169655
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - vsemirnaya-federatsiya-profsoyuzov
 - defa
+poster_tmdb_path: /fv3l01wX9UE7PbwQeFAElnc5KKm.jpg
+backdrop_tmdb_path: /rxT3s43Gn40UYMdvb85MRL3mESx.jpg

@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q4101756
   imdb: tt0267075
+  tmdb: 895350
 sources:
 - https://www.wikidata.org/wiki/Q4101756
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: romanov-ernst-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /inwKNy3iI7E1IVp8rHxeXxF3aPE.jpg

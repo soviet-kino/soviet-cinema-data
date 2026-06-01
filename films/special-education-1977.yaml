@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q7574541
   imdb: tt0076744
+  tmdb: 265686
 sources:
 - https://www.wikidata.org/wiki/Q7574541
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: tankoshich-ratko
 - person: vladan-zhivkovich
 - person: blaskovic-mirjana
+poster_tmdb_path: /tUHmN9DJaMyfYdyxKXmo3GxxWil.jpg
+backdrop_tmdb_path: /9TxOcgxS7xRV5DQrFEBUBB1DHJb.jpg

@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q1197391
   imdb: tt0234869
+  tmdb: 281362
 sources:
 - https://www.wikidata.org/wiki/Q1197391
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: myunkh-irma
 - person: garbe-albert
 - person: kherden-peter
+poster_tmdb_path: /bNo93VsjzRfPnsX4duSoeRlXaTs.jpg
+backdrop_tmdb_path: /9mhNnoC3XpYTNtN3BrzQWrdwv3q.jpg

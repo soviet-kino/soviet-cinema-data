@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q116864917
   imdb: tt0045951
+  tmdb: 804417
 sources:
 - https://www.wikidata.org/wiki/Q116864917
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - svechnikov-anatoliy-grigorevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /qqSahvL9wStFF0jwOobwtlCX7Ue.jpg
+backdrop_tmdb_path: /3wpUBbhtNTAypzWBEVwtGcch3c5.jpg

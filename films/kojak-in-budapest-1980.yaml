@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q22814380
   imdb: tt0081006
+  tmdb: 197900
 sources:
 - https://www.wikidata.org/wiki/Q22814380
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: estergayosh-tsetsiliya
 - person: gobbi-khilda
 - person: inke-laslo
+poster_tmdb_path: /cvgU4ZZNPlBqKhuTu335tYZgVUj.jpg
+backdrop_tmdb_path: /f5Qq2zoao6YAQpaQX81xcXdeXX.jpg

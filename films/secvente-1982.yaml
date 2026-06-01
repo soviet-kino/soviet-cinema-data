@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q12740607
   imdb: tt0130246
+  tmdb: 114202
 sources:
 - https://www.wikidata.org/wiki/Q12740607
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: paslaru-dragos
 - person: barton-dzheo
 - person: besoiu-emilia
+poster_tmdb_path: /eGpo9jmGjNKpaknbFe3Sbh1GQWe.jpg
+backdrop_tmdb_path: /6SAjlKvphKaKZgDHMG2FX8ZYJdy.jpg

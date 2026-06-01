@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4259248
   imdb: tt0091399
+  tmdb: 895371
 sources:
 - https://www.wikidata.org/wiki/Q4259248
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: burlyaev-nikolai
 studio:
 - mosfilm
+poster_tmdb_path: /9MyFcsZLW8Lhh506Zt5yYX31t9x.jpg

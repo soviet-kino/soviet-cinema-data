@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q247713
   imdb: tt0167482
   youtube: y_Oy9MHrEMI
+  tmdb: 20898
 sources:
 - https://www.wikidata.org/wiki/Q247713
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: millyar-georgiy-frantsevich
 - person: bystrov-boris-evgenevich
 - person: chogovadze-dodo
+poster_tmdb_path: /2Si0ysp9fSfEGxjtoMruEAl6T6z.jpg
+backdrop_tmdb_path: /aThKgTa6OKRXVHShb72u3nxygDo.jpg

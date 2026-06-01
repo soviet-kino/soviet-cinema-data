@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4189413
   imdb: tt0131660
   youtube: DEFpMjmCj3Q
+  tmdb: 613278
 sources:
 - https://www.wikidata.org/wiki/Q4189413
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - eshpay-andrey
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mkaHaWFzEgEcd2j5r0gltWwJSSX.jpg

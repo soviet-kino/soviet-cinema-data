@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5274401
   imdb: tt0055086
+  tmdb: 441018
 sources:
 - https://www.wikidata.org/wiki/Q5274401
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - klagemann-oygen
 cast:
 - person: hoffmann-gabriele
+poster_tmdb_path: /tYUhBN5z0GphK4ILUon8EUCIQad.jpg

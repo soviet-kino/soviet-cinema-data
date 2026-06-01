@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12726496
   imdb: tt0150187
+  tmdb: 315928
 sources:
 - https://www.wikidata.org/wiki/Q12726496
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: maresh-teodora
 - person: miller-konstantin
 - person: duban-andrei
+poster_tmdb_path: /5TtZbw1atGNSlTyngRScfqKYeRz.jpg
+backdrop_tmdb_path: /5eGVSjtEe1zM1bM9YX13vm20q2n.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4156428
   imdb: tt0061566
+  tmdb: 409200
 sources:
 - https://www.wikidata.org/wiki/Q4156428
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - klebanov-igor-semyonovich
 studio:
 - vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova
+poster_tmdb_path: /Agxv4GmY4OLKSkquHdFFQvzJl3A.jpg

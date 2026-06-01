@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11740512
   imdb: tt0079410
+  tmdb: 475937
 sources:
 - https://www.wikidata.org/wiki/Q11740512
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - tzhinski-voytsekh
 cast:
 - person: labonarska-khalina
+poster_tmdb_path: /wtxdZQ1tDgPvoznUbqxkqkY8VDG.jpg

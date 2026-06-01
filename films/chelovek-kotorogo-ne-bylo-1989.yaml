@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19999802
   imdb: tt0097578
+  tmdb: 388510
 sources:
 - https://www.wikidata.org/wiki/Q19999802
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - simm-peeter
 screenwriter:
 - raudam-toomas
+poster_tmdb_path: /muOB5BHpGafdB2E2862gzqd534W.jpg
+backdrop_tmdb_path: /y4OD8vChBjhxnX12X0VFSgUafhX.jpg

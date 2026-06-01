@@ -8,6 +8,7 @@ runtime_min: 41
 external_ids:
   wikidata: Q28131290
   imdb: tt0893606
+  tmdb: 368820
 sources:
 - https://www.wikidata.org/wiki/Q28131290
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: musil-mirko
 - person: q101080945
 - person: q126903578
+poster_tmdb_path: /ziRBKXFFKaqiSA4kj6eOGruqeRx.jpg
+backdrop_tmdb_path: /ongmUViaCBoYEehmyv0D8OOTRIZ.jpg

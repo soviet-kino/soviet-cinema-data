@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q115515362
   imdb: tt0065548
+  tmdb: 812556
 sources:
 - https://www.wikidata.org/wiki/Q115515362
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - vildanov-rumil-dzhiangirovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /c8YXnY1yzm4yhb38XD4q2AjvOLX.jpg

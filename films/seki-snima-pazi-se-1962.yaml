@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3510504
   imdb: tt0194346
+  tmdb: 265555
 sources:
 - https://www.wikidata.org/wiki/Q3510504
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 cast:
 - person: lola-novakovich
 - person: shekularats-dragoslav
+poster_tmdb_path: /mMwtdNzJpd35xVV49XAw5RyMsLI.jpg

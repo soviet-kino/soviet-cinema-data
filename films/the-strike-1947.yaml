@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q522300
   imdb: tt0130261
+  tmdb: 204721
 sources:
 - https://www.wikidata.org/wiki/Q522300
 schema_version: 1
@@ -57,3 +58,5 @@ cast:
 - person: houdkova-anna
 studio:
 - q130343288
+poster_tmdb_path: /oTDhVldCvXc3RAB60Lmea7eO3SM.jpg
+backdrop_tmdb_path: /sem6cKOeVLcslTVXO5d7J3zivEo.jpg

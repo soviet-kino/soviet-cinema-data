@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816742
   imdb: tt0349759
+  tmdb: 501501
 sources:
 - https://www.wikidata.org/wiki/Q11816742
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - khakani-khisen
 composer:
 - krajka-agim
+poster_tmdb_path: /Z8ZUktsww0oKNLvdX6Ho3wdtao.jpg
+backdrop_tmdb_path: /pc01hSkIPodJ4TGrTWskdHhK3y4.jpg

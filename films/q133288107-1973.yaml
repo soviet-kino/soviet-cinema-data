@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q133288107
   imdb: tt0402116
+  tmdb: 818287
 sources:
 - https://www.wikidata.org/wiki/Q133288107
 schema_version: 1
 director:
 - zhurzh-eva
+poster_tmdb_path: /25ZBeqncGbLerlrR8PTmZwIbFHi.jpg
+backdrop_tmdb_path: /6ZuVgi5A8dTj8HpaU1IZWPgkXCF.jpg

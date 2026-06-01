@@ -8,6 +8,7 @@ runtime_min: 21
 external_ids:
   wikidata: Q38507091
   imdb: tt6852034
+  tmdb: 758614
 sources:
 - https://www.wikidata.org/wiki/Q38507091
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - yanevski-slavko
 cast:
 - person: kyortoshev-kiril
+poster_tmdb_path: /clPyg5rpfWQDkzsRat5KgV4gcO3.jpg

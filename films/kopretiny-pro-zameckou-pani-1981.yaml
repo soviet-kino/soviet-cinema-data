@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12030193
   imdb: tt0184650
+  tmdb: 347687
 sources:
 - https://www.wikidata.org/wiki/Q12030193
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: willertova-ilona
 studio:
 - kinostudiya-gotvaldova
+poster_tmdb_path: /dqqahtVJf9T17GXpfJkT5U5shRZ.jpg

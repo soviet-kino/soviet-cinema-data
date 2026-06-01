@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270535
   imdb: tt2602136
   youtube: eTBoRyfMzd0
+  tmdb: 441207
 sources:
 - https://www.wikidata.org/wiki/Q15270535
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - gaman-ernst-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /9TtI9ll3NUyaAx4ZXuDVq69Ebc0.jpg
+backdrop_tmdb_path: /wbgO731ffoCm9bYlijAFw0v2FrP.jpg

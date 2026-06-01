@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4213221
   imdb: tt0816547
+  tmdb: 409803
 sources:
 - https://www.wikidata.org/wiki/Q4213221
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - tomin-yuriy-gennadevich
 studio:
 - mosfilm
+poster_tmdb_path: /30V4zfhJwnFEV9GjF71aDP27cKk.jpg

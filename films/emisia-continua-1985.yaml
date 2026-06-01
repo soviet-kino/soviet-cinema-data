@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q42908809
   imdb: tt0128183
+  tmdb: 500529
 sources:
 - https://www.wikidata.org/wiki/Q42908809
 schema_version: 1
 director:
 - tenase-dinu
+poster_tmdb_path: /nB9bgJPzzCFI56mae2zDKAxXNjp.jpg

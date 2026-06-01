@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184363
   imdb: tt1461222
+  tmdb: 1368840
 sources:
 - https://www.wikidata.org/wiki/Q31184363
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: tsrnobrnya-mladen
 - person: sekelez-marija
 - person: toryanach-zvonimir
+poster_tmdb_path: /2bWxmp70hE2dNv0w6nv1N7jVvPA.jpg

@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q6811174
   imdb: tt0130358
+  tmdb: 283864
 sources:
 - https://www.wikidata.org/wiki/Q6811174
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - vasilevskaya-vanda-lvovna
 composer:
 - kon-henech
+poster_tmdb_path: /aRFmIirCTxfC8WZimxKYiRBnXmL.jpg
+backdrop_tmdb_path: /ocvCDdMt7WR5sTauBht0prDGrwG.jpg

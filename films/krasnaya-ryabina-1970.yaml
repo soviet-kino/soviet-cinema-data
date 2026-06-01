@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11721127
   imdb: tt0065914
+  tmdb: 157681
 sources:
 - https://www.wikidata.org/wiki/Q11721127
 schema_version: 1
@@ -38,3 +39,4 @@ cast:
 - person: antkovyak-andzhey
 - person: wa-aszek-eugeniusz
 - person: janowski-mieczys-aw
+poster_tmdb_path: /la58Qo9qrnD04Rw7NL7l2f9dJmR.jpg

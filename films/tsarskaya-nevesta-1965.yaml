@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4503243
   imdb: tt0061126
+  tmdb: 207237
 sources:
 - https://www.wikidata.org/wiki/Q4503243
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: rudnaya-natalya-vladimirovna
 - person: timofeev-nikolay-dmitrievich
 - person: shevtsov-georgiy-lvovich
+poster_tmdb_path: /5authlM9HiaEmemATKfWB96RsRZ.jpg

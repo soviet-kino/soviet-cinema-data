@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q12754478
   imdb: tt0082641
+  tmdb: 283782
 sources:
 - https://www.wikidata.org/wiki/Q12754478
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: puzich-milan
 - person: vladan-zhivkovich
 - person: bjelica-gordana
+poster_tmdb_path: /w5qUSJNneCaQlDqeyTsNT6QdKaq.jpg
+backdrop_tmdb_path: /aCVPqkwx7et80IFqba1pt0n1rJK.jpg

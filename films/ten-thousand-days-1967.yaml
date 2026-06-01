@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q633836
   imdb: tt0059838
+  tmdb: 198796
 sources:
 - https://www.wikidata.org/wiki/Q633836
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: kozak-andrash
 - person: molnar-tibor
 - person: rayz-yanosh
+poster_tmdb_path: /7TAy4s2JV0V5Y5FsDEgsUXDE2F9.jpg

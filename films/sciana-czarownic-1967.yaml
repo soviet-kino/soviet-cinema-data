@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9395255
   imdb: tt0062237
+  tmdb: 254308
 sources:
 - https://www.wikidata.org/wiki/Q9395255
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ezhi-matushkevich
 cast:
 - person: dobzhinskiy-zbignev
+poster_tmdb_path: /tEk69xCZOlHILuUj0TqpOKrJEdy.jpg

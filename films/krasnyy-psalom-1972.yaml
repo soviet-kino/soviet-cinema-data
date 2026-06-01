@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q371945
   imdb: tt0067467
+  tmdb: 86732
 sources:
 - https://www.wikidata.org/wiki/Q371945
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: madarash-yozhef
 - person: balint-andrash
 - person: balazhovits-layosh
+poster_tmdb_path: /zPnUnJDC26brcSpDCEit1OeSx6s.jpg
+backdrop_tmdb_path: /5f3YTZZSuIzrLja2rw2xB1pzZxM.jpg

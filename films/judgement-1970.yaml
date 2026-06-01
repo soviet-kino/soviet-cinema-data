@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q44873601
   imdb: tt0066622
+  tmdb: 286601
 sources:
 - https://www.wikidata.org/wiki/Q44873601
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: kozuch-michal
 - person: kabrhel-frantisek
 - person: torok-frantisek
+poster_tmdb_path: /tcOMQ1vKxk6vVWUyJdBaKWoHhO3.jpg
+backdrop_tmdb_path: /vIwZ2VHTgCjoC6XFN69BDCTpV51.jpg

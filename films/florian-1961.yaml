@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q52182251
   imdb: tt0054884
+  tmdb: 574306
 sources:
 - https://www.wikidata.org/wiki/Q52182251
 schema_version: 1
@@ -81,3 +82,4 @@ cast:
 - person: ulrych-bedrich
 - person: capek-bedrich
 - person: bedrnova-libuse
+poster_tmdb_path: /zdQVsZC8tUfoSRhXc5oE2tJG6Co.jpg

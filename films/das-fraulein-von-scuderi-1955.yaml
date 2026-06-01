@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1167896
   imdb: tt0048592
+  tmdb: 276706
 sources:
 - https://www.wikidata.org/wiki/Q1167896
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: aleksandr-roland
 studio:
 - defa
+poster_tmdb_path: /dBuIhhOznNKO9TPEzfHbvtDIyko.jpg
+backdrop_tmdb_path: /tgt1j9skIlH4KxkuIefpaIiNd3g.jpg

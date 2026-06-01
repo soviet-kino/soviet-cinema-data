@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q84994071
   imdb: tt0266707
   youtube: JuycjhvK1E8
+  tmdb: 556522
 sources:
 - https://www.wikidata.org/wiki/Q84994071
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - konunov-boris-aleksandrovich
 studio:
 - moldova-film
+poster_tmdb_path: /cTC7zvCzmwIfVdFNYk2oRu31CcM.jpg
+backdrop_tmdb_path: /suxKfyvs3sM0kZlytnoAkfmjHV2.jpg

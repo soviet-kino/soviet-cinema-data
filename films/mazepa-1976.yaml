@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11771956
   imdb: tt0074882
+  tmdb: 621397
 sources:
 - https://www.wikidata.org/wiki/Q11771956
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: voyt-mechislav
 - person: zavadskaya-magdalena
 - person: wa-aszek-eugeniusz
+poster_tmdb_path: /iuYSl7IOODA1mdlZqbFLIZoLXtj.jpg

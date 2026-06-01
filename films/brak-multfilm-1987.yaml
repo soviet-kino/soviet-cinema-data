@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4095764
   imdb: tt1284448
   youtube: lVoulro72zs
+  tmdb: 339083
 sources:
 - https://www.wikidata.org/wiki/Q4095764
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - bardin-garri-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /t26FPfUZv7XaSGxgNV4PjgqKgnz.jpg

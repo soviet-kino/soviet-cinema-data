@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q23900067
   imdb: tt2334552
+  tmdb: 711674
 sources:
 - https://www.wikidata.org/wiki/Q23900067
 schema_version: 1
@@ -109,3 +110,4 @@ studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
 poster_commons: Stalin's funeral procession entering Manezhnaya Square from Okhotny
   Ryad.jpg
+poster_tmdb_path: /4f31Mn8IuHa7KiuH4ywuF1cgcnK.jpg

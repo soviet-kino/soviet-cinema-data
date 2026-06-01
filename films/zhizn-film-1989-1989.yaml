@@ -8,6 +8,7 @@ runtime_min: 184
 external_ids:
   wikidata: Q16355356
   imdb: tt8777936
+  tmdb: 248110
 sources:
 - https://www.wikidata.org/wiki/Q16355356
 schema_version: 1
@@ -17,3 +18,4 @@ composer:
 - brauns-martinsh
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /7GalDJZSiY7CFWKeVe17XOnX3GI.jpg

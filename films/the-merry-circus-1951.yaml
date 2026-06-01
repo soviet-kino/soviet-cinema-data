@@ -8,6 +8,7 @@ runtime_min: 12
 external_ids:
   wikidata: Q3223784
   imdb: tt2137445
+  tmdb: 450334
 sources:
 - https://www.wikidata.org/wiki/Q3223784
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 composer:
 - rykhlik-yan
 - troyan-vatslav
+poster_tmdb_path: /y35CafhKj8aeH6gcGj07mdVlVgn.jpg

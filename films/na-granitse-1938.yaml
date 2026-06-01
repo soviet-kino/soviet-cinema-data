@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q15270796
   imdb: tt0030489
+  tmdb: 529199
 sources:
 - https://www.wikidata.org/wiki/Q15270796
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: tyapkina-elena-alekseevna
 studio:
 - lenfilm
+poster_tmdb_path: /ymND1jrfiWJDsy8Q5vqsNfxaWWZ.jpg

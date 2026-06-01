@@ -8,8 +8,10 @@ runtime_min: 106
 external_ids:
   wikidata: Q44865842
   imdb: tt0131417
+  tmdb: 440081
 sources:
 - https://www.wikidata.org/wiki/Q44865842
 schema_version: 1
 director:
 - nicolae-cristiana
+poster_tmdb_path: /4ZeHhjMJJ2iZggT4mgKXtx35feH.jpg

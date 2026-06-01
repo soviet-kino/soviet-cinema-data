@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q116193419
   imdb: tt0176205
+  tmdb: 1195961
 sources:
 - https://www.wikidata.org/wiki/Q116193419
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - stikhin-evgeniy-mikhaylovich
 studio:
 - ekran
+poster_tmdb_path: /y0FIcvLSeFje60A6lLMH9qCQxf1.jpg

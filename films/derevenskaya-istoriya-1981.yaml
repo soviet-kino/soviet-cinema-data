@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4158750
   imdb: tt0237149
   youtube: 2smBLdv0SfU
+  tmdb: 335211
 sources:
 - https://www.wikidata.org/wiki/Q4158750
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - kanevskiy-vitaliy-evgenevich
 studio:
 - lenfilm
+poster_tmdb_path: /dzDjpzae9xFPlYteOJvyNNVhfLI.jpg

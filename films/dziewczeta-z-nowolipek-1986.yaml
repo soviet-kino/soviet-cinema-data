@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q9248674
   imdb: tt0089064
+  tmdb: 156655
 sources:
 - https://www.wikidata.org/wiki/Q9248674
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: roznyatovskaya-malgozhata
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /2re7IeweO9LvySmjJV4EN87EBlk.jpg
+backdrop_tmdb_path: /6HbZPDKDqL9KwPy16aJMaTd3CXs.jpg

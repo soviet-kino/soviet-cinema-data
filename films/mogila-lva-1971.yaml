@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3917438
   imdb: tt0154891
   youtube: f2XDWG4UC8o
+  tmdb: 849887
 sources:
 - https://www.wikidata.org/wiki/Q3917438
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: shendrikova-valentina-konstantinovna
 studio:
 - belarusfilm
+poster_tmdb_path: /iWpIDM9s22FUGk7LZgxZrGAEILp.jpg
+backdrop_tmdb_path: /eVgZY27pFV3jcowR9f0zeaUnBep.jpg

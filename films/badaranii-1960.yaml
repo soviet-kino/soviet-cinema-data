@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12723129
   imdb: tt0053624
+  tmdb: 316486
 sources:
 - https://www.wikidata.org/wiki/Q12723129
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - aleksandresku-sike-vasile
 screenwriter:
 - goldoni-karlo
+poster_tmdb_path: /ssXscgf7j3Z3AivXIvQwpsrLmyi.jpg

@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q6961793
   imdb: tt2253901
+  tmdb: 1538815
 sources:
 - https://www.wikidata.org/wiki/Q6961793
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: beybutov-rashid-madzhid-ogly
 - person: eliava-liya
 - person: gulieva-inara-aleksandrovna
+poster_tmdb_path: /4uGAlSjNCDt7d202TY7kQlpagXZ.jpg

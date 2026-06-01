@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4177578
   imdb: tt0178993
   youtube: Kw0HQdAw5M0
+  tmdb: 623145
 sources:
 - https://www.wikidata.org/wiki/Q4177578
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: berezin-efim-iosifovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /i5yCyNN0wmmioFf8bpVbntmY5Rv.jpg
+backdrop_tmdb_path: /84ssvobJ9Mb0cwu9WIEQfyIXiN.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3467727
   imdb: tt0047128
   youtube: DjDyDZPVJtA
+  tmdb: 143824
 sources:
 - https://www.wikidata.org/wiki/Q3467727
 schema_version: 1
@@ -90,3 +91,4 @@ cast:
 - person: strupplova-eva
 - person: austova-vaclava
 - person: sipovic-miroslav
+poster_tmdb_path: /bz9O6xO3qaC10lFHIYl6bbrn8qY.jpg

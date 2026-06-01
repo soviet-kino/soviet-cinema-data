@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q65198517
   imdb: tt4055362
+  tmdb: 642771
 sources:
 - https://www.wikidata.org/wiki/Q65198517
 schema_version: 1
 director:
 - evlakhishvili-sergey-sergeevich
+poster_tmdb_path: /d19HcU2OkMSabSkEtOZJISPshof.jpg
+backdrop_tmdb_path: /uyMmtf24tJnUb2yCrBgKckJia90.jpg

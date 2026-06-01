@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4205762
   imdb: tt0171408
   youtube: ohakjwIYkrE
+  tmdb: 104810
 sources:
 - https://www.wikidata.org/wiki/Q4205762
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: vizbor-yuriy-iosifovich
 - person: belyavskiy-aleksandr-borisovich
 - person: uralova-evgeniya
+poster_tmdb_path: /zz093EbsqtbzuYXStiJiaaobZJL.jpg
+backdrop_tmdb_path: /flaUsoZR7CkvUEgWJgwOxxUUAbd.jpg

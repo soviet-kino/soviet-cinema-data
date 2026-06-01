@@ -8,6 +8,7 @@ runtime_min: 50
 external_ids:
   wikidata: Q4258565
   imdb: tt3172222
+  tmdb: 626451
 sources:
 - https://www.wikidata.org/wiki/Q4258565
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: gofman-pyotr-romualdovich
 studio:
 - lenfilm
+poster_tmdb_path: /aPhu8TBQcTdq248e6KuSe4LK90p.jpg
+backdrop_tmdb_path: /4qi7pIS5f9orvrNmiyJairygFWw.jpg

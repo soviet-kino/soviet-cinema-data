@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97182458
   imdb: tt5048298
+  tmdb: 683906
 sources:
 - https://www.wikidata.org/wiki/Q97182458
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: pavuls-eduard-karlovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /coc9VUKC7ts5FIzidkAZHqMLgf1.jpg
+backdrop_tmdb_path: /lmQsGMbaCmcvOLA1PeSiPpTltzX.jpg

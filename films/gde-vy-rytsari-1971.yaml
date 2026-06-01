@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q21777837
   imdb: tt2312500
   youtube: GW1VNgL3l6c
+  tmdb: 849334
 sources:
 - https://www.wikidata.org/wiki/Q21777837
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bratslavskaya-elena
 - person: gurzo-sergey-sergeevich
 - person: kaletskiy-aleksandr-semyonovich
+poster_tmdb_path: /vt1pP9VgDTqZsB3MlzGK2S6MdmM.jpg
+backdrop_tmdb_path: /wymnaey8qtGzNc2l35rKdMp4cHR.jpg

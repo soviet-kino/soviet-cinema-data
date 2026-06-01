@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q10996291
   imdb: tt0272100
+  tmdb: 269172
 sources:
 - https://www.wikidata.org/wiki/Q10996291
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: pikuli-vangjeli
 studio:
 - albfilm
+poster_tmdb_path: /jU9nj4ut2p9IQvVL4xEoS8l0jQA.jpg

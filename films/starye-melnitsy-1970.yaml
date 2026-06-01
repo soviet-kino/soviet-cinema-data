@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q4440993
   imdb: tt0488655
+  tmdb: 1215680
 sources:
 - https://www.wikidata.org/wiki/Q4440993
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - kereselidze-archil-pavlovich
 studio:
 - gruziya-film
+poster_tmdb_path: /dDgo31Qh6JhryPLpcApR4xJawt8.jpg

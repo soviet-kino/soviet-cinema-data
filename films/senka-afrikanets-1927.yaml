@@ -8,6 +8,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q30879396
   imdb: tt7923686
+  tmdb: 1177016
 sources:
 - https://www.wikidata.org/wiki/Q30879396
 schema_version: 1
@@ -22,3 +23,4 @@ cinematographer:
 - kosmatov-leonid
 studio:
 - mezhrabpom-rus
+poster_tmdb_path: /v2tA3ZSv7oTRzfwGx6NLOZ5pYbl.jpg

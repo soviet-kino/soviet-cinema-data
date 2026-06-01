@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4156422
   imdb: tt0127513
   youtube: 3kevz4eMC0A
+  tmdb: 73305
 sources:
 - https://www.wikidata.org/wiki/Q4156422
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kladnitskiy-vladislav-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /vjtodOC7FHcRCcSmWTr4ImUXOBp.jpg
+backdrop_tmdb_path: /rb3zUCxMemQ8kyeOCn3pu0zr0Si.jpg

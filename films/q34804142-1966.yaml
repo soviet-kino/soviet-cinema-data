@@ -8,8 +8,11 @@ runtime_min: 13
 external_ids:
   wikidata: Q34804142
   imdb: tt1780986
+  tmdb: 741930
 sources:
 - https://www.wikidata.org/wiki/Q34804142
 schema_version: 1
 cinematographer:
 - lehmann-christian
+poster_tmdb_path: /5h5lqWS5NXZPIUR8tm25egw3noy.jpg
+backdrop_tmdb_path: /xjIS0ZyDbpRg2W3ucYVq1wy7ztv.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4339388
   imdb: tt0168111
   youtube: HsGsMVVhb5A
+  tmdb: 110471
 sources:
 - https://www.wikidata.org/wiki/Q4339388
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: pyatkov-aleksandr-aleksandrovich
 studio:
 - mosfilm
+poster_tmdb_path: /fVfLG97J78SXWkLDSmxLA5Tlrjg.jpg
+backdrop_tmdb_path: /awjhPdFGeGeX28hwGLg7uE6O8Cv.jpg

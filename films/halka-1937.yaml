@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5642507
   imdb: tt0030210
+  tmdb: 157232
 sources:
 - https://www.wikidata.org/wiki/Q5642507
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: kiepura-w-adys-aw
 - person: zielinska-liliana
 poster_commons: Halka 1937.jpg
+poster_tmdb_path: /8N17CS5cj2qtO0NVcApXAxm5D0A.jpg

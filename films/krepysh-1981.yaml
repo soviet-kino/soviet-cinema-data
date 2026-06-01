@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4240288
   imdb: tt0151259
+  tmdb: 892802
 sources:
 - https://www.wikidata.org/wiki/Q4240288
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - schnittke-alfred
 studio:
 - tsentrnauchfilm
+poster_tmdb_path: /mU3L09VWCZcaT75RY0tsCqCcmr.jpg

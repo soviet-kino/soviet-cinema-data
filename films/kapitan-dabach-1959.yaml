@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12027987
   imdb: tt0250459
+  tmdb: 227736
 sources:
 - https://www.wikidata.org/wiki/Q12027987
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: michalicka-anton
 - person: paus-ernest
 - person: brazdovic-vojtech
+poster_tmdb_path: /qgx4f4sEeSAdNaP1aNQfudIlJVj.jpg
+backdrop_tmdb_path: /i8sBGkbHjp1nfrhrMrCuzmulAiU.jpg

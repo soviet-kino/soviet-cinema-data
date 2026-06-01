@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4395904
   imdb: tt0130223
+  tmdb: 67056
 sources:
 - https://www.wikidata.org/wiki/Q4395904
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: artmane-viya
 - person: papanov-anatoliy-dmitrievich
 - person: matveev-evgeniy-semyonovich
+poster_tmdb_path: /vUGn5mKZOwcQgXCiF3WHpawCRpm.jpg
+backdrop_tmdb_path: /wtAOARaRwr5J8bVHNHQ49KyC8cA.jpg

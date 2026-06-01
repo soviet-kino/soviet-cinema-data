@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2141856
   imdb: tt0069068
   youtube: uFu7Fn_gWoE
+  tmdb: 105483
 sources:
 - https://www.wikidata.org/wiki/Q2141856
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: fedoseeva-shukshina-lidiya-nikolaevna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /quLUkMJSbUqj04vpAr3J2hOfOoZ.jpg
+backdrop_tmdb_path: /cUjJNFKmVfYoQxfyvntdqBL5aQG.jpg

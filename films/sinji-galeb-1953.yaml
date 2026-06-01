@@ -8,6 +8,8 @@ runtime_min: 92
 external_ids:
   wikidata: Q3442319
   imdb: tt0170583
+  tmdb: 405628
 sources:
 - https://www.wikidata.org/wiki/Q3442319
 schema_version: 1
+poster_tmdb_path: /n0meuEMGsfb3MkyVSYo6O62W8bv.jpg

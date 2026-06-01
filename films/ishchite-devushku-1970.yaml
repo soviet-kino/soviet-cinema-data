@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q4205752
   imdb: tt1852865
+  tmdb: 524585
 sources:
 - https://www.wikidata.org/wiki/Q4205752
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: melikov-ramiz
 - person: ibragimova-safura-agababa-kyzy
 - person: ogly-mirzoev-tofik-ibragim
+poster_tmdb_path: /g1Gw41bieP3S0SxMyswVtfPpdM2.jpg
+backdrop_tmdb_path: /sZrCfi8wvTXAPdRxArQkWaDlKNW.jpg

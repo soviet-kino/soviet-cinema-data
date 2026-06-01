@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q112065933
   imdb: tt0173027
   youtube: iQVPhe7KEYo
+  tmdb: 446784
 sources:
 - https://www.wikidata.org/wiki/Q112065933
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 studio:
 - barrandov
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /608DSPqzxR4Hj9kF71nyxVwHx7g.jpg
+backdrop_tmdb_path: /nx5hT3ytj5D968LZ6ylUzQrxvSK.jpg

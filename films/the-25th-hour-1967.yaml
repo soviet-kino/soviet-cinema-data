@@ -8,6 +8,7 @@ runtime_min: 134
 external_ids:
   wikidata: Q1026997
   imdb: tt0062445
+  tmdb: 66568
 sources:
 - https://www.wikidata.org/wiki/Q1026997
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: redmond-layam
 - person: tselkiner-meyer
 - person: goldblatt-kharold
+poster_tmdb_path: /3JiBrjp0cLkqCnqqm93wp14WyqB.jpg
+backdrop_tmdb_path: /kNHhWlyS5ydDK2iYqNIHkqRkPuN.jpg

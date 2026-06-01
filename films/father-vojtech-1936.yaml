@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q5437665
   imdb: tt0152113
+  tmdb: 660898
 sources:
 - https://www.wikidata.org/wiki/Q5437665
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: riha-frantisek
 - person: appelova-dagmar
 - person: gorlich-jozka
+poster_tmdb_path: /fpMuOSDlDag6tx8lDkykcKpSiJb.jpg
+backdrop_tmdb_path: /brx22aqVwgMEG59fU0VVssteVHE.jpg

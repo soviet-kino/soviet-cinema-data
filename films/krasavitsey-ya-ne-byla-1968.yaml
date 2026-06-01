@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q16371185
   imdb: tt1573869
   youtube: --JkGGPcxeY
+  tmdb: 524534
 sources:
 - https://www.wikidata.org/wiki/Q16371185
 schema_version: 1
@@ -33,3 +34,4 @@ cast:
 - person: guseynov-sadykh
 - person: alakbarov-shakhmar
 - person: aliev-eldar
+poster_tmdb_path: /mWThvdS2aXXjvMPRh7Jy24pjfmo.jpg

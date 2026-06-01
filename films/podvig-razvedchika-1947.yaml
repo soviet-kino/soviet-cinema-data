@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q833579
   imdb: tt0039716
   youtube: -b9Mta0yCOI
+  tmdb: 158719
 sources:
 - https://www.wikidata.org/wiki/Q833579
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: milyutenko-dmitriy-emelyanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /yRfHOdkuyQ5X4IpqL6CjvCcGT40.jpg
+backdrop_tmdb_path: /nEyJFKcWNxu1W21BV3kLsBIh051.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q109010976
   imdb: tt5726786
+  tmdb: 640933
 sources:
 - https://www.wikidata.org/wiki/Q109010976
 schema_version: 1
 director:
 - mukhsin-bey-ertugrul
+poster_tmdb_path: /im1o7xIjqo7jNukoen4KBgMF6p9.jpg
+backdrop_tmdb_path: /9OXQJdfUkfso5wq55r6bK7TQM6l.jpg

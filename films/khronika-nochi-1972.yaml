@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4501695
   imdb: tt4716492
   youtube: K9c6p_oqkk0
+  tmdb: 435519
 sources:
 - https://www.wikidata.org/wiki/Q4501695
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - belarusfilm
 cast:
 - person: romashin-anatoliy-vladimirovich
+poster_tmdb_path: /jCPLFe6XVRI0XAyxKSua3sGCeOZ.jpg
+backdrop_tmdb_path: /pR3bpug3XMoG8ReXAdRLJAsMBvK.jpg

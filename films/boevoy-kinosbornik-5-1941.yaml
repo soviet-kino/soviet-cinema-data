@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q108129069
   imdb: tt0033419
+  tmdb: 1247985
 sources:
 - https://www.wikidata.org/wiki/Q108129069
 schema_version: 1
@@ -29,3 +30,4 @@ studio:
 - mosfilm
 - tsentralnaya-studiya-dokumentalnykh-filmov
 poster_commons: Boyevoy kinosbornik 5.jpg
+poster_tmdb_path: /w3WbTZ3IFSZXin1k8qi2AqR8Iqv.jpg

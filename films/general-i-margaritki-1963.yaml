@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q12094652
   imdb: tt0169940
+  tmdb: 817918
 sources:
 - https://www.wikidata.org/wiki/Q12094652
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
+poster_tmdb_path: /9StitPto01dDK5SDSl77jNCXXSQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q133309828
   imdb: tt0166638
+  tmdb: 545810
 sources:
 - https://www.wikidata.org/wiki/Q133309828
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: pechi-shandor
 studio:
 - mafilm
+poster_tmdb_path: /gftxTYHia3K2igDQY8437e85MFw.jpg

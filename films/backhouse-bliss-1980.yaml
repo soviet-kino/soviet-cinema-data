@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q1532735
   imdb: tt0079213
+  tmdb: 259765
 sources:
 - https://www.wikidata.org/wiki/Q1532735
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: lind-katarina
 - person: bauze-peter
 - person: lyubosh-ute
+poster_tmdb_path: /rWYUcrb8e3wDK52a95uIIudfFDq.jpg
+backdrop_tmdb_path: /k4mBMvoJejV7qk0b2jXBJWQVN3v.jpg

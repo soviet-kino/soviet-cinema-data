@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11798676
   imdb: tt0070487
+  tmdb: 934481
 sources:
 - https://www.wikidata.org/wiki/Q11798676
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - bakh-iogann-sebastyan
 cast:
 - person: biernacka-iwona
+poster_tmdb_path: /cXRQeXEfOHyO21TEpxM9RmuvuKw.jpg

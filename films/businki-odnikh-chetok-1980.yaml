@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q11802107
   imdb: tt0081295
+  tmdb: 221785
 sources:
 - https://www.wikidata.org/wiki/Q11802107
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: szaniecki-tadeusz
 - person: bogdo-jan
 - person: straszna-marta
+poster_tmdb_path: /ks2G7Zwn3RetDruCglvyGshnDTa.jpg
+backdrop_tmdb_path: /oWsN4Xx4K5kWW8MgVfiXlqCwzJF.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19019153
   imdb: tt2651000
+  tmdb: 806553
 sources:
 - https://www.wikidata.org/wiki/Q19019153
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - gruziya-film
 - uzbekfilm
+poster_tmdb_path: /gAHzTu5hQESdJTYSzGi2zoWyU9T.jpg
+backdrop_tmdb_path: /mkTNtVl0q5xuNjwSxR3fWr2QL5a.jpg

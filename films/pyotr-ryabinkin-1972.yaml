@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q19801188
   imdb: tt4697548
+  tmdb: 887887
 sources:
 - https://www.wikidata.org/wiki/Q19801188
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: barmin-nikolay-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /7WSin859822hNZQj7vVumVtojKB.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270972
   imdb: tt0073583
   youtube: 3hwXHPSZqbQ
+  tmdb: 72799
 sources:
 - https://www.wikidata.org/wiki/Q15270972
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: shevkunenko-sergey-yurevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /glrhg37qYYyeSvSpFxsS84MpseA.jpg
+backdrop_tmdb_path: /pQE5ilOumrHbJM0XiJvsT0Sy3vV.jpg

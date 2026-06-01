@@ -8,8 +8,10 @@ runtime_min: 102
 external_ids:
   wikidata: Q132643316
   imdb: tt0190116
+  tmdb: 470555
 sources:
 - https://www.wikidata.org/wiki/Q132643316
 schema_version: 1
 director:
 - karmen-roman-lazarevich
+poster_tmdb_path: /nwAz59Y4Qc5JpGKwXL1Lc0uG1fI.jpg

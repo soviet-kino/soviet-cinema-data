@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q31183574
   imdb: tt0193295
+  tmdb: 286409
 sources:
 - https://www.wikidata.org/wiki/Q31183574
 schema_version: 1
 director:
 - mandic-aleksandar
+poster_tmdb_path: /oNR3k13jGVCzL9XPcKRyhSi7eet.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q17582614
   imdb: tt0287083
   youtube: fZvZAzfgZlo
+  tmdb: 1440739
 sources:
 - https://www.wikidata.org/wiki/Q17582614
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kladnitskiy-vladislav-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /wTC29b9bWEsz6VlwfV4xuxocHC1.jpg

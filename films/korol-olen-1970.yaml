@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4233800
   imdb: tt0064554
   youtube: 66nKi8IwHl0
+  tmdb: 330057
 sources:
 - https://www.wikidata.org/wiki/Q4233800
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: yakovlev-yuriy-vasilevich
 - person: yurskiy-sergey-yurevich
 - person: malyavina-valentina-aleksandrovna
+poster_tmdb_path: /xyy8VjuraQGfckal2YkuDTAyJ0Z.jpg
+backdrop_tmdb_path: /kQQXgaGQHdJT1HMD7NAQVXJoZFk.jpg

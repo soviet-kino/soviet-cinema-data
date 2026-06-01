@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7735381
   imdb: tt0012453
+  tmdb: 316300
 sources:
 - https://www.wikidata.org/wiki/Q7735381
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: szecsi-ferenc
 - person: inke-rezso
 - person: linke-ilona
+poster_tmdb_path: /bOLpAuenBo8WVKRDP2RAAyycA63.jpg

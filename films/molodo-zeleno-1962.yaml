@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270772
   imdb: tt0056245
+  tmdb: 302690
 sources:
 - https://www.wikidata.org/wiki/Q15270772
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: pereverzev-ivan-fyodorovich
 studio:
 - mosfilm
+poster_tmdb_path: /1wd5dYWLjvTAVrcxya04c8gwc9Q.jpg
+backdrop_tmdb_path: /7Rn6hlpSLk1Krz6I3ogwt6RcCIl.jpg

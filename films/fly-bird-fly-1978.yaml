@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q1428377
   imdb: tt0183400
+  tmdb: 937472
 sources:
 - https://www.wikidata.org/wiki/Q1428377
 schema_version: 1
@@ -60,3 +61,4 @@ cast:
 - person: giac-ivan
 - person: mazalova-margita
 - person: helliman-vaclav
+poster_tmdb_path: /1NX2zsSXsmpQXwk1Xytwysw4p5S.jpg

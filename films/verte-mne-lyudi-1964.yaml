@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109288
   imdb: tt0173412
   youtube: QTSZ42KZThI
+  tmdb: 142775
 sources:
 - https://www.wikidata.org/wiki/Q4109288
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: lavrov-kirill-yurevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /snqhs7p8oWGB3SDfVZ6YplKi7tu.jpg
+backdrop_tmdb_path: /1hrZzlgdf9jV2gJcFv5NUCzD0fh.jpg

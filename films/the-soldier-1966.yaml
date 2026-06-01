@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12749973
   imdb: tt0181887
+  tmdb: 466700
 sources:
 - https://www.wikidata.org/wiki/Q12749973
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: burdus-jovan-janicijevic
 - person: jovanovic-or-e
 - person: aleksandr-stoykovich
+poster_tmdb_path: /wSUJ4vnOtu9pDFkTCOf6YiYrsW3.jpg

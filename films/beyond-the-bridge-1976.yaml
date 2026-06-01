@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3881942
   imdb: tt0072880
+  tmdb: 265744
 sources:
 - https://www.wikidata.org/wiki/Q3881942
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - ghibu-calin
 cast:
 - person: karadzhiu-toma
+poster_tmdb_path: /xcFv4tWhJsWmuVGJHVMIFIX52Fw.jpg

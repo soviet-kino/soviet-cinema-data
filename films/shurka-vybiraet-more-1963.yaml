@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4527964
   imdb: tt5027262
+  tmdb: 826899
 sources:
 - https://www.wikidata.org/wiki/Q4527964
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: uralskiy-viktor-vladimirovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /dVmIaNHp0rXRdzCsGkoJtI6BVil.jpg

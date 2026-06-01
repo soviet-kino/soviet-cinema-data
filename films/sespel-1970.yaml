@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4417942
   imdb: tt5291042
+  tmdb: 1535594
 sources:
 - https://www.wikidata.org/wiki/Q4417942
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: dmitriev-iosif-aleksandrovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /2CATYzStNoVxj4mojEQyS8MIR0u.jpg

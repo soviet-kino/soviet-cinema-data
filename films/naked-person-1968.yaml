@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3506323
   imdb: tt0063020
+  tmdb: 372501
 sources:
 - https://www.wikidata.org/wiki/Q3506323
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: dobrichanin-dragutin
 studio:
 - yadran-film
+poster_tmdb_path: /5Czo0eQHEtHRPJlvkpvVIs0BSwo.jpg

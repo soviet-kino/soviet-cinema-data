@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q65200724
   imdb: tt3302026
+  tmdb: 548019
 sources:
 - https://www.wikidata.org/wiki/Q65200724
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - mosfilm
 cast:
 - person: zotkina-nina-ivanovna
+poster_tmdb_path: /zJtTOxwUJWyebRClXyhRlzS6FMD.jpg

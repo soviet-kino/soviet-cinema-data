@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q2042612
   imdb: tt0027688
+  tmdb: 169479
 sources:
 - https://www.wikidata.org/wiki/Q2042612
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: mlejnek-frantisek-xaverius
 - person: q101067938
 - person: jirsa-antonin
+poster_tmdb_path: /l39CE8uKKDhxnJJe25DkqhgmaeN.jpg
+backdrop_tmdb_path: /8m9BK8a8QVEDBbhGTGbidWjOZLG.jpg

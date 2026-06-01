@@ -8,6 +8,7 @@ runtime_min: 163
 external_ids:
   wikidata: Q97007308
   imdb: tt0175016
+  tmdb: 344911
 sources:
 - https://www.wikidata.org/wiki/Q97007308
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: shendrikova-valentina-konstantinovna
 studio:
 - belarusfilm
+poster_tmdb_path: /u3VVK5u7tIG8OjZ006pwyRrFp6V.jpg
+backdrop_tmdb_path: /lvUZzHsLmjZejETCGMG72xgJ4Ql.jpg

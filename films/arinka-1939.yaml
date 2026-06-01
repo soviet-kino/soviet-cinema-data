@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4069249
   imdb: tt0239240
   youtube: gkr3vtzEOwI
+  tmdb: 72800
 sources:
 - https://www.wikidata.org/wiki/Q4069249
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Arinka film1.jpg
+poster_tmdb_path: /pxx8wrolyT7QxgyDBHUGUjOSwDp.jpg
+backdrop_tmdb_path: /PEUTkzlk7SQlSp3JRD076HFhCl.jpg

@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q18276507
   imdb: tt5032498
+  tmdb: 356805
 sources:
 - https://www.wikidata.org/wiki/Q18276507
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: zbruev-aleksandr-viktorovich
 studio:
 - mosfilm
+poster_tmdb_path: /1sS5VvK8cAAtrqmues15MmyUD5l.jpg
+backdrop_tmdb_path: /v1xowPdTrGhoYJiRQvTsfQJKg4h.jpg

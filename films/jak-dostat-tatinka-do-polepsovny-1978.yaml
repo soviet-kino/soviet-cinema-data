@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q2049346
   imdb: tt0322810
+  tmdb: 36891
 sources:
 - https://www.wikidata.org/wiki/Q2049346
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: ditetova-yana
 - person: kreuzmannova-alena
 - person: vranova-gabriela
+poster_tmdb_path: /50bbAevwvQOBMCTfWI8YoTOp8cE.jpg
+backdrop_tmdb_path: /eORzFGWiTwgVhKMkAaQEKeDUFoG.jpg

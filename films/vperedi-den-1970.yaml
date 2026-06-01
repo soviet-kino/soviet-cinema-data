@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65209811
   imdb: tt0334668
   youtube: HIfhB2N35gg
+  tmdb: 784665
 sources:
 - https://www.wikidata.org/wiki/Q65209811
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - lyubimov-pavel-grigorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /ytZjp6NBhbK9XFJMdqQxjo0VorV.jpg

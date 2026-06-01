@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q19822521
   imdb: tt1943844
   youtube: BUhPKaNmr7g
+  tmdb: 199780
 sources:
 - https://www.wikidata.org/wiki/Q19822521
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - ziv-mikhail-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /lUCRP44dbEBwjDcqYk7LokiCvrS.jpg

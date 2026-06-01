@@ -8,8 +8,10 @@ runtime_min: 98
 external_ids:
   wikidata: Q8075710
   imdb: tt0049986
+  tmdb: 275031
 sources:
 - https://www.wikidata.org/wiki/Q8075710
 schema_version: 1
 director:
 - veiczi-janos
+poster_tmdb_path: /dRAvAgmpifCufGMHTfG91xWnvMp.jpg

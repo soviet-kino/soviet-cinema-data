@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q19703606
   imdb: tt0058280
+  tmdb: 390419
 sources:
 - https://www.wikidata.org/wiki/Q19703606
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - benchik-imre
 studio:
 - mafilm
+poster_tmdb_path: /c9OqxRWP6jmV0ZZ84jmXThURjYZ.jpg
+backdrop_tmdb_path: /AtS7arbW0gpZMmMCKqf0bFCpJlJ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11741523
   imdb: tt0056151
+  tmdb: 747642
 sources:
 - https://www.wikidata.org/wiki/Q11741523
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: kalinowski-czes-aw
 - person: q120489193
 - person: q120489219
+poster_tmdb_path: /uIZVkKHermK8BrVNdgGLwuMslci.jpg

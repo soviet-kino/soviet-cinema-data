@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4159337
   imdb: tt0129035
   youtube: 64LWsl-HfOA
+  tmdb: 386880
 sources:
 - https://www.wikidata.org/wiki/Q4159337
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: belyaninov-andrey-yurevich
 - person: korenev-vladimir-borisovich
 - person: prygunov-lev-georgievich
+poster_tmdb_path: /6omaho92ADBghGVrOG153BVHsQ1.jpg
+backdrop_tmdb_path: /qR7EbbugQ5SuAOXYrlPPMykP4SG.jpg

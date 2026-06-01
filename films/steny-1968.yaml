@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7748633
   imdb: tt0061641
+  tmdb: 286451
 sources:
 - https://www.wikidata.org/wiki/Q7748633
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: gabor-miklosh
 - person: mayor-tamash
 - person: radai-imre
+poster_tmdb_path: /cOlqEziFAnINugDbzoE43NXY9eP.jpg

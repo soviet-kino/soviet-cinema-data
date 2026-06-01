@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q28667226
   imdb: tt6247774
   youtube: Ia8JxW252pE
+  tmdb: 448045
 sources:
 - https://www.wikidata.org/wiki/Q28667226
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - sazonov-panteleymon-petrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /wOQZg5bUL8t5F0zwDhlhYslP8xi.jpg
+backdrop_tmdb_path: /uRRJaO2nmcBiqzOkqFBtevKfPfC.jpg

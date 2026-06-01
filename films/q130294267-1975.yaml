@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q130294267
   imdb: tt0491193
+  tmdb: 588644
 sources:
 - https://www.wikidata.org/wiki/Q130294267
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - knyotssh-khans
 screenwriter:
 - goll-joachim
+poster_tmdb_path: /ykAQZs0GGTkFOEqgokdJdBI3ipv.jpg
+backdrop_tmdb_path: /fltk0fucYIPVVf8jtJnOpQufL4u.jpg

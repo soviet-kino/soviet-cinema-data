@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q11728670
   imdb: tt0061851
+  tmdb: 242744
 sources:
 - https://www.wikidata.org/wiki/Q11728670
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: pilarska-leokadia
 studio:
 - film-polski
+poster_tmdb_path: /3wRt7DMLkNIuQ61ndiHUfxLbaag.jpg
+backdrop_tmdb_path: /sklS74bHLYnpOXAsX70Fj3Ti52.jpg

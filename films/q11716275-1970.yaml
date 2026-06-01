@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11716275
   imdb: tt0064508
+  tmdb: 157617
 sources:
 - https://www.wikidata.org/wiki/Q11716275
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: litvin-kshishtof
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /9iXg0w2bodqOuHoMkwmnshQTVDT.jpg

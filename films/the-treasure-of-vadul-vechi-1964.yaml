@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726247
   imdb: tt0154348
+  tmdb: 645296
 sources:
 - https://www.wikidata.org/wiki/Q28726247
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: tomazoglu-nicolae
 - person: konstantinesku-korina
 - person: soare-gheorghe
+poster_tmdb_path: /79pnXQ3DA2Z7kGhzIh1xMQNAJ40.jpg

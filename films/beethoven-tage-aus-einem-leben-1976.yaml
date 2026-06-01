@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q18018679
   imdb: tt0074194
+  tmdb: 293702
 sources:
 - https://www.wikidata.org/wiki/Q18018679
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: geverle-gustav
 - person: gomola-miroslav
 - person: iroushkova-eva
+poster_tmdb_path: /zz3BG4WoqutaqgClJEwoTcRmi6G.jpg

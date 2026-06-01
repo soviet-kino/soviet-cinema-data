@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7759929
   imdb: tt0008745
+  tmdb: 1106943
 sources:
 - https://www.wikidata.org/wiki/Q7759929
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: chortos-gyula
 - person: uray-tivadar
 - person: lenkeffy-ica-von
+poster_tmdb_path: /orSZY11KhUEuaNFJSuXv4CEACR6.jpg

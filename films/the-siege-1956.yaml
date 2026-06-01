@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q3442277
   imdb: tt0049579
+  tmdb: 384312
 sources:
 - https://www.wikidata.org/wiki/Q3442277
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - tsipra-milo
 cast:
 - person: buzanchich-boris
+poster_tmdb_path: /wOOJfRUq4RAcByCyV0GniqROEz5.jpg

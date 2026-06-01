@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4326520
   imdb: tt0307245
   youtube: mckHGWSksi8
+  tmdb: 106250
 sources:
 - https://www.wikidata.org/wiki/Q4326520
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: koltakov-sergey-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /rvT3r6IAqeRvHlU2uvgLQrvRkDW.jpg
+backdrop_tmdb_path: /4OZfstfTkBf2O44eF0vQWXQfDJo.jpg

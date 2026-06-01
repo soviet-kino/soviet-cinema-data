@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2359642
   imdb: tt0088635
   youtube: DYUSLdVEvGI
+  tmdb: 79585
 sources:
 - https://www.wikidata.org/wiki/Q2359642
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 studio:
 - odesskaya-kinostudiya
 - nyu-boyana-film-studios
+poster_tmdb_path: /hgUc4EywbaXsBOKkoem94nB4i5X.jpg
+backdrop_tmdb_path: /vavqAoFw1yaFgwy9gNvzaKaNUDr.jpg

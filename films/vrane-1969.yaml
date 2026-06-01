@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q12749983
   imdb: tt0180293
+  tmdb: 266076
 sources:
 - https://www.wikidata.org/wiki/Q12749983
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: lupa-peter
 - person: matic-zivka
 - person: milutin-butkovich
+poster_tmdb_path: /9Mu3XBS5iMmi2ufPX1l6SZoC5oe.jpg
+backdrop_tmdb_path: /7r9mdmztfwPFF2uwGQ9oepgznsR.jpg

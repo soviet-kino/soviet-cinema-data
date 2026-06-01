@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12034012
   imdb: tt0217631
+  tmdb: 657708
 sources:
 - https://www.wikidata.org/wiki/Q12034012
 schema_version: 1
@@ -45,3 +46,4 @@ cast:
 - person: novak-josef
 - person: richter-jan
 - person: hellerova-mariana
+poster_tmdb_path: /mQWdSP3SV24QOend7mt6zwScuxU.jpg

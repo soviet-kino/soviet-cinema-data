@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4401094
   imdb: tt2217919
+  tmdb: 449090
 sources:
 - https://www.wikidata.org/wiki/Q4401094
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: norbaeva-svetlana-abdulkhakovna
 - person: tokhadze-givi-maksimovich
 - person: khodzhaev-alim
+poster_tmdb_path: /in8VN1tG0cj8CpOA8XSsabS9EE4.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4503400
   imdb: tt0307311
+  tmdb: 514432
 sources:
 - https://www.wikidata.org/wiki/Q4503400
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: chakmakchyan-arto
 - person: avetisyan-minas
 - person: elibekyan-robert
+poster_tmdb_path: /xdTjVAwb1vCyBQRB7iihV1hDFTL.jpg

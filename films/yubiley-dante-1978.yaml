@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q12838453
   imdb: tt1493313
+  tmdb: 530617
 sources:
 - https://www.wikidata.org/wiki/Q12838453
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: ogly-mir-kasimov-oktay-mir-asadulla
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /z1i3JM4YH5Qpr3v4c0QEZDfytAn.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26219776
   imdb: tt0052743
+  tmdb: 479109
 sources:
 - https://www.wikidata.org/wiki/Q26219776
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - kosmac-france
 cast:
 - person: sotlar-bert
+poster_tmdb_path: /guK92cpnlfdqtolFkt9jOoePBl0.jpg

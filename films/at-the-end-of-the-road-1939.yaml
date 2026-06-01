@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9364265
   imdb: tt0283092
+  tmdb: 748514
 sources:
 - https://www.wikidata.org/wiki/Q9364265
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: irena-malkevich
 - person: yunosha-stempovskiy-kazimezh
 - person: vishnevskaya-tamara
+poster_tmdb_path: /iagmu7lCJiAQ4shutVQIZfaxkeS.jpg

@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4168652
   imdb: tt0173777
   youtube: WSfcRujFZa0
+  tmdb: 456326
 sources:
 - https://www.wikidata.org/wiki/Q4168652
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ismaylov-gadzhi
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /jEzONBE9weBGSVHvcXo5orXMnej.jpg
+backdrop_tmdb_path: /unBnxvX47Wt2wTCUz9DAP9AIFuf.jpg

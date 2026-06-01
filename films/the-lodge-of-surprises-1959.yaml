@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q96314796
   imdb: tt0355698
+  tmdb: 618954
 sources:
 - https://www.wikidata.org/wiki/Q96314796
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: ibrakhim-abdel-moneym
 - person: al-kasbadzhi-riad
 - person: bably-soher-el
+poster_tmdb_path: /a1xrn0cPwEVBjLjBcR9oHdjGsat.jpg
+backdrop_tmdb_path: /qvsqJ6iEI0tfED5hGrWY5GMZxNQ.jpg

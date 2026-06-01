@@ -8,6 +8,7 @@ runtime_min: 45
 external_ids:
   wikidata: Q9376161
   imdb: tt0069506
+  tmdb: 361700
 sources:
 - https://www.wikidata.org/wiki/Q9376161
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kondratiuk-andrzej
 cast:
 - person: maklakiewicz-zdzis-aw
+poster_tmdb_path: /prLfFpyZ0tDHt9nxt0nLiDRhaR0.jpg
+backdrop_tmdb_path: /dnRbEM2yDzFPZ1mTej0e0g1HHjb.jpg

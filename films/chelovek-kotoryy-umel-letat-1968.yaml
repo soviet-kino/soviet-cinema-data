@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20081756
   imdb: tt6489298
+  tmdb: 903356
 sources:
 - https://www.wikidata.org/wiki/Q20081756
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - sivokon-evgeniy-yakovlevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /j30DK7J2wmfqJWon390dL1pEpTY.jpg

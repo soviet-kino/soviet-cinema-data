@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4155619
   imdb: tt0383329
   youtube: A0OuU2PWoOE
+  tmdb: 337737
 sources:
 - https://www.wikidata.org/wiki/Q4155619
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: barmin-nikolay-mikhaylovich
 - person: evtifev-leonid-mikhaylovich
 - person: dzhallyev-artyk
+poster_tmdb_path: /9re3UMVvRod0B84XrMbMnINplqq.jpg

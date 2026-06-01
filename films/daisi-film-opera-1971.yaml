@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4154031
   imdb: tt0275288
+  tmdb: 1203543
 sources:
 - https://www.wikidata.org/wiki/Q4154031
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - paliashvili-zakhariy-petrovich
 studio:
 - gruziya-film
+poster_tmdb_path: /xSBKsI8JwNj1IwJJ7sBkmQWsR8S.jpg
+backdrop_tmdb_path: /yLIUBT2bWM8rUEARcxeoqQdMi46.jpg

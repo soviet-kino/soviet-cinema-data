@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q3612314
   imdb: tt0079744
+  tmdb: 263837
 sources:
 - https://www.wikidata.org/wiki/Q3612314
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ruslanova-nina-ivanovna
 studio:
 - lenfilm
+poster_tmdb_path: /oKv0neCSdao81YRX9wOyKSzZg2b.jpg
+backdrop_tmdb_path: /eLih2GBlOd2TeXCqe8FH0z63Wav.jpg

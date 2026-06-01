@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4216305
   imdb: tt0065934
   youtube: t_rmuj4n1Gg
+  tmdb: 409082
 sources:
 - https://www.wikidata.org/wiki/Q4216305
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kashintsev-igor-konstantinovich
 - person: sergachyov-viktor-nikolaevich
 - person: korolyova-elena-georgievna
+poster_tmdb_path: /ntZiiGD6MW7SJAfz8N2lUcAaSlL.jpg
+backdrop_tmdb_path: /jtrdN7PRAN7CFWjAcnMVpnLzK2j.jpg

@@ -8,6 +8,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q1439777
   imdb: tt0452363
+  tmdb: 582719
 sources:
 - https://www.wikidata.org/wiki/Q1439777
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - pars-kheyno
 composer:
 - pyart-arvo
+poster_tmdb_path: /qYWkSATZPn7KynGqTHXOks639e2.jpg

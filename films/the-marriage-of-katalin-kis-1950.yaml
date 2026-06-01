@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q30087716
   imdb: tt0042647
+  tmdb: 286608
 sources:
 - https://www.wikidata.org/wiki/Q30087716
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 cast:
 - person: mesarosh-agi
 - person: szirtes-adam
+poster_tmdb_path: /fIyMUL5BqthIIFa3YJ4PcTYRV15.jpg
+backdrop_tmdb_path: /wU9m8tUtWynAyIVoHboNl37CdXh.jpg

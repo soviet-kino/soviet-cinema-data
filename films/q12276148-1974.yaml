@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12276148
   imdb: tt0169937
+  tmdb: 1003048
 sources:
 - https://www.wikidata.org/wiki/Q12276148
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - stratiev-stanislav
 composer:
 - petkov-bozhidar
+poster_tmdb_path: /kxd4EouzgkNUcKmLWqjaxkdLBEb.jpg

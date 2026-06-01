@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4226035
   imdb: tt0171699
+  tmdb: 270375
 sources:
 - https://www.wikidata.org/wiki/Q4226035
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kancheli-giya-aleksandrovich
 cast:
 - person: takaishvili-sesil
+poster_tmdb_path: /lkB60GwdRLbf2wS6KDYDlqn6RoX.jpg
+backdrop_tmdb_path: /6n9OQWu7Mq8kc5imCOFm4hULoZ2.jpg

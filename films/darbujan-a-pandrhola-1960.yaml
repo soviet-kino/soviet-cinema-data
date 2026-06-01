@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q5243733
   imdb: tt0052721
+  tmdb: 116174
 sources:
 - https://www.wikidata.org/wiki/Q5243733
 schema_version: 1
@@ -71,3 +72,5 @@ cast:
 - person: jurickova-irena
 - person: vachova-vera
 - person: stepanova-ruzena
+poster_tmdb_path: /eLY0zSmvKimd9vbM0Cq7aCnfc0n.jpg
+backdrop_tmdb_path: /6bL1vif6VVFzGB7WLYjfPzRKWHV.jpg

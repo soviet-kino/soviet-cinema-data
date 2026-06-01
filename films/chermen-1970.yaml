@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q4513245
   imdb: tt0275256
+  tmdb: 148411
 sources:
 - https://www.wikidata.org/wiki/Q4513245
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - pliev-gris-dzambolatovich
 cast:
 - person: vataev-bimbolat-zaurbekovich
+poster_tmdb_path: /oXmjSh84p2NUf3WAuRxnZTi38Bv.jpg
+backdrop_tmdb_path: /j90CGg9RI5ubaf82X3WkdflghFl.jpg

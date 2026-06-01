@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q11791197
   imdb: tt0296255
+  tmdb: 503256
 sources:
 - https://www.wikidata.org/wiki/Q11791197
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: ksepa-ndrikim
 - person: rudi-gezim
 - person: makochi-matilda
+poster_tmdb_path: /4qqlGi6yAOElRlpnUQFPd98lAec.jpg
+backdrop_tmdb_path: /lxtfsKsCTgIGWH3J450rLL3sKpK.jpg

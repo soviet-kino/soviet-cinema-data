@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4155578
   imdb: tt0182056
   youtube: Eu9un0l6kpM
+  tmdb: 72622
 sources:
 - https://www.wikidata.org/wiki/Q4155578
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: grinko-nikolai
 studio:
 - lenfilm
+poster_tmdb_path: /niWCgozEUPtfmt6o9u9ivxCPpmu.jpg
+backdrop_tmdb_path: /4W4zcPwoTypvgazt8neynvWGYWJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 54
 external_ids:
   wikidata: Q16687352
   imdb: tt5587450
+  tmdb: 425184
 sources:
 - https://www.wikidata.org/wiki/Q16687352
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: rogozhin-naum-aleksandrovich
 studio:
 - sovkino
+poster_tmdb_path: /mVkgDrzixOJiZT6lZ1fHJyHsX9i.jpg
+backdrop_tmdb_path: /bLZhMvCTdokxluL81NZS4vuaHVo.jpg

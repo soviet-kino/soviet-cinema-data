@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q1035545
   imdb: tt0074623
+  tmdb: 263822
 sources:
 - https://www.wikidata.org/wiki/Q1035545
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: zala-mark
 - person: romanelli-karla
 - person: kholman-endre
+poster_tmdb_path: /dYgVypddZycrVLhRwntVFeny02h.jpg

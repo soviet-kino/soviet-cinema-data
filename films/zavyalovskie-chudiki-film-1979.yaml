@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q116864992
   imdb: tt0078521
+  tmdb: 889608
 sources:
 - https://www.wikidata.org/wiki/Q116864992
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - tsvetkov-igor-arkadevich
 studio:
 - lenfilm
+poster_tmdb_path: /df14nLz7jtswqBvuqPAOTuw3TQx.jpg
+backdrop_tmdb_path: /rrXF6SFtWZoZG2svJZg8DTIrBmu.jpg

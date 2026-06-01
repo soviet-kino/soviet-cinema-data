@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5005114
   imdb: tt0168559
   youtube: 0P9vBT4uFPs
+  tmdb: 455744
 sources:
 - https://www.wikidata.org/wiki/Q5005114
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: kocourek-karel
 - person: holubar-milan
 - person: kramesova-blazena
+poster_tmdb_path: /jxT2yAX4ieGdiG9RzYbmDrXEl9l.jpg
+backdrop_tmdb_path: /s22jydlbJvHLr3BGXRCm1AePxsD.jpg

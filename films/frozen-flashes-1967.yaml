@@ -8,6 +8,7 @@ runtime_min: 166
 external_ids:
   wikidata: Q1218285
   imdb: tt0061700
+  tmdb: 49006
 sources:
 - https://www.wikidata.org/wiki/Q1218285
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: morgan-david
 studio:
 - defa
+poster_tmdb_path: /9mPtBGZKp8ntkdVxcrmmxFHHfHe.jpg
+backdrop_tmdb_path: /whYhT1hRhiZg2VdTc49UScCPK8n.jpg

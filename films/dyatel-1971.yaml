@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4172491
   imdb: tt0065672
+  tmdb: 156616
 sources:
 - https://www.wikidata.org/wiki/Q4172491
 schema_version: 1
@@ -52,3 +53,5 @@ cast:
 - person: kouol-mitchell
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /55VkU6D1H42PURd9AEhqPLGlZt3.jpg
+backdrop_tmdb_path: /pTsUPOVn1kTNZngfAaVmrerz3MA.jpg

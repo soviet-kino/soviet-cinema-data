@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q33051950
   imdb: tt0102051
+  tmdb: 462158
 sources:
 - https://www.wikidata.org/wiki/Q33051950
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: taratorkin-georgiy-georgievich
 studio:
 - mosfilm
+poster_tmdb_path: /cV2wnY6wPAxq6yVBJcjZs7SLrhr.jpg

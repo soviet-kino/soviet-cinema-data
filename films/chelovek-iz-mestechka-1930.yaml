@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q107152131
   imdb: tt0020760
+  tmdb: 1660158
 sources:
 - https://www.wikidata.org/wiki/Q107152131
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 cast:
 - person: zuskin-veniamin-lvovich
 - person: petrov-sergey-sergeevich
+poster_tmdb_path: /jtDfMNYLDCLpTLKEnc89G9fr52E.jpg

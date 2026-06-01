@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4168624
   imdb: tt0422141
   youtube: CPMSvE-OSg4
+  tmdb: 332146
 sources:
 - https://www.wikidata.org/wiki/Q4168624
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - firtich-georgiy
 studio:
 - ekran
+poster_tmdb_path: /l0cZbf0MoMvDwmYcgYuMy3Twlbz.jpg
+backdrop_tmdb_path: /tR5W1PFe5t3SM7lQaFuarAyGP1B.jpg

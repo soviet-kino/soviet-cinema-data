@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q106717099
   imdb: tt0294405
+  tmdb: 259439
 sources:
 - https://www.wikidata.org/wiki/Q106717099
 schema_version: 1
 director:
 - brandt-khorst-e
+poster_tmdb_path: /tgYZXyuge3ZhtAW9St1fiFtC3ql.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4880335
   imdb: tt0095632
+  tmdb: 131077
 sources:
 - https://www.wikidata.org/wiki/Q4880335
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: winkler-nora
 - person: csontos-robert
 - person: kolgyesi-gyorgy
+poster_tmdb_path: /oedGyNSTZUSZknI9hnktMjvsE8a.jpg
+backdrop_tmdb_path: /vUg3TY5MIAmHSCdYK71NYvh58Ve.jpg

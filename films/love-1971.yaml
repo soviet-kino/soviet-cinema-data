@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q909375
   imdb: tt0067814
+  tmdb: 42516
 sources:
 - https://www.wikidata.org/wiki/Q909375
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bichkei-tibor
 - person: darvash-ivan
 - person: darvash-lili
+poster_tmdb_path: /olMyYBr97MDvn9hJM2se96XtZp6.jpg
+backdrop_tmdb_path: /biyESqYfSpmoRP7XzUY4KfMyYzC.jpg

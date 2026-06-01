@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q1409487
   imdb: tt0076022
+  tmdb: 7057
 sources:
 - https://www.wikidata.org/wiki/Q1409487
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: hladik-peter
 - person: uider-teresiya
 - person: knyotssh-khans
+poster_tmdb_path: /9rAvNQJcq0Jec9nUhPTWvkHODcR.jpg

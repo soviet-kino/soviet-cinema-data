@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12849522
   imdb: tt0301107
+  tmdb: 473077
 sources:
 - https://www.wikidata.org/wiki/Q12849522
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - ogly-mir-kasimov-oktay-mir-asadulla
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /bxNHlp3paMqfeySxpEfN4hkWRl1.jpg
+backdrop_tmdb_path: /4E8EXH6rHxpVQOrv1HCfoDAyvcd.jpg

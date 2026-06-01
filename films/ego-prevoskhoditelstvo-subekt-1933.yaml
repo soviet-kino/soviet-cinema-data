@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11723941
   imdb: tt0151124
+  tmdb: 157706
 sources:
 - https://www.wikidata.org/wiki/Q11723941
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: benita-ina
 - person: buchinskaya-khelena
 - person: bogutskiy-andzhey
+poster_tmdb_path: /xFY0I056A7E2yPS7eLdunEe8HZW.jpg

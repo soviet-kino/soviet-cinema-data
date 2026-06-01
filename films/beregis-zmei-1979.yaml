@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4084217
   imdb: tt0376509
   youtube: ze5X1yfsmwk
+  tmdb: 705577
 sources:
 - https://www.wikidata.org/wiki/Q4084217
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: puzyryov-yuriy-nikolaevich
 - person: saidkasymov-pulat
+poster_tmdb_path: /1rcIzg8czspsvzbs0kbDgKT9LEo.jpg
+backdrop_tmdb_path: /fs2PlhVnmz8YPToUxazpnmpO2aS.jpg

@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q130389056
   imdb: tt5372550
+  tmdb: 1529333
 sources:
 - https://www.wikidata.org/wiki/Q130389056
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - zubtsov-evgeniy-nikitovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /yRBvei3Bq0iNeEafLIacW4fkiq0.jpg

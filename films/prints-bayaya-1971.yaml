@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q2110618
   imdb: tt0067616
+  tmdb: 306260
 sources:
 - https://www.wikidata.org/wiki/Q2110618
 schema_version: 1
@@ -78,3 +79,5 @@ cast:
 - person: pechacek-jiri
 - person: bucek-vit
 - person: touska-jan
+poster_tmdb_path: /gZAIiQ7OGHCoL7zEIVQfkxD5AQN.jpg
+backdrop_tmdb_path: /fvoc4E0x5dwwgk6Ejq4n2bJ89or.jpg

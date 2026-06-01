@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11784357
   imdb: tt0061985
+  tmdb: 492937
 sources:
 - https://www.wikidata.org/wiki/Q11784357
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - zielinski-andrzej
 cast:
 - person: turek-ezhi
+poster_tmdb_path: /9WeLb2g5IJC1Gj0Q6kuHEn787QI.jpg

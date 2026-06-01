@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4191130
   imdb: tt0072442
+  tmdb: 875514
 sources:
 - https://www.wikidata.org/wiki/Q4191130
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: nikonenko-sergey
 studio:
 - mosfilm
+poster_tmdb_path: /5sCh7E3tBNzvl0mnDSqY33a6wMD.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q21035739
   imdb: tt0069231
+  tmdb: 284665
 sources:
 - https://www.wikidata.org/wiki/Q21035739
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - gusko-erikh
 composer:
 - nemen-cheslav
+poster_tmdb_path: /l17w4lUEA5a6HLjZk6H5Y2mD8W6.jpg
+backdrop_tmdb_path: /cTuFEXaCtoXRpQcmVrUyvIN9tGg.jpg

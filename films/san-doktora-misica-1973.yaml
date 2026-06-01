@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31184916
   imdb: tt0200085
+  tmdb: 269176
 sources:
 - https://www.wikidata.org/wiki/Q31184916
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: mirich-voyya
 - person: khaytl-ivan
 - person: puzich-milan
+poster_tmdb_path: /kYHAEBU3dPxdkznp7bmAks3vG8h.jpg

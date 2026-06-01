@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4366855
   imdb: tt0160679
   youtube: 7ws_6zPE6S0
+  tmdb: 335047
 sources:
 - https://www.wikidata.org/wiki/Q4366855
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: dubrovskiy-vladimir
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dU2u2MljWoE2mjrYcrKJMeqwOLm.jpg
+backdrop_tmdb_path: /6ghvO36dNk4DDJsYH7GzMK62xbC.jpg

@@ -8,6 +8,7 @@ runtime_min: 648
 external_ids:
   wikidata: Q4453108
   imdb: tt4857252
+  tmdb: 448604
 sources:
 - https://www.wikidata.org/wiki/Q4453108
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - oranskiy-viktor-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /49yeylgEf6V2hW7j2oLySrx7iqJ.jpg

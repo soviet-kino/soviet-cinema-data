@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7737051
   imdb: tt0056835
+  tmdb: 355852
 sources:
 - https://www.wikidata.org/wiki/Q7737051
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: maklari-zoltan
 - person: pechi-shandor
 - person: kut-robert
+poster_tmdb_path: /bbIu6MW92zE8ThfEAgLfZyV4Nwk.jpg

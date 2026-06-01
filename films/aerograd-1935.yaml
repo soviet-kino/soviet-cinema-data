@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2369228
   imdb: tt0026040
   youtube: JpkjdvLCHA0
+  tmdb: 49044
 sources:
 - https://www.wikidata.org/wiki/Q2369228
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 studio:
 - kinostudiya-imeni-a-dovzhenko
 poster_commons: Плакат к фильму «Аэроград».jpg
+poster_tmdb_path: /xhDKfTtjfV6t8NDJ3st0OoR9EhU.jpg
+backdrop_tmdb_path: /tz3SadH3xMsoU26kuHCrkwpPH6f.jpg

@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q11776842
   imdb: tt0089574
+  tmdb: 240860
 sources:
 - https://www.wikidata.org/wiki/Q11776842
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: wachelko-zaleska-krystyna
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /yMWMYVgeOT02XyTyH402pE8cUsm.jpg
+backdrop_tmdb_path: /gdtLgGqY5VGAbixZjoMWNbi1LeR.jpg

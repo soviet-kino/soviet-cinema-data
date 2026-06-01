@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q331405
   imdb: tt0062453
   youtube: Amh3uudVMBo
+  tmdb: 57230
 sources:
 - https://www.wikidata.org/wiki/Q331405
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: yakovchenko-nikolay-fyodorovich
 - person: orlovskiy-dmitriy-dmitrievich
 - person: kramar-mikhail-polikarpovich
+poster_tmdb_path: /tSmjtlSoulKuyEwJuUK7k8dRuAD.jpg
+backdrop_tmdb_path: /8NdbgS3Ndc7Q8cZIuHquhID9C6j.jpg

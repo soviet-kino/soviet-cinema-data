@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q9199844
   imdb: tt0075903
+  tmdb: 152223
 sources:
 - https://www.wikidata.org/wiki/Q9199844
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - kondratiuk-andrzej
 cast:
 - person: klosovskiy-roman
+poster_tmdb_path: /lPFXRPjlwBDmwWKJXgklQVgt3rC.jpg

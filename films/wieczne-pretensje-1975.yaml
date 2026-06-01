@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q9372649
   imdb: tt0073899
+  tmdb: 335009
 sources:
 - https://www.wikidata.org/wiki/Q9372649
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - dziworski-bogdan
 composer:
 - kuznyak-khenrik
+poster_tmdb_path: /bfGvIMhsY5DeNTdr0DFX0cy8Jff.jpg
+backdrop_tmdb_path: /q9W8HHbEQbvW1gXpOvG0FCn0FNy.jpg

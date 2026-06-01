@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q773110
   imdb: tt0060116
+  tmdb: 42715
 sources:
 - https://www.wikidata.org/wiki/Q773110
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: balint-andrash
 - person: gabor-miklosh
 - person: tolnai-klari
+poster_tmdb_path: /qjtmvPq6lcQQYwdBKO6lZlZ105I.jpg
+backdrop_tmdb_path: /40iHvDkT3YfnIGSIHQhw0HxOFtJ.jpg

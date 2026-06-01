@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q114876
   imdb: tt0066509
+  tmdb: 278795
 sources:
 - https://www.wikidata.org/wiki/Q114876
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - mosfilm
 - studiya-khudozhestvennykh-filmov-defa
+poster_tmdb_path: /tDw0oqcxEnykdt8nNwUVhRTh8PA.jpg
+backdrop_tmdb_path: /1n8asYOOGBu0lxqD9QgYjozTuwR.jpg

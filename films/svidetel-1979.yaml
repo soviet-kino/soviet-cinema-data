@@ -28,6 +28,9 @@ runtime_min: 106
 external_ids:
   wikidata: Q472007
   imdb: tt0065067
+  tmdb: 40987
 sources:
 - https://www.wikidata.org/wiki/Q472007
 schema_version: 1
+poster_tmdb_path: /l6X1hx0Ux5hQYSl7YpQiyIsdzO7.jpg
+backdrop_tmdb_path: /dQLrjSyy64FyU8G1YKaDFA9mJEl.jpg

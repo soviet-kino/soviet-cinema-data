@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q105635537
   imdb: tt0079533
+  tmdb: 330545
 sources:
 - https://www.wikidata.org/wiki/Q105635537
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - klyayst-vinfrid
 composer:
 - behrsing-hartmut
+poster_tmdb_path: /vjDv08PVQVMtBFYotpfSc4gfUm5.jpg

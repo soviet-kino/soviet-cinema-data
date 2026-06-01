@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4156465
   imdb: tt5539484
   youtube: miVewOYra0E
+  tmdb: 1096262
 sources:
 - https://www.wikidata.org/wiki/Q4156465
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: shevtsov-dmitriy-aleksandrovich
 studio:
 - ukrtelefilm
+poster_tmdb_path: /giTdFrFnYfE0rpeU67QXQAGoKbf.jpg

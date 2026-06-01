@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q48842061
   imdb: tt0380818
+  tmdb: 394274
 sources:
 - https://www.wikidata.org/wiki/Q48842061
 schema_version: 1
 director:
 - lozinskiy-marsel
+poster_tmdb_path: /mfCvCzPiGSrlmkvkbjQIKYQhruA.jpg

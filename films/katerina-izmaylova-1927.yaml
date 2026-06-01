@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q134528664
   imdb: tt0151192
+  tmdb: 810176
 sources:
 - https://www.wikidata.org/wiki/Q134528664
 schema_version: 1
 studio:
 - sovkino
+poster_tmdb_path: /sARu56E4F6T9fFZdrrIDLs8J6I3.jpg

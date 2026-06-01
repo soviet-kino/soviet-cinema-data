@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q11862911
   imdb: tt0167112
+  tmdb: 360890
 sources:
 - https://www.wikidata.org/wiki/Q11862911
 schema_version: 1
@@ -56,3 +57,4 @@ cast:
 - person: prochazkova-l
 - person: venzara-karel
 - person: bures-alois
+poster_tmdb_path: /7sjkaxKyOBAGKJPcxETVzZzNL6U.jpg

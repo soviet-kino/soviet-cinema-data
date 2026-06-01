@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q130743695
   imdb: tt0232990
+  tmdb: 724965
 sources:
 - https://www.wikidata.org/wiki/Q130743695
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 - person: q131765991
 - person: ml-karel-sott
 - person: koutna-j
+poster_tmdb_path: /fo0r5L0z4k55aNcBQ9jAEk9aZ5j.jpg

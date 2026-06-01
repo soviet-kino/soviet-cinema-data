@@ -8,6 +8,7 @@ runtime_min: 5
 external_ids:
   wikidata: Q66124409
   imdb: tt0172658
+  tmdb: 49100
 sources:
 - https://www.wikidata.org/wiki/Q66124409
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: dmokhovskiy-mariush
 - person: winiarska-halina
 - person: igar-stanislav
+poster_tmdb_path: /8WPxBeDOmNYBThJrLScF2DEyTLu.jpg
+backdrop_tmdb_path: /i7eqj3Dh6v5mWv0UrQNy3jNlleF.jpg

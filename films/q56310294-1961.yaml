@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q56310294
   imdb: tt0172858
+  tmdb: 783547
 sources:
 - https://www.wikidata.org/wiki/Q56310294
 schema_version: 1
 director:
 - lomnitskiy-yan
+poster_tmdb_path: /l49jYokUOZGl7tuau46oVVhGdRQ.jpg

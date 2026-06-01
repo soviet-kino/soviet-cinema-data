@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4112034
   imdb: tt0063784
   youtube: xvotbRblKls
+  tmdb: 280766
 sources:
 - https://www.wikidata.org/wiki/Q4112034
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: chursina-lyudmila-alekseevna
 - person: vladimirova-valentina-kharlampievna
 - person: gubanova-irina-igorevna
+poster_tmdb_path: /cX14CNDROwDUfIIeePCFAl1lQVY.jpg
+backdrop_tmdb_path: /nbLMVL5iJsDVsHUiOzdpC4WUYKm.jpg

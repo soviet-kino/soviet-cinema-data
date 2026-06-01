@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q50454523
   imdb: tt1636723
+  tmdb: 1422414
 sources:
 - https://www.wikidata.org/wiki/Q50454523
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: bulgakova-mayya
 - person: kurbanov-saydo-boboevich
 - person: utepbergenov-mentay-smagulovich
+poster_tmdb_path: /7xG4oHLdnMHZ5YMvWFrO0S25pwp.jpg
+backdrop_tmdb_path: /b9IcPDukJ7eGpNu2OPrhRtCLDWL.jpg

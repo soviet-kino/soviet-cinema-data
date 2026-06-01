@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4141089
   imdb: tt0091124
   youtube: uv5A-6pgMJU
+  tmdb: 72623
 sources:
 - https://www.wikidata.org/wiki/Q4141089
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: muravyova-irina-vadimovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /oZozz0ofPHMY2KEKlA4dJ7CPlro.jpg
+backdrop_tmdb_path: /kqXRO7KuLdDbTTFhBVSy0G9Ck8z.jpg

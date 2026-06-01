@@ -8,6 +8,7 @@ runtime_min: 6
 external_ids:
   wikidata: Q65658660
   imdb: tt2945750
+  tmdb: 287159
 sources:
 - https://www.wikidata.org/wiki/Q65658660
 schema_version: 1
@@ -20,3 +21,5 @@ screenwriter:
 studio:
 - mezhrabpomfilm
 - mezhrabpom-rus
+poster_tmdb_path: /evD8JjjDKE80ggagzux5692Azjk.jpg
+backdrop_tmdb_path: /mcfG88LdWeB918zlFA7h2NUtwLW.jpg

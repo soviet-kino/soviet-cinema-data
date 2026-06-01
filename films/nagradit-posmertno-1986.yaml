@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4311717
   imdb: tt0091602
   youtube: LXe67L3ka9Q
+  tmdb: 87767
 sources:
 - https://www.wikidata.org/wiki/Q4311717
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: timoshkin-aleksandr-mikhaylovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vcB7s6bu5TN35PlhxnjThiM8Xwh.jpg
+backdrop_tmdb_path: /iKKTeRTiQcle8A3PL4ARUkhdLQd.jpg

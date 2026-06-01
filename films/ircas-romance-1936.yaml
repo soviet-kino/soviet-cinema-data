@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q58411741
   imdb: tt0151075
+  tmdb: 594039
 sources:
 - https://www.wikidata.org/wiki/Q58411741
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: stahlova-pavla
 - person: kopecka-marie
 - person: ondrova-lida
+poster_tmdb_path: /okD8QPQMfMwjPYaMLnWMQsBcxdQ.jpg

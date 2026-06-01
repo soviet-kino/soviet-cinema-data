@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q12274063
   imdb: tt0279665
+  tmdb: 535235
 sources:
 - https://www.wikidata.org/wiki/Q12274063
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: tsonev-kosta
 - person: merkurev-vasiliy-vasilevich
 - person: kokanova-nevena
+poster_tmdb_path: /bls57ue8Q9Kn0m5YD85tgbb2HzF.jpg
+backdrop_tmdb_path: /mhuRwLZpEhiAxNaFeZoYwZXuCSf.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q12182262
   imdb: tt0366622
+  tmdb: 64085
 sources:
 - https://www.wikidata.org/wiki/Q12182262
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: sabry-maha
 - person: deken-taufik-el
 - person: q12249863
+poster_tmdb_path: /tzZII7TsBRRKC04Qwf2BaOwaep5.jpg
+backdrop_tmdb_path: /hXQH3BCluvXqT1x5CNvIB5LZWLw.jpg

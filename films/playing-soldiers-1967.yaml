@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q7203404
   imdb: tt0066046
+  tmdb: 198777
 sources:
 - https://www.wikidata.org/wiki/Q7203404
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 cast:
 - person: aleksich-miya
 - person: stol-arandzhelovich
+poster_tmdb_path: /i45TSPvnMwWEnnxs7n50yMFKQ27.jpg
+backdrop_tmdb_path: /8KiYQhV25tBamZZb9thVyth5Ooo.jpg

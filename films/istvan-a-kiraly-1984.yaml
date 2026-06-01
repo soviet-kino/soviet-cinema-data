@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q27988612
   imdb: tt0087488
+  tmdb: 168601
 sources:
 - https://www.wikidata.org/wiki/Q27988612
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: vikidal-gyula
 - person: soros-sandor
 - person: uylaki-laslo
+poster_tmdb_path: /te2cpF0VyYgT4rmL3KGP4hfG1TF.jpg
+backdrop_tmdb_path: /dkl22XWm3QESKRdtUtdmSyPzmFc.jpg

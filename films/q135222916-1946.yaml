@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q135222916
   imdb: tt6641376
+  tmdb: 1112639
 sources:
 - https://www.wikidata.org/wiki/Q135222916
 schema_version: 1
 director:
 - slavinskaya-mariya-evgenevna
+poster_tmdb_path: /snVeHJsC6uioPkQoKkHbJfBbsds.jpg
+backdrop_tmdb_path: /g3FtuIKf6ZmEQ95sz5X5gLlSNLS.jpg

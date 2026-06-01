@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1635046
   imdb: tt0077222
   youtube: Miu3QyB6KPg
+  tmdb: 63899
 sources:
 - https://www.wikidata.org/wiki/Q1635046
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: tikhonov-vyacheslav-vasilevich
 - person: vladimirova-valentina-kharlampievna
 - person: stiv
+poster_tmdb_path: /CKQXeM4mcVPyBrETyWn8IXlyZg.jpg
+backdrop_tmdb_path: /ovpqJ7PII8TwkBgesbOpQzwSkIs.jpg

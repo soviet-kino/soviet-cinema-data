@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q688925
   imdb: tt0065226
+  tmdb: 94527
 sources:
 - https://www.wikidata.org/wiki/Q688925
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 studio:
 - kamera-kinostudiya
 poster_commons: Wajda Wszystko na sprzedaz.png
+poster_tmdb_path: /hhRWKFrjeOK8MZ4IX2itZLvJPJC.jpg
+backdrop_tmdb_path: /c9B2ZkMPrI7TVjHLeTyg8czs6yR.jpg

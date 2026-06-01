@@ -8,6 +8,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q131721512
   imdb: tt4687092
+  tmdb: 572872
 sources:
 - https://www.wikidata.org/wiki/Q131721512
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - vigners-ivars
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /zUoBZNJvA3sAjFlz7jw7oPodD1e.jpg
+backdrop_tmdb_path: /9JcvcP72Y2VHl1NPmhehwU6Mapw.jpg

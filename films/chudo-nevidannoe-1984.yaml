@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4846286
   imdb: tt0173750
+  tmdb: 80704
 sources:
 - https://www.wikidata.org/wiki/Q4846286
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: mandich-velko
 - person: kodzic-mirjana
 - person: jaukovic-sonja
+poster_tmdb_path: /nrGqtFwlVGHlj7tVYwBlFzFrVKm.jpg
+backdrop_tmdb_path: /1s8lc34uUBLGf9pIpTY0KpET93p.jpg

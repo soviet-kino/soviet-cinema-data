@@ -8,6 +8,7 @@ runtime_min: 44
 external_ids:
   wikidata: Q1219938
   imdb: tt0283158
+  tmdb: 218952
 sources:
 - https://www.wikidata.org/wiki/Q1219938
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: blyume-renata
 studio:
 - defa
+poster_tmdb_path: /hCCbMrC4o1Ve3c2pdblyYg7g3dB.jpg
+backdrop_tmdb_path: /aVw6nbcR8ymrcLChz8w4nRo3VWg.jpg

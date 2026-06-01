@@ -9,8 +9,10 @@ external_ids:
   wikidata: Q110249772
   imdb: tt15576712
   youtube: guzR5jFiFIU
+  tmdb: 363811
 sources:
 - https://www.wikidata.org/wiki/Q110249772
 schema_version: 1
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /mTqujFRHj8bX10wsUjkkZDZMiZL.jpg

@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q1171380
   imdb: tt0042627
+  tmdb: 13101
 sources:
 - https://www.wikidata.org/wiki/Q1171380
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: lyobinger-lotta
 - person: moyk-luts
 - person: tarrakh-valter
+poster_tmdb_path: /eDL1lpeji1bOtFKYkOV9EVPwDRR.jpg
+backdrop_tmdb_path: /9tC23FrKT8yJdCMKUTGUc2gbRY3.jpg

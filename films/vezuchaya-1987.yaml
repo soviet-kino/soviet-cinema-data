@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270511
   imdb: tt0094259
+  tmdb: 621420
 sources:
 - https://www.wikidata.org/wiki/Q15270511
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: mayorova-elena
 studio:
 - mosfilm
+poster_tmdb_path: /9Yjw8gZXuB7KFu1TQfVN9Q7oGS2.jpg
+backdrop_tmdb_path: /kRuli9UEAcQB4FKrkrIVvR79KXD.jpg

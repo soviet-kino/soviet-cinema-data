@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q7621641
   imdb: tt0087123
+  tmdb: 15203
 sources:
 - https://www.wikidata.org/wiki/Q7621641
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: mincic-pavle
 - person: milenkovic-zivojin
 - person: zeremski-branislav
+poster_tmdb_path: /uE9HN2MJEZcbtaS4YevRu7QvFnF.jpg
+backdrop_tmdb_path: /6nZx19dEENHeguYB0hfvuSUNVuG.jpg

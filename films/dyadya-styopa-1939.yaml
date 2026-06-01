@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4172461
   imdb: tt6052428
+  tmdb: 447000
 sources:
 - https://www.wikidata.org/wiki/Q4172461
 schema_version: 1
@@ -19,3 +20,4 @@ screenwriter:
 studio:
 - soyuzmultfilm
 poster_commons: Uncle Styopa animated film.jpg
+poster_tmdb_path: /lZXEhV89KwKPI9ahhS1ARKQuSts.jpg

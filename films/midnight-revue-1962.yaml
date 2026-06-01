@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q2147019
   imdb: tt0056411
+  tmdb: 279731
 sources:
 - https://www.wikidata.org/wiki/Q2147019
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: khebenshtrayt-pedro
 - person: lirk-verner
 - person: shvabe-villi
+poster_tmdb_path: /33VjWQoqzHcJvRGOUo5TLFLq7X7.jpg

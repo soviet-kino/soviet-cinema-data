@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q131304845
   imdb: tt0247326
+  tmdb: 705106
 sources:
 - https://www.wikidata.org/wiki/Q131304845
 schema_version: 1
@@ -59,3 +60,5 @@ cast:
 - person: varsky-ota
 - person: ryslink-ladislav
 - person: repik-j
+poster_tmdb_path: /cWesqfVXt9DHKXGINzyvJMLQBcq.jpg
+backdrop_tmdb_path: /jn7PQmIG4qB4TVLzIoD4QcTYm9g.jpg

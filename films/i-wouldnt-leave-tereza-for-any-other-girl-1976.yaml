@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q117316381
   imdb: tt0282198
+  tmdb: 434496
 sources:
 - https://www.wikidata.org/wiki/Q117316381
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: polasek-karel
 - person: judt-norbert
 - person: tereza
+poster_tmdb_path: /bRfA83ZtU6t4duXhlhMnWxOEzyl.jpg

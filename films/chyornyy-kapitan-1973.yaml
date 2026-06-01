@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4518881
   imdb: tt0069880
   youtube: QD-0xThZGd8
+  tmdb: 1487526
 sources:
 - https://www.wikidata.org/wiki/Q4518881
 schema_version: 1
@@ -21,3 +22,4 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: goloborodko-aleksandr-aleksandrovich
+poster_tmdb_path: /kEaasvULh34q6lJ2GbdHgVMtMZI.jpg

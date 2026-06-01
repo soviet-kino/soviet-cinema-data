@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q4145041
   imdb: tt0176782
+  tmdb: 887479
 sources:
 - https://www.wikidata.org/wiki/Q4145041
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: kulagin-leonid-nikolaevich
 - person: nosik-vladimir
 - person: pechernikova-irina-viktorovna
+poster_tmdb_path: /aDTsx0IOFKirNbMjNaYJZQ9E04.jpg
+backdrop_tmdb_path: /zv4lmhKAa5uRu6B19yi74Rd6iBL.jpg

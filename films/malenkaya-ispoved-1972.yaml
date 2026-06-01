@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q12664820
   imdb: tt0495853
+  tmdb: 280635
 sources:
 - https://www.wikidata.org/wiki/Q12664820
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - araminas-algirdas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /i9QQSlIaXYO1OtzjK500b7c2ho8.jpg
+backdrop_tmdb_path: /RGBKz5docf4Sw3IndTGUyggJ8E.jpg

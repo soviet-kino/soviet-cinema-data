@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4279718
   imdb: tt0064628
   youtube: _LqVzLqnqWc
+  tmdb: 197505
 sources:
 - https://www.wikidata.org/wiki/Q4279718
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ovchinnikova-lyusena-ivanovna
 studio:
 - lenfilm
+poster_tmdb_path: /vA96BQaNXTcitquOi6MJoiKpodU.jpg
+backdrop_tmdb_path: /rJvR84dLC9yfMChlzWxDBUud1be.jpg

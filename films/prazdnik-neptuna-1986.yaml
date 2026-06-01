@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q4376311
   imdb: tt0093772
+  tmdb: 218461
 sources:
 - https://www.wikidata.org/wiki/Q4376311
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: smirnov-andrey-yurevich
 studio:
 - lenfilm
+poster_tmdb_path: /5ZEhKTOr1zd80tUMv7b5nJP9VNA.jpg
+backdrop_tmdb_path: /8MkIvBckiS9A9KF5jVbkW3nxD0e.jpg

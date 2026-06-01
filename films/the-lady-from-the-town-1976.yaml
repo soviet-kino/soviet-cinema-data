@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q11802638
   imdb: tt0173504
+  tmdb: 354589
 sources:
 - https://www.wikidata.org/wiki/Q11802638
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: raidhi-pandi
 studio:
 - kinostudio-shqiperia-e-re
+poster_tmdb_path: /xU2lRuJR8NRgJZfspVV9wS9LuuD.jpg
+backdrop_tmdb_path: /pOKcviDOvQCxzIvQMYedPVc0f3K.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q117476373
   imdb: tt0245375
+  tmdb: 1462791
 sources:
 - https://www.wikidata.org/wiki/Q117476373
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: buchma-amvrosiy-maksimilianovich
 - person: suslov-anisim-zinovevich
+poster_tmdb_path: /tkwlHJsrZudnHXWTeTGRuhbaFmB.jpg
+backdrop_tmdb_path: /ougIiTr2lbnPGJknoGadfpxmZ4b.jpg

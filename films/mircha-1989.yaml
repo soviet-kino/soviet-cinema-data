@@ -8,6 +8,7 @@ runtime_min: 136
 external_ids:
   wikidata: Q9122771
   imdb: tt0126439
+  tmdb: 297066
 sources:
 - https://www.wikidata.org/wiki/Q9122771
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: velnichuk-stefan
 - person: dobre-dzheo
 - person: urs-nikolae
+poster_tmdb_path: /59glEbyIK5VDsN64cnWdQwzmNbL.jpg

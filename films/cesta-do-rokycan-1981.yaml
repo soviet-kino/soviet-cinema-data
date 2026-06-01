@@ -8,6 +8,7 @@ runtime_min: 38
 external_ids:
   wikidata: Q110255012
   imdb: tt2532074
+  tmdb: 302060
 sources:
 - https://www.wikidata.org/wiki/Q110255012
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: yanzhurova-iva
 - person: dlougi-vladimir
 - person: menshik-vladimir
+backdrop_tmdb_path: /skPoWAboOTzMMYqUln6FL5kGqPZ.jpg

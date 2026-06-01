@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q65156178
   imdb: tt3340948
   youtube: WccRg7cf3JU
+  tmdb: 895385
 sources:
 - https://www.wikidata.org/wiki/Q65156178
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kataev-ilya-evgenevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /mihuWd4KXHjS6oi75cA02BKWAoX.jpg

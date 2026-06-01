@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q17167672
   imdb: tt1450095
+  tmdb: 411364
 sources:
 - https://www.wikidata.org/wiki/Q17167672
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: adamcikova-olga
 - person: slivkova-khana
 - person: mrvecka-anton
+poster_tmdb_path: /y3Jlmz2QIAZc94gLjBOBdK2DXMJ.jpg
+backdrop_tmdb_path: /8Oea23YnN8NsnGJ9V3CSQK5pduH.jpg

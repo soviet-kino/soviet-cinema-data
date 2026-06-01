@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4445543
   imdb: tt3171456
   youtube: usmb9ssGdvc
+  tmdb: 472057
 sources:
 - https://www.wikidata.org/wiki/Q4445543
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - shamo-igor
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /8CGQ4Vo8aPQO1nq2kbY379istpA.jpg
+backdrop_tmdb_path: /bFKSv1y31QqZVcANgGb9i8ORCsr.jpg

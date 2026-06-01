@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q1328813
   imdb: tt0098545
+  tmdb: 337878
 sources:
 - https://www.wikidata.org/wiki/Q1328813
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: bichkei-tibor
 - person: berencsi-attila
 - person: svidrony-gabor
+poster_tmdb_path: /jBDe6hhcTG0zLSh9O3pMaqJ8KQ6.jpg
+backdrop_tmdb_path: /xeKbkxA3gTZz9JrZs7tcPlNCRjx.jpg

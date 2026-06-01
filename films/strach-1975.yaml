@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9346378
   imdb: tt0073753
+  tmdb: 621192
 sources:
 - https://www.wikidata.org/wiki/Q9346378
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: olshevskaya-izabella
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /s6B1yiCr0S8aF1huZvfDAKVHoIw.jpg

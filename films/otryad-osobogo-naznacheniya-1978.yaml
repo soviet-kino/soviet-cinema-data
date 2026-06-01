@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4340103
   imdb: tt0314475
   youtube: FNJ67nYTViE
+  tmdb: 394589
 sources:
 - https://www.wikidata.org/wiki/Q4340103
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - lysenko-vadim-grigorevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /ynhDrkZUad5wNjAOwxbssAZ61ob.jpg
+backdrop_tmdb_path: /htP3EdOXhv7DmVNnqqM9pO4qmx8.jpg

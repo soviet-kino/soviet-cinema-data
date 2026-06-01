@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q775986
   imdb: tt0060122
+  tmdb: 287593
 sources:
 - https://www.wikidata.org/wiki/Q775986
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mensharosh-laslo
 studio:
 - mafilm
+poster_tmdb_path: /nJT2uqYIaurJrIBv5XSv16XqspW.jpg
+backdrop_tmdb_path: /jA6W4IniWb5jeRfzNfVG16owTGM.jpg

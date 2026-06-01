@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4310525
   imdb: tt0023256
+  tmdb: 379325
 sources:
 - https://www.wikidata.org/wiki/Q4310525
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: khmelyov-nikolay-pavlovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /jX1cvNR7hHDD2udKnO6Hndbq0UC.jpg

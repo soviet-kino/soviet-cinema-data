@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q17043461
   imdb: tt0193614
   youtube: ShPGejrIOAE
+  tmdb: 789357
 sources:
 - https://www.wikidata.org/wiki/Q17043461
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: yurchenkov-pyotr-petrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /c7nXBjh3COVxOP4ECWAYwsVXmrr.jpg

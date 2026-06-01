@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4368912
   imdb: tt0174954
   youtube: RTWMltXur3Y
+  tmdb: 536658
 sources:
 - https://www.wikidata.org/wiki/Q4368912
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: fedoseeva-shukshina-lidiya-nikolaevna
 studio:
 - mosfilm
+poster_tmdb_path: /uS0vu1Sl1Ev9d9409gVYIei70MB.jpg
+backdrop_tmdb_path: /xVCcwMifRk0JdHFEwbfxe6iRK5q.jpg

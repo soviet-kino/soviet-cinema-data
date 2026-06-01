@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28846494
   imdb: tt1371083
+  tmdb: 811663
 sources:
 - https://www.wikidata.org/wiki/Q28846494
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - hernadi-tibor
 composer:
 - deak-tamash
+poster_tmdb_path: /qLJMVCrHu7yqjyoNksQVT2QBDJa.jpg

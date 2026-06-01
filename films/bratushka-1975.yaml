@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12275610
   imdb: tt0315855
+  tmdb: 689305
 sources:
 - https://www.wikidata.org/wiki/Q12275610
 schema_version: 1
@@ -18,3 +19,5 @@ studio:
 - belarusfilm
 cast:
 - person: kuznetsov-anatoliy
+poster_tmdb_path: /6kkrVutmQbdAYMwimw0jXk8YHSB.jpg
+backdrop_tmdb_path: /wMY6qrVDbuDVEmfrqI8yuWR4e4B.jpg

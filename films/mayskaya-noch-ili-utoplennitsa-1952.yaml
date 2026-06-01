@@ -22,6 +22,9 @@ external_ids:
   wikidata: Q1180706
   imdb: tt0046056
   youtube: tEGQnoVFz50
+  tmdb: 279622
 sources:
 - https://www.wikidata.org/wiki/Q1180706
 schema_version: 1
+poster_tmdb_path: /2MiKhbBQf3w31TkCuDpdefpLqqc.jpg
+backdrop_tmdb_path: /pegFC0iv1Y8Mfz1ihBt8ZUte97y.jpg

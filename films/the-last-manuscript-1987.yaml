@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17019308
   imdb: tt0092143
+  tmdb: 198452
 sources:
 - https://www.wikidata.org/wiki/Q17019308
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: kamondi-zoltan
 - person: pshota-iren
 - person: varadi-hedi
+poster_tmdb_path: /3NpmcAwMIQKQNGaf1xgPigqPDt2.jpg

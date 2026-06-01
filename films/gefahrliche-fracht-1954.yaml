@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q5530032
   imdb: tt0047017
+  tmdb: 439262
 sources:
 - https://www.wikidata.org/wiki/Q5530032
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: mikhelis-frank
 studio:
 - defa
+poster_tmdb_path: /o4dbIJSFCz7VOPngjhJOOkRy8gt.jpg
+backdrop_tmdb_path: /nlxeZcihIiVU0lzgQ4xfJrq6IQj.jpg

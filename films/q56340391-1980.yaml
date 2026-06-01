@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q56340391
   imdb: tt0081776
+  tmdb: 418779
 sources:
 - https://www.wikidata.org/wiki/Q56340391
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: borkovy-tomash
 - person: z-otnicki-jerzy
 - person: braszka-jerzy-aleksander
+poster_tmdb_path: /hTtca8l0uXRcXkosGlKp3hOmNph.jpg

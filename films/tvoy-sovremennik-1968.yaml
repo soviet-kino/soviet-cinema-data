@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q4453323
   imdb: tt0175264
+  tmdb: 143076
 sources:
 - https://www.wikidata.org/wiki/Q4453323
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: nadezhdina-tatyana-dmitrievna
 - person: plotnikov-nikolay-sergeevich
 - person: leonidov-yuriy-leonidovich
+poster_tmdb_path: /viK1e79rhalgc1pOQN7irO03u71.jpg
+backdrop_tmdb_path: /soFQvtElppaW1LM6muUkxdrKosO.jpg

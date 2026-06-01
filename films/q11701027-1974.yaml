@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11701027
   imdb: tt0071564
+  tmdb: 790770
 sources:
 - https://www.wikidata.org/wiki/Q11701027
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: malawski-zygmunt
 - person: iwaniec-aleksander
 - person: kussyk-cezary
+poster_tmdb_path: /8U6cHREnpGGzqZtK0D863dT5wlk.jpg

@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q1475728
   imdb: tt0095475
+  tmdb: 20122
 sources:
 - https://www.wikidata.org/wiki/Q1475728
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: b-miklosh-szhekeli
 - person: temessy-hedi
 - person: kerekes-valeria
+poster_tmdb_path: /qRkhptDOpeoAdVw0OlTJNqXd9xL.jpg
+backdrop_tmdb_path: /m6sHDQ7Hsc2q3Tn5hMbWkTMIXup.jpg

@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q84993108
   imdb: tt0217982
+  tmdb: 530435
 sources:
 - https://www.wikidata.org/wiki/Q84993108
 schema_version: 1
@@ -25,3 +26,4 @@ studio:
 cast:
 - person: kryuchkov-nikolay-afanasevich
 - person: nosik-valeriy-benediktovich
+poster_tmdb_path: /eghzgnCyZLoGxqrvAyGBeKy5Dpf.jpg

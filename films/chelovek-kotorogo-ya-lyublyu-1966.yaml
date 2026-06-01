@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q85868074
   imdb: tt0131337
   youtube: esOzgD8ojsg
+  tmdb: 143115
 sources:
 - https://www.wikidata.org/wiki/Q85868074
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: zhzhyonov-georgiy-stepanovich
 - person: gerasimov-evgeniy-vladimirovich
 - person: merzlikin-nikolay-nikolaevich
+poster_tmdb_path: /4oIUb5Rd1ZbSKCbjYXrauDm5Cdw.jpg

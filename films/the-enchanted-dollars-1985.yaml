@@ -12,6 +12,9 @@ cast:
 external_ids:
   wikidata: Q785196
   imdb: tt0089084
+  tmdb: 79246
 sources:
 - https://www.wikidata.org/wiki/Q785196
 schema_version: 1
+poster_tmdb_path: /ezlJs7lOJA6KuL3o1OBmBpcgctE.jpg
+backdrop_tmdb_path: /4arJRFoRPX0UUKe2AwQTF4ZKcj5.jpg

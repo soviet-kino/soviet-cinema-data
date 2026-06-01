@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1486293
   imdb: tt0230743
+  tmdb: 283409
 sources:
 - https://www.wikidata.org/wiki/Q1486293
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kyofer-gerbert
 - person: ripperger-rolf
 - person: ulrikh-rudolf
+poster_tmdb_path: /8Vb5nBMOL9jI0jusY5BYQPWWSll.jpg
+backdrop_tmdb_path: /jrXhe5eV0pZ3m8ze6SQ91HgMYu6.jpg

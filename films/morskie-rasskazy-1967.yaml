@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q16514597
   imdb: tt5067464
+  tmdb: 834269
 sources:
 - https://www.wikidata.org/wiki/Q16514597
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: dostal-nikolay-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /cfGkM8rkYXMqVJKn51tqZ6DWnde.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17163406
   imdb: tt0171318
+  tmdb: 333140
 sources:
 - https://www.wikidata.org/wiki/Q17163406
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kazal-laszlo
 - person: kalman-zhurzh
 - person: radai-imre
+poster_tmdb_path: /qZJ7Ruxw1H6UChI0VVs5IIFI0JP.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9344000
   imdb: tt0295290
+  tmdb: 463142
 sources:
 - https://www.wikidata.org/wiki/Q9344000
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kumbaro-saimir
 composer:
 - lalo-aleksander
+poster_tmdb_path: /5r1Crp9DxOGuQVv3dDLjlqyZu4R.jpg
+backdrop_tmdb_path: /2nsvQJWwPMVyphjHZt5WWhAwFmu.jpg

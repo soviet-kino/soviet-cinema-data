@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97192925
   imdb: tt4971150
   youtube: s8xGagfSClY
+  tmdb: 1450941
 sources:
 - https://www.wikidata.org/wiki/Q97192925
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - krishtofovich-vyacheslav-sigizmundovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /42Cff73DPiYCEBS5bWto69wIzwr.jpg

@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q16956926
   imdb: tt0407917
+  tmdb: 721076
 sources:
 - https://www.wikidata.org/wiki/Q16956926
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: sob-josef
 - person: sob-david
 - person: zunova-marketa
+poster_tmdb_path: /58zbUdXIv06Kh41YkCWXb3NhzaY.jpg

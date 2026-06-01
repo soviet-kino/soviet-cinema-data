@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q25395700
   imdb: tt0264649
+  tmdb: 617753
 sources:
 - https://www.wikidata.org/wiki/Q25395700
 schema_version: 1
@@ -25,3 +26,4 @@ studio:
 - moldova-film
 - sovinfilm
 poster_commons: Gobseck Filmplakat.jpg
+poster_tmdb_path: /4bT0m4LzBEsWwc4ipP3CfhWRJF.jpg

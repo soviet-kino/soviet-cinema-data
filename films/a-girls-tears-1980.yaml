@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17006836
   imdb: tt0131456
+  tmdb: 390017
 sources:
 - https://www.wikidata.org/wiki/Q17006836
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - damian-iosif
 cast:
 - person: vizan-dorel
+poster_tmdb_path: /19ZhvExXysjh6Pngkpb3VTTTHEu.jpg
+backdrop_tmdb_path: /25Nh9K2d2ipNwHKPh1EFDRXW25s.jpg

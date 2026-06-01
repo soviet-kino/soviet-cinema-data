@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4159352
   imdb: tt0166165
   youtube: eNQkHhmiW0I
+  tmdb: 352824
 sources:
 - https://www.wikidata.org/wiki/Q4159352
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: kalyagin-aleksandr-aleksandrovich
 - person: mikhaylovskiy-nikita-viktorovich
 - person: sergeecheva-margarita-vladimirovna
+poster_tmdb_path: /qMyB7XfzCtaDMMLswiByUoAd68h.jpg
+backdrop_tmdb_path: /3fGHVGzvsKU1gocPAHPTdApc3Fe.jpg

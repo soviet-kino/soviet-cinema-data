@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q4190048
   imdb: tt0069539
+  tmdb: 214260
 sources:
 - https://www.wikidata.org/wiki/Q4190048
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: zaytseva-lyudmila-vasilevna
 studio:
 - lenfilm
+poster_tmdb_path: /meS3PfpNeczvjklZf5Dg77xUCxm.jpg
+backdrop_tmdb_path: /be4VfYL32IPlXWQqpcwHucTDn85.jpg

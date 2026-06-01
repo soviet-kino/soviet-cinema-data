@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11790197
   imdb: tt0077978
+  tmdb: 675446
 sources:
 - https://www.wikidata.org/wiki/Q11790197
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - yan-pavlyuskevich
 cast:
 - person: gudzets-tomash
+poster_tmdb_path: /ojJgtvd8F8tr9w1WnVO0Eo4gmDV.jpg

@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q15696350
   imdb: tt5520714
+  tmdb: 454178
 sources:
 - https://www.wikidata.org/wiki/Q15696350
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - varlamov-aleksandr-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /28Ij7mfFwrkzAD11OMGVxrm4z6L.jpg
+backdrop_tmdb_path: /5g1XGMwG7fAUGqHwyqF1W5eTiiI.jpg

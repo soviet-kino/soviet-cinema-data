@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q1138065
   imdb: tt0025911
+  tmdb: 92475
 sources:
 - https://www.wikidata.org/wiki/Q1138065
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - shaporin-yuriy-aleksandrovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /xa03Ape43MdLvJcAhWvpTGMcuGH.jpg
+backdrop_tmdb_path: /3WRjJyiaTyR9b9rW2CWtY6Qx37X.jpg

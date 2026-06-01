@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4162675
   imdb: tt0285662
+  tmdb: 595872
 sources:
 - https://www.wikidata.org/wiki/Q4162675
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 cast:
 - person: kipshidze-zurab-vasilevich
 - person: pirtskhalava-guram-nikolaevich
+poster_tmdb_path: /cIj6HCT9K37mcmbpuP0ETZQUfPM.jpg

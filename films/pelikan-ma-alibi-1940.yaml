@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q19573646
   imdb: tt0216074
+  tmdb: 573959
 sources:
 - https://www.wikidata.org/wiki/Q19573646
 schema_version: 1
@@ -47,3 +48,4 @@ cast:
 - person: podrabska-vlasta
 - person: fric-antonin
 - person: vildova-marie
+poster_tmdb_path: /ehp6OzRCb1OHHpPP28Cuc3BoMlV.jpg

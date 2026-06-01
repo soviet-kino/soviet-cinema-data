@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3211323
   imdb: tt0054977
+  tmdb: 132864
 sources:
 - https://www.wikidata.org/wiki/Q3211323
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: pavlikovskiy-adam
 - person: nevinovskiy-bogdan
 - person: shchepkovskiy-andzhey
+poster_tmdb_path: /3un385dQhH4xw4WgXgPQJbgGoUA.jpg
+backdrop_tmdb_path: /1s7MkRLcv0uutEnwsFeTZ2zKjnt.jpg

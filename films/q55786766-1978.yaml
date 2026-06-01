@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q55786766
   imdb: tt0076253
+  tmdb: 567493
 sources:
 - https://www.wikidata.org/wiki/Q55786766
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - reni-tamash
 screenwriter:
 - myuller-peter
+poster_tmdb_path: /3bqaRUV5DhTsJOkW8BKYFjreBLp.jpg

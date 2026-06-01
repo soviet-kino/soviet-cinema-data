@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q251585
   imdb: tt0070413
   youtube: MfC0E6DuREA
+  tmdb: 20947
 sources:
 - https://www.wikidata.org/wiki/Q251585
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: savina-irina-vadimovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /aOl8VKRYprmC3OgvFYK96NSBDwS.jpg
+backdrop_tmdb_path: /r33QhNFmbcq7yAbLs3yef93T8kF.jpg

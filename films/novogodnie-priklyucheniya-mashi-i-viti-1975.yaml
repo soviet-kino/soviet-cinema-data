@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4323435
   imdb: tt0756321
   youtube: 8r239juQwn4
+  tmdb: 66086
 sources:
 - https://www.wikidata.org/wiki/Q4323435
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: borisova-irina-anatolevna
 studio:
 - lenfilm
+poster_tmdb_path: /n02I9UYFnAJwpNTWTa5fvMM9T6q.jpg
+backdrop_tmdb_path: /t1hrP1FWtRHIVupqvg9fIdYWfz0.jpg

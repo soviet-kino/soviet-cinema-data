@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15623530
   imdb: tt0167468
+  tmdb: 675532
 sources:
 - https://www.wikidata.org/wiki/Q15623530
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ranki-dyord
 studio:
 - pannoniya
+poster_tmdb_path: /kTaogcvT6XUhe2kY5UvXwCxoWVh.jpg

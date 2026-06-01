@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q2111962
   imdb: tt0055331
+  tmdb: 275043
 sources:
 - https://www.wikidata.org/wiki/Q2111962
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: pape-uwe-jens
 studio:
 - defa
+poster_tmdb_path: /sUPUFMDp8ZWmEgyqeoNKZA6kn3M.jpg
+backdrop_tmdb_path: /nsFZgqnqEG4lN4zJfoBOCu9IztD.jpg

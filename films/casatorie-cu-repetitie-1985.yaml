@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12726205
   imdb: tt0164475
+  tmdb: 317066
 sources:
 - https://www.wikidata.org/wiki/Q12726205
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: duban-andrei
 - person: gattman-roksana
 - person: nitulesku-vasil
+poster_tmdb_path: /PG38KMZLbLjb5jMkOVlqiVF6Gh.jpg
+backdrop_tmdb_path: /viSSHriyWOieLqS8hL42tR4aL6G.jpg

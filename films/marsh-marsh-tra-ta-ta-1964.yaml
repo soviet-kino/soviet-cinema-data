@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12664678
   imdb: tt4916392
+  tmdb: 671130
 sources:
 - https://www.wikidata.org/wiki/Q12664678
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - pechyura-donatas
 studio:
 - litovskaya-kinostudiya
+poster_tmdb_path: /1Dxj0Lq4LYrWQYqvTB1VNqSFgi6.jpg
+backdrop_tmdb_path: /kEnsvPWkCm72QVqSjLYIGqRGlik.jpg

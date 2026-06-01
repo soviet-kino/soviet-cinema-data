@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q12043716
   imdb: tt0170352
+  tmdb: 607173
 sources:
 - https://www.wikidata.org/wiki/Q12043716
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: bocek-vitezslav
 - person: kurelova-ruzena
 - person: veliskova-milena
+poster_tmdb_path: /noQl1UVqB0zqJME6BMvhxUvn6A5.jpg

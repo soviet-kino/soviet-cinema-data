@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12741950
   imdb: tt0141890
+  tmdb: 536893
 sources:
 - https://www.wikidata.org/wiki/Q12741950
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: ghiuta-monica
 - person: nicolae-anton
 - person: vishu-george
+poster_tmdb_path: /77MmJoZFNP8NbsZ8cV48oEA0JSm.jpg

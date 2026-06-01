@@ -8,6 +8,7 @@ runtime_min: 116
 external_ids:
   wikidata: Q669619
   imdb: tt0095276
+  tmdb: 29932
 sources:
 - https://www.wikidata.org/wiki/Q669619
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: cherkhalmi-dyord
 - person: kovnatska-gabriela
 - person: bedzhinskaya-adrianna
+poster_tmdb_path: /soFz40JyaaO9kHvhXdSDSQgqDN7.jpg
+backdrop_tmdb_path: /ccCKqQjaBttiTNq9gShVV0rFmcF.jpg

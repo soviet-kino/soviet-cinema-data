@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q1553019
   imdb: tt0452362
+  tmdb: 68839
 sources:
 - https://www.wikidata.org/wiki/Q1553019
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - pyart-arvo
 studio:
 - tallinfilm
+poster_tmdb_path: /x0KFy31hgOy49yA91bilHNJGuyQ.jpg
+backdrop_tmdb_path: /jRNTyi8CKJ77RINT62kG2INnyJK.jpg

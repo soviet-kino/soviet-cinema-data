@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28465021
   imdb: tt0145728
+  tmdb: 1155295
 sources:
 - https://www.wikidata.org/wiki/Q28465021
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - nemolyaev-vladimir-viktorovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /krWFEs81DTr00Eg6TAPKcJNjAqh.jpg

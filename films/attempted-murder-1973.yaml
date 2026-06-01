@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q43043531
   imdb: tt0070550
+  tmdb: 455770
 sources:
 - https://www.wikidata.org/wiki/Q43043531
 schema_version: 1
@@ -68,3 +69,5 @@ cast:
 - person: pavlasek-jan
 - person: kaspar-miloslav
 - person: pekarek-pavel
+poster_tmdb_path: /o640ZzdjMdtrZj09Ezr2AJ9mtUv.jpg
+backdrop_tmdb_path: /oGoieJCi2yhNPb6CoiG5tey7NPA.jpg

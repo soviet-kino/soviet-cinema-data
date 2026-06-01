@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4420268
   imdb: tt4701708
+  tmdb: 889742
 sources:
 - https://www.wikidata.org/wiki/Q4420268
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: filippenko-aleksandr-georgievich
 studio:
 - lenfilm
+poster_tmdb_path: /sXeHC8QDbR3gXZfAaNa4KpYEmvy.jpg

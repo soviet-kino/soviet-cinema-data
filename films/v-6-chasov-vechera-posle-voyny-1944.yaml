@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101644
   imdb: tt0037423
   youtube: Gv80c3rxaWk
+  tmdb: 390605
 sources:
 - https://www.wikidata.org/wiki/Q4101644
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: lysak-ariadna-anatolevna
 studio:
 - mosfilm
+poster_tmdb_path: /rKghWTN7J1uUQDmQxcn2wFIaCOA.jpg
+backdrop_tmdb_path: /5arJETXSesXgpDlWeofJUGOmJ2D.jpg

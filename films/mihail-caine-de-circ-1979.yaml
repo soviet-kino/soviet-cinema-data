@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6845127
   imdb: tt0126430
+  tmdb: 457030
 sources:
 - https://www.wikidata.org/wiki/Q6845127
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: popovichi-ilyana
 - person: lungu-alexandru-d
 - person: vishu-george
+poster_tmdb_path: /uxfwhOCfBxa4iSSe64z53QKDBep.jpg
+backdrop_tmdb_path: /8asa4pIU3jxZr5OpTpeKJAwGaLz.jpg

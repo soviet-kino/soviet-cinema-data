@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q12744159
   imdb: tt0126357
+  tmdb: 623049
 sources:
 - https://www.wikidata.org/wiki/Q12744159
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: dobresku-aleksandru
 - person: pavelesku-yoana
 - person: flonda-virgil
+poster_tmdb_path: /2kR1rqcBzu01vh9fUtPPga6FT0M.jpg

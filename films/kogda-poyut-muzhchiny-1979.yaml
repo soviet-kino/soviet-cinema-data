@@ -8,6 +8,7 @@ runtime_min: 23
 external_ids:
   wikidata: Q136030114
   imdb: tt0452292
+  tmdb: 1420280
 sources:
 - https://www.wikidata.org/wiki/Q136030114
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - pars-kheyno
 studio:
 - tallinfilm
+poster_tmdb_path: /S3lbkSEpU9o2EImwFbkn3tzEJ.jpg
+backdrop_tmdb_path: /wQEx4SFCm8VDY5ldsXnizue8mlA.jpg

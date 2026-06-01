@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q655133
   imdb: tt0122227
   youtube: _64psC81JF8
+  tmdb: 49418
 sources:
 - https://www.wikidata.org/wiki/Q655133
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: levit-aleksandr-nikolaevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /uwkhKgQFfv4C7A9UrHvd5wM2EPP.jpg
+backdrop_tmdb_path: /eogP9xLzrtFwT69G6hjFnOVtmo4.jpg

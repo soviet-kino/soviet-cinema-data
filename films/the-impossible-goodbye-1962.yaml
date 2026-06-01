@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9209475
   imdb: tt0055918
+  tmdb: 198851
 sources:
 - https://www.wikidata.org/wiki/Q9209475
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: makhovskiy-ignatsy
 - person: plotnitskiy-boleslav
 - person: fievskiy-tadeush
+poster_tmdb_path: /lB9hODCooPmilaqUO7BJpDVdFFJ.jpg
+backdrop_tmdb_path: /eDuWSJq6AKsgS1n3Jqzg5bWir5L.jpg

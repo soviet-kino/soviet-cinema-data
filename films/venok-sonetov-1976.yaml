@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q41446469
   imdb: tt0153512
+  tmdb: 478465
 sources:
 - https://www.wikidata.org/wiki/Q41446469
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - glebov-evgeniy-aleksandrovich
 studio:
 - belarusfilm
+poster_tmdb_path: /qhjqW6oEUJ1RUJ9XtVuDuk9nkIF.jpg
+backdrop_tmdb_path: /5QFtHlqxpSEAiIee3v1KxRC238O.jpg

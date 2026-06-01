@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106756350
   imdb: tt0057613
   youtube: vry-xUSz21Q
+  tmdb: 263838
 sources:
 - https://www.wikidata.org/wiki/Q106756350
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - karavaychuk-oleg-nikolaevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /6HLThxFaj19N4wwpZavLi0LtrBI.jpg
+backdrop_tmdb_path: /mu2boLl4oYPmdSyy7VfcaIUW4iM.jpg

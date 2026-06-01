@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q904826
   imdb: tt0075019
+  tmdb: 72882
 sources:
 - https://www.wikidata.org/wiki/Q904826
 schema_version: 1
@@ -54,3 +55,5 @@ cast:
 - person: fortune-kim
 studio:
 - barrandov
+poster_tmdb_path: /9JAYPCYXGkOFLeDEyjtn1dR13vU.jpg
+backdrop_tmdb_path: /hXcqvxLo1e8CMufIntHxrAw7KQH.jpg

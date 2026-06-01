@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q84994460
   imdb: tt0075240
+  tmdb: 380301
 sources:
 - https://www.wikidata.org/wiki/Q84994460
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: chursina-lyudmila-alekseevna
 studio:
 - mosfilm
+poster_tmdb_path: /rkUbvsrRunk76g82zOyvdc5iAPC.jpg

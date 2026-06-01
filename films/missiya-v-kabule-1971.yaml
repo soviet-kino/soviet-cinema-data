@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4296473
   imdb: tt5290784
+  tmdb: 211966
 sources:
 - https://www.wikidata.org/wiki/Q4296473
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: strizhenov-gleb-aleksandrovich
 studio:
 - lenfilm
+poster_tmdb_path: /q7Hhyh90zmZPTJ6YT1COKTjA8gE.jpg
+backdrop_tmdb_path: /3cPY4Mbuu45TBEYdWOkgtn8RGb8.jpg

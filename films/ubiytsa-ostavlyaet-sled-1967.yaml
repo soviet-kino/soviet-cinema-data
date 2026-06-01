@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4468648
   imdb: tt0061993
+  tmdb: 431898
 sources:
 - https://www.wikidata.org/wiki/Q4468648
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: litvin-kshishtof
 studio:
 - rytm-kinostudiya
+poster_tmdb_path: /8QMCkz1bSI8Je0GOmtRpiVQtwp2.jpg
+backdrop_tmdb_path: /e02V5RVJqMbQQG8cLwBWom2bEXY.jpg

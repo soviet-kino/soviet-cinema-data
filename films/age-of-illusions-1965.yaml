@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1469793
   imdb: tt0058778
+  tmdb: 267948
 sources:
 - https://www.wikidata.org/wiki/Q1469793
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - etvyosh-peter
 cast:
 - person: balint-andrash
+poster_tmdb_path: /bePGVpBsek0BYUtonwbV4A7whDm.jpg
+backdrop_tmdb_path: /2RjzrqqOtL1BgffnEwf5cORVChA.jpg

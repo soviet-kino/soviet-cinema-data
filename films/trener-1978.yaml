@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16086085
   imdb: tt0170709
+  tmdb: 325321
 sources:
 - https://www.wikidata.org/wiki/Q16086085
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: sultanovic-goran
 - person: uzunovic-tanasije
 - person: jev-enijevic-milutin
+poster_tmdb_path: /ltcPyQWDbrC45542bMXOL0FbpU0.jpg
+backdrop_tmdb_path: /oTGGOZNEOzhOLpq3USIpBdqFsAG.jpg

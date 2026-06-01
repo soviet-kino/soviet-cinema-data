@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4423989
   imdb: tt0314685
+  tmdb: 206959
 sources:
 - https://www.wikidata.org/wiki/Q4423989
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: ekis-artur-berngardovich
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /xqBWhMRbm1Yu0NT3kVKQBLLMSMY.jpg
+backdrop_tmdb_path: /95WtP2X4jCY0xVGfYgDvSIFxpUj.jpg

@@ -8,6 +8,7 @@ runtime_min: 177
 external_ids:
   wikidata: Q28726059
   imdb: tt0077283
+  tmdb: 407908
 sources:
 - https://www.wikidata.org/wiki/Q28726059
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - vaeni-constantin
 screenwriter:
 - mandrich-eugen
+poster_tmdb_path: /vqFXUMtgVp7JHybuS6lWwRDLesD.jpg

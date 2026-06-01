@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4126292
   imdb: tt0090277
   youtube: N8NHJ8D9U0I
+  tmdb: 211908
 sources:
 - https://www.wikidata.org/wiki/Q4126292
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: duvanov-yuriy-yurevich
 studio:
 - lenfilm
+poster_tmdb_path: /4FvHNXLmCRHlSO0dNUwwQlBsdl7.jpg
+backdrop_tmdb_path: /7qSPQhNfKGiJgI6vr5sRSqGactD.jpg

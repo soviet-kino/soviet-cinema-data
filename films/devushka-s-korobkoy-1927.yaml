@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q1771333
   imdb: tt0017809
+  tmdb: 47590
 sources:
 - https://www.wikidata.org/wiki/Q1771333
 schema_version: 1
@@ -27,3 +28,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 - mezhrabpom-rus
 poster_commons: Ragazza triangolo.jpg
+poster_tmdb_path: /bx6n6Oi96w0bImKVdJ8hNBjEl1.jpg
+backdrop_tmdb_path: /bToJy2heRTYi1o13QgZ6VYbbD1S.jpg

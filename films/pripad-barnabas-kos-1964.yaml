@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q7253833
   imdb: tt0175083
+  tmdb: 560758
 sources:
 - https://www.wikidata.org/wiki/Q7253833
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: q132051815
 - person: kakosova-dana
 - person: pauliny-tothova-helena
+poster_tmdb_path: /h2C36J3LwOXgWXRlBiy7KCasPd5.jpg
+backdrop_tmdb_path: /bta2S4vhltNluArdjBQw2ILWQh6.jpg

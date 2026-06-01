@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16232076
   imdb: tt0180927
+  tmdb: 503844
 sources:
 - https://www.wikidata.org/wiki/Q16232076
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: puzich-milan
 - person: vladan-zhivkovich
 - person: gucevac-ranko
+poster_tmdb_path: /uIuB9gr2PUUR3hnc69WFyVuHDDa.jpg

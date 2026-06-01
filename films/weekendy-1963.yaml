@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28945512
   imdb: tt0057675
+  tmdb: 959100
 sources:
 - https://www.wikidata.org/wiki/Q28945512
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - rutkiewicz-jan
 cast:
 - person: rozin-shpela
+poster_tmdb_path: /5CCFyJu0pgfFjmH4yAjAKbtPCHJ.jpg

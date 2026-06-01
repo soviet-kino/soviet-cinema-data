@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q1284454
   imdb: tt0072294
+  tmdb: 119191
 sources:
 - https://www.wikidata.org/wiki/Q1284454
 schema_version: 1
@@ -50,3 +51,5 @@ cast:
 - person: pulman-marilu
 - person: dommish-peter
 - person: dayss-viktor
+poster_tmdb_path: /t4mcZGUHK6yHsMou5aj7ewOaRse.jpg
+backdrop_tmdb_path: /odwok8xLAiYj8jCVfD6pojNETCl.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4056276
   imdb: tt8677452
+  tmdb: 535015
 sources:
 - https://www.wikidata.org/wiki/Q4056276
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - yakushenko-igor
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ksmOSwU8z0xI4WtLS2UQFk4oTos.jpg

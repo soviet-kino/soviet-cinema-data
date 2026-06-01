@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1474599
   imdb: tt0064564
+  tmdb: 289361
 sources:
 - https://www.wikidata.org/wiki/Q1474599
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: langkhoff-tomas
 - person: flyorkhinger-martin
 - person: beyer-regina
+poster_tmdb_path: /nPykKdy2Z8gzvVrk1mRsYBnn2gn.jpg
+backdrop_tmdb_path: /oOsmQhpw9SzfFCvZcqMTSEMLgyQ.jpg

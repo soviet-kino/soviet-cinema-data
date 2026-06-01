@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758459
   imdb: tt0072108
+  tmdb: 364850
 sources:
 - https://www.wikidata.org/wiki/Q12758459
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: tadich-dushan
 - person: puzich-milan
 - person: vojnovic-dusan
+poster_tmdb_path: /kISHsoTPZcWAUIDJp9fjEzTeRrD.jpg

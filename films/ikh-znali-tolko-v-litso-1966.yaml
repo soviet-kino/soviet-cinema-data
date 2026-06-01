@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4205409
   imdb: tt0173921
   youtube: 9GttswTHUgI
+  tmdb: 65672
 sources:
 - https://www.wikidata.org/wiki/Q4205409
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: belyavskiy-aleksandr-borisovich
 - person: miroshnichenko-irina-petrovna
+poster_tmdb_path: /q9NQdA4dptewiunWOX77rmuFggh.jpg
+backdrop_tmdb_path: /kYo63DJK4azDgbEqrMV3tkGbiQd.jpg

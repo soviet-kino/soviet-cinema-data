@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4373833
   imdb: tt0460904
   youtube: U7yDvs8447k
+  tmdb: 640051
 sources:
 - https://www.wikidata.org/wiki/Q4373833
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: khalzanov-baras-tsyretarovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /807F9moCWdn0rkYKGbAhVGCwaN8.jpg

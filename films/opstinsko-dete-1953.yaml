@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11157987
   imdb: tt0170336
+  tmdb: 378067
 sources:
 - https://www.wikidata.org/wiki/Q11157987
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ajvaz-milan
 - person: starcic-viktor
 - person: veselinovits-branka
+poster_tmdb_path: /bJsKxAeEj5j1ObIyaWBuh9jZZGE.jpg
+backdrop_tmdb_path: /xEwi6tqkfVnT29GCNIi9Q5x4rSJ.jpg

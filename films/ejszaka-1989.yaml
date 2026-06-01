@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q86082047
   imdb: tt0098729
+  tmdb: 1572685
 sources:
 - https://www.wikidata.org/wiki/Q86082047
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: ratoti-zoltan
 - person: almashi-albert
 - person: tolnai-miklosh
+poster_tmdb_path: /qWJXkQmMPMIpuLmfdlMQM6IpJwe.jpg

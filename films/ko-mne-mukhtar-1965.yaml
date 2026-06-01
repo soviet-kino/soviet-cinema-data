@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4225030
   imdb: tt0151233
   youtube: 5FJvRsh2pv4
+  tmdb: 59477
 sources:
 - https://www.wikidata.org/wiki/Q4225030
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: durov-lev-konstantinovich
 - person: belov-yuriy-andreevich
 - person: larionova-alla-dmitrievna
+poster_tmdb_path: /zenGLktoZzkBSLwKj1n7VUveQek.jpg
+backdrop_tmdb_path: /aSMLXnixZV03tpn5CoR9lLhr7ga.jpg

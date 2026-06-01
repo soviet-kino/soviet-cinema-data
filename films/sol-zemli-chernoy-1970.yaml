@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q7405996
   imdb: tt0066323
+  tmdb: 155968
 sources:
 - https://www.wikidata.org/wiki/Q7405996
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: kopciuszewski-adam
 - person: koz-owska-izabella
 - person: q121437569
+poster_tmdb_path: /1y2GgVrVyiBza76Bs48dH0USnsi.jpg
+backdrop_tmdb_path: /dQLDVpPhARnqJdAhMHHiL1M6RzM.jpg

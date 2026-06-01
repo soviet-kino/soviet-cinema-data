@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4469387
   imdb: tt0275754
   youtube: vNNrWe8VJWs
+  tmdb: 472428
 sources:
 - https://www.wikidata.org/wiki/Q4469387
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - banshchikov-gennadiy-ivanovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /owPwuw47qBgUNSag1z4tdcBK7XM.jpg
+backdrop_tmdb_path: /ioOZLvRjsKWOhK4fWC4pgju6iXI.jpg

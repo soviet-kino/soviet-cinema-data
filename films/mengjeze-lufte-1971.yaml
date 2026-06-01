@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9377066
   imdb: tt0295466
+  tmdb: 439220
 sources:
 - https://www.wikidata.org/wiki/Q9377066
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - damo-kristach
 composer:
 - radoja-robert
+poster_tmdb_path: /puSDCxnH4wVvgCXitsNKpwCouVg.jpg
+backdrop_tmdb_path: /pao5hj5rm7ordQXQv4wTJhUE8Of.jpg

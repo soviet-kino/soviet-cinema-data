@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q131908461
   imdb: tt0314037
+  tmdb: 1258923
 sources:
 - https://www.wikidata.org/wiki/Q131908461
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: mikhaylov-aleksandr-yakovlevich
 - person: malyavina-valentina-aleksandrovna
 - person: gavrilyuk-ivan-yaroslavovich
+poster_tmdb_path: /qTngXDLRYlh134wNVef0bBUeKS9.jpg
+backdrop_tmdb_path: /8LcF4nqLighkeuYtxgpPpddp9mg.jpg

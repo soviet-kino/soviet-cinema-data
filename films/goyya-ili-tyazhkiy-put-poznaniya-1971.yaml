@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1540524
   imdb: tt0067155
   youtube: hxHAhRlBPLk
+  tmdb: 219484
 sources:
 - https://www.wikidata.org/wiki/Q1540524
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: kozakov-mikhail-mikhaylovich
 - person: chursina-lyudmila-alekseevna
 - person: suto-iren
+poster_tmdb_path: /mo0KYj0ivTzL9YvlD4uFk80C1pf.jpg
+backdrop_tmdb_path: /iI5v3xApoEEOlzSNvBCE3gXzKuu.jpg

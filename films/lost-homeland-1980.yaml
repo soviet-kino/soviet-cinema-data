@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q3506269
   imdb: tt0186249
+  tmdb: 460289
 sources:
 - https://www.wikidata.org/wiki/Q3506269
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 cast:
 - person: ivo-gregurevich
 - person: neda-spasoevich
+poster_tmdb_path: /p9j75wo38mnXe3Gfe8GktDZ86rK.jpg
+backdrop_tmdb_path: /AqvtDtpWkoPlMTi3vTRHxJJeYlA.jpg

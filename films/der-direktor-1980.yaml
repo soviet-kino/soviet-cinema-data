@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q41102848
   imdb: tt0322032
+  tmdb: 289374
 sources:
 - https://www.wikidata.org/wiki/Q41102848
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - zore-rolf
 composer:
 - zasse-karl-ernst
+poster_tmdb_path: /pfQibwkhogcBCZf0A2lTq6GdiLo.jpg

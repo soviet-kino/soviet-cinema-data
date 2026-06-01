@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q20434998
   imdb: tt0069037
+  tmdb: 337868
 sources:
 - https://www.wikidata.org/wiki/Q20434998
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - lauro-ishtvan-bachkai
 screenwriter:
 - kallai-ishtvan
+poster_tmdb_path: /sxvdtfGk8knjRfUG1vPMoU4WidD.jpg

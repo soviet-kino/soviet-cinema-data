@@ -8,6 +8,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q1673561
   imdb: tt0087486
+  tmdb: 421748
 sources:
 - https://www.wikidata.org/wiki/Q1673561
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: hiemer-horst
 - person: foygt-ilza
 - person: kommerell-ruth
+poster_tmdb_path: /swee8lBjOlKAQD35ez5pMFbiVsT.jpg
+backdrop_tmdb_path: /k50IJdEEdEDS66Es4Fmqn3TI916.jpg

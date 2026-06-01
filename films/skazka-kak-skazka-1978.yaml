@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4421369
   imdb: tt2942790
+  tmdb: 1576468
 sources:
 - https://www.wikidata.org/wiki/Q4421369
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - biyma-oleg-ivanovich
 cast:
 - person: smirnova-nadezhda-lvovna
+poster_tmdb_path: /ymfAYl6ryX43rH9ZRsNeL8n5GDb.jpg

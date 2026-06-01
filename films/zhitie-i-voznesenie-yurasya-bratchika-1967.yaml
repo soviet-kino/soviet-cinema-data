@@ -32,6 +32,8 @@ external_ids:
   wikidata: Q4180637
   imdb: tt0258330
   youtube: OilyMgbYIgQ
+  tmdb: 532051
 sources:
 - https://www.wikidata.org/wiki/Q4180637
 schema_version: 1
+poster_tmdb_path: /2G5rE4gCou76ntayzYiO4fPAhzz.jpg

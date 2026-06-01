@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27304338
   imdb: tt0180081
+  tmdb: 332195
 sources:
 - https://www.wikidata.org/wiki/Q27304338
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: zegarats-dushitsa
 - person: muzaferiya-zaim
 - person: nikshich-snezhana
+poster_tmdb_path: /4vjqZsCrYhdRT6kDdNtEoPzwJ1c.jpg
+backdrop_tmdb_path: /zbu1ZmAmHLT5scarrT8F6sEmJ9m.jpg

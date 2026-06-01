@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4363767
   imdb: tt0393595
+  tmdb: 84683
 sources:
 - https://www.wikidata.org/wiki/Q4363767
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - teodor-bunimovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /nSkrVMnfUY9biONUDZEqZf1CVsr.jpg

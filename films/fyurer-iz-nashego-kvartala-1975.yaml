@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q3506722
   imdb: tt0133859
+  tmdb: 270887
 sources:
 - https://www.wikidata.org/wiki/Q3506722
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: khaytl-ivan
 - person: vojnovic-dusan
 - person: pleskonich-tikhomir
+poster_tmdb_path: /bkd1LNdw0RTWp8Sbzt83ZXEvT9c.jpg

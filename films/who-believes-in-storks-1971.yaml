@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750624
   imdb: tt0067317
+  tmdb: 747644
 sources:
 - https://www.wikidata.org/wiki/Q11750624
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: lototski-lekh
 - person: hanska-jadwiga
 - person: kuku-a-mariola
+poster_tmdb_path: /jcXhHRpNrPOz0PqkpzByZlFICwJ.jpg

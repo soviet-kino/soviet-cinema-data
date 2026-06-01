@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q7939003
   imdb: tt0083299
+  tmdb: 267175
 sources:
 - https://www.wikidata.org/wiki/Q7939003
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - dedich-arsen
 cast:
 - person: nemet-marina
+poster_tmdb_path: /zkYE3eeVJqa7lkQZq17gv5WmxiU.jpg
+backdrop_tmdb_path: /cuO9I1V9x1HugxOwHWNzGpuZJF9.jpg

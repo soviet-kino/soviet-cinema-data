@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2996690
   imdb: tt0264766
   youtube: B6b0ZCNh84o
+  tmdb: 558061
 sources:
 - https://www.wikidata.org/wiki/Q2996690
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: galibin-aleksandr-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /4vwLIdbeGInkU3Oc15dyGFmE6FK.jpg

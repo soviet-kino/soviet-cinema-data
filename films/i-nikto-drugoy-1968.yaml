@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q126938578
   imdb: tt0347221
+  tmdb: 833924
 sources:
 - https://www.wikidata.org/wiki/Q126938578
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - vagner-genrikh-matusovich
 studio:
 - belarusfilm
+poster_tmdb_path: /dC2TLrJ6ZeHN4AXNdCqcFQRQXw7.jpg
+backdrop_tmdb_path: /cED3R7NcdG2iBDXzl9mJ0hQtY3X.jpg

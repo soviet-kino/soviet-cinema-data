@@ -8,6 +8,7 @@ runtime_min: 145
 external_ids:
   wikidata: Q4087922
   imdb: tt0193017
+  tmdb: 65099
 sources:
 - https://www.wikidata.org/wiki/Q4087922
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: terekhova-margarita
 studio:
 - lenfilm
+poster_tmdb_path: /m48SyYxMkjjujuiXmXKHFj3mZ3w.jpg
+backdrop_tmdb_path: /bpAuP8E8NeuIug9ttWjp4RILmtf.jpg

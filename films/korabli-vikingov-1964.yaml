@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q1753829
   imdb: tt0057259
+  tmdb: 44736
 sources:
 - https://www.wikidata.org/wiki/Q1753829
 schema_version: 1
@@ -41,3 +42,5 @@ studio:
 - avala-film
 - warwick-films
 poster_commons: Vidfamne.jpg
+poster_tmdb_path: /vgZOBBGsZGKhK7ajbmAe2egcqbc.jpg
+backdrop_tmdb_path: /xfM0AXT5WUK2HLZFKs759fi6F6F.jpg

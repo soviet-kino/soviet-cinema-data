@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q1364716
   imdb: tt0232767
+  tmdb: 279725
 sources:
 - https://www.wikidata.org/wiki/Q1364716
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: khyorbing-sonya
 - person: rikhter-raynik-valter
 - person: rothert-jurgen
+poster_tmdb_path: /vksl7XWD7srnBWdMpPyO0W3djdv.jpg

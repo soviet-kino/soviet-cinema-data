@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1165071
   imdb: tt0083789
   youtube: u-b7Rtu-nuk
+  tmdb: 4202
 sources:
 - https://www.wikidata.org/wiki/Q1165071
 schema_version: 1
@@ -60,3 +61,5 @@ cast:
 - person: zaleski-szymon
 studio:
 - les-films-du-losange
+poster_tmdb_path: /R6oVP5RTqYEXe9lNxxPTWSOlZp.jpg
+backdrop_tmdb_path: /azsdBXsRuGPZNgAEYrpnfaPVDWg.jpg

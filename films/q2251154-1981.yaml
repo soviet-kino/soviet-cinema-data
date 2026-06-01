@@ -8,6 +8,7 @@ runtime_min: 36
 external_ids:
   wikidata: Q2251154
   imdb: tt1876297
+  tmdb: 426588
 sources:
 - https://www.wikidata.org/wiki/Q2251154
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 cast:
 - person: kramm-waltraut
 - person: noyenkhan-villi
+poster_tmdb_path: /1sWWFu4UUJQOnUzlCbPCXSRfs9E.jpg
+backdrop_tmdb_path: /89aTG2C0qUz8yuER3nDKLRjxmj9.jpg

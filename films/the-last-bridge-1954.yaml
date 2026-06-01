@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q666447
   imdb: tt0047172
+  tmdb: 73052
 sources:
 - https://www.wikidata.org/wiki/Q666447
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: regelsberger-valter
 - person: mayn-robert
 - person: mincic-pavle
+poster_tmdb_path: /euG8g6N9vOiYDjpCghLAhzEnNAg.jpg
+backdrop_tmdb_path: /k72HhQMbZZN83huhYuufS5jcHBS.jpg

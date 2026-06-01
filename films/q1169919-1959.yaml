@@ -8,6 +8,7 @@ runtime_min: 50
 external_ids:
   wikidata: Q1169919
   imdb: tt0053056
+  tmdb: 433406
 sources:
 - https://www.wikidata.org/wiki/Q1169919
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: silhan-josef
 studio:
 - barrandov
+poster_tmdb_path: /pSFIeVPuRwoklo83pVAwjhPsHCx.jpg

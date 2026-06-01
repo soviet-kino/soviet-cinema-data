@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1197717
   imdb: tt0072344
+  tmdb: 283117
 sources:
 - https://www.wikidata.org/wiki/Q1197717
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: schorn-uta
 studio:
 - defa
+poster_tmdb_path: /9feg2wYG5V65BIIyphjv3TEfTBF.jpg
+backdrop_tmdb_path: /yeqZqOSpdCGWXOlCecf7DDVFwzY.jpg

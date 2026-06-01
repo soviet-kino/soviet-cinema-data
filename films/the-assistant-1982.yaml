@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12774172
   imdb: tt0168135
+  tmdb: 45919
 sources:
 - https://www.wikidata.org/wiki/Q12774172
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: kubanova-marta-kopanicka
 - person: zimmer-vladimir
 - person: stur-svetozar
+poster_tmdb_path: /yy7yFKlBqoQl91royr7QNLHXfgz.jpg
+backdrop_tmdb_path: /3ikm1lxwza08ASSi5izIPemLqJ4.jpg

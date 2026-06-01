@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q9209520
   imdb: tt0042405
+  tmdb: 317313
 sources:
 - https://www.wikidata.org/wiki/Q9209520
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - q9380470
 - film-polski
+poster_tmdb_path: /ywFWuyijpsnLBHy23Hw3RkavP3K.jpg
+backdrop_tmdb_path: /xONGFdc0kv8yA7vVrdf3hYrYRZK.jpg

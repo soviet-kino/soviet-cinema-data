@@ -8,6 +8,7 @@ runtime_min: 397
 external_ids:
   wikidata: Q104896401
   imdb: tt6839130
+  tmdb: 454258
 sources:
 - https://www.wikidata.org/wiki/Q104896401
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - buevskiy-boris-nikolaevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /wH0nQxBsNRcTm3af9dDXFWYhR5Y.jpg
+backdrop_tmdb_path: /xCHjzUUVfPLJjGnBG0cYL3rKlrD.jpg

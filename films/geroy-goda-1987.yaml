@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5068082
   imdb: tt0092685
+  tmdb: 155531
 sources:
 - https://www.wikidata.org/wiki/Q5068082
 schema_version: 1
@@ -39,3 +40,4 @@ cast:
 - person: skarga-petr
 - person: mrowiec-andrzej
 - person: stsigalska-anna
+poster_tmdb_path: /q6k6uz30rjlnLRpCrzmy42JNaCg.jpg

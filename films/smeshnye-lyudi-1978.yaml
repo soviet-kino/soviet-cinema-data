@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424501
   imdb: tt0076728
   youtube: nKzTV2YPHkI
+  tmdb: 211104
 sources:
 - https://www.wikidata.org/wiki/Q4424501
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: basilashvili-oleg-valerianovich
 studio:
 - mosfilm
+poster_tmdb_path: /gvW4T9Lm7q1EwSr8hProKc2Vg1v.jpg
+backdrop_tmdb_path: /rgWSFtZgiHP4VSlMTC9wlKbarrl.jpg

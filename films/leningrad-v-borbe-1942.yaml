@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q97569362
   imdb: tt0034971
+  tmdb: 572777
 sources:
 - https://www.wikidata.org/wiki/Q97569362
 schema_version: 1
@@ -18,3 +19,4 @@ director:
 - komarevtsev-nikolay-grigorevich
 composer:
 - astradantsev-dmitriy-borisovich
+poster_tmdb_path: /gbEN9sjaozNIn1oQq8R06LuuF1R.jpg

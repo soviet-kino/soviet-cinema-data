@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q477602
   imdb: tt0017271
   youtube: Ye5MZGFj5Wk
+  tmdb: 126644
 sources:
 - https://www.wikidata.org/wiki/Q477602
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: komarov-sergey-petrovich
 studio:
 - goskino
+poster_tmdb_path: /en5KODxMeWO5KgFDFh8974mfSgS.jpg
+backdrop_tmdb_path: /vaBOFhmfsy2tWvNvC5HlQaPOlvL.jpg

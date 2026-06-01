@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q89422478
   imdb: tt0176157
+  tmdb: 710293
 sources:
 - https://www.wikidata.org/wiki/Q89422478
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 - person: koutna-alexandra
 - person: zemkova-anna
 - person: kolarova-vera
+poster_tmdb_path: /qrkEyDxkaLG2SdzzJIGyqp0WOoM.jpg
+backdrop_tmdb_path: /bSGwLsikMMIQ4QnHnpxglLiotCT.jpg

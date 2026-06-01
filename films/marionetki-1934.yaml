@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4281549
   imdb: tt0025473
+  tmdb: 191812
 sources:
 - https://www.wikidata.org/wiki/Q4281549
 schema_version: 1
@@ -39,3 +40,5 @@ studio:
 - mezhrabpomfilm
 - kinostudiya-imeni-m-gorkogo
 poster_commons: Marionettes (1934).jpg
+poster_tmdb_path: /pplrJ7EPJXCfpkg232NA95jeFUs.jpg
+backdrop_tmdb_path: /sHigjzviDSahTFgKQEsH1p60QSw.jpg

@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q115587049
   imdb: tt5313220
+  tmdb: 1564510
 sources:
 - https://www.wikidata.org/wiki/Q115587049
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: merzlikin-nikolay-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /pecYgUC9DCqQPxzatqSRbQUR0FQ.jpg

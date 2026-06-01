@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q84048773
   imdb: tt1857854
   youtube: o4h2nzcbj6o
+  tmdb: 542019
 sources:
 - https://www.wikidata.org/wiki/Q84048773
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: tokhadze-givi-maksimovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /hweJQaNxGk3m7qvaiJGZKfbv8A9.jpg

@@ -8,6 +8,7 @@ runtime_min: 122
 external_ids:
   wikidata: Q3825033
   imdb: tt0194509
+  tmdb: 505036
 sources:
 - https://www.wikidata.org/wiki/Q3825033
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: belli-marisa
 studio:
 - rai
+poster_tmdb_path: /505ucvWIRmgErxJH24TwTFDGNC3.jpg

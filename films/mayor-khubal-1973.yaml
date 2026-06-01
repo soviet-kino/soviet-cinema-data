@@ -8,6 +8,7 @@ runtime_min: 126
 external_ids:
   wikidata: Q5926745
   imdb: tt0071633
+  tmdb: 157332
 sources:
 - https://www.wikidata.org/wiki/Q5926745
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: vikhnyazh-kazimezh
 - person: kozak-andzhey
 - person: filipskiy-ryshard
+poster_tmdb_path: /atAHij3pH0wwjbWcpZxygtIzodL.jpg
+backdrop_tmdb_path: /jIFPSFvkXmeTd4ylpHK6m7qlT05.jpg

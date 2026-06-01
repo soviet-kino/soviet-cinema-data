@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q3006838
   imdb: tt0065987
+  tmdb: 240926
 sources:
 - https://www.wikidata.org/wiki/Q3006838
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: cheyvan-adem
 - person: edo-perochevich
 - person: spoljar-branko
+poster_tmdb_path: /u8R7ZuXy2FhpS80ItWHcR4IAND5.jpg
+backdrop_tmdb_path: /gQ5vh69HfwZQdRp4QdbxR5rX02.jpg

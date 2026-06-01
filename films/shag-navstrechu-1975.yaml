@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4519266
   imdb: tt0255594
   youtube: Ig3BrWIvZp8
+  tmdb: 160014
 sources:
 - https://www.wikidata.org/wiki/Q4519266
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Strimaitis shag.jpg
+poster_tmdb_path: /dBbnuZqiupZ8aG90B9sFbkSJrxF.jpg
+backdrop_tmdb_path: /1fWghtKVJRp5RW2g420X33atRq3.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12744031
   imdb: tt0139748
+  tmdb: 444658
 sources:
 - https://www.wikidata.org/wiki/Q12744031
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: alsek-zefi
 - person: popovichi-ilyana
 - person: miller-konstantin
+poster_tmdb_path: /u27txLt3qAfPMipYryTqkGKiX8d.jpg

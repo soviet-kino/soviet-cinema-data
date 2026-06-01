@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q3588085
   imdb: tt0093572
+  tmdb: 183219
 sources:
 - https://www.wikidata.org/wiki/Q3588085
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 cast:
 - person: tarkovsky-andrei
 - person: guerra-tonino
+poster_tmdb_path: /kaOd7YP393AbxOx3yxLQ3GDk5k2.jpg
+backdrop_tmdb_path: /4m60e3OeXBQRWWtoxTGOZWRevjI.jpg

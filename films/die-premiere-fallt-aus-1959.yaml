@@ -8,6 +8,7 @@ runtime_min: 76
 external_ids:
   wikidata: Q5274421
   imdb: tt0171654
+  tmdb: 372580
 sources:
 - https://www.wikidata.org/wiki/Q5274421
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - jung-alsen-kurt
 screenwriter:
 - neumann-gerhard
+poster_tmdb_path: /4Iu4Ph37nkVG5TCMsZfpJW9h0zC.jpg

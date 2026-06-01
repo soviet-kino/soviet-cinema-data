@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q19799718
   imdb: tt0188155
   youtube: oaslzT05eqc
+  tmdb: 395781
 sources:
 - https://www.wikidata.org/wiki/Q19799718
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bazin-vitaliy-vasilevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /kRqmqgXWrMS8CniYRW2e6XbXR2D.jpg

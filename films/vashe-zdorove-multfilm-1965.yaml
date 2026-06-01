@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4105520
   imdb: tt7211482
   youtube: PJXi69wfuhw
+  tmdb: 1305839
 sources:
 - https://www.wikidata.org/wiki/Q4105520
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - lokshin-aleksandr-lazarevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uyLIQsraKakBqmeYtVzfFvsHjoL.jpg

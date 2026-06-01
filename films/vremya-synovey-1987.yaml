@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q84993138
   imdb: tt0092183
+  tmdb: 895239
 sources:
 - https://www.wikidata.org/wiki/Q84993138
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: shabaltas-ivan-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /dteRfNEWQaolnIsFuqxrt8PW3MN.jpg

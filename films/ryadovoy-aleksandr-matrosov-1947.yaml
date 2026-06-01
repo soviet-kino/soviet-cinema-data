@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4402536
   imdb: tt0173149
   youtube: pNrKD9e6his
+  tmdb: 626436
 sources:
 - https://www.wikidata.org/wiki/Q4402536
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: ignatev-anatoliy-vasilevich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /jwzjunyfZiFNgrZRVdCJFyWaogz.jpg
+backdrop_tmdb_path: /2S0NFaIlTo84U7qtmhEaFk3fMzw.jpg

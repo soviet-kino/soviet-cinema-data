@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q106716901
   imdb: tt0256792
+  tmdb: 330768
 sources:
 - https://www.wikidata.org/wiki/Q106716901
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: eljia-abdellatif-ben
 - person: lefebvre-francis
 - person: aouini-amor
+poster_tmdb_path: /jXrDKVWTAt0qsYrhpZog478ktzj.jpg

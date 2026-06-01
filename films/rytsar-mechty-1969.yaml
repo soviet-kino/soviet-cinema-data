@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q131370335
   imdb: tt5077360
+  tmdb: 1651076
 sources:
 - https://www.wikidata.org/wiki/Q131370335
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 studio:
 - lenfilm
 - moldova-film
+poster_tmdb_path: /uldBFAHGzNZJvpWcjPmQO3MsCVu.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q106764722
   imdb: tt0376310
+  tmdb: 283060
 sources:
 - https://www.wikidata.org/wiki/Q106764722
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: reich-rudi
 - person: wildgrube-hans-jurgen
 - person: kruckenberg-rolf-martin
+poster_tmdb_path: /23FZ9O2g9bkzMjbViUYiypoHroG.jpg
+backdrop_tmdb_path: /sEG4wGHy8NKDkpKjObAd66KZfs8.jpg

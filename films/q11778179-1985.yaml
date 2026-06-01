@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11778179
   imdb: tt0087714
+  tmdb: 958910
 sources:
 - https://www.wikidata.org/wiki/Q11778179
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: breitenwald-micha
 - person: knast-alicja
 - person: wawszczyk-maria
+poster_tmdb_path: /dJaBDUrvYe1Huy6WQ3RLUi7Dteo.jpg

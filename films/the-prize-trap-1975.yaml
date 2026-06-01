@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q97200174
   imdb: tt0071708
+  tmdb: 328528
 sources:
 - https://www.wikidata.org/wiki/Q97200174
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - koltai-layosh
 studio:
 - mafilm
+poster_tmdb_path: /h87DbFcVMZxNww13HDWxGftmeD9.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q20481355
   imdb: tt0272815
+  tmdb: 540252
 sources:
 - https://www.wikidata.org/wiki/Q20481355
 schema_version: 1
@@ -23,3 +24,4 @@ studio:
 - mosfilm
 cast:
 - person: sedov-vladimir-alekseevich
+poster_tmdb_path: /yBFiBV1FbGOSRODZ28LYOYwNviT.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116441124
   imdb: tt0232488
+  tmdb: 1549983
 sources:
 - https://www.wikidata.org/wiki/Q116441124
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - sheffer-lev-borisovich
 studio:
 - sovkino
+poster_tmdb_path: /KC7ss6E35KFKdj8VfwlE7HpvUZ.jpg
+backdrop_tmdb_path: /gTgWKMuOXvWsXwIzlojeduVJFe9.jpg

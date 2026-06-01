@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4503152
   imdb: tt0168231
   youtube: YrrPNEjIUYc
+  tmdb: 362005
 sources:
 - https://www.wikidata.org/wiki/Q4503152
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - lenfilm
 cast:
 - person: martynov-sergey
+poster_tmdb_path: /t4jk9oSaHTitoe9n70io267pusf.jpg
+backdrop_tmdb_path: /cNpTwsljhvgVcMqgyr9Kv5lXSyS.jpg

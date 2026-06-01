@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4233734
   imdb: tt0273315
+  tmdb: 284703
 sources:
 - https://www.wikidata.org/wiki/Q4233734
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: kustinskaya-natalya-nikolaevna
 - person: smirnitskiy-valentin-georgievich
+poster_tmdb_path: /dlkDQLgBNNd4Sp4crv4MV8mpwMV.jpg
+backdrop_tmdb_path: /zRaHxlVBytcUFH2f27fLaR1dG03.jpg

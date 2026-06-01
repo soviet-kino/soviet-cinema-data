@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q11788974
   imdb: tt0089662
+  tmdb: 246158
 sources:
 - https://www.wikidata.org/wiki/Q11788974
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: savitskaya-tereza
 - person: nowicka-janina
 - person: kulczycka-justyna
+poster_tmdb_path: /qqPjvSV6JUEdPx4yuJBwdcRzYi9.jpg
+backdrop_tmdb_path: /dcsj6oB8BD3mtiavqRs952rB7Ss.jpg

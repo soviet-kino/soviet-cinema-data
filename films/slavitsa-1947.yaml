@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3503682
   imdb: tt0039837
+  tmdb: 266670
 sources:
 - https://www.wikidata.org/wiki/Q3503682
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: dujsin-dubravko
 studio:
 - avala-film
+poster_tmdb_path: /6YTCfC64qQpPhZFsgQBXelsj1i2.jpg
+backdrop_tmdb_path: /6WNtQSjVOecRzh2ENleB1bg5Q6K.jpg

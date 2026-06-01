@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q23565402
   imdb: tt0073592
+  tmdb: 441199
 sources:
 - https://www.wikidata.org/wiki/Q23565402
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - kruze-gans-yurgen
 composer:
 - azriel-andre
+poster_tmdb_path: /3mpTcCbJBpijllj2KrHaQibaBKc.jpg

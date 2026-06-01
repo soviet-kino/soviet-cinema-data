@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q2268293
   imdb: tt0172708
+  tmdb: 50266
 sources:
 - https://www.wikidata.org/wiki/Q2268293
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: timofti-mikhail-vasilevich
 - person: lunkevich-sergey-aleksandrovich
 - person: grigoriu-grigore-petru
+poster_tmdb_path: /en9P38TtMFKoLYM3c6YRLTvKcmX.jpg
+backdrop_tmdb_path: /pl6x4Jwoc1QrgtVCAyoM23d2JKE.jpg

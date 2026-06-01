@@ -8,6 +8,7 @@ runtime_min: 28
 external_ids:
   wikidata: Q6731635
   imdb: tt2510032
+  tmdb: 442711
 sources:
 - https://www.wikidata.org/wiki/Q6731635
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: srstka-zdenek
 - person: maresh-yaroslav
 - person: shtertsi-yaroslav
+poster_tmdb_path: /l86pTaQXwxS0KuUiAnZEGnPjLBk.jpg
+backdrop_tmdb_path: /gZqIgLVPDINzLhnbmOXHd79mRO9.jpg

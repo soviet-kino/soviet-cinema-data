@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17043504
   imdb: tt11886328
+  tmdb: 1006303
 sources:
 - https://www.wikidata.org/wiki/Q17043504
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - koltsatyy-arkadiy-nikolaevich
 - kozlovskiy-nikolay-feofanovich
 poster_commons: Dženteĺmen i pievień. Джэнтэльмэн і певень.jpg
+poster_tmdb_path: /ncI3hGPJNzOJph9A7cnCjgZf05r.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4277689
   imdb: tt0060658
   youtube: 4S-7gB0qhWw
+  tmdb: 387069
 sources:
 - https://www.wikidata.org/wiki/Q4277689
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nikulin-yuriy-vladimirovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /KO3KFNrvQpnN7KhVduoI9UUtVl.jpg
+backdrop_tmdb_path: /63QTRLdLaXEDlDMd3SiRPXUBsMW.jpg

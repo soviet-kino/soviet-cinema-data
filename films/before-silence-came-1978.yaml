@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q42908598
   imdb: tt0151051
+  tmdb: 627857
 sources:
 - https://www.wikidata.org/wiki/Q42908598
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: karamitru-ion
 - person: sechu-valeriya
 - person: rozorya-liviu
+poster_tmdb_path: /rFLNhAsk8En93LoTt1Z53tobvh0.jpg

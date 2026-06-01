@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q56364455
   imdb: tt5313368
+  tmdb: 1309426
 sources:
 - https://www.wikidata.org/wiki/Q56364455
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - kinostudiya-imeni-a-dovzhenko
 cast:
 - person: evdokimova-aleftina-nikolaevna
+poster_tmdb_path: /6qEtSFIKGfJaQBBu8MGwfEOCtdZ.jpg
+backdrop_tmdb_path: /i4IyGAaTZzvUrJN0YxpMsKZUunp.jpg

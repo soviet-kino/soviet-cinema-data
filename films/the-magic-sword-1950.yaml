@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q3438649
   imdb: tt0042359
+  tmdb: 266079
 sources:
 - https://www.wikidata.org/wiki/Q3438649
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: ajvaz-milan
 - person: aleksandr-stoykovich
 poster_commons: Cudotvorni Mac Poster.jpg
+poster_tmdb_path: /8CRBsy6D5tFpuTW3ZvBEzF3OLBe.jpg
+backdrop_tmdb_path: /jJ8D3NhLhlimz8IWsimlWhwTLgr.jpg

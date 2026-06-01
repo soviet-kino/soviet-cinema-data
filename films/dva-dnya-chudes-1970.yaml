@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4155577
   imdb: tt0383322
   youtube: B5_z3LNN1Og
+  tmdb: 339768
 sources:
 - https://www.wikidata.org/wiki/Q4155577
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: kuravlyov-leonid-vyacheslavovich
+poster_tmdb_path: /8a3991AOaix6jcxIBOTipYxRdIH.jpg
+backdrop_tmdb_path: /bLGHdF0nEMk94MqwkbaYTgKi4Gz.jpg

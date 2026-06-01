@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q1475202
   imdb: tt0073948
+  tmdb: 61703
 sources:
 - https://www.wikidata.org/wiki/Q1475202
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: sabo-laslo
 - person: berek-katalin
 - person: kadar-flora
+poster_tmdb_path: /dknlQ4a7sT788CcZCLnqfCPOINU.jpg
+backdrop_tmdb_path: /5eB0TGOho0zYEsTzYWkMIqypUEG.jpg

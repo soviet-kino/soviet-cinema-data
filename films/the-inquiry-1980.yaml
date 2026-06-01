@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q28734800
   imdb: tt0157312
+  tmdb: 628286
 sources:
 - https://www.wikidata.org/wiki/Q28734800
 schema_version: 1
 director:
 - vaeni-constantin
+poster_tmdb_path: /mHpTd1z2Ween56RVAqedce8nL2c.jpg

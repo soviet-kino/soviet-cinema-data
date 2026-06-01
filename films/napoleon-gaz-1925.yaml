@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4312984
   imdb: tt0249048
   youtube: qEKyZANFiyo
+  tmdb: 440026
 sources:
 - https://www.wikidata.org/wiki/Q4312984
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - timoshenko-semyon-alekseevich
 studio:
 - lenfilm
+poster_tmdb_path: /43htWXt2IHcCZz1nHv6yn6oyLdX.jpg

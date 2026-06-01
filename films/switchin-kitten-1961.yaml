@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q4050469
   imdb: tt0055493
+  tmdb: 234663
 sources:
 - https://www.wikidata.org/wiki/Q4050469
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - konicek-stepan
 studio:
 - metro-goldwyn-mayer
+poster_tmdb_path: /i0h3eUeJoWYj3f5s7FipF3un7xi.jpg
+backdrop_tmdb_path: /mH9kxxQ9afnIADXxUUbGkA3XNGR.jpg

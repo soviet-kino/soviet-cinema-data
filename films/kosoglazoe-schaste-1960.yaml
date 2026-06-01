@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4235137
   imdb: tt0054495
+  tmdb: 121455
 sources:
 - https://www.wikidata.org/wiki/Q4235137
 schema_version: 1
@@ -76,3 +77,5 @@ cast:
 studio:
 - kamera-kinostudiya
 - film-polski
+poster_tmdb_path: /ledMwPZhHPwoboJyB2h1RQZfSFV.jpg
+backdrop_tmdb_path: /9ICHY1WBXwZ2qdQF3L9EN4MHPQa.jpg

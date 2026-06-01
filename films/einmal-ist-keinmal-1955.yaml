@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q1308383
   imdb: tt0048031
+  tmdb: 279674
 sources:
 - https://www.wikidata.org/wiki/Q1308383
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: arpe-yokhannes
 - person: lyobinger-lotta
 - person: kristian-norbert
+poster_tmdb_path: /twxYtWaetTTv9wjwYNtAzd7TzeG.jpg
+backdrop_tmdb_path: /68tA6DWVzET8HWoBLjb1TD8WVpg.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1330689
   imdb: tt0070262
   youtube: MYmi--Kot-k
+  tmdb: 38359
 sources:
 - https://www.wikidata.org/wiki/Q1330689
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: gvozdikova-natalya-fyodorovna
 - person: ryzhov-ivan-petrovich
 - person: fedoseeva-shukshina-lidiya-nikolaevna
+poster_tmdb_path: /h2EdjBxgvheupRwW1zSqHcP7wHM.jpg
+backdrop_tmdb_path: /4ZnRDSj0K6nz9G34zkaywbgo3WU.jpg

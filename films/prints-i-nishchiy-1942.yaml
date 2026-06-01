@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q4378823
   imdb: tt0349998
+  tmdb: 469317
 sources:
 - https://www.wikidata.org/wiki/Q4378823
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: Prince and the Pauper.jpg
+poster_tmdb_path: /lUWp6C8eqDnm85SaDwE0aHvM4W.jpg
+backdrop_tmdb_path: /pWWGGUZ9Ao4ad1miethsnVCOZhy.jpg

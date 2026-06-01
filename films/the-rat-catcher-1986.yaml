@@ -8,6 +8,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q110459880
   imdb: tt0354952
+  tmdb: 309325
 sources:
 - https://www.wikidata.org/wiki/Q110459880
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - sobochinskiy-pyotr
 studio:
 - wytwornia-filmow-oswiatowych
+backdrop_tmdb_path: /aQGSPA2cwIGayICnBqPZ2t3Z3ev.jpg

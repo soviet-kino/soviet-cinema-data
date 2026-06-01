@@ -8,6 +8,7 @@ runtime_min: 292
 external_ids:
   wikidata: Q4535969
   imdb: tt6647618
+  tmdb: 567052
 sources:
 - https://www.wikidata.org/wiki/Q4535969
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: ashkenazi-david-vladimirovich
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /lPOOuuxeFy1TzaZ4AYog8HozJxB.jpg

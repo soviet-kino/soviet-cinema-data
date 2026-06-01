@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4237700
   imdb: tt0077819
   youtube: JuMa7mKJgKg
+  tmdb: 83458
 sources:
 - https://www.wikidata.org/wiki/Q4237700
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: tabakov-oleg-pavlovich
 - person: neyolova-marina-mstislavovna
 - person: durov-lev-konstantinovich
+poster_tmdb_path: /hUSgivFrHehsbdnoLugWb2QSFFF.jpg
+backdrop_tmdb_path: /lKzRUNrYxdP7Jo2jLSIB1qCZUL7.jpg

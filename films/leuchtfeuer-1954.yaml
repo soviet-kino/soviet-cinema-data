@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1821371
   imdb: tt0047174
+  tmdb: 276583
 sources:
 - https://www.wikidata.org/wiki/Q1821371
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: wendt-maria
 - person: shelkher-raymund
 - person: shvabe-villi
+poster_tmdb_path: /gVtkVbo5oRmNOFuGlHKRPz11lPy.jpg
+backdrop_tmdb_path: /gdedrfeNU7B4Yme34Te2fvKLhyY.jpg

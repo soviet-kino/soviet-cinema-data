@@ -8,6 +8,7 @@ runtime_min: 347
 external_ids:
   wikidata: Q65200474
   imdb: tt4874008
+  tmdb: 533608
 sources:
 - https://www.wikidata.org/wiki/Q65200474
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kindinov-evgeniy-arsenevich
 studio:
 - ekran
+poster_tmdb_path: /99lJg7muDFyebkC0LmBaRWzdnpi.jpg

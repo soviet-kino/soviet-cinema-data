@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q5237480
   imdb: tt0174058
+  tmdb: 256547
 sources:
 - https://www.wikidata.org/wiki/Q5237480
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: ban-ivo
 - person: puzich-milan
 - person: avbelj-jozica
+poster_tmdb_path: /4Ouj32K4HjY4YntoqSxoAz55N8L.jpg
+backdrop_tmdb_path: /AoaTORieJGsV6aufxyLVpoDRx2o.jpg

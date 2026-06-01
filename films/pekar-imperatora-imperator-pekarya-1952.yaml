@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q5202683
   imdb: tt0043411
+  tmdb: 36918
 sources:
 - https://www.wikidata.org/wiki/Q5202683
 schema_version: 1
@@ -73,3 +74,5 @@ cast:
 studio:
 - chekhoslovatskoe-gosudarstvennoe-kino
 poster_commons: Císařův pekař - kostým 1.jpg
+poster_tmdb_path: /3i6VoJXD5EMmNCN1f7DTvZMzJnJ.jpg
+backdrop_tmdb_path: /eoDbk2Gk7Sb2q7LUlG32NtdMZau.jpg

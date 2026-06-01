@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q10295507
   imdb: tt0167509
+  tmdb: 456341
 sources:
 - https://www.wikidata.org/wiki/Q10295507
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: tolarova-betty
 - person: elias-jiri
 - person: bures-jan
+poster_tmdb_path: /bq2q7NQwAanrZCXYhLp3HTDqg4j.jpg

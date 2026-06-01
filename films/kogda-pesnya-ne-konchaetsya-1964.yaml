@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q63859066
   imdb: tt0231917
+  tmdb: 363812
 sources:
 - https://www.wikidata.org/wiki/Q63859066
 schema_version: 1
@@ -26,3 +27,4 @@ studio:
 - lenfilm
 cast:
 - person: shcherbakov-dalvin-aleksandrovich
+poster_tmdb_path: /5A6Sc6iAhJUjcLCBUt2AR3ti8lA.jpg

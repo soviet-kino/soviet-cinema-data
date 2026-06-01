@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q19971712
   imdb: tt0060595
+  tmdb: 334199
 sources:
 - https://www.wikidata.org/wiki/Q19971712
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: shultse-khorst
 - person: kholts-yurgen
 - person: piontek-klaus
+poster_tmdb_path: /cN5CLQnXlnWzGTJPSZrtfypHmsZ.jpg
+backdrop_tmdb_path: /4KSMOD0bXM2pUAUSaocv2yMpSVI.jpg

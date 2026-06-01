@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q1246021
   imdb: tt0067012
+  tmdb: 13093
 sources:
 - https://www.wikidata.org/wiki/Q1246021
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: khyorbing-sonya
 - person: uider-teresiya
 - person: heyse-evamaria
+poster_tmdb_path: /fVkkSlxFeplUllmM30HrH7TCqi8.jpg
+backdrop_tmdb_path: /4tM60N7ARUofLstrxxaSU2bsZUy.jpg

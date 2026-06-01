@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q62381
   imdb: tt1346228
+  tmdb: 854232
 sources:
 - https://www.wikidata.org/wiki/Q62381
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - garanyan-georgiy
 studio:
 - armenfilm
+poster_tmdb_path: /hdyUu5baLjHD2JeCTjKR6XaeSKD.jpg
+backdrop_tmdb_path: /c514W5ksVN1uW4XDhoiIdaEw1We.jpg

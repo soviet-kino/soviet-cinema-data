@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3302565
   imdb: tt0169584
+  tmdb: 391123
 sources:
 - https://www.wikidata.org/wiki/Q3302565
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - cashku-kujtim
 composer:
 - ibrahimi-feim
+poster_tmdb_path: /296s1qDDrKuJBoVirusoS02aeck.jpg
+backdrop_tmdb_path: /k36qr7kRBRZL1nOEG9RXx9oXe3m.jpg

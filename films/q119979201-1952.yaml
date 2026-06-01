@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q119979201
   imdb: tt0151571
+  tmdb: 653111
 sources:
 - https://www.wikidata.org/wiki/Q119979201
 schema_version: 1
@@ -108,3 +109,4 @@ cast:
 - person: mattausch-ludek
 - person: matejova-vera
 - person: lepicova-tana
+poster_tmdb_path: /sS2xXzdIvovA1b55zutByMDttpW.jpg

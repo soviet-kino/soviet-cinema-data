@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q63183302
   imdb: tt0193615
+  tmdb: 128002
 sources:
 - https://www.wikidata.org/wiki/Q63183302
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: okhlupin-igor-leonidovich
 - person: prygunov-lev-georgievich
 - person: kasyanova-lyudmila-ivanovna
+poster_tmdb_path: /chUR4r8fJ57fHEmMOiAj4msuDZT.jpg
+backdrop_tmdb_path: /ccsEXL0YEOqDhjBEL152EgtzOuh.jpg

@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q4327835
   imdb: tt6141182
+  tmdb: 714613
 sources:
 - https://www.wikidata.org/wiki/Q4327835
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: kalyagin-aleksandr-aleksandrovich
 studio:
 - moskovskiy-khudozhestvennyy-teatr-imeni-a-p-chekhova
+poster_tmdb_path: /1afZUwFn4Qu7ptYlVUbp5rxTQx6.jpg

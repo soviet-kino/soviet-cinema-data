@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4232309
   imdb: tt0070278
+  tmdb: 341277
 sources:
 - https://www.wikidata.org/wiki/Q4232309
 schema_version: 1
@@ -35,3 +36,4 @@ cast:
 studio:
 - defa
 - iluzjon
+poster_tmdb_path: /1DRRYaQUVngSt6ArDPoqocIZ6IQ.jpg

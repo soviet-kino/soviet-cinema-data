@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q84994628
   imdb: tt2023810
   youtube: QXfi56xFjew
+  tmdb: 895344
 sources:
 - https://www.wikidata.org/wiki/Q84994628
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: ozhelite-niyole
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /64e2jx6HxE0GWVfAnhi5iUlOaOO.jpg
+backdrop_tmdb_path: /mJ4fTkxqan7AJPzuuZB9p3AQdX1.jpg

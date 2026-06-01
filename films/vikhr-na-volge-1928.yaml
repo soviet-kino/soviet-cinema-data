@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25617163
   imdb: tt21327836
+  tmdb: 1321672
 sources:
 - https://www.wikidata.org/wiki/Q25617163
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - maksimov-koshkinskiy-ioakim-stepanovich
 cast:
 - person: yun-tani
+poster_tmdb_path: /4l7TrceqGa9bFHDwLVRr9x2M2ud.jpg

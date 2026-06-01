@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q123956229
   imdb: tt0051243
+  tmdb: 571051
 sources:
 - https://www.wikidata.org/wiki/Q123956229
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: sabo-ildiko
 - person: szirtes-adam
 - person: kiss-ferents
+poster_tmdb_path: /5tFwWyzP6y3boZxEr0dw4fRrgyl.jpg

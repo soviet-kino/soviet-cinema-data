@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q7828838
   imdb: tt0138882
+  tmdb: 986791
 sources:
 - https://www.wikidata.org/wiki/Q7828838
 schema_version: 1
@@ -75,3 +76,4 @@ cast:
 - person: zunova-klementina
 - person: pekarek-pavel
 - person: broz-frantisek
+poster_tmdb_path: /cg2XQlAyZZWW12hy6Ox4e5O2QJY.jpg

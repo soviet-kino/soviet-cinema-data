@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q4452003
   imdb: tt0274930
+  tmdb: 941669
 sources:
 - https://www.wikidata.org/wiki/Q4452003
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - charkviani-pavle-konstantinovich
 studio:
 - gruziya-film
+poster_tmdb_path: /xjA8q8Ts233lnf1qM1pWNKjxrWq.jpg

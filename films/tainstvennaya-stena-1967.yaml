@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4449761
   imdb: tt0164187
+  tmdb: 344800
 sources:
 - https://www.wikidata.org/wiki/Q4449761
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kruglyy-lev-borisovich
 studio:
 - mosfilm
+poster_tmdb_path: /oC3VhIgUj8OygMgUVuv0DV3Ssii.jpg
+backdrop_tmdb_path: /6Hnjw9hHoU8L6WqrqiujgO6HLGO.jpg

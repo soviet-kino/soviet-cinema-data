@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4171576
   imdb: tt0176679
   youtube: hJ1OITdk7II
+  tmdb: 531403
 sources:
 - https://www.wikidata.org/wiki/Q4171576
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: zimin-mikhail-nikolaevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /n9nBvagd3bPQZy2RlBln0VfjKDB.jpg

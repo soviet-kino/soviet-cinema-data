@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15617380
   imdb: tt6247704
+  tmdb: 927707
 sources:
 - https://www.wikidata.org/wiki/Q15617380
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - papava-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4VtqZmfmY4KWKAj5fqtT55tmh8S.jpg
+backdrop_tmdb_path: /zeYZO3SlZ9aGTtviMRzoJDRVvEE.jpg

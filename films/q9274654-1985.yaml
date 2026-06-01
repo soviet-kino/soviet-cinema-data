@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9274654
   imdb: tt0351580
+  tmdb: 503253
 sources:
 - https://www.wikidata.org/wiki/Q9274654
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - fejzo-muharem
 composer:
 - zaharian-hajg
+poster_tmdb_path: /estfVqB45OhRmBZIRyp42OFokP1.jpg
+backdrop_tmdb_path: /2mdDXebdAg74d6irHqVnB0TycdT.jpg

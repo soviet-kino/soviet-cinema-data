@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q93432409
   imdb: tt5074666
+  tmdb: 688158
 sources:
 - https://www.wikidata.org/wiki/Q93432409
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: krupennikova-ekaterina-evgenevna
 - person: nedbay-zoya-vasilevna
 - person: kharchenko-sergey-vasilevich
+poster_tmdb_path: /pqQdvHSM5wAzMYeRscATwT3op7B.jpg
+backdrop_tmdb_path: /oj1PeRv0926dRsJxleck30DeHMj.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q3266367
   imdb: tt0169100
+  tmdb: 269213
 sources:
 - https://www.wikidata.org/wiki/Q3266367
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: kobik-josef
 - person: celedova-inez
 - person: zichovsky-vaclav
+poster_tmdb_path: /lE1qQed4LgRlSGvv5keVrykBpeg.jpg

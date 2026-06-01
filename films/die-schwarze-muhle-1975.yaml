@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1219311
   imdb: tt0073670
+  tmdb: 80695
 sources:
 - https://www.wikidata.org/wiki/Q1219311
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: khebenshtrayt-pedro
 - person: kommerell-ruth
 - person: uider-teresiya
+poster_tmdb_path: /hM3oog1HpGAGmEMHp91EVvTEVKA.jpg
+backdrop_tmdb_path: /9bAyGat00fn9iEuI8U79xtNRWrM.jpg

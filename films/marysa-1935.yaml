@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12035949
   imdb: tt0208285
   youtube: 5co16wRPr-U
+  tmdb: 252754
 sources:
 - https://www.wikidata.org/wiki/Q12035949
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: soukup-antonin
 - person: q101092526
 - person: nemec-karel
+poster_tmdb_path: /mBrmQWzXcIUVHKpWhTHta6WfCg7.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q11795593
   imdb: tt0070466
+  tmdb: 251796
 sources:
 - https://www.wikidata.org/wiki/Q11795593
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: kamas-ezhi
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /6Xpvt7LI1qYwfVDHoxITcXbGe24.jpg
+backdrop_tmdb_path: /ohrYsvJfnE0taDFTc4PQnYFIdS8.jpg

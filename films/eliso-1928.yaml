@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12864130
   imdb: tt0018862
   youtube: T70DjixVZJk
+  tmdb: 189965
 sources:
 - https://www.wikidata.org/wiki/Q12864130
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - tuskiya-iona-iraklievich
 studio:
 - gruziya-film
+poster_tmdb_path: /xL0sVzhKP7av13WXBjLMrrdMj8S.jpg
+backdrop_tmdb_path: /DDlE4zl7P7mGFr1Vf4rktLmXBP.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65197593
   imdb: tt0208247
+  tmdb: 602116
 sources:
 - https://www.wikidata.org/wiki/Q65197593
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - savelev-vladimir-alekseevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /ouuGtFN9tm6bNV7xnEUefOQ2rIR.jpg

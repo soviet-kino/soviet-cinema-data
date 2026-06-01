@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4409911
   imdb: tt4837726
+  tmdb: 888271
 sources:
 - https://www.wikidata.org/wiki/Q4409911
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kolker-aleksandr
 studio:
 - lenfilm
+poster_tmdb_path: /i0N0dpAFC4rtc7K1LCArXKn0d3r.jpg

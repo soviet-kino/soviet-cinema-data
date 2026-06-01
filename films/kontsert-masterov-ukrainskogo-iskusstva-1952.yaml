@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q30329996
   imdb: tt0044806
+  tmdb: 826381
 sources:
 - https://www.wikidata.org/wiki/Q30329996
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: gerasimchuk-lidiya-pavlovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /hkf3DRYm3QkKYKGn7xUYufUPbDC.jpg

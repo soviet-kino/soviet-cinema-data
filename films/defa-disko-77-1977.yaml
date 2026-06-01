@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q1152943
   imdb: tt0321882
+  tmdb: 419263
 sources:
 - https://www.wikidata.org/wiki/Q1152943
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: staack-ursula
 - person: pfeifer-werner
 - person: shrade-villi
+poster_tmdb_path: /e9UPh10e0jGSp6rtP3QTUUONZdA.jpg

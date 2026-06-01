@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97821532
   imdb: tt0240135
   youtube: qDtx9mREKVg
+  tmdb: 620038
 sources:
 - https://www.wikidata.org/wiki/Q97821532
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: derevshchikova-ekaterina-aleksandrovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /ilFCL5MDgEM4YaM12ezN8xQWZ21.jpg
+backdrop_tmdb_path: /vt1rvMfyip6eaeSa1BhVKqbQfky.jpg

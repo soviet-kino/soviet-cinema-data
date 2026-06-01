@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q84846594
   imdb: tt0073681
+  tmdb: 542266
 sources:
 - https://www.wikidata.org/wiki/Q84846594
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: rybnikov-nikolay-nikolaevich
 studio:
 - mosfilm
+poster_tmdb_path: /41JLkf2xAhZCwbWa3aUCoL7QpGL.jpg
+backdrop_tmdb_path: /qo0e7lW2WXyrIPqvntFf2D09pjE.jpg

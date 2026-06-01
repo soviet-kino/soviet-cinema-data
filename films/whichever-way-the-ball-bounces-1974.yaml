@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q3506582
   imdb: tt0071728
+  tmdb: 490051
 sources:
 - https://www.wikidata.org/wiki/Q3506582
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: kaloper-jagoda
 studio:
 - yadran-film
+poster_tmdb_path: /joe1PTn3J8ukgzOju7otWuPTTRF.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2714901
   imdb: tt0067315
   youtube: _r5hyH2uGgo
+  tmdb: 8063
 sources:
 - https://www.wikidata.org/wiki/Q2714901
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: ritti-robert
 - person: klyuev-boris-vladimirovich
 - person: eduard-evgenevich-martsevich
+poster_tmdb_path: /8xY6dsLoEfTsvEHz0OED7YI0sii.jpg
+backdrop_tmdb_path: /l8eCocnghtHK6UJ1jCtYF0uIyEA.jpg

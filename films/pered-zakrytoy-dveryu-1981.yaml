@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q12837493
   imdb: tt0174112
+  tmdb: 531294
 sources:
 - https://www.wikidata.org/wiki/Q12837493
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: nakhapetov-rodion-rafailovich
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /rH3GISaxHIRQjUB4CDy3HHOUquM.jpg
+backdrop_tmdb_path: /uiIlk2l2LPObEvvdGURsllFyqNi.jpg

@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q16929888
   imdb: tt0172585
+  tmdb: 441056
 sources:
 - https://www.wikidata.org/wiki/Q16929888
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - ebeling-volfgang
 cinematographer:
 - khaubold-gyunter
+poster_tmdb_path: /6Dh5xBzNIugBW9F6OAzK8Lujzm2.jpg

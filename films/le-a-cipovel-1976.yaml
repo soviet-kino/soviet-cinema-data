@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q20438791
   imdb: tt0167316
+  tmdb: 219769
 sources:
 - https://www.wikidata.org/wiki/Q20438791
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - abonyi-antal
 composer:
 - tamashi-zdenko
+poster_tmdb_path: /3YXFVG0bQ1HWlrdkZ0EOY7Bhhuu.jpg
+backdrop_tmdb_path: /ctsPaB38Mmkf3jwgC7eoXghClQZ.jpg

@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q3564657
   imdb: tt0058001
+  tmdb: 100589
 sources:
 - https://www.wikidata.org/wiki/Q3564657
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: moudry-bohumil
 - person: pichl-evzen
 - person: schich-anton
+poster_tmdb_path: /s1il7ZIhkKZewLNjLInCDHRqi4x.jpg
+backdrop_tmdb_path: /6NQaH8YAM9365WlC2EO3Ib7QbT.jpg

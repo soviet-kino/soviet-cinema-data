@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q9212904
   imdb: tt0074445
+  tmdb: 156567
 sources:
 - https://www.wikidata.org/wiki/Q9212904
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - samosyuk-zigmunt
 composer:
 - figel-petr
+poster_tmdb_path: /hSJlBk9zhkQyzATXwTuM4me3Nz7.jpg
+backdrop_tmdb_path: /4OZpKBaAXbibbukF26FdLtN8u0u.jpg

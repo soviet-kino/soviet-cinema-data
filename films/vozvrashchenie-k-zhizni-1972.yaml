@@ -8,6 +8,7 @@ runtime_min: 161
 external_ids:
   wikidata: Q4114677
   imdb: tt0314859
+  tmdb: 435527
 sources:
 - https://www.wikidata.org/wiki/Q4114677
 schema_version: 1
@@ -25,3 +26,4 @@ studio:
 cast:
 - person: titova-valentina-antipovna
 - person: merzin-leonkhard-rikhardovich
+poster_tmdb_path: /d9UGY8KPZ2r0k3qKkp1NTnTfGuR.jpg

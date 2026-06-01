@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q4464581
   imdb: tt0281303
+  tmdb: 72888
 sources:
 - https://www.wikidata.org/wiki/Q4464581
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: raykin-konstantin-arkadevich
+poster_tmdb_path: /lFysnvplT6qKu8r7cnYsD8EdBhh.jpg
+backdrop_tmdb_path: /uiRtQQP6aGPxMwWNq6xjQxVmgE7.jpg

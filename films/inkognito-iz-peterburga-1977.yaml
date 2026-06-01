@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q930153
   imdb: tt0076196
   youtube: UIM9wSOzJV0
+  tmdb: 80155
 sources:
 - https://www.wikidata.org/wiki/Q930153
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: kokshenov-mikhail
 - person: migitsko-sergey
 - person: orlovskiy-dmitriy-dmitrievich
+poster_tmdb_path: /a35ZSD635OCn8eGgmpVky1JV4jh.jpg
+backdrop_tmdb_path: /tK1WSNnqHVqI2v6BAKDB9NPs8qy.jpg

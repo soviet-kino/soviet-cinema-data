@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q16084928
   imdb: tt0170154
+  tmdb: 319059
 sources:
 - https://www.wikidata.org/wiki/Q16084928
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: hlebs-sonja
 - person: branimir-tori-yankovich
 - person: stojiljkovic-vlastimir-uza
+poster_tmdb_path: /6hmlFiXWiy1knAysXYDm4r7svjN.jpg
+backdrop_tmdb_path: /znJhmt5VorezDlwM0XZ0crg7cgH.jpg

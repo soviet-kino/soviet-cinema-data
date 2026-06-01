@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16522463
   imdb: tt0318601
+  tmdb: 270988
 sources:
 - https://www.wikidata.org/wiki/Q16522463
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - varnai-gyorgy
 studio:
 - pannoniya
+poster_tmdb_path: /3YWeaZJbm4cKrZGJP57FkSuuPdd.jpg

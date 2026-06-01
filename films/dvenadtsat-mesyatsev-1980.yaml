@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q551332
   imdb: tt0400900
+  tmdb: 80536
 sources:
 - https://www.wikidata.org/wiki/Q551332
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - soyuzmultfilm
 - toei-animation
+poster_tmdb_path: /ihZywmIbCI93qhoyt1GLQMoVclm.jpg
+backdrop_tmdb_path: /jnBMbs54vAZ8GMzj2IFBEcBhKDY.jpg

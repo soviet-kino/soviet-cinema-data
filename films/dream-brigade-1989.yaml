@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q19703164
   imdb: tt0121976
+  tmdb: 317188
 sources:
 - https://www.wikidata.org/wiki/Q19703164
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - kardos-shandor
 composer:
 - darvash-ferents
+poster_tmdb_path: /8i2T1AMnXQFVySVEIgpsXCBAOep.jpg

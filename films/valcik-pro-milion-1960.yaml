@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q7912898
   imdb: tt0378958
+  tmdb: 792506
 sources:
 - https://www.wikidata.org/wiki/Q7912898
 schema_version: 1
@@ -64,3 +65,4 @@ cast:
 - person: fidlerova-eva
 - person: capek-bedrich
 - person: mach-petr
+poster_tmdb_path: /xCTYaCvoCUzBafu8tPJrSqtdQj9.jpg

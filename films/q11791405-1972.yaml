@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11791405
   imdb: tt0067485
+  tmdb: 934495
 sources:
 - https://www.wikidata.org/wiki/Q11791405
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: senyuk-anna
 studio:
 - tor-kinostudiya
+poster_tmdb_path: /dPixIrJegZPyU00Z1HjEL3dInmj.jpg

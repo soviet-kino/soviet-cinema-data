@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6381981
   imdb: tt0024205
+  tmdb: 159049
 sources:
 - https://www.wikidata.org/wiki/Q6381981
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: dymsha-adolf
 - person: ziminskaya-mira
 - person: orvid-yuzef
+poster_tmdb_path: /4dqvAQ2iOfxwP8pKJ6yrZ4GRsaj.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11789904
   imdb: tt0295604
+  tmdb: 484308
 sources:
 - https://www.wikidata.org/wiki/Q11789904
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - kamberi-halil
 composer:
 - hoshafi-tasim
+poster_tmdb_path: /cPkYNG8bW2GdULPhzst4eHQteEX.jpg

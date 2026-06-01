@@ -8,8 +8,10 @@ runtime_min: 71
 external_ids:
   wikidata: Q60851846
   imdb: tt0291329
+  tmdb: 637447
 sources:
 - https://www.wikidata.org/wiki/Q60851846
 schema_version: 1
 studio:
 - moldova-film
+poster_tmdb_path: /raahqQ0PAvt6iH8iOB8lWUdOg37.jpg

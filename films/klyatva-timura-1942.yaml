@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q85861211
   imdb: tt0034949
   youtube: 9ruE91hiJd4
+  tmdb: 338215
 sources:
 - https://www.wikidata.org/wiki/Q85861211
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: derevshchikova-ekaterina-aleksandrovna
 studio:
 - soyuzdetfilm
+poster_tmdb_path: /eAKCGyeDjSNVca0ouiw1tbGOwct.jpg
+backdrop_tmdb_path: /P2LVZJWc37W2Sd7dWz0fUPHdDR.jpg

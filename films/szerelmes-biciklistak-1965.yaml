@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q61085945
   imdb: tt0059777
+  tmdb: 276118
 sources:
 - https://www.wikidata.org/wiki/Q61085945
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: uri-istvan
 - person: orban-tibor
 - person: szakatss-sandor
+poster_tmdb_path: /e3Ggpg159275YONwDmJTDnlDi0S.jpg
+backdrop_tmdb_path: /nOkI79K5gk3g2yQQhg12KPIhc4a.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q11740615
   imdb: tt0061873
+  tmdb: 301855
 sources:
 - https://www.wikidata.org/wiki/Q11740615
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: lonch-marian
 - person: gorczynski-mariusz
 - person: gromnicki-boles-aw
+poster_tmdb_path: /7XPhBuLeQGAsRe1pR0jCnFoWFfq.jpg
+backdrop_tmdb_path: /uv7ntGENMcBuulp0chGDxMwH0gD.jpg

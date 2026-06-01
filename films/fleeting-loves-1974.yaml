@@ -8,8 +8,11 @@ runtime_min: 106
 external_ids:
   wikidata: Q44875281
   imdb: tt0072313
+  tmdb: 667355
 sources:
 - https://www.wikidata.org/wiki/Q44875281
 schema_version: 1
 director:
 - urshianu-malvina
+poster_tmdb_path: /pkLpVuWnYItNmh3SqyHIkNO3keO.jpg
+backdrop_tmdb_path: /u2UKkQw793D0YO8y4TWVsKbEh3k.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q110807399
   imdb: tt0366963
+  tmdb: 934567
 sources:
 - https://www.wikidata.org/wiki/Q110807399
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: riad-hussein
 - person: ibrakhim-abdel-moneym
 - person: khamis-akhmed
+poster_tmdb_path: /zexLfM2l1c9Xt1du7VrzYapKENh.jpg
+backdrop_tmdb_path: /4Z6M3TdDwGrPOfsSn3Tu5JaDCJs.jpg

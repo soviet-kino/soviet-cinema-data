@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q1507365
   imdb: tt0127504
+  tmdb: 300522
 sources:
 - https://www.wikidata.org/wiki/Q1507365
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - khalas-mikhay
 composer:
 - vukan-gyorgy
+poster_tmdb_path: /di07dopZgeQ2YKFCqrv8vRiVJYh.jpg
+backdrop_tmdb_path: /vsLnGB3KpNOEJaBIHFYK70P6K0q.jpg

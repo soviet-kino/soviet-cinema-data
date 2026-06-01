@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9325157
   imdb: tt0083012
+  tmdb: 337270
 sources:
 - https://www.wikidata.org/wiki/Q9325157
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - vuychik-ezhi
 composer:
 - kashitskiy-lyutsian
+poster_tmdb_path: /8rrX5o88ctV6wZoO2BXr7WJRZiU.jpg
+backdrop_tmdb_path: /dwpTssz5uqals7wS6K0mZ0RbzXR.jpg

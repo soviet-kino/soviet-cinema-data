@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9391200
   imdb: tt0094377
+  tmdb: 442073
 sources:
 - https://www.wikidata.org/wiki/Q9391200
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - kossakowska-maria
 composer:
 - rokicki-andrzej
+poster_tmdb_path: /i1L5EdgObyLPEjRe0MV1GEJY4u3.jpg
+backdrop_tmdb_path: /p0TpovlSFovv37dTxb3B75DT0mt.jpg

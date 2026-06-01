@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270640
   imdb: tt0075458
   youtube: r_hC738NMYE
+  tmdb: 72797
 sources:
 - https://www.wikidata.org/wiki/Q15270640
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: simonova-evgeniya-pavlovna
 - person: sergachyov-viktor-nikolaevich
 - person: smorchkov-boris-fyodorovich
+poster_tmdb_path: /svFkrVCb25SU2D7yU2xE75yDOGf.jpg
+backdrop_tmdb_path: /8aLIvao9bB7PTaK6mWavusPO2BT.jpg

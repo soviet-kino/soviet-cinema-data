@@ -8,6 +8,7 @@ runtime_min: 142
 external_ids:
   wikidata: Q126938690
   imdb: tt0060732
+  tmdb: 535095
 sources:
 - https://www.wikidata.org/wiki/Q126938690
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - gavrilin-valeriy-aleksandrovich
 studio:
 - lenfilm
+poster_tmdb_path: /At86ZvT9wGRPGF5lr0YhmqW2otX.jpg

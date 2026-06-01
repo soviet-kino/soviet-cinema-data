@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q3233011
   imdb: tt0019766
+  tmdb: 290381
 sources:
 - https://www.wikidata.org/wiki/Q3233011
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 studio:
 - mezhrabpomfilm
 poster_commons: Плакат к фильму «Чины и люди».jpg
+poster_tmdb_path: /tCJQqTYWFyXS0b7ZcFJ03ZtNgl8.jpg

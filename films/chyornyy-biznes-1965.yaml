@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q4518857
   imdb: tt0313898
+  tmdb: 603626
 sources:
 - https://www.wikidata.org/wiki/Q4518857
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - mosfilm
 cast:
 - person: yudin-gennadiy
+poster_tmdb_path: /dXVS5IwPOPAlJnbcC90CRuAXvjb.jpg
+backdrop_tmdb_path: /1297A8d820c5v15OUKdafjC8TfP.jpg

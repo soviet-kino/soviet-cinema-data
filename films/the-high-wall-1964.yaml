@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q19602840
   imdb: tt0058731
+  tmdb: 260989
 sources:
 - https://www.wikidata.org/wiki/Q19602840
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: jirasko-marian
 studio:
 - barrandov
+poster_tmdb_path: /vVCzs8FBFoCpLNDjQeDiV5dKW7U.jpg

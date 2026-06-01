@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4708958
   imdb: tt0054610
+  tmdb: 256854
 sources:
 - https://www.wikidata.org/wiki/Q4708958
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: radai-imre
 - person: imre-shinkovich
 - person: varadi-hedi
+poster_tmdb_path: /tqAhLYEO9NHwwNrOs1vvLv58vIF.jpg
+backdrop_tmdb_path: /sh93ufSQRKdYlF8Y0XLnuLYQj1o.jpg

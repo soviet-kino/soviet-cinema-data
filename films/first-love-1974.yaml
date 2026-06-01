@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q66124328
   imdb: tt0071996
+  tmdb: 179847
 sources:
 - https://www.wikidata.org/wiki/Q66124328
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - petritskiy-yatsek
 studio:
 - polskoe-televidenie
+poster_tmdb_path: /tS0INoioxxYKfNqBEpr5eSWQ5JP.jpg
+backdrop_tmdb_path: /hFuSnZxfUHJTaxhwxQsyo7IXc2q.jpg

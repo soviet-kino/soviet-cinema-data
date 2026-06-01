@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q5285965
   imdb: tt0327647
+  tmdb: 1060859
 sources:
 - https://www.wikidata.org/wiki/Q5285965
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: stemberg-jaromir
 - person: jelinkova-marcela
 - person: dousova-anna
+poster_tmdb_path: /hc8EBDuy0EJDs4YTk65Dk9QW3h3.jpg

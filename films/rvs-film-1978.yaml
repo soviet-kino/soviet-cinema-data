@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q127244170
   imdb: tt2273478
+  tmdb: 470052
 sources:
 - https://www.wikidata.org/wiki/Q127244170
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - moroz-aleksey-zakharovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /8xRnWKH2fjXybdplBpRLlrCCju9.jpg
+backdrop_tmdb_path: /uICfpCIn24SQDjHc3w3FbudugzF.jpg

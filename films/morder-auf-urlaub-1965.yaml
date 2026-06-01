@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q27140157
   imdb: tt0180270
+  tmdb: 441045
 sources:
 - https://www.wikidata.org/wiki/Q27140157
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: lastsar-kristina
 - person: africh-vekoslav
+poster_tmdb_path: /wQzjAxozPYXaErP7dA0I0dCirYU.jpg

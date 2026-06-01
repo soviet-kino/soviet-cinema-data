@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q3507442
   imdb: tt0172872
+  tmdb: 369904
 sources:
 - https://www.wikidata.org/wiki/Q3507442
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: velimir-bata-zhivoinovich
 - person: yovan-milichevich
 poster_commons: Nevesinjska Puska Poster.jpg
+poster_tmdb_path: /94Ad70KiqO6vw7pBpe8D7HAcktT.jpg
+backdrop_tmdb_path: /409usi1YsEiX56bk1aRUeDhRoQ2.jpg

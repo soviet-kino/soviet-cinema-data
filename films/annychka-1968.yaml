@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4769803
   imdb: tt0312363
   youtube: MfVxSwW9c-w
+  tmdb: 186697
 sources:
 - https://www.wikidata.org/wiki/Q4769803
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - gomolyaka-vadim-borisovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /qR1V7XUO1uGXOQRzGUZXtgPUSEx.jpg
+backdrop_tmdb_path: /2EQTNZyr5aDAPfHqienZpKDrT97.jpg

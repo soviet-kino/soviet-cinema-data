@@ -8,6 +8,7 @@ runtime_min: 197
 external_ids:
   wikidata: Q116730721
   imdb: tt0233953
+  tmdb: 502007
 sources:
 - https://www.wikidata.org/wiki/Q116730721
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - brandt-khorst-e
 screenwriter:
 - bengsh-gerkhard
+poster_tmdb_path: /7LAd0FkeiN05eXOyhy0vfIyysz8.jpg

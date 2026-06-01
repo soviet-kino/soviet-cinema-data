@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q192543
   imdb: tt0062272
   youtube: 4B19J8z1QrA
+  tmdb: 106370
 sources:
 - https://www.wikidata.org/wiki/Q192543
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: ovchinnikova-lyusena-ivanovna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /d5ysWo8Rxe1qbrgS0uPLal4WQsQ.jpg
+backdrop_tmdb_path: /4z2TZBuwL3Dr2cyIzbWys4Q8MaY.jpg

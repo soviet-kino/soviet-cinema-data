@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7385710
   imdb: tt0055390
+  tmdb: 874413
 sources:
 - https://www.wikidata.org/wiki/Q7385710
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - kurylewicz-andrzej
 cast:
 - person: bouko-owski-henryk
+poster_tmdb_path: /lSHRTHO4WKjhgxeHcenOZrZ62ic.jpg

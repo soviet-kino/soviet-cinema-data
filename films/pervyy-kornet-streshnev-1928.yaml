@@ -7,9 +7,12 @@ country:
 external_ids:
   wikidata: Q12140002
   imdb: tt0170405
+  tmdb: 1396142
 sources:
 - https://www.wikidata.org/wiki/Q12140002
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
 poster_commons: Pirveli korneti Streshniovi (1928) poster.jpg
+poster_tmdb_path: /bSw0cWxBv26S67lyEGpZLFtHdtL.jpg
+backdrop_tmdb_path: /v3lJBmkibcUyxddOtk7ozd3eNEH.jpg

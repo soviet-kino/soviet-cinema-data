@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12108237
   imdb: tt5955910
+  tmdb: 1135749
 sources:
 - https://www.wikidata.org/wiki/Q12108237
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - dzhyndzhyrystyi-myroslav
 studio:
 - ukrtelefilm
+poster_tmdb_path: /qPmqBjyASbVfROyFYjfygjTPAJK.jpg
+backdrop_tmdb_path: /1dHBb7cTfIXon2MgcyRMJRTkLnp.jpg

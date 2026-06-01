@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q5505506
   imdb: tt0262934
+  tmdb: 255059
 sources:
 - https://www.wikidata.org/wiki/Q5505506
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: pata-vaclav
 - person: riha-frantisek
 - person: kobik-josef
+poster_tmdb_path: /pfCYSSfHwW55RtMHZh9NkiqirNm.jpg
+backdrop_tmdb_path: /2mz8e5w7UbrYKikQ18ApB6moxXf.jpg

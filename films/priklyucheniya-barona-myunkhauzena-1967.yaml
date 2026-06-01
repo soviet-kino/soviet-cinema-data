@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4378446
   imdb: tt4895870
+  tmdb: 440534
 sources:
 - https://www.wikidata.org/wiki/Q4378446
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - karanovich-anatoliy-georgievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9rsKkzcwas7rrbSEt4y5fgswfXz.jpg

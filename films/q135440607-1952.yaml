@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q135440607
   imdb: tt0295760
+  tmdb: 67100
 sources:
 - https://www.wikidata.org/wiki/Q135440607
 schema_version: 1
@@ -69,3 +70,5 @@ cast:
 - person: milnerova-evza
 - person: crhounkova-marie
 - person: livorova-hrkalova-libena
+poster_tmdb_path: /rCOYh0E1p8wIx1e0tFY9TkXJQqu.jpg
+backdrop_tmdb_path: /uZvOE6t7qYyPpf1Zz33R9B0Nyv6.jpg

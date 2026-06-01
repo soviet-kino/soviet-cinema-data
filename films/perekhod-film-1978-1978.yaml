@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q31886944
   imdb: tt0078555
+  tmdb: 601519
 sources:
 - https://www.wikidata.org/wiki/Q31886944
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: arias-adelaida
 studio:
 - defa
+poster_tmdb_path: /a5adN8aaq7FZKsC86KDEnczsfMW.jpg

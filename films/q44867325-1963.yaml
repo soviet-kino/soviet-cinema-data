@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44867325
   imdb: tt0128300
+  tmdb: 627959
 sources:
 - https://www.wikidata.org/wiki/Q44867325
 schema_version: 1
 director:
 - muntyanu-franchisk
+poster_tmdb_path: /dozEuX6VCLTdHHMwYYR8lXTdM2H.jpg

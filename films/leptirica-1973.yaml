@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q4190890
   imdb: tt0200800
+  tmdb: 220638
 sources:
 - https://www.wikidata.org/wiki/Q4190890
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: aleksandr-stoykovich
 - person: nikolich-miryana
 - person: ur-evic-ivan
+poster_tmdb_path: /tGFLOYPTUlGkaYRdyhqg0aPGguG.jpg
+backdrop_tmdb_path: /pN5CtXpQJMG6FDHguoBXTYktNyn.jpg

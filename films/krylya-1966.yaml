@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3230416
   imdb: tt0061196
   youtube: 4a_BHM8HmaU
+  tmdb: 50013
 sources:
 - https://www.wikidata.org/wiki/Q3230416
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 cast:
 - person: bolotova-zhanna-andreevna
 - person: bulgakova-mayya
+poster_tmdb_path: /dWUoC27bFeoQlcOw9FtdIRgAfgA.jpg
+backdrop_tmdb_path: /ub2oe0ndOVkaPCQdfCu3kc6LjV9.jpg

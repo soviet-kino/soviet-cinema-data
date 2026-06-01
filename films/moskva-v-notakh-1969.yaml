@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4303749
   imdb: tt11884020
+  tmdb: 704654
 sources:
 - https://www.wikidata.org/wiki/Q4303749
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: magomaev-muslim-magometovich
 studio:
 - mosfilm
+poster_tmdb_path: /oLIYSi6cslrtd8ShA4FqnAfwZ9q.jpg

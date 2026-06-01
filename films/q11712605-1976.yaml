@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q11712605
   imdb: tt0380441
+  tmdb: 371817
 sources:
 - https://www.wikidata.org/wiki/Q11712605
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: bogatko-barbara
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /g934lQwDGgcwJNrPg0UxZ1wsMHU.jpg
+backdrop_tmdb_path: /lq3T9tW1T9ByFewI5dfXQAEJ3JH.jpg

@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q4122590
   imdb: tt0332820
+  tmdb: 637815
 sources:
 - https://www.wikidata.org/wiki/Q4122590
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: malinovskaya-lyubov-ivanovna
 - person: uvarova-elizaveta
 - person: urgant-nina-nikolaevna
+poster_tmdb_path: /gHz8QZsdA1FhMsEoQUFD2CCnHES.jpg
+backdrop_tmdb_path: /6gif0nlCXiuG1LhD1QwOCgVrQtP.jpg

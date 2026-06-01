@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12290871
   imdb: tt0300349
+  tmdb: 428851
 sources:
 - https://www.wikidata.org/wiki/Q12290871
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: todorova-nadya
 - person: nikolova-pepa
 - person: tasheva-yanina
+poster_tmdb_path: /5bVoNOwP64kg5unNxKBYZQypvvC.jpg
+backdrop_tmdb_path: /vSx43BCfJXcdXV6621ntMLYJ8Dz.jpg

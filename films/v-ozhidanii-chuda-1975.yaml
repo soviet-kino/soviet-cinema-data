@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4101759
   imdb: tt0242993
   youtube: 7PRRDhyjAaI
+  tmdb: 888267
 sources:
 - https://www.wikidata.org/wiki/Q4101759
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - botyarov-evgeniy-mikhaylovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /lxST3pv3XCMSLk0g4oTvh0gO4PS.jpg
+backdrop_tmdb_path: /psGxJrc9csSf3UqoE9xyh7iKGu.jpg

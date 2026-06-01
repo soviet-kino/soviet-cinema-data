@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q16684152
   imdb: tt7410882
   youtube: nfCz8woy1iI
+  tmdb: 330083
 sources:
 - https://www.wikidata.org/wiki/Q16684152
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: uzhviy-nataliya-mikhaylovna
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /kRHynN1s0ym8VwiKon6WQ7plrGN.jpg
+backdrop_tmdb_path: /oObAASVm0jBUrCyNJhbxN4oxv1V.jpg

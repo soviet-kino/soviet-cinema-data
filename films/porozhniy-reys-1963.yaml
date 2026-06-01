@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q251172
   imdb: tt0056360
   youtube: 9rx1LNct6og
+  tmdb: 536863
 sources:
 - https://www.wikidata.org/wiki/Q251172
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: gubanova-irina-igorevna
 studio:
 - lenfilm
+poster_tmdb_path: /1dkvuMGvKeRiwM3aG86D26lec87.jpg
+backdrop_tmdb_path: /Iv9FNBpnraVlRakZFKO7TIsGRL.jpg

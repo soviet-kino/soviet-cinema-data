@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q4154151
   imdb: tt0150261
+  tmdb: 530671
 sources:
 - https://www.wikidata.org/wiki/Q4154151
 schema_version: 1
@@ -17,3 +18,5 @@ studio:
 - mosfilm
 cast:
 - person: kryuchkov-nikolay-afanasevich
+poster_tmdb_path: /jr77G8ExhfzTxWixNGeR7go65us.jpg
+backdrop_tmdb_path: /wfyDO1YLvV83Lb8J4PVcpxxAdDQ.jpg

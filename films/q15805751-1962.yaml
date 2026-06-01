@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q15805751
   imdb: tt0176837
+  tmdb: 395810
 sources:
 - https://www.wikidata.org/wiki/Q15805751
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dierichs-otto
 - person: perlwitz-dieter
 - person: lukes-oldrich
+poster_tmdb_path: /ez7ERF4Xvd66wdDYTPCJLsam98w.jpg

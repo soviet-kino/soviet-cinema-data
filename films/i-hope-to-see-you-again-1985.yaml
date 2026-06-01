@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44873981
   imdb: tt0265792
+  tmdb: 643379
 sources:
 - https://www.wikidata.org/wiki/Q44873981
 schema_version: 1
 director:
 - dinulescu-pusi
+poster_tmdb_path: /mR6Z9xRvGtlwAoBxiKVhPS53qWD.jpg

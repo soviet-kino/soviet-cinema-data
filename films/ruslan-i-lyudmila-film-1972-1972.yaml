@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2388002
   imdb: tt0174174
   youtube: 2UoO2t536Ko
+  tmdb: 149837
 sources:
 - https://www.wikidata.org/wiki/Q2388002
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: abrikosov-andrey-lvovich
 - person: kozinets-valeriy-evseevich
 - person: petrova-nataliya-grigorevna
+poster_tmdb_path: /intQsSEnp0vKJvzKRyN5k6hk6JR.jpg
+backdrop_tmdb_path: /sioFMKJfYh0ZeWqC2XbU0fQE8Of.jpg

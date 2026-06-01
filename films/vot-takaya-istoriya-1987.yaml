@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q62988273
   imdb: tt0287105
   youtube: HT42d1SS5JU
+  tmdb: 1227847
 sources:
 - https://www.wikidata.org/wiki/Q62988273
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kharitonov-andrey-igorevich
 studio:
 - ekran
+poster_tmdb_path: /o8J9pBhmKXBCNsgPUO2PPMLQu2d.jpg

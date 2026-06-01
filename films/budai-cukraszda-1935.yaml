@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q850866
   imdb: tt0027405
+  tmdb: 41011
 sources:
 - https://www.wikidata.org/wiki/Q850866
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 studio:
 - hunnia-film-studio
 poster_commons: Somlay Artúr és Perczel Zita, Budai cukrászda (Színházi Élet, 1935).jpg
+poster_tmdb_path: /525rBcnKSDgAwVghDZhaz5Q4Z93.jpg

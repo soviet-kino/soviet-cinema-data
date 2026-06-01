@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11725913
   imdb: tt0067269
+  tmdb: 934487
 sources:
 - https://www.wikidata.org/wiki/Q11725913
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - tshaskovskiy-andzhey
 cast:
 - person: kusztal-edward
+poster_tmdb_path: /yR0GwHMzuCiGbT0HjD7A1PGLkR2.jpg

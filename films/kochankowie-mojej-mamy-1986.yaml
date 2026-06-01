@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q11740641
   imdb: tt0091352
+  tmdb: 297772
 sources:
 - https://www.wikidata.org/wiki/Q11740641
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: skibinski-voytsekh
 - person: kuzniar-zdzis-aw
 - person: budnik-yovita
+poster_tmdb_path: /aXZvEknEQEb5tnbzzdEjGeldJP9.jpg
+backdrop_tmdb_path: /1lXCx2p5FuERuSloV5gbKQhzbGv.jpg

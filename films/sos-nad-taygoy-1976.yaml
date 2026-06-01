@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q65210948
   imdb: tt0191415
+  tmdb: 888666
 sources:
 - https://www.wikidata.org/wiki/Q65210948
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - mosfilm
+poster_tmdb_path: /6ctcucQS5QhuJel6H86dsNWiQun.jpg
+backdrop_tmdb_path: /veNTnbiASvRK7BPzXcHFWcn3Qpu.jpg

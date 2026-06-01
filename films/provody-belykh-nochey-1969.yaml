@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4379666
   imdb: tt0155061
+  tmdb: 415398
 sources:
 - https://www.wikidata.org/wiki/Q4379666
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - vinogradov-vladislav-borisovich
 composer:
 - lebedev-viktor-mikhaylovich
+poster_tmdb_path: /nbD13pCl3D4qmOwFTPkboz26xaF.jpg
+backdrop_tmdb_path: /g7AZQzJ5BY8qWUFPIILaMJjK3Q2.jpg

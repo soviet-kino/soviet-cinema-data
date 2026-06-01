@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q6945390
   imdb: tt0075693
+  tmdb: 263795
 sources:
 - https://www.wikidata.org/wiki/Q6945390
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: andorai-peter
 - person: lokhinski-lorand
 - person: kholman-endre
+poster_tmdb_path: /9DTOstRT0LYjBiu9nMBF4X2KGw4.jpg
+backdrop_tmdb_path: /bfcj9aW3KM6nqXKkWOOVzi7yoTM.jpg

@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q875444
   imdb: tt0061802
+  tmdb: 38768
 sources:
 - https://www.wikidata.org/wiki/Q875444
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: eybozhenko-aleksey-sergeevich
 studio:
 - defa
+poster_tmdb_path: /dAzx4Ieyjj1LJn4FvTqPVOhupGf.jpg
+backdrop_tmdb_path: /3ZDKxS9OcaRhl48V1jj8BdOe1Kx.jpg

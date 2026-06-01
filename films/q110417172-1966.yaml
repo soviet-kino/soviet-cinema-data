@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q110417172
   imdb: tt0060237
+  tmdb: 577679
 sources:
 - https://www.wikidata.org/wiki/Q110417172
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: uolter-dzhoanna
 studio:
 - start-kinostudiya
+poster_tmdb_path: /eA8R0x2YDoQwBSyOdx2ctabEx2y.jpg

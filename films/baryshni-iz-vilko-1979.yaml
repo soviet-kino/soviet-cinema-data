@@ -31,6 +31,9 @@ runtime_min: 111
 external_ids:
   wikidata: Q663047
   imdb: tt0079696
+  tmdb: 117483
 sources:
 - https://www.wikidata.org/wiki/Q663047
 schema_version: 1
+poster_tmdb_path: /lhaai0Vler7RFbX8A7wYvokFpd7.jpg
+backdrop_tmdb_path: /d6P2YYCEYbzc1xr5LW9FhalctTd.jpg

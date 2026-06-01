@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q185377
   imdb: tt0230696
+  tmdb: 281533
 sources:
 - https://www.wikidata.org/wiki/Q185377
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: shelkher-raymund
 - person: benekendorf-volf-fon
 - person: renn-rudiger
+poster_tmdb_path: /kAeMFxUqIznw95HKWosAAr908ir.jpg

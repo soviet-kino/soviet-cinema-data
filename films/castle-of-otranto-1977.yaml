@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q20814469
   imdb: tt0075817
+  tmdb: 19032
 sources:
 - https://www.wikidata.org/wiki/Q20814469
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 cast:
 - person: vozab-jaroslav
 - person: fryba-milos
+poster_tmdb_path: /ka9pgjnY5JvTwULmnrK8zA0boqj.jpg
+backdrop_tmdb_path: /9WfFEjul89M69go2VY1wloetmQm.jpg

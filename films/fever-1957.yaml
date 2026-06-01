@@ -8,8 +8,10 @@ runtime_min: 113
 external_ids:
   wikidata: Q123757656
   imdb: tt0050663
+  tmdb: 1284236
 sources:
 - https://www.wikidata.org/wiki/Q123757656
 schema_version: 1
 director:
 - gertler-viktor
+poster_tmdb_path: /7m5cfk91MkOhOrei9uWS95SP36g.jpg

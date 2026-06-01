@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12281860
   imdb: tt0389041
+  tmdb: 831511
 sources:
 - https://www.wikidata.org/wiki/Q12281860
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: vachkova-martina
 - person: mutafov-mikhail
 - person: mavrodiev-stefan
+poster_tmdb_path: /69cJpNTw4JDM8IrntxTSjiDjz60.jpg

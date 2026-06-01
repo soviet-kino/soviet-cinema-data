@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q12751243
   imdb: tt0053785
+  tmdb: 284479
 sources:
 - https://www.wikidata.org/wiki/Q12751243
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: hlebs-sonja
 - person: minja-stevan
 - person: didik-lyubomir
+poster_tmdb_path: /fyfyWDVfy3zxHdmIgGi1c5d1Q29.jpg

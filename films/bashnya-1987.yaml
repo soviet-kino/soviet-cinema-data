@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4080242
   imdb: tt0092621
   youtube: A3-L1cmjwV0
+  tmdb: 388533
 sources:
 - https://www.wikidata.org/wiki/Q4080242
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: ostroumova-olga-mikhaylovna
 studio:
 - lenfilm
+poster_tmdb_path: /mMDkPOf67BlIAPwAvQqboJZU71w.jpg
+backdrop_tmdb_path: /qUnSD0Fg20kWaxKuNmvdirqsSl9.jpg

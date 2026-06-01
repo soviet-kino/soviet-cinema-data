@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q69356005
   imdb: tt1260717
+  tmdb: 411379
 sources:
 - https://www.wikidata.org/wiki/Q69356005
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - torndayk-anneli
 composer:
 - dessau-paul
+poster_tmdb_path: /6JJkC2LuOfKpbEGGWb31V5f4PM6.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4173996
   imdb: tt0181730
+  tmdb: 76246
 sources:
 - https://www.wikidata.org/wiki/Q4173996
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 studio:
 - mosfilm
 - zeta-film
+poster_tmdb_path: /m3tAL0YPeOATqO3pLTavSsAvSzj.jpg

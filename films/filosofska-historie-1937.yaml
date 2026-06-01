@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q22281914
   imdb: tt0175613
+  tmdb: 279167
 sources:
 - https://www.wikidata.org/wiki/Q22281914
 schema_version: 1
@@ -55,3 +56,5 @@ cast:
 - person: sebor-jan
 - person: svec-vaclav
 - person: svalb-jaroslav
+poster_tmdb_path: /6uPd0w8WFkKBSutpfdrpQRO3f14.jpg
+backdrop_tmdb_path: /xfTp41G7iV0KHOQ7vuhB5E6TUWW.jpg

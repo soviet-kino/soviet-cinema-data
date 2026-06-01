@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q16084611
   imdb: tt0056366
+  tmdb: 264016
 sources:
 - https://www.wikidata.org/wiki/Q16084611
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: milena-dravich
 - person: felba-dragomir
 poster_commons: Prekobrojna.jpg
+poster_tmdb_path: /xjP6FwFlXhsAvMZCCAqK3CEIjTW.jpg
+backdrop_tmdb_path: /yaLQf7OGAA2i5b8wm4Q3vaQmjQT.jpg

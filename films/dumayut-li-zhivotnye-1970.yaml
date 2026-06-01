@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4170568
   imdb: tt36109572
+  tmdb: 559085
 sources:
 - https://www.wikidata.org/wiki/Q4170568
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 - kievnauchfilm
 cast:
 - person: konsovskiy-aleksey-anatolevich
+poster_tmdb_path: /t8WY31hkEICidgEtAVDS5jFltu3.jpg
+backdrop_tmdb_path: /pwI0C0bQ858sHwwA9q5BwO8D1pP.jpg

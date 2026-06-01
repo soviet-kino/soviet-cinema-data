@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12727972
   imdb: tt0264603
+  tmdb: 315927
 sources:
 - https://www.wikidata.org/wiki/Q12727972
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: bogitse-vasile
 - person: konstantin-mikhay
 - person: sofron-cosmin
+poster_tmdb_path: /7sFstOFQcvKNjbFxPJLSe73kyyo.jpg

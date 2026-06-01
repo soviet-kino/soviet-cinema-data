@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q106765230
   imdb: tt0072141
+  tmdb: 889240
 sources:
 - https://www.wikidata.org/wiki/Q106765230
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: chekan-stanislav-yulianovich
 studio:
 - mosfilm
+poster_tmdb_path: /jyKrvhGsZBxjuTw81wgRFmdoRfy.jpg

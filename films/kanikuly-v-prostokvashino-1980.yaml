@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4212459
   imdb: tt1315584
+  tmdb: 77759
 sources:
 - https://www.wikidata.org/wiki/Q4212459
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - krylatov-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1bBh1oQF2FznRkcudz7NcCiHSE9.jpg
+backdrop_tmdb_path: /5wAluELDRjsYYxW4CZ7BHkppJ0e.jpg

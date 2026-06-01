@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4167372
   imdb: tt0025056
+  tmdb: 1036698
 sources:
 - https://www.wikidata.org/wiki/Q4167372
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: komarov-sergey-petrovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /dRLxOUJp0mrkzBr2ovI1vH99Ay6.jpg
+backdrop_tmdb_path: /8V7MAmvvAPoig1YJPNHZ1BOvrfA.jpg

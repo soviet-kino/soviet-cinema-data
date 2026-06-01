@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4350182
   imdb: tt4876634
   youtube: 38HIbJFs61c
+  tmdb: 536374
 sources:
 - https://www.wikidata.org/wiki/Q4350182
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pokrovskaya-alla-borisovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /7sK03ab5Ki6auA9SSccNmqjmKaf.jpg
+backdrop_tmdb_path: /hH30pjBK5XloeJ3xgHtjAjkfQvC.jpg

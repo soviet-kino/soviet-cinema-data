@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4101838
   imdb: tt0076865
+  tmdb: 228271
 sources:
 - https://www.wikidata.org/wiki/Q4101838
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: dal-oleg-ivanovich
 - person: glagoleva-vera-vitalevna
 - person: dobrzhanskaya-lyubov
+poster_tmdb_path: /vcMv7koSRxP40Exm2fARrWPi5dc.jpg
+backdrop_tmdb_path: /OdBlKVWWw9Jf0X0MijHZoqMEut.jpg

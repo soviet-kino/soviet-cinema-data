@@ -8,6 +8,7 @@ runtime_min: 108
 external_ids:
   wikidata: Q12522235
   imdb: tt0134999
+  tmdb: 787306
 sources:
 - https://www.wikidata.org/wiki/Q12522235
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: janci-stefan
 - person: senaj-eugen
 - person: shikuta-yozef
+poster_tmdb_path: /x38CmoRRiaOqEmLBEVlOOe2QY0S.jpg

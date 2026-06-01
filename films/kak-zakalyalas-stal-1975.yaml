@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4208814
   imdb: tt0461257
   youtube: wNt8fxLFLds
+  tmdb: 533121
 sources:
 - https://www.wikidata.org/wiki/Q4208814
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: stepankov-konstantin-petrovich
 - person: konkin-vladimir-alekseevich
 - person: sayko-natalya-petrovna
+poster_tmdb_path: /q8ZCzcJL2NX6wlj96HNpXowJyIo.jpg
+backdrop_tmdb_path: /ymUFceU7turNkboJUkCzCTdQTAq.jpg

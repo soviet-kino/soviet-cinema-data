@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q5264468
   imdb: tt0051533
   youtube: zr71dzTawQ4
+  tmdb: 199180
 sources:
 - https://www.wikidata.org/wiki/Q5264468
 schema_version: 1
@@ -47,3 +48,5 @@ cast:
 - person: jakes-jan
 - person: chrencik-j
 - person: musalek-frantisek
+poster_tmdb_path: /cEeeEL9k4YrVZib2uo4xPRiqQyQ.jpg
+backdrop_tmdb_path: /aoCuDa4ZFE08smUqWnW3rwXSAS7.jpg

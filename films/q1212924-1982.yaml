@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q1212924
   imdb: tt0242483
+  tmdb: 205456
 sources:
 - https://www.wikidata.org/wiki/Q1212924
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: jupe-walter
 - person: elers-gerd
 - person: trettau-martin
+poster_tmdb_path: /wMTMPy5E4440EF5w7m5Kl3BVazX.jpg
+backdrop_tmdb_path: /vCzvNjtVD8SHBxjwcmGNdv3pVhe.jpg

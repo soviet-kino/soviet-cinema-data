@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3702502
   imdb: tt0029405
   youtube: v7Y8XFc44Vs
+  tmdb: 139461
 sources:
 - https://www.wikidata.org/wiki/Q3702502
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Nikolaj Simonov Pietro il grande.jpg
+poster_tmdb_path: /tHlhjWUqrtROM89uCtf8jOJrypL.jpg
+backdrop_tmdb_path: /mFCUVnHDod9KS3gJvMBSJtZao3k.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q3506362
   imdb: tt0071711
+  tmdb: 503841
 sources:
 - https://www.wikidata.org/wiki/Q3506362
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kalodzhera-nikitsa
 cast:
 - person: petar-banichevich
+poster_tmdb_path: /iEpoWPDM4ngV4YHFeKo70SSaGgy.jpg
+backdrop_tmdb_path: /byZsqB38CsshcK5BCvYhlAb3VRh.jpg

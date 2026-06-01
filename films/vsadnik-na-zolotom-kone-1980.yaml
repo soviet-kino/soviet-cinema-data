@@ -30,6 +30,9 @@ external_ids:
   wikidata: Q1196462
   imdb: tt1475178
   youtube: C06pjVeRTGc
+  tmdb: 173354
 sources:
 - https://www.wikidata.org/wiki/Q1196462
 schema_version: 1
+poster_tmdb_path: /9r9WldweKB6xLCbtNwEhkPfm6Od.jpg
+backdrop_tmdb_path: /ptgIXBJoYvedezi948IXaO5Fjh8.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q20001914
   imdb: tt1795057
   youtube: oihBIO_d1lw
+  tmdb: 198878
 sources:
 - https://www.wikidata.org/wiki/Q20001914
 schema_version: 1
@@ -20,3 +21,4 @@ director:
 - khodataeva-olga
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5ayM9SPE0SJwbgperQxc1qawqs4.jpg

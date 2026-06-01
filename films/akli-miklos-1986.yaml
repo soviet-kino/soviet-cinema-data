@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q556153
   imdb: tt0090600
+  tmdb: 215283
 sources:
 - https://www.wikidata.org/wiki/Q556153
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - secheni-ferents
 composer:
 - marta-ishtvan
+poster_tmdb_path: /g8y0hNbBtsk0pqbts8orN2Ni9tW.jpg

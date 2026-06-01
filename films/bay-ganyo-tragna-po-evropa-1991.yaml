@@ -8,8 +8,11 @@ runtime_min: 134
 external_ids:
   wikidata: Q12272858
   imdb: tt0236007
+  tmdb: 511467
 sources:
 - https://www.wikidata.org/wiki/Q12272858
 schema_version: 1
 director:
 - nichev-ivan
+poster_tmdb_path: /fX6GSki95TXIrPb0t9IvKyg4k9x.jpg
+backdrop_tmdb_path: /wbfaAmwoq9e9tlxENkgjJjgQEUU.jpg

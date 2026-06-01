@@ -35,6 +35,9 @@ external_ids:
   wikidata: Q3204993
   imdb: tt0039810
   youtube: bbWE8qxTt5A
+  tmdb: 75388
 sources:
 - https://www.wikidata.org/wiki/Q3204993
 schema_version: 1
+poster_tmdb_path: /hR3GePyRL484fK3VDL6hcc6px0b.jpg
+backdrop_tmdb_path: /6foyBA5bbcZoHARQuPLULU1K9uW.jpg

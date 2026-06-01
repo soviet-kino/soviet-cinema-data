@@ -8,6 +8,7 @@ runtime_min: 50
 external_ids:
   wikidata: Q4282423
   imdb: tt0342739
+  tmdb: 289318
 sources:
 - https://www.wikidata.org/wiki/Q4282423
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - pozhlakov-stanislav-ivanovich
 studio:
 - lennauchfilm
+poster_tmdb_path: /zRWP825DFkTpp57pfFZSEQMwZjD.jpg

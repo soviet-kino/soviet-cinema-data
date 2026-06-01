@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q99955043
   imdb: tt5340888
+  tmdb: 535514
 sources:
 - https://www.wikidata.org/wiki/Q99955043
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - bilash-aleksandr-ivanovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gMSaZoAhwKGXjAbuuCIg25ov8dm.jpg

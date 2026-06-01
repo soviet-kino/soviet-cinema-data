@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15623544
   imdb: tt3432524
+  tmdb: 316502
 sources:
 - https://www.wikidata.org/wiki/Q15623544
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - deak-tamash
 studio:
 - pannoniya
+poster_tmdb_path: /YeeUyUf4V9znWBNEkkUmbBML7x.jpg

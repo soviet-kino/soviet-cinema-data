@@ -31,6 +31,8 @@ external_ids:
   wikidata: Q4067978
   imdb: tt0092574
   youtube: R0hxFtnniJ0
+  tmdb: 851117
 sources:
 - https://www.wikidata.org/wiki/Q4067978
 schema_version: 1
+poster_tmdb_path: /pCHAvp5lar3QOpWJpmvs9gGTIM4.jpg

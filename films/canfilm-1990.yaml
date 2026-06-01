@@ -8,8 +8,11 @@ runtime_min: 18
 external_ids:
   wikidata: Q71315883
   imdb: tt0289263
+  tmdb: 609617
 sources:
 - https://www.wikidata.org/wiki/Q71315883
 schema_version: 1
 director:
 - radev-zlatin
+poster_tmdb_path: /r929pLERfHhX4DMgMQ1kgcw0P5C.jpg
+backdrop_tmdb_path: /oHZNrPAKhMH7g42n3YB7wYyqfCH.jpg

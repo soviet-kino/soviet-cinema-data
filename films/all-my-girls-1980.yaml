@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q2648167
   imdb: tt0171054
+  tmdb: 278804
 sources:
 - https://www.wikidata.org/wiki/Q2648167
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: lirk-madlen
 - person: tempelkhof-lissi
 - person: bilenshtayn-monika
+poster_tmdb_path: /cPxzuffLaiFPwjvyZDfP30J5reN.jpg
+backdrop_tmdb_path: /7U63NfW4ml6gnLD5ivf3cr4vcLr.jpg

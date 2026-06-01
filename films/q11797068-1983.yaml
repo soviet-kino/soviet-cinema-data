@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11797068
   imdb: tt7713730
+  tmdb: 927758
 sources:
 - https://www.wikidata.org/wiki/Q11797068
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: maciudzinski-w-odzimierz
 - person: wa-aszek-eugeniusz
 - person: gesikowski-henryk
+poster_tmdb_path: /guVnP3SK1mCzkVOCYd3Eh8yciPG.jpg

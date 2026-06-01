@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4369002
   imdb: tt0078098
+  tmdb: 536687
 sources:
 - https://www.wikidata.org/wiki/Q4369002
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: karachentsov-nikolay
 studio:
 - mosfilm
+poster_tmdb_path: /4U0hknoSpcV6it2ntp1ke7ud8ti.jpg

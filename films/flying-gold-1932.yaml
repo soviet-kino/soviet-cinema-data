@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5463433
   imdb: tt0240858
+  tmdb: 463580
 sources:
 - https://www.wikidata.org/wiki/Q5463433
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kabosh-gyula
 - person: maklari-zoltan
 - person: gerey-stiven
+poster_tmdb_path: /9NMgekeAc7G3bPDZhVq506AyVEs.jpg

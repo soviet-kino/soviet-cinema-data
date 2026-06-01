@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q97185534
   imdb: tt0129083
+  tmdb: 425376
 sources:
 - https://www.wikidata.org/wiki/Q97185534
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - lopatinskiy-faust
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /nfTqrqpWjeeJjcsjUBZgo8uUL2H.jpg

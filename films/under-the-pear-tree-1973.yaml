@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q2498033
   imdb: tt0072345
+  tmdb: 2240
 sources:
 - https://www.wikidata.org/wiki/Q2498033
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: kristian-norbert
 - person: aust-peter
 - person: greeze-volfgang
+poster_tmdb_path: /2fQNsNHKEMVEFtTUlXTgXB9DhDi.jpg

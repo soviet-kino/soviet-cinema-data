@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4074616
   imdb: tt0174482
   youtube: CRza8hY7Oe8
+  tmdb: 262507
 sources:
 - https://www.wikidata.org/wiki/Q4074616
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: grave-aleksandr-konstantinovich
 - person: markova-rimma-vasilevna
 - person: sazonova-nina-afanasevna
+poster_tmdb_path: /xA7JfDaLuMxleztHMVL0hlKji3Q.jpg
+backdrop_tmdb_path: /ro7W1Xoa6YzbvYFx1oNdCOktV4i.jpg

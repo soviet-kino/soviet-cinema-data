@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4341903
   imdb: tt0188129
+  tmdb: 694592
 sources:
 - https://www.wikidata.org/wiki/Q4341903
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: lebedev-nikolay-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /ohTnGZXX24ANkrQ0wyR1UbJ59XC.jpg
+backdrop_tmdb_path: /rOxOybOVrdRCk2qHgFQ9b78Er4h.jpg

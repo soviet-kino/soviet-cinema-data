@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4109853
   imdb: tt0331700
   youtube: lS80PeKwi8o
+  tmdb: 374256
 sources:
 - https://www.wikidata.org/wiki/Q4109853
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: loginova-tamara-abramovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dz2IpRRYZ7F036x1v3EOne9pXqz.jpg
+backdrop_tmdb_path: /gOzl9fHgMXo9xRJfTSBh47OW8wH.jpg

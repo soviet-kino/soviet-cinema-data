@@ -35,6 +35,9 @@ runtime_min: 102
 external_ids:
   wikidata: Q11813123
   imdb: tt0078832
+  tmdb: 202433
 sources:
 - https://www.wikidata.org/wiki/Q11813123
 schema_version: 1
+poster_tmdb_path: /nOIkyCkpaq967MIKWS9frbKoR5x.jpg
+backdrop_tmdb_path: /9Vle7Yr6xh1DWOzTf6y1hSuih4q.jpg

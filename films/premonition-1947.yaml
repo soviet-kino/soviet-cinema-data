@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q18640033
   imdb: tt0176045
+  tmdb: 609829
 sources:
 - https://www.wikidata.org/wiki/Q18640033
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: jurdova-bela
 - person: q131784486
 - person: brozik-stanislav
+backdrop_tmdb_path: /6kqLDu6LaCRFr2FewLgzDF9vHi4.jpg

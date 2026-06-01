@@ -7,6 +7,8 @@ country:
 external_ids:
   wikidata: Q31187087
   imdb: tt0182369
+  tmdb: 364266
 sources:
 - https://www.wikidata.org/wiki/Q31187087
 schema_version: 1
+poster_tmdb_path: /d1uSn3AyE0UH4OWC5A6kBJt802F.jpg

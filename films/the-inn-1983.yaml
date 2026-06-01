@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q2872103
   imdb: tt0085198
+  tmdb: 38379
 sources:
 - https://www.wikidata.org/wiki/Q2872103
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: valtsak-ezhi
 - person: lombardo-miroslava
 - person: mincer-olek
+poster_tmdb_path: /w1wtxV7MWCnsTEqahwiADEu4z52.jpg
+backdrop_tmdb_path: /zeQmHiZRZosE6XXp3X15zCakqRb.jpg

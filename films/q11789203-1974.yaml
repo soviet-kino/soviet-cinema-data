@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11789203
   imdb: tt0071891
+  tmdb: 732993
 sources:
 - https://www.wikidata.org/wiki/Q11789203
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - bilinskiy-vatslav
 cast:
 - person: rayzacher-maciej
+poster_tmdb_path: /uqGqFS9b6kJGTLakEmuOqCBqG3N.jpg

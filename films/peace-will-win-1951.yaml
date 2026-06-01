@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3214162
   imdb: tt0042850
+  tmdb: 1037930
 sources:
 - https://www.wikidata.org/wiki/Q3214162
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bossak-ezhi
 cast:
 - person: blie-bernar
+poster_tmdb_path: /gSyjPr6BDEOBGXukPPZ3NJra2R3.jpg

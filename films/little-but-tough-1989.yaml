@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20974135
   imdb: tt0097660
+  tmdb: 341493
 sources:
 - https://www.wikidata.org/wiki/Q20974135
 schema_version: 1
@@ -16,3 +17,5 @@ cast:
 - person: gaspar-shandor
 - person: ban-yanos
 - person: mushchi-zoltan
+poster_tmdb_path: /kEGBbMG4IYKAdw7Wb1l3E82hPuz.jpg
+backdrop_tmdb_path: /wTa1Hr4VNfYQlKNsBn9BNkkQC6F.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q12106747
   imdb: tt11906516
+  tmdb: 1075834
 sources:
 - https://www.wikidata.org/wiki/Q12106747
 schema_version: 1
 director:
 - kavaleridze-ivan-petrovich
+poster_tmdb_path: /1Yc40QpdGDjfWFlyIRHiuMCPBV9.jpg
+backdrop_tmdb_path: /j1otZoEEbPBOIxcqIDj3AgVGVm1.jpg

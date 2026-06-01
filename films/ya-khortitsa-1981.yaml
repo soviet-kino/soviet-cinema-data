@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4535770
   imdb: tt0240232
   youtube: DNffRPjHXHo
+  tmdb: 642878
 sources:
 - https://www.wikidata.org/wiki/Q4535770
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - arkadev-lev-arkadevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /vxFFcfcnAybeKRXc52qfgAKWJiP.jpg

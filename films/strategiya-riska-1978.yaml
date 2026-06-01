@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4443424
   imdb: tt4966056
   youtube: W9w9yARIKB8
+  tmdb: 546633
 sources:
 - https://www.wikidata.org/wiki/Q4443424
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: parra-aleksandr-vladimirovich
 studio:
 - ekran
+poster_tmdb_path: /63pvDeHK6xDQB6pxln4jj6YSILR.jpg

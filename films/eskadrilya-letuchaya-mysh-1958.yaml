@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q5553564
   imdb: tt0051651
+  tmdb: 285586
 sources:
 - https://www.wikidata.org/wiki/Q5553564
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: khaynts-volfgang
 - person: zimon-gyunter
 - person: lastsar-kristina
+poster_tmdb_path: /r5jv9KSRZOCk4z97BWBjXrCL8F.jpg

@@ -8,6 +8,7 @@ runtime_min: 119
 external_ids:
   wikidata: Q3476593
   imdb: tt0082241
+  tmdb: 123712
 sources:
 - https://www.wikidata.org/wiki/Q3476593
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: mikhuts-mariana
 - person: georgiu-petre
 - person: zammiresku-florin
+poster_tmdb_path: /9IAox1tH9xs46hWoHin141Gxwsx.jpg
+backdrop_tmdb_path: /w431fKOiAZUoHPES1UqWV4ukGs4.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4191769
   imdb: tt0063840
   youtube: rjeWVIBUbuE
+  tmdb: 46588
 sources:
 - https://www.wikidata.org/wiki/Q4191769
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: sazonova-nina-afanasevna
 - person: starikova-svetlana-ivanovna
 - person: telichkina-valentina
+poster_tmdb_path: /1QD12JLugolx9YLi7IFkxgL2Qd.jpg
+backdrop_tmdb_path: /o4FosiyTwRkIAipGpNebLsJm7AI.jpg

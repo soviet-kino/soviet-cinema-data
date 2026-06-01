@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q12045239
   imdb: tt0232305
+  tmdb: 948009
 sources:
 - https://www.wikidata.org/wiki/Q12045239
 schema_version: 1
@@ -59,3 +60,4 @@ cast:
 - person: havlin-josef
 - person: cech-petr
 - person: bonanno-egidio
+poster_tmdb_path: /sQiFeHrjCOjXLbcZnO07mj5Sn4B.jpg

@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q22000606
   imdb: tt0017045
+  tmdb: 234273
 sources:
 - https://www.wikidata.org/wiki/Q22000606
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: zichovsky-vaclav
 - person: desensky-ladislav
 - person: byronova-eva
+poster_tmdb_path: /b8oKUZFU0Yh7iEY4WxQ6vHdByPD.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q12031299
   imdb: tt0060597
   youtube: 2eVKH_lZvx4
+  tmdb: 118497
 sources:
 - https://www.wikidata.org/wiki/Q12031299
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: jarolimek-zdenek
 - person: ptachek-vladimir
 - person: jandos-ladislav
+poster_tmdb_path: /wTN3CkK9lp5LI62Dvqfis3owuph.jpg
+backdrop_tmdb_path: /eK95HaiV0YALmYgzmvHhs4jWNJQ.jpg

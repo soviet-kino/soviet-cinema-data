@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4105938
   imdb: tt0094260
   youtube: HraMvKhVJes
+  tmdb: 628023
 sources:
 - https://www.wikidata.org/wiki/Q4105938
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: kashpur-vladimir-terentevich
 studio:
 - lenfilm
+poster_tmdb_path: /yJXCxZGgrJkFvr55dj8VVC3V11o.jpg
+backdrop_tmdb_path: /bB7bYczOlmDpebeH2CKJANma9tW.jpg

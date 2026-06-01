@@ -8,6 +8,7 @@ runtime_min: 35
 external_ids:
   wikidata: Q60850950
   imdb: tt6258714
+  tmdb: 585959
 sources:
 - https://www.wikidata.org/wiki/Q60850950
 schema_version: 1
@@ -17,3 +18,5 @@ cinematographer:
 - golomb-iosif-emmanuilovich
 studio:
 - ekran
+poster_tmdb_path: /1wD8BCon4XeEaPn48UkAxzee4yC.jpg
+backdrop_tmdb_path: /3duyOYkCtSATw9ZRCyUvQPbxCzy.jpg

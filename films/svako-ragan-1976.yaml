@@ -8,6 +8,7 @@ runtime_min: 61
 external_ids:
   wikidata: Q12777039
   imdb: tt0176206
+  tmdb: 407952
 sources:
 - https://www.wikidata.org/wiki/Q12777039
 schema_version: 1
@@ -82,3 +83,4 @@ cast:
 - person: gazovic-jaroslav
 - person: sebesta-arnost
 - person: maxian-miroslav
+poster_tmdb_path: /vVlsLgkBNIbdmruWDCmqUHHLQzq.jpg

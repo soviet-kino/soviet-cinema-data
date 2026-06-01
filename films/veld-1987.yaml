@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q4106975
   imdb: tt0201300
+  tmdb: 90972
 sources:
 - https://www.wikidata.org/wiki/Q4106975
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: pshennaya-nelli-nikolaevna
 studio:
 - uzbekfilm
+poster_tmdb_path: /6rh7OMxi1M4Wcg37Pxr9YnyXKjI.jpg
+backdrop_tmdb_path: /dOA2NzQN0u4AADBzsZcUUDz2oEJ.jpg

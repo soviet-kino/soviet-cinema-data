@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q110248946
   imdb: tt6738392
   youtube: uASCSpaAXs0
+  tmdb: 832025
 sources:
 - https://www.wikidata.org/wiki/Q110248946
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - dzhanaev-azanbek-vasilevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /ifX9ggOpIdsOh2JDGoJ56luHrlM.jpg

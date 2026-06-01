@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3120500
   imdb: tt0139739
+  tmdb: 470067
 sources:
 - https://www.wikidata.org/wiki/Q3120500
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: flonda-virgil
 - person: dobre-dzheo
 - person: procopie-marina
+poster_tmdb_path: /sY8rX9bId3ydlKMhJaIppM2wQiW.jpg
+backdrop_tmdb_path: /qQNQ3wyH3IZ0XQlWowuIhzaMSW7.jpg

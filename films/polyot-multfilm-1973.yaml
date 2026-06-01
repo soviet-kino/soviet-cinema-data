@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4371621
   imdb: tt0475642
+  tmdb: 406304
 sources:
 - https://www.wikidata.org/wiki/Q4371621
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - raamat-reyn
 studio:
 - tallinfilm
+poster_tmdb_path: /e4K4xE0K6o0XrWchXsZeEndjEQc.jpg
+backdrop_tmdb_path: /6ZD6KlZFAMNfROFt5gWDu1umWZr.jpg

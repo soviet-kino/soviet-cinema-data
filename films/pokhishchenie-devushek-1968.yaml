@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q18547635
   imdb: tt0063489
+  tmdb: 383093
 sources:
 - https://www.wikidata.org/wiki/Q18547635
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: cocea-tanti
 - person: paladescu-mihai
 - person: skerletesku-florin
+poster_tmdb_path: /A3LDEYx1eo1uWgRrzBq3GFBfQgS.jpg

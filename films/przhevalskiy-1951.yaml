@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4377575
   imdb: tt0043939
   youtube: Z5UlxMUVJpQ
+  tmdb: 537626
 sources:
 - https://www.wikidata.org/wiki/Q4377575
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: papov-sergey-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /iPyRC2coPi2P8TUHWC0AXBmfpj5.jpg
+backdrop_tmdb_path: /se9HOb8f7BOhw0qDcHxBZN8bikU.jpg

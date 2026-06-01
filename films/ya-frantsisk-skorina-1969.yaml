@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4535635
   imdb: tt5091302
   youtube: XhV5eOecZeY
+  tmdb: 838903
 sources:
 - https://www.wikidata.org/wiki/Q4535635
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: stanyuta-stefaniya-mikhaylovna
 - person: gritsenko-nikolay-olimpievich
 - person: q135617495
+poster_tmdb_path: /wDBEOtYXqyFxl1TIpOCxLIZ2J67.jpg
+backdrop_tmdb_path: /vwqOFgRVEqeaIbO6qEtS5q66fwV.jpg

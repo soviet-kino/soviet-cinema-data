@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q110741209
   imdb: tt0169609
   youtube: KQ9rGe4idIk
+  tmdb: 785558
 sources:
 - https://www.wikidata.org/wiki/Q110741209
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 - kazakhfilm
 cast:
 - person: aymanov-shaken-kenzhetaevich
+poster_tmdb_path: /xmj5bS42ppZ6nMM6gi4prSqeDoa.jpg
+backdrop_tmdb_path: /A0pjzMq4KEo6yzeor5giM2FzTmA.jpg

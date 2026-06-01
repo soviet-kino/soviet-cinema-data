@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q27480268
   imdb: tt0086403
+  tmdb: 133424
 sources:
 - https://www.wikidata.org/wiki/Q27480268
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: sas-yanosh
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /znxeHxeN7DwZ8q0hW6CjYD1p2Yo.jpg

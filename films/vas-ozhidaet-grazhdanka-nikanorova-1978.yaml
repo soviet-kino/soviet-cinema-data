@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4104157
   imdb: tt0078452
   youtube: 2OTDmrkN9uU
+  tmdb: 190744
 sources:
 - https://www.wikidata.org/wiki/Q4104157
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 cast:
 - person: brondukov-borislav-nikolaevich
 - person: gundareva-natalya-georgievna
+poster_tmdb_path: /zEvX1ChMglJODGAN2M0rWY0V1Yr.jpg
+backdrop_tmdb_path: /226U1hF1obsgvKpehwJm0QBumZN.jpg

@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q3234328
   imdb: tt0065193
+  tmdb: 47900
 sources:
 - https://www.wikidata.org/wiki/Q3234328
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: cechova-jana
 - person: sykora-jiri
 poster_commons: Birds, Orphans and Fools poster.jpg
+poster_tmdb_path: /sGedqr0ObyFdX8C81weAnC37WLU.jpg
+backdrop_tmdb_path: /FozJJxlCxEhN1tN3koN36NRwxe.jpg

@@ -8,8 +8,11 @@ runtime_min: 25
 external_ids:
   wikidata: Q107134634
   imdb: tt0276251
+  tmdb: 1126382
 sources:
 - https://www.wikidata.org/wiki/Q107134634
 schema_version: 1
 director:
 - charkhalashvili-rezo
+poster_tmdb_path: /g6AWE59UehVmfT6F3Jzz564dBD0.jpg
+backdrop_tmdb_path: /qP7V21Hz3Q6xd75bt4MEea2ULkH.jpg

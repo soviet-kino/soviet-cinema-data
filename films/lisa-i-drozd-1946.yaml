@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270718
   imdb: tt3254786
   youtube: MlCySg-txpA
+  tmdb: 431905
 sources:
 - https://www.wikidata.org/wiki/Q15270718
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: Fox and thrush (1946).jpg
+poster_tmdb_path: /bLsQJPOpnNKvBenVTo5hMJezvAQ.jpg

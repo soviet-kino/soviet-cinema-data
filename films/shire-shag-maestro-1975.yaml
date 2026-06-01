@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q97187745
   imdb: tt0175160
   youtube: R01VilweboM
+  tmdb: 1010343
 sources:
 - https://www.wikidata.org/wiki/Q97187745
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 studio:
 - mosfilm
 - vserossiyskiy-gosudarstvennyy-institut-kinematografii-imeni-s-a-gerasimova
+poster_tmdb_path: /4jcv3y5upWFFFkg2WqDQBMicm01.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q11081975
   imdb: tt0056716
+  tmdb: 236312
 sources:
 - https://www.wikidata.org/wiki/Q11081975
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: tucek-jiri
 studio:
 - barrandov
+poster_tmdb_path: /3xtUm1HFzZ6WMUojKPBbBOEI8of.jpg

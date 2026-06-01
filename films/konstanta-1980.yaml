@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q1405186
   imdb: tt0080561
+  tmdb: 198500
 sources:
 - https://www.wikidata.org/wiki/Q1405186
 schema_version: 1
@@ -41,3 +42,5 @@ cast:
 - person: bigelmayer-kristina
 - person: wachelko-zaleska-krystyna
 - person: litevka-marek
+poster_tmdb_path: /jVNXvDsqk1OJoecmbD5aFfoy8oK.jpg
+backdrop_tmdb_path: /kWXU5pAISVlwh6cn0cbDq7n08l4.jpg

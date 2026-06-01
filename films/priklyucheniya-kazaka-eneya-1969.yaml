@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20091839
   imdb: tt18844374
+  tmdb: 904739
 sources:
 - https://www.wikidata.org/wiki/Q20091839
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - vasilenko-nina-konstantinovna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /ddY8fYWNx1rJGVqMsrltWlhaGtR.jpg
+backdrop_tmdb_path: /tACOM5Gd9twHamJ4IaWWGcHRNaI.jpg

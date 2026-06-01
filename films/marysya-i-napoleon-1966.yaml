@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q4283349
   imdb: tt0060674
+  tmdb: 582395
 sources:
 - https://www.wikidata.org/wiki/Q4283349
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: rudzkiy-kazimezh
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /7Gf9jViaHnUKmIH8ZJBbGf2RBvT.jpg
+backdrop_tmdb_path: /uB5qq5Y7YGNQvVAUmV9H4b5YIXz.jpg

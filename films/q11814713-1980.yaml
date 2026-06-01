@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11814713
   imdb: tt0081298
+  tmdb: 439339
 sources:
 - https://www.wikidata.org/wiki/Q11814713
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - lenchevskiy-ryshard
 composer:
 - orlewicz-leszek
+poster_tmdb_path: /fIoChCVbwf9cPVxOxjAJ9PRJtOg.jpg
+backdrop_tmdb_path: /hXTEni9uj1ohoWnOWMPW0W82ycX.jpg

@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q47108132
   imdb: tt0049111
+  tmdb: 496312
 sources:
 - https://www.wikidata.org/wiki/Q47108132
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: radzhnay-gabor
 - person: shubert-eva
 - person: imre-shinkovich
+poster_tmdb_path: /4y5es5O3aSHRvLmn9s7Nuq0ULAe.jpg
+backdrop_tmdb_path: /9qbBnLO1eCTkUgRFAJJciaiUjlw.jpg

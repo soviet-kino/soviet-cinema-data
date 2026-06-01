@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4380855
   imdb: tt0170462
   youtube: 8SF0xLr2W84
+  tmdb: 319701
 sources:
 - https://www.wikidata.org/wiki/Q4380855
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: dolginin-mikhail-andreevich
 studio:
 - lenfilm
+poster_tmdb_path: /85joNIVAZqYfyFF9DoI5U8TrNwO.jpg
+backdrop_tmdb_path: /jl2m3xNRstHhb6yFK8MwztVk8AV.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4091839
   imdb: tt0036657
   youtube: 6_1-i1cNw9w
+  tmdb: 280859
 sources:
 - https://www.wikidata.org/wiki/Q4091839
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: makarova-tamara-fyodorovna
 studio:
 - mosfilm
+poster_tmdb_path: /fn7Kt80OPDI7udfHBk7OwamSTuz.jpg
+backdrop_tmdb_path: /q47tgzJ5FJ9umhUulVe3d5a7fam.jpg

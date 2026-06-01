@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270616
   imdb: tt1718958
   youtube: tgQEz6er6ng
+  tmdb: 889140
 sources:
 - https://www.wikidata.org/wiki/Q15270616
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: kochetkov-afanasiy-ivanovich
 studio:
 - lenfilm
+poster_tmdb_path: /wg6IqXmhPw84VCqF0t3sKWJH7gi.jpg
+backdrop_tmdb_path: /nwT7mkoZiLLn4c6Sszsodzl7mO7.jpg

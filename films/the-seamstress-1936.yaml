@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q7762816
   imdb: tt0152714
+  tmdb: 513871
 sources:
 - https://www.wikidata.org/wiki/Q7762816
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: stal-rudolf-2
 - person: strup-vaclav
 - person: sinnreich-jan
+poster_tmdb_path: /vbYwNDcs0RHeB9iHiE7f4BWzLws.jpg
+backdrop_tmdb_path: /rAuQmEKyP1SEDjsdGQc6l6lGvGV.jpg

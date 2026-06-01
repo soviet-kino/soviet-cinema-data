@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4339616
   imdb: tt4816148
   youtube: Kvq84DnENFk
+  tmdb: 613968
 sources:
 - https://www.wikidata.org/wiki/Q4339616
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: banionis-donatas-yuozovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /jrD8egicqH7ajIQwwmZzkwRzKn6.jpg

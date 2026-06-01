@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20001489
   imdb: tt4857172
+  tmdb: 432059
 sources:
 - https://www.wikidata.org/wiki/Q20001489
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - nikolskiy-yuriy-sergeevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zAmKfvsha7Aj5UAMLHOHDtcbQ9a.jpg
+backdrop_tmdb_path: /hQPoCKInj9HGqD4WE2k84r8YfrB.jpg

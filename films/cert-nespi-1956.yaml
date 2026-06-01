@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q12781233
   imdb: tt0050239
+  tmdb: 327433
 sources:
 - https://www.wikidata.org/wiki/Q12781233
 schema_version: 1
@@ -43,3 +44,4 @@ cast:
 - person: koren-branislav
 - person: zimmer-vladimir
 - person: bartovicova-eva
+poster_tmdb_path: /kqI7mykV2UuUTkEAoqf5SXiHEFp.jpg

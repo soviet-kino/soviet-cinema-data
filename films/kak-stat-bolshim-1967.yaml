@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q21640011
   imdb: tt6071076
+  tmdb: 295876
 sources:
 - https://www.wikidata.org/wiki/Q21640011
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - nazarova-tatyana-borisovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /e2csn44AfsPKbj3CBzSFAH6fSRv.jpg
+backdrop_tmdb_path: /exBcJAbHVqG7LlEC0ASK29iP2wc.jpg

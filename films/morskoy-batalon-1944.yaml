@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4303347
   imdb: tt0179988
   youtube: 4tn0jUdZ_2o
+  tmdb: 534475
 sources:
 - https://www.wikidata.org/wiki/Q4303347
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: abrikosov-andrey-lvovich
 studio:
 - lenfilm
+poster_tmdb_path: /5GbOAAYdfBGqLTUUYCoKXTos8az.jpg

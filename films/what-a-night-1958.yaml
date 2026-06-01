@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q123784780
   imdb: tt0157995
+  tmdb: 438109
 sources:
 - https://www.wikidata.org/wiki/Q123784780
 schema_version: 1
 director:
 - reves-dyord
+poster_tmdb_path: /h4tmIfjbo31CmGMjEjHnQ306L1p.jpg

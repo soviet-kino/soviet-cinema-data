@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q4156933
   imdb: tt0017797
+  tmdb: 283046
 sources:
 - https://www.wikidata.org/wiki/Q4156933
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Decembrists, film 1926.jpg
+poster_tmdb_path: /64LNhPI0Bg9FU07F6h3cGTNDJ7Z.jpg
+backdrop_tmdb_path: /mWgsdHgGelqIQ7CzQWA8x1S69Nd.jpg

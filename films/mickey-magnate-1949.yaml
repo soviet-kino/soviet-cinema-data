@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6838704
   imdb: tt0041676
+  tmdb: 348034
 sources:
 - https://www.wikidata.org/wiki/Q6838704
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 cast:
 - person: mesarosh-agi
 - person: gabor-miklosh
+poster_tmdb_path: /y7J3GDmcjVvMgGBpxRcElxcmA3O.jpg
+backdrop_tmdb_path: /kHhsotTFc5Xczf9DdGl1scVjJ2j.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q7253426
   imdb: tt1043807
+  tmdb: 728175
 sources:
 - https://www.wikidata.org/wiki/Q7253426
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - pukhalskiy-edvard
 screenwriter:
 - pukhalskiy-edvard
+poster_tmdb_path: /gfAjeBpfvHMATCsIfhD6GMUuVCI.jpg

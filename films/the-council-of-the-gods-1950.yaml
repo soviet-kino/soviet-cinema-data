@@ -8,6 +8,7 @@ runtime_min: 111
 external_ids:
   wikidata: Q1196378
   imdb: tt0042877
+  tmdb: 72788
 sources:
 - https://www.wikidata.org/wiki/Q1196378
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: keller-inge
 studio:
 - defa
+poster_tmdb_path: /wPmScMxyjSDarBRqLqfthLL3NCU.jpg
+backdrop_tmdb_path: /zXkJVpkEKKbuKZALuZ1MScywBEO.jpg

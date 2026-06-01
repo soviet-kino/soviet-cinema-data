@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12761040
   imdb: tt0180627
+  tmdb: 476244
 sources:
 - https://www.wikidata.org/wiki/Q12761040
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: zarko-mitrovich
 - person: puzich-milan
 - person: slovenski-petr
+poster_tmdb_path: /2b2TI9qGOY9aq5Bq5OypYLMIOGX.jpg

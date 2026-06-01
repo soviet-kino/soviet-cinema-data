@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25459083
   imdb: tt0174353
+  tmdb: 266872
 sources:
 - https://www.wikidata.org/wiki/Q25459083
 schema_version: 1
@@ -18,3 +19,5 @@ cinematographer:
 - spasich-milan
 composer:
 - zoran-simyanovich
+poster_tmdb_path: /3wFlckUkorGPPeF9jRGBigfyDwI.jpg
+backdrop_tmdb_path: /6ur3eZjshIqoTzQb7jREQ7nB0GJ.jpg

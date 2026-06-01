@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q20508992
   imdb: tt0364019
+  tmdb: 1021802
 sources:
 - https://www.wikidata.org/wiki/Q20508992
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: muradyan-margarita
 - person: uzunyan-elvira
 - person: kazaryan-shaum
+poster_tmdb_path: /x7zeoMaeclyyCv94aPBD4bbUCMg.jpg

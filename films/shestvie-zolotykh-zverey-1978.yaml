@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q84994482
   imdb: tt0354009
+  tmdb: 603568
 sources:
 - https://www.wikidata.org/wiki/Q84994482
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: baykshtite-grazhina
 studio:
 - mosfilm
+poster_tmdb_path: /avAshDyWqXO8Ua5c37VBvZN9ahz.jpg
+backdrop_tmdb_path: /3FlSDbahscj0Upo8go7ysJGItM4.jpg

@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q44862521
   imdb: tt0125969
+  tmdb: 630718
 sources:
 - https://www.wikidata.org/wiki/Q44862521
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - markus-manole
 screenwriter:
 - buzura-augustin
+poster_tmdb_path: /p5Q6OMZvS045Nb7eMoUqoF3Goav.jpg

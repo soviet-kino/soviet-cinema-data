@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q2807197
   imdb: tt0235025
+  tmdb: 410697
 sources:
 - https://www.wikidata.org/wiki/Q2807197
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: sense-traute
 - person: taub-valter
 - person: ryovekamp-verner
+poster_tmdb_path: /j0STLcjg6GXbcJv9sMFo8IraBdl.jpg

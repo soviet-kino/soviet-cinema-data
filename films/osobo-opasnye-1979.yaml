@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27791990
   imdb: tt0308683
   youtube: Bhp_m1bIuEg
+  tmdb: 396113
 sources:
 - https://www.wikidata.org/wiki/Q27791990
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: skoryakin-anatoliy-evgenevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /dfkorkH1iWJ1MQvnthveYwCn8Dc.jpg
+backdrop_tmdb_path: /6QWfq80XvTwVeRYQ0jWBW3SnXOV.jpg

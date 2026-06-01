@@ -8,6 +8,7 @@ runtime_min: 132
 external_ids:
   wikidata: Q1589533
   imdb: tt0063045
+  tmdb: 275044
 sources:
 - https://www.wikidata.org/wiki/Q1589533
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: tsshekel-gyunter
 studio:
 - defa
+poster_tmdb_path: /zyjAbIMbHrCWtRSzjVZk8X1YWAT.jpg
+backdrop_tmdb_path: /hwfujQpEs25aQuRTGncxDI4NLCi.jpg

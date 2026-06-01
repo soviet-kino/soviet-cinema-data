@@ -8,6 +8,7 @@ runtime_min: 109
 external_ids:
   wikidata: Q316628
   imdb: tt0044170
+  tmdb: 36922
 sources:
 - https://www.wikidata.org/wiki/Q316628
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: kukhne-volfgang
 studio:
 - defa
+poster_tmdb_path: /zhSrXYGgDOqjnYuuK0GI4cOa0Gm.jpg
+backdrop_tmdb_path: /rw25dwahZHUAGwKixgBuYuQwzYN.jpg

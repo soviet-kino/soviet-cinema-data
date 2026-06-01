@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4156667
   imdb: tt0218931
   youtube: grFRFHNu0Yc
+  tmdb: 143237
 sources:
 - https://www.wikidata.org/wiki/Q4156667
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - soyuzmultfilm
 poster_commons: RR5111-0412R 3 рубля серебро 2019 Российская мультипликация Дед Мороз
   и лето реверс.png
+poster_tmdb_path: /srQVvmOfVwx7GoBis03zgFJ5zOT.jpg
+backdrop_tmdb_path: /hTj5Pet8HWFMI7A9TL0DdCw318V.jpg

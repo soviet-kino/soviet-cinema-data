@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q124030569
   imdb: tt0035596
+  tmdb: 661559
 sources:
 - https://www.wikidata.org/wiki/Q124030569
 schema_version: 1
 director:
 - ban-fridesh
+poster_tmdb_path: /xxLyxybedCz9FsxKP7eU7liEb1U.jpg

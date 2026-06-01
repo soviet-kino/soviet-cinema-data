@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q56364307
   imdb: tt5111796
+  tmdb: 1301733
 sources:
 - https://www.wikidata.org/wiki/Q56364307
 schema_version: 1
@@ -19,3 +20,5 @@ cinematographer:
 - chyornyy-mikhail-kirillovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /sFptYLxLZoJqk8wNDrZ2Ug334io.jpg
+backdrop_tmdb_path: /tZ66oyUBfvvyu7Y7Dz7tUbH4g9i.jpg

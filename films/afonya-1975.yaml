@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1959191
   imdb: tt0072613
   youtube: L9HATyYkZLs
+  tmdb: 20870
 sources:
 - https://www.wikidata.org/wiki/Q1959191
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: muratov-radner-zinyatovich
 - person: ruslanova-nina-ivanovna
 - person: svetin-mikhail-semyonovich
+poster_tmdb_path: /6wp40fUEK8qlfqyFE1uvTV8bg4e.jpg
+backdrop_tmdb_path: /mRXBRZXbYqJmcrWVhT5xpPY43F.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12748029
   imdb: tt0180460
+  tmdb: 495023
 sources:
 - https://www.wikidata.org/wiki/Q12748029
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: sokich-ruzhitsa
 - person: didik-lyubomir
 - person: q16088547
+poster_tmdb_path: /ftUb6xsUdd9IQDvOARMMTOpQBnU.jpg
+backdrop_tmdb_path: /iBzHssUVsfNL91YAukTIlO8v545.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q18640044
   imdb: tt0176060
+  tmdb: 789326
 sources:
 - https://www.wikidata.org/wiki/Q18640044
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: nemec-hynek
 - person: doubravska-dagmar
 - person: setelova-libuse
+poster_tmdb_path: /fytJ0Wd4NWg4IijKiY6Hc5wCC1R.jpg

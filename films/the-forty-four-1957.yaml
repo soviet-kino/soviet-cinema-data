@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q12781846
   imdb: tt0268666
+  tmdb: 227728
 sources:
 - https://www.wikidata.org/wiki/Q12781846
 schema_version: 1
@@ -72,3 +73,4 @@ cast:
 - person: kosut-ondrej
 - person: glezl-anton
 - person: habara-frantisek
+poster_tmdb_path: /uuUcPcQ1JzsUh17Ff3mG0pzEn3O.jpg

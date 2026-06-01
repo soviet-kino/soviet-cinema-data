@@ -8,6 +8,7 @@ runtime_min: 49
 external_ids:
   wikidata: Q21405630
   imdb: tt0022415
+  tmdb: 160693
 sources:
 - https://www.wikidata.org/wiki/Q21405630
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - andrievskiy-aleksandr
 cinematographer:
 - kuznetsov-konstantin-andreevich
+poster_tmdb_path: /pPREYvXfozi1NBMKOzAsAwVwKxn.jpg
+backdrop_tmdb_path: /pd7RbGqLcg0KFri7XwPAgMUUxmo.jpg

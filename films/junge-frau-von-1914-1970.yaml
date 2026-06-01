@@ -8,6 +8,7 @@ runtime_min: 156
 external_ids:
   wikidata: Q17353722
   imdb: tt0065923
+  tmdb: 297200
 sources:
 - https://www.wikidata.org/wiki/Q17353722
 schema_version: 1
@@ -17,3 +18,4 @@ cinematographer:
 - gusko-erikh
 composer:
 - zasse-karl-ernst
+poster_tmdb_path: /bLLs6S60yvuWG7XY0y2XvKdvERN.jpg

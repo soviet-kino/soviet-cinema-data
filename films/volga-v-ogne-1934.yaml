@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q3562779
   imdb: tt0142969
+  tmdb: 362290
 sources:
 - https://www.wikidata.org/wiki/Q3562779
 schema_version: 1
@@ -42,3 +43,4 @@ cast:
 - person: zezulka-josef
 - person: socha-viktor
 - person: pata-vaclav
+poster_tmdb_path: /qnPkpFI2lt8nt5TTIP9k4MF7X2d.jpg

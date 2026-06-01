@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q319291
   imdb: tt0080326
+  tmdb: 69542
 sources:
 - https://www.wikidata.org/wiki/Q319291
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: kommerell-ruth
 - person: staack-ursula
 - person: juristova-julie
+poster_tmdb_path: /e9RougV8YfCLW5hurB6i75RKteI.jpg

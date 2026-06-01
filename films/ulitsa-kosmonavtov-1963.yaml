@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q108791433
   imdb: tt4184994
   youtube: LcXu6BFG9Q8
+  tmdb: 1489126
 sources:
 - https://www.wikidata.org/wiki/Q108791433
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - konchakov-valentin-andreevich
 studio:
 - kyrgyzfilm
+poster_tmdb_path: /8hjCDB07xibWvVlt8WvO7rS1thP.jpg

@@ -8,6 +8,7 @@ runtime_min: 71
 external_ids:
   wikidata: Q4402071
   imdb: tt0193478
+  tmdb: 415265
 sources:
 - https://www.wikidata.org/wiki/Q4402071
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: orlovskiy-dmitriy-dmitrievich
 studio:
 - mosfilm
+poster_tmdb_path: /E1cGSvyuazLeLRcNQ1I4PNm6xc.jpg
+backdrop_tmdb_path: /qAyysTEc2JIVJnq2sORipUSQUAG.jpg

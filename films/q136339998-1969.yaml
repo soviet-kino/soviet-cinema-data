@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q136339998
   imdb: tt0065170
+  tmdb: 492288
 sources:
 - https://www.wikidata.org/wiki/Q136339998
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: pagonyi-janos
 - person: nagy-karoly-f
 - person: laluya-ferents
+poster_tmdb_path: /h9Hw3pp81LQoALU6LqmkNUDt1Dk.jpg
+backdrop_tmdb_path: /9fowrRywHPhoycNtbHicudqor8b.jpg

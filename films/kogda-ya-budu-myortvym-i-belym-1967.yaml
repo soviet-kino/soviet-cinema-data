@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q3655455
   imdb: tt0061855
+  tmdb: 155992
 sources:
 - https://www.wikidata.org/wiki/Q3655455
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: pura-or-e
 - person: vladan-zhivkovich
 - person: micovic-vojislav
+poster_tmdb_path: /quGmESlu0oQUh7CWELkXHbrMvzl.jpg
+backdrop_tmdb_path: /s2XTnH8zys9GLXWWvkCecPLuhu6.jpg

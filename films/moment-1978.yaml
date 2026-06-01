@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3391332
   imdb: tt0180261
+  tmdb: 495499
 sources:
 - https://www.wikidata.org/wiki/Q3391332
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: polich-ratko
 - person: cumic-dragomir
 - person: malohodzic-vesna
+poster_tmdb_path: /atsg3KM7RKAiq3KpYPzF3i7RfOM.jpg

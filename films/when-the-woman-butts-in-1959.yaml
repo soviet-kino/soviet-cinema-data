@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q7993062
   imdb: tt0052958
+  tmdb: 198910
 sources:
 - https://www.wikidata.org/wiki/Q7993062
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: helcl-ivan
 - person: cherny-vitezslav
 - person: svec-vaclav
+poster_tmdb_path: /dE2pLThDFIka4oY8x4lrkC5jp4j.jpg
+backdrop_tmdb_path: /2EwWla9aOpUHnUgV8lqYzp3E0Zj.jpg

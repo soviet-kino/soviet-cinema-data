@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4226036
   imdb: tt0314281
   youtube: gBCJNfnoehA
+  tmdb: 430297
 sources:
 - https://www.wikidata.org/wiki/Q4226036
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: liepinsh-khariy
 - person: ozolinya-lilita-arvidovna
 - person: pavuls-eduard-karlovich
+poster_tmdb_path: /7zKKe10G5nx1qmGiThpHBfKQ6Q7.jpg
+backdrop_tmdb_path: /y4Exlza6DE7U4yWZAdXmPidgNGK.jpg

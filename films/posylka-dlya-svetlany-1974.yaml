@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q24955830
   imdb: tt4837242
   youtube: ax-1s9xtzDU
+  tmdb: 1429365
 sources:
 - https://www.wikidata.org/wiki/Q24955830
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: drebnyova-lyudmila
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /nwPhxOi00WWNf0YVUS4yc5NqaZq.jpg
+backdrop_tmdb_path: /aCma2Te22m1AK247kSAjkDPOPxM.jpg

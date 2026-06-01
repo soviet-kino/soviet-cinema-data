@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1044240
   imdb: tt0046830
+  tmdb: 279671
 sources:
 - https://www.wikidata.org/wiki/Q1044240
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: schorn-josef
 - person: arpe-yokhannes
 - person: renn-rudiger
+poster_tmdb_path: /8ShQV1IDSwFgnRtCHgEwnHKrrQ2.jpg
+backdrop_tmdb_path: /325VyjHkkgUkbOh4OsVuvJms6rQ.jpg

@@ -8,8 +8,10 @@ runtime_min: 10
 external_ids:
   wikidata: Q4287541
   imdb: tt3443738
+  tmdb: 448790
 sources:
 - https://www.wikidata.org/wiki/Q4287541
 schema_version: 1
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /nHCsepxqNydzS90Wws7KedfzNkH.jpg

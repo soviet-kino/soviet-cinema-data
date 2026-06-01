@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q25435443
   imdb: tt0144187
   youtube: BeKNLL4gZGM
+  tmdb: 266229
 sources:
 - https://www.wikidata.org/wiki/Q25435443
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - ilenko-yuriy-gerasimovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /d3SRKh00yuoJbaUWlJOUfaL9zo0.jpg
+backdrop_tmdb_path: /gGkGjwAKdsMNZ5nmYtlb3gvfcKK.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4453107
   imdb: tt0157099
+  tmdb: 431301
 sources:
 - https://www.wikidata.org/wiki/Q4453107
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: kononov-mikhail-ivanovich
 - person: kindinov-evgeniy-arsenevich
 - person: smekhnova-blagoevich-svetlana-fyodorovna
+poster_tmdb_path: /sJv7bhgXFaA0JRkOGiSpTB0chHR.jpg
+backdrop_tmdb_path: /s6k4wxwE7xMmPc86mzYkMqBKrMJ.jpg

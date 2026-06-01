@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4331733
   imdb: tt0302881
   youtube: GkTKHqwaUmM
+  tmdb: 535783
 sources:
 - https://www.wikidata.org/wiki/Q4331733
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: romashin-anatoliy-vladimirovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /qia95hOUS8f9spAYFlv36XYhxJW.jpg

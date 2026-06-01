@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q31185483
   imdb: tt0419613
+  tmdb: 365369
 sources:
 - https://www.wikidata.org/wiki/Q31185483
 schema_version: 1
 director:
 - osmanli-dimitrie
+poster_tmdb_path: /lwviq06ssa78U3aDwsMAZqbgSjY.jpg

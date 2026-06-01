@@ -8,6 +8,7 @@ runtime_min: 118
 external_ids:
   wikidata: Q1169236
   imdb: tt0059347
+  tmdb: 77691
 sources:
 - https://www.wikidata.org/wiki/Q1169236
 schema_version: 1
@@ -44,3 +45,5 @@ cast:
 - person: shrade-villi
 studio:
 - defa
+poster_tmdb_path: /kQxmnnpaQr2yrrsD3LArMzbLTYJ.jpg
+backdrop_tmdb_path: /yXM3JDCL1m14Mw3hV4vJ2d1JKLC.jpg

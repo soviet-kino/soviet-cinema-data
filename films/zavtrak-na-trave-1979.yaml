@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4183320
   imdb: tt3084568
   youtube: w8qtStv2CIw
+  tmdb: 309898
 sources:
 - https://www.wikidata.org/wiki/Q4183320
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 - ekran
 cast:
 - person: prokhanov-sergey-borisovich
+poster_tmdb_path: /iyAFomKnZ5M3jBZuqVAv3Thw3Zz.jpg
+backdrop_tmdb_path: /mompnn9CUpCy8Ncd2F7F79Vpn7C.jpg

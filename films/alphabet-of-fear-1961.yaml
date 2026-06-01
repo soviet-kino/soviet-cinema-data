@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3507741
   imdb: tt0055723
+  tmdb: 268243
 sources:
 - https://www.wikidata.org/wiki/Q3507741
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - adamich-boyan
 cast:
 - person: zappalorto-josip
+poster_tmdb_path: /7J46vqbRFsKECmQrnJ9dA4eCUQ8.jpg
+backdrop_tmdb_path: /8zhaKTq0YRm6Q6HuKOeW9Lg9yEr.jpg

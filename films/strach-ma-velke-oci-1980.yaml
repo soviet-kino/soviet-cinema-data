@@ -8,6 +8,7 @@ runtime_min: 72
 external_ids:
   wikidata: Q15122564
   imdb: tt3753178
+  tmdb: 136828
 sources:
 - https://www.wikidata.org/wiki/Q15122564
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: langmiler-yozef
 - person: boushkova-yana
 - person: stepnicka-jiri
+poster_tmdb_path: /cKlxWXOs5mWsN1zfPzU5rc7dpmF.jpg

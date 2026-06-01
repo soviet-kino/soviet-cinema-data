@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q21819939
   imdb: tt0071698
+  tmdb: 417960
 sources:
 - https://www.wikidata.org/wiki/Q21819939
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - khanish-otto
 composer:
 - rozenfeld-gerkhard
+poster_tmdb_path: /gVwP7CNTiIzKYoUx0Y9tEINLPbk.jpg

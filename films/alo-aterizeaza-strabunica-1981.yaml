@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18543686
   imdb: tt0264347
+  tmdb: 324219
 sources:
 - https://www.wikidata.org/wiki/Q18543686
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: andronesku-koka
 - person: syoni-dzhuleta
 - person: enaceanu-mimi
+poster_tmdb_path: /r40FeyL55CLwAc63otGFtmK4MTz.jpg
+backdrop_tmdb_path: /9NmkIChTNH6dBdcqYpg6uDDYCew.jpg

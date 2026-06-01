@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q5191567
   imdb: tt0080576
+  tmdb: 198493
 sources:
 - https://www.wikidata.org/wiki/Q5191567
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: bikhari-zhozef
 - person: patkosh-irma
 - person: soos-edit
+poster_tmdb_path: /xpAGVKc6wmxsQ9NiR9KcmKHKCY3.jpg

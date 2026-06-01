@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q11694046
   imdb: tt0051537
+  tmdb: 577888
 sources:
 - https://www.wikidata.org/wiki/Q11694046
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - valyatsinskiy-adam
 cast:
 - person: cheselska-mariya
+poster_tmdb_path: /cLNKwuxR0ZQkj7jg2OBU4Iiywj0.jpg

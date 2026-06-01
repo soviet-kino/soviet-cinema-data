@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q942097
   imdb: tt0032062
+  tmdb: 291036
 sources:
 - https://www.wikidata.org/wiki/Q942097
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: grolitskiy-stanislav
 - person: barshchevskaya-elzhbeta
 - person: pikhelskiy-ezhi
+poster_tmdb_path: /lHXrxZ4lIIG120NZhMzxJg0OL3t.jpg

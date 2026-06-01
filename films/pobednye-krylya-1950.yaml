@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q7944818
   imdb: tt0232906
+  tmdb: 807010
 sources:
 - https://www.wikidata.org/wiki/Q7944818
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: besiada-roman
 - person: konetopsky-otakar
 - person: lehky-vl
+poster_tmdb_path: /mmveOmvfyjq5srWps6u5bbi5n4f.jpg
+backdrop_tmdb_path: /dcbY00JPufnl8RNbferIF12n1V2.jpg

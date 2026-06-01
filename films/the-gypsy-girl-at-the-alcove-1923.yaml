@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16686120
   imdb: tt0173331
+  tmdb: 1036447
 sources:
 - https://www.wikidata.org/wiki/Q16686120
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: popesku-elvira
 - person: finteshtyanu-ion
+poster_tmdb_path: /eNYiAlL0jKrsBw33glVLk2zSOHe.jpg

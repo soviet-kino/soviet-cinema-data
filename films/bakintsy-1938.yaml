@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4075936
   imdb: tt0254165
+  tmdb: 524911
 sources:
 - https://www.wikidata.org/wiki/Q4075936
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: shulgin-nikolay
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /xjscOoHteiSYpDWxLcTykvl06h8.jpg

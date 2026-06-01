@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q6711298
   imdb: tt0151371
+  tmdb: 510584
 sources:
 - https://www.wikidata.org/wiki/Q6711298
 schema_version: 1
@@ -70,3 +71,4 @@ cast:
 - person: ostry-viktor
 - person: q101078982
 - person: valentova-zdenka
+poster_tmdb_path: /oQDgC53KH9ByHkGaZGHAt74wn9Z.jpg

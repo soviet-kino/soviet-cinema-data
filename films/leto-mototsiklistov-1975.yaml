@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q7241668
   imdb: tt2395341
+  tmdb: 207280
 sources:
 - https://www.wikidata.org/wiki/Q7241668
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - zarinsh-margeris
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /ugbFRgAq40RC0hI3aYj844DN0Oi.jpg
+backdrop_tmdb_path: /fTP1dr2dbrEIiJA3j4unMM2apRa.jpg

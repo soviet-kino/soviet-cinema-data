@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15621888
   imdb: tt4077462
+  tmdb: 492405
 sources:
 - https://www.wikidata.org/wiki/Q15621888
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - macskassy-gyula
 screenwriter:
 - macskassy-gyula
+poster_tmdb_path: /h2cRbm2SaqStlDWRKE1O8H2cZZd.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4030269
   imdb: tt0312292
   youtube: GLUVeAtjwGk
+  tmdb: 132600
 sources:
 - https://www.wikidata.org/wiki/Q4030269
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: tsilinskiy-gunar-alfredovich
 - person: belyavskiy-aleksandr-borisovich
 - person: bolotova-zhanna-andreevna
+poster_tmdb_path: /bK3E0tFSd5iRy7lpAxcFVlBIzy5.jpg
+backdrop_tmdb_path: /vG1SmzjAhrDwMJf8SJZGWbTqKgB.jpg

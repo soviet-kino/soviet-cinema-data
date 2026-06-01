@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4535733
   imdb: tt0906110
   youtube: d-C5Mbgpxpo
+  tmdb: 458054
 sources:
 - https://www.wikidata.org/wiki/Q4535733
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: uvarova-elizaveta
 - person: urgant-nina-nikolaevna
 - person: kormunin-pavel-vasilevich
+poster_tmdb_path: /beuMOmS1A8N2ZhKSVRdU1Z3n6Ug.jpg
+backdrop_tmdb_path: /picJ0phidXX4U7sRrAmbrlnLFXn.jpg

@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q4199191
   imdb: tt3002472
+  tmdb: 207851
 sources:
 - https://www.wikidata.org/wiki/Q4199191
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: liepinya-liga
 - person: korolkov-gennadiy-anatolevich
+poster_tmdb_path: /nzPxVdjFo84XJeqyYaPj0fJTEku.jpg
+backdrop_tmdb_path: /zu0QNQ73eDW2carti4JOTlD2YFv.jpg

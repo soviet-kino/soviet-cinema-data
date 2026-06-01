@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65170434
   imdb: tt0495162
   youtube: FWxSUBNgivk
+  tmdb: 637532
 sources:
 - https://www.wikidata.org/wiki/Q65170434
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - prokofev-sergey-sergeevich
 studio:
 - kazakhfilm
+poster_tmdb_path: /bS5ubEO5AAb6YtFLHJSRDVJrrne.jpg
+backdrop_tmdb_path: /r6YdtHcctc0nolnTZzktf3Ma7A7.jpg

@@ -34,6 +34,9 @@ external_ids:
   wikidata: Q873313
   imdb: tt0061537
   youtube: wAi9yOWJbcw
+  tmdb: 52885
 sources:
 - https://www.wikidata.org/wiki/Q873313
 schema_version: 1
+poster_tmdb_path: /lg20ZiGN0T9xUM7caUhOMb3XL4t.jpg
+backdrop_tmdb_path: /tX46PTo0xv4XlxtUpMTujcUPOg4.jpg

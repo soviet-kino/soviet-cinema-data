@@ -8,8 +8,11 @@ runtime_min: 74
 external_ids:
   wikidata: Q10982622
   imdb: tt0297790
+  tmdb: 529378
 sources:
 - https://www.wikidata.org/wiki/Q10982622
 schema_version: 1
 director:
 - fejzo-muharem
+poster_tmdb_path: /7f2vm2HVDKlU4lOUBWjRfwHomkb.jpg
+backdrop_tmdb_path: /4G1IB8Kizlp7tcmapwqoC5UTYJW.jpg

@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q9260927
   imdb: tt0150592
+  tmdb: 748191
 sources:
 - https://www.wikidata.org/wiki/Q9260927
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: fievskiy-tadeush
 - person: pikhelskiy-ezhi
 - person: yunosha-stempovskiy-kazimezh
+poster_tmdb_path: /fYkbQU4DHI5kjfgxSXBKLHONc8v.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q116908681
   imdb: tt0370045
+  tmdb: 490475
 sources:
 - https://www.wikidata.org/wiki/Q116908681
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: mouchka-yaroslav
 - person: klyaynert-folkmar
 - person: stempel-bernd
+poster_tmdb_path: /7moXXRJ1AYrDe162FAsk9gvYCTn.jpg

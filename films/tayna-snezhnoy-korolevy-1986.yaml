@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4449925
   imdb: tt0092043
   youtube: KWXo5HHPtpE
+  tmdb: 274199
 sources:
 - https://www.wikidata.org/wiki/Q4449925
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: puzyrevskiy-yan-yulevich
 studio:
 - ekran
+poster_tmdb_path: /jwnKZyBBPVLNNfvglH3vgCFnnvx.jpg
+backdrop_tmdb_path: /owzaQmFzwC0oPDFI2WIJADtdQPu.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4422275
   imdb: tt0274645
+  tmdb: 589183
 sources:
 - https://www.wikidata.org/wiki/Q4422275
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - abesadze-otar-davidovich
 screenwriter:
 - abesadze-otar-davidovich
+poster_tmdb_path: /7jOJ79Q31rZOi8u8NXCkfc6ZtOl.jpg
+backdrop_tmdb_path: /zbrrs1mbCAkgqDDUBIjZd6ejOLm.jpg

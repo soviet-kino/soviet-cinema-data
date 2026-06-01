@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20513167
   imdb: tt0363450
+  tmdb: 1094597
 sources:
 - https://www.wikidata.org/wiki/Q20513167
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: miridzhanyan-verdzhaluys
 - person: ayrapetyan-arkadiy
 - person: santrosyan-armen
+poster_tmdb_path: /ffqDx4ecI3MexKsaDuJFQ1qN5au.jpg

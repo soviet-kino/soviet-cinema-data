@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q90416617
   imdb: tt0984226
+  tmdb: 655461
 sources:
 - https://www.wikidata.org/wiki/Q90416617
 schema_version: 1
 director:
 - schafer-eberhard
+poster_tmdb_path: /f9z9vbOaZ1bFtzcst2tf97bM8ZV.jpg

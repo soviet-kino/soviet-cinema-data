@@ -8,6 +8,7 @@ runtime_min: 102
 external_ids:
   wikidata: Q4851078
   imdb: tt0085215
+  tmdb: 54649
 sources:
 - https://www.wikidata.org/wiki/Q4851078
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 studio:
 - art-film-80
 - ineks-film-beograd
+poster_tmdb_path: /rQ0nCQPmQ0V7dvJnPcE1672D021.jpg
+backdrop_tmdb_path: /2ynTqo3pjMBYUyTxfP9fye6StDv.jpg

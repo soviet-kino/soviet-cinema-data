@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q1413899
   imdb: tt0066617
+  tmdb: 260452
 sources:
 - https://www.wikidata.org/wiki/Q1413899
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: madarash-yozhef
 - person: olbrykhskiy-daniel
 - person: balazhovits-layosh
+poster_tmdb_path: /hX89eu1HZhz9IfMg3w3gCO31w1d.jpg
+backdrop_tmdb_path: /ps0dQPFTniN3poKyYRk7RaOSdEM.jpg

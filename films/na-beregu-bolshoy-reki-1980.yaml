@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4310900
   imdb: tt0230558
   youtube: 1KgNsrndNXY
+  tmdb: 1534299
 sources:
 - https://www.wikidata.org/wiki/Q4310900
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - batashov-konstantin-konstantinovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /moWIbh3iU3UMyZRAdKvOKF6za2X.jpg
+backdrop_tmdb_path: /zF3OtXiShToxUjcR5BCI0VN22Pu.jpg

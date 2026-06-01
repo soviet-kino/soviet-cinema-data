@@ -8,6 +8,7 @@ runtime_min: 15
 external_ids:
   wikidata: Q57019440
   imdb: tt0244597
+  tmdb: 678942
 sources:
 - https://www.wikidata.org/wiki/Q57019440
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - bukovyy-vilyam
 studio:
 - jiri-trnka-a-bratri-v-triku
+poster_tmdb_path: /qXXwAe01xnunAjPhOuUjaSme2th.jpg
+backdrop_tmdb_path: /aEaggep4Oz8XRdrTWxzqSPmxqVm.jpg

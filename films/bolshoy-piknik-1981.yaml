@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q4092996
   imdb: tt0083329
+  tmdb: 363902
 sources:
 - https://www.wikidata.org/wiki/Q4092996
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: pekhotsinskiy-yan
 studio:
 - silesia-kinostudiya
+poster_tmdb_path: /281xLWbT2N3i8LiHXteBevyKCUS.jpg
+backdrop_tmdb_path: /xeBCxLWia2S16Ybqele2o15s016.jpg

@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q369346
   imdb: tt0022867
+  tmdb: 43124
 sources:
 - https://www.wikidata.org/wiki/Q369346
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: kubovy-antonin
 - person: macha-kuca-karel
 - person: slegl-eduard
+poster_tmdb_path: /mZjkgA9eh1SXJRHC7sx9uTQTdUB.jpg
+backdrop_tmdb_path: /fJlmuteVveQc46ItJKRQKj06FNq.jpg

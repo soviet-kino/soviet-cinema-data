@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4453326
   imdb: tt11688444
   youtube: hqXHjgKEE1A
+  tmdb: 572816
 sources:
 - https://www.wikidata.org/wiki/Q4453326
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - kalnynsh-imants
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /tKbXJrVf7JDxv8kFuFURF5ykSk5.jpg
+backdrop_tmdb_path: /kgm5yK5zJBcKgDAhCzQoeE5zly6.jpg

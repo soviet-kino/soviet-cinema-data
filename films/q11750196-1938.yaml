@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11750196
   imdb: tt0029094
+  tmdb: 397740
 sources:
 - https://www.wikidata.org/wiki/Q11750196
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - vars-khenrik
 cast:
 - person: khelena-grossuvna
+poster_tmdb_path: /amBIWlszf5uDxX9i0gS0zP2RTTU.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16587751
   imdb: tt1455815
+  tmdb: 786601
 sources:
 - https://www.wikidata.org/wiki/Q16587751
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - trzos-rastawiecki-andrzej
 composer:
 - schaeffer-bogus-aw
+poster_tmdb_path: /zteMqJlsXiJGcu2r2e15qpUZd7f.jpg

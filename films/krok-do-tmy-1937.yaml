@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q6438798
   imdb: tt0151260
   youtube: 7wyhz_Uhgtc
+  tmdb: 444189
 sources:
 - https://www.wikidata.org/wiki/Q6438798
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: bauer-willy
 - person: vyhlidka-robert
 - person: suldovsky-vaclav
+poster_tmdb_path: /bCT2ShnKBnzHvS1WH0WQLTdm93n.jpg
+backdrop_tmdb_path: /lKRztMMcOhbVIfyAZdVOyhYkhhE.jpg

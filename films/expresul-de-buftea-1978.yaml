@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12727962
   imdb: tt0166183
+  tmdb: 281773
 sources:
 - https://www.wikidata.org/wiki/Q12727962
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: lavric-paul
 - person: kelinesku-puyu
 - person: muraru-vasile
+poster_tmdb_path: /yAxQWja86E9tvxIkOv6Fmuh2vMc.jpg

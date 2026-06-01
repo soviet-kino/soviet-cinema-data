@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q1636351
   imdb: tt0312477
+  tmdb: 290265
 sources:
 - https://www.wikidata.org/wiki/Q1636351
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: nosik-valeriy-benediktovich
 - person: bledis-vatslovas
 - person: khellaste-mare
+poster_tmdb_path: /qy4rZ1ecqlSWTyrFt9E0ryaxpOx.jpg
+backdrop_tmdb_path: /uyHGD6j8dWR8FIZ3TUBvme673Aq.jpg

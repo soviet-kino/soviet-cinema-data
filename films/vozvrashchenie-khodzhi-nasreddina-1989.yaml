@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4114654
   imdb: tt0310330
   youtube: 5ngqHOKZ8rY
+  tmdb: 637817
 sources:
 - https://www.wikidata.org/wiki/Q4114654
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: chkhikvadze-ramaz-grigorevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /eJrnRDY2DRshhnbkN1htkaUKn5I.jpg
+backdrop_tmdb_path: /dRvhxUWwwW08SQtTnIXPkOpc0ce.jpg

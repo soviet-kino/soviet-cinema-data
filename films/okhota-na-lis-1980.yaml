@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4340438
   imdb: tt0081271
   youtube: 8rIhH9keWt8
+  tmdb: 158714
 sources:
 - https://www.wikidata.org/wiki/Q4340438
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: pokrovskaya-alla-borisovna
 studio:
 - mosfilm
+poster_tmdb_path: /6RpFcUHChbWRwXiHHT3LAan1yWE.jpg
+backdrop_tmdb_path: /ArLB9idFdOKI6Na5vf6XIPGgtz9.jpg

@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q130314163
   imdb: tt5495094
+  tmdb: 1265938
 sources:
 - https://www.wikidata.org/wiki/Q130314163
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - silvestrov-valentin-vasilevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /3B7vqLsl8PZ07iIuRIPzjzCC0s1.jpg

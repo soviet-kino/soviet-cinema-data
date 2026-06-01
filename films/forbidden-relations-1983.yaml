@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q5467379
   imdb: tt0084871
+  tmdb: 133755
 sources:
 - https://www.wikidata.org/wiki/Q5467379
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: molnar-tibor
 - person: monori-lili
 - person: b-miklosh-szhekeli
+poster_tmdb_path: /8FTybZCEhcWtijvJAqrQSZ6SKX3.jpg

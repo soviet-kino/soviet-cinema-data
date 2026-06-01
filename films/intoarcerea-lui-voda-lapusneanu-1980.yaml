@@ -8,6 +8,7 @@ runtime_min: 140
 external_ids:
   wikidata: Q28726241
   imdb: tt0131441
+  tmdb: 460154
 sources:
 - https://www.wikidata.org/wiki/Q28726241
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: popovichi-silviya
 studio:
 - radef
+poster_tmdb_path: /15R8ORbjMIAxJaYTbHxfgEC9xfE.jpg

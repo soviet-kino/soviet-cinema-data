@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q4339521
   imdb: tt0171591
+  tmdb: 553434
 sources:
 - https://www.wikidata.org/wiki/Q4339521
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: fievskiy-tadeush
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /nBbPYB0lpefwMQ1UT5vr5DmHPWT.jpg

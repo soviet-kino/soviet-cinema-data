@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q15270660
   imdb: tt0136747
+  tmdb: 472611
 sources:
 - https://www.wikidata.org/wiki/Q15270660
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: nunes-eslinda
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /y6Q9MkU52Ijfdk4Z3Fk9RkcJ8sI.jpg

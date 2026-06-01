@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3235808
   imdb: tt0028413
   youtube: 6Gl0aWjAJ3E
+  tmdb: 264482
 sources:
 - https://www.wikidata.org/wiki/Q3235808
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 studio:
 - mosfilm
 poster_commons: Плакат к фильму «Тринадцать».jpg
+poster_tmdb_path: /vEofg1E6tyraxh5M6mdwt0yQzlr.jpg
+backdrop_tmdb_path: /uU9ZtNNUCGY0doCPwg85kUkWdpq.jpg

@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q129900028
   imdb: tt0128015
+  tmdb: 1297457
 sources:
 - https://www.wikidata.org/wiki/Q129900028
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - chyornyy-aleksandr-mikhaylovich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /y91evdJuSpZ5cBCviBCoLpXFKGl.jpg

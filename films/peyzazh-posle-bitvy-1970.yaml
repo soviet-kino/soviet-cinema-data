@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q1372578
   imdb: tt0065948
+  tmdb: 149136
 sources:
 - https://www.wikidata.org/wiki/Q1372578
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: piszczatowski-andrzej
 - person: peratskiy-yuzef
 - person: kholts-vitold
+poster_tmdb_path: /wwGdrHFJTIefv5RjyDbrrVz9Meo.jpg
+backdrop_tmdb_path: /fxXkKpMVPSJSdciQStPEEdC0nnj.jpg

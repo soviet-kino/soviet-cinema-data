@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111733632
   imdb: tt0094392
   youtube: MiJrmvvCSX0
+  tmdb: 1164212
 sources:
 - https://www.wikidata.org/wiki/Q111733632
 schema_version: 1
@@ -18,3 +19,4 @@ screenwriter:
 - narymbetov-satybaldy-zhalelovich
 studio:
 - kazakhfilm
+poster_tmdb_path: /tSXvf2fJBD5ghSn58bd1NQ3JoLU.jpg

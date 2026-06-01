@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q3814626
   imdb: tt0046841
+  tmdb: 260972
 sources:
 - https://www.wikidata.org/wiki/Q3814626
 schema_version: 1
@@ -53,3 +54,5 @@ cast:
 - person: wichurski-wilhelm
 - person: przybylska-halina
 - person: tatarski-ludwik
+poster_tmdb_path: /zg4AaXjKnqIgxf6URDjqrv4ww63.jpg
+backdrop_tmdb_path: /ywVuEikn6JX5s108TV9U3wPpjY.jpg

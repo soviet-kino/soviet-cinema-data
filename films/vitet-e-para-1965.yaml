@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11816719
   imdb: tt0354176
+  tmdb: 455780
 sources:
 - https://www.wikidata.org/wiki/Q11816719
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - damo-kristach
 composer:
 - zoraqi-nikolla
+poster_tmdb_path: /i3NZJ7eLqhywZ5eiIIqkX6LeATN.jpg
+backdrop_tmdb_path: /nJqferEOTADMHjGo0VAZ3JczRla.jpg

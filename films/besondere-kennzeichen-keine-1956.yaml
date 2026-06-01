@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4896341
   imdb: tt0048998
+  tmdb: 408326
 sources:
 - https://www.wikidata.org/wiki/Q4896341
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: engel-kristof
 - person: dunkelman-erika
 - person: myuller-erika
+poster_tmdb_path: /5riXFMw9l3bAjNytnX63Y59tWo2.jpg

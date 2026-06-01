@@ -8,6 +8,7 @@ runtime_min: 130
 external_ids:
   wikidata: Q12029126
   imdb: tt0183348
+  tmdb: 201320
 sources:
 - https://www.wikidata.org/wiki/Q12029126
 schema_version: 1
@@ -197,3 +198,5 @@ cast:
 - person: vaneckova-tamara
 - person: pisnova-zuzana
 - person: koutek-jiri
+poster_tmdb_path: /nbrvskiA6y8pdOAGPEUb4QgYq96.jpg
+backdrop_tmdb_path: /fhoP7flQNO5aZp2H0RzF5gwYPCt.jpg

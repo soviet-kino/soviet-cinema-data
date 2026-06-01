@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q28750015
   imdb: tt0079352
+  tmdb: 490142
 sources:
 - https://www.wikidata.org/wiki/Q28750015
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: juh-boris
 - person: zupanchich-milena
 - person: poberznik-tanja
+poster_tmdb_path: /z2dz4j1AcIEqONKgvhA9qzi7xtK.jpg

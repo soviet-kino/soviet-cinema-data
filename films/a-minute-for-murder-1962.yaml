@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q26243026
   imdb: tt0296086
+  tmdb: 488988
 sources:
 - https://www.wikidata.org/wiki/Q26243026
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - kavcic-jane
 screenwriter:
 - nikolic-milan
+poster_tmdb_path: /uj01dS06hJwanHqUrQhzwo8VvEp.jpg
+backdrop_tmdb_path: /z3XlvTEVDhxfifNBTRuhacxVnnm.jpg

@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q134267602
   imdb: tt0032388
+  tmdb: 854558
 sources:
 - https://www.wikidata.org/wiki/Q134267602
 schema_version: 1
 studio:
 - tsentralnaya-studiya-dokumentalnykh-filmov
+poster_tmdb_path: /gtNfdUKfL0zVpznAjC4Jbfkbrlb.jpg

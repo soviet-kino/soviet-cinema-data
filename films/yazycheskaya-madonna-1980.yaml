@@ -22,6 +22,9 @@ cast:
 external_ids:
   wikidata: Q460608
   imdb: tt0081349
+  tmdb: 79244
 sources:
 - https://www.wikidata.org/wiki/Q460608
 schema_version: 1
+poster_tmdb_path: /xAmaILotHQHaU64YYSVGlrsutac.jpg
+backdrop_tmdb_path: /4sqnnRFg89RJMVZyX4wH5QPjvxA.jpg

@@ -8,6 +8,7 @@ runtime_min: 137
 external_ids:
   wikidata: Q4167648
   imdb: tt5939684
+  tmdb: 700658
 sources:
 - https://www.wikidata.org/wiki/Q4167648
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - nirenburg-boris-eduardovich
 cast:
 - person: yakovlev-yuriy-vasilevich
+poster_tmdb_path: /yITKW1DpCWNhcrlJRG3bjQqJ0dv.jpg

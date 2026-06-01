@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q4177633
   imdb: tt2313466
+  tmdb: 531786
 sources:
 - https://www.wikidata.org/wiki/Q4177633
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: makarova-inna-vladimirovna
 studio:
 - lenfilm
+poster_tmdb_path: /3JPKoxaml4iS61KsK29q5yJ7zGj.jpg
+backdrop_tmdb_path: /8S4v6dlmpqE61Tn6y5HWqeetVVK.jpg

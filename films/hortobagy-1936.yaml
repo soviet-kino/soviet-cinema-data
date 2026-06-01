@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q3140856
   imdb: tt0243313
+  tmdb: 296187
 sources:
 - https://www.wikidata.org/wiki/Q3140856
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - hoellering-george
 cinematographer:
 - shaffer-laslo
+poster_tmdb_path: /fEbuHCS6wpkVwrvTqU07QkXviiJ.jpg
+backdrop_tmdb_path: /7gUQViDqlBUQBfMAc2hvUiNFOjh.jpg

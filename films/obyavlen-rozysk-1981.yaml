@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4330548
   imdb: tt0236918
+  tmdb: 1295492
 sources:
 - https://www.wikidata.org/wiki/Q4330548
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - tsvetkov-igor-arkadevich
 cast:
 - person: danilova-natalya-yurevna
+poster_tmdb_path: /xcQB0iH2mW17oYW1FEmK8mba9Fk.jpg

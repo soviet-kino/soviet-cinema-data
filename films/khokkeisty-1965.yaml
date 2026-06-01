@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4498944
   imdb: tt0166648
   youtube: vanUIc0DJS0
+  tmdb: 570742
 sources:
 - https://www.wikidata.org/wiki/Q4498944
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: kinematografist-orlov-aleksandr-sergeevich
 - person: rybnikov-nikolay-nikolaevich
 - person: vyacheslav-anatolevich-shalevich
+poster_tmdb_path: /mbJSi5leFN5jScQyFDcAH5MJ32J.jpg

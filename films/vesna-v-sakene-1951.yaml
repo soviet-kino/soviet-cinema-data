@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q4109511
   imdb: tt0234984
+  tmdb: 1202723
 sources:
 - https://www.wikidata.org/wiki/Q4109511
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - sanishvili-nikolay-konstantinovich
 studio:
 - gruziya-film
+poster_tmdb_path: /nJWye0RQDur3rC8uFkEsTVddkz0.jpg
+backdrop_tmdb_path: /8Niu8u6Sv6wP6VKpnSFJK379SkD.jpg

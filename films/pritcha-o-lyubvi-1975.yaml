@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q130459213
   imdb: tt2371425
+  tmdb: 1524360
 sources:
 - https://www.wikidata.org/wiki/Q130459213
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: kuanysheva-zhanna
 studio:
 - kazakhfilm
+poster_tmdb_path: /y11GsqtHqY9C5lG0xOXrpZMdqMC.jpg

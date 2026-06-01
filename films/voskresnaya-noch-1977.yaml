@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4126286
   imdb: tt0334655
   youtube: YkKfYJdPRSc
+  tmdb: 484097
 sources:
 - https://www.wikidata.org/wiki/Q4126286
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - belarusfilm
 cast:
 - person: velyaminov-pyotr-sergeevich
+poster_tmdb_path: /i63o1PjwnkXke5TiuSaK3Kveh5h.jpg
+backdrop_tmdb_path: /sd6EDwKramKP6ly9i6eh9KyPq6d.jpg

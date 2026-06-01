@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q862112
   imdb: tt0061121
   youtube: eOQxfYCOq84
+  tmdb: 64759
 sources:
 - https://www.wikidata.org/wiki/Q862112
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: nikulin-valentin-yurevich
 studio:
 - lenfilm
+poster_tmdb_path: /mR1ew756aZDF9yNFyQVu2k1YDMj.jpg
+backdrop_tmdb_path: /r2rTspiGyi1Av0O3P5E1X1z43Sx.jpg

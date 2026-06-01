@@ -8,6 +8,7 @@ runtime_min: 128
 external_ids:
   wikidata: Q64858916
   imdb: tt5555218
+  tmdb: 1293908
 sources:
 - https://www.wikidata.org/wiki/Q64858916
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: khasanov-marat
 studio:
 - tadzhikfilm
+poster_tmdb_path: /fPoE2NtI4YBT9i3pq48265sCwSM.jpg

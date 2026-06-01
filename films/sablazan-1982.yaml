@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12758467
   imdb: tt0180115
+  tmdb: 338480
 sources:
 - https://www.wikidata.org/wiki/Q12758467
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: uzunovic-tanasije
 - person: zeremski-branislav
 - person: tadic-ljubivoje
+poster_tmdb_path: /sdV62TG41TLJoFYQllPmGWMESZX.jpg
+backdrop_tmdb_path: /jMJOZbnRTJTdrozxhZyvln5p6Mu.jpg

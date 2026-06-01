@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q111797697
   imdb: tt0056481
   youtube: 92kbQ0s1k7c
+  tmdb: 816608
 sources:
 - https://www.wikidata.org/wiki/Q111797697
 schema_version: 1
@@ -19,3 +20,5 @@ screenwriter:
 - dunskiy-yuliy
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /81ITl6TXGPxow7QqWDGHwTavQCy.jpg
+backdrop_tmdb_path: /9Bxlwup5G8kAmHq67WcrX4EKwSF.jpg

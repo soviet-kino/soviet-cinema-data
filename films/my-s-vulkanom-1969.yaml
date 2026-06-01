@@ -8,6 +8,7 @@ runtime_min: 65
 external_ids:
   wikidata: Q4309262
   imdb: tt0199793
+  tmdb: 637455
 sources:
 - https://www.wikidata.org/wiki/Q4309262
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: tarasov-viktor
 studio:
 - belarusfilm
+poster_tmdb_path: /3XGD0sjMTuBMc4iynYvd2GdbwlW.jpg

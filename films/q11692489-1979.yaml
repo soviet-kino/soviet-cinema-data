@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11692489
   imdb: tt0173756
+  tmdb: 926427
 sources:
 - https://www.wikidata.org/wiki/Q11692489
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: brudny-stanislav
 - person: teodorchik-tadeush
 - person: dzido-lelinska-barbara
+backdrop_tmdb_path: /gdqYpX4yychudKftA7cVhWgYqXA.jpg

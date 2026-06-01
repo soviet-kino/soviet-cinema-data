@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q6710630
   imdb: tt0279933
+  tmdb: 229284
 sources:
 - https://www.wikidata.org/wiki/Q6710630
 schema_version: 1
@@ -53,3 +54,4 @@ cast:
 - person: desensky-ladislav
 - person: kobikova-anna
 - person: suva-rudolf
+poster_tmdb_path: /iC10fvQ5abizfyo4rIgnD2JBHgE.jpg

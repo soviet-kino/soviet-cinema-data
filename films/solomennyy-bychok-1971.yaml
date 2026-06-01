@@ -8,6 +8,7 @@ runtime_min: 541
 external_ids:
   wikidata: Q25415690
   imdb: tt5156696
+  tmdb: 913150
 sources:
 - https://www.wikidata.org/wiki/Q25415690
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - krivtsov-vladimir-ivanovich
 studio:
 - ekran
+poster_tmdb_path: /kp8CTunxS0DmgbovARp8SzfpwWo.jpg

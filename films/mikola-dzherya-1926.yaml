@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q61118044
   imdb: tt12036832
+  tmdb: 1110381
 sources:
 - https://www.wikidata.org/wiki/Q61118044
 schema_version: 1
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /rxPYoUbpH3hK0YRxYQ8lSIb9Klr.jpg
+backdrop_tmdb_path: /qJDhlW1KgTy7fZaOupThVSFydF1.jpg

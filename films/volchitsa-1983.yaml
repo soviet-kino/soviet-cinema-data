@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q4124280
   imdb: tt0086585
+  tmdb: 132815
 sources:
 - https://www.wikidata.org/wiki/Q4124280
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: teodorchik-tadeush
 studio:
 - silesia-kinostudiya
+poster_tmdb_path: /1v5aZZuftJdH4oK9u8Qro6JJQ58.jpg
+backdrop_tmdb_path: /qKfmC6jHKqphbpCzehCzWTazZgf.jpg

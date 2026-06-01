@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q54994
   imdb: tt0090246
+  tmdb: 56078
 sources:
 - https://www.wikidata.org/wiki/Q54994
 schema_version: 1
@@ -45,3 +46,5 @@ cast:
 - person: kepinski-marek
 studio:
 - studio-filmowe-kadr
+poster_tmdb_path: /11Ej8r3NmCE7FX1xfPw5sxlxgEx.jpg
+backdrop_tmdb_path: /3B7KJva0uuF0CqihJeQozImiiqo.jpg

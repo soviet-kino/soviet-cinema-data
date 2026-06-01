@@ -22,6 +22,7 @@ external_ids:
   wikidata: Q108297
   youtube: T0Va8AgPS4k
   imdb: tt0054331
+  tmdb: 967
 sources:
 - https://www.wikidata.org/wiki/Q108297
 schema_version: 1
@@ -120,3 +121,5 @@ cast:
 studio:
 - bryna-productions
 poster_commons: Spartacus - 1960 - poster.png
+poster_tmdb_path: /u34SjTqZ6OHWNwRdazYkUHnbPWN.jpg
+backdrop_tmdb_path: /9caD0fGCrp96JTFFeGyI0CGNj7.jpg

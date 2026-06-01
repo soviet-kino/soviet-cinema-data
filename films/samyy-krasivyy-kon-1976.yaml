@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4407191
   imdb: tt2932684
   youtube: NBAGcuwZovw
+  tmdb: 888638
 sources:
 - https://www.wikidata.org/wiki/Q4407191
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: ilich-zharikov-evgeniy
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /4udjjCx30gK1ivCF1EZqtIb5SlG.jpg

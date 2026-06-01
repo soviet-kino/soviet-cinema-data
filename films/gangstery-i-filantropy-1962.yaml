@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4133199
   imdb: tt0057089
+  tmdb: 101190
 sources:
 - https://www.wikidata.org/wiki/Q4133199
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 studio:
 - kamera-kinostudiya
 poster_commons: Barbara Modelska – Gangsterzy i filantropi 1962.jpg
+poster_tmdb_path: /2VTXrcHhXvQlaJXCAd3AAwdK7i8.jpg
+backdrop_tmdb_path: /lH48wGqXif7vgXAkZlXbcgCjpJO.jpg

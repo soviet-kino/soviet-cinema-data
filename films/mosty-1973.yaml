@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4304723
   imdb: tt17046528
+  tmdb: 1442046
 sources:
 - https://www.wikidata.org/wiki/Q4304723
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: zakariadze-bukhuti
 studio:
 - moldova-film
+poster_tmdb_path: /rHF4bsTfeby351xspg9uvI1hGwv.jpg
+backdrop_tmdb_path: /g1m4jIIEn03js1RUrcxcFKOQxEM.jpg

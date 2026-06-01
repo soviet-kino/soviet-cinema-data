@@ -67,6 +67,9 @@ external_ids:
   wikidata: Q7733763
   imdb: tt0123368
   youtube: Hlx3GXmeTgo
+  tmdb: 109380
 sources:
 - https://www.wikidata.org/wiki/Q7733763
 schema_version: 1
+poster_tmdb_path: /pWy6ZEd4unpU5AgStkywnE9e1qq.jpg
+backdrop_tmdb_path: /7s8gErVZNbFDNfdoEKsUcnXitiK.jpg

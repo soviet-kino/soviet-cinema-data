@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11781340
   imdb: tt0295439
+  tmdb: 439245
 sources:
 - https://www.wikidata.org/wiki/Q11781340
 schema_version: 1
@@ -16,3 +17,5 @@ screenwriter:
 - jorgaqi-nasho
 composer:
 - radoja-robert
+poster_tmdb_path: /y1M6KJjgem9GDvFRKaysbb2tnA4.jpg
+backdrop_tmdb_path: /5aBRxXmDYTnXfeqm55tATOnWD5I.jpg

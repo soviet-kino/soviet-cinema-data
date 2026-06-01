@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q23751308
   imdb: tt0023340
+  tmdb: 463513
 sources:
 - https://www.wikidata.org/wiki/Q23751308
 schema_version: 1
 director:
 - sekeli-stiv
+poster_tmdb_path: /7j50sE6C7vEkUnjNLF9HQsJpI1h.jpg

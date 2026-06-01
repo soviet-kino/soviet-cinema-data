@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q84993112
   imdb: tt0300374
+  tmdb: 896051
 sources:
 - https://www.wikidata.org/wiki/Q84993112
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - shut-vladislav-alekseevich
 studio:
 - mosfilm
+poster_tmdb_path: /z6k20yr0JMyl45Ht9N30xPXfdWH.jpg

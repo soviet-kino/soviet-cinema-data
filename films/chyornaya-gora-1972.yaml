@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q1199558
   imdb: tt0067886
+  tmdb: 259017
 sources:
 - https://www.wikidata.org/wiki/Q1199558
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - lokshin-aleksandr-lazarevich
 cast:
 - person: abbas-khodzha-akhmad
+poster_tmdb_path: /9CnL5AZe7FgKzH98RqXvFo5XkeB.jpg
+backdrop_tmdb_path: /zrATDQ3X4s4pieAPK2StNtTxudg.jpg

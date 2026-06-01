@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9281053
   imdb: tt0353652
+  tmdb: 480851
 sources:
 - https://www.wikidata.org/wiki/Q9281053
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - topallaj-mark
 composer:
 - radoja-robert
+poster_tmdb_path: /3eCnuo6FVhXjl23JAB7dkjurQ0g.jpg
+backdrop_tmdb_path: /6o6w5aHUckytJ9FAJbUlAS9jDeT.jpg

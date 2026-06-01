@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q15836011
   imdb: tt0082787
+  tmdb: 282945
 sources:
 - https://www.wikidata.org/wiki/Q15836011
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - brand-peter
 composer:
 - fisher-gyunter
+poster_tmdb_path: /p6ZA3YmgBuaqxTgmNTEvsYmCunk.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3397827
   imdb: tt0179741
+  tmdb: 258909
 sources:
 - https://www.wikidata.org/wiki/Q3397827
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 cast:
 - person: vuisich-pavle
 - person: mirich-voyya
+poster_tmdb_path: /gcobrwwStNoTwMINQFaAD4CnRXq.jpg

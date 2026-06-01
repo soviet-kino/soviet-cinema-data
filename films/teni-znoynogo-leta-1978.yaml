@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q2231612
   imdb: tt0076765
+  tmdb: 46793
 sources:
 - https://www.wikidata.org/wiki/Q2231612
 schema_version: 1
@@ -49,3 +50,5 @@ cast:
 - person: hachova-dagmar
 - person: ladizinsky-michal
 - person: kratochvilova-andrea
+poster_tmdb_path: /1cu7qSFVgRSkWKb5Pg0DWmVbxUo.jpg
+backdrop_tmdb_path: /tOsY0SaJ7ZYEMWRxPN0S4NsoO6v.jpg

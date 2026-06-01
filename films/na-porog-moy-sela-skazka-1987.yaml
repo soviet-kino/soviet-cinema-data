@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q28465051
   imdb: tt6888252
+  tmdb: 361976
 sources:
 - https://www.wikidata.org/wiki/Q28465051
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - liepinsh-zigmar
 studio:
 - latviyskoe-televidenie
+poster_tmdb_path: /kLZz8L6IrvvghExlxHJA8wsgqG6.jpg

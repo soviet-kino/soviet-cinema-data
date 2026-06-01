@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4101752
   imdb: tt0175287
   youtube: 8nE9JPNl3Wk
+  tmdb: 404460
 sources:
 - https://www.wikidata.org/wiki/Q4101752
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /dnGniPcYe0yvcjLKGT7Eh9bDSdP.jpg
+backdrop_tmdb_path: /fVUuu5SwTfidDq1se6BryeIYOur.jpg

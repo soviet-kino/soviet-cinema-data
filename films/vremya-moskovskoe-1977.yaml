@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q116811472
   imdb: tt5375264
+  tmdb: 1530063
 sources:
 - https://www.wikidata.org/wiki/Q116811472
 schema_version: 1
@@ -22,3 +23,4 @@ studio:
 cast:
 - person: sanaev-vsevolod-vasilevich
 - person: kadochnikova-larisa-valentinovna
+poster_tmdb_path: /5oMKOez4fDGzwWUphcW6BFpHQTU.jpg

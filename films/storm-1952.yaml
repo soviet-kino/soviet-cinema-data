@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q123541296
   imdb: tt0044193
+  tmdb: 286464
 sources:
 - https://www.wikidata.org/wiki/Q123541296
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: besseniey-ferents
 - person: bikhari-zhozef
 - person: kishsh-mani
+poster_tmdb_path: /xg2li0BCgKdsDxQtZLiAF1wgxgW.jpg
+backdrop_tmdb_path: /hKK7LHqkMyPqH1ZB9aZQIGxEOiR.jpg

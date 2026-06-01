@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q4072345
   imdb: tt0243126
+  tmdb: 530215
 sources:
 - https://www.wikidata.org/wiki/Q4072345
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: muravyova-irina-vadimovna
 - person: kuravlyov-leonid-vyacheslavovich
 - person: basov-vladimir-pavlovich
+poster_tmdb_path: /3SZ6O6wq6NN8pUT8Lrfx2EiSrzN.jpg
+backdrop_tmdb_path: /AdRFa9fQCWPKngsM9MAbTFVRjaX.jpg

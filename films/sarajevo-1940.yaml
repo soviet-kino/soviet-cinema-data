@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q17030682
   imdb: tt0033023
+  tmdb: 432963
 sources:
 - https://www.wikidata.org/wiki/Q17030682
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - fenesh-sabolch
 cast:
 - person: tashnadi-mariya-fon
+poster_tmdb_path: /fvdXqjWn57D49f1q6rzt2TtOx83.jpg

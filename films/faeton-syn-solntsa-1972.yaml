@@ -8,6 +8,7 @@ runtime_min: 17
 external_ids:
   wikidata: Q97164191
   imdb: tt3876650
+  tmdb: 573011
 sources:
 - https://www.wikidata.org/wiki/Q97164191
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - livanov-vasiliy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9dM4ktoH59jgOswWYZammBb2Os7.jpg

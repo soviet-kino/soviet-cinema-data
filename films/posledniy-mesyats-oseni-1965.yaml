@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270944
   imdb: tt0059612
+  tmdb: 536896
 sources:
 - https://www.wikidata.org/wiki/Q15270944
 schema_version: 1
@@ -18,3 +19,5 @@ cast:
 - person: lebedev-evgeniy-alekseevich
 studio:
 - moldova-film
+poster_tmdb_path: /jvWwWFqMwJrepWVN8mGy7vqWcFc.jpg
+backdrop_tmdb_path: /rKkLTJDoBsl0qUnJdX8QlfzbAn3.jpg

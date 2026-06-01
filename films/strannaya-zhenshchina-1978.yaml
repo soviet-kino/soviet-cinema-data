@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4443353
   imdb: tt0076773
   youtube: MzIPA7gAzvM
+  tmdb: 49581
 sources:
 - https://www.wikidata.org/wiki/Q4443353
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: korkoshko-svetlana-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /8dt3xxWXLgXZ1JMBq9YPi4yWgtN.jpg
+backdrop_tmdb_path: /7q3RSzKL0Qoy42uFD4P56qMWo3e.jpg

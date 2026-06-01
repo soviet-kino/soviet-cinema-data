@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q12770029
   imdb: tt0174844
+  tmdb: 46214
 sources:
 - https://www.wikidata.org/wiki/Q12770029
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: kostelnik-ernest
 - person: maraky-gejza
 - person: suchanova-erna
+poster_tmdb_path: /uNKEpRyUCZ8mUySNmcUTFQd8vvs.jpg
+backdrop_tmdb_path: /3LkdAKPstnkKn58dDqsK3KeGyLK.jpg

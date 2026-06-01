@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q66371006
   imdb: tt0186446
+  tmdb: 310979
 sources:
 - https://www.wikidata.org/wiki/Q66371006
 schema_version: 1
@@ -48,3 +49,4 @@ cast:
 studio:
 - mosfilm
 - barrandov
+poster_tmdb_path: /nzeaL2WHmXcNnUiJkv7LbE9Vn2c.jpg

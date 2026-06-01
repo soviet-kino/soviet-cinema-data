@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q18712976
   imdb: tt0170248
+  tmdb: 392517
 sources:
 - https://www.wikidata.org/wiki/Q18712976
 schema_version: 1
@@ -40,3 +41,4 @@ cast:
 - person: blaha-stanislav
 - person: biedermannova-maud
 - person: ford-frank
+poster_tmdb_path: /8UWRYMBIEEJhMk9SLmgkbsL3V7O.jpg

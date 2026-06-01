@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12911613
   imdb: tt0080571
+  tmdb: 266150
 sources:
 - https://www.wikidata.org/wiki/Q12911613
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: q12959542
 - person: mustafa-yashar
 - person: krstevski-mladen
+poster_tmdb_path: /wnvq4ShVG4O2TlEJDZGoAnP52B5.jpg
+backdrop_tmdb_path: /qKMxZXi4Um9aV9Vyjhuc7E4nXe1.jpg

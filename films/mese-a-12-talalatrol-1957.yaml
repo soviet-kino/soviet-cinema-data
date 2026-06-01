@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q80655736
   imdb: tt0049497
+  tmdb: 286624
 sources:
 - https://www.wikidata.org/wiki/Q80655736
 schema_version: 1
@@ -22,3 +23,4 @@ cinematographer:
 - eiben-istvan
 composer:
 - fenesh-sabolch
+poster_tmdb_path: /4WjXnzjTvYvhGPsFftAUaRAvz6h.jpg

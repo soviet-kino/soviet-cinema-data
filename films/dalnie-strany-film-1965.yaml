@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q116811439
   imdb: tt0383295
+  tmdb: 884986
 sources:
 - https://www.wikidata.org/wiki/Q116811439
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 - garibyan-grayr-aramovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /gPTo38sccN6ql4DJRXx2iTMM8Ij.jpg

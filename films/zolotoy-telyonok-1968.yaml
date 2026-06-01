@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3547387
   imdb: tt0063845
   youtube: jchmRazCbJM
+  tmdb: 64714
 sources:
 - https://www.wikidata.org/wiki/Q3547387
 schema_version: 1
@@ -46,3 +47,5 @@ cast:
 - person: gurov-evgeniy-alekseevich
 - person: perov-evgeniy-vladimirovich
 - person: orlovskiy-dmitriy-dmitrievich
+poster_tmdb_path: /yqVRV5uRMxMLeDw8HEKO7am6O18.jpg
+backdrop_tmdb_path: /sFzv9ZTH4dTYx8yxMg9bNKPeeuL.jpg

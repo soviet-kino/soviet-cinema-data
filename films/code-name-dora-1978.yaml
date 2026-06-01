@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31098608
   imdb: tt0077480
+  tmdb: 661543
 sources:
 - https://www.wikidata.org/wiki/Q31098608
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: banfalvi-agnes
 - person: ronyecz-maria
 - person: varadi-hedi
+poster_tmdb_path: /xOPiYMCeQ9QblobTnUZLWRhoSVY.jpg

@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q12742362
   imdb: tt0121819
+  tmdb: 249129
 sources:
 - https://www.wikidata.org/wiki/Q12742362
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: ghiuta-monica
 - person: ploae-mariya
 - person: nitulesku-vasil
+poster_tmdb_path: /nICgpA30gSePA2rFJRRB51pPGTX.jpg

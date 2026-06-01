@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q19364303
   imdb: tt0047262
+  tmdb: 828102
 sources:
 - https://www.wikidata.org/wiki/Q19364303
 schema_version: 1
@@ -50,3 +51,4 @@ cast:
 - person: steigl-josef
 - person: st-karel-hovorka
 - person: rejzek-ladislav
+poster_tmdb_path: /p2F6u0T2K97oXIiNmPf8rBnLl5y.jpg

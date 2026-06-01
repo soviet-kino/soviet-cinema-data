@@ -8,6 +8,7 @@ runtime_min: 77
 external_ids:
   wikidata: Q15596849
   imdb: tt0236558
+  tmdb: 637585
 sources:
 - https://www.wikidata.org/wiki/Q15596849
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: volchik-vladimir-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /O5NvMntkXjpu0ZYVEBvRDar8DJ.jpg
+backdrop_tmdb_path: /ablGLuIwIVZVbs7OxoUN0ukrzHB.jpg

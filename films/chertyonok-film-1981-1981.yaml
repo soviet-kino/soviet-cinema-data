@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12371193
   imdb: tt0238895
+  tmdb: 260026
 sources:
 - https://www.wikidata.org/wiki/Q12371193
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: aru-ines
 studio:
 - tallinfilm
+poster_tmdb_path: /r5ccxaijhlp7RYkFllezdN4GVrP.jpg
+backdrop_tmdb_path: /2Ialk1XNAnEWjocjKZUqJ5DbR5p.jpg

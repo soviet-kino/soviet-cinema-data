@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4086929
   imdb: tt8489078
   youtube: o3TUaUiGQB0
+  tmdb: 844826
 sources:
 - https://www.wikidata.org/wiki/Q4086929
 schema_version: 1
@@ -16,3 +17,5 @@ director:
 - sobolev-feliks-mikhaylovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /VgoFNylgXkEAp7dqoc5bC7spAP.jpg
+backdrop_tmdb_path: /ogxH5z3Lp4vTcfaKEqmQvVuJq8m.jpg

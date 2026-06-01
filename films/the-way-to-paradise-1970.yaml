@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q7773936
   imdb: tt0181779
+  tmdb: 502544
 sources:
 - https://www.wikidata.org/wiki/Q7773936
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: tadich-lyuba
 - person: buzanchich-boris
 - person: nikshich-snezhana
+poster_tmdb_path: /A3l1kA3Hb3ZRz5BLQXUajOgoyvZ.jpg

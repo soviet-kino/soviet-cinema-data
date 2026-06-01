@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1985917
   imdb: tt0126985
   youtube: kmyMb6ogo0s
+  tmdb: 65687
 sources:
 - https://www.wikidata.org/wiki/Q1985917
 schema_version: 1
@@ -76,3 +77,4 @@ cast:
 - person: sedlmayer-jiri
 studio:
 - barrandov
+poster_tmdb_path: /qZT8zeZmF4pJjTsJzWrcar9PvSx.jpg

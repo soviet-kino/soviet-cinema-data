@@ -8,6 +8,7 @@ runtime_min: 35
 external_ids:
   wikidata: Q130759464
   imdb: tt0171506
+  tmdb: 542684
 sources:
 - https://www.wikidata.org/wiki/Q130759464
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - gusner-iris
 cinematographer:
 - yaoyte-gyunter
+poster_tmdb_path: /h3UkSMfBjZ3EeHT9XuUJvPUMF5J.jpg
+backdrop_tmdb_path: /gwVBZxNNoomoBHOIYzIrMXPxU4I.jpg

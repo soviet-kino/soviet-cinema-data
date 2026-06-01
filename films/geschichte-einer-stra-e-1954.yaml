@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q63861131
   imdb: tt1933584
+  tmdb: 1090194
 sources:
 - https://www.wikidata.org/wiki/Q63861131
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - anders-ervin
 composer:
 - gerster-otmar
+poster_tmdb_path: /1CwSIFxj1gMerVCSAL4ljD1uFt7.jpg

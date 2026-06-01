@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4327795
   imdb: tt0093644
   youtube: yUdHdfqIPdY
+  tmdb: 338235
 sources:
 - https://www.wikidata.org/wiki/Q4327795
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 - tokarev-boris-vasilevich
 studio:
 - mosfilm
+poster_tmdb_path: /kDyincCnamTRX2wVOIC8No0gEpP.jpg

@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q16087135
   imdb: tt0085769
+  tmdb: 230570
 sources:
 - https://www.wikidata.org/wiki/Q16087135
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: mandich-velko
 - person: milenkovic-zivojin
 - person: gonchich-svetislav
+poster_tmdb_path: /A8DKAjuDKXLcJsYM0P47yd4WTPN.jpg
+backdrop_tmdb_path: /fWzTda7XMOergRmpySeB7EvnRTD.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270523
   imdb: tt0332492
+  tmdb: 674375
 sources:
 - https://www.wikidata.org/wiki/Q15270523
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: tretyakova-inga-alfredovna
 - person: mateshko-olga-nikolaevna
 - person: merkulov-igor-vladimirovich
+poster_tmdb_path: /tHMq9oEephj9Sam5Wjv2w04BS8f.jpg
+backdrop_tmdb_path: /fQwASjq0tXzJPtNiBc3mliySGaL.jpg

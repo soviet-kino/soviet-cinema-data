@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18292205
   imdb: tt0066909
   youtube: lhIs3c6kY7E
+  tmdb: 638764
 sources:
 - https://www.wikidata.org/wiki/Q18292205
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: andersson-bibi
 - person: tikhonov-vyacheslav-vasilevich
 - person: gaft-valentin-iosifovich
+poster_tmdb_path: /pYCwl5VI5LiUEKj7jxKsyDTLEt2.jpg

@@ -8,6 +8,7 @@ runtime_min: 121
 external_ids:
   wikidata: Q113234030
   imdb: tt6194860
+  tmdb: 626159
 sources:
 - https://www.wikidata.org/wiki/Q113234030
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 cast:
 - person: ktorov-anatoliy-petrovich
 - person: stepanova-angelina-iosifovna
+poster_tmdb_path: /aZrqXHJp6dXjOYyJeCkxwFy2lcg.jpg

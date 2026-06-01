@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4506301
   imdb: tt0293668
   youtube: fPD4gejxSmY
+  tmdb: 371947
 sources:
 - https://www.wikidata.org/wiki/Q4506301
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: volontir-mikhay-ermolaevich
 - person: luchko-klara-stepanovna
 - person: nikulnikov-aleksey-alekseevich
+poster_tmdb_path: /27LRtIWEQwjmvyi9UgJcUuW39AV.jpg

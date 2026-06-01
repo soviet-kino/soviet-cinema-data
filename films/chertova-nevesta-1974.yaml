@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q5267071
   imdb: tt0153509
+  tmdb: 219189
 sources:
 - https://www.wikidata.org/wiki/Q5267071
 schema_version: 1
 director:
 - zhebryunas-arunas
+poster_tmdb_path: /xNRbwGNYbPqeHGPCqtXNNgU1jMV.jpg
+backdrop_tmdb_path: /oI1MXsRK4X1wlAvAC6rm5fYCote.jpg

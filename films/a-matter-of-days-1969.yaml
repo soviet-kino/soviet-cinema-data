@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q55600225
   imdb: tt0065257
+  tmdb: 563650
 sources:
 - https://www.wikidata.org/wiki/Q55600225
 schema_version: 1
@@ -66,3 +67,4 @@ cast:
 - person: vienne-valerie
 - person: garnier-daniele
 - person: marichal-jean-pierre
+poster_tmdb_path: /z2cAO0dL9OqLnCGcJRmhlpEai8S.jpg

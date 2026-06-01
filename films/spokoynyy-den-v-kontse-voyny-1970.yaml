@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4438007
   imdb: tt0066399
   youtube: JqrRWtVkBJc
+  tmdb: 301722
 sources:
 - https://www.wikidata.org/wiki/Q4438007
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: bogatyryov-yuriy-georgievich
 studio:
 - mosfilm
+poster_tmdb_path: /fBPqoe0YGiDJY61i3iI1jJ5r8F7.jpg
+backdrop_tmdb_path: /1j1QeNdJxKrPtl0Gr29nEAfGxZ2.jpg

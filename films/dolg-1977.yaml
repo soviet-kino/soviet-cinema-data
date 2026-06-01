@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q27231121
   imdb: tt0413958
   youtube: nHT-kkBaV0w
+  tmdb: 395826
 sources:
 - https://www.wikidata.org/wiki/Q27231121
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - ekran
 cast:
 - person: olyalin-nikolay-vladimirovich
+poster_tmdb_path: /553ooWG3bp9jE9DHSMbcNwJ0VUx.jpg
+backdrop_tmdb_path: /sZXacmGaGoQEaVBwWLxmL8Uh28O.jpg

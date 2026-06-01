@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4110562
   imdb: tt0332814
   youtube: 5qZ_lKUeNd0
+  tmdb: 71352
 sources:
 - https://www.wikidata.org/wiki/Q4110562
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: fyodorova-viktoriya-yakovlevna
 studio:
 - mosfilm
+poster_tmdb_path: /bbuJ2pA9Np3oFkqPOCskW2mK3V3.jpg
+backdrop_tmdb_path: /dGIikHthaHb5Z2kD5MUIdEFsMnw.jpg

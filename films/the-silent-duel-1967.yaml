@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q3302286
   imdb: tt0061601
+  tmdb: 354564
 sources:
 - https://www.wikidata.org/wiki/Q3302286
 schema_version: 1
@@ -16,3 +17,5 @@ composer:
 - zoraqi-nikolla
 cast:
 - person: ljarja-rikard
+poster_tmdb_path: /9ppMLyzG9kp4xUf5ZpRL9bIWpMD.jpg
+backdrop_tmdb_path: /ahovXmW90eRmqbHzMygq0KWUNw0.jpg

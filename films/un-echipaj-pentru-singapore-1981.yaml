@@ -8,8 +8,10 @@ runtime_min: 95
 external_ids:
   wikidata: Q44875973
   imdb: tt0264566
+  tmdb: 591038
 sources:
 - https://www.wikidata.org/wiki/Q44875973
 schema_version: 1
 director:
 - stan-niku
+poster_tmdb_path: /eHK8k017TGZJDT40Kc424joRdUT.jpg

@@ -8,6 +8,7 @@ runtime_min: 66
 external_ids:
   wikidata: Q4177187
   imdb: tt0030992
+  tmdb: 360995
 sources:
 - https://www.wikidata.org/wiki/Q4177187
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: fyodorova-inna-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /uqqIoDWmG5khY0sDJRZUPqprvIP.jpg

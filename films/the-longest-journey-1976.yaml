@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12287639
   imdb: tt0125942
+  tmdb: 352361
 sources:
 - https://www.wikidata.org/wiki/Q12287639
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: chevrevski-yordanko
 - person: siskov-risto
 - person: angelovski-shishman
+poster_tmdb_path: /6lxm4oIS8V1vnlSfjjY8ieByxw2.jpg

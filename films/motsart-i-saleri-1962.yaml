@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4305149
   imdb: tt0179990
+  tmdb: 394308
 sources:
 - https://www.wikidata.org/wiki/Q4305149
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: milbrets-arnold
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /73t8I3WzcR3i3qH2VuA5b33fpZJ.jpg

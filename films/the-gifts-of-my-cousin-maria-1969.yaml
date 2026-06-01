@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750688
   imdb: tt0200563
+  tmdb: 270508
 sources:
 - https://www.wikidata.org/wiki/Q12750688
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: slobodan-perovich
 - person: kriticheski-liliana
 - person: neda-spasoevich
+poster_tmdb_path: /javjElCL9t1j0eNqLbPowZktbMC.jpg

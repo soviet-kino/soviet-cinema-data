@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q42532244
   imdb: tt14696624
+  tmdb: 309841
 sources:
 - https://www.wikidata.org/wiki/Q42532244
 schema_version: 1
@@ -16,3 +17,4 @@ cinematographer:
 - kruze-gans-yurgen
 composer:
 - siebholz-gerhard
+poster_tmdb_path: /fhrdR45xKyuVk6QMbPmO9dIZO2B.jpg

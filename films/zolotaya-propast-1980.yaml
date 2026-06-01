@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12844684
   imdb: tt0230999
+  tmdb: 524757
 sources:
 - https://www.wikidata.org/wiki/Q12844684
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - ogly-dzhakhangirov-dzhakhangir-shirgyasht
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /pDIdPYyKGczstMWvtRSM9mroLey.jpg
+backdrop_tmdb_path: /hoVCFR3kFsfQ8nQiyyYEYYrxbCR.jpg

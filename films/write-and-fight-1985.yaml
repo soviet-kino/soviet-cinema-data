@@ -8,6 +8,7 @@ runtime_min: 120
 external_ids:
   wikidata: Q11818503
   imdb: tt0089812
+  tmdb: 149431
 sources:
 - https://www.wikidata.org/wiki/Q11818503
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: krukovski-andzhey
 - person: gustav-lyutkevich
 - person: moes-jerzy
+poster_tmdb_path: /8f8bgCecgfUIv7cMfODMrdcoFK.jpg
+backdrop_tmdb_path: /vd4r4qXTg2FRvLdjeS7zOqLDRUB.jpg

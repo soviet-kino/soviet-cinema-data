@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9283167
   imdb: tt1080677
+  tmdb: 581861
 sources:
 - https://www.wikidata.org/wiki/Q9283167
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kozhinskiy-andzhey
 cast:
 - person: hanin-ryszarda
+poster_tmdb_path: /7REZWtkFZOFWmXHKiF0iFlyykgR.jpg

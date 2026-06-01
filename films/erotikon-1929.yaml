@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q1114062
   imdb: tt0019850
+  tmdb: 190091
 sources:
 - https://www.wikidata.org/wiki/Q1114062
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: livia-bronislava
 - person: saxl-bedrich
 - person: zichovsky-vaclav
+poster_tmdb_path: /cvj24f55BVPpwN1tTrlPLZSq80j.jpg
+backdrop_tmdb_path: /5pjvGFm1yt1zFZbc6VntaOoxV4Q.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9313024
   imdb: tt0078175
+  tmdb: 850776
 sources:
 - https://www.wikidata.org/wiki/Q9313024
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - kazanetskiy-valdemar
 cast:
 - person: brylska-barbara
+poster_tmdb_path: /6gpYSPmHhIimq6ae7JmrIjnDy7q.jpg

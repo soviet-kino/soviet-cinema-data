@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q65158393
   imdb: tt0347454
+  tmdb: 1422053
 sources:
 - https://www.wikidata.org/wiki/Q65158393
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - krylatov-evgeniy
 studio:
 - tadzhikfilm
+poster_tmdb_path: /efrZFiuWPUM1WxKZRq1KAQG2egl.jpg
+backdrop_tmdb_path: /78i5JitRnVF4EudQgMgS8yt74tD.jpg

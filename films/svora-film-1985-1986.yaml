@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q61388780
   imdb: tt0275714
+  tmdb: 203033
 sources:
 - https://www.wikidata.org/wiki/Q61388780
 schema_version: 1
@@ -17,3 +18,5 @@ composer:
 - kangro-raymo
 studio:
 - tallinfilm
+poster_tmdb_path: /1wD8BMa6fg5MLMEKmflperFOuRG.jpg
+backdrop_tmdb_path: /g4ExGTypB93YRezIVSEm76HrZqq.jpg

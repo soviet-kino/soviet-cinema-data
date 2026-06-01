@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q1475404
   imdb: tt0066035
+  tmdb: 198659
 sources:
 - https://www.wikidata.org/wiki/Q1475404
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: meszlery-judit
 - person: andonov-ivan-asenov
 - person: kertesz-peter
+poster_tmdb_path: /yHhmeim68Ak5C418cBFSmpJiWcM.jpg
+backdrop_tmdb_path: /vYcQm52AxMPuKbavS7iqgQlCFCf.jpg

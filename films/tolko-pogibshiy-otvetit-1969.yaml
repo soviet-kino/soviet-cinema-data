@@ -8,6 +8,7 @@ runtime_min: 88
 external_ids:
   wikidata: Q9363573
   imdb: tt0065136
+  tmdb: 374139
 sources:
 - https://www.wikidata.org/wiki/Q9363573
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: talarchik-kazimir
 - person: zbyszewska-maria
 - person: q119891756
+poster_tmdb_path: /inEgiiYRR5LglikWU5Ip6JXwvhz.jpg

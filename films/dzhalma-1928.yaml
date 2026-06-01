@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428708
   imdb: tt11889628
+  tmdb: 1111263
 sources:
 - https://www.wikidata.org/wiki/Q109428708
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 screenwriter:
 - kordyum-arnold-vladimirovich
 - okhrimenko-vadim-ivanovich
+poster_tmdb_path: /pCIEIs8vjFLsip6AN6UXNUhXft9.jpg
+backdrop_tmdb_path: /agkh9D3IVMxQAqcCAk2YOTLAdJx.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4167395
   imdb: tt0071428
   youtube: UwNNr2shSms
+  tmdb: 83480
 sources:
 - https://www.wikidata.org/wiki/Q4167395
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: smoktunovskiy-innokentiy-mikhaylovich
 - person: makarova-tamara-fyodorovna
 - person: polekhina-lyubov-timofeevna
+poster_tmdb_path: /tVviy4oBn6f5IjMwb0EUDWHIGUv.jpg
+backdrop_tmdb_path: /saHShC09roGVgEMu72Utv8pzRtq.jpg

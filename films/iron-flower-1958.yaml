@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q6072520
   imdb: tt0052349
+  tmdb: 199190
 sources:
 - https://www.wikidata.org/wiki/Q6072520
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: varadi-hedi
 studio:
 - hunnia-film-studio
+poster_tmdb_path: /cTFZBp8PX8dXeRLjgB5C1Gj8zIp.jpg

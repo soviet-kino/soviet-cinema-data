@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q11716277
   imdb: tt0077763
+  tmdb: 284381
 sources:
 - https://www.wikidata.org/wiki/Q11716277
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - lozinskiy-marsel
 cinematographer:
 - petritskiy-yatsek
+poster_tmdb_path: /uk0OVVtCtFe7EuPWXtIxdhThMmz.jpg

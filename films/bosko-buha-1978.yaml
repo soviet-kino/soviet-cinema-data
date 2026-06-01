@@ -8,6 +8,7 @@ runtime_min: 124
 external_ids:
   wikidata: Q3514215
   imdb: tt0078897
+  tmdb: 46209
 sources:
 - https://www.wikidata.org/wiki/Q3514215
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - bauer-branko
 cast:
 - person: radich-zarko
+poster_tmdb_path: /lTUfu5No1uplSqamXMwFSIA4jhj.jpg
+backdrop_tmdb_path: /e1XE8pdb0F2yHpTmy6lvEB2EzDi.jpg

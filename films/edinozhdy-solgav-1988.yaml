@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q13224589
   imdb: tt0094348
+  tmdb: 449855
 sources:
 - https://www.wikidata.org/wiki/Q13224589
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: belyaev-yuriy-viktorovich
 studio:
 - lenfilm
+poster_tmdb_path: /f7f3bftE0JrTrUkS70R4nujPpzt.jpg
+backdrop_tmdb_path: /6xjspzWdfMGbWDB6lyWcJFI1B4h.jpg

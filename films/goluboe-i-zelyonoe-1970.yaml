@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q108600191
   imdb: tt7473212
   youtube: d4sieEXwdZw
+  tmdb: 813232
 sources:
 - https://www.wikidata.org/wiki/Q108600191
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: kikhtyova-irina-aleksandrovna
 - person: panchenko-viktor-ivanovich
 - person: yanpavlis-vitold
+poster_tmdb_path: /bd8wYGWJy48mMLUHOZTJYWQccQc.jpg

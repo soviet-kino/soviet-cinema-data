@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4534640
   imdb: tt0129654
   youtube: mW9APn3L9lQ
+  tmdb: 611778
 sources:
 - https://www.wikidata.org/wiki/Q4534640
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 studio:
 - lenfilm
 poster_commons: Junost poeta.jpg
+poster_tmdb_path: /v5NHqO6SFl8u0PEb48QpUF8Q0ex.jpg

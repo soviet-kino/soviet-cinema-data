@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4421721
   imdb: tt0060989
   youtube: IH6tvRce1hI
+  tmdb: 257927
 sources:
 - https://www.wikidata.org/wiki/Q4421721
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: obukhov-anatoliy-matveevich
 studio:
 - mosfilm
+poster_tmdb_path: /gxZ1L2eqMIVMPXjaueMjs7VIqPa.jpg
+backdrop_tmdb_path: /kRpvK8nytryv7WvlPjo6wurRJ3S.jpg

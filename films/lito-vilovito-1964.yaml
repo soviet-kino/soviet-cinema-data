@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12754596
   imdb: tt0058295
+  tmdb: 372295
 sources:
 - https://www.wikidata.org/wiki/Q12754596
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: samardzhich-lyubisha
 - person: milena-dravich
 - person: angelovski-kole
+poster_tmdb_path: /6rQ4UCkGlhOTIVlbOQPEWYQRqpw.jpg

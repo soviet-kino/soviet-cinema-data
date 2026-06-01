@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20001896
   imdb: tt0389554
+  tmdb: 539968
 sources:
 - https://www.wikidata.org/wiki/Q20001896
 schema_version: 1
@@ -15,3 +16,4 @@ director:
 - bielinska-halina
 studio:
 - studio-miniatur-filmowych
+poster_tmdb_path: /u1fBsY5OIoth9iiI6jEPpP5tHta.jpg

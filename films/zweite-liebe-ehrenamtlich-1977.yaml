@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q100998223
   imdb: tt1896863
+  tmdb: 283063
 sources:
 - https://www.wikidata.org/wiki/Q100998223
 schema_version: 1
@@ -51,3 +52,5 @@ cast:
 - person: berndt-ernst-peter
 studio:
 - deutscher-fernsehfunk
+poster_tmdb_path: /2eJSvf9UK85XubRi2mUIcCDgXXn.jpg
+backdrop_tmdb_path: /tU7JudMdj5ZnHMYaPQVOR1EKczC.jpg

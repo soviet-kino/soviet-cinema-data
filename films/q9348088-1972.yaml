@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9348088
   imdb: tt0295474
+  tmdb: 461321
 sources:
 - https://www.wikidata.org/wiki/Q9348088
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - khakani-khisen
 composer:
 - dizdari-limoz
+poster_tmdb_path: /aO26VP1BfhJTUxyeDiyTgLkW3Av.jpg
+backdrop_tmdb_path: /katvMRJTjXqtyweiMjXmWzDbDKm.jpg

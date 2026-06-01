@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4055597
   imdb: tt1240900
+  tmdb: 198876
 sources:
 - https://www.wikidata.org/wiki/Q4055597
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - shubert-frants
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /fwolpkjDbdsFsRYk5Id3NFsgaas.jpg

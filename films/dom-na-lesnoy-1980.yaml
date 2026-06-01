@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4165532
   imdb: tt0207419
+  tmdb: 1384444
 sources:
 - https://www.wikidata.org/wiki/Q4165532
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: kharchenko-sergey-vasilevich
 studio:
 - gruziya-film
+poster_tmdb_path: /75kKw1QQHevhOERJWGFXYOuxDMR.jpg

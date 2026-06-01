@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4128545
   imdb: tt0032104
   youtube: 4-eLvivPuIk
+  tmdb: 262747
 sources:
 - https://www.wikidata.org/wiki/Q4128545
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - lenfilm
 poster_commons: Плакат к фильму «Выборгская сторона».jpg
+poster_tmdb_path: /abaWgUwtBNQQCvbjvID8edX0Iol.jpg
+backdrop_tmdb_path: /jWcDvqGWAeJewkeGo8maBAwE0ys.jpg

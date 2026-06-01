@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3225036
   imdb: tt0026793
   youtube: 0UuawelhwbY
+  tmdb: 152948
 sources:
 - https://www.wikidata.org/wiki/Q3225036
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: yudin-ivan
 studio:
 - mosfilm
+poster_tmdb_path: /3PEVkNPqxWYDhdrYK6MeKHfH1EY.jpg
+backdrop_tmdb_path: /qH4Xtos5TFJOz7MGkqLLkIZ7fy1.jpg

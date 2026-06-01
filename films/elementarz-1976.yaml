@@ -8,6 +8,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q109562531
   imdb: tt0367697
+  tmdb: 283309
 sources:
 - https://www.wikidata.org/wiki/Q109562531
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - hajdun-janusz
 studio:
 - wytwornia-filmow-oswiatowych
+poster_tmdb_path: /9YgWGDCYZFiaKu3wkrM79qeaClT.jpg

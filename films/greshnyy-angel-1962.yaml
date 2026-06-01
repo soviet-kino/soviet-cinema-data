@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q60851723
   imdb: tt0382060
+  tmdb: 809784
 sources:
 - https://www.wikidata.org/wiki/Q60851723
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - simonyan-nadezhda
 studio:
 - lenfilm
+poster_tmdb_path: /hqknDZn7xJq82H566HJj4WIl87c.jpg

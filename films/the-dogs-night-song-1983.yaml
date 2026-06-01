@@ -8,8 +8,10 @@ runtime_min: 150
 external_ids:
   wikidata: Q47138602
   imdb: tt0085815
+  tmdb: 132800
 sources:
 - https://www.wikidata.org/wiki/Q47138602
 schema_version: 1
 director:
 - body-gabor
+poster_tmdb_path: /lApMKXxhLHVnPaHvtMRbEVlayZ.jpg

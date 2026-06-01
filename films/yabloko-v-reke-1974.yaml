@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1532674
   imdb: tt2395129
   youtube: bp7sTuwOlOg
+  tmdb: 247749
 sources:
 - https://www.wikidata.org/wiki/Q1532674
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: kalnynsh-ivar
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /l4iUiaplD4OsiZus6ocf8ZSYhJM.jpg
+backdrop_tmdb_path: /voU2lVbvsxjKnSNvXjgmIFjCvZ.jpg

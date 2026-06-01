@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q116864909
   imdb: tt5045602
   youtube: aXIx5PY98J4
+  tmdb: 542815
 sources:
 - https://www.wikidata.org/wiki/Q116864909
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: kayurov-yuriy-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /a0ogg12N25U1rXhhyQP0pRQvaG2.jpg

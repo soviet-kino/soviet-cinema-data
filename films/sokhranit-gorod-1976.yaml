@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3023466
   imdb: tt0074993
   youtube: qSADcqFDSlE
+  tmdb: 751870
 sources:
 - https://www.wikidata.org/wiki/Q3023466
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 studio:
 - mosfilm
 - studio-filmowe-kadr
+poster_tmdb_path: /2Pe8ubR2f8r7oF3Yuo9gTIrBEwJ.jpg

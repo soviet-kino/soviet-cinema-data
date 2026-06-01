@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q115158321
   imdb: tt0049179
+  tmdb: 328268
 sources:
 - https://www.wikidata.org/wiki/Q115158321
 schema_version: 1
 director:
 - tamash-banovich
+poster_tmdb_path: /183Gv4wDXlYJ0Rl8JX8o6Jjtawk.jpg

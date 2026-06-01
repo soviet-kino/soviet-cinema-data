@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q9350909
   imdb: tt0054359
+  tmdb: 210611
 sources:
 - https://www.wikidata.org/wiki/Q9350909
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: karkovska-kristina
 studio:
 - kamera-kinostudiya
+poster_tmdb_path: /b8cNXTpmN0xjKE07yikStrpOv4W.jpg
+backdrop_tmdb_path: /nmtfshmYED4xRPyhvF5lnSv6Z4u.jpg

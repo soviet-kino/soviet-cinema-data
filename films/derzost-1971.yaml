@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4158938
   imdb: tt0313962
   youtube: 6jkGfhQs19Q
+  tmdb: 134333
 sources:
 - https://www.wikidata.org/wiki/Q4158938
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: stanislav-ivanovich-stankevich
 - person: susnin-aleksandr
 - person: fedorinskiy-alim-vladimirovich
+poster_tmdb_path: /aeUMKBM9B2q2eqIalNYnFRDrQG1.jpg
+backdrop_tmdb_path: /14J3XixRnhCaD8aKrbvRwtmvuMj.jpg

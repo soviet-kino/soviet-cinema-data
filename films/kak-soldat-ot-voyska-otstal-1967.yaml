@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4208848
   imdb: tt0274634
+  tmdb: 399760
 sources:
 - https://www.wikidata.org/wiki/Q4208848
 schema_version: 1
@@ -16,3 +17,5 @@ cinematographer:
 - kalatozishvili-georgiy-mikhaylovich
 cast:
 - person: berikashvili-givi-zakharevich
+poster_tmdb_path: /utPWtafgaeIIrhyi2j9CUTRQc4y.jpg
+backdrop_tmdb_path: /zbCeEYBkflUHgXgyl8eXjfs3kRl.jpg

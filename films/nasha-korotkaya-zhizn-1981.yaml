@@ -8,6 +8,7 @@ runtime_min: 113
 external_ids:
   wikidata: Q7111172
   imdb: tt0081690
+  tmdb: 289297
 sources:
 - https://www.wikidata.org/wiki/Q7111172
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: korner-ditrikh
 - person: stra-burger-helmut
 - person: bayer-german
+poster_tmdb_path: /74vKYacHmKBtESTwlWnazpxFLC1.jpg
+backdrop_tmdb_path: /yIQJWoGu2jDeIdABcnO1jjYsMVh.jpg

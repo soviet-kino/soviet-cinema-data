@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1640074
   imdb: tt0059323
   youtube: ylLLA9Q5kqU
+  tmdb: 231801
 sources:
 - https://www.wikidata.org/wiki/Q1640074
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: prygunov-lev-georgievich
 studio:
 - mosfilm
+poster_tmdb_path: /cPpgR6Jn9E5xb0uTrsktv5HLTkr.jpg
+backdrop_tmdb_path: /6radXIO0CMUhVbG6KbCFIuhUVVU.jpg

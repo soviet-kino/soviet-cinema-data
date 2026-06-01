@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q111462505
   imdb: tt0286872
+  tmdb: 694533
 sources:
 - https://www.wikidata.org/wiki/Q111462505
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - moldavskiy-aleksandr-efimovich
 studio:
 - gruziya-film
+poster_tmdb_path: /iO7c2Tx7x3mH98xVzbO7myC32NM.jpg
+backdrop_tmdb_path: /so6ZZgUovhQ4mcYwsn9JmEzLtF5.jpg

@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q9372890
   imdb: tt0076922
+  tmdb: 207412
 sources:
 - https://www.wikidata.org/wiki/Q9372890
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - kazanetskiy-valdemar
 studio:
 - studiya-risovannykh-filmov
+poster_tmdb_path: /rDAjISp1gQdWuJflHCSmjgkhFzd.jpg
+backdrop_tmdb_path: /5JqIxEvw9FEAd2FMxKfifWJokm7.jpg

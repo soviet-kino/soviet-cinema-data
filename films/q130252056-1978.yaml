@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q130252056
   imdb: tt0078554
+  tmdb: 340108
 sources:
 - https://www.wikidata.org/wiki/Q130252056
 schema_version: 1
@@ -16,3 +17,4 @@ director:
 screenwriter:
 - richter-helmut
 - jakubeit-peter
+poster_tmdb_path: /flSWlI5Z8D6gQBekuc7w179oPli.jpg

@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q1305085
   imdb: tt0092300
+  tmdb: 414449
 sources:
 - https://www.wikidata.org/wiki/Q1305085
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: mikhaylovskiy-nikita-viktorovich
 studio:
 - mosfilm
+poster_tmdb_path: /xXlDXsrOEXuKL21P61x33w4lZxE.jpg
+backdrop_tmdb_path: /lQWHwz8diU3DPomdvsw5fA5KAlE.jpg

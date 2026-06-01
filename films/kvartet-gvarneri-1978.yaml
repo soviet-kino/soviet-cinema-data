@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4218534
   imdb: tt0385823
+  tmdb: 494736
 sources:
 - https://www.wikidata.org/wiki/Q4218534
 schema_version: 1
@@ -16,3 +17,5 @@ studio:
 - odesskaya-kinostudiya
 cast:
 - person: solomin-yuriy-mefodevich
+poster_tmdb_path: /c3jg1Lrcs9a1nwSoSGaf66AtDoN.jpg
+backdrop_tmdb_path: /kz9IM1cM4mb0GrmzOrDVuwb9fyN.jpg

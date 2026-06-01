@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q103866320
   imdb: tt0380402
+  tmdb: 283055
 sources:
 - https://www.wikidata.org/wiki/Q103866320
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: gorges-ingolf
 - person: kelling-petra
 - person: lirk-verner
+poster_tmdb_path: /2c6eIgmrwEYUQeK07hrZAF3yGoy.jpg

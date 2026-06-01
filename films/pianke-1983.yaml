@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q25016233
   imdb: tt0125455
+  tmdb: 239589
 sources:
 - https://www.wikidata.org/wiki/Q25016233
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: heidenreich-alexander
 studio:
 - defa
+poster_tmdb_path: /dmjeJQOjhux2J0crxOiepQ5ztBb.jpg
+backdrop_tmdb_path: /4S8sRCXbMi8qsyk00pjQU5mxpHK.jpg

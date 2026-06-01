@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q1213324
   imdb: tt0061755
+  tmdb: 153469
 sources:
 - https://www.wikidata.org/wiki/Q1213324
 schema_version: 1
@@ -38,3 +39,5 @@ cast:
 - person: resler-jorg
 - person: ivanova-tatyana-pavlovna
 - person: zahn-albert
+poster_tmdb_path: /luCxPtJlzqPg7vmcUvaLqUUE9A7.jpg
+backdrop_tmdb_path: /24vlmbjMlaEbYHl9echoB93BEaT.jpg

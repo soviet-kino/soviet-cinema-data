@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q114298807
   imdb: tt0329726
   youtube: Lw1zZgngkMw
+  tmdb: 827264
 sources:
 - https://www.wikidata.org/wiki/Q114298807
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - marutaev-mikhail-aleksandrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /2nhOd2DID2Pky5U94V8OY3zWl5F.jpg

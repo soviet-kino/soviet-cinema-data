@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q12370388
   imdb: tt0445566
+  tmdb: 604168
 sources:
 - https://www.wikidata.org/wiki/Q12370388
 schema_version: 1
@@ -21,3 +22,5 @@ studio:
 - tallinfilm
 cast:
 - person: koppel-eynari
+poster_tmdb_path: /x5qqDZeTeuvnfPPA7PegygpN6bh.jpg
+backdrop_tmdb_path: /dlha04mXVe2SqcSC4pQBJRN8eWs.jpg

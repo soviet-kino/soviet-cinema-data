@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q28726426
   imdb: tt0072620
+  tmdb: 508447
 sources:
 - https://www.wikidata.org/wiki/Q28726426
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - nagi-george
 studio:
 - radef
+poster_tmdb_path: /ro3PgsmJGZGfKoJjHSbff3bPi7Z.jpg
+backdrop_tmdb_path: /t9SqbJILOKXfZD16G5i1mqpkSSG.jpg

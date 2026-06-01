@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18538985
   imdb: tt0126241
+  tmdb: 1600010
 sources:
 - https://www.wikidata.org/wiki/Q18538985
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: pellya-oana
 - person: iosifesku-cherasela
 - person: pancu-liviu
+poster_tmdb_path: /jJwduwy4duSfkqw2QjXRxnjw7dI.jpg
+backdrop_tmdb_path: /5EFipvtbPKzkGtfYfePllZr3YYT.jpg

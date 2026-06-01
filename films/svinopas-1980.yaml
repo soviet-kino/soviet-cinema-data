@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16695336
   imdb: tt6198066
+  tmdb: 91643
 sources:
 - https://www.wikidata.org/wiki/Q16695336
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - ziv-mikhail-pavlovich
 studio:
 - ekran
+poster_tmdb_path: /h1CW22iqAGEj5Nx4FN1HZLvBnS8.jpg

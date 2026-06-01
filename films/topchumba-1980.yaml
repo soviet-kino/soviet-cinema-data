@@ -8,6 +8,7 @@ runtime_min: 603
 external_ids:
   wikidata: Q16706978
   imdb: tt6416638
+  tmdb: 446400
 sources:
 - https://www.wikidata.org/wiki/Q16706978
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - zakhoder-boris-vladimirovich
 studio:
 - ekran
+poster_tmdb_path: /wUMqOBbPPYLojOcw14KahUGe4Bp.jpg

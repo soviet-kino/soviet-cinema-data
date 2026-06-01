@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4231882
   imdb: tt4844660
+  tmdb: 637083
 sources:
 - https://www.wikidata.org/wiki/Q4231882
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: martynov-sergey
 - person: pereladova-svetlana-semyonovna
 - person: shanina-elena-yurevna
+poster_tmdb_path: /apJHVjvEZUhmdLVKNlAhMjp0Jn.jpg
+backdrop_tmdb_path: /2jboPd20qBmIRFIhHmxX6lRj9ZQ.jpg

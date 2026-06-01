@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q7680434
   imdb: tt0171809
+  tmdb: 344955
 sources:
 - https://www.wikidata.org/wiki/Q7680434
 schema_version: 1
@@ -51,3 +52,4 @@ cast:
 - person: st-karel-hovorka
 - person: q131765966
 - person: lhotakova-marie
+poster_tmdb_path: /b03UIiTJ4ojtF3SZEPxnJhY9ndY.jpg

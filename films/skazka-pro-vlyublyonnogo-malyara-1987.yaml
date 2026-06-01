@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4421394
   imdb: tt0271191
+  tmdb: 461703
 sources:
 - https://www.wikidata.org/wiki/Q4421394
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: stotskiy-nikolay-viktorovich
 studio:
 - lenfilm
+poster_tmdb_path: /kDBUVHVmoTqupXCfd5YLY4xKIiz.jpg
+backdrop_tmdb_path: /8TkZAkLPsbEw3o2k5j0IYlLppIa.jpg

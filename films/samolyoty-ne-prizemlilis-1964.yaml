@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q106641791
   imdb: tt6180468
+  tmdb: 1431722
 sources:
 - https://www.wikidata.org/wiki/Q106641791
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: chungak-semyon-roshelevich
 studio:
 - uzbekfilm
+poster_tmdb_path: /pt8MkZgd6IacmR9wZkqLFwEeXCi.jpg

@@ -8,6 +8,7 @@ runtime_min: 52
 external_ids:
   wikidata: Q23563743
   imdb: tt0230122
+  tmdb: 411080
 sources:
 - https://www.wikidata.org/wiki/Q23563743
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - freytag-manfred
 composer:
 - geisthardt-hans-joachim
+poster_tmdb_path: /jNs5P1LA9VQf6R9Jkt6lr2Gc15b.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3506213
   imdb: tt0065650
+  tmdb: 296912
 sources:
 - https://www.wikidata.org/wiki/Q3506213
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: neda-spasoevich
 studio:
 - yadran-film
+poster_tmdb_path: /e70ut9mKIASJCLaAEMVoqs1Yd3n.jpg
+backdrop_tmdb_path: /pL1OLfU881Xui6kOwLkmHqaDzpD.jpg

@@ -8,8 +8,11 @@ runtime_min: 88
 external_ids:
   wikidata: Q7242978
   imdb: tt0079747
+  tmdb: 504065
 sources:
 - https://www.wikidata.org/wiki/Q7242978
 schema_version: 1
 cast:
 - person: vuisich-pavle
+poster_tmdb_path: /35Z3owkiFhF3MTkHaWFbRNXdZCl.jpg
+backdrop_tmdb_path: /kC7e4clqrZdUtJTWMSjBq69z9lf.jpg

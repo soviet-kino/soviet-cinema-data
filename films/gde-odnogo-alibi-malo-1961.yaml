@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q12029117
   imdb: tt0231891
+  tmdb: 368811
 sources:
 - https://www.wikidata.org/wiki/Q12029117
 schema_version: 1
@@ -65,3 +66,5 @@ cast:
 - person: buresova-vera
 - person: hadrava-frantisek
 - person: geislerova-milena
+poster_tmdb_path: /dJ0p19W3TMYlSqP3OwRcJxFfjwH.jpg
+backdrop_tmdb_path: /jp5r0N9K1mT6eBWMYcVNhukAcvm.jpg

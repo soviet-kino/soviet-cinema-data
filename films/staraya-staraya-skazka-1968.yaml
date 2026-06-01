@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1305759
   imdb: tt0166367
   youtube: 5PiZpZfbvJY
+  tmdb: 80244
 sources:
 - https://www.wikidata.org/wiki/Q1305759
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: etush-vladimir-abramovich
 studio:
 - lenfilm
+poster_tmdb_path: /yWl0UDEmRX0HG2F1nNpx0FV2S52.jpg
+backdrop_tmdb_path: /nWUjBeFm4s9d6el6N8ViUTKDqJ3.jpg

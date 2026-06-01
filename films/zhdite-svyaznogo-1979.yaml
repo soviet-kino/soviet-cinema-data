@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4178563
   imdb: tt0280633
   youtube: n4PeWRL42to
+  tmdb: 554720
 sources:
 - https://www.wikidata.org/wiki/Q4178563
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 studio:
 - gruziya-film
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /5iDEMtqm4sdEuUHi7qU4ertDgD6.jpg
+backdrop_tmdb_path: /5ZaiyoZuPuAb3Z9oa4thjxeIqEk.jpg

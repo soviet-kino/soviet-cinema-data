@@ -8,6 +8,7 @@ runtime_min: 70
 external_ids:
   wikidata: Q97168139
   imdb: tt0149840
+  tmdb: 892552
 sources:
 - https://www.wikidata.org/wiki/Q97168139
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: potapov-aleksandr-sergeevich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /kRyxqiDdot4FhP0y09xv4qvO2gK.jpg
+backdrop_tmdb_path: /lM3COx2moKxDHgjqP3WUhhtDiOJ.jpg

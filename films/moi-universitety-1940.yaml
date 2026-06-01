@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2901494
   imdb: tt0032802
   youtube: GKpstSbaLBs
+  tmdb: 148943
 sources:
 - https://www.wikidata.org/wiki/Q2901494
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 studio:
 - soyuzdetfilm
 poster_commons: Tadeusz Trepkowski Moje uniwersytety.webp
+poster_tmdb_path: /eQVUE3UswDijfagWtyyhxguKwM2.jpg
+backdrop_tmdb_path: /95crREiT253h45UOz19N0PTIfhd.jpg

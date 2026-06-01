@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q4283812
   imdb: tt1268244
+  tmdb: 853978
 sources:
 - https://www.wikidata.org/wiki/Q4283812
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: politseymako-vitaliy-pavlovich
 studio:
 - belarusfilm
+poster_tmdb_path: /6T8N1xmwwHeLLN5pKrSiGZ9rZUL.jpg

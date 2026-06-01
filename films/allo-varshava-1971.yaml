@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4062655
   imdb: tt1407930
   youtube: 6HUX9ljHswc
+  tmdb: 79847
 sources:
 - https://www.wikidata.org/wiki/Q4062655
 schema_version: 1
@@ -22,3 +23,5 @@ studio:
 cast:
 - person: nedashkovskaya-raisa-stepanovna
 - person: bortnikov-gennadiy-leonidovich
+poster_tmdb_path: /7L7OLPqawBf2g0vSnqB7IUpIqXJ.jpg
+backdrop_tmdb_path: /aTs8uEWvxm8ej1f1NgMizp8CaK9.jpg

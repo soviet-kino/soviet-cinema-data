@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4054845
   imdb: tt0147816
   youtube: jffBO6eGfag
+  tmdb: 548311
 sources:
 - https://www.wikidata.org/wiki/Q4054845
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: galkin-vladislav
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /k9ik4HyxvnEPXkHZq58ONzpzNN1.jpg
+backdrop_tmdb_path: /e5Hez2AFfc30gvHAgKzYobAf2VP.jpg

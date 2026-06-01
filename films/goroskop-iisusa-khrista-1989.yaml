@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q6188097
   imdb: tt0095422
+  tmdb: 260826
 sources:
 - https://www.wikidata.org/wiki/Q6188097
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: borbath-ottilia
 - person: udvarosh-dorottya
 - person: cherkhalmi-dyord
+poster_tmdb_path: /knE7APWuCkHprlkEeNBmyKWlMPL.jpg
+backdrop_tmdb_path: /pzBYU6uUcVzliqz1sLk5e3Xjhyg.jpg

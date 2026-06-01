@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q4366950
   imdb: tt0234944
+  tmdb: 484450
 sources:
 - https://www.wikidata.org/wiki/Q4366950
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: lie-arne
 studio:
 - lenfilm
+poster_tmdb_path: /nhwS8QEgUnNynvjtBaqmxzxOvk.jpg

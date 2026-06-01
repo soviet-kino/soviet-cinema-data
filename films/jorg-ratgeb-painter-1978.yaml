@@ -8,6 +8,7 @@ runtime_min: 101
 external_ids:
   wikidata: Q16988313
   imdb: tt0077787
+  tmdb: 263810
 sources:
 - https://www.wikidata.org/wiki/Q16988313
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: trettau-martin
 - person: shveglik-alois
 - person: noyman-tomas
+poster_tmdb_path: /9QWgzzr6At97frzhHBFx6lXzniU.jpg

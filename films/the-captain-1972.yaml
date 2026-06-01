@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11001907
   imdb: tt0295363
+  tmdb: 393165
 sources:
 - https://www.wikidata.org/wiki/Q11001907
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - plasari-skender
 composer:
 - hoshafi-tasim
+poster_tmdb_path: /b56Zq6elZNFYECuBzdbghnIA284.jpg
+backdrop_tmdb_path: /6QI0HOqBmSjWrtlsb34zbm9DoU3.jpg

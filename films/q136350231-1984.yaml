@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q136350231
   imdb: tt0087531
+  tmdb: 299776
 sources:
 - https://www.wikidata.org/wiki/Q136350231
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: lonch-laura
 - person: rutkiewicz-jan
 - person: gebski-filip
+poster_tmdb_path: /dBoaIZViO4OF4AmreaLByChfwME.jpg

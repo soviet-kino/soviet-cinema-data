@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4335149
   imdb: tt0237522
   youtube: 7tmdV27H4m4
+  tmdb: 263940
 sources:
 - https://www.wikidata.org/wiki/Q4335149
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: tabakov-anton-olegovich
 studio:
 - ekran
+poster_tmdb_path: /oLp1IlXX2pc5BgIRunQHgcLSUTy.jpg
+backdrop_tmdb_path: /9gQKmFt3zSSI82OAd6MOnhZgf9U.jpg

@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q1199460
   imdb: tt0054114
+  tmdb: 372125
 sources:
 - https://www.wikidata.org/wiki/Q1199460
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: borges-manfred
 - person: henker-paul-r
 - person: troegner-werner
+poster_tmdb_path: /2ff3cW71EUQHtccNReiGRMXWCap.jpg

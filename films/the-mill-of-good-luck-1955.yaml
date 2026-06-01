@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q7751441
   imdb: tt0048382
+  tmdb: 199206
 sources:
 - https://www.wikidata.org/wiki/Q7751441
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: reutu-kolya
 - person: bulke-ioana
 - person: barton-dzheo
+poster_tmdb_path: /kmuPWvluULTlDHYzMybtRD69FNk.jpg
+backdrop_tmdb_path: /kW3UbmzAuLnlylbl1hXM1Uhzq8k.jpg

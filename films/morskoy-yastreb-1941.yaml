@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4303417
   imdb: tt0239667
   youtube: Ru9Jg5G2be8
+  tmdb: 534547
 sources:
 - https://www.wikidata.org/wiki/Q4303417
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 studio:
 - uzbekfilm
 - odesskaya-kinostudiya
+poster_tmdb_path: /xdMaNFGfqVLtpBtr1HCcsZvtQVU.jpg
+backdrop_tmdb_path: /5cu1Qb1DoiRO8lkzaPetV2SyWuF.jpg

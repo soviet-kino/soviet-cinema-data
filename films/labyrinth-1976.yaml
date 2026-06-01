@@ -8,8 +8,10 @@ runtime_min: 91
 external_ids:
   wikidata: Q1475538
   imdb: tt0074767
+  tmdb: 284786
 sources:
 - https://www.wikidata.org/wiki/Q1475538
 schema_version: 1
 director:
 - kovach-andrash
+poster_tmdb_path: /1tqYP0WPGaBBJhyCs0AWcJHafxJ.jpg

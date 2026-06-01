@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q18547039
   imdb: tt0131545
+  tmdb: 345279
 sources:
 - https://www.wikidata.org/wiki/Q18547039
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: popovichi-eudzheniya
 studio:
 - q111550187
+poster_tmdb_path: /svlAX38oAjdU2BBBlf5l7HeJ8NV.jpg
+backdrop_tmdb_path: /uunUtoCxYL31PZQBTkaS8czzeIK.jpg

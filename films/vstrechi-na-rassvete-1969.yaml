@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q58378419
   imdb: tt0335540
+  tmdb: 835071
 sources:
 - https://www.wikidata.org/wiki/Q58378419
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - kuzmich-aedonitskiy-pavel
 studio:
 - mosfilm
+poster_tmdb_path: /a004iZSQZS1ifEASdt7Ul9YwXox.jpg
+backdrop_tmdb_path: /bUt6mnRJsCQ3mbaH9CZqX5VO9li.jpg

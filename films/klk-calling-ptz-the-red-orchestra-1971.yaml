@@ -8,6 +8,7 @@ runtime_min: 178
 external_ids:
   wikidata: Q1718784
   imdb: tt0067284
+  tmdb: 276591
 sources:
 - https://www.wikidata.org/wiki/Q1718784
 schema_version: 1
@@ -81,3 +82,5 @@ cast:
 - person: wei-siegfried
 studio:
 - defa
+poster_tmdb_path: /wKrYmW1JnXM2MsPL0G5BVr8U8yg.jpg
+backdrop_tmdb_path: /szj6dT8haXxX5IXENxMIF5alkDh.jpg

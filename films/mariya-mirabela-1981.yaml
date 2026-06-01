@@ -31,6 +31,9 @@ external_ids:
   wikidata: Q4281621
   imdb: tt0155858
   youtube: lc3faWGVZ9U
+  tmdb: 75372
 sources:
 - https://www.wikidata.org/wiki/Q4281621
 schema_version: 1
+poster_tmdb_path: /j9mY3WCmkH8YYzNDt0dVVKGPOHs.jpg
+backdrop_tmdb_path: /j9pajS6TnNyaLZws2KykAmawRGZ.jpg

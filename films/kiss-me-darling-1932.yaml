@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q876209
   imdb: tt0022795
+  tmdb: 499521
 sources:
 - https://www.wikidata.org/wiki/Q876209
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - gaal-bela
 cinematographer:
 - eiben-istvan
+poster_tmdb_path: /9AeUu9RalOfSeV73SIAt3FdLp4Y.jpg

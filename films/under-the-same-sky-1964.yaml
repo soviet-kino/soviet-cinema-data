@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q24464820
   imdb: tt0175044
+  tmdb: 354303
 sources:
 - https://www.wikidata.org/wiki/Q24464820
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: starcic-viktor
 - person: simich-slavko
 - person: ocokoljic-dragan
+poster_tmdb_path: /khttsvVfTedluQky1vn9Tvt9dGt.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4260220
   imdb: tt5301860
   youtube: kz2cCnZfdVc
+  tmdb: 533549
 sources:
 - https://www.wikidata.org/wiki/Q4260220
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: chigaryov-mikhail-mikhaylovich
 studio:
 - moldova-film
+poster_tmdb_path: /9xWHgozRtiBNUnrLlcfqGMwG931.jpg
+backdrop_tmdb_path: /rkXhFdCnV6YwiMBzoF52R6fPvDB.jpg

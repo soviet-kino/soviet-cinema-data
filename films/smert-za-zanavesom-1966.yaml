@@ -8,6 +8,7 @@ runtime_min: 87
 external_ids:
   wikidata: Q15985074
   imdb: tt0171759
+  tmdb: 562467
 sources:
 - https://www.wikidata.org/wiki/Q15985074
 schema_version: 1
@@ -68,3 +69,5 @@ cast:
 - person: plasilova-marie
 - person: rasplickova-ludmila
 - person: spendlova-dana
+poster_tmdb_path: /3mFdXYvBiwtHKiJtbdj4yY5vs6t.jpg
+backdrop_tmdb_path: /1ZylHnEKQGGwfFnUKsCammd69OC.jpg

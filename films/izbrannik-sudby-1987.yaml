@@ -8,6 +8,7 @@ runtime_min: 74
 external_ids:
   wikidata: Q109428504
   imdb: tt5687002
+  tmdb: 896077
 sources:
 - https://www.wikidata.org/wiki/Q109428504
 schema_version: 1
@@ -19,3 +20,5 @@ composer:
 - zhurbin-aleksandr-borisovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /4Rh38NZdK2NpU4pMmVnKpSo960N.jpg
+backdrop_tmdb_path: /7HnlgvPRCI474bbPGIA0f0ZAaDJ.jpg

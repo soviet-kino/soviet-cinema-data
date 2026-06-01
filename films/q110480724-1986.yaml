@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q110480724
   imdb: tt1696211
+  tmdb: 524766
 sources:
 - https://www.wikidata.org/wiki/Q110480724
 schema_version: 1
@@ -20,3 +21,4 @@ studio:
 - vengerskoe-televidenie
 - balazs-bela-studio
 - mafilm
+poster_tmdb_path: /pOqcyZqsQ6e4EiwjRly8CCTvhpN.jpg

@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q11735918
   imdb: tt0295365
+  tmdb: 463154
 sources:
 - https://www.wikidata.org/wiki/Q11735918
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - zheji-gjergj
 composer:
 - mula-avni
+poster_tmdb_path: /faJMh3sdHDN8UqgyCfRadF6L8LM.jpg
+backdrop_tmdb_path: /ovfYZOMGY6iIJJH1Ooc71YoF3ry.jpg

@@ -7,8 +7,11 @@ country:
 external_ids:
   wikidata: Q9375295
   imdb: tt0295738
+  tmdb: 461850
 sources:
 - https://www.wikidata.org/wiki/Q9375295
 schema_version: 1
 composer:
 - mula-avni
+poster_tmdb_path: /dNt3inkNvWO7huxOovb21x6uV67.jpg
+backdrop_tmdb_path: /ndgl3Ij9mLmLlmMOfKS57EL1biL.jpg

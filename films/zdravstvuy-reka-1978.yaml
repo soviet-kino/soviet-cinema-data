@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q65200419
   imdb: tt3084562
   youtube: zbWgAkZqVck
+  tmdb: 889497
 sources:
 - https://www.wikidata.org/wiki/Q65200419
 schema_version: 1
@@ -18,3 +19,4 @@ director:
 - igor-yasulovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /vspOkDN3JXUCf6MU2NuWdQ5nK5b.jpg

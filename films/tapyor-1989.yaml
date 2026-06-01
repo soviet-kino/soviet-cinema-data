@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4451453
   imdb: tt17074354
+  tmdb: 206954
 sources:
 - https://www.wikidata.org/wiki/Q4451453
 schema_version: 1
@@ -16,3 +17,4 @@ composer:
 - ekhala-olav
 studio:
 - rizhskaya-kinostudiya
+poster_tmdb_path: /8mR7WfuisSPo7XSVVKMPmAP3x2K.jpg

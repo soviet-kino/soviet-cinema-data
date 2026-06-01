@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1530651
   imdb: tt0054803
   youtube: hekubUPUdy4
+  tmdb: 131045
 sources:
 - https://www.wikidata.org/wiki/Q1530651
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: khudyakov-konstantin-pavlovich
 - person: esadze-rezo
 - person: yashin-boris-vladimirovich
+poster_tmdb_path: /fbE3BSA8kkifg63njCeM3jzDhFS.jpg
+backdrop_tmdb_path: /yZjUERxuw11QiL3UGZVrpaZIu3q.jpg

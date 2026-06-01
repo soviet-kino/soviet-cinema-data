@@ -8,6 +8,7 @@ runtime_min: 105
 external_ids:
   wikidata: Q3506314
   imdb: tt0171246
+  tmdb: 498615
 sources:
 - https://www.wikidata.org/wiki/Q3506314
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: bulic-karlo
 - person: mirich-voyya
 - person: jovanovic-toma
+poster_tmdb_path: /75y9wL4PTW94jSbrDOSEF0EHhg9.jpg

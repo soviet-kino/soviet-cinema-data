@@ -8,6 +8,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q19902598
   imdb: tt0166589
+  tmdb: 762319
 sources:
 - https://www.wikidata.org/wiki/Q19902598
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: herman-frantisek
 - person: szynglarski-bonda
 - person: bokova-emilie
+poster_tmdb_path: /yKlItohi57TQoOadRM3LQZZzEUv.jpg

@@ -8,6 +8,7 @@ runtime_min: 104
 external_ids:
   wikidata: Q104438590
   imdb: tt0231813
+  tmdb: 833258
 sources:
 - https://www.wikidata.org/wiki/Q104438590
 schema_version: 1
@@ -63,3 +64,4 @@ cast:
 - person: kalab-milos
 - person: pistora-p
 - person: mares-b
+poster_tmdb_path: /rvotYRb53zQxHX8OknPncrYLIAF.jpg

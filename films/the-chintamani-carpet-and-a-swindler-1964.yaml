@@ -8,6 +8,7 @@ runtime_min: 110
 external_ids:
   wikidata: Q110648139
   imdb: tt0057951
+  tmdb: 319798
 sources:
 - https://www.wikidata.org/wiki/Q110648139
 schema_version: 1
@@ -74,3 +75,4 @@ cast:
 - person: samler-antonin
 - person: polanova-zora
 - person: drvota-antonin
+poster_tmdb_path: /2NaHicWYHqXMS3FGqq2b62tsJ4i.jpg

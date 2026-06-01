@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1634319
   imdb: tt0065127
   youtube: DtCtiBPl1Ws
+  tmdb: 150102
 sources:
 - https://www.wikidata.org/wiki/Q1634319
 schema_version: 1
@@ -35,3 +36,5 @@ cast:
 - person: evstigneev-evgeniy-aleksandrovich
 - person: strzhelchik-vladislav-ignatevich
 - person: shuranova-antonina-nikolaevna
+poster_tmdb_path: /61h3n6DSPvMEkJJnOlqagFyhY6d.jpg
+backdrop_tmdb_path: /fD1au4e7eDuT3DXl55ILVUQimcc.jpg

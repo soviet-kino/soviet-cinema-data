@@ -8,6 +8,7 @@ runtime_min: 57
 external_ids:
   wikidata: Q12837667
   imdb: tt0499440
+  tmdb: 184421
 sources:
 - https://www.wikidata.org/wiki/Q12837667
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 studio:
 - azerbaydzhanfilm
 poster_commons: Film Bismillah.jpg
+poster_tmdb_path: /1wJi059cqptBD6Ar57aTSwRNDlv.jpg
+backdrop_tmdb_path: /57GVNclnr7MbhgRJSrBZ0P9ckve.jpg

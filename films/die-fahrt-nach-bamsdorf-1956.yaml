@@ -8,6 +8,7 @@ runtime_min: 39
 external_ids:
   wikidata: Q1212297
   imdb: tt0049198
+  tmdb: 282285
 sources:
 - https://www.wikidata.org/wiki/Q1212297
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: barten-fredy
 - person: wolf-gunter
 - person: ripperger-rolf
+poster_tmdb_path: /pcyfwyzgKibCDM6Uct5d37pknEb.jpg

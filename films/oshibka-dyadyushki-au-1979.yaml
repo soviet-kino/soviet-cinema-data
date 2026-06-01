@@ -8,8 +8,10 @@ external_ids:
   wikidata: Q56099832
   imdb: tt3486540
   youtube: p9f5kcoeWp8
+  tmdb: 520506
 sources:
 - https://www.wikidata.org/wiki/Q56099832
 schema_version: 1
 director:
 - surikova-lidiya-viktorovna
+poster_tmdb_path: /toh4XqYIgEnviPetsCK1VDR3YnV.jpg

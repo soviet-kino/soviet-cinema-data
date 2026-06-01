@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4101739
   imdb: tt0200243
   youtube: K82ez6GCahQ
+  tmdb: 621081
 sources:
 - https://www.wikidata.org/wiki/Q4101739
 schema_version: 1
@@ -28,3 +29,5 @@ cast:
 - person: lezhdey-elza-ivanovna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /gFRHe2NMg40TPaRZ9huzDfcXZJX.jpg
+backdrop_tmdb_path: /ohagq8U8VXz2uV0zoLrsZmbLw8q.jpg

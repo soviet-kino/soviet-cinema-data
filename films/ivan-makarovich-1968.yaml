@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4195617
   imdb: tt0319585
   youtube: i5-uronjdg4
+  tmdb: 722310
 sources:
 - https://www.wikidata.org/wiki/Q4195617
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - zaytsev-dmitriy-evgenevich
 studio:
 - belarusfilm
+poster_tmdb_path: /xMQsiDy8hofTCuYCIwR7LTcsKpL.jpg
+backdrop_tmdb_path: /8P69mfk7fvIwBjRoRsiw3G7zRYF.jpg

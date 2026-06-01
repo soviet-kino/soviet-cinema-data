@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q5210950
   imdb: tt0172291
+  tmdb: 199220
 sources:
 - https://www.wikidata.org/wiki/Q5210950
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: cervinka-milos
 - person: vasa-zdenek
 - person: rousar-josef
+poster_tmdb_path: /ctuPFfPmN3qU0G13Mqr2hGGb3LJ.jpg

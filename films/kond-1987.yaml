@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q65296530
   imdb: tt0093366
+  tmdb: 284773
 sources:
 - https://www.wikidata.org/wiki/Q65296530
 schema_version: 1
 director:
 - khachatryan-arutyun
+poster_tmdb_path: /rHjTmGfdtCJxdMdPxn2Xq4v86J2.jpg

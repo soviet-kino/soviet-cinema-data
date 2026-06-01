@@ -8,6 +8,7 @@ runtime_min: 35
 external_ids:
   wikidata: Q20901880
   imdb: tt0274187
+  tmdb: 166462
 sources:
 - https://www.wikidata.org/wiki/Q20901880
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: verikh-yan
 - person: sovak-irzhi
 - person: werichova-jana
+poster_tmdb_path: /jCND2KulMrdSoTk05IVXlMWv9E7.jpg

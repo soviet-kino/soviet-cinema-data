@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q13055199
   imdb: tt0300352
+  tmdb: 1049883
 sources:
 - https://www.wikidata.org/wiki/Q13055199
 schema_version: 1
@@ -24,3 +25,4 @@ cast:
 - person: dzhanibekyan-karen
 studio:
 - armenfilm
+poster_tmdb_path: /cZfkrRdfYQOrNQmYWkiHJdgZDYd.jpg

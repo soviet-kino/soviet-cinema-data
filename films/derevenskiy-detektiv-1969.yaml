@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4158753
   imdb: tt0064224
   youtube: MVlHRgv_hK0
+  tmdb: 129817
 sources:
 - https://www.wikidata.org/wiki/Q4158753
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: smirnov-yuriy-nikolaevich
 - person: kharitonova-aleksandra-grigorevna
 - person: ignatev-anatoliy-vasilevich
+poster_tmdb_path: /ke5FiKJBCN2g7wTHn69MsIDcJDO.jpg
+backdrop_tmdb_path: /sYpq5SzPRc5U8MX1qO5Tos1jMjL.jpg

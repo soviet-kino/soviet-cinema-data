@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25522237
   imdb: tt0454555
+  tmdb: 461772
 sources:
 - https://www.wikidata.org/wiki/Q25522237
 schema_version: 1
@@ -19,3 +20,4 @@ cinematographer:
 cast:
 - person: myagi-layne
 - person: tennosaar-liyna
+poster_tmdb_path: /c2f6ZjZQ4Cfu7w24hOR37kmA7bP.jpg

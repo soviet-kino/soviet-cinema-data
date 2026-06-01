@@ -29,6 +29,9 @@ external_ids:
   wikidata: Q914190
   imdb: tt0091759
   youtube: M1ZAVTSe43Q
+  tmdb: 73920
 sources:
 - https://www.wikidata.org/wiki/Q914190
 schema_version: 1
+poster_tmdb_path: /nE8raKORSnDBMuPvC06VmKHEFoq.jpg
+backdrop_tmdb_path: /lLvIoN4fHSrmOuK0CvVgkqA6Sa4.jpg

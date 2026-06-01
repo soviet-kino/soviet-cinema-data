@@ -8,6 +8,7 @@ runtime_min: 67
 external_ids:
   wikidata: Q20508486
   imdb: tt0177528
+  tmdb: 496540
 sources:
 - https://www.wikidata.org/wiki/Q20508486
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: khachatryan-aleksandr
 - person: topchiyan-anait
 - person: vartanyan-laura
+poster_tmdb_path: /ef1n2j8gdk0ESFOROZEVRjqELFf.jpg
+backdrop_tmdb_path: /7ClXGqvq1sjwukhRD3j6shsYvuA.jpg

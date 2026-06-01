@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4171457
   imdb: tt0077477
   youtube: IYv8ycPaQf4
+  tmdb: 65100
 sources:
 - https://www.wikidata.org/wiki/Q4171457
 schema_version: 1
@@ -37,3 +38,5 @@ cast:
 - person: belaya-zoya-aleksandrovna
 - person: livanova-marina-valerevna
 - person: obukhov-anatoliy-matveevich
+poster_tmdb_path: /yuFIkz7g80L2OV8i0IgoQaCtZYE.jpg
+backdrop_tmdb_path: /jLuLQbYjD5aMW185otQCzASh8dN.jpg

@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q4518697
   imdb: tt1527604
+  tmdb: 638765
 sources:
 - https://www.wikidata.org/wiki/Q4518697
 schema_version: 1
@@ -23,3 +24,5 @@ studio:
 - lenfilm
 cast:
 - person: loktev-aleksey-vasilevich
+poster_tmdb_path: /yPcvYCSCwLmvSpmr0Oe9G4WpPbY.jpg
+backdrop_tmdb_path: /4pBTRw88XeAng7SgVsCibwC2k2z.jpg

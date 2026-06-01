@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q7535279
   imdb: tt0052203
+  tmdb: 326450
 sources:
 - https://www.wikidata.org/wiki/Q7535279
 schema_version: 1
 director:
 - kirsten-ralf
+poster_tmdb_path: /7P9eHJWHzRlYk5UJe1JMcPaP4dM.jpg

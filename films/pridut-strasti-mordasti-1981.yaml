@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4378179
   imdb: tt0237607
+  tmdb: 892507
 sources:
 - https://www.wikidata.org/wiki/Q4378179
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - zhurbin-aleksandr-borisovich
 studio:
 - lenfilm
+poster_tmdb_path: /v4zIHPi81O0gKtctEqECtbSQ3X.jpg

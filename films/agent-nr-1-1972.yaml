@@ -8,6 +8,7 @@ runtime_min: 97
 external_ids:
   wikidata: Q9142083
   imdb: tt0068180
+  tmdb: 139211
 sources:
 - https://www.wikidata.org/wiki/Q9142083
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - kozhinskiy-andzhey
 cast:
 - person: strasburger-karol
+poster_tmdb_path: /6zxGWWN3dI6Cf3qrDgQF4Y9rir7.jpg
+backdrop_tmdb_path: /s4GvLmLHBPCwF0sT8Q8n58O2Pju.jpg

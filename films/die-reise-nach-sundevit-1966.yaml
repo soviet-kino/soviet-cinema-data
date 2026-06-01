@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q1215718
   imdb: tt0060889
+  tmdb: 294328
 sources:
 - https://www.wikidata.org/wiki/Q1215718
 schema_version: 1
@@ -30,3 +31,5 @@ cast:
 - person: kelling-petra
 - person: klamann-kurt
 - person: dommish-peter
+poster_tmdb_path: /eVjfXMiEtjvD5sODLga4lijonAH.jpg
+backdrop_tmdb_path: /bEAp978XeNgwRAJW34S5VdfocxO.jpg

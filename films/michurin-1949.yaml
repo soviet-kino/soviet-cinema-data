@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1964422
   imdb: tt0040585
   youtube: 0R4IpSoZEwE
+  tmdb: 233189
 sources:
 - https://www.wikidata.org/wiki/Q1964422
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: khokhryakov-viktor-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /oSUPWtVa7onub2c9qEpjsBhaHjU.jpg
+backdrop_tmdb_path: /nggNj1L1IaAR2FDEycKeAxhYx8s.jpg

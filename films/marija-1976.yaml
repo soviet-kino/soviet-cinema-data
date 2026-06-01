@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12754924
   imdb: tt0200840
+  tmdb: 460174
 sources:
 - https://www.wikidata.org/wiki/Q12754924
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: drazenovic-ljerka
 - person: vukovic-gizela
 - person: kriticheski-liliana
+poster_tmdb_path: /xnreM1LjX20bT66EpbY3IabWwzZ.jpg

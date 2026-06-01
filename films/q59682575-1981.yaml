@@ -8,8 +8,10 @@ runtime_min: 5
 external_ids:
   wikidata: Q59682575
   imdb: tt0281619
+  tmdb: 265592
 sources:
 - https://www.wikidata.org/wiki/Q59682575
 schema_version: 1
 director:
 - varga-csaba
+poster_tmdb_path: /egG9ayUdh7jx5kRLJGwy0mzAxd5.jpg

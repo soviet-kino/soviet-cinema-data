@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4292419
   imdb: tt0033889
   youtube: QLQUWAW0HA0
+  tmdb: 68271
 sources:
 - https://www.wikidata.org/wiki/Q4292419
 schema_version: 1
@@ -29,3 +30,5 @@ cast:
 - person: solovyov-vladimir-romanovich
 studio:
 - mosfilm
+poster_tmdb_path: /puUQpz50ygDnHM9hIdzntX1ZJH9.jpg
+backdrop_tmdb_path: /9OFErDNOeRTQzMvUfBVPruLybdQ.jpg

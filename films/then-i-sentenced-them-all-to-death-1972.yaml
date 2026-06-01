@@ -8,6 +8,7 @@ runtime_min: 103
 external_ids:
   wikidata: Q7781322
   imdb: tt0126449
+  tmdb: 246882
 sources:
 - https://www.wikidata.org/wiki/Q7781322
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: kotesku-oktavian
 - person: petrakesku-eliza
 poster_commons: Atunci i-am condamnat pe toti la moarte1.jpg
+poster_tmdb_path: /if3Vi9lj8tZbBa0oE3w5ok92jUc.jpg
+backdrop_tmdb_path: /jni4PmJUE6sGqUh7IQZ5suiE0AP.jpg

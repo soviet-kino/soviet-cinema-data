@@ -8,6 +8,7 @@ runtime_min: 138
 external_ids:
   wikidata: Q1250092
   imdb: tt0084204
+  tmdb: 361736
 sources:
 - https://www.wikidata.org/wiki/Q1250092
 schema_version: 1
@@ -32,3 +33,4 @@ cast:
 - person: mustafa-nadarevich
 - person: krivokapic-miodrag
 - person: baksa-mariya
+poster_tmdb_path: /hvgKdlH6tCck5ymMoAIvYEN8jyf.jpg

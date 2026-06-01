@@ -8,6 +8,7 @@ runtime_min: 84
 external_ids:
   wikidata: Q7745476
   imdb: tt0151405
+  tmdb: 589987
 sources:
 - https://www.wikidata.org/wiki/Q7745476
 schema_version: 1
@@ -46,3 +47,4 @@ cast:
 - person: princ-rudolf
 - person: koldovsky-jiri
 - person: valentova-karla
+poster_tmdb_path: /7Nn9s9DBs68ChItmoVAr4XMYkAU.jpg

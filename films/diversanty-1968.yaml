@@ -8,6 +8,7 @@ runtime_min: 81
 external_ids:
   wikidata: Q12750868
   imdb: tt0172329
+  tmdb: 385239
 sources:
 - https://www.wikidata.org/wiki/Q12750868
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: velimir-bata-zhivoinovich
 - person: vrkhovets-yanez
 - person: burdus-jovan-janicijevic
+poster_tmdb_path: /s7wxKqa2ryuLoLd0ZoMj7jg1RC.jpg
+backdrop_tmdb_path: /yNOrwUVOlIhQPQyqMfqU1pxRRZD.jpg

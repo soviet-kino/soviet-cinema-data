@@ -8,6 +8,7 @@ runtime_min: 55
 external_ids:
   wikidata: Q16418594
   imdb: tt1767344
+  tmdb: 212915
 sources:
 - https://www.wikidata.org/wiki/Q16418594
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 studio:
 - azerbaydzhanfilm
 poster_commons: Плакат к фильму «Игра в любовь».jpg
+poster_tmdb_path: /1irj9geix6OS7C3wxFIvKqLReKm.jpg
+backdrop_tmdb_path: /238h5qTO09MX4ZA2v4eRMohwyZE.jpg

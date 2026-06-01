@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4462869
   imdb: tt0259686
+  tmdb: 253771
 sources:
 - https://www.wikidata.org/wiki/Q4462869
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Три мушкетера(1938) кадр.jpg
+poster_tmdb_path: /jOa5vBrCeZS1G4vAjWP3aUy9WCc.jpg
+backdrop_tmdb_path: /5neBeZxntjo3vvCNQsoyibauRGD.jpg

@@ -8,8 +8,11 @@ external_ids:
   wikidata: Q134540056
   imdb: tt11569932
   youtube: gXZIwSt6-_c
+  tmdb: 882326
 sources:
 - https://www.wikidata.org/wiki/Q134540056
 schema_version: 1
 studio:
 - lenfilm
+poster_tmdb_path: /fbiv9o0Xb7t0QzumEDKuiPhUjcs.jpg
+backdrop_tmdb_path: /b3LyLOmrVozJELKpyIUQyJJob8x.jpg

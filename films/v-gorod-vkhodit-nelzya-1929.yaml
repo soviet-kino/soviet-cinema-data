@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270499
   imdb: tt0324396
+  tmdb: 285523
 sources:
 - https://www.wikidata.org/wiki/Q15270499
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: leonidov-leonid-mironovich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /8BDZEsARITGC1ojYMA0XUEnDfNh.jpg

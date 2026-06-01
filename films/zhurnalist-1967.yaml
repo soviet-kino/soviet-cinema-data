@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1194623
   imdb: tt0062524
   youtube: iK-Kwtu0q3o
+  tmdb: 267279
 sources:
 - https://www.wikidata.org/wiki/Q1194623
 schema_version: 1
@@ -43,3 +44,5 @@ cast:
 - person: telichkina-valentina
 - person: fedosova-nadezhda-kapitonovna
 - person: malyshev-valeriy-aleksandrovich
+poster_tmdb_path: /3j7YODJDFt4Wpl5nKCLb3BOmzvV.jpg
+backdrop_tmdb_path: /dQMUUh9Eq3o7Mg9JjDywDxibIzJ.jpg

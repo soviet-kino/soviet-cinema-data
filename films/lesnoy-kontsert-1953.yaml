@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q19973547
   imdb: tt4477802
+  tmdb: 448192
 sources:
 - https://www.wikidata.org/wiki/Q19973547
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - tsfasman-aleksandr-naumovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gMQzhpnTiDMQpOYDlwwt3QqumvE.jpg

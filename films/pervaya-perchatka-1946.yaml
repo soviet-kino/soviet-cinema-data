@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4349077
   imdb: tt0039699
   youtube: 9lWHVS6rKy8
+  tmdb: 456869
 sources:
 - https://www.wikidata.org/wiki/Q4349077
 schema_version: 1
@@ -21,3 +22,5 @@ cast:
 - person: volodin-vladimir-sergeevich
 studio:
 - mosfilm
+poster_tmdb_path: /ntpYSrJTASMlrpXmp50VbN8fQ1p.jpg
+backdrop_tmdb_path: /kdfnKTnDLnf2AkSj1vqUyqp9BkA.jpg

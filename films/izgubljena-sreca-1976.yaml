@@ -8,6 +8,7 @@ runtime_min: 59
 external_ids:
   wikidata: Q12752227
   imdb: tt0204418
+  tmdb: 1643404
 sources:
 - https://www.wikidata.org/wiki/Q12752227
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: matic-dobrila
 - person: milic-nikola
 - person: milutin-butkovich
+poster_tmdb_path: /s8Wpt3ws5alxcfsLZnQN62CfnbX.jpg

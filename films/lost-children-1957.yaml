@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q6683911
   imdb: tt0431492
+  tmdb: 199215
 sources:
 - https://www.wikidata.org/wiki/Q6683911
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: gzela-ladislav
 - person: q131869340
 - person: ensman-karel
+poster_tmdb_path: /od4burIgaVAtBtrDnY9amfTwAL0.jpg

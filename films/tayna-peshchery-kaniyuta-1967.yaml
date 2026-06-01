@@ -8,8 +8,11 @@ runtime_min: 74
 external_ids:
   wikidata: Q131424422
   imdb: tt0348185
+  tmdb: 457416
 sources:
 - https://www.wikidata.org/wiki/Q131424422
 schema_version: 1
 studio:
 - uzbekfilm
+poster_tmdb_path: /iREEkuxGPpOKy2I9mcdCYFOydDY.jpg
+backdrop_tmdb_path: /5Q46SwnCDDOuTU55pGqLzjf8PjA.jpg

@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q7760300
   imdb: tt0169132
+  tmdb: 538673
 sources:
 - https://www.wikidata.org/wiki/Q7760300
 schema_version: 1
@@ -62,3 +63,4 @@ cast:
 - person: jarkovsky-ferdinand
 - person: vavrova-anna
 - person: buddeusova-marie
+poster_tmdb_path: /iJU17hF7QGJObGCM7URkE0RZYCg.jpg

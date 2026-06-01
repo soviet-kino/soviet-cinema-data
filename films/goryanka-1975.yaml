@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q4146249
   imdb: tt5364916
+  tmdb: 636785
 sources:
 - https://www.wikidata.org/wiki/Q4146249
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: khizroeva-patimat-khizrievna
 - person: abdulkhalikov-makhmud-abdulkhalikovich
 - person: tukhuzhev-ali-matykovich
+poster_tmdb_path: /bR14yXPV0QK4Se0fivc7hntl0cO.jpg

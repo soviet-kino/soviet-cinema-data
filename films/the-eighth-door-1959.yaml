@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q20310309
   imdb: tt0180029
+  tmdb: 364236
 sources:
 - https://www.wikidata.org/wiki/Q20310309
 schema_version: 1
 director:
 - tanhofer-nikola
+poster_tmdb_path: /rFzlgpNmmDeQIvqnNARxY2aSBDL.jpg

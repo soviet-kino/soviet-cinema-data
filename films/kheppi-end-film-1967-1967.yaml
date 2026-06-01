@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q2010476
   imdb: tt0061029
   youtube: I0OjVTZdJ1Q
+  tmdb: 51578
 sources:
 - https://www.wikidata.org/wiki/Q2010476
 schema_version: 1
@@ -78,3 +79,5 @@ cast:
 - person: mikulastik-karel
 studio:
 - barrandov
+poster_tmdb_path: /tLaFBNY9vwp6HXf8aXtYV4eL6wh.jpg
+backdrop_tmdb_path: /mp9mPkuVZL382O8Xq9Bu295QSgW.jpg

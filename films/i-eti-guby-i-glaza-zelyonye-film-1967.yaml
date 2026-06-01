@@ -8,6 +8,7 @@ runtime_min: 24
 external_ids:
   wikidata: Q33033226
   imdb: tt5135332
+  tmdb: 392343
 sources:
 - https://www.wikidata.org/wiki/Q33033226
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: terekhova-margarita
 - person: porokhovshchikov-aleksandr-shalvovich
 - person: durov-lev-konstantinovich
+poster_tmdb_path: /ovLrj52xrPox4TsjuGNjwCuMule.jpg
+backdrop_tmdb_path: /s34E8uh1n6raMAQVBcego18zXEr.jpg

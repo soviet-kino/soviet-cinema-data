@@ -8,8 +8,10 @@ runtime_min: 72
 external_ids:
   wikidata: Q30116309
   imdb: tt1074539
+  tmdb: 425976
 sources:
 - https://www.wikidata.org/wiki/Q30116309
 schema_version: 1
 director:
 - khyoltske-khubert
+poster_tmdb_path: /ajY4O2nvigqtgs162BLskyCM4xV.jpg

@@ -8,6 +8,7 @@ runtime_min: 64
 external_ids:
   wikidata: Q126490790
   imdb: tt1996235
+  tmdb: 515182
 sources:
 - https://www.wikidata.org/wiki/Q126490790
 schema_version: 1
@@ -34,3 +35,5 @@ cast:
 - person: jr-cestmir-randa
 - person: st-karel-hovorka
 - person: vlcek-karel
+poster_tmdb_path: /bpMELYVovLBniCJf4gA01AlJ73y.jpg
+backdrop_tmdb_path: /jiQV05wxvwibKcChZ7zje0pJeAx.jpg

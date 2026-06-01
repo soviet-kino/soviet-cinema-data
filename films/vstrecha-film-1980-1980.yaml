@@ -8,6 +8,7 @@ runtime_min: 35
 external_ids:
   wikidata: Q25394863
   imdb: tt0202666
+  tmdb: 892301
 sources:
 - https://www.wikidata.org/wiki/Q25394863
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: ruslanova-nina-ivanovna
 studio:
 - mosfilm
+poster_tmdb_path: /nBG9gFDQB1e7ikP3sB8auLX8eoK.jpg

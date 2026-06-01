@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q3442251
   imdb: tt0173380
+  tmdb: 339878
 sources:
 - https://www.wikidata.org/wiki/Q3442251
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: felba-dragomir
 - person: bulayich-velko
 - person: didik-lyubomir
+poster_tmdb_path: /zkeIt6SuGDJrcsDVLKAPHa01ud9.jpg

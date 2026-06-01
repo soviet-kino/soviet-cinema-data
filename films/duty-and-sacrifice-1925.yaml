@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q44862796
   imdb: tt0172299
+  tmdb: 1050187
 sources:
 - https://www.wikidata.org/wiki/Q44862796
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: finteshtyanu-ion
 - person: q131825251
 - person: chiriac-lulu
+poster_tmdb_path: /1aFJZ4SMvoz4KAauJzyiNgMnmyG.jpg

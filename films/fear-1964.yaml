@@ -8,6 +8,7 @@ runtime_min: 95
 external_ids:
   wikidata: Q136721805
   imdb: tt0057533
+  tmdb: 284010
 sources:
 - https://www.wikidata.org/wiki/Q136721805
 schema_version: 1
@@ -58,3 +59,5 @@ cast:
 - person: zelizko-jiri
 studio:
 - barrandov-film-studio
+poster_tmdb_path: /86NCyiGZOw8aGOfa9esLsBnlcUl.jpg
+backdrop_tmdb_path: /7geFC9m9PrCis7FtVbLV9hGFeCN.jpg

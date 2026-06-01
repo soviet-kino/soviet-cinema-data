@@ -8,6 +8,7 @@ runtime_min: 210
 external_ids:
   wikidata: Q2394581
   imdb: tt0050709
+  tmdb: 4412
 sources:
 - https://www.wikidata.org/wiki/Q2394581
 schema_version: 1
@@ -96,3 +97,5 @@ cast:
 studio:
 - defa
 - pathe
+poster_tmdb_path: /iSigPNzYVqH5ok1rmaTBTyo2jk6.jpg
+backdrop_tmdb_path: /ia2IS4eW1334gxiojbxZnuC7CyP.jpg

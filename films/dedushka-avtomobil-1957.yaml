@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q15916672
   imdb: tt0050297
+  tmdb: 67106
 sources:
 - https://www.wikidata.org/wiki/Q15916672
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: abraham-miroslav
 - person: sklenickova-ludmila
 - person: mandik-oldrich
+poster_tmdb_path: /jK8VBA6qvBPYgD58CPOiUjQYQuC.jpg

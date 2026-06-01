@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q1500911
   imdb: tt0071595
+  tmdb: 13301
 sources:
 - https://www.wikidata.org/wiki/Q1500911
 schema_version: 1
@@ -31,3 +32,5 @@ cast:
 - person: beyer-regina
 - person: tsgliniki-simona-fon
 - person: uider-teresiya
+poster_tmdb_path: /dnAnzeU2pRWC0pZrb136s9tchHU.jpg
+backdrop_tmdb_path: /8E8yZIZya5xPJyxJXZ5CmJdDABg.jpg

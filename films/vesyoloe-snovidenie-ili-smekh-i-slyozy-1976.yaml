@@ -8,6 +8,7 @@ runtime_min: 133
 external_ids:
   wikidata: Q3514941
   imdb: tt0153525
+  tmdb: 64764
 sources:
 - https://www.wikidata.org/wiki/Q3514941
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: shulepova-yuliya-timofeevna
 studio:
 - lenfilm
+poster_tmdb_path: /3HmGNGnhhnGDG29HSdwBMQbm55v.jpg
+backdrop_tmdb_path: /pkcImDH65EXdNjeyQ8WTiOSvIJV.jpg

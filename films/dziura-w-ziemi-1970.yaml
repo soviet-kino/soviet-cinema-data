@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q9248955
   imdb: tt0065674
+  tmdb: 389034
 sources:
 - https://www.wikidata.org/wiki/Q9248955
 schema_version: 1
@@ -31,3 +32,4 @@ cast:
 - person: mierzejewski-jerzy
 - person: lesnyak-mikhal
 - person: dolewski-pawe-maria
+poster_tmdb_path: /pA4tIDgvoK9pboGD6QMCdkCHlWS.jpg

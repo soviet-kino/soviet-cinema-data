@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9360595
   imdb: tt0172885
+  tmdb: 393163
 sources:
 - https://www.wikidata.org/wiki/Q9360595
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - milkani-piro
 composer:
 - krajka-agim
+poster_tmdb_path: /znwpsFH7llB8ZiBZsH01ZrgwfTl.jpg
+backdrop_tmdb_path: /uqkbaTmyYpLPh2SKSLttlEImGA4.jpg

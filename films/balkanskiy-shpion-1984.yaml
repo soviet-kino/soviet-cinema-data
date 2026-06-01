@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q2948419
   imdb: tt0086935
+  tmdb: 31400
 sources:
 - https://www.wikidata.org/wiki/Q2948419
 schema_version: 1
@@ -32,3 +33,5 @@ cast:
 - person: petrich-branka
 - person: mikhailovi-milan
 - person: vladan-zhivkovich
+poster_tmdb_path: /tC4BKuF25BNDXmKFprVOFuDaqRN.jpg
+backdrop_tmdb_path: /zf962uaL7C1GwobFePKET5NCsox.jpg

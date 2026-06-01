@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4155792
   imdb: tt0309542
+  tmdb: 897165
 sources:
 - https://www.wikidata.org/wiki/Q4155792
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - koblyakov-aleksandr-aleksandrovich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /mOIn4f866ahQSWxVKwezRNN9JE3.jpg
+backdrop_tmdb_path: /gsCmBbRr5pqjWcZp0nRM29sACe.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q15270935
   imdb: tt1719591
+  tmdb: 1252946
 sources:
 - https://www.wikidata.org/wiki/Q15270935
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - pirumov-aleksandr-ivanovich
 cast:
 - person: babyatinskiy-valeriy-konstantinovich
+poster_tmdb_path: /1ocGjwH3pb6Ops935haYbj4yXLq.jpg

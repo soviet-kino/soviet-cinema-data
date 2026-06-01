@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4212457
   imdb: tt0229905
   youtube: ijtY9vdIcwU
+  tmdb: 301628
 sources:
 - https://www.wikidata.org/wiki/Q4212457
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: funtikov-vasiliy-vladimirovich
 studio:
 - ekran
+poster_tmdb_path: /uTaObvEqkpb72UunTYVGOi0ID0D.jpg
+backdrop_tmdb_path: /nyIpmcgTmOYh12wujJ8PO1fbhHc.jpg

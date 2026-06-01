@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4461815
   imdb: tt6170950
   youtube: 4hFadweWOe8
+  tmdb: 830621
 sources:
 - https://www.wikidata.org/wiki/Q4461815
 schema_version: 1
@@ -20,3 +21,5 @@ cast:
 - person: lazarev-evgeniy-nikolaevich
 studio:
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+poster_tmdb_path: /eQMEXKY2wH6wHOjQ7L9ML6PcKtW.jpg
+backdrop_tmdb_path: /zkyQMBMiTPVccZiowAxMJnYjGxq.jpg

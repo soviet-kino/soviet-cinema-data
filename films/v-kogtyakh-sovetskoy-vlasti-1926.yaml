@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20074275
   imdb: tt12115044
+  tmdb: 1488229
 sources:
 - https://www.wikidata.org/wiki/Q20074275
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - sazonov-panteleymon-petrovich
 studio:
 - vseukrainskoe-fotokinoupravlenie
+poster_tmdb_path: /4u2ZzDJ91VX4wWC7qcmgtulSORN.jpg
+backdrop_tmdb_path: /A1shdqyafmvhG0dz7mrndhV7D4j.jpg

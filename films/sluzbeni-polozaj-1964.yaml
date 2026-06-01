@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q16761302
   imdb: tt0171753
+  tmdb: 266641
 sources:
 - https://www.wikidata.org/wiki/Q16761302
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: petar-banichevich
 - person: mirich-voyya
 - person: rancic-alenka
+poster_tmdb_path: /gohYKOlTniuIUAUwJAunMcM7VDv.jpg
+backdrop_tmdb_path: /tsTx6ebFDbnVoXFXXGAWGYdM10Z.jpg

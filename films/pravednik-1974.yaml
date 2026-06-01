@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q31187112
   imdb: tt0464158
+  tmdb: 1641994
 sources:
 - https://www.wikidata.org/wiki/Q31187112
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 - person: serment-mladen
 - person: edo-perochevich
 - person: hajdarhodzic-izet
+poster_tmdb_path: /9fvcSVEUWxrVdPoXJE6gwaBJl5M.jpg

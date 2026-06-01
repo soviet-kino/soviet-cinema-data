@@ -54,6 +54,9 @@ runtime_min: 116
 external_ids:
   wikidata: Q696122
   imdb: tt0083284
+  tmdb: 17360
 sources:
 - https://www.wikidata.org/wiki/Q696122
 schema_version: 1
+poster_tmdb_path: /3j6H0dnbvjNXLK1l9nKguXw5vvO.jpg
+backdrop_tmdb_path: /cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg

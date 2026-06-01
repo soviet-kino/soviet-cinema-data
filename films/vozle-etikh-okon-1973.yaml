@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q65200644
   imdb: tt0334665
+  tmdb: 889748
 sources:
 - https://www.wikidata.org/wiki/Q65200644
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - bakaev-khasan
 studio:
 - mosfilm
+poster_tmdb_path: /tBBrshrf6Iu1tPBYNu5VIqygHIe.jpg

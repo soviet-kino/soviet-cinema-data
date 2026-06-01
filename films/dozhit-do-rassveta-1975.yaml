@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q30957352
   imdb: tt0139999
+  tmdb: 481727
 sources:
 - https://www.wikidata.org/wiki/Q30957352
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: yanvaryov-aleksandr-ivanovich
 - person: marev-vladimir-timofeevich
 - person: kashlakov-pavel-fyodorovich
+poster_tmdb_path: /mwBuuEQzHy8dHYmulPQzr8mdmux.jpg

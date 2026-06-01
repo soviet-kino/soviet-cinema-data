@@ -8,6 +8,7 @@ runtime_min: 107
 external_ids:
   wikidata: Q4414031
   imdb: tt0044018
+  tmdb: 542179
 sources:
 - https://www.wikidata.org/wiki/Q4414031
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: makarova-tamara-fyodorovna
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /9oLJVJAhtTGhj8zEvjQkf1E7KsG.jpg
+backdrop_tmdb_path: /ni09oFJ50xtWuq26gZbJgcE37Pt.jpg

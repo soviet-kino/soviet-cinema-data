@@ -8,6 +8,7 @@ runtime_min: 99
 external_ids:
   wikidata: Q1169629
   imdb: tt0074794
+  tmdb: 286578
 sources:
 - https://www.wikidata.org/wiki/Q1169629
 schema_version: 1
@@ -36,3 +37,4 @@ cast:
 - person: noyenkhan-villi
 studio:
 - defa
+poster_tmdb_path: /4OIRXEjEExmpHhiM4lw59LAXwBW.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4212952
   imdb: tt0230400
   youtube: Rd3m_mp6II8
+  tmdb: 155309
 sources:
 - https://www.wikidata.org/wiki/Q4212952
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: zamulin-dmitriy-nikolaevich
 - person: iosifov-dmitriy-vladimirovich
 - person: lukyanov-nikolay-valentinovich
+poster_tmdb_path: /8IvgI9aHgV3XGrdt8WZBjN1lAds.jpg
+backdrop_tmdb_path: /tOicbzS8fucOsr4IzHbrRN51gB6.jpg

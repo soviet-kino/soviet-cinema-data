@@ -8,6 +8,7 @@ runtime_min: 598
 external_ids:
   wikidata: Q16642602
   imdb: tt2301549
+  tmdb: 439397
 sources:
 - https://www.wikidata.org/wiki/Q16642602
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - savicheva-nina-grigorevna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /aqI8U44oSlVbhVcGwSpR87yf0qE.jpg

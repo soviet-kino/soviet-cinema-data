@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q122830606
   imdb: tt2051845
+  tmdb: 468445
 sources:
 - https://www.wikidata.org/wiki/Q122830606
 schema_version: 1
 director:
 - kolovsky-igor
+poster_tmdb_path: /59LtYTgPkhvpzblH2RXYBYKyv4.jpg

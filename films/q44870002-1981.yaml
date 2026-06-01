@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q44870002
   imdb: tt0123984
+  tmdb: 628965
 sources:
 - https://www.wikidata.org/wiki/Q44870002
 schema_version: 1
 director:
 - dregan-mircha
+poster_tmdb_path: /94Ntw9doSeEF4n7lCF5BcZ7CaaS.jpg

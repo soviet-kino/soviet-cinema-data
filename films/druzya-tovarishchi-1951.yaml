@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18407093
   imdb: tt6371972
+  tmdb: 446997
 sources:
 - https://www.wikidata.org/wiki/Q18407093
 schema_version: 1
@@ -18,3 +19,4 @@ composer:
 - muravlyov-aleksey-alekseevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3TNlV4dGUWGloV6k0N5ttiWPFLR.jpg

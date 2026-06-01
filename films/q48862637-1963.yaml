@@ -7,8 +7,10 @@ country:
 external_ids:
   wikidata: Q48862637
   imdb: tt0057606
+  tmdb: 945620
 sources:
 - https://www.wikidata.org/wiki/Q48862637
 schema_version: 1
 director:
 - vol-stanislav
+poster_tmdb_path: /omDf3ccQPaucqSpQvP7FxOGTnKy.jpg

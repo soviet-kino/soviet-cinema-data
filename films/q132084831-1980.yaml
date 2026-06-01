@@ -8,6 +8,7 @@ runtime_min: 89
 external_ids:
   wikidata: Q132084831
   imdb: tt0079085
+  tmdb: 435429
 sources:
 - https://www.wikidata.org/wiki/Q132084831
 schema_version: 1
@@ -81,3 +82,4 @@ cast:
 - person: priban-frantisek
 - person: dolezal-antonin
 - person: krbec-vaclav
+poster_tmdb_path: /j8Vy08E5rDMqpBIWi4QtULoViLN.jpg

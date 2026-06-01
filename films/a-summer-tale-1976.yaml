@@ -8,6 +8,7 @@ runtime_min: 115
 external_ids:
   wikidata: Q18548471
   imdb: tt0075306
+  tmdb: 619901
 sources:
 - https://www.wikidata.org/wiki/Q18548471
 schema_version: 1
@@ -44,3 +45,4 @@ cast:
 - person: nitulesku-vasil
 studio:
 - radef
+poster_tmdb_path: /5U77UpZsC0lt4QV2pMjZrOI9RSy.jpg

@@ -8,6 +8,7 @@ runtime_min: 14
 external_ids:
   wikidata: Q57019444
   imdb: tt0244558
+  tmdb: 355069
 sources:
 - https://www.wikidata.org/wiki/Q57019444
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - krzhichka-yaroslav
 studio:
 - jiri-trnka-a-bratri-v-triku
+poster_tmdb_path: /zToXpPqmlWjxmKBh53JAh8eKEWR.jpg

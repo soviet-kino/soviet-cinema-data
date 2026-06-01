@@ -8,6 +8,7 @@ runtime_min: 73
 external_ids:
   wikidata: Q4063806
   imdb: tt0312346
+  tmdb: 69813
 sources:
 - https://www.wikidata.org/wiki/Q4063806
 schema_version: 1
@@ -21,3 +22,5 @@ composer:
 - karavaychuk-oleg-nikolaevich
 studio:
 - lenfilm
+poster_tmdb_path: /kUv7OQgXtqGQKeLLAQEldQFsoSv.jpg
+backdrop_tmdb_path: /eG2V6WZ0KE0hxII9LdURZB28y5Z.jpg

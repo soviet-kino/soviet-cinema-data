@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q27791983
   imdb: tt0492852
   youtube: Ye6un-w5kfs
+  tmdb: 615941
 sources:
 - https://www.wikidata.org/wiki/Q27791983
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /5xuG4MSaGZhjwNPDCm6SadhHGKD.jpg

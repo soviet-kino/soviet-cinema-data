@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q22667993
   imdb: tt0067466
+  tmdb: 289292
 sources:
 - https://www.wikidata.org/wiki/Q22667993
 schema_version: 1
@@ -34,3 +35,4 @@ cast:
 - person: schmid-christian-erdmute
 - person: tsshekel-gyunter
 - person: q135634909
+poster_tmdb_path: /1vifnD82PmC7sQB2s3i0kDTXYeo.jpg

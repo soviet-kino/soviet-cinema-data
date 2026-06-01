@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4099137
   imdb: tt0131331
   youtube: 23NmulenJn0
+  tmdb: 109940
 sources:
 - https://www.wikidata.org/wiki/Q4099137
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: dmitrieva-natalya-vladimirovna
 - person: smirnov-yuriy-nikolaevich
 - person: khochinskiy-aleksandr-yurevich
+poster_tmdb_path: /mbpl0DPn9Gaj1OepoNY6APSR6Q3.jpg
+backdrop_tmdb_path: /e57Z6clm4ZDltB45d7gz8YAFLCy.jpg

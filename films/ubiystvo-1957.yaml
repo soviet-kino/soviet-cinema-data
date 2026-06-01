@@ -8,6 +8,7 @@ runtime_min: 2
 external_ids:
   wikidata: Q2497066
   imdb: tt0050725
+  tmdb: 104144
 sources:
 - https://www.wikidata.org/wiki/Q2497066
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - polanski-roman
 cinematographer:
 - todorov-nikola
+poster_tmdb_path: /o2K5Ld3SX6RvFSUTgF45Iq97kiQ.jpg
+backdrop_tmdb_path: /vHND45OCKHBZkn5DmtkgPDD16NS.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1902167
   imdb: tt0154920
   youtube: mB2DegVrtZk
+  tmdb: 110804
 sources:
 - https://www.wikidata.org/wiki/Q1902167
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: kuznetsova-olga-olegovna
 studio:
 - lenfilm
+poster_tmdb_path: /c0WHZpcNqWS4MWmVyHnwZlsSB38.jpg
+backdrop_tmdb_path: /b5X642DwB23TMGqpXCPWBwoqc0.jpg

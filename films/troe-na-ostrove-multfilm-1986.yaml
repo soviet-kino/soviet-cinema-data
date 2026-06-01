@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4463352
   imdb: tt5520652
+  tmdb: 454145
 sources:
 - https://www.wikidata.org/wiki/Q4463352
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - ptichkin-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /n2qUo9e42o4Q6pkVhCWENLlhYYK.jpg

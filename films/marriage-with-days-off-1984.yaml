@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q20439637
   imdb: tt0349601
+  tmdb: 784118
 sources:
 - https://www.wikidata.org/wiki/Q20439637
 schema_version: 1
@@ -18,3 +19,4 @@ cinematographer:
 - nemescsoi-tamas
 composer:
 - nagy-gyorgy-aldobolyi
+poster_tmdb_path: /dNLzrT41e8qSS5Y33EiDlVckiDX.jpg

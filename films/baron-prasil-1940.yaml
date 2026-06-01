@@ -8,6 +8,7 @@ runtime_min: 96
 external_ids:
   wikidata: Q4862726
   imdb: tt0149802
+  tmdb: 209041
 sources:
 - https://www.wikidata.org/wiki/Q4862726
 schema_version: 1
@@ -40,3 +41,5 @@ cast:
 - person: yanu-zorka
 - person: marvan-yaroslav
 - person: starshiy-pishtek-teodor
+poster_tmdb_path: /oOOw1K3FxdqTGYJyVSqvJZxOwfO.jpg
+backdrop_tmdb_path: /hS1wIaDJxBymLvKXn1KWjdPattc.jpg

@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q7741338
   imdb: tt0023048
+  tmdb: 286543
 sources:
 - https://www.wikidata.org/wiki/Q7741338
 schema_version: 1
@@ -63,3 +64,5 @@ cast:
 - person: schlesinger-alfred
 - person: markova-jelena
 poster_commons: Kantor Ideál 1932.jpg
+poster_tmdb_path: /papDORaiaXrrQT3tDZQEoBG5XFH.jpg
+backdrop_tmdb_path: /6MDNV2qwDeYCjA0JVZiCoL89Pt.jpg

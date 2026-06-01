@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4461026
   imdb: tt21412782
+  tmdb: 470601
 sources:
 - https://www.wikidata.org/wiki/Q4461026
 schema_version: 1
@@ -18,3 +19,4 @@ cast:
 - person: aksyonov-vsevolod-nikolaevich
 studio:
 - mezhrabpomfilm
+poster_tmdb_path: /yyn98ij6JQLhNQrgwBEAKqc5LGT.jpg

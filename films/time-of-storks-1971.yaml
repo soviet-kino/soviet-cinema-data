@@ -8,6 +8,7 @@ runtime_min: 90
 external_ids:
   wikidata: Q185060
   imdb: tt0066604
+  tmdb: 260153
 sources:
 - https://www.wikidata.org/wiki/Q185060
 schema_version: 1
@@ -39,3 +40,5 @@ cast:
 - person: uider-teresiya
 - person: klyaynert-folkmar
 - person: tsshekel-gyunter
+poster_tmdb_path: /e2t9Bm5iRXpd7X5sM8uXHPiULKh.jpg
+backdrop_tmdb_path: /eWaYLFM36MFCq9tR8s0pZlWSy6Z.jpg

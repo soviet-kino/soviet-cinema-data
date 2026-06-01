@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q106756446
   imdb: tt0174305
   youtube: 8jokO05YaZ4
+  tmdb: 813782
 sources:
 - https://www.wikidata.org/wiki/Q106756446
 schema_version: 1
@@ -25,3 +26,5 @@ cast:
 - person: umuraliev-asanbek
 - person: zhumadylov-sovetbek
 - person: seydakmatova-dzhamal
+poster_tmdb_path: /hij2rNazbv6jAgY6evKUcbW6yva.jpg
+backdrop_tmdb_path: /mhBJBKZu1ybHJiUZadU8tIElB98.jpg

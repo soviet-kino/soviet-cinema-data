@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q46995729
   imdb: tt0291549
   youtube: eaYFaT9dVGY
+  tmdb: 638109
 sources:
 - https://www.wikidata.org/wiki/Q46995729
 schema_version: 1
@@ -25,3 +26,5 @@ studio:
 cast:
 - person: evstigneev-evgeniy-aleksandrovich
 - person: lapikov-ivan-gerasimovich
+poster_tmdb_path: /dOpfOPvBUscW7B1I1N3sT9pJlZd.jpg
+backdrop_tmdb_path: /tAMS77xdrp66rj7yT81i59TcuK6.jpg

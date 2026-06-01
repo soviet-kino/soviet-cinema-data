@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q6319864
   imdb: tt0151169
+  tmdb: 284551
 sources:
 - https://www.wikidata.org/wiki/Q6319864
 schema_version: 1
@@ -61,3 +62,5 @@ cast:
 - person: bakhlet-rudolf
 - person: uhlar-rudo
 - person: valenta-martin
+poster_tmdb_path: /gsUSkIbcDs6pCKSwPpsuk1JSThM.jpg
+backdrop_tmdb_path: /1f2NYUFjfASv8Fl5WDbUlEnQAQ8.jpg

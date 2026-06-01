@@ -8,6 +8,7 @@ runtime_min: 83
 external_ids:
   wikidata: Q84994314
   imdb: tt0069381
+  tmdb: 1103468
 sources:
 - https://www.wikidata.org/wiki/Q84994314
 schema_version: 1
@@ -19,3 +20,4 @@ composer:
 - buevskiy-boris-nikolaevich
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /p1cmzYsA4oTuPNZDFUnyYSsyOcK.jpg

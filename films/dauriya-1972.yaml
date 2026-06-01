@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q1173028
   imdb: tt0066969
   youtube: D-Rw-akZKSg
+  tmdb: 142808
 sources:
 - https://www.wikidata.org/wiki/Q1173028
 schema_version: 1
@@ -33,3 +34,5 @@ cast:
 - person: solomin-yuriy-mefodevich
 - person: gerdt-zinoviy-efimovich
 - person: kuznetsova-vera-andreevna
+poster_tmdb_path: /mGljeS8IWDIrIkCVpy6QzQu4FvP.jpg
+backdrop_tmdb_path: /kQV5ELuu28lqV3UdG5rDllVKkkJ.jpg

@@ -8,6 +8,7 @@ runtime_min: 85
 external_ids:
   wikidata: Q20890366
   imdb: tt0054780
+  tmdb: 117042
 sources:
 - https://www.wikidata.org/wiki/Q20890366
 schema_version: 1
@@ -48,3 +49,5 @@ cast:
 - person: skruzny-j
 - person: belohoubek-jiri
 - person: holohlavska
+poster_tmdb_path: /mGdbQdpGPKDT2IGle5ojhMMfeKl.jpg
+backdrop_tmdb_path: /k6agLsZ8rlswcckzyEes7A52eOX.jpg

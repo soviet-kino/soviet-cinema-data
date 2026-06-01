@@ -8,6 +8,7 @@ runtime_min: 92
 external_ids:
   wikidata: Q4134601
   imdb: tt0058130
+  tmdb: 81227
 sources:
 - https://www.wikidata.org/wiki/Q4134601
 schema_version: 1
@@ -36,3 +37,5 @@ cast:
 - person: talarchik-kazimir
 studio:
 - start-kinostudiya
+poster_tmdb_path: /tQLBe63sCMNHR0jYgOBr42MTgPH.jpg
+backdrop_tmdb_path: /oI9MuTPTfelspXtDQtWRRdEmHjw.jpg

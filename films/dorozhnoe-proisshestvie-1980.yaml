@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16376373
   imdb: tt4876546
+  tmdb: 524192
 sources:
 - https://www.wikidata.org/wiki/Q16376373
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: ismaylov-gadzhi
 studio:
 - azerbaydzhanfilm
+poster_tmdb_path: /4ayH5uSG1oyNLu8Uc9ERZWXtpQ.jpg
+backdrop_tmdb_path: /gdbwfNxCUq73lGp6oyaCkGOCnBw.jpg

@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4229152
   imdb: tt0068812
   youtube: XlX1IjPhmVU
+  tmdb: 219926
 sources:
 - https://www.wikidata.org/wiki/Q4229152
 schema_version: 1
@@ -26,3 +27,5 @@ cast:
 - person: banionis-donatas-yuozovich
 - person: borisov-aleksandr-fyodorovich
 - person: velyaminov-pyotr-sergeevich
+poster_tmdb_path: /gUfQxKCY4zT2kj40OtqIOXFmkiw.jpg
+backdrop_tmdb_path: /aKdwC9P0StQSnODwWg7MSqBxLqJ.jpg

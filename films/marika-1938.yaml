@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q18209213
   imdb: tt0029215
+  tmdb: 820735
 sources:
 - https://www.wikidata.org/wiki/Q18209213
 schema_version: 1
@@ -16,3 +17,4 @@ cast:
 - person: yavor-pal
 - person: yukhas-zhozef
 - person: pertsel-zita
+poster_tmdb_path: /vtVU6moOE8Zn1oZoDt56zYb2jau.jpg

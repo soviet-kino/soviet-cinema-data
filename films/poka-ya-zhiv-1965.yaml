@@ -8,6 +8,7 @@ runtime_min: 114
 external_ids:
   wikidata: Q2298212
   imdb: tt0175187
+  tmdb: 281552
 sources:
 - https://www.wikidata.org/wiki/Q2298212
 schema_version: 1
@@ -59,3 +60,5 @@ cast:
 - person: brunecker-wolfgang
 - person: ostberg-wolfgang
 - person: khetterle-albert
+poster_tmdb_path: /zjGKStCd18FSsKW7PzjAiBj5Zs5.jpg
+backdrop_tmdb_path: /tZWlc8lLJpVx2060GlowIuclNAJ.jpg

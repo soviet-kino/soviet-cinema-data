@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9366484
   imdb: tt0088314
+  tmdb: 374692
 sources:
 - https://www.wikidata.org/wiki/Q9366484
 schema_version: 1
@@ -28,3 +29,4 @@ cast:
 - person: vysotski-marek
 studio:
 - iluzjon
+poster_tmdb_path: /ftd0njby48BEUjmNer8VMAdGC0Y.jpg

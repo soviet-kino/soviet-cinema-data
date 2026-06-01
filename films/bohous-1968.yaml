@@ -8,6 +8,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q18915288
   imdb: tt0174512
+  tmdb: 132229
 sources:
 - https://www.wikidata.org/wiki/Q18915288
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: sovak-irzhi
 - person: menshik-vladimir
 - person: baldur
+poster_tmdb_path: /p6j6oD8WCUraH6GZh51uCzk3QbB.jpg
+backdrop_tmdb_path: /1HwwVs5cAejhlscVcxLVVpitVQk.jpg

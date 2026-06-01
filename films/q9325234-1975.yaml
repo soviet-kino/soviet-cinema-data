@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q9325234
   imdb: tt0272179
+  tmdb: 461723
 sources:
 - https://www.wikidata.org/wiki/Q9325234
 schema_version: 1
@@ -14,3 +15,5 @@ director:
 - zhabjaku-ismail
 composer:
 - mula-avni
+poster_tmdb_path: /wnxTMeZN0qql2X28lEHRMXHbX2k.jpg
+backdrop_tmdb_path: /qscSoqEzSGfsTX5yGmBnhN56iHv.jpg

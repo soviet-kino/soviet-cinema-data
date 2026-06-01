@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q130438072
   imdb: tt0385819
+  tmdb: 463726
 sources:
 - https://www.wikidata.org/wiki/Q130438072
 schema_version: 1
@@ -18,3 +19,5 @@ screenwriter:
 - aymedova-mayagozel
 studio:
 - turkmenfilm
+poster_tmdb_path: /6pCnHQSQgRJ0y1fbFhEAVlAu3cV.jpg
+backdrop_tmdb_path: /Aor56kqC1aEkjyLCDlLnOyKhLqQ.jpg

@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25894457
   imdb: tt0154948
+  tmdb: 719935
 sources:
 - https://www.wikidata.org/wiki/Q25894457
 schema_version: 1
@@ -20,3 +21,4 @@ cast:
 - person: maftey-ernest
 - person: barbu-marga
 - person: vraka-dzheordzhe
+poster_tmdb_path: /lRpAP3i7NZHzC7HCapbeZfLg1Wj.jpg

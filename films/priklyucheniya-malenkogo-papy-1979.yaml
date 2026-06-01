@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q112930621
   imdb: tt2040475
   youtube: s9N5FyW8NYM
+  tmdb: 469185
 sources:
 - https://www.wikidata.org/wiki/Q112930621
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 - savelev-boris
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /3Q92X9iOcWZfU1xP6gNG6RNadzV.jpg
+backdrop_tmdb_path: /aBSkqCV4cOggespMvtS9EjzGHx1.jpg

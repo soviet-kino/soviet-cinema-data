@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4191973
   imdb: tt0187612
   youtube: qlJoNFSByG0
+  tmdb: 444849
 sources:
 - https://www.wikidata.org/wiki/Q4191973
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: kuznetsova-vera-andreevna
 - person: timofeev-nikolay-dmitrievich
+poster_tmdb_path: /6g1cN7DDwtgjZlTlVtBhWs77Rki.jpg
+backdrop_tmdb_path: /msEkagKXF9tKhFTrVKtCSHTRc2K.jpg

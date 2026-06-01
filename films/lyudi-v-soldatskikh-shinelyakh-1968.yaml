@@ -8,6 +8,7 @@ runtime_min: 91
 external_ids:
   wikidata: Q4272046
   imdb: tt0445467
+  tmdb: 155999
 sources:
 - https://www.wikidata.org/wiki/Q4272046
 schema_version: 1
@@ -21,3 +22,5 @@ cinematographer:
 - dorovatovskiy-mikhail-ivanovich
 studio:
 - tallinfilm
+poster_tmdb_path: /t2nTrhMuFARsZsEQZFyx7pvhlzj.jpg
+backdrop_tmdb_path: /4I2ACWLoS21rB57GzL2ENjCjTrZ.jpg

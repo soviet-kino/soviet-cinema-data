@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4192480
   imdb: tt0020285
   youtube: jrUsrM3q19A
+  tmdb: 289388
 sources:
 - https://www.wikidata.org/wiki/Q4192480
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: mkrtchyan-samvel
 studio:
 - armenfilm
+poster_tmdb_path: /2uAlfqp42h0YN15s2LhaS6oxa4a.jpg

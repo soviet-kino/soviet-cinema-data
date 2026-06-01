@@ -8,6 +8,7 @@ runtime_min: 94
 external_ids:
   wikidata: Q7142717
   imdb: tt0071874
+  tmdb: 506832
 sources:
 - https://www.wikidata.org/wiki/Q7142717
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - kovach-mirko
 studio:
 - yadran-film
+poster_tmdb_path: /e0O7GySdaiPp653YEQExGqCc9Qi.jpg

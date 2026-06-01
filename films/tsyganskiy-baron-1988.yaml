@@ -8,6 +8,7 @@ runtime_min: 80
 external_ids:
   wikidata: Q4506354
   imdb: tt0307594
+  tmdb: 896688
 sources:
 - https://www.wikidata.org/wiki/Q4506354
 schema_version: 1
@@ -17,3 +18,4 @@ cast:
 - person: trofimov-nikolay-nikolaevich
 studio:
 - pyatyy-kanal
+poster_tmdb_path: /7sgBzAz5OzSss3UreaR5PaQKpsC.jpg

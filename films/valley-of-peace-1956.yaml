@@ -8,6 +8,7 @@ runtime_min: 82
 external_ids:
   wikidata: Q2359141
   imdb: tt0049150
+  tmdb: 106765
 sources:
 - https://www.wikidata.org/wiki/Q2359141
 schema_version: 1
@@ -18,3 +19,5 @@ composer:
 cast:
 - person: kitsmiller-dzhon
 poster_commons: Prizor iz filma Dolina miru.jpg
+poster_tmdb_path: /sL7FpBdMod7WAfd07A5v0D0pLzn.jpg
+backdrop_tmdb_path: /siNF05xZZzMwlc46iSmEBVUkIce.jpg

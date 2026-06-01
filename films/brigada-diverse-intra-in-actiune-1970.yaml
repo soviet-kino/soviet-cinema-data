@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q18538301
   imdb: tt0123391
+  tmdb: 152835
 sources:
 - https://www.wikidata.org/wiki/Q18538301
 schema_version: 1
@@ -30,3 +31,4 @@ cast:
 - person: floresku-zhan-lorin
 - person: shumakher-ovidu
 - person: kelinesku-puyu
+poster_tmdb_path: /rTUEfb9jCIFiVuRazTujWwjxUg5.jpg

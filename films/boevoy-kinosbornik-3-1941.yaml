@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4090106
   imdb: tt0033417
+  tmdb: 1081043
 sources:
 - https://www.wikidata.org/wiki/Q4090106
 schema_version: 1
@@ -22,3 +23,4 @@ cast:
 studio:
 - mosfilm
 - kanadskaya-gosudarstvennaya-sluzhba-kinematografii
+poster_tmdb_path: /sGS8KM4INAtI9lVzez0RoB7z3mM.jpg

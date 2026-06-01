@@ -8,6 +8,7 @@ runtime_min: 79
 external_ids:
   wikidata: Q4329082
   imdb: tt0091664
+  tmdb: 622427
 sources:
 - https://www.wikidata.org/wiki/Q4329082
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: mateshko-olga-nikolaevna
 studio:
 - kinostudiya-imeni-a-dovzhenko
+poster_tmdb_path: /oJYZEroB1mfDCHz86PuJedM3Zjv.jpg

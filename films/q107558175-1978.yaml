@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q107558175
   imdb: tt0077811
+  tmdb: 537885
 sources:
 - https://www.wikidata.org/wiki/Q107558175
 schema_version: 1
@@ -27,3 +28,5 @@ cast:
 - person: geshonnek-aleksandr
 - person: jahn-franziska
 - person: stolzner-michael
+poster_tmdb_path: /nhdL2WTJlK2opyDEumiOpbd1wxA.jpg
+backdrop_tmdb_path: /j1dq2NvbJ3a8tXWEsXHNkYmZZ5D.jpg

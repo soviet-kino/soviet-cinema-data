@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q16082539
   imdb: tt0182055
+  tmdb: 769376
 sources:
 - https://www.wikidata.org/wiki/Q16082539
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 cast:
 - person: zoran-radmilovich
 - person: slobodan-perovich
+poster_tmdb_path: /1vxmoIP6cV66AcF2Mw1Gs4zPooe.jpg

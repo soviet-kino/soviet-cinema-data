@@ -8,6 +8,7 @@ runtime_min: 1
 external_ids:
   wikidata: Q15270676
   imdb: tt1325584
+  tmdb: 1431375
 sources:
 - https://www.wikidata.org/wiki/Q15270676
 schema_version: 1
@@ -15,3 +16,5 @@ director:
 - kayukov-leonid-leontevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /iUBSsNqB5mVGKXCglOc9XFZMPtT.jpg
+backdrop_tmdb_path: /kgxCTZ5R7ebyNz92uMKxfMuWq7J.jpg

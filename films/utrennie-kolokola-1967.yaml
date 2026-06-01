@@ -8,6 +8,7 @@ runtime_min: 75
 external_ids:
   wikidata: Q4478955
   imdb: tt0274996
+  tmdb: 635915
 sources:
 - https://www.wikidata.org/wiki/Q4478955
 schema_version: 1
@@ -17,3 +18,5 @@ screenwriter:
 - mgeladze-karaman-georgievich
 studio:
 - gruziya-film
+poster_tmdb_path: /30K6yr1rijYcarczCyW4ua6aJC0.jpg
+backdrop_tmdb_path: /iuhXrludvnaJZwVZl1j5yRuUDok.jpg

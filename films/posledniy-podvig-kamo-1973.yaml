@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4373820
   imdb: tt0363733
   youtube: in_rTlu9rnw
+  tmdb: 533364
 sources:
 - https://www.wikidata.org/wiki/Q4373820
 schema_version: 1
@@ -37,3 +38,4 @@ cast:
 - person: vanyan-ovik
 studio:
 - armenfilm
+poster_tmdb_path: /nkIvwLQPVrQUHXpfAKw5nfEACBK.jpg

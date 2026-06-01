@@ -8,8 +8,10 @@ runtime_min: 111
 external_ids:
   wikidata: Q65214729
   imdb: tt0052531
+  tmdb: 286625
 sources:
 - https://www.wikidata.org/wiki/Q65214729
 schema_version: 1
 director:
 - makk-karoy
+poster_tmdb_path: /v5cMKwnpbGkSLKRCc949IzRvZ8S.jpg

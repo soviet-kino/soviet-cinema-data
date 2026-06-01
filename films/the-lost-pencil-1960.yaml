@@ -8,8 +8,10 @@ runtime_min: 47
 external_ids:
   wikidata: Q4734846
   imdb: tt0053960
+  tmdb: 354876
 sources:
 - https://www.wikidata.org/wiki/Q4734846
 schema_version: 1
 director:
 - skubonja-fedor
+poster_tmdb_path: /tdijs8JMRP4OCYkAYPCQfxj6oOm.jpg

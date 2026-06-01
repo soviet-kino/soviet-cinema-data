@@ -8,6 +8,7 @@ runtime_min: 63
 external_ids:
   wikidata: Q16376662
   imdb: tt0183120
+  tmdb: 313085
 sources:
 - https://www.wikidata.org/wiki/Q16376662
 schema_version: 1
@@ -21,3 +22,4 @@ cast:
 - person: asmik
 studio:
 - armenfilm
+poster_tmdb_path: /yc843mFtFALAIphLxd1mvG3dK3N.jpg

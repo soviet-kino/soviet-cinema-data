@@ -8,6 +8,7 @@ runtime_min: 78
 external_ids:
   wikidata: Q3935803
   imdb: tt0073627
+  tmdb: 291990
 sources:
 - https://www.wikidata.org/wiki/Q3935803
 schema_version: 1
@@ -20,3 +21,5 @@ studio:
 cast:
 - person: terekhova-margarita
 - person: batalov-aleksey-vladimirovich
+poster_tmdb_path: /xBup6KiSWQCkr7Vz6PsX3Gz74A1.jpg
+backdrop_tmdb_path: /4Nh5732wwFBC8AZERL0a7MzyJoo.jpg

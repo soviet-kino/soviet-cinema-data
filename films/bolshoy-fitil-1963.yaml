@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4093017
   imdb: tt0172190
   youtube: 9v-HTWaUr1Y
+  tmdb: 367178
 sources:
 - https://www.wikidata.org/wiki/Q4093017
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: bykov-leonid-fyodorovich
 - person: parfyonov-nikolay-ivanovich
 - person: filippov-sergey-nikolaevich
+poster_tmdb_path: /ABLhXjoYkXdN3iFO9H8wsX2sS9.jpg
+backdrop_tmdb_path: /95gAnnXymshKUzOYVcB1dgGH6LQ.jpg

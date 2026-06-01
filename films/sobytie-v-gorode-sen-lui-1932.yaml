@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q109428738
   imdb: tt21319754
+  tmdb: 1428605
 sources:
 - https://www.wikidata.org/wiki/Q109428738
 schema_version: 1
@@ -17,3 +18,4 @@ screenwriter:
 - chubar-egiya
 studio:
 - armenfilm
+poster_tmdb_path: /8w7NXHgT2c5M26cCfvhsYn0WHSP.jpg

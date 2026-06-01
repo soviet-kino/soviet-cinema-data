@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4366497
   imdb: tt0073565
+  tmdb: 389555
 sources:
 - https://www.wikidata.org/wiki/Q4366497
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: egorova-nataliya
 studio:
 - mosfilm
+poster_tmdb_path: /cSe9dScNkxGAUbzbXZoM9I7heqf.jpg

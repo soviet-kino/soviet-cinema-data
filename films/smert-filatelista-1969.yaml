@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4424421
   imdb: tt0274720
   youtube: UpzSXAWh0kI
+  tmdb: 849030
 sources:
 - https://www.wikidata.org/wiki/Q4424421
 schema_version: 1
@@ -23,3 +24,4 @@ cast:
 - person: tokhadze-givi-maksimovich
 studio:
 - gruziya-film
+poster_tmdb_path: /3ueWuBKuIrFxdjoXtITvN9uDmer.jpg

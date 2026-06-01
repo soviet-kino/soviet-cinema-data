@@ -8,6 +8,7 @@ runtime_min: 112
 external_ids:
   wikidata: Q7770207
   imdb: tt0172573
+  tmdb: 658214
 sources:
 - https://www.wikidata.org/wiki/Q7770207
 schema_version: 1
@@ -61,3 +62,4 @@ cast:
 - person: spachta-jan
 - person: urych-jiri
 - person: stur-vladimir
+poster_tmdb_path: /51jKfKML3db9fWjgNYtEwefoHdC.jpg

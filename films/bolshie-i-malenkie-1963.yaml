@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4092215
   imdb: tt1718742
   youtube: 5XV_b6Xv0H8
+  tmdb: 817901
 sources:
 - https://www.wikidata.org/wiki/Q4092215
 schema_version: 1
@@ -19,3 +20,5 @@ studio:
 - kinostudiya-imeni-m-gorkogo
 cast:
 - person: ivanova-lyudmila-ivanovna
+poster_tmdb_path: /7FJcJ6xPJOn2Y0bYdli9kJk5D0b.jpg
+backdrop_tmdb_path: /nj4lDTpUwes3EYPuLZbgE7xpzjY.jpg

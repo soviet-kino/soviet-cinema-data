@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4195091
   imdb: tt0077029
   youtube: HRvSJTIMDp8
+  tmdb: 248353
 sources:
 - https://www.wikidata.org/wiki/Q4195091
 schema_version: 1
@@ -24,3 +25,5 @@ studio:
 cast:
 - person: pelttser-tatyana-ivanovna
 - person: zharov-mikhail-ivanovich
+poster_tmdb_path: /oJweGkv9ONFTCUuZHjSTyKzdI4F.jpg
+backdrop_tmdb_path: /dKKag2AJZCiJMJDIDYBpLs9R1HE.jpg

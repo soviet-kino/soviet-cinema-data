@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q85858335
   imdb: tt0078858
   youtube: -lkyvDXJVPs
+  tmdb: 760797
 sources:
 - https://www.wikidata.org/wiki/Q85858335
 schema_version: 1
@@ -24,3 +25,5 @@ cast:
 - person: livanov-igor-evgenevich
 - person: markov-leonid-vasilevich
 - person: soshalskiy-vladimir-borisovich
+poster_tmdb_path: /oHUNVdTXmElPKBwvV1YccHsGL52.jpg
+backdrop_tmdb_path: /1wic9WSRMt8RqZ6mCdz3bPgsHJA.jpg

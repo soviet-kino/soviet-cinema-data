@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q11836598
   imdb: tt0066431
+  tmdb: 934520
 sources:
 - https://www.wikidata.org/wiki/Q11836598
 schema_version: 1
@@ -41,3 +42,4 @@ cast:
 - person: kozierska-maria
 - person: uolter-dzhoanna
 - person: q123597873
+poster_tmdb_path: /cOGHcq2644FO7bE4cX7tiDphRde.jpg

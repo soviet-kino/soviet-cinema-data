@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q3211125
   imdb: tt0020230
   youtube: OWbK412Xx_o
+  tmdb: 151068
 sources:
 - https://www.wikidata.org/wiki/Q3211125
 schema_version: 1
@@ -39,3 +40,5 @@ studio:
 - lenfilm
 - sovkino
 poster_commons: Плакат к фильму «Новый Вавилон».jpg
+poster_tmdb_path: /dNCqMzEEuE8JqBYlCqgNJR9IIrv.jpg
+backdrop_tmdb_path: /8vP94qlEcANAfPG7SepjXnZfGTW.jpg

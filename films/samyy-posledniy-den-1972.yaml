@@ -8,6 +8,7 @@ runtime_min: 69
 external_ids:
   wikidata: Q4407206
   imdb: tt0185659
+  tmdb: 541202
 sources:
 - https://www.wikidata.org/wiki/Q4407206
 schema_version: 1
@@ -29,3 +30,4 @@ cast:
 - person: chinkin-boris-mikhaylovich
 studio:
 - mosfilm
+poster_tmdb_path: /n7WepyP5tzt5a2QvZC86ulKIGX2.jpg

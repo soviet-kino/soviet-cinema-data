@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q9284244
   imdb: tt0082456
+  tmdb: 579075
 sources:
 - https://www.wikidata.org/wiki/Q9284244
 schema_version: 1
@@ -27,3 +28,4 @@ cast:
 - person: fetting-edmund
 studio:
 - zespol-filmowy-x
+poster_tmdb_path: /p9eemQbfHSgwGpuGC4xIa9Lnmyy.jpg

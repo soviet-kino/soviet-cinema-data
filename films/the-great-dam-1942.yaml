@@ -8,6 +8,7 @@ runtime_min: 106
 external_ids:
   wikidata: Q56290970
   imdb: tt0279500
+  tmdb: 596106
 sources:
 - https://www.wikidata.org/wiki/Q56290970
 schema_version: 1
@@ -74,3 +75,4 @@ cast:
 - person: kupsovsky-bohuslav
 - person: vildova-marie
 - person: hajek-vladimir
+poster_tmdb_path: /azGl6sf6gomaul4SGK0GE6hKqWj.jpg

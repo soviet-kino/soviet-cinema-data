@@ -8,6 +8,7 @@ runtime_min: 86
 external_ids:
   wikidata: Q2484705
   imdb: tt0074643
+  tmdb: 78818
 sources:
 - https://www.wikidata.org/wiki/Q2484705
 schema_version: 1
@@ -70,3 +71,5 @@ cast:
 - person: svojan-frantisek
 - person: slehofer-vladimir
 - person: zvolsky-jaroslav
+poster_tmdb_path: /3D0JtMmxiQGh9B1vugWpXJtO9IB.jpg
+backdrop_tmdb_path: /c8h9h72rqlk7uVbVOSfMmRwXtOI.jpg

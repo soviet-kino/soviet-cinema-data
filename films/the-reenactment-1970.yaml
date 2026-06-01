@@ -8,6 +8,7 @@ runtime_min: 100
 external_ids:
   wikidata: Q3212174
   imdb: tt0063493
+  tmdb: 35166
 sources:
 - https://www.wikidata.org/wiki/Q3212174
 schema_version: 1
@@ -23,3 +24,5 @@ cast:
 - person: botta-emil
 - person: maftey-ernest
 - person: mikhaitsa-dzhordzh
+poster_tmdb_path: /rP4IccmKqlgLCvCu7SH79ELUDez.jpg
+backdrop_tmdb_path: /q7wHeDM7qKG1NKo2yOJQjx3hF6L.jpg

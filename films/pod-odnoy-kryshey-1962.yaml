@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q25519181
   imdb: tt0447574
+  tmdb: 1163512
 sources:
 - https://www.wikidata.org/wiki/Q25519181
 schema_version: 1
@@ -14,3 +15,4 @@ director:
 - eltsov-igor
 studio:
 - tallinfilm
+poster_tmdb_path: /81qltt2cbjQb04dM6QpikSkvx8f.jpg
