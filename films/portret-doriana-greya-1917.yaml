@@ -4,6 +4,18 @@ title_original: Портрет Дориана Грея
 year: 1917
 country:
 - HU
+director:
+- dizi-alfred
+screenwriter:
+- pakots-jozsef
+cinematographer:
+- fass-karl
+cast:
+- person: lugoshi-bela
+- person: hollay-camilla-von
+- person: loth-ila
+- person: dan-norbert
+poster_commons: Az élet királya1918.jpg
 external_ids:
   wikidata: Q7757059
   imdb: tt0009852

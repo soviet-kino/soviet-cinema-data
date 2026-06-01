@@ -4,6 +4,12 @@ title_original: Ночной извозчик
 year: 1927
 country:
 - SU
+director:
+- tasin-georgiy
+screenwriter:
+- zats-moisey-borisovich
+cast:
+- person: buchma-amvrosiy-maksimilianovich
 runtime_min: 54
 external_ids:
   wikidata: Q4327775

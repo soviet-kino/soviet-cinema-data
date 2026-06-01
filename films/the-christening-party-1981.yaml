@@ -4,13 +4,8 @@ title_original: The Christening Party
 year: 1981
 country:
 - CS
-runtime_min: 77
-external_ids:
-  wikidata: Q136717842
-  imdb: tt0167243
-sources:
-- https://www.wikidata.org/wiki/Q136717842
-schema_version: 1
+studio:
+- barrandov-film-studio
 director:
 - podskalsky-zdenek
 screenwriter:
@@ -52,5 +47,10 @@ cast:
 - person: opratko-jiri
 - person: jerieova-sarka
 - person: charova-katerina
-studio:
-- barrandov-film-studio
+runtime_min: 77
+external_ids:
+  wikidata: Q136717842
+  imdb: tt0167243
+sources:
+- https://www.wikidata.org/wiki/Q136717842
+schema_version: 1

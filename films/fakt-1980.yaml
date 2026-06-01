@@ -4,6 +4,21 @@ title_original: Факт
 year: 1980
 country:
 - SU
+director:
+- grikyavichyus-almantas
+screenwriter:
+- zhalakyavichyus-vitautas
+cast:
+- person: kaidanovsky-aleksandr
+- person: adomaytis-regimantas
+- person: banionis-donatas-yuozovich
+- person: solovey-elena-yakovlevna
+- person: masyulis-algimantas-ionovich
+- person: budraytis-yuozas-stanislavas
+- person: dumpis-uldis
+- person: litsitis-arnis
+- person: obolenskiy-leonid-leonidovich
+- person: pleshkite-eugeniya
 runtime_min: 91
 external_ids:
   wikidata: Q1990335

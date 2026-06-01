@@ -4,10 +4,32 @@ title_original: Всадник на золотом коне
 year: 1980
 country:
 - SU
+studio:
+- mosfilm
+director:
+- zhuravlyov-vasiliy-nikolaevich
+screenwriter:
+- viktor-vitkovich
+cinematographer:
+- bolshakov-nikolay-ivanovich
+composer:
+- khasanov-rim-makhmutovich
+cast:
+- person: agapova-nina-fyodorovna
+- person: babicheva-tansulpan-dagievna
+- person: vinnik-pavel-borisovich
+- person: safich-gafarov-fidan
+- person: glebov-pyotr-petrovich
+- person: malysheva-irina-valentinovna
+- person: khanov-oleg-zakirovich
+- person: yumagulov-ilshat-khalilovich
+- person: yarullin-khamid-gataullinovich
+- person: kudashev-khusain-ilderkhanovich
 runtime_min: 68
 external_ids:
   wikidata: Q1196462
   imdb: tt1475178
+  youtube: C06pjVeRTGc
 sources:
 - https://www.wikidata.org/wiki/Q1196462
 schema_version: 1

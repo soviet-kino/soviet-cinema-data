@@ -4,6 +4,23 @@ title_original: 13-ая невеста принца
 year: 1987
 country:
 - BG
+director:
+- grybcheva-ivanka
+screenwriter:
+- mormarevi-bratya
+cinematographer:
+- vagenshtayn-grisha
+composer:
+- genkov-georgiy
+cast:
+- person: kynev-velko
+- person: mamalev-georgi
+- person: lolova-tatyana
+- person: grigorov-ivan
+- person: partsalev-georgi
+- person: puncheva-boryana
+- person: kamarashev-vylcho
+- person: poppandov-pavel
 runtime_min: 85
 external_ids:
   wikidata: Q12270401

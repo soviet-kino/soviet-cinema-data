@@ -4,10 +4,26 @@ title_original: Зоя
 year: 1944
 country:
 - SU
+studio:
+- kinostudiya-imeni-m-gorkogo
+- soyuzdetfilm
+director:
+- arnshtam-leo-oskarovich
+screenwriter:
+- arnshtam-leo-oskarovich
+- chirskov-boris
+cinematographer:
+- shelenkov-aleksandr-vladimirovich
+composer:
+- dmitriy-shostakovich
+cast:
+- person: vodyanitskaya-galina-vladimirovna
+- person: gurnyak-karl-adamovich
 runtime_min: 95
 external_ids:
   wikidata: Q8074696
   imdb: tt0037482
+  youtube: asbRamqCH1Y
 sources:
 - https://www.wikidata.org/wiki/Q8074696
 schema_version: 1

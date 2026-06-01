@@ -4,6 +4,28 @@ title_original: Белая голубка
 year: 1960
 country:
 - CS
+director:
+- vlachil-frantishek
+screenwriter:
+- vlachil-frantishek
+cinematographer:
+- churzhik-yan
+composer:
+- lishka-zdenek
+cast:
+- person: raynike-gans-peter
+- person: fialka-ladislav
+- person: pyuttyer-gustav
+- person: smyczek-karel
+- person: kovarik-frantisek
+- person: irmanovova-katerina
+- person: pitashova-anna
+- person: irmanov-vjaceslav
+- person: erlebach-vladimir
+- person: patocka-jiri
+- person: gartner-karl
+- person: kocanda-petr
+- person: kocanda-pavel
 runtime_min: 76
 external_ids:
   wikidata: Q27500565

@@ -5,18 +5,32 @@ year: 1987
 country:
 - SU
 republic: RSFSR
+studio:
+- kinostudiya-imeni-m-gorkogo
+director:
+- arsenov-pavel-oganezovich
+screenwriter:
+- bulychyov-kir
+composer:
+- krylatov-evgeniy
+cast:
+- person: nevinnyy-vyacheslav-mikhaylovich
+- person: guseva-nataliya
+- person: baranov-vyacheslav-vasilevich
+- person: shcherbakov-boris-vasilevich
+runtime_min: 73
 language:
 - ru
-color: color
 genre:
 - science_fiction
 - childrens
+color: color
+production_status: released
+censorship_status: released
 topics:
 - childrens-cinema
 - chrononautics
 - science-fiction
-production_status: released
-censorship_status: released
 external_ids:
   wikidata: Q4261614
   youtube: U09BzD3hxvU
@@ -24,11 +38,3 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4261614
 schema_version: 1
-director:
-- arsenov-pavel-oganezovich
-screenwriter:
-- bulychyov-kir
-composer:
-- krylatov-evgeniy
-studio:
-- kinostudiya-imeni-m-gorkogo

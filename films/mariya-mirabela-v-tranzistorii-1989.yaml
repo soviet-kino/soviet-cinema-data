@@ -4,6 +4,35 @@ title_original: Мария, Мирабела в Транзистории
 year: 1989
 country:
 - SU
+studio:
+- mosfilm
+- soyuzmultfilm
+- radef
+- casa-de-filme-5
+director:
+- popesku-gopo-ion
+screenwriter:
+- popesku-gopo-ion
+- ezhov-valentin-ivanovich
+cinematographer:
+- rasulov-kabul-abdurakhmanovich
+- popescu-alecu
+composer:
+- vieru-grigore-pavlovich
+- doga-evgeniy
+cast:
+- person: nikulesku-shtefan
+- person: malaele-khoratyu
+- person: pellya-oana
+- person: zaytseva-elena-gennadevna
+- person: grigoriu-grigore-petru
+- person: popesku-stela
+- person: dikisyanu-ion
+- person: biserikanu-mikhay
+- person: voychu-yorzh
+- person: gheorghe-aglaia
+- person: moraru-ioana
+- person: kuchinska-andrianu
 runtime_min: 71
 external_ids:
   wikidata: Q4281620

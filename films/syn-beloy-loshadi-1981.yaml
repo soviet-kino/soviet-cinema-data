@@ -4,6 +4,15 @@ title_original: Сын белой лошади
 year: 1981
 country:
 - HU
+studio:
+- pannoniya
+director:
+- martsel-yankovich
+screenwriter:
+- martsel-yankovich
+- giorgi-laslo
+cinematographer:
+- bacho-zoltan
 runtime_min: 90
 external_ids:
   wikidata: Q371490

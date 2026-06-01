@@ -4,6 +4,50 @@ title_original: Pro kamaráda
 year: 1940
 country:
 - CS
+director:
+- tsikan-miroslav
+screenwriter:
+- jilek-ladislav
+cinematographer:
+- vegricht-julius
+composer:
+- stelibsky-josef
+cast:
+- person: grushinskiy-rudolf
+- person: malina-jaroslav
+- person: filipovskiy-frantishek
+- person: vitova-gana
+- person: letenska-anna
+- person: bogach-ladislav
+- person: fiala-eman
+- person: kemr-yozef
+- person: voyta-yaroslav
+- person: starshiy-pishtek-teodor
+- person: shmeral-vladimir
+- person: tregl-vatslav
+- person: trio-bajo
+- person: prchal-bolek
+- person: steimar-jiri
+- person: rzhepa-vladimir
+- person: vojtova-hermina
+- person: pivets-yan
+- person: mayova-stella
+- person: spazierova-hezka-mila
+- person: nejstarsi-rudolf-hrusinsky
+- person: fiala-jindrich
+- person: norrova-marie
+- person: maj-karel
+- person: sadilek-jaroslav
+- person: smichovsky-vladimir
+- person: jirsa-antonin
+- person: rosenbergova-slavka
+- person: subrt-milos
+- person: blahnik-jiri
+- person: blahnik-lumir
+- person: solc-antonin
+- person: hornikova-vera
+- person: podrabska-vlasta
+- person: duskova-jitka
 runtime_min: 77
 external_ids:
   wikidata: Q7246793

@@ -4,6 +4,21 @@ title_original: Великий воин Албании Скандербег
 year: 1953
 country:
 - SU
+studio:
+- mosfilm
+- albfilm
+director:
+- yutkevich-sergey-iosifovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- zadeja-cesk
+cast:
+- person: logoretsi-mariya
+- person: zhakov-oleg-petrovich
+- person: khorava-akakiy-alekseevich
+- person: imami-besa
+- person: sokolovskiy-semyon-grigorevich
 runtime_min: 120
 external_ids:
   wikidata: Q2707305

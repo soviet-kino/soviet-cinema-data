@@ -4,13 +4,8 @@ title_original: Гибель 31 отдела
 year: 1979
 country:
 - SU
-runtime_min: 134
-external_ids:
-  wikidata: Q31279923
-  imdb: tt0193191
-sources:
-- https://www.wikidata.org/wiki/Q31279923
-schema_version: 1
+studio:
+- tallinfilm
 director:
 - urbla-peeter
 screenwriter:
@@ -20,9 +15,14 @@ cinematographer:
 - blinov-valeriy-fyodorovich
 composer:
 - rannap-reyn
-studio:
-- tallinfilm
 cast:
 - person: ulfsak-lembit-yukhanovich
 - person: klooren-enn
 - person: volmer-omar
+runtime_min: 134
+external_ids:
+  wikidata: Q31279923
+  imdb: tt0193191
+sources:
+- https://www.wikidata.org/wiki/Q31279923
+schema_version: 1

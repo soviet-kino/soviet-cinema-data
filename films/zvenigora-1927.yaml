@@ -4,7 +4,24 @@ title_original: Звенигора
 year: 1927
 country:
 - SU
+studio:
+- mosfilm
+- odesskaya-kinostudiya
+- vseukrainskoe-fotokinoupravlenie
+director:
+- dovzhenko-aleksandr-petrovich
+screenwriter:
+- dovzhenko-aleksandr-petrovich
+cinematographer:
+- zavelev-boris-isaakovich
+composer:
+- ovchinnikov-vyacheslav
+cast:
+- person: uralskiy-vladimir-mikhaylovich
+- person: podorozhnyy-aleksandr
+- person: svashenko-semyon-andreevich
 runtime_min: 78
+poster_commons: Плакат к фильму «Звенигора» (Воронов, Евстафьев).jpg
 external_ids:
   wikidata: Q1964744
   imdb: tt0019611

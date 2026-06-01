@@ -4,14 +4,8 @@ title_original: Комиссар
 year: 1967
 country:
 - SU
-runtime_min: 110
-external_ids:
-  wikidata: Q1213999
-  imdb: tt0061876
-  youtube: RoJIhadFY1Q
-sources:
-- https://www.wikidata.org/wiki/Q1213999
-schema_version: 1
+studio:
+- kinostudiya-imeni-m-gorkogo
 director:
 - askoldov-aleksandr-yakovlevich
 screenwriter:
@@ -21,10 +15,16 @@ cinematographer:
 - ginzburg-valeriy
 composer:
 - schnittke-alfred
-studio:
-- kinostudiya-imeni-m-gorkogo
 cast:
 - person: mordyukova-nonna-viktorovna
 - person: shukshin-vasiliy
 - person: bykov-rolan-antonovich
 - person: nedashkovskaya-raisa-stepanovna
+runtime_min: 110
+external_ids:
+  wikidata: Q1213999
+  imdb: tt0061876
+  youtube: RoJIhadFY1Q
+sources:
+- https://www.wikidata.org/wiki/Q1213999
+schema_version: 1

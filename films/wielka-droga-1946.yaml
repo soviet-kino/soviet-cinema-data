@@ -4,6 +4,19 @@ title_original: Wielka droga
 year: 1946
 country:
 - PL
+director:
+- vashinskiy-mikhal
+- kottafavi-vittorio
+screenwriter:
+- tom-konrad
+composer:
+- vars-khenrik
+cast:
+- person: lawinski-ludwik
+- person: anders-irena-renata
+- person: karlini-paolo
+- person: andzheevskaya-yadviga
+- person: varni-giuseppe
 external_ids:
   wikidata: Q7999010
   imdb: tt0283145

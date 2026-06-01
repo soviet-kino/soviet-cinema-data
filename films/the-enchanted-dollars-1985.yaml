@@ -4,6 +4,11 @@ title_original: The Enchanted Dollars
 year: 1985
 country:
 - HU
+director:
+- buytor-ishtvan
+cast:
+- person: buytor-ishtvan
+- person: kern-andrash
 external_ids:
   wikidata: Q785196
   imdb: tt0089084

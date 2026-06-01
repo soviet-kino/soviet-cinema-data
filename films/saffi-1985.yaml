@@ -4,6 +4,20 @@ title_original: Саффи
 year: 1985
 country:
 - HU
+studio:
+- pannoniya
+director:
+- dargai-attila
+screenwriter:
+- dargai-attila
+- nepp-yozhef
+- romkhaniy-yozhef
+cinematographer:
+- khenrik-iren
+- lossonczy-arpad
+composer:
+- shtraus-iogann
+- bardos-tamas-daroci
 runtime_min: 80
 external_ids:
   wikidata: Q521082

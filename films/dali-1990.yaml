@@ -4,6 +4,22 @@ title_original: Dalí
 year: 1990
 country:
 - BG
+director:
+- ribas-entoni
+cast:
+- person: duglas-sara
+- person: lukanov-boris
+- person: buynozov-dimitr
+- person: yanashev-ananiy
+- person: kuinn-lorentso
+- person: novel-rosa
+- person: dimitrov-vasil
+- person: savova-dimitrina
+- person: surchadzhiev-iosif
+- person: yanev-kiril
+- person: petrov-naycho
+- person: iliev-stefan
+- person: uollak-ketrin
 runtime_min: 106
 external_ids:
   wikidata: Q2384051

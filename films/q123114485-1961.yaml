@@ -4,6 +4,14 @@ title_original: Q123114485
 year: 1961
 country:
 - HU
+director:
+- varkoni-zoltan
+cinematographer:
+- khildebrand-ishtvan
+cast:
+- person: kallai-ferents
+- person: baro-anna
+- person: veress-gabor
 external_ids:
   wikidata: Q123114485
   imdb: tt0053743

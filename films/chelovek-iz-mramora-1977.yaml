@@ -4,6 +4,35 @@ title_original: Человек из мрамора
 year: 1977
 country:
 - PL
+director:
+- wajda-andrzej
+screenwriter:
+- stsibor-rylskiy-aleksandr
+cinematographer:
+- klosinskiy-edvard
+composer:
+- kozhinskiy-andzhey
+cast:
+- person: vuytsik-magda-teresa
+- person: yanda-kristina
+- person: falk-feliks
+- person: severin-andzhey
+- person: kristina-zakhvatovich
+- person: lomnitskiy-tadeush
+- person: lyaskovskaya-irena
+- person: ezhi-radzivilovich
+- person: zentek-eva
+- person: kershnovskiy-kshishtof
+- person: stalinska-dorota
+- person: kachor-kazimezh
+- person: graziewicz-andrzej
+- person: drzewicz-wies-aw
+- person: voytsik-vislav
+- person: kozien-zdzis-aw
+- person: shimborskiy-zdzislav
+- person: lepkovskaya-ilona
+- person: kopachevskiy-yaroslav
+- person: kholts-vitold
 runtime_min: 157
 external_ids:
   wikidata: Q1195506

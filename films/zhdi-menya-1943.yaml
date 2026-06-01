@@ -4,10 +4,30 @@ title_original: Жди меня
 year: 1943
 country:
 - SU
+studio:
+- kazakhfilm
+director:
+- ivanov-boris-grigorevich
+- stolper-aleksandr
+screenwriter:
+- simonov-konstantin-mikhaylovich
+cinematographer:
+- rubashkin-samuil-yakovlevich
+composer:
+- biryukov-yuriy-sergeevich
+- kryukov-nikolay-nikolaevich-2
+cast:
+- person: serova-valentina-vasilevna
+- person: bernes-mark-naumovich
+- person: sverdlin-lev-naumovich
+- person: blinov-boris-vladimirovich
+- person: martynov-andrey-leonidovich
+- person: nazvanov-mikhail-mikhaylovich
 runtime_min: 87
 external_ids:
   wikidata: Q4178561
   imdb: tt0036558
+  youtube: GjgpRXLztmo
 sources:
 - https://www.wikidata.org/wiki/Q4178561
 schema_version: 1

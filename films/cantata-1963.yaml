@@ -4,6 +4,20 @@ title_original: Cantata
 year: 1963
 country:
 - HU
+director:
+- yancho-miklosh
+screenwriter:
+- yancho-miklosh
+- khernadi-gyula
+- lendel-yozhef
+cinematographer:
+- shomlo-tamash
+composer:
+- sarosi-balint
+cast:
+- person: zoltan-latinovich
+- person: aytai-andor
+- person: bodrogi-gyula
 runtime_min: 107
 external_ids:
   wikidata: Q4540701

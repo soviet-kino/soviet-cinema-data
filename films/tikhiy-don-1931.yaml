@@ -4,7 +4,19 @@ title_original: Тихий Дон
 year: 1931
 country:
 - SU
+studio:
+- mosfilm
+- soyuzkino
+director:
+- preobrazhenskaya-olga-ivanovna
+cinematographer:
+- feldman-dmitriy-moiseevich
+cast:
+- person: abrikosov-andrey-lvovich
+- person: podgornyy-nikolay-afanasevich
+- person: tsesarskaya-emma-vladimirovna
 runtime_min: 87
+poster_commons: Tixiy Don.jpg
 external_ids:
   wikidata: Q4458496
   imdb: tt0021476

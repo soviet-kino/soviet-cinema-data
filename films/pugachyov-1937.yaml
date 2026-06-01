@@ -4,6 +4,21 @@ title_original: Пугачёв
 year: 1937
 country:
 - SU
+studio:
+- lenfilm
+director:
+- petrov-bytov-pavel-petrovich
+screenwriter:
+- forsh-olga-dmitrievna
+cinematographer:
+- kinooperator-nazarov-anatoliy-mikhaylovich
+composer:
+- shebalin-vissarion-yakovlevich
+cast:
+- person: gardin-vladimir-rostislavovich
+- person: skorobogatov-konstantin-vasilevich
+- person: mukhutdinov-kasim-mukhutdinovich
+- person: malyutin-yakov-osipovich
 runtime_min: 101
 external_ids:
   wikidata: Q15545336

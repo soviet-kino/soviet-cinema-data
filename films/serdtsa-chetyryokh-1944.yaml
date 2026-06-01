@@ -4,10 +4,22 @@ title_original: Сердца четырёх
 year: 1944
 country:
 - SU
+studio:
+- mosfilm
+director:
+- yudin-konstantin-konstantinovich
+screenwriter:
+- fayko-aleksey-mikhaylovich
+composer:
+- milyutin-yuriy-sergeevich
+cast:
+- person: serova-valentina-vasilevna
 runtime_min: 80
+poster_commons: 4 hearts.jpg
 external_ids:
   wikidata: Q4417231
   imdb: tt0038533
+  youtube: yVSZ42kfrbg
 sources:
 - https://www.wikidata.org/wiki/Q4417231
 schema_version: 1

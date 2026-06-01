@@ -4,7 +4,53 @@ title_original: Иван Грозный
 year: 1944
 country:
 - SU
+studio:
+- mosfilm
+director:
+- eyzenshteyn-sergey-mikhaylovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+cinematographer:
+- moskvin-andrey-nikolaevich
+- tisse-eduard-kazimirovich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: pudovkin-vsevolod-illarionovich
+- person: kadochnikov-pavel-petrovich
+- person: yumatov-georgiy-aleksandrovich
+- person: romm-mikhail-ilich
+- person: zeldin-vladimir-mikhaylovich
+- person: cherkasov-nikolay-konstantinovich
+- person: zharov-mikhail-ivanovich
+- person: zhakov-oleg-petrovich
+- person: vitsin-georgiy-mikhaylovich
+- person: abrikosov-andrey-lvovich
+- person: birman-serafima-germanovna
+- person: uralskiy-vladimir-mikhaylovich
+- person: anel-alekseevna-sudakevich
+- person: stolyarov-sergey-dmitrievich
+- person: balashov-vladimir-pavlovich
+- person: buchma-amvrosiy-maksimilianovich
+- person: voytsik-ada-ignatevna
+- person: gostinskiy-vyacheslav-vyacheslavovich
+- person: gumilevskiy-georgiy-konstantinovich
+- person: zhukovskiy-boris-eliseevich
+- person: kosmatov-leonid
+- person: kuznetsov-mikhail-artemevich
+- person: massalskiy-pavel-vladimirovich
+- person: mgebrov-aleksandr-avelevich
+- person: mikhaylov-maksim-dormidontovich
+- person: nazvanov-mikhail-mikhaylovich
+- person: petrov-andrey-alekseevich
+- person: rogozhin-naum-aleksandrovich
+- person: sorokin-konstantin-nikolaevich
+- person: timoshenko-semyon-alekseevich
+- person: tselikovskaya-lyudmila-vasilevna
+- person: avaliani-noy-ivanovich
+- person: rumnev-aleksandr-aleksandrovich
 runtime_min: 82
+poster_commons: Ivan the Terrible and Fedor Basmanov.jpg
 external_ids:
   wikidata: Q20051329
 sources:

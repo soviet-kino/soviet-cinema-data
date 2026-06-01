@@ -4,7 +4,30 @@ title_original: Мать Иоанна от ангелов
 year: 1961
 country:
 - PL
+studio:
+- studio-filmowe-kadr
+director:
+- ezhi-kavalerovich
+screenwriter:
+- ezhi-kavalerovich
+- konvitskiy-tadeush
+cinematographer:
+- vuychik-ezhi
+composer:
+- valyatsinskiy-adam
+cast:
+- person: vuytsik-magda-teresa
+- person: vinnitskaya-lyutsina
+- person: kachmarek-ezhi
+- person: pechka-frantishek
+- person: voyt-mechislav
+- person: zintel-zygmunt
+- person: fabisyak-kazimezh
+- person: chepelevskaya-anna
+- person: malawski-zygmunt
+- person: khvalibog-mariya
 runtime_min: 105
+poster_commons: Kinema-Junpo-1962-April-early-9.jpg
 external_ids:
   wikidata: Q2339978
   imdb: tt0055153

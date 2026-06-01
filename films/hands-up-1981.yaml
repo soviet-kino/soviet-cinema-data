@@ -4,6 +4,30 @@ title_original: Hands Up!
 year: 1981
 country:
 - PL
+director:
+- skolimovskiy-ezhi
+screenwriter:
+- skolimovskiy-ezhi
+- kostenko-andzhey
+cinematographer:
+- sobotsinskiy-vitold
+- kostenko-andzhey
+composer:
+- komeda-kshishtof
+cast:
+- person: skolimovskiy-ezhi
+- person: trotta-margareta-fon
+- person: tsinnemann-fred
+- person: shlyondorf-folker
+- person: gants-bruno
+- person: esher-dzheyn
+- person: kobelya-bogumil
+- person: beyts-alan
+- person: adam-khanushkevich
+- person: lomnitskiy-tadeush
+- person: esseks-devid
+- person: sarn-mayk
+- person: shcherbits-ioanna
 runtime_min: 76
 external_ids:
   wikidata: Q1642203

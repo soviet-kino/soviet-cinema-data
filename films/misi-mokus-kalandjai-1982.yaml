@@ -4,6 +4,12 @@ title_original: Misi Mókus kalandjai
 year: 1982
 country:
 - HU
+director:
+- foky-otto
+screenwriter:
+- mesyoy-miklosh
+composer:
+- petkho-zholt
 runtime_min: 80
 external_ids:
   wikidata: Q28092613

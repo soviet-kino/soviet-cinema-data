@@ -4,6 +4,17 @@ title_original: Приключения пингвинёнка Лоло
 year: 1986
 country:
 - SU
+studio:
+- soyuzmultfilm
+- sovinfilm
+- layfvok
+director:
+- sokolskiy-gennadiy-mikhaylovich
+- yoshida-kenjiro
+screenwriter:
+- merezhko-viktor
+composer:
+- maruyama-masakhito
 runtime_min: 78
 external_ids:
   wikidata: Q811980

@@ -4,6 +4,20 @@ title_original: Barbarians
 year: 1965
 country:
 - HU
+director:
+- zhurzh-eva
+screenwriter:
+- zhurzh-eva
+cinematographer:
+- czabarka-gyorgy
+composer:
+- behar-gyorgy
+cast:
+- person: gerbe-yanosh
+- person: giorgi-laslo
+- person: khorvat-teri
+- person: kovach-karoy
+- person: maklari-yanos
 runtime_min: 48
 external_ids:
   wikidata: Q45845503

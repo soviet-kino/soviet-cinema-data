@@ -4,6 +4,23 @@ title_original: Эшелон доктора М.
 year: 1955
 country:
 - YU
+director:
+- zhika-mitrovich
+screenwriter:
+- zhika-mitrovich
+cinematographer:
+- mikhaylo-popovich
+composer:
+- rupnik-ivan
+cast:
+- person: vrkhovets-yanez
+- person: shalya-abdurrakhman
+- person: boyanich-dragomir
+- person: regin-nadya
+- person: bijelic-severin
+- person: medar-vladimir
+- person: jasnic-milutin
+- person: marko-marinkovich
 external_ids:
   wikidata: Q12751674
   imdb: tt0172399

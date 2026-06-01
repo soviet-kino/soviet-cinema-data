@@ -4,10 +4,26 @@ title_original: Маленькая Вера
 year: 1988
 country:
 - SU
+studio:
+- kinostudiya-imeni-m-gorkogo
+director:
+- pichul-vasiliy
+screenwriter:
+- khmelik-mariya-aleksandrovna
+cinematographer:
+- reznikov-efim
+composer:
+- matetskiy-vladimir-leonardovich
+cast:
+- person: nazarov-yuriy-vladimirovich
+- person: negoda-natalya-igorevna
+- person: zaytseva-lyudmila-vasilevna
+- person: sokolov-andrey
 runtime_min: 115
 external_ids:
   wikidata: Q2576334
   imdb: tt0095574
+  youtube: E8MCiceJJdY
 sources:
 - https://www.wikidata.org/wiki/Q2576334
 schema_version: 1

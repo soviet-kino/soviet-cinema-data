@@ -4,6 +4,29 @@ title_original: Zum Beispiel Josef
 year: 1974
 country:
 - DD
+studio:
+- defa
+director:
+- shtranka-ervin
+cinematographer:
+- brand-peter
+composer:
+- shikora-uve
+cast:
+- person: khintse-petra
+- person: raynike-gans-peter
+- person: khasse-khanno
+- person: delmare-fred
+- person: khagen-eva-mariya
+- person: monika-voytovich
+- person: torka-zanie
+- person: lyudvig-fred
+- person: vandel-kharald
+- person: behrens-heinz
+- person: khaynrikh-yurgen
+- person: gerke-klaus
+- person: khebenshtrayt-pedro
+- person: kommerell-ruth
 runtime_min: 93
 external_ids:
   wikidata: Q228933

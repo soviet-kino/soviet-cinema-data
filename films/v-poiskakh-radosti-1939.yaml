@@ -4,10 +4,18 @@ title_original: В поисках радости
 year: 1939
 country:
 - SU
+studio:
+- mosfilm
+director:
+- stroeva-vera-pavlovna
+- roshal-grigoriy-lvovich
+screenwriter:
+- panfyorov-fyodor-ivanovich
 runtime_min: 100
 external_ids:
   wikidata: Q108759298
   imdb: tt0175288
+  youtube: 8ir5T8E0Wo8
 sources:
 - https://www.wikidata.org/wiki/Q108759298
 schema_version: 1

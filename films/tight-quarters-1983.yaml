@@ -4,6 +4,22 @@ title_original: Tight Quarters
 year: 1983
 country:
 - HU
+director:
+- somyash-zhurzh
+screenwriter:
+- fabry-sandor
+- gryunvalski-ferents
+- somyash-zhurzh
+- verebes-istvan
+- vasarhelyi-miklos
+cinematographer:
+- gryunvalski-ferents
+composer:
+- shomlo-tamash-2
+cast:
+- person: eperjes-karoly
+- person: andorai-peter
+- person: molnar-vera
 runtime_min: 85
 external_ids:
   wikidata: Q1125308

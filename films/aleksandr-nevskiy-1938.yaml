@@ -4,10 +4,37 @@ title_original: Александр Невский
 year: 1938
 country:
 - SU
+studio:
+- mosfilm
+director:
+- eyzenshteyn-sergey-mikhaylovich
+- vasilev-dmitriy-ivanovich
+screenwriter:
+- eyzenshteyn-sergey-mikhaylovich
+- pavlenko-pyotr-andreevich
+cinematographer:
+- tisse-eduard-kazimirovich
+composer:
+- prokofev-sergey-sergeevich
+cast:
+- person: cherkasov-nikolay-konstantinovich
+- person: okhlopkov-nikolay-pavlovich
+- person: abrikosov-andrey-lvovich
+- person: blinnikov-sergey-kapitonovich
+- person: danilova-aleksandra-sergeevna
+- person: ershov-vladimir-lvovich
+- person: ivashyova-valentina-semyonovna
+- person: massalitinova-varvara-osipovna
+- person: novikov-vasiliy-semyonovich
+- person: orlov-dmitriy-nikolaevich
+- person: rogozhin-naum-aleksandrovich
+- person: fenin-lev-aleksandrovich
 runtime_min: 112
+poster_commons: Nevski3.jpg
 external_ids:
   wikidata: Q118976
   imdb: tt0029850
+  youtube: IKskdbazW7w
 sources:
 - https://www.wikidata.org/wiki/Q118976
 schema_version: 1

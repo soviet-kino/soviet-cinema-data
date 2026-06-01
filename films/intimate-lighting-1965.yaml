@@ -4,6 +4,31 @@ title_original: Intimate Lighting
 year: 1965
 country:
 - CS
+director:
+- passer-ivan
+screenwriter:
+- passer-ivan
+- papoushek-yaroslav
+- sasek-vaclav
+cinematographer:
+- ondrzhichek-miroslav
+- strzhekha-yozef
+composer:
+- korte-oldrich
+cast:
+- person: krshesadlova-vera
+- person: vostrchil-yan
+- person: sr-jiri-ruzicka
+- person: vlkova-vlastimila
+- person: uhlik-karel
+- person: blazek-karel
+- person: cvrk-miroslav
+- person: hart-josef
+- person: chmelik-jarous
+- person: stedry-martin
+- person: redinova-dagmar
+- person: stedra-jaroslava
+- person: bezusek-zdenek
 runtime_min: 75
 external_ids:
   wikidata: Q3566402

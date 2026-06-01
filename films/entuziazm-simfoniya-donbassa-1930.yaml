@@ -4,10 +4,22 @@ title_original: 'Энтузиазм: Симфония Донбасса'
 year: 1930
 country:
 - SU
+studio:
+- kinostudiya-imeni-a-dovzhenko
+director:
+- vertov-dziga
+screenwriter:
+- vertov-dziga
+cinematographer:
+- tseytlin-boris-borisovich
+composer:
+- dmitriy-shostakovich
 runtime_min: 67
+poster_commons: Плакат к фильму «Энтузиазм (Симфония Донбасса)».jpg
 external_ids:
   wikidata: Q4532119
   imdb: tt0021375
+  youtube: vUInm2dC6Ug
 sources:
 - https://www.wikidata.org/wiki/Q4532119
 schema_version: 1

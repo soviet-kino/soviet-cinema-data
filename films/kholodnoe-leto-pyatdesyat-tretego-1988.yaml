@@ -4,10 +4,27 @@ title_original: Холодное лето пятьдесят третьего…
 year: 1988
 country:
 - SU
+studio:
+- mosfilm
+director:
+- proshkin-aleksandr-anatolevich
+screenwriter:
+- dubrovskiy-edgar-borisovich
+cinematographer:
+- brozhovskiy-boris-lvovich
+composer:
+- martynov-vladimir-ivanovich
+cast:
+- person: papanov-anatoliy-dmitrievich
+- person: kuznetsov-yuriy-aleksandrovich
+- person: priyomykhov-valeriy
+- person: stepanov-viktor-fyodorovich
+- person: usatova-nina-nikolaevna
 runtime_min: 97
 external_ids:
   wikidata: Q1199188
   imdb: tt0095441
+  youtube: pgCGGSKPia0
 sources:
 - https://www.wikidata.org/wiki/Q1199188
 schema_version: 1

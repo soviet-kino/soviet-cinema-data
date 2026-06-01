@@ -4,9 +4,14 @@ title_original: Dy gosti
 year: 1982
 country:
 - AL
+studio:
+- albfilm
+director:
+- leka-gazmend
 external_ids:
   wikidata: Q16353339
   imdb: tt0346914
+  youtube: kU782StFAQE
 sources:
 - https://www.wikidata.org/wiki/Q16353339
 schema_version: 1

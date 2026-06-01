@@ -4,12 +4,8 @@ title_original: Санта Эсперанса
 year: 1979
 country:
 - SU
-external_ids:
-  wikidata: Q12845511
-  imdb: tt5517320
-sources:
-- https://www.wikidata.org/wiki/Q12845511
-schema_version: 1
+studio:
+- mosfilm
 director:
 - alarkon-sebastyan
 screenwriter:
@@ -25,5 +21,9 @@ cast:
 - person: brondukov-borislav-nikolaevich
 - person: leonov-gladyshev-evgeniy-borisovich
 - person: noreyka-laymonas
-studio:
-- mosfilm
+external_ids:
+  wikidata: Q12845511
+  imdb: tt5517320
+sources:
+- https://www.wikidata.org/wiki/Q12845511
+schema_version: 1

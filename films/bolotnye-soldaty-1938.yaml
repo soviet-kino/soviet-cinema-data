@@ -4,10 +4,24 @@ title_original: Болотные солдаты
 year: 1938
 country:
 - SU
+studio:
+- mosfilm
+director:
+- macheret-aleksandr-veniaminovich
+screenwriter:
+- olesha-yuriy-karlovich
+cinematographer:
+- andrikanis-evgeniy-nikolaevich
+composer:
+- shvarts-lev-oleksandrovich
+cast:
+- person: zhakov-oleg-petrovich
 runtime_min: 69
+poster_commons: Болотные солдаты.jpg
 external_ids:
   wikidata: Q4090941
   imdb: tt0031172
+  youtube: RJE_Qzio7yc
 sources:
 - https://www.wikidata.org/wiki/Q4090941
 schema_version: 1

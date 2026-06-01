@@ -4,10 +4,36 @@ title_original: Звёзды и солдаты
 year: 1967
 country:
 - HU
+studio:
+- mosfilm
+- mafilm
+director:
+- yancho-miklosh
+screenwriter:
+- yancho-miklosh
+- khernadi-gyula
+- mdivani-georgiy
+cinematographer:
+- shomlo-tamash
+cast:
+- person: mikhalkov-nikita
+- person: madarash-yozhef
+- person: mikolaevska-kristina
+- person: kozak-andrash
+- person: avdyushko-viktor-antonovich
+- person: juhasz-jacint
+- person: beyshenaliev-bolot
+- person: molnar-tibor
+- person: nikonenko-sergey
+- person: kozakov-mikhail-mikhaylovich
+- person: alentova-vera-valentinovna
+- person: konyukhova-tatyana
+- person: strizhenov-gleb-aleksandrovich
 runtime_min: 90
 external_ids:
   wikidata: Q873313
   imdb: tt0061537
+  youtube: wAi9yOWJbcw
 sources:
 - https://www.wikidata.org/wiki/Q873313
 schema_version: 1

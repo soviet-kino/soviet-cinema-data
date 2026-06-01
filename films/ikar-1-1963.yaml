@@ -4,6 +4,62 @@ title_original: Икар-1
 year: 1963
 country:
 - CS
+studio:
+- barrandov
+director:
+- polak-indrzhikh
+screenwriter:
+- lem-stanislav
+- polak-indrzhikh
+- yurachek-pavel
+cinematographer:
+- kalish-yan
+composer:
+- lishka-zdenek
+cast:
+- person: shtepanek-zdenek
+- person: shoberova-olga
+- person: vrstyala-irzhi
+- person: kolar-jan-stanislav
+- person: deyl-rudolf
+- person: lukavskiy-radovan
+- person: medrzhitskaya-dana
+- person: otto-latskovich
+- person: adamovic-jozef
+- person: smolik-frantishek
+- person: duba-karel
+- person: makhachek-miroslav
+- person: bezouska-bohumil
+- person: krshesadlova-vera
+- person: kachirkova-irena
+- person: maresh-yaroslav
+- person: mrkvicka-ladislav
+- person: tyapak-martin
+- person: hubenakova-svatava
+- person: irmanov-vjaceslav
+- person: rozsival-jaroslav
+- person: halmazna-frantisek
+- person: vobornik-gustav
+- person: jelinek-zdenek-2
+- person: martinkova-martsela
+- person: cmiral-jan
+- person: navratil-vladimir
+- person: navratilova-olga
+- person: martinovska-alena
+- person: popelkova-marie
+- person: abraham-miroslav
+- person: q131819752
+- person: buresova-vera
+- person: cejnek-jiri
+- person: schoberova-eva
+- person: batkova-marcela
+- person: blazickova-nadezda
+- person: klika-bohumil
+- person: stur-vladimir
+- person: cedlova-eva
+- person: borovichkova-zdenka
+- person: prazanova-hana
+- person: pospisilova-renata
 runtime_min: 86
 external_ids:
   wikidata: Q723239

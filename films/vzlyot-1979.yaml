@@ -4,6 +4,16 @@ title_original: Взлёт
 year: 1979
 country:
 - SU
+studio:
+- mosfilm
+director:
+- kulish-savva-yakovlevich
+cinematographer:
+- klimov-vladimir-mikhaylovich
+composer:
+- karavaychuk-oleg-nikolaevich
+cast:
+- person: evtushenko-evgeniy-aleksandrovich
 runtime_min: 139
 external_ids:
   wikidata: Q7678065
@@ -11,13 +21,3 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q7678065
 schema_version: 1
-director:
-- kulish-savva-yakovlevich
-cinematographer:
-- klimov-vladimir-mikhaylovich
-composer:
-- karavaychuk-oleg-nikolaevich
-studio:
-- mosfilm
-cast:
-- person: evtushenko-evgeniy-aleksandrovich

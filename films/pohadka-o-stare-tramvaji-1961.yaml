@@ -4,7 +4,46 @@ title_original: Pohádka o staré tramvaji
 year: 1961
 country:
 - CS
+director:
+- vosmik-milan
+screenwriter:
+- khofman-ota
+cinematographer:
+- novak-yan
+composer:
+- gavelka-svatopluk
+cast:
+- person: bogdalova-irzhina
+- person: grushinskiy-yan
+- person: voska-vatslav
+- person: filipovskiy-frantishek
+- person: kostelka-lyubomir
+- person: fiala-eman
+- person: kemr-yozef
+- person: smyczek-karel
+- person: miksa-yozef
+- person: pellar-rudolf
+- person: malaska-jan
+- person: rytirova-helena
+- person: prihoda-josef-ferdinand
+- person: maxian-frantisek
+- person: gzela-ladislav
+- person: navratil-vladimir
+- person: q131869340
+- person: winter-vaclav
+- person: horka-vladimir
+- person: deyl-zdenek
+- person: martoni-liliana
+- person: nedvedova-eva
+- person: roubicek-josef
+- person: porizkova-hana
+- person: simkova-dadulka
+- person: machonova-vera
+- person: raljicova-miriana
+- person: chadraba-jaroslav
+- person: silhankova-marcela
 runtime_min: 81
+poster_commons: Muzeum MHD, tramvaj 200 (02).jpg
 external_ids:
   wikidata: Q7207805
   imdb: tt0055313

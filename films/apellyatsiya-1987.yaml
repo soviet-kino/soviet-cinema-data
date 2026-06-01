@@ -4,10 +4,33 @@ title_original: Апелляция
 year: 1987
 country:
 - SU
+studio:
+- lenfilm
+director:
+- guryanov-valeriy-alekseevich
+screenwriter:
+- volodarskiy-eduard-yakovlevich
+cinematographer:
+- grammatikov-vadim-aleksandrovich
+cast:
+- person: tikhonov-vyacheslav-vasilevich
+- person: zolotukhin-valeriy
+- person: sanaev-vsevolod-vasilevich
+- person: virolaynen-lyubov-ivanovna
+- person: efimov-igor-konstantinovich
+- person: ilichyov-viktor-grigorevich
+- person: konkin-vladimir-alekseevich
+- person: shilovskiy-vsevolod-nikolaevich
+- person: smirnov-yuriy-nikolaevich
+- person: yurchenkov-pyotr-petrovich
+- person: pyatkov-aleksandr-aleksandrovich
+- person: brylkin-mikhail-vasilevich
+- person: rudakov-anatoliy-rodionovich
 runtime_min: 91
 external_ids:
   wikidata: Q4067978
   imdb: tt0092574
+  youtube: R0hxFtnniJ0
 sources:
 - https://www.wikidata.org/wiki/Q4067978
 schema_version: 1

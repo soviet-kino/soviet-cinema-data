@@ -4,6 +4,13 @@ title_original: Дай, король, солдата
 year: 1982
 country:
 - HU
+director:
+- erdyoshsh-pal
+cinematographer:
+- koltai-layosh
+- sabo-gabor-peter
+cast:
+- person: toth-arpad
 runtime_min: 113
 external_ids:
   wikidata: Q504121

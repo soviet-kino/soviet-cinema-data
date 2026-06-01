@@ -4,6 +4,12 @@ title_original: The Musicians
 year: 1960
 country:
 - PL
+studio:
+- warsaw-documentary-film-studio
+director:
+- karabash-kazimezh
+cinematographer:
+- niedbalski-stanis-aw
 runtime_min: 10
 external_ids:
   wikidata: Q97373412

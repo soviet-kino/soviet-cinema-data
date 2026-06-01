@@ -4,6 +4,26 @@ title_original: Свидетель
 year: 1979
 country:
 - HU
+director:
+- bacho-peter
+screenwriter:
+- bacho-peter
+cinematographer:
+- zhomboyai-yanosh
+composer:
+- vukan-gyorgy
+cast:
+- person: fabri-zoltan
+- person: eze-layosh
+- person: vamos-laslo
+- person: ratonyi-robert
+- person: bot-bela
+- person: balint-gyorgy
+- person: kallai-ferents
+- person: mezei-layosh
+- person: monori-lili
+- person: novak-ishtvan
+- person: fekher-tibor
 runtime_min: 106
 external_ids:
   wikidata: Q472007

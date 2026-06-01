@@ -4,6 +4,22 @@ title_original: The Bells Have Gone to Rome
 year: 1958
 country:
 - HU
+director:
+- yancho-miklosh
+screenwriter:
+- galambos-lajos
+- szilvasi-lajos
+cinematographer:
+- shomlo-tamash
+composer:
+- patachich-ivan
+cast:
+- person: gabor-miklosh
+- person: ladanyi-ferenc
+- person: mendelenyi-vilmos
+- person: pechi-shandor
+- person: magda-gabi
+- person: b-ferenc-deak
 runtime_min: 93
 external_ids:
   wikidata: Q466334

@@ -4,6 +4,35 @@ title_original: Ужицкая республика
 year: 1974
 country:
 - YU
+director:
+- zhika-mitrovich
+screenwriter:
+- zhika-mitrovich
+- diklich-arsen
+cinematographer:
+- predrag-popovich
+composer:
+- khristich-zoran
+cast:
+- person: arnerich-neda
+- person: nikolich-marko
+- person: aleksich-miya
+- person: sherbedzhiya-rade
+- person: vrkhovets-yanez
+- person: branko-milichevich
+- person: marko-todorovich
+- person: buzanchich-boris
+- person: alesha-vuchkovich
+- person: petar-banichevich
+- person: petrovic-bogoljub
+- person: dragomir-stanoevich
+- person: bogatincevic-pavle
+- person: pantelich-vasa
+- person: frayt-bozhidarka
+- person: jokanovic-zarko
+- person: yagodich-ivan
+- person: sokich-ruzhitsa
+- person: vojnovic-dusan
 runtime_min: 170
 external_ids:
   wikidata: Q3443117

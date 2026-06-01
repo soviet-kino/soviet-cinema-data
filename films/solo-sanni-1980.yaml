@@ -4,6 +4,35 @@ title_original: Соло Санни
 year: 1980
 country:
 - DD
+studio:
+- defa
+director:
+- volf-konrad
+- kolkhaaze-volfgang
+screenwriter:
+- kolkhaaze-volfgang
+cinematographer:
+- geick-eberhard
+composer:
+- fisher-gyunter
+cast:
+- person: varneke-lotar
+- person: shall-dzhoanna
+- person: kryosner-renate
+- person: shtegemann-bernd
+- person: giss-detlef
+- person: montag-diter
+- person: dyuren-fred
+- person: khyurrig-khansyurgen
+- person: leng-aleksandr
+- person: varmbrunn-kharald
+- person: kipp-khaydi
+- person: braun-ursula
+- person: brash-klaus
+- person: kristian-maykl
+- person: tserbe-uve
+- person: noyman-tomas
+- person: anschutz-ulrich
 runtime_min: 102
 external_ids:
   wikidata: Q2299137

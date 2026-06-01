@@ -4,13 +4,8 @@ title_original: The Snake Prince
 year: 1982
 country:
 - CS
-runtime_min: 18
-external_ids:
-  wikidata: Q56876013
-  imdb: tt1446074
-sources:
-- https://www.wikidata.org/wiki/Q56876013
-schema_version: 1
+studio:
+- jiri-trnka-studio
 director:
 - vins-zdenek
 screenwriter:
@@ -20,5 +15,10 @@ cinematographer:
 - malik-vladimir
 composer:
 - vatsek-milosh
-studio:
-- jiri-trnka-studio
+runtime_min: 18
+external_ids:
+  wikidata: Q56876013
+  imdb: tt1446074
+sources:
+- https://www.wikidata.org/wiki/Q56876013
+schema_version: 1

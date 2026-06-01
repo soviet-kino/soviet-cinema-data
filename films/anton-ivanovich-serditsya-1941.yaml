@@ -4,10 +4,24 @@ title_original: Антон Иванович сердится
 year: 1941
 country:
 - SU
+studio:
+- lenfilm
+director:
+- ivanovskiy-aleksandr-viktorovich
+screenwriter:
+- petrov-evgeniy-petrovich
+cinematographer:
+- shapiro-evgeniy-veniaminovich
+composer:
+- kabalevskiy-dmitriy-borisovich
+cast:
+- person: konovalov-nikolay-leonidovich
 runtime_min: 80
+poster_commons: Konovalov Anton Ivanovic si arrabbia.jpg
 external_ids:
   wikidata: Q4067185
   imdb: tt0033346
+  youtube: 2tqs24blJxo
 sources:
 - https://www.wikidata.org/wiki/Q4067185
 schema_version: 1

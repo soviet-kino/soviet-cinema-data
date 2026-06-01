@@ -4,6 +4,23 @@ title_original: Карусель (фильм, 1956)
 year: 1956
 country:
 - HU
+director:
+- fabri-zoltan
+screenwriter:
+- fabri-zoltan
+- nadasy-laszlo
+cinematographer:
+- barnabash-khedi
+composer:
+- ranki-dyord
+cast:
+- person: shoosh-imre
+- person: tyoryochik-mari
+- person: kishsh-mani
+- person: barshi-bela
+- person: yukhas-zhozef
+- person: szirtes-adam
+- person: kadar-flora
 runtime_min: 90
 external_ids:
   wikidata: Q747369

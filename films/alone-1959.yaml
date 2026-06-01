@@ -4,6 +4,21 @@ title_original: Alone
 year: 1959
 country:
 - YU
+director:
+- pogachich-vladimir
+screenwriter:
+- pogachich-vladimir
+cinematographer:
+- aleksandr-sekulovich
+composer:
+- adamich-boyan
+cast:
+- person: simich-nikola
+- person: srdoch-milan
+- person: vuisich-pavle
+- person: bijelic-severin
+- person: puzich-milan
+- person: volic-milorad-misa
 runtime_min: 94
 external_ids:
   wikidata: Q20310423

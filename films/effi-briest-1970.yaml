@@ -4,6 +4,28 @@ title_original: Effi Briest
 year: 1970
 country:
 - DD
+director:
+- luderer-wolfgang
+screenwriter:
+- luderer-wolfgang
+cinematographer:
+- martsinkovskiy-gyunter
+composer:
+- wehding-hans-hendrik
+cast:
+- person: binert-gerkhard
+- person: domryoze-angelika
+- person: khoffman-adolf-peter
+- person: kommerel-blansh
+- person: keller-inge
+- person: korner-ditrikh
+- person: ballier-gunther
+- person: flyossel-gans
+- person: shultse-khorst
+- person: lendrikh-valter
+- person: tempelkhof-lissi
+- person: vyunsher-marianna
+- person: sense-traute
 external_ids:
   wikidata: Q5347416
   imdb: tt0062924

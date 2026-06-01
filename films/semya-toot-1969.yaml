@@ -4,6 +4,21 @@ title_original: Семья Тоот
 year: 1969
 country:
 - HU
+director:
+- fabri-zoltan
+screenwriter:
+- fabri-zoltan
+cinematographer:
+- illesh-dyord
+composer:
+- mikhay-andrash
+cast:
+- person: zoltan-latinovich
+- person: pager-antal
+- person: ventsel-vera
+- person: degi-ishtvan
+- person: rayz-yanosh
+- person: imre-shinkovich
 runtime_min: 95
 external_ids:
   wikidata: Q1098242
