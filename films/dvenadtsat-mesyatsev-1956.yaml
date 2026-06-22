@@ -12,6 +12,21 @@ runtime_min: 52
 external_ids:
   wikidata: Q944503
   imdb: tt0218798
+  youtube: 6qdSrXpM9e8
 sources:
 - https://www.wikidata.org/wiki/Q944503
 schema_version: 1
+director:
+- ivanov-vano-ivan
+- botov-mikhail-alekseevich
+screenwriter:
+- erdman-nikolay-robertovich
+- marshak-samuil-yakovlevich
+cinematographer:
+- petrova-elena-yurevna
+- voinov-nikolay-vasilevich
+- petrova-elena-nikolaevna
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- soyuzmultfilm

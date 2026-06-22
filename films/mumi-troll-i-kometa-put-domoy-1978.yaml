@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270788
   imdb: tt0472234
   tmdb: 344861
+  youtube: 7Ybz8hLmaK0
 sources:
 - https://www.wikidata.org/wiki/Q15270788
 schema_version: 1
@@ -16,3 +17,11 @@ genre:
 - animation
 topics:
 - animation
+director:
+- shorina-nina-ivanovna
+screenwriter:
+- petrushevskaya-lyudmila-stefanovna
+composer:
+- rybnikov-aleksey
+studio:
+- ekran

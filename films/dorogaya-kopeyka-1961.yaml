@@ -12,6 +12,17 @@ runtime_min: 16
 external_ids:
   wikidata: Q4166779
   imdb: tt0233606
+  youtube: 9syYY2an5-s
 sources:
 - https://www.wikidata.org/wiki/Q4166779
 schema_version: 1
+director:
+- aksenchuk-ivan-semyonovich
+screenwriter:
+- evgeniy-danilovich-agranovich
+cinematographer:
+- druyan-mikhail
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm

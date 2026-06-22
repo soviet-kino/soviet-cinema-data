@@ -12,6 +12,16 @@ runtime_min: 10
 external_ids:
   wikidata: Q2682217
   imdb: tt0216434
+  youtube: Cez52FOq3zw
 sources:
 - https://www.wikidata.org/wiki/Q2682217
 schema_version: 1
+director:
+- nazarov-eduard-vasilevich
+screenwriter:
+- nazarov-eduard-vasilevich
+cinematographer:
+- druyan-mikhail
+studio:
+- soyuzmultfilm
+poster_commons: Stamp of Ukraine s381.jpg

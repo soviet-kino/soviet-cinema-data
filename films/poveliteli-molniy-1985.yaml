@@ -15,3 +15,11 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4366351
 schema_version: 1
+director:
+- akulinichev-boris-akimovich
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- stikhin-evgeniy-mikhaylovich
+studio:
+- ekran

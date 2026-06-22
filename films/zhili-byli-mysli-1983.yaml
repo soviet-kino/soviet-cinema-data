@@ -12,6 +12,17 @@ runtime_min: 633
 external_ids:
   wikidata: Q60851060
   imdb: tt6210218
+  youtube: 1tm28gL7vvw
 sources:
 - https://www.wikidata.org/wiki/Q60851060
 schema_version: 1
+director:
+- goncharov-vladimir-maksimovich
+screenwriter:
+- kostinskiy-aleksandr
+cinematographer:
+- mukhin-aleksandr
+composer:
+- lapinskiy-yakov-naumovich
+studio:
+- kievnauchfilm

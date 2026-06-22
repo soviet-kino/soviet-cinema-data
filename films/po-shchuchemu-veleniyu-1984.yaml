@@ -12,6 +12,15 @@ runtime_min: 966
 external_ids:
   wikidata: Q25394003
   imdb: tt4659898
+  youtube: orIPeuZ40VQ
 sources:
 - https://www.wikidata.org/wiki/Q25394003
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+screenwriter:
+- timofeevskiy-aleksandr-pavlovich
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- sverdlovskaya-kinostudiya

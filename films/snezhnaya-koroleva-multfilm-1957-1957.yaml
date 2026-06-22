@@ -12,6 +12,23 @@ runtime_min: 63
 external_ids:
   wikidata: Q2376391
   imdb: tt0050987
+  youtube: a9EMZitlNn8
 sources:
 - https://www.wikidata.org/wiki/Q2376391
 schema_version: 1
+director:
+- atamanov-lev
+- fyodorov-nikolay
+screenwriter:
+- erdman-nikolay-robertovich
+- zabolotskiy-nikolay-alekseevich
+- svetlov-mikhail-arkadevich
+- atamanov-lev
+- grebner-georgiy-eduardovich
+cinematographer:
+- druyan-mikhail
+composer:
+- ayvazyan-artemiy
+studio:
+- soyuzmultfilm
+poster_commons: 2005. Stamp of Belarus 0614.jpg

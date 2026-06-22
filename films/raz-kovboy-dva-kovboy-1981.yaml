@@ -12,6 +12,17 @@ runtime_min: 614
 external_ids:
   wikidata: Q4388188
   imdb: tt5120774
+  youtube: z4xMhBqG4s8
 sources:
 - https://www.wikidata.org/wiki/Q4388188
 schema_version: 1
+director:
+- reznikov-anatoliy-izrailevich
+screenwriter:
+- khayt-arkadiy
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- savelev-boris
+studio:
+- ekran

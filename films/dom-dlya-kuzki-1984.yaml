@@ -11,6 +11,15 @@ topics:
 external_ids:
   wikidata: Q4165482
   imdb: tt2339437
+  youtube: 8JFdlT5XGNc
 sources:
 - https://www.wikidata.org/wiki/Q4165482
 schema_version: 1
+director:
+- zyablikova-aida
+screenwriter:
+- berestov-valentin
+composer:
+- kolmanovskiy-sergey-eduardovich
+studio:
+- ekran

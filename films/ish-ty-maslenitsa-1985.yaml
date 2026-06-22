@@ -12,6 +12,16 @@ runtime_min: 591
 external_ids:
   wikidata: Q62442
   imdb: tt1361319
+  youtube: IdZDPE2hwlQ
 sources:
 - https://www.wikidata.org/wiki/Q62442
 schema_version: 1
+director:
+- saakyants-robert
+screenwriter:
+- saakyants-robert
+- tumanyan-ovanes
+composer:
+- amirkhanyan-robert
+studio:
+- armenfilm

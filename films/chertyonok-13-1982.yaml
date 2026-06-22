@@ -12,6 +12,15 @@ runtime_min: 9
 external_ids:
   wikidata: Q4514711
   imdb: tt3467570
+  youtube: zc5iz2jXkuM
 sources:
 - https://www.wikidata.org/wiki/Q4514711
 schema_version: 1
+director:
+- lerner-natan-oziasovich
+screenwriter:
+- larin-boris
+composer:
+- meerovich-mikhail-aleksandrovich
+studio:
+- ekran

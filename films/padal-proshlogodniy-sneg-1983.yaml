@@ -12,6 +12,17 @@ runtime_min: 20
 external_ids:
   wikidata: Q4341995
   imdb: tt0219233
+  youtube: 9hDjp0C79-c
 sources:
 - https://www.wikidata.org/wiki/Q4341995
 schema_version: 1
+director:
+- tatarskiy-aleksandr-mikhaylovich
+screenwriter:
+- ivanov-sergey
+cinematographer:
+- golomb-iosif-emmanuilovich
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- ekran

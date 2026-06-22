@@ -15,3 +15,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q60829684
 schema_version: 1
+director:
+- strautmane-rasa
+composer:
+- krivitskiy-david-isaakovich
+studio:
+- ekran

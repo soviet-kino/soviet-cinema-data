@@ -11,6 +11,13 @@ topics:
 external_ids:
   wikidata: Q4461730
   imdb: tt9053134
+  youtube: Sqxvj7Au81A
 sources:
 - https://www.wikidata.org/wiki/Q4461730
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+cinematographer:
+- gribkov-nikolay-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

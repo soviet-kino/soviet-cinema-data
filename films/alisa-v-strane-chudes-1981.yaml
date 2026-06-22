@@ -12,6 +12,17 @@ runtime_min: 30
 external_ids:
   wikidata: Q2647260
   imdb: tt0211191
+  youtube: 7gE1BIsWX6o
 sources:
 - https://www.wikidata.org/wiki/Q2647260
 schema_version: 1
+director:
+- pruzhanskiy-efrem
+screenwriter:
+- zagdanskiy-evgeniy
+composer:
+- ptichkin-evgeniy
+studio:
+- ukrainskaya-ssr
+- gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
+- kievnauchfilm

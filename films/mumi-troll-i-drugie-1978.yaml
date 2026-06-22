@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q15270785
   imdb: tt0407023
   tmdb: 198941
+  youtube: YHEXz4-fPlc
 sources:
 - https://www.wikidata.org/wiki/Q15270785
 schema_version: 1
@@ -16,3 +17,11 @@ genre:
 - animation
 topics:
 - animation
+director:
+- zyablikova-aida
+screenwriter:
+- petrushevskaya-lyudmila-stefanovna
+composer:
+- rybnikov-aleksey
+studio:
+- ekran

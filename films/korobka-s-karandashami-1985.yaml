@@ -11,6 +11,13 @@ topics:
 runtime_min: 160
 external_ids:
   wikidata: Q63226462
+  youtube: v5mOLMZGlhI
 sources:
 - https://www.wikidata.org/wiki/Q63226462
 schema_version: 1
+director:
+- barbe-vladlen
+composer:
+- gladkov-grigoriy-vasilevich
+studio:
+- ekran

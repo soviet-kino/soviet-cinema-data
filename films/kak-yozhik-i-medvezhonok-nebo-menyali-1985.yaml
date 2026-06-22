@@ -12,6 +12,17 @@ runtime_min: 10
 external_ids:
   wikidata: Q16657140
   imdb: tt6053134
+  youtube: KfXDMKyhXSc
 sources:
 - https://www.wikidata.org/wiki/Q16657140
 schema_version: 1
+director:
+- marchenkova-natalya
+screenwriter:
+- kozlov-sergey-grigorevich
+cinematographer:
+- mukhin-aleksandr
+composer:
+- guba-vladimir
+studio:
+- kievnauchfilm

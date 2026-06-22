@@ -8,6 +8,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q48942288
   imdb: tt8982366
+  youtube: SbY8qv0wk9o
 sources:
 - https://www.wikidata.org/wiki/Q48942288
 schema_version: 1
@@ -15,3 +16,9 @@ genre:
 - animation
 topics:
 - animation
+director:
+- prorokova-elena-yurevna
+cinematographer:
+- rasulov-kabul-abdurakhmanovich
+studio:
+- soyuzmultfilm

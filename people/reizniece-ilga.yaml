@@ -1,0 +1,9 @@
+id: reizniece-ilga
+name_ru: Ilga Reizniece
+roles:
+- composer
+external_ids:
+  wikidata: Q28966951
+sources:
+- https://www.wikidata.org/wiki/Q28966951
+schema_version: 1

@@ -12,6 +12,11 @@ runtime_min: 9
 external_ids:
   wikidata: Q4379492
   imdb: tt6295354
+  youtube: KxOb4YZXCWI
 sources:
 - https://www.wikidata.org/wiki/Q4379492
 schema_version: 1
+director:
+- ablynin-boris-isaakovich
+studio:
+- soyuzmultfilm

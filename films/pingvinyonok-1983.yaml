@@ -12,6 +12,17 @@ runtime_min: 548
 external_ids:
   wikidata: Q4362963
   imdb: tt9049172
+  youtube: O5M6-QUm3h0
 sources:
 - https://www.wikidata.org/wiki/Q4362963
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+screenwriter:
+- arkadev-lev-arkadevich
+cinematographer:
+- gribkov-nikolay-nikolaevich
+composer:
+- kosmachyov-igor-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

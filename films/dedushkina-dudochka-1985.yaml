@@ -12,6 +12,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q110249760
   imdb: tt2395185
+  youtube: aIV8N00NTqM
 sources:
 - https://www.wikidata.org/wiki/Q110249760
 schema_version: 1
+screenwriter:
+- timofeevskiy-aleksandr-pavlovich
+studio:
+- sverdlovskaya-kinostudiya

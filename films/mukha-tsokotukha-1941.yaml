@@ -6,6 +6,7 @@ country:
 - SU
 external_ids:
   wikidata: Q48941816
+  youtube: IZQpaXUIyoA
 sources:
 - https://www.wikidata.org/wiki/Q48941816
 schema_version: 1
@@ -13,3 +14,10 @@ genre:
 - animation
 topics:
 - animation
+director:
+- suteev-vladimir-grigorevich
+screenwriter:
+- chukovskiy-korney-ivanovich
+- suteev-vladimir-grigorevich
+studio:
+- soyuzmultfilm

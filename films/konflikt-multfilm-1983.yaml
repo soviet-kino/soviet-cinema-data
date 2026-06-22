@@ -12,6 +12,16 @@ runtime_min: 456
 external_ids:
   wikidata: Q4231812
   imdb: tt1288381
+  youtube: -Y6TaLPlwco
 sources:
 - https://www.wikidata.org/wiki/Q4231812
 schema_version: 1
+director:
+- bardin-garri-yakovlevich
+screenwriter:
+- bardin-garri-yakovlevich
+composer:
+- marchello-alessandro
+- anashkin-sergey-mikhaylovich
+studio:
+- soyuzmultfilm

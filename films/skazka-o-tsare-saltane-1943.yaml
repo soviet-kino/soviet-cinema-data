@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4421392
   imdb: tt6196836
   tmdb: 577299
+  youtube: QCJ51Eex_FA
 sources:
 - https://www.wikidata.org/wiki/Q4421392
 schema_version: 1
@@ -17,3 +18,13 @@ genre:
 - animation
 topics:
 - animation
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+composer:
+- oranskiy-viktor-aleksandrovich
+studio:
+- soyuzmultfilm

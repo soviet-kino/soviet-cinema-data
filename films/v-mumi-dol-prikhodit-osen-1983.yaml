@@ -12,6 +12,15 @@ runtime_min: 979
 external_ids:
   wikidata: Q16514599
   imdb: tt3864980
+  youtube: oQwHR-pCuO0
 sources:
 - https://www.wikidata.org/wiki/Q16514599
 schema_version: 1
+director:
+- alyashev-anatoliy-alekseevich
+screenwriter:
+- alyashev-anatoliy-alekseevich
+composer:
+- kobekin-vladimir-aleksandrovich
+studio:
+- sverdlovskaya-kinostudiya

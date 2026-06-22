@@ -12,6 +12,15 @@ runtime_min: 598
 external_ids:
   wikidata: Q4453321
   imdb: tt9274962
+  youtube: By4pTpXcEPw
 sources:
 - https://www.wikidata.org/wiki/Q4453321
 schema_version: 1
+director:
+- barinova-elena-petrovna
+screenwriter:
+- khrzhanovskiy-andrey-yurevich
+composer:
+- bystryakov-vladimir-yurevich
+studio:
+- kievnauchfilm
