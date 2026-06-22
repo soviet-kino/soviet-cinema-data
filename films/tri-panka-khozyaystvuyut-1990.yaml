@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q25431593
   imdb: tt6206366
+  tmdb: 448850
 sources:
 - https://www.wikidata.org/wiki/Q25431593
 schema_version: 1
@@ -18,3 +19,4 @@ director:
 - pruzhanskiy-efrem
 studio:
 - kievnauchfilm
+poster_tmdb_path: /7lN9un4tbPRO5KcPE1OJRPz5CPE.jpg

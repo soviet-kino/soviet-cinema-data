@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4340459
   imdb: tt7745472
+  tmdb: 1005632
 sources:
 - https://www.wikidata.org/wiki/Q4340459
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - komarov-vladimir-konstantinovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /WTYlFInjN7ynLtEfN0Em7xpBwi.jpg
+backdrop_tmdb_path: /rBjykuV2NTFwn0ERhORec7sHMhJ.jpg

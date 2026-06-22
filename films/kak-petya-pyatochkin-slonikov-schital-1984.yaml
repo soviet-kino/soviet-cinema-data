@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q12173425
   imdb: tt5108294
   youtube: Tnh1E4SDvwI
+  tmdb: 322622
 sources:
 - https://www.wikidata.org/wiki/Q12173425
 schema_version: 1
@@ -20,3 +21,5 @@ director:
 - viken-aleksandr-vladimirovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /uvxHcmtDpjwb58WKjThyIaI51Ln.jpg
+backdrop_tmdb_path: /cmY463BAmwiapaDuQEPaTtxmPbf.jpg

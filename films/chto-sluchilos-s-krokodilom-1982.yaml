@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4517317
   imdb: tt1339535
+  tmdb: 1448377
 sources:
 - https://www.wikidata.org/wiki/Q4517317
 schema_version: 1
@@ -22,3 +23,5 @@ cinematographer:
 - kotov-boris-stepanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8Q545R7ScznyO2z8kP7dbQKnFDn.jpg
+backdrop_tmdb_path: /pUbaM32VBtLlGCTOUHQELIfvoup.jpg

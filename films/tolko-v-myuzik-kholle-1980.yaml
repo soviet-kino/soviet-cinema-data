@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4460058
   imdb: tt0081640
   youtube: C_qYoCgYE4o
+  tmdb: 839608
 sources:
 - https://www.wikidata.org/wiki/Q4460058
 schema_version: 1
@@ -26,3 +27,4 @@ cast:
 - person: yurevich-irina-aleksandrovna
 studio:
 - odesskaya-kinostudiya
+poster_tmdb_path: /JCLzzNFWrqwU8sI0DOPs75HvNb.jpg

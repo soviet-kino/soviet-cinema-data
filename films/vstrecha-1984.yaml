@@ -11,8 +11,11 @@ topics:
 external_ids:
   wikidata: Q43259950
   imdb: tt6493332
+  tmdb: 616359
 sources:
 - https://www.wikidata.org/wiki/Q43259950
 schema_version: 1
 director:
 - titov-mikhail-moiseevich
+poster_tmdb_path: /72UceSAau55dPdFr3DurHWhs849.jpg
+backdrop_tmdb_path: /pDLsOoC2Fu3ntRNLRejbp81rVfp.jpg

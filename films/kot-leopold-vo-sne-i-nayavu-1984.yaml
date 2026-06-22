@@ -12,6 +12,7 @@ runtime_min: 584
 external_ids:
   wikidata: Q55653668
   imdb: tt1081454
+  tmdb: 153025
 sources:
 - https://www.wikidata.org/wiki/Q55653668
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - savelev-boris
 studio:
 - ekran
+poster_tmdb_path: /1rkkUSMaB6jIV4Ph7WYZoEPi5zN.jpg
+backdrop_tmdb_path: /gYEy5tW9h3RoVTeKzlm14rHCaB8.jpg

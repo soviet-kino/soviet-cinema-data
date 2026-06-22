@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4179810
   imdb: tt3522954
+  tmdb: 453576
 sources:
 - https://www.wikidata.org/wiki/Q4179810
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - efremov-igor-leonidovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /qIxBk5rXkCG6sAfYLb0mNw1oumF.jpg
+backdrop_tmdb_path: /68RL0QvilbPfCvd8JBcjqDz4eyA.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q97663153
   imdb: tt6784578
+  tmdb: 903874
 sources:
 - https://www.wikidata.org/wiki/Q97663153
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - kutsenko-svetlana-yakovlevna
 studio:
 - kievnauchfilm
+poster_tmdb_path: /qIbHaAgBcrLaVJQXTu76NKI2gE6.jpg

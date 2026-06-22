@@ -12,6 +12,7 @@ external_ids:
   wikidata: Q55590122
   imdb: tt6348148
   youtube: KCWFtxQENCc
+  tmdb: 439724
 sources:
 - https://www.wikidata.org/wiki/Q55590122
 schema_version: 1
@@ -19,3 +20,5 @@ director:
 - pruzhanskiy-efrem
 studio:
 - kievnauchfilm
+poster_tmdb_path: /tAXt3YmKHDaABuM9VCInYfYGEuM.jpg
+backdrop_tmdb_path: /mHxlybPUT2UNKrYOLkMeIHOpfAj.jpg

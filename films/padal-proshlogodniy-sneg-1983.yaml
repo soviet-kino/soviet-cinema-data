@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4341995
   imdb: tt0219233
   youtube: 9hDjp0C79-c
+  tmdb: 145760
 sources:
 - https://www.wikidata.org/wiki/Q4341995
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - gladkov-grigoriy-vasilevich
 studio:
 - ekran
+poster_tmdb_path: /xEpK6mFiqpWl7zf5SeFBEd8A8ne.jpg
+backdrop_tmdb_path: /4rQeru1zh0KPAhESYRy7g1VC610.jpg

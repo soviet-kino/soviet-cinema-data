@@ -12,8 +12,10 @@ runtime_min: 572
 external_ids:
   wikidata: Q16718690
   imdb: tt6102976
+  tmdb: 438429
 sources:
 - https://www.wikidata.org/wiki/Q16718690
 schema_version: 1
 screenwriter:
 - vasilev-sergey-aleksandrovich
+poster_tmdb_path: /cGx2nFOLjO2v9tea7FnoUe8rTlh.jpg

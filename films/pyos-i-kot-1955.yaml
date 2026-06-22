@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4386167
   imdb: tt0145745
+  tmdb: 448515
 sources:
 - https://www.wikidata.org/wiki/Q4386167
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - khachaturyan-karen
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /62U67ScltzVJir0vvbX4F92B8C4.jpg
+backdrop_tmdb_path: /oDYtypyF2tFje6jTFiRzi3CIIOS.jpg

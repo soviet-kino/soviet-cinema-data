@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4463100
   imdb: tt2320140
+  tmdb: 138778
 sources:
 - https://www.wikidata.org/wiki/Q4463100
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - partskhaladze-merab
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7cwy6mUnzO76A3gdOYryBm6tX4k.jpg

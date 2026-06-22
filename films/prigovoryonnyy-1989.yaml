@@ -8,6 +8,7 @@ runtime_min: 93
 external_ids:
   wikidata: Q4378028
   imdb: tt0311673
+  tmdb: 640312
 sources:
 - https://www.wikidata.org/wiki/Q4378028
 schema_version: 1
@@ -19,3 +20,5 @@ cast:
 - person: zaytsev-vladimir-ivanovich
 studio:
 - mosfilm
+poster_tmdb_path: /rrjKaMifXJSuof13pIZBdcaN11x.jpg
+backdrop_tmdb_path: /bENmrrRHoUhh2gyhnOQ4hpFP5S3.jpg

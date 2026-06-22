@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q55504254
   imdb: tt6248918
+  tmdb: 440493
 sources:
 - https://www.wikidata.org/wiki/Q55504254
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - levitin-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8I5nFnUTJ8o7nkjLJRodM5Z6pWD.jpg

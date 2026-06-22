@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4335133
   imdb: tt6056824
+  tmdb: 448413
 sources:
 - https://www.wikidata.org/wiki/Q4335133
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - lvov-kompaneets-david-lvovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zljEeqKJjeLaghYZgBmMVMHnDYF.jpg

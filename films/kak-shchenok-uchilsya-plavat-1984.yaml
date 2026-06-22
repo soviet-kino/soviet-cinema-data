@@ -11,8 +11,10 @@ topics:
 external_ids:
   wikidata: Q55475097
   imdb: tt6100210
+  tmdb: 453676
 sources:
 - https://www.wikidata.org/wiki/Q55475097
 schema_version: 1
 director:
 - danilevich-vladimir-petrovich
+poster_tmdb_path: /5FckaBcOrj4ZO2zry5Ni1VcKAQo.jpg

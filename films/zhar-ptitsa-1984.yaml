@@ -12,6 +12,7 @@ runtime_min: 578
 external_ids:
   wikidata: Q16514521
   imdb: tt9032394
+  tmdb: 441218
 sources:
 - https://www.wikidata.org/wiki/Q16514521
 schema_version: 1
@@ -26,3 +27,4 @@ composer:
 studio:
 - ekran
 poster_commons: Ivan Tsarevich and the Firebird (Zvorykin).jpg
+poster_tmdb_path: /zi4O5hPUliVBFhJfdDjPzeoOy9N.jpg

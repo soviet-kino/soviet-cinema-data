@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q21640330
   imdb: tt8152680
+  tmdb: 448033
 sources:
 - https://www.wikidata.org/wiki/Q21640330
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - mosolov-aleksandr
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gO3NlK1slIfeuEi9wvaECmO5DBq.jpg

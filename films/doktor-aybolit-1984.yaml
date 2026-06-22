@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4164279
   imdb: tt0218940
   youtube: p0ig59xMTlI
+  tmdb: 198951
 sources:
 - https://www.wikidata.org/wiki/Q4164279
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - firtich-georgiy
 studio:
 - kievnauchfilm
+poster_tmdb_path: /A5SgsexwvAMed07n8hclAIxQnic.jpg
+backdrop_tmdb_path: /hkgcTaoDNu6LnBGmtGBR6v0woRD.jpg

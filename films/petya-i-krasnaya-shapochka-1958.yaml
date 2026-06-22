@@ -12,6 +12,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4361884
   imdb: tt0219248
+  tmdb: 77297
 sources:
 - https://www.wikidata.org/wiki/Q4361884
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /entKhDnmIWoCcSHrV1vr07FFMzB.jpg
+backdrop_tmdb_path: /qXzxq164xeJbiIYA0Fxa6GIXww3.jpg

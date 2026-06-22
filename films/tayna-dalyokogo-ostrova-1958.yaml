@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4449940
   imdb: tt7000478
+  tmdb: 448605
 sources:
 - https://www.wikidata.org/wiki/Q4449940
 schema_version: 1
@@ -27,3 +28,5 @@ composer:
 - sidelnikov-nikolay-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8V776QDdWpo38XhMuJRnYhiWyOk.jpg
+backdrop_tmdb_path: /k8rogQ8YS8UcFNiDAgGFKQKgN83.jpg

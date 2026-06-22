@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4098028
   imdb: tt0982856
   youtube: quyaaszg6jc
+  tmdb: 118792
 sources:
 - https://www.wikidata.org/wiki/Q4098028
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - yanov-yanovskiy-feliks-markovich
 studio:
 - uzbekfilm
+poster_tmdb_path: /2VsZE1bycTnOrz0L8w8rVmuff0A.jpg
+backdrop_tmdb_path: /gW3zISTInY99PnVwROcudYbQ5kK.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q12100264
   imdb: tt2443150
+  tmdb: 439399
 sources:
 - https://www.wikidata.org/wiki/Q12100264
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 - sivokon-evgeniy-yakovlevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /m9E6OWRM6FKUP8rgkE76Orz5j00.jpg
+backdrop_tmdb_path: /s0k95NSd1XpanzNeaohDD1Hu0Ei.jpg

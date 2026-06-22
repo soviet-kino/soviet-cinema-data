@@ -12,6 +12,7 @@ runtime_min: 606
 external_ids:
   wikidata: Q21644430
   imdb: tt6424402
+  tmdb: 219793
 sources:
 - https://www.wikidata.org/wiki/Q21644430
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - kosmachyov-igor-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3Ti94XuSU29OpJXBo3CCACrpXYX.jpg

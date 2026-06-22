@@ -12,6 +12,7 @@ runtime_min: 557
 external_ids:
   wikidata: Q55595043
   imdb: tt2761854
+  tmdb: 295861
 sources:
 - https://www.wikidata.org/wiki/Q55595043
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - bunin-revol
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /b837nSQSmHyazuS7nrcf4CDUloV.jpg

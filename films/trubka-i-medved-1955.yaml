@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4464221
   imdb: tt6923430
+  tmdb: 448634
 sources:
 - https://www.wikidata.org/wiki/Q4464221
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - kats-sigizmund-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /yVjzAMmaztqgKzHIREXhwGVFNhJ.jpg

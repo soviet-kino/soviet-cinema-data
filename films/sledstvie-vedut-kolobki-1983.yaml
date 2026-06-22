@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4423284
   imdb: tt5897988
   youtube: -8n-LQX_SMk
+  tmdb: 555670
 sources:
 - https://www.wikidata.org/wiki/Q4423284
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - ekran
+poster_tmdb_path: /euX7LIOJoIrW3ofP6kHWX8mhbuq.jpg
+backdrop_tmdb_path: /iv04JE9go49Qm22qt8CrhuVymom.jpg

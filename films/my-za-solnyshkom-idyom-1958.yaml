@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q55444639
   imdb: tt6052634
+  tmdb: 448403
 sources:
 - https://www.wikidata.org/wiki/Q55444639
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - bogoslovskiy-nikita-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /y5z2jCKVsUslvK9EHHpdrVSe4iT.jpg

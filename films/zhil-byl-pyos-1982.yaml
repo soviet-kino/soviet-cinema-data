@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q2682217
   imdb: tt0216434
   youtube: Cez52FOq3zw
+  tmdb: 72215
 sources:
 - https://www.wikidata.org/wiki/Q2682217
 schema_version: 1
@@ -25,3 +26,5 @@ cinematographer:
 studio:
 - soyuzmultfilm
 poster_commons: Stamp of Ukraine s381.jpg
+poster_tmdb_path: /7YbdqmDM9h2VmkelGYDKLYbuC5y.jpg
+backdrop_tmdb_path: /bkchguu5t1CzmEZztpFE0qEjNA6.jpg

@@ -12,6 +12,7 @@ runtime_min: 561
 external_ids:
   wikidata: Q4373761
   imdb: tt5861770
+  tmdb: 912038
 sources:
 - https://www.wikidata.org/wiki/Q4373761
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - ledenyov-andrey-romanovich
 studio:
 - pilot
+poster_tmdb_path: /43N7p401HERwNMNoUkgVH7c5wSS.jpg

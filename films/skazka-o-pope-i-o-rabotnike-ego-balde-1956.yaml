@@ -12,6 +12,7 @@ runtime_min: 25
 external_ids:
   wikidata: Q20077363
   imdb: tt5669170
+  tmdb: 431824
 sources:
 - https://www.wikidata.org/wiki/Q20077363
 schema_version: 1
@@ -27,3 +28,4 @@ composer:
 - peyko-nikolay-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8qCynHXHRDqM1ONe4U8Z3XpfeSo.jpg

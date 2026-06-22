@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4379492
   imdb: tt6295354
   youtube: KxOb4YZXCWI
+  tmdb: 440540
 sources:
 - https://www.wikidata.org/wiki/Q4379492
 schema_version: 1
@@ -20,3 +21,4 @@ director:
 - ablynin-boris-isaakovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /8PyylE8hBkFnnrkDiLzR2IrMNGw.jpg

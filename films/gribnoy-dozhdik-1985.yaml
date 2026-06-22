@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q135855437
   imdb: tt6323740
+  tmdb: 453558
 sources:
 - https://www.wikidata.org/wiki/Q135855437
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - kurlyandskiy-aleksandr
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /vNsMG3CQRsWdEK10SwOzDGL6ugl.jpg

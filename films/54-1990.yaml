@@ -12,6 +12,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q64153395
   imdb: tt3335112
+  tmdb: 351328
 sources:
 - https://www.wikidata.org/wiki/Q64153395
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - dezmond-pol
 studio:
 - pilot
+poster_tmdb_path: /reV1QpwJTCpuD0QAkEbCbDAuc2c.jpg

@@ -12,6 +12,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q16653618
   imdb: tt5900602
+  tmdb: 416128
 sources:
 - https://www.wikidata.org/wiki/Q16653618
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - lipskerov-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /dhZeQwJA5AifdSrAnkN6v3u6iOh.jpg

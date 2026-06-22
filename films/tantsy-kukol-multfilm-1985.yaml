@@ -12,6 +12,7 @@ runtime_min: 594
 external_ids:
   wikidata: Q4451341
   imdb: tt2268664
+  tmdb: 454137
 sources:
 - https://www.wikidata.org/wiki/Q4451341
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - dmitriy-shostakovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /2VKLcprnGR2MA2nKTLVbhO34DiL.jpg
+backdrop_tmdb_path: /aU21JN9y5IzhkhenWt9pAu17u8K.jpg

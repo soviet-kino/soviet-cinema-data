@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q18242049
   imdb: tt0207846
   youtube: D45ZtD4DvCQ
+  tmdb: 638319
 sources:
 - https://www.wikidata.org/wiki/Q18242049
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: korolkov-gennadiy-anatolevich
 studio:
 - mosfilm
+poster_tmdb_path: /qd9hLBNHo8xYUPUnElC1WMB4FZl.jpg
+backdrop_tmdb_path: /vRyPAHguCmlIj22hHxMLcEyXQpp.jpg

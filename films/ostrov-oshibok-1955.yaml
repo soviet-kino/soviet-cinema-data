@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4338867
   imdb: tt0219231
+  tmdb: 448487
 sources:
 - https://www.wikidata.org/wiki/Q4338867
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - aleksandrov-anatoliy-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5rRxeZBVUQYL6iFFdpKhsVchl6a.jpg
+backdrop_tmdb_path: /ues2yEiaXZY4kjc6hI72hmUFZd.jpg

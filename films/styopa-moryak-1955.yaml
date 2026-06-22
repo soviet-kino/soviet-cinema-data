@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4444871
   imdb: tt6052920
+  tmdb: 448599
 sources:
 - https://www.wikidata.org/wiki/Q4444871
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - volkonskiy-andrey-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /2dvGTdRXmc4z1Xd2TUdeMteCCgj.jpg
+backdrop_tmdb_path: /aCvOh7eU6AzAL8YUEfnpESROqNf.jpg

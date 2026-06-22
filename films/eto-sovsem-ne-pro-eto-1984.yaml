@@ -12,6 +12,7 @@ runtime_min: 178
 external_ids:
   wikidata: Q16722491
   imdb: tt6053156
+  tmdb: 448852
 sources:
 - https://www.wikidata.org/wiki/Q16722491
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - ivanov-sergey
 studio:
 - ekran
+poster_tmdb_path: /aPxREuFtwdZ5jW77DSqS0JaY18x.jpg

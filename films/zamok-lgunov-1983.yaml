@@ -12,6 +12,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q4185878
   imdb: tt4203290
+  tmdb: 306713
 sources:
 - https://www.wikidata.org/wiki/Q4185878
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - apelsin
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ysRaGshWjuxLDp9gxMYI20oCCl4.jpg
+backdrop_tmdb_path: /jgVrjcb03gQejc2q0ahzfmLLc58.jpg

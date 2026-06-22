@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q60851060
   imdb: tt6210218
   youtube: 1tm28gL7vvw
+  tmdb: 439538
 sources:
 - https://www.wikidata.org/wiki/Q60851060
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - lapinskiy-yakov-naumovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /aJl0EVabJ4ONhYumnF1KCKYRroL.jpg
+backdrop_tmdb_path: /ymizgReUe5SGSZ0KtjIle5cPlg4.jpg

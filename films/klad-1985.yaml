@@ -12,6 +12,7 @@ runtime_min: 551
 external_ids:
   wikidata: Q4222790
   imdb: tt5498602
+  tmdb: 407084
 sources:
 - https://www.wikidata.org/wiki/Q4222790
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - egikov-igor
 studio:
 - ekran
+poster_tmdb_path: /8N11trf9FmzGyoIbXrwKgsn8FU.jpg

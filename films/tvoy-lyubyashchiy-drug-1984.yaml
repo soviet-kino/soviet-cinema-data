@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4453321
   imdb: tt9274962
   youtube: By4pTpXcEPw
+  tmdb: 439808
 sources:
 - https://www.wikidata.org/wiki/Q4453321
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - bystryakov-vladimir-yurevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /qogvYQOR6y6t6MRDgXbnQMQ0SMq.jpg

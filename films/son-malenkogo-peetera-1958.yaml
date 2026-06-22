@@ -12,6 +12,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q2067219
   imdb: tt0452373
+  tmdb: 582721
 sources:
 - https://www.wikidata.org/wiki/Q2067219
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - kyrver-boris-voldemarovich
 studio:
 - tallinfilm
+poster_tmdb_path: /2ttr2roQGAJdVpktvFBxCgJ070O.jpg

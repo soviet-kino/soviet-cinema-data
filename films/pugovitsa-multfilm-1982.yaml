@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4383325
   imdb: tt5041848
+  tmdb: 661837
 sources:
 - https://www.wikidata.org/wiki/Q4383325
 schema_version: 1
@@ -22,3 +23,4 @@ screenwriter:
 - slavkin-viktor-iosifovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pMMD5T2qWp0oZcauv5XRZWPUp2a.jpg

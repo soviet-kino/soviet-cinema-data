@@ -12,6 +12,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4286108
   imdb: tt2207531
+  tmdb: 84684
 sources:
 - https://www.wikidata.org/wiki/Q4286108
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - budashkin-nikolay-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4voKH6ASB8bJHKPbk8k9HcZUnqF.jpg

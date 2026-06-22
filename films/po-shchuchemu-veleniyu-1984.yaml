@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q25394003
   imdb: tt4659898
   youtube: orIPeuZ40VQ
+  tmdb: 438407
 sources:
 - https://www.wikidata.org/wiki/Q25394003
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - gladkov-grigoriy-vasilevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /m3Lf99YbBegxN0qV4noTsyvvADt.jpg

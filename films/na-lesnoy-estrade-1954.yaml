@@ -12,6 +12,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q21642001
   imdb: tt5894370
+  tmdb: 448405
 sources:
 - https://www.wikidata.org/wiki/Q21642001
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - vaynberg-moisey-samuilovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uSDaqj6P1zBdq9ALdJIp58GpvMU.jpg

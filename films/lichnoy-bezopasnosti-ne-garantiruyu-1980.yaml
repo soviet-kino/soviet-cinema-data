@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q15270723
   imdb: tt0081048
   youtube: aPWQ8Y-vT1E
+  tmdb: 629056
 sources:
 - https://www.wikidata.org/wiki/Q15270723
 schema_version: 1
@@ -25,3 +26,4 @@ cast:
 - person: morozov-semyon-mikhaylovich
 studio:
 - lenfilm
+poster_tmdb_path: /bKlmrK4PiV86J8jfgC3LeZPwYRJ.jpg

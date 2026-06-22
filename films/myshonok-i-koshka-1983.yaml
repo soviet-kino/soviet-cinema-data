@@ -12,6 +12,7 @@ runtime_min: 245
 external_ids:
   wikidata: Q15303939
   imdb: tt1345778
+  tmdb: 1653538
 sources:
 - https://www.wikidata.org/wiki/Q15303939
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - goldshteyn-aleksandr-borisovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /5KKmt7aBVRdRBcF5ihOkaf5eb6W.jpg

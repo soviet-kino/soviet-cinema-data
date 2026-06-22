@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q16514632
   imdb: tt9053186
+  tmdb: 906860
 sources:
 - https://www.wikidata.org/wiki/Q16514632
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - osadchiy-aleksandr-filippovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /wSelFJnXPJxCKRicZQqA1f9PKfE.jpg

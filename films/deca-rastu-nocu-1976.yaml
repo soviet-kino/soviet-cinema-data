@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q12750838
   imdb: tt0200569
+  tmdb: 1708320
 sources:
 - https://www.wikidata.org/wiki/Q12750838
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: radovanovic-radmila
 - person: kriticheski-liliana
 - person: jelisic-or-e
+poster_tmdb_path: /ewyGFu27cyjoyFApjkvjfQyG85U.jpg

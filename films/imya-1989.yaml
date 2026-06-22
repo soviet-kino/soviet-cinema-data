@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q13156634
   imdb: tt0307000
   youtube: --L6YCBn_OM
+  tmdb: 638547
 sources:
 - https://www.wikidata.org/wiki/Q13156634
 schema_version: 1
@@ -19,3 +20,4 @@ cast:
 - person: demidov-oleg-anatolevich
 studio:
 - kinostudiya-imeni-m-gorkogo
+poster_tmdb_path: /gMs7nZfF2yd5G8p2g4OQu7oowSw.jpg

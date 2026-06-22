@@ -12,6 +12,7 @@ runtime_min: 18
 external_ids:
   wikidata: Q119690217
   imdb: tt0452385
+  tmdb: 1265069
 sources:
 - https://www.wikidata.org/wiki/Q119690217
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - kyrver-boris-voldemarovich
 studio:
 - ants-looman
+poster_tmdb_path: /aRoOXlHjvAoEneoCYUJLoCej0Dn.jpg

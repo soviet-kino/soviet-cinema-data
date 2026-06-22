@@ -11,8 +11,10 @@ topics:
 external_ids:
   wikidata: Q63226645
   imdb: tt2329960
+  tmdb: 795107
 sources:
 - https://www.wikidata.org/wiki/Q63226645
 schema_version: 1
 studio:
 - pilot
+poster_tmdb_path: /3wkkdI8d2lQtwNXDsurPVHMXews.jpg

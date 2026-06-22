@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q28465043
   imdb: tt2221036
+  tmdb: 598506
 sources:
 - https://www.wikidata.org/wiki/Q28465043
 schema_version: 1
@@ -20,3 +21,5 @@ composer:
 - shchedrin-rodion-konstantinovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /eZDPDQQcWj263wCNmqdfyEcKmPh.jpg
+backdrop_tmdb_path: /7xvsTQ7ge3GTG7p07f0kWQmCjad.jpg

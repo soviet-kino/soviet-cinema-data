@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4235898
   imdb: tt6741168
   youtube: 8jQqbamNem0
+  tmdb: 768409
 sources:
 - https://www.wikidata.org/wiki/Q4235898
 schema_version: 1
@@ -22,3 +23,4 @@ screenwriter:
 - karaev-aleksey-borisovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /faPjSffYIzlJo21gakLoycF6pdo.jpg

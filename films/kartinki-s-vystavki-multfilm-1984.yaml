@@ -12,6 +12,7 @@ runtime_min: 7
 external_ids:
   wikidata: Q4216209
   imdb: tt4441334
+  tmdb: 453681
 sources:
 - https://www.wikidata.org/wiki/Q4216209
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - musorgskiy-modest-petrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /yp0slq2Zxbd93T1oLegKekRviyI.jpg
+backdrop_tmdb_path: /6a1ZHKJW8LKqomtWptsYwgtkBXC.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q16514558
   imdb: tt5964478
+  tmdb: 1431326
 sources:
 - https://www.wikidata.org/wiki/Q16514558
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - krivtsov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gk5MCBBzoEJZkX3si4gHE3jLflO.jpg
+backdrop_tmdb_path: /kdPpTwjyvfU64mwv7cjkV7ZpGFK.jpg

@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q3199599
   imdb: tt0230426
   youtube: qTCzmfP4T20
+  tmdb: 90640
 sources:
 - https://www.wikidata.org/wiki/Q3199599
 schema_version: 1
@@ -28,3 +29,5 @@ composer:
 - levitin-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /v1bVrQ5GtHNTiGaG2ZpTaFQaKE.jpg
+backdrop_tmdb_path: /4UvT6NIXfRr1U1YxJCwSEJiJHnM.jpg

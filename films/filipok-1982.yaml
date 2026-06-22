@@ -12,6 +12,7 @@ runtime_min: 607
 external_ids:
   wikidata: Q21644967
   imdb: tt1997360
+  tmdb: 446405
 sources:
 - https://www.wikidata.org/wiki/Q21644967
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - krylatov-evgeniy
 studio:
 - ekran
+poster_tmdb_path: /k3cDBFfXH5t3GZLBYSLBxqi8zcx.jpg

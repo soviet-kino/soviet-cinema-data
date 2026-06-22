@@ -12,6 +12,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q55589915
   imdb: tt0452324
+  tmdb: 494067
 sources:
 - https://www.wikidata.org/wiki/Q55589915
 schema_version: 1
@@ -19,3 +20,5 @@ director:
 - pars-kheyno
 studio:
 - tallinfilm
+poster_tmdb_path: /nvXMkOTenhBFRsvQO8j2EaDBlaO.jpg
+backdrop_tmdb_path: /tz437aGQhlO5sRw8vm380YOF7bX.jpg

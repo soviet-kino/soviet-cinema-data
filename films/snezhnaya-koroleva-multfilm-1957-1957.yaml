@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q2376391
   imdb: tt0050987
   youtube: a9EMZitlNn8
+  tmdb: 72214
 sources:
 - https://www.wikidata.org/wiki/Q2376391
 schema_version: 1
@@ -32,3 +33,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: 2005. Stamp of Belarus 0614.jpg
+poster_tmdb_path: /xVmUlQm0lc37LG3s10oF7SSJgAB.jpg
+backdrop_tmdb_path: /b7g3wiSml2NoyGhfTf66Rvv1Dlh.jpg

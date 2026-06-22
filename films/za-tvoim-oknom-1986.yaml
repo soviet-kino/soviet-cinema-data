@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q140045117
   imdb: tt9212308
+  tmdb: 438391
 sources:
 - https://www.wikidata.org/wiki/Q140045117
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - bystryakov-vladimir-yurevich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /91XenojqiGFUjKVIf9f9g6p5Zw8.jpg

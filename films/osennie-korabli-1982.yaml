@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4337597
   imdb: tt5524154
   youtube: w66cJV5k3Rk
+  tmdb: 460812
 sources:
 - https://www.wikidata.org/wiki/Q4337597
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - viktor-viktorovich-kuprevich
 studio:
 - ekran
+poster_tmdb_path: /nUvnIa6QBRmq5X7WlcFmXT1BjAR.jpg
+backdrop_tmdb_path: /sBeyUMlbNOcqhitmpeh3ObxijYg.jpg

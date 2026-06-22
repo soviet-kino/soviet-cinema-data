@@ -11,6 +11,9 @@ topics:
 external_ids:
   wikidata: Q130416613
   imdb: tt8121706
+  tmdb: 438432
 sources:
 - https://www.wikidata.org/wiki/Q130416613
 schema_version: 1
+poster_tmdb_path: /eeZUsQvlfKgtlGJJeCUsTdzgoqY.jpg
+backdrop_tmdb_path: /J2SaJ8hi5tr0WLucYZmFy9nBea.jpg

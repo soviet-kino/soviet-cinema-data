@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q135112035
   imdb: tt5567840
+  tmdb: 362084
 sources:
 - https://www.wikidata.org/wiki/Q135112035
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - tatarchenko-gennadiy-petrovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /8l7XwdaKptNR83lh4pnDDXqPc8V.jpg

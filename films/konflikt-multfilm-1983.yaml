@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4231812
   imdb: tt1288381
   youtube: -Y6TaLPlwco
+  tmdb: 48605
 sources:
 - https://www.wikidata.org/wiki/Q4231812
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - anashkin-sergey-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7MilJfFf7dUP65yiYw9sOTQaskZ.jpg

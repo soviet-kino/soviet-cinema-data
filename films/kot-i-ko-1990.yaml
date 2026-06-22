@@ -12,6 +12,7 @@ runtime_min: 547
 external_ids:
   wikidata: Q15270681
   imdb: tt0907124
+  tmdb: 469020
 sources:
 - https://www.wikidata.org/wiki/Q15270681
 schema_version: 1
@@ -21,3 +22,5 @@ screenwriter:
 - golovanov-vladimir-antonovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sR0LdfNN9Kj1bj39Nf93NGZ9uDy.jpg
+backdrop_tmdb_path: /hqVhz8GfaoLbJcxOLYVFsBS0ISb.jpg

@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4379488
   imdb: tt6323624
+  tmdb: 219789
 sources:
 - https://www.wikidata.org/wiki/Q4379488
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - khanok-eduard-semyonovich
 studio:
 - belarusfilm
+poster_tmdb_path: /AvyuiOKkD7Jl68wc2K1MmW4rfk4.jpg

@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q16657140
   imdb: tt6053134
   youtube: KfXDMKyhXSc
+  tmdb: 439567
 sources:
 - https://www.wikidata.org/wiki/Q16657140
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - guba-vladimir
 studio:
 - kievnauchfilm
+poster_tmdb_path: /tGUvf8qmfSxPhPTUud4PGEGcQT5.jpg
+backdrop_tmdb_path: /s9kJOuTWhagJqhjhM3iUYyN9wuU.jpg

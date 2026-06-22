@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4044368
   imdb: tt4272668
+  tmdb: 471561
 sources:
 - https://www.wikidata.org/wiki/Q4044368
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - botyarov-evgeniy-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /2pqbz3q0uQLzd7CyqzPxMg7BmrA.jpg
+backdrop_tmdb_path: /vb86vaq976kavvyJW7uiNKrOlUp.jpg

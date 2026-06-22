@@ -12,6 +12,7 @@ runtime_min: 642
 external_ids:
   wikidata: Q55435466
   imdb: tt6249404
+  tmdb: 448635
 sources:
 - https://www.wikidata.org/wiki/Q55435466
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - galich-aleksandr-arkadevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zY11md240dz3GXMS2HRzYc80Z1Q.jpg

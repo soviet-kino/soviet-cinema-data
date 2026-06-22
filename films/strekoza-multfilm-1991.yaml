@@ -12,8 +12,11 @@ runtime_min: 3
 external_ids:
   wikidata: Q15383022
   imdb: tt1441461
+  tmdb: 1435959
 sources:
 - https://www.wikidata.org/wiki/Q15383022
 schema_version: 1
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /jbZkScdsEtqvLjjsc5F11NFVWsF.jpg
+backdrop_tmdb_path: /eLsHzo9vUONDs5FKuybfU9Ktg6W.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q112977243
   imdb: tt6017528
+  tmdb: 448566
 sources:
 - https://www.wikidata.org/wiki/Q112977243
 schema_version: 1
@@ -20,3 +21,5 @@ cinematographer:
 - teodor-bunimovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4rWNCq94bcUuv2GLYHNUWs3gW9d.jpg
+backdrop_tmdb_path: /9siTxyn62GW804YeDTiK7mZER64.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4439844
   imdb: tt6214820
+  tmdb: 420403
 sources:
 - https://www.wikidata.org/wiki/Q4439844
 schema_version: 1
@@ -20,3 +21,5 @@ screenwriter:
 - kotyonochkin-vyacheslav-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /lFyrL205dlXmSxW9fvI0x2RRsJi.jpg
+backdrop_tmdb_path: /v6Y6c7DZBTtoKlKfzXrZikRWUqt.jpg

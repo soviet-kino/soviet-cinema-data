@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q21148915
   imdb: tt4637392
+  tmdb: 420360
 sources:
 - https://www.wikidata.org/wiki/Q21148915
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - nosov-pyotr-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /w1EcStwKXXZGerLxL1kPZp9Klup.jpg

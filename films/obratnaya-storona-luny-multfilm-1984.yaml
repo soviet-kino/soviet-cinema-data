@@ -12,6 +12,7 @@ runtime_min: 581
 external_ids:
   wikidata: Q4329824
   imdb: tt1350938
+  tmdb: 385778
 sources:
 - https://www.wikidata.org/wiki/Q4329824
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - nazarov-vladimir-vasilevich
 studio:
 - ekran
+poster_tmdb_path: /8CQPSSjr8xjvGnABKdukJ5UkfQE.jpg
+backdrop_tmdb_path: /bpjKqz8lvh8mLiyQx1kbpWc5WO3.jpg

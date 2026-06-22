@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q51452334
   imdb: tt5894512
   youtube: JbcE9qKSrAk
+  tmdb: 273972
 sources:
 - https://www.wikidata.org/wiki/Q51452334
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - babushkin-viktor-borisovich
 studio:
 - ekran
+poster_tmdb_path: /1L5Q2ks48ZW5Pg8g2q6Jh2bfsIw.jpg

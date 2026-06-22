@@ -12,6 +12,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q16514598
   imdb: tt6241756
+  tmdb: 425734
 sources:
 - https://www.wikidata.org/wiki/Q16514598
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 studio:
 - vsesoyuznaya-gosudarstvennaya-teleradiokompaniya
 - ekran
+poster_tmdb_path: /2IGMTvtIKHZAxWsttIDvlhjj6DN.jpg
+backdrop_tmdb_path: /fBzd1Bfv92M4p9XAEzQ9AngEg6e.jpg

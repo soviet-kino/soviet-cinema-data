@@ -12,6 +12,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4468251
   imdb: tt8836610
+  tmdb: 439622
 sources:
 - https://www.wikidata.org/wiki/Q4468251
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - stiebra-roze
 composer:
 - kalnynsh-imants
+poster_tmdb_path: /3AOTkzAkKgFZEKbDi0horGnBuTe.jpg

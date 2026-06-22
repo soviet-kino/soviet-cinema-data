@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4366086
   imdb: tt4526778
   youtube: 0DnjD7w-2FI
+  tmdb: 243698
 sources:
 - https://www.wikidata.org/wiki/Q4366086
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - bystryakov-vladimir-yurevich
 studio:
 - ekran
+poster_tmdb_path: /5X1HQviWcx5uzKJ3EGTANZfmTUd.jpg
+backdrop_tmdb_path: /dBa9uT9oR8na3Ty1fp29ONKkPtJ.jpg

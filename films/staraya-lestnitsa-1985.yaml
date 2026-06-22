@@ -12,6 +12,7 @@ runtime_min: 408
 external_ids:
   wikidata: Q24935561
   imdb: tt0777282
+  tmdb: 505420
 sources:
 - https://www.wikidata.org/wiki/Q24935561
 schema_version: 1
@@ -23,3 +24,5 @@ cinematographer:
 - rasulov-kabul-abdurakhmanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pT7XFIuFyEbFGgm4CM8xA2VCOxs.jpg
+backdrop_tmdb_path: /iAdLgW5xc0CFx3SUPCX65baqnOD.jpg

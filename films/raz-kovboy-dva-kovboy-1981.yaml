@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4388188
   imdb: tt5120774
   youtube: z4xMhBqG4s8
+  tmdb: 391467
 sources:
 - https://www.wikidata.org/wiki/Q4388188
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - savelev-boris
 studio:
 - ekran
+poster_tmdb_path: /re1t7fTqfxru78xEygvZMM1xfXr.jpg
+backdrop_tmdb_path: /zVCpsPEyu2ORuU6QvnMhjnliCKj.jpg

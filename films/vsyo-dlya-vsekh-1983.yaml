@@ -12,6 +12,7 @@ runtime_min: 160
 external_ids:
   wikidata: Q15270539
   imdb: tt1359592
+  tmdb: 1404865
 sources:
 - https://www.wikidata.org/wiki/Q15270539
 schema_version: 1
@@ -21,3 +22,5 @@ screenwriter:
 - evgeniy-danilovich-agranovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3lGhXlbk5P4U9m1pY6uQYFFbue4.jpg
+backdrop_tmdb_path: /gIiON3KygkLDBydf5LGpI4SQ3dL.jpg

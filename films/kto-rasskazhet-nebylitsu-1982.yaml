@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q62386
   imdb: tt1352377
   youtube: zWALnZblInI
+  tmdb: 84810
 sources:
 - https://www.wikidata.org/wiki/Q62386
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - amirkhanyan-robert
 studio:
 - armenfilm
+poster_tmdb_path: /hIWxSgkWOKCx1a77JWm5O6yiS7W.jpg
+backdrop_tmdb_path: /v0TJHQO0Ex1kRdvLC7UskBTz7T3.jpg

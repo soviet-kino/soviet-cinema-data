@@ -12,6 +12,7 @@ runtime_min: 530
 external_ids:
   wikidata: Q16645083
   imdb: tt9044786
+  tmdb: 219779
 sources:
 - https://www.wikidata.org/wiki/Q16645083
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - karabits-ivan-fyodorovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /mbsRcy39gm1tuzYsFcVm3Fm8ors.jpg

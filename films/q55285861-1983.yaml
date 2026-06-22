@@ -12,8 +12,10 @@ runtime_min: 20
 external_ids:
   wikidata: Q55285861
   imdb: tt0478727
+  tmdb: 775668
 sources:
 - https://www.wikidata.org/wiki/Q55285861
 schema_version: 1
 director:
 - burovs-arnolds
+poster_tmdb_path: /5pGpf5X1UIi4sVB8R6dYXLW7Fyk.jpg

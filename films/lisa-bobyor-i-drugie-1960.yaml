@@ -12,6 +12,7 @@ runtime_min: 16
 external_ids:
   wikidata: Q55502590
   imdb: tt0230462
+  tmdb: 1368120
 sources:
 - https://www.wikidata.org/wiki/Q55502590
 schema_version: 1
@@ -22,3 +23,5 @@ screenwriter:
 - mikhalkov-sergey-vladimirovich
 cast:
 - person: mikhalkov-sergey-vladimirovich
+poster_tmdb_path: /6yfXpZJXndsIG02GCqXrX8eJ4pg.jpg
+backdrop_tmdb_path: /9RiCkavxl5ZMSLjvmCj6Ff3oLcM.jpg

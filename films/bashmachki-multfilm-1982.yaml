@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q20096109
   imdb: tt9089744
+  tmdb: 269665
 sources:
 - https://www.wikidata.org/wiki/Q20096109
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - usach-grigoriy-davydovich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /hZrWrO3V2Ywrh9mna2FBhQp2ffL.jpg

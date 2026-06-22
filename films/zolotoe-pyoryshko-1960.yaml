@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q55425994
   imdb: tt2597732
+  tmdb: 448020
 sources:
 - https://www.wikidata.org/wiki/Q55425994
 schema_version: 1
@@ -19,3 +20,5 @@ director:
 - aristov-leonid
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ePgf9acCP31PFVe67ctnEs0FT6g.jpg
+backdrop_tmdb_path: /sFV6v1mq3WlJrIb3ckZYRFwfiuG.jpg

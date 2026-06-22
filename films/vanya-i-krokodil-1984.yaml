@@ -12,6 +12,7 @@ runtime_min: 11
 external_ids:
   wikidata: Q24934675
   imdb: tt3615764
+  tmdb: 440289
 sources:
 - https://www.wikidata.org/wiki/Q24934675
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - kataev-ilya-evgenevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /jZWHMbYPFb3jn7Hh2MQtE0fU0HB.jpg

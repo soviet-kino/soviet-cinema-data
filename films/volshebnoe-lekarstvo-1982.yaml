@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q16514499
   imdb: tt9001986
+  tmdb: 453552
 sources:
 - https://www.wikidata.org/wiki/Q16514499
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - goldshteyn-aleksandr-borisovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /wlpYnLSLZ7ZMwJ3wrRlmlxq04ct.jpg
+backdrop_tmdb_path: /jSIRBKmRPTKrXV3GZdIhQZxWWBs.jpg

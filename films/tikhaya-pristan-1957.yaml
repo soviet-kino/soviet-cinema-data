@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q56307937
   imdb: tt7003564
+  tmdb: 1517508
 sources:
 - https://www.wikidata.org/wiki/Q56307937
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - kats-sigizmund-abramovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sNzyoALPjE7ieQv4EW0dEIsYuIe.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q21644707
   imdb: tt6301976
+  tmdb: 1212579
 sources:
 - https://www.wikidata.org/wiki/Q21644707
 schema_version: 1
@@ -22,3 +23,4 @@ cinematographer:
 - golomb-iosif-emmanuilovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3kOaog7nbnfolFBMwK87eI6f6ij.jpg

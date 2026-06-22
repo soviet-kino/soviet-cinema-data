@@ -12,6 +12,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q21644918
   imdb: tt8193458
+  tmdb: 446403
 sources:
 - https://www.wikidata.org/wiki/Q21644918
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - podelskiy-gennadiy-vyacheslavovich
 studio:
 - ekran
+poster_tmdb_path: /l3PSz9VUZjMMYDtLei6hxXVU9CI.jpg

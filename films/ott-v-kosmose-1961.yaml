@@ -12,6 +12,7 @@ runtime_min: 20
 external_ids:
   wikidata: Q2037280
   imdb: tt0452365
+  tmdb: 492575
 sources:
 - https://www.wikidata.org/wiki/Q2037280
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - yurisalu-kheyno
 studio:
 - tallinfilm
+poster_tmdb_path: /z4CdvKI5pQn93Fiq2JEim11R8SY.jpg

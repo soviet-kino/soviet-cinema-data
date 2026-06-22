@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q110589865
   imdb: tt9198314
   youtube: 96t_SZ6qpGU
+  tmdb: 438415
 sources:
 - https://www.wikidata.org/wiki/Q110589865
 schema_version: 1
@@ -22,3 +23,4 @@ screenwriter:
 - fomin-valeriy-ivanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /tdMA17igl7sZTadGtNxcJfXTScX.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4363436
   imdb: tt5121460
+  tmdb: 420362
 sources:
 - https://www.wikidata.org/wiki/Q4363436
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 - nosov-pyotr-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /dEWXdnSjw67FUfeEGgWw7QmnDuT.jpg
+backdrop_tmdb_path: /4ICM7GWVg3CnPeiwpu1fXDLqTwR.jpg
