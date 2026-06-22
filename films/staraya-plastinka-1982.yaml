@@ -1,0 +1,16 @@
+id: staraya-plastinka-1982
+title_ru: Старая пластинка
+title_original: Старая пластинка
+year: 1982
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+external_ids:
+  wikidata: Q4439844
+  imdb: tt6214820
+sources:
+- https://www.wikidata.org/wiki/Q4439844
+schema_version: 1

@@ -23,3 +23,7 @@ studio:
 - mosfilm
 poster_commons: Кадр из м-ф "Волк и семеро козлят".png
 poster_tmdb_path: /6iPgZ5QHjfzVjPkw53YNG2lLY8y.jpg
+genre:
+- animation
+topics:
+- animation

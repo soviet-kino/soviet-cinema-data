@@ -1,0 +1,16 @@
+id: izobretenie-multfilm-1989
+title_ru: Изобретение (мультфильм)
+title_original: Изобретение (мультфильм)
+year: 1989
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 6
+external_ids:
+  wikidata: Q4198736
+sources:
+- https://www.wikidata.org/wiki/Q4198736
+schema_version: 1

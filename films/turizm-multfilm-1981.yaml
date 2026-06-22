@@ -1,0 +1,17 @@
+id: turizm-multfilm-1981
+title_ru: Туризм (мультфильм)
+title_original: Туризм (мультфильм)
+year: 1981
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 1
+external_ids:
+  wikidata: Q4465911
+  imdb: tt9271668
+sources:
+- https://www.wikidata.org/wiki/Q4465911
+schema_version: 1

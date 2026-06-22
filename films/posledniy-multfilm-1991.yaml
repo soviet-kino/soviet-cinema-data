@@ -1,0 +1,17 @@
+id: posledniy-multfilm-1991
+title_ru: Последний (мультфильм)
+title_original: Последний (мультфильм)
+year: 1991
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 561
+external_ids:
+  wikidata: Q4373761
+  imdb: tt5861770
+sources:
+- https://www.wikidata.org/wiki/Q4373761
+schema_version: 1

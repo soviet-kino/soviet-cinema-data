@@ -1,0 +1,17 @@
+id: dinozavrik-1982
+title_ru: Динозаврик
+title_original: Динозаврик
+year: 1982
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 9
+external_ids:
+  wikidata: Q4161941
+  imdb: tt2399511
+sources:
+- https://www.wikidata.org/wiki/Q4161941
+schema_version: 1

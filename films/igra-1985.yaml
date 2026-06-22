@@ -1,0 +1,17 @@
+id: igra-1985
+title_ru: Игра
+title_original: Игра
+year: 1985
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 245
+external_ids:
+  wikidata: Q15395953
+  imdb: tt1364421
+sources:
+- https://www.wikidata.org/wiki/Q15395953
+schema_version: 1

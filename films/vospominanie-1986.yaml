@@ -21,3 +21,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Воспоминание (1986).jpg
+genre:
+- animation
+topics:
+- animation

@@ -16,3 +16,7 @@ composer:
 - zharkovskiy-evgeniy-emmanuilovich
 studio:
 - mosfilm
+genre:
+- animation
+topics:
+- animation

@@ -21,3 +21,7 @@ composer:
 studio:
 - latviyskoe-televidenie
 poster_tmdb_path: /kLZz8L6IrvvghExlxHJA8wsgqG6.jpg
+genre:
+- animation
+topics:
+- animation

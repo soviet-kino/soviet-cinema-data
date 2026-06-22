@@ -19,3 +19,7 @@ composer:
 - ilin-vadim-grigorevich
 studio:
 - kievnauchfilm
+genre:
+- animation
+topics:
+- animation

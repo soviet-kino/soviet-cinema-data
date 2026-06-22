@@ -20,3 +20,7 @@ studio:
 - armenfilm
 poster_tmdb_path: /d1wmPU7KUg8lI6MZRD86jn2hWCv.jpg
 backdrop_tmdb_path: /zwoe0rYqbsAmZAUlipCFSRIsxfW.jpg
+genre:
+- animation
+topics:
+- animation

@@ -13,6 +13,7 @@ sources:
 schema_version: 1
 topics:
 - childrens-cinema
+- animation
 screenwriter:
 - khitruk-fyodor-savelevich
 cinematographer:
@@ -22,3 +23,5 @@ composer:
 studio:
 - kievnauchfilm
 poster_tmdb_path: /ypx4XE42mmlTvAkuW5nRACMXudR.jpg
+genre:
+- animation

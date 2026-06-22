@@ -14,3 +14,7 @@ schema_version: 1
 studio:
 - permtelefilm
 poster_tmdb_path: /vBGeIgQLIABl2Ct17QaqMcRMtii.jpg
+genre:
+- animation
+topics:
+- animation

@@ -1,0 +1,17 @@
+id: eneida-1991
+title_ru: Энеида
+title_original: Энеида
+year: 1991
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 70
+external_ids:
+  wikidata: Q3054072
+  imdb: tt4691334
+sources:
+- https://www.wikidata.org/wiki/Q3054072
+schema_version: 1

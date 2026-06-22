@@ -14,3 +14,7 @@ schema_version: 1
 director:
 - mudzhiri-vladimir-yasonovich
 poster_tmdb_path: /yvPUzmj5mxIrYhHTUb3QTEduZZb.jpg
+genre:
+- animation
+topics:
+- animation

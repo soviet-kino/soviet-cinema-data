@@ -1,0 +1,17 @@
+id: el-1984
+title_ru: Ель
+title_original: Ель
+year: 1984
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q48953305
+  imdb: tt6206396
+sources:
+- https://www.wikidata.org/wiki/Q48953305
+schema_version: 1

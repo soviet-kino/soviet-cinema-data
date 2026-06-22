@@ -1,0 +1,17 @@
+id: priklyucheniya-pingvinenka-lolo-film-pervyy-1986
+title_ru: Приключения пингвиненка Лоло. Фильм первый
+title_original: Приключения пингвиненка Лоло. Фильм первый
+year: 1986
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 30
+external_ids:
+  wikidata: Q138616859
+  imdb: tt0098259
+sources:
+- https://www.wikidata.org/wiki/Q138616859
+schema_version: 1

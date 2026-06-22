@@ -18,3 +18,7 @@ studio:
 - tallinfilm
 poster_tmdb_path: /y29RULnrKMKHoh3qo3Gllwfhak8.jpg
 backdrop_tmdb_path: /xUd6GBKS1oFEmeqozXnEgcEPLbm.jpg
+genre:
+- animation
+topics:
+- animation

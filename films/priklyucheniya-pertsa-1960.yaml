@@ -1,0 +1,16 @@
+id: priklyucheniya-pertsa-1960
+title_ru: Приключения Перца
+title_original: Приключения Перца
+year: 1960
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 20
+external_ids:
+  wikidata: Q12144095
+sources:
+- https://www.wikidata.org/wiki/Q12144095
+schema_version: 1

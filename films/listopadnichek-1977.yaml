@@ -21,3 +21,7 @@ composer:
 studio:
 - belarusfilm
 poster_tmdb_path: /tzuHPOaRHu28zaPoSBG5oNyZfYq.jpg
+genre:
+- animation
+topics:
+- animation

@@ -24,3 +24,7 @@ studio:
 - telefilma-riga
 poster_tmdb_path: /sv2aFwVt2uGRYKXwXeBOUqOuVnH.jpg
 backdrop_tmdb_path: /4vhVvZqrwNenwMMKYOkld3eovFS.jpg
+genre:
+- animation
+topics:
+- animation

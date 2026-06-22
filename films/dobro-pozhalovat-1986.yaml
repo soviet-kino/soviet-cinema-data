@@ -23,3 +23,7 @@ studio:
 - sverdlovskaya-kinostudiya
 poster_tmdb_path: /1L8ysQSuzGthYkNRHQ6KPpJlgFU.jpg
 backdrop_tmdb_path: /AuM1pMDUxzzugAsUdmU40trGuFF.jpg
+genre:
+- animation
+topics:
+- animation

@@ -16,3 +16,7 @@ composer:
 - glebov-evgeniy-aleksandrovich
 studio:
 - belarusfilm
+genre:
+- animation
+topics:
+- animation

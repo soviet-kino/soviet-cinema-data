@@ -21,3 +21,7 @@ composer:
 studio:
 - ekran
 poster_tmdb_path: /6xWsFrZjHpqqE3GG0c5S5CxflbB.jpg
+genre:
+- animation
+topics:
+- animation

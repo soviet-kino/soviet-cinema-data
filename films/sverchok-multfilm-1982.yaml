@@ -1,0 +1,17 @@
+id: sverchok-multfilm-1982
+title_ru: Сверчок (мультфильм)
+title_original: Сверчок (мультфильм)
+year: 1982
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q4410235
+  imdb: tt15175818
+sources:
+- https://www.wikidata.org/wiki/Q4410235
+schema_version: 1

@@ -19,3 +19,7 @@ composer:
 - schnittke-alfred
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

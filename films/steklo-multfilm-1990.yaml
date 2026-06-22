@@ -1,0 +1,17 @@
+id: steklo-multfilm-1990
+title_ru: Стекло (мультфильм)
+title_original: Стекло (мультфильм)
+year: 1990
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 172
+external_ids:
+  wikidata: Q15271038
+  imdb: tt1388915
+sources:
+- https://www.wikidata.org/wiki/Q15271038
+schema_version: 1

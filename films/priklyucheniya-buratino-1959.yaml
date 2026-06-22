@@ -1,0 +1,17 @@
+id: priklyucheniya-buratino-1959
+title_ru: Приключения Буратино
+title_original: Приключения Буратино
+year: 1959
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 68
+external_ids:
+  wikidata: Q4378413
+  imdb: tt0152066
+sources:
+- https://www.wikidata.org/wiki/Q4378413
+schema_version: 1

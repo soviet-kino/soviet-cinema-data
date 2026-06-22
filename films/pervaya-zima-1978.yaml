@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - orshanskiy-tsezar-abramovich
+genre:
+- animation
+topics:
+- animation

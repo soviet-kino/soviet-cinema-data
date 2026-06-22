@@ -14,3 +14,7 @@ sources:
 schema_version: 1
 poster_tmdb_path: /97gl2TkvEmFdJycCHJNkcrA9D0M.jpg
 backdrop_tmdb_path: /6oqjmqlJEXKGSv8EMCp9Sw86c31.jpg
+genre:
+- animation
+topics:
+- animation

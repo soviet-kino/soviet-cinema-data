@@ -22,3 +22,7 @@ cinematographer:
 studio:
 - kievnauchfilm
 poster_tmdb_path: /85nFOFdWzeaiCFKrDRdjqRMvkMz.jpg
+genre:
+- animation
+topics:
+- animation

@@ -16,3 +16,7 @@ composer:
 - kortes-sergey-albertovich
 studio:
 - belarusfilm
+genre:
+- animation
+topics:
+- animation

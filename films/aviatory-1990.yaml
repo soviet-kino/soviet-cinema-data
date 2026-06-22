@@ -1,0 +1,16 @@
+id: aviatory-1990
+title_ru: Авиаторы
+title_original: Авиаторы
+year: 1990
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+external_ids:
+  wikidata: Q63226645
+  imdb: tt2329960
+sources:
+- https://www.wikidata.org/wiki/Q63226645
+schema_version: 1

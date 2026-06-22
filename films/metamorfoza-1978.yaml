@@ -22,3 +22,7 @@ composer:
 - gladkov-gennadiy
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

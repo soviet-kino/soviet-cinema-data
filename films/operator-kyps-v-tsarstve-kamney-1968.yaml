@@ -21,3 +21,7 @@ composer:
 studio:
 - tallinfilm
 poster_tmdb_path: /ek3qWp3YPYgAkQpQ1XgtnJ94rMz.jpg
+genre:
+- animation
+topics:
+- animation

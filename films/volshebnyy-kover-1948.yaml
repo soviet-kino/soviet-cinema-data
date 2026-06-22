@@ -15,3 +15,7 @@ composer:
 - egiazaryan-grigoriy
 studio:
 - armenfilm
+genre:
+- animation
+topics:
+- animation

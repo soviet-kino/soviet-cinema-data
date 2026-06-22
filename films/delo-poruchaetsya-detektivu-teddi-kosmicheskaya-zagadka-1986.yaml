@@ -21,3 +21,7 @@ composer:
 studio:
 - kievnauchfilm
 poster_tmdb_path: /aqI8U44oSlVbhVcGwSpR87yf0qE.jpg
+genre:
+- animation
+topics:
+- animation

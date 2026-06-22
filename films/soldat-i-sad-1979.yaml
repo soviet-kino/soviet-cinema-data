@@ -14,3 +14,7 @@ director:
 studio:
 - soyuzmultfilm
 - studiya-dlya-animatsionnykh-filmov-defa
+genre:
+- animation
+topics:
+- animation

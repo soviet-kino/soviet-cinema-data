@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - vasilenko-nina-konstantinovna
+genre:
+- animation
+topics:
+- animation

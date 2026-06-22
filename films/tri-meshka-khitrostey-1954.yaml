@@ -17,3 +17,7 @@ director:
 studio:
 - soyuzmultfilm
 poster_tmdb_path: /q6almh9Xx1EcFYFJGX8bVn4i34m.jpg
+genre:
+- animation
+topics:
+- animation

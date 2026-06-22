@@ -22,3 +22,7 @@ studio:
 - kievnauchfilm
 poster_tmdb_path: /n8LcC7W7IAX64fUweUbejcMzBNp.jpg
 backdrop_tmdb_path: /tzKMLHjWmVWADktX3q2hRGEbnbX.jpg
+genre:
+- animation
+topics:
+- animation

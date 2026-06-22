@@ -1,0 +1,15 @@
+id: kontsert-1990
+title_ru: Концерт
+title_original: Концерт
+year: 1990
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+external_ids:
+  wikidata: Q4231875
+sources:
+- https://www.wikidata.org/wiki/Q4231875
+schema_version: 1

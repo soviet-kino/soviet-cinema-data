@@ -19,3 +19,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Охотник Фёдор.png
+genre:
+- animation
+topics:
+- animation

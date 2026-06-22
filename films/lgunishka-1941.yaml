@@ -19,3 +19,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Lgunishka 1941.jpg
+genre:
+- animation
+topics:
+- animation

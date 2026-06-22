@@ -19,3 +19,7 @@ composer:
 - shnaper-boris
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

@@ -1,0 +1,17 @@
+id: skazka-o-tsare-saltane-1984
+title_ru: Сказка о царе Салтане
+title_original: Сказка о царе Салтане
+year: 1984
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 56
+external_ids:
+  wikidata: Q4421393
+  imdb: tt0142851
+sources:
+- https://www.wikidata.org/wiki/Q4421393
+schema_version: 1

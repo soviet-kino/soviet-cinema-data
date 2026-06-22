@@ -1,0 +1,17 @@
+id: tri-medvedya-1958
+title_ru: Три медведя
+title_original: Три медведя
+year: 1958
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q29958808
+  imdb: tt6052724
+sources:
+- https://www.wikidata.org/wiki/Q29958808
+schema_version: 1
