@@ -12,6 +12,13 @@ runtime_min: 9
 external_ids:
   wikidata: Q62386
   imdb: tt1352377
+  youtube: zWALnZblInI
 sources:
 - https://www.wikidata.org/wiki/Q62386
 schema_version: 1
+director:
+- saakyants-robert
+composer:
+- amirkhanyan-robert
+studio:
+- armenfilm

@@ -12,6 +12,18 @@ runtime_min: 40
 external_ids:
   wikidata: Q4516124
   imdb: tt2474800
+  youtube: kBsWKc8lAZo
 sources:
 - https://www.wikidata.org/wiki/Q4516124
 schema_version: 1
+director:
+- dyozhkin-boris-petrovich
+screenwriter:
+- pashchenko-mstislav-sergeevich
+cinematographer:
+- petrova-elena-nikolaevna
+composer:
+- khachaturyan-karen
+studio:
+- soyuzmultfilm
+poster_commons: Russia stamp 1992 No 16.jpg

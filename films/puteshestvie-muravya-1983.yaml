@@ -12,6 +12,15 @@ runtime_min: 582
 external_ids:
   wikidata: Q4384271
   imdb: tt0216126
+  youtube: l132u2nIpkI
 sources:
 - https://www.wikidata.org/wiki/Q4384271
 schema_version: 1
+director:
+- nazarov-eduard-vasilevich
+screenwriter:
+- nazarov-eduard-vasilevich
+cinematographer:
+- druyan-mikhail
+studio:
+- soyuzmultfilm

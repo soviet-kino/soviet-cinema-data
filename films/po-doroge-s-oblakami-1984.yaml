@@ -12,6 +12,17 @@ runtime_min: 532
 external_ids:
   wikidata: Q4366086
   imdb: tt4526778
+  youtube: 0DnjD7w-2FI
 sources:
 - https://www.wikidata.org/wiki/Q4366086
 schema_version: 1
+director:
+- butyrin-yuriy
+screenwriter:
+- kostinskiy-aleksandr
+cinematographer:
+- shkamarda-igor-pavlovich
+composer:
+- bystryakov-vladimir-yurevich
+studio:
+- ekran

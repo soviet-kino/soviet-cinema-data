@@ -12,6 +12,15 @@ runtime_min: 266
 external_ids:
   wikidata: Q4323444
   imdb: tt6011948
+  youtube: ZSOZ0wGrJOE
 sources:
 - https://www.wikidata.org/wiki/Q4323444
 schema_version: 1
+director:
+- tatarskiy-aleksandr-mikhaylovich
+screenwriter:
+- uspenskiy-eduard
+composer:
+- zhurbin-aleksandr-borisovich
+studio:
+- ekran

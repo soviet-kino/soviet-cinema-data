@@ -12,6 +12,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q4123223
   imdb: tt0882997
+  youtube: JtXe64Ru3EY
 sources:
 - https://www.wikidata.org/wiki/Q4123223
 schema_version: 1
+director:
+- kamenetskiy-mikhail-abramovich
+screenwriter:
+- lipskerov-mikhail
+composer:
+- kosmachyov-igor-ivanovich
+studio:
+- soyuzmultfilm

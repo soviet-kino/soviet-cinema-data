@@ -13,3 +13,9 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q4244331
 schema_version: 1
+cinematographer:
+- komov-mikhail-ivanovich
+composer:
+- glebov-evgeniy-aleksandrovich
+studio:
+- belarusfilm

@@ -12,6 +12,17 @@ runtime_min: 48
 external_ids:
   wikidata: Q2369324
   imdb: tt0211653
+  youtube: HZodexUkiDI
 sources:
 - https://www.wikidata.org/wiki/Q2369324
 schema_version: 1
+director:
+- kachanov-roman-abelevich
+screenwriter:
+- bulychyov-kir
+cinematographer:
+- teodor-bunimovich
+composer:
+- zatsepin-aleksandr
+studio:
+- soyuzmultfilm

@@ -12,6 +12,15 @@ runtime_min: 10
 external_ids:
   wikidata: Q4535989
   imdb: tt5910384
+  youtube: aZYu8-cRMCs
 sources:
 - https://www.wikidata.org/wiki/Q4535989
 schema_version: 1
+director:
+- mititello-tatyana-borisovna
+screenwriter:
+- kurlyandskiy-aleksandr
+composer:
+- kuryokhin-sergey-anatolevich
+studio:
+- soyuzmultfilm

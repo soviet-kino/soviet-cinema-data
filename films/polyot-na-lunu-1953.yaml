@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q4371630
   imdb: tt3788712
   tmdb: 451771
+  youtube: ft0VU8W1AcM
 sources:
 - https://www.wikidata.org/wiki/Q4371630
 schema_version: 1
@@ -17,3 +18,15 @@ genre:
 - animation
 topics:
 - animation
+director:
+- brumberg-zinaida-semyonovna
+- brumberg-valentina
+screenwriter:
+- erdman-nikolay-robertovich
+- morozov-valentin
+cinematographer:
+- petrova-elena-nikolaevna
+composer:
+- levitin-yuriy
+studio:
+- soyuzmultfilm

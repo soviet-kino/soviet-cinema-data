@@ -12,6 +12,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q12173425
   imdb: tt5108294
+  youtube: Tnh1E4SDvwI
 sources:
 - https://www.wikidata.org/wiki/Q12173425
 schema_version: 1
+director:
+- viken-aleksandr-vladimirovich
+studio:
+- kievnauchfilm

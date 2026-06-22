@@ -12,6 +12,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q110257001
   imdb: tt15223636
+  youtube: ZATOR6JGfuQ
 sources:
 - https://www.wikidata.org/wiki/Q110257001
 schema_version: 1
+screenwriter:
+- lipskerov-mikhail
+studio:
+- sverdlovskaya-kinostudiya

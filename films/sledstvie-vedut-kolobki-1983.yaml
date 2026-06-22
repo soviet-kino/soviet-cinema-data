@@ -12,6 +12,15 @@ runtime_min: 30
 external_ids:
   wikidata: Q4423284
   imdb: tt5897988
+  youtube: -8n-LQX_SMk
 sources:
 - https://www.wikidata.org/wiki/Q4423284
 schema_version: 1
+director:
+- zyablikova-aida
+screenwriter:
+- uspenskiy-eduard
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- ekran

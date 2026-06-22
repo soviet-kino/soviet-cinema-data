@@ -12,6 +12,11 @@ runtime_min: 14
 external_ids:
   wikidata: Q109663632
   imdb: tt9140030
+  youtube: Z61-lqZyYSw
 sources:
 - https://www.wikidata.org/wiki/Q109663632
 schema_version: 1
+director:
+- fomin-valeriy-ivanovich
+studio:
+- sverdlovskaya-kinostudiya

@@ -11,6 +11,13 @@ topics:
 external_ids:
   wikidata: Q24935956
   imdb: tt27535129
+  youtube: KIyAdh64y34
 sources:
 - https://www.wikidata.org/wiki/Q24935956
 schema_version: 1
+director:
+- karaev-aleksey-borisovich
+cinematographer:
+- gribkov-nikolay-nikolaevich
+studio:
+- sverdlovskaya-kinostudiya

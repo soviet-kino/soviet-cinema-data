@@ -11,6 +11,16 @@ topics:
 external_ids:
   wikidata: Q21394027
   imdb: tt6295292
+  youtube: N3udtxhrS-s
 sources:
 - https://www.wikidata.org/wiki/Q21394027
 schema_version: 1
+director:
+- danilevich-vladimir-petrovich
+- degtyaryov-vladimir-dmitrievich
+cinematographer:
+- voinov-nikolay-vasilevich
+composer:
+- vaynberg-moisey-samuilovich
+studio:
+- soyuzmultfilm

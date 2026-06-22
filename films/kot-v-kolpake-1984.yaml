@@ -12,6 +12,13 @@ runtime_min: 9
 external_ids:
   wikidata: Q4235898
   imdb: tt6741168
+  youtube: 8jQqbamNem0
 sources:
 - https://www.wikidata.org/wiki/Q4235898
 schema_version: 1
+director:
+- karaev-aleksey-borisovich
+screenwriter:
+- karaev-aleksey-borisovich
+studio:
+- sverdlovskaya-kinostudiya

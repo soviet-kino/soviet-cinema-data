@@ -8,6 +8,7 @@ external_ids:
   wikidata: Q20083602
   imdb: tt6480966
   tmdb: 904219
+  youtube: y_9wJIeaIrg
 sources:
 - https://www.wikidata.org/wiki/Q20083602
 schema_version: 1
@@ -16,3 +17,7 @@ genre:
 - animation
 topics:
 - animation
+director:
+- orshanskiy-tsezar-abramovich
+studio:
+- kievnauchfilm

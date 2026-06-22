@@ -12,6 +12,15 @@ runtime_min: 544
 external_ids:
   wikidata: Q4127699
   imdb: tt6198026
+  youtube: ZzrFociR-B8
 sources:
 - https://www.wikidata.org/wiki/Q4127699
 schema_version: 1
+director:
+- strautmane-rasa
+screenwriter:
+- kurlyandskiy-aleksandr
+composer:
+- raskatov-aleksandr-mikhaylovich
+studio:
+- ekran

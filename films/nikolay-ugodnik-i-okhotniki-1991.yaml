@@ -12,6 +12,12 @@ runtime_min: 604
 external_ids:
   wikidata: Q16680933
   imdb: tt4560428
+  youtube: UQVaEPdrbrk
 sources:
 - https://www.wikidata.org/wiki/Q16680933
 schema_version: 1
+director:
+- pshenichnaya-inna-aleksandrovna
+studio:
+- vsesoyuznaya-gosudarstvennaya-teleradiokompaniya
+- ekran

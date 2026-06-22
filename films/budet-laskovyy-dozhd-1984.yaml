@@ -12,6 +12,13 @@ runtime_min: 590
 external_ids:
   wikidata: Q4098028
   imdb: tt0982856
+  youtube: quyaaszg6jc
 sources:
 - https://www.wikidata.org/wiki/Q4098028
 schema_version: 1
+director:
+- tulyakhodzhaev-nazim-turabovich
+composer:
+- yanov-yanovskiy-feliks-markovich
+studio:
+- uzbekfilm

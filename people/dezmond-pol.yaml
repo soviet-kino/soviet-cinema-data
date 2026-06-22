@@ -1,0 +1,9 @@
+id: dezmond-pol
+name_ru: Пол Дезмонд
+roles:
+- composer
+external_ids:
+  wikidata: Q332471
+sources:
+- https://www.wikidata.org/wiki/Q332471
+schema_version: 1

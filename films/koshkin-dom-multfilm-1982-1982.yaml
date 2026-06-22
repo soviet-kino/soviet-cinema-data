@@ -12,6 +12,15 @@ runtime_min: 20
 external_ids:
   wikidata: Q4237081
   imdb: tt6791094
+  youtube: fZhVH7iSX54
 sources:
 - https://www.wikidata.org/wiki/Q4237081
 schema_version: 1
+director:
+- novogrudskaya-marianna
+screenwriter:
+- golovanov-vladimir-antonovich
+composer:
+- dunaevskiy-maksim-isaakovich
+studio:
+- ekran

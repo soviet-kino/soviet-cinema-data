@@ -11,6 +11,17 @@ topics:
 external_ids:
   wikidata: Q4335604
   imdb: tt6016126
+  youtube: ZTY2fMkTo-g
 sources:
 - https://www.wikidata.org/wiki/Q4335604
 schema_version: 1
+director:
+- stepantsev-boris-pavlovich
+- raykovskiy-evgeniy-nikolaevich
+screenwriter:
+- korostylyov-vadim-nikolaevich
+- lvovskiy-mikhail
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm

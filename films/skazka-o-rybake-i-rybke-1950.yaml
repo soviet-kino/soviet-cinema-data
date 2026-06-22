@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q10839712
   imdb: tt5437470
   tmdb: 90404
+  youtube: JSlUGe1mxw4
 sources:
 - https://www.wikidata.org/wiki/Q10839712
 schema_version: 1
@@ -18,3 +19,13 @@ genre:
 - animation
 topics:
 - animation
+director:
+- tsekhanovskiy-mikhail-mikhaylovich
+screenwriter:
+- volpin-mikhail-davydovich
+cinematographer:
+- druyan-mikhail
+composer:
+- levitin-yuriy
+studio:
+- soyuzmultfilm

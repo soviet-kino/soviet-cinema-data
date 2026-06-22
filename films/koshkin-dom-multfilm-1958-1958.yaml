@@ -12,6 +12,17 @@ runtime_min: 29
 external_ids:
   wikidata: Q4237080
   imdb: tt0211470
+  youtube: oDbLk7xMS2Y
 sources:
 - https://www.wikidata.org/wiki/Q4237080
 schema_version: 1
+director:
+- amalrik-leonid-alekseevich
+screenwriter:
+- erdman-nikolay-robertovich
+cinematographer:
+- druyan-mikhail
+composer:
+- bogoslovskiy-nikita-vladimirovich
+studio:
+- soyuzmultfilm

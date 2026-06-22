@@ -12,6 +12,21 @@ runtime_min: 227
 external_ids:
   wikidata: Q46996461
   imdb: tt1081452
+  youtube: Fh1zhscOxYQ
 sources:
 - https://www.wikidata.org/wiki/Q46996461
 schema_version: 1
+director:
+- reznikov-anatoliy-izrailevich
+screenwriter:
+- khayt-arkadiy
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- savelev-boris
+cast:
+- person: orlov-dal-konstantinovich
+studio:
+- glavnaya-redaktsiya-muzykalnykh-programm
+- tsentralnoe-televidenie
+- ekran

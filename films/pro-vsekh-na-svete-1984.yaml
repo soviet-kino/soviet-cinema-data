@@ -11,6 +11,11 @@ topics:
 external_ids:
   wikidata: Q55590122
   imdb: tt6348148
+  youtube: KCWFtxQENCc
 sources:
 - https://www.wikidata.org/wiki/Q55590122
 schema_version: 1
+director:
+- pruzhanskiy-efrem
+studio:
+- kievnauchfilm

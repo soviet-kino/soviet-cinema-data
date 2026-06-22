@@ -12,6 +12,17 @@ runtime_min: 7
 external_ids:
   wikidata: Q62433
   imdb: tt0487132
+  youtube: WGc7ptKfA9c
 sources:
 - https://www.wikidata.org/wiki/Q62433
 schema_version: 1
+director:
+- saakyants-robert
+cinematographer:
+- kyurdiyan-alisa
+composer:
+- amirkhanyan-robert
+studio:
+- armenfilm
+poster_commons: Stamp of Armenia - 2020 - Colnect 1029543 - Armenian Cartoons - In
+  The Sea With White Foam.jpeg

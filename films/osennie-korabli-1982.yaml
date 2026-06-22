@@ -12,6 +12,17 @@ runtime_min: 506
 external_ids:
   wikidata: Q4337597
   imdb: tt5524154
+  youtube: w66cJV5k3Rk
 sources:
 - https://www.wikidata.org/wiki/Q4337597
 schema_version: 1
+director:
+- butyrin-yuriy
+screenwriter:
+- kozlov-sergey-grigorevich
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- viktor-viktorovich-kuprevich
+studio:
+- ekran

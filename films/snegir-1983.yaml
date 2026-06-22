@@ -12,6 +12,15 @@ runtime_min: 9
 external_ids:
   wikidata: Q21644443
   imdb: tt6052538
+  youtube: WPylVNX6R_E
 sources:
 - https://www.wikidata.org/wiki/Q21644443
 schema_version: 1
+director:
+- kovalevskaya-inessa-alekseevna
+screenwriter:
+- kovalevskaya-inessa-alekseevna
+composer:
+- kosmachyov-igor-ivanovich
+studio:
+- soyuzmultfilm

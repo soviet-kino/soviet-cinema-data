@@ -14,3 +14,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q21159432
 schema_version: 1
+composer:
+- akhverdyan-ruben
+studio:
+- armenfilm

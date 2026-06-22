@@ -12,6 +12,17 @@ runtime_min: 20
 external_ids:
   wikidata: Q4378424
   imdb: tt6301950
+  youtube: Aeg8-Mj7erI
 sources:
 - https://www.wikidata.org/wiki/Q4378424
 schema_version: 1
+director:
+- stepantsev-boris-pavlovich
+- raykovskiy-evgeniy-nikolaevich
+screenwriter:
+- erdman-nikolay-robertovich
+- erberg-oleg-efimovich
+composer:
+- levitin-yuriy
+studio:
+- soyuzmultfilm

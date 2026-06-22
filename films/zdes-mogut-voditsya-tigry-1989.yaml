@@ -9,6 +9,7 @@ external_ids:
   wikidata: Q4189984
   imdb: tt2384180
   tmdb: 256221
+  youtube: 02FgildTKMs
 sources:
 - https://www.wikidata.org/wiki/Q4189984
 schema_version: 1
@@ -17,3 +18,11 @@ genre:
 - animation
 topics:
 - animation
+director:
+- samsonov-vladimir-anatolevich
+cinematographer:
+- gaman-ernst-aleksandrovich
+composer:
+- kiselyov-anatoliy-ivanovich
+studio:
+- ekran

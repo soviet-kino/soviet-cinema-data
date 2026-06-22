@@ -12,6 +12,11 @@ runtime_min: 10
 external_ids:
   wikidata: Q112176151
   imdb: tt3444604
+  youtube: ug1gBsqq27I
 sources:
 - https://www.wikidata.org/wiki/Q112176151
 schema_version: 1
+director:
+- petkevich-vladimir
+studio:
+- sverdlovskaya-kinostudiya
