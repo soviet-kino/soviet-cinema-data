@@ -11,3 +11,7 @@ sources:
 schema_version: 1
 studio:
 - ekran
+genre:
+- animation
+topics:
+- animation

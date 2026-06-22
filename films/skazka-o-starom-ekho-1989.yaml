@@ -1,0 +1,17 @@
+id: skazka-o-starom-ekho-1989
+title_ru: Сказка о старом эхо
+title_original: Сказка о старом эхо
+year: 1989
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 379
+external_ids:
+  wikidata: Q16514660
+  imdb: tt6052438
+sources:
+- https://www.wikidata.org/wiki/Q16514660
+schema_version: 1

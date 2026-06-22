@@ -27,3 +27,7 @@ sources:
 - https://www.wikidata.org/wiki/Q2033042
 schema_version: 1
 poster_tmdb_path: /z7SO0Ka0kRZzxXZ71OR5J1tth6W.jpg
+genre:
+- animation
+topics:
+- animation

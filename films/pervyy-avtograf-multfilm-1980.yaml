@@ -20,3 +20,7 @@ composer:
 - lebedev-viktor-mikhaylovich
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

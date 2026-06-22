@@ -1,0 +1,16 @@
+id: skazka-multfilm-1990
+title_ru: Сказка (мультфильм)
+title_original: Сказка (мультфильм)
+year: 1990
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 526
+external_ids:
+  wikidata: Q55655832
+sources:
+- https://www.wikidata.org/wiki/Q55655832
+schema_version: 1

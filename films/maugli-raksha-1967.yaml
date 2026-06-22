@@ -17,3 +17,7 @@ director:
 cinematographer:
 - petrova-elena-nikolaevna
 poster_tmdb_path: /tpUzLw9kxGlDIWSY5irvQejE36e.jpg
+genre:
+- animation
+topics:
+- animation

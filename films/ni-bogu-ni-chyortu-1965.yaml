@@ -13,3 +13,7 @@ sources:
 - https://www.wikidata.org/wiki/Q21997190
 schema_version: 1
 poster_tmdb_path: /23tJGw57broK2gJKrCSyaTQwNOe.jpg
+genre:
+- animation
+topics:
+- animation

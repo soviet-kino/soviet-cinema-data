@@ -1,0 +1,17 @@
+id: aist-multfilm-1956
+title_ru: Аист (мультфильм)
+title_original: Аист (мультфильм)
+year: 1956
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q4058501
+  imdb: tt6100140
+sources:
+- https://www.wikidata.org/wiki/Q4058501
+schema_version: 1

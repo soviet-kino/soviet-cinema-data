@@ -21,3 +21,7 @@ composer:
 - bunin-revol
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

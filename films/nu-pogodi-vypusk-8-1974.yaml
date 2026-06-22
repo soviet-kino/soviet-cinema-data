@@ -22,3 +22,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: RR5015-0026R 25 рублей 2018 Ну, погоди! В специальном исполнении.png
+genre:
+- animation
+topics:
+- animation

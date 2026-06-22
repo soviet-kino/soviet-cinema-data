@@ -20,3 +20,7 @@ composer:
 studio:
 - armenfilm
 poster_commons: Parvanamult.png
+genre:
+- animation
+topics:
+- animation

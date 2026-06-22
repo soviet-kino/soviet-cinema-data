@@ -21,3 +21,7 @@ composer:
 studio:
 - mosfilm
 poster_commons: Kvartet 1935.jpg
+genre:
+- animation
+topics:
+- animation

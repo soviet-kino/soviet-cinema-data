@@ -15,3 +15,7 @@ schema_version: 1
 studio:
 - gruziya-film
 poster_tmdb_path: /mJUwdLWtCgwoFM8MU8hFdFyHRcg.jpg
+genre:
+- animation
+topics:
+- animation

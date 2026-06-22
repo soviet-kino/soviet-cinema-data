@@ -1,0 +1,17 @@
+id: mne-odnoy-sestrenke-1984
+title_ru: Мне одной сестренке
+title_original: Мне одной сестренке
+year: 1984
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q61122101
+  imdb: tt27571186
+sources:
+- https://www.wikidata.org/wiki/Q61122101
+schema_version: 1

@@ -12,3 +12,7 @@ sources:
 - https://www.wikidata.org/wiki/Q55475204
 schema_version: 1
 backdrop_tmdb_path: /mpRlOoeVplOWqQzKMmSShKUJEcU.jpg
+genre:
+- animation
+topics:
+- animation

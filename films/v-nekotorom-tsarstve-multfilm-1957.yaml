@@ -1,0 +1,17 @@
+id: v-nekotorom-tsarstve-multfilm-1957
+title_ru: В некотором царстве (мультфильм)
+title_original: В некотором царстве (мультфильм)
+year: 1957
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 30
+external_ids:
+  wikidata: Q21148879
+  imdb: tt1070879
+sources:
+- https://www.wikidata.org/wiki/Q21148879
+schema_version: 1

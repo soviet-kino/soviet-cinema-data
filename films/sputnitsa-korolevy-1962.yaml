@@ -14,3 +14,7 @@ schema_version: 1
 studio:
 - kievnauchfilm
 poster_tmdb_path: /mU8dKKzmk1jUlIvbNeFUWBgmHAr.jpg
+genre:
+- animation
+topics:
+- animation

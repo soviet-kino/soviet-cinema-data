@@ -15,3 +15,7 @@ schema_version: 1
 director:
 - surikova-lidiya-viktorovna
 poster_tmdb_path: /toh4XqYIgEnviPetsCK1VDR3YnV.jpg
+genre:
+- animation
+topics:
+- animation

@@ -1,0 +1,17 @@
+id: pritcha-ob-artiste-1989
+title_ru: Притча об артисте
+title_original: Притча об артисте
+year: 1989
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 18
+external_ids:
+  wikidata: Q25395289
+  imdb: tt6774008
+sources:
+- https://www.wikidata.org/wiki/Q25395289
+schema_version: 1

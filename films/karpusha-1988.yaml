@@ -21,3 +21,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_tmdb_path: /gmNtpazSlWoq02G7QTP94aJ4RqC.jpg
+genre:
+- animation
+topics:
+- animation

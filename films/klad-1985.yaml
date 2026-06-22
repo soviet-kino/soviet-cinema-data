@@ -1,0 +1,17 @@
+id: klad-1985
+title_ru: Клад
+title_original: Клад
+year: 1985
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 551
+external_ids:
+  wikidata: Q4222790
+  imdb: tt5498602
+sources:
+- https://www.wikidata.org/wiki/Q4222790
+schema_version: 1

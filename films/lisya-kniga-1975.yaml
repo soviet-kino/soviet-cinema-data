@@ -22,3 +22,7 @@ composer:
 studio:
 - armenfilm
 poster_tmdb_path: /45eDznDgjVgUIdd8GtMzv95dN9m.jpg
+genre:
+- animation
+topics:
+- animation

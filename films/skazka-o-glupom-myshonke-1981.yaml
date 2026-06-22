@@ -1,0 +1,17 @@
+id: skazka-o-glupom-myshonke-1981
+title_ru: Сказка о глупом мышонке
+title_original: Сказка о глупом мышонке
+year: 1981
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 612
+external_ids:
+  wikidata: Q112603263
+  imdb: tt5538494
+sources:
+- https://www.wikidata.org/wiki/Q112603263
+schema_version: 1

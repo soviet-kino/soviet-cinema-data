@@ -23,3 +23,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_tmdb_path: /f8nR3PucAq0VTOkjwS7utXSqmCM.jpg
+genre:
+- animation
+topics:
+- animation

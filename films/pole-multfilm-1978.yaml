@@ -17,3 +17,7 @@ director:
 studio:
 - tallinfilm
 poster_tmdb_path: /8A3pYxAQx9GZ6doeVCD78IoAPHA.jpg
+genre:
+- animation
+topics:
+- animation

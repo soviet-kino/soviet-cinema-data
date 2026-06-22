@@ -14,6 +14,7 @@ sources:
 schema_version: 1
 topics:
 - childrens-cinema
+- animation
 director:
 - snezhko-blotskaya-aleksandra-gavrilovna
 screenwriter:
@@ -26,3 +27,5 @@ studio:
 - soyuzmultfilm
 poster_tmdb_path: /27fbJdeqFNGcIu2r3WdtK6qWm81.jpg
 backdrop_tmdb_path: /4cHaqxBJN4tyc10JXRAWgIeZJxY.jpg
+genre:
+- animation

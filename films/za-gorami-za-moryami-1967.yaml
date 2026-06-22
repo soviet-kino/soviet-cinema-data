@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - tuganov-elbert-azgireevich
+genre:
+- animation
+topics:
+- animation

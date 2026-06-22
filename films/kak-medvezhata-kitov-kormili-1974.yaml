@@ -17,3 +17,7 @@ director:
 studio:
 - armenfilm
 poster_tmdb_path: /dkqZvNxuRCdOPPmv2ClO80nVNQR.jpg
+genre:
+- animation
+topics:
+- animation

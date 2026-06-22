@@ -20,3 +20,7 @@ composer:
 studio:
 - ekran
 poster_tmdb_path: /5nDqTQDxUkjEkiFbId5WKRdTsMC.jpg
+genre:
+- animation
+topics:
+- animation

@@ -21,3 +21,7 @@ composer:
 studio:
 - sverdlovskaya-kinostudiya
 poster_tmdb_path: /tK7NpQ8LHrn3a9FK4juRSKV8fEz.jpg
+genre:
+- animation
+topics:
+- animation

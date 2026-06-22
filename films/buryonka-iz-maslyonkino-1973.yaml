@@ -20,3 +20,7 @@ composer:
 - dvoskin-aleksandr
 poster_tmdb_path: /8KJPFJjSMUyoexx6ShSyXKvrvEd.jpg
 backdrop_tmdb_path: /3NWV8q5LECThrkBNYlF2Xt5H9qP.jpg
+genre:
+- animation
+topics:
+- animation

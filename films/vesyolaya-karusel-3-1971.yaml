@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

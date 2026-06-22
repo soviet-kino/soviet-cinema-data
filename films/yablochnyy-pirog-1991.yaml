@@ -1,0 +1,17 @@
+id: yablochnyy-pirog-1991
+title_ru: Яблочный пирог
+title_original: Яблочный пирог
+year: 1991
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 10
+external_ids:
+  wikidata: Q4535989
+  imdb: tt5910384
+sources:
+- https://www.wikidata.org/wiki/Q4535989
+schema_version: 1

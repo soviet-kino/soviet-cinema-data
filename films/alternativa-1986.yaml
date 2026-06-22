@@ -17,3 +17,7 @@ director:
 studio:
 - kievnauchfilm
 poster_tmdb_path: /kEAcjTZUgOU0mpABBYKLdzbS5hC.jpg
+genre:
+- animation
+topics:
+- animation

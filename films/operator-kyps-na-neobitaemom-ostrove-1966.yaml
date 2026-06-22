@@ -17,3 +17,7 @@ director:
 composer:
 - pyart-arvo
 poster_tmdb_path: /qYWkSATZPn7KynGqTHXOks639e2.jpg
+genre:
+- animation
+topics:
+- animation

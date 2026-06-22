@@ -16,3 +16,7 @@ composer:
 studio:
 - permtelefilm
 poster_tmdb_path: /azeWAo2ISTpS4XYgi6XueY5qJZe.jpg
+genre:
+- animation
+topics:
+- animation

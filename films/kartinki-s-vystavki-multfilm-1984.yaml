@@ -1,0 +1,17 @@
+id: kartinki-s-vystavki-multfilm-1984
+title_ru: Картинки с выставки (мультфильм)
+title_original: Картинки с выставки (мультфильм)
+year: 1984
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 7
+external_ids:
+  wikidata: Q4216209
+  imdb: tt4441334
+sources:
+- https://www.wikidata.org/wiki/Q4216209
+schema_version: 1

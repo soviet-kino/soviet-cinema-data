@@ -23,3 +23,7 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Кот в сапогах (кадр из мультфильма, 1938).JPG
+genre:
+- animation
+topics:
+- animation

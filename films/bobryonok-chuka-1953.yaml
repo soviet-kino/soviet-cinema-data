@@ -17,3 +17,7 @@ composer:
 studio:
 - gruziya-film
 poster_tmdb_path: /zOvemZwt49ISSZwxUmQ04Ed3hJx.jpg
+genre:
+- animation
+topics:
+- animation

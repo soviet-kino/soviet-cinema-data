@@ -1,0 +1,17 @@
+id: ekho-1982
+title_ru: Эхо
+title_original: Эхо
+year: 1982
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 169
+external_ids:
+  wikidata: Q4533330
+  imdb: tt1339542
+sources:
+- https://www.wikidata.org/wiki/Q4533330
+schema_version: 1

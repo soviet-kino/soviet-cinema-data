@@ -11,3 +11,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q32362386
 schema_version: 1
+genre:
+- animation
+topics:
+- animation

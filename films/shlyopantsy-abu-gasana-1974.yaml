@@ -16,3 +16,7 @@ composer:
 - amirkhanyan-robert
 studio:
 - armenfilm
+genre:
+- animation
+topics:
+- animation

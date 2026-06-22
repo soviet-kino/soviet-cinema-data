@@ -1,0 +1,17 @@
+id: voennaya-tayna-multfilm-1990
+title_ru: Военная тайна (мультфильм)
+title_original: Военная тайна (мультфильм)
+year: 1990
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 135
+external_ids:
+  wikidata: Q15382973
+  imdb: tt1408986
+sources:
+- https://www.wikidata.org/wiki/Q15382973
+schema_version: 1

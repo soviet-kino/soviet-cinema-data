@@ -18,3 +18,7 @@ composer:
 - shvarts-lev-oleksandrovich
 studio:
 - mosfilm
+genre:
+- animation
+topics:
+- animation

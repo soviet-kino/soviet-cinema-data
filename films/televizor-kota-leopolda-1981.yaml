@@ -1,0 +1,17 @@
+id: televizor-kota-leopolda-1981
+title_ru: Телевизор кота Леопольда
+title_original: Телевизор кота Леопольда
+year: 1981
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 4
+external_ids:
+  wikidata: Q86681487
+  imdb: tt1081460
+sources:
+- https://www.wikidata.org/wiki/Q86681487
+schema_version: 1

@@ -19,3 +19,7 @@ composer:
 - krylatov-evgeniy
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

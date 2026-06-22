@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - peskov-vitaliy-viktorovich
+genre:
+- animation
+topics:
+- animation

@@ -1,0 +1,17 @@
+id: klyuch-multfilm-1961
+title_ru: Ключ (мультфильм)
+title_original: Ключ (мультфильм)
+year: 1961
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 57
+external_ids:
+  wikidata: Q4224362
+  imdb: tt0218382
+sources:
+- https://www.wikidata.org/wiki/Q4224362
+schema_version: 1

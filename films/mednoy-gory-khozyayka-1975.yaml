@@ -18,3 +18,7 @@ director:
 studio:
 - sverdlovskaya-kinostudiya
 poster_tmdb_path: /jyJPPUJJ5xGpXIF9Azt47epPBRL.jpg
+genre:
+- animation
+topics:
+- animation

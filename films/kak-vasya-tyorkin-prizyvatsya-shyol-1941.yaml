@@ -14,3 +14,7 @@ schema_version: 1
 studio:
 - lenfilm
 poster_tmdb_path: /eHBd1Rf1ahPTfxCocze88zZVyPg.jpg
+genre:
+- animation
+topics:
+- animation

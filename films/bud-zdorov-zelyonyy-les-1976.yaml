@@ -11,3 +11,7 @@ sources:
 schema_version: 1
 director:
 - kamenetskiy-mikhail-abramovich
+genre:
+- animation
+topics:
+- animation

@@ -19,3 +19,7 @@ composer:
 studio:
 - ekran
 poster_tmdb_path: /jhdfp2BpNOu9iRTFCxmEfVrzd2S.jpg
+genre:
+- animation
+topics:
+- animation

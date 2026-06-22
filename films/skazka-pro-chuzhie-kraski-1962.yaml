@@ -13,8 +13,11 @@ sources:
 schema_version: 1
 topics:
 - childrens-cinema
+- animation
 director:
 - atamanov-lev
 studio:
 - soyuzmultfilm
 poster_tmdb_path: /dyNbcDdSkz9uIGUkK9nFZUrJnlR.jpg
+genre:
+- animation

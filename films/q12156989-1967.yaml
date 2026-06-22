@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - chiaureli-mikhail-edisherovich
+genre:
+- animation
+topics:
+- animation

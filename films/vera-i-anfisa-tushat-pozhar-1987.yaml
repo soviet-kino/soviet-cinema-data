@@ -20,3 +20,7 @@ composer:
 - gladkov-grigoriy-vasilevich
 studio:
 - sverdlovskaya-kinostudiya
+genre:
+- animation
+topics:
+- animation

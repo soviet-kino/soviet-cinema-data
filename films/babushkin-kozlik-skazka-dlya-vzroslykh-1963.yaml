@@ -22,3 +22,7 @@ composer:
 - savelev-boris
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

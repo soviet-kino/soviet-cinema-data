@@ -21,3 +21,7 @@ composer:
 - rybnikov-aleksey
 studio:
 - soyuzmultfilm
+genre:
+- animation
+topics:
+- animation

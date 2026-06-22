@@ -19,3 +19,7 @@ composer:
 - mengelberg-k
 studio:
 - ukrainfilm
+genre:
+- animation
+topics:
+- animation

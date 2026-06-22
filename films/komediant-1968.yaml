@@ -13,3 +13,7 @@ sources:
 schema_version: 1
 director:
 - karanovich-anatoliy-georgievich
+genre:
+- animation
+topics:
+- animation

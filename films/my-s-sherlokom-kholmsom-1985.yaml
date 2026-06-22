@@ -1,0 +1,17 @@
+id: my-s-sherlokom-kholmsom-1985
+title_ru: Мы с Шерлоком Холмсом
+title_original: Мы с Шерлоком Холмсом
+year: 1985
+country:
+- SU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 9
+external_ids:
+  wikidata: Q4309265
+  imdb: tt5998166
+sources:
+- https://www.wikidata.org/wiki/Q4309265
+schema_version: 1
