@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4533497
   imdb: tt6053174
+  tmdb: 454269
 sources:
 - https://www.wikidata.org/wiki/Q4533497
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - ganelin-vyacheslav-shevelevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /kTEV5X92WYGcKxPY41AjACLtSOL.jpg

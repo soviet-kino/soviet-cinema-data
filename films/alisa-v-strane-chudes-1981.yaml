@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q2647260
   imdb: tt0211191
   youtube: 7gE1BIsWX6o
+  tmdb: 84774
 sources:
 - https://www.wikidata.org/wiki/Q2647260
 schema_version: 1
@@ -26,3 +27,5 @@ studio:
 - ukrainskaya-ssr
 - gosudarstvennyy-komitet-sssr-po-televideniyu-i-radioveshchaniyu
 - kievnauchfilm
+poster_tmdb_path: /l6W3BzlwKhauMZTEGrQFFr8uwYr.jpg
+backdrop_tmdb_path: /xSRZC6YLaQm1vPgVeCYzAosxXsf.jpg

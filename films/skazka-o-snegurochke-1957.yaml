@@ -12,6 +12,7 @@ external_ids:
   wikidata: Q21394027
   imdb: tt6295292
   youtube: N3udtxhrS-s
+  tmdb: 448583
 sources:
 - https://www.wikidata.org/wiki/Q21394027
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - vaynberg-moisey-samuilovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /y9GM8feGr1rDOF1FTydQ9Q2uFWO.jpg

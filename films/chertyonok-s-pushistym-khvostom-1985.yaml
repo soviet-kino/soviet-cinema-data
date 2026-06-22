@@ -12,6 +12,7 @@ runtime_min: 951
 external_ids:
   wikidata: Q4514712
   imdb: tt5930874
+  tmdb: 91141
 sources:
 - https://www.wikidata.org/wiki/Q4514712
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - kallosh-shandor-ernestovich
 studio:
 - ekran
+poster_tmdb_path: /8ppWVjITFv19mECoyYLQpXvlnj1.jpg
+backdrop_tmdb_path: /dq7V4YXWLpciOF09yq4QUXhN4L6.jpg

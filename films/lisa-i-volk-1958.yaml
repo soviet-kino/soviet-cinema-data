@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q21148904
   imdb: tt3444630
   youtube: Bl2bki6VssI
+  tmdb: 448198
 sources:
 - https://www.wikidata.org/wiki/Q21148904
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - nikolskiy-yuriy-sergeevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1oACzRRWju7dgB5IEjlIby5NYXe.jpg

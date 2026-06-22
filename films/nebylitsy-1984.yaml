@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q31272220
   imdb: tt0383174
+  tmdb: 90937
 sources:
 - https://www.wikidata.org/wiki/Q31272220
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - ekhala-olav
 studio:
 - tallinfilm
+poster_tmdb_path: /4ho2DxsW0cGXpr7hN1T91n5IgbC.jpg
+backdrop_tmdb_path: /gr3EO8tTAitOy4bkXluWdObekW9.jpg

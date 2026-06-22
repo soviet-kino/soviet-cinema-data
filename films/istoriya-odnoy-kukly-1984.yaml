@@ -12,6 +12,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q20001502
   imdb: tt2941360
+  tmdb: 198886
 sources:
 - https://www.wikidata.org/wiki/Q20001502
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - ablynin-boris-isaakovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /hpvpesUSVwVanHQXrlKkfzvhOyt.jpg

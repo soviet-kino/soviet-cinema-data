@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q55774050
   imdb: tt6372432
+  tmdb: 1156472
 sources:
 - https://www.wikidata.org/wiki/Q55774050
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 - davydov-roman-vladimirovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ctUKKS6NCNPRg959RicH5hkhNdP.jpg
+backdrop_tmdb_path: /shbM5LEAQjQeii2D9hMRqURGc4x.jpg

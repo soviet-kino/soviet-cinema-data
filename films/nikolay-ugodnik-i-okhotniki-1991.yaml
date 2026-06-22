@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q16680933
   imdb: tt4560428
   youtube: UQVaEPdrbrk
+  tmdb: 448799
 sources:
 - https://www.wikidata.org/wiki/Q16680933
 schema_version: 1
@@ -21,3 +22,4 @@ director:
 studio:
 - vsesoyuznaya-gosudarstvennaya-teleradiokompaniya
 - ekran
+poster_tmdb_path: /rlPL5XK87fosL9jOOAhnkngf3r6.jpg

@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4323444
   imdb: tt6011948
   youtube: ZSOZ0wGrJOE
+  tmdb: 144593
 sources:
 - https://www.wikidata.org/wiki/Q4323444
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - zhurbin-aleksandr-borisovich
 studio:
 - ekran
+poster_tmdb_path: /a8VjhXebEC4BQOxu8C2537FO1bx.jpg
+backdrop_tmdb_path: /aYrxduj5paV1ZYXtCp6lBHAOtnZ.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q20074300
   imdb: tt4089918
+  tmdb: 439381
 sources:
 - https://www.wikidata.org/wiki/Q20074300
 schema_version: 1
@@ -18,3 +19,4 @@ director:
 - zarubin-leonid
 studio:
 - kievnauchfilm
+poster_tmdb_path: /lJRrvDU2AgnQC6c6wTYkxbNghJO.jpg

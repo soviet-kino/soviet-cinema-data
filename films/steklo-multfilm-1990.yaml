@@ -12,6 +12,7 @@ runtime_min: 172
 external_ids:
   wikidata: Q15271038
   imdb: tt1388915
+  tmdb: 1313248
 sources:
 - https://www.wikidata.org/wiki/Q15271038
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - gurev-aleksandr-anatolevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6WwJDUP0nxewVHwPrhpTxp8JsCR.jpg

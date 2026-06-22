@@ -12,6 +12,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q21148879
   imdb: tt1070879
+  tmdb: 425728
 sources:
 - https://www.wikidata.org/wiki/Q21148879
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - nikolskiy-yuriy-sergeevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mdnDGHH5iOsvcTC4yJg8mL6djaW.jpg
+backdrop_tmdb_path: /lVkzZU3b5eGOsdJHXLi9Sh5G2hV.jpg

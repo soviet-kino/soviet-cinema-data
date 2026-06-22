@@ -11,8 +11,10 @@ topics:
 external_ids:
   wikidata: Q4379467
   imdb: tt4865066
+  tmdb: 361877
 sources:
 - https://www.wikidata.org/wiki/Q4379467
 schema_version: 1
 studio:
 - permtelefilm
+poster_tmdb_path: /nBgjavzfQaBpfHqkDXAh3MVbDKi.jpg

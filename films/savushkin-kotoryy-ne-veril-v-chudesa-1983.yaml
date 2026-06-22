@@ -12,6 +12,7 @@ runtime_min: 593
 external_ids:
   wikidata: Q4404259
   imdb: tt6118550
+  tmdb: 439735
 sources:
 - https://www.wikidata.org/wiki/Q4404259
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - bystryakov-vladimir-yurevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /louMxka0YAC0VsfUZvoouP4a3qS.jpg

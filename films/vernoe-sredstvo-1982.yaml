@@ -12,6 +12,7 @@ runtime_min: 588
 external_ids:
   wikidata: Q4107940
   imdb: tt5517530
+  tmdb: 389739
 sources:
 - https://www.wikidata.org/wiki/Q4107940
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - ptichkin-evgeniy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9k5WpI6dgqUdILa0fuujh78wHoc.jpg
+backdrop_tmdb_path: /rSXQDLRtmBiIEz0IhNILXkSvPsB.jpg

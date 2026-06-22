@@ -12,6 +12,7 @@ runtime_min: 8
 external_ids:
   wikidata: Q31354473
   imdb: tt2595656
+  tmdb: 1221166
 sources:
 - https://www.wikidata.org/wiki/Q31354473
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - shoshitaishvili-bondo-shalvovich
 studio:
 - gruziya-film
+poster_tmdb_path: /6J6mh1JTad0yItfbLUqdJcxxqei.jpg

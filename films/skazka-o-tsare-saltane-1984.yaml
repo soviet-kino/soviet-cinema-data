@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4421393
   imdb: tt0142851
   youtube: po4aNleLo_A
+  tmdb: 90319
 sources:
 - https://www.wikidata.org/wiki/Q4421393
 schema_version: 1
@@ -28,3 +29,5 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /wHbncPwdVwXfrSztPNPhoonxzbS.jpg
+backdrop_tmdb_path: /ZUmYXwVNY1pNMWMUA7gfU6y5Cm.jpg

@@ -12,6 +12,7 @@ runtime_min: 666
 external_ids:
   wikidata: Q20636412
   imdb: tt30804686
+  tmdb: 1670077
 sources:
 - https://www.wikidata.org/wiki/Q20636412
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - artemyev-eduard
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gPN3ibJCcP9b0W6V1ha1dOhSO1E.jpg

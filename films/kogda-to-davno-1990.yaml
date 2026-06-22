@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4226023
   imdb: tt1967540
+  tmdb: 522861
 sources:
 - https://www.wikidata.org/wiki/Q4226023
 schema_version: 1
@@ -20,3 +21,4 @@ cinematographer:
 - druyan-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gVLpeHnnbyDUNaA0LhherrIWvWF.jpg

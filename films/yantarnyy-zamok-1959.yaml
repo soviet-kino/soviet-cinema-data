@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4538270
   imdb: tt5523614
+  tmdb: 305356
 sources:
 - https://www.wikidata.org/wiki/Q4538270
 schema_version: 1
@@ -22,3 +23,4 @@ composer:
 - yuzelyunas-yulyus
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /6t6rNDeGxzon4xnj5mYYxDoeWe4.jpg

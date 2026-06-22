@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q111373106
   imdb: tt7355814
   youtube: _fuVnfeBj1c
+  tmdb: 438428
 sources:
 - https://www.wikidata.org/wiki/Q111373106
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - margolina-irina-rafailovna
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /75KirVGCgvIsOOhMvY5cAEXVfEO.jpg

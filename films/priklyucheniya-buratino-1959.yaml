@@ -12,6 +12,7 @@ runtime_min: 68
 external_ids:
   wikidata: Q4378413
   imdb: tt0152066
+  tmdb: 72211
 sources:
 - https://www.wikidata.org/wiki/Q4378413
 schema_version: 1
@@ -27,3 +28,5 @@ composer:
 - lepin-anatoliy-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /megVhYEHSIOVhBjMPN44qqtvXfN.jpg
+backdrop_tmdb_path: /yo7F3zh678fvOmLIEE9zby9xv8a.jpg

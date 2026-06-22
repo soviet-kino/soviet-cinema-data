@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4103191
   imdb: tt5897194
+  tmdb: 423403
 sources:
 - https://www.wikidata.org/wiki/Q4103191
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 studio:
 - vsesoyuznaya-gosudarstvennaya-teleradiokompaniya
 - ekran
+poster_tmdb_path: /8U7yPuSdS3dfQAhopQMsizKVfUA.jpg
+backdrop_tmdb_path: /61h8jgOCPsO5KvCjovfWcdVsqQF.jpg

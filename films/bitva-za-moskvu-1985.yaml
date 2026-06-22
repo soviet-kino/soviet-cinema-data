@@ -8,6 +8,7 @@ runtime_min: 338
 external_ids:
   wikidata: Q2634496
   imdb: tt0173675
+  tmdb: 1705728
 sources:
 - https://www.wikidata.org/wiki/Q2634496
 schema_version: 1
@@ -114,3 +115,5 @@ studio:
 - barrandov
 - defa
 - fafim-vetnam
+poster_tmdb_path: /oRHI23GiRd7tgwYwXph0x68w63S.jpg
+backdrop_tmdb_path: /me6REE30nPUuWwcLKtqZmEZUwiC.jpg

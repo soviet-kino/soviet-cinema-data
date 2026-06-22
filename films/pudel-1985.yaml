@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q47013926
   imdb: tt3615586
+  tmdb: 385264
 sources:
 - https://www.wikidata.org/wiki/Q47013926
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - nemirovich-danchenko-vasiliy-mikhaylovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /uaLZSWOmcIubOtC7kpJjg23JGNV.jpg

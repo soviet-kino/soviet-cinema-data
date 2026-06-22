@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q2369324
   imdb: tt0211653
   youtube: HZodexUkiDI
+  tmdb: 49802
 sources:
 - https://www.wikidata.org/wiki/Q2369324
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - zatsepin-aleksandr
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /7ICu6SPJBMuWixymqtRIIBvc55S.jpg
+backdrop_tmdb_path: /opAFSoknD1LfgBieBGK8Jk6TP96.jpg

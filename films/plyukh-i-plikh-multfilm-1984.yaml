@@ -12,6 +12,7 @@ runtime_min: 9
 external_ids:
   wikidata: Q4365942
   imdb: tt4651278
+  tmdb: 446223
 sources:
 - https://www.wikidata.org/wiki/Q4365942
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /amdVhtST1ruHnpTY2Z1ZHBiUybH.jpg

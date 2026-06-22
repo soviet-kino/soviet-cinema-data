@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4189405
   imdb: tt0275255
+  tmdb: 1382233
 sources:
 - https://www.wikidata.org/wiki/Q4189405
 schema_version: 1
@@ -16,3 +17,4 @@ screenwriter:
 - abesadze-otar-davidovich
 composer:
 - kereselidze-archil-pavlovich
+poster_tmdb_path: /rTjsd47HSEeChuP6L6UfoZ3TGh6.jpg

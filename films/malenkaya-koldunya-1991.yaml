@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4277658
   imdb: tt5540140
+  tmdb: 246588
 sources:
 - https://www.wikidata.org/wiki/Q4277658
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - sapgir-genrikh
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /gU6AKkpjzRgN4WUS6xy9Y0P3pKa.jpg

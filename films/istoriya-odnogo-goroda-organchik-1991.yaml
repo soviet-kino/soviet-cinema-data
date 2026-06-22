@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4204880
   imdb: tt8193598
+  tmdb: 1557978
 sources:
 - https://www.wikidata.org/wiki/Q4204880
 schema_version: 1
@@ -22,3 +23,5 @@ composer:
 - nazaruk-igor-nikolaevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mpdG4OqE5NnJCpePzIPkhENaxBf.jpg
+backdrop_tmdb_path: /1KEN7p88xfvgRhfz0SztFUhOLdm.jpg

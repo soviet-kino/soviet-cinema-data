@@ -7,6 +7,7 @@ country:
 external_ids:
   wikidata: Q4180221
   imdb: tt0466198
+  tmdb: 1677947
 sources:
 - https://www.wikidata.org/wiki/Q4180221
 schema_version: 1
@@ -14,3 +15,4 @@ composer:
 - gladkov-gennadiy
 cast:
 - person: shelokhonov-pyotr-illarionovich
+poster_tmdb_path: /zpNzUaHnUqp9ZF2MFKf8wrzqMt9.jpg

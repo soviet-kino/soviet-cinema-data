@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4516124
   imdb: tt2474800
   youtube: kBsWKc8lAZo
+  tmdb: 91142
 sources:
 - https://www.wikidata.org/wiki/Q4516124
 schema_version: 1
@@ -27,3 +28,5 @@ composer:
 studio:
 - soyuzmultfilm
 poster_commons: Russia stamp 1992 No 16.jpg
+poster_tmdb_path: /aLhBO9lmwHAnmhi3jhF2fTaXxVD.jpg
+backdrop_tmdb_path: /ndtAkPJzr1sxw3DRhYkyAQQEh1Y.jpg

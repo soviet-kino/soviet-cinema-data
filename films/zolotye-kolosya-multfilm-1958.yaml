@@ -12,6 +12,7 @@ external_ids:
   wikidata: Q21148902
   imdb: tt4857874
   youtube: 3SvkbD1ryK4
+  tmdb: 448021
 sources:
 - https://www.wikidata.org/wiki/Q21148902
 schema_version: 1
@@ -26,3 +27,4 @@ composer:
 - flyarkovskiy-aleksandr-georgievich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /mugKRxKbcWmUCa1nBOpWTyjSpj4.jpg

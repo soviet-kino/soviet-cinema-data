@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4378424
   imdb: tt6301950
   youtube: Aeg8-Mj7erI
+  tmdb: 573846
 sources:
 - https://www.wikidata.org/wiki/Q4378424
 schema_version: 1
@@ -26,3 +27,4 @@ composer:
 - levitin-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3qosSVeh1wX46O0GBSQfosQmwmT.jpg

@@ -12,6 +12,7 @@ runtime_min: 256
 external_ids:
   wikidata: Q4340448
   imdb: tt1992241
+  tmdb: 651640
 sources:
 - https://www.wikidata.org/wiki/Q4340448
 schema_version: 1
@@ -21,3 +22,4 @@ cinematographer:
 - kuzovkov-oleg-gennadevich
 studio:
 - pilot
+poster_tmdb_path: /mKjwBfsVwO8Lbil8PmjegVkrDKn.jpg

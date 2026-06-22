@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q21644072
   imdb: tt16971006
+  tmdb: 448574
 sources:
 - https://www.wikidata.org/wiki/Q21644072
 schema_version: 1
@@ -22,3 +23,5 @@ cinematographer:
 - voinov-nikolay-vasilevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /l3v4bbMT4GJbbgQ8nM5zjDDdffQ.jpg
+backdrop_tmdb_path: /iHILMQ2p0G6MVc9aqwKknu9ZTqE.jpg

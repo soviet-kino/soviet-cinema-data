@@ -12,6 +12,7 @@ runtime_min: 959
 external_ids:
   wikidata: Q4113652
   imdb: tt7068350
+  tmdb: 438686
 sources:
 - https://www.wikidata.org/wiki/Q4113652
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - babaev-andrey
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ru0SiIfhPuFLDivHqPqPWZ4x0gf.jpg
+backdrop_tmdb_path: /frsGRbofUjNX4OJ5PsS8bjFfHCn.jpg

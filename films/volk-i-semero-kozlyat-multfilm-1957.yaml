@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4123216
   imdb: tt2273812
+  tmdb: 446974
 sources:
 - https://www.wikidata.org/wiki/Q4123216
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - ayvazyan-artemiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /hIrGU6YlQ6zmH2K0XX4UfaP7y6g.jpg

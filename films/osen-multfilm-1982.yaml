@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4337633
   imdb: tt0485335
+  tmdb: 745114
 sources:
 - https://www.wikidata.org/wiki/Q4337633
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 - khrzhanovskiy-andrey-yurevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /opJsJdazDlEtDrszvyZ7KbB9SbK.jpg
+backdrop_tmdb_path: /6iGC41FYHVo8xErJfLpxBoxfLN5.jpg

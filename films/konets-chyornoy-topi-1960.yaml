@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q28465044
   imdb: tt5961570
+  tmdb: 448035
 sources:
 - https://www.wikidata.org/wiki/Q28465044
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - solovyov-sedoy-vasiliy-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /zpjgbHhlxLXHxjoAmVSi2kXvUD2.jpg

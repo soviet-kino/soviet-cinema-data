@@ -12,6 +12,7 @@ runtime_min: 603
 external_ids:
   wikidata: Q4143939
   imdb: tt2780350
+  tmdb: 453557
 sources:
 - https://www.wikidata.org/wiki/Q4143939
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - tsvetkov-igor-arkadevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /exA5E0mi2C2YxjIMCthbGrZLWC8.jpg
+backdrop_tmdb_path: /ftSxPCDGokeCa4VTtrXWFKS9Z3i.jpg

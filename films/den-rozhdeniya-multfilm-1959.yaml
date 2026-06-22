@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4158403
   imdb: tt2321253
+  tmdb: 446993
 sources:
 - https://www.wikidata.org/wiki/Q4158403
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - agababov-sergey
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /470qbE6vWUe0uCYWG42xKCg0brI.jpg

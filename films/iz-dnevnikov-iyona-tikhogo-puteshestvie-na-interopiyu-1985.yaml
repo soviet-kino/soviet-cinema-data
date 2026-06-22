@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q4198247
   imdb: tt2401236
+  tmdb: 411693
 sources:
 - https://www.wikidata.org/wiki/Q4198247
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - tishchenko-gennadiy-ivanovich
 cinematographer:
 - agaev-ramiz
+poster_tmdb_path: /kZQ2f79rfoaoZp4axfdflW1F9K0.jpg

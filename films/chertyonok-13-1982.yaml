@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4514711
   imdb: tt3467570
   youtube: zc5iz2jXkuM
+  tmdb: 248188
 sources:
 - https://www.wikidata.org/wiki/Q4514711
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - meerovich-mikhail-aleksandrovich
 studio:
 - ekran
+poster_tmdb_path: /rTWFxGLrU4WCGbtnOiifX7phoqd.jpg

@@ -12,6 +12,7 @@ runtime_min: 528
 external_ids:
   wikidata: Q60829684
   imdb: tt6052800
+  tmdb: 446401
 sources:
 - https://www.wikidata.org/wiki/Q60829684
 schema_version: 1
@@ -21,3 +22,4 @@ composer:
 - krivitskiy-david-isaakovich
 studio:
 - ekran
+poster_tmdb_path: /1YjuMIoQK5fSVbYizV87KiapWuH.jpg

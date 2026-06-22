@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q61122101
   imdb: tt27571186
+  tmdb: 776563
 sources:
 - https://www.wikidata.org/wiki/Q61122101
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - reizniece-ilga
 studio:
 - telefilma-riga
+poster_tmdb_path: /xJNFzZQJxV3QZjE4yHL7HgsrgQP.jpg
+backdrop_tmdb_path: /buTtvYGr10tbDoeFKsc6L1TGy3.jpg

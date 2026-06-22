@@ -12,6 +12,7 @@ runtime_min: 19
 external_ids:
   wikidata: Q4155570
   imdb: tt2661814
+  tmdb: 273990
 sources:
 - https://www.wikidata.org/wiki/Q4155570
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - saulskiy-yuriy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sZBb9U2IYKKw51RHIRCmk9pAtOe.jpg
+backdrop_tmdb_path: /9XhA1wqY7pEkmsc5GUSrw6D0WHa.jpg

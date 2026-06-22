@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q16514591
   imdb: tt7082564
+  tmdb: 1005686
 sources:
 - https://www.wikidata.org/wiki/Q16514591
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - lepin-anatoliy-yakovlevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /up0iht0rLOSgt3admN6FJcpzCaJ.jpg
+backdrop_tmdb_path: /kYJbrRwWkEZwxKsS6A02eDp1wPP.jpg

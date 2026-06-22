@@ -12,8 +12,10 @@ external_ids:
   wikidata: Q20093231
   imdb: tt6623442
   youtube: 4NwWjyVLg2I
+  tmdb: 439792
 sources:
 - https://www.wikidata.org/wiki/Q20093231
 schema_version: 1
 director:
 - grachyova-alla-alekseevna
+poster_tmdb_path: /82ymNL8LJkU7CqrvJ41Yo3uf0qM.jpg

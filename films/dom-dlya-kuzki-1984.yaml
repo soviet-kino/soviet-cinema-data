@@ -12,6 +12,7 @@ external_ids:
   wikidata: Q4165482
   imdb: tt2339437
   youtube: 8JFdlT5XGNc
+  tmdb: 469447
 sources:
 - https://www.wikidata.org/wiki/Q4165482
 schema_version: 1
@@ -23,3 +24,5 @@ composer:
 - kolmanovskiy-sergey-eduardovich
 studio:
 - ekran
+poster_tmdb_path: /wTTEwMATzFHjcm4MHv6dxa6LkDX.jpg
+backdrop_tmdb_path: /wsTMwExPRyxzpCItRdiUaUiqoR2.jpg

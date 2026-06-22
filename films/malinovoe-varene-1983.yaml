@@ -12,6 +12,7 @@ runtime_min: 596
 external_ids:
   wikidata: Q46999645
   imdb: tt5998086
+  tmdb: 602489
 sources:
 - https://www.wikidata.org/wiki/Q46999645
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - vladimir-sergeevich-dashkevich
 studio:
 - ekran
+poster_tmdb_path: /xsnX5aSTn7r5bs4rRI5tPKOW9B8.jpg

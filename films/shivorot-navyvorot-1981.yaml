@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q4523636
   imdb: tt6242082
   youtube: iSoZJXaEhEA
+  tmdb: 446414
 sources:
 - https://www.wikidata.org/wiki/Q4523636
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 - krivitskiy-david-isaakovich
 studio:
 - ekran
+poster_tmdb_path: /pWvenlPdH1D0O2bTjN0qQ2hQqQJ.jpg

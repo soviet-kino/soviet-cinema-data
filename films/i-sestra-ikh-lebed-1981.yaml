@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q20073351
   imdb: tt6409948
+  tmdb: 904269
 sources:
 - https://www.wikidata.org/wiki/Q20073351
 schema_version: 1
@@ -21,3 +22,5 @@ screenwriter:
 - korotich-vitaliy-alekseevich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /liC5pkRlKovu4EpSXDWGfdoDffr.jpg
+backdrop_tmdb_path: /1Z8h6eKPygK4RSRSV1Y5bujEeJk.jpg

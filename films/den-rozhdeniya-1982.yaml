@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q110257001
   imdb: tt15223636
   youtube: ZATOR6JGfuQ
+  tmdb: 340520
 sources:
 - https://www.wikidata.org/wiki/Q110257001
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - lipskerov-mikhail
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /uzhEPxpGYXyFZLEbvdxjVr2RbyV.jpg

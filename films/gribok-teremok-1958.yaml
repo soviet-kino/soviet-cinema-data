@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q15576969
   imdb: tt2193792
   youtube: 403i5dv0w3g
+  tmdb: 446986
 sources:
 - https://www.wikidata.org/wiki/Q15576969
 schema_version: 1
@@ -22,3 +23,5 @@ screenwriter:
 - suteev-vladimir-grigorevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /1MyB2EAoT1y4IS53wmNeyeZzWEw.jpg
+backdrop_tmdb_path: /7WaPj7fkweTnCODdkdnpIJn2775.jpg

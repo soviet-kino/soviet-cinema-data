@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q21644443
   imdb: tt6052538
   youtube: WPylVNX6R_E
+  tmdb: 454130
 sources:
 - https://www.wikidata.org/wiki/Q21644443
 schema_version: 1
@@ -24,3 +25,5 @@ composer:
 - kosmachyov-igor-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sUPiWNMjZ2hrwAYc2hNm98JbJS3.jpg
+backdrop_tmdb_path: /wqDwHY9dL0YJLS8Jx1zhtbtMd1T.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q55774362
   imdb: tt6024626
+  tmdb: 295874
 sources:
 - https://www.wikidata.org/wiki/Q55774362
 schema_version: 1
@@ -18,3 +19,5 @@ director:
 - kalinin-mikhail-pavlovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /3f5GEnsA1J0E7q0DZcAvpkcmCXP.jpg
+backdrop_tmdb_path: /lSWsX2H0Gr5lX93Z4VooUqi9XGj.jpg

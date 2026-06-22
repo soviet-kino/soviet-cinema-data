@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q12162367
   imdb: tt6206360
+  tmdb: 448849
 sources:
 - https://www.wikidata.org/wiki/Q12162367
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - pruzhanskiy-efrem
 studio:
 - ukranimafilm
+poster_tmdb_path: /7lN9un4tbPRO5KcPE1OJRPz5CPE.jpg

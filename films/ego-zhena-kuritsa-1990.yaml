@@ -12,6 +12,7 @@ runtime_min: 13
 external_ids:
   wikidata: Q24933984
   imdb: tt0241399
+  tmdb: 168202
 sources:
 - https://www.wikidata.org/wiki/Q24933984
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - goldshteyn-aleksandr-borisovich
 studio:
 - pilot
+poster_tmdb_path: /ifkWSL8Ik6SUgmg9E7WKbl12Yrf.jpg

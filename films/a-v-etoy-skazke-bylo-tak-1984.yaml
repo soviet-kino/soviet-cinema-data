@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q21635213
   imdb: tt7974142
+  tmdb: 91126
 sources:
 - https://www.wikidata.org/wiki/Q21635213
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - larin-boris
 studio:
 - ekran
+poster_tmdb_path: /jCoSu3piI2mb74aIcpgEyXOLhEc.jpg

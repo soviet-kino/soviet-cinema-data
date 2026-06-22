@@ -12,6 +12,7 @@ runtime_min: 612
 external_ids:
   wikidata: Q16514665
   imdb: tt6424430
+  tmdb: 219791
 sources:
 - https://www.wikidata.org/wiki/Q16514665
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - gladkov-gennadiy
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /msDYKA0qDuSAkHUM7S7B2i6vY9r.jpg

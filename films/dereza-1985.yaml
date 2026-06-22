@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q15711094
   imdb: tt6323744
+  tmdb: 138779
 sources:
 - https://www.wikidata.org/wiki/Q15711094
 schema_version: 1
@@ -23,3 +24,4 @@ composer:
 - savicheva-nina-grigorevna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /skDOko5CYLh6Ip5g9vQgLATWpv2.jpg

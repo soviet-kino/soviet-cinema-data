@@ -8,6 +8,7 @@ runtime_min: 98
 external_ids:
   wikidata: Q11764082
   imdb: tt0081093
+  tmdb: 484214
 sources:
 - https://www.wikidata.org/wiki/Q11764082
 schema_version: 1
@@ -22,3 +23,5 @@ cast:
 - person: spiridonov-vadim-semyonovich
 studio:
 - mosfilm
+poster_tmdb_path: /qDIEndA5VtvHH8wja2EZtze9ZSI.jpg
+backdrop_tmdb_path: /2GhjNk5Feq6VYm9Q9F5UvxubEhp.jpg

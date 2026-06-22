@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q46996461
   imdb: tt1081452
   youtube: Fh1zhscOxYQ
+  tmdb: 153024
 sources:
 - https://www.wikidata.org/wiki/Q46996461
 schema_version: 1
@@ -30,3 +31,5 @@ studio:
 - glavnaya-redaktsiya-muzykalnykh-programm
 - tsentralnoe-televidenie
 - ekran
+poster_tmdb_path: /dPs4w0aMSD1XYFz7ZNPeVt2bVhM.jpg
+backdrop_tmdb_path: /kzkQTLfJmpumVGFp4GwwliCDNiL.jpg

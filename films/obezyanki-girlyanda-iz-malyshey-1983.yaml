@@ -12,6 +12,7 @@ runtime_min: 552
 external_ids:
   wikidata: Q4329114
   imdb: tt5517426
+  tmdb: 253180
 sources:
 - https://www.wikidata.org/wiki/Q4329114
 schema_version: 1
@@ -28,3 +29,4 @@ composer:
 - kutikov-aleksandr-viktorovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /eUH4cbYsPkcz9cr4nGGaPcM5wdn.jpg

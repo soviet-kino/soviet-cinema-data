@@ -12,6 +12,7 @@ runtime_min: 599
 external_ids:
   wikidata: Q63206777
   imdb: tt5873884
+  tmdb: 714259
 sources:
 - https://www.wikidata.org/wiki/Q63206777
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - dabizha-nataliya-borisovna
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /x3ERvLcwYcCg54gPwcRyBWWtOz3.jpg

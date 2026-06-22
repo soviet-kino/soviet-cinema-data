@@ -12,6 +12,7 @@ runtime_min: 21
 external_ids:
   wikidata: Q4279584
   imdb: tt4596026
+  tmdb: 448296
 sources:
 - https://www.wikidata.org/wiki/Q4279584
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - kolmanovskiy-eduard-savelevich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /prYdl6fSkkl0KDaopPHZ74dmj95.jpg
+backdrop_tmdb_path: /nC3b2LA7rE9s1F1WbwH2iCCRnjX.jpg

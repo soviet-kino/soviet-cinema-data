@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4328797
   imdb: tt6012722
+  tmdb: 605334
 sources:
 - https://www.wikidata.org/wiki/Q4328797
 schema_version: 1
@@ -24,3 +25,4 @@ composer:
 studio:
 - soyuzmultfilm
 - kievnauchfilm
+poster_tmdb_path: /f3jM6TnwenZNpkxjqetNf03XBZI.jpg

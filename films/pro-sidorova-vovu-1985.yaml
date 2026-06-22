@@ -12,6 +12,7 @@ runtime_min: 603
 external_ids:
   wikidata: Q4379471
   imdb: tt1256533
+  tmdb: 219995
 sources:
 - https://www.wikidata.org/wiki/Q4379471
 schema_version: 1
@@ -23,3 +24,5 @@ cinematographer:
 - druyan-mikhail
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pw4UkIA9A4wCJJBo9qskHIumTXs.jpg
+backdrop_tmdb_path: /lMDjigbePEV2K1kSUAG4ilvoT0x.jpg

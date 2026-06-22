@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q109663632
   imdb: tt9140030
   youtube: Z61-lqZyYSw
+  tmdb: 438242
 sources:
 - https://www.wikidata.org/wiki/Q109663632
 schema_version: 1
@@ -20,3 +21,4 @@ director:
 - fomin-valeriy-ivanovich
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /7uJ5NG3q67xnJMQ8LgPKmzXTrUy.jpg

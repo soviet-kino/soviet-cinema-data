@@ -12,6 +12,7 @@ runtime_min: 135
 external_ids:
   wikidata: Q15382973
   imdb: tt1408986
+  tmdb: 1709991
 sources:
 - https://www.wikidata.org/wiki/Q15382973
 schema_version: 1
@@ -21,3 +22,4 @@ screenwriter:
 - sobakin-tim
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ndx5giT2QUlT4Kns5hTaugw4rt6.jpg

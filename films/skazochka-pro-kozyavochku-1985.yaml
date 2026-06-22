@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q112176151
   imdb: tt3444604
   youtube: ug1gBsqq27I
+  tmdb: 438422
 sources:
 - https://www.wikidata.org/wiki/Q112176151
 schema_version: 1
@@ -20,3 +21,4 @@ director:
 - petkevich-vladimir
 studio:
 - sverdlovskaya-kinostudiya
+poster_tmdb_path: /3QkTOzzJmqVXMZu4z2sbMjg5Pd8.jpg

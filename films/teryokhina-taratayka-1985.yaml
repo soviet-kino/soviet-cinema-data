@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4456378
   imdb: tt7002462
+  tmdb: 454139
 sources:
 - https://www.wikidata.org/wiki/Q4456378
 schema_version: 1
@@ -20,3 +21,4 @@ screenwriter:
 - stsenarist-danilov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /pZ3CuGiGLqrfxh3rCkxe6IiDXyj.jpg

@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q12111636
   imdb: tt4471914
+  tmdb: 454220
 sources:
 - https://www.wikidata.org/wiki/Q12111636
 schema_version: 1
@@ -18,3 +19,4 @@ director:
 - gurvich-irina-borisovna
 composer:
 - yanivskiy-bogdan-yuriy-yaroslavovich
+poster_tmdb_path: /i9I6JC1oouqRNbnFMte7HGhH9vA.jpg

@@ -12,6 +12,7 @@ runtime_min: 169
 external_ids:
   wikidata: Q4533330
   imdb: tt1339542
+  tmdb: 1416192
 sources:
 - https://www.wikidata.org/wiki/Q4533330
 schema_version: 1
@@ -23,3 +24,5 @@ cinematographer:
 - kotov-boris-stepanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /4P2Z4VOM25DqCDsa4pPXiKeYrcU.jpg
+backdrop_tmdb_path: /4Pp1wVdPlv94nWNzyhcj38wGqw7.jpg

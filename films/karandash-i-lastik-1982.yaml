@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4214079
   imdb: tt1339548
+  tmdb: 1474399
 sources:
 - https://www.wikidata.org/wiki/Q4214079
 schema_version: 1
@@ -20,3 +21,4 @@ composer:
 - schnittke-alfred
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /ddwu5LULUWpcyqfcqCimFNt3Cb3.jpg

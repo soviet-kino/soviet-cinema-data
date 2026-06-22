@@ -12,6 +12,7 @@ runtime_min: 30
 external_ids:
   wikidata: Q4308702
   imdb: tt1075364
+  tmdb: 160988
 sources:
 - https://www.wikidata.org/wiki/Q4308702
 schema_version: 1
@@ -19,3 +20,4 @@ director:
 - paystik-avo
 screenwriter:
 - raud-eno
+poster_tmdb_path: /U7FNFMhCAQqYtlXGXINXZ1Q7Dp.jpg

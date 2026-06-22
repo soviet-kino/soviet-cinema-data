@@ -12,6 +12,7 @@ runtime_min: 10
 external_ids:
   wikidata: Q15270719
   imdb: tt2632328
+  tmdb: 448794
 sources:
 - https://www.wikidata.org/wiki/Q15270719
 schema_version: 1
@@ -25,3 +26,5 @@ composer:
 - krivtsov-vladimir-ivanovich
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /sujImvympss3l4e6z60c7lIY8dq.jpg
+backdrop_tmdb_path: /llGhXK7y3iM05KzrXnomPkOf4Y7.jpg

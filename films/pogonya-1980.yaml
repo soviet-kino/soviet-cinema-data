@@ -8,6 +8,7 @@ runtime_min: 117
 external_ids:
   wikidata: Q15303942
   imdb: tt1332578
+  tmdb: 1709955
 sources:
 - https://www.wikidata.org/wiki/Q15303942
 schema_version: 1
@@ -25,3 +26,4 @@ genre:
 - animation
 topics:
 - animation
+poster_tmdb_path: /i67np8KWa6DKNefNRdIQNQM8Wib.jpg

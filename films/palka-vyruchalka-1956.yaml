@@ -11,6 +11,7 @@ topics:
 external_ids:
   wikidata: Q4342664
   imdb: tt6052934
+  tmdb: 448500
 sources:
 - https://www.wikidata.org/wiki/Q4342664
 schema_version: 1
@@ -25,3 +26,4 @@ composer:
 - daiya-tish
 studio:
 - soyuzmultfilm
+poster_tmdb_path: /9Vhbd0k7wLLBv5meE6p3DvryHh8.jpg

@@ -8,6 +8,7 @@ runtime_min: 196
 external_ids:
   wikidata: Q4127740
   imdb: tt0252798
+  tmdb: 693320
 sources:
 - https://www.wikidata.org/wiki/Q4127740
 schema_version: 1
@@ -42,3 +43,5 @@ cast:
 - person: shatillo-ivan-bronislavovich
 - person: birillo-stepan-stepanovich
 - person: shevtsov-georgiy-lvovich
+poster_tmdb_path: /zVUmSp7ahnKQFn3sWvgyqPZQ1Lj.jpg
+backdrop_tmdb_path: /sP4wLSeV18GZK5DNTz49UmQiNUj.jpg

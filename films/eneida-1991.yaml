@@ -13,6 +13,7 @@ external_ids:
   wikidata: Q3054072
   imdb: tt4691334
   youtube: jotuVPej7V0
+  tmdb: 386042
 sources:
 - https://www.wikidata.org/wiki/Q3054072
 schema_version: 1
@@ -26,3 +27,5 @@ composer:
 - poklad-igor-dmitrievich
 studio:
 - kievnauchfilm
+poster_tmdb_path: /Ei1yvQlb8Kbxn1k0omNHoirU45.jpg
+backdrop_tmdb_path: /wAFNywCBpqFzg2R9SnAeTO2oMV4.jpg
