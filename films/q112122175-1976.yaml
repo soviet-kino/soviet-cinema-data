@@ -19,3 +19,7 @@ composer:
 - tomislav-simovich
 studio:
 - zagreb-film
+genre:
+- animation
+topics:
+- animation

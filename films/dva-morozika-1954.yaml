@@ -23,3 +23,7 @@ composer:
 studio:
 - jiri-trnka-studio
 poster_tmdb_path: /vIa3GwsAW7T0syEK6jrideft0PS.jpg
+genre:
+- animation
+topics:
+- animation

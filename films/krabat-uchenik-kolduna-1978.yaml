@@ -23,3 +23,7 @@ sources:
 schema_version: 1
 poster_tmdb_path: /fzedrpmGwqAwkDsJqnyIaq4FXLQ.jpg
 backdrop_tmdb_path: /oJxViODljHew0cLmLl5iOD4t9aN.jpg
+genre:
+- animation
+topics:
+- animation

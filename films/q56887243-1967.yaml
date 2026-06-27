@@ -18,3 +18,7 @@ composer:
 - konicek-stepan
 studio:
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

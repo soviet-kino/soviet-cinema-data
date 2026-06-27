@@ -11,3 +11,7 @@ sources:
 schema_version: 1
 director:
 - bedrzhikh-vatslav
+genre:
+- animation
+topics:
+- animation

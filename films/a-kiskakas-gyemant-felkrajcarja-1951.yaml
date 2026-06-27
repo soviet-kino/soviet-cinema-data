@@ -20,3 +20,7 @@ composer:
 - ranki-dyord
 poster_tmdb_path: /vDDbd9LDaAV9LVNoUz0MByA4RO9.jpg
 backdrop_tmdb_path: /63TYAA3a69MstrqbNWB8oR56c7v.jpg
+genre:
+- animation
+topics:
+- animation

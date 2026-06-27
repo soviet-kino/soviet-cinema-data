@@ -17,3 +17,7 @@ director:
 cinematographer:
 - khenrik-iren
 poster_tmdb_path: /m7eJsqibdbqJeTGijOfcShmMrW6.jpg
+genre:
+- animation
+topics:
+- animation

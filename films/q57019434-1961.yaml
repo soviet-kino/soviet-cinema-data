@@ -21,3 +21,7 @@ composer:
 studio:
 - kratky-film-praha
 poster_tmdb_path: /dzw3iLmwuNSWOP5qzBOacMTblvW.jpg
+genre:
+- animation
+topics:
+- animation

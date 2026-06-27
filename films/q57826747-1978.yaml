@@ -18,3 +18,7 @@ composer:
 studio:
 - animafilm
 - studiya-dlya-animatsionnykh-filmov-defa
+genre:
+- animation
+topics:
+- animation

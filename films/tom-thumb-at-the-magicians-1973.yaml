@@ -23,3 +23,7 @@ composer:
 studio:
 - bratislava-film-studios
 backdrop_tmdb_path: /AmRTkpp9CzzxVBW6NgeeXJkffhM.jpg
+genre:
+- animation
+topics:
+- animation

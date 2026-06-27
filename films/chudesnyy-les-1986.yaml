@@ -1,0 +1,26 @@
+id: chudesnyy-les-1986
+title_ru: Чудесный лес
+title_original: Чудесный лес
+year: 1986
+country:
+- YU
+genre:
+- animation
+topics:
+- animation
+runtime_min: 83
+external_ids:
+  wikidata: Q1089672
+  imdb: tt0268282
+sources:
+- https://www.wikidata.org/wiki/Q1089672
+schema_version: 1
+director:
+- milan-blazhekovich
+screenwriter:
+- skrinjaric-suncana
+composer:
+- dedich-arsen
+- zhivan-tsvitkovich
+studio:
+- kroatiya-film

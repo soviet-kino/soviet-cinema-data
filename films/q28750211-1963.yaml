@@ -19,3 +19,7 @@ composer:
 - belai-istvan
 poster_tmdb_path: /r5nbjHfmUgNq5zFtCK8zEmMbpkC.jpg
 backdrop_tmdb_path: /dcK8MlY56hD8VUiK4YMhAiqrvBj.jpg
+genre:
+- animation
+topics:
+- animation

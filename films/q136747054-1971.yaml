@@ -23,3 +23,7 @@ composer:
 - schlotter-gert
 poster_tmdb_path: /jXSOTtzjxgYRZfSx0hDTYO2sV11.jpg
 backdrop_tmdb_path: /vcWs825wp02nf0ur2m2PcnspQ9x.jpg
+genre:
+- animation
+topics:
+- animation

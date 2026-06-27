@@ -20,3 +20,7 @@ composer:
 - lishka-zdenek
 poster_tmdb_path: /kCLYKbavYgmpBs4VpBNofuc2lmx.jpg
 backdrop_tmdb_path: /iEK2W3eu6b95fIuedbjcqw0DxAV.jpg
+genre:
+- animation
+topics:
+- animation

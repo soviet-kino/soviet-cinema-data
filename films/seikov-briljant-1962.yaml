@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 screenwriter:
 - tadey-vladimir
+genre:
+- animation
+topics:
+- animation

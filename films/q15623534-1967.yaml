@@ -22,3 +22,7 @@ composer:
 studio:
 - vsemirnaya-organizatsiya-zdravookhraneniya
 - pannoniya
+genre:
+- animation
+topics:
+- animation

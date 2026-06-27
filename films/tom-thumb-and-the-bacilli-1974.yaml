@@ -20,3 +20,7 @@ composer:
 - lexmann-juraj
 studio:
 - bratislava-film-studios
+genre:
+- animation
+topics:
+- animation

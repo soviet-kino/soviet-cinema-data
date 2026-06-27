@@ -21,3 +21,7 @@ composer:
 - depolo-ozren
 studio:
 - zagreb-film
+genre:
+- animation
+topics:
+- animation

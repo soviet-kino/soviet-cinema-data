@@ -20,3 +20,7 @@ composer:
 - illin-evzhen
 studio:
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

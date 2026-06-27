@@ -12,3 +12,7 @@ sources:
 schema_version: 1
 director:
 - vajda-bela
+genre:
+- animation
+topics:
+- animation

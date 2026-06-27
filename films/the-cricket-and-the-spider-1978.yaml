@@ -24,3 +24,7 @@ composer:
 studio:
 - vdr
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

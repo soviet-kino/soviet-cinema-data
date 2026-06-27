@@ -25,3 +25,7 @@ studio:
 - jiri-trnka-studio
 poster_tmdb_path: /AwcgqAjh5E7KtIF9afSKFI1NzEh.jpg
 backdrop_tmdb_path: /pyqt7xOU4xrw17SNsJOYzcvcbhm.jpg
+genre:
+- animation
+topics:
+- animation

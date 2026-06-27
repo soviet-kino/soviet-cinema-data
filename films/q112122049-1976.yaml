@@ -21,3 +21,7 @@ composer:
 studio:
 - zagreb-film
 poster_tmdb_path: /8LOFnC3OwNAmLhhRfDGwqead74K.jpg
+genre:
+- animation
+topics:
+- animation

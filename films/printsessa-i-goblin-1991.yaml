@@ -18,3 +18,7 @@ composer:
 - lerch-istvan
 poster_tmdb_path: /gWXeEzpOavcmv1Ca8sjqkorfuIO.jpg
 backdrop_tmdb_path: /x1XWqlbmfSrOPiZ81An6MFjO3Aq.jpg
+genre:
+- animation
+topics:
+- animation

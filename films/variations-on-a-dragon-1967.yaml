@@ -14,3 +14,7 @@ schema_version: 1
 director:
 - dargai-attila
 poster_tmdb_path: /ro96o6EPFF4O5mUH8jLsusiewfE.jpg
+genre:
+- animation
+topics:
+- animation

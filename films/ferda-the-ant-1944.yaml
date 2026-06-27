@@ -26,3 +26,7 @@ composer:
 studio:
 - filmove-ateliery-bata
 poster_tmdb_path: /89VDb90jHQ2yIvpHDVEmJ7gF5Hs.jpg
+genre:
+- animation
+topics:
+- animation

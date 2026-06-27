@@ -26,3 +26,7 @@ studio:
 - studiya-risovannykh-filmov
 poster_tmdb_path: /rDAjISp1gQdWuJflHCSmjgkhFzd.jpg
 backdrop_tmdb_path: /5JqIxEvw9FEAd2FMxKfifWJokm7.jpg
+genre:
+- animation
+topics:
+- animation

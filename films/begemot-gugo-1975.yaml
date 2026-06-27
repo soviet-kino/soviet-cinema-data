@@ -18,3 +18,7 @@ composer:
 - keyes-bert
 poster_tmdb_path: /qnowVmCXv2mZ9PcZHz5truzB1RJ.jpg
 backdrop_tmdb_path: /noS9iJjkDnlkfocAnfBIXyYOeCD.jpg
+genre:
+- animation
+topics:
+- animation

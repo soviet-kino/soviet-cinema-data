@@ -24,3 +24,7 @@ composer:
 - pozegga-gans
 studio:
 - viba-film
+genre:
+- animation
+topics:
+- animation

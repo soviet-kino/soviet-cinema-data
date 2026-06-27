@@ -9,3 +9,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q15945812
 schema_version: 1
+genre:
+- animation
+topics:
+- animation

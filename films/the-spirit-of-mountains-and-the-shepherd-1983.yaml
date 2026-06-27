@@ -23,3 +23,7 @@ composer:
 studio:
 - kratky-film-praha
 - studiya-dlya-animatsionnykh-filmov-defa
+genre:
+- animation
+topics:
+- animation

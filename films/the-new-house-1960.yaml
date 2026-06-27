@@ -22,3 +22,7 @@ composer:
 studio:
 - se-ma-for
 poster_tmdb_path: /bcbT5u59cVGez6d2sXVuVu5XHzC.jpg
+genre:
+- animation
+topics:
+- animation

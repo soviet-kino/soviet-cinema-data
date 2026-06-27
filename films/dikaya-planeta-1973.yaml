@@ -26,3 +26,7 @@ composer:
 - gorage-alen
 poster_tmdb_path: /9AVCwQzDh4pb2EUP4OpkNEGNh7q.jpg
 backdrop_tmdb_path: /AwrqoanoZVYoc0MRyE0RiHEKm71.jpg
+genre:
+- animation
+topics:
+- animation

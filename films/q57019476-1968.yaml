@@ -22,3 +22,7 @@ composer:
 - bazant-jiri
 studio:
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

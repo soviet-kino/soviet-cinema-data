@@ -14,3 +14,7 @@ schema_version: 1
 director:
 - hempel-jan
 poster_tmdb_path: /xTmffTZvJBPPVj9RIMCJSUIrmqe.jpg
+genre:
+- animation
+topics:
+- animation

@@ -23,3 +23,7 @@ sources:
 - https://www.wikidata.org/wiki/Q57314309
 schema_version: 1
 poster_tmdb_path: /wU0m2IS9zWPHkespvjmtw7bOxE5.jpg
+genre:
+- animation
+topics:
+- animation

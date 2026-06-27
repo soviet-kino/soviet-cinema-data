@@ -22,3 +22,7 @@ composer:
 - belfin-frantisek
 poster_tmdb_path: /9kwA0mlVi47VaKKREHS5I58emI6.jpg
 backdrop_tmdb_path: /nSIrVPrBszqAiAUgxXbUTqVn7WL.jpg
+genre:
+- animation
+topics:
+- animation

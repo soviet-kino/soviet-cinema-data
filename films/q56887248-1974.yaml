@@ -22,3 +22,7 @@ composer:
 - lishka-zdenek
 studio:
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

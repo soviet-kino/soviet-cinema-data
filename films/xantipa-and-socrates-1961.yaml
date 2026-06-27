@@ -22,3 +22,7 @@ composer:
 - illin-evzhen
 studio:
 - jiri-trnka-studio
+genre:
+- animation
+topics:
+- animation

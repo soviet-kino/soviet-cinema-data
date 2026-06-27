@@ -24,3 +24,7 @@ composer:
 studio:
 - televidenie-v-chekhoslovakii
 backdrop_tmdb_path: /lrdQUvoWx2OHicVDCa9h4E0dix9.jpg
+genre:
+- animation
+topics:
+- animation

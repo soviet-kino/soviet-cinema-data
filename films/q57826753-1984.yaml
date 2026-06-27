@@ -18,3 +18,7 @@ composer:
 studio:
 - nyu-boyana-film-studios
 - studiya-dlya-animatsionnykh-filmov-defa
+genre:
+- animation
+topics:
+- animation

@@ -21,3 +21,7 @@ composer:
 - predrag-vranesevich
 studio:
 - dunav-film
+genre:
+- animation
+topics:
+- animation

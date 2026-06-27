@@ -17,3 +17,7 @@ composer:
 - orf-karl
 poster_tmdb_path: /ulczVFAbmfVaTyNA3qjF1a0qdRI.jpg
 backdrop_tmdb_path: /14O4P3UdpEnax6M4HuiZh35cWHp.jpg
+genre:
+- animation
+topics:
+- animation

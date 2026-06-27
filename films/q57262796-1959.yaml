@@ -23,3 +23,7 @@ composer:
 studio:
 - televidenie-v-chekhoslovakii
 poster_tmdb_path: /6lEN8ydpuwG6TvbJaTJqtlt0G7U.jpg
+genre:
+- animation
+topics:
+- animation

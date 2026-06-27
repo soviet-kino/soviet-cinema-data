@@ -14,3 +14,7 @@ sources:
 schema_version: 1
 director:
 - sazhtinyak-borislav
+genre:
+- animation
+topics:
+- animation

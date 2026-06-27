@@ -24,3 +24,7 @@ studio:
 - bratislava-film-studios
 poster_tmdb_path: /4SpWmvTiCWWkD6AIHKXAeiddtHO.jpg
 backdrop_tmdb_path: /jtYVZIWWWLpP1CeReQdU2z8bWQo.jpg
+genre:
+- animation
+topics:
+- animation

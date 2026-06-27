@@ -24,3 +24,7 @@ composer:
 studio:
 - kinostudiya-gotvaldova
 poster_tmdb_path: /cBIoY9QXkEmplJKTMRPQJETAdOA.jpg
+genre:
+- animation
+topics:
+- animation

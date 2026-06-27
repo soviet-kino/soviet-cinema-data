@@ -23,3 +23,7 @@ composer:
 - sikola-zdenek
 poster_tmdb_path: /fatPBJvczQOn0NosTMYTJZQ86qW.jpg
 backdrop_tmdb_path: /nzbFxfru7L8L135kxzglAGhW6PQ.jpg
+genre:
+- animation
+topics:
+- animation

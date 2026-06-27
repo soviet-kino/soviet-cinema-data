@@ -21,3 +21,7 @@ composer:
 - stivin-irzhi
 studio:
 - bratislava-film-studios
+genre:
+- animation
+topics:
+- animation

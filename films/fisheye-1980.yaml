@@ -22,3 +22,7 @@ studio:
 - zagreb-film
 poster_tmdb_path: /e5z20ARlsR6twqYrDeZH78UCnkD.jpg
 backdrop_tmdb_path: /3C55tD7mhojozawtuwXObZCJGTf.jpg
+genre:
+- animation
+topics:
+- animation

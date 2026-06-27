@@ -19,3 +19,7 @@ composer:
 - etvyosh-peter
 poster_tmdb_path: /eOyJZrBFws8zxN05ekOoovbFPhV.jpg
 backdrop_tmdb_path: /2uQ9YKhZpbpQA2D1bJ2rlOIrx1G.jpg
+genre:
+- animation
+topics:
+- animation

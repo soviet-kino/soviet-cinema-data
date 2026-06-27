@@ -21,3 +21,7 @@ composer:
 studio:
 - organizatsiya-obedinyonnykh-natsiy
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

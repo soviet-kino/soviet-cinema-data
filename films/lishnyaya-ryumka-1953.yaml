@@ -24,3 +24,7 @@ composer:
 studio:
 - jiri-trnka-studio
 poster_tmdb_path: /rX9VNuF3izydR4T4z1MbrUanKid.jpg
+genre:
+- animation
+topics:
+- animation

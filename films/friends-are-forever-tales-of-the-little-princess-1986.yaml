@@ -19,3 +19,7 @@ composer:
 - kotsyuba-tadeush
 poster_tmdb_path: /rJtNoWH9WtfnZli1Py9aTuOBxde.jpg
 backdrop_tmdb_path: /4SdprSsJIchPpjQ9mXa0hziPEUY.jpg
+genre:
+- animation
+topics:
+- animation

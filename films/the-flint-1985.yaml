@@ -12,3 +12,7 @@ external_ids:
 sources:
 - https://www.wikidata.org/wiki/Q56870685
 schema_version: 1
+genre:
+- animation
+topics:
+- animation

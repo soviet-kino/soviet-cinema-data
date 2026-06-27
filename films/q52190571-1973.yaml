@@ -16,3 +16,7 @@ director:
 composer:
 - petkho-zholt
 poster_tmdb_path: /8wjTRm5V7OwOK7od1VQX5vx756Q.jpg
+genre:
+- animation
+topics:
+- animation

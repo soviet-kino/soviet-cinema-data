@@ -12,3 +12,7 @@ sources:
 - https://www.wikidata.org/wiki/Q23899719
 schema_version: 1
 poster_tmdb_path: /3ZzjbhJDZkaMSanUQmDFKb0ENVe.jpg
+genre:
+- animation
+topics:
+- animation

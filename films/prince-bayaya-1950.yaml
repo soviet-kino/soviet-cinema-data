@@ -26,3 +26,7 @@ composer:
 - troyan-vatslav
 poster_tmdb_path: /poi36BhrkauP4nQkKVxFOrATc2r.jpg
 backdrop_tmdb_path: /oPhVKXQgQLNy9TgokvEwo6ix06J.jpg
+genre:
+- animation
+topics:
+- animation

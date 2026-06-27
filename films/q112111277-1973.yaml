@@ -14,3 +14,7 @@ director:
 studio:
 - kratky-film-praha
 - studiya-multiplikatsionnogo-i-kukolnogo-kino-praga
+genre:
+- animation
+topics:
+- animation

@@ -20,3 +20,7 @@ composer:
 - kajfes-davor
 studio:
 - zagreb-film
+genre:
+- animation
+topics:
+- animation

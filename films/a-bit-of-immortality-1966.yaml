@@ -21,3 +21,7 @@ composer:
 studio:
 - pannoniya
 poster_tmdb_path: /kTaogcvT6XUhe2kY5UvXwCxoWVh.jpg
+genre:
+- animation
+topics:
+- animation

@@ -20,3 +20,7 @@ composer:
 - kvartic-miran
 studio:
 - triglav-film
+genre:
+- animation
+topics:
+- animation

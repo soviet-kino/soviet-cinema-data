@@ -20,3 +20,7 @@ composer:
 - kolafa-jiri
 studio:
 - jiri-trnka-studio
+genre:
+- animation
+topics:
+- animation

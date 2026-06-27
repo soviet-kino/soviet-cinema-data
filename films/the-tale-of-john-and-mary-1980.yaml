@@ -22,3 +22,7 @@ composer:
 - svoboda-karel
 poster_tmdb_path: /mIjQlnoHExlmVw2ibHi43ZMCf79.jpg
 backdrop_tmdb_path: /7lzTJvoGtVK4NBy3xRdqHo52noZ.jpg
+genre:
+- animation
+topics:
+- animation

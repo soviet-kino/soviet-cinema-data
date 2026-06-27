@@ -20,3 +20,7 @@ composer:
 - vatsek-milosh
 studio:
 - kratky-film-praha
+genre:
+- animation
+topics:
+- animation

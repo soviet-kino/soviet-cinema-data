@@ -22,3 +22,7 @@ composer:
 - kotonskiy-vlodzimezh
 backdrop_tmdb_path: /g2Gt5LuyNH1iNf4itsD08fGunws.jpg
 poster_tmdb_path: /rgCM1P1vedGAMLRf8lO1oGO8FO1.jpg
+genre:
+- animation
+topics:
+- animation

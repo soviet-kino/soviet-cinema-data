@@ -21,3 +21,7 @@ composer:
 - gavelka-svatopluk
 studio:
 - jiri-trnka-studio
+genre:
+- animation
+topics:
+- animation

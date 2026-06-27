@@ -17,3 +17,7 @@ director:
 composer:
 - petrov-vadim
 poster_tmdb_path: /xCRZHP0EOxHqLP9AuGDDCgx6OW3.jpg
+genre:
+- animation
+topics:
+- animation

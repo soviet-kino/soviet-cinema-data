@@ -24,3 +24,7 @@ composer:
 studio:
 - jiri-trnka-a-bratri-v-triku
 poster_tmdb_path: /tqcrg4RQPzI35EqHOZzAw3YTHTm.jpg
+genre:
+- animation
+topics:
+- animation
